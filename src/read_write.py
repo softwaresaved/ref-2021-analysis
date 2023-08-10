@@ -1,12 +1,13 @@
 import pandas as pd
 
 
-def import_excel(path="../data/raw/REF-2021-Submissions-All-2022-07-27.xlsx", 
+def import_excel(path="../data/raw/REF-2021-Submissions-All-2022-07-27.xlsx",
                  verbose=False):
     """ Import the REF 2021 results Excel file.
     Args:
-        path (str): path to the Excel file, default '../data/raw/REF-2021-Results-All-2022-05-06.xlsx'
-        verbose (bool): default False   
+        path (str): path to the Excel file,
+             default '../data/raw/REF-2021-Results-All-2022-05-06.xlsx'
+        verbose (bool): default False
     Returns:
         dobj (pd.ExcelFile): Excel file object
     """
