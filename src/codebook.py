@@ -8,6 +8,7 @@ COL_INST_CODE = 'Institution UKPRN code'
 COL_INST_NAME = 'Institution name'
 COL_RG_CODE = 'Research group code'
 COL_RG_NAME = 'Research group name'
+COL_OPEN_ACCESS = 'Open access status'
 
 PANEL_NAMES = {
     "A": "Medicine, health and life sciences",

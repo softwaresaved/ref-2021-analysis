@@ -3,6 +3,19 @@
 ## Explore the `Outputs` table
 
     Read ../data/raw/extracted/Outputs.csv
+    
+    Records: 185354
+                                               Records
+    Open access status                                
+    Compliant                                    85913
+    Out of scope for open access requirements    58482
+    PP added - not specified                     24174
+    Technical exception                           4879
+    Deposit exception                             4748
+    Exception within 3 months of publication      2581
+    Not compliant                                 2401
+    Access exception                              1166
+    Other exception                               1010
 
 
 ## Explore the `ResearchGroups` table
