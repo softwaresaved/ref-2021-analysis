@@ -1,13 +1,22 @@
 """ Codebook for REF 2021 data """
 
-panel_names = {
+COL_PANEL_CODE = 'Main panel'
+COL_PANEL_NAME = 'Main panel name'
+COL_UOA_NUMBER = 'Unit of assessment number'
+COL_UOA_NAME = 'Unit of assessment name'
+COL_INST_CODE = 'Institution UKPRN code'
+COL_INST_NAME = 'Institution name'
+COL_RG_CODE = 'Research group code'
+COL_RG_NAME = 'Research group name'
+
+PANEL_NAMES = {
     "A": "Medicine, health and life sciences",
     "B": "Physical sciences, engineering and mathematics",
     "C": "Social sciences",
     "D": "Arts and humanities"
 }
 
-uoa_names = {
+UOA_NAMES = {
     1: 'Clinical Medicine',
     2: 'Public Health, Health Services and Primary Care',
     3: 'Allied Health Professions, Dentistry, Nursing and Pharmacy',
