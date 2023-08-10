@@ -1,3 +1,3 @@
 # Analysis of REF 2021 submissions
 
-Data source: https://results2021.ref.ac.uk/ (accessed 2023-08-10
+Data source: https://results2021.ref.ac.uk/ (accessed 2023-08-10)
