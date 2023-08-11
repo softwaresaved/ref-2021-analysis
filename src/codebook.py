@@ -1,15 +1,24 @@
 """ Codebook for REF 2021 data """
 
+# about the ref process
 COL_PANEL_CODE = 'Main panel'
 COL_PANEL_NAME = 'Main panel name'
 COL_UOA_NUMBER = 'Unit of assessment number'
 COL_UOA_NAME = 'Unit of assessment name'
+# about the institution etc
 COL_INST_CODE = 'Institution UKPRN code'
 COL_INST_NAME = 'Institution name'
 COL_RG_CODE = 'Research group code'
 COL_RG_NAME = 'Research group name'
+# about the output
+COL_OUTPUT_TYPE_CODE = 'Output type'
+COL_OUTPUT_TYPE_NAME = 'Output type name'
 COL_OPEN_ACCESS = 'Open access status'
 
+# value to add if no entry in the data
+VALUE_ADDED_NOT_SPECIFIED = 'Not specified - PP ADDED'
+
+# source: website
 PANEL_NAMES = {
     "A": "Medicine, health and life sciences",
     "B": "Physical sciences, engineering and mathematics",
@@ -17,6 +26,7 @@ PANEL_NAMES = {
     "D": "Arts and humanities"
 }
 
+# source: https://results2021.ref.ac.uk/filters/unit-of-assessment
 UOA_NAMES = {
     1: 'Clinical Medicine',
     2: 'Public Health, Health Services and Primary Care',
@@ -52,4 +62,29 @@ UOA_NAMES = {
     32: 'Art and Design: History, Practice and Theory',
     33: 'Music, Drama, Dance, Performing Arts, Film and Screen Studies',
     34: 'Communication, Cultural and Media Studies, Library and Information Management'
+}
+
+# source: https://results2021.ref.ac.uk/outputs
+OUTPUT_TYPE_NAMES = {
+    'A': 'Authored book',
+    'B': 'Edited book',
+    'C': 'Chapter in book',
+    'D': 'Journal article',
+    'E': 'Conference contribution',
+    'F': 'Patent/ published patent application',
+    'G': 'Software',
+    'H': 'Website content',
+    'I': 'Performance',
+    'J': 'Composition',
+    'K': 'Design',
+    'L': 'Artefact',
+    'M': 'Exhibition',
+    'N': 'Research report for external body',
+    'P': 'Devices and products',
+    'Q': 'Digital or visual media',
+    'R': 'Scholarly edition',
+    'S': 'Research data sets and databases',
+    'T': 'Other',
+    'U': 'Working paper',
+    'V': 'Translation'
 }

@@ -3,36 +3,89 @@
 ## Explore the `Outputs` table
 
     Read ../data/raw/extracted/Outputs.csv
+    Preprocessed to 
+    - replace missing values with Not specified - PP ADDED
     
-    Records: 185354
-                                               Records
-    Open access status                                
-    Compliant                                    85913
-    Out of scope for open access requirements    58482
-    PP added - not specified                     24174
-    Technical exception                           4879
-    Deposit exception                             4748
-    Exception within 3 months of publication      2581
-    Not compliant                                 2401
-    Access exception                              1166
-    Other exception                               1010
+    Records      : 185354
+    Institutions : 158
+    Output types : 21
+    Panels       : 4
+    UOA          : 35
+    
+    All records
+    -----------
+    Output type name
+                                          Records  Records (%)
+    Output type name                                          
+    Journal article                        154826    83.529894
+    Authored book                           11801     6.366736
+    Chapter in book                          9475     5.111840
+    Conference contribution                  2272     1.225763
+    Edited book                              2135     1.151850
+    Other                                    1146     0.618276
+    Exhibition                                751     0.405171
+    Research report for external body         431     0.232528
+    Composition                               430     0.231989
+    Working paper                             390     0.210408
+    Artefact                                  378     0.203934
+    Digital or visual media                   360     0.194223
+    Scholarly edition                         329     0.177498
+    Performance                               312     0.168327
+    Design                                    119     0.064201
+    Website content                            67     0.036147
+    Translation                                38     0.020501
+    Patent/ published patent application       37     0.019962
+    Research data sets and databases           31     0.016725
+    Devices and products                       14     0.007553
+    Software                                   11     0.005935
+
+
+
+    
+![png](study_files/study_3_1.png)
+    
+
+
+    
+    Records without
+    ['Journal article', 'Authored book', 'Chapter in book', 'Edited book', 'Conference contribution', 'Working paper', 'Research report for external body', 'Other', 'Not specified - PP ADDED']
+    
+    Output type name
+                                          Records  Records (%)
+    Output type name                                          
+    Exhibition                                751    26.094510
+    Composition                               430    14.940931
+    Artefact                                  378    13.134121
+    Digital or visual media                   360    12.508687
+    Scholarly edition                         329    11.431550
+    Performance                               312    10.840862
+    Design                                    119     4.134816
+    Website content                            67     2.328006
+    Translation                                38     1.320361
+    Patent/ published patent application       37     1.285615
+    Research data sets and databases           31     1.077137
+    Devices and products                       14     0.486449
+    Software                                   11     0.382210
+
+
+
+    
+![png](study_files/study_3_3.png)
+    
 
 
 ## Explore the `ResearchGroups` table
 
     Read ../data/raw/extracted/ResearchGroups.csv
-    
-    Processed the data to
-    - drop ['Multiple submission letter', 'Multiple submission name', 'Joint submission']
-    
-    Data validated : True
+    Preprocessed to 
+    - replace missing values with Not specified - PP ADDED
     
     Records      : 2036
+    Institutions : 83
+    RGs          : 1788
+    RG types     : 32
     Panels       : 4
     UOA          : 34
-    RG types     : 32
-    Institutions : 83
-    RG groups    : 1788
     
     Submissions by panel split by UOA
     ---------------------------------
