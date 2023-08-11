@@ -4,7 +4,7 @@
 
     Read ../data/raw/extracted/Outputs.csv
     Preprocessed to 
-    - replace missing values with Not specified - PP ADDED
+    - replace missing values with 'Not specified - PP ADDED'
     
     Records      : 185354
     Institutions : 158
@@ -72,6 +72,21 @@
     
 ![png](study_files/study_3_3.png)
     
+
+
+                                                                   Main panel name                       Unit of assessment name                                                                                                              Title
+    Institution name                                                                                                                                                                                                                               
+    University of Ulster                                       Arts and humanities  Art and Design: History, Practice and Theory                                                                                                    axial3d Insight
+    Leeds Beckett University                                   Arts and humanities  Art and Design: History, Practice and Theory                                                                                                               CAGD
+    University College London                                      Social sciences                                     Education                               EPPI-Reviewer: advanced software for systematic reviews, maps and evidence synthesis
+    University of Exeter                                       Arts and humanities              Modern Languages and Linguistics                                                                                                    Hidden Florence
+    The University of Manchester    Physical sciences, engineering and mathematics              Computer Science and Informatics                                                    JBMC: A Bounded Model Checking Tool for Verifying Java Bytecode
+    University of Edinburgh         Physical sciences, engineering and mathematics              Computer Science and Informatics                                                                                 Met Office NERC Cloud model (MONC)
+    Heriot-Watt University                                         Social sciences               Business and Management Studies  PDSLASSO & LASSOPACK : Stata module for post-selection and post-regularization OLS or IV estimation and inference
+    University College London                                      Social sciences                                   Archaeology                                                   RCarbon: Methods for calibrating and analysing radiocarbon dates
+    University of Exeter                                       Arts and humanities                                      Classics                                                                              Recogito Semantic Annotation platform
+    University of Cambridge                                    Arts and humanities  Art and Design: History, Practice and Theory                                                             The Portable Antiquities Scheme's Database source code
+    University of the Arts, London                             Arts and humanities  Art and Design: History, Practice and Theory                                                                                                      Wekinator 2.0
 
 
 ## Explore the `ResearchGroups` table
