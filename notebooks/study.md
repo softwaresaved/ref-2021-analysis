@@ -47,25 +47,16 @@
 
 
     
-    Records without
-    ['Journal article', 'Authored book', 'Chapter in book', 'Edited book', 'Conference contribution', 'Working paper', 'Research report for external body', 'Other', 'Not specified - PP ADDED']
+    Records in categories
+    ['Research data sets and databases', 'Devices and products', 'Patent/ published patent application', 'Software']
     
     Output type name
                                           Records  Records (%)
     Output type name                                          
-    Exhibition                                751    26.094510
-    Composition                               430    14.940931
-    Artefact                                  378    13.134121
-    Digital or visual media                   360    12.508687
-    Scholarly edition                         329    11.431550
-    Performance                               312    10.840862
-    Design                                    119     4.134816
-    Website content                            67     2.328006
-    Translation                                38     1.320361
-    Patent/ published patent application       37     1.285615
-    Research data sets and databases           31     1.077137
-    Devices and products                       14     0.486449
-    Software                                   11     0.382210
+    Patent/ published patent application       37    39.784946
+    Research data sets and databases           31    33.333333
+    Devices and products                       14    15.053763
+    Software                                   11    11.827957
 
 
 

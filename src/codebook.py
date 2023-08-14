@@ -14,8 +14,8 @@ COL_RG_NAME = 'Research group name'
 COL_OUTPUT_TYPE_CODE = 'Output type'
 COL_OUTPUT_TYPE_NAME = 'Output type name'
 COL_OPEN_ACCESS = 'Open access status'
-
 COL_OUTPUT_TITLE = 'Title'
+COL_OUTPUT_SUPP = 'Supplementary information'
 
 # value to add if no entry in the data
 VALUE_ADDED_NOT_SPECIFIED = 'Not specified - PP ADDED'
