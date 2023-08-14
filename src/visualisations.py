@@ -49,3 +49,20 @@ def calculate_and_visualise_counts(dset,
         # set the figure size
         plt.gcf().set_size_inches(figure_size)
         plt.show()
+
+
+def align_left(dset):
+    """ Align the text in the dataframe to the left.
+
+    Args:
+        dset (pandas.DataFrame): The dataset to align.
+
+    Returns:
+        pandas.Styler: The aligned dataset.
+    """
+    
+    dset = dset.style.set_properties(**{'text-align': 'left'})
+    dset = dset.set_table_styles([dict(selector='th',
+                                  props=[('text-align', 'left')])])
+
+    return dset
