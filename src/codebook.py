@@ -18,6 +18,12 @@ COL_OUTPUT_TITLE = 'Title'
 COL_OUTPUT_SUPP = 'Supplementary information'
 # about the impact case studies
 COL_IMPACT_TITLE = 'Title'
+COL_IMPACT_SUMMARY = '1. Summary of the impact'
+COL_IMPACT_UNDERPIN_RESEARCH = '2. Underpinning research'
+COL_IMPACT_REFERENCES_RESEARCH = '3. References to the research'
+COL_IMPACT_DETAILS = '4. Details of the impact'
+COL_IMPACT_CORROBORATE = '5. Sources to corroborate the impact'
+
 
 # value to add if no entry in the data
 VALUE_ADDED_NOT_SPECIFIED = 'Not specified - PP ADDED'
