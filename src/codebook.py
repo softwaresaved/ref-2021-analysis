@@ -10,12 +10,14 @@ COL_INST_CODE = 'Institution UKPRN code'
 COL_INST_NAME = 'Institution name'
 COL_RG_CODE = 'Research group code'
 COL_RG_NAME = 'Research group name'
-# about the output
+# about the outputs
 COL_OUTPUT_TYPE_CODE = 'Output type'
 COL_OUTPUT_TYPE_NAME = 'Output type name'
 COL_OPEN_ACCESS = 'Open access status'
 COL_OUTPUT_TITLE = 'Title'
 COL_OUTPUT_SUPP = 'Supplementary information'
+# about the impact case studies
+COL_IMPACT_TITLE = 'Title'
 
 # value to add if no entry in the data
 VALUE_ADDED_NOT_SPECIFIED = 'Not specified - PP ADDED'

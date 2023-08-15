@@ -42,6 +42,21 @@
     Saved 'software' subset to ../data/processed/subsets/Outputs_software.csv
 
 
+## Explore the `ImpactCaseStudies` table
+
+    Read ../data/raw/extracted/ImpactCaseStudies.csv
+    Pre-processed dataset to 
+    - replace missing values with 'Not specified - PP ADDED'
+    - shift columns from title to the left
+    - add names to panels and output types
+    Saved pre-processed dataset to ../data/processed/extracted/ImpactCaseStudies_pprocessed.csv
+    
+    Records      : 6362
+    Institutions : 156
+    Panels       : 4
+    UOA          : 35
+
+
 ## Explore the `ResearchGroups` table
 
     Read ../data/raw/extracted/ResearchGroups.csv
