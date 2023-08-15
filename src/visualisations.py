@@ -31,7 +31,7 @@ def calculate_and_visualise_counts(dset,
     dset_stats.index.name = col
     nrecords = dset_stats[col_count].sum()
     if do_print:
-        print(col)
+        print()
         print(dset_stats.to_string())
 
     # plot horizontal barchart for the Records column
@@ -60,7 +60,7 @@ def align_left(dset):
     Returns:
         pandas.Styler: The aligned dataset.
     """
-    
+
     dset = dset.style.set_properties(**{'text-align': 'left'})
     dset = dset.set_table_styles([dict(selector='th',
                                   props=[('text-align', 'left')])])

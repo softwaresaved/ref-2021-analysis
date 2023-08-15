@@ -1,10 +1,13 @@
 import pandas as pd
 import codebook as cb
 
+# data paths
 DATA_PATH = "../data/"
 RAW_PATH = f"{DATA_PATH}raw/"
+PROCESSED_PATH = f"{DATA_PATH}processed/"
 RAW_EXTRACTED_PATH = f"{RAW_PATH}extracted/"
-PROCESSED_PATH = "{DATA_PATH}processed/"
+PROCESSSED_EXTRACTED_PATH = f"{PROCESSED_PATH}extracted/"
+PROCESSSED_SUBSETS_PATH = f"{PROCESSED_PATH}subsets/"
 
 
 def import_excel(fname="REF-2021-Submissions-All-2022-07-27.xlsx",
