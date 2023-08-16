@@ -1,13 +1,13 @@
-2023-08-16 14:14:22 Started preprocessing the data
-2023-08-16 14:14:23 Read data/raw/extracted/Outputs.csv: 185354 records
-2023-08-16 14:14:23 Preprocessing actions
-2023-08-16 14:14:23 - replace missing values with 'Not specified - PP ADDED'
-2023-08-16 14:14:23 - add columns for panel and output types names
-2023-08-16 14:14:27 Saved pre-processed dataset to data/processed/extracted/Outputs_pprocessed.csv
-2023-08-16 14:14:27 Saved 'software' subset to data/processed/subsets/Outputs_software.csv
-2023-08-16 14:14:28 Read data/raw/extracted/ImpactCaseStudies.csv: 6362 records
-2023-08-16 14:14:28 Preprocessing actions
-2023-08-16 14:14:28 - replace missing values with 'Not specified - PP ADDED'
-2023-08-16 14:14:30 - shift columns from title to the left to fix raw data issue 
-2023-08-16 14:14:30 - add column for panels names
-2023-08-16 14:14:32 Saved pre-processed dataset to data/processed/extracted/ImpactCaseStudies_pprocessed.csv
+2023-08-16 14:33:59 Started preprocessing the data
+2023-08-16 14:34:00 Read data/raw/extracted/Outputs.csv: 185354 records
+2023-08-16 14:34:00 Preprocessing actions
+2023-08-16 14:34:01 - replace missing values with 'Not specified - PP ADDED'
+2023-08-16 14:34:01 - add columns for panel and output types names
+2023-08-16 14:34:04 Saved pre-processed dataset to data/processed/extracted/Outputs_pprocessed.csv
+2023-08-16 14:34:05 Saved 'software' subset to data/processed/subsets/Outputs_software.csv
+2023-08-16 14:34:06 Read data/raw/extracted/ImpactCaseStudies.csv: 6362 records
+2023-08-16 14:34:06 Preprocessing actions
+2023-08-16 14:34:06 - replace missing values with 'Not specified - PP ADDED'
+2023-08-16 14:34:07 - shift columns from title to the left to fix raw data issue 
+2023-08-16 14:34:07 - add column for panels names
+2023-08-16 14:34:09 Saved pre-processed dataset to data/processed/extracted/ImpactCaseStudies_pprocessed.csv
