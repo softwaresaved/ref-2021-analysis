@@ -1,1 +1,0 @@
-python -c "from read_write import extract_sheets; extract_sheets()"
