@@ -2,4 +2,4 @@
 
 Data source: https://results2021.ref.ac.uk/ (accessed 2023-08-10)
 
-Preprocessing: [notebook](notebooks/PREPROCESS_data.ipynb), [md](notebooks/preprocess.md)
+Preliminary study: [notebook](notebooks/STUDY_data.ipynb), [md](notebooks/study.md)
