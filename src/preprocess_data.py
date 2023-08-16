@@ -97,7 +97,7 @@ def main():
     sys.stdout = buffer
 
     # process sheets
-    rw.create_folders()
+    # rw.create_folders()
     rw.print_tstamp(text)
     preprocess_outputs()
     preprocess_impacts()

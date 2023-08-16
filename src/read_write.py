@@ -28,12 +28,16 @@ def print_tstamp(text):
 def create_folders():
     """ Create the data folders if they do not exist.
     """
-
+    created_folder = False
     for path in [LOGS_PATH, RAW_EXTRACTED_PATH,
                  PROCESSSED_EXTRACTED_PATH, PROCESSSED_SUBSETS_PATH]:
         if not os.path.exists(path):
-            print_tstamp(f"Creating folder {path}")
             os.makedirs(os.path.join(PROJECT_PATH, path))
+            created_folder = True
+            print_tstamp(f"Created folder {path}")
+            
+    if not created_folder:
+        print_tstamp("All required folders already exist")
 
 
 def import_excel(fname="REF-2021-Submissions-All-2022-07-27.xlsx",

@@ -8,7 +8,7 @@ def main():
     """ Extracts sheets from excel file and saves them as csv files.
     """
 
-    text = "Started extracting sheets from excel file"
+    text = "Started extracting sheets from the excel file"
     print(text)
 
     # redirect stdout to a buffer
@@ -17,7 +17,7 @@ def main():
 
     # extract sheets
     rw.print_tstamp(text)
-    rw.create_folders()
+    # rw.create_folders()
     rw.extract_sheets(verbose=True)
 
     # restore stdout
