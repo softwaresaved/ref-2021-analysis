@@ -1,17 +1,17 @@
-## Preliminary study of the REF 2021 submissions data
+## Preprocessing of the REF 2021 submissions data
 
-## Explore the `Outputs` table
+## Preprocess the `Outputs` table
 
     Read ../data/raw/extracted/Outputs.csv
     Pre-processed dataset to 
-    - add names to panels and output types
     - replace missing values with 'Not specified - PP ADDED'
+    - add names to panels and output types
     Saved pre-processed dataset to ../data/processed/extracted/Outputs_pprocessed.csv
     
     Records      : 185354
     Institutions : 158
-    Output types : 22
-    Panels       : 5
+    Output types : 21
+    Panels       : 4
     UOA          : 35
     
                                           Records  Records (%)
@@ -37,17 +37,16 @@
     Research data sets and databases           31     0.016725
     Devices and products                       14     0.007553
     Software                                   11     0.005935
-    Not specified - PP ADDED                    1     0.000540
     
     Saved 'software' subset to ../data/processed/subsets/Outputs_software.csv
 
 
-## Explore the `ImpactCaseStudies` table
+## Preprocess the `ImpactCaseStudies` table
 
     Read ../data/raw/extracted/ImpactCaseStudies.csv
     Pre-processed dataset to 
     - replace missing values with 'Not specified - PP ADDED'
-    - shift columns from title to the left
+    - shift columns from title to the left to fix data issue
     - add names to panels and output types
     Saved pre-processed dataset to ../data/processed/extracted/ImpactCaseStudies_pprocessed.csv
     
@@ -57,12 +56,12 @@
     UOA          : 35
 
 
-## Explore the `ResearchGroups` table
+## Preprocess the `ResearchGroups` table
 
     Read ../data/raw/extracted/ResearchGroups.csv
     Pre-processed dataset to 
-    - add names to panels
     - replace missing values with 'Not specified - PP ADDED'
+    - add names to panels
     Saved pre-processed dataset to ../data/processed/extracted/ResearchGroups_pprocessed.csv
     
     Records      : 2036
