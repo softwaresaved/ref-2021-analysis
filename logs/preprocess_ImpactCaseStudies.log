@@ -1,0 +1,6 @@
+2023-08-17 17:08:14 Read data/processed/extracted/ImpactCaseStudies.xlsx: 6362 records
+2023-08-17 17:08:14 Preprocessing actions for {sname}
+2023-08-17 17:08:14 - replace missing values with 'Not specified - PP ADDED'
+2023-08-17 17:08:15 - shift columns from title to the left to fix raw data issue 
+2023-08-17 17:08:15 - add column for panels names
+2023-08-17 17:08:25 Saved pre-processed dataset to data/processed/extracted/ImpactCaseStudies_pprocessed.xlsx
