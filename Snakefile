@@ -1,9 +1,13 @@
+raw_fname = "data/raw/REF-2021-Submissions-All-2022-07-27.xlsx"
+sheets = ["Outputs", "ImpactCaseStudies"]
+
+
 rule all:
     input:
-        "data/raw/REF-2021-Submissions-All-2022-07-27.xlsx",
+        {raw_fname},
         "logs/setup_log.txt",
-        "logs/extract_Outputs_log.txt",
-        "logs/extract_ImpactCaseStudies_log.txt"
+        f"logs/extract_{sheets[0]}_log.txt",
+        f"logs/extract_{sheets[1]}_log.txt"
         
 rule setup:
     output:
@@ -15,14 +19,14 @@ rule extract_outputs:
     input:
         rules.setup.output,
     output:
-        "logs/extract_Outputs_log.txt"
+        f"logs/extract_{sheets[0]}_log.txt"
     shell:
-        "python src/extract_sheet.py -f {rules.all.input[0]} -s Outputs"
+        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[0]}"
 
 rule extract_impacts:
     input:
         rules.setup.output,
     output:
-        "logs/extract_ImpactCaseStudies_log.txt"
+        f"logs/extract_{sheets[1]}_log.txt"
     shell:
-        "python src/extract_sheet.py -f {rules.all.input[0]} -s ImpactCaseStudies"
+        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[1]}"
