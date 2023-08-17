@@ -98,3 +98,18 @@ OUTPUT_TYPE_NAMES = {
     'U': 'Working paper',
     'V': 'Translation'
 }
+
+TERMS_SOFTWARE_RELATED = [
+    'algorithm',
+    'computation',
+    'computational',
+    'computed',
+    'computer',
+    'computing',
+    'database',
+    'open-source',
+    'open source',
+    'software',
+    'supercomputer',
+    'supercomputing'
+]
