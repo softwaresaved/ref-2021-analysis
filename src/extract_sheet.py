@@ -17,27 +17,38 @@ def extract_sheet(fname, sname, header=4, index_col=None):
     """
 
     # redirect stdout to a buffer
+    # ---------------------------
     buffer = StringIO()
     sys.stdout = buffer
 
-    # read file, extract sheet and save as csv
+    # read the excel file
+    # -------------------
     rw.print_tstamp(f"Started extracting {sname} from {fname}")
     fpath = fname
     dobj = pd.ExcelFile(os.path.join(rw.PROJECT_PATH, fpath))
     rw.print_tstamp(f"Imported {fpath}")
+
+    # parse sheet
+    # -----------
     dset = dobj.parse(sname,
                       header=header,
                       index_col=index_col,
                       na_values=['NA'])
     rw.print_tstamp(f"Extracted {sname} sheet")
-    fpath = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv")
-    dset.to_csv(os.path.join(rw.PROJECT_PATH, fpath),
-                index=False)
+
+    # save dset to excel
+    # ------------------
+    fpath = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.xlsx")
+    dset.to_excel(os.path.join(rw.PROJECT_PATH, fpath),
+                  index=False)
     rw.print_tstamp(f"Saved {sname} sheet to {fpath}")
 
     # restore stdout
+    # --------------
     sys.stdout = sys.__stdout__
 
+    # save the log file
+    # -----------------
     fname = os.path.join(rw.LOGS_PATH, f"extract_{sname}.log")
     with open(os.path.join(rw.PROJECT_PATH, fname), 'w') as f:
         f.write(buffer.getvalue())

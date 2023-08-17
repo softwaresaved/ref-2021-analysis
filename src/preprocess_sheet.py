@@ -28,10 +28,11 @@ def preprocess_outputs(dset, sname="Outputs"):
     # select and save software outputs
     target_output_type = "Software"
     fsuffix = f"{target_output_type.lower()}"
-    fname = os.path.join(rw.PROCESSSED_SUBSETS_PATH, f"{sname}_{fsuffix}.csv")
-    dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type].to_csv(os.path.join(rw.PROJECT_PATH,
-                                                                     fname))
-    rw.print_tstamp(f"Saved '{fsuffix}' subset to {fname} sheet")
+    fname = os.path.join(rw.PROCESSSED_SUBSETS_PATH, f"{sname}_{fsuffix}.xlsx")
+    dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type].to_excel(os.path.join(rw.PROJECT_PATH,
+                                                                                    fname),
+                                                                       index=False)
+    rw.print_tstamp(f"Saved '{fsuffix}' subset to {fname}")
 
     return dset
 
@@ -82,10 +83,14 @@ def preprocess_sheet(sname):
 
     # read data
     # ---------
-    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv")
-    dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
-                       index_col=None,
-                       dtype={0: str})
+    # fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv")
+    # dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
+    #                    index_col=None,
+    #                    dtype={0: str})
+    # rw.print_tstamp(f"Read {fname}: {dset.shape[0]} records")
+
+    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.xlsx")
+    dset = pd.read_excel(os.path.join(rw.PROJECT_PATH, fname))
     rw.print_tstamp(f"Read {fname}: {dset.shape[0]} records")
 
     # run specific pre-processing
@@ -99,8 +104,9 @@ def preprocess_sheet(sname):
 
     # save the pre-processed data
     # ---------------------------
-    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}_pprocessed.csv")
-    dset.to_csv(os.path.join(rw.PROJECT_PATH, fname))
+    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}_pprocessed.xlsx")
+    dset.to_excel(os.path.join(rw.PROJECT_PATH, fname),
+                  index=False)
     rw.print_tstamp(f"Saved pre-processed dataset to {fname}")
 
     # restore stdout

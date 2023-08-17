@@ -7,7 +7,7 @@ rule all:
         {raw_fname},
         "logs/setup.log",
         f"logs/preprocess_{sheets[0]}.log",
-        f"logs/preprocess_{sheets[1]}.log"
+        # f"logs/preprocess_{sheets[1]}.log"
         
 rule setup:
     output:

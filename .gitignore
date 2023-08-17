@@ -1,5 +1,4 @@
 **/__pycache__/
 .snakemake/
 /venv/
-/data/raw/extracted/
 /data/processed/extracted/
