@@ -4,15 +4,15 @@ import os
 import read_write as rw
 
 
-def main():
-    text = "Started setting up"
-    print(text)
-
+def reset_folders():
+    """ Reset the data folders.
+    """
     # redirect stdout to a buffer
     buffer = StringIO()
     sys.stdout = buffer
 
-    # create folders
+    # reset folders
+    rw.clean_folders()
     rw.create_folders()
 
     # restore stdout
@@ -25,4 +25,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    reset_folders()
