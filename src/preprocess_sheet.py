@@ -1,3 +1,4 @@
+import argparse
 from io import StringIO
 import sys
 import os
@@ -8,19 +9,13 @@ import codebook as cb
 import preprocess as pp
 
 
-def preprocess_outputs():
+def preprocess_outputs(dset, sname="Outputs"):
     """ Preprocess the data from the Outputs sheet
     """
-    sname = "Outputs"
-    fname = os.path.join(rw.RAW_EXTRACTED_PATH, f"{sname}.csv")
-    dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
-                       index_col=None,
-                       dtype={0: str})
-    rw.print_tstamp(f"Read {fname}: {dset.shape[0]} records")
 
     # pre-processing
     # --------------
-    rw.print_tstamp("Preprocessing actions")
+    rw.print_tstamp(f"Pre-processing actions for {sname} sheet")
     dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
@@ -30,34 +25,24 @@ def preprocess_outputs():
     dset[cb.COL_OUTPUT_TYPE_NAME] = dset[cb.COL_OUTPUT_TYPE_CODE].map(cb.OUTPUT_TYPE_NAMES)
     rw.print_tstamp("- add columns for panel and output types names")
 
-    # save pre-processed data
-    # -----------------------
-    fname = os.path.join(rw.PROCESSSED_EXTRACTED_PATH, f"{sname}_pprocessed.csv")
-    dset.to_csv(os.path.join(rw.PROJECT_PATH, fname))
-    rw.print_tstamp(f"Saved pre-processed dataset to {fname}")
-
     # select and save software outputs
     target_output_type = "Software"
     fsuffix = f"{target_output_type.lower()}"
     fname = os.path.join(rw.PROCESSSED_SUBSETS_PATH, f"{sname}_{fsuffix}.csv")
     dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type].to_csv(os.path.join(rw.PROJECT_PATH,
                                                                      fname))
-    rw.print_tstamp(f"Saved '{fsuffix}' subset to {fname}")
+    rw.print_tstamp(f"Saved '{fsuffix}' subset to {fname} sheet")
+
+    return dset
 
 
-def preprocess_impacts():
+def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     """ Preprocess the data from the ImpactCaseStudies sheet
     """
-    sname = "ImpactCaseStudies"
-    fname = os.path.join(rw.RAW_EXTRACTED_PATH, f"{sname}.csv")
-    dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
-                       index_col=None,
-                       dtype={0: str})
-    rw.print_tstamp(f"Read {fname}: {dset.shape[0]} records")
 
     # pre-processing
     # --------------
-    rw.print_tstamp("Preprocessing actions")
+    rw.print_tstamp("Preprocessing actions for {sname}")
     dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
@@ -80,36 +65,65 @@ def preprocess_impacts():
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     rw.print_tstamp("- add column for panels names")
 
-    # save pre-processed data
-    # -----------------------
-    fname = os.path.join(rw.PROCESSSED_EXTRACTED_PATH, f"{sname}_pprocessed.csv")
-    dset.to_csv(os.path.join(rw.PROJECT_PATH, fname))
-    rw.print_tstamp(f"Saved pre-processed dataset to {fname}")
+    return dset
 
 
-def main():
+def preprocess_sheet(sname):
+    """ Preprocess a sheet from the raw data.
 
-    text = "Started preprocessing the data"
-    print(text)
+    Args:
+        sname (str): Name of the sheet to preprocess.
+    """
 
     # redirect stdout to a buffer
+    # ---------------------------
     buffer = StringIO()
     sys.stdout = buffer
 
-    # process sheets
-    # rw.create_folders()
-    rw.print_tstamp(text)
-    preprocess_outputs()
-    preprocess_impacts()
+    # read data
+    # ---------
+    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv")
+    dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
+                       index_col=None,
+                       dtype={0: str})
+    rw.print_tstamp(f"Read {fname}: {dset.shape[0]} records")
+
+    # run specific pre-processing
+    # ---------------------------
+    if sname == "Outputs":
+        preprocess_outputs(dset)
+    elif sname == "ImpactCaseStudies":
+        preprocess_impacts(dset)
+    else:
+        raise ValueError(f"Unknown sheet name: {sname}")
+
+    # save the pre-processed data
+    # ---------------------------
+    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}_pprocessed.csv")
+    dset.to_csv(os.path.join(rw.PROJECT_PATH, fname))
+    rw.print_tstamp(f"Saved pre-processed dataset to {fname}")
 
     # restore stdout
+    # --------------
     sys.stdout = sys.__stdout__
 
-    fname = os.path.join(rw.LOGS_PATH, 'preprocess_data_log.txt')
+    # save the log file
+    # -----------------
+    fname = os.path.join(rw.LOGS_PATH, f"preprocess_{sname}.log")
     with open(os.path.join(rw.PROJECT_PATH, fname), 'w') as f:
         f.write(buffer.getvalue())
     print(f"Log saved in {fname}")
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(
+        description="Extracts a sheet from an excel file and saves it as csv file."
+        )
+
+    parser.add_argument("-s", "--sheetname",
+                        required=True,
+                        help="name of the sheet to preprocess")
+
+    args = parser.parse_args()
+    sname = args.sheetname
+    preprocess_sheet(sname)

@@ -8,11 +8,11 @@ LOGS_PATH = "logs/"
 DATA_PATH = "data/"
 RAW_PATH = os.path.join(DATA_PATH, "raw/")
 PROCESSED_PATH = os.path.join(DATA_PATH, "processed/")
-PROCESSSED_EXTRACTED_PATH = os.path.join(PROCESSED_PATH, "extracted/")
+PROCESSED_EXTRACTED_PATH = os.path.join(PROCESSED_PATH, "extracted/")
 PROCESSSED_SUBSETS_PATH = os.path.join(PROCESSED_PATH, "subsets/")
 
 REQUIRED_FOLDERS = [LOGS_PATH,
-                    PROCESSSED_EXTRACTED_PATH,
+                    PROCESSED_EXTRACTED_PATH,
                     PROCESSSED_SUBSETS_PATH
                     ]
 

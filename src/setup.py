@@ -18,7 +18,7 @@ def reset_folders():
     # restore stdout
     sys.stdout = sys.__stdout__
 
-    fname = os.path.join(rw.LOGS_PATH, 'setup_log.txt')
+    fname = os.path.join(rw.LOGS_PATH, 'setup.log')
     with open(os.path.join(rw.PROJECT_PATH, fname), 'w') as f:
         f.write(buffer.getvalue())
     print(f"Log saved in {fname}")

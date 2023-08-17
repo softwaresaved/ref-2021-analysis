@@ -30,7 +30,7 @@ def extract_sheet(fname, sname, header=4, index_col=None):
                       index_col=index_col,
                       na_values=['NA'])
     rw.print_tstamp(f"Extracted {sname} sheet")
-    fpath = os.path.join(rw.PROCESSSED_EXTRACTED_PATH, f"{sname}.csv")
+    fpath = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv")
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fpath),
                 index=False)
     rw.print_tstamp(f"Saved {sname} sheet to {fpath}")
@@ -38,7 +38,7 @@ def extract_sheet(fname, sname, header=4, index_col=None):
     # restore stdout
     sys.stdout = sys.__stdout__
 
-    fname = os.path.join(rw.LOGS_PATH, f"extract_{sname}_log.txt")
+    fname = os.path.join(rw.LOGS_PATH, f"extract_{sname}.log")
     with open(os.path.join(rw.PROJECT_PATH, fname), 'w') as f:
         f.write(buffer.getvalue())
 
