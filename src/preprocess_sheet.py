@@ -15,15 +15,15 @@ def preprocess_outputs(dset, sname="Outputs"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"Pre-processing actions for {sname} sheet")
+    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
     dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     dset[cb.COL_OUTPUT_TYPE_NAME] = dset[cb.COL_OUTPUT_TYPE_CODE].map(cb.OUTPUT_TYPE_NAMES)
-    rw.print_tstamp("- add columns for panel and output types names")
+    rw.print_tstamp("- PPROC: add columns for panel and output types names")
 
     # select and save software outputs
     target_output_type = "Software"
@@ -34,7 +34,7 @@ def preprocess_outputs(dset, sname="Outputs"):
                                                                      index=False,
                                                                      compression='gzip')
 
-    rw.print_tstamp(f"Saved '{fsuffix}' subset to {fname}")
+    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}'")
 
     return dset
 
@@ -45,9 +45,9 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp("Preprocessing actions for {sname}")
+    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
     dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # shift columns from title to the left
     columns = dset.columns.tolist()
@@ -61,12 +61,12 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
                    cb.COL_IMPACT_CORROBORATE
                    ]:
         dset = pp.clean_markdown(dset, column)
-    rw.print_tstamp("- shift columns from title to the left to fix raw data issue ")
+    rw.print_tstamp("- PPROC: shift columns from title to the left to fix raw data issue ")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    rw.print_tstamp("- add column for panels names")
+    rw.print_tstamp("- PPROC: add column for panels names")
 
     return dset
 
@@ -89,9 +89,9 @@ def preprocess_sheet(sname):
     dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
                        index_col=None, 
                        dtype={0: str},
-                        compression='gzip'
+                       compression='gzip'
                        )
-    rw.print_tstamp(f"Read {fname}: {dset.shape[0]} records")
+    rw.print_tstamp(f"READ '{fname}': {dset.shape[0]} records")
 
     # run specific pre-processing
     # ---------------------------
@@ -108,7 +108,7 @@ def preprocess_sheet(sname):
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
                 index=False, 
                 compression='gzip')
-    rw.print_tstamp(f"Saved pre-processed dataset to {fname}")
+    rw.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
     # restore stdout
     # --------------
@@ -119,7 +119,6 @@ def preprocess_sheet(sname):
     fname = os.path.join(rw.LOGS_PATH, f"preprocess_{sname}.log")
     with open(os.path.join(rw.PROJECT_PATH, fname), 'w') as f:
         f.write(buffer.getvalue())
-    print(f"Log saved in {fname}")
 
 
 if __name__ == "__main__":

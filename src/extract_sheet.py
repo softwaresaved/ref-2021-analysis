@@ -23,10 +23,9 @@ def extract_sheet(fname, sname, header=4, index_col=None):
 
     # read the excel file
     # -------------------
-    rw.print_tstamp(f"Started extracting {sname} from {fname}")
     fpath = fname
     dobj = pd.ExcelFile(os.path.join(rw.PROJECT_PATH, fpath))
-    rw.print_tstamp(f"Imported {fpath}")
+    rw.print_tstamp(f"READ '{fpath}'")
 
     # parse sheet
     # -----------
@@ -34,7 +33,7 @@ def extract_sheet(fname, sname, header=4, index_col=None):
                       header=header,
                       index_col=index_col,
                       na_values=['NA'])
-    rw.print_tstamp(f"Extracted {sname} sheet")
+    rw.print_tstamp(f"EXTRACTED '{sname}' sheet")
 
     # save dset to compressed csv
     # ---------------------------
@@ -42,7 +41,7 @@ def extract_sheet(fname, sname, header=4, index_col=None):
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fpath),
                 index=False,
                 compression='gzip')
-    rw.print_tstamp(f"Saved {sname} sheet to {fpath}")
+    rw.print_tstamp(f"SAVED '{sname}' sheet to '{fpath}'")
 
     # restore stdout
     # --------------

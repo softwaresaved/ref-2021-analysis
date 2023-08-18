@@ -1,4 +1,3 @@
-2023-08-18 09:07:41 Started extracting Outputs from data/raw/REF-2021-Submissions-All-2022-07-27.xlsx
-2023-08-18 09:07:49 Imported data/raw/REF-2021-Submissions-All-2022-07-27.xlsx
-2023-08-18 09:08:27 Extracted Outputs sheet
-2023-08-18 09:08:33 Saved Outputs sheet to data/processed/extracted/Outputs.csv.gz
+[2023-08-18 10:04:25] READ 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+[2023-08-18 10:05:03] EXTRACTED 'Outputs' sheet
+[2023-08-18 10:05:08] SAVED 'Outputs' sheet to 'data/processed/extracted/Outputs.csv.gz'

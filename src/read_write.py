@@ -25,7 +25,7 @@ def print_tstamp(text):
     """
 
     now = datetime.datetime.now()
-    print(f"{now.strftime('%Y-%m-%d %H:%M:%S')} {text}")
+    print(f"[{now.strftime('%Y-%m-%d %H:%M:%S')}] {text}")
 
 
 def clean_folders():
@@ -36,10 +36,10 @@ def clean_folders():
         if os.path.exists(path):
             shutil.rmtree(os.path.join(PROJECT_PATH, path))
             cleaned_folder = True
-            print_tstamp(f"Deleted {path}")
+            print_tstamp(f"DELETED '{path}'")
 
     if not cleaned_folder:
-        print_tstamp("None of the required folders needed cleaning")
+        print_tstamp("None of the required folders need cleaning")
 
 
 def create_folders():
@@ -50,7 +50,7 @@ def create_folders():
         if not os.path.exists(path):
             os.makedirs(os.path.join(PROJECT_PATH, path))
             created_folder = True
-            print_tstamp(f"Created {path}")
+            print_tstamp(f"CREATED '{path}'")
 
     if not created_folder:
         print_tstamp("All required folders already exist")
