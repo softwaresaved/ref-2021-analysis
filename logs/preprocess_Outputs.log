@@ -1,6 +1,6 @@
-2023-08-17 17:12:43 Read data/processed/extracted/Outputs.xlsx: 185354 records
-2023-08-17 17:12:43 Pre-processing actions for Outputs sheet
-2023-08-17 17:12:43 - replace missing values with 'Not specified - PP ADDED'
-2023-08-17 17:12:43 - add columns for panel and output types names
-2023-08-17 17:12:43 Saved 'software' subset to data/processed/subsets/Outputs_software.xlsx
-2023-08-17 17:15:19 Saved pre-processed dataset to data/processed/extracted/Outputs_pprocessed.xlsx
+2023-08-18 09:08:34 Read data/processed/extracted/Outputs.csv.gz: 185354 records
+2023-08-18 09:08:34 Pre-processing actions for Outputs sheet
+2023-08-18 09:08:34 - replace missing values with 'Not specified - PP ADDED'
+2023-08-18 09:08:34 - add columns for panel and output types names
+2023-08-18 09:08:35 Saved 'software' subset to data/processed/subsets/Outputs_software.csv.gz
+2023-08-18 09:08:39 Saved pre-processed dataset to data/processed/extracted/Outputs_pprocessed.csv.gz

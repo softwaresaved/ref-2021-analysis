@@ -36,11 +36,12 @@ def extract_sheet(fname, sname, header=4, index_col=None):
                       na_values=['NA'])
     rw.print_tstamp(f"Extracted {sname} sheet")
 
-    # save dset to excel
-    # ------------------
-    fpath = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.xlsx")
-    dset.to_excel(os.path.join(rw.PROJECT_PATH, fpath),
-                  index=False)
+    # save dset to compressed csv
+    # ---------------------------
+    fpath = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv.gz")
+    dset.to_csv(os.path.join(rw.PROJECT_PATH, fpath),
+                index=False,
+                compression='gzip')
     rw.print_tstamp(f"Saved {sname} sheet to {fpath}")
 
     # restore stdout
