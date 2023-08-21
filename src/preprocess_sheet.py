@@ -29,8 +29,8 @@ def preprocess_outputs(dset, sname="Outputs"):
     target_output_type = "Software"
     fsuffix = f"{target_output_type.lower()}"
     fname = os.path.join(rw.PROCESSSED_SUBSETS_PATH, f"{sname}_{fsuffix}.csv.gz")
-    dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type].to_csv(os.path.join(rw.PROJECT_PATH,
-                                                                                    fname),
+    fpath = os.path.join(rw.PROJECT_PATH, fname)
+    dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type].to_csv(fpath,
                                                                      index=False,
                                                                      compression='gzip')
 
@@ -71,6 +71,24 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     return dset
 
 
+def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
+    """ Preprocess the data from the ResearchDoctoralDegreesAwarded sheet
+    """
+
+    # pre-processing
+    # --------------
+    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+
+    # assign names where we only have codes
+    # -------------------------------------
+    dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    rw.print_tstamp("- PPROC: add columns for panel names")
+
+    return dset
+
+
 def preprocess_sheet(sname):
     """ Preprocess a sheet from the raw data.
 
@@ -87,7 +105,7 @@ def preprocess_sheet(sname):
     # ---------
     fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv.gz")
     dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
-                       index_col=None, 
+                       index_col=None,
                        dtype={0: str},
                        compression='gzip'
                        )
@@ -99,6 +117,8 @@ def preprocess_sheet(sname):
         preprocess_outputs(dset)
     elif sname == "ImpactCaseStudies":
         preprocess_impacts(dset)
+    elif sname == "ResearchDoctoralDegreesAwarded":
+        preprocess_degrees(dset)
     else:
         raise ValueError(f"Unknown sheet name: {sname}")
 
@@ -106,7 +126,7 @@ def preprocess_sheet(sname):
     # ---------------------------
     fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}_pprocessed.csv.gz")
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
-                index=False, 
+                index=False,
                 compression='gzip')
     rw.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 

@@ -18,7 +18,7 @@ rule all:
         log_setup,
         f"{log_ppreprocess}{sheets[0]}{log_ext}",
         f"{log_ppreprocess}{sheets[1]}{log_ext}",
-        f"{log_extract}{sheets[2]}{log_ext}",
+        f"{log_ppreprocess}{sheets[2]}{log_ext}",
         f"{log_extract}{sheets[3]}{log_ext}",
         f"{log_extract}{sheets[4]}{log_ext}",
         f"{log_extract}{sheets[5]}{log_ext}"
@@ -75,13 +75,13 @@ rule extract_degrees:
     shell:
         f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[2]}"
 
-# rule preprocess_degrees:
-#     input:
-#         rules.extract_degrees.output,
-#     output:
-#         f"{log_ppreprocess}{sheets[2]}{log_ext}"
-#     shell:
-#         f"python src/preprocess_sheet.py -s {sheets[2]}"
+rule preprocess_degrees:
+    input:
+        rules.extract_degrees.output,
+    output:
+        f"{log_ppreprocess}{sheets[2]}{log_ext}"
+    shell:
+        f"python src/preprocess_sheet.py -s {sheets[2]}"
 
 # extract & preprocess RESEARCH INCOME
 # ------------------------------------
