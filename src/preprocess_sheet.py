@@ -16,7 +16,12 @@ def preprocess_outputs(dset, sname="Outputs"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    # drop empty rows
+    dset = dset.dropna(how='all')
+    rw.print_tstamp("- PPROC: drop empty rows")
+    # replace missing values in object columns
+    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
@@ -46,7 +51,12 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    # drop empty rows
+    dset = dset.dropna(how='all')
+    rw.print_tstamp("- PPROC: drop empty rows")
+    # replace missing values in object columns
+    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # shift columns from title to the left
@@ -78,7 +88,12 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    # drop empty rows
+    dset = dset.dropna(how='all')
+    rw.print_tstamp("- PPROC: drop empty rows")
+    # replace missing values in object columns
+    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
@@ -96,7 +111,12 @@ def preprocess_income(dset, sname="ResearchIncome"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    # drop empty rows
+    dset = dset.dropna(how='all')
+    rw.print_tstamp("- PPROC: drop empty rows")
+    # replace missing values in object columns
+    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
@@ -114,7 +134,12 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    # drop empty rows
+    dset = dset.dropna(how='all')
+    rw.print_tstamp("- PPROC: drop empty rows")
+    # replace missing values in object columns
+    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
@@ -132,7 +157,12 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    # drop empty rows
+    dset = dset.dropna(how='all')
+    rw.print_tstamp("- PPROC: drop empty rows")
+    # replace missing values in object columns
+    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
@@ -165,20 +195,21 @@ def preprocess_sheet(sname):
                        )
     rw.print_tstamp(f"READ '{infname}': {dset.shape[0]} records")
 
+
     # run specific pre-processing
     # ---------------------------
     if sname == "Outputs":
-        preprocess_outputs(dset)
+        dset = preprocess_outputs(dset)
     elif sname == "ImpactCaseStudies":
-        preprocess_impacts(dset)
+        dset = preprocess_impacts(dset)
     elif sname == "ResearchDoctoralDegreesAwarded":
-        preprocess_degrees(dset)
+        dset = preprocess_degrees(dset)
     elif sname == "ResearchIncome":
-        preprocess_income(dset)
+        dset = preprocess_income(dset)
     elif sname == "ResearchIncomeInKind":
-        preprocess_incomeinkind(dset)
+        dset = preprocess_incomeinkind(dset)
     elif sname == "ResearchGroups":
-        preprocess_rgroups(dset)
+        dset = preprocess_rgroups(dset)
     else:
         raise ValueError(f"Unknown sheet name: {sname}")
 

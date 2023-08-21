@@ -1,7 +1,8 @@
-[2023-08-21 15:01:12] READ 'data/processed/ImpactCaseStudies.csv.gz': 6362 records
-[2023-08-21 15:01:12] PPROC actions for 'ImpactCaseStudies' sheet
-[2023-08-21 15:01:12] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-21 15:01:14] - PPROC: shift columns from title to the left to fix raw data issue 
-[2023-08-21 15:01:14] - PPROC: add column for panels names
-[2023-08-21 15:01:23] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
-[2023-08-21 15:01:23] DELETED 'data/processed/ImpactCaseStudies.csv.gz'
+[2023-08-21 16:28:23] READ 'data/processed/ImpactCaseStudies.csv.gz': 6362 records
+[2023-08-21 16:28:23] PPROC actions for 'ImpactCaseStudies' sheet
+[2023-08-21 16:28:23] - PPROC: drop empty rows
+[2023-08-21 16:28:23] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-21 16:28:24] - PPROC: shift columns from title to the left to fix raw data issue 
+[2023-08-21 16:28:24] - PPROC: add column for panels names
+[2023-08-21 16:28:33] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
+[2023-08-21 16:28:33] DELETED 'data/processed/ImpactCaseStudies.csv.gz'
