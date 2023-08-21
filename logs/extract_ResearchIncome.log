@@ -1,0 +1,3 @@
+[2023-08-21 11:52:20] READ 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+[2023-08-21 11:52:23] EXTRACTED 'ResearchIncome' sheet
+[2023-08-21 11:52:23] SAVED 'ResearchIncome' sheet to 'data/processed/extracted/ResearchIncome.csv.gz'
