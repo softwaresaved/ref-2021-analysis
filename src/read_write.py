@@ -2,19 +2,74 @@ import os
 import shutil
 import datetime
 
+# logs
+LOG_PATH = "logs/"
+LOG_EXT = ".log"
+LOG_SETUP = os.path.join(LOG_PATH, f"setup{LOG_EXT}")
+LOG_EXTRACT = os.path.join(LOG_PATH, "extract_")
+LOG_PPREPROCESS = os.path.join(LOG_PATH, "preprocess_")
+
 # data paths
 PROJECT_PATH = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
-LOGS_PATH = "logs/"
 DATA_PATH = "data/"
 RAW_PATH = os.path.join(DATA_PATH, "raw/")
 PROCESSED_PATH = os.path.join(DATA_PATH, "processed/")
-PROCESSED_EXTRACTED_PATH = os.path.join(PROCESSED_PATH, "extracted/")
-PROCESSSED_SUBSETS_PATH = os.path.join(PROCESSED_PATH, "subsets/")
+SUBSETS_PATH = os.path.join(PROCESSED_PATH, "subsets/")
 
-REQUIRED_FOLDERS = [LOGS_PATH,
-                    PROCESSED_EXTRACTED_PATH,
-                    PROCESSSED_SUBSETS_PATH
+REQUIRED_FOLDERS = [LOG_PATH,
+                    PROCESSED_PATH,
+                    SUBSETS_PATH
                     ]
+
+# data files
+RAW_FNAME = f"{RAW_PATH}REF-2021-Submissions-All-2022-07-27.xlsx"
+SHEETS = ["Outputs", 
+          "ImpactCaseStudies",
+          "ResearchDoctoralDegreesAwarded",
+          "ResearchIncome", 
+          "ResearchIncomeInKind",
+          "ResearchGroups"]
+DATA_EXT = ".csv.gz"
+DATA_PPROCESS = "_ppreprocessed"
+
+# logs and output files
+# ---------------------
+# Outputs
+sheet = SHEETS[0]
+SHEET_OUTPUTS = sheet
+LOG_EXTRACT_OUTPUTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
+LOG_PPROC_OUTPUTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
+DATA_EXTRACT_OUTPUTS = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
+# ImpactCaseStudies
+sheet = SHEETS[1]
+SHEET_IMPACTS = sheet
+LOG_EXTRACT_IMPACTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
+LOG_PPROC_IMPACTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
+DATA_EXTRACT_IMPACTS = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
+# ResearchDoctoralDegreesAwarded
+sheet = SHEETS[2]
+SHEET_DEGREES = sheet
+LOG_EXTRACT_DEGREES = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
+LOG_PPROC_DEGREES = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
+DATA_EXTRACT_DEGREES = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
+# ResearchIncome
+sheet = SHEETS[3]
+SHEET_INCOME = sheet
+LOG_EXTRACT_INCOME = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
+LOG_PPROC_INCOME = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
+DATA_EXTRACT_INCOME = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
+# ResearchIncomeInKind
+sheet = SHEETS[4]
+SHEET_INCOMEINKIND = sheet
+LOG_EXTRACT_INCOMEINKIND = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
+LOG_PPROC_INCOMEINKIND = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
+DATA_EXTRACT_INCOMEINKIND = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
+# ResearchGroups
+sheet = SHEETS[5]
+SHEET_RGROUPS = sheet
+LOG_EXTRACT_RGROUPS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
+LOG_PPROC_RGROUPS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
+DATA_EXTRACT_RGROUPS = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
 
 
 def print_tstamp(text):

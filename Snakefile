@@ -1,31 +1,23 @@
-raw_fname = "data/raw/REF-2021-Submissions-All-2022-07-27.xlsx"
-log_folder = "logs/"
-log_ext = ".log"
-log_setup = f"{log_folder}setup{log_ext}"
-log_extract = f"{log_folder}extract_"
-log_ppreprocess = f"{log_folder}preprocess_"
-sheets = ["Outputs", 
-          "ImpactCaseStudies",
-          "ResearchDoctoralDegreesAwarded",
-          "ResearchIncome", 
-          "ResearchIncomeInKind",
-          "ResearchGroups"]
-
+# add src to PYTHONPATH
+# ---------------------
+import sys
+sys.path.append('src/')
+import read_write as rw
 
 rule all:
     input:
-        {raw_fname},
-        log_setup,
-        f"{log_ppreprocess}{sheets[0]}{log_ext}",
-        f"{log_ppreprocess}{sheets[1]}{log_ext}",
-        f"{log_ppreprocess}{sheets[2]}{log_ext}",
-        f"{log_ppreprocess}{sheets[3]}{log_ext}",
-        f"{log_ppreprocess}{sheets[4]}{log_ext}",
-        f"{log_ppreprocess}{sheets[5]}{log_ext}"
+        rw.RAW_FNAME,
+        rw.LOG_SETUP,
+        rw.LOG_PPROC_OUTPUTS,
+        rw.LOG_PPROC_IMPACTS,
+        rw.LOG_PPROC_DEGREES,
+        rw.LOG_PPROC_INCOME,
+        rw.LOG_PPROC_INCOMEINKIND,
+        rw.LOG_PPROC_RGROUPS
         
 rule setup:
     output:
-        log_setup
+        rw.LOG_SETUP
     shell:
         "python src/setup.py"
 
@@ -33,106 +25,112 @@ rule setup:
 # ----------------------------
 rule extract_outputs:
     input:
-        rules.setup.output,
+        rules.setup.output
     output:
-        f"{log_extract}{sheets[0]}{log_ext}"
+        rw.DATA_EXTRACT_OUTPUTS,
+        rw.LOG_EXTRACT_OUTPUTS
     shell:
-        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[0]}"
+        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_OUTPUTS}"
 
 rule preprocess_outputs:
     input:
-        rules.extract_outputs.output,
+        rules.extract_outputs.output
     output:
-        f"{log_ppreprocess}{sheets[0]}{log_ext}"
+        rw.LOG_PPROC_OUTPUTS
     shell:
-        f"python src/preprocess_sheet.py -s {sheets[0]}"
+        "python src/preprocess_sheet.py -s {rw.SHEET_OUTPUTS}"
 
 # extract & preprocess IMPACT CASE STUDIES
 # ----------------------------------------
 rule extract_impacts:
     input:
-        rules.setup.output,
+        rules.setup.output
     output:
-        f"{log_extract}{sheets[1]}{log_ext}"
+        rw.DATA_EXTRACT_IMPACTS,
+        rw.LOG_EXTRACT_IMPACTS
     shell:
-        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[1]}"
+        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_IMPACTS}"
 
 rule preprocess_impacts:
     input:
-        rules.extract_impacts.output,
+        rules.extract_impacts.output
     output:
-        f"{log_ppreprocess}{sheets[1]}{log_ext}"
+        rw.LOG_PPROC_IMPACTS
     shell:
-        f"python src/preprocess_sheet.py -s {sheets[1]}"
+        "python src/preprocess_sheet.py -s {rw.SHEET_IMPACTS}"  
 
-# extract & preprocess RESEARCH DEGREES AWARDED
-# ---------------------------------------------
+# extract and preprocess RESEARCH DEGREES AWARDED
+# -----------------------------------------------
 rule extract_degrees:
     input:
-        rules.setup.output,
+        rules.setup.output
     output:
-        f"{log_extract}{sheets[2]}{log_ext}"
+        rw.DATA_EXTRACT_DEGREES,
+        rw.LOG_EXTRACT_DEGREES
     shell:
-        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[2]}"
+        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_DEGREES}"
 
 rule preprocess_degrees:
     input:
-        rules.extract_degrees.output,
+        rules.extract_degrees.output
     output:
-        f"{log_ppreprocess}{sheets[2]}{log_ext}"
+        rw.LOG_PPROC_DEGREES
     shell:
-        f"python src/preprocess_sheet.py -s {sheets[2]}"
+        "python src/preprocess_sheet.py -s {rw.SHEET_DEGREES}"
 
-# extract & preprocess RESEARCH INCOME
-# ------------------------------------
+# extrct and preprocess RESEARCH INCOME
+# -------------------------------------
 rule extract_income:
     input:
-        rules.setup.output,
+        rules.setup.output
     output:
-        f"{log_extract}{sheets[3]}{log_ext}"
+        rw.DATA_EXTRACT_INCOME,
+        rw.LOG_EXTRACT_INCOME
     shell:
-        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[3]}"
+        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_INCOME}"
 
 rule preprocess_income:
     input:
-        rules.extract_income.output,
+        rules.extract_income.output
     output:
-        f"{log_ppreprocess}{sheets[3]}{log_ext}"
+        rw.LOG_PPROC_INCOME
     shell:
-        f"python src/preprocess_sheet.py -s {sheets[3]}"
+        "python src/preprocess_sheet.py -s {rw.SHEET_INCOME}"
 
-# extract & preprocess RESEARCH INCOME IN KIND
-# --------------------------------------------
+# extract and preprocess RESEARCH INCOME IN KIND
+# ----------------------------------------------
 rule extract_income_in_kind:
     input:
-        rules.setup.output,
+        rules.setup.output
     output:
-        f"{log_extract}{sheets[4]}{log_ext}"
+        rw.DATA_EXTRACT_INCOMEINKIND,
+        rw.LOG_EXTRACT_INCOMEINKIND
     shell:
-        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[4]}"
+        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_INCOMEINKIND}"
 
 rule preprocess_income_in_kind:
     input:
-        rules.extract_income_in_kind.output,
+        rules.extract_income_in_kind.output
     output:
-        f"{log_ppreprocess}{sheets[4]}{log_ext}"
+        rw.LOG_PPROC_INCOMEINKIND
     shell:
-        f"python src/preprocess_sheet.py -s {sheets[4]}"
+        "python src/preprocess_sheet.py -s {rw.SHEET_INCOMEINKIND}"
 
-# extract & preprocess RESEARCH GROUPS
-# ------------------------------------
-rule extract_groups:
+# extract and preprocess RESEARCH GROUPS
+# --------------------------------------
+rule extract_rgroups:
     input:
-        rules.setup.output,
+        rules.setup.output
     output:
-        f"{log_extract}{sheets[5]}{log_ext}"
+        rw.DATA_EXTRACT_RGROUPS,
+        rw.LOG_EXTRACT_RGROUPS
     shell:
-        f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[5]}"
+        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_RGROUPS}"
 
-rule preprocess_groups:
+rule preprocess_rgroups:
     input:
-        rules.extract_groups.output,
+        rules.extract_rgroups.output
     output:
-        f"{log_ppreprocess}{sheets[5]}{log_ext}"
+        rw.LOG_PPROC_RGROUPS
     shell:
-        f"python src/preprocess_sheet.py -s {sheets[5]}"
+        "python src/preprocess_sheet.py -s {rw.SHEET_RGROUPS}"    

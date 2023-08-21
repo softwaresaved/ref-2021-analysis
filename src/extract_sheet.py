@@ -37,7 +37,7 @@ def extract_sheet(fname, sname, header=4, index_col=None):
 
     # save dset to compressed csv
     # ---------------------------
-    fpath = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv.gz")
+    fpath = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_EXT}")
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fpath),
                 index=False,
                 compression='gzip')
@@ -49,7 +49,7 @@ def extract_sheet(fname, sname, header=4, index_col=None):
 
     # save the log file
     # -----------------
-    fname = os.path.join(rw.LOGS_PATH, f"extract_{sname}.log")
+    fname = f"{rw.LOG_EXTRACT}{sname}{rw.LOG_EXT}"
     with open(os.path.join(rw.PROJECT_PATH, fname), 'w') as f:
         f.write(buffer.getvalue())
 

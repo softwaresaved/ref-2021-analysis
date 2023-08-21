@@ -28,7 +28,7 @@ def preprocess_outputs(dset, sname="Outputs"):
     # select and save software outputs
     target_output_type = "Software"
     fsuffix = f"{target_output_type.lower()}"
-    fname = os.path.join(rw.PROCESSSED_SUBSETS_PATH, f"{sname}_{fsuffix}.csv.gz")
+    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
     fpath = os.path.join(rw.PROJECT_PATH, fname)
     dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type].to_csv(fpath,
                                                                      index=False,
@@ -157,13 +157,13 @@ def preprocess_sheet(sname):
 
     # read data
     # ---------
-    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}.csv.gz")
-    dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, fname),
+    infname = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_EXT}")
+    dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, infname),
                        index_col=None,
                        dtype={0: str},
                        compression='gzip'
                        )
-    rw.print_tstamp(f"READ '{fname}': {dset.shape[0]} records")
+    rw.print_tstamp(f"READ '{infname}': {dset.shape[0]} records")
 
     # run specific pre-processing
     # ---------------------------
@@ -184,11 +184,16 @@ def preprocess_sheet(sname):
 
     # save the pre-processed data
     # ---------------------------
-    fname = os.path.join(rw.PROCESSED_EXTRACTED_PATH, f"{sname}_pprocessed.csv.gz")
+    fname = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_PPROCESS}{rw.DATA_EXT}")
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
                 index=False,
                 compression='gzip')
     rw.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
+
+    # delete infname
+    # --------------
+    os.remove(os.path.join(rw.PROJECT_PATH, infname))
+    rw.print_tstamp(f"DELETED '{infname}'")
 
     # restore stdout
     # --------------
@@ -196,7 +201,7 @@ def preprocess_sheet(sname):
 
     # save the log file
     # -----------------
-    fname = os.path.join(rw.LOGS_PATH, f"preprocess_{sname}.log")
+    fname = f"{rw.LOG_PPREPROCESS}{sname}{rw.LOG_EXT}"
     with open(os.path.join(rw.PROJECT_PATH, fname), 'w') as f:
         f.write(buffer.getvalue())
 

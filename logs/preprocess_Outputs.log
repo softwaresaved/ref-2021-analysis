@@ -1,6 +1,7 @@
-[2023-08-18 10:05:10] READ 'data/processed/extracted/Outputs.csv.gz': 185354 records
-[2023-08-18 10:05:10] PPROC actions for 'Outputs' sheet
-[2023-08-18 10:05:10] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-18 10:05:10] - PPROC: add columns for panel and output types names
-[2023-08-18 10:05:10] SAVED 'software' subset to 'data/processed/subsets/Outputs_software.csv.gz'
-[2023-08-18 10:05:15] SAVED pre-processed dataset to 'data/processed/extracted/Outputs_pprocessed.csv.gz'
+[2023-08-21 14:59:49] READ 'data/processed/Outputs.csv.gz': 185354 records
+[2023-08-21 14:59:49] PPROC actions for 'Outputs' sheet
+[2023-08-21 14:59:49] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-21 14:59:49] - PPROC: add columns for panel and output types names
+[2023-08-21 14:59:50] SAVED 'software' subset to 'data/processed/subsets/Outputs_software.csv.gz'
+[2023-08-21 14:59:55] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
+[2023-08-21 14:59:55] DELETED 'data/processed/Outputs.csv.gz'

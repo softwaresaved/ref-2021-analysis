@@ -1,15 +1,6 @@
-[2023-08-21 12:32:51] READ 'data/processed/extracted/ResearchIncomeInKind.csv.gz': 4093 records
-[2023-08-21 12:32:51] PPROC actions for 'ResearchIncomeInKind' sheet
-[2023-08-21 12:32:51] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-21 12:32:51] - PPROC: add columns for panel names
-Index(['Institution UKPRN code', 'Institution name', 'Main panel',
-       'Unit of assessment number', 'Unit of assessment name',
-       'Multiple submission letter', 'Multiple submission name',
-       'Joint submission', 'Income source', 'Income for academic year 2013-14',
-       'Income for academic year 2014-15', 'Income for academic year 2015-16',
-       'Income for academic year 2016-17', 'Income for academic year 2017-18',
-       'Income for academic year 2018-19', 'Income for academic year 2019-20',
-       'Total income for academic years 2013-14 to 2019-20',
-       'Main panel name'],
-      dtype='object')
-[2023-08-21 12:32:51] SAVED pre-processed dataset to 'data/processed/extracted/ResearchIncomeInKind_pprocessed.csv.gz'
+[2023-08-21 15:06:07] READ 'data/processed/ResearchIncomeInKind.csv.gz': 4093 records
+[2023-08-21 15:06:07] PPROC actions for 'ResearchIncomeInKind' sheet
+[2023-08-21 15:06:07] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-21 15:06:07] - PPROC: add columns for panel names
+[2023-08-21 15:06:07] SAVED pre-processed dataset to 'data/processed/ResearchIncomeInKind_ppreprocessed.csv.gz'
+[2023-08-21 15:06:07] DELETED 'data/processed/ResearchIncomeInKind.csv.gz'
