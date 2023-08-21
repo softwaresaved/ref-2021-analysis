@@ -23,10 +23,10 @@ REQUIRED_FOLDERS = [LOG_PATH,
 
 # data files
 RAW_FNAME = f"{RAW_PATH}REF-2021-Submissions-All-2022-07-27.xlsx"
-SHEETS = ["Outputs", 
+SHEETS = ["Outputs",
           "ImpactCaseStudies",
           "ResearchDoctoralDegreesAwarded",
-          "ResearchIncome", 
+          "ResearchIncome",
           "ResearchIncomeInKind",
           "ResearchGroups"]
 DATA_EXT = ".csv.gz"
