@@ -89,6 +89,44 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     return dset
 
 
+def preprocess_income(dset, sname="ResearchIncome"):
+    """ Preprocess the data from the ResearchIncome sheet
+    """
+
+    # pre-processing
+    # --------------
+    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+
+    # assign names where we only have codes
+    # -------------------------------------
+    dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    rw.print_tstamp("- PPROC: add columns for panel names")
+
+    return dset
+
+
+def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
+    """ Preprocess the data from the ResearchIncomeInKind sheet
+    """
+
+    # pre-processing
+    # --------------
+    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    dset = dset.fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+
+    # assign names where we only have codes
+    # -------------------------------------
+    dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    rw.print_tstamp("- PPROC: add columns for panel names")
+
+    print(dset.columns)
+
+    return dset
+
+
 def preprocess_sheet(sname):
     """ Preprocess a sheet from the raw data.
 
@@ -119,6 +157,10 @@ def preprocess_sheet(sname):
         preprocess_impacts(dset)
     elif sname == "ResearchDoctoralDegreesAwarded":
         preprocess_degrees(dset)
+    elif sname == "ResearchIncome":
+        preprocess_income(dset)
+    elif sname == "ResearchIncomeInKind":
+        preprocess_incomeinkind(dset)
     else:
         raise ValueError(f"Unknown sheet name: {sname}")
 

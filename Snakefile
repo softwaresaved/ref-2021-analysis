@@ -19,8 +19,8 @@ rule all:
         f"{log_ppreprocess}{sheets[0]}{log_ext}",
         f"{log_ppreprocess}{sheets[1]}{log_ext}",
         f"{log_ppreprocess}{sheets[2]}{log_ext}",
-        f"{log_extract}{sheets[3]}{log_ext}",
-        f"{log_extract}{sheets[4]}{log_ext}",
+        f"{log_ppreprocess}{sheets[3]}{log_ext}",
+        f"{log_ppreprocess}{sheets[4]}{log_ext}",
         f"{log_extract}{sheets[5]}{log_ext}"
         
 rule setup:
@@ -93,13 +93,13 @@ rule extract_income:
     shell:
         f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[3]}"
 
-# rule preprocess_income:
-#     input:
-#         rules.extract_income.output,
-#     output:
-#         f"{log_ppreprocess}{sheets[3]}{log_ext}"
-#     shell:
-#         f"python src/preprocess_sheet.py -s {sheets[3]}"
+rule preprocess_income:
+    input:
+        rules.extract_income.output,
+    output:
+        f"{log_ppreprocess}{sheets[3]}{log_ext}"
+    shell:
+        f"python src/preprocess_sheet.py -s {sheets[3]}"
 
 # extract & preprocess RESEARCH INCOME IN KIND
 # --------------------------------------------
@@ -111,13 +111,13 @@ rule extract_income_in_kind:
     shell:
         f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[4]}"
 
-# rule preprocess_income_in_kind:
-#     input:
-#         rules.extract_income_in_kind.output,
-#     output:
-#         f"{log_ppreprocess}{sheets[4]}{log_ext}"
-#     shell:
-#         f"python src/preprocess_sheet.py -s {sheets[4]}"
+rule preprocess_income_in_kind:
+    input:
+        rules.extract_income_in_kind.output,
+    output:
+        f"{log_ppreprocess}{sheets[4]}{log_ext}"
+    shell:
+        f"python src/preprocess_sheet.py -s {sheets[4]}"
 
 # extract & preprocess RESEARCH GROUPS
 # ------------------------------------
