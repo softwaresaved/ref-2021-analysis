@@ -99,7 +99,7 @@ OUTPUT_TYPE_NAMES = {
     'V': 'Translation'
 }
 
-TERMS_SOFTWARE_RELATED = [
+TERMS_SOFTWARE_RELATED_FULL_WORDS = [
     'algorithm',
     'computation',
     'computational',
@@ -112,4 +112,14 @@ TERMS_SOFTWARE_RELATED = [
     'software',
     'supercomputer',
     'supercomputing'
+]
+
+TERMS_SOFTWARE_RELATED_ROOTS = [
+    'algorithm',
+    'comput',
+    'database',
+    'open-source',
+    'open source',
+    'software',
+    'supercomput',
 ]

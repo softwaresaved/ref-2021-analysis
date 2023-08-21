@@ -30,16 +30,26 @@ def preprocess_outputs(dset, sname="Outputs"):
     dset[cb.COL_OUTPUT_TYPE_NAME] = dset[cb.COL_OUTPUT_TYPE_CODE].map(cb.OUTPUT_TYPE_NAMES)
     rw.print_tstamp("- PPROC: add columns for panel and output types names")
 
-    # select and save software outputs
+    # select and save the outputs of type 'Software'
     target_output_type = "Software"
-    fsuffix = f"{target_output_type.lower()}"
+    fsuffix = f"type_{target_output_type.lower()}"
     fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
     fpath = os.path.join(rw.PROJECT_PATH, fname)
-    dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type].to_csv(fpath,
-                                                                     index=False,
-                                                                     compression='gzip')
+    dset_selected = dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type]
+    dset_selected.to_csv(fpath, index=False, compression='gzip')
 
-    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}'")
+    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
+
+    # select and save the records that contain software-related terms defined by root in title
+    dset_selected = pd.DataFrame()
+    for term in cb.TERMS_SOFTWARE_RELATED_ROOTS:
+        dset_selected = dset_selected.append(dset[dset[cb.COL_OUTPUT_TITLE].str.contains(term)])
+    dset_selected = dset_selected.drop_duplicates(subset=[cb.COL_OUTPUT_TITLE])
+    fsuffix = "title_software_terms"
+    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
+    fpath = os.path.join(rw.PROJECT_PATH, fname)
+    dset_selected.to_csv(fpath, index=False, compression='gzip')
+    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': dset_selected.shape[0] records")
 
     return dset
 
