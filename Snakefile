@@ -21,7 +21,7 @@ rule all:
         f"{log_ppreprocess}{sheets[2]}{log_ext}",
         f"{log_ppreprocess}{sheets[3]}{log_ext}",
         f"{log_ppreprocess}{sheets[4]}{log_ext}",
-        f"{log_extract}{sheets[5]}{log_ext}"
+        f"{log_ppreprocess}{sheets[5]}{log_ext}"
         
 rule setup:
     output:
@@ -129,11 +129,10 @@ rule extract_groups:
     shell:
         f"python src/extract_sheet.py -f {rules.all.input[0]} -s {sheets[5]}"
 
-# rule preprocess_groups:
-#     input:
-#         rules.extract_groups.output,
-#     output:
-#         f"{log_ppreprocess}{sheets[5]}{log_ext}"
-#     shell:
-#         f"python src/preprocess_sheet.py -s {sheets[5]}"
-# ```
+rule preprocess_groups:
+    input:
+        rules.extract_groups.output,
+    output:
+        f"{log_ppreprocess}{sheets[5]}{log_ext}"
+    shell:
+        f"python src/preprocess_sheet.py -s {sheets[5]}"

@@ -1,0 +1,5 @@
+[2023-08-21 12:36:56] READ 'data/processed/extracted/ResearchGroups.csv.gz': 2036 records
+[2023-08-21 12:36:56] PPROC actions for 'ResearchGroups' sheet
+[2023-08-21 12:36:56] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-21 12:36:56] - PPROC: add columns for panel names
+[2023-08-21 12:36:56] SAVED pre-processed dataset to 'data/processed/extracted/ResearchGroups_pprocessed.csv.gz'
