@@ -114,12 +114,10 @@ TERMS_SOFTWARE_RELATED_FULL_WORDS = [
     'supercomputing'
 ]
 
+# 'algorithm' not used because it is not as clear that software is involved
 TERMS_SOFTWARE_RELATED_ROOTS = [
-    'algorithm',
     'comput',
     'database',
-    'open-source',
-    'open source',
     'software',
     'supercomput',
 ]

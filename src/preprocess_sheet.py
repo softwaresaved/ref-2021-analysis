@@ -49,7 +49,8 @@ def preprocess_outputs(dset, sname="Outputs"):
     fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
     fpath = os.path.join(rw.PROJECT_PATH, fname)
     dset_selected.to_csv(fpath, index=False, compression='gzip')
-    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': dset_selected.shape[0] records")
+    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
+    rw.print_tstamp(f"- list of terms used:\n- {cb.TERMS_SOFTWARE_RELATED_ROOTS}")
 
     return dset
 
@@ -87,6 +88,20 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     rw.print_tstamp("- PPROC: add column for panels names")
+
+    # select and save the records that contain software-related terms defined by root in title
+    dset_selected = pd.DataFrame()
+    columns = [cb.COL_IMPACT_TITLE, cb.COL_IMPACT_SUMMARY]
+    for column in columns:
+        for term in cb.TERMS_SOFTWARE_RELATED_ROOTS:
+            dset_selected = dset_selected.append(dset[dset[column].str.contains(term)])
+    dset_selected = dset_selected.drop_duplicates(subset=columns)
+    fsuffix = "title_summary_software_terms"
+    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
+    fpath = os.path.join(rw.PROJECT_PATH, fname)
+    dset_selected.to_csv(fpath, index=False, compression='gzip')
+    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
+    rw.print_tstamp(f"- list of terms used:\n- {cb.TERMS_SOFTWARE_RELATED_ROOTS}")
 
     return dset
 
@@ -204,7 +219,6 @@ def preprocess_sheet(sname):
                        compression='gzip'
                        )
     rw.print_tstamp(f"READ '{infname}': {dset.shape[0]} records")
-
 
     # run specific pre-processing
     # ---------------------------

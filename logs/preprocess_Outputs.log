@@ -1,9 +1,11 @@
-[2023-08-21 16:49:03] READ 'data/processed/Outputs.csv.gz': 185354 records
-[2023-08-21 16:49:03] PPROC actions for 'Outputs' sheet
-[2023-08-21 16:49:03] - PPROC: drop empty rows
-[2023-08-21 16:49:04] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-21 16:49:04] - PPROC: add columns for panel and output types names
-[2023-08-21 16:49:04] SAVED 'type_software' subset to 'data/processed/subsets/Outputs_type_software.csv.gz': 11 records
-[2023-08-21 16:49:04] SAVED 'title_software_terms' subset to 'data/processed/subsets/Outputs_title_software_terms.csv.gz': dset_selected.shape[0] records
-[2023-08-21 16:49:12] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
-[2023-08-21 16:49:12] DELETED 'data/processed/Outputs.csv.gz'
+[2023-08-21 17:12:59] READ 'data/processed/Outputs.csv.gz': 185354 records
+[2023-08-21 17:12:59] PPROC actions for 'Outputs' sheet
+[2023-08-21 17:13:00] - PPROC: drop empty rows
+[2023-08-21 17:13:00] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-21 17:13:00] - PPROC: add columns for panel and output types names
+[2023-08-21 17:13:00] SAVED 'type_software' subset to 'data/processed/subsets/Outputs_type_software.csv.gz': 11 records
+[2023-08-21 17:13:00] SAVED 'title_software_terms' subset to 'data/processed/subsets/Outputs_title_software_terms.csv.gz': 888 records
+[2023-08-21 17:13:00] - list of terms used:
+- ['comput', 'database', 'software', 'supercomput']
+[2023-08-21 17:13:09] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
+[2023-08-21 17:13:09] DELETED 'data/processed/Outputs.csv.gz'
