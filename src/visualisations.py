@@ -32,7 +32,7 @@ def calculate_and_visualise_counts(dset,
     nrecords = dset_stats[col_count].sum()
     if do_print:
         print()
-        print(dset_stats.to_string())
+        print(dset_stats.to_string(float_format="{:.2f}".format))
 
     # plot horizontal barchart for the Records column
     if do_plot is not None:
@@ -49,6 +49,8 @@ def calculate_and_visualise_counts(dset,
         # set the figure size
         plt.gcf().set_size_inches(figure_size)
         plt.show()
+
+    return dset_stats
 
 
 def align_left(dset):
