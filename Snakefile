@@ -8,6 +8,7 @@ rule all:
     input:
         rw.RAW_FNAME,
         rw.LOG_SETUP,
+        # rw.LOG_UNZIP,
         rw.LOG_PPROC_OUTPUTS,
         rw.LOG_PPROC_IMPACTS,
         rw.LOG_PPROC_DEGREES,
@@ -20,6 +21,16 @@ rule setup:
         rw.LOG_SETUP
     shell:
         "python src/setup.py"
+
+rule unzip_environment:
+    input:
+        rw.ENV_FNAME
+    output:
+        rw.LOG_UNZIP
+    shell:
+        "unzip {rw.ENV_FNAME} -O GB18030 -d {rw.ENV_PATH} 1> {rw.LOG_UNZIP}"
+        "mv {rw.ENV_PATH}/Institution* {rw.ENV_INST_PATH}"
+        "mv {rw.ENV_PATH}/Unit* {rw.ENV_UNIT_PATH}"
 
 # extract & preprocess OUTPUTS
 # ----------------------------

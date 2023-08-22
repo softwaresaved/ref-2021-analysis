@@ -6,6 +6,7 @@ import datetime
 LOG_PATH = "logs/"
 LOG_EXT = ".log"
 LOG_SETUP = os.path.join(LOG_PATH, f"setup{LOG_EXT}")
+LOG_UNZIP = os.path.join(LOG_PATH, "unzip_environment_statements.log")
 LOG_EXTRACT = os.path.join(LOG_PATH, "extract_")
 LOG_PPREPROCESS = os.path.join(LOG_PATH, "preprocess_")
 
@@ -13,6 +14,9 @@ LOG_PPREPROCESS = os.path.join(LOG_PATH, "preprocess_")
 PROJECT_PATH = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
 DATA_PATH = "data/"
 RAW_PATH = os.path.join(DATA_PATH, "raw/")
+ENV_PATH = os.path.join(RAW_PATH, "environment_statements/")
+ENV_INST_PATH = os.path.join(ENV_PATH, "institution/")
+ENV_UNIT_PATH = os.path.join(ENV_PATH, "unit/")
 PROCESSED_PATH = os.path.join(DATA_PATH, "processed/")
 SUBSETS_PATH = os.path.join(PROCESSED_PATH, "subsets/")
 
@@ -23,6 +27,7 @@ REQUIRED_FOLDERS = [LOG_PATH,
 
 # data files
 RAW_FNAME = f"{RAW_PATH}REF-2021-Submissions-All-2022-07-27.xlsx"
+ENV_FNAME = f"{RAW_PATH}REF-2021-EnvironmentStatements-Extract-2023-08-22.zip"
 SHEETS = ["Outputs",
           "ImpactCaseStudies",
           "ResearchDoctoralDegreesAwarded",
@@ -34,6 +39,7 @@ DATA_PPROCESS = "_ppreprocessed"
 
 # logs and output files
 # ---------------------
+
 # Outputs
 sheet = SHEETS[0]
 SHEET_OUTPUTS = sheet
