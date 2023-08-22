@@ -16,6 +16,8 @@ COL_OUTPUT_TYPE_NAME = 'Output type name'
 COL_OPEN_ACCESS = 'Open access status'
 COL_OUTPUT_TITLE = 'Title'
 COL_OUTPUT_SUPP = 'Supplementary information'
+COL_OUTPUT_CITATIONS = 'Citations applicable'
+COL_OUTPUT_INTERDISCIPLINARY = 'Interdisciplinary'
 # about the impact case studies
 COL_IMPACT_TITLE = 'Title'
 COL_IMPACT_SUMMARY = '1. Summary of the impact'

@@ -41,6 +41,10 @@ LOG_EXTRACT_OUTPUTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
 LOG_PPROC_OUTPUTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
 DATA_EXTRACT_OUTPUTS = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
 DATA_PPROC_OUTPUTS = f"{PROCESSED_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
+DATA_PPROC_OUTPUTS_SOFTWARE_TYPES = f"{SUBSETS_PATH}{sheet}{DATA_PPROCESS}"\
+                                    f"_type_software{DATA_EXT}"
+DATA_PPROC_OUTPUTS_SOFTWARE_TERMS = f"{SUBSETS_PATH}{sheet}{DATA_PPROCESS}"\
+                                    f"_title_software_terms{DATA_EXT}"
 # ImpactCaseStudies
 sheet = SHEETS[1]
 SHEET_IMPACTS = sheet
@@ -48,6 +52,8 @@ LOG_EXTRACT_IMPACTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
 LOG_PPROC_IMPACTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
 DATA_EXTRACT_IMPACTS = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
 DATA_PPROC_IMPACTS = f"{PROCESSED_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
+DATA_PPROC_IMPACTS_SOFTWARE_TERMS = f"{SUBSETS_PATH}{sheet}{DATA_PPROCESS}"\
+                                     f"_title_summary_software_terms{DATA_EXT}"
 # ResearchDoctoralDegreesAwarded
 sheet = SHEETS[2]
 SHEET_DEGREES = sheet

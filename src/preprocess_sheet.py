@@ -33,7 +33,7 @@ def preprocess_outputs(dset, sname="Outputs"):
     # select and save the outputs of type 'Software'
     target_output_type = "Software"
     fsuffix = f"type_{target_output_type.lower()}"
-    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
+    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}{rw.DATA_PPROCESS}_{fsuffix}{rw.DATA_EXT}")
     fpath = os.path.join(rw.PROJECT_PATH, fname)
     dset_selected = dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type]
     dset_selected.to_csv(fpath, index=False, compression='gzip')
@@ -46,7 +46,7 @@ def preprocess_outputs(dset, sname="Outputs"):
         dset_selected = dset_selected.append(dset[dset[cb.COL_OUTPUT_TITLE].str.contains(term)])
     dset_selected = dset_selected.drop_duplicates(subset=[cb.COL_OUTPUT_TITLE])
     fsuffix = "title_software_terms"
-    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
+    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}{rw.DATA_PPROCESS}_{fsuffix}{rw.DATA_EXT}")
     fpath = os.path.join(rw.PROJECT_PATH, fname)
     dset_selected.to_csv(fpath, index=False, compression='gzip')
     rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
@@ -97,7 +97,7 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
             dset_selected = dset_selected.append(dset[dset[column].str.contains(term)])
     dset_selected = dset_selected.drop_duplicates(subset=columns)
     fsuffix = "title_summary_software_terms"
-    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}_{fsuffix}{rw.DATA_EXT}")
+    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}{rw.DATA_PPROCESS}_{fsuffix}{rw.DATA_EXT}")
     fpath = os.path.join(rw.PROJECT_PATH, fname)
     dset_selected.to_csv(fpath, index=False, compression='gzip')
     rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
