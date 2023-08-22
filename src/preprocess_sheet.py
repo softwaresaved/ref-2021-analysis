@@ -24,6 +24,13 @@ def preprocess_outputs(dset, sname="Outputs"):
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
+    # replace various styling characters selected columns
+    columns = [cb.COL_OUTPUT_TITLE]
+    for column in columns:
+        dset = pp.clean_styling(dset, column)
+    rw.print_tstamp("- PPROC: replace styling characters in the following columns")
+    rw.print_tstamp(f"- {columns}")
+
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
@@ -74,15 +81,18 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     columns = dset.columns.tolist()
     dset = dset.drop(cb.COL_IMPACT_TITLE, axis=1)
     dset.columns = columns[:-1]
-    # replace markdown in summary column
-    for column in [cb.COL_IMPACT_SUMMARY,
-                   cb.COL_IMPACT_UNDERPIN_RESEARCH,
-                   cb.COL_IMPACT_REFERENCES_RESEARCH,
-                   cb.COL_IMPACT_DETAILS,
-                   cb.COL_IMPACT_CORROBORATE
-                   ]:
-        dset = pp.clean_markdown(dset, column)
     rw.print_tstamp("- PPROC: shift columns from title to the left to fix raw data issue ")
+    # replace various styling characters selected columns
+    columns = [cb.COL_IMPACT_SUMMARY,
+               cb.COL_IMPACT_UNDERPIN_RESEARCH,
+               cb.COL_IMPACT_REFERENCES_RESEARCH,
+               cb.COL_IMPACT_DETAILS,
+               cb.COL_IMPACT_CORROBORATE
+               ]
+    for column in columns:
+        dset = pp.clean_styling(dset, column)
+    rw.print_tstamp("- PPROC: replace styling characters in the following columns")
+    rw.print_tstamp(f"- {columns}")
 
     # assign names where we only have codes
     # -------------------------------------

@@ -1,7 +1,7 @@
 """ This module contains functions for preprocessing the data """
 
 
-def clean_markdown(dset, column):
+def clean_styling(dset, column):
 
     TEXT_INSTRUCTIONS = ["\(indicative maximum 100 words\)",
                          "\(indicative maximum 500 words\)",
@@ -10,6 +10,8 @@ def clean_markdown(dset, column):
                          ]
 
     dset[column] = dset[column].str.replace("  ", " ", regex=False)
+    dset[column] = dset[column].str.replace("‚Äò", "", regex=False)
+    dset[column] = dset[column].str.replace("‚Äô", "", regex=False)
     dset[column] = dset[column].str.replace(column, " ", regex=False)
     dset[column] = dset[column].str.replace(column[2:], " ", regex=False)
     dset[column] = dset[column].str.replace("#", "", regex=False)

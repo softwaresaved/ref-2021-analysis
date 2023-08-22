@@ -20,6 +20,8 @@ COL_OUTPUT_CITATIONS = 'Citations applicable'
 COL_OUTPUT_INTERDISCIPLINARY = 'Interdisciplinary'
 # about the impact case studies
 COL_IMPACT_TITLE = 'Title'
+COL_IMPACT_FUNDING_PROGS = 'Funding programmes'
+COL_IMPACT_FUNDERS = 'Name of funders'
 COL_IMPACT_SUMMARY = '1. Summary of the impact'
 COL_IMPACT_UNDERPIN_RESEARCH = '2. Underpinning research'
 COL_IMPACT_REFERENCES_RESEARCH = '3. References to the research'
@@ -116,10 +118,6 @@ TERMS_SOFTWARE_RELATED_FULL_WORDS = [
     'supercomputing'
 ]
 
-# 'algorithm' not used because it is not as clear that software is involved
 TERMS_SOFTWARE_RELATED_ROOTS = [
-    'comput',
-    'database',
-    'software',
-    'supercomput',
+    'computation'
 ]
