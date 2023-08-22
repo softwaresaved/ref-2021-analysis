@@ -6,7 +6,7 @@ import datetime
 LOG_PATH = "logs/"
 LOG_EXT = ".log"
 LOG_SETUP = os.path.join(LOG_PATH, f"setup{LOG_EXT}")
-LOG_UNZIP = os.path.join(LOG_PATH, "unzip_environment_statements.log")
+LOG_UNZIP = os.path.join(LOG_PATH, f"unzip_environment_statements{LOG_EXT}")
 LOG_EXTRACT = os.path.join(LOG_PATH, "extract_")
 LOG_PPREPROCESS = os.path.join(LOG_PATH, "preprocess_")
 
@@ -39,7 +39,6 @@ DATA_PPROCESS = "_ppreprocessed"
 
 # logs and output files
 # ---------------------
-
 # Outputs
 sheet = SHEETS[0]
 SHEET_OUTPUTS = sheet
@@ -84,6 +83,7 @@ SHEET_RGROUPS = sheet
 LOG_EXTRACT_RGROUPS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
 LOG_PPROC_RGROUPS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
 DATA_EXTRACT_RGROUPS = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
+DATA_PPROC_RGROUPS = f"{PROCESSED_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
 
 
 def print_tstamp(text):

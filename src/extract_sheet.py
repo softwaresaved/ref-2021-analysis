@@ -3,6 +3,7 @@ import os
 import pandas as pd
 from io import StringIO
 import sys
+import codebook as cb
 import read_write as rw
 
 
@@ -31,9 +32,9 @@ def extract_sheet(fname, sname, header=4, index_col=None):
     # -----------
     dset = dobj.parse(sname,
                       header=header,
-                      index_col=index_col,
-                      na_values=['NA'])
-    rw.print_tstamp(f"EXTRACTED '{sname}' sheet")
+                      index_col=index_col
+                      )
+    rw.print_tstamp(f"EXTRACTED '{sname}' sheet: {dset.shape[0]} records")
 
     # save dset to compressed csv
     # ---------------------------

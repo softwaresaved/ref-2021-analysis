@@ -4,6 +4,24 @@ Notes
 - `Not specified - PP ADDED` is a category added during pre-processing to all string fields to replace missing values
 - software terms: `computation`
 
+## Environment statements
+
+    Read data/processed/Outputs_ppreprocessed.csv.gz: 185353 records
+    Read data/processed/ImpactCaseStudies_ppreprocessed.csv.gz: 6361 records
+    Institutions - outputs : 157
+    Institutions - impacts : 155
+    Institution EV         : 143
+    
+    Institutions with outputs but no impacts: 2
+    ['Institute of Zoology', 'SRUC']
+    
+    Institutions with outputs but no environment statements: 14
+    ['AECC University College', 'Courtauld Institute of Art', 'Falmouth University', 'Glasgow School of Art', 'Harper Adams University', 'Institute of Cancer Research: Royal Cancer Hospital (The)', 'Rose Bruford College of Theatre and Performance', 'Royal College of Art(The)', 'Royal College of Music', 'Royal Northern College of Music', 'The Royal Academy of Music', 'Trinity Laban Conservatoire of Music and Dance', 'University College of Osteopathy (The)', 'University of the Arts, London']
+    
+    Institutions with impacts but no environment statements: 14
+    ['AECC University College', 'Courtauld Institute of Art', 'Falmouth University', 'Glasgow School of Art', 'Harper Adams University', 'Institute of Cancer Research: Royal Cancer Hospital (The)', 'Rose Bruford College of Theatre and Performance', 'Royal College of Art(The)', 'Royal College of Music', 'Royal Northern College of Music', 'The Royal Academy of Music', 'Trinity Laban Conservatoire of Music and Dance', 'University College of Osteopathy (The)', 'University of the Arts, London']
+
+
 ## `Outputs` data
 
 #### All records
@@ -37,7 +55,7 @@ Notes
 
 
     
-![png](study_files/study_4_1.png)
+![png](study_files/study_6_1.png)
     
 
 
@@ -57,7 +75,7 @@ Notes
 
 
     
-![png](study_files/study_4_3.png)
+![png](study_files/study_6_3.png)
     
 
 
@@ -241,7 +259,7 @@ Notes
 
 
     
-![png](study_files/study_11_1.png)
+![png](study_files/study_13_1.png)
     
 
 
