@@ -255,6 +255,42 @@ Notes
     Medicine, health and life sciences                    5        10.42
     Social sciences                                       4         8.33
     Arts and humanities                                   1         2.08
+    
+                                                          Records  Records (%)
+    Institution name                                                          
+    University of Oxford                                        4         8.33
+    Imperial College of Science, Technology and Medicine        4         8.33
+    University College London                                   3         6.25
+    The University of Reading                                   3         6.25
+    Queen Mary University of London                             3         6.25
+    King's College London                                       3         6.25
+    University of Durham                                        2         4.17
+    University of Stirling                                      2         4.17
+    Manchester Metropolitan University                          2         4.17
+    Swansea University / Prifysgol Abertawe                     2         4.17
+    University of Sussex                                        1         2.08
+    University of St Andrews                                    1         2.08
+    The University of Liverpool                                 1         2.08
+    Oxford Brookes University                                   1         2.08
+    Coventry University                                         1         2.08
+    University of Bristol                                       1         2.08
+    University of Dundee                                        1         2.08
+    Liverpool John Moores University                            1         2.08
+    The University of Manchester                                1         2.08
+    De Montfort University                                      1         2.08
+    Bangor University / Prifysgol Bangor                        1         2.08
+    University of the West of Scotland                          1         2.08
+    University of Chester                                       1         2.08
+    University of Glasgow                                       1         2.08
+    Cardiff University / Prifysgol Caerdydd                     1         2.08
+    University of Nottingham, The                               1         2.08
+    University of Edinburgh                                     1         2.08
+    University of South Wales / Prifysgol De Cymru              1         2.08
+    University of Strathclyde                                   1         2.08
+    University of Portsmouth                                    1         2.08
+    
+    Titles of impact case studies with software terms:
+    
     University College London, Physical sciences, engineering and mathematics:
      Application of experimental and computational methods for improved performance of industrial catalytic systems and processes
     
