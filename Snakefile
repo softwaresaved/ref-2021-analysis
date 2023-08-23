@@ -8,7 +8,6 @@ rule all:
     input:
         rw.RAW_FNAME,
         rw.LOG_SETUP,
-        # rw.LOG_UNZIP,
         rw.LOG_PPROC_OUTPUTS,
         rw.LOG_PPROC_IMPACTS,
         rw.LOG_PPROC_DEGREES,
@@ -22,6 +21,8 @@ rule setup:
     shell:
         "python src/setup.py"
 
+# this rule is defined for completeness
+# but it is not run because the unzipping fails due to the encoding
 rule unzip_environment:
     input:
         rw.ENV_FNAME
