@@ -6,7 +6,7 @@ import sys
 import read_write as rw
 
 
-def extract_sheet(fname, sname, header=4, index_col=None):
+def extract_sheet(fname, sname, header, index_col=None):
     """ Extract a sheet from an excel file and save it as csv file.
 
     Args:
@@ -67,6 +67,10 @@ if __name__ == "__main__":
                         required=True,
                         help="name of the sheet to extract from the excel file")
 
+    parser.add_argument("-hr", "--headerrow",
+                        required=True,
+                        help="row number to use as the column names")
+
     args = parser.parse_args()
 
-    extract_sheet(args.filename, args.sheetname)
+    extract_sheet(args.filename, args.sheetname, int(args.headerrow))

@@ -1,0 +1,7 @@
+[2023-08-23 15:50:07] READ 'data/processed/Results.csv.gz': 7552 records
+[2023-08-23 15:50:07] PPROC actions for 'Results' sheet
+[2023-08-23 15:50:07] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2023-08-23 15:50:07] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-23 15:50:07] - PPROC: add columns for panel names
+[2023-08-23 15:50:07] SAVED pre-processed dataset to 'data/processed/Results_ppreprocessed.csv.gz'
+[2023-08-23 15:50:07] DELETED 'data/processed/Results.csv.gz'

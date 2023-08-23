@@ -13,7 +13,8 @@ rule all:
         rw.LOG_PPROC_DEGREES,
         rw.LOG_PPROC_INCOME,
         rw.LOG_PPROC_INCOMEINKIND,
-        rw.LOG_PPROC_RGROUPS
+        rw.LOG_PPROC_RGROUPS,
+        rw.LOG_PPROC_RESULTS
         
 rule setup:
     output:
@@ -42,7 +43,7 @@ rule extract_outputs:
         rw.DATA_EXTRACT_OUTPUTS,
         rw.LOG_EXTRACT_OUTPUTS
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_OUTPUTS}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_OUTPUTS} -hr {rw.RAW_SUBMISSIONS_HEADER_INDEX}"
 
 rule preprocess_outputs:
     input:
@@ -61,7 +62,7 @@ rule extract_impacts:
         rw.DATA_EXTRACT_IMPACTS,
         rw.LOG_EXTRACT_IMPACTS
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_IMPACTS}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_IMPACTS} -hr {rw.RAW_SUBMISSIONS_HEADER_INDEX}"
 
 rule preprocess_impacts:
     input:
@@ -80,7 +81,7 @@ rule extract_degrees:
         rw.DATA_EXTRACT_DEGREES,
         rw.LOG_EXTRACT_DEGREES
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_DEGREES}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_DEGREES} -hr {rw.RAW_SUBMISSIONS_HEADER_INDEX}"
 
 rule preprocess_degrees:
     input:
@@ -99,7 +100,7 @@ rule extract_income:
         rw.DATA_EXTRACT_INCOME,
         rw.LOG_EXTRACT_INCOME
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_INCOME}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_INCOME} -hr {rw.RAW_SUBMISSIONS_HEADER_INDEX}"
 
 rule preprocess_income:
     input:
@@ -118,7 +119,7 @@ rule extract_income_in_kind:
         rw.DATA_EXTRACT_INCOMEINKIND,
         rw.LOG_EXTRACT_INCOMEINKIND
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_INCOMEINKIND}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_INCOMEINKIND} -hr {rw.RAW_SUBMISSIONS_HEADER_INDEX}"
 
 rule preprocess_income_in_kind:
     input:
@@ -137,7 +138,7 @@ rule extract_rgroups:
         rw.DATA_EXTRACT_RGROUPS,
         rw.LOG_EXTRACT_RGROUPS
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_RGROUPS}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_RGROUPS} -hr {rw.RAW_SUBMISSIONS_HEADER_INDEX}"
 
 rule preprocess_rgroups:
     input:
@@ -146,3 +147,22 @@ rule preprocess_rgroups:
         rw.LOG_PPROC_RGROUPS
     shell:
         "python src/preprocess_sheet.py -s {rw.SHEET_RGROUPS}"    
+
+# extract and preprocess RESULTS
+# ------------------------------
+rule extract_results:
+    input:
+        rules.setup.output
+    output:
+        rw.DATA_EXTRACT_RESULTS,
+        rw.LOG_EXTRACT_RESULTS
+    shell:
+        "python src/extract_sheet.py -f {rw.RAW_RESULTS_FNAME} -s {rw.SHEET_RESULTS} -hr {rw.RAW_RESULTS_HEADER_INDEX}"
+
+rule preprocess_results:
+    input:
+        rules.extract_results.output
+    output:
+        rw.LOG_PPROC_RESULTS
+    shell:
+        "python src/preprocess_sheet.py -s {rw.SHEET_RESULTS}"    

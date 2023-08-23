@@ -184,6 +184,28 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     return dset
 
 
+def preprocess_results(dset, sname="Results"):
+    """ Preprocess the data from the Results sheet
+    """
+
+    # pre-processing
+    # --------------
+    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # preprocess institution name
+    dset = preprocess_inst_name(dset)
+    # replace missing values in object columns
+    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+
+    # assign names where we only have codes
+    # -------------------------------------
+    dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    rw.print_tstamp("- PPROC: add columns for panel names")
+
+    return dset
+
+
 def preprocess_sheet(sname):
     """ Preprocess a sheet from the raw data.
 
@@ -220,6 +242,8 @@ def preprocess_sheet(sname):
         dset = preprocess_incomeinkind(dset)
     elif sname == "ResearchGroups":
         dset = preprocess_rgroups(dset)
+    elif sname == "Results":
+        dset = preprocess_results(dset)
     else:
         raise ValueError(f"Unknown sheet name: {sname}")
 
