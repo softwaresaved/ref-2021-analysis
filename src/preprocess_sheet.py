@@ -211,6 +211,19 @@ def preprocess_results(dset, sname="Results"):
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
+    # bin percentages
+    columns = [cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
+               cb.COL_RESULTS_4star,
+               cb.COL_RESULTS_3star,
+               cb.COL_RESULTS_2star,
+               cb.COL_RESULTS_1star,
+               cb.COL_RESULTS_UNCLASSIFIED
+               ]
+    for column in columns:
+        dset = pp.bin_percentages(dset, column, f"{column} (binned)")
+    rw.print_tstamp("- PPROC: bin percentages in the following columns")
+    rw.print_tstamp(f"- {columns}")
+
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)

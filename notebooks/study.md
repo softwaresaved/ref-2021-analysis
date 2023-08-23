@@ -533,4 +533,140 @@ Notes
 ## `Results` data
 
     Read data/processed/Results_ppreprocessed.csv.gz: 7552 records
+    
+                                                    Records  Records (%)
+    Main panel name                                                     
+    Social sciences                                    2636        34.90
+    Arts and humanities                                2216        29.34
+    Physical sciences, engineering and mathematics     1432        18.96
+    Medicine, health and life sciences                 1268        16.79
+
+
+
+    
+![png](study_files/study_17_1.png)
+    
+
+
+    
+                                            Records  Records (%)
+    % of eligible staff submitted (binned)                      
+    (90, 100]                                  4944        65.47
+    (80, 90]                                    356         4.71
+    (40, 50]                                    348         4.61
+    (70, 80]                                    340         4.50
+    (20, 30]                                    312         4.13
+    (60, 70]                                    300         3.97
+    (50, 60]                                    280         3.71
+    (30, 40]                                    268         3.55
+    (10, 20]                                    172         2.28
+    [0, 10]                                      32         0.42
+
+
+
+    
+![png](study_files/study_17_3.png)
+    
+
+
+    
+                      Records  Records (%)
+    4 stars (binned)                      
+    [0, 10]              1795        23.77
+    (40, 50]             1067        14.13
+    (20, 30]              999        13.23
+    (30, 40]              999        13.23
+    (10, 20]              916        12.13
+    (50, 60]              491         6.50
+    (60, 70]              468         6.20
+    (70, 80]              351         4.65
+    (80, 90]              225         2.98
+    (90, 100]             223         2.95
+
+
+
+    
+![png](study_files/study_17_5.png)
+    
+
+
+    
+                      Records  Records (%)
+    3 stars (binned)                      
+    (40, 50]             1891        25.04
+    (30, 40]             1373        18.18
+    (50, 60]              894        11.84
+    (20, 30]              885        11.72
+    (60, 70]              699         9.26
+    [0, 10]               599         7.93
+    (10, 20]              474         6.28
+    (70, 80]              444         5.88
+    (80, 90]              183         2.42
+    (90, 100]              92         1.22
+
+
+
+    
+![png](study_files/study_17_7.png)
+    
+
+
+    
+                      Records  Records (%)
+    2 stars (binned)                      
+    [0, 10]              3167        41.94
+    (10, 20]             1491        19.74
+    (20, 30]             1047        13.86
+    (30, 40]              714         9.45
+    (40, 50]              551         7.30
+    (70, 80]              197         2.61
+    (60, 70]              153         2.03
+    (50, 60]              134         1.77
+    (80, 90]               53         0.70
+    (90, 100]              27         0.36
+
+
+
+    
+![png](study_files/study_17_9.png)
+    
+
+
+    
+                     Records  Records (%)
+    1 star (binned)                      
+    [0, 10]             6723        89.02
+    (10, 20]             336         4.45
+    (20, 30]             196         2.60
+    (30, 40]              93         1.23
+    (40, 50]              92         1.22
+    (70, 80]              33         0.44
+    (60, 70]              26         0.34
+    (90, 100]             18         0.24
+    (50, 60]               9         0.12
+    (80, 90]               8         0.11
+
+
+
+    
+![png](study_files/study_17_11.png)
+    
+
+
+    
+                           Records  Records (%)
+    Unclassified (binned)                      
+    [0, 10]                   7469        98.90
+    (10, 20]                    23         0.30
+    (20, 30]                    18         0.24
+    (40, 50]                    12         0.16
+    (30, 40]                     9         0.12
+    (90, 100]                    2         0.03
+    (70, 80]                     1         0.01
+
+
+
+    
+![png](study_files/study_17_13.png)
+    
 

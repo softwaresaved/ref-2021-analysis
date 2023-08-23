@@ -30,11 +30,17 @@ COL_IMPACT_CORROBORATE = '5. Sources to corroborate the impact'
 # about results
 COL_RESULTS_FTE_STAFF = 'FTE of submitted staff'
 COL_RESULTS_PERC_STAFF_SUBMITTED = '% of eligible staff submitted'
+COL_RESULTS_PERC_STAFF_SUBMITTED_BINNED = f"{COL_RESULTS_PERC_STAFF_SUBMITTED} (binned)"
 COL_RESULTS_4star = '4 stars'
 COL_RESULTS_3star = '3 stars'
 COL_RESULTS_2star = '2 stars'
 COL_RESULTS_1star = '1 star'
 COL_RESULTS_UNCLASSIFIED = 'Unclassified'
+COL_RESULTS_4star_BINNED = f"{COL_RESULTS_4star} (binned)"
+COL_RESULTS_3star_BINNED = f"{COL_RESULTS_3star} (binned)"
+COL_RESULTS_2star_BINNED = f"{COL_RESULTS_2star} (binned)"
+COL_RESULTS_1star_BINNED = f"{COL_RESULTS_1star} (binned)"
+COL_RESULTS_UNCLASSIFIED_BINNED = f"{COL_RESULTS_UNCLASSIFIED} (binned)"
 
 # value to add if no entry in the data
 VALUE_ADDED_NOT_SPECIFIED = 'Not specified - PP ADDED'
