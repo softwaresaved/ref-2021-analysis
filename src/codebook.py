@@ -27,7 +27,14 @@ COL_IMPACT_UNDERPIN_RESEARCH = '2. Underpinning research'
 COL_IMPACT_REFERENCES_RESEARCH = '3. References to the research'
 COL_IMPACT_DETAILS = '4. Details of the impact'
 COL_IMPACT_CORROBORATE = '5. Sources to corroborate the impact'
-
+# about results
+COL_RESULTS_FTE_STAFF = 'FTE of submitted staff'
+COL_RESULTS_PERC_STAFF_SUBMITTED = '% of eligible staff submitted'
+COL_RESULTS_4star = '4 stars'
+COL_RESULTS_3star = '3 stars'
+COL_RESULTS_2star = '2 stars'
+COL_RESULTS_1star = '1 star'
+COL_RESULTS_UNCLASSIFIED = 'Unclassified'
 
 # value to add if no entry in the data
 VALUE_ADDED_NOT_SPECIFIED = 'Not specified - PP ADDED'

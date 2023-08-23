@@ -193,6 +193,19 @@ def preprocess_results(dset, sname="Results"):
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
     # preprocess institution name
     dset = preprocess_inst_name(dset)
+    # replace - in a list of columns with na
+    columns = [cb.COL_RESULTS_4star,
+               cb.COL_RESULTS_3star,
+               cb.COL_RESULTS_2star,
+               cb.COL_RESULTS_1star,
+               cb.COL_RESULTS_UNCLASSIFIED
+               ]   
+    for column in columns:
+        dset[column] = dset[column].replace("-", float("NaN"))
+        dset[column] = dset[column].astype(float)
+    rw.print_tstamp(f"- PPROC: replace '-' with NaN in the following columns")
+    rw.print_tstamp(f"- {columns}")
+
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
