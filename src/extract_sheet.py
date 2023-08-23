@@ -3,7 +3,6 @@ import os
 import pandas as pd
 from io import StringIO
 import sys
-import codebook as cb
 import read_write as rw
 
 

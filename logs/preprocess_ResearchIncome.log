@@ -1,7 +1,7 @@
-[2023-08-22 17:21:41] READ 'data/processed/ResearchIncome.csv.gz': 28637 records
-[2023-08-22 17:21:41] PPROC actions for 'ResearchIncome' sheet
-[2023-08-22 17:21:41] - PPROC: drop empty rows
-[2023-08-22 17:21:41] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-22 17:21:41] - PPROC: add columns for panel names
-[2023-08-22 17:21:42] SAVED pre-processed dataset to 'data/processed/ResearchIncome_ppreprocessed.csv.gz'
-[2023-08-22 17:21:42] DELETED 'data/processed/ResearchIncome.csv.gz'
+[2023-08-23 13:13:45] READ 'data/processed/ResearchIncome.csv.gz': 28637 records
+[2023-08-23 13:13:45] PPROC actions for 'ResearchIncome' sheet
+[2023-08-23 13:13:45] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2023-08-23 13:13:45] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-23 13:13:45] - PPROC: add columns for panel names
+[2023-08-23 13:13:46] SAVED pre-processed dataset to 'data/processed/ResearchIncome_ppreprocessed.csv.gz'
+[2023-08-23 13:13:46] DELETED 'data/processed/ResearchIncome.csv.gz'

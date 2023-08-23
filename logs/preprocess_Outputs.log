@@ -1,13 +1,9 @@
-[2023-08-22 17:22:47] READ 'data/processed/Outputs.csv.gz': 185353 records
-[2023-08-22 17:22:47] PPROC actions for 'Outputs' sheet
-[2023-08-22 17:22:47] - PPROC: drop empty rows
-[2023-08-22 17:22:48] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-22 17:22:49] - PPROC: replace styling characters in the following columns
-[2023-08-22 17:22:49] - ['Title']
-[2023-08-22 17:22:49] - PPROC: add columns for panel and output types names
-[2023-08-22 17:22:49] SAVED 'type_software' subset to 'data/processed/subsets/Outputs_ppreprocessed_type_software.csv.gz': 11 records
-[2023-08-22 17:22:49] SAVED 'title_software_terms' subset to 'data/processed/subsets/Outputs_ppreprocessed_title_software_terms.csv.gz': 337 records
-[2023-08-22 17:22:49] - list of terms used:
-- ['computation']
-[2023-08-22 17:22:59] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
-[2023-08-22 17:22:59] DELETED 'data/processed/Outputs.csv.gz'
+[2023-08-23 13:14:26] READ 'data/processed/Outputs.csv.gz': 185353 records
+[2023-08-23 13:14:26] PPROC actions for 'Outputs' sheet
+[2023-08-23 13:14:26] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2023-08-23 13:14:26] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-23 13:14:27] - PPROC: replace styling characters in the following columns
+[2023-08-23 13:14:27] - ['Title']
+[2023-08-23 13:14:27] - PPROC: add columns for panel and output types names
+[2023-08-23 13:14:35] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
+[2023-08-23 13:14:35] DELETED 'data/processed/Outputs.csv.gz'

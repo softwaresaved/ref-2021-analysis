@@ -1,13 +1,10 @@
-[2023-08-22 17:21:56] READ 'data/processed/ImpactCaseStudies.csv.gz': 6361 records
-[2023-08-22 17:21:56] PPROC actions for 'ImpactCaseStudies' sheet
-[2023-08-22 17:21:56] - PPROC: drop empty rows
-[2023-08-22 17:21:56] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-22 17:21:56] - PPROC: shift columns from title to the left to fix raw data issue 
-[2023-08-22 17:21:59] - PPROC: replace styling characters in the following columns
-[2023-08-22 17:21:59] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
-[2023-08-22 17:21:59] - PPROC: add column for panels names
-[2023-08-22 17:21:59] SAVED 'title_summary_software_terms' subset to 'data/processed/subsets/ImpactCaseStudies_ppreprocessed_title_summary_software_terms.csv.gz': 48 records
-[2023-08-22 17:21:59] - list of terms used:
-- ['computation']
-[2023-08-22 17:22:15] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
-[2023-08-22 17:22:15] DELETED 'data/processed/ImpactCaseStudies.csv.gz'
+[2023-08-23 13:13:54] READ 'data/processed/ImpactCaseStudies.csv.gz': 6361 records
+[2023-08-23 13:13:54] PPROC actions for 'ImpactCaseStudies' sheet
+[2023-08-23 13:13:54] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2023-08-23 13:13:54] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-23 13:13:54] - PPROC: shift columns from title to the left to fix raw data issue 
+[2023-08-23 13:13:56] - PPROC: replace styling characters in the following columns
+[2023-08-23 13:13:56] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
+[2023-08-23 13:13:56] - PPROC: add column for panels names
+[2023-08-23 13:14:05] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
+[2023-08-23 13:14:05] DELETED 'data/processed/ImpactCaseStudies.csv.gz'

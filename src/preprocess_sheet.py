@@ -9,6 +9,24 @@ import codebook as cb
 import preprocess as pp
 
 
+def preprocess_inst_name(dset):
+    """ Preprocess the institution name column
+        to replace characters that are not allowed in filenames.
+
+    Args:
+        dset (pd.DataFrame): Dataset to preprocess
+
+    Returns:
+        pd.DataFrame:  Dataset with cb.COL_INST_NAME column processed.
+    """
+    chars_to_replace = ["/", ":"]
+    for char_to_replace in chars_to_replace:
+        dset[cb.COL_INST_NAME] = dset[cb.COL_INST_NAME].str.replace(char_to_replace, "_")
+    rw.print_tstamp(f"- PPROC: replace '{chars_to_replace}' with '_' in '{cb.COL_INST_NAME}'")
+
+    return dset
+
+
 def preprocess_outputs(dset, sname="Outputs"):
     """ Preprocess the data from the Outputs sheet
     """
@@ -16,9 +34,8 @@ def preprocess_outputs(dset, sname="Outputs"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    # drop empty rows
-    dset = dset.dropna(how='all')
-    rw.print_tstamp("- PPROC: drop empty rows")
+    # preprocess institution name
+    dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
@@ -37,28 +54,6 @@ def preprocess_outputs(dset, sname="Outputs"):
     dset[cb.COL_OUTPUT_TYPE_NAME] = dset[cb.COL_OUTPUT_TYPE_CODE].map(cb.OUTPUT_TYPE_NAMES)
     rw.print_tstamp("- PPROC: add columns for panel and output types names")
 
-    # select and save the outputs of type 'Software'
-    target_output_type = "Software"
-    fsuffix = f"type_{target_output_type.lower()}"
-    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}{rw.DATA_PPROCESS}_{fsuffix}{rw.DATA_EXT}")
-    fpath = os.path.join(rw.PROJECT_PATH, fname)
-    dset_selected = dset[dset[cb.COL_OUTPUT_TYPE_NAME] == target_output_type]
-    dset_selected.to_csv(fpath, index=False, compression='gzip')
-
-    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
-
-    # select and save the records that contain software-related terms defined by root in title
-    dset_selected = pd.DataFrame()
-    for term in cb.TERMS_SOFTWARE_RELATED_ROOTS:
-        dset_selected = dset_selected.append(dset[dset[cb.COL_OUTPUT_TITLE].str.contains(term)])
-    dset_selected = dset_selected.drop_duplicates(subset=[cb.COL_OUTPUT_TITLE])
-    fsuffix = "title_software_terms"
-    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}{rw.DATA_PPROCESS}_{fsuffix}{rw.DATA_EXT}")
-    fpath = os.path.join(rw.PROJECT_PATH, fname)
-    dset_selected.to_csv(fpath, index=False, compression='gzip')
-    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
-    rw.print_tstamp(f"- list of terms used:\n- {cb.TERMS_SOFTWARE_RELATED_ROOTS}")
-
     return dset
 
 
@@ -69,9 +64,8 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    # drop empty rows
-    dset = dset.dropna(how='all')
-    rw.print_tstamp("- PPROC: drop empty rows")
+    # preprocess institution name
+    dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
@@ -99,20 +93,6 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     rw.print_tstamp("- PPROC: add column for panels names")
 
-    # select and save the records that contain software-related terms defined by root in title
-    dset_selected = pd.DataFrame()
-    columns = [cb.COL_IMPACT_TITLE, cb.COL_IMPACT_SUMMARY]
-    for column in columns:
-        for term in cb.TERMS_SOFTWARE_RELATED_ROOTS:
-            dset_selected = dset_selected.append(dset[dset[column].str.contains(term)])
-    dset_selected = dset_selected.drop_duplicates(subset=columns)
-    fsuffix = "title_summary_software_terms"
-    fname = os.path.join(rw.SUBSETS_PATH, f"{sname}{rw.DATA_PPROCESS}_{fsuffix}{rw.DATA_EXT}")
-    fpath = os.path.join(rw.PROJECT_PATH, fname)
-    dset_selected.to_csv(fpath, index=False, compression='gzip')
-    rw.print_tstamp(f"SAVED '{fsuffix}' subset to '{fname}': {dset_selected.shape[0]} records")
-    rw.print_tstamp(f"- list of terms used:\n- {cb.TERMS_SOFTWARE_RELATED_ROOTS}")
-
     return dset
 
 
@@ -123,9 +103,8 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    # drop empty rows
-    dset = dset.dropna(how='all')
-    rw.print_tstamp("- PPROC: drop empty rows")
+    # preprocess institution name
+    dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
@@ -146,9 +125,8 @@ def preprocess_income(dset, sname="ResearchIncome"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    # drop empty rows
-    dset = dset.dropna(how='all')
-    rw.print_tstamp("- PPROC: drop empty rows")
+    # preprocess institution name
+    dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
@@ -169,9 +147,8 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    # drop empty rows
-    dset = dset.dropna(how='all')
-    rw.print_tstamp("- PPROC: drop empty rows")
+    # preprocess institution name
+    dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
@@ -192,9 +169,8 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     # pre-processing
     # --------------
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
-    # drop empty rows
-    dset = dset.dropna(how='all')
-    rw.print_tstamp("- PPROC: drop empty rows")
+    # preprocess institution name
+    dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)

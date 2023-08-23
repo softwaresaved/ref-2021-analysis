@@ -23,3 +23,23 @@ def clean_styling(dset, column):
         dset[column] = dset[column].str.replace(text, "", regex=False)
 
     return dset
+
+
+def clean_fnames(fnames, template="", extension="", do_sort=True):
+    """ Clean a list of filenames by removing a template and an extension.
+
+    Args:
+        fnames (list): List of filenames to clean.
+        template (str): Template to remove from the filenames.
+        extension (str): Extension to remove from the filenames.
+        do_sort (bool): If True, sort the filenames.
+
+    Returns:
+        list: List of cleaned filenames. Filenames are sorted if do_sort is True.
+    """
+
+    cleaned_fnames = [fname.replace(template, "").replace(extension, "") for fname in fnames]
+    if do_sort:
+        cleaned_fnames.sort()
+
+    return cleaned_fnames

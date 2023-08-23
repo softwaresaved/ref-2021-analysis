@@ -1,6 +1,8 @@
 import os
 import shutil
 import datetime
+import pandas as pd
+import codebook as cb
 
 # logs
 LOG_PATH = "logs/"
@@ -123,3 +125,28 @@ def create_folders():
 
     if not created_folder:
         print_tstamp("All required folders already exist")
+
+
+def get_data(fname, do_sort=True):
+    """ Read a csv file and return a dataset and a list of institution names.
+
+    Args:
+        fname (str): Filename of the csv file to read.
+        do_sort (bool): If True, sort the institution names.
+
+    Returns:
+        tuple: A tuple containing:
+            - pd.DataFrame: Dataset read from the csv file.
+            - list: List of institution names
+    """
+
+    dset = pd.read_csv(os.path.join(PROJECT_PATH, fname),
+                       index_col=None,
+                       dtype={0: str})
+    print(f"Read {fname}: {dset.shape[0]} records")
+    inst_names = dset[cb.COL_INST_NAME].unique()
+
+    if do_sort:
+        inst_names.sort()
+
+    return (dset, inst_names)
