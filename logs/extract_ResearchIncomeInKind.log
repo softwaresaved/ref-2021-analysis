@@ -1,3 +1,3 @@
-[2023-08-23 13:13:42] READ 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-[2023-08-23 13:13:42] EXTRACTED 'ResearchIncomeInKind' sheet: 4093 records
-[2023-08-23 13:13:42] SAVED 'ResearchIncomeInKind' sheet to 'data/processed/ResearchIncomeInKind.csv.gz'
+[2023-08-23 15:12:16] READ 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+[2023-08-23 15:12:17] EXTRACTED 'ResearchIncomeInKind' sheet: 4093 records
+[2023-08-23 15:12:17] SAVED 'ResearchIncomeInKind' sheet to 'data/processed/ResearchIncomeInKind.csv.gz'

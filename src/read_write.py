@@ -28,7 +28,7 @@ REQUIRED_FOLDERS = [LOG_PATH,
                     ]
 
 # data files
-RAW_FNAME = f"{RAW_PATH}REF-2021-Submissions-All-2022-07-27.xlsx"
+RAW_SUBMISSIONS_FNAME = f"{RAW_PATH}REF-2021-Submissions-All-2022-07-27.xlsx"
 ENV_FNAME = f"{RAW_PATH}REF-2021-EnvironmentStatements-Extract-2023-08-22.zip"
 SHEETS = ["Outputs",
           "ImpactCaseStudies",

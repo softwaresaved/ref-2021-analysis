@@ -6,7 +6,7 @@ import read_write as rw
 
 rule all:
     input:
-        rw.RAW_FNAME,
+        rw.RAW_SUBMISSIONS_FNAME,
         rw.LOG_SETUP,
         rw.LOG_PPROC_OUTPUTS,
         rw.LOG_PPROC_IMPACTS,
@@ -42,7 +42,7 @@ rule extract_outputs:
         rw.DATA_EXTRACT_OUTPUTS,
         rw.LOG_EXTRACT_OUTPUTS
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_OUTPUTS}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_OUTPUTS}"
 
 rule preprocess_outputs:
     input:
@@ -61,7 +61,7 @@ rule extract_impacts:
         rw.DATA_EXTRACT_IMPACTS,
         rw.LOG_EXTRACT_IMPACTS
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_IMPACTS}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_IMPACTS}"
 
 rule preprocess_impacts:
     input:
@@ -80,7 +80,7 @@ rule extract_degrees:
         rw.DATA_EXTRACT_DEGREES,
         rw.LOG_EXTRACT_DEGREES
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_DEGREES}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_DEGREES}"
 
 rule preprocess_degrees:
     input:
@@ -99,7 +99,7 @@ rule extract_income:
         rw.DATA_EXTRACT_INCOME,
         rw.LOG_EXTRACT_INCOME
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_INCOME}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_INCOME}"
 
 rule preprocess_income:
     input:
@@ -118,7 +118,7 @@ rule extract_income_in_kind:
         rw.DATA_EXTRACT_INCOMEINKIND,
         rw.LOG_EXTRACT_INCOMEINKIND
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_INCOMEINKIND}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_INCOMEINKIND}"
 
 rule preprocess_income_in_kind:
     input:
@@ -137,7 +137,7 @@ rule extract_rgroups:
         rw.DATA_EXTRACT_RGROUPS,
         rw.LOG_EXTRACT_RGROUPS
     shell:
-        "python src/extract_sheet.py -f {rw.RAW_FNAME} -s {rw.SHEET_RGROUPS}"
+        "python src/extract_sheet.py -f {rw.RAW_SUBMISSIONS_FNAME} -s {rw.SHEET_RGROUPS}"
 
 rule preprocess_rgroups:
     input:
