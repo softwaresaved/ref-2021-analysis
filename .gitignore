@@ -1,4 +1,5 @@
 **/__pycache__/
 .snakemake/
 /venv/
+extra/
 data/raw/REF-2021-EnvironmentStatements-Extract-2023-08-22.zip
