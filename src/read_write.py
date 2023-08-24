@@ -3,6 +3,7 @@ import shutil
 import datetime
 import pandas as pd
 import codebook as cb
+import preprocess as pp
 
 # logs
 LOG_PATH = "logs/"
@@ -144,10 +145,45 @@ def get_data(fname, do_sort=True):
             - list: List of institution names
     """
 
+    # defines types to read
+    dtype = {cb.COL_INST_CODE: 'category',
+             cb.COL_PANEL_NAME: 'category',
+             cb.COL_UOA_NAME: 'category'
+             }
+    # binned percentages and various categories, depending on file
+    binned_perc_columns = []
+    categories_columns = []
+    if "Results_" in fname:
+        binned_perc_columns = [cb.COL_RESULTS_1star_BINNED,
+                               cb.COL_RESULTS_2star_BINNED,
+                               cb.COL_RESULTS_3star_BINNED,
+                               cb.COL_RESULTS_4star_BINNED,
+                               cb.COL_RESULTS_UNCLASSIFIED_BINNED,
+                               cb.COL_RESULTS_PERC_STAFF_SUBMITTED_BINNED
+                               ]
+    elif "Outputs_" in fname:
+        categories_columns = [cb.COL_OUTPUT_TYPE_NAME,
+                              cb.COL_OPEN_ACCESS
+                              ]
+
+    for column in binned_perc_columns:
+        dtype[column] = 'category'
+
+    for column in categories_columns:
+        dtype[column] = 'category'
+
     dset = pd.read_csv(os.path.join(PROJECT_PATH, fname),
                        index_col=None,
-                       dtype={0: str})
+                       dtype=dtype)
     print(f"Read {fname}: {dset.shape[0]} records")
+
+    # set the category order for the binned percentages
+    for column in binned_perc_columns:
+        dset[column] = pd.Categorical(dset[column],
+                                      categories=pp.bin_percentages_labels(),
+                                      ordered=True)
+
+    # get institution names as list
     inst_names = dset[cb.COL_INST_NAME].unique()
 
     if do_sort:

@@ -1,6 +1,8 @@
 """ This module contains functions for preprocessing the data """
 import pandas as pd
 
+PERCENTAGE_BINS = range(0, 101, 10)
+
 
 def clean_styling(dset, column):
 
@@ -46,6 +48,20 @@ def clean_fnames(fnames, template="", extension="", do_sort=True):
     return cleaned_fnames
 
 
+def bin_percentages_labels():
+    """ Create bin percentage labels.
+
+        Returns:
+            labels (list): list of labels
+    """
+
+    bins = PERCENTAGE_BINS
+    labels = [f"({bins[i]}, {bins[i+1]}]" for i in range(len(bins)-1)]
+    labels[0] = f"[{bins[0]}, {bins[1]}]"
+
+    return labels
+
+
 def bin_percentages(dset, column, column_binned):
     """ Bin percentages in a column of a dataset.
 
@@ -58,11 +74,11 @@ def bin_percentages(dset, column, column_binned):
             dset (pandas.DataFrame): dataset with new column
     """
 
-    bins = range(0, 101, 10)
-    labels = [f"({bins[i]}, {bins[i+1]}]" for i in range(len(bins)-1)]
-    labels[0] = f"[{bins[0]}, {bins[1]}]"
+    labels = bin_percentages_labels()
+    # labels = [f"({bins[i]}, {bins[i+1]}]" for i in range(len(bins)-1)]
+    # labels[0] = f"[{bins[0]}, {bins[1]}]"
     dset[column_binned] = pd.cut(dset[column],
-                                 bins=bins,
+                                 bins=PERCENTAGE_BINS,
                                  right=True,
                                  include_lowest=True,
                                  labels=labels

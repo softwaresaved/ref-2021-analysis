@@ -34,25 +34,25 @@ Notes
     
                                           Records  Records (%)
     Output type name                                          
-    Journal article                        154826        83.53
+    Artefact                                  378         0.20
     Authored book                           11801         6.37
     Chapter in book                          9475         5.11
-    Conference contribution                  2272         1.23
-    Edited book                              2135         1.15
-    Other                                    1146         0.62
-    Exhibition                                751         0.41
-    Research report for external body         431         0.23
     Composition                               430         0.23
-    Working paper                             390         0.21
-    Artefact                                  378         0.20
-    Digital or visual media                   360         0.19
-    Scholarly edition                         329         0.18
-    Performance                               312         0.17
+    Conference contribution                  2272         1.23
     Design                                    119         0.06
-    Website content                            67         0.04
-    Translation                                38         0.02
+    Digital or visual media                   360         0.19
+    Edited book                              2135         1.15
+    Exhibition                                751         0.41
+    Journal article                        154826        83.53
+    Other                                    1146         0.62
     Patent/ published patent application       37         0.02
+    Performance                               312         0.17
     Research data sets and databases           31         0.02
+    Research report for external body         431         0.23
+    Scholarly edition                         329         0.18
+    Translation                                38         0.02
+    Website content                            67         0.04
+    Working paper                             390         0.21
     Devices and products                       14         0.01
     Software                                   11         0.01
 
@@ -66,15 +66,15 @@ Notes
     
                                                Records  Records (%)
     Open access status                                             
+    Access exception                              1166         0.63
     Compliant                                    85913        46.35
-    Out of scope for open access requirements    58482        31.55
-    Not specified - PP ADDED                     24173        13.04
-    Technical exception                           4879         2.63
     Deposit exception                             4748         2.56
     Exception within 3 months of publication      2581         1.39
     Not compliant                                 2401         1.30
-    Access exception                              1166         0.63
+    Not specified - PP ADDED                     24173        13.04
     Other exception                               1010         0.54
+    Out of scope for open access requirements    58482        31.55
+    Technical exception                           4879         2.63
 
 
 
@@ -89,14 +89,22 @@ Notes
     
     'Output type name' as 'Software' - 11 records
     
-                              Records  Records (%)
-    Open access status                            
-    Not specified - PP ADDED       11       100.00
+                                               Records  Records (%)
+    Open access status                                             
+    Not specified - PP ADDED                        11       100.00
+    Access exception                                 0         0.00
+    Compliant                                        0         0.00
+    Deposit exception                                0         0.00
+    Exception within 3 months of publication         0         0.00
+    Not compliant                                    0         0.00
+    Other exception                                  0         0.00
+    Out of scope for open access requirements        0         0.00
+    Technical exception                              0         0.00
     
-                              Records  Records (%)
-    Interdisciplinary                             
-    Not specified - PP ADDED        8        72.73
-    Yes                             3        27.27
+                       Records  Records (%)
+    Interdisciplinary                      
+    No                       8        72.73
+    Yes                      3        27.27
     
                                     Records  Records (%)
     Institution name                                    
@@ -115,15 +123,12 @@ Notes
     Arts and humanities                                   6        54.55
     Social sciences                                       3        27.27
     Physical sciences, engineering and mathematics        2        18.18
+    Medicine, health and life sciences                    0         0.00
     
-                              Records  Records (%)
-    Citations applicable                          
-    Not specified - PP ADDED        9        81.82
-    Yes                             2        18.18
-    
-                               Records  Records (%)
-    Supplementary information                      
-    Not specified - PP ADDED        11       100.00
+                          Records  Records (%)
+    Citations applicable                      
+    No                          9        81.82
+    Yes                         2        18.18
 
 
 #### Records with `computation` in `Title`
@@ -132,14 +137,29 @@ Notes
     
     'Title' containing 'computation' - 596 records
     
-                             Records  Records (%)
-    Output type name                             
-    Journal article              560        93.96
-    Conference contribution       22         3.69
-    Authored book                  8         1.34
-    Chapter in book                4         0.67
-    Edited book                    1         0.17
-    Working paper                  1         0.17
+                                          Records  Records (%)
+    Output type name                                          
+    Journal article                           560        93.96
+    Conference contribution                    22         3.69
+    Authored book                               8         1.34
+    Chapter in book                             4         0.67
+    Working paper                               1         0.17
+    Edited book                                 1         0.17
+    Artefact                                    0         0.00
+    Research data sets and databases            0         0.00
+    Devices and products                        0         0.00
+    Website content                             0         0.00
+    Translation                                 0         0.00
+    Scholarly edition                           0         0.00
+    Research report for external body           0         0.00
+    Other                                       0         0.00
+    Performance                                 0         0.00
+    Patent/ published patent application        0         0.00
+    Exhibition                                  0         0.00
+    Digital or visual media                     0         0.00
+    Design                                      0         0.00
+    Composition                                 0         0.00
+    Software                                    0         0.00
     
                                                Records  Records (%)
     Open access status                                             
@@ -149,14 +169,14 @@ Notes
     Deposit exception                               14         2.35
     Technical exception                             12         2.01
     Not compliant                                    7         1.17
-    Exception within 3 months of publication         6         1.01
     Access exception                                 6         1.01
+    Exception within 3 months of publication         6         1.01
     Other exception                                  4         0.67
     
-                              Records  Records (%)
-    Interdisciplinary                             
-    Not specified - PP ADDED      508        85.23
-    Yes                            88        14.77
+                       Records  Records (%)
+    Interdisciplinary                      
+    No                     508        85.23
+    Yes                     88        14.77
     
                                                     Records  Records (%)
     Main panel name                                                     
@@ -536,10 +556,10 @@ Notes
     
                                                     Records  Records (%)
     Main panel name                                                     
-    Social sciences                                    2636        34.90
     Arts and humanities                                2216        29.34
-    Physical sciences, engineering and mathematics     1432        18.96
     Medicine, health and life sciences                 1268        16.79
+    Physical sciences, engineering and mathematics     1432        18.96
+    Social sciences                                    2636        34.90
 
 
 
@@ -551,16 +571,16 @@ Notes
     
                                             Records  Records (%)
     % of eligible staff submitted (binned)                      
-    (90, 100]                                  4944        65.47
-    (80, 90]                                    356         4.71
-    (40, 50]                                    348         4.61
-    (70, 80]                                    340         4.50
-    (20, 30]                                    312         4.13
-    (60, 70]                                    300         3.97
-    (50, 60]                                    280         3.71
-    (30, 40]                                    268         3.55
-    (10, 20]                                    172         2.28
     [0, 10]                                      32         0.42
+    (10, 20]                                    172         2.28
+    (20, 30]                                    312         4.13
+    (30, 40]                                    268         3.55
+    (40, 50]                                    348         4.61
+    (50, 60]                                    280         3.71
+    (60, 70]                                    300         3.97
+    (70, 80]                                    340         4.50
+    (80, 90]                                    356         4.71
+    (90, 100]                                  4944        65.47
 
 
 
@@ -573,10 +593,10 @@ Notes
                       Records  Records (%)
     4 stars (binned)                      
     [0, 10]              1795        23.77
-    (40, 50]             1067        14.13
+    (10, 20]              916        12.13
     (20, 30]              999        13.23
     (30, 40]              999        13.23
-    (10, 20]              916        12.13
+    (40, 50]             1067        14.13
     (50, 60]              491         6.50
     (60, 70]              468         6.20
     (70, 80]              351         4.65
@@ -593,13 +613,13 @@ Notes
     
                       Records  Records (%)
     3 stars (binned)                      
-    (40, 50]             1891        25.04
-    (30, 40]             1373        18.18
-    (50, 60]              894        11.84
-    (20, 30]              885        11.72
-    (60, 70]              699         9.26
     [0, 10]               599         7.93
     (10, 20]              474         6.28
+    (20, 30]              885        11.72
+    (30, 40]             1373        18.18
+    (40, 50]             1891        25.04
+    (50, 60]              894        11.84
+    (60, 70]              699         9.26
     (70, 80]              444         5.88
     (80, 90]              183         2.42
     (90, 100]              92         1.22
@@ -619,9 +639,9 @@ Notes
     (20, 30]             1047        13.86
     (30, 40]              714         9.45
     (40, 50]              551         7.30
-    (70, 80]              197         2.61
-    (60, 70]              153         2.03
     (50, 60]              134         1.77
+    (60, 70]              153         2.03
+    (70, 80]              197         2.61
     (80, 90]               53         0.70
     (90, 100]              27         0.36
 
@@ -640,11 +660,11 @@ Notes
     (20, 30]             196         2.60
     (30, 40]              93         1.23
     (40, 50]              92         1.22
-    (70, 80]              33         0.44
-    (60, 70]              26         0.34
-    (90, 100]             18         0.24
     (50, 60]               9         0.12
+    (60, 70]              26         0.34
+    (70, 80]              33         0.44
     (80, 90]               8         0.11
+    (90, 100]             18         0.24
 
 
 
@@ -659,10 +679,13 @@ Notes
     [0, 10]                   7469        98.90
     (10, 20]                    23         0.30
     (20, 30]                    18         0.24
-    (40, 50]                    12         0.16
     (30, 40]                     9         0.12
-    (90, 100]                    2         0.03
+    (40, 50]                    12         0.16
+    (50, 60]                     0         0.00
+    (60, 70]                     0         0.00
     (70, 80]                     1         0.01
+    (80, 90]                     0         0.00
+    (90, 100]                    2         0.03
 
 
 

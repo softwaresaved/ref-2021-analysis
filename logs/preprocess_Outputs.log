@@ -1,9 +1,10 @@
-[2023-08-23 15:51:29] READ 'data/processed/Outputs.csv.gz': 185353 records
-[2023-08-23 15:51:29] PPROC actions for 'Outputs' sheet
-[2023-08-23 15:51:29] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2023-08-23 15:51:30] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-23 15:51:31] - PPROC: replace styling characters in the following columns
-[2023-08-23 15:51:31] - ['Title']
-[2023-08-23 15:51:31] - PPROC: add columns for panel and output types names
-[2023-08-23 15:51:40] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
-[2023-08-23 15:51:40] DELETED 'data/processed/Outputs.csv.gz'
+[2023-08-24 09:12:41] READ 'data/processed/Outputs.csv.gz': 185353 records
+[2023-08-24 09:12:41] PPROC actions for 'Outputs' sheet
+[2023-08-24 09:12:41] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2023-08-24 09:12:41] - PPROC: replace NaN with 'No' in '['Citations applicable', 'Interdisciplinary']'
+[2023-08-24 09:12:41] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-24 09:12:42] - PPROC: replace styling characters in the following columns
+[2023-08-24 09:12:42] - ['Title']
+[2023-08-24 09:12:43] - PPROC: add columns for panel and output types names
+[2023-08-24 09:12:50] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
+[2023-08-24 09:12:50] DELETED 'data/processed/Outputs.csv.gz'

@@ -36,6 +36,14 @@ def preprocess_outputs(dset, sname="Outputs"):
     rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
     # preprocess institution name
     dset = preprocess_inst_name(dset)
+
+    # replace na in cb.COL_OUTPUT_CITATIONS with "No"
+    columns = [cb.COL_OUTPUT_CITATIONS, cb.COL_OUTPUT_INTERDISCIPLINARY]
+    text_to_replace = "No"
+    for column in columns:
+        dset[column] = dset[column].fillna(text_to_replace)
+    rw.print_tstamp(f"- PPROC: replace NaN with '{text_to_replace}' in '{columns}'")
+
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
@@ -194,16 +202,17 @@ def preprocess_results(dset, sname="Results"):
     # preprocess institution name
     dset = preprocess_inst_name(dset)
     # replace - in a list of columns with na
+    text_to_replace = "-"
     columns = [cb.COL_RESULTS_4star,
                cb.COL_RESULTS_3star,
                cb.COL_RESULTS_2star,
                cb.COL_RESULTS_1star,
                cb.COL_RESULTS_UNCLASSIFIED
-               ]   
+               ]
     for column in columns:
-        dset[column] = dset[column].replace("-", float("NaN"))
+        dset[column] = dset[column].replace(text_to_replace, float("NaN"))
         dset[column] = dset[column].astype(float)
-    rw.print_tstamp(f"- PPROC: replace '-' with NaN in the following columns")
+    rw.print_tstamp(f"- PPROC: replace '{text_to_replace}' with NaN in the following columns")
     rw.print_tstamp(f"- {columns}")
 
     # replace missing values in object columns

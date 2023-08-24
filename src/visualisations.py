@@ -9,6 +9,7 @@ def calculate_and_visualise_counts(dset,
                                    plot_xlabel="",
                                    plot_ylabel="",
                                    plot_title="",
+                                   sort=True,
                                    figure_size=(10, 10)
                                    ):
     """ Calculate and visualise counts and percentages for a column.
@@ -26,7 +27,7 @@ def calculate_and_visualise_counts(dset,
     col_count = "Records"
     col_perc = "Records (%)"
     # calculate counts and percentages
-    dset_stats = dset[col].value_counts().to_frame(name=col_count)
+    dset_stats = dset[col].value_counts(sort=sort).to_frame(name=col_count)
     dset_stats[col_perc] = 100 * dset_stats[col_count] / dset.shape[0]
     dset_stats.index.name = col
     nrecords = dset_stats[col_count].sum()
