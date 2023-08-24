@@ -1,6 +1,8 @@
 """ Visualisations functions"""
 import matplotlib.pyplot as plt
 
+FIGURE_BGCOLOR = 'white'
+
 
 def calculate_and_visualise_counts(dset,
                                    col,
@@ -47,7 +49,7 @@ def calculate_and_visualise_counts(dset,
                                   xlabel=plot_xlabel,
                                   ylabel=plot_ylabel,
                                   )
-        # set the figure size
+        plt.gcf().set_facecolor(FIGURE_BGCOLOR)
         plt.gcf().set_size_inches(figure_size)
         plt.show()
 
