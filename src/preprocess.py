@@ -82,8 +82,9 @@ def bin_percentages_labels():
     """
 
     bins = PERCENTAGE_BINS
-    labels = [f"({bins[i]}, {bins[i+1]}]" for i in range(len(bins)-1)]
-    labels[0] = f"[{bins[0]}, {bins[1]}]"
+    labels = [f"{bins[i]} to {bins[i+1]} %" for i in range(len(bins)-1)]
+    # labels = [f"({bins[i]}, {bins[i+1]}]" for i in range(len(bins)-1)]
+    # labels[0] = f"[{bins[0]}, {bins[1]}]"
 
     return labels
 

@@ -1,14 +1,14 @@
-[2023-08-25 12:26:51] READ 'data/processed/Outputs.csv.gz': 185353 records
-[2023-08-25 12:26:51] PPROC actions for 'Outputs' sheet
-[2023-08-25 12:26:51] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 12:26:51] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 12:26:51] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 12:26:51] - PPROC: rename 'Output type' to 'Output type code'
-[2023-08-25 12:26:52] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 12:26:52] - PPROC: replace NaN with 'No' in '['Citations applicable', 'Interdisciplinary']'
-[2023-08-25 12:26:52] - PPROC: replace missing values with 'Not specified'
-[2023-08-25 12:26:53] - PPROC: replace styling characters in the following columns
-[2023-08-25 12:26:53] - ['Title']
-[2023-08-25 12:26:53] - PPROC: add columns for panel and output types names
-[2023-08-25 12:27:01] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
-[2023-08-25 12:27:01] DELETED 'data/processed/Outputs.csv.gz'
+[2023-08-25 16:52:14] READ 'data/processed/Outputs.csv.gz': 185353 records
+[2023-08-25 16:52:14] PPROC actions for 'Outputs' sheet
+[2023-08-25 16:52:14] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-25 16:52:14] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-25 16:52:14] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-25 16:52:14] - PPROC: rename 'Output type' to 'Output type code'
+[2023-08-25 16:52:14] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-25 16:52:14] - PPROC: replace NaN with 'No' in '['Citations applicable', 'Interdisciplinary']'
+[2023-08-25 16:52:15] - PPROC: replace missing values with 'Not specified'
+[2023-08-25 16:52:16] - PPROC: replace styling characters in the following columns
+[2023-08-25 16:52:16] - ['Title']
+[2023-08-25 16:52:16] - PPROC: add columns for panel and output types names
+[2023-08-25 16:52:24] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
+[2023-08-25 16:52:24] DELETED 'data/processed/Outputs.csv.gz'

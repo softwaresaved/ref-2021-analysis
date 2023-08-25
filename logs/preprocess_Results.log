@@ -1,14 +1,14 @@
-[2023-08-25 12:25:53] READ 'data/processed/Results.csv.gz': 7552 records
-[2023-08-25 12:25:53] PPROC actions for 'Results' sheet
-[2023-08-25 12:25:53] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 12:25:53] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 12:25:53] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 12:25:53] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 12:25:53] - PPROC: replace '-' with NaN in the following columns
-[2023-08-25 12:25:53] - ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
-[2023-08-25 12:25:53] - PPROC: replace missing values with 'Not specified'
-[2023-08-25 12:25:53] - PPROC: bin percentages in the following columns
-[2023-08-25 12:25:53] - ['% of eligible staff submitted', '4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
-[2023-08-25 12:25:53] - PPROC: add columns for panel names
-[2023-08-25 12:25:53] SAVED pre-processed dataset to 'data/processed/Results_ppreprocessed.csv.gz'
-[2023-08-25 12:25:53] DELETED 'data/processed/Results.csv.gz'
+[2023-08-25 16:51:15] READ 'data/processed/Results.csv.gz': 7552 records
+[2023-08-25 16:51:15] PPROC actions for 'Results' sheet
+[2023-08-25 16:51:15] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-25 16:51:15] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-25 16:51:15] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-25 16:51:15] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-25 16:51:15] - PPROC: replace '-' with NaN in the following columns
+[2023-08-25 16:51:15] - ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+[2023-08-25 16:51:15] - PPROC: replace missing values with 'Not specified'
+[2023-08-25 16:51:15] - PPROC: bin percentages in the following columns
+[2023-08-25 16:51:15] - ['% of eligible staff submitted', '4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+[2023-08-25 16:51:15] - PPROC: add columns for panel names
+[2023-08-25 16:51:15] SAVED pre-processed dataset to 'data/processed/Results_ppreprocessed.csv.gz'
+[2023-08-25 16:51:15] DELETED 'data/processed/Results.csv.gz'

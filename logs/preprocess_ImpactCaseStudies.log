@@ -1,13 +1,13 @@
-[2023-08-25 12:26:16] READ 'data/processed/ImpactCaseStudies.csv.gz': 6361 records
-[2023-08-25 12:26:16] PPROC actions for 'ImpactCaseStudies' sheet
-[2023-08-25 12:26:16] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 12:26:16] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 12:26:16] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 12:26:16] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 12:26:16] - PPROC: replace missing values with 'Not specified'
-[2023-08-25 12:26:16] - PPROC: shift columns from title to the left to fix raw data issue 
-[2023-08-25 12:26:18] - PPROC: replace styling characters in the following columns
-[2023-08-25 12:26:18] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
-[2023-08-25 12:26:18] - PPROC: add column for panels names
-[2023-08-25 12:26:28] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
-[2023-08-25 12:26:28] DELETED 'data/processed/ImpactCaseStudies.csv.gz'
+[2023-08-25 16:51:39] READ 'data/processed/ImpactCaseStudies.csv.gz': 6361 records
+[2023-08-25 16:51:39] PPROC actions for 'ImpactCaseStudies' sheet
+[2023-08-25 16:51:39] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-25 16:51:39] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-25 16:51:39] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-25 16:51:39] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-25 16:51:39] - PPROC: replace missing values with 'Not specified'
+[2023-08-25 16:51:39] - PPROC: shift columns from title to the left to fix raw data issue 
+[2023-08-25 16:51:40] - PPROC: replace styling characters in the following columns
+[2023-08-25 16:51:40] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
+[2023-08-25 16:51:40] - PPROC: add column for panels names
+[2023-08-25 16:51:50] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
+[2023-08-25 16:51:50] DELETED 'data/processed/ImpactCaseStudies.csv.gz'

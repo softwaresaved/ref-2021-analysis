@@ -1,10 +1,10 @@
-[2023-08-25 12:26:03] READ 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
-[2023-08-25 12:26:03] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
-[2023-08-25 12:26:03] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 12:26:03] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 12:26:03] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 12:26:03] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 12:26:03] - PPROC: replace missing values with 'Not specified'
-[2023-08-25 12:26:03] - PPROC: add columns for panel names
-[2023-08-25 12:26:03] SAVED pre-processed dataset to 'data/processed/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
-[2023-08-25 12:26:03] DELETED 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz'
+[2023-08-25 16:51:25] READ 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
+[2023-08-25 16:51:25] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
+[2023-08-25 16:51:25] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-25 16:51:25] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-25 16:51:25] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-25 16:51:25] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-25 16:51:25] - PPROC: replace missing values with 'Not specified'
+[2023-08-25 16:51:25] - PPROC: add columns for panel names
+[2023-08-25 16:51:25] SAVED pre-processed dataset to 'data/processed/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
+[2023-08-25 16:51:25] DELETED 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz'
