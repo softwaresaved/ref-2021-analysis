@@ -1,7 +1,10 @@
-[2023-08-23 15:50:22] READ 'data/processed/ResearchIncomeInKind.csv.gz': 4093 records
-[2023-08-23 15:50:22] PPROC actions for 'ResearchIncomeInKind' sheet
-[2023-08-23 15:50:22] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2023-08-23 15:50:22] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-23 15:50:22] - PPROC: add columns for panel names
-[2023-08-23 15:50:22] SAVED pre-processed dataset to 'data/processed/ResearchIncomeInKind_ppreprocessed.csv.gz'
-[2023-08-23 15:50:22] DELETED 'data/processed/ResearchIncomeInKind.csv.gz'
+[2023-08-25 11:55:16] READ 'data/processed/ResearchIncomeInKind.csv.gz': 4093 records
+[2023-08-25 11:55:16] PPROC actions for 'ResearchIncomeInKind' sheet
+[2023-08-25 11:55:16] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-25 11:55:16] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-25 11:55:16] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-25 11:55:16] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-25 11:55:16] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-25 11:55:16] - PPROC: add columns for panel names
+[2023-08-25 11:55:16] SAVED pre-processed dataset to 'data/processed/ResearchIncomeInKind_ppreprocessed.csv.gz'
+[2023-08-25 11:55:16] DELETED 'data/processed/ResearchIncomeInKind.csv.gz'

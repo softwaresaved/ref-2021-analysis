@@ -1,3 +1,3 @@
-[2023-08-23 18:13:40] READ 'data/raw/REF-2021-Results-All-2022-05-06.xlsx'
-[2023-08-23 18:13:41] EXTRACTED 'Results' sheet: 7552 records
-[2023-08-23 18:13:41] SAVED 'Results' sheet to 'data/processed/Results.csv.gz'
+[2023-08-25 11:55:06] READ 'data/raw/REF-2021-Results-All-2022-05-06.xlsx'
+[2023-08-25 11:55:07] EXTRACTED 'Results' sheet: 7552 records
+[2023-08-25 11:55:07] SAVED 'Results' sheet to 'data/processed/Results.csv.gz'

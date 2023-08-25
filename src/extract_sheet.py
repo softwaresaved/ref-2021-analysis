@@ -4,6 +4,7 @@ import pandas as pd
 from io import StringIO
 import sys
 import read_write as rw
+import logs as lg
 
 
 def extract_sheet(fname, sname, header, index_col=None):
@@ -25,7 +26,7 @@ def extract_sheet(fname, sname, header, index_col=None):
     # -------------------
     fpath = fname
     dobj = pd.ExcelFile(os.path.join(rw.PROJECT_PATH, fpath))
-    rw.print_tstamp(f"READ '{fpath}'")
+    lg.print_tstamp(f"READ '{fpath}'")
 
     # parse sheet
     # -----------
@@ -33,7 +34,7 @@ def extract_sheet(fname, sname, header, index_col=None):
                       header=header,
                       index_col=index_col
                       )
-    rw.print_tstamp(f"EXTRACTED '{sname}' sheet: {dset.shape[0]} records")
+    lg.print_tstamp(f"EXTRACTED '{sname}' sheet: {dset.shape[0]} records")
 
     # save dset to compressed csv
     # ---------------------------
@@ -41,7 +42,7 @@ def extract_sheet(fname, sname, header, index_col=None):
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fpath),
                 index=False,
                 compression='gzip')
-    rw.print_tstamp(f"SAVED '{sname}' sheet to '{fpath}'")
+    lg.print_tstamp(f"SAVED '{sname}' sheet to '{fpath}'")
 
     # restore stdout
     # --------------

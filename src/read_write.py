@@ -1,9 +1,9 @@
 import os
 import shutil
-import datetime
 import pandas as pd
 import codebook as cb
 import preprocess as pp
+import logs as lg
 
 # logs
 LOG_PATH = "logs/"
@@ -93,17 +93,6 @@ DATA_EXTRACT_RESULTS = f"{PROCESSED_PATH}{sheet}{DATA_EXT}"
 DATA_PPROC_RESULTS = f"{PROCESSED_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
 
 
-def print_tstamp(text):
-    """ Print a timestamped message.
-
-    Args:
-        text (str): The message to print.
-    """
-
-    now = datetime.datetime.now()
-    print(f"[{now.strftime('%Y-%m-%d %H:%M:%S')}] {text}")
-
-
 def clean_folders():
     """ Clean the data folders if they exist.
     """
@@ -112,10 +101,10 @@ def clean_folders():
         if os.path.exists(path):
             shutil.rmtree(os.path.join(PROJECT_PATH, path))
             cleaned_folder = True
-            print_tstamp(f"DELETED '{path}'")
+            lg.print_tstamp(f"DELETED '{path}'")
 
     if not cleaned_folder:
-        print_tstamp("None of the required folders need cleaning")
+        lg.print_tstamp("None of the required folders need cleaning")
 
 
 def create_folders():
@@ -126,10 +115,10 @@ def create_folders():
         if not os.path.exists(path):
             os.makedirs(os.path.join(PROJECT_PATH, path))
             created_folder = True
-            print_tstamp(f"CREATED '{path}'")
+            lg.print_tstamp(f"CREATED '{path}'")
 
     if not created_folder:
-        print_tstamp("All required folders already exist")
+        lg.print_tstamp("All required folders already exist")
 
 
 def get_data(fname, do_sort=True):

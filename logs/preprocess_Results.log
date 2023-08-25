@@ -1,11 +1,14 @@
-[2023-08-23 18:14:21] READ 'data/processed/Results.csv.gz': 7552 records
-[2023-08-23 18:14:21] PPROC actions for 'Results' sheet
-[2023-08-23 18:14:21] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2023-08-23 18:14:21] - PPROC: replace '-' with NaN in the following columns
-[2023-08-23 18:14:21] - ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
-[2023-08-23 18:14:21] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-23 18:14:21] - PPROC: bin percentages in the following columns
-[2023-08-23 18:14:21] - ['% of eligible staff submitted', '4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
-[2023-08-23 18:14:21] - PPROC: add columns for panel names
-[2023-08-23 18:14:21] SAVED pre-processed dataset to 'data/processed/Results_ppreprocessed.csv.gz'
-[2023-08-23 18:14:21] DELETED 'data/processed/Results.csv.gz'
+[2023-08-25 11:55:07] READ 'data/processed/Results.csv.gz': 7552 records
+[2023-08-25 11:55:07] PPROC actions for 'Results' sheet
+[2023-08-25 11:55:07] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-25 11:55:07] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-25 11:55:07] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-25 11:55:07] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-25 11:55:07] - PPROC: replace '-' with NaN in the following columns
+[2023-08-25 11:55:07] - ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+[2023-08-25 11:55:07] - PPROC: replace missing values with 'Not specified - PP ADDED'
+[2023-08-25 11:55:07] - PPROC: bin percentages in the following columns
+[2023-08-25 11:55:07] - ['% of eligible staff submitted', '4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+[2023-08-25 11:55:07] - PPROC: add columns for panel names
+[2023-08-25 11:55:08] SAVED pre-processed dataset to 'data/processed/Results_ppreprocessed.csv.gz'
+[2023-08-25 11:55:08] DELETED 'data/processed/Results.csv.gz'

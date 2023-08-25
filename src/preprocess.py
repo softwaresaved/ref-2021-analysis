@@ -1,7 +1,16 @@
 """ This module contains functions for preprocessing the data """
 import pandas as pd
+import logs as lg
 
 PERCENTAGE_BINS = range(0, 101, 10)
+
+TO_RENAME = {
+    "Main panel": "Main panel code",
+    "Unit of assessment name": "Unit of assessment",
+    "Institution name": "Institution",
+    "Research group name": "Research group",
+    "Output type": "Output type code",
+}
 
 
 def clean_styling(dset, column):
@@ -46,6 +55,23 @@ def clean_fnames(fnames, template="", extension="", do_sort=True):
         cleaned_fnames.sort()
 
     return cleaned_fnames
+
+
+def rename_columns(dset):
+    """ Rename columns in a dataset.
+
+    Args:
+        dset (pandas.DataFrame): Dataset.
+
+    Returns:
+        pandas.DataFrame: Dataset with renamed columns.
+    """
+    for key, value in TO_RENAME.items():
+        if key in dset.columns:
+            dset = dset.rename(columns={key: value})
+            lg.print_tstamp(f"- PPROC: rename '{key}' to '{value}'")
+
+    return dset
 
 
 def bin_percentages_labels():

@@ -1,18 +1,18 @@
 """ Codebook for REF 2021 data """
 
 # about the ref process
-COL_PANEL_CODE = 'Main panel'
-COL_PANEL_NAME = 'Main panel name'
+COL_PANEL_CODE = 'Main panel code'
+COL_PANEL_NAME = 'Main panel'
 COL_UOA_NUMBER = 'Unit of assessment number'
-COL_UOA_NAME = 'Unit of assessment name'
+COL_UOA_NAME = 'Unit of assessment'
 # about the institution etc
 COL_INST_CODE = 'Institution UKPRN code'
-COL_INST_NAME = 'Institution name'
+COL_INST_NAME = 'Institution'
 COL_RG_CODE = 'Research group code'
-COL_RG_NAME = 'Research group name'
+COL_RG_NAME = 'Research group'
 # about the outputs
-COL_OUTPUT_TYPE_CODE = 'Output type'
-COL_OUTPUT_TYPE_NAME = 'Output type name'
+COL_OUTPUT_TYPE_CODE = 'Output type code'
+COL_OUTPUT_TYPE_NAME = 'Output type'
 COL_OPEN_ACCESS = 'Open access status'
 COL_OUTPUT_TITLE = 'Title'
 COL_OUTPUT_SUPP = 'Supplementary information'

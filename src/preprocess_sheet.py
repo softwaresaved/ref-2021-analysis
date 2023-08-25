@@ -7,6 +7,7 @@ import pandas as pd
 import read_write as rw
 import codebook as cb
 import preprocess as pp
+import logs as lg
 
 
 def preprocess_inst_name(dset):
@@ -22,7 +23,7 @@ def preprocess_inst_name(dset):
     chars_to_replace = ["/", ":"]
     for char_to_replace in chars_to_replace:
         dset[cb.COL_INST_NAME] = dset[cb.COL_INST_NAME].str.replace(char_to_replace, "_")
-    rw.print_tstamp(f"- PPROC: replace '{chars_to_replace}' with '_' in '{cb.COL_INST_NAME}'")
+    lg.print_tstamp(f"- PPROC: replace '{chars_to_replace}' with '_' in '{cb.COL_INST_NAME}'")
 
     return dset
 
@@ -33,34 +34,35 @@ def preprocess_outputs(dset, sname="Outputs"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # rename columns for clarity
+    dset = pp.rename_columns(dset)
     # preprocess institution name
     dset = preprocess_inst_name(dset)
-
     # replace na in cb.COL_OUTPUT_CITATIONS with "No"
     columns = [cb.COL_OUTPUT_CITATIONS, cb.COL_OUTPUT_INTERDISCIPLINARY]
     text_to_replace = "No"
     for column in columns:
         dset[column] = dset[column].fillna(text_to_replace)
-    rw.print_tstamp(f"- PPROC: replace NaN with '{text_to_replace}' in '{columns}'")
+    lg.print_tstamp(f"- PPROC: replace NaN with '{text_to_replace}' in '{columns}'")
 
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # replace various styling characters selected columns
     columns = [cb.COL_OUTPUT_TITLE]
     for column in columns:
         dset = pp.clean_styling(dset, column)
-    rw.print_tstamp("- PPROC: replace styling characters in the following columns")
-    rw.print_tstamp(f"- {columns}")
+    lg.print_tstamp("- PPROC: replace styling characters in the following columns")
+    lg.print_tstamp(f"- {columns}")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     dset[cb.COL_OUTPUT_TYPE_NAME] = dset[cb.COL_OUTPUT_TYPE_CODE].map(cb.OUTPUT_TYPE_NAMES)
-    rw.print_tstamp("- PPROC: add columns for panel and output types names")
+    lg.print_tstamp("- PPROC: add columns for panel and output types names")
 
     return dset
 
@@ -71,19 +73,21 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # rename columns for clarity
+    dset = pp.rename_columns(dset)
     # preprocess institution name
     dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # shift columns from title to the left
     columns = dset.columns.tolist()
     dset = dset.drop(cb.COL_IMPACT_TITLE, axis=1)
     dset.columns = columns[:-1]
-    rw.print_tstamp("- PPROC: shift columns from title to the left to fix raw data issue ")
+    lg.print_tstamp("- PPROC: shift columns from title to the left to fix raw data issue ")
     # replace various styling characters selected columns
     columns = [cb.COL_IMPACT_SUMMARY,
                cb.COL_IMPACT_UNDERPIN_RESEARCH,
@@ -93,13 +97,13 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
                ]
     for column in columns:
         dset = pp.clean_styling(dset, column)
-    rw.print_tstamp("- PPROC: replace styling characters in the following columns")
-    rw.print_tstamp(f"- {columns}")
+    lg.print_tstamp("- PPROC: replace styling characters in the following columns")
+    lg.print_tstamp(f"- {columns}")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    rw.print_tstamp("- PPROC: add column for panels names")
+    lg.print_tstamp("- PPROC: add column for panels names")
 
     return dset
 
@@ -110,18 +114,20 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # rename columns for clarity
+    dset = pp.rename_columns(dset)
     # preprocess institution name
     dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    rw.print_tstamp("- PPROC: add columns for panel names")
+    lg.print_tstamp("- PPROC: add columns for panel names")
 
     return dset
 
@@ -132,18 +138,20 @@ def preprocess_income(dset, sname="ResearchIncome"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # rename columns for clarity
+    dset = pp.rename_columns(dset)
     # preprocess institution name
     dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    rw.print_tstamp("- PPROC: add columns for panel names")
+    lg.print_tstamp("- PPROC: add columns for panel names")
 
     return dset
 
@@ -154,18 +162,20 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # rename columns for clarity
+    dset = pp.rename_columns(dset)
     # preprocess institution name
     dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    rw.print_tstamp("- PPROC: add columns for panel names")
+    lg.print_tstamp("- PPROC: add columns for panel names")
 
     return dset
 
@@ -176,18 +186,20 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # rename columns for clarity
+    dset = pp.rename_columns(dset)
     # preprocess institution name
     dset = preprocess_inst_name(dset)
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    rw.print_tstamp("- PPROC: add columns for panel names")
+    lg.print_tstamp("- PPROC: add columns for panel names")
 
     return dset
 
@@ -198,7 +210,9 @@ def preprocess_results(dset, sname="Results"):
 
     # pre-processing
     # --------------
-    rw.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+    # rename columns for clarity
+    dset = pp.rename_columns(dset)
     # preprocess institution name
     dset = preprocess_inst_name(dset)
     # replace - in a list of columns with na
@@ -212,13 +226,13 @@ def preprocess_results(dset, sname="Results"):
     for column in columns:
         dset[column] = dset[column].replace(text_to_replace, float("NaN"))
         dset[column] = dset[column].astype(float)
-    rw.print_tstamp(f"- PPROC: replace '{text_to_replace}' with NaN in the following columns")
-    rw.print_tstamp(f"- {columns}")
+    lg.print_tstamp(f"- PPROC: replace '{text_to_replace}' with NaN in the following columns")
+    lg.print_tstamp(f"- {columns}")
 
     # replace missing values in object columns
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    rw.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # bin percentages
     columns = [cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
@@ -230,13 +244,13 @@ def preprocess_results(dset, sname="Results"):
                ]
     for column in columns:
         dset = pp.bin_percentages(dset, column, f"{column} (binned)")
-    rw.print_tstamp("- PPROC: bin percentages in the following columns")
-    rw.print_tstamp(f"- {columns}")
+    lg.print_tstamp("- PPROC: bin percentages in the following columns")
+    lg.print_tstamp(f"- {columns}")
 
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    rw.print_tstamp("- PPROC: add columns for panel names")
+    lg.print_tstamp("- PPROC: add columns for panel names")
 
     return dset
 
@@ -261,7 +275,7 @@ def preprocess_sheet(sname):
                        dtype={0: str},
                        compression='gzip'
                        )
-    rw.print_tstamp(f"READ '{infname}': {dset.shape[0]} records")
+    lg.print_tstamp(f"READ '{infname}': {dset.shape[0]} records")
 
     # run specific pre-processing
     # ---------------------------
@@ -288,12 +302,12 @@ def preprocess_sheet(sname):
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
                 index=False,
                 compression='gzip')
-    rw.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
+    lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
     # delete infname
     # --------------
     os.remove(os.path.join(rw.PROJECT_PATH, infname))
-    rw.print_tstamp(f"DELETED '{infname}'")
+    lg.print_tstamp(f"DELETED '{infname}'")
 
     # restore stdout
     # --------------
