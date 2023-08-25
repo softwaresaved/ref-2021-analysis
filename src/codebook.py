@@ -43,7 +43,7 @@ COL_RESULTS_1star_BINNED = f"{COL_RESULTS_1star} (binned)"
 COL_RESULTS_UNCLASSIFIED_BINNED = f"{COL_RESULTS_UNCLASSIFIED} (binned)"
 
 # value to add if no entry in the data
-VALUE_ADDED_NOT_SPECIFIED = 'Not specified - PP ADDED'
+VALUE_ADDED_NOT_SPECIFIED = 'Not specified'
 
 # source: website
 PANEL_NAMES = {

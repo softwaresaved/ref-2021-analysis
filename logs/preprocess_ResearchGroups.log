@@ -1,11 +1,11 @@
-[2023-08-25 11:55:16] READ 'data/processed/ResearchGroups.csv.gz': 2036 records
-[2023-08-25 11:55:16] PPROC actions for 'ResearchGroups' sheet
-[2023-08-25 11:55:16] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 11:55:16] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 11:55:16] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 11:55:16] - PPROC: rename 'Research group name' to 'Research group'
-[2023-08-25 11:55:16] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 11:55:16] - PPROC: replace missing values with 'Not specified - PP ADDED'
-[2023-08-25 11:55:16] - PPROC: add columns for panel names
-[2023-08-25 11:55:16] SAVED pre-processed dataset to 'data/processed/ResearchGroups_ppreprocessed.csv.gz'
-[2023-08-25 11:55:16] DELETED 'data/processed/ResearchGroups.csv.gz'
+[2023-08-25 12:26:03] READ 'data/processed/ResearchGroups.csv.gz': 2036 records
+[2023-08-25 12:26:03] PPROC actions for 'ResearchGroups' sheet
+[2023-08-25 12:26:03] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-25 12:26:03] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-25 12:26:03] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-25 12:26:03] - PPROC: rename 'Research group name' to 'Research group'
+[2023-08-25 12:26:03] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-25 12:26:03] - PPROC: replace missing values with 'Not specified'
+[2023-08-25 12:26:03] - PPROC: add columns for panel names
+[2023-08-25 12:26:03] SAVED pre-processed dataset to 'data/processed/ResearchGroups_ppreprocessed.csv.gz'
+[2023-08-25 12:26:03] DELETED 'data/processed/ResearchGroups.csv.gz'
