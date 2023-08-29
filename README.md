@@ -2,8 +2,6 @@
 
 Data source: https://results2021.ref.ac.uk/ (accessed 2023-08-10)
 
-Preliminary study: [notebook](notebooks/STUDY_data.ipynb), [md](notebooks/study.md)
-
 ## Setting up the environment
 
 Follow these steps to set up the environment for this project:
