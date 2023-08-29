@@ -43,9 +43,16 @@ def preprocess_outputs(dset, sname="Outputs"):
     # ---------------------------
     dset = preprocess_inst_name(dset)
 
-    # replace na in cb.COL_OUTPUT_CITATIONS with "No"
-    # -----------------------------------------------
-    columns = [cb.COL_OUTPUT_CITATIONS, cb.COL_OUTPUT_INTERDISCIPLINARY]
+    # replace na in selected columns with "No"
+    # ----------------------------------------
+    columns = [cb.COL_OUTPUT_CITATIONS,
+               cb.COL_OUTPUT_INTERDISCIPLINARY,
+               cb.COL_OUTPUT_NON_ENGLISH,
+               cb.COL_OUTPUT_FORENSIC_SCIENCE,
+               cb.COL_OUTPUT_CRIMINOLOGY,
+               cb.COL_OUTPUT_DOUBLE_WEIGHTING,
+               cb.COL_OUTPUT_RESERVE_OUTPUT,
+               cb.COL_OUTPUT_DELAYED]
     text_to_replace = "No"
     for column in columns:
         dset[column] = dset[column].fillna(text_to_replace)
@@ -76,7 +83,8 @@ def preprocess_outputs(dset, sname="Outputs"):
     # drop the code columns
     # ---------------------
     columns_to_drop = [cb.COL_PANEL_CODE,
-                       cb.COL_UOA_NUMBER
+                       cb.COL_UOA_NUMBER,
+                       cb.COL_OUTPUT_TYPE_CODE
                        ]
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
