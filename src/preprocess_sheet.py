@@ -1,3 +1,4 @@
+""" Preprocess a sheet from the raw data. """
 import argparse
 from io import StringIO
 import sys
