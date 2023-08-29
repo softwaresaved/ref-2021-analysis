@@ -116,10 +116,15 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
     # rename columns for clarity
+    # ---------------------------
     dset = pp.rename_columns(dset)
+
     # preprocess institution name
+    # ---------------------------
     dset = preprocess_inst_name(dset)
+
     # replace missing values in object columns
+    # ----------------------------------------
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
@@ -127,7 +132,36 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     lg.print_tstamp("- PPROC: add columns for panel names")
+
+    # drop the code columns
+    # ---------------------
+    columns_to_drop = [cb.COL_PANEL_CODE,
+                       cb.COL_UOA_NUMBER
+                       ]
+    dset = dset.drop(columns_to_drop, axis=1)
+    lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
+
+    # drop the columns not relevant for current visualisations
+    # --------------------------------------------------------
+    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
+                       cb.COL_MULT_SUB_NAME,
+                       cb.COL_JOINT_SUB]
+    for column in columns_to_drop:
+        dset_stats = dset[column].value_counts().to_frame(name="count")
+        dset_stats.index.name = column
+        dset = dset.drop(column, axis=1)
+        lg.print_tstamp(f"- PPROC: drop column '{column}'")
+        print(f"{dset_stats}")
+
+    # calculate the total number of degrees awarded
+    # ---------------------------------------------
+    column_to_sum = [cb.COL_DEGREES_2013, cb.COL_DEGREES_2014, cb.COL_DEGREES_2015,
+                     cb.COL_DEGREES_2016, cb.COL_DEGREES_2017, cb.COL_DEGREES_2018,
+                     cb.COL_DEGREES_2019]
+    dset[cb.COL_DEGREES_TOTAL] = dset[column_to_sum].sum(axis=1)
+    lg.print_tstamp(f"- PPROC: calculate total number of degrees awarded")
 
     return dset
 
@@ -204,6 +238,7 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     lg.print_tstamp("- PPROC: add columns for panel names")
 
     # drop the code columns

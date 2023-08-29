@@ -14,7 +14,16 @@ COL_RG_NAME = 'Research group'
 COL_MULT_SUB_LETTER = 'Multiple submission letter'
 COL_MULT_SUB_NAME = 'Multiple submission name'
 COL_JOINT_SUB = 'Joint submission'
-# about the outputs
+# about the degrees awarded
+COL_DEGREES_2013 = 'Number of doctoral degrees awarded in academic year 2013'
+COL_DEGREES_2014 = 'Number of doctoral degrees awarded in academic year 2014'
+COL_DEGREES_2015 = 'Number of doctoral degrees awarded in academic year 2015'
+COL_DEGREES_2016 = 'Number of doctoral degrees awarded in academic year 2016'
+COL_DEGREES_2017 = 'Number of doctoral degrees awarded in academic year 2017'
+COL_DEGREES_2018 = 'Number of doctoral degrees awarded in academic year 2018'
+COL_DEGREES_2019 = 'Number of doctoral degrees awarded in academic year 2019'
+COL_DEGREES_TOTAL = 'Total number of doctoral degrees awarded'
+# about the output
 COL_OUTPUT_TYPE_CODE = 'Output type code'
 COL_OUTPUT_TYPE_NAME = 'Output type'
 COL_OPEN_ACCESS = 'Open access status'

@@ -1,10 +1,76 @@
-[2023-08-25 16:51:25] READ 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
-[2023-08-25 16:51:25] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
-[2023-08-25 16:51:25] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 16:51:25] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 16:51:25] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 16:51:25] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 16:51:25] - PPROC: replace missing values with 'Not specified'
-[2023-08-25 16:51:25] - PPROC: add columns for panel names
-[2023-08-25 16:51:25] SAVED pre-processed dataset to 'data/processed/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
-[2023-08-25 16:51:25] DELETED 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz'
+[2023-08-29 14:31:38] READ 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
+[2023-08-29 14:31:38] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
+[2023-08-29 14:31:38] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-29 14:31:38] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-29 14:31:38] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-29 14:31:38] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-29 14:31:38] - PPROC: replace missing values with 'Not specified'
+[2023-08-29 14:31:38] - PPROC: add columns for panel names
+[2023-08-29 14:31:38] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2023-08-29 14:31:38] - PPROC: drop column 'Multiple submission letter'
+                            count
+Multiple submission letter       
+Not specified                1846
+A                              21
+B                              21
+[2023-08-29 14:31:38] - PPROC: drop column 'Multiple submission name'
+                                                    count
+Multiple submission name                                 
+Not specified                                        1846
+Music                                                   3
+Drama                                                   3
+26A - Modern Languages                                  2
+UoA32A UCL History of Art Department                    1
+UoA25B Institute of the Americas (UCL-IA)               1
+UoA25A UCL School of Slavonic & East European S...      1
+UoA32B The Slade School of Fine Art                     1
+A - Music                                               1
+B – Royal Welsh College of Music and Drama              1
+26B - Linguistics                                       1
+22B Development Studies                                 1
+22A Anthropology                                        1
+Dance                                                   1
+Typography and Graphic Communication                    1
+Art                                                     1
+Film                                                    1
+Modern Languages                                        1
+Linguistics                                             1
+A – Faculty of Creative Industries, University ...      1
+22A - Anthropology                                      1
+22B - Development Studies                               1
+Media and Communication                                 1
+26B - Celtic and Gaelic                                 1
+Media, Communications and Cultural Studies (MCCS)       1
+Institute of Creative and Cultural Entrepreneur...      1
+Joint Submission - University of Kent-Medway Sc...      1
+UoG Submission in Allied Health Professions & N...      1
+Performance and Cultural Industries                     1
+Museum Studies                                          1
+Drama, Dance, Performing Arts, Film and Screen ...      1
+22A: Anthropology                                       1
+22B: International Development                          1
+28A: Economic History                                   1
+28B: International History                              1
+Development Studies                                     1
+Social Anthropology                                     1
+B – Theatre, Film, Television and Interactive M...      1
+[2023-08-29 14:31:38] - PPROC: drop column 'Joint submission'
+                                                    count
+Joint submission                                         
+Not specified                                        1869
+(joint submission with University of Edinburgh)         5
+(joint submission with Heriot-Watt University)          3
+(joint submission with Institute of Zoology and...      1
+(joint submission with University College London)       1
+(joint submission with University of Sussex)            1
+(joint submission with SRUC)                            1
+(joint submission with University of St Andrews)        1
+(joint submission with The University of Kent)          1
+(joint submission with Birkbeck College and Uni...      1
+(joint submission with University of Greenwich)         1
+(joint submission with University of Brighton)          1
+(joint submission with Birkbeck College and Ins...      1
+(joint submission with Birkbeck College)                1
+[2023-08-29 14:31:38] - PPROC: calculate total number of degrees awarded
+[2023-08-29 14:31:38] SAVED pre-processed dataset to 'data/processed/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
+[2023-08-29 14:31:38] DELETED 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz'

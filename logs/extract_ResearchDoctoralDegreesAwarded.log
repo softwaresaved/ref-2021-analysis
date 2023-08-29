@@ -1,3 +1,3 @@
-[2023-08-25 16:51:24] READ 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-[2023-08-25 16:51:24] EXTRACTED 'ResearchDoctoralDegreesAwarded' sheet: 1888 records
-[2023-08-25 16:51:25] SAVED 'ResearchDoctoralDegreesAwarded' sheet to 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz'
+[2023-08-29 14:31:37] READ 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+[2023-08-29 14:31:37] EXTRACTED 'ResearchDoctoralDegreesAwarded' sheet: 1888 records
+[2023-08-29 14:31:37] SAVED 'ResearchDoctoralDegreesAwarded' sheet to 'data/processed/ResearchDoctoralDegreesAwarded.csv.gz'

@@ -111,3 +111,22 @@ def bin_percentages(dset, column, column_binned):
                                  labels=labels
                                  )
     return dset
+
+
+def move_last_column(dset, column_before):
+    """ Move a the last column to the right of specified column.
+
+        Args:
+            dset (pandas.DataFrame): dataset
+            column_before (str): column name
+
+        Returns:
+            dset (pandas.DataFrame): dataset with new column
+    """
+    columns = dset.columns.tolist()
+    index = columns.index(column_before)
+    item = columns.pop()
+    columns.insert(index+1, item)
+    dset = dset.reindex(columns=columns)
+
+    return dset
