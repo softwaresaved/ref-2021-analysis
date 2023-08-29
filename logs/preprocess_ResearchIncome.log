@@ -1,10 +1,75 @@
-[2023-08-25 16:51:29] READ 'data/processed/ResearchIncome.csv.gz': 28637 records
-[2023-08-25 16:51:29] PPROC actions for 'ResearchIncome' sheet
-[2023-08-25 16:51:29] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 16:51:29] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 16:51:29] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 16:51:29] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 16:51:29] - PPROC: replace missing values with 'Not specified'
-[2023-08-25 16:51:29] - PPROC: add columns for panel names
-[2023-08-25 16:51:29] SAVED pre-processed dataset to 'data/processed/ResearchIncome_ppreprocessed.csv.gz'
-[2023-08-25 16:51:29] DELETED 'data/processed/ResearchIncome.csv.gz'
+[2023-08-29 16:23:16] READ 'data/processed/ResearchIncome.csv.gz': 28637 records
+[2023-08-29 16:23:16] PPROC actions for 'ResearchIncome' sheet
+[2023-08-29 16:23:16] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-29 16:23:16] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-29 16:23:16] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-29 16:23:16] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-29 16:23:16] - PPROC: replace missing values with 'Not specified'
+[2023-08-29 16:23:16] - PPROC: add columns for panel names
+[2023-08-29 16:23:16] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2023-08-29 16:23:16] - PPROC: drop column 'Multiple submission letter'
+                            count
+Multiple submission letter       
+Not specified               28005
+A                             316
+B                             316
+[2023-08-29 16:23:16] - PPROC: drop column 'Multiple submission name'
+                                                    count
+Multiple submission name                                 
+Not specified                                       28005
+Music                                                  45
+Drama                                                  45
+26A - Modern Languages                                 30
+Joint Submission - University of Kent-Medway Sc...     16
+UoG Submission in Allied Health Professions & N...     16
+22B Development Studies                                15
+Film                                                   15
+Art                                                    15
+Typography and Graphic Communication                   15
+Dance                                                  15
+22A Anthropology                                       15
+UoA25A UCL School of Slavonic & East European S...     15
+A – Faculty of Creative Industries, University ...     15
+B – Royal Welsh College of Music and Drama             15
+Linguistics                                            15
+UoA25B Institute of the Americas (UCL-IA)              15
+UoA32A UCL History of Art Department                   15
+UoA32B The Slade School of Fine Art                    15
+A - Music                                              15
+Modern Languages                                       15
+22A - Anthropology                                     15
+26B - Linguistics                                      15
+22B - Development Studies                              15
+Drama, Dance, Performing Arts, Film and Screen ...     15
+Social Anthropology                                    15
+Development Studies                                    15
+28B: International History                             15
+28A: Economic History                                  15
+22B: International Development                         15
+22A: Anthropology                                      15
+Museum Studies                                         15
+Media and Communication                                15
+Performance and Cultural Industries                    15
+Institute of Creative and Cultural Entrepreneur...     15
+Media, Communications and Cultural Studies (MCCS)      15
+26B - Celtic and Gaelic                                15
+B – Theatre, Film, Television and Interactive M...     15
+[2023-08-29 16:23:16] - PPROC: drop column 'Joint submission'
+                                                    count
+Joint submission                                         
+Not specified                                       28343
+(joint submission with University of Edinburgh)        76
+(joint submission with Heriot-Watt University)         45
+(joint submission with Institute of Zoology and...     16
+(joint submission with University of Sussex)           16
+(joint submission with SRUC)                           16
+(joint submission with The University of Kent)         16
+(joint submission with Birkbeck College and Uni...     16
+(joint submission with University of Greenwich)        16
+(joint submission with University of Brighton)         16
+(joint submission with Birkbeck College and Ins...     16
+(joint submission with University College London)      15
+(joint submission with University of St Andrews)       15
+(joint submission with Birkbeck College)               15
+[2023-08-29 16:23:17] SAVED pre-processed dataset to 'data/processed/ResearchIncome_ppreprocessed.csv.gz'
+[2023-08-29 16:23:17] DELETED 'data/processed/ResearchIncome.csv.gz'

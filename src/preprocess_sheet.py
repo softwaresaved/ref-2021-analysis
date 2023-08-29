@@ -33,14 +33,18 @@ def preprocess_outputs(dset, sname="Outputs"):
     """ Preprocess the data from the Outputs sheet
     """
 
-    # pre-processing
-    # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+
     # rename columns for clarity
+    # ---------------------------
     dset = pp.rename_columns(dset)
+
     # preprocess institution name
+    # ---------------------------
     dset = preprocess_inst_name(dset)
+
     # replace na in cb.COL_OUTPUT_CITATIONS with "No"
+    # -----------------------------------------------
     columns = [cb.COL_OUTPUT_CITATIONS, cb.COL_OUTPUT_INTERDISCIPLINARY]
     text_to_replace = "No"
     for column in columns:
@@ -48,11 +52,13 @@ def preprocess_outputs(dset, sname="Outputs"):
     lg.print_tstamp(f"- PPROC: replace NaN with '{text_to_replace}' in '{columns}'")
 
     # replace missing values in object columns
+    # ----------------------------------------
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # replace various styling characters selected columns
+    # ---------------------------------------------------
     columns = [cb.COL_OUTPUT_TITLE]
     for column in columns:
         dset = pp.clean_styling(dset, column)
@@ -62,8 +68,30 @@ def preprocess_outputs(dset, sname="Outputs"):
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     dset[cb.COL_OUTPUT_TYPE_NAME] = dset[cb.COL_OUTPUT_TYPE_CODE].map(cb.OUTPUT_TYPE_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_UOA_NAME)
     lg.print_tstamp("- PPROC: add columns for panel and output types names")
+
+    # drop the code columns
+    # ---------------------
+    columns_to_drop = [cb.COL_PANEL_CODE,
+                       cb.COL_UOA_NUMBER
+                       ]
+    dset = dset.drop(columns_to_drop, axis=1)
+    lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
+
+    # drop the columns not relevant for current visualisations
+    # --------------------------------------------------------
+    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
+                       cb.COL_MULT_SUB_NAME,
+                       cb.COL_JOINT_SUB]
+    for column in columns_to_drop:
+        dset_stats = dset[column].value_counts().to_frame(name="count")
+        dset_stats.index.name = column
+        dset = dset.drop(column, axis=1)
+        lg.print_tstamp(f"- PPROC: drop column '{column}'")
+        print(f"{dset_stats}")
 
     return dset
 
@@ -72,24 +100,30 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     """ Preprocess the data from the ImpactCaseStudies sheet
     """
 
-    # pre-processing
-    # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
     # rename columns for clarity
+    # ---------------------------
     dset = pp.rename_columns(dset)
+
     # preprocess institution name
+    # ---------------------------
     dset = preprocess_inst_name(dset)
+
     # replace missing values in object columns
+    # ----------------------------------------
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # shift columns from title to the left
+    # ------------------------------------
     columns = dset.columns.tolist()
     dset = dset.drop(cb.COL_IMPACT_TITLE, axis=1)
     dset.columns = columns[:-1]
     lg.print_tstamp("- PPROC: shift columns from title to the left to fix raw data issue ")
+
     # replace various styling characters selected columns
+    # ---------------------------------------------------
     columns = [cb.COL_IMPACT_SUMMARY,
                cb.COL_IMPACT_UNDERPIN_RESEARCH,
                cb.COL_IMPACT_REFERENCES_RESEARCH,
@@ -104,7 +138,28 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     lg.print_tstamp("- PPROC: add column for panels names")
+
+    # drop the code columns
+    # ---------------------
+    columns_to_drop = [cb.COL_PANEL_CODE,
+                       cb.COL_UOA_NUMBER
+                       ]
+    dset = dset.drop(columns_to_drop, axis=1)
+    lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
+
+    # drop the columns not relevant for current visualisations
+    # --------------------------------------------------------
+    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
+                       cb.COL_MULT_SUB_NAME,
+                       cb.COL_JOINT_SUB]
+    for column in columns_to_drop:
+        dset_stats = dset[column].value_counts().to_frame(name="count")
+        dset_stats.index.name = column
+        dset = dset.drop(column, axis=1)
+        lg.print_tstamp(f"- PPROC: drop column '{column}'")
+        print(f"{dset_stats}")
 
     return dset
 
@@ -113,8 +168,6 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     """ Preprocess the data from the ResearchDoctoralDegreesAwarded sheet
     """
 
-    # pre-processing
-    # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
     # rename columns for clarity
     # ---------------------------
@@ -162,7 +215,7 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
                      cb.COL_DEGREES_2016, cb.COL_DEGREES_2017, cb.COL_DEGREES_2018,
                      cb.COL_DEGREES_2019]
     dset[cb.COL_DEGREES_TOTAL] = dset[column_to_sum].sum(axis=1)
-    lg.print_tstamp(f"- PPROC: calculate total number of degrees awarded")
+    lg.print_tstamp("- PPROC: calculate total number of degrees awarded")
 
     return dset
 
@@ -171,14 +224,17 @@ def preprocess_income(dset, sname="ResearchIncome"):
     """ Preprocess the data from the ResearchIncome sheet
     """
 
-    # pre-processing
-    # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
     # rename columns for clarity
+    # ---------------------------
     dset = pp.rename_columns(dset)
+
     # preprocess institution name
+    # ---------------------------
     dset = preprocess_inst_name(dset)
+
     # replace missing values in object columns
+    # ----------------------------------------
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
@@ -186,7 +242,28 @@ def preprocess_income(dset, sname="ResearchIncome"):
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     lg.print_tstamp("- PPROC: add columns for panel names")
+
+    # drop the code columns
+    # ---------------------
+    columns_to_drop = [cb.COL_PANEL_CODE,
+                       cb.COL_UOA_NUMBER
+                       ]
+    dset = dset.drop(columns_to_drop, axis=1)
+    lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
+
+    # drop the columns not relevant for current visualisations
+    # --------------------------------------------------------
+    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
+                       cb.COL_MULT_SUB_NAME,
+                       cb.COL_JOINT_SUB]
+    for column in columns_to_drop:
+        dset_stats = dset[column].value_counts().to_frame(name="count")
+        dset_stats.index.name = column
+        dset = dset.drop(column, axis=1)
+        lg.print_tstamp(f"- PPROC: drop column '{column}'")
+        print(f"{dset_stats}")
 
     return dset
 
@@ -195,14 +272,18 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
     """ Preprocess the data from the ResearchIncomeInKind sheet
     """
 
-    # pre-processing
-    # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+
     # rename columns for clarity
+    # ---------------------------
     dset = pp.rename_columns(dset)
+
     # preprocess institution name
+    # ---------------------------
     dset = preprocess_inst_name(dset)
+
     # replace missing values in object columns
+    # ----------------------------------------
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
@@ -210,7 +291,28 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     lg.print_tstamp("- PPROC: add columns for panel names")
+
+    # drop the code columns
+    # ---------------------
+    columns_to_drop = [cb.COL_PANEL_CODE,
+                       cb.COL_UOA_NUMBER
+                       ]
+    dset = dset.drop(columns_to_drop, axis=1)
+    lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
+
+    # drop the columns not relevant for current visualisations
+    # --------------------------------------------------------
+    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
+                       cb.COL_MULT_SUB_NAME,
+                       cb.COL_JOINT_SUB]
+    for column in columns_to_drop:
+        dset_stats = dset[column].value_counts().to_frame(name="count")
+        dset_stats.index.name = column
+        dset = dset.drop(column, axis=1)
+        lg.print_tstamp(f"- PPROC: drop column '{column}'")
+        print(f"{dset_stats}")
 
     return dset
 
@@ -270,14 +372,18 @@ def preprocess_results(dset, sname="Results"):
     """ Preprocess the data from the Results sheet
     """
 
-    # pre-processing
-    # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
+
     # rename columns for clarity
+    # ---------------------------
     dset = pp.rename_columns(dset)
+
     # preprocess institution name
+    # ---------------------------
     dset = preprocess_inst_name(dset)
+
     # replace - in a list of columns with na
+    # --------------------------------------
     text_to_replace = "-"
     columns = [cb.COL_RESULTS_4star,
                cb.COL_RESULTS_3star,
@@ -292,11 +398,13 @@ def preprocess_results(dset, sname="Results"):
     lg.print_tstamp(f"- {columns}")
 
     # replace missing values in object columns
+    # ----------------------------------------
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # bin percentages
+    # ---------------
     columns = [cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
                cb.COL_RESULTS_4star,
                cb.COL_RESULTS_3star,
@@ -312,7 +420,28 @@ def preprocess_results(dset, sname="Results"):
     # assign names where we only have codes
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     lg.print_tstamp("- PPROC: add columns for panel names")
+
+    # drop the code columns
+    # ---------------------
+    columns_to_drop = [cb.COL_PANEL_CODE,
+                       cb.COL_UOA_NUMBER
+                       ]
+    dset = dset.drop(columns_to_drop, axis=1)
+    lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
+
+    # drop the columns not relevant for current visualisations
+    # --------------------------------------------------------
+    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
+                       cb.COL_MULT_SUB_NAME,
+                       cb.COL_JOINT_SUB]
+    for column in columns_to_drop:
+        dset_stats = dset[column].value_counts().to_frame(name="count")
+        dset_stats.index.name = column
+        dset = dset.drop(column, axis=1)
+        lg.print_tstamp(f"- PPROC: drop column '{column}'")
+        print(f"{dset_stats}")
 
     return dset
 

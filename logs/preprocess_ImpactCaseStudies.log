@@ -1,13 +1,71 @@
-[2023-08-25 16:51:39] READ 'data/processed/ImpactCaseStudies.csv.gz': 6361 records
-[2023-08-25 16:51:39] PPROC actions for 'ImpactCaseStudies' sheet
-[2023-08-25 16:51:39] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-25 16:51:39] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-25 16:51:39] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-25 16:51:39] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-25 16:51:39] - PPROC: replace missing values with 'Not specified'
-[2023-08-25 16:51:39] - PPROC: shift columns from title to the left to fix raw data issue 
-[2023-08-25 16:51:40] - PPROC: replace styling characters in the following columns
-[2023-08-25 16:51:40] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
-[2023-08-25 16:51:40] - PPROC: add column for panels names
-[2023-08-25 16:51:50] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
-[2023-08-25 16:51:50] DELETED 'data/processed/ImpactCaseStudies.csv.gz'
+[2023-08-29 16:23:20] READ 'data/processed/ImpactCaseStudies.csv.gz': 6361 records
+[2023-08-29 16:23:20] PPROC actions for 'ImpactCaseStudies' sheet
+[2023-08-29 16:23:20] - PPROC: rename 'Main panel' to 'Main panel code'
+[2023-08-29 16:23:20] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2023-08-29 16:23:20] - PPROC: rename 'Institution name' to 'Institution'
+[2023-08-29 16:23:20] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2023-08-29 16:23:20] - PPROC: replace missing values with 'Not specified'
+[2023-08-29 16:23:20] - PPROC: shift columns from title to the left to fix raw data issue 
+[2023-08-29 16:23:24] - PPROC: replace styling characters in the following columns
+[2023-08-29 16:23:24] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
+[2023-08-29 16:23:24] - PPROC: add column for panels names
+[2023-08-29 16:23:24] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2023-08-29 16:23:24] - PPROC: drop column 'Multiple submission letter'
+                            count
+Multiple submission letter       
+Not specified                6249
+A                              59
+B                              53
+[2023-08-29 16:23:24] - PPROC: drop column 'Multiple submission name'
+                                                    count
+Multiple submission name                                 
+Not specified                                        6249
+26A - Modern Languages                                 12
+Music                                                   7
+Drama                                                   6
+22A - Anthropology                                      4
+22B Development Studies                                 4
+UoA25A UCL School of Slavonic & East European S...      4
+22B - Development Studies                               4
+UoG Submission in Allied Health Professions & N...      4
+Development Studies                                     4
+Media, Communications and Cultural Studies (MCCS)       3
+Social Anthropology                                     3
+A – Faculty of Creative Industries, University ...      3
+22B: International Development                          3
+UoA32B The Slade School of Fine Art                     3
+Performance and Cultural Industries                     3
+Modern Languages                                        3
+22A: Anthropology                                       3
+Media and Communication                                 3
+28A: Economic History                                   2
+22A Anthropology                                        2
+Art                                                     2
+Museum Studies                                          2
+B – Theatre, Film, Television and Interactive M...      2
+A - Music                                               2
+26B - Linguistics                                       2
+B – Royal Welsh College of Music and Drama              2
+Film                                                    2
+Dance                                                   2
+Drama, Dance, Performing Arts, Film and Screen ...      2
+UoA25B Institute of the Americas (UCL-IA)               2
+Institute of Creative and Cultural Entrepreneur...      2
+28B: International History                              2
+26B - Celtic and Gaelic                                 2
+Linguistics                                             2
+UoA32A UCL History of Art Department                    2
+Typography and Graphic Communication                    2
+[2023-08-29 16:23:24] - PPROC: drop column 'Joint submission'
+                                                    count
+Joint submission                                         
+Not specified                                        6294
+(joint submission with Heriot-Watt University)         24
+(joint submission with SRUC)                           11
+(joint submission with Birkbeck College and Ins...     11
+(joint submission with University of Sussex)            9
+(joint submission with University of Edinburgh)         6
+(joint submission with Birkbeck College)                3
+(joint submission with University of Greenwich)         3
+[2023-08-29 16:23:45] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
+[2023-08-29 16:23:45] DELETED 'data/processed/ImpactCaseStudies.csv.gz'
