@@ -10,6 +10,10 @@ COL_INST_CODE = 'Institution UKPRN code'
 COL_INST_NAME = 'Institution'
 COL_RG_CODE = 'Research group code'
 COL_RG_NAME = 'Research group'
+# about the submissions
+COL_MULT_SUB_LETTER = 'Multiple submission letter'
+COL_MULT_SUB_NAME = 'Multiple submission name'
+COL_JOINT_SUB = 'Joint submission'
 # about the outputs
 COL_OUTPUT_TYPE_CODE = 'Output type code'
 COL_OUTPUT_TYPE_NAME = 'Output type'
