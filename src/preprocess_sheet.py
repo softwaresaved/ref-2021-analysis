@@ -188,10 +188,15 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     # --------------
     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
     # rename columns for clarity
+    # ---------------------------
     dset = pp.rename_columns(dset)
+
     # preprocess institution name
+    # ---------------------------
     dset = preprocess_inst_name(dset)
+
     # replace missing values in object columns
+    # ----------------------------------------
     columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
     dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
     lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
@@ -200,6 +205,27 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     # -------------------------------------
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     lg.print_tstamp("- PPROC: add columns for panel names")
+
+    # drop the code columns
+    # ---------------------
+    columns_to_drop = [cb.COL_PANEL_CODE,
+                       cb.COL_UOA_NUMBER,
+                       cb.COL_RG_CODE
+                       ]
+    dset = dset.drop(columns_to_drop, axis=1)
+    lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
+
+    # drop the columns not relevant for current visualisations
+    # --------------------------------------------------------
+    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
+                       cb.COL_MULT_SUB_NAME,
+                       cb.COL_JOINT_SUB]
+    for column in columns_to_drop:
+        dset_stats = dset[column].value_counts().to_frame(name="count")
+        dset_stats.index.name = column
+        dset = dset.drop(column, axis=1)
+        lg.print_tstamp(f"- PPROC: drop column '{column}'")
+        print(f"{dset_stats}")
 
     return dset
 
@@ -298,9 +324,10 @@ def preprocess_sheet(sname):
 
     # save the pre-processed data
     # ---------------------------
+    dset.index.name = "Record"
     fname = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_PPROCESS}{rw.DATA_EXT}")
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
-                index=False,
+                index=True,
                 compression='gzip')
     lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
