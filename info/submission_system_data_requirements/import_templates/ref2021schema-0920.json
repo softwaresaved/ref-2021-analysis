@@ -1,0 +1,952 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://www.ref.ac.uk/schemas/ref2021schema.json",
+  "title": "REF2021 submissions",
+  "description": "A collection of submissions to the REf2021, version 2.0, November 2019",
+  "type": "object",
+  "required": [ "institution" ],
+  "additionalProperties": true,
+  "definitions": {
+    "researchGroupCodeType": {
+      "description": "A code identifying the research group",
+      "type": "string",
+      "maxLength": 1,
+      "pattern": "[A-Z0-9]"
+    },
+    "identifierType": {
+      "description": "Defines the type for a standard identifier",
+      "type": "string",
+      "maxLength": 24
+    },
+    "hesaStaffIdentifierType": {
+      "description": "The HESA staff identifier for the staff member",
+      "type": "string",
+      "maxLength": 13
+    },
+    "unitOfAssessmentType": {
+      "description": "The unit of assessment to the submission is for",
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 34
+    },
+    "multipleSubmissionCodeType": {
+      "description": "The letter for the multiple submission",
+      "type": "string",
+      "maxLength": 1,
+      "pattern": "[A-Z]"
+    },
+    "yearType": {
+      "description": "The years which make up the REF2021 submission periond",
+      "type": "string",
+      "enum": [ "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021" ]
+    },
+    "base64Binary": {
+      "description": "Binary data encoded in base64",
+      "type": "string",
+      "pattern": "[^-A-Za-z0-9+/=]|=[^=]|={3,}$"
+    },
+    "monthType": {
+      "description": "The month the output was published in",
+      "type": "string",
+      "enum": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec",
+        "January",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ]
+    },
+    "orcidType": {
+      "description": "The researcher's ORCID",
+      "type": "string",
+      "pattern": "https://orcid.org/\\d{4}-\\d{4}-\\d{4}-\\d{4}"
+    },
+    "grantFundingType": {
+      "description": "Details of the funder for the research associated with an impact case study",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "number": {
+          "description": "The grant number of the grant",
+          "type": "string",
+          "maxLength": 256
+        },
+        "amount": {
+          "description": "The amount of grant",
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "grantsFundingCollection": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/grantFundingType" }
+    },
+    "researchGroupType": {
+      "description": "A research group",
+      "type": "object",
+      "required": [ "code", "name" ],
+      "additionalProperties": false,
+      "properties": {
+        "code": { "$ref": "#/definitions/researchGroupCodeType" },
+        "name": {
+          "description": "The name of the research group",
+          "type": "string",
+          "maxLength": 128
+        }
+      }
+    },
+    "researchGroupCollection": {
+      "description": "The list of research groups in the submission",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/researchGroupType" }
+    },
+    "circumstanceIdentifierType": {
+      "description": "The possible types of staff circumstances",
+      "type": "string",
+      "enum": [ "ECR", "SecondmentsOrCareerBreaks", "FamilyRelatedLeave", "JuniorClinicalAcademic", "RequiringJudgement" ]
+    },
+    "baseStaffMemberType": {
+      "description": "The common properties for staff members",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "staffIdentifier": { "$ref": "#/definitions/identifierType" },
+        "surname": {
+          "description": "The staff member's last name",
+          "type": "string",
+          "maxLength": 64
+        },
+        "initials": {
+          "description": "The staff member's initials",
+          "type": "string",
+          "maxLength": 12
+        },
+        "dateOfBirth": {
+          "description": "The staff member's date of birth",
+          "type": "string",
+          "format": "date-time"
+        },
+        "orcid": { "$ref": "#/definitions/orcidType" }
+      }
+    },
+    "staffContract": {
+      "description": "The details of a staff contract",
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "contractedFte": {
+          "description": "The contract FTE of the staff member on the census date",
+          "type": "number",
+          "minimum": 0.20,
+          "maximum": 1.00
+        },
+        "researchConnection": {
+          "description": "A description of the connection between the staff member and the research department",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "reasonForNoConnectionStatement": {
+          "description": "The reason the staff member has no connection statement",
+          "type": "string",
+          "enum": [
+            "CaringResponsibilities",
+            "PersonalCircumstances",
+            "ApproachingRetirement",
+            "DisciplinePractice"
+          ]
+        },
+        "isOnSecondment": {
+          "description": "A value indicating whether the staff member is on secondment",
+          "type": "boolean"
+        },
+        "secondmentStartDate": {
+          "description": "The date the secondment started",
+          "type": "string",
+          "format": "date-time"
+        },
+        "secondmentEndDate": {
+          "description": "The date the secondment ended",
+          "type": "string",
+          "format": "date-time"
+        },
+        "isOnUnpaidLeave": {
+          "description": "A value indicating whether the staff member is on unpaid leave",
+          "type": "boolean"
+        },
+        "unpaidLeaveStartDate": {
+          "description": "The date the unpaid leave started",
+          "type": "string",
+          "format": "date-time"
+        },
+        "unpaidLeaveEndDate": {
+          "description": "The date the unpaid leave ended",
+          "type": "string",
+          "format": "date-time"
+        },
+        "researchGroups": {
+          "description": "A list of the research groups the staff member belongs to",
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 4,
+          "items": { "$ref": "#/definitions/researchGroupCodeType" }
+        }
+      }
+    },
+    "currentStaffMemberType": {
+      "description": "The information required for a current member of staff",
+      "anyOf": [
+        { "$ref": "#/definitions/baseStaffMemberType" },
+        { "$ref": "#/definitions/staffContract" },
+        {
+          "properties": {
+            "hesaStaffIdentifier": { "$ref": "#/definitions/hesaStaffIdentifierType" },
+            "isEarlyCareerResearcher": {
+              "description": "A value indicating whether the staff member is an early career researcher, only required for staff members without a HESA staff identifier.",
+              "type": "boolean"
+            },
+            "isOnFixedTermContract": {
+              "description": "A value indicating whether the staff member is on a fixed term contract",
+              "type": "boolean"
+            },
+            "contractStartDate": {
+              "description": "The date the fixed term contract started",
+              "type": "string",
+              "format": "date-time"
+            },
+            "contractEndDate": {
+              "description": "The date the fixed term contract ended",
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        }
+      ]
+    },
+    "formerStaffMemberType": {
+      "description": "The information required for a member of staff who has left",
+      "anyOf": [
+        { "$ref": "#/definitions/baseStaffMemberType" },
+        {
+          "properties": {
+            "contracts": {
+              "description": "The list of contracts the former staff member had",
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "anyOf": [
+                  { "$ref": "#/definitions/staffContract" },
+                  {
+                    "properties": {
+                      "hesaStaffIdentifier": { "$ref": "#/definitions/hesaStaffIdentifierType" },
+                      "startDate": {
+                        "description": "The date the staff member started at the institution",
+                        "type": "string",
+                        "format": "date-time"
+                      },
+                      "endDate": {
+                        "description": "The date the staff member left the institution",
+                        "type": "string",
+                        "format": "date-time"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "excludeFromSubmission": {
+              "description": "A valud indicating whether to exclude the staff member from submission",
+              "type": "boolean",
+              "default": false
+            }
+          }
+        }
+      ]
+    },
+    "currentStaffCollection": {
+      "description": "The list of current staff",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/currentStaffMemberType" }
+    },
+    "formerStaffCollection": {
+      "description": "The list of staff who have left but have outputs submitted",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/formerStaffMemberType" }
+    },
+    "staffCollection": {
+      "description": "The list of staff which included in the submission",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "current": { "$ref": "#/definitions/currentStaffCollection" },
+        "leavers": { "$ref": "#/definitions/formerStaffCollection" }
+      }
+    },
+    "outputType": {
+      "description": "The details of an output submitted to the unit of assessment",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [ "outputIdentifier" ],
+      "properties": {
+        "outputIdentifier": { "$ref": "#/definitions/identifierType" },
+        "webOfScienceIdentifier": {
+          "description": "The identifier for the output on the web of science",
+          "type": "string",
+          "maxLength": 20
+        },
+        "outputType": {
+          "description": "An identifier for the type of output",
+          "type": "string",
+          "maxLength": 1,
+          "pattern": "[A-Va-v]"
+        },
+        "title": {
+          "description": "The title of the output",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "place": {
+          "description": "The place the output is located at",
+          "type": "string",
+          "maxLength": 256
+        },
+        "publisher": {
+          "description": "The publisher of the output",
+          "type": "string",
+          "maxLength": 256
+        },
+        "volumeTitle": {
+          "description": "The title of the volume which contains the output",
+          "type": "string",
+          "maxLength": 256
+        },
+        "volume": {
+          "description": "The volume the which contains the output",
+          "type": "string",
+          "maxLength": 16
+        },
+        "issue": {
+          "description": "The issue which contains the output",
+          "type": "string",
+          "maxLength": 16
+        },
+        "firstPage": {
+          "description": "The number of the first page of the output",
+          "type": "string",
+          "maxLength": 8
+        },
+        "articleNumber": {
+          "description": "The article number of the output",
+          "type": "string",
+          "maxLength": 32
+        },
+        "isbn": {
+          "description": "The ISBN for the book which contains the output",
+          "type": "string",
+          "maxLength": 24
+        },
+        "issn": {
+          "description": "The ISSN for the journal which contains the output",
+          "type": "string",
+          "maxLength": 24
+        },
+        "doi": {
+          "description": "The DOI for the output",
+          "type": "string",
+          "maxLength": 1024
+        },
+        "patentNumber": {
+          "description": "The patent number of the output",
+          "type": "string",
+          "maxLength": 24
+        },
+        "month": { "$ref": "#/definitions/monthType" },
+        "year": { "$ref": "#/definitions/yearType" },
+        "url": {
+          "description": "The URL where the output is located",
+          "type": "string",
+          "maxLength": 1024
+        },
+        "isPhysicalOutput": {
+          "description": "A value indicating whether the output will be submitted as a physical output",
+          "type": "boolean"
+        },
+        "mediaOfOutput": {
+          "description": "Is this still required?",
+          "type": "string",
+          "maxLength": 24
+        },
+        "supplementaryInformation": {
+          "description": "",
+          "type": "string",
+          "maxLength": 24
+        },
+        "numberOfAdditionalAuthors": {
+          "description": "The number of additional authors on the output",
+          "type": "integer",
+          "minimum": 0
+        },
+        "doesIncludeSignificantMaterialBefore2014": {
+          "type": "boolean"
+        },
+        "doesIncludeResearchProcess": {
+          "type": "boolean"
+        },
+        "doesIncludeFactualInformationAboutSignificance": {
+          "type": "boolean"
+        },
+        "isPendingPublication": {
+          "description": "A value indicating whether the output is pending publication",
+          "type": "boolean",
+          "default": false
+        },
+        "pendingPublicationReserve": { "$ref": "#/definitions/identifierType" },
+        "isForensicScienceOutput": {
+          "description": "A value indicating whether the output relates to forensic science",
+          "type": "boolean",
+          "default": false
+        },
+        "isCriminologyOutput": {
+          "description": "A value indicating whether the output relates to crimonology",
+          "type": "boolean",
+          "default": false
+        },
+        "isNonEnglishLanguage": {
+          "description": "A value indicating whether the output is not in the english language",
+          "type": "boolean",
+          "default": false
+        },
+        "englishAbstract": {
+          "description": "An english abstract for a non english output",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "isInterdisciplinary": {
+          "description": "A value indicating whether the output relates to interdisciplinary research",
+          "type": "boolean",
+          "default": false
+        },
+        "proposeDoubleWeighting": {
+          "description": "A value indicating whether the output should be considered for double weighting",
+          "type": "boolean",
+          "default": false
+        },
+        "doubleWeightingStatement": {
+          "description": "The statement justifying the double weighting request",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "doubleWeightingReserve": { "$ref": "#/definitions/identifierType" },
+        "conflictedPanelMembers": {
+          "description": "The list of panel members which may have conflicts of interests with the output",
+          "type": "string",
+          "maxLength": 512
+        },
+        "crossReferToUoa": { "$ref": "#/definitions/unitOfAssessmentType" },
+        "additionalInformation": {
+          "description": "Additional information about the output",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "researchGroup": { "$ref": "#/definitions/researchGroupCodeType" },
+        "openAccessStatus": {
+          "description": "The status of the output in relation to the open access policy",
+          "type": "string",
+          "enum": [
+            "Compliant",
+            "NotCompliant",
+            "DispositException",
+            "AccessException",
+            "TechnicalException",
+            "OtherException",
+            "OutOfScope",
+            "ExceptionWithin3MonthsOfPublication"
+          ]
+        },
+        "outputAllocation1": {
+          "description": "The subject category for the output as required by the panel",
+          "type": "string",
+          "maxLength": 128
+        },
+        "outputAllocation2": {
+          "description": "The subject category for the output as required by the panel",
+          "type": "string",
+          "maxLength": 128
+        },
+        "outputSubProfileCategory": {
+          "description": "Specifies the output sub-profile category for UOAs 3 and 12",
+          "type": "string",
+          "maxLength": 128
+        },
+        "requiresAuthorContributionStatement": {
+          "description": "A value indicating whether an author contribution statement is required",
+          "type": "boolean",
+          "default": false
+        },
+        "isSensitive": {
+          "description": "A value indicating whether the output details should be published",
+          "type": "boolean",
+          "default": false
+        },
+        "excludeFromSubmission": {
+          "description": "A value indicating whether to exclude the output from the submission",
+          "type": "boolean",
+          "default": false
+        },
+        "outputPdf": { "$ref": "#/definitions/base64Binary" },
+        "isDelayedByCovid19": {
+          "description": "A value indicating whether the output has been delayed by COVID-19, when flagged some validation results are ignore.",
+          "type": "boolean",
+          "default": false
+        },
+        "covid19Statement": {
+          "desciption": "A statement on how the output has been affected by COVID-19.",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "outputPdfRequired": {
+          "description": "Identifiers outputs which the insitution should provide, only used on export",
+          "type": "boolean",
+          "default": false
+        },
+        "matchedWebOfScienceIdentifier": {
+          "description": "The identifier for the output on the web of science for the article the output has been matched to, only used on export",
+          "type": "string",
+          "maxLength": 20
+        },
+        "timesCited": {
+          "description": "The number of times the article has been cited on Web of Science, only used on export.",
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "outputCollection": {
+      "description": "The outputs included in the submission",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/outputType" }
+    },
+    "staffOutputLinkType": {
+      "description": "Defines the link between a staff member and an output",
+      "type": "object",
+      "required": [ "outputIdentifier" ],
+      "additionalProperties": false,
+      "properties": {
+        "hesaStaffIdentifier": { "$ref": "#/definitions/hesaStaffIdentifierType" },
+        "staffIdentifier": { "$ref": "#/definitions/identifierType" },
+        "outputIdentifier": { "$ref": "#/definitions/identifierType" },
+        "authorContributionStatement": {
+          "description": "The statement about the author's contribution to the output, if required by the panel",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "isAdditionalAttributedStaffMember": {
+          "description": "A value indicating whether this staff member is an additional attributed staff member for a double weighted output or an output submitted to main panel D.",
+          "type": "boolean"
+        }
+      }
+    },
+    "staffOutputLinkCollection": {
+      "description": "Defines the link between staff and outputs",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/staffOutputLinkType" }
+    },
+    "impactCaseStudyContactType": {
+      "description": "A contact for an impact case study",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [ "contactNumber" ],
+      "properties": {
+        "contactNumber": {
+          "description": "A identifier for the contact",
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "name": {
+          "description": "The name of the contact",
+          "type": "string"
+        },
+        "jobTitle": {
+          "description": "The job title for the contact",
+          "type": "string"
+        },
+        "emailAddress": {
+          "description": "The email address for the contact",
+          "type": "string"
+        },
+        "alternateEmailAddress": {
+          "description": "An alternate email address for the contact",
+          "type": "string"
+        },
+        "phone": {
+          "description": "The telephone number for the contact",
+          "type": "string"
+        },
+        "organisation": {
+          "description": "The name of the contact's organisation",
+          "type": "string"
+        }
+      }
+    },
+    "impactCaseStudyContactsCollection": {
+      "description": "The collection of contacts for a case study",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/impactCaseStudyContactType" }
+    },
+    "impactCaseStudyGrantType": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "grantsFunding": { "$ref": "#/definitions/grantsFundingCollection" },
+        "nameOfFunders": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "maxLength": 256
+          }
+        },
+        "globalResearchIdentifiers": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "maxLength": 256
+          }
+        },
+        "fundingProgrammes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "maxLength": 256
+          }
+        },
+        "researcherOrcids": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/orcidType" }
+        },
+        "formalParters": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "maxLength": 256
+          }
+        },
+        "countries": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "impactCaseStudyGrantCollection": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/impactCaseStudyGrantType" }
+    },
+    "impactCaseStudyType": {
+      "description": "An impact case study",
+      "type": "object",
+      "required": [ "caseStudyIdentifier" ],
+      "additionalProperties": false,
+      "properties": {
+        "caseStudyIdentifier": { "$ref": "#/definitions/identifierType" },
+        "title": {
+          "description": "A title for the case study",
+          "type": "string",
+          "maxLength": 256
+        },
+        "redactionStatus": {
+          "description": "Indicates who the case study will be published",
+          "type": "string",
+          "enum": [ "NotRedacted", "RequiredRedaction", "NotForPublication" ]
+        },
+        "conflictedPanelMembers": {
+          "description": "The list of panel members who have a conflict on interest with the case study",
+          "type": "string",
+          "maxLength": 256
+        },
+        "caseStudyPdf": { "$ref": "#/definitions/base64Binary" },
+        "redactedCaseStudyPdf": { "$ref": "#/definitions/base64Binary" },
+        "caseStudyDocument": { "$ref": "#/definitions/base64Binary" },
+        "crossReferToUoa": { "$ref": "#/definitions/unitOfAssessmentType" },
+        "corroboratingEvidence": { "$ref": "#/definitions/base64Binary" },
+        "isCovid19StatementNotForPublication": {
+          "description": "A value indicating whether the COVID-19 statement should be published",
+          "type": "boolean",
+          "default": false
+        },
+        "covid19Statement": {
+          "desciption": "A statement on how the impact case study has been affected by COVID-19.",
+          "type": "string",
+          "maxLength": 7500
+        },
+        "grants": { "$ref": "#/definitions/impactCaseStudyGrantCollection" },
+        "contacts": { "$ref": "#/definitions/impactCaseStudyContactsCollection" }
+      }
+    },
+    "impactCaseStudyCollection": {
+      "description": "The impact case studies included in the submission",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/impactCaseStudyType" }
+    },
+    "researchDoctoralAwardedType": {
+      "description": "The number of research doctorals awarded in a year",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [ "year", "degreesAwarded" ],
+      "properties": {
+        "year": {
+          "description": "The academic year the degrees where awarded",
+          "type": "string",
+          "enum": [ "2013", "2014", "2015", "2016", "2017", "2018", "2019" ]
+        },
+        "degreesAwarded": {
+          "description": "The number of degrees awarded in the year",
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    },
+    "researchDoctoralCollection": {
+      "description": "The numbers of research doctorals awarded",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/researchDoctoralAwardedType" }
+    },
+    "researchIncomeType": {
+      "description": "The research income from a specified source",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [ "source" ],
+      "properties": {
+        "source": {
+          "description": "The source of the income",
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 17
+        },
+        "income2013": {
+          "description": "The income for the academic year",
+          "type": "integer"
+        },
+        "income2014": {
+          "description": "The income for the academic year",
+          "type": "integer"
+        },
+        "income2015": {
+          "description": "The income for the academic year",
+          "type": "integer"
+        },
+        "income2016": {
+          "description": "The income for the academic year",
+          "type": "integer"
+        },
+        "income2017": {
+          "description": "The income for the academic year",
+          "type": "integer"
+        },
+        "income2018": {
+          "description": "The income for the academic year",
+          "type": "integer"
+        },
+        "income2019": {
+          "description": "The income for the academic year",
+          "type": "integer"
+        }
+      }
+    },
+    "incomeCollection": {
+      "description": "The research income",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/researchIncomeType" }
+    },
+    "environmentStatementType": {
+      "description": "An environment statement for a submission or institutional level",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "requiresRedaction": {
+          "description": "A value indicating whether the statement required redaction for publication",
+          "type": "boolean"
+        },
+        "statement": { "$ref": "#/definitions/base64Binary" },
+        "redactedStatement": { "$ref": "#/definitions/base64Binary" }
+      }
+    },
+    "environmentType": {
+      "description": "The environment details for the submission",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "researchDoctoralsAwarded": { "$ref": "#/definitions/researchDoctoralCollection" },
+        "researchIncome": { "$ref": "#/definitions/incomeCollection" },
+        "researchIncomeInKind": { "$ref": "#/definitions/incomeCollection" },
+        "statement": { "$ref": "#/definitions/environmentStatementType" }
+      }
+    },
+    "removeOfTheMinimumOfOneRequestType": {
+      "description": "The requests to remove the minimum of one required from staff members",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "hesaStaffIdentifier": { "$ref": "#/definitions/hesaStaffIdentifierType" },
+        "staffIdentifier": { "$ref": "#/definitions/identifierType" },
+        "circumstances": {
+          "description": "The list of circumstances which apply.",
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 5,
+          "items": { "$ref": "#/definitions/circumstanceIdentifierType" }
+        },
+        "supportingInformation": {
+          "description": "A statement supporting the request to have the miniumum of one removed",
+          "type": "string",
+          "maxLength": 7500
+        }
+      }
+    },
+    "outputReductionRequestType": {
+      "description": "",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [ "typeOfCircumstance" ],
+      "properties": {
+        "hesaStaffIdentifier": { "$ref": "#/definitions/hesaStaffIdentifierType" },
+        "staffIdentifier": { "$ref": "#/definitions/identifierType" },
+        "typeOfCircumstance": { "$ref": "#/definitions/circumstanceIdentifierType" },
+        "tariffBand": {
+          "description": "The tariff band claimed for the circumstance",
+          "type": "number",
+          "minimum": 0,
+          "maximum": 3
+        },
+        "supportingInformation": {
+          "description": "A statement supporting the request to have the miniumum of one removed",
+          "type": "string",
+          "maxLength": 7500
+        }
+      }
+    },
+    "removeOfTheMinimumOfOneRequestCollection": {
+      "description": "",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/removeOfTheMinimumOfOneRequestType" }
+    },
+    "outputReductionRequestCollection": {
+      "description": "",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/outputReductionRequestType" }
+    },
+    "unitCircumstancesType": {
+      "description": "",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "removeMinimumOfOneRequests": { "$ref": "#/definitions/removeOfTheMinimumOfOneRequestCollection" },
+        "outputReductionRequests": { "$ref": "#/definitions/outputReductionRequestCollection" },
+        "unitRationaleStatement": {
+          "description": "A statement supporting the request to have the miniumum of one removed",
+          "type": "string",
+          "maxLength": 7500
+        }
+      }
+    },
+    "submissionType": {
+      "description": "The items which make up a submission to a unit of assessment",
+      "type": "object",
+      "additionalItems": false,
+      "required": [ "unitOfAssessment" ],
+      "properties": {
+        "institution": {
+          "description": "The UKPRN for a joint submission member if different from the one provided in the root object.",
+          "type": "string",
+          "pattern": "\\d{8}"
+        },
+        "unitOfAssessment": { "$ref": "#/definitions/unitOfAssessmentType" },
+        "multipleSubmission": { "$ref": "#/definitions/multipleSubmissionCodeType" },
+        "researchGroups": { "$ref": "#/definitions/researchGroupCollection" },
+        "staff": { "$ref": "#/definitions/staffCollection" },
+        "outputs": { "$ref": "#/definitions/outputCollection" },
+        "staffOutputLinks": { "$ref": "#/definitions/staffOutputLinkCollection" },
+        "impactCaseStudies": { "$ref": "#/definitions/impactCaseStudyCollection" },
+        "environment": { "$ref": "#/definitions/environmentType" },
+        "unitCircumstances": { "$ref": "#/definitions/unitCircumstancesType" }
+        }
+    },
+    "submissionCollection": {
+      "description": "A collection of the submissions being made",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/submissionType" }
+    }
+  },
+  "properties": {
+    "institution": {
+      "description": "The UKPRN for the institution submitting the data",
+      "type": "string",
+      "pattern": "\\d{8}"
+    },
+    "environmentStatement": {
+      "anyOf": [
+        { "$ref": "#/definitions/environmentStatementType" },
+        {
+          "properties": {
+            "covid19Statement": {
+              "desciption": "A statement on how the research has been affected by COVID-19.",
+              "type": "string",
+              "maxLength": 7500
+            },
+            "redactedCovid19Statement": {
+              "description": "A redacted version of the COVID-19 statement for publication.",
+              "type": "string",
+              "maxLength": 7500
+            }
+          }
+        }
+      ]
+    },
+    "submissions": { "$ref": "#/definitions/submissionCollection" }
+  }
+}

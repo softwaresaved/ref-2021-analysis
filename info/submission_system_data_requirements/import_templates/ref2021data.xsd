@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://www.ref.ac.uk/schemas/ref2021data"
+    elementFormDefault="qualified"
+    xmlns="http://www.ref.ac.uk/schemas/ref2021data"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:ref="http://www.ref.ac.uk/schemas/ref2021data"
+>
+  <xs:annotation>
+    <xs:documentation>
+      REF2021 Submission System XML Schemas
+      Purpose: XML schema for the REF2021 submission system import and export files.
+      Created by: Gareth Edwards
+      Created on: 18 November 2020
+      Version: 2.6
+      
+      2.5 Changes:
+      Updates to include the COVID-19 additional fields.
+      
+      2.6 Changes:
+      Updated the length of the mediaOfOutput field to 256 characters.
+    </xs:documentation>
+  </xs:annotation>
+
+  <!-- Define the root node. -->
+  <xs:element name="ref2021Data">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="institution" type="ref:InstitutionCodeType"/>
+          <!-- The institutional environment statement type just adds the COVID-19 statement to the environment statement type. -->
+          <xs:element name="environmentStatement" type="ref:InstitutionalEnvironmentStatementType" minOccurs="0"/>
+          <xs:element name="submissions" type="ref:SubmissionCollection" minOccurs="0"/>        
+        </xs:sequence>
+      </xs:complexType>
+  </xs:element>
+
+  <!-- Defines a collection of submissions. -->
+  <xs:complexType name="SubmissionCollection">
+    <xs:sequence>
+      <xs:element name="submission" type="ref:SubmissionType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the make up of a submission. -->
+  <xs:complexType name="SubmissionType">
+    <xs:sequence>
+      <!-- This is only required for joint submission members where the  institution different to -->
+      <!-- the one included ref2021Data element. -->
+      <xs:element name="institution" type="ref:InstitutionCodeType" minOccurs="0"/>
+      <xs:element name="unitOfAssessment" type="ref:UnitOfAssessmentCodeType"/>
+      <xs:element name="multipleSubmission" type="ref:MultipleSubmissionCodeType" minOccurs="0"/>
+      <xs:element name="researchGroups" type="ref:ResearchGroupCollection" minOccurs="0"/>
+      <xs:element name="staff" type="ref:StaffCollection" minOccurs="0"/>
+      <xs:element name="outputs" type="ref:OutputCollection" minOccurs="0"/>
+      <xs:element name="staffOutputLinks" type="ref:StaffOutputLinkCollection" minOccurs="0"/>
+      <xs:element name="impactCaseStudies" type="ref:ImpactCaseStudyCollection" minOccurs="0"/>
+      <xs:element name="environment" type="ref:EnvironmentType" minOccurs="0"/>
+      <xs:element name="unitCircumstances" type="ref:UnitCircumstancesType" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the collection of research groups -->
+  <xs:complexType name="ResearchGroupCollection">
+    <xs:sequence>
+      <xs:element name="group" type="ref:ResearchGroupType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- The  data type for a research group record. -->
+  <xs:complexType name="ResearchGroupType">
+    <xs:sequence>
+      <xs:element name="code" type="ref:ResearchGroupCodeType"/>
+      <xs:element name="name">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:maxLength value="128"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- ****************** Staff record section ******************* -->
+  <!-- Defines the collection of staff records. -->
+  <xs:complexType name="StaffCollection">
+    <xs:sequence>
+      <xs:element name="current" type="ref:CurrentStaffCollection" minOccurs="0"/>
+      <xs:element name="former" type="ref:FormerStaffCollection" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="CurrentStaffCollection">
+    <xs:sequence>
+      <xs:element name="staffMember" type="ref:CurrentStaffMemberType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="FormerStaffCollection">
+    <xs:sequence>
+      <xs:element name="staffMember" type="ref:FormerStaffMemberType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the staff record for a current staff member. -->
+  <xs:complexType name="CurrentStaffMemberType">
+    <xs:sequence>
+      <xs:element name="hesaStaffIdentifier" type="ref:HesaStaffIdentifierType" minOccurs="0" />
+      <xs:element name="staffIdentifier" type="ref:IdentifierType" minOccurs="0"/>
+      <xs:element name="surname" type="ref:LastNameType" minOccurs="0"/>
+      <xs:element name="initials" type="ref:InitialsType" minOccurs="0"/>
+      <xs:element name="dateOfBirth" type="xs:date" minOccurs="0"/>
+      <xs:element name="orcid" type="ref:OrcidType" minOccurs="0"/>
+      <xs:element name="contractedFte" type="ref:FteType" minOccurs="0"/>
+      <xs:element name="researchConnection" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="reasonsForNoConnectionStatement" type="ReasonsForNoConnectionStatementCollection" minOccurs="0"/>
+      <xs:element name="isOnFixedTermContract" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="contractStartDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="contractEndDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="isEarlyCareerResearcher" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="isOnSecondment" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="secondmentStartDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="secondmentEndDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="isOnUnpaidLeave" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="unpaidLeaveStartDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="unpaidLeaveEndDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="researchGroups" type="ref:ResearchGroupCodeCollection" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines a staff record for a member staff how has left. -->
+  <xs:complexType name="FormerStaffMemberType">
+    <xs:sequence>
+      <xs:element name="staffIdentifier" type="ref:IdentifierType" minOccurs="0"/>
+      <xs:element name="surname" type="ref:LastNameType" minOccurs="0"/>
+      <xs:element name="initials" type="ref:InitialsType" minOccurs="0"/>
+      <xs:element name="dateOfBirth" type="xs:date" minOccurs="0"/>      
+      <xs:element name="orcid" type="ref:OrcidType" minOccurs="0"/>
+      <xs:element name="contracts" type="ref:FormerStaffContractCollection" minOccurs="0"/>
+      <xs:element name="excludeFromSubmission" type="xs:boolean" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the collection of former staff contracts -->
+  <xs:complexType name="FormerStaffContractCollection">
+    <xs:sequence>
+      <xs:element name="contract" type="ref:FormerStaffContractType" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+  
+  <!-- Defines the former staff contract record. -->
+  <xs:complexType name="FormerStaffContractType">
+    <xs:sequence>
+      <xs:element name="hesaStaffIdentifier" type="ref:HesaStaffIdentifierType" minOccurs="0"/>
+      <xs:element name="contractedFte" type="ref:FteType" minOccurs="0"/>
+      <xs:element name="researchConnection" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="reasonsForNoConnectionStatement" type="ReasonsForNoConnectionStatementCollection" minOccurs="0"/>
+      <xs:element name="startDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="endDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="isOnSecondment" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="secondmentStartDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="secondmentEndDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="isOnUnpaidLeave" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="unpaidLeaveStartDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="unpaidLeaveEndDate" type="xs:date" minOccurs="0"/>
+      <xs:element name="researchGroups" type="ref:ResearchGroupCodeCollection" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- ****************** Output record section ******************* -->
+  <!-- Defines the collection of output records. -->
+  <xs:complexType name="OutputCollection">
+    <xs:sequence>
+      <xs:element name="output" type="ref:OutputType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the output record. -->
+  <xs:complexType name="OutputType">
+    <xs:sequence>
+      <xs:element name="outputIdentifier" type="ref:IdentifierType" />
+      <xs:element name="webOfScienceIdentifier" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:maxLength value="20"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="outputType" type="ref:OutputTypeType" minOccurs="0"/>
+      <xs:element name="title" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="place" type="ref:String256" minOccurs="0"/>
+      <xs:element name="publisher" type="ref:String256" minOccurs="0"/>
+      <xs:element name="volumeTitle" type="ref:String256" minOccurs="0"/>
+      <xs:element name="volume" type="ref:String16" minOccurs="0"/>
+      <xs:element name="issue" type="ref:String16" minOccurs="0"/>
+      <xs:element name="firstPage" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:maxLength value="8"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="articleNumber" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:maxLength value="32"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="isbn" type="ref:String24" minOccurs="0"/>
+      <xs:element name="issn" type="ref:String24" minOccurs="0"/>
+      <xs:element name="doi" type="ref:String1024" minOccurs="0"/>
+      <xs:element name="patentNumber" type="ref:String24" minOccurs="0"/>
+      <xs:element name="month" type="ref:MonthType" minOccurs="0"/>
+      <xs:element name="year" type="ref:YearType" minOccurs="0"/>
+      <xs:element name="url" type="ref:String1024" minOccurs="0"/>
+      <xs:element name="isPhysicalOutput" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="mediaOfOutput" type="ref:String256" minOccurs="0"/>
+      <xs:element name="supplementaryInformation" type="ref:String1024" minOccurs="0"/>
+      <xs:element name="numberOfAdditionalAuthors" type="ref:positiveZeroInteger" minOccurs="0"/>
+      <xs:element name="isPendingPublication" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="pendingPublicationReserve" type="ref:IdentifierType" minOccurs="0"/>
+      <xs:element name="isForensicScienceOutput" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="isCriminologyOutput" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="isNonEnglishLanguage" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="englishAbstract" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="isInterdisciplinary" type="xs:boolean" minOccurs="0"/>      
+      <xs:element name="proposeDoubleWeighting" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="doubleWeightingStatement" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="doubleWeightingReserve" type="ref:IdentifierType" minOccurs="0"/>
+      <xs:element name="conflictedPanelMembers" type="ref:String512" minOccurs="0"/>
+      <xs:element name="crossReferToUoa" type="ref:UnitOfAssessmentCodeType" minOccurs="0"/>
+      <xs:element name="additionalInformation" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="doesIncludeSignificantMaterialBefore2014" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="doesIncludeResearchProcess" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="doesIncludeFactualInformationAboutSignificance" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="researchGroup" type="ref:ResearchGroupCodeType" minOccurs="0"/>
+      <xs:element name="openAccessStatus" type="ref:OpenAccessStatusType" minOccurs="0"/>
+      <xs:element name="outputAllocation1" type="ref:String128" minOccurs="0"/>
+      <xs:element name="outputAllocation2" type="ref:String128" minOccurs="0"/>
+      <xs:element name="outputAllocation3" type="ref:String128" minOccurs="0"/>
+      <xs:element name="outputSubProfileCategory" type="ref:String128" minOccurs="0"/>
+      <xs:element name="requiresAuthorContributionStatement" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="isSensitive" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="excludeFromSubmission" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="outputPdf" type="xs:base64Binary" minOccurs="0"/>
+      <xs:element name="isDelayedByCovid19" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="covid19Statement" type="ref:FreeTextString" minOccurs="0"/>
+      <!-- Only used when exporting the output details. -->
+      <xs:element name="outputPdfRequired" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="matchedWebOfScienceIdentifier" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:maxLength value="20"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="timesCited" type="ref:positiveZeroInteger" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- ****************** Staff Output Link section ******************* -->
+  <!-- Defines the collection of staff output link records. -->
+  <xs:complexType name="StaffOutputLinkCollection">
+    <xs:sequence>
+      <xs:element name="staffOutputLink" type="ref:StaffOutputLinkType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <!-- Defines the link between staff and outputs records. -->
+  <xs:complexType name="StaffOutputLinkType">
+    <xs:sequence>
+      <xs:element name="hesaStaffIdentifier" type="ref:HesaStaffIdentifierType" minOccurs="0"/>
+      <xs:element name="staffIdentifier" type="ref:IdentifierType" minOccurs="0"/>
+      <xs:element name="outputIdentifier" type="ref:IdentifierType" />
+      <xs:element name="authorContributionStatement" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="isAdditionalAttributedStaffMember" type="xs:boolean" minOccurs="0"/>
+	    <xs:element name="researchGroup" type="ref:ResearchGroupCodeType" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- ****************** Impact case study section ******************* -->
+  <!-- Defines the collection of impact case study records. -->
+  <xs:complexType name="ImpactCaseStudyCollection">
+    <xs:sequence>
+      <xs:element name="caseStudy" type="ref:ImpactCaseStudyType" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the impact case study record -->
+  <xs:complexType name="ImpactCaseStudyType">
+    <xs:sequence>
+      <xs:element name="caseStudyIdentifier" type="ref:IdentifierType"/>
+      <xs:element name="title" type="ref:String256" minOccurs="0"/>
+      <xs:element name="redactionStatus" type="ref:RedactionStatusType" minOccurs="0"/>
+      <xs:element name="conflictedPanelMembers" type="ref:String512" minOccurs="0"/>
+      <xs:element name="caseStudyPdf" type="xs:base64Binary" minOccurs="0"/>
+      <xs:element name="redactedCaseStudyPdf" type="xs:base64Binary" minOccurs="0"/>
+      <xs:element name="caseStudyDocument" type="xs:base64Binary" minOccurs="0"/>
+      <xs:element name="crossReferToUoa" type="ref:UnitOfAssessmentCodeType" minOccurs="0"/>
+      <xs:element name="isCovid19StatementNotForPublication" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="covid19Statement" type="ref:FreeTextString" minOccurs="0"/>
+      <xs:element name="corroboratingEvidence" type="xs:base64Binary" minOccurs="0"/>
+      <xs:element name="grants" type="ref:ImpactCaseStudyGrantCollection" minOccurs="0"/>
+      <xs:element name="contacts" type="ref:ImpactCaseStudyContactCollection" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the collection of grants associated with a case study. -->
+  <xs:complexType name="ImpactCaseStudyGrantCollection">
+    <xs:sequence>
+      <xs:element name="grant" type="ref:ImpactCaseStudyGrantType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the collection of contacts for a case study. -->
+  <xs:complexType name="ImpactCaseStudyContactCollection">
+    <xs:sequence>
+      <xs:element name="contact" type="ref:ImpactCaseStudyContactType" maxOccurs="5"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <!-- Defines the grant details for a grant associated with a case study. -->
+  <xs:complexType name="ImpactCaseStudyGrantType">
+    <xs:sequence>
+      <xs:element name="grantsFunding" type="ref:GrantsFundingCollection" minOccurs="0"/>
+      <xs:element name="nameOfFunders" type="ref:StringCollection" minOccurs="0"/>
+      <xs:element name="globalResearchIdentifiers" type="ref:StringCollection" minOccurs="0"/>
+      <xs:element name="fundingProgrammes" type="ref:StringCollection" minOccurs="0"/>
+      <xs:element name="researcherOrcids" type="ref:OrcidCollection"  minOccurs="0"/>
+      <xs:element name="formalPartners" type="ref:StringCollection" minOccurs="0"/>
+      <xs:element name="countries" type="ref:StringCollection" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the contact details for a case study. -->
+  <xs:complexType name="ImpactCaseStudyContactType">
+    <xs:sequence>
+      <xs:element name="contactNumber" type="ref:ContactNumber" />
+      <xs:element name="name" type="ref:String64" minOccurs="0"/>
+      <xs:element name="jobTitle" type="ref:JobTitleType" minOccurs="0"/>
+      <xs:element name="emailAddress" type="ref:String128" minOccurs="0"/>
+      <xs:element name="alternateEmailAddress" type="ref:String128" minOccurs="0"/>
+      <xs:element name="phone" type="ref:String24" minOccurs="0"/>
+      <xs:element name="organisation" type="ref:String128" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- ****************** Environment section ******************* -->
+  <!-- Defines the environment section. -->
+  <xs:complexType name="EnvironmentType">
+    <xs:sequence>
+      <xs:element name="researchDoctoralsAwarded" type="ref:ResearchDoctoralCollection" minOccurs="0"/>
+      <xs:element name="researchIncome" type="ref:IncomeCollection" minOccurs="0"/>
+      <xs:element name="researchIncomeInKind" type="ref:IncomeCollection"  minOccurs="0"/>
+      <xs:element name="statement" type="ref:EnvironmentStatementType" minOccurs="0"/>
+	    <xs:element name="statementDocument" type="ref:EnvironmentStatementType" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the collection of research doctorals awarded records. -->
+  <xs:complexType name="ResearchDoctoralCollection">
+    <xs:sequence>
+      <xs:element name="doctoralsAwarded" type="ref:ResearchDoctoralAwardedType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the structure of a research doctorals awarded record. -->
+  <xs:complexType name="ResearchDoctoralAwardedType">
+    <xs:sequence>
+      <xs:element name="year" type="ref:DoctoralYear"/>
+      <xs:element name="degreesAwarded" type="ref:FteType"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the collection of income records.  -->
+  <xs:complexType name="IncomeCollection">
+    <xs:sequence>
+      <xs:element name="income" type="ref:ResearchIncomeType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the structure of a research income record. -->
+  <xs:complexType name="ResearchIncomeType">
+    <xs:sequence>
+      <xs:element name="source" type="ref:IncomeSourceType"/>
+      <xs:element name="income2013" type="xs:int" minOccurs="0"/>
+      <xs:element name="income2014" type="xs:int" minOccurs="0"/>
+      <xs:element name="income2015" type="xs:int" minOccurs="0"/>
+      <xs:element name="income2016" type="xs:int" minOccurs="0"/>
+      <xs:element name="income2017" type="xs:int" minOccurs="0"/>
+      <xs:element name="income2018" type="xs:int" minOccurs="0"/>
+      <xs:element name="income2019" type="xs:int" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Defines the structure of the environment statement record. -->
+  <xs:complexType name="EnvironmentStatementType">
+    <xs:sequence>
+      <xs:element name="requiresRedaction" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="statement" type="xs:base64Binary" minOccurs="0"/>
+      <xs:element name="statementDocument" type="xs:base64Binary" minOccurs="0"/>
+      <xs:element name="redactedStatement" type="xs:base64Binary" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="InstitutionalEnvironmentStatementType">
+    <xs:complexContent>
+      <xs:extension base="ref:EnvironmentStatementType">
+        <xs:sequence>
+          <xs:element name="covid19Statement" type="ref:FreeTextString" minOccurs="0"/>
+          <xs:element name="redactedCovid19Statement" type="ref:FreeTextString" minOccurs="0"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <!-- Defines the structure of the unit circumstances -->
+  <xs:complexType name="UnitCircumstancesType">
+    <xs:sequence>
+      <xs:element name="removeMinimumOfOneRequests" type="ref:RemoveMinimumOfOneRequestCollection" minOccurs="0"/>
+      <xs:element name="outputReductionRequests" type="ref:OutputReductionRequestCollection" minOccurs="0"/>
+      <xs:element name="unitRationaleStatement" type="ref:FreeTextString" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RemoveMinimumOfOneRequestCollection">
+    <xs:sequence>
+      <xs:element name="request" type="ref:RemoveMinimumOfOneRequestType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:complexType name="OutputReductionRequestCollection">
+    <xs:sequence>
+      <xs:element name="outputReductionRequest" type="ref:OutputReductionRequestType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RemoveMinimumOfOneRequestType">
+    <xs:sequence>
+      <xs:element name="hesaStaffIdentifier" type="ref:HesaStaffIdentifierType" minOccurs="0"/>
+      <xs:element name="staffIdentifier" type="ref:String24" minOccurs="0"/>
+      <xs:element name="circumstances" type="CircumstanceIdentifierCollection" minOccurs="0"/>
+      <xs:element name="supportingInformation" type="ref:FreeTextString" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="CircumstanceIdentifierCollection">
+    <xs:sequence>
+      <xs:element name="circumstance" type="ref:TypeOfCircumstancesType" maxOccurs="5"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="OutputReductionRequestType">
+    <xs:sequence>
+      <xs:element name="hesaStaffIdentifier" type="ref:HesaStaffIdentifierType" minOccurs="0"/>
+      <xs:element name="staffIdentifier" type="ref:String24" minOccurs="0"/>
+      <xs:element name="typeOfCircumstance" type="ref:TypeOfCircumstancesType" minOccurs="0"/>
+      <xs:element name="tariffBand" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:integer">
+            <xs:minInclusive value="0"/>
+            <xs:maxInclusive value="3"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="supportingInformation" type="ref:FreeTextString" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- ****************** Supporting types ******************* -->
+
+  <!-- The data type for the institution code (UKPRN). -->
+  <xs:simpleType name="InstitutionCodeType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d{8}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the unit of assessment code. -->
+  <xs:simpleType name="UnitOfAssessmentCodeType">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="1"/>
+      <xs:maxInclusive value="34"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the multiple submission identifier. -->
+  <xs:simpleType name="MultipleSubmissionCodeType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[A-Z]"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <!-- The data type for FTEs. -->
+  <xs:simpleType name="FteType">
+    <xs:restriction base="xs:decimal">
+      <xs:totalDigits value="6"/>
+      <xs:fractionDigits value="2"/>
+      <xs:minInclusive value="0.00"/>
+    </xs:restriction>
+  </xs:simpleType>  
+  
+  <!-- The data type for the year. -->
+  <xs:simpleType name="YearType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="2014"/>
+      <xs:enumeration value="2015"/>
+      <xs:enumeration value="2016"/>
+      <xs:enumeration value="2017"/>
+      <xs:enumeration value="2018"/>
+      <xs:enumeration value="2019"/>
+      <xs:enumeration value="2020"/>
+      <!-- Allowed for outputs delayed by COVID-19. -->
+      <xs:enumeration value="2021"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the months of the year -->
+  <xs:simpleType name="MonthType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="1"/>
+      <xs:enumeration value="2"/>
+      <xs:enumeration value="3"/>
+      <xs:enumeration value="4"/>
+      <xs:enumeration value="5"/>
+      <xs:enumeration value="6"/>
+      <xs:enumeration value="7"/>
+      <xs:enumeration value="8"/>
+      <xs:enumeration value="9"/>
+      <xs:enumeration value="10"/>
+      <xs:enumeration value="11"/>
+      <xs:enumeration value="12"/>
+      <xs:enumeration value="January"/>
+      <xs:enumeration value="February"/>
+      <xs:enumeration value="March"/>
+      <xs:enumeration value="April"/>
+      <xs:enumeration value="May"/>
+      <xs:enumeration value="June"/>
+      <xs:enumeration value="July"/>
+      <xs:enumeration value="August"/>
+      <xs:enumeration value="September"/>
+      <xs:enumeration value="October"/>
+      <xs:enumeration value="November"/>
+      <xs:enumeration value="December"/>   
+      <xs:enumeration value="Jan"/>
+      <xs:enumeration value="Feb"/>
+      <xs:enumeration value="Mar"/>
+      <xs:enumeration value="Apr"/>
+      <xs:enumeration value="May"/>
+      <xs:enumeration value="Jun"/>
+      <xs:enumeration value="Jul"/>
+      <xs:enumeration value="Aug"/>
+      <xs:enumeration value="Sep"/>
+      <xs:enumeration value="Oct"/>
+      <xs:enumeration value="Nov"/>
+      <xs:enumeration value="Dec"/>        
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for research doctoral year. -->
+  <xs:simpleType name="DoctoralYear">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="2013"/>
+      <xs:enumeration value="2014"/>
+      <xs:enumeration value="2015"/>
+      <xs:enumeration value="2016"/>
+      <xs:enumeration value="2017"/>
+      <xs:enumeration value="2018"/>
+      <xs:enumeration value="2019"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the research group code. -->
+  <xs:simpleType name="ResearchGroupCodeType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[A-Z0-9]"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the HESA staff identifier. -->
+  <xs:simpleType name="HesaStaffIdentifierType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="13"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the REF identifiers. -->
+  <xs:simpleType name="IdentifierType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="24"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the last name. -->
+  <xs:simpleType name="LastNameType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="64"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the initials. -->
+  <xs:simpleType name="InitialsType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="12"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="OrcidType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="37"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="OrcidCollection">
+    <xs:sequence>
+      <xs:element name="orcid" type="ref:OrcidType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- The data type for positive and zero integers. -->
+  <xs:simpleType name="positiveZeroInteger">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="0"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- The data type for the job title. -->
+  <xs:simpleType name="JobTitleType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="64"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Defines a collection of research group codes. -->
+  <xs:complexType name="ResearchGroupCodeCollection">
+    <xs:sequence>
+      <xs:element name="group"
+                  minOccurs="1"
+                  maxOccurs="4"
+                  type="ref:ResearchGroupCodeType"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <!-- Defines the reasons for no connection statement collection. -->
+  <xs:complexType name="ReasonsForNoConnectionStatementCollection">
+    <xs:sequence>
+      <xs:element name="reasonForConnectionStatement" minOccurs="1" maxOccurs="4" type="ref:NoConnectionReasonType"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <!-- The data type for the output type. -->
+  <xs:simpleType name="OutputTypeType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[A-Va-v]"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Defines the possible values for the redaction status. -->
+  <xs:simpleType name="RedactionStatusType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="NotRedacted"/>
+      <xs:enumeration value="Redacted"/>
+      <xs:enumeration value="NotForPublication"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Defines the possible values for the impact contact number. -->
+  <xs:simpleType name="ContactNumber">
+    <xs:restriction base="xs:positiveInteger">
+      <xs:minInclusive value="1"/>
+      <xs:maxInclusive value="5"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Defines the possible values of the income source. -->
+  <xs:simpleType name="IncomeSourceType">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="1"/>
+      <xs:maxInclusive value="17"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <!-- Defines the possible staff circumstances. -->
+  <xs:simpleType name="TypeOfCircumstancesType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="ECR"/>
+      <xs:enumeration value="SecondmentsOrCareerBreaks"/>
+      <xs:enumeration value="FamilyRelatedLeave"/>
+      <xs:enumeration value="JuniorClinicalAcademic"/>
+      <xs:enumeration value="RequiringJudgement"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Defines the possible statuses of the output in relation to the open access policy -->
+  <xs:simpleType name="OpenAccessStatusType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Compliant"/>
+      <xs:enumeration value="NotCompliant"/>
+      <xs:enumeration value="DepositException"/>
+      <xs:enumeration value="AccessException"/>
+      <xs:enumeration value="TechnicalException"/>
+      <xs:enumeration value="OtherException"/>
+      <xs:enumeration value="OutOfScope"/>
+      <xs:enumeration value="ExceptionWithin3MonthsOfPublication"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Defines the possible reason for not having a connection statement -->
+  <xs:simpleType name="NoConnectionReasonType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CaringResponsibilities"/>
+      <xs:enumeration value="PersonalCircumstances"/>
+      <xs:enumeration value="ApproachingRetirement"/>
+      <xs:enumeration value="DisciplinePractice"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Defines various string length restrictions -->
+  <xs:simpleType name="String16">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="16"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="String24">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="24"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="String64">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="64"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="String128">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="128"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="String256">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="256"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="String512">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="512"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="String1024">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="1024"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="FreeTextString">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="7500"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:complexType name="StringCollection">
+    <xs:sequence>
+      <xs:element name="value" type="ref:String256" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="GrantsFundingCollection">
+    <xs:sequence>
+      <xs:element name="grantFunding" type="ref:GrantFundingType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="GrantFundingType">
+    <xs:sequence>
+      <xs:element name="number" type="ref:String256" minOccurs="0"/>
+      <xs:element name="amount" type="ref:positiveZeroInteger" minOccurs="0"/>      
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

@@ -2,6 +2,8 @@
 
 Data source: https://results2021.ref.ac.uk/ (accessed 2023-08-10)
 
+Information on submission system data requiremets: https://ref.ac.uk/guidance-and-criteria-on-submissions/guidance/submission-system-data-requirements/ (accesed 2023-08-30). The local copy of the download page at the time of access: [Submission_system_data_requirements-REF2021.pdf](info/Submission_system_data_requirements-REF2021.pdf)
+
 ## Setting up the environment
 
 Follow these steps to set up the environment for this project:
