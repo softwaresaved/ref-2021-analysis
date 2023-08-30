@@ -355,8 +355,7 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     # drop the code columns
     # ---------------------
     columns_to_drop = [cb.COL_PANEL_CODE,
-                       cb.COL_UOA_NUMBER,
-                       cb.COL_RG_CODE
+                       cb.COL_UOA_NUMBER
                        ]
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
