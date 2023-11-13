@@ -1,5 +1,9 @@
 # Processing of REF 2021 submissions
 
+Team members can access [https://docs.google.com/document/d/1HBTiIFS5aqfwd8OonJDXF0MirpWMyczKEfb1jbSvY4c/edit](the running notes for meetings), which provide details of the project goals and decisions.
+
+## Data explorer
+
 Data explorer available at [https://ref-2021-data-explorer.streamlit.app](https://ref-2021-data-explorer.streamlit.app) hosted on [Streamlit Sharing](https://streamlit.io/sharing).
 
 Data source: https://results2021.ref.ac.uk/ (accessed 2023-08-10)
