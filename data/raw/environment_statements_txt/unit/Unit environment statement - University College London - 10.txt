@@ -1,0 +1,1133 @@
+Unit-level environment template (REF5b)
+ Institution: University College London (UCL)
+
+ Unit of Assessment: 10 Mathematical Sciences
+
+
+ 1. Unit context and structure, research and impact strategy
+
+The mathematical sciences at UCL are predominantly represented by the Departments of
+Mathematics and Statistical Science (“Statistics” below). These are currently housed in separate
+buildings but work together on teaching, research and impact. Of the 94.15 FTE submitted, 65.6
+are in Mathematics, 26.55 are in Statistics and 2 are from the Gatsby Computational Neuroscience
+Unit. The departments have also submitted 2.1 FTE to other Units of Assessment. Mathematics
+and Statistics are administratively distinct departments within the Faculty of Mathematical and
+Physical Sciences (MAPS), whereas the Gatsby Unit is part of the Faculty of Life Sciences. Staff
+submitted are named in bold and those who left before the census date in italic.
+UCL is currently investing significantly in the mathematical sciences, working towards the
+establishment of an Institute for Mathematical and Statistical Sciences (IMSS) that will see the
+departments co-located in a refurbished building and an increase in academic staff numbers to
+approximately 130 FTE over the next 7 years: this target represents a doubling in size compared
+with 2014, and will significantly enhance UCL’s profile as a major centre for the discipline. IMSS is
+currently the top strategic priority of the MAPS Faculty. Since REF2014 we have progressed just
+over half-way to the 130 FTE target: the unit headcount has grown by 50% from 62.95 FTE with
+four new permanent appointments in each of 2016 and 2017, 11 in 2019 and three in 2020, plus
+three institutionally funded postdoctoral fellowships – IMSS fellows and a Clifford fellow in 2020.
+This investment, and the associated increase in activity, has been recognised internationally: in the
+2020 QS World Rankings for example, UCL appeared in the top 50 universities worldwide for
+Mathematics, and was ranked 23 for Statistics and Operational Research (from 47 in 2014).
+Research topics covered in our unit include: algebraic geometry; analysis (particularly of PDEs,
+from both pure and applied perspectives); combinatorics, number theory; numerical methods and
+scientific computing; differential geometry and geometric analysis; geometric group theory;
+financial mathematics; fluid dynamics and continuum mechanics; mathematical modelling
+(including mathematical biology); probability; mathematical statistics; computational statistics;
+applied statistics and biostatistics. The Clinical Operational Research Unit (CORU) is a sub-unit of
+Mathematics comprising 4.5 FTE and dedicated to applying tools from operational research, data
+analysis and mathematical modelling to health care.
+We collaborate with a wide range of centres and have partnerships both within and beyond UCL.
+These include the Centre for Computational Statistics and Machine Learning (CSML) which links
+Statistics, Gatsby and the Department of Computer Science; the EPSRC/UKRI Centre for Doctoral
+Training in Geometry and Number Theory (LSGNT) involving UCL Mathematics, King’s College
+London and Imperial College and coordinated by PI Singer; the EPSRC Programme Grant
+EP/S026347/1 (Ni as Co-I) linking UCL with Oxford, the Alan Turing Institute and other partners in
+rough paths and data science; and UCL’s Met Office Academic Partnership (MOAP) co-led by
+Guillas as Met Office Joint Chair (unique among the six UK MOAPs, in being chaired from a
+mathematical sciences department).
+The unit’s average annual research spend is £4M. The total number of research awards over the
+period was 201, for a total of £30M. This excludes the LSGNT CDT (see above), starting in 2014
+(£4.7M) and renewed in 2019 (£6M): Section 2.3 gives more details.
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+The unit produced 1407 research articles (journal articles, reviews, and conference proceedings)
+during this REF period. We consistently publish two articles per person per year, with just over half
+resulting from international collaborations.
+On 31st July 2020, there were also 25 postdoctoral research associates in the unit that did not meet
+the REF eligibility criteria but make a valued contribution to our research. In January 2020 there
+were 85 PhD students in Mathematics and 47 in Statistics, increases from 45 and 31 respectively
+in 2013.
+1.1a Unit overview: research themes
+Research activity within both Mathematics and Statistics is structured around research themes or
+groupings, reflecting the breadth of activity within the unit and fostering the development of
+research communities, e.g. via reading groups and seminars, many of which have continued online
+in 2020. Many staff are affiliated with two or more groupings. In Mathematics for example, there is
+no sharp boundary between pure and applied analysis or between modelling and fluids, or financial
+mathematics and probability; and staff in Statistics typically affiliate with several groupings,
+reflecting the strong connections between branches of the subject.
+The following paragraphs summarise the groupings, with key developments during the submission
+period. As an indicative measure of capacity, FTE headcounts are given as of 31st July 2020: these
+headcounts are numbers of returned staff affiliated with each grouping (in Statistics staff belong to
+multiple groupings).
+Analysis and Combinatorics (Mathematics, 11.5 FTE). The addition of Galkowski and Hadzic
+  (both awarded EPSRC fellowships within their first year at UCL) has broadened and
+  strengthened the group in microlocal analysis and nonlinear PDEs, while the appointments of
+  Lee (IMSS fellow), Letzter (Royal Society URF) and Pokrovskiy have created a critical mass in
+  combinatorics, joining Sokal (EPSRC established fellowship from 2016), Barany (Szechenyi
+  Prize of the Hungarian Government, 2016) and Talbot. Enumerative combinatorics has a
+  particularly active visitor programme, with 5 long-term visitors (3-24 months) since 2017.
+Applied Analysis (Mathematics, 7 FTE). This group has been strengthened by the addition of
+  Cooper and Zatorska and recognised with the 2019 Calderon Prize to Oksanen.
+Numerical Analysis & Scientific Computing (Mathematics, 5 FTE). Since the appointment of
+  Burman in 2013 this has reached critical mass, adding Hewett & Smears, both Early Career
+  Researchers (ECRs) but high-profile for their career stage: Smears won the Leslie Fox Prize of
+  the IMA for his doctoral work at Oxford and has given keynote talks at several international
+  conferences. The group is now highly active with 7 live research grants at July 2020, wide take
+  up of Betcke’s Bempp and Burman’s Cutfemlib software, and many plenary invitations
+  (Burman). In addition, Burman’s team holds Associate Team status with the COMMEDIA team
+  (INRIA, Paris).
+CORU (Mathematics, 4.5 FTE) is undergoing a period of strategic expansion, starting with the
+  appointment of Crowe (2016) followed by Javarone and Diaz de la O (2019). The group’s work
+  at the interface of Operational Research and Public Health Policy has been recognised by the
+  OR Society through the award of the 2014 Goodeve Medal to Crowe and Utley, and the 2019
+  Lyn Thomas Medal to Crowe, Pagel and Utley. Pagel joined independent SAGE in May 2020
+  and has a high media profile for her expertise on the COVID-19 pandemic. The group’s
+  research awards amount to nearly £3.5M over the REF period.
+Fluid Dynamics (Mathematics, 9 FTE). The group, which includes critical mass (E Johnson,
+   McDonald, Esler) in Geophysical Fluid Dynamics, has remained relatively stable, with one new
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+   appointment in 2019 (Hewitt). The 2019 British Society of Rheology Annual Award went to
+   Wilson; and Vanden-Broeck was awarded the Chaire Montel of the University of Nice (2019).
+   Over the period, group members have given approximately 10 keynote / plenary lectures.
+Geometry and Topology (Mathematics, 7 FTE). New academic appointments are Beraldo and
+  Bellettini, also two new fellowship holders, Foscolo and Segal. The group continues its leading
+  role in PhD training through the LSGNT (PI Singer) as noted above. Louder won the G de B
+  Robinson Prize of the Canadian Mathematical Society for his 2019 paper (joint with Wilton)
+  Stackings and the W-cycle conjecture. The Annals paper of Foscolo (joint with Haskins) is a
+  landmark in the subject, giving exotic nearly-Kaehler structures and hence new examples of
+  compact positive Einstein manifolds in 6 dimensions.
+Number Theory (Mathematics, 9.4 FTE). The group has been strengthened by the appointment of
+  Granville in 2015 and Dokchitser, Garcia Martinez and Petrow in 2019. The group’s strength
+  is reflected in the five fellowships / large ERC grants (1 URF, 4 ERC) that it has secured during
+  the period. Granville won the 2019 Halmos-Ford Award of the Mathematical Association of
+  America, while Zerbes shared a 2015 Junior Whitehead Prize and a 2015 Philip Leverhulme
+  prize (both with Loeffler) for a major breakthrough in the theory of Euler systems. The group
+  hosts two Heilbronn Postdoctoral Fellows (Birkbeck, Lamplugh) who are included as category
+  A staff as independent researchers.
+Financial Mathematics (Mathematics, 5 FTE). This group was strengthened by the addition of Ni
+   and Schwarz in 2016. Macrina has strong industrial links (including funded collaborations with
+   Opengamma and Winton Capital in the period); Ni is Co-I on an EPSRC programme grant (total
+   value £4.1M) and is a fellow of the Alan Turing Institute.
+Modelling (Mathematics, 5.6 FTE). This grouping consists of researchers whose mathematical
+  expertise is principally a tool to address applications. Application areas range from traditional
+  industrial mathematics (e.g. Ovenden’s $300k acoustics project with Arizona Department of
+  Transport and company Illingworth-Rodkin, Smith’s Impact Case Study with AeroTex), via
+  society, healthcare and medicine, to biology (Page joined by Manhart in 2019).
+Biostatistics (Statistics, 8.8 FTE) was established by Omar in 2007 with five years of funding from
+   the NIHR UCLH/UCL Biomedical Research Centre, subsequently renewed twice (2012-2017,
+   2017-2022). The initial funded group has become a broader hub for biostatistics activity,
+   enhanced with further departmental appointments (O’Keeffe, Pavlou, Bartlett – the latter two
+   both ECRs, with Bartlett on an MRC Fellowship). Omar is the statistical lead for the UCL
+   PRIMENT Clinical Trials Unit (collaboration with the Department of Primary Care and Population
+   Health and the Division of Psychiatry) and an advisor to the National Institute of Cardiovascular
+   Outcomes Research; she also contributed to UCL’s research integrity policy document, which
+   has informed the approval process for medical research projects from the UCL/UCLH Joint
+   Research Office. Baio gave two keynote lectures over the period and serves the UK National
+   Institute for Health and Care Excellence (NICE) as Scientific Advisor.
+Computational Statistics (Statistics, 11.3 FTE) is a key strength, particularly in Bayesian
+  computation. New ECR appointments include Briol and Livingstone, while Dellaportas and
+  Griffin joined as Professors. Highlights include a Leverhulme prize (Beskos, 2014), an Amazon
+  Research Award (Briol, 2019) as well as multiple plenary and keynote lectures (e.g.
+  Manolopoulou, Dellaportas, Silva).
+Economics, Finance and Business (Statistics, 7 FTE). This grouping has emerged since REF2014,
+  partly in response to interest from industry in academic partnerships around data science. The
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+  grouping has a good track record of securing industry-sponsored research studentships (e.g.
+  Manolopoulou, Dellaportas), and Maier was appointed as an ECR in this area in 2020.
+  Siddiqui gave four keynote lectures, and Griffin has instigated research connections with UCL
+  Economics by co-organising joint seminars to explore areas of mutual interest.
+General Theory and Methodology (Statistics, 17 FTE). The size of the grouping reflects a broad
+  interest in fundamental statistical methodology, including among those with application-
+  motivated research. Sadeghi was appointed in 2018 as an ECR; he has already been
+  appointed to the editorial board of the highly-regarded Scandinavian Journal of Statistics. The
+  grouping has also recently benefited from a strategic expansion of expertise in probability, with
+  two hires in 2019-2020 (Soo, Watson) to build with Cotar a very active probability group which,
+  since January 2020, has been collaborating with Mathematics staff (Sidorova, Macrina, Garcia
+  Trillos) via a weekly reading group with international guest speakers.
+Multivariate and High Dimensional Data (Statistics, 9.3 FTE). Hires in this area include Wang, an
+  ECR who was the recipient of the 2019 Royal Statistical Society prize. Other successes during
+  the period include Olhede’s £1M of EU funding to support projects on oceanographic data
+  analysis (FP7) and Networks in Time and Space (Horizon 2020); and Fearn’s election to the
+  presidency of the International Council of NIR Spectroscopy (2017-2021).
+Stochastic Modelling of Complex Systems (Statistics, 10 FTE). This is distinct from the General
+   Theory and Methodology grouping in focusing on a broader class of (stochastic and non-
+   statistical) modelling problems. In this area, Chandler gave two keynote lectures and led a £2M
+   NERC consortium grant (2012-2016, UCL component NE/J017434/1) on Probability,
+   Uncertainty and Risk for the Environment. Guillas has led two GCRF projects funded by
+   NERC/ESRC/AHRC and Research England; he also hosted a Royal Society Newton fellow on a
+   project relating to tsunami risk.
+Beyond the two main departments, the Gatsby Unit research encompasses theoretical and
+computational neuroscience, computational statistics, machine learning and artificial intelligence.
+About two-thirds of its PhD and postdoctoral trainees have established successful academic
+careers, whilst others continue their research in companies such as DeepMind, itself founded by
+two former Gatsby fellows. The CSML centre was selected in June 2020 as a unit of the
+prestigious European Laboratory for Learning and Intelligent Systems (ELLIS) network, which
+aims to perform fundamental research in modern AI, attract top international industry research
+labs, and spawn start-ups that will become major players in the future. Membership of ELLIS also
+gives UCL access to its highly attractive European PhD program, aiming to retain the best
+graduates and transform them into the next generation of senior scientists.
+Finally, UCL Mathematical Sciences is closely involved with the Alan Turing Institute. There are
+currently eight funded Turing fellows across the unit (Beskos, Bishop, Dellaportas, Guillas,
+Manolopoulou, Ni, Silva, Xue). In addition to several funded Turing projects (Ni, Guillas,
+Dellaportas), Guillas holds a 100% Group Leader Turing fellowship and also leads the Turing-
+wide Uncertainty Quantification interest group. Further funding for e.g. workshops and hackathons
+enhances the depth, breadth, and reach of the Data Science and AI activities across the unit.
+
+
+1.2 Review of REF2014 Research Strategy
+Our strategy for the period had eight strands: here we briefly review our achievements against
+each.
+   1. Foster leadership in discipline-based research through both recruitment and
+      development of current staff, with a focus on quality over quantity. Our success in this
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+        regard can be measured in part by our success in externally-funded research fellowships at
+        all career stages: over the reporting period, there have been 5 EPSRC doctoral prizes; 5
+        EPSRC fellowships (Hadzic, Oksanen, Olhede, Sokal, Wolfe); 3 Royal Society URFs
+        (Dokchitser, Foscolo, Letzter); 5 ERC Grants (Granville, Olhede, Segal, Yafaev,
+        Zerbes); 2 Heilbronn fellows (Birkbeck, Lamplugh); one MRC Fellow (Bartlett,
+        subsequently appointed to lectureship); one Royal Society Newton fellow (Gopinathan, host
+        Guillas) and a Biometrika fellow (Fernandez Aguilar). Finally, Granville and Wolfe held
+        Royal Society/Wolfson research merit awards.
+   2.   Continue and enhance interdisciplinary research. There are many different
+        interdisciplinary successes over the period; one to highlight is our investment in the UCL
+        Centre for Inverse Problems, within which Oksanen was awarded the 2019 Calderon Prize
+        (see Section 1.1a). Another is the Met Office Academic Partnership (see Section 1.1),
+        instigated in 2020 with a major focus on data science, machine learning, uncertainty
+        quantification and mathematical modelling.
+   3.   Increase PhD student numbers and improve gender balance. Our PhD student
+        numbers have increased steadily from 14 graduations per year in 2014 to over 20 per year
+        in 2020; and the gender balance of the intake has improved from 32% female at the
+        beginning of the period to 38% female now.
+   4.   Recruit excellent ECR staff. Our unit has grown by 49.5% FTE in the period, and the
+        majority of these new hires have been ECRs. Their excellence shines through: permanent
+        academics Bartlett, Fernandez Aguilar, Foscolo, Letzter and Segal were all ECR at the
+        time of award of their funding in point 1 above. In 2019 alone, Wang received the most
+        prestigious award for an ECR in Statistics in the UK (the Royal Statistical Society Prize);
+        Pokrovskiy, the European Prize in Combinatorics; and Briol, an Amazon Research Award
+        (one of only 51 awards worldwide for outstanding, innovative research proposals across
+        machine learning, robotics, operations research and related disciplines).
+   5.   Attract and foster career development of leading ECRs via the Clifford Fellowship.
+        The Clifford Fellowship is a departmentally-funded independent research post in
+        Mathematics. The inaugural fellow, Guerberoff, now works in industry; the second fellow,
+        Perez Carrasco, is a lecturer at Imperial; and we have just recruited the third fellow,
+        Kurnosov. We have expanded on the success of the scheme to add IMSS Fellows across
+        the unit: two (Lee, Louca) are now in post and this scheme will expand further (Section
+        1.3b).
+   6.   The Institute for Mathematical and Statistical Sciences (see Section 1.1) was in the
+        early planning phase in REF2014. This initiative to co-locate all groups in the unit to form a
+        focal point for the mathematical sciences in London has now seen significant institutional
+        investments towards its progress (Section 3).
+   7.   We aimed to strengthen our visitor programme using new space in the IMSS. We have
+        gained some space in Mathematics (see Section 3.2), but this remains a constraint that has
+        limited our visitor programme expansion. This remains a key priority for IMSS.
+   8.   Increase total value of research funding and the amount from non-EPSRC sources.
+        Our research income has grown from £1.35M per year at REF2014 to £4M per year in the
+        current period, and now includes £2.5M per year from non-EPSRC sources. Section 3.1
+        gives more details.
+1.3 Ongoing Research Strategy
+As described in Section 1.1, UCL is currently investing significantly in a major expansion of the
+mathematical sciences, working towards the establishment of the Institute for Mathematical and
+Statistical Sciences (IMSS). This investment recognises the rapid expansion of opportunities for
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+the mathematical sciences nationally and internationally, evidenced for example by the
+government’s doubling of funding for the EPSRC Mathematical Sciences programme early in 2020,
+and by the increasing demand for taught mathematics and statistics degrees from exceptionally
+qualified candidates (numbers of applications to our undergraduate programmes increased from
+2572 in 2014/15 to 4263 in 2019/20; and postgraduate taught applications increased from 1180 to
+2683 over the same period). Our undergraduate students achieve exceptional things: in 2020 a
+Mathematics student was awarded a first prize in the International Mathematics Competition for
+University Students, while in 2018 a Statistics student was in the winning team for the $1 million
+global Hult prize.
+The key points in the IMSS expansion strategy are (i) recruitment of excellent academic staff, at all
+levels but with a particular emphasis on ECRs who will be the research leaders of the future; (ii)
+provision of support for staff to develop their careers and fulfil their potential; (iii) incentives for
+major research initiatives; (iv) better integrating the mathematical sciences community across the
+institution; (v) capacity-building in key areas (including dedicated professional services support) so
+as to be able to respond to emerging opportunities; and (vi) engagement with researchers in other
+disciplines and with external organisations, as a route to impact for our research. The first two of
+these points are discussed in Section 2 below. Strategy for the remainder is as follows.
+1.3a Incentivising research activity
+We will continue increasing the volume of research activity and income within the unit. The
+average annual research income per FTE submitted has more than doubled since REF2014 (see
+Section 3.1), but there is scope to increase this still further, particularly in the current funding
+climate. The strategy for achieving this is threefold: increase the time available for research;
+provide support and feedback to those preparing research grant applications; and provide
+incentives to reward the effort that goes into preparing large bids.
+Increasing the availability of research time is most easily achieved by ensuring that staff numbers
+increase more rapidly than other commitments: this is built-in to the IMSS timeline. We have,
+moreover, invested in additional support for meeting our teaching commitments (see Section 2),
+thereby reducing the teaching and administrative burdens on research-active staff.
+At departmental level, structured support for research grant applications includes systematic
+internal reviews by each department’s Research Committee. For larger cross-departmental or
+cross-institutional bids, as well as fellowships, strategic facilitators from the Office of the Vice-
+Provost (Research) provide support in the form of meetings, gathering of expertise, case reviews
+and mock interviews. For example, in 2019 the team organised a new workshop on grant funding
+in Statistics, with concrete outcomes in terms of success rates: in the three years prior to July
+2019, 25 of 75 Statistics proposals were successful for a total value of £1.5M while, of 12
+proposals in the subsequent 12-month period whose outcomes are known, 10 were successful for
+a total value of £1.2M, including a three-year EPSRC award to ECR Wang.
+This support for research grant applications is complemented by a research grant incentive
+scheme. It provides discretionary funds (around 0.5% of the amount sought) to applicants who bid
+for more than £100k and has led to a boost in grant applications and several recipients. Statistics
+also adopted in 2019 a scheme that awards a PhD studentship whenever an application exceeds
+30% in overheads after removing the studentship costs. This institutional commitment has already
+increased the number (and value-for-money) of larger bids, typically above £300k. Mathematics
+
+
+
+
+                                                                                                 Page 6
+Unit-level environment template (REF5b)
+typically has fewer funders who do not pay overheads; but large grants are routinely incentivised
+with PhD studentships to increase the value for money to the funder.
+1.3b Mathematical sciences research community
+The physical separation of Mathematics and Statistics at UCL has historically inhibited natural
+collaborations between the disciplines. A key part of the IMSS vision is, by bringing the
+departments closer together physically, to create a large and vibrant mathematical sciences
+community within the institution: this in turn will enable us to build on existing collaborations and to
+exploit research synergies more effectively. Substantial progress has already been made in this
+direction, with high-profile active collaborations emerging since REF2014 as well as events that
+highlight the breadth of mathematical sciences activity. Examples include the cross-department
+collaboration in probability (see Section 1.1a); the cross-departmental Women in Mathematical
+Sciences Network (Section 2.4); and an internal “IMSS academic launch” symposium held in
+January 2020.
+To develop the research community further over the coming period, several initiatives are in place:
+      IMSS Fellowship scheme. Following on from point 5 of the REF2014 strategy, we have
+       instigated a rolling programme of internally-funded three-year research fellowships (see
+       Section 2 below), with two fellows appointed during the inaugural year of the scheme in
+       2020 and two further fellows appointed annually thereafter. From 2022 onwards there will
+       be three IMSS fellows in each department at any time, who, in addition to developing their
+       own independent research programmes, will form a key link between the departments (e.g.
+       they will be co-located in the same office space) and who will be able to help with the
+       organisation of joint internal and external events.
+      Event management support. The departments will pool resources to recruit an IMSS event
+       manager. Together with a refurbished building equipped with meeting spaces and
+       collaboration facilities, this will increase our capacity to host national and international
+       meetings, conferences and workshops in the mathematical sciences – including with
+       involvement from learned societies in our disciplines.
+      Research student community. There are opportunities to increase interactions between the
+       research student communities in the two departments, for example by coordinating training
+       and skills development activities. The 2020 increase in EPSRC Mathematical Sciences
+       funding will enable us to substantially increase the volume of activity funded through a
+       Doctoral Training Partnership dedicated to the mathematical sciences at UCL; and we
+       plan to augment this with additional funding streams, for example with industry-funded
+       studentships capitalising on the current surge of interest in data science (see Section 2.3
+       for more on existing industry-funded studentships).
+      Research visitor programme. An active visitor programme will build and maintain links with
+       the UK and international community and will contribute to the calendar of IMSS events. This
+       visitor programme will be enabled via the move to premises equipped with office space for
+       visitors, as well as space for collaboration.
+1.3c Capacity-building in key areas
+At a national level, the uplift in Mathematical Sciences funding reflects a broader recognition of the
+discipline’s importance, as exemplified by the 2018 Bond review. We are keen to take advantage
+of the resulting opportunities and have already started to develop capacity in key areas such as
+Data Science (e.g., via our engagement with the Turing Institute) and mathematics for healthcare
+(e.g., via the strategic expansion of CORU – see Section 1.1). The expansion of CORU, in
+particular, has enabled staff to respond with agility to the demands of the COVID-19 situation,
+
+                                                                                                 Page 7
+Unit-level environment template (REF5b)
+supporting several local hospitals in their COVID response resource planning and outcomes
+analysis and helping set up quality control systems at the London Nightingale hospital. Over the
+next few years, we aim to increase our capacity further in these areas, and to move with
+developments in the subject as part of our continuing expansion. Section 2.1 provides more
+details.
+1.3d Engagement with other disciplines and external organisations
+With critical mass in both fundamental and applied mathematical sciences research, the unit
+maintains an extensive network of interdisciplinary collaborations both within and beyond UCL,
+including joint appointments and partnerships led from within the unit. These collaborations provide
+opportunities for research contributions into other disciplines, as well as a route to impact for
+mathematical sciences research.
+Over the coming period we will build on our existing networks to increase our capacity for
+interdisciplinary engagement. Within UCL this will be achieved via further strategic joint
+appointments with other departments as part of the IMSS expansion, as well as workshops and
+events designed to identify opportunities for fruitful collaboration: this will lead ultimately to
+increases in joint activity and research funding. We will also capitalise further on opportunities from
+industry and government, in particular by appointing an Industry Liaison Coordinator to liaise with
+external partners: this dedicated support will bolster our capacity for such partnerships, and hence
+offer enhanced opportunities for impact. We will continue to make full use of schemes such as
+EPSRC Impact Acceleration Awards and Knowledge Transfer Partnerships; and we will introduce
+an impact incentive scheme to encourage staff to carry out and evidence impact-generating
+research. Like the research grant incentive scheme described above, this will allocate discretionary
+funds to all contributors of Impact Case Studies to the next REF exercise.
+More details of collaborative research and impact-generating activities are given in Section 4.
+
+
+ 2. People
+
+2.1 Staffing strategy
+We have pursued a strategy of research growth throughout the period, thanks to a sustained
+commitment from UCL. This has allowed the creation of a large number of posts with the ambition
+of: (1) reducing the student/staff ratio in the departments to provide more research time and to
+improve the student experience; (2) supporting the creation of IMSS as an internationally
+prominent centre for the mathematical sciences at UCL which will compete with the best worldwide
+in terms of research, facilities, exchanges, interactions and leadership. As a result, our growth has
+been 50% FTE from REF2014, including the two newly created independent IMSS fellowships in
+2020.
+Our expansion strategy has been to invest in staff at a range of career stages, and to support them
+on arrival. We have sponsored independent research fellows, supporting the health of the
+discipline by recruiting the next generation of leaders. Our permanent academic posts attract high-
+quality researchers: amongst our recent appointments, six had independent research fellowships
+or ERC grants at or near the time of appointment (Dokchitser, Hadzic and Segal and ECRs
+Bartlett, Foscolo and Letzter). Galkowski, appointed in 2019, was awarded an EPSRC early-
+career fellowship in 2020.
+When recruiting staff, our first priority is excellence – and we have been very successful in
+recruiting excellent staff during the period (see evidence above). When advertising vacancies at all
+career stages therefore, posts are usually advertised to the broadest possible field. However, as a
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+large centre for the mathematical sciences, our ethos is that a healthy and functional mathematical
+research community requires both a critical mass of expertise across all major areas as
+represented by our research groupings, and an ability to evolve with current developments in the
+discipline. Where necessary therefore, we have carried out targeted recruitments: examples
+include the two posts (Diaz de la O, Javarone) committed to CORU in 2019 as a strategic
+investment in one of our most impactful groups. In Statistics moreover, applications are routinely
+encouraged from those with expertise and interests in current priority areas.
+During the review period, the net effect of this staffing strategy has been to strengthen existing
+groups (e.g. Dokchitser, Petrow, Garcia in Number Theory; Soo, Watson, Garcia Trillos in
+Probability) and to bridge between groups (e.g. Galkowski bridging between Analysis and
+Geometry; Griffin bridging between Computational Statistics and Economics). We have also
+recently amended our appointment criteria to include the potential impact of candidates’ research.
+We entered the period having just set up the Clifford Fellowship, a departmentally-funded
+independent research post in Mathematics. This three-year post has been filled twice more
+(alternating between pure and applied mathematics, currently held by Kurnosov), and with
+additional institutional support we have supplemented it with two three-year IMSS Research
+Fellowships (Lee, Louca). This strategy of supporting the very best researchers to kick-start their
+independent research careers will be continued, expanding to a rolling programme with three IMSS
+Fellows based in each department at any one time.
+We have made occasional strategic appointments at professorial level (Granville, Dokchitser,
+Griffin) to feed critical mass in key research areas and maintain a balanced profile in terms of
+experience and leadership, allowing us to provide expert support to our ECRs. But the majority of
+our appointments have been at the ECR stage, where our staffing strategy has been particularly
+successful in recruiting outstanding researchers. For instance, since 2017 we hired staff from
+several top-ranked UK and international Universities: Cambridge (Briol, Hewitt, Letzter, Sadeghi,
+Wang), Oxford (Beraldo, Fernandez Aguilar), Columbia, USA (Orbanz), Northeastern, USA
+(Galkowski), ETHZ, Switzerland (Petrow), EPFL, Switzerland (Maier), Toronto, Canada (Garcia),
+Bristol (Livingstone), Manchester (Watson) and Imperial College (Manhart).
+Our growth has always been supported financially by our ability to recruit and teach large numbers
+of highly qualified undergraduate students, but this does come with associated workload. To
+alleviate this, both departments have invested strategically in Lecturers (Teaching) during the
+period. These are staff whose expertise and interests are recognised as primarily teaching-focused
+but who nonetheless have a career and promotions pathway to professorship (separate from
+academic staff active in disciplinary research) and who are expected to carry out pedagogical
+research. By increasing their numbers substantially (to 11 FTE across the two departments during
+the review period), we have increased our capacity to deliver excellent teaching and support to our
+students, while simultaneously freeing up research time for other academic staff. Our teaching-
+pathway appointments have also enabled us to relieve research-active academics of various heavy
+teaching-related tasks and administrative duties (in Statistics, Chair of the Exam Board, Director of
+Studies, Athena SWAN chair and Departmental Tutor; in Mathematics, deputy exam board chair,
+Athena SWAN co-chair and E-Learning Champion; these roles were all held by research-active
+academics in REF2014).
+2.2 Staff development
+New academic staff have an induction process which includes training in a range of areas including
+safety, research supervision, and grant writing, as well as teaching, and equality and diversity.
+Experienced academics have a 12-month probation period, while academics without extensive
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+teaching experience have 36 months. The probation period includes careful mentoring and
+appraisal; no academic staff have failed probation in either department in the period. New
+academic staff are supported through light teaching and administrative loads in their early years.
+Since 2018, new hires in Statistics are given a research start-up fund of £6k. In Mathematics the
+process is less formal, but those who have arrived too recently to have been able to bring in
+funding are supported with generous departmental travel support. This support reduces the need
+to scramble for funding to go to conferences or invite research collaborators for visits, and allows
+initial small steps that bear fruit later. Recipients of the funding have used it to visit collaborators,
+leading to grant proposals and joint paper submissions; and also for dissemination at high-profile
+international conferences with publications in the associated proceedings.
+The formal route for the support and development of established academic staff in both
+departments is via the mentoring and appraisal systems. In 2016 Statistics produced guidelines for
+conducting appraisals in order to ensure: (1) that the appraisal process is constructive, effective
+and supportive (2) uniformity of appraisal experience regardless of who is carrying out the
+appraisal. Mathematics is now adopting this good practice.
+Each department has a Promotions Committee, set up to create an environment in which all
+academic staff are encouraged and supported in their career and promotion aspirations. These
+committees meet annually and consider all non-professorial staff against UCL's Academic Careers
+Framework: those who are not yet considered ready for promotion are given advice on how to
+progress, while others are actively encouraged to apply for promotion even if they were not
+planning to.
+Sabbaticals are advertised on an annual cycle: requests are evaluated against criteria including the
+planned research activity, previous teaching loads, and EDI considerations. Specific sabbatical
+leave is available following major administrative roles (e.g., Petridis, Former Chair of Mathematics
+Teaching Committee, sabbatical 2016-17; McDonald, former Mathematics HoD, sabbatical 2018-
+19) and after extended parental or carer’s leave. Our take-up of sabbatical leave has increased
+during 2014-2020 (from two staff members in 2013-14 to eight in 2019-20). We encourage staff on
+sabbatical to take international opportunities when they arise: for example, Lotay, Schulze and
+Singer were all research or Eisenbud professors at the MSRI special semester on differential
+geometry in spring 2016; Xue was based at Tsinghua University in China from 10/2019 to 2/2020;
+Beskos was based at the National University of Singapore from 1/2020 to 6/2020; Pagel held a
+Harkness Fellowship in the USA in 2016-17, and in 2019 Galkowski spent his first term of UCL
+employment as a research member at MSRI for the microlocal analysis program on which Singer
+was also a research professor. We regularly give sabbaticals or rearrange teaching to
+accommodate attendance at INI meetings.
+Across the unit, staff are supported in their research grant applications by receiving advice and
+feedback on proposals from mentors, holding mock interviews and by support from the
+professional services. Section 1.3 provides more details.
+Participation in external committees is encouraged and given due credit in the appraisal and,
+especially, the promotion systems. Major commitments are taken into account when assigning
+departmental workloads.
+2.3 Research students
+2.3a Funding streams
+PhD students are the lifeblood of the discipline. For this reason, in addition to external funding from
+a wide range of sources, we have invested in departmentally-funded PhD studentships (increasing
+
+                                                                                                  Page 10
+Unit-level environment template (REF5b)
+across the period, now 7 per year in Mathematics and 2-3 per year in Statistics). This investment is
+one of the major reasons that our PhD numbers have increased during the period, almost doubling
+in Mathematics between January 2013 and January 2020 (see Section 1.1). We have prioritised
+new hires in our allocation of PhD funding, and some of these new hires have built research
+groups of up to four PhD students. When an ECR is acting as primary supervisor to a research
+student, both the student and supervisor are supported by an experienced staff member within the
+supervisory team.
+We benefit from many sources of institutional, national and international sources of research
+student funding, allowing us to recruit top students from all over the world. Schemes include the
+UCL Graduate Research Scholarship and Overseas Research Scholarship (11 such scholarships
+in the unit over the period). Many fully funded external fellowships have supported top international
+students thanks to Governments and Foundations from Korea, Taiwan, Brazil, Turkey, Mexico, and
+the Commonwealth Scholarship Commission. Some schemes such as the Impact scholarships (10
+awards) or overseas schemes (Chinese Scholarship Council 4 awards, Singapore AIST 3 awards,
+Japan JAIST one award) require 50% co-funding for fees or stipend from UCL: this has been
+provided in all cases during the period.
+The EPSRC CDT in Geometry & Number Theory (LSGNT) with initial EPSRC funding of £4.7M
+in 2014 was renewed in 2019 (£6M). This is the only CDT in the country in pure mathematics and
+is a major collaboration led by UCL, with King’s and Imperial as equal partners. Cohorts typically
+consist of 16-18 students, based at UCL in their first year and subsequently shared between the
+partners. The CDT also accommodates aligned students and has caused a step-change in the
+quality and numbers of PhD students in the unit in these research areas (accounting for an intake
+of 36 UCL PhD students in the period, including aligned students). The Heilbronn Institute
+contributes 50% funding for one studentship in each cohort.
+The EPSRC CDT in Foundational AI is 50% industry-funded. It funds research students focusing
+on Statistics for AI and machine learning. It is hosted in Computer Science, and supported two
+students in Statistics during its first cohort starting in 2019.
+The EPSRC CDT in Financial Computing and Analytics (based in the Computer Science
+Department at UCL) supported 4 PhD students over the period.
+From 2020 UCL is a partner in the cross-institutional Health Data Research UK-Turing Wellcome
+PhD Programme in Health Data Science, which aims to develop future leaders in health data
+science.
+As well as these large, formal links with Computer Science and the Alan Turing Institute, we jointly
+supervise research students with many disciplines, departments and institutes across UCL: in the
+medical field alone we have collaborated with the Cancer Institute; Institute of Child Health;
+Institute of Women's Health; Institute of Neurology; Institute of Clinical Trials and Methodology;
+Eastman Dental Institute; and Departments of Surgery & Interventional Science, Medical Physics
+and Psychiatry. Other supervision partnerships have involved the School of Management;
+Geography; Security & Crime Science; London Centre for Nanotechnology; Space & Climate
+Physics; Epidemiology; Psychology & Language Sciences; Biosciences; Molecular & Cell Biology;
+Epidemiology; Chemistry and many departments in the Faculty of Engineering. These
+interdisciplinary projects enable students to bring their mathematical expertise to a wide range of
+application areas, as well as enabling students from other disciplines to acquire modern
+
+
+
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+mathematical skill sets; they also provide routes towards further research funding, influence and
+impact.
+Staff in the unit also jointly supervise with several industry and government partners including AWE
+(1), Shell (1), MAPI group (1), Winton Capital Management (1), UK Met Office (2), and GCHQ
+(several students via the Heilbronn Institute and the LSGNT). Other industrial partnerships,
+involving (for example) in-kind support and funded internships, come from Avon Protection,
+Aerotex, GSK and others.
+2.3b Student support and development
+Our PhD students are each provided a funding stream to bid for training and conference
+attendance (around £1000 per year), irrespective of their funding source. We also ensure that
+supervisors have time to provide high-quality advice for each of their students by explicitly
+recognising PhD supervision in the workload (48 hours per year per student in Statistics), up to the
+UCL maximum limit of six PhD students per staff member.
+Statistics has set up a mentoring scheme for all PhD students: a primary aim of this is to provide
+access to personal advice on career development. Mathematics offers PhD students annual panels
+run by postdocs about postdoctoral research, and mock interviews for postdoctoral posts. There is
+a dedicated mentor to those PhD students who are Teaching Assistants, along with discipline-
+specific bespoke training provided by the UCL Institute of Education. In addition, Hewett leads
+annual PhD student training days (attended by over 60 students since their inception in 2018)
+which aim to: empower students to take ownership of their PhD projects; introduce practical tools
+for time management and objective setting; advise on how to get the most out of their supervisory
+relationship; provide guidance on how to navigate conferences, seminars and workshops; and
+encourage professional profile development. These training days have also incorporated careers
+fora with academic and industrial panel members.
+All our PhD students have the opportunity to attend courses at the London Taught Course
+Centre (LTCC), which involves a consortium of universities from London and the South-East.
+Originally EPSRC-funded but now self-sustaining, it offers courses across the remit of the
+mathematical sciences. Basic courses are designed for first-year students, who should take three
+or four to broaden their mathematical outlook. Intensive courses are focused on a single topic, and
+tend to attract students whose research is directly related to the topic. UCL supports the LTCC
+through academic staff contributions (Halburd is currently director and many staff have taught
+courses in the period) and through administrative support. In addition to this, students requiring
+advanced computational skills benefit from the training offered by UCL’s Research Software
+Development group (Section 3.3).
+Our PhD student community is very active beyond the students' individual research projects. The
+students produce Chalkdust (a magazine for the mathematically curious), which comes out twice a
+year and has a circulation of 60,000 as hard copies alone and an active web presence; and
+members of the LSGNT have formed London Maths Outreach, which offers weekly mathematics
+enrichment activities for London schools.
+2.3c Research student success
+We have graduated 159 research students during the period, of whom 140 were primarily
+supervised by staff within the unit and the remainder were co-supervisions with other units. The
+achievements of our students, building on their excellence and our training, are really world class,
+as seen by international awards such as one of only 24 recipients of the 2020 IMS Hannan Travel
+Award worldwide, the 2018 Lee B. Lusted Student Prize (Society for Medical Decision Making,
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+European Conference First Place), the “best student presentation” prize at the 2018 International
+Workshop on Statistical Modelling, and the selection of some of our students for fully-funded
+attendance at very selective training such as the Machine Learning Summer School 2020 (only
+180 students selected worldwide). National and local recognition includes the Vernon Harrison
+Doctoral Award (2017), and two separate instances (2014 and 2015) of the UCL MAPS Faculty
+Postgraduate Research Prize.
+Around 90% of the Gatsby Computational Neuroscience Unit former PhD students and
+postdoctoral fellows work in a scientific or academic setting, with over 60% going on to academic
+positions in universities or research institutes and almost 30% working in a research setting in
+companies such as DeepMind (itself founded by two former postdocs). Two won the Eric Kandel
+Young Neuroscientist Prize in 2015 and 2019.
+Immediate destinations of former PhD students in the unit include postdoctoral research
+fellowships at the Universities of Toronto, Cambridge, Oxford and at the European Bioinformatics
+Institute. In 2016-17 three of our PhD graduates were recipients of LMS 150th Anniversary
+Postdoctoral Mobility Grants (held at Imperial, Bristol and Copenhagen (Denmark)). Others have
+gone on to postdoctoral roles at a wide range of institutions nationally and internationally, including
+Shanghai Tech (China), Taipei (Taiwan), Laval (Canada), IHES (France) and the Institute of
+Advanced Study (USA). Several more have gone to permanent academic posts either immediately,
+or after postdoctoral positions – permanent destinations in the UK include Bath, Durham,
+Lancaster, Portsmouth, and Reading; and worldwide, at the Universities of Bordeaux, Toronto,
+Maastricht, Melbourne, Politecnico di Milano, Ocean University (China) and the National University
+of Singapore. One PhD graduate has become the Head of the Department of Biostatistics at Bolu
+Abant Izzet Baysal University (Turkey); another is a permanent research scientist at National
+Oceanic & Atmospheric Administration, (USA); and yet another was recruited to the editorial board
+of the international journal Trials immediately after the publication of the first paper from her PhD
+thesis. Beyond academia, we have many PhD graduates now holding prominent posts in industry,
+including Chief Data Scientist at PeerSourcing Solutions (USA), Data Scientist Consultant at
+QuantumBlack (London), Principal Statistician at GlaxoSmithKline, Senior Principal Modeller at
+Risk Management Solutions (London), and Research Scientist at Eigen Technologies (London).
+2.4 Equality and diversity
+An EDI focus and a commitment to a welcoming and supportive research environment, runs
+throughout our unit. Gender is a key issue – Mathematics and Statistics hold Athena SWAN Silver
+and Bronze awards, respectively – but is not the only area of attention. We are also keenly aware
+of the need to recruit and support both BAME and LGBTQ+ PhD students and staff in
+mathematical sciences since these groups are generally under-represented in STEM. We actively
+promote an inclusive culture, e.g. running events related to Black Mathematicians, talks and events
+celebrating International Women’s day, LGBTQ+ friendly socials, prominent display of ‘Friend of
+Out@UCL’ banners on office doors of senior staff, and organising 'wikithons' to write Wikipedia
+pages about mathematicians from under-represented groups.
+UCL offers training entitled “Where do you draw the line?”, intended to foster an environment of
+zero tolerance for bullying and harassment, and a culture in which bystanders feel empowered to
+challenge inappropriate behaviour. Each department has been running annual sessions through
+the whole period, in the expectation that all staff should have attended one.
+In our recruitment of PhD students, all staff involved in PhD recruiting or supervision have to
+undergo appropriate training. Staff are strongly encouraged to take advantage of at least three
+training opportunities per year, and this is monitored via the annual appraisal scheme. EDI
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+initiatives include female membership on interview panels for female PhD applicants; social media
+with a focus on being welcoming and friendly; even gender distribution of paid summer UG
+internships; increased visibility of female role models (for example, a requirement for gender
+balance when inviting speaker suggestions for the Statistics seminar series); and participation in
+the Mary Lister McCammon Summer Research Fellowship led by Imperial College, a funded 10-
+week research programme for UG female finalists to work with a leading mathematician or
+statistician.
+Our PhD student support described above is offered to all students regardless of background:
+nonetheless, we observe that good practice has a disproportionately strong effect on those who
+need it more. Some more tailored EDI support is provided by UCL’s Black Doctoral Students’
+Network, that aims to connect all new and existing departmental research students: we support
+and encourage students to join the network if appropriate. In addition, the departments have
+female academic staff members in the role of mentor to female PhD students.
+At the level of staff recruitment, all appointment panels are at least 1/3 female, and adverts are
+vetted for gendered language before publication. All roles are advertised as widely as possible to
+ensure visibility to a diverse range of applicants. As further evidence of our commitment to
+improved recruitment outcomes, Statistics immediately committed in 2018 (followed by
+Mathematics in 2020) to a UCL-wide “Fair Recruitment Specialist” initiative. Under this initiative,
+which is intended to address fairness relative to all protected characteristics, all shortlisting and
+interview panels include a trained recruitment specialist from UCL staff.
+We support our postdoctoral research staff (the only fixed-term research staff in the
+departments) with central support to write fellowship proposals, and mock interviews for
+fellowships and academic jobs. Research staff are also assigned a mentor independent of their PI /
+line manager, to provide independent support and advice.
+Our postdoctoral researchers often progress to permanent academic posts, including within the
+Unit (Garcia Trillos, Crowe, Pavlou, O’Keeffe) and at other strong mathematical departments
+around the UK (e.g. two postdocs who left in the period are now Zeeman lecturers at Warwick, with
+others taking up positions at Bath, Birkbeck, Loughborough and Royal Holloway) and further afield
+(Western University (Canada); University of Virginia (USA); Universidad Carlos III de Madrid
+(Spain); Erasmus University (Netherlands); Chinese Academy of Sciences). Still others take their
+mathematical expertise into other disciplines and sectors: e.g., Professor of Behavioural Science at
+Warwick Business School; Lecturer in Theoretical Systems Biology at Imperial College; Head of
+Solutions & Analytics Innovation, The ai Corporation.
+The unit's policy of an automatic term of sabbatical leave following an extended period of parental
+or carers' leave, which has been in place since 2013 (Wilson) has now been implemented at
+institutional level. Our Promotions Committee good practice has also been observed to be effective
+at narrowing the gender pay gap: the action of encouraging individual staff to apply for promotion
+without their having to make the first move is a direct response to impostor syndrome, and though
+the overall numbers are small it is heartening to see that, though only 17% of our academic and
+research staff are female, 25% of the successful senior promotions across the period were female.
+We also have specific actions related to gender. For several years, the two departments together
+have been running a Women in Mathematical Sciences Network which organises termly meetings:
+a typical format is a lecture from a woman scientist followed by a lunch. Both departments promote
+gender equality amongst speakers in departmental seminars. In Statistics, by 2018-2019 the
+proportion of female seminar speakers reached 47%, up from 5% in 2013-2014; in Mathematics
+the departmental colloquium series has been gender-balanced since 2018. Looking outwards
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+rather than inwards, our research outreach activities also have a focus on gender (e.g. Impact
+Case Study from Hannah Fry & Wilson).
+Both departments promote balanced gender representation on committees; in addition, Statistics
+rotates the membership of the Senior Management Team (SMT) with the aim of achieving a better
+balance. The role of HoD rotates on a 5-year timescale in both departments. We encourage
+participation in UCL's Women in Leadership programmes (Wilson, Pagel, Ni) and alumnae of
+these are successful in moving into leadership roles. Wilson is the first female HoD of
+Mathematics at UCL since its founding in 1827, and one of the few current female HoDs of
+Departments of Mathematics in the UK. Statistics had its first female HoD prior to the REF period
+(Isham in 1996). Pagel is the first female director of CORU, and deputy director Crowe is also
+female.
+The majority of our staff can (and do) work flexibly, including working from home and working non-
+standard hours, so long as this does not interfere with the performance of their duties. We have
+committed not to schedule important meetings outside Core Hours (10.00-16.00) to allow for
+childcare responsibilities; and have encouraged seminar organisers to use lunch, rather than
+dinner, as the default time to entertain a guest speaker. During the period several staff have moved
+to part-time working for family reasons; when they have requested a return to a higher proportion
+of FTE this has always been granted. At Faculty level, we have recently set up a Carer's Fund,
+which provides funding to allow conference attendance and research travel for those whose caring
+responsibilities would otherwise prevent it. This has primarily been used for childcare cover, as well
+as covering care costs for vulnerable relatives while a staff member is away.
+Our approach to wellbeing has been thrown sharply into focus by the COVID-19 pandemic. Since
+March 2020, we have instituted a range of online activities to help staff and students stay in touch,
+including random-group coffee meetings, buddy systems, and regular tea meetings. Coupled with
+more practical help (a faculty-level fund to assist with home-schooling, and generous departmental
+provision of extra equipment to make remote collaboration practical), these help our staff and
+students to feel valued as they work through difficult circumstances.
+Over the period, our commitments to EDI are slowly paying off in our PhD intake: our latest intake
+was 38% female, increased from 32% female at the beginning of the period (and well above the
+sector average of 25%). The proportion of non-white students has also increased (from 32% to
+46% across the period), as has the proportion of students disclosing a disability (though the
+numbers here are extremely small).
+The selection of outputs towards our REF submission has been led by a team across the two
+departments. Each staff member was asked to nominate up to 5 outputs for consideration. These
+were then reviewed and scored by academic staff across our various areas of expertise, including
+ECRs. Specific EDI training relevant to the role was provided by the institution.
+Following the institutional code of practice, we checked the profile of the initially selected outputs
+against a range of inclusiveness criteria. The profile of outputs against career stage is almost
+perfectly distributed: all age groups except the over 55s have outputs per FTE of 2.5. The profile of
+outputs by gender is also close to balanced (especially given the small numbers involved and the
+fact that several female staff have taken maternity leave in the period): the mean outputs per FTE
+are 2.5 and 2.4 for male and female staff respectively. The final submitted outputs have therefore
+not been adjusted in response to this review.
+The selection of impact case studies (ICSs) towards our REF submission has been led by a team
+across the two departments and the UCL-wide specialised team. Four out of seven ICs are
+
+
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+women-led or women-majority led 57%, and in terms of staff involved 60% of the ICSs
+contributors are women staff, well above our 17% female staff ratio.
+
+ 3. Income, infrastructure and facilities
+
+3.1 Research income
+Our research income has been transformed over the REF period: from £1.8M per year in the
+period covered by REF 2014, to £4M per year in the current period. Figure 1 shows that this
+expansion is driven not only by an increase in the volume of research funding, but also by a major
+diversification of our funding portfolio with notable increases in funding from UK government
+(including health authorities) and EU sources, and one joint NERC/NSF award (E Johnson).
+Highlights in the funding portfolio include the EPSRC fellowships and ERC grants noted in Section
+1.2, of which six had award values above £800K (three above £1M); an EPSRC Programme Grant
+(Section 1.1) bringing £605K to Ni as Co-I; EPSRC award EP/P024793/1 to Parnovski for £520K;
+several large awards to CORU from healthcare organisations and agencies (two awards above
+£500K to Crowe and two to Utley, one of which secured funding of £830K from the Department of
+Health and Social Care to evaluate the pilot implementation of vaccinating healthy schoolchildren
+against seasonal influenza); and industry funding of £499K from MAPI / ICON to support Baio’s
+position and research programme. Elsewhere in the unit, the Biostatistics research group obtains
+grant funding as statistical lead and Co-investigator, for many collaborative health research
+projects: for example, in mid-2020 the UCL Medical School including the PRIMENT Clinical Trials
+Unit (involving Omar, O'Keeffe, Pavlou, Baio) were conducting more than 20 research studies,
+both in the UK and internationally, funded by the National Institute of Health Research, ESRC, the
+Wellcome Trust and the MRC.
+
+
+  Figure 1: Annual average value of research awards by funding source (HESA Group), 2008-2013 and
+                                              2013-2020.
+
+
+
+
+                                                                                          Page 16
+Unit-level environment template (REF5b)
+The increase and diversification of research funding is, of course, partly driven by the exceptional
+growth of our unit (+49.5% FTE). However, that growth does not tell the whole story: many of our
+colleagues are very recent hires who have had limited time to bring in funding (out of 94.15 FTE,
+38 FTE (40.36%) joined since 2016 and 24 FTE since 2019). Nonetheless, after accounting for
+staff growth we still find a 50% increase in annual research income per FTE: to £47,584/year/FTE,
+from £28,594 in REF 2014. This is a major achievement and a testament to the success of our
+research strategy outlined above – for example the research incentives that have been introduced
+during the period, the start-up funding for new hires and the increased support for staff preparing
+large proposals. Looking to the future we anticipate that these initiatives, coupled with the ongoing
+expansion of academic staff numbers and professional services support (see Section 3.2), will
+increase this momentum still further.
+It is worth noting here the success of our activities to support equality and diversity around
+research grant applications. While only 17% of our academic staff are female, they account for
+25% of our research income over the period.
+3.2 Infrastructure
+Mathematical sciences research makes modest demands in terms of infrastructure. The main
+requirements are individual and collaborative space; access to the latest developments in the
+discipline via journals, conferences and other forms of dissemination; appropriate professional
+services support; and, in some areas, access to appropriate computing facilities.
+In our central London location, space is at a premium. During the period, UCL has invested heavily
+in physical infrastructure in Mathematics. In a £3.8M project, the fourth floor of 25 Gordon Street
+was remodelled from its previous use for the Students' Union and repurposed to provide extra
+space for Mathematics. This new space provides 13 new academic offices and a shared PhD
+office which seats 20, along with associated seminar and meeting space.
+Looking forward to the next seven years, the proposed IMSS (see Section 1.1) will create a
+bespoke building that is designed for 21st-century mathematics activity. The building will house
+individual offices for academic staff, purpose-built teaching and collaboration spaces, and also
+facilities for international seminars and workshops via videoconferencing. This will benefit the unit
+directly, and will allow UCL to position itself as a major London venue for events across all of the
+mathematical sciences.
+UCL has outstanding library facilities, with an extensive physical collection (including the collection
+of the London Mathematical Society) as well as online access to over 50,000 e-journals including a
+comprehensive collection of mathematical sciences journals and e-books. Both departments have
+a generous annual budget for the purchase of new books and journal subscriptions. Funding for
+travel and conference attendance is also essential to ensure that staff can keep abreast of
+developments in the discipline and disseminate their work: both departments also have funds to
+which staff and research students can apply for support, therefore. Where necessary, priority for
+these funds is allocated to research students and ECRs.
+The unit has also invested in professional services (PS) support during the period: the PS team in
+Mathematics increased from 9 FTE in 2013 to 13.5 FTE in 2020, while that in Statistics increased
+from 5.2 FTE to 9.7 FTE over the same period. Most of the new capacity was in the area of
+teaching support, thus transferring non-specialist administrative and teaching-related tasks from
+academics to PS staff and increasing the amount of academic staff time available for research.
+There are dedicated research support posts within both departments, for example, both
+departments have dedicated IT Systems Administrators with specialist expertise to support local
+research computing infrastructure (Section 3.3): Mathematics started the period with one such
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+administrator and now has two. Moreover, in 2017 Statistics appointed a new full-time Finance and
+Research Administrator, whose responsibilities include providing support with research proposal
+costings as well as grant maintenance and support with research contracts. Finally, both
+departments receive additional PS support where needed from the teams at the MAPS faculty and
+(larger) school level – for example, with organising the outward-looking networking events
+described in Section 4.2.
+3.3 Research computing
+Each department has its own internal computer network, with all machines being accessible to
+departmental staff and research students from PCs or workstations in their offices, or remotely. We
+have backup servers, and remote storage: the departmental systems are maintained by dedicated
+Systems Administrators, as described above.
+In Statistics, the internal network is based on a few fast Linux servers running a variety of
+commonly-used packages. For moderately intensive computations, researchers in the Department
+have access to a powerful internally-owned cluster.
+In Mathematics, the Unix computing facilities comprise over 72 general purpose computing
+machines, alongside a dedicated 16 node Linux High Performance Computing (HPC) cluster
+having a total of 218 CPU, with Nvidia GPUs in many, and a high-speed network fabric. We have a
+high-performance machine with 2TB RAM for manipulation of polynomials (frequently multivariate)
+of very high degree with very large integer or rational coefficients, and a high-performance
+machine dedicated to machine learning (TensorFlow, Pandas etc). applications, with five high
+specification Nvidia cards.
+In addition, UCL’s Information Systems Division provides High Performance Computing facilities
+and a data-intensive computing facility. Over the REF period, our unit benefited from an
+exceptional growth in HPC facilities at UCL: share of Legion, Grace (in 2016 the largest and fastest
+HPC system in the UK University sector and ranked at 400 in the "Supercomputing Top 500" list of
+the fastest HPC systems in the world), Myriad for high throughput computing in data sciences
+(Guillas was on the UCL commissioning group). Kathleen, which entered service in January 2020,
+is a compute cluster designed for extensively parallel, multi-node batch-processing jobs, with high-
+bandwidth connections between individual nodes. It is named after Professor Dame Kathleen
+Lonsdale, a pioneering chemist and activist. UCL is also partner of several tier 2 HPC centres that
+provide a diversity of computing architectures, which are driven by science needs that are not met
+by the national facilities or universities. All these investments and partnerships resulted in
+significant benefits in research & impact (e.g. several papers and a KTP or multiple EPSRC IAA
+awards with industry support).
+Finally, UCL was the first University in the UK to create a Research Software Development (RSD)
+group, whose goal is to help researchers to produce high quality research software, from the
+simplest scripts to complex simulations running on supercomputers. The group has supported a
+total of eight research and impact projects within UoA10 during the period, thanks to funding from
+EPSRC and Research England. The RSD group provides training in basic and advanced
+computing skills to staff, research and Master’s students as well as contributing directly to research
+projects.
+
+
+
+
+                                                                                             Page 18
+Unit-level environment template (REF5b)
+
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+4.1 Academic collaborations
+We have a huge number of research collaborations within and beyond the Mathematical Sciences,
+elsewhere in the UK and internationally, as evidenced by the large number of submitted outputs
+with co-authors based outside UCL (over 70% of those outputs with an author in the unit at the
+time of publication) and outside the UK (over 50%). This is partly driven by our many new recruits
+and their pre-UCL collaborations, but we also build new links as new opportunities arise.
+Our staff travel extensively, to conferences or for research visits. Institutional support to develop
+new international research activities is provided by the Global Engagement Office in the form of
+travel awards of up to £2k (~£35k over the REF period); and longer visits are supported with
+sabbatical leave.
+4.1a Collaborations within the Mathematical Sciences
+We have an active series of international seminars (including the London-Paris Number Theory
+seminar (Dokchitser / Petridis, Heilbronn funding), the London-Paris Analysis seminar
+(Parnovski), and the Brussels-London Geometry seminar (Schulze, LMS funding)) which
+capitalise on our location close to St Pancras and bring international visitors to UCL. We also host
+visiting professors under various schemes (e.g., Mariel Saez-Trumper 2018-19 and Ovidiu
+Munteanu 2019 were both Leverhulme visiting professors organised by Schulze). Staff have held
+visiting professorships in France (Cotar, Paris-Nanterre, Guillas Paris-Saclay) and Japan
+(Guillas, University of Tokyo).
+There are multiple strong individual links particularly with the US and North America, Singapore,
+Japan, India, Australia, Chile, and with many European countries. Royal Society International
+schemes (Exchanges Grants or Seminars) have been awarded to kick-start or strengthen these
+(Cotar, Pokern, Guillas) with Germany and India. Several staff hold or have held joint
+appointments with international institutions (Sokal with New York University, USA, De Iorio with
+Yale, USA, Granville with Montreal, Canada, Barany with the Hungarian Academy of Sciences,
+Macrina with University of Cape Town, South Africa and Dellaportas with Athens University of
+Economics and Business, Greece). At a less individual level, our Departments are present in
+several major multi-national consortia, including two 26-country COST networks (Accelerating
+Global science In Tsunami Hazard and Risk analysis, Guillas; Cosmology and Astrophysics
+Network for Theoretical Advances and Training Actions, Boehmer). Global Challenge Research
+Funding (GCRF from ESRC/NERC/AHRC and Research England) has facilitated international
+collaborations including the ESRC GCRF Resilient and Sustainable Interventions in Water-Energy-
+Food-Environment Mega-Systems 2017-21 (Siddiqui, Co-I).
+We have strong coordinated links across London and the UK in some of our strongest areas of
+research, as evidenced by Ni's Programme Grant and interdisciplinary collaborations such as the
+many CORU projects run with London hospitals.
+At the level of PhD training as described in Section 2.3, we collaborate with Imperial and King's
+College on the LSGNT, the only EPSRC/UKRI funded CDT in pure mathematics. We also lead the
+LTCC; and we are a member of the London Graduate School in Mathematical Finance.
+Statistics manages the Biometrika Trust (Isham Chair of the Board of Trustees), which offers
+(since 2014) a two- or three-year research fellowship for early-career researchers in statistical
+theory or methodology. It is aimed at those among the most outstanding recent PhD graduates
+
+                                                                                               Page 19
+Unit-level environment template (REF5b)
+who are capable of self-direction and can be held in any research institution in the UK. The first
+recipients have held the fellowship at Cambridge, Glasgow and UCL Gatsby Unit (Fernandez
+Aguilar).
+4.1b Interdisciplinary collaborations
+Our interdisciplinary connections include joint academic appointments: one between Statistics and
+the Institute of Risk and Disaster Reduction (returned in UoA7); four between Statistics and NIHR
+UCLH/UCL Biomedical Research Centre (two returned in UoA2, two in UoA10); and one between
+Mathematics and the Institute of Women's Health (returned in UoA1). UCL’s Met Office Academic
+Partnership (MOAP), started in April 2020, is another example of interdisciplinary connections: this
+partnership spans eight departments across three faculties, working collaboratively on transforming
+data sciences to secure the UK's world-leading position in weather forecasting and climate
+prediction. Mathematical scientists (Betcke, Briol) lead two of the four UCL-Met Office working
+groups as well as the overall MOAP (Guillas), which is supported institutionally by three PhD
+studentships and by a strategic research facilitator from the Office of the Vice-Provost (Research).
+We also have, and strongly support, many ad hoc research collaborations beyond the
+mathematical sciences, notably with the Gatsby, Crick Institute, and UCL Engineering. We jointly
+supervise PhD students with other UCL departments as described in Section 2.3a: indeed, of the
+159 research students graduating during the period, 73 had at least one supervisor from another
+unit. Similarly, our PhD projects with industrial partners (Section 2.3a) provide a clear pathway for
+collaboration between researchers and research users.
+Finally, the unit provides training in mathematical and statistical methods to support research in
+other disciplines both within and beyond UCL. Examples include the annual Practical Statistics for
+Medical Research CPD training course provided by Statistics to medical researchers; and the
+annual five-week training in modern statistical methods and computing provided to each cohort of
+the London NERC Doctoral Training Partnership (typically around 25 research students from
+across the environmental sciences). These training activities promote awareness of the unit and its
+activities that can lead to fruitful collaborations, as well as promoting the uptake of modern
+mathematical sciences research methodology in other disciplines (e.g., the analysis underpinning
+large parts of the 2020 State of Nature report in the UK was done by ecologists working with
+Chandler, resulting from contact made during training activities).
+4.2 Relationships with research users; impact
+The unit undertakes a broad range of activities with non-academic research users. Our
+commitment to impact is evidenced by its inclusion in our recruitment criteria (see Section 2), and
+by our strategic expansion of impact-generating groups within the unit such as CORU (Section
+1.1), where three new posts have been created in the period in recognition of the importance of
+their direct collaboration with clinicians and policy-makers in the healthcare domain.
+More broadly, our impact strategy is facilitated by Enterprise Coordinators in both Mathematics and
+Statistics, with additional support from the Faculty Vice-Dean for Enterprise. UCL Innovation and
+Enterprise (UCL I&E) supports interactions with stakeholders and enterprises, for example:
+      26-28 June 2017, Industrial Sandpit (Ovenden, support from UCL research facilitators).
+       Attended by 10 representatives from three external organisations: Dept of Transport, dstl,
+       and Motorola Solutions and around 40 academics and postgraduates. The event led to the
+       development of industry-focused research proposals, of which at least one (new
+       collaboration between dstl and Wilson, with UCL Forensic Science) led to funded research
+       beyond the REF period.
+
+
+                                                                                              Page 20
+Unit-level environment template (REF5b)
+      8 November 2018, Networking meeting around applications of novel mathematical and
+       statistical tools to security issues. Organised by Ovenden. 60 participants, including
+       representatives from five external bodies (dstl, DfT, Home Office, Office of Chief Scientific
+       Advisor, Defence and Security Accelerator) and UCL participants from this UoA and
+       beyond (Computer Science; Centre for Advanced Spatial Analysis; Clinical, Educational
+       and Health Psychology; Geography; Civil and Mechanical Engineering; Security and Crime
+       Science).
+The period since REF2014 has seen a major uplift in the amount of funding available for impact-
+related work. The unit has made ample use of this, especially recently, including EPSRC Impact
+Acceleration Awards (14 across the departments, worth over £400K and with over 60% occurring
+since 2017); Knowledge Transfer Partnerships (3); UCL-industry funded impact PhD studentships
+for which UCL contributes 50% (10); EPSRC iCASE PhD studentships (4); and direct research and
+studentship funding from industry. UCL Consultants supports work carried out prior to or alongside
+research (£718,599 in total over the period). UCL Innovation and Enterprise supports and
+manages an increasing number of Knowledge Transfer Partnerships (KTPs), with awards in 2015
+(Guillas), 2016 (Silva) and 2019 (Fearn and Xue). Impact also consists of dissemination of
+research to the commercial sector through invitations to speak in industry such as Twitter, Spotify,
+DeepMind (Silva), Barclays Investment Bank (Marra), or UBS, Bank of England, Bank of Japan,
+and Johannesburg Stock Exchange (Macrina).
+Wilson has made active improvements to the impact landscape in the UK Mathematics community
+by her leadership of the IMA creation of the Hedy Lamarr Prize for Knowledge Exchange in the
+Mathematical Sciences (first award 2021). The long-term aim of the scheme is to improve the
+career recognition for KE in the Mathematical Sciences.
+We support all staff to respond in an agile manner when research opportunities present
+themselves. Most recently, Pagel has been a key member of Independent SAGE since May 2020.
+Since June 2020 it has held weekly briefings in which she regularly presents the COVID-19
+statistics and challenges (25-60k views each week across twitter livestream and YouTube). She
+also has had countless media appearances (BBC, Channel 4, Sky News etc. but also
+internationally with NBC, CNN, German, French & Swiss TV) on a weekly – and sometimes daily –
+frequency since July.
+This work with Independent SAGE is an excellent example of UCL sharing our research with the
+wider public. In general, those engaged in outreach (Wilson, Lotay, Olhede, Page, Pagel, Silva)
+ensure that these activities are tied into their own research. Lotay ran workshops in collaboration
+with Lilah Fowler from UCL’s Slade School of Fine Art, introducing schoolchildren to geometry in
+the fourth dimension. Another example is the work of Olhede and Silva, who have participated in
+public events related to their work with the UK Law Society policy commission on Algorithms in the
+Justice System established in 2018. The commission has taken evidence from a range of different
+experts on whether algorithms and their use within the justice system should be regulated, and if
+so, how such regulation could be formed.
+4.3 Leadership in the Academic Community
+Since REF2014, many new prizes and honours have been awarded. Highlights were given in
+Section 1.1a. Other awards have also been received for individual contributions. For example,
+Northrop received the Wiley-TIES Best Environmetrics Article Award in 2015 and Baigent
+received the Journal of Difference Equations and Applications Best Paper Award in 2016.
+Elected fellowships and similar honours include Fearn, who was elected President of the
+International Council for Near Infrared Spectroscopy 2017-21; Wilson, President of the British
+
+                                                                                            Page 21
+Unit-level environment template (REF5b)
+Society of Rheology, 2015-2017; Guillas Vice-Chair of SIAM UQ 2015-17; De Iorio, Fellow of the
+International Society for Bayesian Analysis ISBA (2020) and Manolopoulou, elected 2019 to
+Board of Directors of ISBA. At the national level, Baio was appointed Scientific Advisor by the
+National Institute for Health and Care Excellence (NICE) and Macrina serves on the Scottish
+Financial Risk Academy Scientific Committee. Isham chaired the Scientific Steering Committee of
+the Isaac Newton Institute for the Mathematical Sciences throughout the current REF submission
+period.
+Staff have been given many high-prestige keynote lectures during the period: in addition to the
+many examples listed in Section 1.1a, Isham was Bernoulli Lecturer at the 9th Bernoulli / IMS
+World Congress in 2016, and LMS-NZMS Forder Lecturer in 2018; Wilson gave the 2019 LMS
+Gresham Lecture; Fearn was keynote speaker at ANS2016 (Japan) and at the 2016 Chinese
+National NIR Conference in Wuhan; and Zerbes was invited speaker at the Heilbronn annual
+conference 2018.
+4.3a Service on mathematical bodies
+Our staff serve on national Mathematics bodies including:
+EPSRC: Mathematical Sciences SAT (Singer 2017-2019), Peer Review college (Betcke,
+Halburd, Vanden-Broeck, Vassiliev, Wilson). Number Theory Landscape document (Granville
+2015), Fellowship interview panels (Wilson 2017, Halburd 2019 (chair), Zerbes 2019),
+Prioritisation panels (Vassiliev 2014, Zerbes 2014, Lotay 2015, McDonald 2015, 2018, Betcke
+2017, Oksanen 2019).
+NERC: Peer review college Panel B core member (Esler, 2014-2020).
+Isaac Newton Institute: Scientific Steering Committee (Isham, chair, 2014-2020); Scientific
+Advisory Panel, Newton Gateway (Wilson, 2019-20); Chair of correspondents and management
+committee (Singer, 2013-2015).
+ICMS: Programme Committee (Vassiliev, 2015-2019), Nominating Committee (Wilson, 2019-).
+London Mathematical Society: Council (Singer, 2012-2015, Zerbes, 2016-2018), Research
+Policy Committee (Singer, 2012-2018, Zerbes, 2019-), Prize Committee (Zerbes, 2020-), General
+Secretary (McDonald, 2020-).
+Institute of Mathematics and its Applications: Vice-President (Wilson, 2018-2020), Research
+Committee (Halburd, 2015-; Wilson, 2013-).
+Heilbronn Institute: Advisory Board (Granville 2015-2018, Singer 2018-).
+A-Level Content Advisory Board Mathematics Panel and its successor: (Wilson, 2014-2018).
+Royal Society: International Exchanges Committee (Dokchitser, 2016-; Foscolo, 2019-).
+Our staff also serve international Mathematics bodies: both Barany and Singer have served on
+panels for Deutsche Forschungsgemeinschaft in 2020, and staff served as International experts on
+review panels for the Academy of Finland (Smyshlyaev, applied maths and statistics, 2014-15 and
+2017-2019; Petridis, pure mathematics, 2017-18). Baio was Programme Chair of ISBA Section on
+Biostatistics and Pharmaceutical Statistics 2017-19; and Hennig Scientific Secretary of the
+International Federation of Classification Societies (IFCS) 2014-2018.
+We do not list the many (well over 100) instances of conference and conference session
+organisation by staff members during the period. Three four or six-month Newton Institute
+programmes were organised by our staff during the period (Parnovski / Sobolev 2015; Olhede /
+
+
+                                                                                          Page 22
+Unit-level environment template (REF5b)
+Wolfe 2016; Smith 2017) along with three shorter programmes (Isham 2014, Singer 2015,
+Guillas 2018). A one-month programme at the Institute for Mathematical Sciences at the National
+University of Singapore was also organised by Beskos in 2018, and a Banff International
+Research Station workshop by Oksanen in 2016. Granville was co-organiser of the MSRI special
+semester on Analytic Number Theory (2017), and Barany, co-organiser of Oberwolfach recurring
+workshop on discrete geometry, 2014 and 2017. In addition, several of our staff co-organised
+ICMS workshops, including E Johnson (2016), McDonald (2017), and Ovenden (2020). Two
+major conferences ran at UCL: IUTAM Symposium on Wind Waves (E Johnson, 2018) and
+ICDEA (Baigent, 2019).
+The Mathematics department publishes the journal Mathematika with Sobolev being the Managing
+Editor (previously Smith). The Department of Statistical Science publishes the journal Biometrika.
+In addition, staff hold (or held) the following senior editorial positions: Barany: Editor-in-chief, Acta
+Mathematica Hungarica (2016); Chandler: Joint Editor, JRSSC (2014); Singer: Editor,
+Proceedings of the LMS (2015-2018); chair, AMS Mathematical Surveys and Monographs (2015-
+2018); Sokal: Co-editor-in-chief, Annales de l’Institut Henri Poincaré D (2014-); and Utley: Editor-
+in-chief of Operations Research for Health Care (to 2016). Our wide range of standard editorial
+activity is listed below.
+4.3b Editorial board memberships
+These were held for the whole period unless specified.
+Baigent: Journal of Difference Equations and Applications (2017-),
+Baio: JRSSA (2016-), Significance,
+Beskos: Statistics and Computing (2018-),
+Bishop: Nature Scientific Reports,
+Boehmer: Astrophysics and Space Science (2016-),
+Burman: ESAIM: Mathematical Modelling and Numerical Analysis,
+De Iorio: Bayesian Analysis (2019-), STAT,
+Dellaportas: Bayesian Analysis (2018-), Biometrika (2012-19), Electronic journal of Statistics
+(2012-19),
+Dokchitser: Royal Society Open Science (2017-).
+Fearn: Journal of NIR Spectroscopy,
+Granville: Bulletin of the American Mathematical Society; Mathematical Proceedings of the
+Cambridge Philosophical Society; Comptes rendus mathématiques de l’Académie des sciences du
+Canada; Annales des sciences mathématiques du Québec; Integers; Algebra and Number Theory;
+Mathematika; Electronic Journal of Combinatorics; Contributions to Discrete Mathematics; Online
+Journal of Analytic Combinatorics,
+Griffin: Bayesian Analysis; Statistics and Computing; STAT (2012-2015), JRSSB (2013-2017),
+Guillas: Computational Statistics & Data Analysis (2015-18), International Journal for Uncertainty
+Quantification (2019-),
+Halburd: Journal of Difference Equations and Applications (2017-)
+Hewett: IMA Journal of Applied Mathematics (2019-),
+Manolopoulou: Bayesian Analysis (2019-),
+Marra: Statistics and Computing (2015-), JRSSC (2018-), Dependence Modeling (2018-),
+Statistical Methods & Applications (2019-),
+Northrop: Environmetrics,
+Pagel: Operations Research for Health Care,
+Sadeghi: Scandinavian Journal of Statistics (2019-),
+Silva: Statistics and Computing (2013-19),
+
+                                                                                                Page 23
+Unit-level environment template (REF5b)
+Smith: J Eng Maths, Maths in Industry Case Studies,
+Smyshlyaev: SIAM J on Mathematical Analysis,
+Talbot: Bulletin / Journal / Transactions of the LMS,
+Vassiliev: EMS Press (2015-),
+Wilson: Proc Roy Soc A. (2018-), Journal of Engineering Mathematics, Journal of Non-Newtonian
+Fluid Mechanics,
+Xue: Digital Signal Processing (2020-), Neurocomputing (2020-),
+Zerbes: Mathematika (2018-).
+
+
+Conclusion
+The mathematical sciences are flourishing at UCL. This review period has seen a substantial
+expansion and diversification of activity, resulting from institutional investment combined with
+cultures of academic excellence, inclusivity and diversity. The momentum created during the
+period has set us well on the road to realising our vision for a UCL Institute for Mathematical and
+Statistical Sciences (IMSS): we look forward to continually strengthening both our research
+portfolio, and our engagement with our peers and the wider community.
+
+
+
+
+                                                                                           Page 24
+

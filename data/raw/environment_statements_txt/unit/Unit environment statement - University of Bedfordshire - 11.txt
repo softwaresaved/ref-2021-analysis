@@ -1,0 +1,588 @@
+Unit-level environment template (REF5b)
+
+
+ Institution:
+ University of Bedfordshire
+ Unit of Assessment:
+ 11
+
+ 1. Unit context and structure, research and impact strategy
+
+ Structure and mission:
+
+ Research submitted to this UoA is mainly undertaken in three of five research centres within the
+ Institute for Research in Applicable Computing (IRAC), namely: the Centre for Visualisation and
+ Data Analytics (CVDA); the Centre for Robotics and Smart Information Systems Studies (RSS);
+ and the National Centre for Cyberstalking Research (NCCR), as shown in Figure 1. The other two
+ centres focus on engineering-related research. Their achievements are submitted in a different
+ UoA.
+
+
+                       Institute for Research in Applicable Computing (IRAC)
+
+
+        Centre for          Centre for       National         Centre for        Centre for
+       Visualisation       Robotic and      Centre for         Sensing,        Mechanical
+         and Data             Smart        Cyberstalking     Signals and       Engineering
+         Analytics           Systems         Research          Wireless        and Energy
+          (CVDA)              (RSS)           (NCCR)         Technology        Technology
+                                                               (SSWT)            (MEET)
+
+ Figure 1. Structure of IRAC and three centres related to UoA11
+
+ IRAC has the mission of becoming a world-leading, recognised institute of excellence in applicable
+ computing through AI-focused, cross-disciplinary research and a positive contribution to society.
+
+ Research and impact strategy:
+
+ IRAC’s research and impact strategy for fulfilling our mission can be summarised by the following:
+
+ ●   Encouraging wide participation among staff members in mission-oriented research;
+ ●   Building up cross-disciplinary networks in the UK and across the world;
+ ●   Promoting creative research and applications;
+ ●   Engaging industry, society, local authorities and government in research;
+ ●   Disseminating high-quality research outcomes to target audiences;
+ ●   Expanding client and funding bases with the ability to deliver timely and bespoke responses
+     from both technology and services perspectives;
+ ●   Developing expertise among staff and post-graduate (PGR) students.
+
+ Under the research and impact strategy, this UoA has made significant advances in fulfilling our
+ mission in this assessment period.
+
+ The following research achievements enabled collaborations with hospitals in the UK, Greece and
+ Lithuania to establish a digital healthcare framework. This framework uses AI to empower patients
+ to manage their health, providing visualised information about their conditions, as well as a range
+ of guidance and alerts about potential risks or harms. The framework has shown notable chronic
+ disease control among patients, health literacy enrichment and patient health engagement for
+ patients with diabetes, cancer, heart failure, renal disease and metabolic syndrome. The research
+ was supported by a number of EU-funded projects, including h2020 iManageCancer, and FP7
+ CARRE and MyHealthAvarta.
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+
+
+ Research achievements
+
+ ●   A comprehensive data analytics and semantic knowledge discovery framework was
+     developed by semantically integrating data from varied IoT and web data resources. The
+     framework applies a hybrid database architecture of NoSQL and RDF repositories with the
+     introduction of semantic oriented data mining and knowledge lifting algorithms. The algorithms
+     transform raw data into semantic data and apply MapReduce computations to discover
+     semantic patterns of significant events or symptoms, such as unrestful sleep, the absence of
+     physical activity over the course of a week and high temperature or high blood pressure. The
+     significant events or symptoms that are discovered provide valuable information for disease
+     prediction and treatment or lifestyle recommendations.
+
+ ●   Information retrieval and search algorithms inspired by utilising Hilbert spaces and quantum
+     probabilities, allow search engines to capture a rich set of user interaction, going beyond
+     query-based state-of-the-art approaches. They are capable of modelling and combining the
+     vagueness and dynamics inherent in interactive search systems, making search more
+     effective.
+
+ ●   Topic mining algorithm enables thematic topics to be discovered using the explicit semantic
+     association between thematic topics to the themes that are commonly used by humans in
+     specific professions. The algorithm also connects to a set of visual components that are closely
+     coupled with the underlying thematic topic detection to support interactive document retrieval.
+
+ ●   Predictive models that have been established based on a cutting-edge deep learning
+     paradigm have achieved outstanding accuracy in the following areas:
+
+        o   Prediction of survival in trauma;
+        o   Recognition of abnormal brain development in new-borns;
+        o   Brainwave biometric.
+
+ The following research achievements contributed to Harmful Online Communications: The
+ Criminal Offences, Law Commission consultation paper. Our collaborative research with
+ Universities UK resulted in us presenting and providing expert evidence at UUK’s AGM. The
+ research was supported by the following projects: Developing an Evidence Based Protocol for
+ Assessing Risk and Managing Policing Operations in Response to Cyberstalking and Online
+ Harassment funded by Bedfordshire Police through the Police innovation Fund; Cyber
+ harassment: Platform for Evidence Gathering, Assessing Risk & Managing Policing project,
+ funded by the Home Office; and Tackling Hate Crime project, funded by HEFCE.
+
+ ●   Analysis of the psychological impact of cyberstalking:
+
+        o   Understanding of the psychological impact on victims and identification of the impact
+            of victimisation on behaviour;
+        o   Formulation of risk assessments based on aggravating and mitigating factors present
+            in historic cyberstalking cases;
+        o   Recognition of the need to psychologically support victims of online abuse and the
+            subsequent development of guidelines for national training.
+
+ ●   Development of risk assessment in cyberstalking:
+
+        o   Provision of information and psychological expertise to the police to support
+            identification risk, psychological impact and the extent of cyberstalking;
+        o   Provision of information and content for training courses delivered to national stalking
+            advocates.
+
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ ●   Development of educational interventions for prevention:
+
+        o   Contribution to changing the culture initiatives in HE;
+        o   Creation of preventative strategies in educational environments;
+        o   Contribution to the creation of sector guidelines on responding to online harassment;
+        o   Awareness and recognition of online abusive behaviour in higher educational
+            establishments.
+
+ ●   Research on trust in distributed software systems led to the development of a mobile
+     application, CybHAPP (Mobile Cyber-harassment Application), equipped with features that
+     identify, report and log malicious communication manually by the user and automated (GPS
+     location, integrity hashes, time/date etc.) meta data. This provides digital investigators with
+     reliable information to determine the integrity and value of the reported incident, and the
+     identity of the perpetrator where possible
+
+ The University has established the joint RENEW Centre with TWI, a Cambridge-based company.
+ The following research tightened up the collaboration with TWI under RENEW by improving robot
+ autonomy in Industry 4.0. It also led directly to the recent award of a 6M Euro H2020 5GPPP
+ project in 5G-enhanced robot autonomy (starting from 1st January 2021) with potential impact for
+ autonomous robotic applications in transport, healthcare and Industry 5.0.
+
+ ●   An AI-based vagueness handling algorithm and intention recognition algorithms allow robots
+     to understand human users’ commands and intentions, leading to the increased degree of
+     autonomy of robots in HRI;
+
+ ●   New protocols and algorithms for medium access control (MAC) and channel assignments,
+     congestion control and resource management, channel characterisation and modelling, timely
+     and reliable packet dissemination optimisation, and cooperative vehicular communications in
+     Vehicular Ad-Hoc Networks (VANETs).
+
+ Our achievements also include:
+
+ ●   Micro/nano robotic cell manipulation revealing the mechanical properties of living cells is
+     believed to be significant in the early diagnosis and treatment of cancer (supported by EU FP7
+     BioRA and H2020 MNR4SC projects);
+
+ ●   Providing consultancy support to a number of SMEs in South-east England (supported by the
+     EU Innovation Bridge and ICT Escalator projects).
+
+ Our achievements can also be evidenced by:
+
+ ●   High quality publications publishing our internationally recognised research outcomes ,
+     including IEEE Transactions on Network and Service Management, Sensors, IEEE Journal on
+     Selected Areas in Communications, IEEE Transactions on Systems, Man and Cybernetics:
+     Systems, IEEE Transactions on Vehicular Technology, IEEE Transactions on Antenna and
+     Propagation, International Journal of Neural Systems/World Scientific, Integrated Computer-
+     Aided Engineering, Pattern Recognition, Telematics and Informatics, Computers & Graphics,
+     etc.
+
+ This UoA recognises the significance of 5G to the enhancement of autonomy in robotic and smart
+ systems with respect to effective resource sharing, such as data, information, intelligence and
+ computation power due to its larger capacity and ultra-low latency. While continuing our research
+ in data analytics, IoT and cyber security, this UoA endeavours to establish us as a world-
+ recognised institute of excellence in research in this area in the next REF period.
+
+
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ This UoA will apply the same research and impact strategy to the next REF period as to the
+ previous one, but will give high priority to the development of 5G vertical applications of
+ autonomous robotic systems, data analytics, IoT and cyber security. More specific, this UoA will:
+
+ ●   Encourage the form of critical-mass for high-priority research, involving wide participation in
+     research from staff;
+ ●   Develop new, cross-disciplinary networks in cloud computing, 5G orchestration and ML, and
+     sustaining existing links for data analytics, IoT and cyber security;
+ ●   Promote creative applications, particularly 5G-cloudified robotic systems;
+ ●   Engage industry, society, local authorities and government, with the emphasis on healthcare,
+     cyber security, transport, and manufacturing, particularly through Innovation Bridge, ICT
+     Escalator, and KTP projects;
+ ●   Focus on generating REF-able research outcomes;
+ ●   Develop a stream of external funding to support high-priority research, such as Research
+     Councils, Horizon Europe, UKRI, Innovate UK, etc.
+ ●   Focus on high-priority research regarding the development of staff members and PhD
+     students.
+
+ This UoA has already started new cross-disciplinary research into 5G-cloudified robotic systems
+ and their applications to healthcare, transport and manufacturing. This UoA has established new
+ links to international institutions in Japan, Korea, China, and Canada, in addition to the existing
+ links to research, industry and healthcare sectors in Europe. The UoA has also increased
+ engagement with UK research councils and authority bodies, for example, UKRAS, APPG and
+ UUK, and to strengthen the connection with UK universities and industries for high-priority
+ research.
+
+
+ 2. People
+
+ IRAC endeavours to create an equal and encouraging environment for all its members, including
+ those who are submitted with this UoA.
+
+ Staffing strategy and development:
+
+ Our mission is to encourage our Early Career Researchers (ECR) to grow and develop, to sustain
+ our strength in research on existing foundations and to establish research collaboration when they
+ leave. Our staffing strategy is built around recruitment, promotion, nurturing new staff and staff
+ development.
+
+ ●   Recruit: The recruitment of staff members in this UoA is via two channels. One is the School
+     of Computer Science and Technology (CST) within the university to which almost all IRAC
+     members belong. Staff recruited through this channel in the main, have permanent teaching
+     and research contracts with the university. The other route is via externally funded projects.
+     Staff members recruited through the projects have fixed-term, research only contracts. Most
+     people recruited via either channel (and who have significant research responsibility) have
+     been successful in bidding for external research funding, producing excellent research
+     outcomes.
+
+ ●   Retain: IRAC encourages staff promotion. In this REF period, one professor and two readers
+     have been promoted in this UoA. Working with CST, IRAC ensures that staff members with
+     significant research responsibility have 25% of their annual workload assigned to research.
+
+ ●   Nurture: All newly recruited staff have been assigned a mentor (for permanent contract
+     holders) or a supervisor (for fixed-term contract holders) to help make headway with their
+     research and to establish a research profile. Along with the university's three-month reviews
+     during the first year in post, mentors and supervisors help new staff to identify any training
+     requirements. The university’s Innovation & Enterprises Services Department provides staff,
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+     especially new members, with information about funding opportunities, and help with bid
+     development and project management. IRAC offers individualised advice to new staff through
+     the director of the institute and the centre heads. It also provides funds from the QR budget,
+     in conjunction with CST’s staff development fund, to help staff disseminate their research and
+     develop a research network. People nurtured at IRAC develop their career here in UoB and
+     beyond. Dr Yue Zhang, for example, is now leading 5G research at Leicester University; Dr
+     Gregory Epiphaniou became a reader and leads research in cybersecurity at Wolverhampton
+     University; and Professor Edmond Prakash also leads research in cyber security at Cardiff
+     Metropolitan University. Professor Amar Aggoun is leading the School of Mathematics and
+     Computer Science, also at Wolverhampton University.
+
+ ●   Staff development programmes with examples:
+
+         o   Annual PDR: This provides a formal channel for staff members, including RFs, to
+             identify any needs for research training with their line managers.
+
+         o   Investment in quality research: IRAC has received over £1.2m in QR funding for
+             research and researcher development over this REF period. This UoA has used part
+             of the fund to invest in staff, for example; GPU computers to support Professor Feng
+             Dong, Dr Hong-Qing Yu, and Dr Ingo Frommholz; data analytics, optical tables and
+             robotic systems to support Dr Renxi Qiu; and robotics study and eye tracking systems
+             to support Dr Haiming Liu in semantic analysis.
+
+         o   Conference fund: This UoA, through QR funding, supports staff members to
+             participate in top-tier national and international conferences, to enable effective
+             dissemination of findings, ensure targeted impact, form new collaborations and
+             develop existing ones.
+
+         o   UoB Conference: Researchers of all levels produce posters and research
+             presentations.
+
+         o   Visiting Professorships: This UoA now has three visiting professors, Professor
+             Zuobin Wang, Professor Changsi Peng and Professor Yong Yue. They are
+             distinguished top-tier researchers in computer controlled nano manipulating,
+             measuring and manufacturing. This helps staff and student development in the UoA
+             by providing close interaction with these visitors. Faculty members also visit top-tier
+             research institutes nationally and internationally, assisting staff development and
+             bringing new knowledge back to IRAC.
+
+         o   Funding bid preparation workshop: UoA workshops on successful bid-writing
+             targeting specific funding bodies have been organised, covering: selection of the right
+             funding body and calls to apply for; how to use full economic costing; reviewing
+             previous bids for lessons learnt and best practice. workshops use live bids to show
+             the process. Prof Clapworthy and Prof Feng who together have more than 25
+             successful EC bids, regularly share their expertise in bid development. This UoA has
+             actively participated in institution-level bid support seminaries organised by the
+             university’s Innovation & Enterprise Service Department.
+
+         o   Research student supervision inclusion: Early career research staff without
+             supervision experience are included in teams as a way to upskill them.
+
+         o   ECRs development: The recruitment and development of ECRs brings vitality to the
+             environment, ensuring sustainable growth, and is an important part of the strategy.
+             This UoA has seen 25 academics begin their lecturing careers during this assessment
+             period and research fellows (RFs) recruited under externally funded research grants.
+             This UoA supports all ECRs by providing mentors/supervisors, encouraging
+             collaborative research through bids and outputs and supporting them with their
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+              teaching load. As a result of ECRs’ development, several took up challenging roles in
+              top organisations. For example, Dr Beisheng Liu, who was employed under the EU
+              FP7 ICT SRS project, is now leading management software development as a senior
+              engineer in the China Academy of Railway Sciences. Dr Nigel McFarlane and Dr
+              Farzad Parvinzamir, who worked in a number of FP7/H2020 projects, are now a
+              bioinformatics scientist at Illumina and a senior engineer at Queen’s University Belfast,
+              respectively,
+
+ Research students
+
+ This UoA values the development of research students towards young researchers and engineers.
+ In this REF period, the UoA has made 42.75 PhD awards, as shown in Table 1.
+
+  13/14          14/15         15/16         16/17         17/18          18/19        19/20
+  8.00           7.25          9.00          5.50          5.00           4.00         4.00
+
+ Table 1. PhD awards in REF 2021 period
+
+ The awarded students continue their research and technical development in universities and in
+ industry. Some excellent examples are: Dr Yu Hou, whose PhD study is on nano-technology, is
+ now a senior engineer in the Chinese Academy of Science and the director of laser laboratory; Dr
+ Haider AI-Khateeb, whose PhD is in cybersecurity, is now a senior lecturer at Wolverhampton
+ University, Dr Jinyun Liu is now the deputy head of the Computer Science Department at Huabei
+ University of Science and Technology of China, Dr Hamed AL-Rubaieeb, whose PhD work is on
+ integrating Arabic sentiment analysis into CRM, has been appointed as the technical support
+ manager of MOD Saudi Arabia.
+
+ This UoA nurtures PGR students with the following foci:
+
+ ●   Research and technical development capabilities through supervision, PGR fund,
+     workshops/seminars, and participation in staff exchange programmes.
+
+          o   Supervision - Each PGR student has a supervisory team of two supervisors, at least
+              one of whom must have successfully led a student to completion. Where appropriate,
+              students may also have an external expert from industry or other universities as the
+              third supervisor. The supervisory teams provide the students with suggestions on
+              research directions and detailed research tasks on a monthly basis.
+
+          o   PGR fund – Each PGR student is allocated a certain amount of funds to support their
+              research, including facilities (computers, lab equipment, software, etc.) and activities
+              (research visits and conference presentations).
+
+          o   Workshops and seminars – Workshops on various topics have been organised for
+              PGR students to help them make progress with their research, particularly regarding
+              literature review when the students start their studies.
+
+          o   Participation in staff exchange programmes – The UoA has been granted four EU
+              FP7/H2020 MSCA projects. More than 12 PhD students participated in the staff
+              exchange programmes.
+
+ ●   Entrepreneurship via an Innovate UK KTP project and collaboration with industry:
+
+          o   KTP project – This UoA worked with DRAX (UK) in a KTP project to help the company
+              shift its traditional business from hardware/software reseller and panel installer to a
+              provider of information gathered from fire alarms managed by DRAX on customers’
+              premises, back to the customers and other stakeholders. Along with the project,
+              company personnel were developed in technical skills: IoT, ML, AI and ICT.
+                                                                                                 Page 6
+Unit-level environment template (REF5b)
+
+
+        o   Collaboration with Industry – This UoA has developed wide connections with local and
+            regional industry, especially through the EU H2020 projects, Innovation Bridge and ICT
+            Escalator, in recent years, to help industry develop digital businesses. Together with
+            their supervisors, some PGR students have been involved in the collaboration,
+            developing, for example, IoT and mobile apps products.
+
+ This UoA also encourages the PGR student voice to be heard. A PGR student representative
+ collects opinions on research management and reports to the IRAC board meeting every three
+ months. Supervisors are the first contact point for PGR student matters relating to research
+ management or students’ registration.
+
+ Equality and diversity:
+
+ This UoA is committed to providing equal encouragement and support to all researchers,
+ regardless of their gender, age, religion, ethnic background and disability. Female staff and
+ research students in ICT and engineering have always been encouraged. They have been equally
+ supported with respect to research hours, research training and equipment and research activities
+ and dissemination. Among the staff who have significant research responsibility in this UoA, three
+ out 10 are female. All have led, and participated in, externally funded research projects. Among
+ the staff who have significant research responsibility in this UoA, four out 10 are white.
+
+
+ 3. Income, infrastructure and facilities
+
+ This UoA is proactive and successful in bidding for research funding to support research and
+ expertise development. The UoA values research income as recognition of our research. We have
+ led and participated in seven new EU funded projects and five new projects funded by national
+ funding bodies, including the EPSRC. These new and legacy projects account for £3.8m of our
+ external research budget in this REF period, as can be seen in Table 2. The total research income
+ from external funded projects is nearly £4m. The details are given in Table 3.
+
+ In addition, the UoA received approximately £1.2 million in QR funding. This UoA also received
+ £72k by collaborating with local industry on digitalisation processes.
+
+  Project                                                    Funding body       Budget to UoB
+  MyHealthAvatar                                             FP7                       425,000
+  CHIC                                                       FP7                       510,000
+  CARRE                                                      FP7                       360,000
+  MyLifeHub                                                  EPSRC                     190,000
+  Inventor                                                   FP7                       360,000
+  iManageCancer                                              H2020                     510,000
+  Developing an Evidence Based Protocol for Assessing
+  Risk and Managing Policing Operations in Response to       Bedfordshire
+  Cyberstalking and Online Harassment                        police                      13,300
+  DRAX (UK) Intelligent Alarm systems                        Innovate UK                110,000
+  Cyberharassment: Platform for Evidence Gathering,
+  Assessing Risk & Managing Policing.                        Home office                758,000
+  MNR4SCell                                                  H2020                      114,750
+  QUARTZ                                                     H2020                      399,943
+  Tackling hate crime                                        HEFCE                       48,885
+
+ Table 2. Major externally funded projects started in this REF period and the corresponding budget
+
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+
+
+  13/14         14/15          15/16         16/17         17/18          18/19        19/20
+  £696,741      £708,239       £657,788      £873,089      £725,355       £149,401     £144,001
+
+ Table 3. Research income from externally funded projects in this REF period:
+
+ The university invested £40m on a new STEM building that was officially opened in 2019. This
+ UoA has benefited by having full access to these facilities. This UoA has the following facilities
+ arranged in three labs, namely, CVDA lab, AI & robotics lab and Computer networking and
+ cybersecurity lab to support research activities in CVDA, RSS and NCCR.
+
+ ●   The CVDA lab, for the collection and analysis of data, is mainly funded through EU research
+     projects and some QR funding. Available technology includes:
+         o Eye Tracking 101, made by Eye Tribe, can track eye interactions and SDK developer
+             kit for eye control development and supports the study of users’ interaction, behaviours
+             and preferences. The user’s eye movement is recorded during interaction with the
+             application on the screen. The recorded data can be analysed using the built-in eye
+             tracking software to identify where the user has focused during the interaction.
+             Together with the other data such as interview scripts, the eye tracking data can
+             provide accurate indicators of behaviour and preferences. The data can be exported
+             as a CSV file, for analysis using other software.
+
+        o    Emotiv’s Brain Computer Interface (BCI), and Insight Headset that boasts advanced
+             electronics, fully optimised to produce clean, robust signals in any environment about
+             users’ interactions, behaviours and preferences. Brain wave frequency is recorded
+             during the experiments and data can be analysed, u to examine users’ engagement,
+             and emotions.
+
+        o    Shimmer3 GSR+ Unit emotion detector provides connections and preamplification for
+             one channel of Galvanic Skin Response data acquisition (Electrodermal Resistance
+             Measurement - EDR/Electrodermal Activity (EDA). The GSR+ unit is suitable for
+             measuring the electrical characteristics or conductance of skin, as well as capturing an
+             Optical Pulse/PPG (Photoplethysmogram) signal and converting it to estimate heart
+             rate (HR), using the Shimmer ear clip or optical pulse probe. It is used to study users’
+             interaction, behaviours and preferences. The GSR signal is collected by an emotion
+             sensor and embedded software can indicate whether the user is in a heightened or
+             lower state of emotion. Together with the tracking of facial expressions it is possible to
+             identify if the user is feeling positive or negative during their interactions with the
+             technology.
+
+        o    The high-performance computer MPC-2000 provides multiple dataflow engines as
+             shared resources on the network, allowing them to be used by applications running
+             anywhere on the cluster. It provides maximum flexibility and performance density for
+             the widest range of HPC applications.
+
+        o    GPU computers, and specialised software for data analysis.
+
+ ●   The AI & Robotics lab has been established under the EU projects SRS, ECROBOT, BioRA
+     and MNR4SCell to support research in AI, robotics and smart systems development. The lab
+     has a 6-DoF Schunk robot arm with a XX grasper and 1 3D-camera for studying vision-based
+     motion control; Turtlebot robots for mobile robot research; and in-house developed robot head
+     and robot chair to study HRI. The lab also has a Thorlabs XX Atomic Force Microscope with
+     open access to a control system, allowing research to be carried out on robotic applications to
+     micro/nano manipulation and measurement.
+
+ The Computer Networking and Cybersecurity lab has Cisco Networking Academy hardware and
+ a VMWare Workstation virtualisation environment offering full control (administrator or superuser
+                                                                                                  Page 8
+Unit-level environment template (REF5b)
+ level) over multiple virtualised machines (VMs) running as a virtual internal network that can be
+ connected to the Internet (if required). It also has specialist software, such as Wireless Security
+ appliances, Kali Forensic Tools, ProDiscover, and The Sleuth Kit. The lab allows any networking
+ to be set up where either actual or virtual machines are needed and, so supports protocol
+ development (though this can also be done using simulators like NS2/NS3/OMNET++); wired and
+ wireless networking research; network cybersecurity studies with attackers, victims and other
+ systems that mimic a realistic organisation network; and wireless and mobile networking and
+ network security research using the hosts and VMs along with Access points.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ This UoA has developed a wide-range of collaborations with academics, industry, society, local
+ authorities and the UK government, contributing significantly to research and to society.
+
+ Robotics and Smart systems
+
+ ●   Following the successful completion of FP7 ICT SRS project, collaborations with RobotNik (a
+     leading company in the market for service robotics in Europe) and BUT (a leading contributor
+     for open source robotic middleware ROS) continue on robot autonomy and self -motivated
+     learning This has led to a fundamental study on fuzzy logic-based robot learning mechanism,
+     in particular towards integrating the fuzzy logic and symbolic AI with emerging transfer
+     learning. The collaboration has been extended to 5G-orchestrated robot autonomy and onto
+     an international scale, involving NEC (Germany), OTE (Greece), IQU (Spain), TWI-Global
+     (UK), Hal-robots (UK) and partnerships with BJUT and BPTU from China, Hosei University in
+     Japan, KHU in Korea and Ryeson University in Canada.
+
+ Data analytics and applications in digital health
+
+ ●   Supported by European Regional Development Fund, a collaboration with Fusion Radiology
+     (UK) and with Stavropol regional hospital (Russia) was established in the area of quantitative
+     imaging for early detection of osteoarthritis, leading to the development of predictive models
+     using machine learning algorithms.
+
+ ●   We collaborated in an EU CAREER project (https://www.carre-project.eu/) on ‘investigated
+     information and communication technologies for empowering patients with comorbidities
+     (multiple co-occurring medical conditions), or persons with increased risk of such conditions,
+     especially in the case of chronic cardiac and renal disease patients’/Produced a visual analytic
+     tool for risk associations and time lined personal data.
+
+ ●   We collaborated under EU H2020 MyHealthAvatar Project with Saarland University,
+     Foundation for Research & Technology; Hellas, Institute of Communications and Computer
+     System, Greece; Leibniz Universität, Hannover; Technological Educational Institute of Crete;
+     and the University of Lincoln, on semantic health IoT modelling and reasoning, and a data
+     analysis framework.
+
+ ●   We worked with Beijing University of Post & Telecom on research into wireless
+     communications, producing joint publications and proposals submitted on both sides
+
+ ●   We collaborated with the University of Padua (Italy), The Open University (UK), Free University
+     Brussels (Belgium), the University of Copenhagen (Denmark), Brandenburg University of
+     Technology (Germany), and Linnaeus University (Sweden) on quantum-inspired information
+     retrieval, producing algorithms for user-centric search.
+
+ ●   We worked with the University of Toulouse (France) and GESIS - Leibniz Institute for the
+     Social Sciences (Germany), on bibliometric-enhanced information retrieval disseminating
+     discoveries in scholarly research.
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+
+
+ ●   We collaborated with South China Normal University (China), on user-centred information
+     access for E-Learning, producing discoveries, user models, technologies, etc.
+
+ Cyber stalking
+
+ ●   Consultation with Paladin, National Stalking Helpline/Suzy Lamplugh Trust, Veritas, Sussex
+     Stalking Services, Aurora, Revenge Porn Helpline, Hampshire Constabulary Stalking Clinic,
+     the Integrated Stalking Unit – Cheshire Police and the Parliamentary security team to
+     understand the breadth of experience and impact of online abuse, stalking and image-based
+     sexual abuse.
+
+ ●   Collaborations with Greater Manchester Police, Hampshire Constabulary and Bedfordshire
+     Police in the development of Risk Assessment. Each force shared data with us from case
+     reports of cyber related abuse, which we analysed. The reports were delivered to each force.
+     From this material we were also able to develop a prototype risk assessment of cyber
+     behaviours that has been adopted by some service providers, such as Aurora New Dawn and
+     Paladin – the National Stalking Advocacy service.
+
+ ●   Cyberstalking advocacy training has been delivered to case workers on the National Training
+     program for ISACs (Independent Stalking Advocacy case worker) through Paladin since 2016.
+
+ ●   We worked with Bedfordshire Police, victim advocacy groups (mentioned above) and the
+     Crown Prosecution Service to develop CybHAPP, an evidence gathering mobile application
+     that meets the requirements of all stakeholders.
+
+ ●   We collaborated with the author of the CARA (Community based intervention for First
+     offenders of Domestic Abuse) project from Hampshire Constabulary and the University of
+     Liverpool to develop a community-based, awareness-raising training route for standard risk
+     cases and offenders via a Cyber Awareness Course (CybAC). The course was delivered to
+     university students to ascertain attitude change to cyber behaviour at Liverpool University and
+     the University of Bedfordshire.
+
+ ●   We worked with Universities UK and the Office for Students to develop (with a wide range of
+     stakeholders) and disseminate National Sector Guidelines for responses to Online
+     Harassment.
+
+ ●   We worked with the Law Commission to share our research about the impact of online abuse
+     for a scoping report released in 2018 and the Law review into online harms which is currently
+     underway.
+
+
+
+
+                                                                                             Page 10
+

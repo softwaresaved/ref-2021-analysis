@@ -1,0 +1,1081 @@
+Unit-level environment template (REF5b)
+ Institution: Queen’s University Belfast
+
+ Unit of Assessment: 9
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Structural Overview and Mapping of Research Interests
+ Queen’s University Belfast (QUB) has continued to be an excellent environment for high-quality
+ physics research throughout the REF2021 period, evidenced by:
+      Publication of ~1,500 peer-reviewed physics articles in internationally recognised journals
+        (garnering ~30,000 citations, with a collective h-index of ~70);
+      Almost £50M spend from competitively-awarded external grants;
+      16 new academic appointments, augmenting strategically important research themes;
+      Extensive collaborative networks (illustrated in outputs and research contracts);
+      Almost £10M spend (by QUB) on building refurbishment;
+      Prestigious fellowship funding;
+      A multi-institutional Centre for Doctoral Training (and its renewal to 2028);
+      Graduation of 167 PhDs, and the appointment of 110 new post-doctoral researchers;
+      Honours and awards, notably Stephen Smartt’s election to the Fellowship of The Royal
+        Society;
+      Significant recognition in the Stanford University Bibliometrics top 100,000 scientists
+        (16% of our staff members are included in this list);
+      Renewal of our Athena SWAN Silver Award.
+
+ At census there were 51 independent researchers (49.7 full-time equivalent, FTE), distributed
+ across 5 research centres:
+
+       Astrophysics Research Centre (ARC): research in supernovae, exoplanets, solar
+        physics, solar system objects and molecular astrophysics. 11 independent researchers
+        [10.5 FTE]: de Mooij, Fitzsimmons, Jess, Keenan, Mathioudakis, Millar (0.5), Milligan,
+        Schwamb, Sim, Smartt, Watson;
+       Atomistic Simulations Research Centre (ASC): develops theoretical and
+        computational tools to model matter at the nanoscale (Density Functional Theory, Time-
+        Dependent Density Functional Theory, classical molecular dynamics, Monte Carlo and
+        machine learning) and applies them to: optical properties, magnetism, 2-D materials,
+        plasmonics, laser/ion-matter interactions, radiation damage in biology and nuclear
+        materials, conduction in nanowires, nucleation and crystallisation. 8 independent
+        researchers [7.2 FTE]: Dundas, Gruening, Kohanoff, Suraud (0.2), Stella, Todorov,
+        Tribello, Wilkins;
+       Centre for Nanostructured Media (CNM): research on functional materials (primarily
+        ferroelectrics and 2D systems), but also activity in plasmonics. 8 independent
+        researchers [8 FTE]: Arredondo, Bowman, Felton, Gregg, Huang, Kumar, McQuaid,
+        Pollard;
+       Centre for Plasma Physics (CPP): research in intense laser-matter interactions, the
+        laser-driven generation of secondary radiation sources and their applications (including
+        biomedical). 13 independent researchers [13 FTE]: Borghesi, Dromey, Field,
+        Greenwood, Kar, Margarone, Palmer, Riley, Sarri, Williams, White, Wu, Yeung;
+       Centre for Theoretical Atomic, Molecular and Optical Physics (CTAMOP): develops
+        and applies theoretical methods to: attosecond science and strong-field processes;
+        atomic collisions and antimatter studies; quantum information processing and quantum
+        mechanics. 11 independent researchers [11 FTE]: Abah, Ballance, Belenchia, Brown, De
+        Chiara, Ferraro, Green, Gribakin, Paternostro, Ramsbottom, van der Hart.
+Unit-level environment template (REF5b)
+ 1.2 Strategic Aims in Research
+ 1.2.1 Astrophysics Research Centre (ARC):
+ Throughout the REF2021 period, ARC advanced its international leadership in the areas of
+ supernovae and explosive transients, exoplanets and stellar disks, solar system and solar
+ physics. Across supernovae, explosive transients and solar system physics we have a common
+ requirement for digital, time domain, wide-field sky surveys. We led the data processing for two
+ major wide-field surveys (Pan-STARRS and ATLAS), resulting in discoveries of the first
+ interstellar asteroid and a number of significant high energy explosions (requiring new physical
+ insights), as well as several new comets. We also led the Public European Southern
+ Observatory (ESO) Spectroscopic Survey for Transient Objects (PESSTO) programme, which
+ culminated in the ground-breaking discovery of the electromagnetic source of gravitational
+ waves (in 2017). Our expertise has placed us at the helm of large-scale projects that will shape
+ the next decade, including: the Rubin Observatory (the most ambitious survey telescope ever
+ built); ENGRAVE (the leading programme for the follow-up on gravitational waves in the optical
+ and near infrared at ESO - we chair the Governing Council) and a new spectrometer for ESO,
+ which will lead to a dedicated 5-year programme for transients and solar system science.
+ In collaboration with atomic data specialists (section 1.2.5), we have a theory strand which
+ produces model spectra for supernovae, transients and kilonovae, underpinned by large awards
+ on DiRAC and other high-performance computing facilities. This combination of observational
+ programme leadership, theory and application to the new field of multi-messenger astronomy
+ (combining photons with gravitational waves and neutrinos) is core to our strategic direction.
+ In solar-system physics, our activity led to involvement in the European Space Agency’s Comet
+ Interceptor mission and leadership of the Rubin Laboratory’s Solar System Science
+ Collaboration. In solar physics, our flagship project is building a first light instrument for the
+ world’s largest solar telescope: the 4-metre DKIST, under construction in Hawaii. In exoplanets
+ and protoplanetary disks, our investment in the Next Generation Transit Survey (NGTS) facility
+ and HARPS-North has facilitated discoveries of lower mass, rocky planets and allowed
+ leadership of programmes on ESO’s Very Large Telescope to probe exoplanet atmospheres.
+ We lead detector development with an industrial partnership (Oxford Instruments), enabled by
+ our long-standing expertise in very high cadence imaging.
+ Our diverse science has a common theme of rapid processing of high throughput data-intensive
+ instruments, in combination with the application of novel algorithms and machine learning
+ techniques. We have strategically developed these programmes, making us a renowned centre
+ for data processing, rapid analysis and scientific discovery.
+
+ 1.2.2 Atomistic Simulation Centre (ASC):
+ ASC focuses on modelling and simulation of matter at the atomic scale. In recent years, our
+ expertise has expanded into new directions (rare events in molecular dynamics, supervised
+ machine learning and functional properties of low dimensional materials). However, we have
+ also maintained existing world-leading activities in electron transport in nanostructures,
+ irradiation of materials and biological matter and laser-matter interactions. We have advanced
+ modelling techniques and theoretical approaches, such as: machine learning algorithms to
+ analyse high-dimensional data from molecular dynamic simulations; real-time many-body
+ approaches for nonlinear optics in crystals; and time-dependent density-functional approaches
+ for extreme nonlinear optics in molecules. Such advances are provided to the research
+ community through free-access open-source software, such as Plumed (for molecular
+ dynamics), Yambo, Questaal and EDAMAME (for theoretical spectroscopy).
+ We collaborate with experimental groups in the British Isles (e.g. Cambridge, Tyndall, TCD,
+ TUD) and worldwide (e.g. Stanford, Purdue, Virginia Tech), by applying modelling to key
+ challenges in areas such as Green Chemistry, Healthcare and Energy (e.g. thermoelectrics, low-
+ energy consumption devices).
+ Activities are supported by a robust grant portfolio and strong research outputs have resulted
+ (>100 publications, ~40 of which are in journals with impact factor [IF] > 7), mostly in condensed
+ matter physics, materials science and chemistry, with contributions to chemical engineering,
+ pharmacy, biochemistry and environmental science.
+ For the future, the aim is to lead areas of electron transport in nanostructures, irradiation of
+ materials and biological matter and laser-matter interactions, by developing theoretical and
+Unit-level environment template (REF5b)
+ computational tools that describe and predict how energy is deposited and then transferred
+ among electronic and vibronic degrees of freedom and the environment. Such developments will
+ rely on our expertise (approaches to non-adiabatic dynamics and nonequilibrium molecular
+ dynamics of open systems) and our collaborations, enhanced by participation in the COST
+ action on modelling intense electronic excitation and in the EU-RISE programme on light-matter
+ interaction.
+
+ 1.2.3 Centre for Nanostructured Media (CNM):
+ CNM has enhanced its leadership in fundamental aspects of ferroelectrics and nanoplasmonics,
+ while simultaneously delivering impact: strengthening our engagement with industry and pushing
+ our spin-out company (Causeway Sensors Ltd.) forward.
+ In ferroelectrics, we have focused on domain walls (moveable 2D sheets with functional
+ properties distinct from the bulk). We have developed a world-leading position in characterising
+ their electrical transport and created novel proof-of-principle devices (such as domain wall
+ memristors). We have led the UK effort on this theme (co-ordinating a multi-million-pound
+ EPSRC critical-mass grant involving Cambridge, Warwick and St Andrews). In addition, we have
+ pioneered a renaissance in understanding how domain walls might allow active control of
+ thermal transport at the nanoscale (acknowledged by the award of a UKRI Fellowship). Our
+ nanoplasmonics research has blossomed, particularly in plasmonic interactions with 2D
+ materials, and we have started a novel research strand in molecular magnetism. Pursuits in
+ magnetic thin film heterostructures and nanowire arrays have shifted towards end-user impact.
+ Seagate (the data storage multinational) has continued to invest (£1.4M of direct funding in the
+ REF period to CNM) and has acted as the anchor industrial partner in a Centre for Doctoral
+ Training (CDT), involving 2 awards: 1 from 2014 to 2022 and its renewal from 2019 to 2028.
+ Our spin-out company (Causeway Sensors Ltd.) builds directly on our nanoscale patterning and
+ plasmonic research, commercialising biosensor technology for pharmaceutical drug
+ development. Increasing venture capital was awarded, in four tranches (~£100k (2013-15);
+ ~£0.5M (2016-18); ~£1.2M (2018-20) and ~£5M (2020-22)).
+ Our drive to remain at the forefront of experimental materials physics requires us to keep in-
+ house facilities at the cutting edge: new microscopy infrastructure was commissioned and
+ installed, funded through a multimillion EPSRC and QUB investment (housed in the “Ewald
+ Microscopy Facility”). We integrated in-house capability with national and international central
+ facilities (e.g. SuperSTEM, Diamond, ORNL, the Berkeley Lab, SOLEIL and the Ernst Ruska
+ Centre) and this has helped ensure inventive and novel research (we published over 20 original
+ papers in high-impact journals [IF>13] and had over £10M of UKRI-funded programmes active
+ during the REF period).
+ In the future, we will continue to push our fundamental research, pursuing globally disruptive
+ targets, such as the demonstration of ephemeral domain-wall electronics and nano-circuitry,
+ wall-based nanoscale thermal switches and 2D-materials-enabled plasmonics. Our interaction
+ with industrial partners will continue to be a priority.
+
+ 1.2.4 Centre for Plasma Physics (CPP):
+ CPP has enhanced its principal research theme of ultra-intense, short-pulse laser interactions.
+ The TARANIS laser facility has been a springboard for experimental projects. Its operation and
+ upgrade are part of our long-term vision. The size of the group allows us to have important
+ activities in other areas too, such as warm dense matter, low temperature plasmas of
+ industrial/medical interest and laboratory astrophysics. These have attracted UKRI funding and
+ ensured breadth in our research portfolio. We place emphasis on high-quality academic output,
+ as evidenced by the publication of 15 papers in Nature/Science series journals and 18 papers in
+ Physical Review Letters during the REF period.
+ The REF2014 future plans were along 2 principal themes: (1) Ultra-intense short-pulse laser
+ interactions and (2) radiotherapy studies and medical plasma applications. The first theme
+ continues and is enhanced with the arrival of Palmer and Margarone, who bring considerable
+ independent track records. The second theme has changed, with personnel changes (Currell
+ went to the University of Manchester), and hence the radiotherapy aspects of our research have
+ contracted. Nevertheless, work on high-dose-rate-effects, using laser-accelerated protons, is
+ continuing. Work on medical-related plasmas also continues, with research in plasma jets.
+Unit-level environment template (REF5b)
+ Our approach to impact has been to combine our fundamental research with work aimed
+ towards advancing applications. This often involves groups beyond physics, usually those
+ related to medical science and technology:
+      We collaborate with QUB Pharmacy to evaluate the physical parameters of plasma jets
+         that they use (in our labs) to expose bacteriological samples;
+      In the wake of COVID-19, work has begun to look into decontaminating PPE using
+         plasma discharges;
+      We have worked with international co-authors on using lasers to develop nanostructure
+         scaffolds, for enhanced drug delivery as well as surfaces for enhanced wear
+         performance in orthopaedic alloys.
+
+ 1.2.5 Centre for Theoretical Atomic, Molecular and Optical Physics (CTAMOP):
+ CTAMOP has consolidated areas of historical strength (e.g. attosecond science, atomic
+ collisions, the interaction of positrons with atoms and molecules) while developing leading roles
+ in emerging areas of quantum information processing.
+ In attosecond science, new laser technology (free-electron lasers and sub-femtosecond light
+ pulses) requires computational techniques to describe atomic dynamics: time-dependent R-
+ matrix theory (RMT) for ultra-fast processes and 2D R-matrix propagator techniques for multi-
+ electron emission in general atoms. These techniques have been developed for the assessment
+ of attosecond transient absorption spectroscopy, strong-field re-scattering and XUV-initiated
+ high harmonic generation. We intend to combine these techniques to tackle multi-electron
+ emission in ultra-short light fields, and uplift RMT codes from atomic to molecular systems.
+ In atomic collisions, the provision of atomic data for heavy, complex, open-shell atomic
+ systems has been key. We have expanded our studies from astrophysics to fusion science, with
+ calculations underpinning the understanding of impurity influx of plasma-facing materials into
+ tokamaks. With local (ARC and Armagh planetarium) and international (Observatoire de Paris,
+ the Harvard Center for Astrophysics, Auburn University, General Atomics) collaborations, these
+ endeavours have been sustained by UKRI support [~£1M]. Large-scale computation has used
+ significant time on ARCHER and ARCHER 2 high-performance computing facilities, the US
+ Summit supercomputer (16 million CPU hrs) and the German Hawk HLRS facility (20 million
+ CPU hrs). We published >20 research papers in top-tier journals within the fields of high-
+ performance computing, fusion, astrophysics and atomic and molecular physics and optics.
+ In antimatter studies, emphasis has been on the investigation of positron bound states and
+ their annihilation in polyatomic molecules. We have worked on new approaches to positron-
+ molecule interactions by constructing positron-molecule correlation potentials, calibrated by
+ experiment. Through a new appointment (Green), we are internationally centre-stage in many-
+ body theory of positron interactions with atoms and molecules, evidenced by the award of an
+ ERC Starting Grant [~€1.3M] and funding from EPSRC [~£0.6M].
+ In quantum information, we focused on the investigation of the roles of emerging quantum
+ features when considering non-equilibrium (thermo-)dynamics. We studied protocols for the
+ synthesis of non-classical states of atomic, mechanical and photonics systems and addressed
+ the foundations of quantum theory, from an information theoretical perspective. In collaboration
+ with experimentalists (ETH Zurich, Aarhus, Copenhagen, Rio de Janeiro, Rome, Vienna), we
+ focused on understanding entropy-production processes in quantum evolution and investigated
+ the efficiency of microscopic quantum engines, supported by significant funding from the EU
+ [coordinating the first FET Collaborative Grant on thermodynamics of quantum systems,
+ TherMiQ, €2.1M], the EPSRC [~£0.9M], and the Templeton Foundation. Our leadership in
+ quantum information is evidenced by 15 papers in high-impact journals (IF > 7) on the topic,
+ during the REF period. Significant success has been achieved in the foundations of quantum
+ theory, where we have established new methodologies for the investigation of collapse models
+ in mesoscopic quantum systems and the study of the potential quantum nature of gravity,
+ supported by EU funding [TEQ consortium, ~€4.3M]. We will continue developing research in the
+ thermodynamics of quantum systems, expanding towards assessments of thermodynamically
+ consistent open quantum systems and the theory of mesoscopic quantum systems (from
+ optomechanics to cold atoms); concurrently, we will explore the application of machine learning
+ to quantum physics.
+Unit-level environment template (REF5b)
+ 1.3 Directors of Research
+ During the REF period, each research centre had its own Director of Research (DR), acting as a
+ key management contact point, representing staff views and interests to senior managers. DRs
+ were extremely important in our research structure and culture: they were responsible for the
+ research agenda and future planning within their area; they set the tone, in terms of standards of
+ research integrity, informed by university-level policy documents
+ (https://www.qub.ac.uk/Research/Governance-ethics-and-integrity/Policies-procedures-and-
+ guidelines/), as well as the national-level Concordat to Support Research Integrity (including its
+ 2019 update); they acted as key mentors for all research staff in their centres (performing
+ “Appraisals” and “Personal Development Reviews”) and were particularly important for guiding
+ Early Career Researchers (ECRs): in most cases, playing an active role in helping ECRs to
+ formulate cases for support and key outputs; they decided on how university resources
+ (allocated annually) were spent, to further the research agenda. The Head and Deputy Head of
+ School oversaw DR performance and a common research culture across the School was
+ maintained through discussions at senior management boards (e.g. School Research
+ Committee, Faculty Research Strategy Group).
+
+ 1.4 The Impact Champion and the Impact Pipeline
+ 1.4.1 Impact Champion: The School appoints an Impact Champion whose remit is to promote,
+ support and encourage end-user engagement. They sit on key strategy groups and committees,
+ liaise with DRs and the university “Research and Enterprise” unit (which offers funding, support
+ and advice for impact-related activity) and chair the Employers’ Advisory Board (EAB). The EAB
+ brings together major physics and mathematics graduate employers in N. Ireland (from
+ technology, software and finance backgrounds) to guide the manner in which we engage our
+ research teams for short-term consultancy, as well as longer-term joint projects. They also
+ advise on education provision. Currently, membership includes: Seagate, First Derivatives, Intel,
+ Oxford Instruments, Camlin, General Electric, Citi Group and Deloitte.
+
+ 1.4.2 The Impact Pipeline: The Impact Champion fosters end-user-related research. This helps
+ develop the mature impact case studies, considered in REF (interactions with Andor / Oxford
+ Instruments, Seagate Technology and Causeway Sensors Ltd., as well as our Public Outreach
+ programme). In addition, it creates an “impact pipeline”: a collection of activities which may grow
+ and constitute significant impact in the future, if the research input eventually has sufficient
+ commercial value and if the companies involved (and their markets) evolve favourably. Some
+ examples in the “impact pipeline” are:
+  Improving Signal-to-Noise Light Detection for RANDOX Laboratories: Randox makes sensor
+     chips for detecting a variety of constituents in biological samples. Positive molecular
+     detection is indicated by chemi-fluorescence, which can give a binary diagnostic (either the
+     target molecule concentration is above or below a threshold). Sophisticated light detection
+     can be used to indicate molecular concentration and this is highly desirable. However,
+     absolute emission intensities are low. Moreover, the Randox CCD cameras, used as
+     standard, have sensitivity levels that make fine resolution of molecular levels challenging.
+     Rather than replace their cameras, Randox commissioned our researchers to use their
+     expertise to increase the signal-to-noise from the output of the CCD camera chips, through
+     modelling and background subtraction. ~£2.5M (£500k specifically to QUB) was provided
+     through our regional economic development agency. Lab-space, optical benches and dark-
+     rooms, as well as workshop help, were internally arranged. This allowed full experimental
+     characterisation of the CCDs. Statistical techniques were then employed to dramatically
+     increase signal-to-noise.
+  Optimising Performance of Dielectrics for Syfer / Knowles: In a research programme funded
+     by the Technology Strategy Board we worked with Syfer / Knowles (among others) to create
+     a new lead-free high-performance dielectric for integration into high-temperature multilayer
+     capacitors. Syfer / Knowles used this as a starting point for full product development, which
+     has recently been “soft”-launched and is awaiting full launch given positive market feedback.
+     The School provided ready access to the extensive facilities available in our laboratories to
+     support this work. The Impact Champion has maintained ongoing dialogue; hopes are that
+     significant product sales worldwide might be evidenced within the next REF-cycle.
+Unit-level environment template (REF5b)
+
+    Plasma-Processing Diagnostics for Intel, Camlin and Seagate: some of our research has
+     been on high-sensitivity negative ion mass spectrometers. We canvased commercial interest
+     in using such spectrometers for in-situ monitoring of industrial plasma-etching. To develop
+     resulting interactions with Intel and Camlin, a staff impact sabbatical was granted. Intel and
+     Camlin both invested funds (~£300k) to part-support PhD students and a PDRA through the
+     Knowledge Transfer Partnership (KTP) scheme. With help from the Impact Champion, an
+     Impact Acceleration Award was also obtained. Results are promising and Seagate is now
+     keen to support future research.
+    Nanobiotix: Other researchers have been applying their expertise, in the physics of radiation-
+     nanoparticle interactions, to help the biotechnology company Nanobiotix, who are using
+     nanoparticles such as hafnia to concentrate energy transfer from radiotherapy into tumour
+     cells. Products with which we have been involved are currently in clinical trials and may
+     result in both commercial impact and improved healthcare outcomes for patients.
+
+ 1.5 Open Research Environment
+ We have a strong culture of open access publishing: many make use of community repositories
+ (such as arXiv). In addition, we post our outputs onto the QUB repository system “PURE”. The
+ QUB library ensures that the appropriate versions of outputs (preprint, post-print etc) are saved
+ and that embargoes and copyright conditions are not violated. Our funding portfolio also allows
+ us to use UKRI open access publication funds for “gold access”. A support team monitors
+ adherence to open access regulations and we consistently show high rates of compliance
+ (92.4% across the REF period). Data Management Plans address all data (including associated
+ metadata) needed to validate the results presented in scientific publications and other curated or
+ raw data (including metadata) generated by research done within the UoA. Data generated or
+ collected include published results of experimental measurements and numerical simulations.
+ These data are collected and catalogued, using a data-set reference and name, description,
+ standards and metadata. Wherever possible (and unless specific requirements prevent it) data
+ are deposited in repositories such as Zenodo or Github, or in central facility archives when
+ appropriate, as well as in the university's PURE system.
+
+ 2. People
+
+ 2.1 Staffing Strategy and Development
+ 2.1.1 Academic Staff Flux:
+ We see a modest turnover in academic staff (~4% each year). We view this positively: new
+ appointments bring fresh ideas and interactions while those moving on increase our reputation
+ and influence both nationally and globally. Of those that had been in post for the REF2014
+ exercise, 7 retired during the REF2021 period (Dawson, Geissler, Graham, Lewis, McCann,
+ Scott, Shearer); a further 6 resigned (Currell, Jung, Kotak, Kourakis, Reville, Zepf), mostly as a
+ result of “head-hunting” to new academic positions in the UK (Manchester University), Europe
+ (MPI Heidelberg, Helmholtz Institute Jena, University of Turku) and Middle East (Khalifa
+ University of Science and Technology). One of our Royal Society University Research Fellows
+ (Maund), present in REF2014, relocated to the University of Sheffield.
+ 16 new appointments were made, augmenting excellence in strategically important themes.
+ While 4 moved on within the period (to institutions such as the Universities of Edinburgh,
+ Stockholm and Potsdam), 12 were still in employment at 31/07/2020: theorists and observational
+ physicists were embedded in teams with similar interests and with access to appropriate
+ computational facilities (Ballance 2015, Green 2015, Milligan 2019, Schwamb 2019, de Mooij
+ 2019, Wilkins 2020). Experimentalists were appointed into areas offering cognate support, as
+ well as established laboratories, such as the TARANIS Laser Lab (Yeung 2015, Margarone
+ 2019, White 2019, Palmer 2020) or the ANSIN laboratory and Ewald Microscopy Facility
+ (McQuaid 2017). Suraud was appointed on a 4-year 0.2 FTE contract, to support
+ interdisciplinary research, as part of a university “World-Leading Researcher” scheme.
+ Vacant posts are not refilled automatically. Strategic need, staff-student ratios and budgeting
+ constraints or opportunities all play a role in making decisions on new posts.
+Unit-level environment template (REF5b)
+ As a matter of policy, holders of specific fellowships are offered a permanent academic position
+ at the end of their fellowship. This career safety-net has ensured a vibrant community of fellows
+ (see sections 2.1.5 and 4.2.5).
+
+ 2.1.2 Career Development Support:
+      Probation: New academic staff are required to serve a probationary period prior to either
+        being confirmed in post, extending probation, or having employment terminated.
+        Probationers are given reduced teaching and administration. The Head of School (HoS)
+        appoints a mentor who meets with the probationer regularly to review progress and give
+        advice. In addition, a gender-balanced probation committee is formed (the HoS, Director
+        of Education, DR and a professor from another centre). This committee meets annually
+        to consider reports from the probationer and their mentor and to discuss progress. At the
+        end of probation, candidates’ cases for “confirmation in post” are considered. All
+        probationers are made aware of expectations and key indicators. Decisions concerning
+        “confirmation in post” are made at the School level.
+      Promotions: Physics has a strong track record in promotions. There was a total of 19 in
+        the REF2021 period: 9 to Senior Lecturer, 8 to Reader and 2 to Professor. In working
+        towards promotion, members of staff are given input from annual appraisals (in the past)
+        or (more recently) “Personal Development Reviews” (PDRs). PDRs adopt a
+        developmental approach in the discussion of staff performance, consistent with the
+        university People First promise to ‘create opportunities’ to build the capability of our staff.
+        PDR provides a two-way conversation between staff and line manager, to discuss future
+        plans and career aspirations, as well as priorities and development goals. Typical
+        academic profile guidelines, associated with each grade, have been generated by the
+        university and are useful in honing promotion applications. Staff are encouraged to meet
+        with the HoS for promotions advice. Indeed, the HoS chairs an annual meeting on
+        applying for promotion. Members of staff who receive offers of employment elsewhere
+        may approach the HoS, to see whether a counter-offer might be made for retention
+        purposes. The process for consideration of counter-offers necessarily operates outside
+        the normal promotion timetable. A similar process can be used if a member of staff
+        achieves something genuinely exceptional for their grade, where immediate promotion is
+        overwhelmingly appropriate. In the period (2018), such a promotion was given to Green
+        on the basis of exceptional success and validation through external competitive review.
+Unit-level environment template (REF5b)
+ 2.1.3 Staff Age Demographic: The age
+ profile of staff, as at the REF census date, is
+ represented in figure 2.1. In the 30-60 range
+ it is reasonably flat. We think this is healthy,
+ as differences in perspective, that might be
+ age-group related, are well-represented.
+ The homogeneous profile helps in
+ succession planning, since there are no
+ “pulses” in particular age-groups that might
+ lead to either a sudden crisis in future hiring,
+ or stagnation in making new appointments.
+
+ 2.1.4 Integration of Fellows and Post-
+ Doctoral Research Assistants (PDRAs):
+ During the REF period, 110 fixed-term
+ contract researchers were appointed to the
+ UoA, employed using the same appointment
+ procedures as for permanent university
+ positions. They were integrated into the
+ workforce under the same terms and
+ conditions and their progress was managed         Figure 2.1: Age profile of staff members as at
+ using similar induction, probation, project       the REF census date (31/07/2020) binned into
+ review and PDR processes. We have                 decades. In general, the distribution of staff ages
+ informal interdisciplinary group-mentoring        between 30 and 60 is relatively homogeneous.
+ schemes, where established academics              The dip above 60 is largely due to retirements.
+ meet with up to six PDRAs on a regular
+ basis. QUB adheres to the Concordat for the Career Development of Researchers and is
+ committed to reacting positively to the results and recommendations arising from the 2018-19
+ Concordat review.
+ Within the UoA, we support the community through a postdoctoral forum and by funding coffee
+ mornings (usually every fortnight) to allow contract staff to mix and informally discuss issues with
+ their peers. We fund an annual careers day, or overnight retreat (if desired), with invited
+ speakers and careers sessions, giving key information and allowing experiences and aspirations
+ to be shared.
+
+ 2.1.5 Fellowship Academy: This is a forum to support people who have evidenced themselves to
+ be future research leaders, either because of their success in obtaining a QUB Vice-Chancellor’s
+ Fellowship (through the “Illuminate” scheme, for example:
+ https://www.qub.ac.uk/directorates/HumanResources/fellowships-at-queens/illuminate-vice-
+ chancellors-fellowship-scheme/), or because of a prestigious external award (such as The Royal
+ Society University Research, UKRI Future Leaders and EPSRC Early Career Fellowships). The
+ Faculty and UoA are proactive in developing potential applicants for fellowship applications,
+ offering support in building proposals and giving mock interviews.
+
+ 2.1.6 Central QUB Support for Researchers: The Research and Enterprise Directorate supports
+ researchers in a number of ways, providing guidance on ethics and governance, project funding,
+ working with partners, and commercial developments. For building grant applications, they
+ advise on suitable funding bodies, how proposals might be constructed and how costings should
+ be done. They also look after contracts when awards have been made.
+
+ 2.1.7 QUB People First – Learning and Development: The university supports individuals who
+ wish to engage in Continuing Professional Development through the provision of formal courses,
+ secondments, coaching and mentoring schemes
+ (https://www.qub.ac.uk/directorates/HumanResources/learning-and-development/).
+Unit-level environment template (REF5b)
+ 2.1.8 Examples of In-House Career Development: Staff members who have developed their
+ research careers partly or entirely within the School, prior to their appointment to academic posts
+ (within the REF period) include: Green (appointed from fellowship initially to a lectureship and
+ then reader position), Santos (appointed from fellowship to lectureship prior to his move to the
+ University of Edinburgh), Yeung, McQuaid and White (all appointed from PhD and QUB post-
+ doctoral positions to lectureships). Maguire, Gibson and Milligan obtained PhDs from QUB and,
+ after building experience elsewhere, were awarded fellowships allowing them to return. Maguire
+ and Gibson subsequently moved to assistant professorships in Trinity College Dublin, while
+ Milligan is still a research fellow in QUB (see table in section 4.2.5).
+
+ 2.1.9 Sabbatical Leave: There is an annual internal application process for sabbaticals. In
+ general, they are given for applications in which new collaborations, or a new avenue in
+ research are intended. Those seeking time away from teaching and administration, without a
+ focused plan, are generally unsuccessful. Sabbatical leave generating non-academic impact is
+ particularly encouraged: Pollard used an impact sabbatical to accelerate growth of the spin-out
+ company Causeway Sensors Ltd.; Field used his impact sabbatical to enhance industrial
+ collaborations, resulting in the graduation of a fully-funded PhD student with Intel (in 2016), a
+ part-funded PhD student with Camlin (in 2019) and signing a non-disclosure agreement with an
+ oil industry service provider (2019).
+
+ 2.1.10 Staff Forum: In 2016, a staff survey revealed the need for more opportunities for
+ employees to voice issues openly at university level. In response, the “Staff Forum” was
+ established (June 2018), chaired by the Vice-Chancellor, with representatives from each School,
+ Directorate and Global Research Institute (major theme-based interdisciplinary research centre).
+ The Forum provides an opportunity for staff to share views and input into university strategies
+ and policies that influence the working experience. It also allows senior university management
+ to engage with key representatives, gather feedback and listen to suggestions for positive
+ change. Since its inception, it has reshaped the appraisal process, launching the new Personal
+ Development Review (PDR). Forum members worked to support the 2019 staff survey and
+ gathered the feedback required to help create the recent “Survey Institutional Action Plan”. It is a
+ useful vehicle for engagement and we have a physics representative in place.
+
+ 2.2 Postgraduate Training and Supervision
+ 2.2.1 Overview: The School has a postgraduate research (PGR) student population of 190 (174
+ in physics), the largest in the Faculty. The physics PGR student population has grown steadily
+ from 141 (2014-15) to 174 (2019-20). Across the REF period, 94% of students completed their
+ degrees within 5 years. Students are funded through a variety of sources including internal
+ university funds, the Northern Ireland Department for the Economy (DfE), UKRI and industry;
+ alternatively, they may be self-funded or hold independently obtained scholarships. We commit
+ to supplying each student with a new laptop and a budget for travel and conference attendance,
+ when this is not automatically part of their studentship.
+
+ 2.2.2 Post-Graduate Researcher Appointment and Supervision: PGR projects are externally
+ advertised and potential candidates are invited to interview. Each PGR student is assigned to a
+ research centre and is supervised by a team of two subject-expert academics. A third supervisor
+ is appointed, if the research is interdisciplinary, or if some of it is performed away from the
+ university. Academic staff members, new to supervision, must attend centrally-provided
+ supervisor training courses. Individuals are not normally appointed as primary supervisors for
+ more than 6 full-time students concurrently. PGR students enjoy a close relationship with their
+ supervisor with regular meetings: University Regulations state that students must have at least
+ 10 formal (documented) meetings each year; at least half of these must be attended by the
+ second supervisor. A record, including a report and action plan, is lodged online as part of the
+ “QUB Student Lifecycle”.
+
+ 2.2.3 The QUB Graduate School: provides a hub that connects students across all disciplines to
+ one another, to mentors, leaders and employers within the university and beyond. Training
+ requirements are tailored to suit the individual student and project. The associated Postgraduate
+Unit-level environment template (REF5b)
+ Development Programme supports PGR students in the development of research and
+ transferable skills, to enhance their employability. It is based on the requirements of the
+ Researcher Development Statement and Researcher Development Framework. The Graduate
+ School also offers the use of a dedicated building of inspirational architectural beauty for PGR
+ students to use for study, meetings or seminars (https://www.qub.ac.uk/graduate-
+ school/information/facilities/).
+
+ 2.2.4 Additional Training Opportunities: Students have the opportunity to assist in undergraduate
+ teaching and many find this valuable. In addition, we run summer schools on specific topics
+ (such as the use of “Cloudy”) which they can attend. Students may also benefit from courses on
+ entrepreneurship, that are offered as part of the Innovation Academy (run by QUB, Trinity
+ College Dublin and University College Dublin), which aims to transform some of the brightest
+ doctoral scholars into resourceful entrepreneurial achievers.
+
+ 2.2.5 Centres for Doctoral Training: The School currently leads an EPSRC Centre for Doctoral
+ Training (CDT). Within this CDT, high levels of industrial engagement and sponsorship have
+ helped to create a diverse and vibrant research community, where research projects align
+ closely with industry road maps. Extensive networks lead to plentiful opportunities for
+ placements, nationally and internationally, with students having spent time with partners in
+ Europe and as far afield as Japan. The CDT delivers a cohort-based student experience, where
+ students themselves drive the training agenda, organising annual events, such as a summer
+ “Conclave” (with industry keynote speakers and panels) and a winter school (which draws on the
+ skills and expertise of academics across partner institutions).
+ Crucially, the CDT fosters peer-to-peer learning and supports networks across the student body
+ (invaluable during the COVID19 pandemic).
+ 50 UK-registered candidates are enrolled on the CDT’s unique, jointly awarded PhD and EngD
+ programmes, with a further 7 (rising to 25) with our Science Foundation Ireland partner (the Irish
+ Photonic Integration Centre). 9 doctoral researchers have completed the programme to date; all
+ have gained employment – 4 within the technology sector (Seagate, the National Physical
+ Laboratory and Huawei); 5 in post-doctoral positions (QUB, Imperial College London and Trinity
+ College Dublin).
+
+ 2.2.6 Science Technology and Facilities Council (STFC) Accreditation: Our Physics Research
+ Degree Programme was accredited by the Science Technology and Facilities Council (STFC) in
+ the REF period and received its first quota awards in 2019. These annually allocated STFC
+ awards enhance our PGR portfolio, provide the students with access to STFC funding for
+ training and include an enhanced training grant. The School continues to secure UKRI training
+ courses on supercomputing.
+
+ 2.2.7 PGR Board Input and Monitoring: The School works with potential employers through the
+ Employers’ Advisory Board (EAB). Student satisfaction and the effectiveness of PGR training is
+ monitored through:
+ (i) The School Postgraduate Research Board (both student and staff representation);
+ (ii) The Postgraduate Research Experience Survey and
+ (iii) The Athena SWAN Committee (2.3.1).
+ PGR students have reported high degrees of satisfaction, above the QUB and Russell Group
+ averages, in the areas of resources provided, quality of supervision and research culture.
+
+ 2.3 Equality and Diversity (E&D):
+ We are committed to the promotion of equality of opportunity and to creating and sustaining an
+ environment that values and celebrates diversity, evidenced by a SWAN Silver Award in 2016
+ and renewal in 2020.
+
+ 2.3.1 Athena SWAN Committee and JUNO:
+ The Athena SWAN Committee has a broad remit. Below are a number of areas where we
+ promote E&D:
+Unit-level environment template (REF5b)
+
+    All recruitment adverts include a statement of the School’s commitment to E&D and
+     recruitment panels must have female representation;
+    An annual career day is organised for research students, fellows and PDRAs;
+    Depending on circumstances, the teaching and administration load is reduced for staff
+     returning from maternity/paternity or health-related leaves of absence;
+    An internal travel fund is available to all staff;
+    We encourage fellowship applications (e.g. the Dorothy Hodgkin Fellowship; see section
+     4.2.5) that enable a flexible working pattern;
+    Wellbeing and mental health issues are addressed through regular training activities and the
+     annual Mental Health Awareness Week;
+    A healthy work-life balance is supported by scheduling meetings between 10am and 4pm;
+    Flexible work, various career leaves and part-time contracts are available and advertised to
+     all staff;
+    For career development such as: promotion, leadership positions, prizes, access to internal
+     funds and submission of funding applications, all members of staff are encouraged to apply
+     or are nominated by their line managers, DRs and the HoS.
+    Training on unconscious bias is compulsory for all staff involved in recruitment.
+
+ We are active in the JUNO project (the Institute of Physics diversity initiative). The JUNO team is
+ embedded within the Athena SWAN Committee, but focuses primarily on the challenges
+ involved in physics (as opposed to mathematics). We have had continuous JUNO Champion
+ status since 2014.
+
+ 2.3.2 Involvement in EPSRC-Funded Inclusion Matters Initiative:
+ The School Athena SWAN and JUNO teams have co-investigator representation on a Faculty-
+ wide £500k grant, funded by the EPSRC Inclusion Matters Panel (EP/S011919/1). The
+ programme focuses on developing a variety of resources to engage engineering and physical
+ sciences staff with gender and equality issues, in a positive and effective way, and to see how
+ lessons learned might be shared across QUB and other institutions.
+
+ 2.3.3 Invited Lectures: We value external speakers. Seminars are organised by research
+ centres, with open attendance. We also run prestigious named lectures, such as The Larmor
+ and John Bell Day lectures. We monitor speaker invitations and deliberately seek to promote
+ balanced representation. Recently, the invited female speaker fraction increased to a third, well
+ above our female academic staff fraction, and this has been correlated with an increase in
+ female PGRs.
+
+ 2.3.4 E&D and REF2021 Preparations: The selection of outputs for REF was made according to
+ the anticipated quality grading, judged by both internal (panel balanced by gender and career
+ stage) and external peer review. Where the judged quality of outputs could not be differentiated
+ with confidence, selections were made to reflect the full gamut of our research portfolio. Any
+ possible tendencies to unconscious bias were monitored annually by the university (after output
+ selections had been proposed), set against 11 different diversity characteristics (such as
+ ethnicity, religion, disability, gender etc). No signs of bias were evident at any stage.
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Infrastructure and Facilities:
+ 3.1.1 Buildings Housing our Research: We have a genuinely inspirational built environment for
+ research (and teaching). We are located within the original red-brick campus of the university.
+ Our staff offices and research teams are distributed across two buildings, separated by a
+ pedestrian walkway leading from the campus entrance to the university library. One building is a
+ wing of the main university courtyard. It was built in 1911 and adjoins the historic Lanyon
+ Building. It overlooks the formal gardens, in which graduation ceremonies are held. The other
+ building overlooks the city’s Botanic Gardens and the Ulster Museum, with south-facing out-door
+ social space on the top floor. This building has two sections: one erected in the 1950’s and used
+Unit-level environment template (REF5b)
+ for staff and research student offices; the other is a 4,700m2 purpose-built laboratory space,
+ constructed in 2005 (costing £9.4M). During the REF period, the university invested significant
+ resource to refurbish our office areas. This was part of a larger project, in which all teaching
+ spaces (save for the Larmor, Bell and Emeleus lecture theatres) were converted to become
+ research-only. At the same time, teaching facilities for the entire School were relocated to (and
+ centralised into) a third building, also on the pedestrian walkway to the library. The result is a
+ geographically tight cluster of three refurbished buildings, only metres away from the main
+ library, in which all teaching and research in Mathematics and Physics is housed. The cost of the
+ entire project was ~£9.5M. It was initiated in 2014, finished in 2018 and involved several phases
+ of staff relocation, but only temporary disruption to research. In 2018, in response to an EPSRC
+ equipment grant for new microscopes, further specific laboratory refurbishments were
+ undertaken, at a cost of ~£100k to QUB.
+
+ 3.1.2 In-House Equipment and Facilities:
+      ARC: Data processing is a vital part of our astrophysics research. We maintain a large
+         local cluster that processes all of the datasets generated by the ATLAS, PAN-STARRS
+         and PESSTO projects. It is maintained and supported by two senior software developers,
+         who had been employed under external grants, but have recently been made permanent
+         university employees.
+      ASC: Besides accessing national high-performance computing facilities and the
+         investments needed to upkeep and upgrade our local cluster, we participated in a
+         consortium to create a national Tier 2 Hub for materials and molecular modelling.
+         Hardware was funded by EPSRC (~£4M), while the consortium paid for maintenance and
+         IT support (QUB contributed £300k to this project). A similar grant, for funding an
+         upgrade of this Tier 2 high performance computing facility, has recently been submitted.
+      CNM: We need access to extremely well-found in-house laboratory equipment, which
+         exists in two main spaces – one associated with the ANSIN materials research hub,
+         which is a large space containing thin film growth and materials-properties
+         characterisation tools (initiated by a ~£9M donation from Seagate in 2009); the other is
+         associated with the Ewald Microscopy Facility (EMF) which contains a suite of
+         microscopy tools and an x-ray diffractometer. The range of experimental facilities
+         available, as a result, is enviable: in growth, we have a number of sputtering tools, a
+         large-wafer pulsed-laser deposition system and several evaporators; for patterning, we
+         have a photolithography suite, 2 focused ion beam microscopes and atomic force
+         microscopy machining; for characterisation, we have electron microscopes, optical and
+         plasmonic measurement systems, suites of scanning probe microscopes, magnetic and
+         magneto-optic measurement systems, electrical characterisation suites, the x-ray
+         diffraction system and a dedicated thermal transport laboratory.
+         During the REF period we spent ~£3.5M (~£2.5M from the EPSRC) to: replace our X-ray
+         Diffractometer (in 2015); enhance our optical and plasmonic characterisation (in 2017);
+         replace our transmission electron microscope (TEM) (in 2018); replace our focused ion
+         beam microscopes (in 2018); add to our scanning probe microscopy suite (in 2018);
+         upgrade our cryostats and SQUID systems (2019); create a cryogenic thermal diffusion
+         measurement facility (2019) and introduce new TEM in-situ gas environment specimen
+         holders (2019).
+      CPP: The TARANIS laser is an important and significant investment. In the REF period,
+         ~£1M EPSRC funding has gone into developing additional capabilities (ultrashort
+         pulses). In the near-medium term, a facility upgrade will be needed to ensure that
+         TARANIS remains a competitive mid-range facility for our future research needs. The
+         recent, QUB-funded, development of a biological laboratory in the proximity of TARANIS
+         is an important step towards more extensive interdisciplinary usage.
+      CTAMOP: maintains a local computer cluster, but our research teams are also heavy
+         users of national and international computational facilities (such as ARCHER-2, the US
+         Summit supercomputer and the German Hawk HLRS facility).
+
+ 3.1.3 Kelvin and Kelvin-2 Hubs: QUB (in conjunction with Ulster University) maintains and runs a
+ high-performance computing hub which is used by almost all the research centres within the
+Unit-level environment template (REF5b)
+ UoA. In its initial incarnation, this hub was called “Kelvin”. Recently, with significant EPSRC
+ support (£2.1M awarded in 2019) and with considerable university backing, Kelvin has been
+ significantly upgraded (“Kelvin-2”) and its importance has been officially recognised in becoming
+ a National Tier 2 facility. It is a useful intermediary between our in-house clusters and Tier 1
+ National facilities.
+
+ 3.1.4 Professional Support Staff: We have our own well-equipped mechanical workshop, with 3
+ highly-skilled engineers. The close, friendly interaction between workshop and academic teams
+ has been invaluable for finding rapid and pragmatic solutions to laboratory-related problems. A
+ separate microscopy management team helps the Ewald Microscopy Facility Director (an
+ academic) to manage and maintain the suite of high-end equipment and coordinate the annual
+ maintenance contracts needed. We have 2 in-house laser engineers who help to manage the
+ TARANIS facility, as well as deal with more general chemical processing logistics and safety. In
+ terms of administrative research support, we have 4 people involved: 2 to help run the CDT and
+ 2 for more general activities. On top of this, we have 4 computer support officers, who oversee
+ the installation, maintenance and upgrades of our in-house research machine clusters, as well
+ as the provision of laptops for PhD students and staff.
+
+ 3.2 Research Funding:
+ 3.2.1 Direct Research-Related Spend from External Awards: The spend profile from external
+ research grants is presented in figure 3.1. The total spend was over £49M (in REF2014 it was <
+ £30M), with the majority (>£29M) coming from the UK Research Councils (dominantly EPSRC
+ and STFC). The total from UK central government and local authority funding was over £10M,
+ with ~£5M from EU grants. Direct funding from industry was significant (>£3M over the REF
+ period).
+ We believe this illustrates an emphasis on awards from sources with rigorous peer-review (UKRI
+ and EU research funding), balanced by a reasonable breadth in portfolio and a noteworthy
+ element of industrial support. EU funding represented ~10% of our portfolio. We will be keen to
+ engage in new frameworks which allow our pan-European research engagement to continue at
+ a healthy level.
+
+                                            6      Research Councils and Prestigious Academic Societies
+   External Grant Award Spend (£ million)
+
+
+
+
+                                                   Charities
+
+                                            5      UK Central Government and Local Authorities
+                                                   EU Research Funding Bodies
+                                                   Industry / Commerce
+                                            4
+
+
+                                            3
+
+
+                                            2
+
+
+                                            1
+
+
+
+                                                2013-14            2014-15              2015-16           2016-17           2017-18   2018-19   2019-20
+                                                                                              Financial Year (1st Aug-31st July)
+
+
+  Figure 3.1: Spend on external grant awards from different sources during the period 1 st Aug 2013 to
+  31st July 2020.
+
+ 3.2.2 Externally Awarded Grants Active in each Research Centre:
+ Astrophysics Research Centre (ARC): Most Principal Investigator (PI) research funding has
+ been from the STFC (~£9.5M across 9 grants), with almost £5.5M associated with Consolidated
+ Grants. This has been augmented by some EU funding (£0.3M) and direct industrial support
+ (£0.5M from Randox).
+Unit-level environment template (REF5b)
+
+
+ Atomistic Simulations Centre (ASC): PIs on 13 grants (totalling ~£3.4M) awarded during the
+ period:
+      4 from the EPSRC (total ~£880K);
+      5 from the N. Ireland Department for the Economy (~£1.6M, ~£1M of which came from
+         the US-Ireland Research and Development Programme);
+      1 from The Royal Society (~£100K);
+      3 from EC-H2020 (~£795K).
+
+ Co-investigators (CIs) on 3 further EPSRC grants (~£2.5M), where PIs were either in CPP
+ (~£2M) or in Chemistry and Chemical Engineering (~£0.5M).
+
+ Centre for Nanostructured Media (CNM): PIs on ~40 externally awarded grants active during
+ the REF period (totalling ~£16M):
+  12 from the EPSRC, including a “Critical Mass Grant” on ferroic domain walls (PI for the
+     £2.2M UK consortium);
+  A significant infrastructure grant (£1.8M from EPSRC for “The Queen’s University Imaging
+     and Patterning Centre”);
+  Centre for Doctoral Training awards (£7.2M investment for PhD training in Photonic
+     Integration and Advanced Data Storage);
+  6 from the N. Ireland Department for the Economy (total ~£1.8M, ~£1.4M of which came
+     from the US-Ireland Research and Development Programme);
+  2 venture capital awards (total ~£1.7M for the spin-out company Causeway Sensors); note
+     that the 3rd award at the ~£5M level has been agreed in principle, but formally begins
+     outside of this REF period;
+  A grant from Seagate (~£1.4M of direct funding);
+  11 from Invest Northern Ireland (totalling ~£0.3M to support Causeway Sensors)
+  8 others (totalling ~£1.2M) from The Royal Society, The Royal Academy of Engineering, EC
+     H2020 and Innovate UK.
+
+ Centre for Plasma Physics (CPP): 14 EPSRC grants active during the period, with a total
+ value exceeding £12M, and including a number of major funding initiatives:
+  The “A-SAIL” ESPRC Programme Grant (£4.5.M) supported research in laser-ion
+     accelerators towards healthcare applications;
+  The NanoRad Platform grant (~£1.4M) boosted research in fundamental radiation-matter
+     interactions, and was followed up by a large EPSRC grant to specifically investigate ultrafast
+     ion interactions with matter (£870k);
+  Significant grant funding has also supported warm dense matter / lab-astrophysics studies
+     (4 grants for a total of ~£1.5M);
+  The development of high harmonic sources (£800k in 2 grants) and laser-driven neutron
+     beams (£800k).
+
+ Centre for Theoretical Atomic, Molecular and Optical Physics (CTAMOP): PIs on 5 EPSRC
+ grants awarded during the period (totalling ~£1.8M). In addition, significant funding has been
+ obtained from:
+     EC H2020, FP7-ICT and COST programmes;
+     The Leverhulme Trust;
+     N. Ireland Department for the Economy (through the Science Foundation Ireland-DfE
+         scheme).
+ CIs in STFC Astronomy Observation and Theory Consolidated Grant (£2.4M – PI from ARC).
+
+ 3.2.3 RCUK-Funded “In-Kind” Support Associated with Central Facility Access: Access to
+ national and international central facilities is at the core of a significant proportion of our research
+ activity. In terms of RCUK-funded time, we have used the Central Laser Facility at the
+ Rutherford Appleton Laboratory heavily (the equivalent of ~£10M in facility time was used in the
+ REF period) for access to GEMINI and VULCAN, as well as a variety of telescopes (European
+Unit-level environment template (REF5b)
+ Southern Observatory [~£5.2M], William Herschel Telescope [~£670k], Liverpool Telescope
+ [~£480k], Isaac Newton Telescope [~£170k], Hubble [~£13k]). Our STFC supercomputing
+ access (DiRAC) has been valued at ~£160k, but we have also used ARCHER and ARCHER-2
+ regularly.
+
+ 3.2.4 Non-RCUK Funded “In-Kind” Support for Central Facility Access:
+      Lasers and accelerators: Orion high-powered laser facility (2 weeks with notional value
+        ~£510k); systems in France (LULI, CELIA, GANIL), Czech Republic (PALS), Germany
+        (Helmholtz Jena), Italy (CUSBO, LNS) and the USA (Facet II and LCLS at SLAC, TITAN
+        laser at LLNL).
+      Telescopes: the Subaru Telescope (Japan).
+      Microscopes: Ernst-Ruska Centre for Microscopy (14 days), Berkeley Laboratory
+        Molecular Foundry (almost unlimited time over a 3-year period which is still ongoing).
+      Synchrotron: European Synchrotron Radiation Facility (ESRF) (8 days).
+      High-Power Computing: The Swedish Machine (Beskow) through the “Distributed
+        European Computing Initiative” (6.4M core hours); 30-40 CPU hours per annum on the
+        Hazel Hen Cray XC40 in Germany; up to 3 million CPU hours (Director’s Discretion time)
+        on the Cray at the Oak Ridge National Laboratory.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Collaborations:
+ 4.1.1 Interdisciplinary Collaborations within QUB: In 2015-16, the university invested significant
+ resource to create a number of interdisciplinary research programmes (Pioneering Research
+ Programmes (PRPs)). Their mission was to bring together QUB academics, from different
+ backgrounds, to focus on global challenges that cut across traditional disciplines. Physicists
+ engaged in two of these PRPs: one on “Sustainable Energy” – a £5.2M investment involving
+ biologists, chemists, mechanical engineers and physicists; it focused on energy conversion and
+ storage, transportation and sustainable chemical manufacturing. The other was the “Centre for
+ Applied and Interdisciplinary Radiation Research” (CAIRR) – a £1.4M investment bringing
+ together teams from physics, pharmacy, biology and medicine to push forward an understanding
+ of the interactions between radiation and biological matter.
+ Our input is evidenced through the emergence of noteworthy interdisciplinary publications. For
+ example:
+
+ Sustainable Energy: papers on ionic liquids for green processing (e.g. Boyd et al. Green
+ Chemistry 21 2583 (2019), Grossi et al. J. Phys. Chem. B 121 6436 (2017)), cement
+ encapsulation of nuclear waste (e.g. Dezerald et al. Environmental Science and Technology 49
+ 13676 (2015)) and photocatalytic reactors (Boyle et al. Ind. & Eng. Chem. Res 58 2727 (2019)).
+
+ CAIRR: papers on radiation-nanoparticle interactions for cancer treatment (e.g. McQuaid et al.
+ Sci. Rep 6 19442 (2016)), laser-induced proton beam tumour therapy (e.g. Hantonl et al. Sci.
+ Rep. 9 4471 (2019); Manti et al. J. Inst. 12 C03084 (2017)), novel laser-plasma X-ray sources
+ for high resolution tomography (e.g. Cole et al. PNAS 115 6335 (2018)) and novel materials for
+ direct phototherapy (Guo et al. ACS Applied Materials & Interfaces 11 27269 (2019)).
+
+ The PRPs also resulted in impact developments, such as the relationship with Nanobiotix
+ described in 1.4.2.
+
+ 4.1.2 Collaborations Beyond QUB:
+ Research Contracts and Outputs: Our research grant portfolio illustrates our enthusiasm for
+ collaboration and the globally-connected nature of our activities:
+      Research Council Grants: ~£50M-worth of directly funded UKRI research grants (STFC
+        and EPSRC) were active in the UoA at some point during the REF period. Over 70% (by
+        value) were co-funded with investigators from other institutions. Most involved other UK
+        universities (Glasgow, Strathclyde, Cambridge, Oxford, Imperial College London,
+        University College London, Warwick, Bristol and the Open University featured strongly).
+Unit-level environment template (REF5b)
+        Many, however, involved international teams, as researchers from the rest of the world
+        were named as “coinvestigators” in >10% and “project partners” in ~30% (by value),
+        most notably involving institutions in the USA, China, Germany, Holland, Italy, Sweden,
+        Switzerland and Australia.
+       US-Ireland R&D Partnership Grants: 3 teams (1 each from the USA, Ireland and N.
+        Ireland) are involved in each collaborative contract. Proposals are assessed by the
+        National Science Foundation (NSF) and must be above the funding quality threshold for
+        awarding US-domestic NSF grants. The scheme is restricted to particular themes, one of
+        which is nanoscale science and engineering. Over the REF period, we held 8 contracts,
+        each worth around £1M, about a third of which supports activity within QUB. US partners
+        were: Georgia Tech., UCLA Berkeley, Virginia Tech., Purdue, Washington University,
+        University of Nebraska-Lincoln, University of Notre Dame and the Illinois Institute of
+        Technology, while Irish partners were: Trinity College Dublin, University College Dublin,
+        University of Limerick, Dublin Institute for Technology and the Tyndall National Institute.
+       EU H2020 Grants: We have led, or acted as key partners in, a number of European
+        Commission Framework (FP7), H2020 and Marie Sklodowska-Curie Action (MSCA)
+        Programmes. These are strongly collaborative, involving a great many institutions and
+        companies. Specific examples include: “Testing the Large-Scale Limit of Quantum
+        Mechanics” (€4.3M), “Thermodynamics of Mesoscopic Quantum Systems” (€2.8M),
+        “Advanced Radiotherapy, Generated by Exploiting Nanoprocesses and Technologies”
+        (€3.7M), “High-Intensity Coherent Nonlinear Optics” (€2.3M), “Materials for
+        Neuromorphic Circuits” (€4.1M), “Enhancing Sustainable Chemical Technologies through
+        the Synergy of Computer Simulation and Experiment” (€670k), “Enabling Smart
+        Computations to study space Radiation Effects” (€1.3M), the “Advanced Theoretical
+        Network for Modeling Light-Matter Interaction (ATLANTIC)” consortium and COST Action
+        programmes: “Quantum Technologies in Space” (involving 15 EU countries and over 200
+        scientists) and “TUMIEE” (involving 32 EU countries and over 252 researchers).
+
+ An analysis of outputs listed on Web of Science (published between 2014 and 2020 and
+ authored or co-authored by staff members in place at the census date) reveals: the vast majority
+ (~90%) of publications include co-authors from institutions external to QUB. Inter-institutional
+ collaboration is hence at the heart of our scientific output. Some (~5% that rely on large national
+ or international facilities) involve “Group Authorship”, in which long lists of names are given in
+ alphabetical order. These, by definition, report results and insights from strongly internationally
+ collaborative ventures. Of the others, around 20% of the co-author institutions are from the UK,
+ ~10% from Germany, ~10% from Italy and ~20% from the USA. Our remaining co-author
+ institutions span the globe (~60 different countries).
+
+ 4.1.3 Industrial and End-User Interaction: We refer the reader to section 1.4.2. As described
+ therein, we have significant collaborations with multinational industry, most notably Seagate and
+ Oxford Instruments (Andor), as evidenced in our impact case studies. Impact pipeline projects
+ have also been developing well with Randox, Syfer/Knowles, Intel, Camlin and Nanobiotix. In
+ addition, the ongoing Centre for Doctoral Training has interaction with industrial partners at its
+ heart (see https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S023321/1 for
+ example). Our outreach programmes, as described in our “outreach” impact case study, are
+ vibrant and seen as a priority in the UoA, not only for dissemination, but also for inspiring
+ children and thereby securing the future health of the discipline. We re-emphasise the
+ importance of our impact management structure (section 1.4).
+
+ 4.2 Contributions to Research Base:
+ 4.2.1 Editorial positions
+      Members of Editorial / Editorial Advisory Boards: 10 academics acted on editorial boards
+        or editorial advisory boards for 18 different journals during the REF assessment period:
+        Borghesi (Phys. Rev X [2014]); Bowman (J Phys Materials [2018-]); De Chiara
+        (Quantum Measurement and Quantum Metrology); Ferraro (Quantum Measurement and
+        Quantum Metrology); Gregg (Journal of Physics: Condensed Matter [until Dec 2016],
+        Physica Status Solidi); Kar (Applied Sciences [MDPI, from 2017], Sci [MDPI, from 2018);
+Unit-level environment template (REF5b)
+         Millar (ACS Earth & Space Chemistry); Palmer (High Power Science and Engineering
+         [from 2019]); Paternostro (Physical Review Research, Scientific Reports, New Journal of
+         Physics, European Physics Journal Quantum Technologies, Entropy); Santos
+         (Graphene, Crystals).
+        Guest Editors: 4 academics acted as guest editors for 5 special issues of different
+         journals: Borghesi: Applied Sciences (MDPI); Jess: Special Issue of the Philosophical
+         Transactions of the Royal Society A; Sarri: special issues on Applied Sciences (MDPI)
+         and Journal of Plasma Physics (2016-17); De Chiara: Special Issue in Entropy (MDPI).
+        Associated Editor Positions: Stephen Smartt: Royal Society Open Science Journal (from
+         2019); De Chiara: Physical Review A.
+        Editors: De Chiara: Founding Editor of Quantum; Paternostro: Chief Editor of De Gruyter
+         Quantum Measurement and Quantum Metrology.
+
+ 4.2.2 Invited Editorials and Reviews: We have been invited to write a number of editorial pieces
+ for Nature (Gregg and Kumar 2014, Smartt 2015 and Ferraro 2019), Nature Materials (Gregg
+ 2019 and 2020), Nature Photonics (Dromey 2016) and Nature Reviews Physics (Brown 2020).
+ In addition, we have written prestigious reviews for Nature Reviews Physics (Gregg 2020),
+ Reports on Progress in Physics (De Chiara 2018) and a scientific “road map” piece for J Phys B
+ (Gribakin 2019).
+
+ 4.2.3 Stanford’s Bibliometrics Rankings: We have significant presence in Stanford University’s
+ most recent ranking of the top 100,000 scientists throughout the world (on the basis of
+ bibliometric analyses https://data.mendeley.com/datasets/btchxktzyw/2): 16% of our current staff
+ are included for career achievement (Borghesi, Gregg, Gribakin, Keenan, Paternostro, Smartt,
+ Todorov and van der Hart) and 10% for the 2019 one-year snapshot (Borghesi, Gregg, Huang,
+ Paternostro and Smartt).
+
+ 4.2.4 Grant Committees: Academics in the UoA are regularly involved in committee service for
+ UKRI panels (representation on ~20 EPSRC panels and on STFC AGP and PPRP panels in the
+ REF period), The Royal Society Fellowship panels (Paternostro, Smartt), EU panels and on
+ allocation panels for central facility time in the UK and abroad (particularly telescope time).
+
+ 4.2.5 Fellowships: A range of funded fellowships were awarded, or were in the process of being
+ awarded (McQuaid 2020 was not formally announced until Oct 2020), during the period:
+
+  Year                Name                Position               Coming from:      Gone to:
+  2020                Ray McQuaid         UKRI Future            Internal          -
+                                          Leaders Fellowship
+  2020                David Wilkins       QUB Illuminate         EPFL,             -
+                                          Fellow                 Switzerland
+  2018                Mauro               Royal Society          Internal          -
+                      Paternostro         Wolfson Research
+                                          Fellowship
+  2018                Penny Wu            STFC Daphne            Bartol            -
+                                          Jackson Trust          Research
+                                          Fellowship             Institute
+  2018                Alessio             Marie Slodowska-       Institute for     -
+                      Belenchia           Curie Fellowship       Quantum
+                                                                 Optics and
+                                                                 Quantum
+                                                                 Information,
+                                                                 Vienna, Austria
+  2017                Robert Bowman       Royal Academy of       Internal          -
+                                          Engineering
+                                          Research Chair
+Unit-level environment template (REF5b)
+
+  2017               Ryan Milligan      STFC Ernest             University of      -
+                                        Rutherford              Glasgow
+                                        Fellowship
+  2017               Peter Keys         Leverhulme Trust        University of      -
+                                        Early Career Fellow     Sheffield
+  2016               Obinna Abah        Royal Commission        Friedrich-         -
+                                        for the Exhibition of   Alexander-
+                                        1851 Fellowship         University of
+                                                                Erlangen-
+                                                                Nürnberg
+  2015-2020          Elton Santos       QUB Vice-               Stanford           University of
+                                        Chancellor’s            University         Edinburgh
+                                        Research Fellow
+  2015-2019          Neale Gibson       Royal Society           European           Trinity
+                                        University Research     Southern           College
+                                        Fellowship (URF)        Observatory        Dublin
+  2015-2019          Kate Maguire       STFC Ernest             European           Trinity
+                                        Rutherford              Southern           College
+                                        Fellowship              Observatory        Dublin
+  2015-2018          Wes Fraser         QUB Vice-               Herzberg           Herzberg
+                                        Chancellor’s            Institute of       Institute of
+                                        Research Fellow         Astrophysics,      Astrophysics,
+                                                                Victoria           Victoria
+  2015-2018          Dermot Green       EPSRC                   Durham             -
+                                        Postdoctoral            University Joint
+                                        Fellowship              Quantum
+                                                                Centre
+  2015-2017          Bernhard Mueller   QUB Vice-               Monash             Monash
+                                        Chancellor’s            University         University
+                                        Research Fellow
+  2014-2016          Alessio Morelli    Marie Slodowska-        Czech              Ulster
+                                        Curie Fellowship        Academy of         University
+                                                                Sciences
+  2014-2015          Gary Ferland       Leverhulme Trust        University of      University of
+                                        Visiting Professor      Kentucky           Kentucky
+
+ Note: Green was awarded a Leverhulme Trust Early Career Fellowship, but declined it to accept
+ his EPSRC Postdoctoral Fellowship (listed above). In 2019, he was also awarded an EPSRC
+ Early-Career Fellowship, but declined it to be able to accept his ERC Starting Grant.
+
+ 4.2.6 Prizes: The following external prizes and prize lectures were conferred:
+      Smartt: Royal Irish Academy (RIA) Gold medal in the Physical and Mathematical
+        Sciences (awarded once every 4 years) 2018, Royal Astronomical Society (RAS) George
+        Darwin Lecture 2018 and the Kavli Lecture at the University of Cambridge 2020;
+      Jess: RAS Fowler Award (G) 2018 and VC Early Career Researcher Prize;
+      Schwamb: AURA Science Award 2019 and Carl Sagan Medal for Excellence in Public
+        Communication in Planetary Science 2017;
+      Fitzsimmons: Sir Arthur Clarke Award 2019;
+      Borghesi: John Dawson Excellence in Plasma Physics Award, American Physical
+        Society, 2017;
+      Green: ICPEAC Sheldon Datz Prize 2017 (International), the QUB Vice-Chancellor's
+        Research Prize (Postdoctoral Category) 2018 and the Institute of Physics David Bates
+        Prize 2019
+      Margarone: Knight of the Order of the Star of Italy 2020
+      McQuaid: Japan Trust International Research Cooperation Award 2018
+      Belenchia: First place in the Gravity Research Foundation essay competition 2019.
+Unit-level environment template (REF5b)
+
+
+ 4.2.7 Admission to Prestigious Academic Societies: Fellow of The Royal Society in 2020
+ (Smartt), Fellow of the American Physical Society (in September 2013 - van der Hart), Member
+ of the Royal Irish Academy 2015 (Zepf), 2018 (Gregg), Fellow of the Institute of Physics 2018
+ (Arredondo).
+
+ 4.2.8 Invited Talks: We gave ~400 plenary / invited talks and seminars in the period. The spread
+ of geographical locations in which different numbers of talks were delivered can be seen from
+ figure 4.1. There is wide coverage, with an obvious concentration around Europe and the USA.
+ During the COVID lockdown some talks were postponed or cancelled, but several were
+ successfully given online before 31/07/2020.
+
+ 4.2.9 Conference Chairs: We have acted as chairs, technical programme chairs or session
+ chairs in around 70 conferences or workshops in 21 different countries across the globe.
+
+ 4.2.10 Refereeing: All research-active members of staff are involved in refereeing for both
+ international journals and for grant awarding bodies. We typically referee for the journals in
+ which we publish (including journals from the Nature Publishing Group, AAAS, Physical Review,
+ ACS, Wiley and Elsevier) and estimate our contributions at several thousand peer review reports
+ over the REF period.
+
+
+
+
+       Figure 4.1: Geographical spread of invited talks given during the REF2021 assessment period.
+ 4.2.11 Collaborative Post-Graduate Research Training: We have been training-partners in 2
+ Centres for Doctoral Training (CDTs), with a third continuation award:
+      CDT “Lite” (EP/J500094/1 - £1.9M) “Application of Next Generation Accelerators” (2011-
+        2018): this PhD training programme brought QUB together with the universities of
+        Strathclyde, Manchester and Huddersfield to create a cohort of trained "embedded"
+        experts in the application of accelerator beams, to become proficient in accelerator
+        science and technology;
+      CDT (EP/L015323/1 - £3M) “EPSRC Centre for Doctoral Training in Photonic Integration
+        and Advanced Data Storage” (2014-2022): this programme is run by QUB and the
+        University of Glasgow and is focused on pushing forward research and post-graduate
+        training in the areas of advanced materials, plasmonic systems and laser devices
+        relevant to Heat-Assisted Magnetic Recording technology. A number of industrial
+        partners are involved, most notably Seagate, who have been able to provide excellent
+        context from the perspective of state-of-the-art device requirements;
+      CDT (EP/S023321/1 - £4.2M) “EPSRC and SFI Centre for Doctoral Training in Photonic
+        Integration and Advanced Data Storage” (2019-2028): this programme brings together
+Unit-level environment template (REF5b)
+         academic excellence and expertise from across QUB, the University of Glasgow and the
+         Irish Photonic Integration Centre in Cork and Dublin. It is a continuation of the CDT
+         described above, but with a focus on photonic and plasmonic integration.
+ In addition, we have been training-partners in several EU Innovative Training Networks (ITNs):
+      CORINF (2011-2015), https://cordis.europa.eu/project/id/264951, aimed to model
+         multielectron dynamics in polyatomic molecules and clusters in intense light fields and to
+         test these models against experiment. The consortium brought QUB physicists together
+         with those at the University of Strathclyde, University College London, the Max Born
+         Institute in Berlin, CNRS, University of Trieste and LMU Munich;
+      ARGENT (2014-18), https://cordis.europa.eu/project/id/608163, was a network on
+         Advanced Radiotherapy, focused on the use of nanoparticles to enhance radiation
+         therapy efficacy. It was led by the CNRS, with QUB, GSI Darmstadt (D), Open University
+         (UK) and CSIC (Spain), plus a number of companies: CHEMATECH, NANOH SAS
+         (France) and QUANTUMWISE (Denmark);
+      MANIC (2019-2023), https://cordis.europa.eu/project/id/861153, is a consortium of
+         chemists, materials scientists, physicists and circuit designers training 15 PhD
+         researchers in aspects of research relevant to neuromorphic technology. QUB physicists
+         are collaborating with universities in Groningen (coordinating institution), London,
+         Cambridge, Amiens, Julich, Twente and Lausanne with industrial input from IBM Zurich.
+

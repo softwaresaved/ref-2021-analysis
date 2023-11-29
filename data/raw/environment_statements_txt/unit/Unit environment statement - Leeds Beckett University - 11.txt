@@ -1,0 +1,414 @@
+Unit-level environment template (REF5b)
+ Institution: Leeds Beckett University
+
+ Unit of Assessment: UoA11 – Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Context and structure
+ The unit of assessment (UoA11) sits within the school of Built Environment, Engineering and
+ Computing, one of the 10 schools within the university. All staff submitted to UoA11 reside in
+ Computing (n=9) and electronic engineering (n=2). The unit conducts applied research addressing
+ key societal challenges of the 21st century, namely energy, health and security. The school
+ research direction embodies the principle of the British Computer Society ‘Making IT good for
+ society’. The research within the unit of assessment seeks to create direct and lasting impact on
+ energy sustainability, cybersecurity digital health, assistive and rehabilitation technologies, and
+ medical devices working closely with external stakeholders in the private, public and third sectors.
+
+ The unit comprises two research centres. The Cybercrime and security Innovation Centre (CSI)
+ is a collaborative hub for research and development related to cybercrime, digital security,
+ forensics and safety led by Dr Schreuders. The team specialise in cyber security, digital forensics,
+ data science and analytics, and criminology. The CSI centre has a close working relationship with
+ West Yorkshire Police; working directly with the Digital Forensics Unit (DFU) and Cyber Crime
+ Team (CCT) to investigate and improve the way cybercrime and digital evidence is processed.
+ The second research centre is the Centre for Research in Computer Science and Applications
+ (CRISCA) led by Prof Tawfik. The focus of the research is machine learning, communication
+ networks with applications in health and energy management.
+
+ Information technology is pervasive in all aspects of society. The guiding principle for the unit’s
+ research is to develop computer science research which encompasses applied computer science
+ as an enabling tool for all disciplines and consequently all sectors, industrial, health, arts, media,
+ and so on. As such much of the ongoing research within the school crosses the boundary of
+ disciplines, researchers are investigating medical diagnostic devices for Parkinson’s Disease and
+ dementia in collaboration with colleagues from biomedical sciences and the NHS led by Prof
+ Monekosso and Dr Galbraith (UoA3), Dr Marino is evaluating the feasibility of miniaturizing a
+ Magnetic Resonance Imaging (MRI). Work is ongoing developing digital interventions (tools) for
+ mental health with colleagues from psychology led by Prof Monekosso and Dr Holch (UoA4).
+ Dr Palczewska is leading work on applying data analytics in sports and in healthcare. Dr Ibrahim
+ is leading technology impact assessment on individuals and the public while Dr Nasir (UoA17)
+ from the Business School is investigating the cost effectiveness of technologies Smart Cities in
+ collaboration with sports and events organisers such Headingley Stadium (Leeds).
+
+ The on-going pandemic has seen many of us working and learning remotely and a significant
+ increase in internet usage. The widespread use and increased reliance on digital communication
+ e.g. teleconsultation, telebanking, has created opportunities for criminal activity (cybercrime). The
+ risk of cybercrime is greater than ever before and increasing. Cybersecurity research at Leeds
+ Beckett is led by Dr Schreuders have collaborated since 2016 with West Yorkshire police force,
+ investigating methods to solve some of their challenges as well as the training of officers.
+
+ Digital health, in its broader sense, has evolved significantly in the last decade and it is widely
+ accepted that it can increase efficiencies (administrative as well as clinical), improve quality of
+ care and patients’ outcomes. This is reflected with the launch of NHSX in 2020 located in Leeds
+ joining NHS Digital to support the development of digital health and healthcare technologies for
+ the NHS. Research within the school sits well in the scope of their remit and includes health data
+ analytics and clinical decision support, assistive and rehabilitation technologies as well as an
+ emerging area of medical devices. The pandemic has highlighted the importance of and has
+ accelerated the digital transformation in many sectors, not least in the health sector. Since 2018,
+ colleagues in UoA11 have worked collaboratively with More Life, a university spin-off company
+ operating in the health and wellbeing sector, to transform and augment its service with technology.
+ The collaboration is led by Prof Monekosso who has developed an extensive programme co-
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+ funded by university and More Life to support the digital transformation of company operations
+ and use More Life as a platform for research into data analytics to enhance operations, generate
+ evidence of effectiveness of health interventions and investigates gamification methods and
+ techniques to improve client retention. This work was accelerated by the pandemic with immediate
+ impact on services and clients.
+
+ Sustainable development is recognised by the United Nations as a key priority for the 21st century.
+ Our research tackles two of the four pillars of sustainability, namely the environment and social
+ pillars through research into different aspects of energy including cleaner energy and energy
+ management. While Dr Colantuano is working with national and international partners to develop
+ sustainable energy solutions for housing, the focus of Dr Kor’s work is Data Centres. The project
+ partners include energy companies (EDF - Électricité de France S.A., a French multinational
+ electric utility company, largely owned by the French state), local housing organisations (Carbery
+ Housing Association in Ireland and First Choice Homes in the UK), and local authorities (Wakefield
+ and District Housing Limited and Oldham Metropolitan Borough Council in the UK, Cork City
+ Council in Ireland) and Facebook data centre in Lulea, Sweden.
+
+ 1.2 Research and impact strategy
+ The overall research strategy for Unit 11 is led by the Dean of the School, and Director of Research
+ and feeding directly into the University Research and Enterprise Committee. Research integrity is
+ upheld by all members of the unit, who assume personal and collective responsibility for their
+ actions, overseen by the University Research Ethics Committee. These committees ensure
+ research is conducted according to appropriate ethical, legal and professional frameworks,
+ obligations and standards.
+
+ The key objectives of the unit’s research strategy is to improve the environment and build the
+ capacity for impactful research. It is guided by and builds on the university’s wider vision as a
+ major anchor institution in the Leeds City region making a positive impact with specific reference
+ to Health, Culture, and Sustainability. The School engages in health through research into digital
+ health, assistive and rehabilitation technologies. Sustainability of energy sources is an important
+ thread in the schools research approaching the challenge from different perspectives. The
+ school’s research into cyber- and physical security engages with culture and sporting events.
+
+ The key objectives were:
+
+    1. To build the capacity among existing and new staff to contribute excellent research, with
+       the aims of broadening the research base of colleagues who have significant responsibility
+       for research in line with our university Code of Practice.
+    2. To improve the quality of research undertaken in the unit, where the results of REF14 are
+       the baseline.
+    3. To increase research income by refocusing our emphasis towards applied technologies –
+       and thereby also to increase our beneficial impacts.
+
+ The research strategy is guided by the principle of ‘technology as an enabling tool’ to address
+ societal challenges and creating impact in the health, security and energy sectors. The approach
+ is to work in close collaboration with regional, national and international organisations, in the
+ public, private, and third sectors to understand their challenges. Understanding as well as
+ contributing solutions to societal challenges requires the perspective of different disciplines and
+ so the research is highly multi-disciplinary.
+
+ 2. People
+ The staff count in the Computing subject area is 38 of which 11 are classed as researchers with
+ significant independence and a further 6 classed as early career researchers. These include staff
+ registered for doctoral studies who are ‘working towards independence’ in our code of practice
+ framework.
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+
+ 2.1 Staffing strategy and staff development
+ a) Appointment of established research leaders
+ Following REF14, 3FTE research professors were appointed through external recruitment to
+ provide leadership and develop targeted areas of strength in computer science. The aim was to
+ drive research in the areas of machine learning, energy/control, and digital health.
+ Professors: Deng (2015-); Monekosso (2015- ); Tawfik (2015- ).
+
+ b) Appointment of a Director of Research
+ The research leadership was strengthened with the appointment of a Director of Research
+ (Monekosso) in 2016. This is a strategic leadership role for computer science & engineering, to
+ define and implement research strategy for UoA11 staff.
+
+ c) Investing in future research leaders
+ Through internal promotions four readers (Dr Schreuders, Dr Kor, Gr Gorbenko, and Dr Akbari)
+ were appointed to strengthen research in the areas of machine learning, sustainable computing,
+ cybersecurity, and computer networks.
+
+ 2.2 Post-doctoral staff
+ Success in attracting research funding has seen in the current REF cycle a number of post-
+ doctoral staff joining the unit. A total of nine post-doctoral staff are associated with externally
+ funded projects compared to none in previous REF cycle.
+
+ 2.3 Doctoral students
+
+ a) Investing in researchers
+ Since 2014, the school has invested in 6 doctoral students, 5 staff undertaking doctoral studies on
+ a part-time basis. The total number in the REF cycle is 56 with a growing number of self-funded
+ students. PhD completions are on an upward trend.
+
+                                      Table 1 Doctoral completions
+
+              2013-14 2014-15 2015-16          2016-17 2017-18 2018-19 2019-20
+                    2       4                        4       5       3       5
+
+
+ b) Research students’ progress and development
+ The research students are located in the school of Built Environment Engineering and Computing.
+ The Graduate School, launched in February 2018, oversees all aspects of the University’s doctoral
+ training and research staff development, integrating institution-wide PGR support with research
+ career development. Tailored professional workshops are based on Vitae’s Research
+ Development Framework through the research training programme for research students and a
+ development programme for staff in all aspects of research activity.
+
+ 2.4 Strategy beyond 2021
+ The strategy aims to significantly increase the proportion of staff classified as independent
+ researchers, improve overall quality and impact of research.
+
+ The objectives are to
+    1) Capitalise on and grow existing national networks, increase collaborative and
+        interdisciplinary work, in particular work in sustainable energy and digital health
+    2) Build on existing international networks to extend the depth and breadth to increase impact
+        reach
+    3) Improve research culture through mentoring, coaching and training for all staff
+        commensurate with research stage
+    4) Develop an enhanced programme for post-doctoral staff to improve retention and provide
+        greater continuity to research
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+     5) Support and train SLs and Readers preparing them for research leadership – the
+        promotion scheme initiated in 2016 is now well established and is a foundation.
+
+ Our research into digital health is based on co-creation with all stakeholders including patients
+ and guided by the Code of conduct for data-driven health and care technology 1. The first principle
+ relates to understanding users, their needs and the context. Our research also adheres to the
+ equalities considerations as defined in the Evidence Standards Framework for Digital Health
+ Technologies (NICE). Our research in assistive and rehabilitation technologies contributes to
+ reducing health inequalities in the UK health and social care system, and improving access to care
+ among hard-to-reach populations.
+
+ 3. Income, infrastructure and facilities
+ 3.1 Income generation
+ Since 2014, the annual research income has steadily increased from £16,000 to £489,000 in the
+ REF cycle. Income sources include a wider range of competitive funders such as UKRI (EPSRC),
+ Royal Academy of Engineering, InnovateUK, European Union Horizon 2020, ERASMUS, and
+ ERDF/Interreg programmes. Notable wins in the current REF cycle include two EPSRC grants
+ (total £450K) investigating smart control of nuclear power plants, Police Knowledge Fund (£400K)
+ Cybersecurity, EU H2020 large scale IA smart cities (€770K), EU ERDS Interreg (€1.4M) as
+ coordinator and 3 ERASMUS including GENIAL – Green Networking and Cloud Computing
+ (€480K).
+
+                                            Total Income
+         2013-14        2014-15        2015-16      2016-17          2017-18        2018-19
+         £16,000        £67,000        £69,000      £257,000         £439,000       £489,000
+
+
+ Commercial research activities have also increased through consultancies and knowledge transfer
+ partnerships (KTP). A total of six knowledge transfer partnerships projects are either completed
+ or ongoing.
+
+ 4. Collaboration and contribution to the research base, economy and society
+ The research within the unit of assessment seeks to create direct and lasting impact on energy
+ sustainability, cybersecurity and digital health working closely with external stakeholders in the
+ private, public and third sectors. Our research, particularly, the digital health strand is highly inter-
+ disciplinary with collaborators across disciplines including psychology, sociology, economics, arts
+ and design as well as health. The challenges faced are global leading to several international
+ collaborations.
+
+ 4.1 Research collaborations
+ The majority of our national and international collaborations fall into the UoA11 themes of health,
+ security and energy and have emerged from projects funded by international bodies such EU
+ collaborative research programmes e.g. EU research programmes such as H2020, Malaysian
+ government High Impact Research programme, Spanish department of education, and US
+ Department of Homeland Security as well as national funding bodies such EPSRC and Royal
+ Academy of Engineering.
+
+ Enhancing public security nationally and internationally
+ The theme security can be split into physical and cybersecurity. A key collaboration with West
+ Yorkshire police was established and cemented with the project CARI (2016-18) which saw LBU
+ colleagues led by Dr Schreuders investigate and develop tools to support police in fighting
+
+1 (https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-caretechnology
+
+
+                                                                                                   Page 4
+Unit-level environment template (REF5b)
+ cybercrime. The Police Knowledge Fund CARI Project was a large-scale collaboration between
+ the Cybercrime and Security Innovation Centre (CSI) at Leeds Beckett University (LBU) and West
+ Yorkshire Police (WYP). The Project was designed to improve and incorporate an evidence-based
+ approach into the policing of digital forensics and cybercrime investigations. The CARI Project
+ also involved implementing a training and research programme. We provided training in research
+ methods, to the entire Digital Forensics Unit, and the Cybercrime Team within WYP.
+
+ Funded by EU H2020, a collaborative project saw UoA11 staff led by Prof Monekosso working
+ with large event organisers in UK and across Europe to develop IoT technology to enhance the
+ experience (security and wellbeing) of crowds at large outdoor events. The project involved
+ Headingley stadium in Leeds, both the Yorkshire County Cricket Club and the Leeds Rhinos rugby
+ league. The stadium has benefited from IoT technologies (intelligent cameras systems, staff
+ localisation and tracking systems, crowd management tools/dashboard, and visitor information
+ Apps) permanently installed to support crowd management and enhance their wellbeing. The
+ same technologies where permanently installed at Tivoli Gardens in Copenhagen, in Lyon during
+ the annual Fete de Lumiere events in December, and in Turin City centre as well as temporary
+ infrastructure (once a year) at outdoor music festivals in Bonn (Germany) and suburbs of Turin,
+ Italy.
+
+ Supporting health and wellbeing
+ There is a great deal of collaborative work in the field of health and social care technologies. Prof
+ Tawfik is using an AI approach to inform the management of Obesity amongst young people in
+ the UK, the design of which is informed by input from the Public Health Unit at Leeds City Council.
+ In the same strand, collaborations with the University of Copenhagen (Denmark) on the application
+ of Machine learning for obesity and diet management.
+
+ Dr Palczewska’s collaborative work with the University of Leeds and Leeds City council on an
+ EPSRC ‘Impact Acceleration Account’ project to design a risk stratification tool to help the City
+ Council to identify clients in need of intensive social care provision in a timely manner, to support
+ the wellbeing of individuals, and ultimately reduce the burden on the NHS.
+
+ Work is ongoing with Leeds Teaching Hospital NHS Trust (technologies to monitor and assess
+ function in Parkinson’s disease), Hull Teaching Hospital NHS Trust (rehabilitation technologies)
+ and St Georges’ Medical School NHS Trust London (Tools to support patient engagement) led by
+ Prof Monekosso who is an honorary researcher at the Hull Teaching Hospital. These projects
+ were supported in part by TRANSLATE and Grow MedTech programmes ( https://growmed.tech
+ ), a collaboration between the Universities of Bradford, Huddersfield, Leeds Beckett, Sheffield
+ Hallam and, led by the University of Leeds and funded through the Research England Connecting
+ Capability Fund.
+
+ Our research into digital health extends to technologies for social care. Working with Leeds City
+ Council (assisted Living Services) to investigate adoption of technologies in care homes and to
+ develop tools to support the data entry for electronic records.
+
+ The work in this strand extends to international partner, for example rehabilitation technologies
+ with the University of Malaya, Kuala Lumpur, Malaysia where Prof Monekosso is a visiting
+ Professor and University Castilla la Mancha Spain. Another collaborative project in this strands
+
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ were funded in part by Royal Academy of Engineering and the Malaysian High Impact Research
+ programme investigated gait as a means determine to fall risk in cohort of older adults in Malaysia.
+
+ Contributing to sustainable development through energy management
+ There are 3 strands under his theme. The first strand applies AI to improve the safety of nuclear
+ power plants funded by EPSRC led by Prof Deng in collaboration with Liverpool and Portsmouth
+ universities. The aim of this research is improving nuclear power plants' availability, reducing the
+ cost of operation, helping the decision-making in the nuclear control room, and assisting the
+ preparedness of different accident levels. This research demonstrated its potential and
+ applicability based on a case study scenario from India (2016-18).
+
+ The second strand in energy is the Sustainable IT work investigating energy measurement and
+ management as well as energy efficiency. On a macroscopic scale, the research focuses on data
+ centres led by Dr Kor. Sustainability of data centres is the focus of investigation in the project
+ ‘project GENIAL – Green Networking and Cloud Computing led by Dr Kor.
+
+ At a microscopic level, energy management at the ‘chip’ level, Dr Marino is investigating a
+ reconfigurable processor approach using the “RISC-V processor” - known as the “new Linux in
+ hardware” aiming to repurpose its instruction set to reduce power in embedded systems.
+
+ From sustainable IT to sustainable housing, our school is conducting research into energy
+ management in homes in collaboration with local councils and housing associations. Dr
+ Colantuono is co-ordinating a large EU-funded project (RED WoLF) using technology to increase
+ renewables' usage and reduce CO2 emission for Homes with Photovoltaics without gas
+ connection. The RED WoLF project comprises six test-bed sites in the UK, France and Ireland.
+
+ Further collaborations
+ Outside the three strands collaboration exist with the University of Seville (Spain) on the
+ optimisation of mobility models for drones in disaster recovery scenarios (Prof Tawfik);
+ collaboration with the University of Lorraine and Lulea University of Technology on green
+ networking, pervasive computing and communications; and the Kharkiv Aviation Institute: National
+ Aerospace University (Dr Kor and Dr Gorbenko) on IoT applications; and University of Newcastle
+ (Dr Gorbenko) on software system reliability, and dependability.
+
+ 4.2 Supporting local SME growth by accelerating digital transformation and innovative
+ product development
+ We use our expertise in data analytics and systems engineering to contribute to the growth of
+ SMEs in the region. UoA11 colleagues have been successful in building links with companies in
+ the Leeds City Region and further afield. Several long standing and successful collaborations with
+ the private sector have evolved and cemented with InnovateUK KTP projects. The companies
+ include Essentials Healthcare (KTP10303, 2016-18), Omega Security Systems (KTP10304, 2016-
+ 18) and Abbey Industrial Systems (KTP10623, 2016-19) fall firmly into the core areas of health
+ and social care technologies and Bob's Business Ltd (KTP10674, 2017-19) falls into security.
+ Further KTP collaborative projects focusing on data analytics include Citu (One) Limited
+ (KTP10266, 2015-18) and The Label Makers Ltd (KTP10942, 2017-20).
+
+ Since 2019, a significant collaborative programme in health and well-being is emerging between
+ computer science (UoA11) and More Life Ltd, a university spin-off (turnover £6M). More Life
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+ provides health and well-being services under contract from local authorities nationally and the
+ NHS. The aim of the collaborative programme is to support the digital transformation of More Life
+ services with data analytics research and the development of its IT infrastructure with the aim of
+ improving productivity. Prof Monekosso has been instrumental in creating a roadmap for digital
+ services and advising on the development of the IT infrastructure. An early success of this
+ collaboration is an NHSE contract (2020/S 192-465180) to provide a national digital weight
+ management service. Prof Monekosso is now engaged as Chief Technical Officer (CTO) for
+ More Life developing a research and innovation strategy in collaboration with the university
+ (UoA11) for a data-driven approach for More Life’s health and wellbeing services, operations and
+ the IT infrastructure to support the NHSE contract. UoA11 staff contribute data analytics expertise
+ for evidence generation on the effectiveness of interventions, on productivity of operations and
+ gamification.
+
+ 4.3 National and International Expert Advisor Roles
+ In the last REF cycle, UoA11 staff have increasingly engaged in advisory roles regionally,
+ nationally and internationally. Notable roles include commissioner (Prof Monekosso) at Digital
+ Futures Commission, 5Rights Foundation an organisation founded and chaired by Baroness
+ Beeban Kidron OBE which aims to enable Children and Young People to Access the digital world
+ creatively, knowledgeably and fearlessly. At City level, Prof Monekosso sits on the advisory
+ board of Phase 2 Assisted Living, Digital Health project, Leeds City Council and on the EPSRC
+ Inclusion Matters Project led by Durham University which aims to improve the experiences of
+ under-represented groups in STEM research.
+
+ Prof Tawfik serves on the ‘Knowledge Societies’ working group for the Eurocities Network to
+ disseminate the potential societal impact of research more widely.
+
+ Colleagues within the school act as evaluators for MRC, EPSRC, EU research programme,
+ Cyprus’s Research Promotion Foundation, Polish National Science Centre, and The Netherlands
+ Organisation for Scientific Research (Prof Tawfik, Prof Monekosso). Prof Monekosso is a
+ member of UKRI Future Leaders Fellowships Programme Peer Review College
+
+ 4.4 Contribution to academic disciplines and learned societies
+ Several members of the school serve on editorial boards for international journals. These include:
+
+ Learned societies
+ The natural home for UoA11 staff is British Computer Society. Dr Ramachandran is fellow of
+ British Computer Society and Prof Monekosso is honorary fellow of British Computer Society.
+ Both Profs Tawfik and Monekosso are senior IEEE members and Dr Marino is member of the
+ IEEE STC Parallel Model and Systems Data Flow and Beyond since 2017
+
+ Editorial boards
+ Colleagues are actively engaged in editorial boards for international peer-reviewed journals
+ covering diverse areas of computer science. These include:
+     • Future Generation Computer Systems (Dr Kor),
+     • International Journal of Embedded Systems (Dr Marino)
+     • International Journal of High Performance Computing and Networking (Dr Marino)
+     • IEEE Access (Dr Marino)
+     • Neurocomputing (Prof Monekosso);
+     • International Journal of Neural Computing and Applications (Prof Tawfik).
+
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+    •   International Journal of Organizational and Collective Intelligence (Dr Ramachandran).
+
+ Further examples of international collaboration in research is manifested in the guest-editorship
+ of special issues in reputable journals with international researchers. Examples of this are the
+ special issue for the Applied Soft computing (Elsevier 2020) and Medical Informatics (Elsevier,
+ 2016) (Prof Tawfik), IEEE Transactions on Intelligent Systems and Human Machine Systems
+ (Prof Monekosso, 2015); a special issue for the Journals of Future Generation Computer
+ Systems (2016), Network and Computer Applications (Elsevier, 2017), and International Journal
+ of Grid Computing (Springer, 2019) (Dr Ramachandran).
+
+ Conference organisation and hosting
+ During this REF period, we have organised, hosted and co-chaired two international, IEEE-
+ sponsored, computer science and engineering conferences: the 10th International Conference on
+ Dependable Systems, Services and Technologies (DESSERT 2019), and the international
+ Conference on Developments in eSystems Engineering (DeSE’2016).
+
+
+
+
+                                                                                           Page 8
+

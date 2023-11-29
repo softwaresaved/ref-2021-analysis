@@ -1,0 +1,913 @@
+Unit-level environment template (REF5b)
+ Institution: Bangor University (10007857)
+
+ Unit of Assessment: Engineering
+
+ 1. Unit context and structure, research, and impact strategy
+
+ 1.1 Structure and Context
+
+ Engineering research at Bangor University is led by the School of Computer Science and
+ Electronic Engineering (CSEE), one of three sub-units of the College of Environmental Sciences
+ and Engineering. The School was formed in 2017 from the strategic merger of the Schools of
+ Computer Science and of Electronic Engineering, thereby increasing the cohesion, critical mass,
+ and interdisciplinary opportunities in these areas of historic strength and recent growth. Bangor’s
+ Engineering research is focussed around three main themes. Reflecting our intrinsic
+ commitment to interdisciplinary working, many of our researchers work across these theme
+ boundaries. The three themes are also aligned with local industrial sectors of international
+ significance, fostering research translation and relevance.
+
+ 1) Photonics and Communications (Chen, Giddings, Hong, Kettle, Nezhad, Ritsos, Shore,
+ Spencer, Tang, Wang, Yue)
+
+ This theme has roots in the School’s extended track-record in fundamental research in photonics
+ and electromagnetics, specifically nanoscale light sources, integrated photonics, and super-
+ resolution imaging, as well as critical applied research areas of optical communications and GPS
+ technologies (the latter underpinning one of our impact case studies [REF3_03]). Since
+ REF2014 Bangor’s position has strengthened and expanded from device level into new sub-
+ systems areas such as nanophotonic MEMS (micro-electro-mechanical systems), micro-
+ robotics, and the associated laser materials-processing techniques. Bangor’s microfabrication
+ facility underpins much of the group’s research, which has been complemented by the
+ installation of new facilities (see Section 3.2) and benefited from access to laboratories at
+ Manchester’s National Graphene Institute.
+
+ Research highlights include: 1) Real-time orthogonal frequency-division multiplexing transceiver
+ technology capable of 20 Gb/s utilised by Tang and Giddings together with other DSP-based
+ techniques for optical communications systems, which are being commercialised via a series of
+ awarded grants (GBP7,100,000; funding figures throughout this document reflect award value to
+ Bangor unless otherwise stated) with 27 industrial partners including BT, Vodafone, Keysight
+ and VPI; 2) Development of an optical ‘Superlens’ by Wang capable of imaging features as
+ small as 40 nm using conventional microscopes, interdisciplinary research through collaboration
+ with Oxford’s Biological Sciences that received media attention for the use of spider silk in
+ nanoscale imaging; 3) Advanced microlaser and nanolaser theoretical and experimental
+ research led by Shore and Hong leading to an EPSRC grant (GBP390,000) in collaboration with
+ the III-V centre at Sheffield University; and 4) Integrated photonic chip technology for infrared
+ applications developed using advanced materials such as nanocrystalline diamond by Nezhad,
+ which led to EPSRC funding (GBP680,000) and international patent filing.
+
+ Bangor’s Digital Signal Processing Centre of Excellence (DSP) led by Tang was established
+ following a GBP6,000,000 (2019-2023) investment from the European Regional Development
+ Fund. The Centre, hosted at Bangor University’s new GBP20,000,000 Menai Science Park (M-
+ SParc), focuses on highly specialised research into digital communication systems such as 5G
+ networks and ecosystems. Key projects are focused on: real-time algorithm design, optimisation
+ and implementation; flexible transceivers and networking devices; optical and wireless
+ transmission system convergence; cloud network architecture; software-defined networking; and
+ 5G testbed establishment and field trials. Expansion of this work is a key part of the UK/Welsh
+ Governments’ North Wales Growth Deal, which will see a further GBP3,000,000 invested in the
+ centre to accelerate commercialisation.
+
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+ The Centre for Photonics Excellence (CPE), supported by Welsh Government and EU funds,
+ GBP800,000 (2019-2022), is centred around supporting the regionally important photonics
+ cluster and is a collaboration with industry partners and other universities to assist with
+ translation of new processing techniques and optical coatings used in imaging systems and
+ satellites. Wang’s group’s research on both imaging and laser micromachining is aiding the
+ development of new imaging systems.
+
+ 2) Energy, Environmental- and Bio-Sensing (Chen, Dahlfors, Hancock, Kettle, Lee, Lewis,
+ Mabrook, Middleburgh, Neill, Nezhad, Palego, Rushton, Spencer, Wang)
+
+ Bangor’s work in this theme takes a holistic ‘systems’ approach, with a special focus on a range
+ of Low Carbon Energy activities including nuclear and marine energy systems and sensor
+ technologies relevant to these areas. Bangor’s research in this area is heavily focused on
+ enhancing the readiness of new technologies, strengthened through significant academic and
+ industrial partnerships (Section 4).
+
+ Highlights include: 1) Development by Lee and colleagues of a suite of molten-Pb testing
+ facilities to support Westinghouse Electric and National Nuclear Laboratory research into their
+ lead-fast reactor (GBP450,000) as part of the BEIS-funded Advanced Modular Reactor
+ competition (Phase 2) and the Nuclear Innovation Programme. The facility will act as a national
+ centre for high-temperature lead testing, enabling international collaboration with leading
+ organisations (including SCK-CEN, Belgium; ENEA, Italy; Los Alamos National Laboratory,
+ USA); 2) Research in Bangor’s School of Ocean Sciences (Neill and Lewis) on the monitoring
+ and modelling of new renewable and low carbon energy systems, in particular solar and marine,
+ to guide best practice in quantifying energy generation potential. With GBP5,500,000 of grant
+ income, Bangor’s simulation and modelling approach has been adopted globally, creating new
+ research fields in the understanding of real-life system performance and forming the basis of one
+ of our impact case studies (REF3_02); 3) Interdisciplinary sensing research by Palego, using a
+ new approach for near-real-time detection of cancer stem cells using ultra-wide broadband
+ radiation, as part of the H2020 Future and Emerging Technologies programme (SUMCASTEC;
+ GBP682,000 to Bangor, total project GBP3,400,000).
+
+ Bangor’s Nuclear Futures Institute (NFI, launched in 2017 with funding from the Welsh
+ Government (WG), EPSRC, and the European Regional Development Fund, GBP6,500,000)
+ includes extraordinary facilities that are being used by researchers and leading industry
+ stakeholders to aid nuclear technology development. The Institute is led by Lee, a world expert
+ in nuclear energy and materials, who was recruited to Bangor in 2016 as part of WG’s
+ prestigious Sêr Cymru (Stars of Wales) innovation and science funding scheme. (Sêr Cymru,
+ overseen by the Chief Scientific Officer for Wales, attracts to Wales world-leading researchers
+ and their groups with the potential for high research impact.) The Institute includes a materials
+ manufacture, processing/testing and characterisation facility (funded through NFI and grants
+ won from EPSRC and WG) to enable research on radioactive materials, a unique infrastructure
+ in Wales. This facility is efficiently coupled with computational analysis capabilities that support
+ nuclear energy applications and other low-CO2 technologies. The NFI has established (in 2020)
+ a reactor modelling group to build reactor physics and thermal hydraulics capability, in support of
+ the UK Government’s intentions, set out through the Nuclear Sector Deal, to site a National
+ Thermal Hydraulics Facility in North Wales. Finally, the NFI is developing new areas of speciality
+ research including accident-tolerant fuels, nuclear forensics, and advanced nuclear waste-form
+ design.
+
+ Bangor’s Smart Efficient Energy Centre (SEEC; European Regional Development Fund,
+ GBP4,600,000) led by Neill works across three low carbon energy sectors: ocean energy,
+ nuclear energy, and energy efficient structures, interconnected by a common cyberinfrastructure
+ hub. The project will lead innovation on how advanced engineering, computer science and
+ modelling can be applied most effectively to increase the sustainability of energy supply and
+ utilization, while minimizing negative environmental impacts, in particular net carbon emissions.
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ 3) Visualisation, Data Modelling and Graphics (Ap Cenydd, Kuncheva, Lim, Mansoor,
+ Ritsos, Roberts, Teahan, Vidal)
+
+ Bangor’s research in this theme has built on its longstanding strengths in machine learning and
+ pattern recognition and has expanded its impacts into Analytics and Virtual Reality (VR).
+ Highlights include: 1) New Principal Component Analysis feature extraction techniques
+ developed by Kuncheva, supported by the Leverhulme Trust (GBP226,000), which have been
+ used by the England Cricket Board to identify predictors of elite performance; 2) Development by
+ Ritsos of the first open-standards, web-based Immersive VR Analytics framework to standardise
+ the way that data-driven VR experiences are created and deployed on the web; 3) Novel use of
+ procedural animation agents and computer graphics by ap Cenydd and Teahan enabling
+ commercialisation of ‘Ocean Rift’, one of the leading VR experiences for a plethora of VR
+ platforms with over 12,000 downloads, described in impact case study REF3_01.
+
+ This group has considerable interdisciplinary research activity with impacts both locally and
+ internationally. Vidal’s work on radiography imaging resulted in the development of an open-
+ source software suite that is being adopted in Spain as a tool for formal training for radiography
+ health care workers The code is hosted on the Simulation Open Framework Architecture site – a
+ prominent library for physics-based medical simulations. The national Supercomputing Wales
+ platform provides access to high-performance computing facilities enabling interactions between
+ Vidal and Ritsos and the Nuclear Futures Institute around visualisation and high-performance
+ computing expertise.
+
+
+ 1.2 Strategic aims for this assessment period
+
+ Research strategy is led by the College and School Research Committees, the latter (previously
+ chaired by Kettle and now by Nezhad) consisting of representatives of the three themes,
+ together with Spencer in his role as University Pro-Vice Chancellor Research and Innovation.
+ Under their direction in this REF period, Engineering research at Bangor University has focused
+ on responding to major government strategic drivers, such as the UK’s Industrial Strategy, the
+ Welsh Government’s Prosperity for All strategy, and the Higher Education Funding Council for
+ Wales’s Research & Innovation Vision for Wales. The merger of Electronic Engineering with
+ Computer Science has enabled CSEE to focus on research strengths related to these drivers, in
+ order to grow into strategically targeted sectors. This has enabled us to meet Bangor’s
+ commitments in our REF2014 returns (to UoAs 11 and 13) through expansion in the fields of
+ low-carbon electronics and energy, and in medical imaging technologies. Through the School
+ merger and interdisciplinary research opportunities provided by CSEE, we have developed new
+ research directions in low carbon energy, digital communications, laser manufacture and
+ emerging medical applications that are globally significant in terms of their industrial and societal
+ impact.
+
+ This strategic realignment has enabled us to deliver on Bangor’s REF2014 commitment to
+ provide the scientific and engineering research capacity required for regional economic growth.
+ Bangor has delivered this through our investment to meet the needs of regionally important
+ industrial sectors of low carbon energy (NFI, SEEC) and high-value manufacturing (DSP, CPE,
+ The Centre for Lifetime and Reliability Testing [CLARET]). We have secured core funding from
+ the Welsh Government’s Sêr Cymru Research programme and European Union to deliver our
+ strategic aims of developing four new facilities (material fabrication and testing lab, lifetime and
+ reliability lab, optical communications/5G lab, and laser micromachining lab) and recruitment of
+ new research staff.
+
+ A welcome outcome of Bangor’s intense collaboration with companies has been an increase in
+ in-kind company support with staff time, equipment and consumables. While this increased
+ engagement with industry has helped project delivery and research output, it has also generated
+ employment opportunities for our postgraduate researchers. A good example is Creo Medical
+
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+ (AIM listed), who sponsored five PhD students at Bangor, all subsequently recruited upon
+ graduating.
+
+ Our strategy has resulted in a significant strengthening of Engineering research at Bangor during
+ the current REF period. External research grant expenditure has risen by over 140% per
+ annum per FTE relative to Bangor’s REF2014 combined returns to UoA11 and UoA13 (the two
+ previous units now returned together to UoA12 in REF2021), as a result of increased capture of
+ funding from UKRI and EU sources, and increasingly fruitful partnerships with new and
+ emergent companies. Research doctoral degrees awarded have grown by over 80% per
+ annum per FTE compared with Bangor’s REF2014 returns, with continued growth expected as
+ a result of Bangor’s membership of three doctoral training networks and other similar
+ programmes that are highlighted in Section 2.
+
+
+ 1.3 Achievement of impact arising from research
+
+ In this REF period, Bangor’s Engineering researchers have been intensely focused on
+ conducting research that generates impacts of reach and significance. This agenda has been
+ facilitated since the formation of CSEE by the development of a new impact strategy, led by an
+ academic Impact Director (Roberts) who is further supported in this mission by research support
+ staff. We have achieved our impact goals via national and international engagement with
+ industry, academic, and government partners, supported by external funds and building on
+ Bangor’s physical facilities.
+
+ Industry engagement is illustrated by links from our Centres and Institutes to the spectrum of
+ partners from international conglomerates, to regional SMEs and micro-businesses. For
+ example, the DSP Centre has worked with both multinationals (e.g., BT, Effect Photonics and
+ Vodafone) and SMEs at the centre of the nationwide 5G roll-out. Facilitation by the Welsh
+ Optoelectronics Forum enabled Bangor researchers in the pan-Wales Centre for Photonics
+ Expertise to provide supported access to our state-of-the art facilities for industry partners. The
+ establishment of the Nuclear Futures Institute has enabled extensive links to industry
+ (Westinghouse, Tokamak Energy, Jacobs etc.) and government (e.g. UK Atomic Energy
+ Authority, National Nuclear Laboratory, Atomic Weapons Establishment and BEIS) partners, and
+ its facilities for on-site uranium testing have provided a framework for industry/academic
+ collaborations that has attracted >GBP1,000,000 of external funding since 2019. CLARET
+ (2014-2019) executed industrially funded research projects on failure analysis/predictive ageing
+ with the photonics and electronics sectors. For example, CLARET supported the anchor tenant
+ (IQE plc) of the internationally important compound semiconductor cluster in South Wales with
+ characterisation and analysis of both wafers and devices (Spencer, Kettle).
+
+ Our impact-focused collaborations with industrial and academic partners have attracted
+ significant external funding support. For example, applied research funding has been secured
+ from UK national programmes such as UKRI/InnovateUK via Knowledge Transfer Partnership
+ grants (Taylor, Kettle), the Royal Society (Kettle), the RAEng (Kettle), and the Welsh
+ Government’s ‘Smart Expertise’ scheme enabling knowledge transfer to major local companies
+ including Qioptiq and IQE (Yue, Kettle). Exploitation funding from UKRI includes the EPSRC
+ Manufacturing the Future seed grant awarded to Nezhad (with Cardiff and Southampton
+ University partners) for developing infrared photonic chips using industrially-grown diamond.
+ Vidal, Ritsos and Roberts are co-investigators on an Oxford-led project that answered a call in
+ May 2020 for visualisation experts to support modelling scientists and epidemiologists in the
+ Scottish COVID-19 Response Consortium (SCRC), and was one of three consortia in the Royal
+ Society’s Rapid Assistance in Modelling the Pandemic initiative. The Nuclear Futures Institute
+ has been awarded funding to enable industry/academic collaboration that addresses identified
+ industrial needs: THOR (Thermal Hydraulics Open Access Research facility, GBP338,000,
+ Dahlfors), a thermal analysis materials laboratory (GBP110,000, Middleburgh) and a strategic
+ partner accelerator grant with Los Alamos National Laboratory (GBP60,000, Rushton).
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ Key tangible indicators of Bangor’s success at generating impact from our research are the
+ development of patents, licensing, knowledge exchange, and spinouts. A number of patent
+ portfolios are being developed around: ‘Super-lens’ imaging (Wang); microwave-based cosmetic
+ and skin cancer treatments (Hancock); a radiotherapy software suite (Vidal); a flexible photonic
+ MEMS platform (Nezhad); a miniature RF tracking system that can be fitted to flying insects
+ (Palego’s interdisciplinary collaboration with colleagues in UoA7); and a suite of patents with
+ Westinghouse Electric (Sweden/USA) and Tokamak Energy (UK) related to nuclear materials
+ and component inventions (Middleburgh). Licensing of antimicrobial films to Biolase Ltd/UPS2
+ Ltd has also been agreed (Kettle).
+
+ The appointment of Hancock, the CTO and founder of Creo Medical plc, to a Chair at Bangor
+ University has helped the company grow from a micro-SME in Bath (2003) to an AIM-listed plc
+ (2018) with a listing of GBP330,000,000 and a manufacturing base, part-funded by Finance
+ Wales. A recently awarded Royal Academy of Engineering Visiting Chair appointment will see a
+ further strengthening of the relationship, with the former CEO of Creo Medical joining Bangor in
+ 2021. Two spinout companies, Laser Micromachining Ltd (the subject of a Bangor REF2014
+ Impact Case Study) and IDB Systems Ltd (established 2014), continue to flourish and have
+ increased staff headcount by 50% in this REF period.
+
+ The preceding examples illustrate how Bangor’s strategy for collaboration with industry,
+ academic and government partners has borne fruit with demonstrable impact on both start-ups
+ and multi-national companies. The potential for further acceleration of regional impact from
+ Bangor’s engineering research was highlighted in two BEIS Science and Innovation Audits, the
+ North West Nuclear Arc and the North West Coastal Arc Partnership for Clean and Sustainable
+ Growth. This will be delivered through the North Wales Growth Deal (GBP27,000,000 for all
+ three Bangor University projects, led by Spencer) targeted at delivering benefits from research
+ to local industry and attracting inward investment to the region.
+
+
+ 1.4 Progress toward an open research environment
+
+ Since 2014, Bangor has supported an online open-access platform for publications, datasets
+ and software. Data curation and storage processes are in place to ensure compliance with both
+ funder and legal requirements. Policies and procedures are overseen by the University’s Digital
+ Strategy group and the central compliance unit, supported by external audits initiated by the
+ University and research funders. Open access funds were made available to authors to enable
+ compliance and dissemination of outputs.
+
+ Bangor researchers have used European Regional Development Funds (GBP1,500,000) to
+ create an open-research resource, the iMarDis system, a data portal that streamlines access to
+ our marine and oceanographic data and models for our research collaborators and end-user
+ partners in the commercial and private sectors; it is a core component of Bangor’s Smart
+ Efficient Energy Centre. This system was established as a solution to the unmet industrial
+ demand for data; currently 70% of the registered users are government agencies or industry.
+
+
+ 1.5 Support for a culture of research integrity
+
+ Bangor’s research governance and integrity policies and procedures adhere to Universities UK’s
+ Concordat to Support Research Integrity (2012; revised 2019). The College ethics committee,
+ comprising representatives from across disciplines and career stages, takes responsibility for
+ ensuring that ethical issues raised by our research are properly understood, considered and
+ addressed. The committee provides training on research integrity and research ethics for new
+ staff, and organises research ethics seminars where current issues are shared and discussed.
+ More granular decisions regarding research ethics and integrity are presented and resolved in
+ the School’s Research Committee.
+
+
+                                                                                            Page 5
+Unit-level environment template (REF5b)
+ Some of the work undertaken by the Nuclear Futures Institute requires notification to the UK’s
+ Office for Nuclear Regulation, a process that is overseen by the University Radiation Health and
+ Safety sub-committee, with operational oversight undertaken at School level. Some Nuclear
+ Futures Institute staff also have high-level security clearance, but no sensitive nuclear data is
+ held at Bangor. Some of the interdisciplinary work undertaken with colleagues in biological and
+ marine sciences requires research governance oversight to ensure compliance with the
+ necessary legislation and ethical issues. This is addressed via the College Health and Safety
+ and Ethics Committees and the University level equivalents, which in turn report to University
+ Executive and Council.
+
+ The University has policies and procedures in place that address wider research governance
+ and integrity issues with clear reporting processes for ‘whistle-blowers’ and misconduct
+ concerns. Induction training and awareness raising seminars are run by Bangor’s Human
+ Resources Department and Governance Office.
+
+ 2. People
+
+ 2.1 Staffing Strategy and Staff Development
+
+ Bangor University develops, supports and rewards the research excellence of all research staff.
+ Continuing the successful strategy employed in REF2014, we have: appointed and promoted
+ academic staff with high potential to deliver excellence in research or who already are research
+ leaders; focused appointments where they can grow capacity in the School’s priority research
+ areas; and encouraged research-led incoming and outgoing secondments with world-leading
+ universities and major national/international companies. We have rewarded excellence through
+ promotion: in this REF period, five staff members to Professor/Reader and another five to Senior
+ Lecturer, including four who were early career researchers submitted to REF2014.
+
+ We place special emphasis on providing early career researchers with a mature but flexible
+ structure to flourish within. In this REF period, we have recruited promising early career
+ researcher (ECR) staff (Dalhfors, Lewis, Middleburgh, Rushton, Yue) who we are developing
+ into research leaders through mentoring by senior, established academic staff (further supported
+ by Bangor University’s academic mentoring scheme). For example, during this REF period,
+ Dahlfors, Lewis, Middleburgh and Rushton have all succeeded in capturing substantial external
+ grant funding. Former ECRs have been inducted into positions of responsibility, supporting
+ succession planning and sustainability of Engineering at Bangor (e.g., Nezhad to School
+ Director of Research and Ritsos to Director of External Engagement). Of those staff submitted
+ as ECRs to REF2014, 75% have captured at least one major research grant >GBP350,000 in
+ this REF period.
+
+ Funding applications are reviewed by the School and College Research Committees or other
+ experienced staff mentors, with particular attention paid to those aimed at UKRI, and those
+ prepared by ECRs. The same colleagues also offer support in responding to grant application
+ reviews and comments. The Research Committees coordinate Bangor’s response to cross-
+ disciplinary opportunities. Practice and feedback are provided for interviews: for example,
+ Nezhad’s successful EPSRC Innovation Fellowship (GBP630,000) was supported by a mock
+ panel of colleagues from CSEE and other Bangor Schools. The University’s research office also
+ provides central support for research contracts (UK and international), knowledge-transfer, and
+ IP support.
+
+ The University’s workload allocation model balances research, teaching and administration, with
+ significant research commitments matched by reduced teaching and administration. New staff
+ are allocated reduced teaching loads during their first three years to allow them to establish their
+ research programmes. Staff participate in the annual Performance Development Review
+ process, providing an opportunity to discuss expectations, training needs and career
+ development.
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ Bangor supports its engineering researchers by providing ‘pump-priming’ funding, on the
+ condition that this results in research grant submissions, for: laboratory provision, small items of
+ equipment/consumables, attendance at conferences and visiting academic/industrial partners,
+ and support for patenting and providing open-access to research outputs.
+
+
+ 2.2. Commitment to equality and diversity
+
+ We value the talents and skills of all staff and seek to ensure our working environment, and
+ opportunities for career progression, are fully inclusive. Bangor University’s commitment to
+ gender equality is captured by our institutional Athena Swan Bronze Award, initially won in
+ 2011, renewed in 2014 and in 2018 (valid until 2023). Bangor is also recognised for its support
+ of women in the traditionally male-dominated field of Engineering by CSEE being awarded a
+ Bronze Athena SWAN Award in 2020, which includes a 4-year action plan to promote change
+ that feeds into School and University strategy. Delivery of the plan is the responsibility of the
+ Head of School, supported by a task and end group. Opportunities are made open to all by
+ transparent processes for recruitment, promotion, appointment to school positions, and
+ allocation of duties. We strive to improve gender balance through enhancing recruitment and
+ promotion processes. CSEE invests significant staff time in an extensive schools’ outreach
+ programme (Technocamps) that seeks to raise awareness and address diversity issues by
+ highlighting STEM careers to school children, their parents and other influencers.
+
+ Our colleagues are active in Bangor’s LGBTQ Network and support is provided to meet the
+ needs identified by the Equality and Diversity self-assessment teams. Measures such as the
+ scheduling of meetings and seminars in core business hours to assist those with caring
+ responsibilities, and the provision of funding for staff, PDRA and PGR development needs
+ (including conference attendance) have been in place throughout the REF period. The Head of
+ School has overall responsibility for ensuring all Equality and Diversity policies and procedures
+ are followed, and is aided by the support of a designated contact in Human Resources.
+
+
+ 2.3 Post-doctoral progression – Research Associates
+
+ All postdoctoral researchers and fellows are offered training in research, teaching (PGCertHE),
+ career management, personnel management, and research ethics. This is in addition to the
+ technical training and mentoring such researchers receive in the laboratory setting as part of
+ their research projects. Opportunities to assist in teaching activities (e.g., guest lecturing) are
+ offered regularly. Our postdoctoral alumni have gone into academic and industrial positions,
+ such as Senior Researcher at ADVA Optical Networking, Senior Project manager at Huawei
+ Research (Munich), Senior Process engineer at Smartkem, Multiphysics Engineer at Effect
+ Photonics (Netherlands), and Senior Lecturer at the University of Lincoln. Several former
+ Bangor postdocs have joined CSEE as permanent staff via open competition (Ritsos, Hong and
+ Vidal).
+
+
+ 2.4 Post-Graduate Research students (PGRs)
+
+ The number of doctoral degrees awarded in Engineering at Bangor has risen by over 80% on a
+ per FTE per annum basis in this REF period, compared to Bangor’s REF2014 combined returns
+ to UoA11 and UoA13. A major factor in this success is that, since 2014, Bangor has won funding
+ for three prestigious UKRI doctoral training networks: (1) the EPSRC Centre for Doctoral
+ Training in Nuclear Energy Futures (in partnership with Imperial College, University of
+ Cambridge, and Open University) established in 2019; (2) the UKRI Centre for Doctoral Training
+ in Artificial Intelligence, Machine Learning & Advanced Computing (with Swansea, Bristol,
+ Cardiff and Aberystwyth Universities) also established in 2019; (3) the NERC Envision Doctoral
+ Training Programme (with Lancaster and Nottingham Universities), which was recently renewed.
+ Further PhD studentships have been awarded by the Fujitsu High Performance Computing
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ Wales project associated with Supercomputing Wales; EPSRC CASE partnerships (e.g. with
+ Merck) and international government scholarships. The CDTs and DTP provide high quality
+ programmes of structured training for each student cohort across the partner institutions, based
+ on their excellence in engineering and related sciences.
+
+ The Sêr Cymru National Research Network in Advanced Engineering and Materials (2012-
+ 2018), a major GBP7,000,000 Welsh-Government funded initiative, has seen Bangor secure
+ GBP1,800,000 via competitive externally reviewed process, which has provided an important
+ source of PGR funding for ECR staff with 6 studentships awarded. The network was key to
+ collaboration with major engineering centres across Wales, including the Institute of Energy and
+ the Compound Semiconductor Centre at Cardiff University, Solar Research and Active Buildings
+ and the Centre for Nanohealth at Swansea University, and The Welding Institute (TWI), enabling
+ PGR access to specialist equipment not readily available in Bangor. The DSP Centre of
+ Excellence has recruited 8 PGRs during the REF period. Finally, a large cohort of PGRs (16
+ PhD, 3 MRes) has been recruited to Engineering at Bangor through the Knowledge Economy
+ Skills Scholarships (KESS) scheme. This pan-Wales initiative, led by Bangor, is supported by
+ European Social Funds (2015-2023, GBP56,000,000) to link industrial partners with Welsh
+ universities for collaborative PhD or Research Master’s projects.
+
+ PhD progress is monitored by the University’s Doctoral School, which also provides training and
+ social activities. All PhD students have a supervisory committee and a personal tutor. The
+ Doctoral School, as well as CSEE, have mechanisms in place to support students having health
+ or wellbeing issues. PGRs are embedded in areas of research strength via the three research
+ themes and associated centres that create supportive cohorts, and are provided with
+ transferrable skills training by the Bangor Doctoral School (e.g. in research management,
+ presentation skills, writing, and interview skills). The College organises a weekly seminar series
+ and three post-graduate research conferences per year. At the latter our PGRs present a poster
+ (2nd year) or talk (3rd year) to a wide cohort of fellow PGRs and staff, allowing them to develop
+ their presentation skills and multidisciplinary contacts.
+
+ We place great emphasis on PGR students visiting partner institutions, enabling them to gain
+ skills and promote their research, and to initiate collaborations and information exchange that
+ will last beyond their projects. In 2019, Middleburgh and Rushton, 2 PGRs and a PDRA
+ travelled to Sweden to work with KTH University and Westinghouse Electric (funding through the
+ Supporting Collaborative Research and innovation in Europe - Wales scheme). Palego and
+ Kettle have enabled students to visit MIT and Harvard as part of their PhD studies using funding
+ from the University’s Wynn Humphrey Fund, supported by the Drapers Livery Company. Other
+ internal funding schemes (e.g. Santander travel bursaries) have enabled PGRs to visit Ben
+ Gurion University (Israel), MCAST (Malta), URJC (Spain), Analog Devices (Ireland) and NUT
+ (Taiwan). Rushton acquired a GBP60,000 Sêr Cymru Partnership Accelerator Award for
+ Nuclear Futures Institute PGRs to spend extended periods at Los Alamos National Laboratory
+ (USA). Long-term visits have enabled PGRs to perform Small- and Wide-angle X-ray Scattering
+ measurements at the National Synchrotron Radiation Research Center (Taiwan) and at
+ Brookhaven National Laboratory (USA).
+
+
+ 2.5 Incoming and external appointments
+
+ Visiting and Honorary appointments closely link each theme to key academic and user
+ communities, thus promoting the delivery of research impact. Examples include: the Chief
+ Scientist at the National Nuclear Laboratory, who works closely with Bangor’s Nuclear Futures
+ Institute on structural integrity in nuclear technologies, and the Chair of the Snowdonia
+ Enterprise Zone, who links us to community programmes, researchers and engineers. Amongst
+ local industrial leaders, the CEO of Comtek, Askar Sheibani (Honorary Entrepreneurial Fellow),
+ who chairs the industrial panel of the North Wales Economic Ambition Board, has become a
+ close collaborator with Bangor via the DSP centre. Professor Terry Hewitt (EDS/Hewlett
+ Packard) works with researchers in our Visualization, Data, Modelling and Graphics theme to
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ support the high-performance computing provision in the University and secure funding for the
+ Supercomputing Wales project.
+
+ Outgoing appointments are encouraged to secure additional funding sources or significantly
+ enhance the quality of research outputs. Examples include: Palego, Adjunct Professor, Lehigh
+ University, USA; Kettle, Institute of Catalan Nanotechnology, Barcelona; Nezhad, National
+ Graphene Institute, University of Manchester. Rushton was seconded to Los Alamos National
+ Laboratory, USA for 5 weeks to build a collaboration for modelling radiation damage in sensing
+ materials, which led to a GBP60,000 Sêr Cymru Partnership Accelerator Award.
+
+ 3. Income, infrastructure, and facilities
+
+ 3.1 Research funding portfolio and future plans
+
+ Total external research grant expenditure for Bangor Engineering over the REF2021 period was
+ more than GBP16,000,000. Of this, over GBP2,250,000 was from UKRI or equivalent status
+ funders, equating to an increase of 58% on a per annum per FTE basis over Bangor’s REF2014
+ combined returns to UoA11 and UoA13.
+
+ Bangor was a partner in the pan-Wales GBP7,000,000 Sêr Cymru National Research Network in
+ Advanced Engineering and Materials (NRN-AEM; Welsh Government, 2012-2018) securing
+ GBP1,800,000 for Bangor projects. Bangor led the NRN in Low Carbon, Energy and
+ Environment (NRN-LCEE; Welsh Government, with a total budget of GBP7,000,000, 2012-
+ 2019). The success of Bangor’s roles in these networks paved the way for the Welsh
+ Government’s funding to establish the Nuclear Futures Institute. The NRN’s promote
+ collaborative and interdisciplinary research within Wales, providing seed funding to Bangor ECR
+ staff, and enabling impact from our research collaborations with science end-users by involving
+ them from the outset of project planning. Examples include Nezhad’s collaborations via NRN-
+ AEM with Cardiff University, leading to his UKRI Innovation Fellowship award on ‘Optically
+ Actuated Microrobots’ (GBP630,000), which aims to realise sub-millimetre, light-powered robotic
+ structures. The research of Shore and Hong, who continued theoretical and experimental work
+ on nanolasers, and which was subsequently supported by EPSRC (Ultrastable High-
+ Performance Nanolasers, GBP390,000) was in part aimed at producing light sources for
+ applications such as Nezhad’s Microrobots.
+
+ Neill led the NRN-LCEE cluster ‘Quantification, Optimisation, and Environmental Impacts of
+ Marine Renewable Energy’ (GBP400,000), which led to an EPSRC project grant on tidal energy
+ (GPB1,389,372) and the EPSRC Fellowship to Lewis (2019; GBP287,382). Rushton leveraged
+ Sêr Cymru funding to win the EPSRC Centre for Doctoral Training in Nuclear Energy Futures
+ (2019-2028).
+
+ Support from the Welsh Government directly facilitated funding from the European Regional
+ Development Fund, which has supported the establishment of Bangor’s DSP Centre, Smart
+ Efficient Energy Centre (SEEC), and Centre for Photonics Expertise (all 2019-22; total
+ GBP11,400,000). These centres have allowed us to expand our cutting-edge research into
+ industrially relevant areas and enable us to link our science directly to end-user industry
+ partners. Importantly, they were often used to leverage UKRI and European grants; examples
+ include Kettle’s DEPICT project funded by InnovateUK (GBP498,000, 2018-2019, led by IQE
+ plc).
+
+ Looking ahead, we recognise the need to adapt and diversify to remain resilient in the changing
+ funding landscape. Our aim is to grow our areas of research excellence and prioritize activity
+ that has the potential for transformative societal and economic impact of international
+ significance. This approach aligns us with the policy and funding mechanisms of the Welsh and
+ UK Governments, and positions us to benefit from the ‘Levelling-up’ agenda. Structural changes
+ that are needed to enable this ambition are already either in place or at an advanced stage of
+ planning. The formation of the new College of Environment Sciences and Engineering sought to
+
+                                                                                           Page 9
+Unit-level environment template (REF5b)
+ increase interdisciplinary working, already leading to fruitful collaborations such as SEEC, the
+ insect-tracking work of Palego, and the bio-inspired work of Wang. Support for a further step-
+ change increase in interdisciplinary working will be driven by Bangor’s new ten-year research
+ strategy, supported by transformative improvements in the physical estate and overseen via the
+ annual strategic planning round.
+
+ European Investment Bank and North Wales Growth Deal funding will be used to co-locate
+ Engineering and Computer Science within a refurbished Science campus, along with the
+ majority of the rest of the College. Expansion of Bangor’s DSP Centre has been initiated; formal
+ recognition as a 5G Centre of Excellence by the UK Government’s Department for Digital,
+ Culture, Media and Sport is being sought with the support of Welsh Government. The DSP
+ Centre will also work with colleagues in the Compound Semiconductor Centre in South Wales to
+ develop sub-systems to help meet the UK requirement for locally sourced telecoms equipment.
+ This movement up the supply chain from III-V wafer to devices and now on to sub-systems will
+ be aided by the planned expansion of our cleanroom facilities. Investments in state-of the-art
+ nanofabrication capabilities will enable us to assist the development of SMEs in the electronics,
+ photonics and bioengineering domains.
+
+ We also seek to capitalise on the materials science expertise of the Nuclear Future Institute by
+ growing the analytic facilities at Bangor through a centralised Materials Analysis Laboratory that
+ will be catalytic for other research groups and accessible to local businesses. NFI also seeks to
+ become an integral partner in the UK’s medical isotope research network. In particular, with
+ support from Welsh and UK Governments, there is the potential for a Medical Isotopes Research
+ Reactor to be sited on the local decommissioned nuclear site at Trawsfynydd.
+
+ Via collaboration with key stakeholders, such as the Welsh Government and the Betsi
+ Cadwaladr University Health Board, the University aims to expand its current medical and
+ clinical training to a full North Wales Health and Medical School. The School’s interdisciplinary
+ research would incorporate existing Bangor expertise in medical devices (Hancock, Palego,
+ Chen), virtual training (Vidal, Panos) and emerging excellence in digital systems that support
+ health care provision in geographically dispersed communities (Tang, Giddings). The
+ appointment of at least 4 new Early Career Researchers through the Sêr Cymru scheme, in
+ emerging multidisciplinary theme areas such as Control and Instrumentation; Medical Isotopes
+ and Nuclear Medicine; Nuclear Co-Generation; and Functional Sensor Materials has already
+ commenced.
+
+ We recognise the need for an agile approach to research planning that ensures alignment with
+ emerging opportunities and mitigates risks. Research partnerships with a carefully selected set
+ of institutions offer an important risk-mitigation strategy and will be an essential consortium-
+ building tool needed to address the ‘Levelling-up’ agenda: MoUs have been signed with key
+ stakeholders both within the UK and overseas (Section 3.3). Regular information sessions are
+ held at various levels with relevant civil servants, politicians, funding agencies and industrial
+ trade bodies, such as the CBI and the Federation of Small Businesses, to raise awareness of
+ research projects that have the potential for mutually significant translational impact. Increased
+ research through these partnerships requires access to a highly skilled researcher base in North
+ Wales and we are putting in place pathways to attract, develop and retain high quality
+ researchers, particularly ECRs. Increased research translation and company interaction will be
+ sought by increasing professional doctorates, especially where there are important regional
+ opportunities in sectors seeking to move to a zero carbon footprint (Aerospace, Automotive,
+ Energy and Photonics).
+
+
+ 3.2 Infrastructure and facilities
+
+ Bangor University has substantially invested in Engineering research infrastructure over the
+ REF2021 period across our three research themes areas, to a total of GBP3,860,000 on
+ laboratories and equipment, as described below.
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+
+
+ Within the Energy, Environmental-, and Bio-sensing theme, marine energy and ocean
+ engineering are of particular local significance, given the proximity of tidal energy sites around
+ Anglesey, including the West Anglesey Tidal Demonstration Zone. The University’s shelf sea 35-
+ m research vessel, the RV Prince Madog, provides infrastructure for ocean energy research,
+ supported by a team of electronics technicians and a range of instrumentation. This vessel is
+ capable of hosting 10 scientists continuously at sea for up to 10 days, which facilitates
+ collaboration with numerous UK research institutions and government partners. During this REF
+ period the Prince Madog was equipped with a new multibeam seabed mapping system
+ (GBP250,000) enhancing both mapping resolution and spatial scale. This makes Bangor one of
+ the best-equipped UK universities for offshore energy resource assessment and
+ characterization. These facilities are complemented by the iMarDis system, a data portal that
+ streamlines our data acquisition and storage, and three Coastal Observatories (GBP450,000)
+ that house 18 different oceanographic sensors and feed real-time data to iMarDis, providing
+ some of the highest temporal resolution data available for marine energy research and
+ increasing the spatial scale we can cover during surveys. Bangor’s investment in the Prince
+ Madog has led to grants of GBP1,200,000 (2014-20) for ocean renewable energy surveys,
+ which link closely with our data modelling research.
+
+ Other investments in the Energy and Environment theme include the Nuclear Futures Institute’s
+ 4 new purpose-built laboratories (GBP700,000), which include active materials manufacture
+ and characterisation laboratories with a new scanning electron microscope, Raman and X-ray
+ diffraction. Sub-kilogram scales of uranium can be handled for fuel development investigations.
+ These facilities support industrial projects and enable further inward funding (e.g. through the
+ Sêr Cymru II infrastructure accelerator grant (GBP110,000) for thermal analysis equipment and
+ a number of research projects totalling >GBP1,000,000). The Welsh Government recently
+ funded the Thermal Hydraulics Open-access Research facility (GBP350,000) to provide initial
+ research and develop the skills base for the GBP60,000,000 National Thermal Hydraulics
+ Facility planned to be located in North Wales, a critical capability to support next-generation
+ nuclear energy, as highlighted in the UK Government’s Nuclear Industry Sector Deal. These will
+ provide sustainable research projects for new nuclear reactor designs and propel the University
+ to a world-leading position in this field.
+
+ Additionally, Bangor’s reliability testing facilities were expanded via the Academic Expertise
+ for Business (A4B) CLARET project (GBP500,000) enabling highly accelerated life testing/stress
+ screening, thermal humidity and thermal cycle testing. Further enhancement of the facilities has
+ been achieved through individual grants: UKRI KTP funding has been used to install new
+ electrical test equipment for reliability; SPARC II, a European-funded collaboration with Swansea
+ and Aberystwyth Universities (2017-2023), has enabled new accelerated UV-testing stability
+ chambers to be commissioned; and private funding from Landis+Gyr has been used to install a
+ new salt-spray fog environmental chamber. This set of energy-related facilities has been
+ designed to meet the need for integration of research, innovation and industrially-funded work in
+ the energy sector. It now acts as a hub and infrastructure centre for numerous interdisciplinary
+ projects across the College.
+
+ The consistent growth of the Photonics and Communications theme over the REF period has
+ been enabled by strategic investments in staff and infrastructure, resulting in further grant
+ capture and expansion of our research facilities. The DSP Centre alone has commissioned high-
+ speed waveform generators, oscilloscope, optical spectrum analyser and vector network
+ analyser (GBP1,500,000). Expanded surface metrology equipment, including a laser confocal
+ microscope, was funded by Welsh Government. Our laser processing facilities have been
+ greatly expanded by Wang and Chen, with six new laser processing systems giving a total of
+ eight spanning a wide range of wavelength (355 nm – 10.6 um) and temporal ranges
+ (femtosecond – CW), including nanosecond lasers (GuoKe 355nm UV, 1064 nm fiber laser),
+ femtosecond laser (Tropical, Spectra Physics) and CO2 laser systems (Trotec Rayjet, Speedy
+ 300W, 400W, 500W). Nezhad’s EPSRC Fellowship has provided state-of-the-art photonic chip
+
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+ testing, including high resolution L+C band spectral sweeping and an integrated nanomechanical
+ testing capability.
+
+ Bangor opened the GBP20,000,000 Menai Science Parc in 2018 with major investments from
+ Welsh Government and EU sources. M-SParc is focused on exploiting and commercialising
+ Bangor’s research to realise benefits for the local economy, with a focus on low-carbon energy
+ and digital sectors. It is sited within Anglesey’s Low Carbon Energy Enterprise Zone. M-SParc
+ now houses the DSP Centre’s commercial exploitation work and the THOR experimental facility
+ of the Nuclear Futures Institute.
+
+
+ 3.3 Collaborative use of research infrastructure
+
+ Engineering at Bangor follows a culture of equipment and infrastructure sharing, both internally
+ and also with external users and facilities. As a result, cross-collaborations are common and
+ follow both themes/centres, and organic collaborations between individual PIs. The CSEE
+ Research Committee has an ethos of facilitating Bangor’s Engineering researchers. It plans
+ research directions, infrastructure needs, and collaborations, deciding on priorities and providing
+ guidance. Specific investment proposals are considered and decided based on expert
+ consensus among staff stakeholders. This co-ordinated approach has already enabled a
+ significant shift towards both industry collaboration and successful UKRI funding.
+
+ Collaboration with strategic partner research groups and industry has been set up through
+ formal memoranda of understanding and research agreements with, for example, Imperial
+ College, University of New Brunswick (Canada), Nuclear Advanced Manufacturing Research
+ Centre, the UK National Nuclear Laboratory, Siemens (Germany), Thales (France), Hitachi-GE
+ (Japan), Westinghouse Electric Company (USA, Sweden and the UK). The longer-term impact
+ of these partnerships is to support the development of high-value supply chain clusters in the
+ North Wales region’s key export sectors (aerospace, automotive, photonics and renewable
+ energy) and emerging new sectors (next generation nuclear, environment, 5G, medical devices
+ and microrobotics), providing high value jobs and sustainability to the region.
+
+ In addition to informal collaboration arrangements between PIs and research centres for sharing
+ laboratory setups and test equipment, CSEE also operates several large infrastructure items that
+ operate on a shared infrastructure basis (e.g., the microfabrication cleanroom and the laser
+ processing lab). These are open to both School staff and external users (fee-based for the
+ latter). Access to the cleanroom is governed by a dedicated equipment reservation calendar and
+ a robust training and qualification process is in place for rapid induction of users. The success of
+ these policies has led to them being adopted widely across the University (for example in NFI’s
+ new materials characterisation facility). Direct access or secondments of external staff to
+ undertake research in our cleanroom, material, reliability and device characterisation labs has
+ generated external income of nearly GBP200,000 since 2014.
+
+ Our researchers also make use of major external facilities. Nezhad has been a visiting
+ researcher at the National Graphene Institute (University of Manchester) since 2017, enabling
+ use of cleanroom infrastructure and equipment, and sharing of technical knowledge with the
+ Institute team. Other examples include the Nuclear Future Institute’s access to the National
+ Nuclear Users Facilities (including the Dalton Nuclear Institute’s Cumbria [irradiation] Facility and
+ UK Atomic Energy Authority Materials Research Facility at Culham), Vidal’s use of the Diamond
+ Light Source synchrotron and Roberts’ role as Bangor’s lead in Supercomputing Wales.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Collaborations and interdisciplinary research
+
+ Bangor University has a long track record of national and international collaborations in
+ engineering. Internal support is provided to enhance success with international grant
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+ applications such as the Newton fund, which has led to collaborative projects with University
+ Londrina (Brazil), Vietnam Academy of Science and Technology, and University of Sao Paulo
+ (Brazil). Other significant interdisciplinary and/or international grants include those from EU
+ sources such as the H2020 “Future and Emerging Technologies” projects: SUMCASTEC (led by
+ Limoges and Bangor Universities (Palego)), SteelPV (Kettle) and Marie Curie networks (Chen).
+ The SUMCASTEC collaboration of engineers and biologists has resulted in novel bio-electric
+ experimental techniques for studying cancerous brain cells. EPSRC seed funding and NRN-
+ AEM grants have enabled new collaborations on silicon and diamond integrated photonics
+ between Nezhad and Cardiff and Southampton Universities.
+
+ Interdisciplinarity is a defining feature of our research that has been significantly facilitated by the
+ establishment of CSEE during this REF period. Outputs submitted to REF2021 include 52
+ publications (81% of total) co-authored with collaborators from other institutions, including UK
+ and international research leaders in physics, ocean science, bio- and environmental sciences,
+ chemistry, economics, mathematics and medicine. Exemplars include published work on
+ microwave medical equipment (Hancock/Palego) co-authored with two consultant
+ gastroenterologists. Two PhD students have been funded by KESS2 to research bee telemetry,
+ with co-supervision between UoA12 engineering (Palego) and UoA7 environmental science
+ staff, and close collaboration with Agritech industry to develop technology for monitoring
+ pollinators. Other funded interdisciplinary collaborations have been with environmental and
+ Agritech researchers in the Institute of Biological, Environmental and Rural Sciences at
+ Aberystwyth University to develop low-cost and printed methane sensors for monitoring
+ greenhouse gas emissions (Kettle).
+
+
+ 4.2 Industrial collaborators
+
+ A range of projects have been supported by industrial collaborators. Industry-facing centres
+ have been established as part of the CLARET project led by Kettle through industrially-funded
+ projects on reliability engineering with around 15 companies, which generated significant repeat
+ business, leading to KTP projects and InnovateUK funding. The DSP Centre’s 27 industrial
+ partners provide in-kind support. Additional work by Kettle includes expert advice to Walker
+ Morris LLB for quality investigation of electronic products. Other technology transfer saw
+ GBP285,000 secured by via two KTP projects with Smartkem, and direct cash contributions to
+ undertake collaborative research, and a further successful KTP with PolarOLED. In the
+ renewable energy sector, the research of Neill and Lewis has supported research projects with
+ industrial partners Minesto, Morlais, Nova Innovation, SIMEC Atlantis, Nortek, Deltares, and
+ SBS International Ltd, and The Met Office. Middleburgh has an ongoing industrial collaboration
+ with Westinghouse Electric including membership of the GBP10,000,000 consortium (funded by
+ BEIS) to work on their lead-cooled advanced modular reactor (GBP300,000 supporting Bangor
+ University). The Virtual Reality research of Ap Cenydd informs an ongoing collaboration since
+ 2013 with a range of international companies, such as Facebook/Samsung/Xiaomi. Industrial
+ projects have also been a useful funding source for many of our PhD students. The EPSRC
+ CDT in Nuclear Energy Futures is supported by most major nuclear companies in the UK who
+ provide GBP5,200,000 of in-kind support to the whole network. The KESS II PhD programme
+ has supported 15 industrial-focused PhD students, including with Westinghouse,
+ AstralDynamics and Qioptiq.
+
+ In addition to direct research collaboration with individual companies, Bangor staff also sit on
+ advisory boards. For example, Lee serves on the Technical Advisory Board for several
+ companies: the National Nuclear Laboratory, the Royal United Services Institute, Morgan
+ Advanced Materials plc, Tokamak Energy plc and RHI-Magnesita plc. Rushton sits on the
+ Nuclear Academic and Industry Liaison Sub-committee of the Nuclear Institute, which provides a
+ key interface between academia and the nuclear industry. Kettle was the Vice-chair in the
+ COST Action Performance and Reliability of Photovoltaic Systems, involving 37 countries, with
+ the aim of improving the energy performance and reliability of photovoltaic (PV) solar energy
+ systems in Europe.
+
+                                                                                                 Page 13
+Unit-level environment template (REF5b)
+
+
+
+ 4.3 Contribution to society
+
+ We disseminate our engineering research in a tailored way appropriate to the intended audience
+ and objective. Our secondary schools and FE outreach has sought to highlight the opportunities
+ of a STEM career in a way that addresses diversity issues and raises aspiration of pupils by
+ using role models that they can relate to. In Bangor’s North Wales context, that means being
+ sensitive to the bilingual nature of the local community. Bangor’s role in the Wales-wide
+ Technocamps project (supported by EU and Welsh Government funds of GBP1,100,000) has
+ led to children from over 100 local schools being introduced to coding, robotics and control
+ electronic research, utilizing relevant research from our Visualisation theme. CSEE is also
+ home to the ‘Photonics Academy for Wales @Bangor’, which enables photonics research
+ projects to be undertaken by high school students. Both of these programmes have also sought
+ to inform and educate parents and other influencers who have a significant impact on children in
+ their formative years. Capacity for societal outreach from our research is greatly enhanced by
+ Bangor University’s GBP51,000,000 Pontio Arts and Innovation Centre, which opened in 2015
+ and includes a business development hub with an MIT-accredited ‘Fab-lab’ that provides a
+ venue for local users to develop and exploit innovative ideas at different scales. Science
+ discovery sessions are incorporated into Pontio’s Arts programme, and CSEE hosted an ‘Artist
+ in Residence’. Bangor’s engineers also worked with the theatre group Acrojou on a production
+ exploring chaotic dynamics.
+
+ We have also extensively used more familiar methods of dissemination, including presentations
+ at major national/international events and coverage in national media. Shore led events in
+ Wales for the 2015 UN International Year of Light and was Chair, Science and Technology
+ Committee, National Eisteddfod of Wales 2017, which attracted 25,000 visitors to the Science
+ and Technology Pavilion. ap Cenydd organised an underwater VR exhibit at the American
+ Museum of Natural History, New York (2017) and exhibited at National Eisteddfod (2017), M-
+ SParc (2018), local schools (2016-Present), the Bangor Science Festival (2014-2018), and the
+ House of Commons (2019). Kettle, ap Cenydd, Wang, Palego, Lee, Rushton and
+ Middleburgh have been interviewed on BBC Wales and Roberts on ITV to communicate and
+ promote their research. Our staff are encouraged to publicise their research using the
+ University’s press office and media such as The Conversation; examples include “Researchers
+ invent device that generates light from the cold night sky” (Kettle), which attracted 60,000 views.
+ The University also introduced a social and digital media strategy to promote research in this
+ REF period, which greatly benefited dissemination of Wang’s research; his ‘spider silk’
+ microscope reached >15,700 web pages with 110,000 views since publication.
+
+
+ 4.4 Other esteem indicators
+
+ Examples of instances demonstrating esteem during the assessment period are:
+
+       Lee served on the US National Academies of Sciences, Engineering and Medicine
+        Committee for Independent Assessment of Science and Technology, for the Department
+        of Energy’s Defense Environmental Cleanup Programme. He was the only non-USA
+        member and the committee reported direct to US Congress. He was also a member of
+        the UK Government Nuclear Innovation and Research Advisory Board (2014-17), the
+        Royal Society Policy Briefing Committee on Nuclear Co-Generation and the Global
+        Challenges Research Fund Networking Grants scheme Awards panel, an Evaluator for
+        the EC H2020 Widespread programme Teaming Phase 2, and on the External Advisory
+        Board of a multi-member US consortium Center for Performance and Design of Nuclear
+        Waste Forms and Containers hosted by Ohio State University.
+       Middleburgh is a member of the team working with the Foreign Office, Ministry of
+        Defence and Counter Proliferation & Arms Control Centre as an expert on nuclear fuel
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+
+        manufacture and behaviour for the UK’s commitment to the Joint Comprehensive Plan of
+        Action (colloquially called the Iran Nuclear Deal, 2018-2020). Rushton and Middleburgh
+        are members of the EPSRC UK-Japan panel for civil nuclear research funding.
+       Neill was a steering committee member of a US Department of Energy SNL “Early
+        market Hotspot” project (2017-2019).
+       Kettle was a member of the Advisory Board to BEIS on future of Research Fund for Coal
+        and Steel.
+       Lee, Shore, Giddings, Ritsos, Roberts and Nezhad are full members of the EPSRC
+        Peer Review College. Kettle and Hong are associate EPSRC Peer-Review College
+        members and Neill a NERC Peer-Review College member.
+       Roberts was Chair of an ICT, EPSRC prioritisation panel. Neill is an assessment panel
+        member of the EPSRC UK/China offshore renewable energy call.
+       Nezhad was invited as a ‘Silicon Photonics Champion’ by the University of Southampton
+        to assist in preparing their 2020 bid for a Silicon Photonics National Research Facility.
+       Hancock received the IOP Katharine Burr Blodgett Medal for designing and patenting
+        an electro-surgery platform to treat lesions in the gastrointestinal tract.
+
+
+ 4.5. Fellowship/leadership of significant societies
+
+ Our staff have achieved national and international recognition in multiple diverse areas.
+ Examples during the REF201 period are:
+
+       Shore is the General Secretary and Council member of the Learned Society of Wales.
+       Lee is a Fellow of the Royal Academy of Engineering; City and Guilds Institute; Institute
+        of Materials, Minerals and Mining; American Ceramic Society and Foreign Fellow of the
+        Indian National Academy of Engineering. He was also President of the American
+        Ceramic Society (2016-17), the first from outside the USA in its 120-year history.
+       Tang is a Fellow of The ERA Foundation.
+       Kettle is member of International Electrotechnical Commission (IEC) 63288 Technical
+        Discussion Group (2018-present).
+       Neill is a member of the International Electrotechnical Commission (IEC) committee on
+        Tidal Resource Characterization and Assessment (developing the international technical
+        specification), plus the corresponding British Standards Institution committee (2016-
+        present)
+       Rushton and Middleburgh both sit on the Materials Chemistry Committee of the
+        Institute of Materials, Minerals and Mining and are members of the Nuclear Institute.
+        Middleburgh has been awarded Fellowship of the Institute of Materials, Minerals and
+        Mining (2020).
+
+
+ 4.6 Editorial boards/Conferences
+
+ Five members of staff have been full editors/sub-editors of journals since 2014 including Lee
+ (Journal of the American Ceramic Society, Ceramics International, Advances in Applied
+ Ceramics), Kettle (RSC Advances), Vidal (Array), Roberts (Journal of Information
+ Visualisation), Neill (Renewable Energy), Middleburgh (MRS Advances).
+
+
+ 4.7 Conferences
+
+ Bangor’s Engineering researchers have made 67 invited research presentations and 18
+ keynotes/plenary presentations since 2014. We have acted as 16 conference chairs/convenors
+ including at major conferences such as IEEE International Microwave Symposium (Honolulu,
+ 2017). Our staff have been members of 32 programme committees, and we have hosted three
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+ international conferences. Middleburgh was a symposium organiser for the Fall Materials
+ Research Society 2019 meeting “Structure–Property Processing Performance Relationships in
+ Materials for Nuclear Technologies.” Lee, Rushton and Middleburgh hosted the UK Nuclear
+ Academics Meeting at Bangor with Imperial College, attended by around 100 academics,
+ industry and civil servants, and Kettle the 13th PVSAT (Photovoltaics Science, Applications &
+ Technology) with around 200 academics. Vidal was the Conference Chair for Eurographics:
+ Computer Graphics & Visual Computing 2019.
+
+
+
+
+                                                                                         Page 16
+

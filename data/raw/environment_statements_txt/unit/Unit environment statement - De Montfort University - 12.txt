@@ -1,0 +1,937 @@
+Unit-level environment template (REF5b)
+
+ Institution: De Montfort University
+ Unit of assessment: 12
+ Section 1. Unit context and structure, research and impact strategy
+
+ 1.1 UNIT CONTEXT
+ The staff for UOA 12 are largely based in the Institute of Engineering Sciences (IoES), a part of the
+ School of Engineering and Sustainable Development along with the Institute of Energy and
+ Sustainable Development, whose staff are predominantly UOA 13 entrants. The School itself is part of
+ the Faculty of Computing, Engineering and Media, which includes the School of Computer Science
+ and Informatics, and the Leicester Media School.
+ The IoES was formed in 2018 as a joint response to providing an overall umbrella for the research
+ growth, and to support early career academics in the four key thematic areas (emerging technologies
+ in micro and nano technology; signal processing and communications systems; surface engineering
+ and materials; and nonlinear flight dynamics). The Institute coordinates activities and supports
+ development initiatives that span the Unit.
+ The REF submission for 2014 contained 25 Category A staff, of whom 17 are not entered this time in
+ UOA 12 (some have retired or left DMU, others are entered into different UOAs). The current
+ submission totals 27 FTE Category A staff. Two-thirds of the Category A staff are new academic
+ posts compared to the previous REF. This substantial investment in staff across the thematic areas
+ has provided vitality and a sustainable base for future growth.
+
+ 1.2 UNIT STRUCTURE
+ The Unit is arranged in four groups, representing the thematic areas discussed above. These areas
+ represent key strengths for the Unit, span the interests of the research-active staff and ensure that
+ each area has both a variety of viewpoints as well as a critical mass to grow in impact and influence
+ over the coming years. These groups address a variety of research challenges, as identified from the
+ REF 2014 submission. The Institute is visualised in Figure 1.
+
+
+
+        Signal Processing and             Emerging Technologies Research
+       Communications Systems                         Centre
+
+
+
+                                 Institute of
+                                 Engineering
+                                  Sciences
+
+
+
+       Nonlinear Flight Dynamics            Solid Mechanics and Materials
+
+
+
+
+ Figure 1: Structure of the Institute of Engineering Sciences and UOA 12
+ •   The Emerging Technologies Research Centre (EMTERC) (Cross, Govindarajan, Hamilton,
+     Manjunatha, Paul (leader), Salaoru): EMTERC works at the forefront of research in materials,
+     devices, the nano-bio interface and printing applications. Of particular importance for EMTERC
+     are low temperature growth of silicon structures for electronics and energy generation and storage
+     applications. Paul’s recent EPSRC High Value Manufacturing Fellowship has been directed at
+
+                                                                                            Page 1
+Unit-level environment template (REF5b)
+
+     exploiting one patent (GB2482915) about Li-Ion batteries. Another highlight of EMTERC’s
+     research is the significant contribution to understanding nano-composite electronic memory. The
+     proposed electrical bistability mode has been employed in different material systems including
+     silicon nanowires.
+ •   Signal Processing and Communications Systems (SPCS) (Cosar, Duffy, Ghazal, Hamzaoui
+     (leader), Maricar, Palusczyszyn): SPCS focuses on video communication, computer vision,
+     applied electromagnetics, wireless channel models, and RF and microwave devices and circuits.
+     Recent research projects include 3D point cloud compression, perceptual image coding with just
+     noticeable difference, computer-based human activity recognition, application of the Feature
+     Selective Validation method in computational electromagnetics, partial discharge modelling, and
+     channel modelling for high-speed train wireless communication systems. DMU launched a series
+     of United Nations Sustainable Development Goals (UNSDG) Fellowships for the 2019/20
+     academic year as an internal competition. The Faculty won one such Fellowship (Duffy), which is
+     based on applying a DMU-developed data comparison technique to validation of approaches for
+     the detection of land mines using ground-penetrating radar, with partners in the Universities of
+     Manchester and Kharkiv. This area is also host to one Marie Curie Research Fellow (1.4 and 3.1).
+ •   Solid Mechanics and Materials (SMM) (Abdel-Raheem, Abdi, Baserinia, Diao, Farukh, Kandan,
+     Khoshnaw, Mba, Moroz, Sun (leader), Zahedi): SMM includes mechanics modelling,
+     manufacturing by 3D printing, surface engineering, tribology and bioengineering. An area of
+     particular concern is the design and manufacture of prosthetic related products for low-income
+     countries using recycled materials. The research is particularly well known for its surface
+     engineering and tribological characterisation of metals and metal alloys, 3D printing of medical
+     implants and prosthetics, and additive manufacturing of lattice structures using powder-based
+     technologies. Control and dynamics is an important theme that runs through this group, which also
+     embraces water control and dynamics. Advanced signal processing techniques are also applied
+     for machinery health condition and remaining life prediction (prognosis) for critical machine
+     elements, such as helicopter main gearboxes (Mba).
+ •   Nonlinear Flight Dynamics (NLFD) (Abramov, Goman (leader), Li, Yao): NLFD has decades of
+     active research and industrial applications in applied aerodynamics at high angles of attack and
+     nonlinear flight dynamics, including the investigation of critical flight regimes. The group has
+     completed many successful R&D projects in Russia, China, India and Europe and has developed
+     a validated methodology for phenomenological modelling of aerodynamics in an extended flight
+     envelope at stall conditions and beyond, based on experimental data from wind tunnel tests with
+     the use of CFD simulation methods helping to compensate experimental limitations. A significant
+     impact was made in the development of flight simulation models of transport aeroplanes for pilot
+     training in Loss-of-Control In-flight (LOC-I) situations and Upset Prevention and Recovery Training
+     (UPRT). For example, the extended flight envelope aerodynamic model SUPRA (FP7 EU
+     research project SUPRA,) is currently used for pilot training for LOC-I and UPRT on a unique in
+     Europe centrifuge-based flight simulator (DESDEMONA).
+
+ 1.3 RESEARCH STRATEGY
+ 1.3.1 Review of REF 2014 key strategic direction
+ The strategy outlined in REF 2014 identified two specific challenges that the Unit needed to address
+ in the subsequent census period. The key achievements in these areas are to
+ •   build on the existing infrastructure: the significant change in the staff base, with the focus on
+     recruitment of early career academics, has resulted in a stronger, more vibrant and more
+     sustainable staff base than was present in 2014, with better-defined research groups (thematic
+     areas).
+ •   define clear research challenges in each area of the current submission: the growth of the staff
+     base coupled with the University’s adoption of the UNSDGs has contributed to the ongoing
+     development of the key themes in each of the four groups.
+
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+
+ DMU’s adoption of the UNSDGs, in particular, No Poverty (UNSDG 1), Industry Innovation and
+ Infrastructure (UNSDG 9) and Responsible Consumption and Production (UNSDG 12), provided the
+ Unit with a further focus for developing the impact of the work of the Unit.
+ 1.3.2 Strategic focus
+ During the assessment period, the Unit’s strategic aim was to undertake research that has an impact
+ on industry and the professions, as well as benefiting society. This aim was achieved by
+ 1         supporting and funding high-quality research that addresses key societal challenges, such
+           as sustainability in energy, water, and transport. Examples include low-temperature silicon
+           structures for energy generation and storage, manufacturing prosthetics with recycled
+           materials, modelling water distribution systems, and flight simulation models for pilot
+           training. Recently, UNSDGs were identified as part of all internal funding mechanisms with
+           the intention of embedding them more widely in the University’s research DNA;
+ 2         developing stakeholder networks to increase the translational and transfer opportunities for
+           the Unit (4.1 and 4.3);
+ 3         increasing involvement with leadership in the profession. This includes membership in
+           standards committees, as well as professional bodies and conference organising
+           committees (4.2.6);
+ 4         improving international recognition of the Unit’s research through overseas honorary
+           appointments, increasing citations with open access papers and data, as well as presenting
+           and hosting webinars, topical meetings and conferences (4.2.6).
+
+ 1.4 RESEARCH IMPACT
+ The development of impact is primarily generated through mutually beneficial stakeholder
+ relationships. Over the assessment period our aims were to
+ 1. recognise and reward industrial collaborations:
+       • DMU runs an internally competitive Enterprise competition to award funding to take
+           research further along the Technology Readiness Levels (TRLs) with external company
+           support. Within the Unit itself, staff are directed to use the discretionary budget to support
+           networking activities which will help build academic and industry networks. Technical
+           networking events are organised on an occasional basis to bring industry and academics
+           together with the view to finding areas of mutual interest.
+       • In order to develop this further, the recent introduction of the PhD by Extended
+           Professional Practice, championed by the IoES Director, is intended to develop mutually
+           beneficial high level technical relationships with industry;
+ 2. extend our alumni network to expand our industrial links;
+ 3. ensure that internally funded projects demonstrate how they will develop and capture impact in its
+    broadest form.
+ Examples of how these approaches are bringing benefit to the Unit are:
+ •   Palusczyszyn’s Industrial Fellowship (The Royal Society Short Industry Fellowship, October
+     2019–August 2020), followed directly from the links made during a networking event with key
+     technical staff in HORIBA MIRA;
+ •   Initial meetings regarding the application for Paul’s High Value Manufacturing Fellowship were
+     supported by the Unit with the Carbon Trust and Energy 4 Impact providing business support
+     services to him to overcome barriers to commercialise his ideas; Paul was selected for the Ignite
+     (2020) programme, funded by Innovate UK;
+ •   Maricar and Ghazal are working with Leicester City Council on IoT-enabled environmental
+     monitoring funded by Leicester City’s and the University’s ‘Local+’ scheme;
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+
+ •   Duffy’s Marie Curie Fellowship involves HVPD Ltd, a company where an alumnus is a Director.
+ As noted, the significant driver of impact is working with industry. Low technology readiness level
+ (TRL) research is fundamental to our research inquiry. However, mid- to high-TRL research and
+ translation is particularly encouraged. The three impact case studies are examples of this, with
+ Goman being representative of the impact of the NLFD area, Ulanicki of SMM and Oxley
+ representing the interface between SPCS and EMTERC. Goman’s ‘Enhancing pilot training and flight
+ safety through improved aerodynamic modelling and prediction of nonlinear flight dynamics’
+ addresses three types of impact: pilot training for the extended flight envelope (Desdemona, the
+ Netherlands and CSIR-NAL, India), flight simulator development (AMST-Systemtechnik GmbH,
+ Austria) and support for the development and testing of civil aircraft (TsAGI). Oxley’s ‘Infra-red micro-
+ thermography for electronic devices’ assists commercial organisations to develop more reliable
+ semiconductor devices. Ulanicki’s ‘Improving Operation and Control of Water Distribution Systems’
+ develops mathematical models and computer methods for improved control of pressure and flow, as
+ well as burst detection in water distribution systems, addressing issues of water-supply reliability in
+ conjunction with a number of utilities.
+ Support for impact development underpinning the three case studies submitted has included research
+ leave scheme awards (Goman, Ulanicki), PhD bursaries/scholarships (Goman, Ulanicki), research
+ capital investment funding (Oxley) and the employment of Vertigo Ventures-Impact Tracker.
+ Impact in the Unit, of course, is wider than these case studies, particularly in the form of engagement
+ with industry. Industry engagement is encouraged as it provides value in both directions: providing
+ industry with academic input and bringing impact opportunities, relevance and contextualisation to the
+ work in DMU. For example:
+ • Paluszczyszyn holds an Industrial Fellowship with HORIBA MIRA, exploring issues of
+   autonomous vehicle driving;
+ • Maricar (building on the work of Oxley, who recently retired and remains a visiting senior research
+   fellow) undertakes infrared thermography measurements on active semiconductor devices
+   (Oxley’s work is the basis of another impact case study);
+ • Duffy provides regular electromagnetic testing to industry as DMU is the only university providing
+   assurance tests for the police’s ‘Secured by Design’ accreditation;
+ • Kandan developed the first-of-its-kind prosthetic limb socket made from recycled plastic bottles,
+   which could save healthcare providers millions and help tackle plastic pollution;
+ • Sun provides technical services to industry on materials characterisation and properties testing;
+ • Paul has developed an industrial manufacturing process to contribute to next generation
+   photovoltaic solar cells and lithium-ion battery developments.
+ The Unit is committed to ethical and responsible research and works in accordance with the
+ University’s robust processes. The Unit is also committed to Open Access in both publications and
+ data. All outputs that are not Gold Open Access are expected to be placed on DORA (DMU Open
+ Research Archive) within three months of acceptance. The University uses Figshare for capturing
+ wider research data and researchers are encouraged to make use of this. Its use will become
+ mandatory over the subsequent five years as we embrace the principles of open research and
+ research reproducibility.
+
+ 1.5 RESEARCH AND IMPACT OBJECTIVES FOR THE NEXT FIVE YEARS
+ In addition to the above research aims, the specific objectives for the next five years are:
+ 1      To increase externally obtained research funding (towards the prevailing sector norm),
+        including funding for one or two postdoctoral research fellows per annum. The introduction of a
+        ‘peer review college’ by DMU is being used as a basis to increase mutual support and
+        mentorship in applications and thereby increase the reviewer scores and panel rankings.
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+
+ 2      To build networks of national and international research collaborators for every academic,
+        resulting in journal outputs and/or external (and transnational) funding bids. Most academics
+        already have an international network of collaborators and these networks will be used for
+        mutual expansion (subject to domain similarities). Expansion of leadership in the profession
+        will also expand international networks as well as national networks.
+ 3      To increase the number of PhD graduates by at least 25%, mainly through recruitment of
+        international PhD students and by recruiting to the PhD by Extended Professional Practice
+        (validated in 2020). Work with the University’s International Office is under way to help raise
+        the profile of international opportunities, and the Industrial Liaison Committee of the School of
+        Engineering and Sustainable Development is set to champion the PhD by Extended
+        Professional Practice through its wider networks.
+ 4      To see the result of staff development and mentoring reflected in the awarding of further
+        personal chairs. The Unit would like to see at least two more. Senior staff within the UOA are
+        providing guidance and mentorship to help with this process.
+ 5      To enhance the gender balance and maintain the proportion of BAME staff. We will look to
+        working with bodies such as the Women’s Engineering Society to help us adopt best practice.
+        While dependent on the potential for recruitment, the Unit would like to see more than 15% of
+        its academics being women.
+ 6      To strengthen links with industry and key stakeholders, developing demonstrable impact
+        through translating research to evidencable benefit. Section 4.3 describes some of the ways
+        that the Unit is currently working with such stakeholders.
+ Section 2. People
+
+ 2.1 STAFFING STRATEGY
+ Our staffing policy is designed to recruit staff who have (or have the potential to develop, depending
+ on the level of appointment) a reputation for internationally leading research that complements one of
+ the four groups previously identified.
+ The recruitment of early career academics has been the core of the recruitment strategy. This has
+ been with a view to long-term sustainability and vibrancy of the research environment. The main
+ vehicle for this has been the prioritisation of the recruitment of early career academics through the
+ Vice-Chancellor’s 2020 (VC2020) and the Early Career Academic Fellow (ECAF) schemes. Both
+ schemes recruited staff with significant potential, generally into their first academic post, and gave
+ them 50% protected research time for their first year. Eleven VC2020s have joined the UOA (Abdi,
+ Abdel-Raheem, Baserinia, Farukh, Hamilton, Kandan, Khoshnaw, Manjunatha, Paluszczyszyn,
+ Salaoru, Zahedi). Two staff were initially recruited as ECAFs and promoted to VC2020 lecturers
+ (Ghazal, Maricar). Two VC2020s have been promoted to associate professors (Kandan, Salaoru).
+ Internal support and mentorship have helped see the promotion of five of eight staff who were
+ submitted in 2014: three staff to professorial level (Duffy, Paul, Sun) to join Hamzaoui and Goman,
+ who already held personal chairs, and three staff (Cross, Li, Moroz) to the recently introduced
+ associate professor grade. Two staff appointed as VC2020 academics have also been promoted to
+ associate professors (Kandan, Salaoru).
+ DMU sees internationalisation and an international perspective as something to benefit students and
+ staff. Recruitment to the Unit also seeks this international perspective with all but three Category A
+ staff being born and/or educated outside the UK. Staff come from the UK, the EU, North Africa, sub-
+ Saharan Africa, the Middle East, the Indian subcontinent and the Far East.
+ There is one woman submitted to this Unit. In 2014 there were two: one is submitted to UOA3 in
+ REF 2021 and the other no longer works in higher education.
+ Over the current census period we have recruited a significant body of predominantly early career
+ academics. This has resulted in increasing the number and improving the quantity of outputs and
+ developing more technology translational activities. There was a short-term trade-off for this
+ recruitment: the plateau of research degree awards and the decline in research income. However, the
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+
+ Unit is recovering, with the support strategies previously described starting to show positive returns.
+ Four early career academics submitted to UOA 12 are graduates from the Unit (Manjunatha,
+ Maricar, Paluszczyszyn, Salaoru). Clearly, this helps demonstrate the Unit’s commitment to
+ sustainability in staffing.
+
+ 2.2 STAFF DEVELOPMENT
+ The VC2020 academics have also been provided with ring-fenced individual funding (up to £5,000 per
+ annum) in order to enhance their ability to produce high quality research outputs and to enhance their
+ network building. The success of this can be seen through the variety of papers on the DMU open
+ research archive, DORA, some of which are submitted here.
+ The IoES and Faculty have supported external reviews for external competitive research funding bids
+ along with internal development assistance which has included facilitating discussions with relevant
+ research council staff, partly for staff development (to understand the role and scope of the research
+ councils) and partly to help in focusing the detail of the particular application being considered. The
+ University has or had other competitive internal funding mechanisms such as HEIF (Higher Education
+ Innovation Fund, targeted at knowledge exchange activities), RCIF (Research Capital Infrastructure
+ Fund, which looks to build facilities), RIF (Research Investment Fund, intended to spur new research
+ areas or accelerate existing areas) and the Global UNSDG Fellowship, previously the RLS (Research
+ Leave Scheme) providing relief from teaching activities for a period of typically one semester, allowing
+ the holder to concentrate on research activities. Some examples of these awards are:
+ •   HEIF: Duffy 2014/15 Electromagnetic Compatibility Alliance (£6,000); Salaoru 2016/17 and
+     2017/18 3D Printing of Greener, Leaner and Flexible Electronic Memory Devices and Inkjet
+     Printing of Graphene-based Materials (£15,300 and £14,300), Manjunatha 2019/20 Flexible and
+     Foldable Electronic Appliances (£14,000)
+ •   RCIF: Cross et al., 2015/16 Electron beam lithography (£41,300), Paluszczyszyn, 2015/16
+     Immersive Vehicle Virtual Reality Testbed (£24,172)
+ •   RIF: Paul, Sun 2014/15
+ •   RLS: Ulanicki 2014/15, Duffy (Global UNSDG Fellowship) 2020.
+ Further, funding was awarded to develop GCRF research capability in 2017–2019 (Kandan, £10,347;
+ Sun, £32,710).
+ Early career researchers are mentored from their first day by experienced colleagues. The Research
+ Services Directorate provides a local induction and ongoing training throughout their careers. A
+ regular programme of training courses is produced which colleagues are encouraged to attend. Each
+ research centre prepares research plans with measurable objectives in terms of published outputs,
+ grant applications and PhD student recruitment/completion. The plans are reviewed and updated
+ annually. Research-active staff are encouraged to request additional research time through Research
+ and Innovation Allowances in which independent researchers are allocated, in addition to a 10%
+ scholarship allowance, 320, 480 or 640 hours research time per year (1–2 days per week). The
+ average across the Unit for 2019/20, excluding the scholarship allowance, is 492 hours or 0.3 FTE per
+ academic (representing an equivalent of eight FTEs in the Unit dedicated to research).
+ Various workshops are run to provide broad development opportunities. Recent workshops have
+ included how to present research, respond to rejection from publication, address challenges in
+ research supervision, develop an elevator pitch for research projects, communicate the academic
+ impact of research outputs.
+ DMU runs a competitively selected Future Research Leaders scheme, designed to improve the
+ strategic competence base within the University. The scheme is limited to 12 places per year. The
+ Unit has had three staff pass through this scheme (Duffy, Cross and Kandan).
+ The Faculty’s Research and Innovation Office and the University’s Research Services Directorate
+ provide day-to-day support to all academics.
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+
+ 2.3 THE POSTGRADUATE RESEARCH ENVIRONMENT
+ The history of research degree completions can be seen in Figure 2.
+
+
+
+
+                      2013/14     2014/15     2015/16     2016/17     2017/18     2018/19     2019/20
+
+                                            Figure 2: PhD Completions
+ The rise since 2017 reflects the gains being made by the re-staffing within Engineering. This
+ represents just over two graduations per FTE member of staff at current numbers. It should also be
+ noted that the ‘international PhD’ (iPhD) scheme graduations, where students study primarily in their
+ home country and visit DMU for typically between one and two months per year, while not included in
+ the REF return, provide a fuller picture of the graduation pattern (Figure 3).
+                 14
+
+                 12
+
+                 10
+
+                  8
+
+                  6
+
+                  4
+
+                  2
+
+                  0
+                      2013/14
+                      2013 - 14   2014/15
+                                  2014 - 15   2015/16
+                                              2015 - 16   2016/17
+                                                          2016 - 17   2017/18
+                                                                      2017 - 18   2018/19
+                                                                                  2018 - 19    2019/20
+                                                                                              2019 - 20
+
+                      Figure 3: PhD Completions including ‘international PhD’
+ This increases the graduation rate to approximately 2.5 per FTE academic or, on average,
+ approximately one graduation per academic every 2.7 years.
+ For context, there was an average of 7.8 completions per year in REF 2014. However, in this census
+ period that had dropped to 6.8 completions per year (without iPhDs), and this is particularly influenced
+ by the drop in 2016–2018, but showed an increase to 8.7 completions per year with iPhD completions
+ included.
+ The current number of first supervisions within the Unit is 27. The Institute is actively working with the
+ International Office to enhance the recruitment of international postgraduate research (PGR) students
+ and with a number of national and international partners to explore agreements for joint supervision,
+ which helps address our strategic aim of growing the PGR community.
+
+                                                                                                          Page 7
+Unit-level environment template (REF5b)
+
+ DMU runs an annual PhD bursary competition. During the assessment period, the Unit has benefited
+ from 11 of these bursaries, with emphasis being given to supporting the development of early career
+ academics as supervisors. Farukh, Kandan, Paluszczyszyn and Zahedi have all supervised (or are
+ currently supervising) University-supported PhD students. One of the bursaries was awarded to a
+ student for the project ‘Development of aerodynamic model of a transport airliner in extended flight
+ envelope using computational fluid dynamics methods’. He is currently continuing his research career
+ as a postdoctoral researcher, working with Goman. Some students have been funded by Innovate UK
+ and industry (e.g. Volvo car corporation), while many others received scholarships from overseas
+ agencies, such as the Saudi Arabian Cultural Bureau, Indonesian Directorate General of Higher
+ Education, CSIR-NAL (a government research centre in India), Iraqi Cultural Bureau, Embassy of the
+ Libyan Arab Republic, and Ministry of Education and Training of Vietnam.
+ All PhD students undertake research training run by the University’s Doctoral College and they are
+ members of the School’s Doctoral Training Programme, which organises various meetings, talks and
+ workshops. The University’s Researcher Development Programme is based around seven themes
+ (core knowledge; research effectiveness; research governance; methods and tools; personal and
+ professional development; engagement, influence and impact; and writing in academic contexts).
+ Students are monitored throughout their programme via a PGR management system in which
+ progress is recorded through records of discussion and mandatory annual reviews.
+ DMU operates a travel award scheme with the intention of supporting research students attend at
+ least one academic conference during their studies (ideally presenting a paper). They can bid for up
+ to £500. There are opportunities for students to present their work to and interact with other
+ researchers at both Faculty and University level through the Three-Minute Thesis competition, the
+ research poster competition and the Faculty’s PhD Multidisciplinary Seminars, where, typically,
+ several PGRs will present their work to other researchers.
+ Research students are encouraged to contribute to the teaching programme by delivering laboratories
+ and tutorials, helping build their wider academic experience and communications skills.
+ Within three years of graduation, many of our doctoral graduates had academic posts in higher
+ education in the UK or overseas (e.g. Al Muthanna University, Jiangsu Normal University, Taif
+ University), or had taken up high-skilled jobs in industry, including senior principal scientist and head
+ of UAV Division at CSIR-NAL, software engineer at Renishaw, research and development engineer at
+ Panasonic R&D Centre Singapore, and Director Manufacturing Research and Concepts at Volvo Car
+ Group.
+ Academics are required to gain a Certificate in Research Supervision before embarking on
+ supervision. All supervisory teams are required to have at least one experienced supervisor in order
+ to support any new supervisors. The PGR lifecycle is managed using a PGR management system,
+ which tracks and shares key milestone dates and data, including monthly supervisory team meetings
+ and annual reviews (undertaken by an independent, experienced, academic).
+
+ 2.4 EQUALITY AND DIVERSITY
+ The staff base is multinational and multicultural: an ethnically diverse staff base able to provide a truly
+ international perspective. Recruitment of academics has focused at School level on identifying the
+ necessary expertise with consideration being given to under-represented groups. Table 1 provides a
+ summary of the composition of the Unit.
+ Table 1: Equality and diversity summaries for UOA 12 (UOA 15 in REF 2014)
+            M      F     White   BAME      Not      Profs/Senior   Readers/AP/PL   ECAF/L/SL   RF/SRF    Other
+                                        disclosed       staff
+
+  2014    92%     8%     72%     28%       0%          24%            32%            16%       20%       8%
+  (25)                                              (F = 16%)      (F = 12%)
+  2021    96%     4%     37%     63%      0%             22%           11%           67%        0%        0%
+  (27)                                                                             (F = 5%)
+ Note: ‘F’ indicates the proportion of women returned.
+                                                                                                     Page 8
+Unit-level environment template (REF5b)
+
+ The Unit is looking to address the recruitment of female researchers by seeking to attract suitably
+ qualified female research fellows. For example, Salaoru was initially a PhD student and is now an
+ Associate Professor.
+ The University has a number of Equality, Diversity and Inclusion (EDI) charters that guide our EDI
+ actions. DMU was awarded a Bronze Athena SWAN and the first Athena SWAN Charter principle ‘we
+ acknowledge that academia cannot reach its full potential unless it can benefit from the talents of all’
+ is an important guiding principle across the board.
+ The Unit has approximately 10% of staff from the UK, 20% from Europe, 7% from Africa, and 63%
+ from Asia.
+ DMU has flexible working and leave policies to help support staff well-being.
+ Section 3. Income, infrastructure and facilities
+ Research is managed by the PVC Research at University level, with the Associate Dean for Research
+ taking responsibility at Faculty level. The Unit (and Institute) are managed by the Institute Director
+ with the help of the heads of groups. In addition, there is a Faculty Head of Research Students and
+ School Heads of Research Students who oversee PGR students. The Unit is serviced by a Faculty
+ Research and Innovation Office and a Research Development Officer.
+
+ 3.1 RESEARCH INCOME
+ There is a clear rise in research income following the dip resulting from the staff-base change,
+ previously discussed. The income shown in Figure 4 is for research only and does not include
+ innovation, enterprise and knowledge exchange activities (such as the support for a UK test
+ equipment manufacturer creating a new, high-specification EMC receiver).
+
+                                              Research Income
+               £700,000
+
+               £600,000
+
+               £500,000
+
+               £400,000
+      Income
+
+
+
+
+               £300,000
+
+               £200,000
+
+               £100,000
+
+                    £0
+                          2013-14
+                          2013/14   2014-15
+                                    2014/15     2015-6
+                                               2015/16    2016-7
+                                                         2016/17    2017-8
+                                                                   2017/18        2018-9
+                                                                                 2018/19   2019-20
+                                                                                           2019/20
+                                                          Year
+
+
+                                         Figure 4: Research income
+ The Unit is now seeing successful bids coming through (for example ~£200,000 for Kandan and
+ Farukh from the Royal Society; FF\1920\1\30) and anticipates the recovery to continue in the coming
+ years.
+ Some funding highlights over this period reflect the strategic aims of delivering research that has
+ impact on industry and the professions and benefiting society through addressing the UNSDGs;
+ developing stakeholder networks and increasing translation opportunities; increasing involvement with
+ leadership in the profession, and improving international recognition, are:
+ •   Cross has recently been awarded ~£130,000 for a collaborative project between King Abdulaziz
+     University and De Montfort University by the Saudi Arabian research funding agency.
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+
+ •   Duffy was PI on ‘Development of an innovative Autonomous Model Development Tool (AMDT) for
+     Boosting Manufacturing Process competencies’ TSB call, EPSRC grant EP/K503678/1
+     (November 2012–October 2015) £230,114 and PI on the Marie Curie Individual Fellowship ‘emiT’
+     project ‘Partial discharge modelling using the Transmission Line Matrix (TLM) method’ (August
+     2014–August 2016) ~£200,000; Project EIPE14201 State Key Laboratory of Electrical Insulation
+     and Power Equipment, ‘Research in the analysis of electromagnetic coupling considering
+     geometry randomness of cable bundles’ (January 2016–December 2018), 290,000 RMB, National
+     Science Foundation of China. He is an academic partner on EU ITN ‘PETER’ (Pan-European
+     Training, Research and Education Network on Electromagnetic Risk Management), 2018–present.
+ •   Goman and Abramov have received project funding for projects with CSIR-NAL, India (2014–
+     2015, £200,000), EU H2020 SAFEMODE project (2019–2022, €202,000), AMST-Systemtechnik
+     GmbH, Austria (2014–2018, £583,900).
+ •   Hamzaoui was Co-I on the Royal Society International Exchanges 2017 Cost Share (China)
+     project ‘Privacy computing and protection research for IoT-enabled smart healthcare systems’,
+     IEC\NSFC\170067 (March 2018–March 2020), £11,980, collaborating with USTB (China) and is
+     External Collaborator on the DFG (German Research Foundation)-funded Collaborative Research
+     Centre (SFB-TRR 161) ‘Quantitative methods for visual computing’ (1 July 2019–30 June 2023),
+     collaborating with the University of Konstanz (Germany).
+ •   Kandan is PI on the project ‘Upcycled plastic prosthetics’ funded by the Royal Academy of
+     Engineering (FF\1920\1\30), demonstrating the first-of-its-kind prosthetic limb socket made from
+     recycled plastic bottles (March 2020–February 2022), £198,434.
+ •   Manjunatha has received an external grant through Early Career Researcher’s Sandpit Scheme
+     (EPSRC), £5,100, to grow and integrate self-doped silicon nanowires for transferring heat into
+     electrical energy for Micro-Thermoelectric Generators. He will be working with Southampton
+     University.
+ •   Paul was PI on Energy Catalyst-3 ‘Creating electricity by reducing cost, payback time and carbon
+     footprint: an exploitation of a novel method into manufacturing crystalline silicon photovoltaic solar
+     cells (EP/P020518/1)’ (October 2016–September 2017) £34,196 and PI on the EPSRC High
+     Value Manufacturing Catapult Fellowship ‘Manufacturing silicon nano-structure at low
+     temperature: route to increase charge capacity and lower the cost of li-ion batteries’, held at WMG
+     Catapult, Warwick University (2016–2018), £66,040.
+ •   Paluszczyszyn was Co-I on ‘Range extended engine management system for electric vehicles’,
+     Transport iNet grant (July 2013–April 2015) £127,663; Co-I on ‘Water advisory demand evaluation
+     & resource toolkit’ (April 2015–April 2016), Innovate UK grant 132024, £80,803; and was awarded
+     a Royal Society Short Industry Fellowship for the project ‘immersive self-driving car virtual reality
+     simulator’ (SIF\R1\191025) (October 2019–March 2020) £11,198.
+ •   Sun was PI on the Royal Society-NSFC International Exchange Cost Share programme IE161010
+     (2017–2019), collaborating with Hohai University (China).
+
+ 3.2 FACILITIES
+ During the assessment period, the Unit benefited from capital investments of about £1,066,000 for 3D
+ printers, five HP Z4 G4 workstations, PGR workspace improvements, reverberation chamber and
+ physical layer lab adaptations, as well as aeronautical facilities for teaching and research, including an
+ AIRFOX DISO flight simulator and a subsonic wind tunnel (TQ AF1300).
+ In addition to the physical resources described below, the Unit benefits from advice from the School’s
+ Industrial Liaison Committee (ILC), composed of industry-based leaders. The ILC includes three
+ engineering alumni who current hold senior positions within their organisations.
+ The specialist facilities, grouped by research theme are:
+
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+
+ 3.2.1 EMTERC
+ Device fabrication
+ A clean room (with Class 100 under the benches), a double-sided EVG 620 mask aligner with
+ 1 micron alignment capability and wet/dry benches, three deposition chamber PECVD/RIE systems,
+ Langmuir-Blodgett trough for molecules and nano particles deposition, spin-coater, dip-coater, RF/DC
+ magnetron sputtering, evaporators, vertical stack furnaces, small and large-scale nanomaterials
+ printing machines, horizontal furnaces and electrochemical characterisation, including impedance
+ spectroscopy.
+ DC and RF electronic characterisation
+ Including four wafer-level probe chucks for temperatures ranging from room temperature to 800 K.
+ These are supported by HP4884 (an LCR bridge), HP4142B (modular DC source/monitor), HP4140B
+ (picoammeter), Keithley 2634B dual SMU, a Lot-Oriel solar simulator and ancillary systems, LED
+ wavelength controllable solar simulator, Li-ion battery test equipment with 4-port glovebox, precision
+ ferroelectric test system, a deep level transient spectroscope (DLTS) and high frequency S-parameter
+ measurement equipment.
+ Metrology
+ Scanning probe microscope (SPM) (up to 473 K) with numerous measuring modes including: atomic
+ force microscopy, scanning tunnelling microscopy and electric force microscopy, plus further
+ electrical, capacitance and magnetic modes; scanning electron microscopy for sample inspection
+ down to ~ 30nm.
+ 3.2.2 Signal Processing And Communications Systems
+ Device Thermography and Microwave Laboratory
+ This houses a state-of-the-art Quantum Focus infrared (IR) microscope, with its capability extended
+ by proprietary IR micro-sensor technology. Research and commercial work is undertaken in thermal
+ mapping of all types of electronic devices (MEMS, MMIC, PHOTONIC, DISRETE, etc.).
+ Physical Layer Laboratory
+ A 5m×3m×2.3m mode stirred reverberation chamber used for shielding effectiveness measurements,
+ electromagnetic coupling and as a propagation channel analogue; microwave dielectric measurement
+ test jigs, several vector network analysers, thermal chamber, ethernet cable testing.
+ Immersive Vehicle Virtual Reality Testbed
+ A portable testbed which uses a six-degree of freedom motion system enhanced by virtual reality
+ headsets and driving controllers. Presentation of visual, acoustic, vestibular and haptic information to
+ simulate a real driving experience. The testbed is integrated with state-of-the art self-driving cars
+ software simulators such as LGSVL, Carla and Apollo. The facility also includes rapid control
+ prototyping unit dSPACE MicroLabBox and galvanic skin response and electrocardiography sensors.
+ 3.2.3 Nonlinear Flight Dynamics
+ While the bulk of the work is in aerodynamic modelling, flight simulation and computational analysis
+ using high performance workstations, this research area also has a professional flight simulator
+ AIRFOX DISO of AMST-Systemtechnik GmbH, Austria.
+ 3.2.4 Solid Mechanics and Materials
+ Tribology and surface engineering laboratory
+ This houses a range of materials characterisation and testing facilities, including: electroplating
+ equipment, a surface mechanical attrition treatment machine, surface topography devices, optical
+ microscopes and associated image processing software, metallography facilities, hardness and
+ microhardness testers, friction and wear testers, electrochemical corrosion testing unit, tribocorrosion
+ test set ups, scratch tester.
+
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+
+ Mechanical laboratory
+ This houses several tensile/compression testers, bending tester, fatigue tester, truss tester, stress
+ concentration tester, and a range of non-destructive testers.
+ Additive manufacturing laboratory
+ This houses more than ten 3D printers ranging from powder-based printers to filament-based printers.
+ Section 4. Collaboration and contribution to the research base, economy and society
+ This section lists and evidences the contribution that IoES staff make to externally facing activities.
+ The subsections below all contribute to the overall strategic aims of:
+ 1       supporting and funding high-quality research that addresses key societal challenges;
+ 2.      developing stakeholder networks to increase the translational and transfer opportunities for the
+         Unit;
+ 3       increasing involvement with leadership in the profession;
+ 4       improving international recognition of the Unit’s research.
+
+ 4.1 COLLABORATIONS, NETWORKS AND PARTNERSHIPS
+ It will be evident from the submitted outputs that collaborative work is regarded as highly important for
+ the UOA, with many being co-authored by colleagues from other universities and industry, and in
+ many cases these are international in nature. Some examples are included here to show the breadth
+ of these collaborations and also to show how these productive collaborations extend beyond the
+ submitted outputs. It also shows the strong networks that many of the early career academics already
+ have.
+ Some examples from the early career academics include:
+ •    Cosar co-authored papers with Prof. Mujdat Cetin (previously Sabanci University, currently
+      University of Rochester), Dr Francois Bremond (INRIA), Prof. Vania Bogorny (Universidade
+      Federal de Santa Catarina), Dr Nicola Bellotto (University of Lincoln), Prof. Adriana Tapus
+      (ENSTA ParisTech)
+ •    Maricar has jointly published with Prof. Josef Nossek (Technical University of Munich) and Sidina
+      Wane (NXP, France)
+ •    Diao established research collaborations with five universities in the UK, e.g.,
+      10.1016/j.heliyon.2020.e05069 and internationally: Austria (10.3390/w11030567), China
+      (10.1061/(ASCE)WR.1943–5452.0001164; 10.3390/w12061683), Italy, South Korea, the
+      Netherlands and the US
+ •    Ghazal has co-authored papers with Prof. Cheng-Xiang Wang (previously Heriot-Watt University,
+      currently Southeast University), Prof. Harald Haas (previously University of Edinburgh, currently
+      University of Strathclyde), Dr Yan Zhang (Beijing Institute of Technology), and Dr Yu Liu
+      (Shandong University)
+ •    Kandan has collaborated with the Bhagwan Mahaveer Viklang Sahavata Samiti (BMVSS) in
+      Jaipur, India – the world’s largest organisation for rehabilitating disabled people – as well as
+      prosthetic experts from the Malaviya National Institute of Technology, Jaipur, India, University of
+      Salford, University of Southampton and the University of Strathclyde
+ •    Khoshnaw was a visiting professor at Mons University funded by the Belgian Science Research
+      Foundation (two months during 2017/18) with Prof. Delaunois and Dr Vitry. A further joint
+      collaboration was started following internal competitive funding with Prof. Zhang; Beijing Institute
+      of Petrochemical Technology, Dr Yamanouglu; Kocaeli University, and Dr Aljohani (King
+      Abdulaziz City for Science and Technology); these collaborations have resulted in several papers
+ •    Salaoru has collaborated with Dr N. Iftimie from the National Institute of Research and
+      Development for Technical Physics, Iasi, Romania, in the area of materials
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+
+ •   Paluszczyszyn is external supervisor and adviser to two PhD students from Wroclaw University
+     of Economics. This scheme is carried out within the SIS PHD Economy+ project
+     (POWR.03.02.00-IP.08-00-DOK/17) founded by the National Centre for Research and
+     Development, Poland.
+ With regard to the senior staff, many of the collaborations are associated with joint proposals as well
+ as publications. For example:
+ •   Duffy has jointly published with, and won joint research proposals with, Harbin Institute of
+     Technology and Xi’an Jiaotong University
+ •   Goman and Abramov have undertaken a fruitful research collaboration with CSIR-NAL, India, in
+     2014–2017, and with the Central Aerohydrodynamic Institute (TsAGI), Russia, within a joint
+     research group led by Prof. Goman. The outcome of this collaboration was a computational
+     framework for nonlinear flight dynamics and an associated software system in MATLAB/Simulink
+ •   Hamzaoui was involved in the MSCA ITN ACROSSING project (GA 676157) 2016–2019 as co-
+     supervisor of one early-stage researcher, collaborating with CERTH (Greece), Austrian University
+     of Technology, and Ulster University. He has also collaborated and jointly published papers with
+     Prof. Dietmar Saupe (University of Konstanz), Prof. Pascal Frossard (EPFL), Prof. Gwendal
+     Simon (IMT Atlantique, currently Huawei Technologies), Prof. Yun Zhang (Shenzhen Institutes of
+     Advanced Technology), and Prof. Hui Yuan (Shandong University)
+ •   Paul has ongoing collaborations with colleagues from Nanjing University of Information Science
+     and Technology, Cambridge University and WMG, Warwick University
+ •   Sun had an international exchange partnership funded by the Royal Society with Hohai University,
+     2017–2019, and was a development consultant with Hohai University, 2017–2020.
+
+ 4.2 CONTRIBUTION TO THE RESEARCH BASE
+ 4.2.1 Standards
+ Contribution to standards development is an increasing focus in the Unit and provides a vehicle for
+ regulatory and conformity impact on the profession. Responsibilities include chair of the IEEE
+ Standards Working Groups 1597.1 (validation of computational electromagnetics), P2710 (shielding of
+ enclosures for portable electronics), and vice-chair of P1848 (techniques and measures for the
+ management of electromagnetic risks) (Duffy), and membership of BSI IST/37 Coding of audio,
+ picture, multimedia and hypermedia information (Hamzaoui).
+ 4.2.2 Journal editorships
+ It is expected that all academics become involved in editorial duties. Editorial board duties are spread
+ between early career academics and senior staff. For early career academics, this is an opportunity to
+ develop reputations, broaden networks and gain valuable experience of the publication process. For
+ senior staff, this is a contribution to leading the discourse in a particular subject.
+ Examples of guest editorships of our early career academics are:
+ •   Cosar: Frontiers in Robotics and AI special issue on ‘Advanced Vision Challenges for Social
+     Robots’
+ •   Diao: ‘Resilience of Interdependent Urban Water Systems’ in Water (MDPI)
+ •   Ghazal: Radio Science (Wiley) special collection on ‘Radio Channel Measurements and Modeling
+     for Future High-speed Railway Communications’
+ •   Khoshnaw: series editor for the forthcoming Corrosion Atlas (Elsevier)
+ •   Manjunatha and Paul: the forthcoming ‘Emerging Applications of Silicon Nanostructures’ in
+     Crystals (MDPI)
+ •   Salaoru: the forthcoming ‘Miniaturized Memory Devices’ in Micromachines (MDPI)
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+
+ Some examples of senior staff guest editing include:
+ •   Duffy: IEEE T-EMC special issue on ‘Validation of Computational Electromagnetics’
+ •   Goman: the forthcoming ‘Modelling of Aircraft Unsteady and Nonlinear Aerodynamics’ in
+     Aerospace (MDPI)
+ •   Mba: ‘Fault Diagnosis and Fault-Tolerant Control’ in Energies (MDPI) and ‘Condition Monitoring
+     and Their Applications in Industry’ in Applied Sciences (MDPI).
+ •   Sun: ‘Tribocorrosion of Surface Engineered Materials’ in Lubricants (MDPI).
+ Staff at all levels have had editorial board responsibilities, predominantly Associate Editor roles during
+ the assessment period. For example
+ •   Cross: Micro and Nano Letters (Springer)
+ •   Diao: Water Supply (IWA Publishing), Engineering Sustainability (ICE Publishing)
+ •   Duffy: IEEE Transactions on Electromagnetic Compatibility
+ •   Hamzaoui: IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for
+     Video Technology
+ •   Mba: Machines (MDPI, EiC), Applied Condition Monitoring (Springer, book series), Lubricants
+     (MDPI), Grey Systems: Theory and Applications (Springer)
+ •   Salaoru: Electrochem, Micromachines and Polymers (MDPI).
+ 4.2.3 Fellowships
+ Promotion of the recognition of senior status of professional bodies is an area that the Unit is seeking
+ to encourage for the coming period. Current fellowships are IEEE, IET and RSA (Duffy); IMechE
+ (Farukh); RAeS (Goman); British Institute of Non-Destructive Testing and the International Society
+ for Engineering Asset Management (Mba).
+ 4.2.4 Prizes
+ The awarding of prizes is an indicator of the highest-quality research or outstanding service. The
+ following list provides a good indication of the breadth of this recognition, spanning early career
+ academics and established researchers. Awards to our young researchers include:
+ •   Baserinia: the top PhD graduate of the School of Science and Engineering, University of
+     Leicester (2018); Winner of the Reg Davies Best Poster Contest Joint IFPRI Robert Pfeffer
+     Symposium & UK Particle Technology Forum, University of Surrey, UK (June 2016)’ Winner of the
+     Best Poster Award Powder Flow: Fundamentals to Applications, University of Leeds (April 2015)
+ •   Diao: Outstanding Reviewer in 2015 for Water Research journal
+ •   Hamilton: best paper prize from IEEE Transactions on Power Electronics (2017).
+ •   Kandan’s ‘Upcycled plastic prosthetics’ has been shortlisted for Times Higher Education Awards
+     in the category of Research Project of the Year (2020): STEM.
+ •   Manjunatha: Best PhD thesis, DMU, 2018
+ •   Maricar: Young Engineer Award from ARMMS (Automated Radio Frequency & Microwave
+     Measurement Society) in 2014
+ •   Salaoru: Outstanding contribution in reviewing Elsevier’s Additive Manufacturing (March 2018).
+ A number of staff have been recognised for exceptional service in editorial board activities, including:
+ •   Hamzaoui: best AE award for IEEE Transactions on Circuits and Systems for Video Technology
+     (2014); and a certificate of merit for outstanding editorial board service for IEEE Transactions on
+     Multimedia (2018)
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+
+ •   Mba: best paper prize from the World Congress of Engineering Asset Management (WCEAM),
+     Norway (2018).
+ 4.2.5 Membership of research council or similar national and international committees
+ One of the stated aims for the Unit is to increase leadership in the engineering profession. This not
+ only gives back to the profession but opens up members to new networks, mentoring and
+ collaborations. There is a broad range of activity at all levels. Some of the ways this currently happens
+ are:
+ •   EPSRC College Membership: Duffy and Sun, plus Associate Membership for Zahedi.
+ •   Professional body leadership: Duffy is president of the IEEE EMC Society and past chair of the
+     IEEE EMC Standards Development and Education Committee; IEEE Technical Activities Board’s
+     finance committee member; past IEEE EMC Society Vice President for Conference Services; and
+     past chair of the IET Electromagnetics Professional and Technical Network Executive Committee.
+     He is a Director of the International Wire and Cable Symposium; and Maricar is the IEEE EMC
+     UK & Ireland Chapter’s Membership Secretary.
+ •   One of our group leaders, Paul, is part of the International Roadmap for Devices and Systems
+     (IRDS) Beyond CMOS team and has contributed to the Emerging Electronic Memory Devices
+     section of the roadmap (2017, 2018, 2019, 2020).
+ •   Members also contribute to academic staff recruitment and promotions activities, such as Sun,
+     who was a member of the International Selection Committee for recruiting academic staff, Serra
+     Hunter Programme, Polytechnic University of Catalonia, 2017/18, and an academic reviewer for
+     staff promotion, King Saudi University, 2018/19.
+ •   In addition, Diao was an International expert for the recruitment process of the EU DOCC project
+     (MSCA COFUND Doctoral Programme DOCC: Dynamics of Complex Continua).
+ 4.2.6 Invited keynotes, lectures, conference roles and similar
+ Institute funds can also be used for conference travel where the academic is making a substantial
+ contribution to the conference, such as part of the organising committee or delivering an invited
+ notable contribution (such as a keynote or plenary talk). Some examples of achievements and
+ activities over the current period are:
+ •   Cosar: session chair of VISIGRAPP 2017
+ •   Diao: one of the three CCWI (International Computing & Control for the Water Industry
+     Conference) committee members responsible for coordinating bids for the CCWI-only conferences
+     in the UK and liaise with Water Distribution Systems Analysis (WDSA) for the joint CCWI/WDSA
+     events held internationally
+ •   Duffy: general chair of the 2020 IEEE International Symposium on EMC + SIPI (successfully
+     navigating its passage from in-person to virtual with both an increase in attendance figures and an
+     increase in revenue), co-general chair for the 2021 Symposium on EM + SIPI, standing
+     international chair of the Global EMC Conference (GEMCCon) series of conferences
+ •   Hamzaoui: Technical Programme Committee co-chair for IEEE 19th International Workshop on
+     Multimedia Signal Processing (2017), executive general co-chair for IEEE UIC 2019, and
+     workshops co-chair for IEEE ICME 2020 (July 2020)
+ •   Paul: Organising Committee member for ICREPQ (International Conference on Renewable
+     Energies and Power Quality)
+ •   Salaoru: one of the founder members of ICPAM (Interactions, Complex Phenomena and
+     Advanced Materials) of the International Society (2016) and a member of ICREPQ.
+ •   Sun: member of the academic committee for the 1st International Conference on Corrosion
+     Protection and Applications.
+
+
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+
+ Members of the Unit have given a large number of plenary, keynote and invited talks. Some of the
+ highlights are:
+ •   Duffy: plenary talk at the International Conference on Ultrawideband and Ultrashort Impulse
+     Signals (Odessa, 2018)
+ •   Hamzaoui: plenary talk at the 9th International Conference on the Developments in eSystems
+     Engineering (Liverpool, 2016)
+ •   Maricar has given an invited talk at the International Conference on Advanced Engineering and
+     Technology (2014).
+ •   Mba: keynotes at 32nd International Congress of Condition Monitoring and Diagnostic Engineering
+     Management (COMADEM 2019), Sept 2019, Huddersfield, UK; Prognostics and System Health
+     Management (PHM) Conference, Chongqing, China, 2018; Diamond Jubilee Convention of IIIE and
+     International Conference ICIEIND, September 2018, Bhubaneswar, India.
+ •   Paul: gave invited talks on ‘No bits without nano-bits in insulating matrix: use of nanomaterials in
+     two terminal electronic memory devices’, 11th International Conference on Nanosciences &
+     Nanotechnologies (NN14), 8–11 July 2014, Thessaloniki; ‘Creating electric dipole in nano-
+     composite: applications in information storage and energy generation’, 8th International
+     Conference on Advanced Materials, 7–10 July 2015, Bucharest; ‘Growth of silicon nano-structures
+     at low temperature and their application in electronic and energy-related devices’, Nanotechnology
+     Congress & Expo 11–13 August 2015, Frankfurt; ‘Creating Electrical Bistability Using Nano-bits:
+     Application in 2-Terminal Memory Devices’, Materials Research Society, Fall 2016 Meeting,
+     Boston, USA; ‘Emerging applications of silicon nano-structures’, 12th International Conference on
+     Physics of Advanced Materials (ICPAM-12)and 3rd Autumn School on Physics of Advanced
+     Materials (PAMS-3), 22–28 September 2018, Heraklion
+ •   Salaoru: invited talk at the Collaborative Conference on Advance Materials and EMN meeting on
+     3D printing (CCAM & 3D Printing), August 2019, St Julian’s, Malta
+ •   Sun: keynote at ThinFilm 2018 International Conference
+ Invited talks at conferences are complemented by talks to industry. These include:
+ •   Duffy: a talk on computational electromagnetics validation to the Singapore Chapter of the IEEE
+     EMC Society and a keynote on innovation through standards at the Artesyn (a China, Hong Kong
+     and Philippines–based engineering company) ‘EMC Month’ of professional development events
+ •   Goman: an invited talk at NASA Langley Research Center (LaRC, USA) in July 2017, and at
+     China Aerodynamics Research and Development Center (CARDC, China) in July 2016
+ •   Paul: a talk on ‘Low temperature deposition of silicon nano-structures for energy storage’ at
+     IDTechEx Show, 11–12 April 2018, Berlin.
+ Some of our early career academics have been active in organising workshops and topical meetings.
+ These activities help raise awareness of the work they are doing; it helps in their network building and
+ provides valuable opportunities to grow and develop as future senior researchers. For example:
+ •   Kandan organised International Workshop on ARM (Accessible Recycled Material) Prosthetics at
+     DMU (2019). He was selected to attend the Horizon Scanning workshop for ‘research and
+     innovation to transform the health of society by 2048’, organised by the UK Academy of Medical
+     Sciences (2018).
+ •   Paluszczyszyn organised and chaired ‘The use of game-based technologies in autonomous
+     vehicles research’ workshop held in May 2017 at DMU.
+ 4.2.7 Refereeing publications and research proposals
+ All academics are expected to referee papers and competitive research proposals. The following list
+ provides an overview of the activities spread between early career and senior researchers. It also
+ shows the broad range of journals and funders.
+
+                                                                                            Page 16
+Unit-level environment template (REF5b)
+
+ Proposal reviewing activities include:
+ •   a reviewer for UK NERC (Natural Environment Research Council) grant applications (Diao)
+ •   EPSRC (Duffy, Hamzaoui, Mba, Paul)
+ •   the Dutch Research Council (NWO) (Duffy, Mba)
+ •   Czech Science Foundation (Mba)
+ •   Qatar National Research Fund (QNRF) (Mba)
+ •   French National Research Agency (Paul)
+ •   Singapore Public Utilities Board (Paluszczyszyn)
+ •   Polish National Science Centre (Paluszczyszyn).
+ Journal reviewing includes:
+ •   Engineering Optimization, Materials and Design, International Journal of Powertrains (Abdi)
+ •   IEEE Trans. Circuits and Systems for Video Technology, Image and Vision Computing, Robotics
+     and Autonomous Systems, Computer Vision and Image Understanding, Pattern Recognition
+     Letters, Journal of Visual Communication and Image Representation, Sensors (Cosar)
+ •   Scientific Reports, IEEE Trans. on Antennas and Propagation, Solid-State Electronics (Maricar)
+ •   Water Research, Reliability Engineering & System Safety, Water Resources Research, European
+     Journal of Operational Research, Physics A: Statistical Mechanics and its Application (Diao)
+ •   IEEE Trans. EMC, IEEE Trans. Antennas and Propagation, IEEE Trans. Microwave Theory and
+     Techniques (Duffy)
+ •   IEEE Trans. Vehicular Communications, IEEE Trans. Wireless Communications, IEEE Trans.
+     Intelligent Transportation Systems, IEEE Access, IEEE Communications Magazine, IEEE Trans.
+     EMC (Ghazal)
+ •   IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Trans.
+     Image Processing, IEEE Trans. Communications, IEEE Access, IEEE Trans. Human Machine
+     Systems, Pattern Recognition (Hamzaoui)
+ •   Reviewer Board for Crystals, Coatings, Materials, Applied Science (Manjunatha)
+ •   Journal of Materials Engineering and Performance, Additive Manufacturing (Moroz)
+ •   International Journal of Impact Engineering, ASME Journal of Applied Mechanics (Kandan)
+ •   Nature Communication (Paul)
+ •   Polymers, Machines, Sensors, Nanomaterials, Micromachines, Materials (Salaoru)
+ •   Surface Technology, Journal of Biomaterials (Sun)
+ •   IEEE Trans. Neural Networks and Learning Systems, IEEE Trans. Vehicular Technology, Journal
+     of Hydroinformatics, Applied Sciences (Paluszczyszyn).
+ •   Mechanical Systems and Signal Processing, Structural Health Monitoring, ASME Applied
+     Mechanics Reviews, Chinese Journal of Aeronautics, IEEE Transactions on Industrial Electronics
+     (Mba).
+
+ 4.3 INTERACTIONS WITH KEY RESEARCH USERS, BENEFICIARIES, AUDIENCE
+ Interactions and collaborations are important elements of creating impact from our work and one of
+ our four strategic aims. Some examples to show the breadth of these interactions, and particularly
+ some of the ‘firsts’ involved in work of the Unit include the following:
+
+
+                                                                                          Page 17
+Unit-level environment template (REF5b)
+
+ •   IoES is currently the only recommended tester for and by the UK police’s ‘secure by design’
+     approval for electromagnetically shielded enclosures (Duffy).
+ •   A radio channel simulator developed by Ghazal is used by academic and industrial parties
+     involved in 5G research as part of China’s National 973 research project and the international
+     FuTURE mobile communication forum, which consists of 26 mobile operators, mobile equipment
+     manufacturers, research institutes and universities.
+ •   An out-of-the-envelope flight simulation model, developed during the period 2014–2018 by
+     Goman and Abramov for a class-specific transport aeroplane was used in the flight simulator
+     Airfox UPRT. The flight simulator was designed and built at AMST-Systemtechnik GmbH, Austria,
+     for Upset Prevention and Recovery Training (UPRT) and is the only commercially available UPRT
+     flight simulator.
+ •   Kandan was an invited member of the Frontiers of Engineering Development Symposium
+     organised by the Royal Academy of Engineering, and an invited member the Global Public Health
+     Networking Workshop organised by the Medical Research Council / Arts Humanities Research
+     Council (2017).
+ •   The Unit’s Immersive Vehicle Virtual Reality Testbed simulator, developed by Paluszczyszyn was
+     used by HORIBA MIRA Ltd to evaluate the operation of their cooperative platooning system for
+     autonomous vehicles.
+ •   Paul gave a public lecture entitled ‘In search of immortal electronic memory – possible or not’
+     organised by London Materials Society (2016).
+ •   Paluszczyszyn has given invited talks on innovation in haptics at Royal Academy of Engineering
+     HQ in London (May 2017), Immersive Vehicle VR Testbed for Autonomous Vehicles at IET/
+     IMechE Network (March 2018), IET Birmingham Network (Sept 2018) and IET Bedfordshire &
+     Hertfordshire Network (Oct 2018).
+
+
+
+
+                                                                                            Page 18
+

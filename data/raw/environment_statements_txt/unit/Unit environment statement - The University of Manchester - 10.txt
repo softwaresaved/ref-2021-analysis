@@ -1,0 +1,1543 @@
+Unit-level environment template (REF5b)
+
+
+ Institution: The University of Manchester
+
+ Unit of assessment: 10 (Mathematical Sciences)
+
+ 1: Context, structure, research and impact strategy
+
+ 1(i) Context and structure
+
+  Mathematical Sciences research at Manchester is diverse and impactful. With contributions to
+  topics ranging from Lie algebras to landmines, ergodic theory to epidemiology and machine
+  learning to metamaterials, the Unit impacts on fundamental aspects of the discipline and its
+  applications. Mechanisms to support research ensure that the Unit provides an intellectually
+  stimulating environment for all.
+
+  The Unit comprises the Department of Mathematics (DoM) and the affiliated Manchester
+  Centre for Nonlinear Dynamics (MCND) at the University of Manchester (UoM). It provides
+  an outstanding environment in which to carry out world-class research and to attract
+  exceptional researchers across all career stages. The Unit is strongly research intensive with
+  92 category A submitted staff (89.95FTE), including 17 ECRs. 90 Unit staff reside in the DoM
+  and 2 in the Department of Physics & Astronomy (DP&A). The Unit hosts over 120 PGR
+  students and 150 postgraduate taught students. The DoM and DP&A reside within the School
+  of Natural Sciences together with the Departments of Chemistry, Earth and Environmental
+  Science and Materials. The School sits alongside the School of Engineering, comprising the
+  Faculty of Science and Engineering (FSE).
+
+  Since REF2014, the Unit has enabled increases in key measures of success (figure 1). The 22
+  major staff prizes and awards included a Royal Society Professorship (Higham FRS) and
+  Foreign Membership of the Royal Society (Dongarra ForMemRS). Additionally, research
+  income more than doubled to GBP26M from GBP11.4M at REF2014.
+
+
+
+
+                  Figure 1. Illustrating increases in key measures of success
+
+
+  Over the period, the Unit has strategically strengthened its world-leading expertise in algebra,
+  continuum mechanics, inverse problems, numerical analysis and probability whilst growing
+  activity in applied statistics, number theory, mathematics in the life sciences, uncertainty
+  quantification (UQ) and data science. The Unit’s interdisciplinary activity has flourished with
+  staff conducting research in advanced materials, data science, digital trust and security,
+  energy, geophysics and planetary science, and the life sciences and public health. The Unit’s
+  impactful research has broadened, involving engagement with over 100 non-academic
+  external partners.
+
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+
+
+
+                                                                    The Unit is located primarily
+                                                                    within the Alan Turing Building
+                                                                    (ATB) at the heart of the
+                                                                    University. MCND’s
+                                                                    experimental facilities are
+                                                                    housed in the adjacent
+                                                                    Schuster Building, home of
+                                                                    the DP&A. Since REF2014
+                                                                    the Unit has restructured its
+                                                                    research into seven
+                                                                    interconnecting themes (figure
+                                                                    2). Informal links between all
+                                                                    themes are an important facet
+                                                                    of the Unit’s culture, driving an
+                                                                    array of intradisciplinary
+                                                                    research.
+
+
+
+
+     Figure 2. The Unit's interconnected research themes
+
+  1(ii) Research objectives and achievement
+
+  The Unit identified broad strategic objectives in its REF2014 submission, addressing
+  intellectual environment, recruitment, interdisciplinarity and impact, and income. It refined and
+  adopted these as the blueprint for its development over the assessment period, via four
+  strategic objectives:
+  O1: Intellectual environment. Provide an outstanding environment in which to carry out
+  world-leading research across the mathematical sciences.
+  O2: Recruitment. Appoint exceptional researchers to grow core strengths and to move into
+  emerging areas of research.
+  O3: Intradisciplinarity and interdisciplinarity. Establish a unique identity associated with
+  mathematical sciences research spanning internal and external boundaries and have
+  transformational impact beyond academia.
+  O4: Income. Grow and diversify research funding to support high quality research.
+  These objectives were defined by the Departmental Leadership Team, informed by the
+  Departmental Research Committee, comprising the Head of Research (HoR, Parnell), Head
+  of Business Engagement (Hewitt), Head of PGR (Heil), Outputs Lead (Tisseur), Impact Lead
+  (Hewitt), and Research Leads (House, GO Jones and Powell), who assist with area-specific
+  research strategy.
+  Following REF2014, the Unit recognised that restructuring its research could have a major
+  impact on achieving O1-O4. The subsequent move from 12 narrowly defined sub-discipline
+  areas to 7 broadly defined and overlapping themes created a more open environment,
+  encouraged new interactions, and contributed significantly to the Unit’s achievements over the
+  period. The restructure also provided a strategic framework for recruitment, which has
+  underpinned a planned reshaping of the Unit, with 35 new permanent appointments (see
+  figure 3 below, illustrating the distribution of these across themes). The Unit invested
+  strategically in ECRs, joint appointments and researchers with interdisciplinary interests,
+  including experimental programmes. One key aim of the restructure was to increase
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+  opportunities for interdisciplinary research, with explicit alignment of themes to opportunities in
+  the physical sciences, engineering and the health and life sciences. The success of this
+  approach is evidenced by e.g. Chernyavsky’s MRC- and EPSRC-funded research coupling
+  modelling and experimental research on placental transport and Evatt’s Leverhulme Trust-
+  funded project (with the British Antarctic Survey), the first UK-led expedition to the Antarctic to
+  find meteorites. This growth in interdisciplinary research, described further in Section 1(iv), has
+  driven significant diversification of funding beyond EPSRC (Section 3(i)).
+  Alongside this radical theme restructure, the Unit continued to exploit successfully the
+  strengths and space of the ATB, ensuring a physical environment that is highly conducive for
+  producing world-class research in mathematics. Coupled with a healthy sabbatical programme
+  (Section 2(iv)), funding (Section 3) and wide-ranging research support mechanisms (Sections
+  3 and 4), the Unit aided staff in solving numerous open problems, as discussed in theme
+  descriptions below. Over the period, staff published over 1300 research papers and attended
+  over 1000 seminars in the Unit. As planned, the international standing of the Unit
+  strengthened significantly: Higham was SIAM President (2017-18) and over the period, staff in
+  the Unit have (numbers in parentheses indicate comparative data from REF2014)
+        published with researchers in over 450 (100) international academic institutions in over
+         60 countries on six continents;
+        published 60% (40%) of all outputs in the period with overseas collaborators;
+        acted as senior editors for 14 (6) international journals.
+
+  Impact-enabling strategies described in Section 1(iii) cemented the Unit as a major force in UK
+  industrial mathematics, including collaborations with over 100 external organisations (figure 4).
+  Engagement broadened to non-profit sectors, 29 staff co-authored papers with non-academic
+  partners and via research in big data and advanced materials (Section 1(iv)), the Unit
+  contributed to national priorities. Noteworthy examples of impact-driven research include:
+  Pellis’ critical calculation of the UK’s doubling rate of COVID-19 infections in March 2020,
+  which, through SPI-M and SAGE, contributed to rapid UK lockdown; and Lionheart stepping
+  into the minefield to detect landmines, and into the hospital to develop novel EIT methods for
+  respiratory monitoring.
+
+  The headline examples above were underpinned by achievements in the Unit’s seven
+  overlapping themes, which are now described.
+  (1) Algebra, Logic and Number Theory: (9 appointments)
+      Strength in algebra was recognised by partnership with the Heilbronn Institute for
+      Mathematical Research (HIMR) North in Manchester (GBP1.01M). Major results in
+      algebra were proved by Premet (with Stewart), on the classification of the maximal
+      subalgebras of exceptional simple Lie algebras and by Eaton (with Livesey) on
+      Donovan’s conjecture for abelian p-groups (supported by GBP687K EPSRC funding). In
+      tropical algebra, M Johnson and Kambites established a deep correspondence between
+      the geometric property of pure dimension for tropical polytopes, and the algebraic
+      property of projectivity for modules over the max-plus semifield. The theme saw sustained
+      growth in number theory having sought and secured philanthropic funding (GBP1.04M).
+      The resulting appointments reinforced overlaps with theme 2. Future goals are to appoint
+      to develop strengths in algebra and logic alongside HIMR North (see UoM Institutional
+      Environment Statement, Section 2(iv) (REF5a 2(iv)) and to continue to attract funding
+      from diverse sources.
+
+
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+
+
+
+
+         Figure 3. Illustrating new permanent appointments in themes and their
+         overlaps, together with their role at appointment (RF: Research Fellow, L:
+         Lecturer, SL: Senior Lecturer, R: Reader, P: Professor).
+
+  (2) Analysis, Geometry and Dynamical Systems: (2 appointments)
+      This theme saw intradisciplinary research conducted at intersections with theme 1. In
+      algebraic geometry, Suess (with Ilten) gave the first effective application of Chen-
+      Donaldson-Sun's resolution of the Yau-Tian-Donaldson conjecture. Connecting number
+      theory with analysis and dynamical systems, Sahlsten (with Le Masson) proved a
+      quantum ergodicity theorem for fixed spectral window and sequences of compact
+      hyperbolic surfaces converging to the hyperbolic plane. The legacy of the inspirational
+      Broomhead, who passed away in 2014, lives on in the interdisciplinary approach of the
+      Unit, e.g. Muldoon’s work on the ecological dynamics of the upper respiratory tract
+      microbiome on the Horizon 2020 grant CURE (GBP891K UoM share), associated with
+      asthma treatments. Future aims are to build on recent appointments to establish critical
+      mass at the intersection of dynamical systems and number theory and seek new
+      application areas.
+
+  (3) Continuum Mechanics: (7 appointments)
+      This theme has seen further growth in MCND, led by Juel (American Physical Society
+      Fellow, 2019, Co-I UK Fluids Network 2016-19), combining cutting-edge mathematical
+      and computational modelling with quantitative experimental investigations in fluids, soft
+      matter and granular materials. MCND research featured on journal front covers on 14
+      occasions. Gray (GBP1.38M EPSRC Fellowship) showed that the µ(I)-rheology for
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+     granular flow was ill-posed at high and low inertial numbers. Connections to advanced
+     materials were provided by e.g. Hewitt (GBP1M funding) in materials modelling and
+     Parnell (LMS Whitehead prize 2019, GBP2.7M funding) in metamaterials. Continued
+     excellence across fluid dynamics, solids and wave mechanics saw the broadening of
+     external connections, including two industry-funded research hubs (Section 1(iii)).
+     Expertise in biomechanics ensured strong connectivity to theme 4. The Unit intends to
+     grow its strength in MCND, and ensure broader connections to industrial partners and to
+     advanced materials (one of UoM’s research beacons) via the Henry Royce Institute.
+
+  (4) Mathematics in the Life Sciences: (2 appointments)
+      The emergence and extensive growth in this richly interdisciplinary theme is consistent
+      with the REF2014 aim to increase engagement across biomedical research, from
+      fundamental biology to healthcare applications. It builds on the strategic appointment of
+      Jensen, who co-leads a Wellcome Trust PGR Programme in Quantitative and Biophysical
+      Biology (GBP2.56M, 4 cohorts, 2016-23, involving 10 Unit staff) and is Co-I on a
+      GBP3.78M BBSRC sLoLa project on extracellular matrix modulation. Significant funding
+      secured by Chernyavsky and Fedotov (see Section 3(i), leveraging UoM’s excellence in
+      obstetrics and radiation therapy), supported the theme’s expansion together with the joint
+      appointment of Shearer with Materials. Strong overlaps with theme 7, and epidemiology
+      in particular, added further strength. Looking ahead, the Unit will broaden collaboration
+      with life scientists at UoM (e.g. via the Christabel Pankhurst Institute and the Digital
+      Futures digital health theme) and beyond, bringing further diverse opportunities for large-
+      scale partnership and impact.
+
+  (5) Numerical Analysis and Scientific Computing: (2 appointments)
+      Strength and broad expertise in numerical linear algebra is provided by Dongarra
+      (SIAM/ACM prize in Computational Science and Engineering 2019), Güttel (2 KTPs),
+      Higham (LMS Naylor prize and Lectureship 2019) and Tisseur (LMS Fröhlich prize
+      2020). Dongarra and Higham are at the forefront of HPC research exploiting mixed
+      precision algorithms, and Higham's probabilistic analysis provided new insights into
+      rounding error propagation. The theme also provides wide-ranging expertise in finite
+      element (FE) approximation. Silvester and Powell (GBP381K EPSRC funding)
+      developed adaptive FE-based algorithms for PDEs with uncertain inputs. Alongside
+      Cotter (1 KTP, with Waite), they provide Numerical-Analysis-focused UQ expertise and
+      pivotal links to theme 7. Theme members have a strong track record in developing open
+      source software (Section 1(v)) and impactful research with partners (Argent & Waugh,
+      Arrow, Arup, IBM, NAG, NPL). Future goals include developing software to address
+      challenges in machine learning and exascale computing, and to incorporate UQ into
+      engineering applications, thereby strengthening links to theme 7.
+
+  (6) Probability, Financial Mathematics and Actuarial Science: (4 appointments)
+      Peskir and Zhang maintain a leading position in probability theory and its applications.
+      Peskir solved open problems on the Markowitz mean-variance portfolio optimisation in
+      continuous time, and the quickest detection problem for Bessel processes (open since the
+      1950s). Zhang derived discrete/lattice approximations to stochastic PDEs and reflected
+      stochastic PDEs for the first time. Walton (Erlang prize 2018) resolved a conjecture by
+      Shah et al on optimal queue-size scaling in switched networks. Denisov developed a
+      general approach to renewal theory of Markov chains. As planned the theme grew links
+      with external partners (e.g. Autotrader, NASA, Royal London, Toyota Mobility Foundation,
+      TfGM). Future goals are to reinforce links to theme 7, further broaden collaboration with
+      external partners and grow research in financial mathematics.
+
+  (7) Statistics, Inverse Problems, UQ and Data Science: (9 appointments)
+      Building on existing activity in statistics, inverse problems and numerical algorithms, a
+      large strategic investment strengthened and broadened research across this theme. New
+      expertise in statistical and machine learning algorithms for Bayesian inverse problems
+
+                                                                                            Page 5
+Unit-level environment template (REF5b)
+      ensured strong connections to themes 4 and 5. Hall (joint with the Faculty of Biology,
+      Medicine and Health (FBMH)), House and Pellis established the Unit’s epidemiology
+      expertise (GBP1.7M funding), overlapping with theme 4. Their expertise played a critical
+      role in aspects of the UK’s COVID-19 response, with Hall a member (since 2006) of SPI-
+      M. In inverse problems Lionheart’s leadership enabled engagement on major
+      interdisciplinary projects (GBP7.5M) with 12 external partners. Dorn (3 CASE PhDs) is at
+      the forefront of level set methods for inverse scattering. Cotter developed novel
+      computational methods for inverse and multi-scale problems associated with biochemical
+      networks. Powell led international UQ initiatives including a six-month Isaac Newton
+      Institute (INI) programme (2018) and as Program Director of the SIAM UQ activity group
+      (2018-20). Unit staff engaged strongly with UoM and national Data Science institutes, with
+      11 securing Alan Turing Institute fellowships. The Unit will drive continued growth in this
+      theme, overlapping with themes 4, 5 and 6, whilst ensuring alignment with UoM’s digital
+      futures theme (REF5a 2(iv)) and national priorities.
+
+  O1-O4 provide firm foundations for progress beyond REF2021. Growth in themes as
+  described above will drive fundamental, applied and interdisciplinary research with impact.
+  The Unit will further diversify income; specifically, it will identify larger-scale funding
+  opportunities, e.g. via further philanthropic funding, the additional GBP300M EPSRC
+  Mathematical Sciences programme, and collaborative international funding mechanisms, for
+  both single and multiple-site projects. It will do this by
+       exploiting its theme structure and existing expertise, and by appointing in new areas, to
+          align with national priorities and outcomes of the UK Research and Development
+          Roadmap;
+       increasing engagement with external partners;
+       further aligning locally with UoM research beacons (REF5a 2(iii)) and other centres of
+          excellence.
+  The Unit will invest in its people across all levels from PGR (including the Heilbronn Doctoral
+  Programme), through ECRs to its most experienced professorial staff, with Equality, Diversity
+  and Inclusion (EDI) embedded at the heart of all processes. This will secure a diverse people
+  pipeline and leadership in the mathematical sciences in the coming period.
+
+ 1(iii) Enabling impact
+
+ Aligned with UoM’s impact agenda (REF5a 2), the Unit continued its drive from REF2014 to
+ broaden its impactful research. Its overarching strategy has been to adopt a flexible and
+ responsive approach to growing relationships with external partners via multiple engagement
+ mechanisms. This enabled the Unit to build a broad, sustainable base of research, supported by
+ over 100 non-academic external partners (figure 4). Mechanisms facilitated the continuation of
+ established relationships with key collaborators (Section 4(ii)) whilst enabling new collaborations
+ to develop. 40 Unit staff engaged with partners during the period, including co-authorship of over
+ 100 papers with 39 external organisations.
+
+ The following mechanisms enabled and facilitated impact.
+
+ Recruitment and staff exchange
+ The Unit appointed Assier, GW Jones and Knowledge Transfer Fellow Evatt to Industrial
+ Mathematics lectureships, working with Hewitt to develop new external collaborations. The Unit
+ gave key partner staff honorary/visiting status, e.g. Hammarling (NAG), Nigro (Thales), Monks
+ (AWE), Zimon (IBM), and 6 KTP Associates facilitated knowledge exchange. Staff also provided
+ consultancy (Section 3(v)).
+
+
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+
+
+
+
+ Figure 4. The Unit employs various engagement mechanisms to collaborate with over 100
+                                    external partners.
+
+ Seed-corn funding
+ The Unit’s Applied Mathematics MSc provides an effective mechanism of external engagement.
+ MSc (and Undergraduate (UG)) projects often stem from study days: intensive workshops with
+ partners, who contribute GBP4K per event. During the period MSc/UG students completed over
+ 45 projects, offered by 15 organisations. New partnerships with Autotrader and Dstl were
+ established by this mechanism. External links yielded 16 new CASE studentships during the
+ period (8 at REF2014), and 6 other industry-funded PhDs. The Unit encouraged PGR students
+ to engage with internships, enabling new collaborations, e.g. with Dyson.
+
+ Larger-scale funding
+ Awards from all industry-related sources, including direct funding, CASE-award contributions,
+ government funding supporting industry (GCHQ for HIMR, KTPs) and consultancy has grown to
+ over GBP4.2M, increasing from GBP2M at REF2014. The Unit’s six KTP awards (GBP1.56M)
+ and six Impact Acceleration Account (IAA) awards (GBP125K) have been particularly impactful
+ and fruitful mechanisms of external engagement. 44 external organisations partnered on
+ research grants with the Unit.
+
+                                                                                         Page 7
+Unit-level environment template (REF5b)
+
+ Research hubs
+ The Unit’s development of research hubs, which are large-scale formal strategic collaborations,
+ exemplifies the growth model. They facilitate responsive engagement with a focus on long-term
+ partner goals. Hubs were developed with AWE and Thales during the period, including over
+ GBP1.43M direct funding and GBP1.3M leveraged funding (Section 4(ii)).
+
+ Relation to Impact Case Studies
+ The Unit’s expertise across themes 3-7 underpins its seven Impact Case Studies (ICSs), which
+ emerged from the nurturing mechanisms described above. ICSs associated with Thales (Assier,
+ Cotterill, Heil, Parnell, theme 3), NAG (Higham, theme 5) and Rapiscan (Lionheart, theme 7)
+ have emanated from long-term relationships. The ICSs benefitting Argent & Waugh (Güttel,
+ Higham, theme 5) and Arup (Higham, Tisseur, theme 5), arose from study days. The COVID-
+ 19 ICS (Hall, House, Güttel, Pellis, themes 4, 5 and 7) illustrates the Unit’s agile response to
+ national priorities and delivery of rapid impact.
+
+ Beyond REF2021, the Unit will continue to adapt its enabling mechanisms to broaden and
+ expand its hubs, consolidate other relationships and develop new collaborations in alignment
+ with national priorities.
+
+ 1(iv) Interdisciplinary research
+
+ Staff carried out a broad range of interdisciplinary research during the period, driving O3.
+ Frequently, individual interactions are initiated by staff elsewhere seeking specific mathematical
+ expertise, and by Unit staff seeking applications of mathematics. The following, more formal,
+ mechanisms also enabled interdisciplinary research.
+
+ Good practice and recruitment
+ Leadership in interdisciplinary research from existing Unit staff (Section 4(v)) inspires PGR
+ students and new recruits. The Unit’s recruitment assisted in nurturing its interdisciplinary
+ identity, including joint appointments Shearer and Hall (Section 2(i)) and shared fellowships
+ (Chernyavsky and Pearce) with FBMH.
+
+ Workshops
+ The Unit funded workshops, e.g. with DP&A, Computer Science, Materials and the Life
+ Sciences, on broad exploratory topics and focused areas including data-centric engineering,
+ materials modelling and machine learning. Workshops facilitated Jensen’s Wellcome Trust PGR
+ Programme. Parnell led on establishing the Manchester Materials Modelling Centre in 2019,
+ initiated by a FSE-funded workshop. Law’s ATI-funded workshop on data-centric engineering
+ led to an 18-month ATI-funded project on digital fingerprinting with Withers (Regius Professor,
+ Materials).
+
+ Interdisciplinary institute engagement
+ A thriving array of interdisciplinary University Research Institutes provides avenues to grow
+ interdisciplinary research. The Unit played an active role in, and used facilities in, various
+ institutes during the period, e.g.
+ UoM institutes
+      Institute for Data Science and Artificial Intelligence (IDSAI) (Higham’s advisory board
+          membership, Law’s IBM CASE studentship facilitated by a 2020 IDSAI workshop);
+      Manchester Urban Institute (Walton and Pinto (Planning and Environmental
+          Management) PhD co-supervision).
+ National institutes
+      Alan Turing Institute (11 Fellows);
+      Henry Royce Institute, e.g. UoM Henry Moseley X-ray Imaging Facility (HMXIF) (6 staff);
+      Diamond Light Source (3 staff);
+      National Graphene Institute (NGI) (Heil, Hazel and Vijayaraghavan (Materials), PhD co-
+          supervision).
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+
+ The mechanisms above led to positive outcomes in the following areas.
+
+ Advanced Materials
+ Pihler-Puzović, Hazel and C Johnson worked on novel auxetic metamaterials, e.g. Soft Matter
+ (2016). GW Jones published in Nano Letters (2017). Parnell’s Dyson collaboration led to the
+ fabrication of novel acoustic metamaterials: Applied Physics Letters (2018). Parnell and Potluri
+ (Materials) published in Composites B (2019).
+
+ Data Science
+ 11 Fellows of the ATI and Higham’s Programme Grant (Section 3(i)) ensure national
+ interconnectivity in this area. Walton’s ATI/Toyota Mobility Foundation project was the British
+ Chamber of Commerce in Japan’s Best UK-Japan Partnership (2020). Holman organised a
+ Dstl-sponsored microlocal analysis workshop (ATI, 2018). Law’s Oak Ridge collaboration led to
+ a 2018 Nature Communications paper. Six Unit staff are Editors of the new journal Foundations
+ of Data Science, including Law (Editor-in-Chief).
+
+ Digital Trust and Security
+ HIMR partnership ensured connections with UoM’s cross-cutting Digital Futures theme,
+ encompassing cyber-security, data protection and privacy (Kambites). Lionheart’s security
+ screening research involves collaborations with Peyton (Electrical and Electronic Engineering, 2
+ patents), Morton (Rapiscan, 2 patents) and Withers.
+
+ Energy
+ Collaborations between P Johnson and Duck with Howell (Business School) on optimal
+ renewable energy storage resulted in four papers, e.g in Applied Energy, 2018. Law
+ collaborated with Oak Ridge in a fusion project with General Atomics (GBP450K).
+
+ Geophysics and Planetary Science
+ Successful collaborations with earth scientists include: Evatt’s paper in Nature Communications
+ (2016); C Johnson’s collaboration on precious metal-mineralised layers, leading to a Nature
+ Geoscience paper (2020); Gray’s collaborative work on avalanches, e.g. on the moon (JGR
+ Planets, 2017).
+
+ Life Sciences and Public Health
+ High-impact publications include those by Jensen and Shearer (Nature Cell Biology, 2020),
+ Chernyavsky (European Respiratory Journal, 2018), Cotter (Developmental Cell, 2018) and
+ Muldoon (Science Signaling, 2018). Hall, House and Pellis’ epidemiology research included
+ papers in Nature Communications and Infectious Disease Modelling.
+
+ 1(v) Open research
+
+ UoM commits to an open and responsible research environment via its position statement
+ (REF5a 2(v)).
+
+ The Unit trailblazed Open Access (OA) research with the Manchester Institute for Mathematical
+ Sciences (MIMS) EPrints server (established 2005). UoM’s library processes OA outputs and
+ manages embargoes and requests for gold-OA funding. During 2016-20, the Unit published 144
+ gold-OA publications via the UKRI block grant (GBP282K) and 25 via UoM institutional funding
+ (GBP13K). 97% of the Unit’s outputs submission is OA compliant.
+
+ The UoM New Academics Programme (NAP) (Section 2(ii)) includes training in Open research
+ principles. All research proposals have data management plans and UoM provides 8Tb storage
+ for projects on Mendeley data. UoM has institutional arrangements for publishing data, allocating
+ DOIs, importing information on published datasets into PURE (UoM’s research repository) and
+ linking to publications. PGR training in OA is mandatory.
+
+
+                                                                                            Page 9
+Unit-level environment template (REF5b)
+ Unit staff contribute to Open Source software including R packages on CRAN (Boshnakov,
+ Nadarajah, Pan, Strimmer) and freely available MATLAB toolboxes (Güttel, Higham,
+ Silvester, Tisseur). Silvester continued to develop IFISS and s-IFISS, and Hazel, Heil and
+ Pihler-Puzović further developed oomph-lib. Ten Unit staff maintain Github (open) software
+ repositories.
+
+ 1(vi) Research integrity
+
+ UoM is strongly committed to the highest standards of research integrity (REF5a 2(v)). Robust
+ organisational structures promote a culture of integrity and ethics at Unit level. Unit leadership is
+ provided by ethics coordinator Lionheart, dealing with approvals via an online system. UoM
+ handles legal obligations centrally, e.g. export control, employment law and data regulations.
+ Staff receive advice on adherence procedures via FSE Research Support and HoR.
+
+ In accordance with UUK Concordat requirements, UoM has implemented mandatory data
+ protection and research integrity training for all staff who undertake research (repeated every 2
+ and 3 years respectively) and for all PGR students. The NAP includes research ethics training.
+ Concordat compliance is a requirement of receipt of HEFCE, UKRI and Wellcome Trust funding.
+ Unit induction events reinforce research integrity awareness. Research Leads manage peer
+ review of papers and proposals prior to submission, encouraging and embedding good practice
+ (Section 3(i)).
+
+ The Unit engages with, and influences policies of, the professional learned societies via
+ membership and leadership (Section 4), noting that their codes of conduct uphold professional
+ standards.
+
+ 2. People
+
+ 2(i) Recruitment and staffing strategies
+
+ The Unit invested strategically across the early career stage during the period, with the
+ appointment of 20 Lecturers, and 10 Research Fellows (RFs) whose roles continue to
+ permanent appointments (Table 1). This investment enhanced, reignited and initiated areas of
+ research. The Unit also made 5 strategic senior appointments in applied statistics and data
+ science.
+
+                            2013 2014 2015 2016 2017 2018 2019 2020 Total
+  Research Fellow                          1      2      1    1       3     2 10
+  Lecturer                    1    3       5      2      5            2     2 20
+  Senior Lecturer                          1      1                           2
+  Reader                                                      1               1
+  Professor                                              1    1               2
+                 Table 1. Recruitment distribution of permanent Unit staff.
+
+ New recruits span the Unit’s themes (figure 3), with expertise ranging from fundamental
+ mathematics to interdisciplinary activity. Supporting O2-O3, the 35 appointments grew the Unit
+ significantly (23FTE net growth in permanent staff), with nine retirements and only Abrahams,
+ Lotz and Moriarty from the REF2014 census departing. Seven additional staff arrived and left
+ during the period. The Unit proactively appointed ECRs when staff retired/departed and adopted
+ the strategy to create RF roles (via philanthropic funds) that continue to permanent
+ appointments. This enhanced the attractiveness of the positions to potential applicants and also
+ aligned with FSE’s Dame Kathleen Ollerenshaw (DKO) and UoM’s Presidential fellowship
+ schemes (REF5a 3.3.2). This overarching strategy led to an improved demographic balance
+ across career stage since REF2014 (Table 2). An EDI analysis of staff, including Postdoctoral
+ Research Associates (PDRAs) in the Unit indicated a steady increase in BAME staff (29% in
+ 2013 to 36% in 2019) and a relatively steady level of 10% female staff.
+
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+
+                  Research     Lecturer        Senior       Reader                 Professor
+                  Fellow                       Lecturer
+  REF2021         16.3%        25.0%           17.4%        10.9%                  30.4%
+  REF2014         0%           28.6%           14.3%        10.7%                  46.4%
+                         Table 2. The Unit’s demographic balance.
+
+ Beyond REF2021 the Unit will ensure continued balance across the career spectrum, seeking to
+ appoint high-quality ECRs, whilst providing leadership across all themes, consistent with future
+ plans (Section 1(ii)). Increasing the proportion of female and BAME staff remains high priority.
+
+ Influence of staffing strategy on theme development
+ Taking into consideration the need for recruitment in areas driven by departures/retirements, and
+ supporting the general strategies described above, the Unit recruited into themes in the following
+ manner (figure 3).
+
+ In theme 1, GBP1.04M philanthropic funding for Turing/Neumann Fellows brought a vibrant
+ group of young researchers (Bui, Leon-Sanchez, Patel, Robertson) to the Unit. Coupled with
+ the lectureship appointments of Frei and GO Jones and DKO Fellow Adiceam, this revitalised
+ logic, and launched a strong presence in number theory and research across interfaces. These
+ appointments were augmented by five HIMR Fellows (Barber, Calvert, Peacock, Smith,
+ Sutton) and EPSRC Postdoctoral Fellow (now lecturer) R Webb. Suess’ appointment in
+ algebraic geometry overlaps with theme 2, whilst Kempton and Sahlsten’s appointments in
+ ergodic theory drive connections with theme 6.
+
+ In theme 3, Assier and (Dorothy Hodgkin Fellow) Kisil strengthened expertise in wave
+ mechanics, overlapping with analysis (theme 2). The appointments of GW Jones, Thales RF
+ Cotterill and EU Marie Curie Fellow Meng enhanced expertise in solid mechanics. The
+ appointments of C Johnson, Landel, Pihler-Puzović (DP&A) and Thompson strengthened
+ MCND. Theme 4 benefitted from the joint appointment of Shearer with Materials and
+ Presidential Fellow Chernyavsky, both having strong overlaps with the life sciences.
+
+ Huang and M Webb further strengthened theme 5. Andres and Herrmann reinforced financial
+ mathematics and actuarial science in theme 6. DKO Fellow Gaunt enhanced expertise in
+ applied probability alongside the appointment of Walton. In theme 7, professorial appointments
+ Law and Strimmer and Lecturer Thorpe established a new presence in data science.
+ Charalambous, Han and Waite enhanced applied statistics expertise whilst providing further
+ overlaps with theme 4. Hall (joint with FBMH and Public Health England (PHE)), House and (Sir
+ Henry Dale Fellow) Pellis established the Unit’s epidemiology expertise, connecting to theme 4.
+
+ 15 Unit staff were appointed on fixed-term contracts, with 8 leading to permanent contracts. Five
+ HIMR Fellows hold contracts with renewal opportunities on application.
+
+ Evidence of success
+ Of the RFs eligible to apply for funding and newly appointed lecturers, 18 of the 19 in post for
+ more than two years secured external funding, amounting to a credit share of GBP3.24M (34
+ awards, including 16 UKRI grants). New appointments published over 250 papers in leading
+ international journals since joining and at census date they were involved in the supervision of
+ over 60 PGR students. After joining the Unit, Walton won the Erlang prize, Law became Editor-
+ in-Chief of Foundations of Data Science and Hall, House and Pellis had national impact with
+ their COVID-19 research. During the period, 5 of the Unit’s 9 newly appointed lecturers who
+ have been in post more than four years (beyond probation) were promoted to Senior Lecturer
+ and both newly appointed Senior Lecturers were promoted to Reader.
+
+
+
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+
+ 2(ii) Staff development
+
+ UoM’s Concordat Implementation Plan ensures full support for the Concordat (REF5a 3.2).
+ Support and training
+ In 2018 the Unit increased its number of Line Managers (LMs) to 13, from 4 at REF2014, to
+ ensure improved, regular support for academic staff. LMs carry out annual Performance and
+ Development Reviews, assist with promotion/sabbatical applications, review and sign-off
+ probation objectives, meet staff informally, and advise on workload allocation. LMs of PDRAs
+ are their supervisors.
+
+ All academic staff undertake mandatory EDI, and Unconscious Bias (UB) training, with refresher
+ courses every three years.
+
+ Annual away days bring staff together to discuss Unit strategies and informal support is provided
+ by HoR and Research Leads. FSE and the UoM Staff Training & Development Unit offer a wide-
+ ranging career development programme. For staff in management positions, UoM runs the
+ Inspiring Leaders programme.
+
+ Induction and assimilation
+ PDRA induction includes a tailored welcome meeting with supervisors, where training needs and
+ other requirements are discussed. UoM provides a general induction for all new permanent staff,
+ comprising a welcome event and contextual guide to the University, its policies, and the
+ Concordat. The Unit complements this with its own induction programme. Strong assimilation of
+ all appointments into the Unit is ensured by
+       all staff, including PDRAs, joining at least one research theme;
+       mentorship (see below) and HoR/Research Lead meetings when appointed, and
+         regularly thereafter to discuss funding opportunities;
+       the Early Career Forum (Section 2(iii));
+       the Unit’s varied programme of events and seminars;
+       informal coffee mornings, continuing virtually after March 2020.
+
+ Mentoring and probation
+ The probationary period is 4 years for academic staff and 9 months for PDRAs. In addition to a
+ LM, academic staff on probation are assigned a mentor who provides one-to-one support.
+ Ambitious, achievable probation criteria are devised as a set of tailored, measurable objectives
+ via discussions between the appointee, LM and Head of Department (HoD, Jensen). Passing
+ probation includes the successful completion of the NAP, which involves attendance at two
+ research-focused days and the writing of a teaching-focused portfolio. NAP completion is
+ externally recognised by fellowship of the Higher Education Academy. The Unit’s senior mentor
+ coordinates the probation process and after liaising with LMs, reports to the Departmental
+ Promotions Committee (DPC) where probation outcomes are decided.
+
+ Promotions
+ Driven by EDI, the DoM initiated a new promotions procedure in 2018. An annual email
+ encourages all eligible staff (including PDRAs) to submit paperwork to DPC, comprising
+ members of the Department Leadership Team, a member from another department, and an
+ elected departmental representative, who serves as the DoM Athena SWAN (AS)
+ representative, ensuring that the Committee adheres to AS/EDI principles. The DPC makes
+ recommendations to the Faculty Promotions Committee (FPC), which makes final decisions. 52
+ promotion cases were made to FPC. The success rate was 94.2%: 6 to Professor, 8 to Reader,
+ 17 to Senior Lecturer and 18 from Grade 6 to 7 (to Lecturer or Research Fellow).
+
+
+
+
+                                                                                           Page 12
+Unit-level environment template (REF5b)
+
+ 2(iii) Support for ECRs
+
+ In addition to the support described in Section 2(ii), newly appointed RFs and Lecturers are
+ supported during probation by
+      reduced teaching loads and protection from significant administrative roles;
+      start-up packages of GBP2-5K for travel and networking. Larger packages allow
+         experimentalists (e.g. those interfacing with MCND), to initiate lab-based activity. After
+         probation, further support is available (Section 4(i)).
+ To help ECRs integrate into local research culture, they are encouraged to
+      co-organise Research Seminars, to broaden their networks and gain exposure
+         nationally and internationally;
+      co-supervise PGR students. Senior staff team up with new Lecturers on PhD projects.
+         The former take the lead supervision role while the latter co-supervise, gaining valuable
+         experience. After probation, new appointees transition to lead supervisors.
+
+ A key support mechanism for ECRs, and particularly PDRAs, is the DoM’s Early Career Forum
+ (ECF).
+
+ The ECF is led by ECRs (formerly M Johnson, now Chernyavsky), with oversight from senior
+ staff. Set up in 2013, with support from the DoM’s AS committee, today it is a thriving, highly
+ active group, connecting to corresponding structures at FSE and University levels. Membership
+ comprises late-stage PGR students, PDRAs, RFs and new Lecturers. The ECF provides the
+ following support mechanisms.
+       Informal meetings. These take place 4-5 times every year over refreshments in the
+         ATB, helping ECRs to network with peers. These continued online after March 2020.
+       Training events. The ECF regularly surveys participants to determine their most
+         pressing training requirements. The ECF lead then liaises with senior staff to plan
+         bespoke events. The Unit provides financial support as needed. Recent events included
+         grant-writing club sessions, a fellowship-writing workshop and a collaborative research
+         sandpit co-organised with other Departments in the School of Natural Sciences. Events
+         are advertised to all Unit ECRs and frequently involve presentations from Professional
+         Services (PS) staff, and successful grant holders. Senior academics assist with
+         interactive activities, e.g. mock panels.
+       Web resources. ECF representatives maintain a dedicated web-page, electronic
+         newsletter, and since March 2020, an online repository of resources to support
+         homeworking and well-being.
+ Support for PDRAs assists the sustainability of the discipline (Section 4(v)).
+
+ The ECF enjoys strong links with the DP&A ECF (Section 2(vi)).
+
+ 2(iv) Sabbatical leave
+
+ All full and part-time academic staff who have taught for 6 consecutive semesters or more, and
+ whose contract duration is longer than this period, are eligible to apply to DPC for sabbatical.
+ The Unit’s research sabbatical strategy, aligned with UoM’s, is to ensure that staff engage in
+ continued research and impact activity, with complete relief from teaching and administrative
+ duties. In addition to carrying out high quality research, staff are encouraged to write a grant
+ proposal. During the assessment period, 36 one-semester and 4 two-semester sabbaticals were
+ awarded, facilitating staff to publish over 50 research papers, submit 16 successful grant
+ applications, develop 23 new collaborations and undertake 34 research visits. Notable examples
+ of successful outcomes are (a) Eaton’s EPSRC grant (2019-22, GBP369K), (b) Powell leading
+ a six-month INI UQ programme (2018), (c) Evatt’s impactful trip to Antarctica (Sections
+ 1(ii),(iv),4(v)), (d) Suess’s Leverhulme Trust grant (2020-24, GBP284K), (v) Peskir’s work noted
+ in Section 1(ii), and (vi) Silvester’s Romberg Visiting Professorship (University of Heidelberg,
+ 2019).
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+
+ 2(v) Staff exchange programmes
+
+ Partner staff spend time in the Unit, e.g. Arup (Kannan), AWE (Monks), Dstl (Desai, Watson),
+ NAG (Hammarling), Thales (Cotterill, Nigro) and Zeiss (Thompson). Having held a Royal Society
+ Industry Fellowship during the last period, Thales employee Cotterill continued to spend 0.5FTE
+ on knowledge transfer activity in the Unit until retirement, when he joined the Unit at 0.2FTE via
+ Thales funding. Davey joined Thales after an Impact Fellow position (Section 2(vi)). In 2020 the
+ Unit appointed Zimon (IBM) to an Honorary Lectureship, recognising the emerging relationship
+ with IBM. Unit staff engaged with hubs have funding to work in associated organisations. House
+ spent time at IBM (Royal Society Industry Fellowship) prior to March 2020 and 6 KTP Associates
+ distributed time between the Unit and partners. See also Section 3(v).
+
+ 2(vi) Rewarding staff and impact support
+
+ Research and knowledge transfer are two of four (equally weighted) categories of promotions
+ criteria, thus rewarding success in both areas. The Unit’s workload model accommodates
+ significant grants and knowledge transfer activities with reduced workloads elsewhere. Staff with
+ research fellowships are relieved from all other duties. Impact Fellows supported ICS
+ development and UoM’s business engagement team offer broad support for impact (Section
+ 3(iii)). Unit/UoM social media and newsletters highlight key achievements. 15 staff had 15
+ papers highlighted on the FSE In Abstract webpage, highlighting outstanding research.
+
+ Staff were recognised at UoM awards, including
+ Better World Awards
+     Nadarajah (2019, 2020) for his Educating Africa charity;
+     Güttel (2017) for industrial installation alarms research (leading to an ICS).
+ Research Staff Excellence Awards (initiated 2020)
+     Pellis (with 2 PDRAs), won Best Contribution to Impact (COVID-19 research);
+     Chernyavsky (with Boya, DP&A), runners-up in Best Contribution to Research
+        Environment (ECF work).
+
+ 2(vii) Postgraduate Research
+
+ The Unit maintains a large and vibrant PGR community. 217 PGR students registered in the Unit
+ during the period and there were 205 completions, compared with 201 and 125 at REF2014.
+ Completion rates for students starting in 2014 and 2015 were 92% and 100%, respectively.
+
+ Recruitment
+ The Unit recruits outstanding PGR students from a wide range of institutions. 1FTE DoM PS
+ staff provides administrative support for recruitment, while three PGR Admissions Officers
+ connect applicants with supervisors. Two nationally-advertised Open Days are held annually in
+ the ATB. Opportunities are disseminated via the Unit’s varied networks and funded projects are
+ advertised on UoM and DoM websites, and on FindaPhD.com. Recruitment is based on
+ academic record and potential, judged by (i) taught course performance, (ii) research
+ experience, (iii) interview performance, and (iv) references. Interviews are conducted with two
+ academics (having taken the EDI/UB training noted in Section 2(ii)), including the intended
+ supervisor. Following an academic offer, students without financial support are considered for
+ funding.
+
+ Support for PGR students with protected characteristics
+ The Unit monitors PGR data and recruitment practices for potential biases. Its PGR recruitment
+ strategy has been informed by the DoM’s 2014 survey to determine PGR aspirations, especially
+ amongst female and BAME students. Care is taken to ensure that staff and students involved in
+ Open Days represent a gender and ethnicity balance, and that webpages and printed materials
+ feature diverse representation. To encourage applications from under-represented groups,
+ targeted events/schemes are
+
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+      Meet a Researcher (annually). Role models from under-represented groups talk about
+       PGR experiences and career progression;
+     Women in Mathematics. Organised in 2019 by Unit staff, supported by the Advanced
+       Mathematics Support Programme;
+     Unit mentor scheme (initiated in 2019) for female and non-binary students considering
+       PGR study. To date 14 students have engaged with this scheme.
+ The annual proportion of newly registering female PGR students fluctuated between 19% and
+ 41%, with the two-year rolling average increasing from 26% to 34% between 2014 and 2019.
+
+ Funding
+ Students are funded via diverse mechanisms, avoiding over-reliance on DTP funding (figure 5).
+     Unit funding. A substantial DoM budget is administered by the DoM’s PGR Committee,
+       which makes decisions on a rolling basis.
+     UoM funding. The President’s Doctoral Scholar (PDS) Award scheme funds 100
+       outstanding PGR students annually across UoM. FSE provides Dean’s Awards.
+     Case awards and other industry. 17 Unit staff supervised PhD projects with external
+       partners (figure 4) during the period.
+     Overseas Governments. The Unit recruits international students with financial support
+       from overseas government agencies, e.g. CSC (Chinese Scholarship Council) and
+       CONACyT (Consejo Nacional de Ciencia y Tecnología).
+
+
+
+
+     Figure 5. Funding mechanisms for the Unit’s 217 newly registered PGR students.
+
+ The DoM PGR committee funded 210 students and the DP&A committee 7, with 5 DP&A
+ students having co-supervisors in DoM. Over the period, Unit staff co-supervised students with
+ collaborators in 10 other Units across UoM. The Wellcome Trust PGR Programme supported 20
+ PGR students; 19 were registered in FBMH but all had co-supervisors in the Unit and benefitted
+ from Unit facilities.
+
+ Progression
+ 1FTE PS staff provides DoM PGR administrative support. Every student has a main supervisor,
+ at least one co-supervisor, and an advisor. Rigorous procedures monitor students via the UoM
+ online system eProg. Students complete quarterly progress reports and receive written
+ feedback. They also submit annual reports including future plans, assessed by the supervisory
+ team and an independent assessor. Following an oral exam, feedback is recorded and
+ progression depends on a satisfactory report and viva. In 2019, the Unit established the Derek
+ Matthews prize (via philanthropic funding) for the best first-year PGR student progress report.
+ Over the period, over 90% of students were awarded PhDs without or with minor corrections.
+ Almost all interruptions/extensions granted were due to health issues or maternity leave.
+
+ Development
+ Students undergo regular skills audits and have access to a broad range of FSE training.
+ Students are required to pass 100 hours of Taught Course Centre (TCC) material, chosen from
+ the MAGIC TCC, the Academy for PhD Training in Statistics TCC, and/or the Unit’s MSc
+ courses (including rigorous summative assessment).
+
+                                                                                          Page 15
+Unit-level environment template (REF5b)
+
+ PGR students have access to regular Unit and FSE employability events and UoM’s award-
+ winning Careers Service. Frequent opportunities exist in teaching and outreach (Section 4(iv)).
+ Annually, one student acts as a UoM-funded Widening Participation Fellow, engaging in
+ community outreach. PGR students take an active role in organising events, e.g.
+      the annual Mathematics Research Students Conference (MRSC), featuring
+         presentations and posters from current students (supported by the Unit, IBM and NAG);
+      the Unit’s active SIAM-IMA Student Chapter runs an annual one-day meeting and
+         organises an annual Industry Challenge (supported by N Brown);
+      two weekly PGR seminar series, where students present work to peers;
+      in 2015 a Unit PGR student initiated the PGR Showcase, where students present
+         posters (now a successful annual UoM event).
+ The cohort experience on the Wellcome Trust PGR programme enabled training of students in
+ the major questions and experimental techniques in biology and in the application of
+ mathematical modelling and statistical analysis.
+
+ Conferences and internships
+ The Unit supports PGR students’ attendance at national and international conferences with a
+ simple internal funding application. The majority of students speak at 2-3 events (often more)
+ during their programme. All CASE-funded students undertake placements of 3 months and the
+ Unit actively encourages other students to undertake internships (figure 4).
+
+ Prizes
+ The Unit’s PGR students won over 40 awards and prizes over the period, including ABTA
+ Doctoral Researcher Awards, David Crighton Fellowships, and
+      UoM Awards: DTA Doctoral Prizes, President’s Distinguished Achievement Awards;
+      Travel Awards: IMS, SIAM;
+      Best Talks/Posters/Papers: American Statistical Society, BAMC, SIAM, Biennial
+        Numerical Analysis Conference, British Society of Rheology, Designed Experiments, UK
+        Fluids Conference, and Young Researchers in Mathematics conference;
+      Other Competitions: Take Aim, UK Fluids Network Photo Competition.
+ One former PGR student appeared in the Sunday Telegraph’s 2018 “Top 50 Women in
+ Engineering”. In 2020, a Unit PGR student was recognised at the UoM Making a Difference
+ Awards for their WellSpring Mental Health app (outstanding contribution to social innovation).
+
+ 2(viii) Equality and diversity
+
+ The DoM supports the LMS Good Practice Scheme and has held an AS Bronze award since
+ 2008. The DoM AS committee initially focused on issues affecting women’s careers, but later
+ broadened its remit to include all EDI matters. Committee members included academic staff and
+ PGR representatives. The Unit embeds institution-level EDI policies in its procedures and
+ supplements these with its own strategies to support staff and PGR students.
+
+ Flexible and remote working, and sabbaticals
+ In 2016, DoM introduced a core-hours policy, stipulating that meetings and seminars should be
+ held 10am-4pm. All staff can apply for flexible working, with many having unofficial
+ arrangements such as shifted days to accommodate childcare. In the last AS survey (December
+ 2018), 98% of academic staff said they had the opportunity to work flexibly. The Unit adapted
+ swiftly to remote working in March 2020, supported by UoM’s institutional Zoom licence. Staff
+ continue to accrue sabbatical credit during maternity, paternity and adoption leave. During the
+ period, the Unit modified job advertisement language to encourage applications from qualified
+ candidates seeking flexible and/or part-time appointments. Staff involved in recruitment
+ undertake enhanced EDI training.
+
+
+
+
+                                                                                          Page 16
+Unit-level environment template (REF5b)
+ Career pathways for fixed-term staff
+ UoM places all staff coming to the end of fixed-term contracts onto their redeployment register.
+ The ECF provides support for the careers of fixed-term staff. HIMR Fellows benefit from the
+ wider HIMR network, and associated diversity schemes.
+
+ Enabling research
+ The AS committee regularly monitored DoM procedures for bias during the period, to ensure
+ equitable access to resources to support research. An annual Unit budget of GBP3-5K was used
+ to fund additional female seminar speakers and to fund events aimed at encouraging PhD
+ applications from under-represented groups (Section 2(vii)).
+
+ Career progression and leadership
+ EDI considerations drove changes to promotions procedures (Section 2(ii)). During the period,
+ two Unit staff benefited from the externally-run Aurora and Stellar HE leadership programmes,
+ which are tailored for female and BAME staff, respectively. HoD liaises with LMs regularly in
+ efforts to maintain balanced representation on decision-making committees and at leadership
+ level. The 13 LMs are distributed across career stage from Senior Lecturer to Professor and 3
+ are female.
+
+ Periods of leave
+ LMs offer tailored support for academic staff returning from periods of leave due to illness,
+ maternity, paternity or adoption leave, or caring responsibilities. This includes a review, and
+ where possible a reduction, of workload upon return to work. UoM launched its flagship
+ Returners Scheme in 2018. Academic staff returning can apply for a teaching replacement for
+ one semester (pro-rata for part time staff), and up to GBP3K to support research. In the Unit,
+ returning staff can also access GBP1K research funds, increased from the annual funding pot
+ (Section 4(i)). Staff who would incur extra costs by attending conferences, e.g. due to childcare
+ or immobility, are encouraged to apply to the AS committee for funding. During the period the
+ Unit liaised with DASS twice to ensure supply of specialist software and equipment for staff
+ following return from illness. PGR students can request interruptions where their programme
+ clock is paused. Return to study is managed by their supervisor who makes arrangements for
+ assimilation back into the Unit and signposts students to support (see Wellbeing below). From
+ students registering during 2013-15, seven interrupted; six returned, with five completing, and
+ one to submit in 2021.
+
+ Protected characteristics
+ Support for research staff with protected characteristics is strongly embedded in UoM and Unit
+ policies, through for example, the Disability Confident scheme used for job advertising, overseas
+ travel guidance, promotion workshops targeted at under-represented groups, staff Networks
+ (including Black Minority Ethnic, LGBT, and Disabled groups), same-sex partner leave for new
+ parents, Occupational Health involvement in work conditions, and zero-tolerance “Report &
+ Support” procedures on harassment.
+
+ Wellbeing
+ In addition to arranging regular check-in meetings with staff, where appropriate, LMs signpost
+ staff to UoM counselling and wellbeing services, and e-resources to support mental health. A
+ dedicated Student Support Officer provides PGR students with wellbeing guidance and direction
+ to UoM services, including counselling and DASS (4 PGR students were registered with DASS
+ at census).
+
+ REF return
+ The Unit’s outputs return was selected in accordance with UoM’s annual Research Review
+ Exercise, led in the Unit by Tisseur, with oversight from FSE. Papers selected by authors were
+ distributed to at least two internal referees (Unit staff) who had undergone tailored REF
+ assessment training and were supported by EDI/UB training (Section 2(ii)). Results were
+ compiled and considered at a panel chaired by Tisseur. Broad consensus contributed to final
+ grading. Authors fed their own feedback on scores into the process via an online system,
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+ managed by Tisseur. An EDI analysis of the Unit’s return showed an average of 2.3 outputs
+ from both Male and Female authors and an average of 2.3, 2.1 and 2.7 outputs associated with
+ White/BAME/Unknown or refused ethnicity, respectively.
+
+ Hewitt managed ICS selection, supported by HoR and the Unit’s Impact Officer (Section 3(iii)).
+ A broad range of potential ICSs were discussed at rolling panels with Unit and FSE staff. ICSs
+ were ultimately selected on the basis of quality and evidence.
+
+ The Unit’s environment statement was written by Parnell, with a core team of 8 staff (2 female).
+ Input was sought and information returned from Unit staff on several occasions to provide
+ illustrative examples and data.
+
+ 3. Income, infrastructure and facilities
+
+ 3(i) Research funding strategies
+
+ The Unit’s strategic objective O4 to grow and diversify research funding is bearing fruit, with
+ GBP26M total income over the assessment period, up significantly from GBP11.4M at REF2014.
+ Its appointment strategy drove a healthy balance between curiosity-driven research and
+ responsiveness to specific funding calls. A key mechanism in achieving O4 was improvement of
+ support for grant proposal preparation via the appointment of Research Leads (RLs). As part of
+ the Unit’s new proposal submission approval process, RLs manage intensive internal peer
+ review (two referees), involving multiple iterations of drafts to improve proposals and PI
+ responses, and to ensure call alignment. Particular attention is provided to ECRs, mentoring
+ them through the process and ensuring support post decisions. HoR/RLs discuss unsuccessful
+ proposals with PIs to consider potential improvements and future funding options. Mock
+ interviews are always arranged as appropriate. The Unit consistently grew its market share
+ (HESA data) of research income (figure 6).
+
+
+
+
+                       Figure 6. Market share of research income
+
+ Credit share of external research awards during the period totalled GBP25.2M (figure 7). The
+ proportion of Research Council awards was 62%, compared to 72% and 90% in REF2014 and
+ RAE2008, thus further reducing Unit reliance on this source. “Other” sources (philanthropy,
+ overseas institutions, etc.) increased significantly to GBP1.97M from just GBP42K at REF2014,
+ illustrating increased, diversified funding.
+
+
+
+
+   Figure 7. Research awards (GBP M) comparing proportions at REF2014 and REF2021
+
+
+
+                                                                                          Page 18
+Unit-level environment template (REF5b)
+ The Unit’s diverse research enabled access to UKRI funding beyond the EPSRC mathematics
+ panel, including BBSRC (Jensen), ESRC (Fedotov), MRC (Hall, Han, Chernyavsky) and
+ NERC (Gray, C Johnson). Notable sources outside UKRI include:
+     HIMR Partnership (5 fellows, GBP1.01M) with further appointments and Heilbronn
+         Doctoral Partnership PGR funding to follow after the period;
+     Research hubs with AWE and Thales (GBP1.43M);
+     Six KTP projects (GBP1.56M including government and industry contributions);
+     European Commission funding for five projects (GBP1.38M);
+     Philanthropic funding for Turing/Neumann Fellowships (GBP1.04M, 2015-20) and
+         follow-on funding (GBP0.8M, 2020-25) after the period.
+
+ The Unit placed strategic emphasis on encouraging and supporting applications for research
+ fellowships. 35 were hosted during the period (compared to 13 at REF2014), including 31 new
+ fellowships. Sixteen arose from applications to external bodies:
+       Chernyavsky (MRC, 2016-19, GBP444K);
+       Gray (EPSRC Established Career, 2015-20, GBP1.38M);
+       Hewitt (William Penney Fellowship Extension, 2016-2019, GBP150K);
+       Higham (Royal Society Professorship, 2018-23, GBP1.39M);
+       House (EPSRC Healthcare Technologies Impact, 2016-19, GBP320K and Royal Society
+        Industry, with IBM, 2019-22, GBP140K);
+       Kisil (Royal Society Dorothy Hodgkin, 2019-24, GBP643K);
+       Meng (EU Marie-Curie Individual, 2019-21, GBP149K);
+       Parnell (EPSRC Early Career, 2014-19, GBP1.1M, and Extension, 2019-2022,
+        GBP897K);
+       Pearce (Leverhulme Trust Early Career, 2015-18, GBP70K);
+       Pellis (Wellcome Trust Sir Henry Dale, 2017-21, GBP640K);
+       Shearer (EPSRC Postdoctoral, 2014-17, GBP220K);
+       Stafford (Leverhulme Emeritus, 2019-21, GBP16K);
+       Symonds (Leverhulme International Academic, 2018, GBP25K);
+       R Webb (EPSRC Postdoctoral, 2019-20, GBP38K).
+
+ Thales provided GBP45K explicit funding for RF Cotterill (2018-21, Section 2(v)). The remaining
+ 14 independent fellowships were supported by UoM, and were awarded in open competitions
+ administered by the Unit/UoM. Direct funding to the Unit supported five HIMR Fellows (Barber,
+ Calvert, Peacock, Smith, Sutton, GBP843K, 2019-22) and philanthropy funded six
+ Turing/Neumann Fellows (Bui, Leon-Sanchez, Loughran, Patel, Prendiville, Robertson,
+ GBP1.04M). Loughran and Prendiville arrived and departed during the period. Philanthropic
+ funding to UoM accounted for two DKO Fellowships (Adiceam, 2018-23, GBP215K; Gaunt,
+ 2016-21, GBP218K) and UoM supported one Presidential Fellow (Chernyavsky, 2019-23,
+ GBP193K) (REF5a 3.3.2).
+
+ Additionally, four fellowships awarded during the REF2014 period overlapped with the REF2021
+ period: Hewitt (William Penney Fellowship, 2013-16), Higham (ERC Advanced, 2011-16),
+ Moriarty (EPSRC Early Career, 2012-17), and Tisseur (EPSRC Leadership, 2011-16).
+
+ The Unit’s seven ICSs were supported by 29 grants, totalling GBP11.4M.
+
+ Table 3 evidences links between key outputs and grants.
+
+
+
+
+                                                                                        Page 19
+Unit-level environment template (REF5b)
+
+ Output                                         Author            Funding Awards
+
+ Diffraction by a quarter-plane. Analytical     Assier            EPSRC (EP/N013719/1)
+ continuation of special functions.
+ Q. J. Mech. Appl. Math. (2019)
+
+ Donovan's conjecture and blocks with abelian Eaton               EPSRC (EP/M015548/1)
+ defect groups.
+ Proc. Am. Math. Soc. (2018)
+
+ Well-posed and ill-posed behaviour of the      Gray              NERC (NE/E003206/1,
+ μ(I)-rheology for granular flow                                  NE/K003011/1), EPSRC
+ J. Fluid Mech. (2015)                                            (EP/I019189/1, EP/K00428X/1,
+                                                                  EP/M022447/1)
+
+ A new analysis of iterative refinement and its Higham            ERC (267526), EPSRC
+ application to accurate solution of ill-                         (EP/I01912X/1, EP/P020720/1)
+ conditioned sparse linear systems.
+ SIAM J. Sci. Comput. (2017)
+
+ Pfaffian definitions of Weierstrass elliptic   GO Jones          EPSRC (EP/N007956/1)
+ functions.
+ Math. Ann. (2020)
+
+ Soft phononic crystals with deformation-       Parnell           EPSRC (EP/L018039/1)
+ independent band gaps.
+ Proc. R. Soc. Lond. A (2017)
+
+ Systematic selection between age and           Pellis            Wellcome Trust and Royal
+ household structure for models aimed at                          Society (202562/Z/16/Z)
+ emerging epidemic predictions.
+ Nat. Commun. (2020)
+
+ Displacement flows under elastic               Pihler-Puzović,   EPSRC (EP/J007927/1)
+ membranes. Part 2: Analysis of interfacial     Juel, Heil
+ effects.
+ J. Fluid Mech. (2015)
+
+ The Ziegler spectrum for derived-discrete      Prest             EPSRC (EP/K022490/1)
+ algebras.
+ Adv. Math. (2017)
+
+                 Table 3. Examples of links between key outputs and funding.
+
+
+ O3 is underpinned by Unit staff playing integral roles in large intra- and inter-disciplinary
+ research projects, including
+     Fedotov: EPSRC, Bioproton (GBP1.4M, 2019-24) with FBMH, Massachusetts General
+        Hospital and NHS-England;
+     Higham: EPSRC Programme Grant, Inference, computation and numerics for insights
+        into cities, (GBP5.3M, 2017-22) with Imperial, Oxford and Edinburgh, and national and
+        international police forces;
+
+
+
+                                                                                         Page 20
+Unit-level environment template (REF5b)
+       Landel: Dstl, Modelling chemical decontamination of porous surfaces, (GBP1.3M, 2019-
+        22) with Cambridge;
+       Lionheart: EPSRC Platform Grant, Next Generation Multi-Dimensional X-ray Imaging,
+        (GBP1.2M, 2015-20) with Materials; EPSRC, Robust Repeatable Respiratory Monitoring
+        with EIT (GBP890K, 2014-18) with Guy’s and St Thomas’ NHS Foundation Trust; Sir
+        Bobby Charlton Foundation (two grants: GBP2.2M and GBP1.5M) with Electrical and
+        Electronic Engineering;
+       Jensen: BBSRC, Opportunities to Modulate Extracellular Matrix Secretion and Assembly
+        for Long-Term Health (GBP3.78M) with FBMH and Bristol;
+       Muldoon: Horizon 2020, Connecting Lung Structure and Function in Cystic Fibrosis
+        Through Physiological Modelling, Image Analysis and UQ (EURO2.91M, 2017-21) with
+        10 partners in 7 countries.
+
+ 3(ii) Organisational infrastructure
+
+ MIMS
+ The Manchester Institute for Mathematical Sciences is the organising centre for the Unit’s
+ research activities. It provides facilities and funding (GBP15K/year) to host visitors at all career
+ stages, seminars, workshops and conferences (Section 3(iii)).
+
+ MCND
+ The Manchester Centre for Nonlinear Dynamics is the Unit’s experimental arm, offering staff
+ approximately 300m2 of laboratory space, facilities and 1FTE technician support. MCND’s
+ facilities grew further via GBP100K investment in microfabrication facilities, key to experiments
+ on biomimetic blood flows (Chernyavsky, Jensen, Juel), airway reopening and viscous
+ fingering instabilities (Pihler-Puzovic, Juel) and surface microfabrication for wetting studies
+ (Juel). The Centre also benefitted from the use of UoM facilities in Chemistry, Materials, NGI
+ and FBMH and has developed strong collaborative links with Chemistry and Chemical
+ Engineering.
+
+ UoM institutes and centres (Section 1(iv) and REF5a 2(iii)) provide focus for interdisciplinary
+ research.
+
+ 3(iii) Support infrastructure
+
+ UoM’s Estates Department maintains the GBP40M ATB, housing 120 staff and PGR offices,
+ large computing clusters, and dedicated MIMS space for research dissemination. MIMS facilities
+ include two seminar rooms, a hot-desking area, Access Grid room (interactive
+ videoconferencing facilities), meeting rooms, and 3 multi-occupancy visitor offices. A GBP20K
+ annual budget allows for standard improvements to the building. In 2018, AV equipment in
+ seminar and computer rooms was upgraded (GBP42K).
+
+ Research and impact support
+ Comprehensive institutional support is provided (REF5a 4.1). The Unit has two dedicated
+ Research Support Officers (RSOs) and a Research Support Manager (RSM) for pre- and post-
+ award support. Funding opportunities are distributed by HoR and RSM. RLs assist in identifying
+ potential applicants and discuss opportunities with staff. To enable impact, UoM funds an Impact
+ Officer, who assists in the development and maintenance of new and existing industrial contacts,
+ facilitates pull-through of impact and assists in ICS development. The UoM Business
+ Engagement team provides broader expertise and connectivity.
+
+ Computational resource
+ In addition to the Research IT Computational Shared Facility to which the Unit contributed seven
+ compute nodes (GBP64k), the Unit has its own computational resources hosted in a dedicated
+ fileserver room in the ATB. Compute nodes for specific projects run alongside servers available
+ to all staff. Total Unit investment in this infrastructure over the period was GBP110K.
+
+
+                                                                                               Page 21
+Unit-level environment template (REF5b)
+ Funding
+ For non-CASE PhDs, the Unit provides funding when external organizations part-fund projects
+ (six during the period). UoM/EPSRC provided assistance for impact development via impact
+ support funds, with the Unit benefitting from two impact fellow awards (GBP92.5K). These
+ projects are connected via the FSE impact support network managed by the Faculty Impact
+ Team. UoM’s dedicated KTP support team assisted in the award of six KTPs with Argent &
+ Waugh (GBP245K), Arrow Global (GBP278K), Arup (GBP261K), Inventive IT (GBP194K), NAG
+ (GBP302K) and Process Integration Ltd (GBP280K). Six IAA awards totalling GBP125K
+ provided proof-of-concept and relationship-incubator funding for Gray, Lionheart and Parnell,
+ together with external partners. The UoM Innovation Factory funded Gray (GBP60K, 12-month
+ PDRA support, market assessment and patenting costs, 2016); Law (GBP5K to establish
+ collaboration with Victrex, who contributed GBP5K); and Parnell (GBP25K, market assessment
+ and patenting costs).
+
+ Facilities
+ Shared UoM infrastructure, including the library, Research IT and large equipment has
+ benefitted from significant UoM investment (REF5a 4.2).
+
+ 3(iv) Equality, diversity and inclusion
+
+ The Unit takes great care to treat all staff equally with regard to access to research facilities and
+ support. The Unit’s MIMS director Tisseur (female) makes recommendations on Unit OA
+ funding based on research quality and career stage. The female to male ratio of RLs is 1:2; HoR
+ and RLs ensure equal treatment in terms of associated support (Section 3(i)) and access to
+ facilities. Recently, the Unit trialled double-blind research proposal peer review to remove any
+ potential for unconscious bias and this approach will be adopted in the future for appropriate
+ calls.
+
+ MCND has an intentionally horizontal structure; access to experimental infrastructure is
+ therefore straightforward for all in the Unit, with experimental advice provided at weekly
+ meetings. Led by Juel, it is an exemplar of support for female scientists with pro-active drawing
+ in of new appointments (several female) into existing projects and new funding proposals.
+
+ All facilities within the ATB and Schuster (MCND) are fully accessible with no steps on entry,
+ dedicated disabled toilets and lifts to all floors.
+
+ 3(v) Relation of infrastructure, facilities and expertise to impact
+
+ The ATB permits flexible engagement with partners including dedicated office space for external
+ partner staff. This has increased engagement with industry and improved the quality and
+ sustainability of interactions (Sections 1(iii), 2(v)).
+
+ Consultancies
+ The Unit recognises the value of staff undertaking consultancy, provided that it forms part of a
+ virtuous circle, whereby research is applied to novel applications, which in turn identify open
+ questions that inform new fundamental research. Unit staff provided consultancy to a diverse
+ range of organisations (figure 4), totalling GBP274K.
+
+ Contracts and Intellectual Property
+ All projects with external partners have contractual agreements drawn up by UoM’s contracts
+ office. The UoM Innovation Factory provides support to manage IP arising from impactful
+ interactions, e.g. they assisted Gray in obtaining a US patent in 2020 (US 10,752,444 B2).
+
+
+
+
+                                                                                              Page 22
+Unit-level environment template (REF5b)
+
+ 3(vi) Specialist and shared research infrastructure
+
+ Institutes
+ Unit staff benefitted from facilities at the INI and International Centre for Mathematical Sciences
+ (ICMS) in Edinburgh, with staff having organised 8 meetings during the period and 17 attending
+ meetings. The Unit’s ATI Fellows benefit from its array of facilities in the British Library. Staff
+ also enjoyed use of HMXIF and Diamond (Section 1(iv)).
+
+ International
+ Staff benefit from international computing infrastructure, e.g. Law and Dongarra (Summit, Oak
+ Ridge, USA) and Law (Shaheen, KAUST, Saudi Arabia).
+
+ Healthcare
+ During the COVID-19 pandemic, Hall, House and Pellis accessed confidential datasets in PHE
+ and Hospital facilities that would otherwise have not been possible to share, e.g. the Office for
+ National Statistics' Secure Research Server, a major national research investment.
+
+ In-kind support
+ The Unit received over GBP2M of in-kind support from partners during the period, including
+ partner staff time on CASE PhDs, access to equipment and computational resource, and sample
+ fabrication. Examples include
+      Assier, EPSRC First Grant (2015-17), Thales, staff time (GBP44K);
+      Chernyavsky, EPSRC (2020-22), McMaster University and St Mary’s hospital, staff time
+         and other resources (GBP70K);
+      Gray, EPSRC Fellowship (2015-20), EPFL and Procter and Gamble, experimental
+         facilities (GBP330K);
+      Lionheart, EPSRC (2014-18), Guy's & St Thomas' NHS Foundation Trust, facilities and
+         clinician time (GBP153K).
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4(i) Research collaborations, networks and partnerships
+
+ Support for collaboration
+ The Unit supports and encourages collaborative research via
+           MIMS (supported over 50 meetings during the period);
+           12 weekly seminar series, including 2 PGR series (GBP20K annual budget);
+           sabbaticals (Section 2(iv));
+           GBP0.5k annual travel stipend with supplementary GBP1K budget on application;
+           strategic initiatives for collaborative PhD supervision.
+
+ Additionally, since 2017 the DKO Trust has provided GBP30-50K annual funding for activities
+ including 4 distinguished Visiting Professors (Cherlin, Masser, Payne, Pillay), 4 research visitors,
+ 5 public lectures, and outreach (Section 4(iv)).
+
+ After campus closure in March 2020, the Unit moved its collaborative activities online, including
+ the majority of its seminar series. Staff also initiated new international online seminar series
+ (Wavinar, E-NLA, eNBSAM, Mathematics of Machine Learning, Mathematical Biology and Data
+ Science).
+
+ Networks
+ Additional support for collaborations was provided by externally funded national research
+ networks, e.g. UK Fluids Network (EPSRC, Juel); From Models to Decisions (UKRI, Powell);
+ North British Semigroups and Applications Network (LMS, Kambites); Tropical Mathematics and
+ its Applications (LMS, M Johnson); Transpennine Topology Triangle (LMS, Ray) and LMS
+
+
+                                                                                             Page 23
+Unit-level environment template (REF5b)
+ Research in Pairs grants (Leon Sanchez, Prest, Stafford, Voronov). Manchester is a named
+ node in three additional LMS Scheme 3 networks spanning combinatorics and number theory,
+ ergodic theory and group theory.
+
+ The Unit’s collaborative reach was described in Section 1(ii). Effectiveness of the collaborations
+ is evidenced by outputs with over 500 UK and international academic institutions (increasing
+ from 100 at REF2014) and over GBP8.5M in grants with research institutions in the UK, e.g.
+ Birmingham (Powell, Silvester), Cambridge (C Johnson, Landel), City (Eaton); Edinburgh
+ (Chernyavsky), Leeds and Loughborough (Parnell), Liverpool (Hazel), Nottingham (Jensen)
+ and Oxford (GO Jones); Europe, e.g. EPFL (Gray), Marseille (Assier), INRIA, BSC and DLR
+ (Dongarra, Higham, Tisseur), and worldwide, e.g. Lawrence Livermore (Higham, Tisseur),
+ National University of Mexico (Montaldi), Oak Ridge (Law), Universidade de São Paulo
+ (Fedotov), Virginia Tech (House).
+
+ 4(ii) Relationships with key beneficiaries to develop impact
+
+ The Unit’s numerous mechanisms for engagement (figure 4) have facilitated strong long-term
+ relationships with key partners, including Arup, AWE, NAG, Rapiscan and Thales. Partner
+ representatives participate strongly in PGR student and PDRA co-supervision, building close
+ relationships with Unit staff. Visits, workshops, and staff exchange with key partners enrich the
+ local research environment, providing a constant source of relevant research problems, ensuring
+ broader engagement and the development of impact.
+
+ The relationship between NAG and the Unit dates back over three decades, whereas the
+ relationship with Arup was initiated via a study day in the previous assessment period. Both
+ collaborations provide vehicles for researchers’ algorithms to be made widely available: new
+ modified Cholesky and nearest correlation matrix codes based on Unit staff’s work appeared in
+ the NAG library in 2019. During the period, 6 Unit staff engaged with NAG via 1 KTP (1 PDRA)
+ and 3 MScs. 4 Unit staff engaged with Arup via 1 KTP (1 PDRA), 2 PGR students and 2 MScs.
+
+ Significant impact has been delivered to AWE and Thales through the Unit’s hub model. The
+ relationship with Thales, beginning with Parnell’s CASE PhD (2001-04), is their longest
+ continuous UK academic collaboration and during the period, engagement involved projects
+ with 8 Unit staff, 5 PGR students and 4 PDRAs. The Unit’s collaboration with AWE, established
+ via Hewitt’s Penney Fellowship (2013-2019) is blooming, with projects during the period
+ involving 9 Unit staff, 5 PGR students, 1 PDRA and 2 PhD internships.
+
+ The relationship with Rapiscan began with consultancy (Lionheart), developing via two CASE
+ studentships (2007-2011), leading to ICSs at REF2014 and REF2021, and the formation of the
+ Bobby Charlton Foundation charity, a partnership including UoM and Rapiscan that
+ supported research in the Unit over the current REF period via GBP3.7M grants.
+
+ 4(iii) Contributions to economy and society
+
+ Unit staff generate impact by applying and translating new and existing mathematical knowledge
+ to address current societal challenges.
+
+ In addition to the Unit’s seven ICSs, in healthcare, Lionheart’s research has been instrumental
+ in developing a prototype 3D Electrical Impedence Tomography (EIT) system for real-time
+ monitoring of mechanically ventilated patients in ICU. Muldoon developed statistical analysis
+ to show that mosaic vaccines for HIV induce improved immune responses. This was
+ instrumental in bringing the mosaic approach to the forefront of HIV vaccines, making it only the
+ fifth vaccine to reach efficacy testing in the last 35 years.
+
+ Landel is leader of the EPSRC UK Fluids Network Special Interest Group in the fluid mechanics
+ of cleaning and decontamination, involving academics and company representatives, and he
+ works with Dstl to develop efficient decontamination strategies.
+
+                                                                                            Page 24
+Unit-level environment template (REF5b)
+
+ Members of theme 7 worked with e.g. Dstl, IBM and NPL to embed cutting-edge UQ
+ methodologies in broader communities, having co-authored key monographs: An Introduction
+ to Computational Stochastic PDEs (Powell, 2014), and Data Assimilation (Law, 2015). P
+ Johnson and Duck worked with National Grid and UoM’s Climate Crisis Centre on applying
+ stochastic models to optimise energy usage.
+
+ 4(iv) Engagement with diverse communities and publics
+
+ The Unit organises online and in-person engagement activities, catering for all ages and
+ communities. Public lectures and events bring the public into the Unit’s research environment
+ (e.g. IMA Festival of Mathematics 2014, Women in Mathematics Research 2019, annual DKO
+ lectures by: Marcus Du Sautoy 2015, Hannah Fry 2016, David Sumpter 2017, James Grime
+ 2018, Vicky Neale 2019, Katie Steckles 2020). Outreach events take staff and PGR students
+ into the community (e.g. regular popular talks in schools, pubs and cafes, and science fairs).
+ Research is publicised via social media, YouTube videos (e.g. Chernyavsky, Parnell,
+ Sahlsten) and blogs (e.g. Borovik, Evatt, Higham, Khudaverdyan, Walton), attracting tens of
+ thousands of hits annually. Mainstream media regularly covers the Unit’s research, including
+ work on meteorites (Evatt) (BBC, New Scientist), ribbon curling (Jensen, Juel) (BBC), football
+ match result prediction (Boshnakov) (BBC), and the COVID-19 pandemic (Hall, House, Pellis)
+ (BBC, ITV). Evatt, Hazel and Walkden contributed puzzles for BBC R4 Today Programme’s
+ “Puzzle of the Day”, published in the Today Programme Puzzle Book (2018).
+
+ Events for school children include the Alan Turing Cryptography Competition (ages 11-16,
+ approximately 4000 participants/year), the DKO Mathsbombe (ages 16-18, approximately 1500
+ participants/year) and MakingMaths@Manchester, an annual two-day residential course for
+ approximately 80 sixth-form students.
+
+ During the period, Unit staff presented their research at e.g. Big Bang Fair, New Scientist Live,
+ Manchester Science Spectacular and at events designed to reach non-traditional audiences
+ including ScienceX (Trafford Centre, 2016-2019) and the Manchester University Community
+ Festival (2017-2020). PGR students and ECRs played an active role in all outreach, and the
+ teams were representative in terms of gender and ethnicity.
+
+ 4(v) Discipline sustainability, interdisciplinary exemplars and responsiveness to national
+ and international priorities and initiatives
+
+ Staff played key roles in national and international institutes, e.g. SIAM President (Higham,
+ 2017-18), ICMS Director (Abrahams, 2014-16, Glendinning 2016-present). Glendinning is
+ president elect of the IMA (2022-23).
+
+ Additional examples of leadership are:
+ Borovik (LMS Council, 2014-20);
+ Güttel (Secretary and Treasurer, SIAM UKIE section, 2016-18; Vice-Chair, GAMM Activity
+ group on Numerical and Applied Linear Algebra, 2015-present);
+ Glendinning (IMA Vice-President (Learned Society), 2010-2014; IMA Council, 2015-18; INI
+ Scientific Steering Committee, 2016-present);
+ Juel (Euromech Council, 2018-2024);
+ Powell (Program Director, SIAM Activity group on UQ, 2018-20);
+ Tisseur (President, UKIE SIAM section, 2019-21; Program Director, SIAM Activity Group on
+ Linear Algebra, 2013–15; Vice-President, SIAM UKIE section, 2013–15; Board of Directors of
+ the International Linear Algebra Society, 2011-14).
+
+ Staff also sat on UKRI strategic advisory teams and boards (Section 4(vi)).
+
+
+
+
+                                                                                             Page 25
+Unit-level environment template (REF5b)
+ Powell was principal organiser of a six-month INI UQ research programme (2018, over 100
+ participants). Dongarra and Higham co-organized a Royal Society discussion meeting on
+ Numerical Algorithms for High-Performance Computational Science (2019, 150 attendees).
+ The Unit actively engages in training the next generation of researchers, employing 91 PDRAs
+ during the period. Of the 67 whose contracts ended, 21 moved onto new PDRA positions, 25
+ into academic appointments, 17 into scientific careers in industry, and 4 destinations are
+ unknown.
+
+ The Unit’s active participation in interdisciplinary projects helps sustain the discipline; key
+ exemplars addressing national and international priorities are:
+
+ Environment
+     Evatt’s lost meteorites of Antarctica project (Leverhulme Trust, partnering with British
+       Antarctic Survey), with earth sciences, and electrical and electronic engineering.
+     C Johnson’s work on the V-PLUS project (NERC highlight grant) to improve predictions
+       of volcanic ash dispersal in the atmosphere, with earth sciences.
+
+ Healthcare
+     National and international epidemiological modelling (Hall, House, Pellis) connects
+       public health, policy and mathematics.
+     Jensen’s leadership in engagement with life sciences, leading to the Wellcome Trust
+       PGR Programme, training 20 PGR students to work at the interface between
+       mathematics and the life sciences.
+     Chernyavsky's work (EPSRC and MRC) on placental modelling, in collaboration with
+       UoM’s Maternal and Fetal Health Research Centre.
+     Shearer’s (EPSRC, joint appointment with materials) work on tendon biomechanics, with
+       the Division of Cell Matrix Biology and Regenerative Medicine, FBMH.
+
+ The Unit responds rapidly and proactively to research priorities, engaging with the UK Research
+ and Development Roadmap, and applying to priority funding calls, e.g. 12 submissions to the
+ EPSRC New Horizons Scheme. Staff played key roles in aspects of the national response to the
+ COVID-19 pandemic. The Unit’s 11 ATI Fellows address national priorities in Data Science.
+ Duck and P Johnson address societal challenges in energy usage. Lionheart’s Royal Society
+ Challenge Grant addressed the global problem of landmine detection and clearance.
+
+ 4(vi) Contributions to the discipline and leadership
+
+ Awards and Prizes:
+ Dongarra
+ SIAM/ACM prize in Computational Science and Engineering, 2019;
+ Women of the ENIAC Computer Pioneer Award, 2020;
+ Frei
+ Prize of the Austrian Mathematical Society, 2019;
+ Higham
+ Royal Society Research Professor, 2018-23;
+ LMS Naylor Prize and Lectureship, 2019;
+ Landel
+ APS Gallery of Fluid Motion Award, 2017;
+ Parnell
+ LMS Whitehead Prize, 2019;
+ Tisseur
+ Olga Taussky-Todd Lecture prize, ICIAM 2019;
+ LMS Fröhlich Prize, 2020;
+ Walton
+ Erlang Prize, 2018.
+
+
+
+                                                                                                   Page 26
+Unit-level environment template (REF5b)
+ Royal Society Wolfson Research Merit awards: Gray (2016-21), Lionheart (2015-20), Tisseur
+ (2014-19) and Abrahams (whilst part of the Unit, 2013-16). Wilkie (FRS, Emeritus) was awarded
+ the LMS Polya prize (2017).
+
+ Fellowships:
+ Dongarra
+ Foreign Member of the Russian Academy of Sciences, 2017;
+ Foreign Member of the Royal Society, 2019;
+ Fellow of the International Engineering and Technology Institute 2019;
+ Higham
+ Elected Member Academia Europaea, 2016;
+ Fellow of the Institution of Engineering and Technology, 2018;
+ Juel
+ Fellow of the American Physical Society, 2019;
+ Tisseur
+ SIAM Fellow, 2016.
+
+ Service on advisory boards
+ Unit staff served over 40 boards and committees including the EPSRC Mathematical Sciences
+ SAT: Abrahams (2014-15) and Juel (2015-18). Parnell is an advisory group member of the
+ EPSRC’s additional funding programme for mathematical sciences. At REF2014, Abrahams was
+ Deputy Chair and Higham was a member, of sub-panel 10.
+
+ Additional examples include:
+ Donev (Co-chair, design of experiments working group, European Research Consortium for
+ Informatics and Mathematics, 2014-21);
+ Dongarra (Co-chair, International Exascale Software Program, 2008-present);
+ Glendinning (Nominating Committee, LMS, 2014-16);
+ Hewitt (Member, Nuclear Security Science Network Management Panel, 2015-present);
+ Juel (Chair, IUTAM UK panel, 2020-22; Member, IUTAM Congress Committee, 2018-22;
+ Nominating Committee, Division of Fluid Dynamics, APS, 2018-20);
+ Jensen (Member, Research Policy Committee, LMS, 2016-2019; Member, World Council on
+ Biomechanics, 2010-22);
+ Heil (Member, Co-chair and Designated Chair, Euromech Fluid Mechanics Conference
+ Committee, 2014-present);
+ Kambites (Member, Society Lectures and Meetings Committee, LMS, 2017-present);
+ Powell (Steering committee, KTN Special Interest group on UQ in High Value Manufacturing,
+ 2016-18);
+ Prest (Nominating Committee, LMS, 2013-14);
+ Tisseur (Member, SIAM Fellows Canvassing Committee, 2017-20);
+ Walton (Member, Council, Applied Probability Society, 2014-16; Member, Applied Probability
+ Section, Royal Statistical Society, 2016-19).
+
+ Journal editorships
+ 37 Unit staff served on over 80 journal editorial/advisory boards. Leadership was provided as
+ senior editors for 14 journals:
+ Dongarra (International Journal of High Performance Computing Applications, Supercomputing
+ Frontiers and Innovations, Applied Numerical Mathematics and Journal of Computational
+ Science);
+ Duck (Quarterly Journal of Mechanics and Applied Mathematics);
+ Hazel (Computer Physics Communications);
+ Higham (Linear Algebra and its Applications and SIAM Fundamentals of Algorithms book
+ series);
+ Jensen (Mathematical Medicine & Biology: A Journal of the IMA);
+ Law (Foundations of Data Science);
+ Parnell (Wave Motion);
+ Peskir (International Journal of Theoretical and Applied Finance);
+
+                                                                                        Page 27
+Unit-level environment template (REF5b)
+ Premet (Transformation Groups);
+ Wilkie (Emeritus) Annals of Pure and Applied Logic.
+
+ Furthermore Higham edited the Princeton Companion to Applied Mathematics (2015),
+ (Associate Editor: Glendinning).
+
+ Grant/Prize committees
+ Unit staff served on 47 grant-awarding committees, including as chair/deputy-chair
+ (Glendinning, Heil, Juel, Parnell, Silvester) in nine different countries. Staff served on prize
+ committees including the SIAM Moser Prize, 2015 (Chair) and 2017 (Glendinning); the IMU
+ Rolf Nevanlinna Prize, 2018 (Higham); SIAM Ralph E. Kleinman Prize, 2019 (Lionheart),
+ Householder Prize, 2014 and 2020 (Chair) (Tisseur).
+
+ Keynote and plenary lectures
+ Staff contributed to over 600 scientific meetings, and gave over 170 keynote/plenary lectures,
+ including:
+ Borovik (Morning speaker, BMC, 2014); Dongarra (SIAM CSE19); Eaton (Morning speaker,
+ BMC, 2018); Frei (BIRS-CMO, 2018); Gajjar (ISTAM, 2019); Gray (Debris-Flow Hazard
+ Mitigation 2019); Higham (ICIAM, 2019); Jensen (SIAM Conference on the Life Sciences,
+ 2014); GO Jones (Diophantine Geometry, 2018); Juel (APS Division of Fluid Mechanics, 2020);
+ Kambites (Research Programme Invited Speaker, Mittag-Leffler, 2018); Law (USNCCM, 2017);
+ Parnell (IMECE, 2019); Pan (Multivariate and Mixed Linear Models, 2019); Peskir (Symposium
+ on Optimal Stopping, 2018); Premet (ESI, 2017); Prest (Auslander Conference, Woods Hole,
+ 2017); Tisseur (ICIAM, 2019); Walton (Markov Lecture Discussant, 2020); Wilkie (Emeritus,
+ 26th Annual Gödel lecture, 2015); Zhang (Stochastic PDEs and related fields, 2016).
+
+ Workshop and conference organisation
+ Staff organised over 130 workshops and conferences, over 50 of which were in Manchester,
+ including:
+ European Study Group with Industry, Manchester, 2015 (Assier and GW Jones); 3rd IMA
+ Conference on Dense Granular Flows, INI, 2019 (Gray); Workshop on thin liquid film modelling,
+ Banff, 2019 (Hazel); UK Fluids Conference, Manchester, 2018 (Jensen); Fundamental
+ Challenges in Inkjet Printing, Lorentz Center, 2019 (Juel); Fluid Mechanics of Cleaning and
+ decontamination, INI, 2018 (Landel); Data-Centric Engineering, MIT, 2019 (Law); Symposium
+ on Optimal Stopping, Houston, 2018 (Peskir); Statistical Methods for Postgenomic Data,
+ Imperial College, 2017 (Strimmer); Developments in Commutative Algebra and applications to
+ classical rings, Chennai Mathematical Institute, 2015 (Symonds); Model Theory of Modules,
+ Algebras and Categories, Erice, 2017 (Tressl).
+
+
+
+
+                                                                                             Page 28
+

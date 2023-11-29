@@ -1,0 +1,748 @@
+Unit-level environment template (REF5b)
+ Institution: Keele University
+
+ Unit of Assessment: UoA9 Physics
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Context, structure and strategy
+ The University of Keele is a broad-based research-intensive university delivering excellent
+ research across its three faculties. Physics is part of the School of Chemical and Physical
+ Sciences (SCPS), within the Faculty of Natural Sciences. Keele’s mission contains both global
+ and regional elements. At a global scale, Keele’s mission is to make world-leading contributions
+ to fundamental research, to answer some of humanity’s key questions (e.g., “is there life outside
+ our solar system?”) and to tackle key societal challenges. Regionally, Keele's mission is to be an
+ engine of development and regeneration in the economically and socially challenged region
+ around Stoke-on-Trent via the Keele Deals (the new Keele Deals represent a £70m+ programme
+ of research-based co-investment and impact planning with the LEP, the NHS, local authorities
+ and regional partners).
+
+ Physics research and impact strategy/vision
+ Strategy review and development:
+ During the last two REF cycles, research in Physics has been concentrated into a single, focused
+ research theme, Astrophysics, in order to ensure critical mass and an internationally competitive
+ environment. Following REF2014, Keele reviewed its research structure and strategy, in order to
+ better address modern societal challenges and to improve research delivery. The review resulted
+ in the creation of three major challenge-focused pan-institutional interdisciplinary institutes: the
+ Institute for Social Inclusion (ISI), the Institute for Sustainable Futures (ISF) and the Institute for
+ Global Health (IGH).
+
+ The review also led to the formation of SCPS in 2016 and the appointment of a new research-
+ focused Head of School (Watkinson) and the creation of the role of School Director of Research
+ in 2018 (currently Hirschi). This new role has provided the leadership needed to review and
+ develop the School research strategy and structure, and to drive its implementation. A School
+ Research Committee, chaired by Hirschi, was set-up to oversee research strategy and
+ implementation. It is composed of representatives from each research area: Astrophysics (9 staff),
+ Chemical Materials Science (8 staff), Synthetic Chemistry (7 staff) and Forensic/Analytical
+ Science (7 staff) as well as representatives for early career researchers, equality, diversity &
+ inclusion (EDI), postgraduate research and education research.
+
+ The key strategic decision following a review of School areas of research strength was that
+ alongside further strengthening Astrophysics, it was the right time to establish a new
+ interdisciplinary research group in “Materials Science and Renewable Energy”, to capitalise on
+ potential synergies between Physics and Chemistry research (building upon the Chemical
+ Materials Science group) and between Physics and the Institute for Sustainable Futures, thus
+ enhancing the vitality and sustainability of Physics research at Keele.
+
+ Current strategy and structure for Physics:
+ The current research groups and their aims are:
+ • The aim of the Astrophysics group (9 staff: Hellier, Hirschi, Jeffries, Maxted, Oliveira, Smalley,
+    Taylor, van Loon, Wright) is to better understand planets, stars and their environments, our
+    place in the Universe and our origins.
+ • The aim of the new Materials Science and Renewable Energy group (11 staff: 3 from Physics:
+    Heckl, Morbec, Balakrishnan, 8 from Chemistry: Darton, Greenwood, Hawes, Hollamby,
+    Jackson, Matthews, Ormerod, Radu, Zholobenko) is to develop world class research that
+    enables better and sustainable materials and energy production methods.
+
+
+
+
+                                                                                                 Page 1
+Unit-level environment template (REF5b)
+ Given the interdisciplinary nature of the Materials research, the 3 Physics (and 8 Chemistry) staff
+ from this group are returned to the Engineering UoA 12 in REF2021. They are nevertheless an
+ integral part of the Physics research environment and strategy.
+
+ To best achieve the above aims and enhance the vitality and sustainability of Physics research,
+ our research strategy/vision is as follows:
+ • Continue to establish and lead or play a key role in international collaborations to pursue
+     forefront research in Astrophysics.
+ • Support these collaborations with a range of research income streams for staff, PDRAs and
+     PGR students and by winning competitive access to national and international research
+     facilities.
+ • Recruit and attract the best people (staff, fellows, PDRAs and PGR students), via a robust
+     EDI-aware recruitment process with research excellence at its core.
+ • Provide state-of-the-art physical infrastructure, research environment and support structure for
+     staff, PDRAs and PGR students.
+ • Encourage and support staff at all career stages to take up leadership positions in their
+     research disciplines.
+ • Develop partnerships with non-academic partners to enhance our research and its impact.
+ • Promote and improve research integrity, reproducibility and open science.
+
+ Interdisciplinary Research Strategy:
+ School-level Directors of Research meet regularly via the Faculty Research Committee and a
+ University-wide Research Leaders’ Network to review and improve the University Research
+ Strategy, its implementation and interdisciplinary research opportunities. Using these platforms,
+ Hirschi led the establishment of a faculty-wide interdisciplinary Materials Science and Renewable
+ Energy theme to exploit opportunities on sustainability. The theme includes 4 researchers from
+ the School of Computing and Mathematics and 3 from the School of Geography, Geology and the
+ Environment. Furthermore, Hirschi and Wright, along with Polack (Director of Research for the
+ School of Computing and Mathematics), led the establishment of a University-wide “Data Science
+ Network” which includes more than 70 staff members across all 3 faculties and aims to develop
+ inter-disciplinary research synergies in Data Science. The network will coordinate the academic
+ research supported by a new Digital Innovation Centre (IC7), which is currently being built as part
+ of the Keele Deal.
+
+ 1.2 Achievements made during the REF2021 cycle and objectives for next REF cycle in
+ relation to REF2014 and current strategies
+
+ The research strategy set out in REF2014 was to establish and lead, or play a key role in,
+ international collaborations to pursue forefront research in (1) stellar hydrodynamics, evolution
+ and nucleosynthesis (ERC-SHYNE, Nugrid), (2) star formation, clustering and environments
+ (Gaia-ESO, ESA Gaia), (3) galactic and extra-galactic environments (VISTA survey) and (4) binary
+ stars (TESS, Plato). This has been successfully implemented (as detailed below) and has led to
+ publication of over 500 refereed papers during the REF2021 cycle (over 55 per academic staff
+ FTE returned), which have been cited more than 12,000 times (>1,300 per FTE; citation data in
+ this statement have been obtained from the NASA ADS platform). This research was underpinned
+ by a range of diversified income streams (including STFC, Leverhulme, EU) and by gaining
+ competitive access to national and international research facilities (e.g. ESO telescopes, PRACE
+ HPC). Keele provided support for these efforts in a range of ways, including ring-fencing staff time
+ for research and match-funding STFC PhD studentships (for more details, see Sect. 2 for support
+ for people and Sect. 3 for the research income).
+
+ (1) Massive stars and their impact with SHYNE, NuGrid, BRIDGCE UK, COST ChETEC, NSF
+ IReNA, ChETEC-INFRA (Hirschi):
+ Hirschi led the SHYNE ERC project (2012-2017) which aimed to to develop synergy between
+ three-dimensional (3D) and 1D stellar models, computing the first 3D simulations of carbon
+ burning in massive stars and improving the modelling of convection in stars. This project also
+ delivered priority lists for nuclear physics experiments (guiding one experiment at nToF@CERN).
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+ Hirschi’s key role (PI for several years) in the NuGrid international collaboration (23 institutions in
+ 10 countries) enabled comprehensive nucleosynthesis predictions (Pignatari+Hirschi+, ApJ,
+ 2016). Within the BRIDGCE (.ac.uk) network (15 UK institutions), Hirschi is leading research on
+ the evolution and fate of very massive stars towards black holes, pair-instability supernovae and
+ Gravitational Waves (Belczynski+Hirschi+, A&A, 2020). Since 2017, Hirschi has been chairing a
+ COST Action entitled “Chemical Elements as Tracers of the Evolution of the Cosmos”
+ (ChETEC.eu; CA16117; 2017-2021). ChETEC coordinates research between 200+ researchers
+ from across 30 European Countries (leading to more than 100 refereed papers, 24 with Hirschi as
+ co-author). In 2019, Hirschi was appointed to the steering committee of the world-wide US-led
+ NSF AccelNet IReNA network of networks (2019-2023) to represent the ChETEC community. This
+ will enable Hirschi to continue his international coordinating role in the next REF cycle. The
+ ChETEC community successfully applied for a €5m EU infrastructure grant, which will start in 2021
+ (ChETEC-INFRA.eu). Hirschi will lead nucleosynthesis software tools development within this
+ project. The research foci in the coming years will continue to be synergy between 3D and 1D
+ stellar modelling of the progenitors of supernovae and gravitational wave emitting black holes.
+
+ (2) Comprehensive picture of star formation, clustering and their environments with Gaia-ESO,
+ Gaia, WEAVE (Jeffries, Wright):
+ The Gaia-ESO survey (Smiljanic+, A&A, 2014) is the world’s largest high spectral resolution
+ survey using 350 nights on one of ESO’s 8-m Very Large Telescopes, measuring the line-of-sight
+ kinematics and chemical abundances of galactic populations as a complement to ESA’s Gaia
+ astrometry satellite. Jeffries is a co-I and steering group member and has been leading efforts to
+ understand the dynamics and chemistry of young clusters and star forming regions, with
+ continuous PDRA support from STFC during the REF2021 cycle. Keele expertise in spectroscopy,
+ kinematics and age determination in young stars has led to significant and rapid exploitation of the
+ ESA Gaia satellite DR1+2 data (Wright & Mamajek, MNRAS, 2018) and leading roles in new,
+ massive spectroscopic surveys with e.g. WEAVE. WEAVE (first light in 2021) is a next-generation
+ multi-object (~1000 targets) spectrograph recently installed on the William-Herschel Telescope.
+ Wright is co-I on a major WEAVE survey of stars in short-lived evolutionary phases across the
+ northern Galactic Plane and is leading the young stars component of this survey. In the next REF
+ cycle, Wright will combine WEAVE spectroscopy with Gaia astrometry for young stars in and
+ around multiple star forming regions, star clusters and OB associations, to study the dynamics of
+ these systems and address questions regarding their formation, evolution and dispersal into the
+ field. Wright and Jeffries will both play leading roles in developing community surveys featuring
+ many European collaborators, with ESO’s new 4MOST multi-object spectrograph in Chile.
+
+ (3) Galactic and extragalactic environments with the VISTA survey of the Magellanic Clouds, SKA
+ Pathfinders, EDIBLES, EMU (Oliveira, van Loon):
+ The VISTA survey of the Magellanic Clouds (VMC) obtained multi-epoch YJKs images of
+ the Magellanic System of unprecedented quality. Oliveira and van Loon are members of the core
+ team, leading the star formation and 3-D galactic structure analyses, respectively. This enabled,
+ for example, the determination of the 3D structure of the Small Magellanic Cloud from Classical
+ Cepheids (Ripepi+Oliveira+van Loon+, MNRAS, 2017). Oliveira and van Loon also exploited data
+ obtained from other satellites, telescopes and surveys (Herschel, SPIRE, VLT Flames Tarantula
+ Survey) to gain new understanding about the MC and other extra-galactic environments: e.g. mass
+ loss (PGR Goldman+van Loon, MNRAS, 2017) and star formation (Schneider+van Loon+ 2018,
+ Science). In the next REF cycle, Oliveira will develop and apply the machine learning (ML)
+ methodologies to star formation in external galaxies. van Loon will continue taking part in the ESO
+ Large Programme EDIBLES studying Galactic interstellar sightlines and coordinating ISM studies
+ within the ULLYSES HST-UV initiative. Keele’s GASKAP involvement (van Loon leads the
+ Magellanic OH masers component, Oliveira YSOs) using new technology and new analytical
+ approaches is generating new discoveries (AGN dust at redshift one, stellar OH masers at low
+ metallicity) and will place Keele in a front-row position to capitalise on SKA, JWST and LSST.
+
+ (4) Exploiting eclipsing binaries from TESS, CHEOPS and PLATO surveys to map out
+ fundamental parameters of stars (Maxted, Smalley, Hellier and Taylor [publishing under
+ Southworth]):
+
+                                                                                                 Page 3
+Unit-level environment template (REF5b)
+ Building upon the expertise and dataset from the Keele-led time-variability sky-survey (WASP),
+ Keele developed software tools to characterise the host star in these planetary systems (e.g.
+ mass; Maxted+ A&A 2015-2020) and for analysing light and velocity curves of detached eclipsing
+ binaries and transiting planets (Taylor’s open-source JKTEBOP code has been used in over 300
+ papers led by over 50 authors so far). These have enabled the Keele team to play a key role in
+ the current generation of transiting planet surveys. Maxted is a member of the CHEOPS Science
+ Team (ESA’s S-Class mission led by 2019 Nobel Prize winner Didier Queloz) and develops the
+ pycheops software delivering an order of magnitude improvement in accuracy and is developing
+ synergies between exoplanet and binary star research. In the next REF cycle, Keele will be
+ contributing to preparations for the PLATO mission. In particular, Taylor and Maxted both lead
+ PLATO work packages related to improving models of planet host stars (“Binary & Multiple stars”
+ and “Benchmark stars”). Taylor will be responsible for selecting targets, allocating bandwidth and
+ organising the analysis and follow-up observations for all science cases using these objects.
+
+ Establishment of a new “Materials Science and Renewable Energy” group and objectives for the
+ next REF cycle: This new group was established in 2018-2019 with investment in infrastructure
+ (Section 3.3) and new staff (Balakrishnan, Morbec) to harness the new opportunities opened by
+ the reorganisation of the University research structure and strategy. In the next REF cycle, Morbec
+ will lead the design and characterisation of novel 2D materials with state-of-the-art quantum
+ mechanics simulations. Balakrishnan will lead the development and application of these novel 2D
+ materials for applications in wearable technology, spintronics and pollutant sensors. In addition,
+ Heckl, who transferred from the School of Computing and Mathematics in 2016, leads research in
+ thermo-acoustics and applies it to the combustion of hydrogen. In particular, she will continue to
+ lead the €4m EU POLKA MSC ITN (2019-2022), which builds upon her €3.7m EU TANGO MSC
+ ITN (2012-2016). Combustion of hydrogen from renewable sources is an emerging technology
+ that can replace fossil fuels and so provide carbon-neutral energy. This group will develop and
+ exploit synergies with other scientists within the faculty and Institute for Sustainable Futures (ISF)
+ (e.g. building upon Keele’s hydrogen energy, HyDeploy, and smart energy network demonstrator,
+ SEND, projects developing new low-carbon technologies).
+
+ 1.3 Impact
+ Fulfilling Keele’s global mission to answer some of humanity’s key questions, Astrophysics
+ research has impacted world-wide audiences and changed their awareness and understanding of
+ our place in the universe via media reporting, the creation of documentaries and social media
+ content based on our research results (see Exoplanet ICS).
+
+ Regionally, Keele's mission is to be an anchor institution and an engine of development and
+ regeneration in the economically and socially challenged region around Stoke-on-Trent and North
+ Staffordshire, an area that is significantly under-represented within higher education. The
+ Astrophysics group’s regional impact strategy is therefore to improve opportunity and performance
+ by engaging, encouraging and enthusing children to go on to further study in STEM disciplines.
+ This aim was achieved by our continuous commitment to public engagement with Stellar
+ Astrophysics research at Keele, through our mobile planetarium, the Stardome. During the
+ REF2021 cycle, groups that have visited the Stardome include 100 primary and 44 secondary
+ schools, 4 Further Education providers and 2 other universities. The impact of the Stardome upon
+ Widening Participation in HE was recognised when it was awarded Times Higher Education Award
+ for Widening Participation or Outreach Initiative of the Year in 2015. The university has supported
+ the running of the Stardome throughout the REF cycle through integration of the Stardome into
+ one of the key workhorses of the government-funded Higher Horizons+ (HH+) Uni Connect
+ consortium, which geographically covers Staffordshire, Stoke-on-Trent, Shropshire and Cheshire,
+ and is led by Keele University. The Head of HH+, Ant Sutcliffe, was named the widening access
+ practitioner of the year at the 2020 NEON Awards, further demonstrating the success of our
+ engagement programme. In order to further support Stardome activity, Keele has also hired an
+ outreach officer, Scott Walker, funded by The Ogden Trust (a charitable trust that promotes the
+ teaching and learning of physics), who has contributed significantly to the delivery of the Stardome
+ impact.
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ The Stardome will continue to be a major vehicle for local engagement with children in an under-
+ privileged area of the UK. New content drawing upon our current research will be developed for
+ the next REF cycle (e.g., nucleosynthesis and gravitational wave progenitors). Further school
+ engagement will be developed as “Masterclasses” in Nuclear Astrophysics in the context of the
+ ChETEC-INFRA EU project. The Astrophysics group will also explore other avenues for
+ knowledge transfer via the Data Science network set up by Hirschi and Wright.
+
+ For the newly created “Materials Science and Renewable Energy” group, the main targeted
+ impacts will be economical and environmental, and targeted beneficiaries are local, national and
+ international companies. There is strong potential for application of 2D materials in wearable
+ technology, spintronics as well as sustainability (pollutant sensors) linked to the POLKA, HyDeploy
+ and SEND projects. Keele staff will in particular explore the potential of heterogeneous structures
+ based on 2D materials (graphene, MoS2) for photovoltaics, gas sensors and spintronics.
+
+ The Materials Science group will benefit from the Keele impact facilitation framework, established
+ in recognition of the value and necessity of impact facilitation. Keele established the Research
+ and Innovation Support Enhancement (RaISE) team in 2017 to support and manage research
+ achievements and to maximise their societal potential. Local initiatives such as the annual Impact
+ Acceleration Fund and the Celebrating Impact conference ensure that impact is a clear and
+ realisable goal for our research community. At the individual level, specific impact is identified and
+ nurtured through the annual staff performance review and enhancement process (which includes
+ an embedded research planning process) and is supported by our School Director of Research.
+
+ The Keele Impact Acceleration Fund has been established to provide financial support for the
+ development of impact by providing resources to prototype, engage industry, and maximise public
+ awareness. Further support will come via the partnership and impact accelerator team, which
+ helps identify and align research priorities to prospective impact by tracking key academic outputs
+ and providing strategies for the identification, gathering, synthesis and linkage of evidence from
+ this research to potential stakeholders. Direct business engagement will be further promoted by
+ Keele’s knowledge exchange programme, which includes the ERDF-funded Keele Research
+ Innovation and Support Programme (KRISP), Knowledge Transfer Partnerships (KTP) and
+ Business Bridge (ERDF). These schemes present business and industry-led challenges to Keele
+ staff, providing new opportunities for impact development while simultaneously creating a
+ sustainable route for further growth of Keele’s research programme.
+
+ 1.4 Open research, research integrity and Reproducibility
+ This unit is at the forefront of developing an open research environment; research outputs continue
+ to be made openly available (via internal and external repositories), which began in advance of
+ the current REF policy and is reflected in its 100% open access compliance for REF 2021. The
+ Unit is committed to the principles of open research and research integrity for all aspects of our
+ research: software, data and outputs. Concerning software, open-source codes are used and
+ developed (e.g., pycheops by Maxted and MESA code by Hirschi) and the group has led several
+ code comparison projects (e.g., Jones+Hirschi+, MNRAS, 2015) and benchmarking exercises
+ (Taylor and Maxted roles in PLATO). We also make use of, and train our PGR students to use,
+ open-source software (e.g., Python) and version control platforms such as git, to improve software
+ development and reproducibility. Research data is also made accessible via dedicated discipline-
+ specific websites and databases (e.g., ESO archive and international astronomical database:
+ https://cdsweb.u-strasbg.fr/ for observational data, www.ChETEC.eu knowledge hubs for nuclear
+ astrophysics expertise, facilities, datasets and software tools). Furthermore, all Astrophysics staff
+ use the ArXiv e-print archive to make our outputs freely accessible. These efforts will be further
+ supported and enhanced by the data science network activities during the next REF cycle.
+ The university has also developed a robust Research Misconduct Procedure that provides a fair
+ and transparent process that protects all those involved, including the complainant. In order to
+ embed research integrity within the research culture at Keele, as well as providing professional
+ support, resources and training via RaISE, the University has also established an Academic Lead
+ for Research Integrity and has appointed Faculty Research Integrity Champions.
+
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+ 2. People
+
+ Our staffing and recruitment strategy is aligned to Keele’s People Strategy (2015-20) and driven
+ by our strategic research aims as well as by the goal of attracting the most talented scientists to
+ our school. This strategy commits the UoA to principles of equality, diversity and transparency. It
+ aims at both ensuring vitality and sustainability research in Astrophysics and developing the new
+ interdisciplinary research group in Materials Science and Renewable Energy. Recruitment is also
+ used to maintain a good balance between young ambitious staff and experienced colleagues to
+ mentor them. Finally, our aim is to improve the gender balance and provide equal opportunities to
+ all staff.
+
+ Recruitment processes of our staff and PGR students follow high standards overseen by Keele’s
+ Human Resources (HR) Directorate. Positions are advertised internationally, which enables us to
+ recruit the best people from the UK and abroad. All short-listed candidates are interviewed by a
+ diverse Equality & Diversity-aware panel (including at least one female) following a standardised
+ process for all candidates (adjustments are made for applicants with disabilities). Panel members
+ are required to undertake recruitment training (including unconscious bias) at least once every two
+ years. Recruitment in the REF2021 cycle evidences the successful implementation of our strategy:
+ • Prof Michael Watkinson, an experienced and internationally leading chemist, was recruited as
+     the new head of SCPS in 2018 to improve the local research support structure (e.g. creation
+     of a new school research committee and equality and diversity committee).
+ • Prof Maria Heckl, an expert in thermo-acoustics and hydrogen combustion, joined SCPS from
+     the School of Computing and Mathematics (in 2016) and is leading research on renewable
+     energy. In 2019, she successfully started the Polka EU MSC ITN to develop safe low-carbon
+     combustion technology.
+ • Drs Nilanthy Balakrishnan (experimental material scientist) and Juliana Morbec (computational
+     material scientist): Two new female junior lecturers working on 2D materials were strategically
+     appointed in 2019 to develop Physics research in Materials Science.
+ • Dr Nicholas Wright, Ernest Rutherford Fellow, was given a permanent lecturer’s position in
+     2016 to consolidate the Astrophysics research group following the departure of Dr James
+     Reeves who is now a Professor at the University of Maryland in the US (since we recruit
+     excellent and ambitious researchers, we expect some to take on higher positions at other
+     institutions abroad).
+
+ Keele’s staff development strategy is to support and enhance the career of research staff
+ throughout their entire research life cycle, from early career researchers (ECRs) to senior staff,
+ including promotion and succession planning to ensure the vitality and sustainability of Physics at
+ Keele. The university and the unit have full and active commitment to Vitae's Concordat for
+ Promoting Excellence in Research. Transition from a pure research position, such as a PDRA, to
+ a permanent academic position as lecturer is a major step in the life of ECRs. Keele and SCPS
+ provide strong support for ECRs to ensure a smooth transition. A new Masters in Higher Education
+ Practice (MAHEP), including modules on research, was developed for ECRs (which all our recent
+ appointees benefited from). Additional training and development courses include, in particular,
+ PhD supervision and recruitment.
+
+ Mentoring is provided for all ECRs and probationary staff. Balakrishnan and Morbec are mentored
+ by Hirschi and Watkinson. As part of this mentoring, research targets and the support needed to
+ achieve these are initially set and then reviewed quarterly. Furthermore, new staff benefit from a
+ reduced teaching load and no administrative duties, ensuring that they can establish a successful
+ research portfolio. Balakrishnan and Morbec also received a start-up fund and a PhD student from
+ school and Faculty research development funds to help establish independent research
+ environments at Keele. This support is further complemented by a strong supportive culture and
+ open-door policy within SCPS. The success of the extensive support for ECRs to set up an
+ independent research group is evidenced by Wright securing a Leverhulme Trust grant in 2020
+ for a 3-year PDRA.
+
+
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+ Staff at all career grades are supported via an annual appraisal process. This process identifies
+ plans for both research and impact and the necessary support from the School to achieve these
+ plans. In SCPS, staff are further supported by the newly established research committee and
+ School Director of Research (support for grant writing, dissemination of funding opportunities).
+ Once these plans are established, research-active staff are given teaching-load reductions (a
+ flexible form of research leave/sabbaticals) to help them successfully drive active research
+ projects and develop new projects. They can also access Faculty research development funds to
+ develop new activities and initiatives. Hirschi was given several teaching-free semesters to lead
+ his ERC project and to set-up his COST Action. Maxted received faculty funding to enable him to
+ lead scientific preparations for the CHEOPS mission.
+
+ The support described above enables staff to progress in their career and be rewarded for their
+ performance with promotions. In the REF2021 cycle, Hirschi was promoted to Professor and
+ Oliveira to Senior Lecturer (both in 2018). Previous Head of School and Astrophysics group Lead
+ Prof Evans retired during the REF2021 cycle. His leadership roles were distributed to Profs Hellier
+ (UoA 9 lead, STFC consolidator grant PI) and Hirschi (School Director of Research) as part of our
+ succession planning. Transitioning to management and leadership positions also represents an
+ important step in an academic career and scientists are generally not trained or prepared for it.
+ Keele has realised this skills gap and developed a strategic research leadership training
+ programme in collaboration with Advance HE. Hirschi joined this training to step into his new role
+ of School Director of Research. The training also served him well in managing the ChETEC COST
+ Action involving more than 200 scientists in over 30 countries. Emeritus staff retain an office space
+ in SCPS and provide input at various levels (Jackson, ex-PDRA, contributing to star formation
+ research; Evans guidance on management).
+
+ Scientific research requires continuous academic knowledge development. This is supported via
+ our vibrant programme of bi-weekly research seminars, which include a combination of
+ Astrophysics, Materials Science and Renewable Energy topics. These are complemented by a
+ seminar series in Chemical Sciences research. At University level, Keele’s three interdisciplinary
+ institutes provide an overview of today’s grand challenges and the latest developments on the
+ topic of sustainable futures. Keele’s RaISE team further supports and facilitates knowledge
+ exchange and impact from research in various ways (Sect. 1.3).
+
+ Thanks to our diverse funding streams (UK STFC and Leverhulme, EU ERC and international
+ fellowships), more than 10 PDRAs in total (between 4 and 5 concurrently) were hosted over the
+ REF2021 cycle, representing a slight increase over the REF2014 cycle. Many of these PDRAs
+ came from abroad and benefited from the strong HR support (financial and practical help with
+ visas and relocation packages). PDRAs have access to all development opportunities that staff
+ have access to. They also participate in annual appraisal processes. They are given opportunities
+ for supervision of PhD students and teaching-related opportunities to expand their CVs. This has
+ enabled our PDRAs to successfully continue research careers in the UK, Japan, Switzerland and
+ Germany.
+
+ 2.2 Research students
+ The Astrophysics group has been a continuous recipient of STFC doctoral training partnership
+ (DTP) grants (aka STFC Studentships) throughout the REF2021 cycle (match funded by Keele).
+ The group also hosted students with overseas funding (ESO studentships, government grants like
+ Iraqi MOHESR, Nigerian TETfund) or self-funding. This enabled 32 PGR awards during the 7-year
+ REF2021 cycle (more than 3 per staff returned). This corresponds to a very significant 186%
+ increase of the yearly average number of PGR awards compared to REF2014 and contributed
+ greatly to the vitality and outputs (e.g. Goldman+van Loon, MNRAS, 2017) of the unit.
+
+ Keele continuously improves its governance, support and training for PGR students. In 2020 the
+ Keele Doctoral Academy (KDA) was launched to create a unified platform for PGR provision. PGR
+ students are allocated a lead and a secondary supervisor, who must both undergo supervisor
+ training. All PGR students develop a training plan as part of their Personal Development and
+ Learning Plan. Keele provides excellent training and progression monitoring (including 6-monthly
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ progress reporting) in accordance with its PGR Code of Practice. At UoA level, we enhance PGR
+ training via our Journal Club, in which students explain research articles to the group. Students
+ then receive feedback from their supervisors and other group members. Students have the
+ opportunity to develop their teaching and communication skills by acting as demonstrators for
+ undergraduate labs and problem classes and contributing to the group’s public engagement
+ activities (e.g. Stardome and observatory). The Faculty of Natural Sciences at Keele organises a
+ yearly PGR Symposium that our students regularly attend and contribute to, providing an
+ opportunity to present their work, practice communicating to different audiences, and exposing
+ them to other research areas.
+
+ PhD students at Keele appoint a representative each year who relays enquiries to academic staff,
+ in addition to providing representation on the School’s Equality & Diversity and Sustainability
+ committees. Many University committees, like the Sustainability Committee, have PGR
+ representation, which gives citizenship opportunities to our PhD students. There is also a
+ dedicated Physics PGR coordinator (currently Wright who created and maintains a ‘welcome
+ pack’) who is responsible for the overall academic development of the PhD students and to ensure
+ they are personally supported where needed, with particular attention paid to incoming
+ international students.
+
+ The excellent research and PGR support at Keele described above is key to our success with
+ PGR students. The number of PhDs awarded during the REF2021 cycle nearly tripled and
+ contributed greatly to the vitality and outputs of the unit. Keele PhD students have a strong record
+ of timely submissions, publication of refereed-journal papers (average 2 to 3 lead-authored
+ refereed papers from their time at Keele), presentations at international conferences and moving
+ on to jobs in academia (PDRAs in the UK, Germany, Switzerland, Chile and US; tenure position
+ in Iraq and Serbia) or industry (as data scientists or flood risk modellers). The overall satisfaction
+ scores in PRES 2019 were 91%, higher than the university (86%) and sector (81%) averages, and
+ supervision (92%) and research skills (93%) were also very highly rated.
+
+ 2.3 Equality and Diversity (and Inclusion, EDI)
+ Keele is strongly committed to principles of equality, diversity and transparency (Disability
+ confident employer, Institutional Athena SWAN bronze award, a Race Equality Charter (REC)
+ Bronze Award (one of only 14 in the UK), Disability Confident Employer, Stonewall Champion,
+ Aurora supporter, female staff promotion support, support for return from maternity, LGBTI Role
+ Models, flexible working, part-time). Our school was awarded a Bronze Athena Swan award in
+ 2018. The Athena SWAN action plan and EDI matters in general are supported and overseen by
+ our school EDI committee, set-up during this REF cycle and over 90% of the plan has already
+ been implemented. Examples include an EDI representative on all school committees and EDI
+ matters being a standing item on the agenda of these committees (including the research
+ committee), a suggestion box to raise issues anonymously and dedicated space and facilities for
+ nursing mothers. Feedback from staff indicates these facilities have been beneficial.
+
+ One of the major goals is to improve the gender balance of the unit. Three of our latest recruits in
+ Physics have been female. This has raised the percentage of research-active female staff in
+ Physics from 11% to 33% over the REF2021 cycle, a very significant improvement. To further
+ improve gender balance and other EDI areas and building upon our Athena awards, new recruit
+ Balakrishnan led the efforts for our school to become a IOP Juno practitioner in 2020 and we are
+ working towards Juno Champion status.
+
+ Members of staff come from different backgrounds and countries, providing a diverse workforce.
+ Three of the latest recruits are not only women but also come from three different continents
+ (Europe, Asia and South America), further enhancing diversity in our School.
+
+ All staff with REF responsibility received EDI training (e.g., on unconscious bias). The REF
+ submission process for the unit was open and transparent. All research-active staff in Physics are
+ returned to REF. Review of outputs was open to all returned staff. Drafts of the selected list of
+
+
+                                                                                                Page 8
+Unit-level environment template (REF5b)
+ outputs and the environment statement were shared with all staff with multiple opportunities for
+ input and comments.
+
+ 2.4 The physical infrastructure supporting staff is described in Sections 3.2 and 3.3.
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income
+ Our core research income strategy in 2014 was and still is to generate income from 1) UK/EU
+ research councils funding and 2) UK and international facilities time competitively obtained by our
+ staff. The strategy for the next REF cycle for the new Materials group will include a broader and
+ more diverse range of funding streams via interdisciplinary and intersectoral consortia, charities
+ and industrial partners exploiting synergies within the faculty-wide Materials research theme, the
+ University-wide sustainability projects (SEND, HyDeploy) and Data Science Network.
+
+ 3.1.1 Research Income
+ In a very challenging funding landscape, we have successfully implemented our strategy by
+ competitively winning UK and EU research grants (>£400k per staff member returned for the
+ REF2021 cycle), which represents a 17% increase in income per FTE per year compared to
+ REF2014. Three-year-long STFC consolidated grants provided continuous support (new grants in
+ the REF2021 cycle provided £1,167,000 in 2014; £467k in 2017 plus top up of £150k in 2017-
+ 2018) for the exoplanets, star formation and extragalactic research themes. Hirschi’s stars and
+ nucleosynthesis research was supported by an FP7 ERC starting grant (SHYNE project: 2012-
+ 2017 with circa £1m income during the REF2021 cycle). Wright was supported by an STFC Ernest
+ Rutherford Fellowship: £414k (income during the REF2021 cycle) and was made permanent in
+ 2016. Keele’s strong support for ECRs (section 2.1) to enable them to set-up their independent
+ research group is evidenced by Wright being awarded a Leverhulme Trust fellowship (£164k) in
+ 2020 for a 3-year PDRA to work on the structure and Dynamics of Star Clusters in 6D. These
+ successes at obtaining PDRA funding also enabled the Astrophysics group to secure continuous
+ support for PGRs via STFC doctoral training grants (aka DTPs) over the REF2021 cycle. Matched-
+ funding support from Keele nearly tripled the number of PhDs awarded in the REF2021 cycle
+ compared to REF2014.
+
+ In addition to these UK and EU research project grants, our strategy is to build and join
+ collaborative networks to lever external funds and expertise and diversify income streams to
+ support our research. Hirschi is the chair of the ChETEC COST Action (CA16117, 2017-2021;
+ £291k at Keele for 2017-2019, the grant had to move to Portugal because of BREXIT in 2019),
+ which provides funding for scientific workshops, training schools and collaboration visits.
+ Additional support was secured via several other international schemes (e.g., ESO fellowships,
+ MOHESR, TET-fund for PhD students). All these grants along with Keele’s support enabled more
+ than 500 research outputs gathering more than 12,000 citations.
+
+ In the Materials Science and Renewable Energy group, Heckl was awarded €4m for her POLKA
+ MSC ITN (2019-2023) successfully building upon her previous network TANGO (€3.7m, 2012-
+ 2016). While her income is allocated to UoA12, it shows that we are already securing funding for
+ renewable energy research.
+
+ 3.1.2 Income-in-kind including national and international facilities time:
+
+ Research Council Facilities
+ A major additional source of income for Astrophysics is via facilities time competitively obtained
+ by our staff. Over the REF2021 cycle, the total research council facilities time represents a value
+ in excess of £4.9m and more than doubles our research income for this REF period. This includes
+ time awarded as PI on the following Research Council supported facilities: Diamond, DiRAC,
+ XMM-Newton, ALMA, ESO (VLT, NTT), ING (INT, WHT), LT. This is also thanks to Keele staff
+ playing major roles in international collaborations working together on ESO large programmes.
+ Indeed, Jeffries is a co-I and steering group member of the Gaia-ESO survey (PIs Randich, Italy
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+ and Gilmore, UK), the world’s largest high spectral resolution survey using 350 nights on one of
+ ESO’s 8-m Very Large Telescopes. Oliveira and van Loon are core team members of the VISTA
+ survey of the Magellanic Clouds (VMC, PI Cioni), which is part of the public VISTA survey. van
+ Loon is also part of the following surveys: EDIBLES (284 hours on ESO-VLT) and NESS (516
+ hours on JCMT).
+
+ International facilities time and other major in-kind benefits (not included in REF4/b/c)
+ In addition to the STFC DiRAC computing time, Hirschi was awarded a total 55.3 million core-
+ hours on the EU PRACE MareNostrum supercomputer in Barcelona to undertake his large-scale
+ 3D hydrodynamic simulations (PI ex-Keele-PDRA Georgy, Switzerland; 42 million-hours on
+ MareNostrum4 for proposal 2017174145 in PRACE Call 16; 13.3 million-hours on MareNostrum3
+ for proposal 2016143263 in PRACE Call 13) with a total estimated cash value in excess of €0.5m
+ during the REF2021 cycle.
+
+ Additional observing time was awarded on the following facilities: NASA-Chandra (Wright:
+ 87kiloseconds as PI= ~ $0.5m at $5k per kilosecond, 1000ks as co-I); SALT (South Africa, circa
+ 100 hrs); SAAO (1.9m telescope: 34 nights; 1.0m telescope: 7 nights); MMT/HectoSpec (SAO)
+ (PI Wright: 2 nights); STFC-AAT (PI Wright’s PhD student Armstrong: 4 nights).
+
+ For the future REF cycle, Physics staff will continue to seek UK and international funding, join and
+ build collaborative networks to leverage external funds and expertise and win facilities time.
+ Hirschi has already secured funding for a 2-year PDRA at Keele as part of the 5 M€ EU ChETEC-
+ INFRA infrastructure project that he is co-I of. The project will run for 4 years starting in May 2021.
+ In addition, Maxted leads a program within the CHEOPS GTO program “ID-037 Eclipsing binaries
+ with very low mass stars” that is currently (July 2020) allocated 300 orbits. The total mission costs
+ are approximately €100m and the mission lifetime is 3.5 years, so this represents ~€2m of in-kind
+ contributions for the next REF cycle.
+
+ 3.2 Organisational support for research and impact
+ A broad range of income streams necessitates strong institutional support. Across the university,
+ research is now supported by the Research and Innovation Support Enhancement unit (RaISE),
+ whose function is to support research funding applications and then subsequently support
+ implementation and impact. The RaISE team is multi-functional and provides a holistic support
+ hub for research and partnership development, project costing, contract and regulatory
+ compliance. Administrative support for project delivery following contract signature and setup of
+ financial codes is provided within the school. EU project support, from proposal preparations to
+ monthly budget spend updates to best manage fluctuating exchange rates, has been key to
+ successfully run large EU projects (ERC, COST Action, MSC ITN). The university also supports
+ interactions with local business in Staffordshire (van Loon hosted a KRISP project for the AEON
+ Engineering company based at the Keele Science and Innovation Park), and acceleration of local
+ socio-economic developments via the Keele Deals.
+
+ The school research committee has representatives for ECRs and EDI to ensure that ECRs and
+ minority groups are fully supported and that EDI matters are addressed (see also Section 2.3).
+
+ 3.3 Research infrastructure and strategy
+ The strategy for the Astrophysics group is to lead and play key roles in international collaborations
+ (Section 1.2) and to exploit external computing and observing facilities nationally and world-wide.
+ Key support from Keele is the provision and maintenance of the required dedicated IT facility for
+ Astrophysics research to prepare, store and analyse large observational and theoretical datasets
+ to maximise the scientific return on these large datasets as well as develop new software tools.
+ The Astrophysics IT facility provides a total data storage capacity around 0.5PB (Peta-byte) hosted
+ on fast many-CPU-cores and RAM-rich data analysis servers and comprises a heterogeneous
+ computing architecture ranging from a large shared-memory node to nodes equipped with GPU
+ acceleration cards via a standard distributed-memory computing cluster with 500+ CPU cores.
+ The capital investment for this IT facility was funded by a mixture of STFC and ERC grants, whilst
+ the hosting and running costs (comparable to purchase costs) are supported by Keele. Keele is
+
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+ committed to further investment in computing facilities via its new Digital Innovation centre, which
+ is at building stage.
+
+ The strategy for the new Materials Science and Renewable Energy group is to develop a local
+ experimental facility within the school for the development of new materials, as well as exploit
+ facilities such as the SEND project at Keele and external facilities such as those at industrial
+ partners. To this end, SCPS and Physics have received significant financial investment from Keele
+ University during the census period. A £34 million investment in a new Central Science Laboratory
+ attached to the Lennard-Jones building, in which SCPS is based, increased both teaching and
+ research capacity. The building includes large, shared offices for PGR students to facilitate
+ discussions, exchange of ideas and avoid isolation. Over £2m was invested in equipment and
+ included NMR and XRD instruments. Extra equipment (Physical Vapour Deposition system to
+ grow 2D materials) has been purchased with the help of the school start-up and faculty research
+ development funds following the appointment of Balakrishnan and further investments will
+ continue in the coming years to develop a 2D material production and analysis laboratory. Keele
+ funding also enabled the purchase of the necessary software tools to undertake materials
+ computation (led by Morbec) on the Astro/Physics dedicated IT facility. The HyDeploy and SEND
+ infrastructure at Keele also provides the framework for new Physics research projects in
+ Renewable Energy.
+
+ Keele’s strong support and rapid response meant that laboratory work could resume in July 2020,
+ less than 4 months after the Covid-19 outbreak, which demonstrates the quality and resilience of
+ research support at Keele.
+
+ The regional impact of Astrophysics research is supported by Keele via the Stardome and on
+ campus Observatory, which enable a wide range of public engagement activities on and off
+ campus and directly supported our Stardome impact case.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Collaborations, networks and partnerships including interdisciplinary research
+
+ 4.1.1 Support for collaborations, partnerships and interdisciplinary research
+ During the REF2021 cycle, Keele reorganised its research structure and strategy to best support
+ interdisciplinary research tackling global challenges (Section 1.1). Keele also re-structured its
+ research and inter-sectoral collaboration support structure by creating the Directorate of
+ Research, Innovation and Engagement (DRIE) who manage the RaISE team. At faculty level, the
+ research development fund and PhD scholarships provide opportunities to develop new directions
+ of research and new collaborations and partnerships between schools as well as with other
+ institutions or non-academic partners. At the school level, support is provided to present results at
+ conferences and to host conferences and visitors. This wide range of support enabled the
+ establishment of the faculty-wide interdisciplinary research group in Materials Science and
+ Renewable Energy and the University-wide Data Science network, which will both enhance the
+ vitality and sustainability of Physics and interdisciplinary research in our Unit in the next REF cycle.
+
+ 4.1.2 Current and future national and international collaborations
+ Leading and playing key roles in national and international collaborations is at the core of our
+ research strategy. Keele’s wide-ranging support enables Astrophysicists at Keele to set-up, lead
+ or play a key role in a wide-range of collaborations and surveys described in Section 1.2
+ (CHEOPS, Gaia-ESO, ESA Gaia, ESO VMC, SHYNE ERC, NuGrid, BRIDGCE, ChETEC, IReNA,
+ Tango ITN, Polka ITN). The large number of national and international collaborations is also
+ reflected in the quality and co-authorship of our outputs.
+
+ 4.2 Responsiveness to national and international priorities and initiatives
+ Sustainable and cleaner energy generation as well as the development of 21st century materials
+ (e.g. wearable technology, sensors, spintronics) are very high on the national and international
+ priority lists. The re-organisation of Keele’s research structure and the range of support it provided
+
+                                                                                                 Page 11
+Unit-level environment template (REF5b)
+ (hiring of new staff, investment in new buildings, research development funds and PhD
+ scholarships) will enable the new Physics research group to respond and play a key role in these
+ grand challenges in the next REF cycle.
+
+ 4.3 Contributions to and recognition by the research base
+ Leading or sitting on the steering committees of the international collaborations listed above, Keele
+ Astrophysicists contribute substantially and in many ways to the research base. ChETEC COST
+ Action Chair Hirschi has been coordinating interdisciplinary efforts, knowledge exchange via
+ workshops, knowledge hubs (http://www.chetec.eu/knowledge-hubs) and an intersectoral working
+ group and oversaw 1-2 training schools and around 5 workshops per year for the last 3 years. He
+ will also contribute to coordination of research and training in Nuclear Astrophysics via the world-
+ wide IReNA NSF network of networks. Taylor was awarded the Philip Leverhulme Prize for his
+ work in 2017 and used this to support his “Homogeneous Studies of Transiting Planets” project.
+
+ Over the REF2021 cycle, members of the Astrophysics group regularly delivered invited talks at
+ conferences, as well as invited seminars at institutions, and several lectures at post-graduate
+ training schools. Examples of invited reviews at conferences are: Taylor at “BRITE” conference,
+ Vienna, 2019; Oliveira at “ESO Magellanic Clouds” workshop, Garching, 2019; Jeffries at
+ “Progress in young cluster astrophysics” Cool Stars 20, Boston 2018; van Loon at “Feedback in
+ the Magellanic Clouds”, STScI 2015; Hirschi at “Nuclei in the Cosmos XIII”, Debrecen, 2014.
+ Examples of lecturing at post-graduate training schools are: Smalley SOC+lecturer at “The Aarhus
+ Spectroscopy Workshop”, Aarhus, Denmark, 2014 and at the "Spectroscopic data analysis with
+ iSpec", Wrocław, Poland, 2018. Hirschi’s 1-week graduate topical lecture series on “From Stars
+ to Elements: Stellar Evolution and Nucleosynthesis” in Darmstadt, Germany, 2018 and lecture at
+ the ChETEC training school: Software Tools for Simulations in Nuclear Astrophysics, Hull, UK in
+ 2018.
+
+ Members of the Astrophysics group made a large number of contributions to the research base,
+ which also indicates their national and international standing in the discipline: grant panel
+ membership (van Loon STFC Astronomy grant; Oliveira Hubble Fellowship Program); time
+ allocation committees (Oliveira chair of ALMA Star formation panel; Jeffries XMM-Newton; van
+ Loon ESO, HST stellar Evolution/Physics panels; Taylor STFC ING and LT PATT; Hirschi UK
+ DiRAC computing); proposals refereeing nationally (STFC, Leverhulme, Royal Society) and
+ internationally (more than 10 countries); journal papers refereeing (Nature, MNRAS, A&A, AJ,
+ ApJ), commissions and committees (Taylor secretary of IAU Commission G1 “Binary and Multiple
+ Star Systems”; van Loon vice-President IAU Commission G3 “Stellar Evolution”, Chair of IAU
+ Working Group on Red Giants and Supergiants, and SKA Science Working Group member “extra-
+ galactic spectral line”; Oliveira member of the UK ELT Steering Committee; Smalley member of
+ Kepler Asteroseismic Science Consortium and TESS Asteroseismic Science Consortium; Maxted
+ and Taylor leading PLATO work packages “Benchmark stars” and “Binary & Multiple stars”; van
+ Loon serving as editor-in-chief of the electronic AGB and Magellanic Clouds Newsletter with more
+ than 1000 readers and as IAU Ombud set up in 2019).
+
+ Astrophysics staff organised scientific events at Keele: transiting planets conference (Hellier,
+ 2017); COST Action kick-off meeting (Hirschi, 2017); SALT Board meeting (van Loon, 2018); van
+ Loon and Oliveira organised the Mega-SAGE meeting and JWST Community Day (2017) and
+ VMC meeting (2016); star formation and young stars in Cygnus meeting (Wright, 2018). Keele
+ staff were SOC members of more than 15 international conferences.
+
+ Keele hosted many visitors linked to their international collaborations. Hirschi hosted an SNF Early
+ Postdoc Mobility Fellowship (18 months funding: 2016-2018) for PDRA Battino. Other examples
+ include a 7-month visit by international fellow Nanni (2014), Germano Sacco’s visits (Gaia-
+ ESO/4MOST 2015 & 2019) and Monika Petr-Gotzens’ visit (VMC, 2018).
+
+ 4.4 Relationships and engagement with beneficiaries, users and audiences including
+ contributions to society and economy
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+ As explained in Section 1.3, our research has had a strong impact both globally (exoplanet ICS)
+ and regionally (Stardome ICS) via our THE award-winning Stardome, which has now been
+ integrated into the HigherHorizon+ Uni Connect consortium and receives external support from
+ the Ogden Trust. Further intersectoral activities during the REF2021 cycle include Hirschi
+ collaborating with Norwegian company Numascale as part of his ERC SHYNE project and van
+ Loon hosting a KRISP project for AEON Engineering. Additional public engagement during the
+ REF2021 cycle includes the following. Jeffries and Maxted hosted a yearly “Astrophysics
+ Research Experience” week attended by 25-30 year 10-12 pupils (~40% female) since 2016 (2020
+ was Covid-cancelled) and targets schools/colleges with a high free-school meal percentage. The
+ Observatory on Keele campus hosted over 3000 visitors a year throughout the REF2021 cycle
+ and now also a Science Art and Artificial Intelligence project. Taylor organised a “Holst Planets
+ concert” intertwined with exoplanets research highlights in Keele Chapel (2017, 250 attendees)
+ and a “planets day” (2017; 90 year-6 children). van Loon and PGR Pennock organised RAS/IAU-
+ OAD and Newton-Bhabha funded public engagement activities in India, and SALT-based schools'
+ liaison between South Africa and Stoke-on-Trent, both based on Keele research on AGN and
+ machine learning application. Jeffries is a major contributor to Astronomy Stack Exchange (rated
+ 1st out of 22,000 worldwide users) and to Physics Stack Exchange (rated 7th most reputable
+ contributor worldwide out of 180,000 users) and his questions/answers have been viewed 4.2
+ million times. Keele Physicists also made appearances in the media (TV/radio: 5-10 per year
+ each), wrote articles in The Conversation with over 88,000 reads, delivered public talks and took
+ part in Pint of Science outreach events.
+
+
+
+
+                                                                                          Page 13
+

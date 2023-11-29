@@ -1,0 +1,1245 @@
+Unit-level environment template (REF5b)
+
+    Institution: University of Oxford
+
+    Unit of Assessment: 11 – Computer Science and Informatics
+
+    1. Unit context and structure, research and impact strategy
+
+    1.1. Overview and unit structure
+    This Unit of Assessment (UoA) comprises the University of Oxford’s Department of Computer
+    Science (CS), together with two staff from the Oxford Internet Institute, a multidisciplinary unit
+    focussed on the societal impact of information technology. Oxford CS includes 69 academic
+    faculty, over 100 research staff, and over 250 doctoral students, organised into ten research
+    themes. Our mission is to be an internationally leading centre of research, training,
+    dissemination, and impact facilitation across a broad spectrum of Computer Science, ranging
+    from foundations to challenge-led and interdisciplinary work. In pursuit of this objective, we seek
+    to provide facilities and support that enable world-leading research, attract talented staff and
+    students from around the world, and foster engagement with a diverse range of collaborators
+    and external beneficiaries. Our research environment is highly interdisciplinary, enjoying close
+    collaborative links with Engineering, Mathematics, Physics, and the life sciences. Many of our
+    academic staff are recognised as international leaders, and we play a leading role in national
+    research initiatives, such as the Alan Turing Institute. Our ethos of academic excellence is
+    underpinned by a commitment to supporting all our staff and students to achieve their full
+    potential. The following are key indicators of progress over the period:
+
+    Strengthening our research capability. We have established three new research themes –
+    Artificial Intelligence & Machine Learning, Cyber-Physical Systems, and Human-Centred
+    Computing – and made 16 permanent appointments across the Department, including seven
+    early career researchers (ECRs1). Compared to REF2014, the number of staff returned here
+    who are on permanent contracts has increased significantly, from 48 to 62.
+
+    Expanding our research pipeline. Over the period, we generated over £74m of external
+    research income. We further received £17m in philanthropic donations, including £10m towards
+    a new building, and £4m for studentships and for a new chair in Artificial Intelligence (AI). Our
+    staff were PI on four Centres for Doctoral Training (CDTs), two programme grants, and 21
+    personal research fellowships (predominantly ERC, EPSRC, and Royal Society). Applications to
+    the doctoral programme grew by 22% a year on average, and we awarded 242 doctoral
+    degrees, compared to 124 for the REF2014 period.
+
+    Facilitating and realising impact. The period has seen a high volume of translational activity,
+    often emerging from large, multi-stakeholder research grants, collaborations with industry, and
+    engagement with policy-makers. Our staff filed 27 priority patents and undertook 122 personal
+    consultancy agreements with 59 different companies. 21 commercial licence deals were agreed
+    with companies in diverse sectors including pharmaceuticals, healthcare, electronics, and
+    manufacturing. Our spinouts raised over US$70m in investment, and several were acquired by
+    major international companies including GitHub, Meltwater, and Waymo.
+
+    1.2. Research theme development
+    We have undertaken a major reorganisation of our research themes in pursuit of the research
+    strategy described in REF2014. A key development has been the establishment of three new
+
+1
+    REF2021 definition here and throughout.
+
+                                                                                                 Page 1
+Unit-level environment template (REF5b)
+ themes: Artificial Intelligence & Machine Learning (AI&ML), Cyber-Physical Systems (CPS), and
+ Human-Centred Computing (HCC). Here we give an overview of each theme, highlighting
+ advances since REF2014:
+
+ Algorithms and Complexity (Head: L. Goldberg; 8 faculty). This theme was created in the
+ previous REF period with the hiring of L. Goldberg, P. Goldberg, Koutsoupias, and Živný to join
+ with Jeavons. Over the current period, the theme has been strengthened with the hiring of
+ Galanis (an ECR) and Santhanam. Research focusses on computational economics, game
+ theory, constraint satisfaction, computational counting, circuit complexity, and randomised
+ algorithms.
+
+ Artificial Intelligence and Machine Learning (Head: Wooldridge; 8 faculty). AI&ML is a new,
+ distinct theme combining Blunsom, Calinescu, Elkind, Lukasiewicz, and Wooldridge with new
+ hires Gal (ECR), Kanade, and Whiteson. The theme benefits from expertise across a broad
+ spectrum of AI methodologies, including symbolic AI, multi-agent systems, game theory,
+ Bayesian reasoning, reinforcement learning, and deep learning.
+
+ Automated Verification (Head: Kwiatkowska; 9 faculty). This theme is one of the world’s largest
+ centres for automated verification and has benefitted from Cardelli moving to a 100% FTE post.
+ Members investigate the theory and practice of automated formal verification and correct-by-
+ construction synthesis for software and hardware systems in diverse settings, as required by
+ modern ubiquitous computing systems. The theme is also pioneering applications of verification
+ to systems biology, machine learning, and dynamical systems.
+
+ Computational Biology and Health Informatics (Head: Rodriguez; 9 faculty). The theme engages
+ in computational approaches to biomedical and healthcare research, including multiscale
+ modelling and simulation, image and signal analysis, and semantics-driven technologies.
+ Research aims at improving the efficacy of clinical diagnosis and therapy for cardiovascular,
+ lung, bone, and cancer diseases, and builds on strong collaborations with clinicians, industry,
+ and regulators. The theme supplies the PIs for two CDTs: Health Data Science (Davies), offered
+ in conjunction with Oxford’s Big Data Institute, and Sustainable Approaches to Biomedical
+ Sciences: Responsible and Reproducible Research (SABS:R3) (Gavaghan). With the hiring of
+ Bueno-Orovio (ECR), the theme has enhanced its expertise in data-driven cardiac modelling and
+ simulation.
+
+ Cyber-Physical Systems (Head: Trigoni; 4 faculty). CPS is a new theme built up through the
+ hiring of Rogers and Vu to join Trigoni and Markham. Research focusses on intelligent and
+ autonomous sensor systems, with applications in positioning, healthcare, the smart grid,
+ environmental monitoring, citizen science platforms, and smart cities. The theme enjoys strong
+ links with the Department of Engineering Science, including a jointly offered CDT in Autonomous
+ Intelligent Machines and Systems (awarded to Trigoni as PI).
+
+ Data and Knowledge (Head: Horrocks; 8 faculty). This theme, formerly Information Systems,
+ encompasses research in databases and knowledge representation, including query languages,
+ information exchange, data wrangling, factorised and probabilistic databases, in-database
+ machine learning, ontology languages, and reasoning systems.
+
+ Foundations, Structures, and Quantum (Heads: Abramsky, Coecke; 4 faculty). The theme
+ encompasses interdisciplinary research into conceptual and structural foundations across a
+
+
+
+
+                                                                                           Page 2
+Unit-level environment template (REF5b)
+ range of disciplines, including computer science, physics, pure mathematics, and linguistics. It
+ has been strengthened with the hiring of Kissinger (ECR).
+
+ Human-Centred Computing (Head: Shadbolt; 5 faculty). The theme was founded following the
+ appointment of Shadbolt in 2014 and Berners-Lee (part-time) in 2016 to join Jirotka; and has
+ been expanded with the hiring of Binns and Van Kleek (ECRs). Research encompasses
+ responsible research and innovation, fairness, transparency, and accountability in data-driven
+ algorithmic systems, and empowering individuals to take better control of privacy and personal
+ data.
+
+ Programming Languages (Head: Ong; 5 faculty). The theme has evolved significantly, with the
+ addition of Ong (from Foundations, Structures, and Quantum) and new hires Staton and
+ Murawski (ECR). The theme continues to pioneer the development of algorithmic and algebraic
+ approaches to programming-language semantics, program transformation, and program
+ analysis, with a particular focus on higher-order, probabilistic, and quantum programming.
+
+ Security (Head: Martinovic; 9 faculty). This theme has been strengthened with the permanent
+ appointment of Rasmussen. Research encompasses cybersecurity, protocol analysis, wireless
+ security, systems security, trusted computing, human-centred security, and steganography. The
+ theme hosts the interdisciplinary Global Cyber Security Capacity Centre, in conjunction with the
+ Oxford Martin School and several other Oxford departments, and a CDT in Cyber Security. It
+ also provides the nexus for the Oxford EPSRC–NCSC Academic Centre of Excellence in Cyber
+ Security Research (from 2012, renewed 2017–22), a vehicle for collaboration across the
+ University.
+
+ This UoA additionally includes Krafft and Wright from the Oxford Internet Institute, with research
+ interests respectively in beliefs and ideology in the information society, and privacy and
+ censorship on the web. Wright is co-director of the Cyber Security CDT.
+
+ 1.3. Research Strategy
+ Our core objective is to sustain world-leading research across a broad spectrum of computer
+ science, running from foundational work to applied and interdisciplinary research that directly
+ addresses societal challenges. Strategy is formulated in consultation with faculty members
+ during our termly faculty meetings and annual strategic planning away day. Based on this
+ consultation, the Department produces a five-year plan that is reviewed by the MPLS
+ (Mathematical, Physical, and Life Sciences) Division of the University for incorporation into its
+ own strategic plan. Implementation and oversight of research strategy is achieved through the
+ Department’s senior management team (including the Head of Department, Deputy Heads of
+ Department for Research and for Teaching, directors of taught programmes, Director of
+ Environment – a new post created in 2019 – and the senior administrative officer), in
+ combination with the Research Committee, whose membership includes, ex officio, the heads of
+ each research theme, along with key support staff. Through this process, we have identified five
+ key objectives over the next five years. Here we outline these objectives in relation to progress
+ achieved against the strategic goals we described in REF2014.
+
+ (I) Broadening and renewing our research themes. Our thematic structure is a key
+ mechanism for managing our research portfolio and ensuring sustainability. While staff freely
+ pursue their own research agendas, themes provide the critical mass and leadership that is
+ required to attract high-quality staff and students, maintain significant networks of collaborators,
+ lead national and international research initiatives, and secure long-term funding at scale. Plans
+
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+ for developing themes are guided by our long-term objective of building capacity around cross-
+ cutting challenge areas. These include algorithms in the large; autonomous and intelligent
+ systems; computational healthcare and medicine; dependable and secure computing; data
+ integration and knowledge representation; and human-centred computing. In particular, the
+ establishment of new themes in Artificial Intelligence & Machine Learning (AI&ML), Cyber-
+ Physical Systems (CPS), and Human-Centred Computing (HCC) has expanded capacity around
+ autonomous systems, big data, and machine learning – areas we highlighted in REF2014 as
+ having strong potential for impact generation. Planned growth over the next five years focusses
+ on these new themes. We aim to expand AI&ML and HCC with further appointments, and to
+ grow and broaden CPS with hires in the general area of Systems (for example, distributed
+ systems, networks, etc.). In AI&ML, we will appoint a new chair endowed by a substantial
+ donation from Google DeepMind. We will use replacement hires to maintain and refresh those
+ themes that are not marked for expansion.
+
+ (II) Ensuring the quality and diversity of research income. To enable highly collaborative and
+ path-breaking work, our research facilitation strategy targets long-term, large-scale grants and
+ research contracts. Over the period, our staff have been PI on four CDTs, two programme
+ grants, and 21 major fellowships (mainly ERC, EPSRC, and Royal Society), as well as several
+ substantial (>£500k) industrial research contracts. Over the coming period the Department’s
+ Research Committee will coordinate programme grant applications in response to a new
+ institutional initiative to pump-prime such applications with internal funds.
+
+ In REF2014, broadening our funding base to ensure a sustainable funding stream was identified
+ as the single most important component of research strategy. Section 3 demonstrates strong
+ progress made against this goal since 2014.
+
+ (III) Exploiting new opportunities for interdisciplinary collaboration. Over the coming
+ period, we aim to capitalise on opportunities for interdisciplinary collaboration in AI and machine
+ learning. Within Oxford, The Big Data Institute, Engineering Science, Mathematics, and
+ Statistics all have significant activity in machine learning. Shadbolt, who leads our HCC theme,
+ is Chair of the Steering Committee for the new Oxford Centre for Ethics in AI, a principal
+ beneficiary of a record-breaking £150m donation for a new centre for the humanities that will
+ generate significant opportunities for cross-disciplinary work. We aim to use new appointments
+ to build collaboration here. Another major focus will be the University’s plans for a new building
+ for Oxford’s Information Sciences, co-locating CS alongside relevant faculty from Engineering
+ Science. This will provide high quality, purpose-designed space, strengthen existing
+ interdisciplinary links (for example between our CPS and AI&ML themes and the vision and
+ robotics groups in Engineering), and create opportunities to develop new areas of collaboration.
+ Further exciting opportunities for interdisciplinary work will arise from the creation of Reuben
+ College, a new graduate college of the University that has AI&ML as one of its three primary
+ research themes and will admit its first cohort of graduate students in Autumn 2021. These
+ opportunities at the institutional level complement our strategy of supporting interdisciplinary
+ collaboration nationally and internationally through participation in programme grants and large-
+ scale initiatives.
+
+ (IV) Expanding recruitment and funding of research students. Through both RAE2008 and
+ REF2014, increasing the number of doctoral students has been a core strategic objective. We
+ currently graduate an average of 34 students per annum: a 39% increase over the REF2014
+ period. Key future objectives are (i) to secure more funding for doctoral training from research
+ councils, industry, and through fundraising in partnership with colleges; (ii) to further improve the
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ pipeline of excellent students through outreach, by updating our MSc and arrangements for
+ research internships, and through formal international collaborations. An example of the latter is
+ a forthcoming joint doctoral programme between the Department and the Max Planck Institute
+ for Software Systems, due to start in 2021.
+
+ (V) Developing strategic collaboration. An overarching priority for the coming period will be to
+ develop long-term partnerships that contribute to scientific quality, impact, and research income.
+ This goal builds on existing collaborations at national and international levels, including our
+ ongoing leadership role within the Alan Turing Institute, new strategic industrial collaborations
+ (see Sections 1.4, 3.1, and 4.1), and new formal collaboration agreements with universities in
+ Hong Kong and Japan, encompassing exchange research visits, joint participation in grant
+ applications, and joint PhD supervision (Section 4.1). New collaborations will be assessed in
+ terms of risk and potential contributions to other strategic priorities.
+
+ 1.4. Impact Strategy
+ The impact strategy presented in REF2014 has led to a transformation in the significance and
+ reach of the impact arising from our research. Below we review this strategy and describe how it
+ is being updated over the next five years.
+ (I) Developing impactful research themes. Following through one of the two overarching
+ principles of the impact strategy we identified in REF2014, we have (i) expanded research
+ capability in areas with strong potential for impact (see above), and (ii) ensured that we can
+ exploit the resulting opportunities by establishing effective structures for realising impact.
+
+ i) For example, in REF2014, we identified particular opportunities in autonomous systems. Here,
+ patented indoor positioning technology developed by the new CPS theme has been deployed by
+ the spinout company Navenio to improve the productivity of hospital support services (Impact
+ Case Study [5]). Simulation of human behaviour using deep reinforcement learning, developed
+ by the new AI&ML theme, is being used by Waymo in its development of self-driving cars.
+ Interdisciplinary research of our new HCC theme, meanwhile, has had substantial impacts on
+ public policy (Section 4.1).
+
+ ii) Key means of supporting impact realisation have been our flexible policies on reduced FTE
+ (see below), and our engagement with Oxford Sciences Innovation (OSI), an independent
+ investment fund founded to commercialise the University’s science and engineering research.
+ OSI has raised £14.6m over the period to support spinouts from CS. These activities have had a
+ transformative effect on our Automated Verification, Data and Knowledge, and Programming
+ Languages themes, allowing them to apply their tool-building expertise to commercial software
+ engineering and data management. Tools supporting test generation and variant analysis for
+ large codebases have been marketed by the spinout companies DiffBlue and Semmle (Impact
+ Case Study [4]). Three spinouts – Wrapidity, DeepReason.ai, and Oxford Semantic
+ Technologies – have been built around tools that automatically extract and convert raw data
+ from the web and other diverse sources into structured, machine-readable knowledge (Impact
+ Case Studies [1] and [2]).
+
+ (II) Impact through interdisciplinarity. This was the second key principle of our REF2014
+ impact strategy. We support interdisciplinary research by developing and maintaining research
+ themes – such as Security, Computational Biology and Health Informatics, and Human-Centred
+ Computing – which are explicitly interdisciplinary in outlook. As described in Section 4.1, this
+ strategy has allowed us to expand the reach of our impacts over the period to encompass: the
+ developing world (through the work of the Global Cyber Security Capacity Centre, led by the
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+ Security theme in collaboration with the Blavatnik School of Government, Oxford Internet
+ Institute, Saïd Business School, and Department of Sociology); regulatory thinking and industry
+ practice in the biomedical sector (through interdisciplinary work by our Computational Biology
+ theme); and public policy in the UK and EU (through interdisciplinary work in our HCC theme).
+
+ (III) Engaging with beneficiaries. Fulfilling plans announced in REF2014, we employ a full-time
+ industrial liaison administrator responsible for managing relationships with industrial partners
+ (e.g., consultancy, research funding, student sponsorship, secondments, Department open
+ days). Engagement also happens at the thematic level; for example, in 2017 the Computational
+ Biology theme organised a two-day symposium in Oxford on “In Silico Drug Safety and Efficacy”,
+ which brought together over 100 participants from academia, industry, and regulatory agencies.
+ We also participate in institutional-level outreach, such as the 2019 AI@Oxford conference, a
+ two-day event that included over 500 delegates from the University and from industry, in which
+ our AI&ML, CPS, and HCC themes were extensively involved.
+
+ As described in Sections 3 and 4, a wide variety of companies, charities, and government
+ agencies participate in our research projects, both as partners in competitively-awarded grants
+ and through direct funding. At the census date, the value of active directly-contracted research
+ projects was over £4.5m. We also host long-term visits from industry; for example, Ziyad Hanna,
+ Vice-President of R&D at Cadence Design Systems, was awarded a three-year Visiting
+ Professorship that led, among other things, to collaboration on Kroening’s and Melham’s CREST
+ Impact Acceleration Project.
+
+ Developing relationships with industry, government, and the third sector will be a central
+ strategic aim over the next five years. We plan to expand our liaison activities, and foresee new
+ opportunities arising from the activity of our spinout companies, such as the formal collaboration
+ with Samsung that emerged out of Samsung’s investment in Oxford Semantic Technologies. A
+ further key instrument has been our flexible policy for staff leave and secondments. Over the
+ period, Blunsom, Kroening, Lane, Trigoni, and Whiteson all had temporary reductions in FTE,
+ either to develop spinouts or for secondments to industry. We have recently consulted on and
+ updated our policies on reduced FTE in order to better support individuals to balance their
+ departmental responsibilities with external commitments.
+
+ (IV) Incentivising and supporting impact generation. Impact generation is a contributory
+ factor in departmental hiring and promotion decisions. We support impact realisation through the
+ provision of training and internal funding, and by incentivising and rewarding staff. We promote
+ courses run by the MPLS Division on topics such as protecting intellectual property and scientific
+ entrepreneurship; these have been well used by both staff and doctoral students (over 90
+ participants from CS recorded over the period). The University manages competitively-awarded
+ internal funding sources, such as EPSRC Impact Acceleration Account (IAA) funds, to support
+ engagement between researchers and end-users and to develop new technologies to the point
+ that they are ready for commercial exploitation. Our Research Support team has facilitated
+ broad participation by CS staff in these schemes: since 2014, over 30 projects have received
+ IAA awards, worth over £1.5m in total, with PIs from nine of our ten research themes. Several
+ have led directly to impacts beyond academia, such as the commercialisation of Rogers’s work
+ on acoustic devices for conservation professionals, facilitated by an IAA Technology Award for
+ 2017–20. The Department has created a similar local fund, with two calls during the period
+ allocating around £200k in impact seed grants. One award was instrumental in the development
+ of Impact Case Study [3]. Since 2014, six CS staff have been recognised by Impact Awards as
+ part of a scheme run by MPLS, evidencing the success of these initiatives. We will continue to
+
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+ pursue this strategy in the coming period, with new calls for IAA and further rounds of
+ departmental impact funding.
+
+ Relationship with case studies. Four of our Impact Case Studies involve spinout companies.
+ These have all benefitted from our flexible reduced FTE policy, allowing the founding academics
+ to provide initial leadership and management. Three of the companies received investment
+ capital from OSI. Martinovic’s work on aviation security was supported by £30k of Departmental
+ funding for impact realisation. Our strategic focus on obtaining large grants has been
+ instrumental in enabling the transformative research that underpins the case studies. The
+ spinout Wrapidity is based on technology to automate data extraction originally developed in
+ Gottlob’s ERC DIADEM grant. The DeepReason.ai spinout is based on the Vadalog system
+ developed in research funded by Gottlob’s VADA EPSRC programme grant. The Oxford
+ Semantic Technologies spinout exploits the RDFox technology developed by Cuenca Grau,
+ Horrocks, and Motik in research funded by Horrocks’s DBOnto EPSRC platform grant, and
+ Motik’s MaSI3 and AnaLOG EPSRC fellowships. Rasmussen’s work on Bluetooth arises from
+ his Royal Society fellowship.
+
+ 1.5. Research Culture
+ Responsible research. We aim to lead within the University and nationally in developing new
+ standards in research ethics in ICT, particularly through the work of our HCC theme. In 2018, the
+ Department established its own local Ethics Committee, with significant input from the HCC
+ theme and under the guidance of the central University research ethics team. The aims were to
+ raise the profile of research ethics, particularly in response to the emergence of new ethical
+ challenges (for example, connected with AI and algorithmic fairness), and to improve the quality
+ of the ethics clearance process. By 2019, the scheme had already seen more than 60
+ applications. Beyond the University, the Department plays a leading role within the EPSRC’s
+ strategy for promoting ethical research in ICT, through Jirotka’s Observatory for Responsible
+ Research and Innovation (ORBIT) centre, launched in 2018 (see Section 4). Shadbolt and
+ Berners-Lee are co-founders and Board members of the Open Data Institute, a non-profit
+ working with companies and governments to build an open, trustworthy data ecosystem that
+ supports better data-driven decision making. With around 60 employees, the Institute has
+ established a world-leading position in open data research and technology, making significant
+ contributions to UK and other governments’ open data policies. Rodriguez is a Board member of
+ the National Centre for the Replacement, Refinement and Reduction of Animals in Research
+ (NC3Rs); her group’s work on in silico modelling has twice been recognised by the NC3R’s top
+ international prize for its potential to reduce in vivo testing.
+
+ Open research. In addition to the culture of open research and open data within the discipline –
+ for example, from 2014–20 our staff uploaded over 1,400 research papers to the open
+ distribution service arXiv – the Department actively promotes Oxford’s open access policies,
+ which aim to ensure the widest possible access to its research. There is an academic advocate
+ for Open Access (Živný), and two CS librarians act as Open Access contacts. Gavaghan is on
+ the Steering Group for Reproducible Research Oxford, the local node of the UK Reproducibility
+ Network, which promotes a coordinated approach to open scholarship and research
+ reproducibility across disciplines. The Department has implemented several initiatives to
+ promote the University’s commitment to “Green” Open Access via its open repository, the Oxford
+ Research Archive (ORA). We deploy bespoke software that crawls internet databases and
+ issues monthly reminders to researchers to “act on acceptance” by immediately depositing
+ accepted publications in ORA. A research administrator monitors deposits.
+
+
+                                                                                            Page 7
+Unit-level environment template (REF5b)
+
+ 2. People
+
+ The aims of our people strategy are to recruit personnel with either a record of or the clear
+ potential for outstanding, agenda-setting, and transformational research and innovation; and to
+ support and incentivise their career development. As described below, we do this through
+ mechanisms for mentoring, training, appraisal, promotion, financial support, and teaching relief.
+
+ 2.1. Staff
+ Our return includes 69 academic faculty from Oxford CS and ten research staff (four from Oxford
+ CS, two from Oxford Internet Institute, and four from Oxford’s constituent colleges). Figure 1
+ illustrates growth in the Department since REF2014. The 69 faculty comprise 38 Professors, 23
+ Associate Processors (APs), and eight Departmental Lecturers (DLs). Five DLs are on fixed-
+ term positions funded by salary buyouts accruing from research fellowships. The role gives
+ ECRs an ideal opportunity to engage with the full range of academic duties (including research),
+ comparable to a starting AP, and is an important vehicle for career development.
+
+              300
+                                                                                    256
+
+
+
+              200                                                             183
+
+
+
+                                                                     109
+                                                               99
+              100
+                              62
+                        48
+
+                                            8      7
+               0
+                    Permanent faculty Fixed-term faculty    Research staff   PhD students
+
+                                                REF2014    REF2021
+
+                      Figure 1: Departmental headcounts REF2014 vs REF2021
+
+ Recruitment. The expansion in our research capability has been underpinned by 13 new hires
+ across our research portfolio at AP level, and three hires at Professor level. Our recruitment
+ strategy prioritises research quality and impact creation, within the context of our strategic plans
+ for developing the Department’s research portfolio and the need to maintain a balanced profile of
+ experience within themes. Seven of our 13 new hires at AP level are ECRs; overall, 62% of staff
+ returned here are under 50, and 23% are under 40. Only three of our research themes have an
+ average age over 50, and none of these over 51. We recruit from an international talent pool:
+ more than half of our staff come from outside the UK. In order to identify the best possible
+ candidates, we use search panels to identify and approach potential applicants. We will continue
+ to pursue a range of avenues to further broaden the field of applicants, including hiring in
+ batches, open hires across our research themes, and synchronising with the international
+ recruitment cycle.
+
+ Mentoring and career development. As evidenced in Section 3, we have a strong record of
+ supporting staff, particularly early career staff, to build up their funded research programmes and
+ academic careers. New staff receive start-up funding for travel, students, and equipment, with
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ junior staff having a reduced teaching and administrative load. All new staff receive a training
+ plan that includes courses in doctoral supervision, being a PI, equality and diversity, and
+ unconscious bias. Newly appointed APs have a five-year probationary period and receive
+ formative advice and guidance as part of a formal review after three years in post. There is a
+ further review after five years, when a decision is made on reappointment to retirement based on
+ a rigorous assessment of research, teaching, and citizenship, supported by external references.
+ All academic staff are assigned a mentor to provide support, guidance, and advice relative to
+ their level of experience. Staff also complete an annual workload survey, which is used as a
+ basis for balancing the assignment of teaching, management, and administration duties. Staff
+ can request feedback or an appraisal. We aim to retain talent, but our effectiveness in
+ supporting staff to develop their research profiles means that when faculty do leave it is
+ generally to take up prestigious senior positions in academia or in industry. Olteanu, for
+ example, joined as an early-career researcher in 2005, was promoted to Professor in 2016, and
+ left in 2020 to head the Data Systems and Theory Group at Zurich; De Freitas left in 2017 to
+ become a lead scientist at DeepMind following DeepMind’s acquisition of his spinout company
+ Dark Blue Labs.
+
+ Reward and recognition. We hold annual promotion rounds, based on merit and without
+ quotas. Staff in Grades 9-10 – typically senior researchers and Departmental Lecturers – are
+ eligible to apply for the title Associate Professor through an annual scheme. Since 2014, there
+ have been ten successful applications. If already in an AP or other eligible role, staff can apply
+ for Professor title through an annual Recognition of Distinction scheme. Since 2014, there have
+ been twelve successful promotions from AP to Professor (including four women). The post of
+ Departmental Lecturer has three grades and several of our permanent DL team have been
+ regraded after assuming greater responsibilities. The Department encourages PIs to consider
+ regrading ECRs who demonstrate independent research and take up greater responsibilities.
+ Since 2014, eight fixed-term researchers have been promoted from Grade 7 (junior researcher)
+ to Grade 8 (senior researcher). The University runs an annual merit-based award scheme that
+ gives a salary uplift to employees with the Professor title, based on an assessment of their
+ contributions in research, leadership, and teaching. Impact generation is taken into account as a
+ contributory factor in Departmental hiring and promotion decisions. It is also recognised by
+ Impact (and associated pay) Awards from a scheme run by MPLS: six CS staff have won Impact
+ Awards in the period.
+
+ Supporting research. The Department is committed to protecting the time available for
+ research as well as supporting applications for fellowships and sabbatical leave. All academic
+ staff are entitled to one term of sabbatical leave for every six terms worked. Staff are fully funded
+ during sabbatical leave.
+
+ Supporting engagement and impact. Academic and research staff have a contractual
+ entitlement of up to 30 days per annum when they can be paid for outside work. This is usually
+ personal consultancy but can include other work: examples in this period include an extended
+ sabbatical to work with the House of Lords (see Section 4.1 for evidence of engagement with
+ policymakers) and reduction of duties to sit on national REF panels. Over the period, 54 CS staff
+ have undertaken 122 personal consultancy agreements through Oxford University Innovation
+ (OUI), the University’s technology transfer office. Doctoral students are also encouraged to
+ undertake commercial internships, with the senior administrator providing contractual support for
+ this process to ensure that students can achieve commercial experience alongside their studies.
+
+
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ Section 1.4, above, contains further evidence of how we enable engagement with beneficiaries,
+ including our flexible policy for reduced FTE.
+
+ Early career researchers. The Department has fully implemented the revised Concordat on
+ ECRs. The role of ECR Coordinator was constituted in 2019 to work with the Director of
+ Environment to support ECR development, integration, and networking. The ECR Coordinator
+ has organised a series of training and social events, such as seminars in partnership with our
+ Research Support team on applying for grant funding. Compulsory annual Career Development
+ Reviews were implemented in 2016 to provide a structured opportunity for PIs and ECRs to
+ reflect and plan for career development in the current role and beyond, and to discuss
+ opportunities that would enable staff to meet their career aspirations. This scheme has been
+ very successful. From 2018, research staff have been supported to take a minimum of ten days
+ per annum for professional development and training. ECRs are encouraged to attend MPLS
+ training, identified through their Career Development Reviews, in subjects such as
+ entrepreneurship, good practice in research, thinking about impact, being a PI, public
+ engagement, and applying for funding. Over the period, ECRs have attended over 120 such
+ courses. Within the Department, ECRs are encouraged to organise seminar series. The
+ Department and colleges also provide extensive opportunities for teaching assistantships and ad
+ hoc lecturing, thereby providing essential experience for a future academic career.
+
+ A measure of our effectiveness in nurturing academic careers is provided by the list of
+ institutions at which PhD students and Research Assistants within the Department over the
+ period have subsequently obtained permanent faculty positions. These include Birmingham,
+ Bristol, Cambridge, Edinburgh, Imperial College, Kent, Liverpool, Newcastle, Manchester,
+ Oxford, Royal Holloway, Southampton, UCL, York, and, overseas, at Australian National
+ University, Cape Town, CNRS (France), Dresden, Monash, National University of Singapore,
+ Technion, Toronto, TU Delft, U Illinois, U Colorado, ULB Brussels, Warsaw, and Vienna.
+
+ 2.2. Doctoral Students
+ Recruitment. The Department receives around 400 applications annually for its doctoral
+ programme; around 50 students are recruited. To promote our programmes, we hold graduate
+ open days, with dedicated taster days for CDTs. The baseline expectation for admission is a
+ first-class degree in a 4-year programme in computer science or a cognate discipline. Suitably
+ qualified applicants are interviewed by at least two academics and considered for funding by the
+ Scholarship Committee. We track the number of female applicants and these data have been
+ used to make a case for targeted scholarships in our fundraising (see below).
+
+
+
+
+                                                                                          Page 10
+Unit-level environment template (REF5b)
+
+                        CS PhD application and acceptance rates 2014–19
+                  500                                                                            25.00%
+
+
+
+
+                                                                                                          Acceptance rate
+          Total
+
+
+
+
+                  250                                                                            12.50%
+
+
+
+
+                   0                                                                             0.00%
+                        2014-15   2015-16         2016-17       2017-18   2018-19      2019-20
+
+                                   Applications             Accepted      Acceptance rate %
+
+
+
+                                            Figure 2:
+     Average annual growth in applications since 2014-15 is 22% overall, and 25% for female
+                            candidates. Entry is highly competitive.
+
+ Funding. The large increase in doctoral students over the period has been underpinned by our
+ participation in, and leadership of, centres for doctoral training (CDTs), in partnership with
+ Engineering Science, the life sciences, and Oxford’s Big Data Institute. Over the period, doctoral
+ students in CS have received funding from six EPSRC centres for doctoral training (CDTs), of
+ which four are or have been led by PIs from CS. The Department participated in two CDTs
+ awarded in 2012 and 2013 EPSRC funding rounds: Cyber Security (2012) and Autonomous
+ Intelligent Machines and Systems (2013). The former, led by A. Martin in the Security theme,
+ was awarded second-phase funding of £3.5m in 2016. Our staff were PI for three CDTs awarded
+ in the EPSRC’s 2018 round: Health Data Science (Davies, £6.6m), SABS:R3 (Gavaghan,
+ £5.3m), and Autonomous Intelligent Machines and Systems (awarded to Trigoni, £5.2m).
+ Students have also received funding through the EPSRC CDTs Life Sciences Interface and
+ Systems Biology. Other collaborative doctoral training programmes in which we participate
+ include the BBSRC Doctoral Training Partnership, the Wellcome Trust OXION programme, and
+ the BHF Cardiovascular Sciences programme. Further substantial funding for doctoral students
+ comes from scholarships administered by the Department and central University. A donation of
+ £2.7m from DeepMind in 2014 was used to support scholarships, including two doctoral
+ studentships endowed in perpetuity. Overall, 75% of doctoral students are fully funded, with
+ EPSRC funds accounting for just under half the total number of studentships. The Department
+ gives all doctoral students a baseline travel budget of £2k. This is complemented by further
+ travel funding from colleges (up to £1.5k over the course of the degree).
+
+
+
+
+                                                                                                                            Page 11
+Unit-level environment template (REF5b)
+
+                          Funding sources for PhD students 2014–19
+                                                    0                50           100
+
+                            EPSRC (incl. CDTs)                                   90
+                University of Oxford or own funds                     48
+                                Overseas - other                14
+                           Overseas government                  13
+                             Rhodes scholarship             7
+                                         Industry           6
+                                UK public sector        4
+                                 EU government          3
+
+
+
+      Figure 3: Funding for doctoral students is drawn from various sources, with a majority
+         supported by research council funding and competitively-awarded scholarships.
+
+ Monitoring and appraisal. Every doctoral student is a member of a college, with a personal
+ advisor and access to welfare support and hardship funds. Within the Department, each student
+ has at least one primary supervisor, as well as a secondary advisor who can provide extra
+ support. Pastoral care for graduate students is overseen by the Director of Graduate Studies
+ and the Graduate Studies Administrator. There is a termly supervision framework, involving
+ submission of progress reports from both student and supervisor(s). The reports are evaluated
+ by the Director of Graduate Studies and college advisors. They allow students and supervisors
+ to monitor progress and review training needs. Doctoral students are initially admitted under
+ probationary status and are required, after the first year, to pass a transfer examination involving
+ the submission of assessed work, a qualifying dissertation, an oral exam, and a record of
+ transferable skills training, all considered by two examiners. In the third year, and before being
+ allowed to submit a thesis, students undertake a second formal evaluation involving both a viva
+ and written component. The effectiveness of the structures for monitoring progression is
+ reflected in low attrition rates: of doctoral students due to submit within the assessment period,
+ 7.5% have withdrawn, while the remaining 92.5% have successfully passed the degree.
+
+ Skills, training, mentoring, and career development. In partnership with the MPLS Division,
+ we provide training and advice for all doctoral students in research practices, transferable skills,
+ and career development, including academic writing, grant applications, presentations,
+ entrepreneurship, and completing a doctorate. In particular, through MPLS’s Graduate Academic
+ Programme, our doctoral students have access to over 300 courses run by departments within
+ MPLS and have altogether attended over 800 such courses since 2014. CDT students
+ additionally have their own dedicated skills training programmes. The Department’s Oxford
+ Computer Science Conference and the annual Oxbridge Women in Computer Science
+ Conference also provide opportunities for students and researchers to develop presentation
+ skills and receive feedback from peers. Female graduate students are encouraged to enrol on
+ the Springboard course, which enables students to discuss career paths with female peers and
+ researchers. The Department hosts a weekly lunchtime “tech talk” seminar series for doctoral
+ students, providing a forum for companies to talk about both product development and career
+ opportunities. Recent participants include Omnitek, Apple, Morgan Stanley, and Netcraft. As well
+ as successful careers in academia (Section 2.1, above), PhD students in the period have
+
+
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ progressed to a range of high-profile careers in industry: examples include at Google Research,
+ Zurich; DeepMind; Drive.ai; Facebook; and Bloomberg.
+
+ 2.3. Equality, Diversity, and Inclusion (EDI)
+ Departmental structures and working practices. We aim to integrate equality and diversity
+ throughout our recruitment and staffing policies, and to prioritise inclusivity and wellbeing across
+ our working practices. We believe this is the best way to pursue our mission of academic
+ excellence and to enable all our staff and students to achieve their full potential.
+
+ Our Equality and Diversity Committee meets termly, and includes the Head of Department, ECR
+ Coordinator, senior administrative staff, and, since 2019, the Director of Environment – a post
+ created specifically to champion EDI. We are a Stonewall employer, and benefit from diverse
+ representation in highly visible leadership roles: for example, female professors lead four of our
+ ten research themes; Trigoni, who leads the CPS theme and founded the spinout Navenio in
+ 2015, won CTO-of-the-year at the 2020 Women in IT awards. We successfully retained our
+ Bronze Athena SWAN award in 2018. The Director of Environment spearheads implementation
+ of our current Athena SWAN action plan: initiatives already implemented include outreach
+ activities and studentships to encourage applications from females to our doctoral programme.
+
+ As described above, we seek to recruit from the widest possible international talent pool and use
+ search panels to help ensure that we can identify the best possible candidates, including among
+ under-represented groups. We offer support towards the cost of caring commitments to those
+ invited for interview for a faculty position. Since 2017, PIs have been encouraged to advertise
+ research positions on both a full-time or part-time/job share basis, where possible, in order to
+ reduce barriers for potential applicants.
+
+ The University has a well-established flexible working policy, which allows for various options
+ including part-time working, working from home, job-sharing, and compressed hours. During the
+ period, six CS staff have moved formally to flexible working arrangements. We encourage
+ returning staff to apply to the University’s Returning Carers Fund, a small grants scheme to
+ support the return to research of individuals who have taken a break for maternity or other caring
+ responsibilities. One applicant was awarded nearly £5k, enabling her to attend relevant
+ workshops and conferences on return to work.
+
+ The Department prioritises wellbeing and maintains a team of approximately 15 Mental Health
+ First Aiders, drawn from all categories of staff and students, which meets termly to organise
+ event programmes focussed on mental health and wellbeing. We also use an Employee
+ Assistance Programme (Validium) to provide advice and counselling to staff and students.
+
+ Funding and access. EDI is a standing item at the Department’s Research Committee, and the
+ committee scrutinises the diversity profile of staff being supported in funding applications. CS
+ staff are currently participating in a project, Improving Researcher Diversity in Research Funding
+ Success, which aims to identify systemic barriers for BAME, LGBT+, and disabled researchers,
+ and to work with key funders to improve the funding system and create targeted support. The
+ project is supported by £25k from the University’s central Diversity Fund. We have sought to
+ engage industrial sponsors to offer financial support for students from traditionally under-
+ represented groups. In 2018-19, the Department awarded two fully-funded doctoral scholarships
+ for female students, funded by DeepMind. We have also provided support for students on our
+ MSc degree, which has a significant research component and is an important pathway to
+ doctoral study. Booking.com gave six MSc studentships in 2018-19 for women studying for an
+
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+ MSc in CS. DeepMind funded four MSc studentships in 2019-20 and again in 2020-21 for
+ females, BAME students, or students from households with traditionally low progression to
+ higher education. The Department also participates in the University’s UNIQ+ graduate access
+ internship programme. This programme, which provides a six-week supervised research project,
+ is aimed at talented undergraduates at UK universities who would find progression to graduate
+ study a challenge for non-academic reasons.
+
+ Promoting diversity. The Department has supported numerous initiatives that have helped to
+ raise the profile of EDI issues and to encourage greater diversity within the discipline. In 2019,
+ Jirotka’s ORBIT centre organised and hosted the first “100+ Brilliant Women in AI & Ethics”
+ conference, supported by the Alan Turing Institute, Microsoft, and PWC alongside the
+ Department. Within CS, the Oxford Women in Computer Science Society (OxWoCS) was
+ founded in 2013 to support and promote women in computer science, including faculty, staff,
+ and students. We provide OxWoCS with £4k in annual direct support for seminar speakers and
+ travel funding to the annual Grace Hopper Celebration, the world’s largest gathering of women in
+ technology. We also provide indirect support, such as mentoring and administrative assistance.
+ OxWoCS won the inaugural Equality and Diversity Award from the MPLS Division, and has
+ received industrial sponsorship from Google, Bloomberg, Facebook, J.P. Morgan, GSK, and
+ VISA. Among the sponsored events is an annual conference, Oxbridge Women in Computer
+ Science. The sixth iteration was held in 2019, with over 70 participants (over 90% of whom were
+ female) and featuring Dame Stephanie Shirley as invited speaker. OxWoCS also hosts a
+ Distinguished Speaker Seminar for female academic and industry leaders. Selected speakers
+ over the period include Shafi Goldwasser (MIT, Turing Award winner), Claire Vishik (Intel, FRS),
+ Xin Luna Dong (Amazon, ACM Distinguished Member), Tova Milo (ACM Fellow), and Natasha
+ Noy (Stanford, Google).
+
+ EDI and REF. Many actions were taken at the level of the UoA to ensure the operation of a fair
+ and transparent process in the construction of the unit-level REF submission. These included
+ REF-directed unconscious bias training for staff with decision-making roles, and the formation of
+ an advisory REF committee with broad representation from across the UoA in terms of career
+ stage, gender, and disciplinary focus. To ensure rigorous, transparent, and fair selection of
+ outputs, we first scored and ranked outputs based only on reviews and panel moderation. We
+ then analysed the results against diversity criteria to check for systematic bias. Although for
+ most known groups the numbers were too small to be statistically significant, our analysis
+ showed that the average number of outputs attributed to female staff was greater than the
+ overall average. ECRs (who comprise 20% of staff returned here) are also well represented in
+ our output selection.
+
+ 3. Income, infrastructure, and facilities
+
+ 3.1. Research Income
+ We report total external research income (expenditure) of over £74m for the assessment period.
+ This continues a steady upward trend in both total average annual income and average annual
+ income per FTE, evidencing progress made in consolidating the broad and sustainable research
+ base built up since RAE2008. Over the current period, we have continued to pursue our aims to
+ diversify our funding portfolio and to secure large, long-term grants that allow our staff to focus
+ on fundamental and agenda-setting research, and to collaborate with a wide range of partners in
+ academia, industry, charities, and the public sector. As Figure 4 shows, we have drawn income
+ from a diverse mix of sources, with UKRI funding representing less than half of total income –
+ 39%, down from 55% over the previous period. Funding from charities has grown significantly (a
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+ sevenfold increase in terms of value, from around £650k in REF2014 to over £4.5m), while
+ funding from industry has doubled in value to over £6m. As detailed below, we have also
+ achieved increased success in winning large, longer-term grants during the current period (24
+ grants of five years’ duration or longer, 20 at £1m+), with PIs from the Department leading two
+ EPSRC programme grants. This success reflects both our investment in research support
+ capacity and a culture in which staff are encouraged and supported to develop ambitious
+ research goals that will underpin their long-term career development. At the census date, 49
+ staff in the UoA (out of 79 returned here) held grants – including 41 as PI – with a total value
+ over £36m, and an average value per grant of c. £370k. Our staff have already secured future
+ grant income worth over £21.5m up to 2025.
+
+
+
+
+                   Figure 4: Sources of research income: REF2014 vs REF2021
+
+ Large grants and fellowships. Across all its research themes, the Department has been
+ successful at winning long-term, large-scale funding, including programme grants and
+ fellowships. Our staff have established strong strategic partnerships with industry and public
+ sector stakeholders, and numerous emerging collaborations will help to ensure the future
+ sustainability of this wider engagement. Our success in these areas reflects and underwrites
+ our strategic goals to foster national and international collaboration, expand our support for
+ doctoral training, and nurture our staff in developing their careers and assuming leadership
+ roles in their fields.
+
+ Large collaborative grants led by our staff include:
+
+    •   Shadbolt’s £6.2m SOCIAM EPSRC programme grant (£1.2m for Oxford), with
+        Southampton, Edinburgh, Northwestern, and Tsinghua, and many industry and public
+        sector partners. Along with the EPSRC-funded PETRAS (Privacy, Ethics, Trust,
+        Reliability Accessibility and Security) and PETRAS2 Hubs, in which our HCC theme has
+        collaborated alongside members of our Security theme, SOCIAM has supported
+        research into tools and systems designed to improve end-users’ ability to conceptualise
+        and control their privacy online. Outcomes include a series of studies relating to privacy
+        in the context of smartphones and smart home devices, including analysis of 1 million
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+         apps, resulting in best paper awards at leading venues such as ACM CHI and ACM
+         WebSci’18, and in engagement with policy-makers (see Section 4.1).
+
+     •   Gottlob’s £4.5m VADA EPSRC programme grant (£1.88m for Oxford), with Edinburgh
+         and Manchester, and industry partners including Facebook and Microsoft. Together
+         with Gottlob’s DIADEM ERC grant, this has led to significant theoretical and practical
+         advances in Datalog-based logical reasoning systems, directly generating two spinout
+         companies within the REF period (Wrapidity and DeepReason.ai).
+
+     •   Horrocks’ DBOnto EPSRC platform grant (£1.26m). Along with Motik’s MaSI3 EPSRC
+         fellowship, this has supported work on consequence-based reasoning, the theory and
+         practice of Datalog, and combinations of logic and arithmetic functions. New theoretical
+         and practical insights achieved in this research have led to best-paper awards,
+         publications in top AI venues, and significant real-world impacts through the
+         development of both open source and commercially marketed reasoning systems
+         (Impact Case Study [2]).
+
+ In addition:
+
+     •   Kwiatkowska and Trigoni are Co-Investigators on the £5m EPSRC programme grant
+         Mobile Robotics, led by Oxford’s Engineering Science department, with partners
+         including Berkeley, McGill, the Department for Transport, UK Atomic Energy Authority,
+         and UK Space Agency.
+
+     •   Horrocks is Co-Investigator on the £5.1m EPSRC programme grant UK FIRES led by
+         Cambridge, with collaborators at Bath, Imperial, Nottingham, and Strathclyde, alongside
+         many industry partners.
+
+ Substantial direct support for research includes funding from Amazon Web Services (Jirotka
+ and Trigoni, £2m); DeepMind (endowing a new Chair in AI); AXIS UK Services (Creese, £1m);
+ Samsung UK (Horrocks, £500k); and FCDO (Foreign, Commonwealth and Development
+ Office) (Creese, £350k). FCDO funding supports the work of the Global Cybersecurity Centre
+ as part of a programme to help partner countries develop cybersecurity capacity in line with the
+ UK’s Aid Strategy. Funding from Amazon is part of a long-term research collaboration with CS
+ and Engineering Science at Oxford, announced in 2020 and backed by a £7m gift, and is
+ supporting the establishment of an Institute in Responsible Innovation by Jirotka. DeepMind’s
+ donation followed their acquisition of our Dark Blue Labs spinout in 2014. Funding from
+ Samsung is part of a new formal collaboration with members of our Data and Knowledge
+ theme, aimed at developing knowledge representation techniques to build user-oriented AI.
+ The relationship builds on the role of Samsung Ventures in raising £3m for the spinout Oxford
+ Semantic Technologies, and bolsters the theme’s strong links with industry, which include, for
+ example, a long-standing collaboration with Siemens that has resulted in substantial doctoral
+ studentship funding and contributions to major UKRI-funded projects.
+
+ We have a strong track record in supporting staff to apply successfully for competitively-
+ awarded research fellowships. We provide mentoring and guidance to help staff develop
+ proposals, and mock interviews for all shortlisted applicants, with tailored guidance for ECRs
+ (see section 2.1 above). These structures are an important part of our strategy to support staff
+ in developing their research profiles: among ECRs who have obtained prestigious fellowships
+ in this UoA since 2014, Bueno-Orovio, Haase, Heunen, Rasmussen, and Vicary have all gone
+ on to permanent academic jobs. Building on our success in the REF2014 period, CS staff have
+
+                                                                                            Page 16
+Unit-level environment template (REF5b)
+ been awarded many substantial research fellowships within the current period, including: six
+ ERC Starting grants (Elkind, Haase, Lane, Lin, Whiteson, Živný); two EPSRC Early Career
+ Fellowships (Blunsom, Heunen); three ERC Consolidator grants (Ouaknine, Olteanu,
+ Santhanam); one ERC Advanced grant (Kwiatkowska); five EPSRC Established Career
+ Fellowships (Benedikt, Jirotka, U. Martin, Motik, Worrell); three Royal Society University
+ Research Fellowships (Rasmussen, Staton, Vicary); one Royal Society Research
+ Professorship (Gottlob), in addition to the Royal Society Research Professorship already held
+ by Cardelli; an AXA Chair in Explainable AI for Healthcare (Lukasiewicz); and others including
+ Wellcome Trust and British Heart Foundation fellowships (Rodriguez, Bueno-Orovio).
+
+ The success of our staff in winning substantial grant funding and fellowships enables them to
+ pursue ambitious research agendas that give rise to research of world-leading quality, generate
+ significant impacts beyond academia, and stimulate and nurture fruitful collaborations.
+
+ By way of illustration, four of the eight members of our Algorithms and Complexity theme have
+ been supported by ERC projects in work that has led to fundamental contributions in algorithmic
+ game theory (Koutsoupias), the complexity of computational problems from statistical physics
+ (Goldberg, together with Galanis), connections between algorithmic analysis and computational
+ lower bounds (Santhanam), and the applicability of classical optimisation techniques such as
+ linear and semidefinite programming to Constraint Satisfaction Problems (Živný). In our
+ Automated Verification theme, large fellowships (ERC, EPSRC, and Royal Society) have
+ supported work by Kiefer, Ouaknine, and Worrell on algorithmic properties of dynamical and
+ stochastic systems that has led to the resolution of longstanding open problems, and ongoing
+ work by Kwiatkowska and Haase on novel techniques for the verification of deep neural nets and
+ decision procedures for arithmetical theories. In the AI&ML theme, ERC and EPSRC fellowships
+ have supported Wooldridge’s work on the verification of Nash equilibrium properties of multi-
+ agent systems, Elkind’s work on novel algorithms for collective decision-making and group
+ formation, Whiteson’s work on novel cooperative multi-agent reinforcement learning algorithms,
+ and Blunsom’s work on deep learning techniques for natural language applications. In Data and
+ Knowledge, Benedikt has pushed forward understanding of nested data in work supported by his
+ EPSRC fellowship, including new results on the expressiveness of nested query languages and
+ their connections with functional languages. In the Programming Languages theme, work on
+ probabilistic programming supported by Staton’s Royal Society URF has led to best paper
+ awards and invited talks and will be built on in an ERC Consolidator project that aims to develop
+ new languages for statistics and probabilistic programming. Murawski has developed the first
+ fully abstract denotational model of an object-oriented language, in work recently published at
+ JACM. In the Foundations, Structures, and Quantum theme, research supported by the EPSRC-
+ funded Centre for Quantum Mathematics and Computation has led to new developments of
+ game semantics by Abramsky, whose contribution in this area was recognised by the joint award
+ of the 2017 Alonzo Church prize (with Ong, Nickau, and others). Recent work on new
+ connections between semantics and structural and descriptive complexity, including a
+ pioneering programme at the Simons Institute in 2016 connecting the communities, has led to a
+ four-year EPSRC standard grant with the University of Cambridge and several partners in the
+ US and Europe.
+
+ Substantial grants and fellowships have also played an important role in supporting significant
+ impacts beyond academia and collaborations that continue to drive innovative research. For
+ example, the CPS theme has strong links both with Engineering in Oxford (with numerous large
+ joint grants), and with applied machine learning (e.g., in 2018, Lane was awarded a three-year
+ EPSRC-UKRI Fellowship aiming to apply recent transformational developments in deep learning
+
+                                                                                          Page 17
+Unit-level environment template (REF5b)
+ with Nokia and Samsung). Fundamental and applied research in the theme focussing on
+ intelligent and autonomous sensor systems has led to outcomes that include best paper prizes
+ at leading conferences, significant further funding (e.g., the £5m Mobile Robotics EPSRC
+ programme grant, on which Kwiatkowska and Trigoni are Co-Investigators), and three spinout
+ companies formed within the current period (Joulo, Open Conservation, Navenio). As described
+ below (Section 4.1), members of the Computational Biology theme have been supported by
+ fellowships from the Wellcome Trust, the British Heart Foundation, and the NC3Rs, and
+ participate in several large EU and EPSRC-funded collaborative projects. These have enabled
+ significant collaborations with both European and US regulators (EMA and FDA) and with
+ pharmaceutical companies, with outcomes including the development of ground-breaking in
+ silico modelling software that predicts clinical risk with greater accuracy than animal testing, and
+ is already in use within the pharmaceutical industry. Further evidence of the wider impact of our
+ research is contained in our Impact Case Studies and below in Section 4.
+
+ Philanthropy and college support. Philanthropic donations make an important contribution to
+ our research environment. Over the period, the Department received more than £17m in
+ donations, including £10m towards the planned new Information Sciences building, funds for the
+ DeepMind chair, and £2.7m for graduate scholarships. We will further benefit from a recently
+ announced £7m gift from Amazon Web Services, to be shared between CS and Engineering
+ Science. A donation of £53k by Oxford Asset Management has supported our flagship
+ Departmental seminar, the termly Strachey Lecture, with speakers since 2014 including five
+ Turing Award winners – Vint Cerf, Shaffi Goldwasser, Barbara Liskov, Adi Shamir, and Leslie
+ Valiant – among many other notable computer scientists, including Demis Hassabis, Stuart
+ Russell, Bjarne Stroustrup, and Eva Tardos.
+
+ Investment by Oxford’s constituent colleges has provided valuable support for graduate
+ studentships and junior research fellowships (competitively-awarded, fully-funded fellowships for
+ junior researchers, typically of 2–3 years’ duration). CS has hosted 11 junior research fellows
+ over the REF period. Two colleges have focused philanthropic activities on raising significant
+ funds for junior research fellows, graduate studentships, and academic posts in Computer
+ Science.
+
+ 3.2. Research Support
+ CS research support is structured into pre-award and post-award teams. The former (three FTE
+ positions) provides tailored support across all stages of the application process. The team runs
+ twice-termly seminars on topics such as writing grant proposals, preparing a budget, intellectual
+ property, and academic consultancy; arranges face-to-face meetings between representatives of
+ funders and potential applicants; and provides support for applications, including feedback and
+ guidance on draft applications and mock interviews. Our success in winning fellowships and
+ grants is evidence of the team’s effectiveness. The post-award team (five FTE positions)
+ manages the financial and reporting aspects of grants held within CS. We also maintain a team
+ of six full-time research software engineers, who have supported research projects both within
+ CS and in other University departments.
+
+ 3.3. Buildings and Facilities
+ Developing estates and facilities has been a central component of Departmental strategy across
+ RAE2008 and REF2014. The main development over the previous period was the acquisition of
+ the Robert Hooke Building close to our main site, which was formally opened in 2014. Over the
+ current period, we have expanded floor space by 10%, and invested substantially (c. £660k) in
+
+
+                                                                                              Page 18
+Unit-level environment template (REF5b)
+    refurbishment and improvements. As detailed in Section 1, a current priority concerns plans for a
+    new Information Sciences building that will co-locate CS staff alongside relevant faculty from
+    Engineering Science. We are now defining requirements for the building and engaging with
+    donors, with £10m already received, and a target date of 2025 for beginning construction.
+
+    IT Support comprises three different sub-teams totalling ten staff: Service Desk, Infrastructure,
+    and Software Development. In 2015 we commenced a three-year investment programme
+    (>£250k) to ensure that the Department operates a low-latency, high-bandwidth, and resilient
+    data network to support research activities. We maintain over 150 research servers, mostly
+    related to GPU-accelerated computing, with additional support from cloud resources, Oxford
+    University’s Advanced Research Computing (ARC) service, and national-level infrastructures
+    such as JADE and ARCHER. We also maintain various specialised equipment: the Security
+    theme uses an aviation lab with realistic cockpit simulator; the CPS theme uses a specialist on-
+    site electronics lab and an associated positioning lab equipped with a state-of-the-art Vicon
+    motion capture for prototype sensor development.
+
+    4. Collaboration and contribution to the research base, economy, and society
+
+    4.1. Collaboration
+    Our research is by its nature highly collaborative. Of around 2,500 Oxford CS research outputs
+    published between January 2014 and July 2020, over 50% have an international co-author and
+    over 10% a co-author with an industrial affiliation.2 We collaborate extensively with academic
+    partners in Oxford, the UK, and overseas, and with beneficiaries and end-users spanning
+    industry, charities, government, and social enterprises. Our research contributes to the economy
+    both through industrial collaboration and through commercialisation activities.
+
+    Academic collaboration. The Department leads and participates in several national research
+    projects and priorities. Oxford was one of five founding partners of the Alan Turing Institute in
+    2015, and Oxford CS has many links to the institute. Wooldridge is programme Co-Director for
+    AI. Melham is a non-executive Director and Trustee. Over the period, Abate, Benedikt, Gal,
+    Kanade, Olteanu, Horrocks, Lukasiewicz, and Whiteson (CS), and Wright of the OII, have held
+    Turing Fellowships. Gal was one of the five inaugural Turing AI Acceleration Fellows. The
+    Institute has also funded doctoral students and postdoctoral researchers in the Department.
+
+    Members of the Foundations, Structures, and Quantum Theme participated in the EPSRC’s
+    £38m NQIT Hub (part of the UK National Quantum Technology Programme), led by Oxford and
+    involving 29 globally leading quantum centres and major companies. Abramsky, Barrett, and
+    Jirotka respectively led three out of eleven work packages on the research and development
+    programme of this grant. The Computational Biology theme is involved in numerous significant
+    cross-disciplinary collaborations. Gavaghan’s project A new approach to Science at the Life
+    Sciences Interface is a £4m cross-disciplinary research landscape grant from the EPSRC that
+    includes, among many others, investigators from the School of Psychology at Nottingham and
+    the school of Genetics, Evolution, and Environment at UCL. Rodriguez and her team participate
+    in the TransQST project on adverse drug reaction research, funded with EUR14m by the
+    European Innovative Medicines Initiative, and in the CompBioMed1&2 project to advance the
+    role of computational modelling and simulation within biomedicine, funded with EUR13m under
+    Horizon 2020. The Security and HCC themes participate in the PETRAS National Centre of
+
+
+2
+    Data source: Scopus.
+
+                                                                                                Page 19
+Unit-level environment template (REF5b)
+ Excellence for IoT Systems and Cybersecurity, a collaborative project involving 12 partner
+ universities, with £23m total funding.
+
+ Our CDT programmes involve collaborations (through joint supervision and joint publications)
+ with a number of other Oxford Departments, including Engineering Science, Statistics, the
+ Oxford Big Data Institute, and the Nuffield Department of Medicine.
+
+ International collaboration. Academic partners on other large projects include the Perimeter
+ Institute, University of Vienna, UC Berkeley, McGill, University of Pennsylvania, and the
+ University of Virginia. There are established and ongoing collaborations with international
+ research centres such as the Max Planck Institute, where Ouaknine is Scientific Director, and
+ the Sirius SFI (Centre for Research-based Innovation) at the University of Oslo, where Horrocks
+ is Scientific Coordinator. As well as providing links to a network of industry collaborators in the
+ oil and gas sector, Sirius funds several PhD students and a PDRA at Oxford. Our staff contribute
+ actively to international academic networks, such as the European Laboratory for Learning and
+ Intelligent Systems (ELLIS), for which Wooldridge is a Unit Director for Oxford. The assessment
+ period has also seen the emergence of new international collaborations beyond Europe and
+ North America. For example, KAIST (South Korea) and Tsinghua (China) collaborated with the
+ HCC theme on Shadbolt’s SOCIAM programme grant. The Global Cyber Security Capacity
+ Centre, hosted in CS and led by Creese and Goldsmith, has received government funding in
+ Australia (to help establish and build links with a new Oceania Cyber Security Centre), South
+ Africa (to establish a new cybersecurity centre at the University of Cape Town), and Norway. In
+ 2020, the Department signed a memorandum of understanding with the Quantum Information,
+ Foundations, and Technologies Group at Hong Kong University to establish an HKU-Oxford joint
+ lab for Quantum Information and Computation, encompassing exchange research visits, joint
+ participation in grant applications, and joint PhD supervision. A similar MOU to support the
+ exchange of graduate students and staff has been signed between the Departments of
+ Computer Science, Mathematics, and Physics at Oxford and Waseda University in Tokyo.
+
+ Collaboration with industry and regulators. The Department has extensive collaborations
+ with major software companies. Our programme grants include as partners BT, Facebook,
+ Google, Huawei, IBM, and Microsoft. As an example of collaboration with the broader
+ manufacturing and infrastructure sectors, the CPS theme collaborates with Nissan, the UK
+ Space Agency, BP, Network Rail, and the UK Atomic Energy Authority through the Mobile
+ Robotics programme grant. Trigoni’s £1.2m EPSRC project ACE-OPS also involves
+ collaboration with emergency services, such as the National Fire Chiefs Council. Our
+ Computational Biology and Health Informatics theme develops the simulation frameworks
+ Chaste and Virtual Assay for modelling cardiac and respiratory physiology, with applications to
+ cancer modelling and drug testing. Chaste has been downloaded by research groups at 1,000
+ unique locations, including at NASA, GSK, and AstraZeneca; while Virtual Assay is commercially
+ licensed to pharmaceutical companies Amgen, Janssen, UCB, and Servier, and is under
+ evaluation by eight further companies. The theme also works closely with regulatory
+ collaborators, including the FDA and the EMA, and with hospital partners including the John
+ Radcliffe in Oxford and the Heart Hospital in London. In addition to industrial collaboration
+ through research grants and direct industrial funding, our staff have received research awards
+ through industry-led schemes for facilitating engagement with academia, e.g., Google Faculty
+ Research Awards (Lin, Kroening, Olteanu, Whiteson), J.P. Morgan Faculty Awards (Calinescu,
+ Wooldridge, Whiteson), and Amazon (Olteanu).
+
+
+
+
+                                                                                            Page 20
+Unit-level environment template (REF5b)
+ Collaborations with the third sector. Other collaborators have included charities and social
+ enterprises. Our HCC theme has extensive links with the Open Data Institute, a non-profit whose
+ mission is to work with companies and governments to build a trustworthy data ecosystem in
+ order to realise the latent value in open data. Shadbolt and Berners-Lee are co-founders and sit
+ on the Board, while Van Kleek delivers training in AI, visualisations and web technologies at the
+ Institute. The Institute has an annual turnover of around £5m and maintains a network of 28
+ franchised ODI nodes across 18 countries. Meanwhile, The Mental Health Trust and the think
+ tank doteveryone are partners on Jirotka’s collaborative £1m EPSRC grant ReEnTrust:
+ Rebuilding and Enhancing Trust in Algorithms (along with Co-Investigators from Edinburgh and
+ Nottingham universities, and from Amazon and Samsung).
+
+ Economic contribution. Our research has generated significant wider economic impact
+ through spinouts, collaborations, and licence deals. CS spinouts attracted over $70m in
+ commercial funding over the period, and, at the time of Semmle’s purchase by GitHub in
+ September 2019, employed over 225 people. Diffblue, a company founded by Kroening and
+ Schrammel to automate the creation of software unit tests, raised $22m in Series A funding in
+ 2017, and has deployed its technology at Goldman Sachs and other multinational companies to
+ improve software quality assurance. TheySay, a company formed by Pulman based on
+ innovative Oxford research in computational linguistics, was acquired by the global software
+ company Aptean in 2017. DeepMind acquired the AI spinout Dark Blue Labs in 2014. Waymo
+ recently acquired the spinout Latent Logic as part of a plan to base its first European
+ engineering hub in Oxford. Research in Foundations, Structures, and Quantum is having
+ industrial impact through a collaboration with Cambridge Quantum Computing (CQC), with the
+ ZX-calculus introduced by Coecke with Duncan of the CQC now a key enabling technology for
+ CQC’s quantum compiler, t|ket. New hire Kissinger has also worked on applications of ZX-
+ calculus, and the collaboration will be encouraged by the establishment of CQC offices in
+ Oxford. The Virtual Assay modelling and simulation software developed by the Computational
+ Biology theme is commercially licensed to major pharmaceutical companies and is already
+ having impacts on process and production.
+
+ Contribution to governance and public policy. The Global Cyber Security Capacity Centre,
+ led by the Security theme, has developed a Capacity Maturity Model in partnership with the
+ World Bank that has been used by more than 80 countries in over 110 reviews during the period
+ to benchmark cybersecurity capacity and inform national cybersecurity strategy. Members of our
+ HCC theme have had significant impact in advancing the open data agenda in government,
+ providing leadership in developing the potential of the web, and informing AI and data protection
+ policy. Shadbolt has advised government on open data throughout the period, for example in his
+ roles on the Public Sector Transparency Board (now Data Steering Group) and on the
+ Government’s Digital Advisory Board, as well as through the work of the Open Data Institute.
+ Jirotka’s ESRC-funded project Digital Wildfires led directly to her appointment as a specialist
+ advisor to the House of Lords (HoL) Select Committee on Communications, helping to produce
+ its report on Growing up with the Internet (2017). She is also on the Steering Committee of the
+ All-Party Parliamentary Group (APPG) on Data Analytics; and gave evidence to the APPG on AI
+ and to the HoL Select Committee on AI (October 2017). Wooldridge also gave evidence to the
+ HoL committee. Binns, Flechais, and Van Kleek have been funded by the Information
+ Commissioner’s Office (ICO) to undertake work on the future of data privacy in smart homes. In
+ 2018, Binns became the first Postdoctoral Fellow in AI at the ICO, taking up a two-year
+ fellowship before re-joining the Department in 2020. In July 2019, he gave evidence to the Joint
+ Committee on Human Rights for its report on the Right to Privacy (Article 8) and the Digital
+ Revolution. Research relating to privacy in the context of mobile and smart devices (Binns,
+
+                                                                                           Page 21
+Unit-level environment template (REF5b)
+ Shadbolt, Van Kleek) has informed UK and EU regulator and policy reports.
+
+ Public engagement with research. Our academics regularly disseminate their research and
+ address topical themes for public audiences, for example at festivals such as Hay, Cheltenham
+ Science Festival, Edinburgh International Book Festival, and others. Over 2,500 festival-goers
+ attended events run by Oxford CS academics at Hay in 2017 and 2018. Wooldridge and
+ Shadbolt have spoken frequently in connection with their popular general-audience books,
+ Artificial Intelligence: A Ladybird Expert Book, and The Digital Ape. Shadbolt chaired the 2019
+ Royal Society Book Prize panel. Our academics regularly contribute to high-profile radio and
+ television programmes, such as Today and In Our Time.3 Our staff benefit from support and
+ training for public engagement provided by MPLS, and we employ a communications officer who
+ produces our bi-annual newsletter, Inspired Research, and provides content for our website,
+ highlighting and explaining our research.
+
+ 4.2. Contribution to the Research Base
+ Our staff have contributed actively to interdisciplinary research, sustaining the discipline and
+ influencing working practices in the wider research base. For example, the HCC theme provides
+ leadership of the EPSRC-commissioned and funded Observatory for Responsible Research and
+ Innovation in ICT, which provides training and tools for improving understanding around the
+ responsible development and implementation of technology. It has already trained over 500 staff
+ and students and is expanding operations to spin out soon as a not-for-profit social enterprise.
+ Shadbolt undertook an independent review of Computer Sciences degree accreditation in 2015–
+ 16, commissioned by the Minister of State for Universities, Science, Research, and Innovation.
+ Beyond the discipline, our Computational Biology and Health Informatics theme is working with
+ partners in the pharmaceutical industry (see above), pioneering applications of in silico
+ modelling which are influencing medical research practices. Rodriguez’s group has twice been
+ recognised for this work, in 2014 and 2017, by the award of the top international prize of the
+ NC3Rs. As documented below, staff across all our themes have also been active in supporting
+ the research infrastructure.
+
+ Working with funders. Our staff have helped sustain the discipline through the provision of
+ peer review and strategic advice to funders. Examples include: Gavaghan (Chair, EPSRC
+ Research Software Engineering Fellowship Panel, 2018; BBSRC Training and Fellowships
+ Committee, 2013–16); L. Goldberg (ERC Consolidator Grant panel PE6 CS and Informatics,
+ 2015, 2017); Jirotka (RCUK Digital Economy Programme Advisory Board, 2017–20);
+ Kwiatkowska (REF2021 Subpanel 11 CS and Informatics; Chair, ERC Starting Grants Panel
+ PE6, 2012–16; Royal Society URF Panel; Royal Society Dorothy Hodgkin Fellowships Panel,
+ 2012–18); Melham (EPSRC Cross-SAT/SAN Working Group for Quantum Technologies, 2017–
+ present; Strategic Advisory Network, 2011–17); Rodriguez (Wellcome Trust Basic Science
+ Interview Committee, 2015–20).
+
+ External advice. Another significant contribution by members of this UoA involves the provision
+ of external advice to other scientific organisations, and regulators. Examples include: Gavaghan
+ (Chair, External Advisory Board, Software Sustainability Institute, 2013–17); Jirotka (Steering
+ Committee, APPG on Data Analytics, 2018–present); Kwiatkowska (Scientific Steering
+ Committee, Isaac Newton Institute, 2015–17); Melham (Non-executive Director, Alan Turing
+ Institute, 2018–present; Review Panel for Dagstuhl, 2016–17); Ong (Academic Research
+
+3 P vs NP, in which L. Goldberg participated, was voted one of the top ten editions of In Our Time by BBC
+
+Radio 4 listeners.
+
+                                                                                                Page 22
+Unit-level environment template (REF5b)
+ Council, Ministry of Education, Singapore, 2013–present); Rodriguez (Advisor, In silico cardiac
+ modelling working group, USA Food and Drug Administration, 2013–present).
+
+ Our staff contribute to the scientific direction of the discipline in numerous ways. Examples
+ include:
+
+ Chairing scientific associations. L. Goldberg (Vice-President, EATCS, 2016–20); Ong (Vice-
+ Chair, ACM SIGLOG, 2014–18); Gibbons (Vice-Chair, ACM SIGPLAN 2012–15).
+
+ Editors-in-Chief. Gibbons (J. of Functional Programming); L. Goldberg (J. of Discrete
+ Algorithms, 2014–17); Gottlob (Logic Journal of the IGPL); Horrocks (J. of Web Semantics);
+ Kroening (Formal Methods in System Design); Kwiatkowska (Joint Editor-in-Chief, ACM Books
+ series).
+
+ Journal editorial boards: ACM Trans. Comp. Log.; ACM Trans. Economics and Computation;
+ ACM Trans. on the Web; Artificial Intelligence; Automatica; Formal Asp. Comp. J.; Formal Meth.
+ in Sys. Design; Inf. and Comp.; IEEE Trans. on Soft. Eng; Inf. and Comp.; J. of AI Research; J.
+ of Autonomous Agents and Multi-Agent Systems; J. of Comp. and Sys. Sci.; J. of Log. and
+ Comp.; J. Symb. Log.; J. of the ACM; Pharmacology and Therapeutics; Phil. Trans. of the Royal
+ Soc. A; PLoS ONE; Royal Soc. Open Sci. J.; Sci. of Comp. Prog.; SIAM J. on Comp.; SIAM J.
+ on Disc. Math.
+
+ Conference steering committees. Benedikt (ICDT); Gibbons (ICFP 2012–19, POPL 2016–19);
+ L. Goldberg (ICALP); Kroening (CAV, FLoC); Kwiatkowska (FLoC); Ong (FoSSaCS 2009–18,
+ ICALP 2018–22, LICS 2015–17); Ouaknine (LICS); Santhanam (CCC, 2017–20); Staton (LICS);
+ Wooldridge (President, IJCAI Board of Trustees 2015–17).
+
+ Conference chairing. Benedikt (ICDT’17); Elkind (AAMAS’19, ACM EC'18); Gibbons (ICFP’17);
+ Kroening (CAV’15); A. Martin and Martinovic (General Chairs, ACM WiSEC’14 and
+ RFIDSec’14); Murawski (FoSSaCS’17); Olteanu (Vice-Chair, ACM SIGMOD’17); Ouaknine
+ (LICS’17); Wooldridge (IJCAI’15); Worrell (MFCS’18).
+
+ Conferences hosted by the Department include FLoC’2018 (2,000 attendees) and ICFP’15 (600
+ attendees).
+
+ 4.3. Indicators of Esteem
+ The following external rankings, fellowships, prizes, and speaking invitations provide evidence of
+ the quality of, and recognition for, our research.
+
+ External rankings. In the Times Higher Education World University Subject Rankings, the
+ University of Oxford placed 1st, 4th, and 1st for Computer Science in 2018, 2019, and 2020
+ respectively. In the QS World University Subject Rankings, Oxford placed 7th in the world for
+ Computer Science and Information Systems in both 2017 and 2018, 6th in 2019, and 5th in 2020.
+
+ Fellowships. FRS (Kwiatkowska, 2019; Shadbolt, 2017); Fellow of the ACM (Abramsky, 2014;
+ Kwiatkowska, 2019; Wooldridge, 2015); Academia Europaea (L. Goldberg, 2014; Ouaknine,
+ 2020; Wooldridge, 2015); Royal Society of Edinburgh and Royal Academy of Engineering (U.
+ Martin, 2017).
+
+ Awards. ACM Alonzo Church Award (Abramsky et al., 2017); ACM SIGPLAN Achievement
+ Award (Cardelli, 2015); BCS Lovelace Medal (Abramsky, 2014; Gottlob, 2017; Kwiatkowska,
+
+                                                                                            Page 23
+Unit-level environment template (REF5b)
+ 2019); CAV Award (Kroening, 2018; Yang, 2016); NC3Rs International Prize (Rodriguez, 2014,
+ 2017); Royal Society Milner Award (Kwiatkowska, 2018); Turing Award (Berners-Lee, 2016).
+
+ Best-paper awards. Abate (QEST’16); Abramsky (LICS’18, test of time); Benedikt (ICALP’17),
+ (ACM PODS’15, test of time); Ceylan (ICDT’20); Cremers (ESORICS’17); De Freitas (ICLR’16);
+ L. Goldberg (IPEC’17); Galanis+ (ICALP’16); Gottlob+ (ACM PODS’19 test of time); Grigore+
+ (PLDI’14); Kaminski+ (IJCAI’17); Kaminski+ (ICDT’16); Koutsoupias (ICALP’15); Kroening
+ (CONCUR’15); Olteanu (ICDT’19); Staton+ (POPL’19, Facebook award); Ouaknine+
+ (ICALP’14); Pouly (ICALP’16); Rasmussen+ (NDSS’14); Santhanam (LATIN’18); Staton
+ (ETAPS’17); Whiteson (AAAI’18); Wooldridge (IFAAMAS influential paper, 2018); Zhang+
+ (AAMAS’20).
+
+ Doctoral thesis awards. BCS/CHPC (D’Osualdo, 2016); EurAI (Peters, 2019); NC3Rs (Britton,
+ 2014); Victor Lesser (Peters, 2019).
+
+ Plenary invited talks. Benedikt (DL’14, PODS’18); Coecke (CSL’18); Elkind (CIAC’19,
+ FSTTCS’17, SAGT’18); L. Goldberg (ISAAC’19, LATIN’18, MFCS’18, STACS’19); Gottlob
+ (IJCAI’17); Jirotka (CQIS’18); Kiefer (ICALP’20); Kwiatkowska (CAV’17, CONCUR’19,
+ ICALP’16); Olteanu (ICDT’19); Ong (LICS’15, LICS’17, SAS’14); Ouaknine (CCA’19,
+ CONCUR’19, FoSSaCS’17); Staton (ICALP’18, MFPS’15); Worrell (CONCUR’15, FSTTCS’15,
+ ISSAC’17, LICS’19).
+
+
+
+
+                                                                                     Page 24
+

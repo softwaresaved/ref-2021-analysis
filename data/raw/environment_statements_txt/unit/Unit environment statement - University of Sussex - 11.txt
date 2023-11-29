@@ -1,0 +1,939 @@
+Unit-level environment template (REF5b)
+
+ Institution: University of Sussex
+
+ Unit of Assessment: 11 – Computer Science and Informatics
+
+ 1. Unit context and structure, research, and impact strategy
+
+ The unit of assessment (UoA) is largely congruent with the Department of Informatics which
+ continues the unique interdisciplinary research of the former School of Cognitive Science
+ (COGS) at Sussex. We contribute to many areas of Informatics and our interdisciplinary work is
+ underpinned by both the different disciplinary backgrounds of researchers within the Department
+ and close collaborations with leading researchers from fields as diverse as Biology, Psychology,
+ Engineering, and Humanities, including Philosophy and Ethics.
+
+ The Department is relatively compact with 28 (24.4 FTE) REF category A faculty, 24 RFs and 78
+ PhD students and it forms roughly half of the School of Engineering and Informatics.
+ Additionally, we are including 3 (2.5 FTE) faculty into the UoA, from the cross-department
+ Creative Technology group, who are affiliated with the Department of Engineering and Design.
+ Members of the Department belong to one of three research groups, aligned to our research
+ strengths:
+ • The AI research group (12.4 FTE REF faculty) with strengths in applied natural language
+    processing (NLP), machine learning (ML), ethical AI, computational Neuroscience,
+    complexity science, consciousness science and bio-inspired AI and robotic control,
+ • The Foundations of Software Systems group (FoSS) (5.2 FTE REF faculty) with strengths in
+    code verification, foundations of programming languages and network communications,
+ • The Creative Technology group (CTG) (9.3 FTE REF faculty) with research strengths in
+    human computer interaction (HCI), digital economy (DE), and technology enhance learning
+    (TEL).
+
+ The groups have been evolved from four research groups presented in REF2014 to better align
+ with our research and the continually changing external research landscape. The census data
+ represents only a snapshot of a continuously developing picture and excludes four academics
+ from the CTG who moved to University College London (UCL) in June 2020 and three new
+ arrivals who joined the Department briefly after the census date. During the vast majority of the
+ REF period the Department has seen steady growth in key indicators, which are slightly
+ obscured by the REF-related CTG departures (Fig. 1).
+
+
+
+
+ Figure 1: a) Bar chart of % change of key indicators over REF2014, visualising our upwards
+ trajectory before the change in CTG (June 2020). After the departure of a part of CTG, the
+ numbers look misleadingly more comparable to REF2014. The numbers in brackets are total
+ values. b) Total research income per financial year (see REF4b) showing our growth trajectory.
+
+
+
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+
+ Research strategy
+ The overarching strategic research aim of the Department is to advance knowledge in
+ Informatics and related subjects by conducting world-leading basic and applied research, as
+ exemplified by the main strategic research goals (SRGs):
+
+ SRG1: to contribute to the foundations of computer science and related areas;
+ SRG2: to develop and apply computational methods in science, industry, and society; and
+ SRG3: to pursue interdisciplinary research and help to establish computational techniques as
+       core methodologies in other disciplines.
+
+ These SRGs have been stable since before REF2014 and reflect our desire to leave room for
+ the academic freedom of individuals. This has enabled exceptional success in attracting original
+ researchers who cannot be confined into narrow research labels. The general SRGs are
+ underpinned by concrete strategies for improving our research environment:
+ • We systematically foster interdisciplinary collaboration and members of the Department
+    direct four interdisciplinary research centres and are involved in several others, as
+    described below.
+ • We attract and develop leading researchers, train future research leaders as post-doctoral
+    research fellows and research students and while looking for the most talented, we strive to
+    improve equality, diversity and inclusion with respect to gender balance as well as racial
+    diversity and other characteristics. See Section 2.
+ • We continuously improve our research environment, both through strategic investment
+    and by supporting grant capture, which has seen a 47% growth compared to REF2014,
+    see Section 3.
+ • We strongly engage with all research stakeholders as detailed in Section 4.
+
+ The strategic direction in these activities is provided by the School Management Team (SMT),
+ most relevant here, the Head of School (HoS), Head of Department (HoD) and Director of
+ Research and Knowledge Exchange (DRKE), and the research committee, which is chaired by
+ the DRKE and consists of research group heads and postdoc representatives.
+
+ The three research groups naturally embody our research themes. In the following paragraphs
+ we describe their achievements and strategic aims and relate them to the plans from REF2014
+ and the SRGs described above.
+
+ The AI research group was formed in early 2020 by merging the Data Science group, itself
+ evolved from the CALPS (Cognitive and Language Processing Systems) research group
+ reported in REF2014, with the EASy (Evolutionary and Adaptive Systems) group. The two
+ groups have undergone strengthening and renewal during this REF period. The strategic hiring
+ of Quadrianto (Bayesian approaches to fair and transparent ML) at the beginning of the REF
+ period was complemented by Weeds (NLP) and Simpson (computer vision).
+
+ Members of the group, led by Quadrianto, have developed ML algorithms that handle definitions
+ of fairness while also delivering transparency in how they are met (EthicalML, BayesianGDPR
+ projects) [SRG1]. They have also developed the MLS causal ML platform and applied it in India
+ to design evidence based, effective, and acceptable interventions in post-natal care (featured in
+ "AI and the sustainable development goals: the state of play: 2030 vision" by Sadowski and
+ Powell-Tuck) [SRG2]. In collaboration with the Science and Policy Research Unit (SPRU) they
+ also analysed the trade-offs between development, food security, and poverty and applied deep
+ learning techniques to analyse trade-offs in peri-urban agriculture systems in China and India,
+ and so informed urban sustainability policy (British Academy project) [SRG2].
+
+ Building on strands of research under development at REF2014, Weir, Weeds and Reffin have
+ made continued advances in compositional distributional semantics, developed state-of-the-art
+ methods for distinguishing ontological relationships based on word usage and developed an
+
+                                                                                            Page 2
+Unit-level environment template (REF5b)
+
+ innovative approach to creating larger training data sets [SRG1]. With scholars in the Sussex
+ Humanities Lab, they have developed tools and methodological innovations enabling data-
+ driven analysis of both modern and historical transcripts and records [SRG2]. Arising from a
+ long-standing collaboration with the Demos think tank, Weir and Reffin have also set up CASM
+ Technology LLP through which they conduct impactful research projects with users (over 20
+ contracts with industry and charities; see also the impact case study led by Weir) [SRG2].
+
+ The members of the former EASy group have continued from strength to strength following the
+ directions planned in REF2014. Led by Seth, members of the Sackler Centre for Consciousness
+ Science (SCCS) have performed world leading research on consciousness and, in line with
+ REF2014 strategy, have extended it into clinical applications [SRG2] while also continuing
+ strong theoretical strands [SRG1,3]. This effort was augmented by the strategic hiring of Buckley
+ (predictive coding and its application in understanding biology and building better robots),
+ Roseboom (advanced experimental design, statistical analysis, and psychophysics) and Barrett
+ (complex systems analysis).
+
+ Other members of the group have expanded the work in insect olfaction (Nowotny, project
+ grants from HFSP, Leverhulme) and bio-inspired robotic control and visual navigation (Nowotny/
+ Philippides, Green Brain project, Brains on Board program grant) [SRG3] which involved a new
+ strategic collaboration with Sheffield and led to the substantial additional “activeAI” project
+ (Philippides), which augments collaborations with leading insect navigation researchers in
+ Australia (Barron - Macquarie, Nordström - Flinders, van Swinderen – University of
+ Queensland). This research is underpinned by strong leadership in GPU acceleration for spiking
+ neural network simulations (GeNN) and relates to work in the EUR1Billion Human Brain Project
+ (Nowotny) [SRG1,3]. Additionally, the research in the group has made great strides in applying
+ complexity theory to medical applications and computer network reliability, leading to contracts
+ with industry (Moogsoft, Aviva) and a strong collaboration with the FoSS group (Berthouze,
+ Parisis) [SRG2].
+
+ In the future, the AI group will continue to work to its strengths in applied NLP, Bayesian
+ approaches to ML and ethical AI, the understanding of consciousness, bio-inspired solutions to
+ robotics and AI, underpinned by our unique expertise in GPU accelerated simulations, and
+ expanding our research into applications of complexity theory and (bio-inspired) AI. These aims
+ align with the UK Industrial Strategy (autonomous systems, AI, healthy nation).
+
+ The FoSS group develops theoretical models and applies them to software systems, with
+ particular strengths in verification and networking. As outlined in the REF2014 strategy, the
+ group has continued work on pervasive computing but with the appointment of Parisis the focus
+ has shifted to reliable network protocols and network analysis tools in co-operation with industry
+ partners Moogsoft (KTP) and OnApp. A novel and more appropriate model for Internet traffic
+ volume has been defined during this REF period that can help service level agreement
+ provisioning; and new protocols for data centres (MMPTCP) and opportunistic, information-
+ centric networks using fountain coding have been developed [SRG1-2]. In the future, analysis
+ will be enhanced by interdisciplinary work with data scientists (and the AI group), such that
+ network configurations can be informed by ML algorithms [SRG1-3]. On the verification side, a
+ first program logic for homogeneous generative run-time meta-programming has been proposed
+ as well as type-safe implicit functions for message passing computation [SRG1]. Numerous
+ contributions to abstract interpretation, effective verification and test generation for low-level
+ software and reactive programs have been made [SRG1]. An interdisciplinary collaboration with
+ immunologists at Brighton and Sussex Medical School (BSMS) was established to help with the
+ need for automatic management of data processing in cytometry [SRG3].
+
+ Future FoSS activities will be centred around networking with an ML influence, reversible
+ computing, distributed programming, (development of tools for the) analysis of the dependency
+ of immune reactions on exact HLA amino acid sequences, and the impact of the univalence
+ axiom in type theory (Homotopy Type Theory) which gives way to many applications for correct
+ software development.
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+
+
+ The Creative Technology research group (CTG) was formed by combining the Interactive
+ Systems group with colleagues from the Department of Engineering and Design to form a first
+ cross-department research group. We made a major investment into this area and made the
+ strategic appointments of Subramanian, Martinez Plasencia and Memoli. The part of the group
+ relevant to this UoA is working on acoustic meta-materials, visual representation of knowledge,
+ TEL, graphics and media technology, DE, and multisensory experiences for HCI [SRG1-3].
+
+ The research has demonstrated world leadership in the area of acoustic meta-materials,
+ including acoustic levitation, and the research in this area has expanded rapidly with substantive
+ underpinning funding (RAEng chair of emerging technologies, ERC advanced grant, and 3
+ EPSRC grants, Subramanian; EPSRC fellowship, Memoli) [SRG1,2]. Novel interaction
+ techniques involving mid-air touch, taste and smell stimulation have been developed and applied
+ to HCI (ERC starting grant, ERC Proof of Concept, Obrist). Collaborations with creative
+ industries and content creators resulted in successful exhibitions at Tate Britain (Tate
+ Sensorium), the Science Museum (Multisensory Dark Matter), and the World Economic Forum
+ 2019 (TreeVR) [SRG2].
+
+ The TEL theme has grown during this REF period, with research foci including game-based
+ learning techniques for programming, video- and voice-based techniques, and technology
+ support for people with disabilities. This has led to new collaborations with partners from
+ academia and external agencies, producing novel outcomes, including a new methodology for
+ conducting participatory design with children with autism (Good) [SRG2]. Other work strands in
+ the group are addressing voice user interfaces in smart home contexts and the visual
+ representation of knowledge, the latter investigating the nature and use of representational
+ systems from the perspective of cognitive science [SRG1-3].
+
+ The graphics and media technology theme has continued its research as planned in REF2014,
+ including work on learning-based content production, digital heritage, real-time graphical
+ simulations and virtual environments, DE, mobile and gaming technologies. Achievements in
+ these areas include new interactive technology at the V&A and other major international
+ museums [SRG2].
+
+ With the departure of Subramanian, Obrist, Plasencia and Maggioni, the activity around haptic
+ and olfactory interfaces has moved away from the Department, though core research expertise
+ in acoustics, such as acoustic properties of ultra-silent tyres and perception of noise, remain
+ (Memoli). We are planning to rebuild and strengthen CTG with new hires after the COVID crisis.
+ Other strategic future directions for CTG are continuing research related to TEL, knowledge
+ representation, cross-modal interactions in HCI and HCI design for a variety of applications,
+ from healthcare to DE.
+
+ Interdisciplinary Working across Departments and Schools
+ Interdisciplinary working is a particular strength of the Department. Members of the AI group
+ direct four interdisciplinary research centres: DISCUS (Data Intensive Sciences Centre
+ University of Sussex; co-director Weeds), SCCS (co-director Seth), the Cognitive Sciences
+ Centre (COGS; director Chrisley), and the Centre for Computational Neuroscience and Robotics
+ (CCNR; co-directors Nowotny, Philippides). In DISCUS researchers from Physics, Mathematics
+ and Informatics apply expertise in big data analysis to novel, interdisciplinary problems. The
+ SCCS performs research into measuring consciousness, exploring the nature of conscious
+ experience and applied work on disorders related to disruptions of consciousness. COGS is
+ interested in all aspects of cognitive sciences and the CCNR covers research in computational
+ neuroscience, bio-inspired AI, and autonomous robotics.
+
+ The AI group also has several active collaborations with the Sussex Humanities Lab, which
+ explores the role of digital technologies in the Humanities. Many of these collaborations revolve
+ around NLP. Group members also deeply involved in Sussex Neuroscience, a University
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+
+ Research Programme with over 250 members, enabling world leading research in the
+ Neurosciences.
+
+ As a cross-departmental research group, the CTG is quintessentially interdisciplinary and works
+ across Informatics and Design. It also works with collaborators from the Arts (see Tate
+ Sensorium), the Business School and Psychology. Members also benefited from collaborations
+ sponsored by the Sussex Sustainability Research Programme.
+
+ The FoSS group is less interdisciplinary but nevertheless has links to Mathematics relating to
+ complexity science and graph theory and links to research users in industry (MoogSoft).
+
+ Impact Strategy
+ Excellence and impact are at the heart of every research activity in the Department. With
+ support and oversight from the research committee, the DRKE, HoS and HoD are in charge of
+ implementing our impact strategy, establishing goals and policies, and ensuring appropriate
+ support. During the REF period we have created the new role of Academic Lead for Impact
+ (currently Berthouze), who assists with realising and documenting impact opportunities. This
+ work is recognised in the workload model and we generally recognise impact work in promotion
+ considerations.
+
+ Our strategy for achieving research impact is inclusive, supporting research impacts in all
+ potential forms. For instance, during the REF period, our work has achieved changes in public
+ perception through outreach and public engagement; and as economic impact through spin-out
+ companies, contract research for industrial partners, and a large number of consultancies for
+ local industry and government. Our impact case studies were selected as particularly striking
+ examples of impacts from this wide portfolio based on a systematic selection procedure
+ including independent reviews and several steps of long- and shortlisting:
+ • The “Inspiring new understanding and engagement with the Science of Consciousness”
+    (Seth) case study demonstrates significant impacts with worldwide reach in changing
+    public perception and understanding of consciousness.
+ • “Improving efficiency and effectiveness in patient identification for clinical trials” (Beloff) is
+    an excellent example of economic impact with industrial partners.
+ • “Enabling better informed government, public and private sector decision-making around
+    social media content and public safety” (Weir) showcases our far-reaching and significant
+    impacts in policy- and decision making in public bodies as well as industry and wider
+    society.
+
+ We recognise three main factors as being necessary for supporting impactful research: (1)
+ establishing and nurturing relationships with non-academic beneficiaries; (2) securing resources
+ for activities that facilitate the realisation of impacts; (3) training, supporting and rewarding staff
+ who carry out impact-related activities.
+
+ We use a number of methods to establish relationships with non-academic beneficiaries with the
+ objective of achieving impact. For instance, we have extensive educational collaborations,
+ mostly in the form of student placements, which allow supervising academics to form deeper
+ relationships with companies and their staff. Members of the Department also engage with
+ industry/academia networking events. For instance, Light has worked with Digital Catapults in
+ both London and Brighton and Nowotny, Obrist, Philippides and Subramanian have presented at
+ the Fuse Box coffee mornings, a networking event organised by the Digital Catapult in Brighton.
+ Nowotny participated in the driverless car roundtable at the British Science Festival 2017 and
+ was a delegate to the Huxley Summit.
+
+ Another form of engagement is the use of one-on-one meetings with industry. The University
+ has a directory of research expertise and our faculty is listed with appropriate keywords. We
+ regularly receive queries from interested industrial partners and organize personal meetings to
+
+
+                                                                                                  Page 5
+Unit-level environment template (REF5b)
+
+ explore shared interests. Examples during this REF period have included Intel, Southern Water
+ and Huawei, and, for example, the meetings with Intel and Huawei have directly led to contract
+ research.
+
+ Having identified and developed relationships with potential non-academic beneficiaries, we
+ secure resources to support the development of impact. We use a range of mechanisms, short
+ to long term, depending on how far the research is from application. These include: Innovate UK
+ research projects, UK Research Council and EU projects (see section 3), consultancies, user-
+ funded contracts, Knowledge Transfer Partnerships, spin-outs and numerous outreach activities
+ (see Section 4), as well as internally funded pump-priming, e.g. using a budget allocation from
+ the Higher Education Innovation Fund (HEIF) to fund activities for creating seeds of new impact
+ (Obrist) or strengthening existing areas of strong impacts (Weir, Beloff, Wakeman).
+
+ The final element of our approach is to train, support, and reward academic staff for achieving
+ impact. Implementing University policy, we recognise the value of consultancies in supporting
+ impact; and so, for consultancy activity facilitated and recorded by the University, members of
+ staff have the option of taking 85% of the fee as salary or using it to support their research.
+ Excellent performance in achieving impact is recognised through promotion and salary bonuses;
+ for example, during the REF period, two promotions were strongly supported by evidence in the
+ area of impact (Wakeman, Memoli).
+
+ Our impact strategy has been very successful with a sharp increase in measurable impacts
+ since REF2014 as described in our impact case studies and in Sections 3 and 4.
+
+ Open Science
+ The Department is engaging strongly in the Open Access/ Open Science agenda against the
+ known financial pressures and legal resistance from publishers. 90% of our submitted outputs,
+ and 63% of all our outputs in the REF period (73% of outputs 2016 and later) are open access,
+ either gold, green, or hybrid solutions (source: Scopus). Nowotny helped setting up SURE, the
+ figshare based Sussex open data repository, and members of the Department (Philippides,
+ Husbands) were the first to deposit datasets in it. Several of our researchers are developing
+ software packages as part of their research activities. These are published under Open Source
+ licences as standard, unless there are IP implications; see Section 4 for details.
+
+ Members of the Department working in relevant areas are also keenly aware of practices for
+ reproducible science. Indeed, Nowotny has even published on the issue of correct validation in
+ machine learning (DOI: 10.3389/frobt.2014.00005).
+
+ Ethics and Professional Standards
+ Research ethics and adherence to professional standards are second nature to the Department.
+ This starts from how we educate our students, with stringent ethical approval processes for final
+ year or MSc projects and continues throughout all our research activities. Implementing
+ University policy, all research involving animals is subject to a full ethically review and we
+ support the three R’s (Replacement, Refinement & Reduction of animal experimentation),
+ typically by minimizing animal sacrifice through substituting computational methods.
+
+ At a different front of ethical challenges, our researchers are all trained and follow best practice
+ for data protection, including bespoke GDPR training. Researchers in the most vulnerable
+ research topics around the use of Twitter data and related areas, have regular meetings to
+ discuss ethical concerns.
+
+ Going beyond “just” adopting best practice in data protection and ethical research, the ethics
+ and fairness in AI are also active research topics at the Department (Quadrianto).
+
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+
+ 2. People
+
+ Employment Strategy
+ The Department’s employment strategy is designed to strengthen and develop the research
+ groups described above, in order to build on and complement existing strengths. New
+ appointments are made with a particular focus on cross-disciplinary working, matching the
+ interdisciplinary ethos of Sussex and the Department.
+
+ Implementing our strategic aims described above, we have hired emerging leaders from leading
+ institutions (e.g. Quadrianto – Cambridge, Buckley – RIKEN, Memoli – Imperial, Schrammel -
+ Oxford) and industry (Simpson - Anthropics Technology, previously UCL), who thrive in our
+ vibrant and supportive research environment, build substantial research teams and attract
+ research funding, for instance Quadrianto: ERC starting grant & grants from the Surgo
+ Foundation, Buckley: BBSRC new investigator grant, Memoli: EPSRC Innovation Fellowship,
+ while Schrammel is currently partially seconded to diffblue, a very successful spin-out company
+ he co-founded. All of the submitted REF faculty are on permanent contracts.
+
+ The departures of Subramanian, Obrist, Plasencia, Maggioni and 7 PDRFs, while regrettable,
+ are another clear indication of the success of our strategy. The group came together at the
+ Department during the REF period and have now grown to leaders in their field, forming a world
+ leading research group at UCL.
+
+ Equality, Diversity, and Inclusion
+ Equality, Diversity, and Inclusion (EDI) are at the core of all we do, but most particularly in our
+ approach to people in the Department. We are improving equality and diversity because it is the
+ right thing to do, but also because it improves our research environment. The University
+ procedures for advertising and appointing to posts have equality built in, as do the promotion
+ and staff-development procedures. In addition, every member of staff with responsibilities for
+ recruitment receive mandatory equality and diversity and unconscious bias training. We follow
+ best practices in our advertising and portrayal of the Department, including gender neutral
+ language and diverse visual materials.
+
+ We have made progress in some areas while others remain challenging. During the REF period,
+ 13 permanent staff were appointed of which 3 (23%) were women, coincidentally the exact
+ same fraction as women in the REF faculty. While this compares well against the worldwide
+ average for tenure track faculty in Computer Science (15% female, Way et al.), we strive for
+ further improvements. On the positive side, women thrive in the Department - from 17
+ promotions during the REF period, 5 were of women (30%) and one out of three impact case
+ studies is led by a woman (Beloff).
+
+ Sussex is a member of the Athena SWAN Charter for the advancement and promotion of the
+ careers of underrepresented groups in STEM subjects; the School of Engineering and
+ Informatics holds an Athena SWAN Bronze award, which was successfully renewed during the
+ REF period. This was enabled by a standing Athena SWAN committee for EDI monitoring, which
+ was recently complemented by an EDI committee for the development and implementation of
+ EDI policies. During the REF period, the University became a Stonewall Diversity Champions
+ member. The Department implements the University’s supportive policies, including above-
+ standard maternity/paternity leave arrangements and “flexible working by default”.
+
+ Outputs for the REF submission were selected in an equitable, data driven manner. All outputs
+ were reviewed by at least one independent external expert and the final selection was
+ performed by a REF panel consisting of the HoS, DRKE, impact lead and heads of research
+ groups, all of whom have received mandatory EDI training. The final selection was audited with
+ respect to EDI by the SMT.
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+
+ Staff development
+ Staff development occurs at a formal Departmental level and more informally within the research
+ groups. All staff have an annual appraisal, which is used to identify research goals and
+ strategies aimed at career development. Goals and targets are set to reflect each individual’s
+ career trajectory, with an overall aim of achieving and maintaining research of significant
+ international influence. The University’s Staff Development Unit supports this activity and
+ provides a comprehensive programme of courses for enhancing research and professional skills
+ which are fully compliant with The Concordat to Support the Development of Researchers. The
+ University’s Research and Enterprise Division also runs regular training courses, which are often
+ led by external specialists. The Department normally operates a sabbatical scheme for all
+ academics with the aim of allowing for one term sabbatical leave each seven terms, though
+ currently paused due to COVID.
+
+ Early career researchers are supported by the same mechanisms and in addition are assigned a
+ senior academic as a personal mentor. All new permanent staff have reduced teaching loads, no
+ substantive administrative roles, and research equipment set-up funds. They also receive
+ funding for a first PhD student in addition to any other start-up funds. To help sustain and further
+ encourage strong engagement in research, the management of funded research projects and
+ PhD students is factored into our workload allocation model.
+
+ Collaborative and peer support
+ Staff development at all levels is greatly enhanced by a supportive and collaborative culture
+ within the research groups, enabling the exchange of ideas and best practice. This culture
+ allows privileged access to research resources, as well as the extensive national and
+ international networks of senior members of the Department (see Section 4). The success of this
+ approach is evidenced by the fact that during the REF period more than 95% of staff had co-
+ authored research outputs within the Department, 94% nationally, and 90% internationally.
+
+ Developing income capture skills
+ The Department runs a rigorous internal review process for all external grant applications. This
+ allows less-experienced staff to rapidly develop grant-writing skills under the guidance of senior
+ colleagues. Annual School research away-days enhance the research environment and provide
+ support to staff through targeted activities. Each away-day has a different focus, with topics
+ ranging from identifying funding opportunities, to writing successful grant applications and
+ maximising the impact of outputs.
+
+ Members of the Department have benefited greatly from university-wide initiatives aimed at
+ research pump-priming (14 successful applications for the Sussex Research Development
+ Fund). In addition, the Department has a conference travel fund and discretionary periods of
+ sabbatical leave can be granted to develop new collaborations and grant proposals.
+
+ Evidence of the success of our approach to career development can be seen in the career paths
+ of staff who joined as early career researchers (Buckley, Howland, Memoli, Obrist, Quadrianto)
+ at the beginning of the REF period and have since had multiple external grant successes and
+ have been promoted (Obrist to Professor, Quadrianto to Reader, Buckley and Howland to
+ Senior Lecturer). This compares to a total of 11 promotions in the REF period, three to Senior
+ Lecturer (Buckley, Howland, Quadrianto), three to Reader (Obrist, Parisis, Quadrianto), and five
+ to Professor (Berthouze, Good, Obrist, Philippides, Wakeman).
+
+ Applications for personal research fellowships are actively supported as part of our staff
+ development strategy and many of our staff have been successful recipients of fellowships (see
+ section 3).
+
+ International outlook
+ The Department’s strong international reputation is reflected in the volume of international
+ movement of staff (incoming and outgoing) and the high number of visiting scholars from
+
+                                                                                                Page 8
+Unit-level environment template (REF5b)
+
+ overseas, all of which enrich the research environment and build lasting international
+ collaborations. More than 35% of our faculty originate from countries outside the UK, 10 (32%)
+ currently have non-UK nationalities. At any one time, we typically have 10 visiting scholars from
+ around the globe. 73% of our current PGR students come from outside the UK and they have 18
+ different nationalities.
+
+ Postgraduate Research Students
+ The Department greatly values its post-graduate research students who, as in most science
+ disciplines, play an essential role in realising research projects and contribute strongly to our
+ outputs. PGR training is guided by the University’s ‘Principles to Govern Doctoral Studies’,
+ supported by the Sussex Doctoral School and complemented by local support in the
+ Department. We have slightly grown the number of PGRs in the Department from 75 reported in
+ REF2014 to 78 currently, and this means there are 2.8 students per FTE REF faculty. Some of
+ these will be co-supervised by faculty from other units as will faculty in the Department co-
+ supervise students at other Departments across Sussex. Student financial support comes from
+ EPSRC DTA, a Leverhulme DSP (Seth), Sussex Neuroscience, the Department, and individual
+ research grants (e.g. Leverhulme projects). We also have a good number of self-financed
+ students.
+
+ Research training of doctoral students occurs at three main levels: (1) Specific training related to
+ students’ research within each research group, drawing upon the on-going research activity of
+ typically two supervisors and intensively supported by research fellows and experienced fellow
+ students. Students have at least one formal supervision meeting per month (usually many
+ more), which the student minutes. (2) Participation in the Doctoral School’s provision of
+ transferable and professional skills training, based on individual assessments, is expected of all
+ candidates. (3) The Department runs its own two-term research-training module for first-years
+ which focuses on skills at a level designed specifically to bridge the gap between the necessary
+ specificity of (1) and the generality of (2).
+
+ PGRs undergo a stringent annual review process with a PhD committee to monitor and support
+ their progression. The arrangements for doctoral studies are overseen by the Director of
+ Doctoral Studies and the University’s Student Life Centre provides co-ordinated access to a full
+ range of study, personal and financial support services.
+
+ 3. Income, infrastructure, and facilities
+
+ Funding Sources
+ Research in the Department is funded from diverse sources, ranging from traditional research
+ funders, such as UKRI and the European Union Framework Programmes, over charities, such
+ as The Leverhulme Trust and the Human Frontiers Science Program, to industrial partners and
+ philanthropic donations. Fig. 2 gives a breakdown of the funding secured over the REF period
+ detailed by funder type. Academics from the Department have secured more than £19M in
+ research funding, in 98 research projects, including large and/or prestigious fellowships
+ (Subramanian RAE chair in emerging technologies £1.3M, Seth, Wellcome Trust Public
+ Engagement Fellowship £167K, Nowotny RAE Advanced Research Fellowship £45K), personal
+ grants (Obrist ERC starting grant £1M, Quadrianto ERC Starting Grant £1.2M, Subramanian
+ ERC Advanced Grant £1.9M) and a program grant (Nowotny/Philippides EPSRC program grant
+ £1.6M to Sussex (£4.8M total)) as well as co-leading a £1.1M EPSRC Network Plus (Light) and
+ a PGR training centre (Seth, Leverhulme DSP, £1.1M).
+
+ Another source of income is consultancies, of which faculty undertook more than 25 during the
+ REF period (Weir, Reffin, Weeds). Industrial funding came also as contract research from
+ partners including Intel, Moogsoft, NVIDIA, Huawei, OCULUS VR, and Jaguar Land Rover (see
+
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+
+ Section 4). This evidences a vibrant research environment in which projects and consultancies
+ of any scale can be achieved and are welcomed.
+
+ Future research funding
+ Our research environment is well-secured for the future, as we are particularly well aligned to
+ elements of the Industrial strategy and the UKRI delivery plans 2019. For instance, EPSRC will
+ “invest in calls on natural language processing and software engineering, which are essential to
+ adoption of artificial intelligence (AI) technologies [...]” (EPSRC delivery plan p3). Our work on
+ NLP in the AI group feeds directly into this. Further, EPSRC wants to “explore [...] opportunities
+ to research the ‘body-technology interface’ (EPSRC delivery plan p4), which directly relates to
+ the work in the Creative Technology group. More generally, much of the work we do in the AI
+ group feeds into the Data Science and AI Grand Challenge and the work of the FoSS group into
+ the theme of resilient nation. In addition to these strategic opportunities, we have also already
+ secured substantial funding for the coming years: £2.9M (2020-21), £1.8M (2021-22), £1M
+ (2022-23), including another Leverhulme DSP for 7 years led by Nowotny and Philippides with
+ Graham in the Life Sciences, £1.4M.
+
+ Research grant capture is supported by a team of research development officers working
+ centrally in the University, from which we have a dedicated officer at the School level. Once
+ grants have been received and accepted, they are handed over to the post-award team who
+ support academics in all aspects of running the grant and reporting on it.
+
+
+
+
+  Figure 2: Research grants captured within the REF period, a total value of £19,221,793 in 98
+  grants.
+
+ Research equipment and facilities
+ The AI group has three large general computing labs with specialist hardware and software
+ (including space for the four research centres they (co-)run – DISCUS, CCNR, COGS and
+ SCCS – see Section 1b above), two labs with specialist robotics equipment, including motion
+ capture for flying robots and a large 3D gantry robot for “simulated flight”, and a dedicated
+ shielded EEG/TMS laboratory, which uses 64-channel waveguard caps (ANT Neuro) and a
+ VISOR2 neuro navigation system, allowing precise TMS targeting of brain regions based on
+ individual structural MRIs. Further facilities include a state-of-the-art virtual reality laboratory,
+ equipped not only with standard VR but also augmented and substitutional reality environments.
+ The AI group also makes extensive use of (and partly funds) neurophysiological facilities in Life
+ Sciences, the University’s fMRI facilities (Siemens 3T and AVANTO 1.5T scanners with MRI-
+ compatible EEG, near-infrared spectroscopy (NIRS), and eye-tracking devices and a wide range
+ of MRI compatible physiological measurement devices including pulse oximetry, and respiratory
+ and cardiovascular monitoring), and EEG facilities in Psychology.
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+
+
+ FoSS has a group of flexible computing and computer network research labs.
+
+ The CTG combines several research lab spaces and interlinks with the product design facilities
+ of the Department of Engineering and Design. The Multimedia Technology Lab brings to the
+ group two TV studios with up-to-date multimedia editing facilities, high end A/V recording and
+ post-production equipment enabling the exploration of novel video based and distant learning
+ approaches. The Representational Systems Lab has dedicated facilities for behavioural
+ research on the reading of tactile displays, writing and drawing, and eye-movement recording.
+
+ The product design team has further established a design studio for physical computing and
+ material explorations that includes the latest textile fabrication equipment and 3D printers.
+
+ All groups make use of the University's HPC cluster and data centre, parts of which were
+ purchased by the Department.
+
+ Investment in research infrastructure
+ Since 2014, the Department has made substantial investments in research infrastructure. In the
+ last REF period, the Department had consolidated into one main building (Chichester I Building
+ on the Falmer Campus of University of Sussex) with some additional spaces elsewhere. During
+ this REF period the Chichester I building was completely refurbished (£11M, of which 50% was
+ invested centrally by the University) including network updates and completely refurbished
+ computing labs. This also included the creation of a flexible research and teaching space – the
+ Future Technologies Lab, opened in 2017 by Jo Johnson, the Universities minister at the time.
+ In late 2019, Sussex also became a partner in the Tier 2 JADE2 supercomputing facility in a
+ consortium led from Oxford (Nowotny is Sussex co-I) and members of the AI group have access
+ to the Jülich supercomputer centre through collaborative compute time proposals.
+
+ 4. Collaboration and contribution to the research base, economy, and society
+
+ Academic collaboration
+ All academics in the Department have at least one collaboration, typically many more and at
+ scales from local (within groups, within Department, School) to global (e.g. Human Brain Project
+ with 120+ partner universities, HFSP global collaboration, ActiveAI grant with Australia). These
+ collaborations are enabled and supported centrally by an excellent research development office,
+ a contracts team to support collaboration agreements and other contractual arrangements, and
+ a post-award research finance team. All teams have extensive knowledge and experience of
+ collaborations, both academic and industrial.
+
+ Many of the collaborations are with academics from world leading Universities. In total there
+ were 52 collaborations within the groups of the Department, 13 between groups, 60 with other
+ groups at Sussex, 116 national and 131 international collaborations. This is also reflected in the
+ co-authorship of our outputs (Fig. 3). Of these collaborations 168 were interdisciplinary.
+
+
+
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+
+
+
+
+  Figure 3: Map of collaborations worldwide in terms of the number of co-authored
+  publications during the REF period that involve an author of each country (continent). Inset
+  pie chart: percentage of outputs in terms of collaboration reach (source: SciVal).
+
+
+ A few salient examples of our collaborations:
+
+ In the AI group, besides the major Green Brain, Brains on Board and activeAI collaborations
+ already mentioned, Nowotny also worked on the Odor Objects project (HFSP), with University of
+ Konstanz, Arizona State, and University of Tokyo, and is a partner of the Human Brain Project
+ (EU FET Flagship with > 120 partner universities). Husbands/Philippides collaborate
+ internationally with leading robotics labs, such as Floreano, EPFL, and Bongard, University of
+ Vermont. Berthouze is working with Farmer, UCL (6 co-authored publications) and
+ internationally with Simon, Eötvös Lorand University (5 co-authored publications). Buckley is
+ collaborating with Toyoizumi, RIKEN and Seth with numerous groups, including Friston, Fountas
+ at UCL; Nikiforou, Shanahan at Deepmind, Mediano, Cambridge and more than 11 other groups
+ worldwide. Furthermore, Quadrianto is working with Ghahramani, Cambridge but also with
+ partners in Austria, Germany, Russia and Australia. Weir is working with many colleagues within
+ Sussex but also with Bollegala, Liverpool and Conway, Dublin. Weeds is working with Clark,
+ Cambridge; Grefenstette, Oxford; Sadrzadeh, UCL; and Lapata, Edinburgh.
+
+ In FoSS, Mackie is working with Yildirim, Erzurum Teknik Üniversitesi, Turkey and Parisis with
+ Crowcroft, Clegg, and Pavlou, Cambridge, Queen Mary University of London (QMUL), and UCL
+ (4 co-authored publications). Berger is working with Yoshida, ICL, Clark, UCL, and Tratt, Urban
+ at Kings College. Reus is working with Altenkirch, Nottingham.
+
+ In the Creative Technology group, Cheng is working with Jamnik, Cambridge (supported by
+ EPSRC, three co-authored publications) and Fetais and Khan, Qatar University (funded by
+ QNRF) and Howland with Harley, University of Brighton (funded by EPSRC, 4 co-authored
+ publications). Obrist was working with Velasco, BI Norwegian Business School (many joint
+ publications). Subramanian was working, amongst others, with Drinkwater, Roudaut at Bristol,
+ Fraser at Bath and internationally with Irani, Manitoba University (Canada), Hornbaek,
+ Copenhagen, Ramani, Purdue and Lotte at Inria Bordeaux. Newbury is working locally with
+ White, Watten, and Holroyd (11 co-authored publications, one of which has led to a commercial
+ product on the app store). Beloff is working with White (shared research grant, more than 10 co-
+ supervised PhD students; 2 PhD scholarships were jointly funded by the Department and
+ AMEX) and White is also working with Nee, University of Portsmouth (MiPP and eMove grant).
+ Good is working in a large network of collaborations (25 nationally and 18 internationally),
+
+
+                                                                                           Page 12
+Unit-level environment template (REF5b)
+
+ including Parsons, Southampton and Brosnan at Bath (8 shared papers); Manches and
+ Robertson, Edinburgh (2 papers); and Mademtzi, formerly at Yale, Bossavit, Dublin, and Pares,
+ Barcelona.
+
+ Wider collaboration and engagement with stakeholders
+ Members of the Department engage regularly and actively with the wider community of research
+ stakeholders in a variety of forms. This includes:
+
+ Consultancy and Advice
+ Members of the Department are involved with many partners in more or less formal consultancy
+ arrangements. Weir and Reffin run numerous consultancies through the CASM spin-out and
+ through University of Sussex consultancy services, Husbands has worked with the BBC to
+ advise on the accuracy of content on the history of AI, and with the Science Museum to advise
+ on their blockbuster 'Robots' exhibition. He has also advised Future Visual on the potential role
+ of ML in their business. White has worked with Kord of Synertial UK, providing advice relating to
+ Innovate UK grants.
+
+ Contract research for industrial partners
+ Members of the Department worked with a number of national and international industrial
+ partners in projects financed by the partner. For instance, Husbands, Philippides and Buckley
+ worked with Intel (2 projects), Nowotny with Huawei, Howland with Hive (Centrica Connected
+ Home), Obrist with Disney Research, Berthouze and Parisis with Moogsoft (also InnovateUK
+ KTP and multiple funded PhD studentships) and Berthouze with Aviva, Beloff has worked with
+ Clinical Practice Research Datalink and DATALINE Software Ltd. (leading to more than 4
+ publications and an impact case study), and White with American Express (2 part-funded PhD
+ students).
+
+ Engagement with end-users
+ We strongly engage with end-users of innovations that are based on our research and with
+ organisations representing them. For instance, Howland has a long-standing engagement with
+ the Research Institute for Disabled Consumers (2 related research grants and 4 related
+ publications) and Cheng is working with Hodges and Fife of the Educational testing service,
+ Princeton (1 joint publication, 3 data-sets).
+
+ Shared research interests
+ Other engagements are based on less formal collaborations with researchers in non-academic
+ entities that are valuable due to the mutual exchange of expertise and other research synergies.
+ These collaborations include work of Husbands with Fernando of Deep Mind, Mackie with
+ Siafakis and Hassan at tapSW, Obrist with Keller and Gatti at Oculus VR/Facebook and Carter
+ at ultraleap (funded PhD studentship), Parisis with Chesterfield at OnApp and Chown at JISC,
+ Quadrianto with Vetrov at Samsung AI Centre Moscow, and Weir with Miller and Bartlett of
+ Demos Think Tank/CASM (more than 10 consultancy projects) and with Ginnis of IPSOS-MORI
+ (2 projects). Seth is working with Kanai of ARAYA Brain Imaging, Tokyo, Subramanian has
+ continued his longstanding collaborations with Long and Carter at ultraleap and with Seah and
+ Kildal at Nokia Research, and Berger is working with Evans of DeepMind.
+
+ Wider engagement and impacts
+
+ Spin-outs and early-stage trading ventures
+ Members of the Department are involved in a number of spin-out companies that are creating
+ impacts and we actively support this through our impact strategy. This included Obrist co-
+ founding OWidgets, Wakeman founding InCrowd Sports, Subramanian co-founding ultraleap
+ and still working with the company and Schrammel co-founding and being CTO of diffblue,
+ seconded to it part time for a large part of the REF period. Memoli and Subramanian are
+ spinning out Metasonixx, Weir continues to be a partner in CASM (annual turnover over £600K)
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+
+ and Carroll in iLexIR (£4.7M turnover). This was enhanced with internal support ranging from
+ advice on drafting a business plan, to providing substantial start-up funds for equipment,
+ teaching relief, and hosting and mentoring by the Sussex Innovation Centre (an on-campus
+ business incubator). Members of the Department also received funds from the University of
+ Sussex Enterprise Panel to support work with their spin-out companies: Obrist received £7K for
+ a market analysis regarding OWidgets, Memoli/Subramanian £120K for business planning
+ related to Metasonixx. Wakeman and Maggioni were also recipients of RAEng Enterprise
+ fellowships.
+
+ Other emerging impact cases
+ While we are submitting our three strongest impact case studies as outlined in Section 1, there
+ are at least four additional emerging case studies that we believe can become of similar strength
+ – Peter Schrammel’s work with the diffblue spin-out, Ian Wakeman’s work that led to the spin-
+ out of InCrowd Sports, and two of Memoli’s projects related to ultra-silent tyres (great potential
+ for economic impact) and noise perception in aircraft flight paths (potential for economic/societal
+ impact). Obrist’s outreach work in collaboration with the Tate Gallery and Subramanian’s
+ continuing work with ultraleap will continue at UCL.
+
+ Outreach and public engagement
+ Members of the department are engaged in a large variety of outreach activities, foremost Seth,
+ who is a Wellcome Public Engagement Fellow and spends 50% of his time on outreach activities
+ with worldwide reach. Seth’s 2017 TED talk was viewed by more than 11M people and ranked
+ higher than the Pope’s. Besides Seth’s worldleading work, described in one of our case studies,
+ many other members of the Department are also actively engaged. Members of the Department
+ are STEM ambassadors (e.g. Berthouze, Howland, Nowotny), Howland is the liaison for a
+ Robogals chapter at Sussex, and others regularly deliver outreach activities to School children
+ (Nowotny, Obrist, Reus), in the majority locally and regionally, but also occasionally
+ internationally (e.g. Reus - Canterbury School of Gran Canaria). Relatedly, we regularly
+ contribute to science outreach events, including the annual Big Bang South East, the annual
+ Brighton Science Festival, the British Science Festival 2017, and the Imperial Science Festival
+ 2019. Other activities include engagements with Museums and exhibitions. For instance, in 2015
+ Obrist ran the “Tate Sensorium” at the Tate Gallery in London, with more than 3500 visitors.
+
+ Faculty are also deeply involved in outreach activities addressing the general public with regular
+ public talks, such as Nerd Nite Brighton (co-organised at Brighton by Howland), Cafe
+ Scientifique Brighton and U3A Lewes.
+
+ Members of the Department have appeared in the media, in print, online, radio and TV, most
+ prominently Seth with dozens of public appearances and millions of viewers (see impact case
+ study), but also including Memoli, Obrist, Good, Philippides and Nowotny. In 2017, for instance,
+ Memoli and Obrist demonstrated TastyFloats on ITV Good Morning Britain and Nowotny
+ appeared on Australian National Radio.
+
+ Many members of the Department have contributed articles to The Conversation, including
+ Barrett, Light, Reffin, Obrist, Berger, Chrisley and Nowotny.
+
+ Software
+ The Department also achieves strong impacts through our contributions to public software
+ packages accessed by users worldwide. Cheng has published MIDAS-logger, an Android
+ software app for recording interactions with tactile graphics overlaid on a tablet computer screen
+ and MIDAS-analyser, a desktop program for the interactive visualisation and analysis of MIDAS-
+ logger data.
+
+ Nowotny has published and continues development of the StdpC dynamic clamp software, the
+ GeNN accelerated spiking neural network simulator and the Brian2GeNN interface between the
+ popular Brian simulator and GeNN. Furhermore Nowotny/Philippides have supervised the
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+
+ development of the Bob robotics C++ based framework for robotic experimentation and
+ Phlippides has published software for analysing vascular image data relating to diagnosis of
+ diabetes and cancer.
+
+ Barnett/ Seth have published and are continuing to develop and support the MVGC Multivariate
+ Granger Causality Toolbox (more than 3500 downloads since inception). Good has developed
+ and released the ASCmeI.T. app for iOS and Android that allows autistic individuals to submit
+ ideas for technologies they would like to see developed and the “African Farmer Game”, an
+ educational game simulating the complex decision making involved in smallholder subsistence
+ farming in Africa.
+
+ Interdisciplinarity
+ Interdisciplinary working is second nature to most academics in the Department and 79% of
+ submitted outputs are interdisciplinary. The disciplinary mix of our publications is shown in Fig.
+ 4, demonstrating the striking breadth of our work, which is supported by the interdisciplinary
+ research centres we run and by our numerous collaborations. The large number of
+ engagements makes it difficult to identify a representative set but to give just a handful of further
+ examples, there are long-standing collaborations between the AI group and the Life Sciences,
+ most prominently Philippides with Graham, Buckley with Lagnado and Nowotny with Kemenes,
+ a strong connection to the Digital Humanities (Weeds/ Weir with several academics in Arts and
+ Humanities) and a long-standing collaboration of Berthouze with Kiss in Mathematics. Naturally,
+ the work of SCCS is entirely interdisciplinary, as detailed above.
+
+
+
+
+  Figure 4: Distribution of the recognised discipline of all research outputs of REF faculty during
+  the REF period (Scival).
+
+ Wider influence, contributions, and recognition
+ Members of the Department are fully engaged in the academic community and are recognised
+ for their expertise, and profuse contributions. More than half of faculty at the Department are
+ engaged in substantial editorial roles, serving in total more than 49 roles. For instance, Seth is
+ Editor-in-Chief of the Journal Neuroscience of Consciousness, Berthouze an editor of PLoS One
+ and has 4 other editorial roles, and Husbands was associate editor of Artificial Intelligence 2013-
+ 17 and is associate editor of Frontiers in Robotics and AI, while serving on 7 distinct editorial
+ boards. Nowotny is associate editor of two Frontiers journals, and Philippides of Adaptive
+ Behavior, Frontiers in Neurorobotics, and is serving on 3 editorial boards. Obrist is associate
+ editor at ACM ToCHI, and has 2 other associate editor roles, Quadrianto is associate editor of
+ IEEE Transactions on Pattern Analysis and Machine Intelligence and has 2 other editorial roles,
+ while Weeds, Wood and White serve on 1, 3 and 4 editorial boards, respectively.
+
+
+
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+
+ Organization of scientific conferences
+ Besides journal editorships and other editorial roles, the esteem for members of the Department
+ and their engagement with the scientific community is evidenced by 36 roles as conference
+ chairs. For instance, Light was program chair on PDC 2018, Obrist was program chair of
+ NordiCHI 2018 and TVX 2014, Associate Chair of ACM CHI 2013-2015, 2017 and had 6 other
+ associate chair roles. Nowotny was program chair of CNS 2017-2020 and a director of OCNS
+ 2014-2016 while Subramanian was general chair of ACM ISS 2017. Howland and Good hold
+ chairing roles at the ACM Conference on Interaction Design and Children, Husbands was co-
+ chair for an IEEE CEC special session evolutionary robotics 2016, 2018, Mackie was PC Co-
+ chair for TERMGRAPH 2018 and steering committee chair for “Developments in Computational
+ Models” and “Linearity” workshops. Quadrianto was area chair of NIPS 2015, NIPS 2017,
+ NeurIPS 2018, and NeurIPS 2019, and Senior Area Chair of AAAI 2020 and Reus was
+ Conference chair of the British Logic Colloquium 2017.
+
+ In addition, members of the Department have served in more than 64 program committee roles
+ during the REF period.
+
+ Grants committees
+ The Department is highly engaged with funders, and members of the Department have served
+ on grant panels and committees. For instance, Nowotny and Good are members of the UKRI
+ Future Leadership Fellows review college and Nowotny served and Wakeman has chaired
+ EPSRC interview panels. Weeds is member of the EPSRC ICT prioritization panel and has
+ reviewed for the Alan Turing Institute (fellowship awards) and Berthouze regularly serves on EU
+ grant panels.
+
+ Fellowships and honorary appointments
+ Members of the Department have held 10 competitively won personal fellowship grants, see
+ prominent examples above. Members of the Department also hold a large variety of other
+ fellowships and honorary appointments evidencing the esteem for their academic standing and
+ their strong engagement in the scientific community. For instance, Berthouze is honorary
+ Professor at UCL, Buckley a visiting researcher at Kyoto University, Obrist was visiting professor
+ at MIT and was visiting associate professor at Stanford University in 2017 and at the Royal
+ College of Art 2019/20. Philippides was a visiting researcher at Uppsala University and
+ Quadrianto is an Adjunct Senior Lecturer at the University of New South Wales (UNSW), Mentor
+ at the School of AI, and an Academic Supervisor at the Higher School of Economics, National
+ Research University, Russia. Subramanian was a visiting professor at Stanford University and at
+ MIT.
+
+ Boden was appointed to the Advisory Committee of the APPG (All-Party Parliamentary Group)
+ on Artificial Intelligence in 2017.
+
+ Prizes
+ Another strong indicator of the esteem in which our academics are held are prizes they received
+ during the REF period. Boden received the Allen Newell 2017 Award from the ACM/AAAI and a
+ Lifetime Achievement Award from the International Society for Artificial Life in 2016. An annual
+ “Margaret Boden Lecture” has been established in her honour at the University of Cambridge’s
+ Leverhulme Centre for the Future of Intelligence. Mackie received the Most Influential paper 10-
+ year award 2014 of the International Symposium on Principles and Practice of Declarative
+ Programming. Obrist was selected to be an inaugural member of the ACM future of computing
+ academy (2017) and was invited to attend the 50th Anniversary of the Alan Turing Award
+ Ceremony in San Francisco, selected Young Scientist 2017 to attend WEF (2017), invited to the
+ World Economic Forum (WEF) Annual Meeting of the New Champions 2017 in Dalian, People's
+ Republic of China and re-invited 2018 in Tianjin, People's Republic of China. Nowotny was
+
+                                                                                           Page 16
+Unit-level environment template (REF5b)
+
+ nominated for the “best research project of the year” award of IChemE in 2015 and Good
+ received two honourable mentions/ best paper awards in 2017.
+
+ Keynotes
+ High esteem for our academics and their work is also evidenced by 39 keynote invitations during
+ the REF period. To give some illustrative examples, Obrist gave the Opening Keynote at ACM
+ Multimedia 2018 in South Korea, and three other keynotes. Cheng was invited to give 2
+ keynotes in 2018 and Philippides gave a Keynote at Parallel Problem Solving from Nature 2017
+ and at the Kongsberg Systems Engineering conference 2019.
+
+ Weeds was a keynote speaker at the Workshop on Vector Spaces for Discourse and Dialogue
+ at IWCS 2019, Gothenburg. Seth gave a keynote at VMWorld 2018, Las Vegas, NV (5000
+ participants) and 7 other keynotes during the REF period and Boden gave a prestigious Turing
+ Lecture.
+
+ External examination & advisory roles
+ Our academics are active in examiner and advisory roles of many kinds with local and global
+ reach. Howland is external examiner for two BSc (Hons) programs at the University of Central
+ Lancashire. Newbury was external examiner for three BSc courses and an MSc program at
+ Oxford Brookes, and for an MSc at Bath. Nowotny was examiner for two MSc programs at
+ Sheffield, and Philippides for a BSc at Keele. Weir was examiner for the Data Science MScs at
+ Sheffield, White for an MSc at Brunel, and Subramanian an MSc in HCI at City University of
+ London. Seth was examiner for the Brain and Cognition RPA, Amsterdam, the Psychology Dept,
+ Hong Kong University, and the Department of Psychology, University of Ghent. Good was
+ external examiner for “My Digital Life” and “Technologies in Practice” at the Open University and
+ Husbands is an advisor on all senior promotions for the AI Department, University of Malaya.
+
+ Over the REF period members of the Department have also been external examiners for more
+ than 50 PhD students in the UK and more than 40 students internationally.
+
+ Learned societies
+ As a final indicator of esteem and embedding of our faculty in the scientific community, most
+ members of the Department are members of multiple learned societies and professional
+ organisations. For instance, members of staff are members of the HEA and the BCS, Nowotny is
+ a member of the UK Neuroinformatics network, OCNS and Society for Neuroscience. Obrist was
+ Senior ACM Member, with three separate roles in ACM SIGCHI and Philippides is member of
+ the International Society for Neuroethology and Applied Vision Association.
+
+
+
+
+                                                                                           Page 17
+

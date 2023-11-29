@@ -1,0 +1,891 @@
+Unit-level environment template (REF5b)
+ Institution: Staffordshire University
+
+ Unit of Assessment: 12 - Engineering
+
+ 1. Unit context and structure, research and impact strategy
+       a. Overview
+
+Engineering research at Staffordshire is highly interdisciplinary and collaborative. Our vision is to
+undertake world-leading research to address complex real-world challenges to improve peoples’
+lives, environments, productivity, and sustainability. We focus on building synergies between
+research interests within engineering and across disciplines within the University. This focus
+fosters collaborative opportunities and enhances our routes to impact.
+
+We undertake research within three themes:
+
+   •   Biomechanics (Branthwaite, Chatzistergos, Chockalingam, Healy, Naemi, Needham,
+       Pierscionek): Applications to biomedical, healthcare, and assistive technology, clinical
+       solutions, addressing issues related to diseases and conditions that are a public health
+       concern.
+   •   Renewable and Sustainable Engineering (Ardekani, Gohari Darabkhani, Komilian, Sadat-
+       Shafai): Addresses the design of small and medium scale sustainable energy conversion
+       mechanisms, storage, and systems driven by optimising energy solutions to ensure
+       maximum productivity and minimum total life cost.
+   •   Digital Systems (Amjad, Asaduzzaman, Benkhelifa, Dodd, Shiry Ghidary, Griffiths, Sedky,
+       Soliman): Addresses algorithm development and interdisciplinary applications of digital
+       approaches to a range of systems. Our research investigates how to apply digital
+       approaches to ensure systems are safe, secure, productive, and more intelligent.
+
+In line with the University strategy (REF5a, Section 2), this Unit of Assessment (UoA) is a
+consolidation of areas submitted to REF2014 in UoAs 11, 15, and 26. Our submission presents
+the focus on thematic engineering research in each area.
+
+Research is organised around interdisciplinary research centres bringing together staff from the
+School of Digital, Technology and Arts and the School of Life Sciences and Education to address
+the three themes:
+
+   •   Biomechanics: Centre for Biomechanics and Rehabilitation Technologies (CBRT, led by
+       Chockalingam)
+   •   Renewable and Sustainable Engineering: Centre for Renewable and Sustainable
+       Engineering (CRSE, led by Sadat-Shafai)
+   •   Digital Systems: Centre for Smart Systems, AI, and Cybersecurity (CSSAIC, led by
+       Benkhelifa)
+
+We prioritise collaborations with academic, industry, and policy-making partners at home and
+abroad. These relationships ensure strong, impactful engagement with our research communities
+and end-users (Sections 4a, b). We have used them to power a programme of sustainable growth
+supported by significant partner- and university-level investment in our research cohort and
+infrastructure (Section 1c). In line with the University’s vision of a civic university (REF5a, Section
+1), we generated funding of £4,075,904 (matched funding £2,819,868) for five knowledge
+exchange projects within the assessment period. These projects include establishing the
+Staffordshire University Innovation Enterprise Zone (IEZ) to support regional industry engagement
+(Section 4b). We actively support the wider research community, including as co-producers with
+national and international partners (Section 4a), as members of industry and government working
+groups (Section 4b), and as editors and organisers of international journals, conferences, and
+public engagement opportunities (Section 4c).
+
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+Research Governance. The unit follows the University policies (REF5a, Section 2) on research
+governance, including upholding the Concordat to Support Research Integrity and we are working
+towards full compliance with the Concordat on Open Research Data. We assist our researchers to
+ensure all outputs are available open access.
+
+       b. Vision, strategy, and plans
+
+Our vision is to positively impact on how and where people live and work by carrying out world-
+leading fundamental and applied research in biomechanics, small to medium scale renewable
+energy systems, and digital approaches to a range of application areas. We achieve this vision
+through interdisciplinary collaborations with national and international partners from academia,
+industry, government agencies, and NGOs.
+
+The research and impact strategy is informed by, and responds to, specific external drivers linked
+to the three themes above, including:
+
+   •   United Nations Sustainable Development Goals: Good Health and Well-Being; Clean Water
+       and Sanitation; Affordable and Clean Energy; Decent Work and Economic Growth;
+       Industry, Innovation, and Infrastructure; Sustainable Cities and Communities; Responsible
+       Consumption and Production; Climate Action; and Partnerships for the Goals
+   •   UKRI Strategic Priorities: Environment; Biology and Biomedicine; Artificial Intelligence;
+       Productivity; Health, Wellbeing, and Human Rights; Digital; and Productivity and Technical
+   •   Horizon Europe Strategic Clusters: Health; Digital, Industry, and Space; and Climate,
+       Energy, and Mobility
+
+Exploiting interdisciplinary collaborations with national and international academic and industrial
+partners (Section 4a), and facilitated by our cross-cutting research centres, we address key
+challenges in:
+
+Biomechanics: We specialise in the foot, spine, and the eye, bringing together engineering,
+biology, and healthcare technology to improve health and wellbeing in a clinical setting. We
+research tissue mechanics, biomechanics of the diabetic foot, evidence-based musculoskeletal
+clinical practice, footwear biomechanics, orthotic intervention, insoles and prescription footwear,
+spinal biomechanics and etiopathology of scoliosis, opto-mechanical modelling of the eye, and the
+effects of aging. We apply a multilevel approach that includes modelling biological structures and
+orthotic interventions, undertaking clinical evaluations, and assessing healthcare impacts.
+
+Renewable and sustainable energy: We research small to medium scale energy generation and
+storage including solar, thermal, biogas, combined heat and power, liquid air, and smart grids. We
+apply a multiscale approach to design optimisation from materials research in organic solar cells,
+computational fluid dynamics for component design in biogas and micro combined heat and power
+(microCHP) plants, to robust optimal operation of smart grids.
+
+Digital systems: The research addresses service and cloud computing, robotics, manufacturing,
+infrastructure, the environment, agriculture, biology, and healthcare. We work in all aspects of
+systems from sensors, data analysis, and machine learning to communications, cloud computing,
+cybersecurity, Internet of things (IoT), intelligent decision making, and autonomous systems.
+
+We focus on three underpinning methodologies throughout the UoA. Most staff work across all
+three:
+
+Computational modelling: to develop algorithms and fundamental models to achieve better
+engineering design. Examples: finite element modelling of the ulcerated diabetic foot; opto-
+mechanical modelling of the aging eye lens; computational fluid dynamics (CFD) modelling of
+microturbine combustors; CFD modelling of thermal characteristics of solar collectors; modelling of
+sensor networks; and machine learning for electroencephalogram (EEG) signal representation.
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+Design optimisation: to develop and apply novel techniques to optimise engineering design.
+Examples: design of diabetic patient-specific insoles; biologically-inspired implant lenses; organic
+solar cells; novel microturbine combustor for biofuels; phase change material thermal energy
+storage; sensor networks; and hybrid waveguides for on-chip ultrafast photonic networks.
+
+Experimental validation and evaluation: to ensure our research outcomes meet the challenges
+of real-world implementation. Examples: shear wave elastography measurement of the
+mechanical behaviour of the heel pad; Brillouin scattering and x-ray interferometric measurement
+of the eye; validation of novel biofuel combustor performance in microturbines; and validation of
+spectrum assignment in large-scale hardware-constrained IoT sensor networks.
+
+Our future strategy over the next five years is:
+
+Research Capacity and Capability. Increase from 18.4FTE to > 32FTE through development
+and mentoring of existing teaching-focused staff and new appointments at both early-career and
+senior levels.
+   • Use our research centres to continue developing our active and vibrant research culture by
+        encouraging innovation and risk taking in a supportive environment (Section 2b).
+   • Provide equipment, facilities, and infrastructure to ensure our researchers continue to
+        deliver world-leading research that is sustainable and facilitates maximum impact (Sections
+        3c, d).
+   • Biomechanics – diversify from foot biomechanics to broader musculo-skeletal conditions
+        and rehabilitation engineering. Extend into assistive technology, systems biology, and
+        engineered biological systems by focusing on materials and additive manufacturing.
+   • Sustainable and renewable energy – continue to strengthen in small to medium scale
+        renewable energy, e.g., inorganic solar cells, power systems control, electrical and thermal
+        energy storage, energy harvesting, and smart grid systems.
+   • Digital systems – consolidate the expertise in communications and networks; build capacity
+        in robotics and autonomous systems, AI and machine learning, and cybersecurity.
+   • Expand career development support by using RIIS (Research, Innovation, and Impact
+        Services), our research centres, and the Professoriate to supply mentoring, training, and
+        development, including dedicated support for early-career researchers.
+   • Increase sustainable Postgraduate Research (PGR) recruitment with a target of 10%
+        growth p.a. by focusing on international collaboration and distance learning PhDs, EngDs,
+        and researcher engagement with current undergraduate and Postgraduate Taught
+        students.
+
+Enhancing Leadership and Collaborations. Build on our existing national and international
+collaborations and leadership in key bodies.
+    • Senior staff will use their experience of working with national and international bodies (e.g.,
+       EPSRC, NIHR, EU, WHO) to support early career researchers to develop leadership.
+    • Broaden and enhance our strong interdisciplinary collaborations with diverse national and
+       international partners (Section 4a). We will extend our national and international networks
+       and recruit prominent visiting fellows and professors (Section 2b).
+    • Through the research centres, develop greater interdisciplinary collaborations with
+       colleagues across the University, e.g., biology and engineering/computing, sustainability,
+       and healthcare.
+    • Raise the profile of our research by ensuring all academics actively engage with national
+       and international industry and professional bodies, editorial activities, and conference
+       organisation. Ensure funding is available and accessible to support such activities.
+
+Enabling and Facilitating Impact. Continue building partnerships that increase our research’s
+academic and social impact.
+   • Improve the visibility and reach of our research centres, exciting the public to the benefits of
+      research, and motivating new collaborations to co-develop and exploit our research
+      (Sections 2a, 4a, and 4b).
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+   •   Use IEZ support and knowledge exchange projects to build partnerships with industry,
+       focusing on the Stoke and Staffordshire LEP region (Section 4b).
+   •   Build on our existing strengths and leadership in engaging with end user groups, NGOs,
+       and influencing policy, as demonstrated in our healthcare research, to expand impact
+       successes within all of our research themes.
+   •   Acquire an open research platform to host all research outputs, data, and software. Collect
+       access information to drive engagement and increase potential for new partnerships.
+   •   Embed impact awareness training for all academics (with the University Research Impact
+       Manager). Use specialist Vertigo Ventures Impact Tracker software to collect impact
+       evidence as a matter of course.
+
+Income. Double our per FTE research income and ensure a robust, diverse, range of funding
+bodies (Section 3b).
+   • Provide all academics with training to access funding opportunities, write successful
+       funding proposals, and to lead and manage grant projects.
+   • Support grant proposal development through our research centres, ADREs (Associate
+       Deans for Research and Enterprise), RIIS, coaching, and internal peer review college.
+       Expand use of cohorts to drive grant writing and peer-to-peer support.
+   • Support internal and external collaborative proposals through networking events and
+       funding to engage with potential partners.
+
+       c. Research achievements since 2014
+
+Our research themes, biomechanics (UoA26), sustainable and renewable engineering (UoA15),
+and digital systems (UoA11) have remained since REF2014. We have organised them into one
+unit to prioritise and support their strong underpinning engineering research as a basis for our
+ongoing, sustainable growth.
+
+We have achieved a stable, regulated expansion of our research capacity. Compared to UoA15
+REF 2014, our research income has increased from £586,680 to £3,184,731 (£69,843 to £173,083
+per FTE), the number of peer reviewed publications from 156 to 494 (18.6 to 26.8 per FTE). A
+significant percentage of our publications are collaborative (67.4%) and co-authored with
+international partners (51.8%). The number of PhD awards has increased from 9.5 (UoA15
+REF2014) to 56.
+
+We have invested in 8 staff appointments, state-of-the-art facilities in advanced manufacturing and
+prototyping, advanced materials, digital facilities (Section 3c), and dedicated space for PhD
+students (Section 2c). The investment has significantly impacted on our research capacity with 24
+out of 46 REF2021 outputs submitted attributed to new staff. The University has invested in a new
+SmartZone (2019) collaboration facility, enhancing our knowledge transfer capacity and the
+research capability of our partner local companies.
+
+We are one of twenty universities awarded funding to establish a University Innovation Enterprise
+Zone (launched November 2020) to enhance the translation of our research, support industrial
+collaboration, and nurture spin-out companies (Section 4b). We formed new strategic partnerships
+with many international universities and NGOs (Section 4a), established two new research centres
+(CRSE; CSSAIC) and developed interdisciplinary research initiatives internally with the School of
+Health & Social Care and the School of Law Policing & Forensics.
+
+We made significant impact in supporting industry (e.g., design of renewable micro turbine power
+generators, deployment of LPG leak detection system, automated process for customised insoles)
+(Section 4b). Our work in healthcare made national and international impact in policy (e.g., UK
+Parliamentary enquiry on footwear choice; WHO Standard for Prosthetics and Orthotics), change
+to clinical practice (e.g., treatment of diabetic foot conditions in India, Tanzania, and extended to
+Peru and Turkey; standard operating procedures at Central and Northwest London NHS
+Foundation Trust) and professional guidelines (updated British Association of Prosthetists and
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+Orthotists guidelines that are issued to all NHS agencies). These healthcare impacts form the
+basis of our impact case studies.
+
+Biomechanics. Since REF2014 the area has shifted focus from sports science (previously
+UoA26) to biomechanics and clinical applications in healthcare. It is now internationally renowned
+for its work on foot, spine, and eye biomechanics. The number of peer reviewed publications in the
+period was 192. The research is underpinned by significant collaboration (75.5% of outputs
+collaborative, 56.2% international).
+
+Key achievements: We have made significant advances in the modelling and clinical management
+of diabetic foot complications. In collaboration with AR Hospital, India, we developed a unique
+approach utilising ultrasound elastography to establish that softer heel pads are associated with
+foot ulceration in diabetic patients [output identifier 2424]. This work, resulting from the EU FP7
+funded DiaBSmart project (2011-15), led to the development of a novel low-cost approach to
+assess foot ulceration in developing countries. A patient-specific insole prescription that optimises
+the insole stiffness to best redistribute pressure underneath the foot was proposed [2400,3066].
+This work resulted in a patent (Deformable Support Structure, PCT/ 5170/4243PGB), which we
+harnessed to win £1.1M of funding (NHS England) in collaboration with Cadscan Ltd to develop
+ultra-customised insoles. This work continued in an investigation of the viscoelastic behaviour of
+the heel pad under dynamic load and weight-bearing activities using novel simulation and shear
+wave elastography [2434,3895,4812]. Chockalingam demonstrated, for the first time, the
+application of Non-Instrumented Movement Inhibition (NIMI) to quantify embodied intellectual and
+emotional engagement as elicited by visual engagement [2845]. NIMI was shown to be elicited by
+adding visual accompaniment to audio-only stimulus or making a stimulus cognitively engaging
+[3531]. We supported the WHO Standard for Prosthetics and Orthotics which were unanimously
+approved in the Resolution on Improving Access to Assistive Technology at the 71st World Health
+Assembly, May 2018. Research validating a simple clinical test (paper grip test) for assessing
+strength of the hallux in people with diabetes has received significant interest among clinicians and
+researchers [5427]. Advances in dynamic finite element modelling of age-related opto-mechanical
+relationships in the eye based on Brillouin scattering and X-ray interferometric measurements of
+the longitudinal modulus [6283] led to collaborations resulting in the EU Horizon 2020-funded
+MSCA Innovative Training Network ’Opto-Biomechanical Eye Research Network’ (OBERON), total
+funding €3.88M (awarded 2020). Our novel and highly accurate physiologically realistic gradient
+refractive index model of the lens [6376] has been selected for inclusion in Optics and Photonics
+News’s ‘Optics in 2020’ Best in Optics selection.
+
+Renewable and sustainable engineering. Our research has made significant contributions in the
+development of small and medium scale renewable energy generation and storage. 46 outputs
+were published in the period, underpinned by significant collaboration (56.5% of outputs
+collaborative, 47.8% international).
+
+Key achievements: We advanced knowledge of how organic solar cells work at a molecular level.
+Our findings allow significant performance improvements during the design stage and provide the
+foundations for large scale organic photovoltaic devices [3007,4498]. This work led to Newton
+Institutional Link funding (£143,686, awarded 2020) in collaboration with Alexandria University,
+Egypt, to develop large-scale organic photovoltaic devices. For the first time, a solution to
+simultaneous flame stabilisation and NOx emission control in thermo-photovoltaic micro-
+combustors was developed [5844]. Working with Bladon Jets (UK) Ltd, funded by Innovate UK
+(total funding £935,600, 2017-2019), Gohari Darabkhani designed and evaluated a combustor that
+permits the burning of biogas in a commercial microturbine [6225]. The design was developed
+commercially and led to the first deployment of a product of this size (12kWe), in South Sahara
+Africa. Novel CFD optimisation has been applied to the shape, thermal and optical characteristics
+of concentrating solar collectors [6744,6067] and phase change material thermal energy storage
+[6062,6161]. Working in collaboration with partners in China, Australia, UK, and South Africa this
+work was recognised by the German Ministry of Research and Education and was adopted by
+industry (SOLASTOR, Australia)
+
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+Digital systems. Bringing together researchers from the Departments of Engineering and
+Computing, the research focuses on algorithm development and digital approaches to applications
+including energy, communications, autonomous systems, and healthcare. 63.3% of the total of
+256 published outputs are collaborative (49.2% with international co-authors).
+
+Key achievements: In the area of networks, Griffiths (funded by GE Grid Solutions) proved in
+simulation a novel fast non-unit protection algorithm for HVDC grids that requires minimal
+hardware, has no communication delay, and offers reduced cost [5012]. We developed novel
+approaches for network optimisation including self-reconfiguration of visual sensor networks [5102]
+and dynamic spectrum allocation [3951]. The latter work was the first to apply post-optimisation
+analysis to assess sensitivities and accuracy and now forms the basis for many 5G testbeds to
+increase spectrum usage efficiency. Benkhelifa developed a solution for guard-band-aware
+spectrum assignment in large-scale hardware-constrained IoT sensor networks [5436]. This
+research led to a QR-GCRF collaboration with Yarmouk University, Jordan, to develop and deploy
+an LPG-leakage detection IoT solution, since piloted in food outlets in Jordan. Soliman designed a
+new strip–slot hybrid waveguide with extremely large and flat dispersion over broad wavelength
+range that can be applied to on-chip ultrafast photonic networks [5694]. Sedky developed an
+open-source 3D smart home simulator to support researchers in IoT and machine learning that led
+to a Knowledge Transfer Partnership (£103,516, started September 2020) with VR Simulation
+Systems Ltd [3622]. In the area of robotics, Dodd proved, for the first time, the benefits of using
+informative priors in Bayesian map building for indoor simultaneous localisation and mapping
+[6796]. He demonstrated the application of supervisory control theory as a formal method to
+reduce ad hoc development in swarm robotics [6242]. Shiry Ghidary has pioneered the use of
+deep belief networks for 3D motion reconstruction [6787] and made contributions to nonlinear
+dimensionality reduction with application to EEG signal representation [6793,6794].
+
+
+ 2. People
+   a. Staffing strategy
+
+We recruit early-career and established researchers, providing tailored support to ensure they
+have the capability to produce world-leading research and impact. Our strategy is to recruit people
+who fit within one of our core themes (Section 1a) and research across at least two of the
+methodologies (Section 1b), whilst ensuring diversity, sustainability, and agility within the themes.
+We therefore strengthen our research team, exploit synergies, and respond to the changing
+research landscape to meet future national and international priorities, e.g., in renewable energy
+we have built from our strength in organic solar cells to broaden into wider small to medium scale
+technologies with a strong focus on CFD modelling.
+
+To provide strategic leadership in research and enterprise, the University recruited four ADREs
+(REF5a, Section 2) with experience of interdisciplinary research and enterprise. Two are within this
+UoA: Dodd (previously University of Sheffield) and Pierscionek (Nottingham Trent University).
+Seker (UoA3) provides interdisciplinary leadership bridging biology and healthcare with
+engineering and Zhao (UoA17) leads interdisciplinary research on business transformation through
+technology. All academic recruitment panels include an ADRE to ensure research potential is fully
+considered.
+
+Our strategy to bring together our engineering research into one UoA (Section 1c) has allowed us
+to use targeted recruitment to build on our strengths in focused areas.
+
+Biomechanics: Maintained its critical mass with significant retention of staff from REF2014
+UoA26. Branthwaite, Chatzistergos, Chockalingam, Healy, Naemi, and Needham all remained in
+post, shifting their research emphasis from sport and exercise sciences to biomechanics (Section
+1b). Pierscionek was recruited in January 2020 to broaden the research to vision and optics and
+strengthen interdisciplinary collaboration with biological sciences. Dr Nicola Eddison (Clinical lead
+for the Orthotics Service, The Royal Wolverhampton NHS Trust, not returned) has been seconded
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+to CBRT since February 2019 (0.2FTE) as Senior Research Fellow supporting collaboration with
+local NHS trusts and the wider prosthetics and orthotics community.
+
+Sustainable and renewable energy: Recruitment has focused on building capacity in small to
+medium scale energy generation and storage technologies. Gohari Darabkhani (Cranfield
+University) was recruited (August 2016) to provide leadership and enhance our knowledge transfer
+capabilities. Gohari Darabkhani’s research focuses on design and optimisation of biogas/hydrogen
+microCHP systems, carbon capture, and liquid air energy storage using CFD. We appointed
+Ardekani (University of Pretoria, August 2019) for his expertise in simulation-based optimisation
+and computational thermofluids with applications to solar energy and energy storage systems. We
+recruited Komilian (ex-PhD student, July 2020) to provide long term sustainability in organic solar
+cells (supporting Sadat-Shafai).
+
+Digital systems: We strengthened expertise in signal processing, artificial intelligence and
+wireless networks and focused on greater interdisciplinarity between computer science and
+engineering. We recruited Dodd (September 2019) to support growth in autonomous systems.
+Asaduzzaman joined (February 2014) from the University of Dhaka based on his research on
+statistical modelling in communications, healthcare, and the environment. Shiry Ghidary
+(Amirkabir University of Technology, Tehran, February 2020) strengthens our research in machine
+learning, computer vision, and brain-computer interfaces. Amjad joined the full-time staff
+(September 2017) having previously completed a PhD in the University. Underlining our
+commitment to staff development, we moved Griffiths from teaching focused to research active.
+Amjad and Griffiths provide expertise in communications and signal processing to support Soliman.
+
+   b. Staff development and support
+
+We ensure a supportive research culture that encourages staff to be ambitious and take risks to
+achieve their potential. We support staff to pursue research goals and seek opportunities that
+develop them personally and professionally. Research staff receive at least 20% of their
+contractual time to undertake core research activities including conducting personal research,
+developing new research ideas, funding applications, and contributing to the internal and external
+research culture (including editorial duties, conference organisation, and contributing to
+professional bodies).
+
+Workload planning is proactively used to balance responsibilities. Staff with a SRR have reduced
+teaching and management responsibilities. The annual Performance and Development Review
+(PDR) provides staff the opportunity to reflect on their activities, set objectives aligned to the
+Research Centre, School, and University strategies, and identify development needs. An interim
+PDR is held to reflect on progress and update objectives. The PDR process prioritises discussion
+of career development and aspirations. All staff are encouraged and supported to undertake
+relevant training.
+
+Key career stages for academics are Lecturer, Senior Lecturer, Associate Professor and
+Professor. Promotion to Senior Lecturer is through a formal HERA process. We have revised this
+process (led by Dodd) to take greater account of research contributions. Promotion to Associate
+Professor and Professor is through an annual call and includes external reviewers and members to
+ensure sector standards. Staff seeking promotion attend dedicated support sessions and receive
+mentoring from a senior member of staff. Staff promoted in the period: Chatzistergos, Healy,
+Griffiths, Asaduzzaman, Sedky, Soliman, and Ardekani (to Associate Professor) and Benkhelifa,
+Naemi, and Gohari Darabkhani (to Professor). Of the staff submitted: 3 are Lecturer, 1 Senior
+Lecturer, 1 Course Director, 7 Associate Professor, and 7 Professor.
+
+95% of staff in the UoA hold a doctorate. Branthwaite and Healy both successfully completed
+PhDs by publication in the period (supervised by Chockalingam).
+
+RIIS delivers a central research training and development programme based on the themes of
+You, Your Research and Your University. RIIS developed and now refines the programme’s
+
+                                                                                            Page 7
+Unit-level environment template (REF5b)
+content in collaboration with the ADREs. The programme draws on feedback from staff through
+the Professoriate and the Culture, Employment and Development in Academic Research Survey
+(since 2020), guidance from the Vitae Researcher Development Framework, and the principles of
+the UK Concordat to Support the Career Development of Researchers. The award of the HR
+Excellence in Research Award in 2018 reflects our commitment to developing our researchers.
+
+Our research centres and principal investigators provide specific training and development
+opportunities for postdoctoral researchers. This training is tailored to the researcher and project.
+For example, CBRT provides training in biomechanics, equipment, and clinical practice facilitated
+by industry (e.g., Vicon, Cadscan Ltd) and NHS partners (e.g., King’s College, Royal Stoke
+Hospitals) and by international collaborators.
+
+RIIS and ADREs work with the research centres to provide connected university-level support for
+the development of funding applications and collaborative opportunities. We are planning to
+finalise a formal internal peer review college. Centres have dedicated seminar series and run their
+own research development opportunities, including ‘writing retreats’. The University runs an
+annual research conference providing an opportunity to disseminate and share research and
+develop new internal collaborations. The ADREs have initiated internal interdisciplinary networks
+to bridge gaps between subject areas, e.g., computing and biology.
+
+Staff are supported by a community of 26 Visiting and 11 Emeritus staff, who are active research
+collaborators and provide challenge and stimulation for our research work, e.g., Professor Joe
+Hammill (University of Massachusetts Amherst) mentors junior staff (Needham) and PhD students
+and contributes to the CBRT seminar series; and Simon Bartold (previously research lead at
+ASICS footwear) provides expert advice while being an advisor to NICE and MHRA.
+
+   c. PGR students
+
+A key area of growth has been PhD recruitment, enhancing our productive, dynamic research
+environment. 56 PhD students (plus 12 students not included in HESA data as they undertook
+PhD by publication (4) or distance learning (8)) successfully completed in the period (compared to
+9.5 for UoA15 REF2014). To maximise flexibility, we offer full-time and part-time study, distance
+learning, and PhD by publication. We currently have 80 registered PhD students including 2 by
+publication, 7 professional doctorates, and 13 distance learning. Many of these students work in
+collaborating universities or industry and support long term collaborations (Section 4a).
+
+Staff undertake mandatory training prior to supervising PhD students. Training covers best
+practice in supervision, pastoral care, regulations, and the examination process. All supervisors
+undertake mandatory annual refresher training including sharing of best practice. Supervisors are
+members of a University Supervision Training Network. Staff new to PhD supervision are allocated
+a mentor (through the relevant research centre) and all PhD students have at least two
+supervisors.
+
+We select PhD students to ensure they have the relevant background, skills, and motivation.
+Development of PhD students starts with the application process, which requires a research
+proposal and interview with the supervisory team and an independent panel member (ensuring as
+far as possible a gender balance). Support of PhD students is the joint responsibility of the
+Graduate School, School PhD leads and supervisors. All students receive an induction together
+with students joining in the same cohort (there are three admissions points during the year). PhD
+students join the relevant research centre, which then provides specific training in relevant
+techniques (e.g., data analysis and statistics in CSSAIC) and equipment (e.g., shear wave
+elastography in CBRT).
+
+PhD students undertake an early-, mid-, and late-stage review during the PhD. They are assessed
+on a portfolio and interview at each stage to support their development. The student, supported by
+the supervisory team, completes a skills appraisal and development plan based on the Vitae
+Researcher Development Framework.
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+
+The Graduate School (GS) (REF5a) was formed to ensure a consistent approach to PhD support
+across the University. The ADREs and School PhD leads work with the GS to support students
+and to shape and deliver the central research training and development programme. We
+subscribe to the ESRC funded University of East Anglia Online Training Series for PGRs and
+actively encourage our students to participate. The GS runs an annual Postgraduate Research
+Conference (now merged with the staff conference), providing opportunities to develop research
+communication and collaborations. Students are encouraged to participate in regular PhD social
+events and to join the Staffordshire University Postgraduate Society.
+
+We provide career mentoring and tailored support for job applications and interview preparation.
+As evidence of our success in PhD development we recruited PhD students: Amjad (September
+2017) and Komilian (July 2020) to the academic staff. Examples where our PhD graduates in the
+period have moved include: Nicola Eddison (Clinical lead, Orthotics Service, Royal Wolverhampton
+NHS Trust), Sara Behforootan (Researcher, Imperial College), Muhammad Kamran Naeem
+(Researcher, University of Wolverhampton), Raouf Abozariba (Lecturer, Birmingham City
+University), Siva Karteek Bolisetti (Infineon Technologies UK Ltd), Hesham Aly (Arab Academy for
+Science Technology & Maritime Transport), Thomas Welsh (Researcher, Lero Research Centre,
+University of Limerick), Oluwasegun Adedugbe (Researcher, Zayed University, UAE), and Ochai
+Oklobia (Researcher, Swansea University).
+
+   d. Equality and diversity
+
+As outlined in the Code of Practice, the University has a comprehensive ED&I framework which we
+support throughout the UoA. We are a diverse staff. 54.3% of us are from a Black, Asian, and
+Minority Ethnic background and 18.5% are female (compared to 0% in UoA15 REF2014). We are
+committed to equality and diversity in ensuring a vibrant research environment and equality of
+opportunity. Since 2014 two (out of four) of our female staff have been supported to achieve a
+PhD by publication and two have been promoted to Associate Professor. The University has
+recently implemented a blended working framework and supports flexible working to support
+personal circumstances. It is compulsory for all staff to undertake unconscious bias training. Dodd
+is member of the University Inclusion Champions group. Griffiths is a member of Women in
+Science and Engineering. The University is a Stonewall Diversity Champion and in 2020 launched
+a comprehensive Race Equality Action plan.
+
+
+ 3. Income infrastructure and facilities
+   a. Income
+
+Our research income in the period totalled £3,184,731 across 68 grants and represents an income
+of £173,083 per FTE (£69,843 in UoA15 REF2014). We have a diverse and robust income
+portfolio including awards from: EU government bodies, £1,061,204 e.g., EU Framework
+Programme 7 and Horizon 2020; UK Government, £1,206,833; EPSRC, £50,992; industry,
+£626,143; and UK Charities, £61,649. Overall, our research income increased by 442% (147% per
+FTE), reflecting our increasing research capacity and activity.
+
+Key grant awards highlights:
+   • EU FP7/Horizon2020: £110,000 to develop Smartphone Thermal ANalysis for Diabetic foot
+       Ulcer Prevention and treatment (‘STANDUP’).
+   • ERDF (Section 4b): £1,064,910 to support regional growth in advanced manufacturing;
+       £744,728 to support regional SMEs with digital innovation; £986,766 to support innovation
+       in connected and intelligent mobility.
+   • Innovate UK: £91,798 for low-cost in-shoe pressure measurement; £97,188 to develop
+       customised orthoses for the treatment of ulcerated feet; £55,760 to develop a system of 3D
+       perfusion mapping for diabetic foot ulcer assessment; £204,206 to develop a Micro Turbine
+
+
+                                                                                            Page 9
+Unit-level environment template (REF5b)
+       Renewable Energy Combustor (MiTREC); £44,200 to support feasibility research into
+       Virtual Infrastructure Testing as a Service (VITaaS).
+   •   KTP: £101,625 for cloud based digital transformation for logistics and transport; £78,225;
+       for mobile device routing using machine learning; £62,774 to develop Industry 4.0 concepts
+       including smart sensors and control.
+   •   Newton Fund: Institutional Development grant (£43,982) to develop an ultrasound-based
+       diagnostic tool for the Peruvian population; Institutional Links funding (£143,686) to
+       collaborate with Alexandria University, Egypt, to develop and install a solar organic
+       photovoltaic facility.
+   •   NIHR: Invention for Innovation grant of £57,770 for ViscoTurf, preventing secondary
+       diabetic foot ulceration.
+
+   b. Future income plans
+
+We will capitalise on existing research strengths and links with partners to double our per FTE
+research income and ensure a robust range of funding bodies. We will target EPSRC, Innovate
+UK (including KTPs), Horizon Europe, Royal Academy of Engineering, NHS, industry, and relevant
+funding charities.
+   • Our stronger, new internal peer review processes and a strategy for a peer review college
+       are key to our plan to increase our research income.
+   • We will prioritise sustainability by supporting early career academics, emphasising
+       fellowships (in line with UKRI strategy), and building collaborations internally and with
+       world-leading academic institutions and industry. We will target new academics who can
+       submit high quality applications to the EPSRC New Investigator Award scheme to establish
+       their track record and a platform for future funding (Section 2b).
+   • We will continue our success in international collaborations by applying for international co-
+       operation funding including Horizon Europe, GCRF, and Newton Institutional Links. We will
+       use our overseas teaching collaborations as platforms for building research collaborations
+       (e.g., the successful collaboration with XUPT, China).
+   • Our recently established IEZ and knowledge exchange projects (Section 4b) are already
+       building links with industry that will form the basis for Innovate UK (including KTPs), and
+       direct industry funding in line with our Higher Education Innovation Fund Strategy. We will
+       foster these relationships to underpin basic research funding applications (e.g., EPSRC)
+       through pledges and letters of support.
+   • We will continue to seek funding for policy and advisory work, e.g., from our links to the
+       World Health Organisation.
+
+   c. Facilities and infrastructure
+
+In Digital Systems, we have established a SmartZone including high-performance computing to
+support simulation work and facilities for AR, VR and 3D-scanning. Our work on AI and the IoT is
+supported by a dedicated lab space. The SmartZone provides facilities for advanced
+manufacturing and rapid prototyping that support our research in Renewable and Sustainable
+Engineering. This theme has received external investment of £779,500 to establish an advanced
+materials facility (Research England, SAMIAC – Section 4b) including Laser Induced Breakdown
+Spectroscopy, Micro Scratch Tester, Particle Size Analyser, and Quantum Efficiency
+Measurement. We established dedicated incubation space for new start-ups in advanced
+engineering. We received £1,064,910 funding (ERDF, SAMPID – Section 4b) to establish an
+advanced manufacturing and prototyping facility including 3D metal printing, gas turbine combined
+heat and power system, advanced automation, and robot arms. These investments are key to our
+future vision for sustainability and renewable energy and ensuring impact through collaboration
+with industry. In Biomechanics we invested in shear wave elastography, laser speckle contrast
+analyser, human performance testing, materials testing, and additive manufacturing. We
+advanced our research into modelling the eye by using the Spring-8 third-generation synchrotron
+radiation facility located in Japan.
+
+
+
+                                                                                          Page 10
+Unit-level environment template (REF5b)
+We have invested £57,000 in dedicated space for postgraduate and postdoctoral researchers
+(172m2).
+
+   d. Future investments
+
+We will purchase a high-performance computing facility to support research in all areas, including
+CFD, FEA, data analytics and large-scale simulations. CSSAIC will engage with regional partners
+to build research testbeds, e.g., Internet of Things, SCADA testbed with ABB and/or GE. The
+SCADA testbed empowers us to develop solutions to pressing problems in control and automation,
+cybersecurity, design optimisation, and simulation. CBRT will purchase a nano-indenter and
+hyperspectral imager to enhance our ability to study the effects of diabetes and ulceration on the
+foot. We will support recent appointments and future growth in CRSE by investing in smart grid,
+fuel cell, solar PV, and solar collector facilities and a low carbon electric vehicle testbed. To
+support collaboration with healthcare we have recently been awarded (August 2020) £2.8M
+funding from Stoke-on-Trent and Staffordshire Local Enterprise Partnership (£2.9M match) for a
+new Health Innovation Centre.
+
+ 4. Collaboration and contribution to the research base economy and society
+   a. Research collaborations, networks, and partnerships
+
+Interdisciplinary and international collaboration is at the heart of our research strategy. 67.4%
+(51.8% international) of our outputs were collaborative with 99 organisations from 31 countries.
+Key international collaborators were Amirkabir University of Technology, Iran (39 co-authored
+publications), Jordan University of Science and Technology (39 publications), University of Malta
+(26 publications), and University of Pretoria (18 publications).
+
+Indicative academic collaborators:
+
+UK: Swansea University; Bangor University; University of Wolverhampton; Birmingham City
+University; University of Glasgow; Middlesex University; University of Sheffield; Kingston
+University; Keele University; University of Dundee; Kings College London; Brighton and Sussex
+Medical School.
+
+Europe: University of Malta; Koc University Hospital, Turkey; DLR-Institute of Solar Research,
+Germany; Istanbul Technical University, Turkey; University of Luxembourg; University Polytechnic
+of Valencia, Spain; Karolinska Institutet, Sweden; Linköping Institute, Sweden, Utrecht University,
+The Netherlands.
+
+Middle East: Amirkabir University of Technology, Iran; Iran University of Medical Sciences; Jordan
+University of Science and Technology; Tehran University of Medical Sciences, Iran; Alexandria
+University, Egypt; King Abdullah University of Science and Technology, Saudi Arabia; Princess
+Sumaya University for Technology, Jordan; Mutah University, Jordan; Prince Mohammad bin Fahd
+University, Saudi Arabia; Arab Academy for Science, Technology and Maritime Transport, Egypt;
+University for Business & Science, Beirut, Lebanon; Yarmouk University, Jordan; American
+University in Beirut, Lebanon; Lebanese American University; Alexandria University, Egypt; Arab
+Academy for Science and Technology, Egypt; Pharos University in Alexandria, Egypt.
+
+Asia: Diabetes Hospitals, Chennai, India; Mobility India, Bangalore, India; Sri Ramachandra
+University, India; Nanjing Tech University, China; XUPT, China; Xidian University, China;
+APU/APITT Malaysia; University of Technology Malaysia; Chengdu University of Technology,
+China; City University of Hong Kong; COMSATS University Islamabad, Pakistan; National
+University of Sciences and Technology, Islamabad, Pakistan; NED University of Engineering &
+Technology, Pakistan, Guangzhou Sport University.
+
+South America: University of Sao Paolo, Brazil; Pontifical Catholic University of Peru; Pontifical
+Xavierian University, Colombia.
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+
+North America: University of Alabama, USA; Clarkson University, USA.
+
+Africa: Mundiapolis University, Morocco; University of Pretoria, South Africa; Muhimbili University
+of Health and Allied Sciences, Tanzania.
+
+Examples of collaborations:
+   • Working with Pontifical Catholic University of Peru (funded by a Newton Fund Institutional
+      Links Programme), we developed and used an innovative method, ultrasound reverberant
+      shear wave elastography, to assess soft tissue of the foot. This project established the
+      ability of this technique to diagnose soft tissue abnormalities in people with diabetes. The
+      technique is currently used by a hospital in Peru.
+   • QR-GCRF funds have supported: 1. Mapping user needs for a functional prosthetic knee
+      joint: A sociocultural perspective with Mobility India; 2. Promoting best practice in diabetic
+      foot care in India with Sri Ramachandra University; 3. Should we think beyond plantar
+      pressure? with University of Sao Paolo; 4. Liquid air energy storage and regeneration
+      (LAESR) with Istanbul Technical University; 5. Bio-Hythane (H2+CH4) fuels from organic
+      waste with Sao Paolo University.
+   • Teaching partnerships have been successfully extended to research: 1. Distance learning
+      programmes in engineering, XUPT, China; 2. Soliman led a joint ERASMUS+ collaboration
+      with Tafila Technical University and Mu'tah University (Jordan), which subsequently
+      developed into research including a £80k RAEng grant; 3. Sedky led two Erasmus+
+      international credit mobility projects with Lebanese, Egyptian, and Moroccan universities.
+   • Soliman acted as the external foreign expert on a Technical Review Panel of the
+      Department of Electrical and Computing Engineering at COMSATS University, Islamabad,
+      Pakistan, and as Member of the Advisory Board to the Faculty of Computer Science at
+      Modern University for Business & Science, Beirut, Lebanon.
+
+Our collaborative working strategy values visiting titleholders (Section 2b). They expand our
+research environment through co-production, PhD supervision, joint grant applications, and their
+links to industry organisations, user groups, and policy makers.
+
+   b. Relationships with users, beneficiaries, and audiences
+
+A strong philosophy of our research is co-creation and collaboration with users to ensure impact.
+We work with regional, national, and international partners to drive research direction, facilitate
+knowledge transfer, and ensure our work benefits the widest range of stakeholders.
+
+Complementing our strong international collaborations, we work closely with regional partners in
+line with the University vision as a civic university (REF5a, Section 1). We have won substantial
+funding (£4,075,904) from Research England and the European Regional Development Fund to
+develop collaborative research and knowledge exchange. The University has committed matched
+funding (£2,819,868) to help us generate impact and supporting the regional economy.
+
+Staffordshire Advanced Manufacturing, Prototyping, and Innovation Demonstrator
+(SAMPID) – ERDF funding (£1,064,910, matched funding £709,940, 2019-23) to support 45
+regional SMEs with product design, development, and prototyping through mini-KTP type projects
+and access to a new advanced manufacturing facility in the University.
+
+Staffordshire Advanced Materials Incubation and Accelerator Centre (SAMIAC) – funded by
+Research England (£779,500, matched £734,000, 2019-21) in collaboration with Staffordshire
+Business School, supports innovation in advanced materials. SAMIAC provides business
+incubation space, a new research, prototyping, and innovation laboratory for materials
+characterisation and testing, and a training academy in innovation and entrepreneurship.
+
+Staffordshire Digital Innovation Partnerships (SDIPs) – funded by ERDF (£744,728, matched
+£496,485, 2019-21) is a collaboration with Staffordshire County Council to transform 36 regional
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+SMEs through digital innovation. SDIPs has already created 26 new partnerships, a KTP,
+additional industry funding (£50k), and 11 new products.
+
+Staffordshire Connected & Intelligent Mobility Innovation Accelerator – funded by ERDF
+(£986,766, matched £657,843, 2020-23) to support 45 SMEs to deliver innovation in connected
+and intelligent mobility. SMEs will be supported through mini-KTP type projects led by dedicated
+Innovation and Enterprise Fellows in collaboration with academics.
+
+Enterprise Collaboratory – funded by Stoke-on-Trent and Staffordshire LEP (£500,000, matched
+£221,600, 2020-21) to develop dedicated space for ideation and brainstorming for new start-ups
+and local SMEs. The space will empower our existing students (including PhD students) to
+commercialise their work.
+
+These initiatives have been brought together in the Staffordshire University Innovation
+Enterprise Zone (launched November 2020) to engage with regional and national businesses
+including research collaboration, knowledge exchange, innovation, and skills development.
+
+Key exemplars of relationships with users, beneficiaries, and audiences:
+
+Biomechanics:
+   • Our work on the biomechanics of the diabetic foot is motivated by a collaboration with AR
+      Hospital, Sri Ramachandra University, and other leading diabetes centres in India. It has
+      resulted in a significant improvement in the care for patients with diabetic foot
+      complications.
+   • Working with the University of Malta and Abbas Medical Centre (Tanzania), the
+      development of a robust prognostic tool has led to more accurate and efficient assessment
+      of foot ulceration.
+   • Our work with Hospital Militar Geriatrico, Lima, Peru, led to greater understanding of the
+      effect of diabetes on soft tissue mechanics of the foot, resulting in significant improvements
+      in patient outcome.
+   • Our collaboration with Koc hospital, Turkey, led to significant improvements in prevention of
+      diabetic foot ulcer, in patient outcomes, and quality of life in low- and middle-income
+      countries.
+   • Our research of insoles has benefited Technofootbed S.L. (Spain), leading to their
+      increased market share in Europe and the UK and a 10% increase in profit.
+   • Our collaboration with the NGO Mobility India surveys the quality of life of people with a
+      lower-limb amputation and explores how prostheses affect their ability to participate in work
+      and social activities.
+   • We have developed a novel computational method to customise shoe insole stiffness that
+      can better redistribute pressure underneath the foot in diabetic patients. This research led
+      to a patent (Customised Support Structure, Deformable Support Structure, PCT/
+      5170/4243PGB) and to NHS England funding of £1.1M awarded to our collaborators
+      Cadscan Ltd, who have commercialised an automated process for the low-cost creation of
+      customised insoles. The Academic Health Sciences Network West Coast has invested
+      £230k to test the feasibility of this system for adoption within NHS diabetic clinics.
+   • Commissioned by the NHS, the British Association of Prosthetists and Orthotists, and the
+      Royal College of Chiropractors we regularly run CPD courses for podiatrists, orthotists, and
+      chiropractors. Our research on foot biomechanics supports evidence-based training in the
+      innovative clinical management of diabetic foot complaints.
+   • The annual Staffordshire Conference on Clinical Biomechanics provides a unique platform
+      to train health practitioners (~150 p.a.) on state-of-the-art engineering methods and
+      technologies including imaging systems, mathematical and numerical modelling, and data
+      visualisation.
+   • Our research has informed a UK parliamentary enquiry (2016-17) on footwear choice and
+      contributed to the World Health Organisation Standards for Prosthetics and Orthotics
+      service provision implemented in all 195 member countries (May 2018).
+
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+   •   We have received funding of £70k from Zeiss Zeiss-Meditec to develop novel implant
+       lenses that alter focus like the biological lens (£70k).
+
+Sustainable and renewable energy:
+   • Funded by Innovate UK (total £935,600, SU £204,206), Gohari Darabkhani worked with
+       Bladon Jets (UK) Ltd, Quality Transmission Equipment Ltd and Cranfield University to
+       successfully design, manufacture, and validate a combustion system for small scale micro
+       turbine power generators that can run on biogas. Bladon has subsequently commercialised
+       a 12kWe biogas micro gas turbine with expected annual sales of 500 units (£10M).
+   • Gohari Darabkhani is working with DRM Technic Ltd on an ERDF funded project (£80,000)
+       (as part of the SEND project, Keele University) to research novel methods for measuring
+       particulate emissions from small/medium combustion plant processes with the aim of
+       reducing emissions.
+   • Sadat-Shafai has received Newton Institutional Links funding (total £273,686, SU
+       £143,686) to collaborate with Alexandria University, Egypt to develop, install and evaluate
+       the socioeconomic impact of a solar organic photovoltaic facility in Egypt.
+
+Digital systems:
+    • In collaboration with Yarmouk University, Jordan, Benkhelifa developed a prototype novel
+        end-to-end wireless sensor network for on-the-fly early detection and warning LPG-leakage
+        detection IoT system. This network is being piloted in food outlets in Jordan.
+    • Benkhelifa leads an initiative for enhanced cyber safety in businesses. Over 200
+        organisations in the Staffordshire region have joined the initiative. The evaluation research
+        demonstrated significant impact in reducing cybercrimes in the workplace and improved
+        productivity through digital adoption.
+    • Soliman received £14,000 funding (total award £80k) from the Royal Academy of
+        Engineering to work with the University of Sheffield and Jordanian partners (Jordanian
+        Ministry of Agriculture, Tafila Technical University, and Mu'tah University) to develop novel
+        approaches to intelligent automation of olive harvesting.
+    • Sedky has been awarded two KTPs (total funding £164,035) to work on Industry 4.0 (with
+        StormKing Plastics Ltd) and the use of AI and machine learning to train crime scene
+        investigators (with Virtual Reality Simulation Systems Ltd).
+
+   c. Contributions to research base, economy, and society
+
+Industry Work Groups and Professional Networks
+   • Benkhelifa: lead research partner with Staffordshire Police Cyber Champion in the
+       workplace initiative.
+   • Branthwaite: leads the strategy for the College of Podiatry Musculoskeletal Biomechanics.
+   • Chatzistergos: founding member of the Greek Society for Experimental Mechanics.
+   • Chockalingam: expert to the European Parliament in policy areas relating to the
+       assessment of new and emerging technologies, and foresight on long-term scientific and
+       technological trends; elected Secretary, International Research Society on Spinal
+       Deformities.
+   • Gohari Darabkhani: team leader in the European Turbine Network; member of the
+       Staffordshire Chambers of Commerce Energy, Environment & Sustainability Forum; and
+       member of the UK Carbon Capture and Storage Research Centre.
+   • Dodd: advisor for the IET Reference on Autonomous Vehicles, 2015; and member of the
+       IET Aerospace Technical Advisory Panel.
+   • Griffiths: mentor for the Women’s Engineering Society and STEM Ambassador.
+   • Sadat-Shafai: member of the Engineering Gateways Advisory Group; and member of the
+       Practice Transfer Partnership Engineering Council.
+   • Soliman: member of the Digital Agriculture Special Interest Group, UK.
+
+Conference Organisation, Keynote Speeches and Invited Lectures
+
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+   •   Submitted staff supported the delivery of over 50 national and international conferences,
+       symposia, and other meetings in the period, acting as conference chair/co-chair (18) and
+       membership of programme committees (32).
+   •   Since 2002, CBRT has organised and hosted the annual Staffordshire Conference on
+       Clinical Biomechanics (Section 4b).
+   •   We organised and hosted the 2015 International Universities Power Engineering
+       Conference.
+   •   Staff delivered over 29 keynote and 46 invited lectures in the period.
+
+Editorial Activities
+    • Ardekani: Editorial Board of Energy and Power Engineering; International Journal of
+        Current Research in Engineering and Technology; and Journal of Atmospheric Science
+        Research
+    • Asaduzzaman: Associate Editor of IEEE Access; and PLOS One.
+    • Benkhelifa: Editor of International Journal of Grid and High-Performance Computing;
+        International Journal of Big Data Intelligence; International Journal of Artificial Intelligence
+        and Application; and International Journal of Design Engineering. Guest edited special
+        issues of IEEE Transactions on Industrial Informatics; Journal of Cluster Computing;
+        Journal of Multimedia Tools and Applications; Journal of Information Processing &
+        Management; and IEEE Transactions on Cloud Computing.
+    • Branthwaite: Editorial Board for Footwear Science and Journal Foot and Ankle Research.
+    • Chockalingam: founding Associate Editor for Footwear Science and Scoliosis and Spinal
+        Disorders; Associate Editor for Prosthetics and Orthotics International and The Foot;
+        Editorial Board for Frontiers in Rehabilitation Sciences.
+    • Healy: Associate editor for Assistive Technology Journal.
+    • Soliman: Editor of PeerJ Computer Science; Associate Editor of IEEE Access.
+
+Awards and Prizes
+  • Ardekani: Green Talent 2015, Federal Ministry of Education and Research of Germany.
+  • Gohari Darabkhani: Best Presentation Award, 20th International Conference on CCS
+      Technologies; and Ghana Institution of Engineers Engineering Excellence Award in 2017
+      for research on removing black powder impurities from natural gas transmission pipelines in
+      collaboration with the Ghana Gas Company Ltd.
+  • Chatzistergos: 5 awards including Editor’s choice award for 2018 from the Biomedical
+      Engineering Society for the paper: ‘Subject Specific Optimisation of the Stiffness of
+      Footwear Material for Maximum Plantar Pressure Reduction’; and Research and Innovation
+      Award, Institute of Physics and Engineering in Medicine.
+  • Pierscionek: Paper [6376] selected for inclusion in Optics and Photonics News’s ‘Optics in
+      2020’ Best in Optics selection.
+
+Examples of Public Engagement
+   • CBRT delivered National Biomechanics Day – 6th April 2017, ‘Biomechanics: From Human
+      Body to Sport to 3D Printing’ to secondary school pupils in the Staffordshire region.
+   • Naemi et al delivered ‘Translating Our Research for Public Consumption: National
+      Biomechanics Day and Beyond’, Brisbane, Australia, July 2017.
+   • Ardekani has been interviewed for 53 articles and reports in international newspapers,
+      magazines, and TV programmes.
+   • Dodd has been interviewed by Newsweek on the topic of civilian drones.
+   • Healy delivered a public lecture titled ‘Good Health and Wellbeing in an Unequal World’ for
+      the University’s Profs in the Pav public seminar series.
+
+
+
+
+                                                                                                 Page 15
+

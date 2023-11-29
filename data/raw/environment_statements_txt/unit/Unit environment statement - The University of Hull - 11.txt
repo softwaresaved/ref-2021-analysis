@@ -1,0 +1,763 @@
+Unit-level environment template (REF5b)
+ Institution: University of Hull
+
+ Unit of Assessment: 11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+
+ The Department of Computer Science and Technology is part of the Faculty of Science and
+ Engineering. The Department’s research is organised within three Research Groups (RGs):
+ Dependable Intelligent Systems (DEIS)
+ Healthcare Informatics and Robotics (HIR)
+ Virtual Augmented Reality and Simulation (VARS)
+ Each RG has dedicated laboratory space with facilities to support research by academic members
+ of staff, research associates, postgraduate research students, and visiting researchers. A
+ Research Committee involving the Head of Department, Director of Research and RG Leaders
+ and Postgraduate representatives develops and coordinates the research strategy in consultation
+ with staff, and approves individual and group research plans. An annual review of research
+ activities allows monitoring of progress, and informs supportive actions.
+ Under this simple and robust administrative structure we have established an inclusive,
+ collaborative, and mostly heterarchical research environment where the intellectual pursuit of
+ knowledge (the Academy) generates the fruits of impactful research for society: a model that
+ stretches back to the ancient Academy of Plato and the Garden of Epicurus. We, informally, refer
+ to this research environment as our academic garden, a place where impactful research ideas are
+ nurtured. In the 2014-21 REF period we have produced innovative techniques that can improve
+ the dependability of complex systems, including the intelligent, autonomous, connected and open
+ cyber-physical systems of systems emerging in many areas of life. The results of this work are
+ presented in the BIOLOGIC impact case study (ICS) authored by the DEIS RG. We have also
+ produced novel virtual environments for training professionals that improve public health and
+ emergency services. The results of this work form the VETA ICS co-authored by the VARS and
+ DEIS RG. Our impact is local and global and includes transfer of research globally to the
+ automotive, aerospace and other safety critical industries, the green energy sector, UK wind
+ energy in particular, over 150 hospitals worldwide, and a third of the UK’s fire services.
+ The transformation of the research produced by our research environment into enterprise is
+ facilitated through the Innovation Centres of the University. They include Knowledge
+ Exchange, through which two spinouts have been created to commercialise our research (Vertual
+ and Lampada), and the AURA Innovation Centre (see later). Through AURA, we have the potential
+ to orientate elements of our research toward the offshore wind energy industry (which is a crucial,
+ fast-emerging element of our regional economy and wider international economies). The
+ commercialisation of our research is also facilitated through links to C4DI, a Hull-based
+ technology incubator creating much needed high-tech, high-value employment and business in
+ the region. We have nurtured this kind of innovation so that we are embedded in an international
+ network of universities, hospitals, fire services, software houses, SMEs and large engineering
+ companies through which we transfer our research globally. The mechanics of our impact strategy
+ and contributions to society and economy are explained in the two ICS and in 4.2.
+
+
+
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+
+ 1.2 Research and Impact strategy
+ The three departmental RGs have evolved from those submitted in REF2014:
+    •   Dependable Intelligent Systems (DEIS) evolved from Dependable Systems (DS) to
+        address the new challenges in the field of intelligent systems. It is led by Prof.
+        Papadopoulos.
+    •   Healthcare Informatics and Robotics (HIR) evolved from Intelligent Systems (IS) to
+        provide a more specific application and technology focus to this group. It is led by Prof.
+        Murray.
+    •   Virtual Augmented Reality and Simulation (VARS) evolved from The Simulation and
+        Visualization RG (SimVis) and is led by Warren Viant.
+ This evolution and partial changes in direction was partly caused by the unfortunate deaths of
+ professors Jiang and Phillips, and the arrival of new leadership: Prof. Murray – currently HoD with
+ interests in Robotics. Change was managed effectively and the groups built on their extant
+ strengths and developed new research challenges. They also aligned further with the research
+ priorities of the University and regional agendas.
+ The research and impact strategies of the department are knitted together within our integrated
+ research and impact strategy. This has four interconnected layers as shown in Figure 1.
+
+
+
+
+                 Figure 1: Integrated Departmental Research and Impact Strategy
+ Reading left to right, column L1 shows the fundamental technologies that we research. Column
+ L2 shows the three RGs and, in between the two columns, how these RGs engage with
+ fundamental technologies. Column L3 shows the application areas targeted and, in between
+ columns L2 and L3, how RGs relate to these areas. Finally, column L4 shows the two ICS and, in
+ between columns L3 and L4, the impact in each of the application areas. The BIOLOGIC ICS
+ impacts on technologies that improve the dependability of systems, and the VETA ICS impacts
+ on virtual environments for training professionals in the health and emergency services. The three
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ RGs have significant ‘Other Smaller Impacts’ in areas including inland security and education,
+ as our research strategy also supports effective collaboration beyond our department.
+ At the individual scale we develop our staff with responsibility for research. These are talented,
+ focussed and productive academics who have earned highly competitive posts, and we therefore
+ enhance their potential. We ask them to be research effective rather than simply research active.
+ This means 1) producing excellent research in appropriately high-profile and visible publications
+ (with at least one high quality publication per annum as lead or corresponding author (with
+ Open Access)); 2) producing at least one high-quality grant application at sector average or
+ above to enable this research per annum, and 3) earning funding for high quality postgraduate
+ researchers (at least one as lead supervisor every third year), and supervising them effectively
+ to timely completion with high-quality publications to follow.
+ Our impact strategy builds on the effective partnerships we develop with research-users. We
+ build their requirements into the design of research programmes to ensure delivery of their needs
+ and robust impact. Our impact agenda has progressed considerably from REF2014 due to a
+ clearer University-wider focus on impact and engagement.
+ The Aura Innovation Centre (AIC) recently opened at the Bridgehead Business Park on the
+ outskirts of Hull. It is a £12M investment of University and European Regional Development
+ Funding and provides space for large businesses and SMEs to access University research for
+ collaboration and innovation, and in the offshore wind sector especially. It also houses dedicated
+ Aura Innovation Managers, research labs and equipment that connect commercial users with
+ university expertise to support shared activities, development and commercialisation (including
+ projects supported by an £8M ERDF-fund of University-administered Sparkfund Innovation
+ Vouchers and Research and Development grants).
+ The University Directors of Business Engagement and Enterprise support this infrastructure, as
+ does a Knowledge Transfer Partnership (KTP) Champion and dedicated KTP support (that have
+ supported Dethlef’s successful KTP-application for data analytics, natural language processing and
+ AI to aid management in Spencer’s Engineering). Transparent university support also includes
+ HEIF funding (through application with an external user), dedicated Impact Officers and Impact
+ Accelerator Awards also support this agenda.
+
+ 1.2.1 Dependable Intelligent Systems Research Group - Research and Impact
+ Strategy
+ Since the 1990s the DEIS RG, led by Prof. Yiannis Papadopoulos, has been recognised
+ internationally for innovative research on the engineering of dependable systems. The group is
+ pioneering a novel syntheses of software engineering and bio-inspired technologies for the design,
+ analysis, and operation of dependable intelligent systems. Model-based and AI techniques are
+ exploited to assess and guarantee dependability properties, including safety and security of
+ systems, communication, and data. Applications span from the engineering of safety critical
+ transport systems, through geospatial simulation, and from the analysis of documents and social
+ media to the synthesis of generative art.
+ A central vehicle and outcome of our work is the HiP-HOPS method and tools for design and
+ analysis of dependable systems. The method offers a significant innovation covering the system
+ engineering lifecycle, from intelligent allocation of safety requirements through automated
+ dependability analysis to evolutionary optimisation of system architectures, the automated
+ production of certification artefacts, and intelligent safety monitoring using agents. Over 200
+ papers on the theory and industrial application of this method have been published. HiP-HOPS is
+
+                                                                                            Page 3
+Unit-level environment template (REF5b)
+ widely recognized as contributing to the international state-of-the-art in the area of dependability.
+ It is one of the first methods to have automated the production of safety analysis models such as
+ fault trees and FMEAs in the 1990s, and to have used AI metaheuristics in model-based
+ engineering in order to auto-explore trade-offs among dependability, performance and cost in the
+ design of dependable systems in the 2000s. Within the period, HiP-HOPS made a significant
+ turn towards AI, and advanced significant innovations - several of which are described in our REF
+ outputs and cited in the BIOLOGIC ICS. They include:
+  −   Pandora, an algebraic framework for the analysis of temporal fault trees and the prediction
+      of dependability in dynamic systems. Pandora can analyse state-sensitive fault trees
+      describing sequencing of faults and created from architectural models and state machines.
+  −   Algorithms for multi-objective optimization of the architecture and maintenance of
+      systems; the latter include optimization that exploits condition monitoring data through
+      analytics to continually predict the remaining useful life of components (DREAM project,
+      funded by EDF) .
+  −   Evolutionary algorithms for automatic allocation of safety requirements as Safety Integrity
+      Levels or Development Assurance Levels; these automate the implementation of modern
+      automotive safety standards such as ISO 26262 and the ARP aerospace safety standards.
+  −   Contributions to EAST-ADL (MAENAD EU project), and AADL - two emerging languages
+      with dependability analysis and optimization capabilities for the design of automotive and
+      avionics systems respectively.
+  −   New Fuzzy and Bayesian concepts for safety analysis under uncertainty that are
+      integrated into the HiP-HOPS method.
+  −   Novel work that addresses emerging challenges in open, cooperative, autonomous cyber-
+      physical systems. In the DEIS H2020 project, we pioneered the development of the Digital
+      Dependability Identities (DDI) concept, a novel technology for run-time certification of cyber-
+      physical systems, autonomous systems and open systems-of-systems, and we have created
+      digital metamodels and tools which are available in the public domain. DDIs are executable
+      specifications that can be used in multi-agent systems for safety monitoring and dynamic
+      certification open system of systems at runtime.
+  −   Development of SafeML − a method for predicting the accuracy of machine learning by using
+      empirical statistical distance measures to measure distributional shifts between training
+      datasets and real-time input data.
+  −   Nature-inspired algorithms capturing the social intelligence of Penguins. This work has
+      been applied in automotive design and received attention from the BBC and global media
+      (see section 4.2)
+ The group has a long history of taking research solutions to European and global industry. In the
+ period, our impact strategy focused on developing a network of national innovation
+ ecosystems in Europe and Brazil though which significant global impact was achieved: novel
+ commercial tools for system design and analysis, new spinouts, applications to several industries,
+ wealth generation and the improvement of the dependability of technological systems. Further
+ details on strategy and impact are given in the two ICS and section 4.2.
+
+ 1.2.2 Healthcare Informatics and Robotics Research Group - Research and Impact
+ Strategy
+ The HIR RG, led by Prof. John Murray, develops research into cognitive and control systems
+ including robotics, machine learning and system security applications, plus decision support and
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ data mining in telehealth. The latter includes research on decision making and data mining from
+ clinical data, machine learning and pattern recognition, and the pervasive intelligence provided by
+ wireless sensor networks for telecare and other applications. Robotics work is evolving to provide
+ advanced research into robot assisted telecare. In addition to academic research, HIR has
+ developed a strong capability for product design and development for local industry.
+ HIR has earned several research grants in the period. An Innovate UK project with METIS
+ Aerospace and Teledyne E2V focused on the detection and identification of drones in
+ restricted airspaces, and included the deployment of the technology at high profile sites such as
+ Heathrow and Gatwick Airports. HIR have secured grants through Innovate UK- and SBRI-funded
+ initiatives to work closely with the UK Home Office and Border Force on developing scanning
+ technologies for the detection of illicit firearms and other illegal concealments (such as drugs
+ and laundered money). This work led to three funded projects with the main Parcel Force and
+ Border Force distributers, the Centre for Applied Science and Technology (CAST), and the UK
+ Home Office. These projects developed machine learning algorithms for incorporation into X-Ray
+ systems. As a direct consequence of this research we delivered a high-profile workshop at the
+ British Machine Vision Conference in 2019.
+ HIR has a long running project collaboration with QinetiQ and the Ministry of Defence on logistical
+ routing systems using graph databases for the supply of resources in “the last mile”. This project
+ is also being developed commercially for sale to QinetiQ. In addition to “last mile”, there are wide
+ ranging applications of this work in humanitarian aid and mainstream freight logistics.
+ HIR has collaborated with iMonSys ltd and Network Communication Systems ltd on
+ developing a series of low-cost wearable and portable digital devices, and software, for
+ healthcare monitoring. The devices can monitor Temperature, HR, ECG, PPG, SPO2, BP,
+ respiration, and Heart Sound on demand and continuously. Benefits to society include enabling
+ an aging population to live independently with confidence, promoting general public self-
+ healthcare, and enhancing patient-doctor communication. Successful prototypes led to a KTP
+ project to create an intelligent hand-held non-intrusive vital-sign monitoring device (NVSM) for
+ use in many sectors of the care industry for the ageing population. This device will allow users to
+ predict and prevent clinical incidents, or to limit their severity.
+
+ 1.2.3 Virtual Augmented Reality and Simulation Research Group - Research and
+ Impact Strategy
+ The VARS RG, led by Warren Viant, focuses on the application of augmented and virtual reality,
+ simulation and visualization to genuine end-user problems, and on the creation of the new tools,
+ techniques and theory needed for their construction. Its strengths in underpinning these
+ technologies stem from work on algorithms for modelling, simulation and rendering, and from
+ expertise in building, validating and using innovative display modalities. These strengths combine
+ to offer discipline-leading applications in radiotherapy, medical practice and emergency
+ service training. The strategy to underpin a sustainable future for this group involves delivering
+ evidence-based, fundamental research that is grounded in the real world of users’ needs and
+ aspirations.
+ An exemplar of this approach is the team’s theoretical framework on high-precision and efficient
+ geometric reconstruction of the human vascular system, which has established a theoretical
+ basis for a range of applications from vascular modelling to the 3D printing of human organs. An
+ ellipsoid fitting algorithm, popularly referred to as Li’s algorithm (Li is member of VARS), has been
+ used in a wide range of applications including MIPAV and a US Patent image segmentation (Ref.
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ US8275182B2). The research has generated several high-quality papers in prestigious graphics
+ journals including ACM Trans., On Graphics, IEEE TVCG, and Graphics Forum.
+ Continuing the reconstruction theme, the team has a longstanding collaboration with Dundee
+ Dental Hospital and Dundee University on a Wellcome Trust funded project analysing
+ maxillofacial growth using 3D medical image analysis. Accurate and robust 3D volume and
+ surface land-marking has been developed to measure the external changes in soft tissues using
+ CT, MRI and photogrammetry imaging modalities.
+ Throughout the REF assessment period the team has collaborated extensively with Vertual Ltd,
+ on the creation of the VERT product range for radiotherapy training (See VETA ICS).
+ Technology transfer is not limited to VERT, but includes several other projects, including the i-BIT
+ project, where virtual reality and video games combine to provide a potential treatment for
+ amblyopia (lazy eye) in children. In collaboration with Nottingham University and NHS Trust, the
+ team have secured both Wellcome Trust and Innovation UK support for Industrial funding,
+ completing two successful sets of clinical trials. An NIHR commercialization grant has been
+ submitted to productise the research.
+ Further medical applications have been developed. An orthopaedic surgical training system,
+ to build key procedure-specific navigation skills, has been produced in collaboration with Northern
+ Lincolnshire and Goole NHS Foundation Trust. The prototype aided the training of junior
+ orthopaedic surgeons positively. An assessment tool to measure and analyse the driving habits
+ and reaction times of older drivers with chronic heart failure, was developed in collaboration with
+ Hull and East Yorkshire NHS Trust.
+ Finally, the team’s extensive experience in VR and systems led to the development of VIC and
+ LIMA software applications in conjunction with Humberside Fire and Rescue Service (HFR) and
+ North Staffordshire Fire and Rescue Services (NSFRS). These applications are used to deliver
+ advanced training for multi-level emergency incidents (See VETA impact case) in more time-
+ and resource-efficient ways.
+
+ 1.2.4 Future Research and Impact Strategies
+ We plan to expand the successful areas of our research further, and strengthen the academic,
+ innovation and industrial networks that we cultivate internationally.
+ Fundamental research will be directed to solve problems in the off-shore wind industry which is
+ of increasing importance to the Humber region and the UK. We will do this through the AURA
+ innovation centre and our links to the ORE Catapult. Our focus will include the intelligent
+ planning of offshore operations and maintenance, and the development of maintenance
+ techniques using drones and underwater robots. We will expand our work on the DREAM project
+ with EDF. We also work closely with the £7M EPSRC Aura Centre for Doctoral Training in
+ Offshore Wind Energy and the Environment (with partner universities Sheffield, Durham and
+ Newcastle). This DTC (2019-27) supports this fast-growing wind energy field and its associated
+ technical and environmental challenges. Dethlefs is a Co-I for the DTC, and CST staff supervise
+ two PhD projects. HIR’s work on healthcare informatics is also growing and is expected to create
+ significant impact through KTP projects and work with local companies on developing digital
+ health monitors.
+ The collaboration between DEIS and VARS has yielded new promising results in the area of
+ virtual environments with applications to digital art, education and art therapy (see TIMAEUS
+ project) - which we plan to strengthen further.
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+ A new area of expansion is smart agriculture. With Fraunhofer IESE we work on delivering
+ technologies for safe collaborative deployment of autonomous vehicles and smart implements in
+ smart agriculture. Fraunhofer has strong links with the advanced German industry in the area, so
+ our aim is to become a link in a bilateral and mutually beneficial technology transfer from which
+ the UK can prosper. This area of research will benefit from our work on robotics, dependability
+ and other disciplines in the university.
+
+ Our long-term emphasis on research ethics is demonstrated by our approach to the increasingly
+ important area of Dependable AI. Given the implications of the vulnerable world hypothesis that
+ sees the history of scientific progress as also bearing the risk that one technology (such as nuclear
+ weaponry) could devastate humanity, we apply a similar cautious approach to advances in AI,
+ where investment and development accelerates. While dependability is paramount, the difficulties
+ of safety assurance are significant and encompass system learning, autonomy, and high
+ uncertainty in open systems. There is a grand technology challenge here, and the implications for
+ industry and society are enormous. We will intensify our efforts towards Dependable AI and the
+ safety of machine learning and deep learning, and undertake further research on the concept of
+ executable DDIs that can address the safety and security of autonomous systems and open
+ systems of systems.
+ 1.2.5 Cooperation in our research environment
+ Our research environment allows and enables cooperation and the cross-fertilization between
+ RGs. This is evident in the VETA ICS where VARS provided research and expertise on virtual
+ environments while DEIS provided research and expertise on safety critical systems,
+ communication protocols and digital learning (for details, please see the ICS).
+ Similarly, DEIS is collaborating with HIR on applications of machine learning and robotic
+ applications, in particular on dependable Multi-Robot Systems (MRS), where a new large EU
+ grant called SESAME (Safety and Security of MRS) was won in 2020. Neil Gordon, of DEIS, is
+ also doing related work on digital learning and education that also informs virtual environments.
+ His HEA report on Technology Enhanced Learning was used by institutions across the world that
+ include the NHS and, more recently, it influenced the Chinese government response to COVID19
+ in education.
+ VARS and DEIS also collaborate on digital art and various aspects of philosophy and its
+ intersections with science. Applications of this work are becoming increasingly impactful:
+ TIMAEUS is a digital art studio environment that enables the creation of personalised, 3-
+ dimensional virtual sculptures. TIMAEUS has been applied in fields ranging from art therapy to
+ education on literature and philosophy, with examples given in by the Virtual Digital Stoa and
+ the Alternative Virtual Odyssey projects.
+
+ 1.3 REF2021 vis-à-vis REF2014 : quick comparison
+ REF2014 was the first time that Hull Computer Science was submitted to UoA11. We returned 14
+ staff and ranked 47th. The panel ranked us 5th nationally for the impact of our research.
+ Our REF strategy was to improve the quality of our outputs and to sustain our high-ranking Impact.
+ In REF2021 we return a smaller number of 11 staff, but this smaller submission is mostly due to
+ changes in internal University processes. The ‘Academic Careers Framework’ allows staff to make
+ their primary contribution in areas where their skills are most suited and beneficial. Staff submitted
+ to this REF are located primarily in the ‘Research Domain’ (although all staff make teaching
+ contributions).
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ Our total research income fell from £2,105,015 (REF2014) to £1,510,455 (REF2021) but therefore
+ remains approximately the same per FTE submitted. This income was supplemented by PhD
+ funding from Doctoral Training Centres based at the University (from where we have funded PhD
+ students). Our commercialization and knowledge exchange activities add to the income figures
+ above. Overall, there is evidence that we return higher-quality outputs and sustained our
+ impact from 2014: In addition, the total number of PhDs awarded in the period increased from 24
+ (REF2014) to 28 (REF2021) with an increase per FTE submitted.
+
+
+
+ 2. People
+
+
+ 2.1 Staffing strategy and staff development
+ Since 2014 the Department has welcomed several early career lecturers and a new professor. It
+ has also seen the promotion of existing staff, based on their research leadership. New staff are
+ supported by University PhD scholarships where possible, with early career staff given additional
+ weighting (and an established mentor for supervision) in the campus-wider studentships
+ competition). Targeted PhD studentships, plus research funding are used to pump-prime
+ collaborative research in strategic fields across the Department and University. To foster and
+ develop the research culture, research and enterprise activities form part of the Department’s
+ workload model (typically 30-40% of time for ‘Research Domain’ academics). Research activities
+ such as Research Postgraduate supervision, grant submission and management, and research
+ output submissions are included in the calculation of workloads.
+ The University’s Staff Development Strategy, in accordance with the Concordat to Support the
+ Career Development of Researchers, recognises and promotes personal and career
+ development at all stages to enhance the lifelong learning of staff. We encourage researchers to
+ identify and attend events in the annual career development programme, and the University offers
+ nationally-recognised courses for researchers that are run in-house. Research project supervisors
+ are encouraged to use them, along with their associates and students. The Researcher
+ Development Framework (RDF) is a detailed competency framework that maps out the skills
+ required to be a successful researcher. Research staff use the RDF to plan their own development
+ in conjunction with appraisal and review discussions. In addition, each research group provides
+ development activities and peer reviews of research plans and project outlines.
+ The University of Hull is a member of VITAE (Careers Research and Advisory Centre (CRAC)),
+ which supports researcher’s professional development at all stages. Hull has held the HR
+ Excellence in Research Award since 2012 and its practices align with the principles of the European
+ Charter for Researchers and Code of Conduct for Recruitment. Our Staff Development Team
+ provides opportunities for researchers to extend their skills with formal courses, self-guided online
+ training, and informal mentoring and group activities.
+ The Faculty supports research leadership by providing Advance HE Research leaders training
+ onsite to 10 colleagues in alternative years. Of the recent cohort, six have now taken on significant
+ leadership roles. The Faculty also supports the participation of women colleagues in the Aurora
+ leadership programme. To date 22 women have completed this programme, many of whom have
+ gone on to undertake significant leadership roles.
+ Staff are encouraged to participate in the Faculty-run Mentoring Schemes. Twelve staff have
+ completed Advance HE mentor training and can deliver specific, target-oriented mentoring (where
+ mentees outline the support they want (e.g. promotion)). Less formal, more general supportive
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+ mentoring relationships between colleagues are also encouraged and cover all aspects of
+ academic careers.
+ Grant writing skills are developed through the Grant Writing Challenge, whereby university
+ Research Development Managers and senior colleagues guide a cohort of early career academics
+ through a structured, six-month series of sessions to produce a competitive grant application.
+ ThinkWrite Grant- and article-writing workshops are also held annually.
+ Conference costs and academic visits are supported by a £250k Research Support Fund
+ from the Faculty. This is temporarily suspended through the pandemic, but normally covers one
+ conference per annum, with additional awards if an impressive case is made. Recipients must
+ demonstrate appropriate results from previous awards for subsequent awards to be considered.
+ The scheme especially encourages applications from early career academics, those retuning from
+ parental or sickness leave, and others seeking a return to research. The scheme can make extra
+ provision for parents with dependents if required. It also provides support specifically targeted at
+ PDRAs for activities reaching beyond the funded grant that employs them – to allow them to further
+ their personal research profiles from their PhD research, or a previous, or potential, Post-doctoral
+ position. The university recognises the crucial importance of celebrating contributions and
+ success. In 2017 the Faculty introduced annual research awards to recognise research and
+ engagement activities. Seven categories stretched across all career stages, roles and
+ collaborations, as well as leadership. These events are catered and build excellent research
+ culture.
+ Facilitating international collaboration is another key element of our strategy for staff
+ development. The Faculty support a Visiting Research Fellow Scheme to attract visiting
+ researchers for a two or three day visit (at minimum), to include at least two engagement events
+ for staff and early career academics/postgraduates. Visiting staff are also appointed using support
+ from other funding sources. During the period, international visiting staff appointments included:
+  −   Ramin Tavakoli (2019) Professor, Nuremberg University, on safety of machine learning.
+  −   Adnan Kiani (2017) Associate Professor, Lahore University, on safety of AI and agents for
+      runtime assurance of dependability.
+  −   Joxe Unanue Aizpurua (2016), Lecturer at Mondragon University, Spain, on HiP-HOPS
+      extensions for maintenance planning.
+  −   Youcef Gheraibia (2015 and 2020), Researcher, University of Setif, Algeria, on Penguin-
+      inspired metaheuristics for optimisation of autonomous cars.
+  −   Weixin Bian (2018), Associate Professor, Anhui Normal University, China, on human-
+      computer interaction, and fingerprints biometric based authentications.
+  −   Jin Zhu (2017), Professor, Tongji University, China, on wearable sensors for healthcare.
+  −   Bing Zhang (2017), Associate Professor, Yanshan University, China, on indirect blood
+      pressure prediction model.
+  −   Jiadong Ren (2017), Professor, Yanshan University, on healthcare data science.
+  −   Xintao Ding (2017), Professor, Anhui Normal University, China, on deep learning for object
+      recognition.
+  −   Qian Wang (2016), Associate Professor, Yanshan University, on software security.
+  −   Jianwei Ma (Feb 2016), Professor, Henan University of Science and Technology, China, on
+      assistive living robots under ambient intelligence.
+
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+
+ 2.2 Research students
+
+ 2.2.1 Support structure and training
+ The goal of our postgraduate research training is to nurture and develop PhD students into good
+ scientists who have a good grasp of epistemology: the theory of the nature of knowledge and its
+ justification. We argue that students who have thought about the fundamentals of science find it
+ easier to complete a PhD and write a quality thesis. We therefore supplement our PhD programme
+ with epistemological seminars.
+ In six tutorial-style seminars, we convey a historical perspective on scientific research starting
+ from a Platonic definition of knowledge as justified true belief. We then cover topics on the nature
+ of knowledge and truth, on scepticism, logic and proof, on empiricism and induction, as well
+ as on falsification and the hypothetico-deductive method. To foster an appropriately-rounded
+ scientific ethos, we also focus on the importance of research ethics and the centrality of testing
+ contrary to predictions of a hypothesis. This training helps to form sceptical, independent
+ researchers who challenge their own positionalities and develop clear understandings of what
+ constitutes a rational basis for a scientific hypothesis. Students understand how to put forward
+ credible scientific hypotheses and how to use the scientific method to either disprove them
+ (falsification) or, through evidence, increase the Bayesian belief in their validity.
+ We are expanding our access to PhD programmes. An increasing number of postgraduates are
+ funded through the China Scholarship Council and, as above, we also play a role in managing
+ and supervising PhD students in the EPSRC AURA CDT. The University PhD scheme awards
+ clusters of connected projects on strategic themes that face key challenges and research debates.
+ Computer Science staff are involved with several clusters. For example, Dethlefs brings her skills
+ to supervising PhDs on clusters addressing ‘Offshore Wind’, ‘Living with Water’ and ‘Sensing the
+ Water Environment’. All PhD students are funded at national UKRI rates.
+ Our research students are supported by a supervisory team of at least three academics including
+ a primary supervisor. The supervisors offer advice and focus, monitor progress, and ensure that
+ training requirements are met. PhD programs are structured with a clear set of goals and
+ deliverables. These are formally reviewed in six PhD Panel meetings over the course of the
+ programme; each with mandatory and discretionary deliverables. A University-level institute, the
+ Doctoral College (DC), ensures that students and staff use best practice. The DC and library have
+ on-campus, purpose-built facilities with 24-hour access for research students and their
+ supervisors. All supervisors attend the relevant DC training courses and research students must
+ complete the Postgraduate Training Scheme (PGTS) run by the DC, which enables students to
+ graduate with certificated evidence of their research and transferable skills. Modules equip new
+ researchers with a skills ‘toolkit’, including writing and specific research and employability skills,
+ research ethics, and communication and networking skills.
+ An annual ‘PhD Experience’ conference, organised by students, is hosted by the DC. The
+ University also offers regular PGR Writing Retreats to PGR students for more focused and
+ productive writing experiences. Bi-weekly PGR seminars are delivered by PGR students
+ supported by staff, allowing the PGR students to share their research and gain transferable skills.
+ In addition, the students run their own Postgraduate Forum to foster social activities and
+ networking. Participation in national meetings and international conferences is expected,
+ supported by a Faculty Research Support Fund (RSF) (see above).
+
+
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+ The research environment is enhanced by virtual social communities over Discord, Teams, and
+ social media such as Facebook. These provisions have been enhanced in the context of the
+ COVID-19 pandemic, as have all our online services. An innovative online Graduate Virtual
+ Research Environment has assembled the collective stories of researchers and research students
+ across the University, enabling students to access over 200 short videos illustrating individual
+ research achievements and advice on all aspects of the journey.
+ To foster a dynamic international environment, we actively promote student exchange. We host
+ students from the University of Angers in France annually, and send our students to France
+ in reciprocal arrangement. In the period we have also hosted two PhD students from the University
+ of Catania (Federica Merlo and Cristina Romano) and several MSc students from China: Dong
+ Yang (2016) worked on the development of a wearable heart rate monitor; Peng Zhu (2015),
+ developed a multi-functional vital sign monitor, which has received the IET Highly commended
+ award. Hangyang Ye (2017) investigated respiration estimation for wearable devices. Tianqi Fan
+ (2018) developed a prototype smart digital stethoscope which contributed to a KTP project.
+ A major challenge for doctoral students is maintaining consistently good mental health −
+ something that our research environment takes very seriously. The university provides dedicated
+ services and CST supervisors are encouraged to be extra vigilant and proactive. The PhD can be
+ an isolating and difficult experience, and the pressures to perform, compete and excel can be
+ high. To help students deal with these pressures, reflect on own expectations, anxiety and stress,
+ and build resilience, we also introduce them, though seminars, to the timeless wisdom of ancient
+ Stoicism and encourage them to study the writings of Seneca and Epictetus as well as modern
+ stoics such as scientist-turned-philosopher Massimo Pigliucci. The informal feedback from
+ students has been overwhelming positive; we are currently discussing ways of applying this
+ approach more widely.
+ The University’s response to the Covid-19 pandemic included funded extensions for PhD students
+ (and PDRAs if needed), support with IT and workstation equipment for researchers working off-
+ campus, and additional Research Culture and Community seminars to sustain the research
+ environment while normal university conditions were suspended.
+
+ 2.2.2 Student Outcomes and Awards
+ The Department has awarded 28 PhD and 3 MSc by Research degrees in the period. At census
+ point, there were 24 registered postgraduate research students.
+ Several of our PhD students have received distinctions and awards:
+  −   Koorosh Aslansefat, supervised by Papadopoulos, has received the "Best Poster Award at
+      Global Offshore Wind 2019" from RenewableUK, and the prestigious “Leslie H. Paddle
+      Scholarship” in the international IET Postgraduate Student Award competition in 2020 for his
+      PhD work which is funded by EDF Research London.
+  −   Declan Whiting, supervised by Papadopoulos, is part-time PhD and software engineer in
+      local company APD. He won the “Young Engineer of the Year” in the International Critical
+      Communications Awards 2019 thanks to his work on automating analysis of security threats
+      in HiP-HOPS.
+  −   Joyjit Chatterjie, supervised by Dethlefs, was sponsored by Microsoft Research and Deep-
+      Mind to present research at the “Tackling Climate Change with Machine Learning” workshop
+      at the 33rd Int’l Conf. on Neural Information Processing Systems in Vancouver. He received
+
+
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+      the IEEE “Young Researcher Award” during the Int’l Conf. on Automation, Computation and
+      Technology Management (ICACTM), London, April 2019.
+  −   Annika Schoene, supervised by Dethlefs, was selected for a competitive internship
+      programme at IBM Research UK in 2017. She has received travel grants from NeurIPS and
+      AAAI and has been sponsored to attend the Machine Learning Summer School in 2019, and
+      the Brains, Minds and Machines Summer Course at MIT in 2020.
+  −   Quan Qi, supervised by Li, received the best student paper award at the 2018 Int’l Conf. on
+      Automation and Computing (ICAC 2018).
+ More than 50% of student research output is the result of collaboration with industry. Many
+ research students work on projects that contribute to developments with European and global
+ industry, e.g. on HiP-HOPS and the design languages AADL and EAST-ADL. We take additional
+ care to sustain clear and productive lines of communication with industrial sponsors and to involve
+ them in project design, progress and, where appropriate, supervision.
+
+ 2.3 Equality and Diversity
+ The University of Hull is committed to equality of opportunity and to respecting diversity for both
+ staff and students. To support this, and to raise awareness about equality and diversity, training
+ ranging from online modules to bespoke training packages are offered by the University’s staff
+ development team. All staff interviewing PhD applicants, researchers and other academics must
+ have completed the required training. The Department has a Staff Development Officer to ensure
+ that training is taken up. As part of our efforts to improve the working environment, the Department
+ will be part of a Faculty-wide application for silver Athena SWAN award in 2022-23. This will
+ include:
+      •   Implementation of a supportive Staff Performance and Development Review (appraisal)
+          process that recognises that a suitable work-life balance is underpinned by equality of
+          opportunity for all staff, and a transparent workload allocation where workload is monitored
+          for bias (gender, race, disability), and where workload is proportional to FTE (so part time
+          staff are not disadvantaged).
+      •   A flexible working policy that acknowledges family life, with key meetings within 9.00am-
+          3.00pm.
+      •   Annual staff appraisals that ask specifically about career progression so colleagues less
+          likely to self-advance are encouraged to apply at the same rate as others
+      •   The requirement for Leadership roles in the department to be advertised openly with all
+          staff having the opportunity to contribute
+      •   Equality, Diversity and Inclusion, and Health, Safety and Wellbeing, are standing agenda
+          items on all formal meetings.
+      •   The requirement that all staff will undertake unconscious bias training and Equality and
+          Diversity training
+      •   The aim to work towards a 50/50% gender ratio for invited speakers in departmental
+          seminars
+ These aims already inform our practice. 45% of our staff are ethnic minority and/or women.
+ Female academic staff (Sharvia and Dethlefs) have been fully supported in the REF period in
+ balancing work and family life with the provision of multiple and extended maternity leaves
+ and related support in the time preceding and following such leaves. Both are submitted to the
+ REF.
+
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income
+ The Department has attracted numerous funded Research Projects during the REF period, with
+ research spend at £1.51m. As above, this figure does not include income from the
+ commercialization of research and the Postgraduates registered in Computer Science and funded
+ by the DTCs based at the university. Our research income is increasing but remains modest, but
+ the return on this capital measured as volume and quality of research output and economic and
+ social impact is high. The main funded projects are listed below:
+  −   DEIS (2017-20) Papadopoulos-PI: Digital Dependability Identities for cyber-physical systems
+      with Siemens, General Motors, et al., EU H2020.
+  −   DREAM (2018-21) Papadopoulos-PI: Integrating sensor data, reliability models and AI
+      techniques to optimise maintenance in wind farms, EDF London.
+  −   MAENAD (2011-14) Papadopoulos-PI: Design of fully-electric vehicles developing EAST-
+      ADL with Volvo, Fiat, Continental, et al., EU-FP7.
+  −   TextMine (2019-21) Dethlefs-PI: Natural language processing on documents to inform
+      decision making, KTP with C. Spencer Ltd.
+  −   KBGen (2018-19) Dethlefs-PI: Web-data mining and representation as knowledge graphs,
+      Stanford University AI spin-off Diffbot.
+  −   TELFP (2013-14) Gordon-PI. Technology Enhanced Learning and Flexible Pedagogy, HEA.
+  −   Autonomous Last Mile Resupply (2018-20), Murray-PI, QinetiQ − DSTL.
+  −   ProTEcTME: Proposal based exTEnsible Threat detection fraMEwork (2018-19) Murray-PI.
+      InnovateUK.
+  −   Adaptive Real-Time Scanning for novel detections of illicit items. (2019) Murray-PI,
+      InnovateUK.
+  −   SKYPERION - Autonomous and Intelligent UAV Detection (2018) Murray-PI, Innovate UK.
+  −   Digital Stethoscope for Health Monitoring (2017-2018) Cheng-PI, NCS ltd.
+  −   Vital sign monitor (2015-17) Cheng-PI, iMonSys ltd.
+  −   WT Seed Award in Science (2017-19) Ma-PI, 3D analysis of maxillofacial growth in patients
+      with cleft lip and palate, Wellcome Trust.
+
+ 3.2 Infrastructure and Facilities
+ The Department hosts three dedicated research laboratories (one for each research group): a
+ robot laboratory, Hull Visualization Environment (HIVE), and a 3D-printing and Fabrication Lab.
+ Since 2014, the department has invested over 1m in the renovation of the research labs and
+ the creation of the new 3D printing lab.
+ Hull Immersive Visualization Environment (HIVE) is Yorkshire and Humber’s premier centre
+ for virtual reality practice and research. HIVE was established in 2002 as a SRIF-funded initiative
+ designed to leverage the quality and quantity of multi-disciplinary research, and it is managed by
+ a full-time member of staff. Facilities include a large rear-projected stereoscopic ‘workwall’ with
+ head-tracking capability for collaborative projects, a CAVE-like display, a range of fixed and
+ portable stereoscopic immersive systems, and force-feedback displays.
+ The department also has access to Viper - the University of Hull’s £2.1M High Performance
+ Computer (HPC) which began operation in 2016. Viper is one is among the most powerful
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+ academic HPC resources in the UK, and the top performing in the North of England. Based on
+ the latest Intel Omni-Path interconnect, Viper has approximately 5,500 Intel Broadwell CPU
+ cores and includes high memory nodes with 1TB RAM, dedicated GPU nodes and visualisation
+ nodes. VIPER is supported by a team of HPC system specialists which include software support
+ engineers.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Collaborations and contribution to research base
+ DEIS has active collaborations with many of the leading groups in the area of Dependability. We
+ work closely with Fraunhofer IESE (Institute for Experimental Software Engineering, Peter
+ Liggesmeyer) and Fraunhofer IKS (Institute for Cognitive Systems, Mario Trapp) on various
+ topics of Model-Based Safety Analysis (MBSA), including the concept of DDIs for runtime
+ certification of autonomous cyber-physical systems.
+ The DEIS group works closely with the University of Nuremberg (Kolagari), the Royal Institute
+ of Technology (Törngren) and Volvo (Lonn) on the EAST-ADL automotive design language. We
+ have published metamodels, model-transformations and tools for dependability analysis and
+ optimisation of designs in EAST-ADL.
+ DEIS also works with the Software Engineering Institute at Carnegie Melon University (Feiler)
+ on the AADL avionics design language. We have published algorithms and tools for HiP-HOPS
+ analysis of AADL specifications. Together with the University of São Paulo (Masiero and
+ Oliveira), MDS Sistemas and Embraer, we co-develop concepts for automated safety analysis of
+ product lines applicable to avionics systems.
+ We have a long-established cooperation with the group of Antoine Rauzy, currently in Trondheim,
+ who is famous for authoring the ALTARICA language and tools. We co-develop MBSA
+ techniques, co-supervise PhDs, and founded the International Symposium on MBSA.
+ Papadopoulos is member of the Steering Committee of IMBSA, has co-chaired IMBSA’17
+ (Trento), IMBSA’19 (Thessaloniki), and edited the Springer LNCS proceedings.
+ We are instrumental in developing the field of dependable control within IFAC and co-founded
+ IFAC DCDS (Dependable Control of Discrete Systems). Papadopoulos is steering IFAC-DCDS,
+ sits in two IFAC committees TC 1.3 on discrete-event and hybrid systems, and TC 5.1 on
+ manufacturing plant control, and the IFAC AMEST WG on maintenance. He has organized and
+ chaired special tracks on Dependable Control at: IFAC World Congress, Toulouse, 2017; IFAC
+ DCDS, Cancun, 2015; IFAC SAFEPROCESS, Paris, 2015.
+ Papadopoulos has given a number of keynotes and invited talks including: keynote at the Lorentz
+ Centre on "Safety of Future Systems”, Leiden, 9-13 April 2018; keynote at IFAC-DCDS 2015 on
+ "Intersections of philosophy, logic and biology in design", Cancun, May 27-29, 2015; keynote at
+ 7th IEEE Conference on Intelligent Computing and Information Systems on “Metaheuristics for the
+ design of safety critical systems”, Cairo, December 12-14, 2015; keynote at Automotive System
+ Safety Europe, "Darwin, Penguins, and ISO 26262", Berlin, November 28-30, 2016.
+ Dethlefs, working on machine learning and computational linguistics, has been area chair for
+ ACL, the leading conference in computational linguistics, for the “Generation” area in 2019 and
+ for the “Dialogue” area in 2020. She was area chair for “Dialog Processing and Dialogue Systems
+ − Multimodal Interfaces” at COLING in 2016. Dethlefs was guest editor of a special issue on
+ “Machine Learning for Multiple Modalities in Interactive Systems and Robots” in ACM Trans on
+
+
+                                                                                        Page 14
+Unit-level environment template (REF5b)
+ Interactive Intelligent Systems (2015). She has given a keynote at the “Let’s Discuss - Learning
+ Methods for Dialogue” workshop at NIPS 2016.
+ Manzoor, working on multi-agent simulation, co-organised the Multimodal Spatial Role Labelling
+ Workshop at CLEF-2017 in Dublin, and gave a keynote at the GeoSim workshop at ACM
+ SIGSPATIAL (2018) on “Distributed Scalable Geospatial Simulation”.
+ Gordon, working on digital learning, is member of the British Computer Society Ethics, the Green
+ IT specialist group and the Horizons in STEM Higher Education committees. He chaired and
+ hosted the conference “Horizons in STEM Higher Education Conference” in 2018.
+ Cheng, working on health informatics, was awarded the “Highly Commended Award” in the
+ Measurement category of the IET Innovation Awards for his work with sensors and monitors in
+ 2019. Cheng is serving as associate editor of IEEE Access. He was guest editor of a special
+ issue on “Data-Enabled Intelligence for Digital Health” in this journal.
+ Ma, working on health informatics, has given invited talks at the 7th IEEE/ACM Conf. on Big Data,
+ Applications and Technologies on “Multi-modal deep-learning approach to the early prediction
+ of mild cognitive impairment conversion to Alzheimer’s” in 2020 and the 3rd Int’l Conf. on Deep
+ Learning Technologies on “Hybrid deep-learning and morphometric analysis for early diagnosis
+ of Alzheimer’s disease” in 2019.
+ Murray, working on robotics, has impact on inland security and collaborates with the MoD, QinetiQ,
+ the Home Office and Border Force. He won several grants and organised a workshop at the
+ British Machine Vision Conference on “Object Detection and Recognition for Security
+ Screening”, in 2019.
+ All submitted staff are active in editorial boards of journals, IPCs of int’l conferences, reviewing
+ papers and research proposals, and serve as external examiners of research theses.
+
+ 4.2 Contributions to economy and society
+ VETA and BIOLOGIC’s impact is emblematic of our research influence on local and global
+ economic and social impact in several dimensions: the generation of wealth, employment,
+ improvements of dependability of technological systems, and the enhancement of public medical
+ and emergency services.
+ Our impact on society stretches further. HiP-HOPS and the EAST-ADL have achieved wide impact
+ through technology transfer to industry and commercialisation. Commercial tools include
+ HiP-HOPS (commercialized by the University) and Safety Designer, the latter commercialized
+ together with ESI GmbH (a German SME). Metacase (a Finnish SME) have co-developed with us
+ an EAST-ADL tool in Metaedit+ with capabilities for HiP-HOPS safety analysis. Through HiP-
+ HOPS, EAST-ADL and software tools and industrially funded projects, our research has been
+ taken up by several global corporations which include Toyota, Honda, Volvo, Fiat, Jaguar Land
+ Rover, Continental, Honeywell, Embraer, DNVGL, Deepwater Horizon and EDF.
+ The influence on technology of our work in the field of dependability goes much further. Safety
+ Architect by All4Tech (France) is a safety analysis tool that draws heavily from HiP-HOPS.
+ Embraer are developing and using their own Fault Tree Generator inspired by HiP-HOPS.
+ Component Fault Trees (CFTs), a well-known technology invented by Fraunhofer IESE,
+ effectively provides a visualisation of concepts proposed by HiP-HOPS. The direct influence of
+ HiP-HOPS is also acknowledged by Siemens and Fraunhofer in the BIOLOGIC ICS. All these
+ tools have generated wealth, increased productivity and improved he dependability of systems.
+
+
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+ DEIS has also done work that simulates the social intelligence of Penguins, and developed its
+ application to automotive systems. The BBC and other global media have reported this research,
+ including a BBC article on "Hungry Penguins Keep Car Code Safe" and other articles run by the
+ Electronic Engineering Journal on “Robot Penguins Zap Cyber-Threat!”, the Automotive IQ on
+ “Philosophical penguins show the road to safety for smart cars” and by the Daily Mail who
+ published an article claiming that the new research helps to ‘spot hackers’.
+ DEIS work on machine learning and natural language processing techniques for document
+ analysis has been taken up nationally by Spencer Ltd., and internationally by Stanford
+ University AI spin-off Diffbot.
+ VARS work on virtual environments has global impact and forms the core of the VETA ICS. New
+ aspects including treatment for amblyopia in collaboration with Nottingham NHS Trust, and work
+ on orthopaedic surgical training that is maturing and expected to be applied in hospital care in
+ the near future.
+ HIR work on inland security (in collaboration with METIS, Teledyne, QinetiQ, UK Home Office
+ and Border Force) has yielded applications ranging from the detection of drones in restricted
+ airspaces, to scanning technologies for the illicit detection of firearms.
+ HIR work on wearable and portable digital devices is being taken up by UK industry, specifically
+ local companies including iMonSys ltd and Network Communication Systems ltd.
+ Our main influence on international standards is through EAST-ADL: a design language with
+ growing impact in the automotive industry, and used by Volvo, Scania, Continental, Bosch, Fiat
+ and General Motors among others. Tools Metaedit+ and HiP-HOPS are official EAST-ADL
+ supporting tools. Papadopoulos sits in the board of the EAST-ADL association, a body
+ responsible for the maintenance and evolution of the language.
+ DEIS work on DDIs has created digital metamodels and tools which are currently available to the
+ community through the DEIS Github repository. An association has been formed to convert DDIs
+ into a standard for expressing executable dependability models for autonomous and open
+ systems. Siemens and AVL List already use this work (see BIOLOGIC ICS).
+ In collaboration with members of the Swedish and German committees of ISO-26262 and
+ Fraunhofer IKS, we work on improvements of the new automotive (ISO-26262) and aerospace
+ (ARP-4761) safety standards (see BIOLOGIC ICS).
+ Among other things, the innovations that arose from our research have benefited the regional
+ economy. Two Hull-based spinouts, Vertual and Lampada have been formed to commercialise a
+ stream of state-of-the-art, research-driven products. Their commercialisation creates high-tech
+ employment training computer science students, and raising the high-tech business capability of
+ the region.
+
+
+
+
+                                                                                         Page 16
+

@@ -1,0 +1,920 @@
+Unit-level environment template (REF5b)
+ Institution: University of Exeter
+
+ Unit of Assessment: UoA11 Computer Science
+
+ 1. Unit context and structure, research and impact strategy
+
+ Overview
+ UoA11 is a vibrant research unit with a clear upward growth trajectory, having tripled in size
+ since REF2014 to a headcount of 30 (27.9 FTE). A strong recruitment-drive over the census
+ period has built on our areas of strength (Machine Learning, Evolutionary Computing and High-
+ Performance Computing) and added new groups in Cybersecurity and Urban and Environmental
+ Data Science. These research areas, together with interdisciplinary initiatives in the University
+ and beyond, tackle some of the most compelling questions that our society faces around the
+ development and application of AI to address challenges in transportation, urban living and the
+ environment, the transformative capability of 5G systems, the rise of social networks mediated
+ by technology and methods to keep our systems and data secure.
+
+ Current Unit Structure
+ The unit currently consists of 30 staff (current positions: P=Professor, AP=Associate Prof.,
+ SL=Senior Lecturer, L=Lecturer) across the research groups described below:
+
+       Machine Learning and Computer Vision: Everson (P), Arribas (AP), Christmas (SL),
+        Danon (SL), Ruan (SL), Costa (L), Dutta (L), Livi (L), Rowlands (née Shirazi) (L),
+        Wahlstrom (L)
+       Evolutionary Computing and Optimisation: Fieldsend (P), Keedwell (P), Li (SL),
+        Moraglio (SL), Vaughan (SL), Alyahya (L), Chugh (L)
+       High Performance Computing & Networking: Min (P), Wu (SL), Hu (SL), Luo (SL)
+       Cybersecurity; Brucker (P), Marmsoler (L)
+       Urban and Environmental Data Science: Menezes (P), Williams (AP), Arthur (L),
+        Barbosa (L), Botta (L), Di Clemente (L), Oliveira (L).
+
+ Leadership and Decision Making
+ The unit is led by Head of Department (HoD) Professor Ronaldo Menezes, supported by
+ Directors of Research (DoR) (Keedwell), Education (DoE, Wakeling – Education Only Contract),
+                                                Impact (DoI, Christmas) and Global
+                                                Development (DoGD, Oliveira). Computer
+                                                Science sits within the College of Engineering
+                                                Mathematics and Physical Sciences, led by a
+                                                Pro-Vice Chancellor. The Discipline Executive
+                                                Committee (membership above) leads decision
+                                                making at the departmental level and reports to
+                                                the College Executive Group through the HoD.
+                                                The DoR attends three-weekly, College-level
+                                                Research and Impact Committee meetings
+                                                chaired by the College Associate Dean for
+                                                Research (ADR). This provides a forum for the
+                                                sharing of information and best practice among
+                                                departments. The ADR reports to the
+         Figure 1 - Research organogram         institutional-level Research and Impact
+                                                Executive Group chaired by the Deputy-Vice-
+ Chancellor for Research. The DoR is supported by the Academic Leads for each research group
+ and the Directors of Postgraduate Research and Impact. This structure is summarised in Figure
+ 1.
+
+ Vision
+ Our strategic goal is to become a global leader in applied computer science research,
+ particularly in the development of novel Data Science, AI and advanced analytics methods for
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+ application to complex social, urban, environmental, health, economic, and technological
+ challenges. The growth in this REF cycle focused on broadening our research base resulting in
+ a 180% increase in FTE and two new research groups. We now aim to achieve further growth to
+ 35-40 FTE in the medium term, a size commensurate with the top-10 UoAs for Computer
+ Science, with a focus on adding further depth to our current research profile. This growth will
+ enable us to tackle interdisciplinary challenges at the boundary between machine learning and
+ optimisation (e.g., hyper-heuristics), human-in-the-loop and explainable AI systems, software-
+ defined networking in 5 and 6G networks, the changing patterns of human mobility, reduction of
+ inequalities, and the development of data science methods to address climate change and
+ environmental sustainability. The rigorous exploration of new methods in these areas will
+ underpin the development of high performance, sustainable and explainable systems and will
+ increase our understanding of the interactions between humans and their environment. These
+ areas strongly align with institutional, national and international goals (e.g., the University’s
+ Declaration of a Climate Emergency, UN Sustainable Development Goals) and represent some
+ of the most challenging computational research areas of our times.
+
+ We will accomplish the above through consistent and targeted growth throughout the next REF
+ cycle, consolidating our current research groups adding depth to the broad portfolio that we have
+ achieved in this REF cycle. The current profile of our UoA puts us in a strong position for
+ targeted growth in the areas of Artificial Intelligence, Urban Systems, and Environmental Data
+ Science. To achieve this, we will recruit staff to complement current research, leading to new
+ ‘spin out’ groups from the current set once they achieve critical mass (e.g., Computer Vision
+ from Machine Learning, Urban Analytics from the Urban and Environmental Group). This will
+ allow us to take advantage of the many new strategic development opportunities (see Strategic
+ Developments since 2014, below), and to create a larger-scale, vibrant research community, co-
+ located in the newly refurbished building on the Streatham Campus that is now the dedicated
+ home for Computer Science at Exeter.
+
+ Progress Against REF2014 Strategy
+ We have achieved our aim from 2014 to build new capability in HPC and Scientific Computing,
+ predominantly through the creation of the HPC and Networking group under the leadership of
+ Min. It consists of 4 core staff and 2 affiliates, 4 postdoctoral researchers and a growing number
+ of PhD researchers, many of whom are industrially funded. With colleagues in Mathematics and
+ the GW4 group of Universities, we (Fieldsend) received funding for Isambard, a novel
+ architecture 10,000 core ARM-based HPC system based at the Met Office
+ (https://gw4.ac.uk/isambard/), the first of its kind in the UK. This Tier 2 service has fostered
+ collaborations with Mathematics (Wingate, Akman) on the development of new parallel-in-time
+ codes for weather and climate modelling and models for systems biology. A University-level
+ HPC governance group, led by Everson, has been established and oversees the procurement
+ and management of the University supercomputer, Isca and the new research computing
+ service (http://www.exeter.ac.uk/researchcomputing/). More recently, Everson has overseen the
+ creation and recruitment of a Research Software Engineering group, part of a £975K University
+ investment to provide support to researchers in the development of effective and efficient codes
+ on the increasing array of architectures available to them.
+
+ We further aimed to build new capability in bioinformatics and systems biology, leveraging
+ the University’s £52M investment in the Living Systems Institute (see 1.3 & 4.16 Institutional
+ Level Environment Statement (ILES)) and building on collaborations between Computer
+ Science, Mathematics, Biology and the Medical School; this aim has also been met. The
+ strategy has generated fruitful collaborations between computer scientists and mathematicians
+ in the field of computational biology through EPSRC-funded research and joint publications
+ (Fieldsend and Akman); work with the College of Medicine and Health (CMH) to explore AI in
+ genomics (Keedwell); and COVID-19 research funded by the AFR (Keedwell) and MRC
+ (Danon). Computer Science staff have also collaborated with colleagues in Biosciences and the
+ CMH in pilot projects with the EPSRC Centre for Predictive Modelling in Healthcare (Keedwell,
+ Fieldsend, Everson), resulting in interdisciplinary publications and research funding. Keedwell
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ is also a panel member of the MRC Skills Development Fellowship Host Leadership team to
+ evaluate projects that develop the computational skills of early-career biomedical researchers.
+
+ Strategic Developments Since 2014
+ Through a dedicated, flexible approach to management, the unit has been able to make the
+ most of the following new opportunities to build capacity and engage in interdisciplinary research
+ underpinned by University, national and European investment:
+
+         The creation of the University’s Institute for Data Science and Artificial Intelligence
+ (IDSAI, see 1.3 & 4.18 ILES). This interdisciplinary institute has a large core representation from
+ the unit (Everson – Director, Barbosa, Botta, Costa, Danon, Di Clemente, Fieldsend, Keedwell,
+ Livi, Luo, Menezes, Moraglio, Oliveira, Williams) and academic membership from across all
+ University Colleges and campuses. It has provided access to new seed-corn funding streams
+ (e.g., IDSAI research awards and Exeter-Turing pilot grants) and is a catalyst for interdisciplinary
+ research across departments. IDSAI was founded in 2018 to develop innovative approaches to
+ the use of data science and artificial intelligence in modern society and has rapidly grown to over
+ 80 affiliated members of academic staff, and a wider membership of over 300 research staff.
+ The Institute is the focus for the University’s membership of the Alan Turing Institute (ATI),
+ hosting 25 Turing Fellows and enabling in excess of £3.4M of research income from Turing.
+ IDSAI has instigated interdisciplinary MSc programmes, such as Data Science, Data Science
+ with Artificial Intelligence, and Data Science for Health.
+
+        The creation of the Environmental Futures and Big Data Impact Lab (Impact Lab)
+ (£1.3M to the unit, see 1.11 ILES). This ERDF-funded initiative aims to stimulate impactful
+ research and innovation through support from a team of industrial research fellows to enable
+ local (Devon-registered) SMEs to leverage their data using research and knowledge transfer
+ from the University, primarily from this UoA, supplemented by expertise and data from the Met
+ Office. Researchers in the unit (Christmas, Costa, Everson, Keedwell) contribute their expertise
+ to the planning and strategic direction of these projects, providing an excellent pathway to
+ realising impact for the region. This activity has created 12 new businesses, developed 10 new-
+ to-market products and assisted the development of 10 new-to-firm products. It has also created
+ 12 new jobs, has laid the foundations for follow-on Innovate UK funding worth over £2.5M to
+ local business, and has supported product developments that have formed the basis of £1M+
+ funding cycles. For example, Everson and Costa’s work with Applegate began in the Impact Lab
+ and has led to the development of a COVID-19 PPE supply hub. This facilitated the delivery of
+ over 100 million items of PPE to businesses during the first lockdown and won a Tech South
+ West ‘Hero Award’ in 2020.
+
+        Work on climate change and the environment has been identified as a strategic priority
+ for the University and its regional collaborators through longstanding research collaborations
+ with the Met Office. Computer Science has made a significant contribution to this through the
+ award of the UKRI CDT in Environmental Intelligence (EI) in 2018. This £5.3M investment will
+ train 50 PhD students over 8 years in the computational and data science methods required to
+ allow informed decision-making by stakeholders for sustainable futures. An interdisciplinary
+ CDT, it spans Mathematics, Management, Geography, Psychology, Philosophy and Medicine,
+ with significant Computer Science involvement (Arribas, Everson, Williams (co-Director)). It
+ benefits from strong industry involvement from partners AWS, Deepmind, IBM, Microsoft, ONS,
+ Ordnance Survey, UKHO, the ATI, WHO, the Met Office and Exeter City Futures.
+
+       Computer Science will also have significant involvement in the new, flagship, Joint
+ Centre for Excellence in Environmental Intelligence (JCEEI), see 1.7 ILES, which cements
+ Exeter’s pivotal strategic partnership with the Met Office through a pool of 20 new and
+ repurposed research appointments drawn from both the Met Office and University.
+
+       Membership of the Alan Turing Institute (ATI). Exeter was invited to join the ATI, the
+ national institute for data science and AI, in 2018. Six members of the unit have been awarded
+ Turing Fellowships (see Section 4) and Everson is the Turing University Lead. Through the
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ Turing Institute we have engaged in new machine learning and data science projects and co-
+ lead the "Data Science for Sustainable Development: Environment, Climate, and Health" project
+ (Arribas, Everson) with Mathematics and the Medical School. Our membership has been
+ instrumental in developing a new Operational Alliance between the ATI and the Met Office. On
+ behalf of Turing, in a partnership with Alzheimer’s Research UK, Everson leads the analytics
+ hub of the Early Detection of Neurodegenerative Disease initiative (EDoN). We have also
+ benefited from participation in new interdisciplinary communities across the Turing network and
+ have forged new connections with industry and the third sector. Collaboration with the Turing
+ Research Engineering Group has been important in establishing the University’s centralised
+ Research Software Engineering group. Finally, Turing membership has been critical for
+ attracting new staff and many of our recent appointments have indicated their interest in Exeter
+ due to our membership of the ATI.
+
+        Participation in large national schemes including the £20M Institute of Coding.
+ Although primarily an education initiative, Exeter has secured research funding for machine
+ learning and networks research into visualising the changing jobs landscape; and for research
+ into effective pedagogical methods for delivering Computer Science skills to non-Computer
+ Science students. This venture is enhanced by the building of the South West Institute for
+ Technology, located adjacent to the Computer Science building on Streatham campus, as part
+ of a large national effort to provide the technical skills required by employers.
+
+ Our involvement in the initiatives described above, strengthens our ability to engage in
+ internationally excellent, interdisciplinary research, linked with the national Computer Science
+ research and policy landscape, and demonstrates the growing influence of Exeter computer
+ scientists. Through the above, it is clear that Computer Science at Exeter is embedded in the
+ fabric of the South West, collaborating with local organisations (e.g., industry, catapults and
+ LEPs) and delivering research, impact, skills development and education opportunities for
+ people within the region. Our work often reflects the region’s unique economy, geography and
+ demographics by:
+
+       Working with businesses that rely on the natural environment, through the EI CDT and
+        UKRI-funded research with local water companies (Keedwell, Everson).
+       Developing novel processing of photogrammetry images to bring new insight into local
+        historical artefacts (Christmas).
+       Working with local SMEs to increase the sustainability of buildings and transportation
+        systems across the region (Everson, Fieldsend and Keedwell).
+       Helping to develop the local economy through impactful research and knowledge
+        exchange with local SMEs and startups (Impact Lab).
+
+ Strategy Beyond 2021
+ We aim to build on recent successes to increase our world-leading research in 5G/6G and
+ cybersecurity; and to become a global centre of excellence in the development of data science
+ and AI methods to address environmental and urban issues, underpinned by high quality
+ infrastructure and world-class computing facilities. To accomplish this, we will continue to grow
+ to create critical mass with commensurate increases in research indicators such as PGR
+ students and research income. Further hires will strengthen our existing research groups and
+ enable us to ‘spin-out’ groups in our areas of strength aligned with national strategic priorities in
+ Computer Vision, Urban Analytics and Environmental Data Science; we also plan to expand
+ capacity in the critical issue of detection of misinformation and disinformation, and further our AI
+ portfolio towards human-AI systems. We aim to establish a new research group in Software
+ Engineering, which will enable us to create new interdisciplinary partnerships with the AI (e.g.,
+ in search-based software engineering) and cybersecurity (e.g., in engineering safe and secure
+ software systems, software testing) groups.
+ We will continue to extend our research support and management structures to accommodate
+ these new groups and provide support for new staff and early career researchers. Each new
+ group will have an academic lead to support all aspects of the research process including grant
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ writing and management, publication and impact activities, and to provide guidance on career
+ progression through our performance development review process.
+
+ Research Management
+
+ Research Integrity and Open Access: 100% of Computer Science staff are ORCID-registered
+ and researchers are expected to uphold the institutional principles of the Research Integrity
+ Concordat (see 2.8 ILES) of honesty, rigour, transparency and open communication, care and
+ respect, and accountability in their work. Colleagues are supported in this by the department’s
+ academic lead and mentoring initiatives, the ethics committee and the DoR. New guidelines and
+ information are disseminated through the regular staff meetings and annual research awaydays.
+ Researchers are encouraged to publish their work as open access and non-compliant
+ publications are identified and remedied quickly through staff consultation. Staff are signposted
+ to University resources to cover article processing charges and in 2019, 10 such requests were
+ made, up from 3 in the previous year. Support is provided centrally through the library, who
+ proactively manage journal copyright requirements and deposits to our institutional repository,
+ ORE. In 2019, the department exceeded 10,000 publication downloads through ORE and in the
+ first six months of 2020, regularly exceeded 1,000 downloads per month. Open access
+ principles are therefore embedded in the department as ‘business as usual’ and our work is
+ clearly in demand through this channel.
+
+ Impact: Researchers are encouraged to consider the potential impact from their research
+ throughout the development of a project, from conception of an idea to the final stages of project
+ delivery and beyond. This is facilitated through close collaboration with our Innovation, Impact
+ and Business (IIB) service at the University, which provides support for all aspects of impact
+ generation and business engagement. Staff are encouraged to engage industrial and other non-
+ academic partners in funding applications as a matter of course, ensuring that even fundamental
+ research has a route through to impactful application. The success of this approach is evidenced
+ through the award of 8 KTPs, 2 Innovate UK grants and 15 industrially-funded studentships and
+ consultancy projects during the census period totalling £943,000 of industrial funding into the
+ unit (see Section 4).
+
+ Impact case studies were developed throughout the census period in partnership with IIB and
+ the DoI, starting with a wide pool of potential studies and eventually focussing on the 3 strongest
+ cases. The nominated 3 have arisen through distinct routes: from UKRI-funded research,
+ Innovate UK funded research and from an industrial partnership, illustrating the diversity
+ embedded in the selection process and in our mechanisms for generating impactful research.
+
+ Interdisciplinarity: Computer Science has a strong history of collaboration with other
+ disciplines, supported through activities at the departmental, College and University level,
+ including the strategic developments described above. Researchers are encouraged to pursue
+ interdisciplinary collaborations through the promotion of opportunities via e-mail, staff meetings
+ and awaydays. The DoGD encourages multidisciplinary initiatives with international partners as
+ part of the development of strategic partnerships (e.g., in China, Brazil, India - formalised
+ through MoUs), in line with the institutional Global Strategy. The University’s College structure
+ encourages interdisciplinarity as shown through particularly strong relationships with the Centre
+ for Water Systems (Engineering) through the EPSRC WISE CDT (http://wisecdt.org.uk/)
+ (Keedwell, Everson) and Computational Fluid Dynamics groups (Everson, Fieldsend); and with
+ Mathematics colleagues in Systems Biology (Fieldsend) and Environmental Science (Everson).
+ Figure 2 demonstrates the breadth of these collaborations across 14 separate University
+ disciplines.
+
+
+
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+
+                    Computer Science Interdisciplinary Collaborations
+  80
+  70
+  60
+  50
+  40
+  30
+  20
+  10
+   0
+
+
+
+
+                                   Awards   PGR Students   Publications
+
+ Figure 2 - Collaborations by research awards, PGRs co-supervision and publication co-authorship
+
+ Research Events: Research activities at the departmental level are underpinned by a weekly
+ seminar series, fortnightly staff meetings, termly department meetings and an annual research
+ awayday.
+
+ Seminars/Lectures
+ Departmental seminars provide opportunities for researchers to discover the latest research
+ findings from national and international researchers. All staff, postgraduate research students,
+ and undergraduate students are encouraged to attend and to engage with the internal and
+ external networking this provides. Seminars include an additional hour for coffee and discussion
+ with the external speaker to promote networking and new idea incubation. During the COVID
+ period, we have hosted live events on YouTube with leading international researchers on topics
+ such as ‘Industry 4.0’, and the effect of the pandemic on female researchers. In recent years, we
+ have also hosted a department-wide Christmas Lecture from an inspiring speaker on a topical
+ Computer Science subject, including speakers from DeepMind, the Met Office, and most
+ recently, an historian illuminating the work of Lovelace and Babbage. These events have proven
+ popular with both staff and students, typically attracting over a hundred participants. IDSAI runs
+ a parallel programme of seminars and a Christmas Lecture on data science topics, providing
+ further engagement with researchers from around the University.
+
+ Meetings/Awaydays
+ The fortnightly staff meetings provide an opportunity to disseminate relevant research calls and
+ to discuss operational items. Termly departmental meetings focus on strategic planning and
+ consolidation of material. A termly College meeting disseminates College/University-level
+ research strategies and targets within an interdisciplinary setting and provides an opportunity for
+ researchers from the unit to meet with colleagues from the College and to celebrate collective
+ research successes.
+
+ Annual research awaydays provide an opportunity to reflect on progress during the year, to
+ develop future research strategies, and involve workshop presentations on specific topical
+ research items e.g., impact or open access.
+
+
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+ Workshops
+ Where an area of particular need is identified, workshops are arranged to provide additional
+ support on particular topics throughout the year. One such example is our early-career grant
+ writing workshop, which is run in conjunction with Research Services to provide guidance on
+ developing ideas and applying for research funding for the first time. Other workshop series
+ include ‘IIB Essentials’, a bi-annual event run by the IIB service that covers the development of
+ impactful research through a set of themes: Supporting Research, Commercialisation, Spinouts
+ and Start-ups, Intellectual Property and Commercialisation and Knowledge Transfer
+ Partnerships.
+
+ Conferences
+ Since 2014, the department has hosted national and international conferences including the UK
+ Computational Intelligence Conference in 2015, the 9th EAI International Conference on Big
+ Data Technologies and Applications in 2018, the Environmental Intelligence Summit (170
+ delegates) in 2019 and the 11th International conference on Complex Networks in 2020
+ (CompleNet) (online due to COVID-19). The University supports academics in the organisation
+ of conferences through professional services and events team support and the Support and
+ Scholarship (S&S) time described below.
+
+ 2. People
+
+ Strategy
+ The overarching aim for the department is to grow staff numbers to build research capacity in
+ strategically important areas, encourage impactful activity and provide effective leadership to
+ support world class research. We recognise the importance of aiming for a balanced portfolio of
+ staff, both in terms of research area and seniority, and our recruitment since 2014 reflects that.
+ We have successfully built on our research strengths and through our appointment and
+ promotion strategy, have increased the number of senior staff in the department significantly.
+ This has seen the number of Chairs increase to 6 (from 2 in 2014), APs from 1 to 4 (2 of whom
+ subsequently became Chairs) and SLs from 2 to 5 during this REF cycle. As part of this process,
+ a new, experienced HoD (Menezes) was recruited from the USA. He replaced Everson, who
+ was appointed as Director of the IDSAI and University Turing Lead. Our strategy provides a
+ pipeline for succession planning and future leadership to provide strategic direction to the unit
+ and involves earlier career academics, who are encouraged to take on administrative roles at an
+ appropriate career stage, providing departmental resilience and evidence for personal
+ progression.
+
+ Appointments
+ Appointments are made according to the departmental strategy, which considers existing
+ research strengths of the unit, the wider University and the national and international research
+ landscape. They are made at the appropriate level, appointing at the professorial level where
+ this leadership and vision is required, for example to establish new research groups. Examples
+ of this are Min (HPC & Networking), Menezes (Urban and Environmental Data Science) and
+ Brucker (Cybersecurity). Further appointments at Lecturer or SL (e.g., HPC & Networking - Hu,
+ Luo, Wu; Urban and Environmental Data Science - Barbosa, Botta, Di Clemente, Oliveira;
+ Cybersecurity - Marmsoler) are then used to build capacity and to support the internationally-
+ excellent research of the chairs, in addition to other appointments that strengthen existing
+ research groups.
+
+ Staff Promotion and Career Support
+ The unit supports applications for promotion from staff and encourages all to apply as soon as
+ they are considered to be at the appropriate level. Staff are encouraged to discuss their
+ promotion case initially with their academic lead and subsequently with the head of department.
+ Support is provided through the Exeter Academic scheme (see 3.3 ILES), which provides
+ guidance on expectations for promotion for all career levels and academic job roles. This
+ combination of local departmental support aligned with the University-level process has led to
+ promotions at all levels throughout the department during this REF cycle:
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+
+ AP->P – 2 (Keedwell, Fieldsend)
+ SL->AP – 3 (Keedwell, Fieldsend, Williams)
+ L->SL – 5 (Christmas, Li, Moraglio, Wu, Luo)
+
+ General
+ Staff within a research group are supported by an academic lead (AL), a senior academic within
+ a similar research field, who supports and mentors members of staff in their research and career
+ development. The AL role is an important way in which we democratise leadership roles and
+ provide academics with a strategically important first point of contact for research mentoring. In
+ addition to regular informal meetings, staff review performance annually with their AL through
+ the performance development review process. This encompasses performance across the
+ academic job role, identifies areas to be addressed and opportunities for the year ahead. These
+ meetings, supported by performance metrics (e.g., research funding applications/awards),
+ provide an important stock-check of performance, an opportunity to discuss progression and to
+ develop research strategies for the coming year. In recognition of our increase in size and
+ research diversity, our number of ALs has increased from 2 to 5 in order to provide appropriate
+ and tailored mentorship to our academics. ALs will be allocated to each of the additional
+ research groups described in our future strategic expansion.
+
+ Through our workload planning system, staff are allocated 20% S&S time to devote to activities
+ that enhance their research. This is in addition to time allocated to funded research, student
+ supervision, education and administration activities and so provides valuable space for
+ researchers to write funding applications and to contribute to the life of the discipline (see
+ Section 4).
+
+ Early Career Academics
+ On appointment as lecturers, staff undergo an 18-month Academic Professional Programme
+ (see 3.5 ILES), culminating in HEA membership, and receive specific support through ‘ramped’
+ teaching loads providing staged relief from education in the first three years. During this period,
+ staff are encouraged to develop their collaborations within and beyond the University with
+ academic and industrial partners and to develop applications for funding, such as for EPSRC
+ First Grant/New Investigator Awards (NIA). To further facilitate this, ECRs are encouraged to
+ engage in training mapped against the Researcher Development Concordat and the HR
+ Excellence in Research charter (see 2.9 & 3.8 ILES). We also provide bespoke Computer
+ Science training, explaining the research funding landscape and best practice in writing effective
+ research proposals. Where an interview features as part of the assessment for a funding
+ scheme, mock panels are convened with senior staff to provide applicants with experience of
+ these challenging events. These initiatives have led to some notable ECR successes including
+ EPSRC NIA awards for Pugeault (now at Glasgow) and Wu, and a prestigious £1M UKRI Future
+ Leaders Fellowship award for Li.
+
+ Postdoctoral Researchers
+ We recognise that postdoctoral researchers (PDR) experience specific challenges in terms of
+ the typically fixed-term contracts on which they are employed. Staff are encouraged to discuss
+ these issues with their supervisors and we support PDRs in applying for appropriate funding
+ (e.g. EPSRC and ERC Postdoctoral Fellowships) through ECR initiatives. Opportunities for
+ training and gaining teaching experience are signposted to researchers through the induction
+ process and supervisory channels. This has led to a significant proportion of our PDRs going on
+ to become early-career academics, e.g., Chugh, Alyahya, Maxwell (Exeter), Walker (Plymouth),
+ Rahat (Plymouth & Swansea), Kheiri (Cardiff & Lancaster).
+
+ Staff Voice
+ Staff (including PDRs) have the opportunity to co-develop departmental strategies though
+ education and research awaydays and staff meetings. The leadership team actively encourage
+ staff to challenge norms and contribute their ideas to departmental strategies. Each senior role
+ has a 3-year term, providing opportunities for a range of individuals to contribute to the
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ development of the department and to enhance their leadership skills. Staff have multiple
+ channels through which to voice any concerns, including staff meetings, performance
+ development reviews, academic lead meetings, the institutional Staff Survey and annual ‘Pulse
+ Checks’. In the most recent (2018) Staff Survey, 91% of Computer Science staff reported that
+ they believe that the work they do makes a difference and that they have good relationships with
+ their colleagues, underlining the collegiate culture that we have developed in the department.
+ Early career staff also engage with the ECR Liaison Forums, through which they have formal
+ strategic representation across the University. Issues arising from these channels are discussed
+ and addressed at Executive Group Meetings, with new initiatives disseminated via staff
+ meetings. Issues with harassment or bullying can be raised through an institution-wide network
+ of Dignity and Respect Advisors and Speak Out Guardians (see 3.15 ILES), who work with the
+ Vice-Chancellor’s Executive Group to identify trends or themes that arise from these cases.
+
+ Equality, Diversity and Inclusion (EDI)
+ Computer science has become a significantly more diverse department in this REF cycle, both in
+ terms of ethnicity where the percentage of BAME staff has doubled from 24% in 2014/15 to 48%
+ in 2019/20, and background where the proportion of staff from non-UK nations has increased
+ from 35% to 55% over the same period. These figures justify our commitment to embed
+ institutional EDI practices into our recruitment, training and promotion processes, adopting
+ University procedure and best practice wherever appropriate. All staff involved in recruitment
+ undertake recruitment and selection training, including on the avoidance of conscious and
+ unconscious bias against those with protected characteristics.
+ We align our research assessment processes with DORA (Declaration on Research
+ Assessment), to which Exeter is a signatory (see 2.8 & 3.3 ILES), and outputs were selected for
+ REF2021 through review by expert panel. All staff involved in the selection of outputs for the
+ REF have undergone additional EDI training to ensure no bias is introduced into this process.
+ In 2020, as the department achieved greater critical mass, we established an Inclusion and
+ Diversity Committee responsible for establishing an EDI strategy for the unit together with the
+ academic leads and is comprised of our Athena Swan Submission Author (Barbosa), Equality
+ and Diversity Officer (Rowlands), Widening Participation Officer (Alyahya), and Ethics Officer
+ (Arthur). They report quarterly to the unit Executive Group.
+
+ Gender Balance
+ Staff gender balance has traditionally been a challenge for the department and our submission
+ was 100% male in REF2014. However, ongoing appointments have addressed this to a degree
+ and we now have 3 female staff (Alyahya, Rowlands, Christmas) representing over 10% of
+ research-active academic FTE. However, the proportion of REF submissions by female staff is
+ lower than expected as two are very recent lecturer appointments (2020). Christmas achieved
+ promotion to Senior Lecturer during the census period and now occupies a senior management
+ role as our DoI, providing a role model for more junior female staff. Improved gender balance is
+ evident in other areas of the department including teaching-only staff and in our PGR cohort,
+ where almost 24% of applications and 30% of enrolments are female. However, we are
+ continuing to develop measures to address our gender imbalance and we work with more
+ balanced disciplines (e.g., Mathematics) to exchange ideas and best practice. This work has
+ included two successful applications for Athena Swan Awards, where we became the first
+ departments in the University to receive silver awards in 2016 and have recently been awarded
+ a further bronze. We also engage with the College’s Workplace, Inclusivity, Diversity, Equality
+ and Respect (WIDER) committee, which develops strategic direction and monitors progress
+ against EDI goals (Barbosa, Keedwell, Christmas).
+
+ Parental Leave
+ Eligible staff are encouraged to apply for parental leave in line with University procedures (see
+ 3.16 ILES). We are strongly supportive of staff who have parental and caring responsibilities.
+ Staff are permitted to work flexibly and can apply to have specific hours in the week removed
+ from consideration for teaching. A significant number of our staff make use of this, and 3 staff
+ work 0.8 or 0.7 FTE to accommodate childcare responsibilities. These reduced hours are
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ incorporated in our workload modelling and subsequently into individual workloads through the
+ Executive Committee.
+
+ Study Leave
+ Academic staff are encouraged to apply for study leave (sabbatical) at the ratio of 1 year in
+ every 7 (pro-rata for shorter periods) to expand their research, collaborations and impact. Due to
+ our rapid growth, relatively few members of staff have become eligible for a full year but
+ Fieldsend (2013-2014) and Keedwell (2015 & 2019) have taken a year, and Danon completed 6
+ months leave in December 2020, in part to assist SAGE on COVID-19 modelling through
+ membership of the Scientific Pandemic Influenza Group on Modelling (SPI-M). Williams has
+ approved leave for 2020-21, currently postponed due to COVID.
+
+ Research Students
+ PGR numbers have increased substantially over the census period, increasing 50-60% year on
+ year from 11 in 2014 to 40.5 in 2018/19, resulting in a PGR/FTE ratio of 2.13. A PGR cohort of
+ this size enables a vibrant research-led culture within the department with students contributing
+ to and benefitting from departmental seminars and meetings and events organised by the
+ department’s PGR coordinator.
+ The supervisor-weighted completion rate for students in Computer Science during the census
+ period was 20.3, with 26 students completing during this time. This might seem low in
+ comparison with our FTE, but is a function of our growth: mean PGR registrations during the
+ census period were 28.2 and mean staff FTE was 15.8, indicating a healthy ratio over the REF
+ cycle.
+
+ Recruitment, Support and Facilities
+ We adopt similar processes, norms and expectations to the recruitment of postgraduate
+ students as to the recruitment of staff. The unit has successfully recruited students using a
+ range of funding sources including College, DTP, CDT and industrial funding, indicating that this
+ growth is sustainable in the long term. For most new appointments, a College-funded PGR
+ student is included in the start-up package. The unit aims to provide an inclusive, stimulating and
+ impactful research environment for our postgraduate students, which includes access to
+ excellent facilities and high-quality supervision. At the University level, students are supported by
+ the Doctoral College, which stimulates and supports a vibrant research and intellectual
+ environment across disciplines for postgraduate and early career researchers and PGR liaison
+ groups provide the students with a voice to express concerns that cannot be resolved at the
+ departmental level. Students are largely homed in a bespoke refurbished space in the new
+ Computer Science building, close to academic staff, and are provided with funds for equipment,
+ travel and consumables. Skills training is provided through central researcher development
+ network modules and a Masters-level Research Methodology module. Students are encouraged
+ to ‘audit’ (attend without compulsory assessment) taught modules specific to their studies at the
+ supervisor’s discretion.
+
+ Assessment
+ Students are assessed via report and mini-viva by two academics, one external to the
+ supervision team, at 6-months, and then annually throughout their studies to receive external
+ feedback and ensure consistent progress. This provides the student with experience of a viva-
+ like setting, feedback on their progress and ideas to take forward. This external assessment also
+ provides opportunities to raise any concerns regarding supervision and we encourage
+ postgraduates to voice their concerns through this channel, through their supervisor if
+ appropriate and via the PRES (The Postgraduate Research Experience Survey). Arising issues
+ are either addressed locally or elevated to the Executive Group where a departmental-wide
+ response is merited.
+
+ In addition, students are required to present their work, at least annually, to their research group,
+ a requirement that is supplemented in the unit by a postgraduate research event co-located with
+ research awaydays and/or the College postgraduate conference. These two events provide a
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ valuable forum for the dissemination and exchange of research ideas and outcomes among
+ PGRs.
+
+ An exciting development for the unit was the award of an AI Centre for Doctoral Training in
+ Environmental Intelligence, which commenced in September 2019. It promises to provide
+ significant numbers of new postgraduate opportunities in this important research area and will
+ benefit the entire UoA11 PGR cohort through new infrastructure and resources and opportunities
+ for interdisciplinary training and industrial engagement, as well as providing significant numbers
+ of new postgraduate opportunities for our unit.
+
+ 3. Income, infrastructure and facilities
+
+ Income
+ The unit has attracted significant income from a wide variety of sources, including the Research
+ Councils (predominantly EPSRC and NERC), Innovate UK, EU, charities and industry. Total
+ research income during the census period was £6.95M, a greater than five-fold increase over
+ the REF2014 census period (£1.29M). A proportion of this is expected due to increases in
+ average FTE over the two periods (REF2021=15.8, REF2014=8.5). However, staff growth
+ explains only £1.11M of the £5.66M uplift in research income. This significant increase clearly
+ indicates a transformational shift in our ability to attract research funding, particularly for larger
+ bids, and our ability to write high quality, exciting and timely grant proposals. Our strategy has
+ been to empower staff to apply for grants commensurate with their career stage, for example by
+ supporting study leave applications for all those applying for fellowships and larger grants and
+ providing relief from teaching for new starters. These initiatives are underpinned by a
+ departmental-wide six-point approach to achieving high quality grant applications:
+
+    1. Promotion of funding opportunities at staff, departmental and College meetings and
+       research awaydays.
+    2. Strong support in bid development through the academic lead system. The academic
+       lead is involved in the early stages of idea generation and bid preparation and signposts
+       researchers to University services.
+    3. End-to-end support from Research Services and IIB to provide partner engagement,
+       administrative support, and to ensure that bids are costed appropriately.
+    4. Departmental workshops and monthly writing clubs, aimed at early career researchers, to
+       enable the sharing of best practice among staff.
+    5. Implementation of a peer-review process that provides independent feedback from senior
+       academics at key stages in the application process.
+    6. Leveraging of match funding from the College to increase resources for applications
+       (e.g., an additional research studentship), particularly for early career awards.
+
+ This democratised approach has resulted in income spread across the department and at all
+ seniority levels. During the census period, 15 separate staff have worked as investigators on
+ funded research projects spread across 33 different funders including UKRI, EU, Alan Turing
+ Institute, RAEng, Royal Society and a wide range of industrial partners.
+
+ Notable awards include (Funded amount to the UoA shown):
+
+ ERDF: Environmental Futures and Big Data Impact Lab: £1.35M, Everson
+ UKRI: Future Leaders Fellowship Scheme: £1.0M, Li
+ EPSRC: Keedwell: £354K, Fieldsend: £300K, Christmas: £288K
+ NERC: Everson, Fieldsend, Luo: £459K
+ Innovate UK: Fieldsend: £262K, Keedwell: £188K, Everson: 2x £111K
+ US Army Research Office: Menezes: £130K
+ These awards have been underpinned by a host of smaller awards from other funders as
+ described above.
+
+
+
+                                                                                                Page 11
+Unit-level environment template (REF5b)
+ Strategy
+ Our strategy is to continue to build on this success and to ensure that the implementation of the
+ initiatives described above continues and is further embedded into departmental culture.
+ Through the expanded AL system, we aim to provide research-area specific support to staff of
+ all levels to develop novel ideas into concrete, high quality proposals. We recognise our
+ interaction with industry as a strength and will continue to develop our relationships with
+ industrial partners and to engage with large-scale schemes such as the Industrial Strategy
+ Challenge Fund.
+
+ A further challenge to the research funding landscape is the increase in call-based funding
+ opportunities with short turnaround times. To address this, a pipeline of ideas is maintained to
+ provide a pool of potential proposals that can be adapted for these calls. Furthermore, we
+ remain vigilant to new opportunities through web and e-mail announcements, our memberships
+ of various national and regional forums, and our own funder advisory networks (e.g., EPSRC
+ FAN - Keedwell).
+
+ Infrastructure and Facilities
+
+ Physical Infrastructure
+ Computer Science is located in a newly refurbished home on the Streatham Campus, Innovation
+ Centre Phase 1. A strategic decision was taken to move to this building to provide a single home
+ for the department, with the attendant benefits to the research environment from Computer
+ Science researchers being co-located in a single facility.
+
+ The building has undergone a £1.1M repurposing that has seen the creation of new offices and
+ open-plan workspaces for 70 academics, PDRs and PhD students within a purpose-built
+ environment. These workspaces are located alongside break-out rooms, kitchen facilities and
+ two undergraduate teaching labs, named Lovelace and Babbage by a department-wide popular
+ vote. These improvements have created a home for Computer Science and have raised capacity
+ to 191 spaces for academics, PDRAs and PhD students, providing room for the department to
+ expand in-line with our growth strategy.
+
+ There are further plans for researchers and PGRs from IDSAI to be co-located with the Global
+ Systems Institute (GSI) and Astrophysics, providing opportunities for interdisciplinary research,
+ particularly around the Environmental Intelligence theme.
+
+ Computational Resources
+ Researchers can make use of a variety of resources within the department and at the University
+ and regional level. Locally, a significant volume of work is conducted on workstations purchased
+ as part of research projects. However, larger facilities exist at the research group level with
+ specifications tailored for specific research areas, e.g.:
+
+ Everson: 12-machine Xeon CPU Linux Cluster
+ Fieldsend: Tesla k40 GPU servers
+ Wu: NVIDIA Titan RTX GPUs workstations (funded by an EPSRC Equipment Award)
+ Menezes: 22-core Xeon Server, 515Gb of RAM, 80Tb of storage, RTX 2080Ti GPU
+
+ Researchers in Computer Science also have access to two local HPC facilities that have
+ attracted over £10M of investment in the census period: ISCA and Isambard, described below.
+
+ ISCA
+ ISCA is a £3M University HPC facility designed to serve advanced computing requirements for
+ all research disciplines, combining a traditional HPC cluster with a virtualised cluster
+ environment. ISCA is available free of charge to all research groups and consists of a range of
+ computer resources within a single machine: the traditional cluster (128 GB nodes) is
+ complemented by two large memory (3 TB) nodes, Xeon Phi accelerator nodes and GPU (Tesla
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ K80) compute nodes. The non-traditional element of ISCA includes a cluster of higher memory
+ nodes (256 GB), 3 TB nodes, and an Openstack environment for the management of virtualised
+ resources. Academics are encouraged to cost in the use of this facility into research grants to
+ support computational work. The unit (Brucker and Keedwell) has recently received an £85K
+ EPSRC Core Equipment Award for x86 (56-core, 768GB) and IBM POWER9 (2x20-core CPU,
+ 4x V100 GPU) nodes to bolster research in the cybersecurity and AI fields.
+
+ Isambard (https://epsrc.ukri.org/blog/isambardhpc/).
+ We are members of the GW4 consortium that successfully bid for the £3M EPSRC Tier 2
+ Computing centre based at the Met Office. This system is made up of over 10,000 64-bit ARM
+ cores representing a novel architecture for research. During the census period, significant use
+ (~301,000 core hours) has been made of this by Computer Science researchers for the
+ optimisation of CFD models. Further funding has recently been granted for Isambard 2
+ (EP/T022078/1), which will use cutting-edge A64fx processors.
+
+ Operational Infrastructure
+ Computer Science is led by the HoD who chairs an Executive Group consisting of the DoR, DoI,
+ DoE and DoGD. The DoR, (Keedwell) is the primary contact for research-related matters and
+ works with Research Services and IIB to support researchers in grant writing, peer review, grant
+ management, output nomination and impact development. He is responsible for the promotion of
+ research activities within the department and liaises with other related administrative roles such
+ as the Director of Postgraduate Research, the Seminar and Event Organiser and the Academic
+ Leads. The DoR has a budget (typically £5-7.5K annually) to support research, providing the
+ opportunity to pump-prime projects that have yet to be externally funded and to support visits to
+ industrial partners or academic conferences, predominantly for ECRs who have limited access
+ to funding.
+
+ As discussed in Section 1, the DoI (Christmas) manages impact activities and cultivates impact
+ case study development, and the DoGD (Oliveira) fosters international connections.
+ Researchers are also supported by dedicated contacts in Research Services (Roberts) to assist
+ with the costings and development of proposals, particularly impact and justification of resources
+ sections, and in IIB (Gonzales) to encourage engagement with industrial partners and to
+ promote industrial funding opportunities.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+ To achieve our goal to become a global leader in applied computer science research a strong
+ set of partners and collaborators from across sectors is necessary. We have already developed
+ a rich ecosystem of applied and interdisciplinary research collaborations (both internal and
+ external), broad industrial engagement and societal impact, and we plan to extend its reach both
+ geographically and into important new sectors. This ecosystem is described in more detail
+ below, along with metrics of esteem such as fellowships, prizes, and our contribution to the
+ research base through grant reviewing activities. These activities are promoted through the 1
+ day per week of S&S time for academic staff described earlier.
+
+ Non-Academic Collaborations
+ Every member of the unit makes a significant contribution to the research base, economy and
+ society. They achieve impact from their research through collaboration with non-academic
+ partners, co-creation of funding applications, student co-supervision, co-authorship of
+ publications and invited talks, grouped into the following broad thematic areas:
+ Environment & Sustainability
+ Core to the Environment and Sustainability theme is our strategic partnership with the Met
+ Office, realised through joint appointments (Arribas), the JCEEI and the Impact Lab (see Section
+ 1). Everson leads the Impact Lab and has played a pivotal role in the projects described, along
+ with Christmas, Costa and Keedwell. To date, the unit has worked with 12 partners in this sector:
+ City Science, RegenFarm, OTA Water, Emtec, Floor Dynamics, Thermancy , Milkalyser, Seiche,
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+ Spatial Quotient (formerly That Figures), Minibems, Applegate and FuturebE. These have led to
+ KTPs for Everson (Applegate) and Christmas (That Figures). Further ongoing work in this theme
+ includes engagement with the Flood Forecasting Centre (Williams, Arthur), Global Hazard Map
+ and TIST (Arthur).
+ We work closely with the water industry and have gained funding for projects on machine
+ learning with South West Water (1 studentship and 1 KTP, Everson), DC Welsh Water (KTP,
+ Keedwell), United Utilities (studentship, Keedwell) and Hydro International (Fieldsend); and a
+ KTP with Artesia Consulting (Everson), which developed new data science tools for leakage
+ management. We are also involved in UKRI-funded interdisciplinary projects that involve wide
+ industry engagement, such as the HOWS project (Keedwell) investigating interactive
+ evolutionary methods for designing and managing water systems, with Bristol Water, WSP,
+ AECOM, SEAMS and SWW.
+ Optimisation and machine learning for sustainable planning and development has underpinned
+ our Innovate UK-funded collaborations with City Science (totalling £2M; Everson, Fieldsend &
+ Keedwell) and Hoare Lea (Everson, Fieldsend), and a KTP with BEST Energy Saving (Everson
+ and Christmas).
+ Technology
+ We work with telecoms providers including BT, with whom we have 3 funded PhD studentships
+ including an iCASE (Min, Luo, Keedwell), and a further 3 with a large telecoms company held by
+ Min (confidential). Everson has also received 3 funded PhD studentships in partnership with
+ Engineers’ Gate on data science in FinTech and Keedwell has an iCASE with Dyson working on
+ AI and privacy.
+ We have ongoing collaborations with Samsung (Wu), Google (Barbosa), Nokia Bell Labs
+ (Menezes), DeepMind, AWS and Microsoft (Arribas), IBM and IBM Research (Arthur, Everson,
+ Hu, Luo & Williams), Ericsson (Hu), Adarga (Williams), Sony CLS (Di Clemente) GE Healthcare
+ (Li) and Cambridge Mobile Telematics (Wahlstrom). Fujitsu have funded significant periods of
+ consultancy and contract research and have an approved patent with Moraglio.
+ Defence (esp. Marine)
+ Partnerships in this sector are a particular focus for Christmas, who works closely with a range
+ of organisations including the MoD, Qinetiq, BMT and BAE Systems. During the census period,
+ she worked with the MoD and BAE Systems as part of an EPSRC Prosperity Partnership.
+ Menezes is funded by the USA Army Research Office (ARO) in the understanding of human
+ mobility patterns. ARO have visited the University and demonstrated interest in continuing
+ funded research with Barbosa, Menezes & Keedwell.
+ Government/Policy/Charity
+ Danon works for SPI-M carrying out COVID-19 mathematical modelling for SAGE. He has
+ received funding from Pfizer and serves on their academic advisory panel. Botta has worked on
+ data science projects with the Department for Digital, Culture, Media and Sport, Government
+ office for Science, Cabinet Office and ONS, and Arthur works with the Health and Safety
+ Executive. Barbosa has applied his urban data science tools with the Centers for Disease
+ Control and Prevention (USA) and Di Clemente has worked with the Gates Foundation, the
+ World Bank and UN data pulse on data science projects. Menezes works with UNICEF and
+ hosted one of their research scientists which led to activities in other Colleges.
+
+ Spin Outs
+ Social Sensing: An early-stage spin-out that uses social media to map extreme weather and
+ climate events (Williams & Arthur directors). They are currently working with the Environment
+ Agency Flood Forecasting Centre, where their app is providing flood monitoring and
+ retrospective flood forecast verification services. The company is in talks with other
+ meteorological organisations, such as Global Hazard Mapping unit at the Met Office.
+
+
+
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+ Government agencies (such as DFT) and various companies in the insurance sector have also
+ expressed interest.
+ CAFlood is a commercial venture arising from EPSRC-funded research in the simulation of
+ flooding using cellular automata (Keedwell), that has generated licencing and contract research
+ revenues of ~£65K to date and is the subject of an impact case study. It has been employed by
+ local and national government agencies, councils, insurance companies and the water sector
+ internationally to model and simulate various flood scenarios. It has underpinned a £3M+ Torbay
+ flooding infrastructure award, Thames Water’s £247M maintenance programme, influenced
+ national flood risk policies (NaFRA2) and has been applied to flood protection systems
+ safeguarding millions of people globally (e.g., Taipei City’s early flood warning system).
+ Societal Impact
+ During the COVID-19 pandemic, we have responded quickly to address needs in the local and
+ national community. Danon received funding to predict the spread of COVID-19 in the UK and
+ evaluate the impact of quarantine restrictions, helping to inform local and national government
+ response. Everson and Costa developed the award-winning COVID-19 supply hub described in
+ Section 1, and Keedwell received funding to develop clinical scorecards for COVID-19 patients
+ incorporating viral load measures. Our academics were also involved in broad cross-institutional
+ initiatives to model the pandemic through RAMP (Royal Society) and DeCOVID (ATI).
+ Further societal impacts have been achieved through CAFlood (Keedwell), which informed
+ national flood risk policies; the Impact Lab (Everson, Christmas, Costa, Keedwell), which led to
+ the creation of 12 new local jobs and businesses; and collaborative work with DCWW (Keedwell)
+ applying machine learning to sewer maintenance strategies, reducing sewer blockages by 31%,
+ household flooding incidents by 16% and operational costs by £2M and thereby reducing impact
+ and costs for 3M customers (also an impact case study).
+ International Research Collaborations
+
+ The unit has strong research collaborations across the globe, developed and promoted through
+ the DoGD who encourages unit participation in institution-level initiatives (e.g., strategic
+ relationships with Universities of Queensland and Fudan) and the development of unit-level
+ global collaborations, of which there are 77 across 6 continents, as shown in Figure 3. These
+ include visiting professorships, co-development of funding applications, research project
+ collaboration and co-authorship of publications, among others.
+
+
+
+
+                         Figure 3 - International collaborations by country
+
+
+
+
+                                                                                          Page 15
+Unit-level environment template (REF5b)
+ Academic Esteem and Contribution to the Life of the Discipline
+ UoA11 staff have received significant recognition both nationally and internationally as
+ evidenced by the range of fellowships and prizes awarded below and have been invited to
+ review applications for a wide range of funders. They have also contributed over 90 times as
+ conference, programme and workshop chairs and 50 times as journal editors, associate editors
+ and guest editors across conferences and journals in the cybersecurity, networking, HPC, AI, ML
+ and urban systems fields during the census period. These activities are encouraged as a
+ method of contributing to the life of the discipline and for personal development, supported by
+ the 20% S&S allocation.
+
+ Fellowships
+ Arribas, Danon, Everson, Williams, Pugeault, Roussos were appointed Alan Turing Institute
+ Fellows in 2018, consolidating our links with this important national institute. Dutta and Di
+ Clemente received Marie-Curie (2017-2019) and Newton International (2017) fellowships
+ respectively during the early stages of their careers, increasing their research potential and
+ widening their networks. Livi was appointed as a Canada Research Chair in 2019, a scheme
+ that aims to “attract and retain some of the world’s most accomplished and promising minds.”
+ Also in 2019, Li was appointed as a UKRI Future Leader Fellow which aims to “develop the next
+ wave of world-class research and innovation leaders in academia and business.”
+
+ Prizes
+ Research excellence has been recognised by a variety of prizes awarded during the census
+ period. Hu and Williams have won best paper prizes at IUCC14, IEEE SOSE16 and ICWSM
+ 2016 and Keedwell won 2nd best student paper at CCWI 2016. Staff have also been recognised
+ by their professional bodies with Brucker awarded Senior Member status of the ACM in 2015
+ and Min receiving an Award for Excellence from the IEEE TCSC in 2017. Evidence of excellence
+ in impact is evidenced by Arribas’ - UK IT Industry RITA Award “Best Innovation in Technology”
+ 2017 / Runner up Best Innovation in Civil Service 2016 and Luo’s 2018 Scottish Knowledge
+ Transfer Award from the Scottish Funding Council.
+ Grant Reviewing Activity and Membership of Selection Panels
+ Membership of grant review and selection panels are an important measure of esteem and allow
+ us to make a significant contribution to the life of the discipline. Botta (2016-) and Brucker
+ (2015-) are members of the EU ERC/Horizon 2020 review committee and Brucker (2017-),
+ Everson, Keedwell (2013-) and Min (2006-) are members of the EPSRC Review College, whilst
+ Hu and Wu are members of the EPSRC Associate College. We have also contributed to ad-hoc
+ reviewing of UKRI AI Acceleration and FLF schemes, EPSRC, BBSRC, MRC, Marsden Fund,
+ Marie Skłodowska-Curie, Royal Society, and Leverhulme Trust reviews through Everson,
+ Danon, Keedwell, Min and Moraglio. Internationally, staff have conducted reviews for REPRISE
+ (Italy- Di Clemente), NFST (Chile – Menezes), NRF (South Africa – Keedwell, Fieldsend), FFG
+ (Austria), SNSF (Switzerland) and ANR Doctoral Contracts (France) (Keedwell).
+
+ Conclusion
+ Collectively, these sections describe a young and vibrant department, engaged in impactful
+ research connected with the wider international community and making significant contributions
+ to the life of the computer science discipline across the globe.
+
+
+
+
+                                                                                         Page 16
+

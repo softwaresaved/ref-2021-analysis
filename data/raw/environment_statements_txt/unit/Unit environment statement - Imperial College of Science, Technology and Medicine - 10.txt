@@ -1,0 +1,1370 @@
+Unit-level environment template (REF5b)
+    Institution: Imperial College London
+
+    Unit of Assessment: 10 Mathematical Sciences
+
+    1. Context, Structure, and Strategy
+
+    A.      Context. The Department of Mathematics at Imperial College is large and diverse. We
+    are returning 103 staff (94.63FTE): 46 Professors (P); 11 Readers (R); 17 Senior Lecturers (SL);
+    14 Lecturers (L); 8 Senior Research Investigators (SRI); and 7 Independent Fellows. 24 are
+    Early-Career Researchers. Over the REF2021 period we hosted 323 postdocs/fellows and
+    enrolled 372 new PhD students. With external funding exceeding £53M, we have sufficient scale
+    to:
+       •   make world-leading and discipline-defining contributions across the breadth of
+           Mathematics and Statistics;
+       •   identify key challenges where Mathematics can impact science, the economy, and
+           society; and
+       •   solve outstanding mathematical problems by developing fundamental new tools and,
+           where appropriate, apply these tools to diverse real-world problems.
+    Central to this vision is fostering a creative, inclusive, and supportive culture where research
+    students receive excellent training, postdoctoral researchers develop into outstanding
+    independent scientists, and staff at all levels realise their full potential.
+    Our research strategy aligns synergistically with Imperial’s academic strategy and its research
+    ethos, which emphasises working across disciplines, quantitative approaches to research,
+    translating ideas into impact, and collaboration with stakeholders locally, nationally, and
+    internationally (REF5a). These principles permeate our research culture. Along with horizon
+    scanning and UKRI and national priorities (see §4E), they steer the new research directions we
+    choose. Our international leadership is fortified by recent high-level initiatives including the
+    CNRS-Imperial de Moivre Research Laboratory (1-of-37 CNRS International Laboratories
+    worldwide across all subjects, only one in UK, §4A), the CFM-Imperial Institute for Quantitative
+    Finance (with French institutions, §1E), and the Imperial-TU Munich Mathematical Sciences
+    Hub.
+    To deliver our overarching research strategy, we appoint outstanding individuals into coherent
+    research groups (§1C) of sufficient scale and international standing that they attract both world-
+    class researchers and substantial funding from research councils, charities and industry (§3A).
+    We strongly believe that diversity drives innovation, and strategically invest to diversify the
+    pipeline into research mathematics and to foster an inclusive research culture for staff and
+    students (§2K). All of this guides our strategic planning and choices regarding the research
+    groups we grow, always ensuring academic excellence by hiring the very best talent.
+    Departmental leadership is provided by the Head of Department (HoD), van Dyk, advised by a
+    Management Committee (11 academics, meeting fortnightly) that sets policies on resources,
+    appointments, and research directions. The Department has dedicated Directors of Research
+    (Degond†)1 and Enterprise (Muhle-Karbe†), and a Diversity Champion (Coates). Degond† chairs
+    the Research Committee, which coordinates bids for strategic and College funding, and
+    oversees the Department’s own internal research-funding schemes (§2A).
+
+
+
+
+1
+    REF2021-period academic appointments are marked†.
+
+                                                                                                  Page 1
+Unit-level environment template (REF5b)
+
+           Applied &                                                              Geometry
+           Numerical                            Analysis                            and
+            Analysis                                                              Topology
+
+
+
+                                             Probability and                       Algebra
+           Dynamical
+                                               Stochastic                            and
+            Systems
+                                                Analysis                        Number Theory
+
+
+
+        Fluid Dynamics &
+                                                                                 Mathematical
+           Continuum                        Biomathematics
+                                                                                   Finance
+            Mechanics
+
+
+
+                                            Mathematics of                         Statistics
+          Mathematical
+                                             Planet Earth                             and
+            Physics
+                                                (MPE)                             Biostatistics
+
+ Fig.1: Our overlapping network of research groups. Links strengthened through significant
+ collaboration, appointments and funded projects are indicated; *REF2014 strategic aims in red.
+
+ B.      Research position relative to REF2014. We are submitting 94.63FTE (85.23FTE
+ permanent), compared to 100.3FTE (76.9FTE permanent) in REF2014. (Changes to Imperial’s
+ Code of Practice resulted in reduced non-permanent FTE, e.g., not including Marie Skłodowska-
+ Curie Fellows.) Comparing averages over the REF2014 and REF2021 periods, our academic-
+ staff FTE increased 13%; both PhD-student and research-staff FTE increased 77%. We
+ appointed 39 permanent staff (8 Professors, 2 Readers, 8 SLs, 21 Lecturers) to provide
+ leadership, top talent, succession planning, continuity, and growth. Substantial strategic hiring in
+ Number Theory, Geometry and Stochastic Analysis, the latter two under the respective
+ leadership of Fields Medallists Donaldson and Hairer†, strengthened our world-leading
+ fundamental mathematics. (Sir Martin Hairer† is a new appointment.) Other strategic hiring
+ focused on high-impact and interdisciplinary areas including biomathematics/biostatistics,
+ machine learning, and industry-facing mathematicians in fluids, finance, and data-centric
+ engineering.
+ Relative to REF2014, annual research income increased 69% (£4.5M/year to £7.6M/year); per
+ FTE it grew by 80%. Annual EU funding nearly tripled (£0.76M/year to £2.0M/year). We won 14
+ research grants over £1M (e.g., €10M ERC Synergy Grant, $8.5M Simons Collaboration, 2
+ Royal Society (RS) Research Professorships) and 3 new EPSRC-funded CDTs. This strategic
+ growth has strengthened our world-leading and internationally excellent research (100% 4*
+ environment in REF2014) while further increasing our potential for impact.
+
+ C.      Research structure, objectives, and strategy. Research staff are organized into a
+ network of twelve overlapping thematic groups, a design that encourages diverse collaboration
+ across the breath of mathematics, see Fig.1, and promotes highly interactive and open research
+ communities for staff and students. Specific REF2014 objectives centred around developing the
+ international profiles of our research groupings and strengthening interactions, both within the
+ Department and with other groups at Imperial and elsewhere. These objectives have all been
+ exceeded. Below, we summarize how we accomplished current goals (specific achievement of
+ REF2014 objectives are marked*) and list future strategic aims.
+ *Fig.1 summarizes the strengthened links among our research groupings.
+
+
+                                                                                                  Page 2
+Unit-level environment template (REF5b)
+
+    Algebra & Number Theory.
+    P: Buzzard, Evans†, Gee, Ivanov, Liebeck, Skorobogatov; R: Caraiani†, Helm†, Schedler†;
+    SL: Pal.
+    Algebra & Number Theory has gone from strength to strength. Buzzard, Caraiani†, Gee, Helm†,
+    Pal and Skorobogatov form a coherent world-class group in Algebraic Number Theory with
+    particular expertise in the arithmetic aspects of the Langlands program; Caraiani†, Gee and
+    Helm† (SL, promoted to R) are three of 10 authors of a 192-page 2019 paper proving the
+    Ramanujan conjecture for weight 2 Bianchi modular forms. Caraiani † (RS URF and SL,
+    promoted to R), recruited from postdocs at Princeton and Bonn, has won LMS Whitehead and
+    EMS prizes and a €1.5M ERC Starting Grant. This grant, along with Buzzard and Gee’s £620k
+    EPSRC grant and Gee's €1.1M ERC Starting Grant (and soon-to-begin €2.2M Advanced Grant),
+    funded a stream of postdocs, complemented by five Heilbronn Fellows. In Algebra, Schedler †
+    (SL, promoted to R, André Lichnerowicz Prize) brings new expertise in geometric representation
+    theory, *strengthening connections with Geometry, while Evans† (P) opens new directions in
+    algebraic aspects of model theory. Number Theory benefits from close interactions with strong
+    groups at King’s and UCL, in particular via our back-to-back CDTs in Geometry and Number
+    Theory (£10.7M). London now rivals Paris as the world’s leading centre in automorphic forms.
+
+    Analysis.
+    P: Crisan, Hairer†, Holzegel, Laptev, Zegarlinski; R: Krasovsky; SL: Cheraghi†;
+    L: Taylor†.
+    Bringing Hairer† (Field medalist, FRS, €1.5M ERC grant) to Imperial was a spectacular boost to
+    Analysis, particularly strengthening its links to Stochastic and *Applied Analysis. *The
+    interface between Analysis and Geometry was strengthened with the appointments of Li † (P,
+    see Probability) who brings expertise in stochastic differential geometry, Cheraghi † (SL, EPSRC
+    Early Career Fellow) who works at the interface with Dynamical Systems, and Taylor† (RS-Tata
+    URF and L), who joined the general relativity group led by Holzegel. Working at the interface of
+    Geometry and Analysis (nonlinear hyperbolic PDEs), Holzegel was awarded the LMS
+    Whitehead Prize, a Blavatnik Award, and two consecutive ERC grants (totalling €3.3M).
+
+    Applied & Numerical Analysis.
+    P: Cotter†, Degond†, Pavliotis; R: Olver†; SL: Coti-Zelati†, Nurnberg.
+    Our Applied and Numerical Analysis group complements our excellence in Stochastic Analysis
+    with leading expertise in stochastic differential equations, numerical analysis, and PDEs for fluid
+    mechanics, biology and social sciences. Measures of success include Degond’s † invited talk at
+    ICM 2018; EPSRC and Leverhulme grants (totalling £2.2M2, Pavliotis, Carrillo, Degond†, Olver†);
+    a JPMorgan Faculty Award (Pavliotis); and Coti-Zelati’s† RS URF. Addressing the call for
+    “considerable growth in [UK capacity in] nonlinear PDEs” in the 2016 EPSRC Mathematical
+    Sciences Community Overview, we prioritized PDEs, hiring Olver† (R), who works on numerical
+    methods for PDEs, Coti-Zelati† (RS URF and SL), who studies PDEs in Fluid Mechanics and
+    stochastic Dynamical Systems, and Degond† (P), who uses PDEs to model self-organization in
+    biology and *built connections with life and social sciences (notably via the Crick Institute),
+    Looking forward, the group will enhance links with the life and social sciences, and expand into
+    burgeoning areas in optimisation and control, with applications to fluids and data science.
+
+
+
+2
+  Total values of grants are given, except in research-group funding totals, where only department income is
+included.
+
+                                                                                                     Page 3
+Unit-level environment template (REF5b)
+
+ Biomathematics.
+ P: Barahona, Jones; R: Keaveny, Shahrezaei; L: Monod†, Thomas, P†.
+ *Biomathematics fulfilled its aim of establishing an internationally leading profile with its £2.1M
+ EPSRC Centre for Mathematics of Precision Healthcare (Barahona, PI), one of only five
+ Mathematics-in-Healhcare UK Centres. With wide-ranging expertise in network analysis, data-
+ driven modelling, stochastic processes, and mathematical biophysics, research focuses on
+ developing methods for data-rich biological and medical systems delivering both foundational
+ and high-impact publications. Biomathematics benefits from tight links with Biostatistics
+ (Evangelou†, Filippi†, Flaxman†, Monod†, Ratmann†), Fluid Dynamics (Keaveny),
+ Applied/Stochastic Analysis (Degond†, Pavliotis), and Mathematical Physics and
+ Complexity (Pruessner, Jensen). In addition to individual grants and fellowships (totalling
+ £8.9M), the group’s heightened profile enabled co-applications (Barahona, co-I) in major national
+ initiatives: HDR-UK Substantive London Centre (£6.9M); BHF Research Excellence Centre
+ (£7M); MRC Discover NOW (£4.4M). The group co-leads three cross-disciplinary PhD
+ programmes funded by Wellcome Trust, UKRI and Leverhulme (totalling £11.3M, §1D). Its
+ research attracts prestigious independent fellowships (James S. McDonnell Foundation, MRC
+ Skills Development (2), MRC Research, 1851 Royal Commission, Imperial Research (2), Sir
+ Henry Wellcome), and a soon-to-begin UKRI FLF (P Thomas†).
+ With high demand for quantitative bioscience research, strategic aims include: fortifying its
+ international profile in network theory and stochastic systems in biology with further
+ appointments, and continuing to expand precision healthcare through ongoing collaborations
+ with industrial, biomedical, and clinical partners, the NHS, and leading UK and overseas
+ institutions (§4A).
+
+ Dynamical Systems.
+ P: Holm, Lamb, Turaev, van Strien; R: Rasmussen.
+ Dynamical Systems continues to strengthen and extend its international leadership. Along with
+ other grants (totalling £3.5M), funded projects included two ERC Advanced Grants (Holm, Van
+ Strien, totalling £4.0M), and an EU Innovative Training Network (Lamb, €3.9M). Cutting-edge
+ research in Hamiltonian, low-dimensional, stochastic and random dynamical systems and
+ bifurcation theory ranges from pure mathematics to interfaces with physics, ecology, climate,
+ and finance. The group has specifically *strengthened links with Mathematics of Planet Earth
+ (MPE) and Stochastic Analysis through work on ocean dynamics (Holm, Crisan, ERC Synergy
+ Grant) and on random dynamical systems approaches to Stochastic (P)DEs. Recent research
+ highlights include Turaev’s Séminaire Bourbaki (2019) and Van Strien’s ICM 2014 invited talk.
+ Along with extending leadership in its areas of strength, the group will continue developing
+ interfaces with ocean dynamics (Holm), non-ergodic physics (Turaev), and machine learning
+ (Lamb, Rasmussen, Van Strien).
+
+ Fluid Dynamics & Continuum Mechanics.
+ P: Craster, Cotter†, Crowdy, Holm, Mestel, Papageorgiou, Schmid†, Wu;
+ SRI: Atkinson, Gibbon, Ruban; R: Berloff, Keaveny; SL: Schnitzer†, Walton; L: Mughal†.
+ This highly productive group specializes in dynamics across scales, from microfluidics,
+ plasmonics and micro-swimming to aerodynamics and geophysical fluid dynamics. With a track
+ record of impact-oriented collaboration with the aerospace and defence industries (§1E), the
+ group is central to our cross-disciplinary research, linking mathematics with Imperial Engineering
+ and Physics (*REF2014 priority, §1F). In addition to other grants (totalling £5.7M), large projects
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ include an EPSRC Programme Grant on Laminar Flow Control (Hall, £4.2M, with Aeronautics)
+ and a CDT on Fluid Dynamics Across Scales (£4.3M, with Engineering). Along with
+ collaborations with UK Research Centre in Non-Destructive Evaluation (e.g., Craster’s industrial
+ funding with MechEng totaling £1M, §1E), these create a vibrant cross-disciplinary environment
+ with active co-supervision of PhDs and postdocs.
+ Complementing strengths in asymptotic and analytical fluid mechanics, future directions will
+ further strengthen industrial collaboration (e.g., Airbus, metamaterials) and expand into modern
+ data-centric fluid dynamics.
+
+ Geometry.
+ P: Cascini, Coates, Corti, Donaldson, Holzegel, Nicaise †, Thomas, R; R: Schedler†;
+ SL: Cheraghi†, Sivek†; L: Taylor†.
+ Our world-leading Geometers continue to thrive under the leadership of Donaldson (awarded
+ $3M Breakthrough prize, AMS Veblen prize, Wolf prize) and R Thomas (awarded FRS,
+ Academia Europaea, £1.3M RS Research Professorship). Appointments of Nicaise † (R,
+ promoted to P, ERC Starting Grant, Ferran Sunyer i Balaguer Prize) and Schedler† (SL,
+ promoted to R, André Lichnerowicz Prize) strengthened algebraic geometry and *increased
+ interactions with Algebra and Number Theory, a great benefit to the CDTs in Geometry and
+ Number Theory (250 applicants/year). Three EPSRC Programme Grants (£5M, Corti, R
+ Thomas, Neves), various ERC grants (€6.3M, Coates (2), Donaldson, Neves, Nicaise †), large
+ EPSRC grants (£2.7M, Cascini, Cheragi†, Nicaise†, R Thomas) and an $8.5M Simons
+ Collaboration (Donaldson, Haskins, §4A) enabled a dynamic community of postdocs.
+ Looking forward, we aim to leverage our pre-eminent algebraic geometry and analysis groups
+ under Donaldson’s leadership by strengthening differential geometry, geometric analysis, and
+ topology. We have appointed Cheragi† (SL, EPSRC Early Career Fellow, linking to Analysis
+ and Dynamical Systems), Taylor† (L, see Analysis), and Sivek† (L). R Thomas’ RS Research
+ Professorship enables a further hire in symplectic topology.
+
+ Mathematical Finance.
+ P: Brigo, Muhle-Karbe†, Zheng; SRI: Bingham; R: Cass, SL: Jacquier, Pakkanen†;
+ L: Neumann†, Siorpaes†.
+ This group is a leading centre for research in volatility modelling, risk measurement, valuation,
+ hedging, market microstructure, statistical learning in finance, rough paths, Stochastic
+ Analysis, and Geometry. The recruitment of Muhle-Karbe† (P), Pakkanen† (L, promoted to SL),
+ Siorpaes† (L) and Neumann† (L) strengthened expertise in emerging areas including market
+ microstructure and statistical finance. Pakkanen † is joint with Statistics, building *links planned
+ in REF2014. The group has a leading role in two successful EPSRC-funded CDTs (£10.2M,
+ financial computing, random systems).
+ Highly effective industrial engagement is the group’s hallmark. Top practitioners from companies
+ such as Deutsche Bank, IHS-Markit, Macquarie Bank, and Banca IMI are visiting faculty and
+ collaborate with staff, steering research toward impact and industry. Created in 2014, the CFM-
+ Imperial Institute (£2.4M from Capital Fund Management, director Muhle-Karbe†, §1E) provides
+ an array of conferences, seminars, and exchanges of researchers with Ecole Polytechnique,
+ *strengthening ties with Paris (the other leading European centre in Quantitative Finance). *Our
+ annual Imperial-ETHZ workshop similarly strengthens ties with Zurich.
+
+
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+
+ Mathematical Physics & Complexity.
+ P: Craster, Jensen, Parry; SRI: Edwards, Hewson; R: Graefe†; SL: Barnett, Pruessner.
+ This leading group for research in quantum mechanics, statistical mechanics, hard condensed
+ matter theory and complexity enjoys strong links with Imperial Physics and our Fluid Dynamics
+ and Biomathematics groups, funded e.g., via a EPSRC Programme on Metamaterial for
+ Multiscale Physics (Craster, £2.6M, with physics). The appointment of Graefe † (RS URF and SL,
+ promoted to R, €1.3M ERC Starting Grant, LMS Anne Bennett prize) brings new expertise in
+ theoretical quantum dynamics.
+ Adding to our strengths in quantum and condensed-matter theory, we will leverage the newly
+ funded Borland Fellowship (£950k legacy gift from Dr Borland, former National Physical
+ Laboratory head of theory) to bring outstanding ECRs to the group over the next decade.
+
+ Mathematics of Planet Earth (MPE).
+ P: Cotter†, Crisan, Gandy, Holm, Jones, Veraart; SRI: Bingham; R: Berloff, Rasmussen;
+ SL: Ham†, Kantas.
+ *Developing MPE into a world-class research group was a strategic achievement. The group’s
+ international profile was boosted by its *leadership of a highly successful CDT in MPE (Crisan,
+ £5.5M, with Reading). The recruitment of Cotter† (SL, promoted to P) and Ham† (NERC Fellow
+ and SL, promoted to R effective September 2020) led to close links with the European Centre for
+ Medium Range Weather Forecasting and the UK Met Office, e.g., Cotter † and Ham† develop
+ computational methods underpinning next-generation atmospheric models for the Met Office.
+ *The group plays a significant role in the NERC DTP in Science for a Changing Planet
+ (supervising 7 PhDs, Cotter† on Board). Research focuses on computational models, Statistics
+ models, geophysical Fluid Dynamics, stochastic parameterisation and data assimilation, and
+ *Dynamical Systems tools. MPE benefits from a College-wide prioritization led by the
+ Grantham Institute for Climate Change and holds significant funding from EPSRC (£1.8M),
+ NERC (£2.3M). and a €10M ERC Synergy Grant (Crisan, Holm, §4D).
+ Looking forward, the group will further strengthen international links (e.g., IFREMER, France) to
+ lead computational modelling of Planet Earth with observational data, further pursuing numerical
+ and software strategies for massively parallel ocean, weather and climate models under
+ EPSRC-funded Platform (PRISM) and UKRI Excalibur programme grants.
+
+ Probability & Stochastic Analysis.
+ P: Brigo, Crisan, Gandy, Hairer†, Li†, Muhle-Karbe†, Pavliotis, Veraart; SRI: Bingham;
+ R: Cass, Rasmussen; SL: Jacquier, Kantas, Pakkanen†; L: Neumann†. Rodriguez†.
+ *Following a long-term strategic goal, we have grown Probability and Stochastic Analysis into a
+ world-class centre with top experts in stochastic PDEs, regularity structures, stochastic
+ geometry, stochastic homogenization, rough paths, stochastic filtering, and branching
+ processes. Recruiting 2014 Fields Medalist Hairer† (P) was a massive boost. Six additional
+ appointments – Li† (P), Muhle-Karbe† (P), Pakkanen† (L, promoted to SL), Chandra †
+ (Leverhulme Early Career Fellow, appointed L effective September 2020), Neumann† (L), and
+ Rodriguez† (L) – joined a coherent team that now spans the breadth of the Department (Fig.1)
+ and enjoys strong interactions with Imperial’s Grantham Institute and the CNRS-Imperial de
+ Moivre Laboratory (§4A). The group attracted significant funding, including Cass (£4.1M EPSRC
+ Programme Grant on Mathematics of Data Science, aforementioned EPSRC CDT), Crisan
+ (aforementioned EPSRC CDT, Synergy Grant), Hairer† (£1.4M RS Research Professorship,
+ ERC grant), Pavliotis (£1.6M EPSRC Platform Grant).
+
+
+                                                                                            Page 6
+Unit-level environment template (REF5b)
+
+ In future, the group will capitalize on its world-leading expertise in SPDEs (Hairer†, Li†, Crisan,
+ Chandra†, Coti-Zelati†) and expand ties with MPE (Crisan, stochastic geophysical fluids), ATI
+ (Cass, rough paths theory), Bath (Neuman†, Hairer†, Chandra†, super-processes) and TU-
+ Munich (Pavliotis, homogenization).
+
+ Statistics.
+ P: Adams, Gandy, Heard, McCoy, Nason †, van Dyk, Veraart, Young; SRI: Hand, Walden;
+ SL: Cohen, Evangelou†, Filippi†, Flaxman†, Kantas, Pakkanen†;
+ L: Battey†, Bodenham†, Duncan†, Lau†, Monod†, Pike-Burke†, Ratmann†, Ray†.
+
+ The Statistics group is committed to rigorous interdisciplinary research, developing methods for
+ applied problems, and the statistical theory underpinning these methods. Particular expertise in
+ statistical learning, Bayesian, computational, spatio-temporal, and applied-probabilistic methods
+ is deployed to a rich array of interdisciplinary collaborations, ranging from cyber-security, to
+ astrostatistics, MPE, Biomathematics, medicine and epidemiology, public policy, energy,
+ Finance, and data-centric engineering. Along with other funding (totalling £4.9M), collaborative
+ work was supported by an Alan Turing (ATI) Data-Centric Engineering Programme (£2.9M,
+ Girolami, McCoy, §4B) funded by Lloyd’s Register Foundation, an EPSRC Programme (£3M,
+ Girolami), and secondments to ATI (Duncan†, Lau†) and the Heilbronn Institute (Adams, Heard).
+ An array of industrial partners includes those associated with the EPSRC-funded CDT in
+ Statistics and Machine Learning (£6.2M + £610k industrial funding, with Oxford). The group’s
+ world-class researchers (e.g., Battey’s† back-to-back EPSRC Fellowships, Hand’s 2016 ENBIS
+ George Box Prize, van Dyk’s 2019 ASA Founders Award) are augmented by engaged long-term
+ visitors from government and industry (§2E). *A strategic decision to expand and diversify
+ enabled the appointments of Battey†, Ray†, Nason† (Theory/Methodology); Bodenham †,
+ Flaxman†, Pike-Burke† (Learning); Duncan†, Lau† (Data-Centric Engineering); Evangelou †,
+ Filippi†, Monod†, Ratmann† (*Medicine and Epidemiology, REF2014 strategic aim), and
+ Pakkanen† (*Finance, REF2014 strategic aim).
+ Future strategic aims include: further growth to enhance international leadership in statistical
+ learning and methods for high-dimensional and complex data, and strengthening research
+ activity with public policy and government through links to the ONS Data Science campus and
+ the Government Statistical Service (e.g., Hand, Allin, Pullinger, Nason †, Flaxman†).
+ D.      CDTs. The UoA took a leading role in 7 EPSRC-funded CDTs: 4 in the 2014-22 round
+ (Financial Computing, Fluids Across Scales, Geometry and Number Theory, Mathematics of
+ Planet Earth, totaling £18.6M); 3 in the 2019-27 round (Geometry and Number Theory, Random
+ Systems, Statistics and Machine Learning, totaling £18.8M). Together they foster diverse
+ research collaborations with our partners (Oxford, Reading, Kings, UCL), with Imperial
+ Departments (spanning Engineering, Medicine, Computing, Physics, and Life Sciences), and
+ across the Department (e.g., Random Systems links applied analysis, biomathematics,
+ dynamical systems, mathematical finance, statistics, probability and stochastic analysis, see
+ Fig.1). This is further supplemented by cross-disciplinary, cross-departmental PhD
+ programmes, e.g., an Imperial-led Marie Skłodowska-Curie ITN (€3.9M, PI Lamb) combining
+ mathematics, climate research, ecology and finance; the Wellcome Trust PhD in Theoretical
+ Systems Biology (£2.4M, Barahona co-I, co-director); the UKRI CDT AI4Healthcare (£7.8M,
+ Barahona co-I); and a Leverhulme PhD Programme in Cellular Bionics (£1.1M, Jones co-I, co-
+ director). 126 UoA students studied in these CDT/ITNs. As per Recommendation 22 of the Bond
+ Report, our CDT/ITNs are engines of impact and knowledge exchange via their array of cross-
+ disciplinary, industrial, SME, and government partnerships. Partners provide student co-
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ supervision, embedded research opportunities, and access to data (e.g., Airbus, Amazon, ATI,
+ DeepMind, EDF, JPMorgan, Met Office, ONS, NPL). The CDT/ITN successes attest to strength
+ across the Department’s research areas, and to strong collaborations between research groups
+ within the UoA, in College, and externally.
+ E.      Enabling and facilitating impact. The “application [of our research] in industry,
+ commerce and healthcare” forms the core of Imperial’s mission statement and is central to the
+ Department’s vision and strategy. Because advanced mathematics is fundamental to the
+ modern technology that drives everyday life, our impact is broad and diverse. Pathways for non-
+ academic impact involve both direct interaction with end-users and collaboration with
+ implementation-oriented academic disciplines, thus enabling access to other groups of end-
+ users. Impact of our high-quality research persists beyond REF’s twenty-year timeframe, often
+ forming the generic methodology of a field, e.g., Cash-Karp ODE solvers, Davis’ piecewise
+ stochastic dynamics, Smith’s Bayesian computation. Imperial’s world-leading Engineering,
+ Medical, Business and Science faculties, our proximity to the City of London, government, and
+ national institutes such as ATI and Francis Crick, and our diverse range of CDTs are all
+ opportunities that inform our strategic vision toward impact.
+ To leverage these opportunities for non-academic impact, we prioritize engagement with the
+ health, finance, tech, and public sectors as well as industrial, engineering, environmental,
+ defence, and security applications. As detailed below, the effectiveness of this impact
+ strategy is demonstrated by our impact case studies:
+        C1: Informing Public Policy to Control Covid19.
+        C2: Safety and Quality of Healthcare Delivery.
+        C3: General-Purpose Bayesian Software.
+        C4: Laminar-Flow Wing Design for Next-Generation Aircraft.
+        C5: Characterizing Defects for Nuclear Safety.
+        C6: Vaccine Coverage and Confidence.
+        C7: Statistical Cybersecurity.
+ Engagement with health sector. Our Biomathematics and Biostatistics research is used to
+ effect in Public Health, Medicine, and the pharmaceutical industry, aiding the analysis of clinical
+ and epidemiological studies and NHS performance monitoring. Impact-enabling collaborations
+ are fostered by close links with biostatisticians in Imperial Public Health, our Mathematics in
+ Medicine Group (§4A), and our EPSRC-funded Centre for Mathematics of Precision Healthcare
+ (CMPH, §1F). This enables mathematical research leading to impact, carried out both by UoA
+ staff and our collaborators in Public Health (e.g., Aylin, Bhatt, Bottle, Ferguson, Holmes, Larson).
+ Immediate worldwide impact in the fight against Covid19 stemmed from widespread use of our
+ Bayesian hierarchical methods, guiding the imposition/lifting of non-pharmaceutical interventions
+ (e.g., school closures, stay-at-home orders) and saving many lives [C1]. Working with Dr Foster
+ Ltd, we developed mortality alerts that were major triggers of interventions that improved poor-
+ performing hospitals [C2]. Barahona carried out funded work with Syngenta (developing
+ biomarkers for early detection of carcinogenic toxicity of herbicides); GSK (producing software
+ using graph-theoretic methods to detect druggable allosteric targets in proteins); and Biogen
+ (predicting patient response to a drug aimed at slowing degenerative disease). UoA staff (led by
+ Best) provided the mathematical underpinning for WinBUGS software, an inspiration for the later
+ Stan package; both are widely used in Bayesian analyses, including clinical trials and public-
+ health decision making [C3].
+
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+
+ Engagement with financial sector. We have a long record of developing advanced
+ mathematical tools, often using stochastic analysis, for direct and immediate impact in banks,
+ hedge funds, insurance, and investment companies (e.g., Davis’ work). Jacquier’s “Surface
+ Stochastic Volatility Inspired” parameterization provides robust arbitrage-free inter/extrapolation
+ of option prices and has been widely adopted by banks, clearing houses, hedge funds and
+ financial-software companies for their Equity desks. Brigo’s CEPIX model (developed in
+ consultation with the European Stability Mechanism, published in 2015) led to the creation of a
+ Euro exit probability index for EU countries. The CFM-Imperial Institute for Quantitative
+ Finance (£2.4M from CFM, 2014-24) facilitates industrial links leading to impact, e.g., work on
+ non-performing loans (Brigo), crowding and optimal trading (Neuman with CFM), limit orders for
+ hedging (Muhle-Karbe† with Citadel), cross-price impact and alternative trading venues (Muhle-
+ Karbe† with Goldman Sachs). Industrial collaborators include JPMorgan, Lloyd’s, Macquarie
+ Bank, Nomura, Deutsche Bank, Banca IMI.
+ Engagement with industry and tech sector. Standing alongside Imperial’s world-class
+ engineering and science departments enables long-term interdisciplinary collaborations (§1F)
+ resulting in sophisticated Mathematics with direct industrial impact. Airbus’ “Blade” laminar-flow-
+ control wing demonstrator took flight in 2017, showing that wing drag could be reduced by 10%
+ and CO2 by 5% [C4], and is a tangible product of our collaborative aerospace research (total
+ funding £5.3M). Our multidisciplinary CDTs (§1D), CASE, and iCASE studentships (§2J)
+ incubate dozens of industrial partnerships, providing funded internships, collaborative projects,
+ student inroads to careers in industry, and mechanisms for staff engagement on problems with
+ direct industry impact; this multipronged strategy has produced new mathematics impacting
+ manufacturing (via Rolls-Royce), energy markets (EDF, Edison Energy), AI/ML (JPMorgan,
+ Deep Mind), voice-activated devices (BP). Our long-term interaction with the National Research
+ Centre for Non-Destructive Evaluation at Imperial produces numerous industrially sponsored
+ joint grants and studentships (totaling £983k) and a pipeline for mathematical modelling that
+ reaches directly into industry with commercialized software (e.g., DISPERSE); a recent project
+ involves scattering from, and detection of, rough cracks in the nuclear-power industry [C5],
+ enabled by matching funding from BAE systems, Rolls-Royce, National Nuclear Laboratory,
+ EDF, and Amec Foster Wheeler. The UK is a world-leader in non-destructive modelling partially
+ due to the direct relationship between mathematics and engineering at Imperial. [C2,C4,C7] also
+ involve engagement with industry (Dr Foster, Airbus, Microsoft).
+ Engagement with public sector, government, and international bodies. We actively
+ encourage staff to accept public-sector roles and to collaborate with policy-making bodies. Hand
+ is a non-executive director of UK Statistics Authority (2013-21), which oversees the ONS and
+ Office for Statistics Regulation. He also serves on the European Statistical Advisory Committee,
+ which advises the European Commission. Such roles directly impact public policy: Hand’s work
+ with the ONS’s Technical Advisory Group influenced the UK’s Measuring National
+ Wellbeing programme, which produces influential annual statistics. Hand was made “Companion
+ of the Commonwealth Partnership for Technology Management”, for his advice to central-bank
+ governors and ambassadors of Commonwealth countries about national-data strategies.
+ Cotter† and Ham† develop weather, climate, and ocean models (£500k NERC funding); their
+ numerical methods were adopted by the Met Office for next-generation UK forecasting. This is
+ part of our broader engagement with climate and environment, e.g., Crisan and Holm’s ERC
+ Synergy Grant on Upper Ocean Dynamics (§4E).
+
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+
+ Jones’s work on large-scale surveys on vaccine attitudes worldwide was critical to WHO
+ warnings on “vaccine hesitancy” and impacted French vaccine policy which saved lives [C6].
+ Engagement with government decision makers influenced Covid19 responses [C1, see above].
+ Flaxman† works with the World Food Program on food security and WHO on vision-loss
+ prevention; Ratmann† works with UNAIDS on HIV prevention in Africa ($5.6M, Gates
+ Foundation).
+ [C2,C5] involved engagement with the NHS and government regulators, respectively.
+ Engagement with defence and security. Our expertise is actively sought by defence and
+ security institutions, including GCHQ, MoD, and in the US by Los Alamos National Laboratory
+ and USAF. (We are not reporting details of confidential work.) Heard and Adams’ work
+ identifying unusual patterns in large computer networks is critical for early warning of fraud or
+ cyberattacks [C7]. This timely work is relevant both to government bodies where we have
+ assigned staff to long-term secondments (via Heilbronn) and to the private sector where staff
+ collaborate with Microsoft and QinetiQ. Staff provided direct advice to MoD through its Defence
+ Science and Technology Strategy (Dstl), and obtained MoD funding via defence companies
+ (e.g., Thales, Atlas Elektronik, QinetiQ) through Progeny and Centre for Defence Enterprise
+ processes. Total REF2021-period funding exceeded £2.6M.
+ Quantitative Sciences Research Institute (QSRI) and impact-enabling workshops. To
+ create new collaborations and provide mathematical input directly into problems identified by
+ industry and applied scientists, the Department launched its QSRI in 2017. After an initial
+ investment of £50k, the QSRI is now self-sustaining. Ten workshops focused on strategic growth
+ areas (AI/ML, Mathematics in Medicine, collaborations with industry and/or engineering), e.g.,
+ Data Science for Cybersecurity (2017), Field Theories come to Life (2018), Data-Centric
+ Engineering: Instrumented Infrastructure (2019), Assessing the Impacts of Public-Health Policies
+ (2020). These interactions have significant benefits; for example, the 2018 Acoustics &
+ Metamaterials workshop led directly to £1.3M UKRI Strategic Priority Fund (Physics of Life) and
+ €3M EU FET Grants (Craster co-I). QSRI Workshops were complemented by 47 other Imperial-
+ based Department-funded mathematics workshops (§2A).
+ Staffing, sabbaticals, and secondments. The Department actively uses appointments,
+ promotions, sabbaticals, and secondments (§2D-2F) to encourage staff to achieve impact.
+ Adams (2011-16) and Heard’s (2013-19) long-term secondments to Heilbronn established our
+ international profile in defence and security, see above. Lau† (2017-19) and Duncan’s† (2018-
+ current) secondments to ATI led to new data-centric engineering research with Autodesk, MX3D
+ and Rolls-Royce (§4B). Hand reduced his Imperial FTE to serve as Chief Scientific Advisor at
+ Winton Capital (2010-18) to advise 150 researchers on statistics, machine learning, and data
+ science.
+ Enabling Enterprise. Knowledge transfer and research commercialization are central to our
+ impact strategy, supported by Imperial’s White City Incubator and Imperial Enterprise (REF5a).
+ We exercise maximum flexibility to support enterprise, e.g., 20% of staff’s time can be devoted
+ to consultancy, often mediated by Imperial Consultants (helping 12 staff consult with 14
+ companies on 29 projects). Gould (RA, mathematical finance) launched the start-up Sonalytic, a
+ 2016 finalist in Imperial Enterprise’s Venture Catalyst Challenge, to deploy his next-generation
+ ML-based audio-identification technology to identify, monitor, and discover music. Sonalytic was
+ sold to Spotify in 2017 for an undisclosed sum.
+
+
+
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+
+ The Department takes advantage of Imperial funds devoted to enabling impact via enterprise,
+ (e.g., UKRI Impact Acceleration Funds, SME Engagement Fund, travel grants for industrial
+ partnerships, Covid-19 Research Fund). The EPSRC Impact Acceleration Account provided
+ £380k to seed what, over the REF2021 period, became Imperial’s Advanced Hackspace (Jones,
+ co-I, then co-Director), an innovative community of 2000+ staff and students from all
+ backgrounds, disciplines and levels of expertise developing prototypes and research ideas. The
+ hackspace has earned substantial external/industrial funding (totalling £3.85M), supported 3 of
+ Forbes 30 Innovators under 30, and supported dozens of spinouts (e.g., award-winning Mitt,
+ Aergo, Gravity Sketch, Fresh Check, Entia).
+ With industrial partners Airbus, Bombardier, Crossword Cybersecurity, CONTEXT, and Rolls-
+ Royce, we won six Innovate UK Grants (totaling £19.3M), funding a wide range of impact-
+ producing activities. For instance, Mughal† provides methods to predict performance of laminar-
+ flow wing designs to Airbus [C4].
+ Our Impact Case Studies were enabled by industry-facing workshops [especially C4,C5,C7],
+ secondments [C7, Heard and Adams to Heilbronn], hiring [C1, Flaxman †; C4, Mughal†],
+ sabbaticals [C5, Craster], and enterprise activities [C5-C6, consultancy; C7, patents].
+ Evolving strategy for impact. Investing in areas with clear pathways to impact is paramount
+ and we will do so by growing biomathematics, data-centred research, statistical learning, and
+ MPE. We have already leveraged Imperial’s 2020 Academic Strategy for College investment
+ in statistical learning (300m2 of new space, 8 new academic appointments by 2025) and
+ biomathematics (2 appointments by 2022). Imperial X, a major new collegewide initiative, will
+ allow us to co-locate data-science-oriented staff and students with industrial partners and like-
+ minded multi-disciplinary Imperial colleagues. Imperial’s state-of-the-art White City Campus will
+ serve as an incubator for this new model of co-discovery and co-creation, thus enabling growth
+ of our core activities.
+ Evolving Topical Groupings enable us to mobilize staff into recognizable foci of impact-oriented
+ research. We recently formed Mathematics in Medicine (§4A), and MPE (§1C) and are actively
+ shepherding Mathematics of Machine Learning (spanning applied/stochastic analysis,
+ biomathematics, dynamical systems, statistics). A Knowledge-Exchange Committee with
+ dedicated funding has been approved to facilitate impact-generation via software development
+ (an identified bottleneck for impact), industry-engaging workshops, staff exchanges with
+ industrial partners, and seed funding for impact-generating research.
+ F.     Support for interdisciplinary research. We place mathematics at the centre of a
+ diverse array of collaborative research, continually enhancing and extending our interdisciplinary
+ reach within Imperial’s world-class Departments in Engineering, Natural Sciences, Business,
+ and Medicine. Support for this strategy mirrors our support for impact: engaging with
+ researchers in life, physical, and social sciences, engineering and business; designing strategic
+ workshops to build new multidisciplinary collaborations; and equipping staff for these
+ collaborations via sabbaticals, joint appointments, and recruitment.
+ Our Quantitative Sciences Research Institute (§1E) creates new interdisciplinary
+ collaborations across Imperial. A series of workshops (2014, 2015, 2018) co-funded by CMPH
+ and QSRI spawned a variety of interdisciplinary collaborations between UoA and MRC London
+ Institute of Medical Sciences (LMS) researchers, including an on-going position as
+ “Mathematician in Residence” for Shahrezaei at the MRC-LMS leading to funded research
+ (£250k Leverhulme, £1.5M Brain Tumour Charity).
+
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+
+ Our commitment to interdisciplinary research is evidenced by new cross-disciplinary and joint
+ appointments across strategic areas, including at the interfaces with biomedicine/public health
+ (P Thomas†, Evangelou†, Filippi†, Monod†, Ratmann†), engineering (Duncan†, Lau†), physics
+ (Graefe†, Taylor†), and machine learning (Bodenham †, Flaxman†, Pike-Burke†). Placement
+ agreements with the Crick Institute support staff development; Pruessner’s 2016 Crick
+ sabbatical led to new projects and PhD-student funding, enabling him to branch into work with
+ experimentalists and data analysis. To maximise interdisciplinary links, Jones and Shahrezaei
+ (Biomathematics) are co-located with Life Sciences and the Complexity group (Jensen) is co-
+ located with Physics collaborators.
+ The result is exceptionally successful engagement with research in other disciplines: 35.4%
+ of REF2021-period research grants had formal cross-disciplinary collaboration with other
+ Departments or UK/overseas institutions. We further strengthened our interface with Physics
+ through links between Geometry and Theoretical Physics (R Thomas’s RS Research
+ Professorship; Holzegel’s back-to-back ERC grants and Adams Prize; Taylor’s† URF; and a
+ Simons Collaboration Grant, §4A), a £2.6M Metamaterials Programme Grant (Craster), and an
+ international Astrostatistics collaboration partially funded by back-to-back Marie Skłodowska-
+ Curie RISE Grants (€1.1M, van Dyk, Mortlock – joint appointment). Collaborations with
+ Engineering have been fortified with, e.g., new initiatives in Data-Centric Engineering (Girolami,
+ McCoy, Duncan†, Lau†) through a £3M EPSRC Programme Grant and a £2.9M Lloyd’s Register
+ project (§4B); participation in an EPSRC Programme on Low-Carbon Energy Systems
+ (Flaxman†, led by Electrical Engineering); and through EPSRC Programme and Platform Grants
+ (totaling £7.4M, Cotter†, Craster, Hall, Ham†, Papageorgiou, Pavliotis, Parry) with Chemical
+ Engineering and Aeronautics. We act as quantitative leads within Imperial's cross-cutting
+ initiatives, from the top-level Global Institutes (Data Science, Grantham Climate Change, Global
+ Health, Infection) to 18 of its Centres/Networks in emergent areas (e.g., leadership roles in
+ Complexity, AI/ML, ChemBio, Neurotechnology). Mathematics for Planet Earth has led a rich
+ array of collaborations, e.g., with Grantham, including substantial funding (e.g., NERC awards
+ totalling £2.3M; €10M Synergy Grant, Holm, Crisan, §4D). These interdisciplinary links with
+ engineering, computing, AI/ML, climate, and biomedical sciences are reinforced with an array of
+ cross-cutting PhD programmes and CDTs (§1D).
+ Our interdisciplinary research is a proven path to impact: Hall’s Programme Grant with
+ Aeronautics facilitated [C4] and Craster’s collaboration with Mechanical Engineering led to [C5],
+ see §1E. The EPSRC-funded Centre for Mathematics of Precision Healthcare (£2.1M,
+ Barahona, Jones), awarded to deepen and extend collaborations with data-rich biomedical and
+ healthcare problems, facilitated [C6] and co-funded work with clinicians at Oxford and The
+ Gambia to improve diagnosis of childhood malaria, with Imperial NHS Trust medics to extract
+ information from free text in hospital incident reports, and with NHS personnel to analyse
+ patient-sharing between hospitals and the implications of patient choice on inequality and
+ efficiency.
+ Together, these interdisciplinary links embed mathematics into the fabric of the University,
+ providing a lively interplay of research, strengthening the UoA, directing it toward external
+ challenges, and thus enabling the impact that is vital to its sustainability.
+ G.      Progress toward open and reproducible research. Staff actively promote open and
+ reproducible research in the broader community: Ham’s † Firedrake project enables researchers
+ to archive the exact versions of their code, citable with a DOI on the CERN science-data
+ repository Zenodo.org; Ratmann† helped revise the data-sharing procedures of the PANGEA
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ consortium to enable sharing of HIV-sequence data; Gee, as a MathOA board member, lobbies
+ journals to adopt a "fair-open-access" model.
+ Staff are required to post all publications on a REF-compliant open-access repository. Aligning
+ with the Concordat on Open Research Data, staff must, whenever possible, publish data and
+ computer codes necessary to make their research reproducible. Our software quantifying the
+ effectiveness of non-pharmaceutical interventions on the Covid19 pandemic [C1] is opensource,
+ as is Firedrake; WinBUGS [C3] is freely available. Barahona’s opensource SC3 package for
+ single-cell analysis (Nature Methods 2017) is on Bioconductor (34k downloads, 615/month).
+
+ H.      Proactive support for research integrity. The UoA not only follows Imperial’s data-
+ management policy for data access and protection, but also takes measures to guarantee
+ compliance with GDPR via a dedicated Data-Protection Coordinator. All PhD students take
+ courses on plagiarism and researchers involved with confidential data (e.g., medical) undergo
+ specific training. All staff must undertake unconscious-bias training and the UoA enforces
+ balanced interviewing and examination panels. Staff are leaders in research integrity in the
+ College, UK, and internationally. Parry is Deputy Chair (2015-21) of Imperial’s Research Ethics
+ Committee. As a member of the UK Statistics Authority’s Board, Hand helped revise its Code of
+ Practice for Statistics (2019), and also publishes extensively on Data ethics.
+
+
+ 2. People
+ Staffing Strategy and Staff Development
+ A.      Staff-development strategy. New academic staff are supported with: 50% teaching for
+ one year, no administrative duties for 3 years (lecturers), a Department-funded PhD studentship,
+ tailored research funds (travel, equipment), relocation, housing, and visa allowances. Total
+ awarded start-up funds (excluding teaching/admin reductions) were £2.8M, twice that of
+ REF2014 (per appointment).
+
+ We assign all new staff a mentor who provides support and guidance; (Senior) Lecturers
+ undertake a 3-year probation (with formal midterm review). The Department provides full support
+ for grant applications (informal mentoring from group members, formal internal review
+ coordinated by Research Committee, internal mock panels, and external interview coaching, as
+ appropriate); this support is also available for established staff. This support is effective: 81% of
+ incoming staff (with 1+ year in post) were already awarded external grant funding.
+ The Department-funded Cecilia Tanner Schemes provide flexible small-scale research funding
+ for ECRs as seed funding and stepping-stones to external grant funding (and to other staff
+ transitioning to new research areas or during “funding gaps”). These schemes (and their
+ precursive EPSRC Platform Grant, Lamb, £526k) supported numerous short-to-medium term
+ research visits (102 incoming; 211 outgoing/conferences), provided underpinning funding for 47
+ Imperial-based workshops, and funded public engagement.
+ Nurturing younger staff and enabling career progression is key to maintaining our research
+ strength. Nomination for promotion is by a diverse committee (female and pre-professorial staff
+ are always represented) that considers all pre-professorial staff for promotion every year.
+ Informal external references are sought, and strong cases are progressed. Self-nomination is
+ also possible. Interviews are mandatory for promotion to Reader and Professor and follow the
+ appointment format (§2B, externals replaced by Assistant Provost); mock interviews are
+ provided and exit interviews give feedback. In the rare event of failure (2% over REF2021
+ period), a concrete action plan, monitored at annual-review meetings, is launched to ensure
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+ successful re-application. Of 39 pre-professorial staff submitted to REF2014, 26 are still in post,
+ of which 20 were since promoted: 11 are now Professors, 6 Readers and 3 Senior Lecturers. Of
+ 18 REF2021-period pre-professorial appointments with 2+ years in post, 11 have been
+ promoted.
+ Established staff: The Department places considerable emphasis on reducing administrative
+ burden to enable research. We appointed eight permanent Teaching Fellows who take on
+ administrative roles (e.g., UG Admissions, Senior Tutor) and work on curriculum review and
+ development. Academic teaching is capped at two (30-hour) courses/year. Staff actively
+ participate in high-quality training (e.g., academic leadership, management, industrial
+ engagement) and all academics (joining before October 2019) either have a current PhD student
+ or completed one during the REF2021 period.
+ The HoD (or deputy, in alternating years) meets all academic staff for annual Personal Review
+ and Development Planning. These meetings facilitate constructive dialogue regarding
+ promotions, teaching, research, impact, staff development, implementation of strategies, and
+ funding opportunities. This enables HoD engagement with a large and diverse mathematical
+ community and understanding of the needs of individuals and groups when coordinating and
+ interacting with College.
+ We enable our most capable staff to continue their research after reducing from full-time (as
+ Senior Research Investigators with part-time salary, office space, §1C); SRIs participate in
+ seminars, supervise MSc/PhD students, and mentor junior staff.
+ B.     Staffing and recruitment strategy. Our priority is to attract and retain top
+ mathematicians and statisticians, from diverse backgrounds (§2K) and from around the world,
+ who will become international research leaders and to provide them with the best possible
+ research environment. Only SRIs and postdoc/fellows (§2C) are appointed on fixed-term
+ contracts (15% of staff, §1A).
+ Research strategy drives staffing: considerable thought is given to appropriate staff numbers
+ within groupings and the level of appointments to account for exciting new research
+ developments. Informed by Recommendations 12 and 17 of the Bond Report, recent academic
+ appointments have focused on impact and interdisciplinary research (Duncan †, Filippi†,
+ Flaxman†, Monod†, Taylor†, P Thomas†). With our demographics (52% Professors, §1A), we
+ generally recruit (Senior) Lecturers (29 of 39 REF2021-period academic appointments), but take
+ advantage of exceptional opportunities, e.g., Hairer †. Succession planning is deployed where
+ necessary, e.g., appointing Coti-Zelati† and Zatorska† in Applied Analysis.
+ Space does not constrain staffing: physical expansion since 2013 (§3C) allowed growth and
+ development. Imperial’s outstanding interdisciplinary-research structures allow leveraging space
+ in other Departments (Life Sciences and Physics, §1F).
+ Academic appointments are only made to those deemed able to rise to the Professorial level.
+ Rigorous recruitment involves a seminar, one-to-one meetings, and an interview with an
+ EDI/HR-trained panel of diverse academics with appropriate expertise, academically elected
+ College Consul, and (for Reader/Professor appointments) external Professors. If not absolutely
+ satisfied with quality and fit, we restart the process.
+ C.     Support and contribution of Postdocs/Fellows. Our large population of high-quality
+ postdocs and fellows (323 over REF2021 period) plays a vital role in Departmental life,
+ organizing workshops and seminars, mentoring and (with appropriate training) supervising PhD
+ students, pursuing outreach activities, facilitating impact, and (where appropriate for their career
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+ development) lecturing. We fully implement the Concordat to Support Career Development of
+ Researchers (REF5a). Each is assigned an academic mentor who regularly meets them
+ informally and annually to formally discuss career development. We fund an annual self-
+ organized postdoctoral workshop to foster community. Dedicated academic champions (Battey †,
+ Rasmussen) advise ECRs on all aspects of transitioning from postdocs to permanent academic
+ positions. Imperial’s Postdoc and Fellows Development Centre (REF5a) provides tailored
+ career-development courses including fellowship-proposal writing, funder showcases, one-to-
+ one support, and mock interviews.
+ Funders for our 323 postdocs/fellows include, e.g., EPSRC (123 ECRs), EU (87), Leverhulme
+ (17), ATI (6), CFM-Imperial Institute (4). In addition to hosting prestigious externally funded
+ Fellows, each year we appoint 3+ department-funded highly competitive Chapman Fellows (2-
+ years, light teaching) selected from 250+ applications from around the world. Over the REF2021
+ period we employed 28 Chapmans (£2.3M investment) originating from, e.g., Bern, Cambridge,
+ Edinburgh, Johns Hopkins, Oxford, Sorbonne, Stanford, Technion, and Toronto. Imperial’s
+ (Junior) Research Fellowships (3-4 years, generous research funds, no obligatory teaching or
+ administration) follow a highly competitive University-wide selection; we have hosted 11. Many
+ of our former Fellows now hold prestigious permanent academic appointments (§2L).
+ D.       Staff are eligible for one term of Sabbatical Leave for every 6 worked (all academic
+ levels, including part-time and short-term staff). Leave is discretionary, reliant upon a strong
+ coherent research plan, awarded after discussion by the Management Committee, and (given
+ the quality of proposals) almost invariably granted. Leave designed to facilitate impact (§2E) or
+ cross-disciplinary research (§1F) is especially encouraged. 41 REF2021-period sabbaticals were
+ granted: destinations included the Crick, Ecole Polytechnique, EPFL, ETH, Harvard-Smithsonian
+ Astrophysical Observatory, IMPA, Kyoto, Mittag-Leffler, MPI Bonn, MRC-LMS, MSRI-Berkeley,
+ Princeton, and TU-Munich.
+ E.       Staff exchanges with other sectors are actively encouraged to drive impact. §1E
+ details secondments (totalling 158 months) and Hand’s position at Winton Capital. We hosted 5
+ Heilbronn Fellows working 50% with GCHQ; encourage public-sector roles (§1E), particularly in
+ education (§4C); and host numerous non-academic visitors (e.g., from Spotify, RBS, LANL). In
+ addition to those from the financial industry (§1C-mathematical finance), honorary staff include
+ Anagnostopoulos (data scientist at Quantum Black), Briers (ATI Defence and Security Director),
+ Allin (retired from ONS), and Pullinger (UK National Statistician, 2014-19), all of whom
+ collaborate closely with staff and students.
+
+ Visiting Scholars. Our location makes us an international hub, hosting 600+ international visits
+ longer than one week since August 2013, and many more for shorter periods. We have
+ dedicated programmes to enable scientific exchanges: our Cecilia Tanner Fund (§2A) supports
+ short-term visitors, and our prestigious Nelder Visiting Fellowships and Imperial-CNRS
+ Fellowships (§3E, §4A) facilitate longer-term visitors. These encourage new collaborations and
+ larger-scale external funding as they mature. We choose visitors who complement our expertise,
+ interact actively, and extend our ECR’s research networks. Nelder Fellows visit for at least a
+ month and are expected to present a postgraduate-level Lecture Series and Colloquium (§2J);
+ we hosted 17 (e.g., Colonius, Ghil, Kurtz, Rosenbaum).
+ F.     The Department is strongly proactive in recognizing and rewarding excellence in
+ research and impact, e.g., through promotions (43 during REF2021 period, §2A) and
+ research/impact merit-pay increases (36 instances). In line with Recommendation 12 of the
+ Bond Report, impact is recognized in hiring (e.g., Duncan †, Flaxman†, Lau†, Mughal†), release
+ from probation, and promotion (e.g., Cotter†, Ham†, Heard, Jones). Imperial’s President’s
+
+                                                                                          Page 15
+Unit-level environment template (REF5b)
+ Awards publicly recognized outstanding research and impact (Battey †, Caraiani†, Crisan,
+ Girolami, Graefe†, Jones, Shahrezaei) and our nominations of staff for major international prizes
+ are successful (e.g., Hairer’s $3M Breakthrough Prize, §4F).
+ §1E describes our support for achieving impact. In annual staff appraisals (§2A), the HoD
+ reviews staff contributions and discusses how the Department can facilitate and support staff in
+ developing impact. An annual one-day cross-Faculty workshop offers Strategic Training in
+ External Partnerships. The Department has a Director of Enterprise, who oversees impact
+ development strategy, and a dedicated Research-Development Manager, who negotiates
+ contacts and facilitates engagement with non-academic partners.
+
+
+ Research Students
+ G.     Recruitment of doctoral students. PhD students are central to the research life of the
+ Department and are a strategic priority. Our PhD-student population grew significantly, by 85%
+ (from 139FTE in 2012-13 to 258 in 2019-20). This was a strategic choice, achieved by winning
+ numerous CDTs (§1D) and making a large departmental investment in studentships (£11.6M),
+ enabled by substantial growth in our research (§3A) and teaching income. The Department
+ funded ninety-six highly competitive Roth Studentships, enlarging our pool of highly qualified
+ applicants, particularly outstanding non-UK students with limited access to UKRI funding.
+ Students are selected from a large pool of top applications from around the world. We received
+ 268 applications (63/73/132, Home/EU/Overseas) for roughly 60 places starting in 2019-20. The
+ vast majority of successful applicants achieved first-class honours, MSc with distinction, or both
+ (91% in 2019-20). We take proactive steps to increase applications/enrolment of students from
+ under-represented populations; we fund an LML-Roth PhD studentship for an African Institute
+ of Mathematical Sciences graduate (§2K), and part-time study enables mature PhD students.
+ Our recently launched McDermott Scholarships and McCammon Fellowships encourage women
+ into PhD study (§2K). Our female PhD-student population grew by 80% over the REF2021
+ period. To attract strong applicants, the UoA and its CDTs arrange open days and individual
+ research groups welcome potential students to visit. A stream of students enters via our MSci
+ and four MSc courses, providing top students with excellent training in advanced areas strongly
+ aligned with PhD study in the Department.
+ Top PhD applicants are interviewed by at least two academics and ranked by our Postgraduate
+ Committee and/or CDT committee, based on academic merit, eligibility for various funding
+ streams, and needed skill spread. All staff involved with admissions are EDI-trained. The very
+ top candidates are nominated for Imperial’s prestigious President and Schrödinger Scholarships.
+
+ H.      Studentships from major funders. Our 372 PhD students starting since 2013-14
+ received funding from wide-ranging sources, including: 152 EPSRC (including CDTs), 96
+ department (Roth), 23 self-funded, 13 EU, and 39 College funded (President/Schrödinger
+ Scholars). Other funders included Wellcome, Crick, NERC, BBSRC, CRUK and numerous
+ private-sector institutions (§2J).
+ I.       Student monitoring and support, linked to progress. The Director of Postgraduate
+ Studies (Barnett) provides oversight that is augmented by a Postgraduate Welfare Tutor and
+ academic Postgraduate tutors overseeing research groups. New lecturers take the Imperial
+ course “Supervising PhD Students”, and all active supervisors undergo continued development
+ by participating in half-day PhD-supervision workshops every six years, delivered by Imperial’s
+ Graduate School and tailored to the Department. Inexperienced supervisors always have an
+
+
+
+                                                                                           Page 16
+Unit-level environment template (REF5b)
+ experienced co-supervisor who advises on student selection and actively engages with
+ supervision.
+ Progress monitoring. A comprehensive monitoring and review system of PhD milestones is used
+ to identify potential problems early, provide support, and monitor progress. All students submit a
+ 4-page Research Plan at 3 months and are twice examined in person (at 9 and 18-24 months)
+ by two independent academics who provide detailed feedback on written reports and progress.
+ These meetings allow students to self-report on their progress and relationship with their
+ supervisor. Any issues are flagged and followed up by the Postgraduate Welfare Tutor or
+ Director of Postgraduate Studies, allowing problems to be quickly caught. During the REF2021
+ period, 90% of PhD students completed within 48 months.
+ Other support mechanisms include: PG-student representation on Staff/Student Committee; a
+ dedicated PGR-student committee; prizes for top PhD theses; an annual PG-research forum
+ (with poster competition and prizes), and department-funded networking and social activities.
+ The Department ensures all PhD students (including self-funders) have an annual research
+ allowance of at least £1k. The Department continually improves the physical environment for
+ research students through refurbishment and new space for student offices (§3B).
+
+ J.       Research culture, training, and preparation for future research. Imperial’s Graduate
+ School offers award-winning and sector-leading career-development training. Our PhD
+ students complete its Professional-Development Programme, selecting from 50+ courses to
+ form a programme tailored to their specific needs and interests. Many courses are aligned with
+ the Bond Report’s Recommendation 7 on training in knowledge exchange and innovation,
+ including research communication, industry & enterprise, research impact, and research
+ integrity. The Graduate School also offers courses in research computing (C++, Python, HPC),
+ thesis writing, career planning, and academic English.
+ Discipline-specific training consists of 100 hours of taught PG courses, through our extensive
+ masters programmes, and PhD-specific programmes offered through the Taught Course Centre
+ (TCC), London Taught Course Centre (LTCC), and London Graduate School in Mathematical
+ Finance (LGSMF). The EPSRC-funded TCC focuses primarily on Pure and Applied Mathematics
+ and is run jointly by Bath, Bristol, Imperial, Oxford, and Warwick. It uses streaming technology
+ (2019 upgrade, £42k) to enable real-time lectures across these institutions. Eleven London-area
+ institutions participate in LTCC; its offerings span mathematics with a strong representation in
+ Statistics. LGSMF offers tailored PhD-level courses in advanced Mathematical Finance and
+ related disciplines.
+ The Department hosts numerous focused workshops (57+, §1E-QSRI, §2A) and 25+ weekly
+ research-group seminars. Along with Nelder-Lecture Series (§2E), these complement formal
+ courses and are well-attended by PhD students. PhD students run several seminar series,
+ including “junior seminars” in geometry, number theory, analysis, applied mathematics, and
+ fluids. The Departmental Colloquium, held bi-monthly, provides a venue for the whole
+ Department to come together and meet world-leading mathematicians. Colloquia are accessible
+ to PG students in all areas of mathematics and post-Colloquia receptions encourage interactions
+ across all levels and groups in the Department. Recent Colloquium speakers include Gelman,
+ Caffarelli, Diaconis, Villani, Kühn, Stuart, Dafermos, Figalli.
+ The UoA’s commitment to impact via industry-facing and interdisciplinary research extends to
+ PG training. This aligns with Recommendations 6, 7, and 11 of the Bond Report which call for
+ dedicating more PhD studentships to impact in partnership with government, industry, and
+ national-level initiatives. Twenty-eight CASE, iCASE, and other studentships were funded by
+ such companies as Airbus, ASOS, BP, Capital Fund, Cervest, Citigroup, EDF, GCHQ,
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+ JPMorgan, Nataxis, Nomura, PWC, QinetiQ, RBS, Schlumberger, and Shell. Our CDTs (§1D)
+ and CNRS-Imperial de Moivre Laboratory (§4A) encourage interdisciplinary and cross-
+ institutional PhD research projects.
+
+
+ Equality and Diversity
+ K.     We are strongly committed to equality and diversity as drivers for innovation.
+ Academic recruitment is key to promoting diversity; we always appoint search committees to
+ encourage applicants from diverse communities and require hiring panels to undergo EDI and
+ HR-training. This resulted in 29% of 28 academic hires since Autumn 2016 being women. Since
+ 2013, female academics in the Department more than doubled in number (from 4 to 10) as did
+ our academics from ethnic minorities (from 4 to 10 excluding white minorities). Our promotions
+ procedure (§2A, refined in 2017) encourages transparency and equity, resulting in 4 of 5
+ academic women appointed in 2013-17 being nominated for and successfully promoted.
+ Shahrezaei serves as Diversity Champion for the Faculty of Natural Sciences, e.g., organizing
+ workshops on diversifying PhD-student populations. The UoA has held a Bronze Athena SWAN
+ award since 2010, expanded its EDI committee remit to include teaching and administrative staff
+ in 2017, and requires all staff to be EDI-trained annually (e.g., unconscious bias, active
+ bystander). REF5a describes College-level initiatives and achievements supporting EDI.
+ We foster diversity by developing new pathways into mathematics. In 2019 the Department
+ launched its Mary Lister McCammon Summer Research Fellowship Programme, a ten-week
+ program for final-year female undergraduates that provides generous bursaries, supervised
+ research projects, advice on postgraduate applications, and network building towards pursuing a
+ PhD. The UoA funds an LML-Roth PhD studentship for a master’s graduate of the African
+ Institute of Mathematical Sciences, and recently hosted two LMS Grace Young Fellows (after
+ family-related career breaks). In 2019 we launched the Marjorie McDermott Scholarship to
+ encourage top female undergraduates to pursue postgraduate study. Imperial has approved a
+ new departmental scholarship for black undergraduates. Ramsden leads our mA*ths
+ Programme, developing MOOC and SPOC support for able A-level students (45,000
+ participants in Jan 2021). College and ongoing philanthropic funding (Hg Foundation) enable
+ tailored online support and mentoring for 200 participants from under-represented groups. These
+ resources were particularly useful for isolating students during COVID19. In partnership with
+ Woodhouse College, Imperial recently received government backing for a new sixth-form
+ mathematics college with the aim of attracting more female, BAME, and other under-
+ represented students to Imperial (Craster, Trustee). Our efforts to diversify pathways into
+ mathematics have been recognized by Graefe’s † 2019 Anne Bennett Prize for “the inspirational
+ role she has played among female students” and black undergraduate Vanessa Madu’s 2019
+ Women of the Future Award.
+ L.      Career pathways for part-time and fixed-term staff. Our PhD students, postdocs, and
+ fellows are in high demand in industry and have excellent records of permanent placements at
+ top research universities, including Imperial, attesting to the quality of both the staff we attract
+ and the success of our career-development support (§2C).
+ Of 28 REF2021-period Chapman Fellows, 19 are now permanent (or tenure-track) academics, 3
+ hold further fellowships, and 4 remain in post (e.g., Groechenig, Assistant Professor, Toronto;
+ Huang, Lecturer, Manchester; Liokumovich, Assistant Professor, Toronto; Ottobre, Reader,
+ Heriot Watt; Sirignano, Associate Professor, Oxford; Wang, Professor, Caltech; Cheraghi†,
+ Schnitzer†, Coti-Zelati†, all SLs, Imperial).
+
+
+
+                                                                                              Page 18
+Unit-level environment template (REF5b)
+
+ Of 11 Imperial College Research Fellows. 9 are now permanent (or tenure-track) academics
+ (e.g., Ben-Artzi, Reader, Cardiff, EPSRC Early Career Fellowship; Graefe †, Reader, Imperial,
+ URF, ERC Starting Grant; Ouldridge, SL, Imperial (Bioengineering), ERC Starting Grant;
+ Oyarzún, Reader, Edinburgh; Gongyo, Associate Professor, Tokyo).
+
+ Other postdocs/fellows have excellent placements in industry (e.g., Beguerisse, Spotify; Gould,
+ Head of Product, Spotify; McMurray, Vice-President, JPMorgan; Winckler, Deep Mind) and top
+ universities (e.g., Thompson, SL, Manchester; Johnston, Associate Professor Bergen, ERC
+ Starting Grant; Merino-Aceituno, Assistant Professor, Vienna, €1.5M grant from City of Vienna).
+ M.       Staff and postgraduate-student support. The UoA employs a variety of flexible
+ mechanisms to support staff/students with special needs. Flexible and remote working are
+ supported whenever possible. Those with caring responsibilities or health concerns can
+ schedule work commitments accordingly and/or work remotely where possible. Before the
+ Covid19 shutdown, most staff/students took advantage of flexible/remote working, now all do.
+ Travel for those with caring responsibilities or ill-health is facilitated by an internal scheme
+ that funds family-member travel, hiring a babysitter, or other creative travel-enabling solutions.
+ Elsie Widdowson Fellowships provide study leave for academics returning from
+ maternal/paternal/adoption leave so they can concentrate on research for 12 months; 9 have
+ been awarded since 2015. Similar arrangements have been made whenever possible for
+ staff/students with long-term illness or returning from ill health. Some staff with caring
+ responsibilities choose to temporarily reduce their FTE, others choose flexible/remote working
+ or a rebalancing of their work responsibilities. In all cases the UoA works with them to find
+ workable solutions. The UoA takes a pragmatic approach to support those with disabilities,
+ e.g., via flexible/remote working and providing taxi fares on a long-term basis when necessary.
+ Postgraduate-student welfare support includes a dedicated academic welfare tutor and
+ research-group tutors, College counselling and career advice, workshops on professional skills
+ and wellbeing, regular Department-funded social events, and financial hardship support.
+ N.       Equality and diversity in rewards, research support, and leadership. All staff are
+ EDI-trained to ensure our processes are fair, transparent, and equitable. This has improved our
+ diversity, doubling our BAME academics (§2K). 8 of 39 (21%) REF2021-period appointments
+ were women, doubling the Department’s proportion of female academics to 11.5%. Among 18
+ pre-professorial staff appointed during 2014-17, 4 of 5 women (80%) were promoted after an
+ average of 29 months, compared with 7 of 13 men (54%) after 36 months. Of our 25 academic
+ staff with the fastest growing salaries, 7 (28%) are women. Since 2017, 20% of research/impact
+ related pay increases went to women and women’s increases were 65% higher. Female
+ academics are encouraged to seek funding and are successful (e.g., Caraiani † and Graefe† each
+ hold ERC Starting Grants and URFs; Battey † won back-to-back EPSRC Fellowships, McCoy is
+ PI of a £2.9M LRF Data-Centric Engineering Programme Grant).
+ We encourage staff from underrepresented groups to take on leadership roles if personally
+ rewarding or serves their career/professional goals. Academic women in the Department include
+ a Vice-Provost, QSRI Director, Director of a highly successful MSc, and two with CDT
+ leaderships roles. Other examples include our Deputy HoD (BAME), Faculty Diversity Champion
+ (BAME), and HoD (LGBT).
+ O.      Equality and diversity in REF submission. The UoA REF committee was trained in
+ unconscious-bias awareness. Output selections were cross-checked at multiple levels to ensure
+ REF criteria were applied. The committee followed Imperial’s code-of-practice in all aspects,
+ particularly regarding the selection of outputs and declared circumstances affecting research
+ productivity. After selection, Imperial’s REF Equality Committee and the UoA committee
+
+                                                                                            Page 19
+Unit-level environment template (REF5b)
+ conducted separate assessments. The output-count distributions for men and women are
+ indistinguishable (men averaged 2.15 papers submitted, women averaged 2.09; 14% of men
+ and 9% of women had 4+ papers submitted).
+
+ 3. Income, Infrastructure, and Facilities
+ A.      Our research-funding strategy aims to provide staff with resources to enable success
+ (§2A); to build a diverse overall portfolio of funders; to maintain a balance of smaller responsive-
+ mode grants, individual fellowships and larger-scale grants; and to pursue significant and
+ diverse funding for interdisciplinary research (§1F). This strategy has generated significant
+ funding.
+ Over the REF2021 period, research income totalled £53.5M. Top funders were:
+    1. Research Councils £26.5M (e.g., £21.5M EPSRC, £2.4M Royal Society, £2.0M NERC)
+    2. European Commission, £14.0M
+    3. Industry, £4.1M (£2.3M UK, £1.8M EU/Overseas).
+ Despite a 22% decrease in EPSRC Mathematics funding nationally from 2010-11 to 2017-18,
+ the average annual research income of the UoA grew by 69% (£4.5M to £7.6M/year) compared
+ with REF2014. (Per FTE, it grew by 80%, from £45k to £81k/FTE/year.) Growth was driven by a
+ near tripling of European funding (£0.76M/year to £2.0M/year), a 33% increase in Research
+ Council funding, 52% increase in industrial funding, and quadrupling of Government research
+ grants (£79k/year to £333k/year). As of July 2020, our active research grants totalled £46.1M,
+ with £28.1M yet to be spent. An additional £10.2M was awarded by January 2021.
+ Our longer and larger grants from various funders continued to grow in number. Leadership
+ roles in 6 EPSRC Programme grants (totalling £17.3M, 5 Imperial-led):
+    •   New Methods in Geometry (£2.2M, Corti PI, with Cambridge, Warwick),
+    •   Mathematics of Metamaterials (£2.6M, Craster PI, with Liverpool),
+    •   Laminar Flow Control (£4.2M, Hall PI, plus £518k from industry),
+    •   Applied Derived Categories (£1.2M, R Thomas PI),
+    •   Inference, Computation, Numerics for Cities (£3M, Girolami PI, with Edinburgh,
+        Cambridge, Manchester),
+    •   Mathematics of Data Science (£4.1M, Cass, with Oxford, UCL)
+ and key participation in 3 others (Flaxman †, Holm, Neves) were complemented by similar large-
+ scale Imperial-based projects:
+      • ERC Synergy Grant on Upper Ocean Dynamics (€10M, Holm, Crisan PIs, with Ifremer,
+          Inria),
+      • EPSRC Centre for Mathematics of Precision Healthcare (£2.1M, Barahona PI, 1-of-5 in
+          UK),
+      • ATI Data-Centric Engineering Programme (£2.9M, Girolami PI, then McCoy) funded by
+          Lloyd’s Register,
+      • CFM-funded Institute of Quantitative Finance (£2.4M, Cont PI, then Muhle-Karbe†),
+      • EPSRC Chemical Engineering/Mathematics Platform (£1.6M, Pavliotis),
+      • EPSRC Simulation Methods Platform (£1.6M, Cotter†).
+ Together these enabled world-leading research groups to flexibly address significant challenges,
+ e.g., dramatic progress classifying Fano manifolds using mirror symmetry and Gromov-Witten
+ theory (Coates, Corti); proving KKV conjecture (string theory) and first rigorous definition of
+ Vafa-Witten invariants (R Thomas); sophisticated mathematics underpinning reduced airplane-
+ wing drag (Hall, Mughal, impact case C4); network-theoretic measures for clustering and graph-
+ based learning in healthcare (Barahona, Jones).
+
+
+                                                                                              Page 20
+Unit-level environment template (REF5b)
+ We co-lead numerous major (inter)national initiatives, including 3 major biomedical Centres
+ (totalling £18.3M, Barahona co-I, see §1C-Biomathematics), a Brain Tumour Charity Grant
+ (£1.5M, Shahrezaei co-I), and a Simons Foundation Collaboration on “Special Holonomy in
+ Geometry, Analysis, and Physics” ($8.5M, PI Haskins, co-I Donaldson).
+ Staff have been successful in winning competitive long-term fellowships:
+    • 6 EPSRC: Career Acceleration (Rasmussen); Early Career (Colijn, Cascini, Cheraghi†);
+         Established Career (Crowdy, Girolami).
+    • 7 Royal Society: Research Professorships (Hairer†, R Thomas); URFs (Caraiani†, Coti-
+         Zelati†, Graefe†, Taylor†); Dorothy Hodgkin (Manolache).
+    • 6 Others: MRC Biostatistics (Johnston); NERC Independent (Ham†); Leverhulme Early
+         Career (Chandra†); Leverhulme Research Leadership (Hairer†); Royal Commission
+         1851 Research (P Thomas†); RAEng Research Chair (Girolami).
+ and 13 sole-investigator ERC Grants: Advanced (Donaldson, Holm, van Strien), Consolidator
+ (Coates, Hairer†, Holzegel) and Starting (Caraiani†, Coates, Gee, Holzegel, Graefe †, Neves,
+ Nicaise†).
+ Together, these fellowships and ERC grants totalled £24.3M. Looking forward, additional awards
+ starting in October 2020 include 3 UKRI/EPSRC Fellowships (P Thomas †, Flaxman†, Battey†)
+ and an ERC Advanced Grant (Gee), totalling £5M.
+ Early-career staff won 12 EPSRC Doctoral Prizes, 3 EPSRC Postdoctoral, 23 Marie
+ Skłodowska-Curie, 2 McDonnell Foundation, 1 Sir Henry Wellcome, and 5 Heilbronn
+ Fellowships.
+ §1D describes an array of CDTs (exceeding £42M).
+ B.      UoA, HEI, and cross-HEI Infrastructure. Our directly employed research-support and
+ technical staff (10.1FTE) include full-time managers for Research Development (Sood, §2F) and
+ Research Computing (A Thomas). Thomas oversees 200+ CPU-based servers, 38 of which
+ comprise the 340-processor NextGen cluster (upgraded in 2017), and several GPU servers,
+ acquired as recently as 2020. Since 2014, NextGen alone hosted over 1M jobs (4.3M CPU
+ hours). Most of the servers are inhouse in a bespoke air-conditioned server room (upgraded in
+ 2016). Data storage (1 petabyte) is mirrored locally and on remote tape drives. The
+ Department’s REF2021-period investment in upgrading and maintaining its extensive
+ computational resources exceeded £250k. Additionally, Imperial invests £3M/year centrally in
+ Research Computing, including consultancy on project execution. The Department makes heavy
+ use of these facilities (1.8M jobs, totalling 15.4M CPU hours) for large-scale computing with up
+ to 15000 processors, as well as ARCHER and cloud computing (ATI, Azure, AWS, e.g., impact
+ case C1). Researchers enjoy effortless access to a library of proprietary software (e.g.,
+ Mathematica, MATLAB, VMWare) and to virtually any scholarly reference (via Imperial’s Library
+ and a dedicated librarian).
+ C.       UoA Facilities. A 17% increase in UoA space since 2014 (now 5,565m 2, half research
+ space) has enabled increased research capacity. Lecture space used for colloquia, seminars,
+ workshops and conferences benefitted from a £404k refurbishment, while an ongoing renovation
+ programme of staff/student offices has created facilities for new appointments and growing
+ research teams. An £8.8M conversion of Weeks Residence Hall into academic space provided
+ offices for our Mathematical Finance group. The Department has recently refurbished a further
+ 130m2 (£383k) for new data-science staff. An extensive £5M reconfiguration of the main Library
+ houses 6 of our EPSRC-funded CDTs (2013 and 2018 calls) enabling expanded research
+ activity in Department space. Equality, diversity, and safety are always at the forefront. Our
+
+
+                                                                                          Page 21
+Unit-level environment template (REF5b)
+ Infrastructure Chair (Adams) coordinates individual plans to help disabled staff acquire research
+ funding and access infrastructure and facilities safely.
+ D.      Our infrastructure, facilities, and expertise enable impact. In-house expert ICT
+ support (A Thomas) is easily accessible to researchers. With EPSRC funding, A Thomas and
+ Mughal† built a dedicated cluster enabling specialized code to optimize next-generation laminar-
+ flow wings for Airbus [C4]. Again, relying on A Thomas’ expertise, Heard used in-house
+ infrastructure to collect and process large network-flow datasets, enabling his development of
+ cyber-security tools, e.g., for Microsoft [C7]. Imperial’s mathematical modelling of the Covid19
+ pandemic relies on Imperial HPC and commercial cloud computing [C1]. Our facilities host
+ impact-enabling workshops (§1E-QSRI) and organizations like the UK Acoustics Network [C5] to
+ enable impact.
+ E.     Benefits-in-kind (including cash/sponsorships) from corporate and public-sector
+ partners contribute substantially to the UoA’s research environment. EADS/Airbus, ARA, and
+ BAE contributed secondments and flight data (£1.5M), that were critical to the success of [C4]
+ and our Laminar Flow Control Programme Grant (Hall PI). MPE CDT (Crisan PI) partners (e.g.,
+ National Centre for Earth Observations, Climate-KIC, Met Office, NCAR, NPL) provided
+ studentships, project co-creation/supervision, internships, and data (£4M). Since 2015, CNRS
+ has provided salaries for 16 French mathematicians hosted by the UoA as CNRS-Imperial
+ Fellows (totalling 67.5 months, about £304k, §4A).
+
+ 4. Collaboration and Contribution to Research Base, Economy and Society
+ A.       The UoA strongly supports research collaborations, networks, and partnerships.
+ 48.7% of our REF-period research grants included formal collaboration with other departments
+ or institutions. Support for collaboration includes: sabbatical leave and teaching cover to
+ facilitate long-term secondments (§2D); flexible Cecilia Tanner Funding for travel grants, visitors
+ and workshops (§2A); and the QSRI (§1E-1F).
+ The Department actively encourages collaborative interdisciplinary groupings such as
+ Mathematics in Medicine. This tight new topical grouping was initiated strategically from our
+ EPSRC-funded Centre for Mathematics of Precision Healthcare by a series of workshops and
+ pilot projects to galvanise the broad interest in applications to biomedicine, public health, and
+ data science among UoA staff spanning Biomathematics, Statistics, Complexity, and Applied
+ Analysis. The Centre’s profile enabled a research focal point with several high-profile Fellows
+ joining biomathematics (§1C-biomathematics), and numerous collaborations within Imperial and
+ through a network of national (Cambridge, Oxford, Edinburgh) and international (Simons-
+ Flatiron, Harvard, MIT) institutions. This informed UoA research activity and strategy leading
+ to participation in major national initiatives (totalling £18.3M, §1C-biomathematics) and new
+ appointments (Filippi†, Monod†, P Thomas†).
+ The UoA leads a host of local research collaborations, including several CDTs involving co-
+ supervision with Kings, Oxford, Reading, and UCL (§1D), an array of collaborative activities with
+ ATI (e.g., Data-Centric Engineering Programme, £2.9M, §4B) and Programme grants in
+ partnership with Cambridge, Oxford, UCL, and Warwick (§3A).
+ The £4.1M Programme Grant (Mathematics of Data Science, 2019-24, with Oxford, UCL)
+ exemplifies large-scale strategic collaboration with academic and industrial partners at the
+ national level. Working with domain experts from INRIA (Grenoble) and Cambridge, the
+ Programme uses high-order mathematical signatures of multi-modal data to solve data-science
+ challenges in computer vision, human-computer interaction, radioastronomy and mental-health
+ diagnostics. Partnerships with ARM, Costain, and ATI enable industrial and societal impact.
+
+
+                                                                                             Page 22
+Unit-level environment template (REF5b)
+
+ The UoA’s coordinated approach to international partnerships is illustrated by its Imperial-
+ CNRS Abraham de Moivre International Research Laboratory (IRL), the only UK-based IRL
+ and one of 37 worldwide (across all subjects). IRLs are the highest strategic level of French
+ CNRS international engagement. The IRL hosted 16 CNRS-Imperial Fellows (§3E) and provided
+ support for joint UK-French colloquia, seminars and events (UoA+CNRS+Others investment
+ totaling £480k). A 2019 Research England I3 Grant (£500k) extended this collaboration with
+ Imperial-CNRS PhD studentships, annual summer schools, and a short-term visitor
+ programme. As a full-fledged CNRS laboratory, the IRL can have permanent French staff;
+ reflecting CNRS’s commitment, Sebastian Guenneau, a Director of Research, started in 2019.
+ In 2016 Donaldson and Haskins won a four-year $8.5M Simons Collaboration Grant on “Special
+ Holonomy in Geometry, Analysis, and Physics” with 10 institutions worldwide. Focusing on the
+ interdisciplinary interface of geometry and string theory, this project underpins international
+ activity, centred around 25 meetings, including 8 at Imperial -- drawing in staff from fields from
+ algebraic geometry (Corti, R Thomas) to string theory (Hanany, Hull). Strategic international
+ capacity building includes the “Brazilian-European partnership in Dynamical Systems" (Lamb,
+ €700k), Lamb, Ruzhansky, and Kestner’s participation in African Institute for Mathematical
+ Sciences programmes, and Crowdy’s Visiting Professorship in Brazil’s “Science without
+ Borders”.
+ B.      §1E describes the UoA’s coordinated engagement with key research users in the
+ financial, health, tech, industrial, environmental, defence, and public sectors and how this
+ develops impact and enriches our research environment with a diverse portfolio of
+ collaborators, funded projects, workshops, secondments, sabbaticals, and visitors from other
+ sectors.
+ Interaction with industrial partners influences research strategy within the Department and
+ Imperial. With funding from the Lloyd’s Register Foundation at ATI (£2.9M, 2017-22), for
+ example, we launched a large-scale programme in data-centric engineering that facilitated a
+ range of engineering-based academic-industrial data-science collaborations within ATI (e.g., co-
+ located staff). Working with industrial collaborators and funders (totalling £604k, e.g., MX3D,
+ QinetiQ, GCHQ, Autodesk, Crossword Cybersecurity, Mentat, EDF, Shell, Microsoft, Rolls-
+ Royce), this programme developed statistical methodologies in a range of projects, spanning
+ instrumented infrastructure, digital twins, and monitoring complex systems, all with direct
+ applications in civil engineering, transportation, and cybersecurity. Together, this provides a rich
+ environment of multi-disciplinary collaboration fostered by impact-oriented PhD studentships and
+ QSRI-funded workshops where staff and students mix with industrial partners. Impact has been
+ swift and significant: new ML-based solar forecasts have enabled National Grid to improve
+ forecasting accuracy by 30%; predictive monitoring for nuclear infrastructure have enabled EDF
+ to extend the lifetime of aging nuclear plants; and ongoing work with Rolls-Royce uses rigorous
+ Bayesian modelling to assess efficiency within the gas path of aero-engines.
+ C.      The UoA’s contributions to the economy and society abound. Hand’s numerous
+ public-sector roles (§1E) allow him to translate his administrative-data research into societal
+ impact. On the ONS’s Measuring National Wellbeing Technical Advisory Group, he helped
+ develop broader measures of wellbeing (beyond GDP) and advised on their presentation,
+ leading to a new public ONS dashboard that provides a visual overview supporting the ONS
+ Measuring National Wellbeing programme. Our work on “vaccine hesitancy” [C6] and on the
+ impact of non-pharmaceutical interventions on Covid19 [C1] impacted public policy; our mortality
+ alerts improve poor-performing NHS hospitals [C2] (§1D).
+
+
+
+                                                                                             Page 23
+Unit-level environment template (REF5b)
+
+ The Department actively engages with mathematics education, influencing policy, and
+ upskilling students and teachers nationally. Craster chaired the mathematics A-level Content
+ Advisory Board reporting to DfE (2014-16), and subsequently the A-level group for the Royal
+ Society Advisory Committee on Mathematics Education (2017-present); McCoy chairs its
+ statistics assessment sub-group. These committees influenced the DfE into increasing funding
+ for Further Mathematics and to delay the reformed Mathematics A-levels (administered
+ to 90,000+ annually). Our educational outreach portfolio is broad: Ramsden and McCoy
+ participate in the Royal Institution masterclass programme; McCoy in the Training Partnership
+ Maths in Action GCSE and A-level days (900 students in each sitting).
+ D.       The UoA actively encourages public engagement and outreach to diverse
+ communities through its research. Holzegel leads a dedicated team overseeing activity. Staff
+ regularly give Royal Institution, LMS, Maths in Action, Pint of Science, London Science Museum,
+ Café Scientifique, and other popular lectures (some posted on youtube, viewed by tens of
+ thousands) and deliver 50+ presentations to schools each year and to scientific Olympiads. The
+ Mathematics of Planet Earth CDT hosted three biennial, week-long exhibitions with physical
+ models and interactive demonstrations of the mathematics behind Planet Earth. Each welcomed
+ thousands of visitors, guided by CDT students, including schools visits and public talks. UoA
+ staff organized an evening public “Imperial Lates” event entitled Xmaths in 2018 that attracted
+ 1000+ visitors and 250 school children for games, puzzles, demonstrations, and hands-on
+ activities promoting and celebrating mathematics. It was the best-attended event in the history of
+ Imperial Lates.
+ E.      Sustainability. Our investments in department-funded PhD studentships (£11.6M, §2G)
+ and Chapman Fellowships (£2.3M, §2C) were strategic choices aimed at sustaining the
+ discipline. A post-Brexit UoA initiative will top-up 20 PhD studentships starting each year to pay
+ overseas fees. Our numerous contributions to diverse interdisciplinary research, the wider
+ economy and society (§1E, §1F, §4B, §4C) also bolster UK mathematics. Another exemplar:
+ Since 2017, the EPSRC-funded UK Acoustics Network (UKAN, Craster co-Director) has brought
+ together an internationally leading, but disparate acoustics research community, providing a
+ single access point for industry and government. Half of UKAN’s 800+ members are from
+ industry, with academic members from physics, engineering and mathematics. Its original 9
+ Special Interest Groups (SIGs) have expanded to 15; two SIGS (acoustic metamaterials, early
+ career researchers) are coordinated from the UoA. UKAN has run 70+ events, including
+ industry-academia engagement workshops, ECR summer schools, and specialist meetings
+ including two major European metamaterial meetings at Imperial, each with 100+ participants.
+ A series of recent reports (2016 CMS Report, 2018 Bond Report, 2019 LMS Report) highlight
+ the importance of mathematics to the information economy, emphasizing its key role in
+ knowledge exchange (KE). The UoA fully engages with these UK priorities and contributes to
+ sustainability by: appointing an Enterprise Director (Muhle-Karbe†); strengthening priority areas
+ including number theory, biomathematics, statistics, and industrial/engineering mathematics
+ (§1C); integrating KE and industrial engagement into CDTs (§1D); incentivizing staff exchanges
+ with industry/government (§2E); considering impact, KE, and cross-disciplinary work for
+ appointments and promotions (§2F); and expanding PhD programmes/projects undertaken in
+ partnership with government, industry, and national-level initiatives (§2J). We responded to the
+ 2017 independent report “Growing the AI Industry in the UK” recommendation of “200 more PhD
+ places in AI” with new CDTs (Statistics and Machine Learning, AI4Healthcare) and four new
+ academic positions in statistical learning (plus four more by 2025) to increase PhD-training
+ capacity in the area.
+
+
+                                                                                            Page 24
+Unit-level environment template (REF5b)
+
+ Individual research projects similarly align with UK and international priorities. Our €10M ERC
+ Synergy grant, Stochastic Transport in Upper Ocean Dynamics, (2020-26) responds to the
+ EPSRC’s 2019 Strategy and Delivery Plan (R5: Build new tools to mitigate climate change) and
+ EU commitments for clean, healthy, and safe oceans. Worldwide, this research responds to the
+ urgent climate change challenges emphasized at the 2019 UN Climate Change Conference.
+ F. Indicators of influence and recognition during REF2021 period.
+ Leadership in academic community (selection):
+ Donaldson, Clay Institute Scientific Committee;
+ Craster, IMA Council (2017-20);
+ Evans†, LMS Council (2014-16);
+ Gandy, Royal Society Covid19 DELVE action team (2020-);
+ Hairer†, REF 2021 Mathematics Subpanel, Institut Henri Poincaré and Oberwolfach Scientific
+ Committees;
+ Laptev, ERCOM Chair (2015-18), Mittag-Leffler Director (2011-18);
+ McCoy, RSS Council (2017-21);
+ Nason†, REF 2021 Mathematics Subpanel, CMS Board (2016-20), RSS Vice-President (2016-
+ 19), International Statistics Prize Foundation (2020-23, chair);
+ R Thomas, Newton Institute Steering Committee (2012-15);
+ van Dyk, American Statistical Association Board (2015-17), EPSRC Mathematical Sciences
+ Advisory Board (2020-);
+ Veraart, EPSRC Mathematics SAT (2017-19);
+ Young, Institute of Mathematical Statistics Council (2019-22).
+ Leadership in industry and government (selection):
+ Brigo, Director Capco Institute (2012-15), Academic advisory board Credit Benchmark (2015-17)
+ and HIS Markit (2017-);
+ Hand, Royal Society/British Academy Data Governance Group (2016-17), ATI mid-term review
+ panel (2018-19), UK Statistics Authority, non-executive Director (2013-21);
+ McCoy, Royal Society ACME (2017-21) and Dynamics of Data Science Steering Group (2017-
+ 19).
+ Collaborative PGR training:
+ UoA staff lead numerous collaborative CDTs and cross-disciplinary PhD programmes (§1C).
+ Editorship (main editors, not large boards, selection):
+ Craster, Joint Executive Editor, Quarterly Journal Mechanics Applied Mathematics (2002-17);
+ Barahona, 1-of-5 Editors-at-Large, IEEE Transactions (Network Science Engineering, 2014-);
+ Donaldson, main co-Editor: Duke Mathematical Journal, Journal of Differential Geometry,
+ Geometric and Functional Analysis, Journal American Mathematical Society.
+ Gee, Editor (Number Theory), Mathematische Annalen (2013-18);
+ Ham†: 1-of-6 Executive Editors, Geoscientific Model Development (2016-);
+ Holm: 1-of-7 Senior Editors, Journal of Nonlinear Science;
+ Laptev: Editor in Chief, Acta Mathematica (2011-18) and Arkiv für Matematik (2014-18);
+ Papageorgiou: 1-of-2 co-Editors, IMA Journal of Applied Mathematics;
+ van Dyk: Reviews Editor, Journal American Statistical Association (2014-16).
+ Participation on grants panels (selection):
+ Royal Society URF (Hairer†, 2015-20);
+ EPSRC Prioritization (x4, Lamb, McCoy; and Nason†, chair 2015), Fellowship (Nason† 2014 and
+ chair 2017);
+
+                                                                                         Page 25
+Unit-level environment template (REF5b)
+ ERC Starting Grants (Laptev, chair, 2014, 2016) Synergy Grant (Holm, 2014);
+ Marie Skłodowska-Curie Fellowship (Laptev 2017-18 and vice-chair 2019).
+ Invited keynotes (selection):
+ Caraiani† and Gee, both at Journees Arithmetiques 2017;
+ Donaldson, AMS Summer Institute on Algebraic Geometry 2015, IAS Marston-Morse Lecture
+ Series 2019;
+ Hairer†, IMS Medallion Lecturer 2014, Sciences Switzerland Einstein Lecture Series 2016;
+ Holzegel, International Conference on General Relativity and Gravitation 2016;
+ Jacquier and Veraart, both at Vienna Congress on Mathematical Finance 2019;
+ van Dyk, COMPSTAT 2019.
+ Invitations to address major international congresses:
+ International Congress of Mathematics: 2014 Hairer †, Neves, van Strien, 2018 Degond †,
+ Donaldson (plenary).
+ European Congress of Mathematics (postponed): 2021 Hairer † (Hirzebruch Lecture).
+ International Congress of Mathematical Physics: 2018 Laptev.
+ World Economic Forum: 2017 Flaxman †.
+ Scientific organization and conference chairs (selection):
+ Hairer†: Chair of ICM 2022 Programme Committee;
+ R Thomas: ICM 2014 Algebraic Geometry Program Committee;
+ Buck, Cont, Crisan, Crowdy, Hand, Liebeck, and Veraart each co-organized INI programmes
+ (totalling 30 months);
+ McCoy: MaxEnt 2018 Programme Chair.
+ ERC grants:
+ 3 Advanced Grants: Donaldson (2010-16), Holm (2011-17), van Strien (2014-19)
+ 3 Consolidator Grants: Coates (2016-21), Hairer† (2014-19), Holzegel (2018-23)
+ 7 Starting Grants: Caraiani† (2018-23), Coates (2009-14), Gee (2012-17), Holzegel (2013-18),
+ Graefe† (2018-23), Neves (2011-16), Nicaise† (2013-18).
+ Election member/fellow of learned societies:
+ Caraiani†, AMS Fellow 2019;
+ Donaldson, Russian Academy of Science 2019;
+ Gee, AMS Fellow 2014;
+ Hairer†, FRS 2014, AMS Fellow 2015, Austrian Academy of Sciences 2015, Academy of
+ Sciences Leopoldina 2015, Academy of Europe, 2015, Polish National Academy of Sciences
+ 2018;
+ Liebeck, AMS Fellow 2019;
+ Nason†, International Statistical Institute 2015;
+ Papageorgiou, American Physical Society Fellow 2016;
+ Skorobogatov, AMS Fellow 2019;
+ R Thomas, FRS 2015; AMS Fellow 2018, Academy of Europe 2019.
+ van Dyk, International Astrostatistics Association Fellow 2016.
+ Visiting Fellowships (selected):
+ Olga Taussky Pauli Fellowship, Vienna: Veraart (2014-19).
+ Simons Foundation Visiting Fellows at INI: Veraart (2019), Chandra† (2018), Degond† (2017)
+ MSRI: Liebeck (2017-18), Hairer† (2015-16).
+ von Neumann Visiting Professorships (TUM): Nicaise†, Rasmussen (2021, postponed), Pavliotis
+ (2019).
+
+                                                                                           Page 26
+Unit-level environment template (REF5b)
+
+ Awards & Prizes:
+ Atkinson, ASCE Maurice Biot Medal 2020;
+ Caraiani†, Whitehead Prize 2018, EMS Prize 2020;
+ Cascini, Moore Research Article Prize 2016;
+ Coates, Whitehead Prize 2014, Adams Prize 2015;
+ Donaldson, Breakthrough Prize 2015, Oswald Veblen Prize 2019, Wolf Prize 2020;
+ Graefe†, L'ORÉAL Women in Science Fellowship 2014, Anne Bennett Prize 2019;
+ Hairer†, Fields Medal 2014; Fröhlich Prize 2014;
+ Ham†, Wilkinson Prize 2015;
+ Hand, ENBIS George Box Prize 2016, International Federation of Classification Societies
+ Research Medal 2019;
+ Holzegel, Whitehead Prize 2016, Adams Prize 2018, Blavatnik Prize 2018;
+ Liebeck, Pólya Prize 2020;
+ Neves, New Horizons Prize 2016, Oswald Veblen Prize 2016;
+ Nicaise†, Ferran Sunyer i Balaguer Prize 2017;
+ Schedler†, André Lichnerowicz Prize 2016;
+ van Dyk, ASA Founders Award 2019.
+ Wolfson Merit: Carrillo, Crowdy, Degond†, Donaldson, Gee, Thomas, van Dyk, Zegarlinski.
+ National honours:
+ Hairer†, Knight Commander honorary 2015, substantiated 2019.
+
+
+
+
+                                                                                       Page 27
+

@@ -1,0 +1,893 @@
+Unit-level environment template (REF5b)
+ Institution: University of Leicester
+
+ Unit of Assessment: UoA11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+  UNIT CONTEXT AND STRUCTURE
+
+  The University of Leicester’s School of Informatics is internationally recognised for its
+  excellence across a wide range of fundamental and applied informatics. Our research and
+  impact activities thrive through a collegial atmosphere among a team of outstanding research
+  staff and students, cutting-edge interdisciplinarity research, and a collaborative approach to
+  seeking solutions to major societal and industrial challenges.
+
+  Over the REF period, the UoA has maintained expertise in foundational areas of computer
+  science, such as algorithms, formal methods, logic, and semantics. We have substantially
+  strengthened areas of challenge-led research, including Artificial Intelligence (AI) and machine
+  learning, algorithmics and formal methods, model-driven engineering, and validation and
+  verification. Consequently, Leicester is now exceptionally well-placed to provide leadership
+  addressing challenges relating to trust in autonomous and data-driven systems.
+
+  Headline achievements during the REF period include:
+
+      1. Major developments in foundational areas of computer science, including, controller
+         synthesis and model checking (Piterman, Ringert), design and analysis of data
+         structures and graph algorithms (Raman, Erlebach, and Hoffmann), and formal
+         specification and formal verification of file systems and network protocols (Ridge).
+
+      2. Novel applications of informatics research in industry and healthcare, including
+         machine learning for biomedical applications (Zhou), evolutionary algorithms with
+         impact on autonomous planning systems in transport and service sectors (Burke and
+         Drake), and validation and verification of autonomous and cyber-physical systems
+         (Mousavi).
+
+      3. Significant research impact ranging from improvements to online STEM education
+         worldwide (Law, ICS 1) to enhancing the performance and flight time of satellite
+         systems (Vladimirova, ICS 2).
+
+      4. Improvements to our research and impact strategy following REF2014 also enabled
+         more ambitious interdisciplinary projects. Recent successes include leading the £3M
+         ‘UK Verifiability Node’ in the EPSRC Trustworthy Autonomous Systems programme
+         (Mousavi), the £2M Personalised Space Technology Exercise Platform project (UK
+         Space Agency, Ng), contribution to the development of Space Park Leicester, and the
+         establishment of the new Centre for Artificial Intelligence, Data Analytics, and
+         Modelling Centre.
+
+  The School’s research is organised functionally into three Research Areas: (1) Algorithms
+  and Artificial Intelligence; (2) Interaction Design and Evaluation of Socio-Technical
+  Systems; and (3) Modelling and Verification of Systems. The Research Areas operate as
+
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+  nuclei for research staff and students with related specialisms. Researchers work seamlessly
+  across and beyond these areas, stimulating interdisciplinary interactions and developing
+  strong collaborations across the health, space, and engineering sectors.
+
+  The unit’s challenge-led research is now broadly focused around two cross-cutting
+  interdisciplinary Research Themes: (1) Trustworthy Autonomous Systems (led by
+  Mousavi), which integrates our in-depth expertise in AI, formal methods, human-computer
+  interaction, machine learning, model-driven engineering, optimisation, and validation and
+  verification to ensure autonomous systems can be built in a way society can trust and use;
+  and (2) Biomedical Informatics (led by Heckel), which addresses challenging healthcare
+  issues through data science, AI, machine learning, and image analysis.
+
+
+  RESEARCH AND IMPACT STRATEGY
+
+  Objective. Our overarching objective is to create a dynamic, scientifically-rigorous, and
+  inclusive environment that supports our staff and research students to produce high-quality
+  and impactful research. We aim to provide an environment that facilitates productive
+  collaborations and interdisciplinarity, stimulating both curiosity-driven and challenge-led
+  research with real-world benefits. While maintaining strengths in core computer science
+  disciplines, we are quickly emerging as leaders in highly impactful research relating to trust in
+  autonomous systems.
+
+  Key principles. The 7 guiding principles of our research and impact strategy are to:
+
+    1. Build on existing and emerging research strengths in trustworthy autonomous systems
+       and biomedical informatics.
+    2. Support interdisciplinary collaborations tackling societal and industrial challenges.
+    3. Facilitate impact, innovation, and application through knowledge exchange activities
+       and by working closely with industry.
+    4. Recruit, develop, and support outstanding academic staff and mentor early career
+       researchers.
+    5. Attract and support high-quality research students and develop a community of well-
+       rounded and highly employable researchers.
+    6. Increase the diversity and volume of our funding portfolio to support research and
+       impact activities, and provide support for the preparation of large cross-disciplinary
+       research proposals.
+    7. Increase engagement with our research by embedding an open research culture.
+
+  Approach to impact
+  There has been a significant increase in our outward-facing activities. Impact is now an
+  inherent part of our research planning, with six KTPs established during this REF period
+  compared to just one in REF2014. The principal beneficiaries of our research are the general
+  public, students, teachers, and schools, international space agencies and the UK space
+  industry, and health and engineering sectors. We have significantly grown industrial
+  informatics, with a 14-fold increase in industrial-related income (£198k).
+
+  In REF2014, we outlined our aim to establish three pipelines to impact:
+
+    1. To identify and develop high-quality research with potential for impact.
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+         We have appointed an Impact Coordinator (Heckel) and recruited Burke and Anjum
+         to provide impact leadership. They support colleagues with identifying and developing
+         impact pathways and communicate departmental capability to potential non-academic
+         stakeholders. At institutional level, we benefit greatly from the expertise and support
+         provided by the University’s Research Impact Team and have been awarded £40k of
+         internal funding specifically to pump-prime enterprising and impactful research.
+
+    2. To develop and strengthen engagement with industry and key users.
+        By collaborating with industrial beneficiaries, we have been able to identify major
+        challenges faced by users of our research. The UoA has provided novel architecture
+        for computing systems on board spacecraft, offering highly reliable operation and high-
+        performance data processing capability. This led to significant economic benefit for
+        international space agencies and industries, such as Airbus, as the flight time of their
+        space systems increased greatly (Vladimirova, ICS 2). Participatory approaches to
+        understanding user needs has also been key to delivering impact. Our commitment to
+        long-term end-user engagement led to the successful translation of end-user
+        preferences into technical and practical recommendations for developers of
+        international online educational resources (Law, ICS 1). Over the REF period, our
+        consultancy and contract research income totalled ~£226k, approximately double
+        REF2014.
+
+    3. To develop a collaborative interdisciplinary approach to real-world challenges.
+        We believe that social and economic impact benefits from a multidisciplinary approach.
+        We encourage our staff to build strategic partnerships with academics beyond
+        computer science through key research networks and institutional infrastructure, such
+        as the Leicester Institute for Advanced Studies (Institutional Environment Statement,
+        section 2.2). Our engagement with the Leicester Precision Medicine Institute led to a
+        significant role in the development of a new mobile application, Personalised Space
+        Technology Exercise Platform (P-STEP, £2M, UK Space Agency). P-STEP will use
+        space data and AI to deliver personalised exercise advice with pollution warnings, to
+        assist patients with health conditions such as heart disease, COPD, and asthma (Law
+        and Boronat). Another collaboration bringing together expertise in AI, robotics,
+        human-computer interaction, systems and software engineering with colleagues from
+        Leeds, Manchester, Sheffield, and York around the theme of trustworthy autonomous
+        systems resulted in £3M to lead the ‘UK Verifiability Node’ on the EPSRC ‘Trustworthy
+        Autonomous Systems’ programme (Mousavi, PI).
+
+  Achievements since REF2014
+  In REF2014, our two core strategic aims were to:
+
+  1) Grow and develop expertise in data mining and machine learning.
+  2) Grow and develop expertise in cyber security and trust.
+
+  During the REF period, we have successfully revised and revitalised our research and impact
+  strategy to achieve these aims and enable researchers to undertake research of the highest
+  quality, relevance, and impact. Through strategic hiring of four Chairs in areas related to AAAI
+  (Zhou, Anjum), security (Liu), and trust (Mousavi), as well as two ECRs (Rojas, Ringert),
+  the UoA has been able to develop expertise in data mining, machine learning, and verification
+  and validation.
+
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+  The following are brief descriptions of the three Research Areas (including participating
+  Category A staff and those who have made a significant contribution to research) and selected
+  research and impact highlights, as evidence of our unit’s success within the REF period.
+
+  Algorithms and Artificial Intelligence (AAAI, led by Zhou, with Anjum, Burke, Drake,
+  Erlebach, Hoffmann, Liu, Raman, and Vladimirova). This area is focussed on methods for
+  large-scale and intelligent data processing. It encompasses sub-topics on intelligent data
+  analysis; efficient, fault-tolerant, and distributed data storage and processing; and algorithms
+  for complex optimisation problems on (uncertain) data. Our foundational research develops
+  algorithms with provable performance and approximation guarantees; efficient and resilient
+  distributed data infrastructures; new algorithms for image processing and understanding; and
+  novel optimization techniques for NP-hard problems. We apply our research to problem
+  domains in transport, health, and security. Highlights include:
+
+    1. Broad industrial impact in a range of industries and sectors, including advancements in
+       deep learning in cell line authorisation with AstraZeneca (Zhou) and collaboration with
+       CERN on big data analytics for high-energy physics experimental data (Anjum).
+    2. Collaboration on the EPSRC ‘OR-MASTER’ project, developing mathematical models
+       and algorithms for allocating scarce airport resources and addressing issues of airport
+       congestion and capacity, in collaboration with 16 academic and air transport industry
+       partners (Drake and Burke).
+    3. Leadership in research on succinct data structures (Raman, plenary talks at SPIRE
+       2015 and WALCOM 2015, and invited tutorial at ACM SIGMOD-PODS 2018).
+    4. Leading investigations into algorithms for computing with uncertainty (Erlebach and
+       Hoffmann, EPSRC £401k), e.g., their application to develop a fleet of drones with
+       enhanced search and rescue capabilities in the Brecon Beacons (Hoffmann) in
+       collaboration with TrailMed, a medical service SME.
+    5. Co-founder, with five other UK institutions, of the EPSRC Network on Algorithms and
+       Complexity (Erlebach and Raman).
+    6. Establishment of the Artificial Intelligence, Data Analytics and Modelling Centre (Liu).
+
+  Interaction Design and Evaluation of Socio-Technical Systems (IDEAS, led by Law, with
+  Boronat, Heintz, Kefalidou, and Liu). IDEAS focuses on designing and evaluating interactive
+  technologies with Human-Computer Interaction (HCI) methodologies in a range of application
+  domains such as education, health, and transport. We have established and developed strong
+  relationships with researchers working in mathematics, physics, engineering, medicine,
+  psychology, law, business. Its overarching goal is to enhance people’s quality of life through
+  technology, as well as advancing key theoretical issues. Highlights include:
+
+  1. Pioneering research into the use of video games in education and usability and user
+     experience methodologies has enhanced the learning experience for children worldwide
+     (ICS 1, Law). Participatory Design research and implementation of PDot, an online tool,
+     resulted in high-quality free online STEM educational resources, with 90,000 students and
+     31,000 teachers across 45 countries benefitting from the software (two EU projects: ‘Go-
+     Lab’ £713k and ‘Next-Lab’ £290k, Law and Heintz).
+  2. Gathering empirical data with a country-wide survey in China to understand the prevailing
+     IPR awareness of designers in Chinese creative IT industries and thereby capturing
+     requirements to develop a prototype for a mobile app on retrieving patents (£82k, AHRC,
+     Law, Int. J. HCI 2020).
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+  3. Working on social and human-related aspects of healthcare and biomedical systems with
+     colleagues in Life Sciences has led to several projects in human-centred approaches to
+     healthcare systems and healthcare data-analytics, including the £2M P-STEP project (Law
+     and Boronat).
+  4. Working on human-centric approaches to the design of autonomous and cyber-physical
+     systems; for example, on human-centric approaches for event-driven architectures (Lu,
+     IEEE Transactions on Computational Social Systems 2019)
+  5. A programme of public engagement activities regarding Trust in Autonomous Vehicles
+     (Kefalidou).
+
+  Modelling and Verification of Systems (MOVES, led by Mousavi, with Anjum, Boronat,
+  Burke, Drake, Heckel, Piterman, Ridge, Ringert, Rojas, Tuosto, Türker, Ulidowski, Crole,
+  and Vladimirova). MOVES focuses on establishing trust in autonomous and data-driven
+  systems. We build upon the foundations of systems modelling and develop automated
+  software and systems engineering. We perform research on a range of validation and
+  verification techniques, including formal verification and synthesis to search-based and model-
+  based testing. Our main activities include using AI to develop efficient and effective verification
+  of autonomous systems, as well as using rigorous techniques to establish quantitative
+  verification results on AI-enabled systems. Highlights include:
+
+    1. Leadership in areas of validation and verification research, including an ERC
+       Consolidator Grant for the ‘Distributed Synthesis: from Single to Multiple Agents’ project
+       (~£1.3M), developing the theoretical foundations that enable reactive synthesis in the
+       context of multiple agents (Piterman). The UoA was also recently awarded ~£3M
+       (EPSRC) to spearhead work ensuring that autonomous systems, such as driverless
+       cars, drones, and robots, are reliable and dependable (PI: Mousavi. Collaborators:
+       Kefalidou, Law, Ringert, Rojas, and Türker).
+    2. Advancements in state-space analysis has had a major impact on systems biology
+       (Piterman). Piterman’s work has been incorporated into the Bio Model Analyzer tool,
+       used to create and analyse executable models of protein interactions. The tool was
+       used for models published in several important papers in Nature Comms 2018, Cancer
+       Research 2017, and Scientific Reports 2017, on topics related to cancer research.
+       Furthermore, Piterman’s work on synthesis describes the technique used to analyse
+       blood development in mice in a highly-cited paper in Nature Biotechnology 2015 (FWCI
+       12.8).
+    3. Development of consistency in distributed systems for the fusion of clinical and genetic
+       data in collaboration with Roche, a Swiss pharmaceutical company (Anjum).
+    4. Development of rigorous theory, tools, and implementations for consistent data stores,
+       including SibylFS mechanized semantics for POSIX and real-world filesystems (Ridge),
+       usable from theorem provers such as HOL and Isabelle/HOL, and simultaneously
+       functioning as a real-world filesystem testing tool.
+    5. Academic leadership in national and international research initiatives, including leading
+       the EU COST Action 1405 on ‘Reversible Computation’ (422K, Ulidowski), organising
+       Reversible Computation 2018 Conference at Leicester (Ulidowski), and founding and
+       directing the Midlands Graduate School on Foundations of Computer Science (Crole).
+    6. Marie-Curie Fellowship grant on reversible computation (£131k, Ulidowski and Tuosto)
+       and a Marie-Curie mobility grant on concurrency theory (BehAPI, £77k, Tuosto).
+    7. Setting the international agenda for hyper-heuristics, motivated by the goal of
+       underpinning the development of computational methodologies that can automatically
+       build decision support systems (Burke: International Series in Operations Research and
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+        Management 2019, FWCI 30.61; European Journal of Operational Research 2017,
+        FWCI 6.6)
+
+  Governance and integrity. The School’s Research Committee are responsible for reviewing
+  our research and impact strategy. This comprises the Research Area and Theme leaders, the
+  Head of School, Director of Research, and representatives from early- and mid-career
+  researchers. The Committee is responsible for promoting a culture of research integrity and
+  we expect all researchers to embed best practice in all aspects of their work. We adhere to
+  institutional requirements (IES, 2.7) and ensure all researchers understand the expected
+  standards of integrity, as outlined in the Concordat to Support Research Integrity. The
+  Committee is also involved in other strategic decision making, such as allocation of support,
+  travel funds, and other resources for enabling research and impact.
+
+  Open research. In addition to adhering to REF requirements and institutional policy (IES,
+  2.6), we are increasing the open accessibility of our research. In Leicester’s first Open
+  Research Survey (2020), 83% of informatics researchers agreed that their understanding and
+  awareness of open research had improved since 2014 and that they had made more of their
+  research freely available and accessible. Many of our researchers are editors and/or on the
+  editorial board of open-access peer-reviewed journals, including MDPI Computers (Heckel)
+  and Electronic Proceedings in Theoretical Computer Science (Ulidowski). We regularly share
+  preprints, tools, data, methods, and code via open platforms such as Gitlab, Github, and arXiv.
+
+  Future Research Plans
+  To support our objective of becoming international leaders in trust in autonomous systems, we
+  plan to expand our expertise in: (1) data-driven and AI systems; (2) software and systems
+  engineering for autonomous systems; and (3) social aspects of computing and human-
+  computer interaction. We will foster interdisciplinary collaborations, particularly with the School
+  of Mathematics, where we see excellent collaboration opportunities in AI, risk analysis, and
+  simulation and real-time diagnosis of autonomous systems.
+
+  We are also playing a significant role in the development of Space Park Leicester (IES, 2.1,
+  4.1). Utilising our expertise in data science, AI, software engineering, validation and
+  verification, researchers from this UoA will lead one of the main work packages for the
+  Manufacturing, Engineering, Technology and Earth Observation Research Centre project.
+  METEOR will be a key part of SPL, bringing together academic research and industrial space
+  and Earth observation R&D. The centre represents an internationally unique approach to
+  understanding and delivering space capabilities, revolutionising how satellites are conceived,
+  designed, operated and produced, as well as how data derived from them is interpreted and
+  used to solve real world problems.
+
+
+ 2. People
+
+  STAFFING STRATEGY AND STAFF DEVELOPMENT
+
+  Staffing strategy. Our overarching goal is to recruit and retain exceptional computer
+  scientists to deliver research excellence across our Research Areas. To achieve this, we have
+  developed the following strategy:
+
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+    1. We recruit outstanding staff at all career stages to enhance research and impact.
+    2. We target appointments that are in line with our cross-cutting interdisciplinary themes,
+       as well as appointments that will facilitate and strengthen links with industry.
+    3. We retain staff by providing robust support and career development opportunities and
+       recognise and reward success.
+    4. We ensure staff can flourish in an equal and inclusive working environment.
+
+  Staff recruitment and composition. All recruitment is conducted in a fair, transparent, and
+  flexible way in order to attract a diverse pool of candidates. Appointments are made entirely
+  on merit and assessed by diverse selection panels adhering to DORA-compliant principles.
+  We value breadth and specialisation across a range of activities. On REF census date, the
+  unit comprised 19.7 FTE of Category A Staff: 7 FTE Lecturers (including 3 ECRs), 3.5 FTE
+  Associate Professors and Senior Lecturers, and 9.2 FTE Professors. Our research activity is
+  further supported by 10.5 FTE of teaching-focussed members and 12 PDRAs and Graduate
+  Teaching Assistants.
+
+  During the REF period, we have recruited staff to strengthen expertise and capabilities across
+  our Research Areas and Themes. We have invested significantly in Verification and Validation
+  research (Mousavi, Chair; Ringert, Rojas, and Türker, Lecturers). New appointments were
+  also made in Combinatorial Optimisation and Evolutionary Algorithms (Burke, Chair), AI and
+  Data Analytics (Anjum, Chair), Security and Big Data Analytics (Liu, Chair), AI and Image
+  Processing (Zhou, Associate Professor), and Optimisation and Evolutionary Algorithms
+  (Drake, Lecturer).
+
+  Staff development and promotion. We ensure that the principles of the Concordat to
+  Support the Development of Researchers are implemented at School level. All staff have an
+  annual Performance Development Discussion (PDD) with the Head of School. Evaluating
+  research and impact performance and identifying training needs are core components of these
+  discussions. PDD reports are reviewed by the Head of School to identify candidates for
+  promotion and consider whether interventions are required, e.g., workload adjustments and
+  additional mentoring.
+
+  We have an active and fully-paid study leave programme. Typically, staff can take leave to
+  focus on research and impact for one semester in every seven. There are rigorous application
+  and evaluation procedures for study leave involving the Research Committee, with
+  subsequent review and approval by the College to ensure that staff achieve maximal benefit
+  and that study leave goals are ambitious and deliverable.
+
+  All academic staff have access to a dedicated School research and travel fund to support a
+  range of activities that support the development of research and impact. This is done by
+  redirecting a fraction of grant overheads and QR funds to individual researchers. Under this
+  scheme, 22 staff have been granted travel funds and 11 were awarded funds to complete
+  follow-up activities. For example, Erlebach’s travel fund in 2018 resulted in a collaborative
+  journal article introducing a novel adversarial model for scheduling with explorable uncertainty
+  (Algorithmica 2020) and a subsequent EPSRC grant (£400k) investigating algorithms for
+  computing with uncertainty.
+
+  Staff across all Research Areas regularly take part in research seminars, providing an
+  opportunity to present research, promote best practice, and facilitate collaborations. In
+  addition, the UoA facilitates exchanges between staff and non-academic stakeholders through
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+  the Leicester Innovation Hub (IES, 2.5), by leading and participating in LIH events that
+  demonstrate our expertise and potential to provide innovative product solutions to industrial
+  partners.
+
+  We encourage all staff to utilise training provided by the Doctoral College (IES, 3.2). Law and
+  Mousavi took part in the Leicester Future Leaders’ Programme, which aims to foster a
+  community of diverse leadership talent. For promotion cases, knowledge exchange,
+  enterprise, and impact, as well as research, are key parts of the assessment criteria. During
+  the REF period, Law and Zhou were promoted to Professor and Ridge was promoted to
+  Associate Professor.
+
+  Early Career Researchers (ECRs). All ECRs receive reduced teaching loads and are offered
+  flexible start-up packages to accelerate progress. ECRs are assigned a mentor with whom
+  they meet regularly to discuss research and impact goals. The School further operates a
+  ‘buddy’ scheme, wherein ECRs are paired to facilitate peer support, peer learning, and
+  cultivate a productive, collegial, and inclusive research culture. The scheme’s value has also
+  been acknowledged through our Athena SWAN Bronze award renewal (2018).
+
+  The School has enrolled ECRs to the University’s EPSRC New Investigator Grant Cohorts
+  scheme. All are currently taking part in EPSRC First Grant training and their bids are in
+  preparation. The scheme provides training workshops specifically for ECRs to support them in
+  formulating and submitting a bid that, if successful, will underpin a self-directed research
+  project. Piterman and Minku have attended this training and were successful with their bids,
+  respectively, for an ERC Consolidator Award and an EPSRC First Grant.
+
+  ECRs who have been supported through these mechanisms have been successful in securing
+  funding for independent research activities, including: An Independent Fellowship (Chitchyan);
+  an EPSRC First Grant (Minku); an EPSRC and an ERC Consolidator grant (Piterman, total
+  ~£328k); an MRCUK grant (Verdezoto); and a Health Foundation grant (Kefalidou). All have
+  gone on to secure more senior academic positions.
+
+  Visiting Scholars. To promote international collaboration, the School regularly hosts visiting
+  scholars, for example: Mariangiola Dezani-Ciancaglini (Italy), Ed Fredkin (USA), Frank
+  Kammer (Germany), Barbara König (Germany), Simon Puglisi (Helsinki), Zia Qayyum
+  (Pakistan), Ivan Lanese (Italy), Norman Margolus (USA), Hernan Melgratti (Argentina),
+  Michael P Frank (USA), and Shoji Yuen (Japan). A number of these visits have been funded
+  by academic councils and Governments and all have resulted in high-quality outputs, some
+  including our PhD students.
+
+
+  RESEARCH STUDENTS
+  We highly value our research students and their contribution to the research environment.
+  During the REF period, 58 research students completed their doctorates, representing a 39%
+  increase since REF2014. The improvement in the size and success of our PhD community
+  reflects both the quality of the research students we attract and a marked improvement in our
+  research activity. In the 2019 Postgraduate Research Experience Survey (PRES2019), 94%
+  of informatics PGRs who responded agreed that they were overall satisfied with the
+  experience of their research degree programme.
+
+
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+  Recruitment. Attracting both national and international research students through
+  studentships, robust support mechanisms, and developmental opportunities is a strategic
+  priority. Funding for studentships has come from an increasingly diverse range of sources,
+  including EU funding, EPSRC, Microsoft, and British Telecom. PhD students are recruited via
+  open competition and projects identified by staff are advertised on our web page each year.
+  Applications are centrally administered and a panel interviews short-listed candidates.
+  Successful applicants are selected primarily based on research potential, performance during
+  interview, and academic experience. We also ensure new staff have access to PhD students
+  as they begin to grow their teams.
+
+  Supervision. In PRES2019, 94% of our PGRs who responded agreed that their supervisor/s
+  provide feedback that helps them to direct their research activities. Students meet with their
+  supervisors on a weekly basis and these meetings are recorded by the student so that we can
+  monitor engagement and attendance. Secondary supervisors are closely involved in the
+  conception and development of the project. Progress is monitored more formally by a panel
+  independent of the supervisory team at three and six months, and then annually until the viva.
+  For the reviews, students are required to submit a written report detailing their progress and
+  future research plans, as well as a training needs analysis form to inform a tailored training
+  plan.
+
+  Training and development. In PRES2019, 94% of our PGRs who responded agreed that
+  their ‘skills in applying appropriate research methodologies, tools and techniques’ had
+  developed during their programme and 100% agreed that ‘skills in critically analysing and
+  evaluating findings and results’ had developed.
+
+  Central training is provided by the Doctoral College. At local level, the School trains doctoral
+  students in line with the Vitae Researcher Development Framework. For example, PGRs are
+  required to attend the Graduate Seminar series, comprising short and intensive modules on
+  research methodology, presentation and writing skills, and introductory material in areas of
+  research. We also play an active role in the Midlands Graduate School, which offers
+  specialised training in various areas of computer science.
+
+  We integrate PGRs into the academic community in several ways. PGRS are invited to
+  present their research at the annual Informatics Postgraduate Research Day. PGRs are also
+  given the opportunity to actively work with more senior colleagues, enabling practice-based
+  peer learning. Research students have contributed to bids and collaborated with staff on
+  exhibitions and events, e.g., the Royal Society Summer Science Exhibition and the
+  DriverLeics initiative, a research and public engagement group relating to trustworthy
+  autonomous systems. Our PGRs are encouraged to participate in external conferences and
+  workshops and all have access to a travel fund. We also encourage participation in research
+  competitions, such as the BCS Research Spotlight competition which led to an award for Cauli
+  in 2017.
+
+  Employability and next destination. Since REF2014, our PGR graduates have progressed
+  to a wide range of highly competitive academic and industry roles. Many graduates have gone
+  on to secure academic positions, including: Research Associates (e.g. Oxford, Imperial
+  College London, and Cambridge), as well as Lectureships in the UK (e.g., De Montfort and
+  Wolverhampton) and overseas (e.g., China, Malaysia, Saudi Arabia, and Thailand). Others
+  have gone on to secure industry positions, including roles in Software Engineering, Software
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+  Development, Data Science, and Computer and Data Consultancy, at SMEs, Amazon, and
+  Microsoft.
+
+
+  EQUALITY AND DIVERSITY (EDI)
+  EDI is a priority in the School. We adhere to the institutional EDI strategy and policies (IES,
+  3.1). We acknowledge that we cannot reach our full potential unless we can benefit from the
+  talents of all and are committed to addressing issues of underrepresentation in our School.
+
+  Gender equality. Our work towards tackling gender inequality was recognised by an Athena
+  Swan Bronze award (2013, 2018); however, we recognise there is still much work to do. On
+  the REF census date, 8.7% of REF-eligible staff were female, 18.2% of Professors were
+  female and nearly 30% of research students were female. We seek opportunities to increase
+  the visibility of female staff and students and celebrate women in computer science. For
+  instance, we invite female guest speakers from academia and industry to our events. We have
+  organised successful outreach activities, including an ‘Ada Lovelace’ away-day for schoolgirls
+  and the ‘CodeFirst: Girls’ course series for non-CS students. These activities aim to attract
+  girls and younger women to informatics and ensure a more balanced gender profile for STEM
+  subjects in the future. In 2015, we hosted our first Daphne Jackson Fellow (Severi).
+
+  BAME representation. We support cultural diversity, which is reflected in our international
+  profile. On the REF census date, 26.1% of REF-eligible staff were BAME, 45.5% of
+  Professorial staff were BAME, and 50% of our female staff identified as BAME. We also
+  recently hired members of staff who were born in eight different countries (Bolivia, Bulgaria,
+  China, Germany, Greece, Iran, Pakistan, and Turkey) and had their last appointments at six
+  different countries (China, Israel, Sweden, Turkey, UK, and USA). Over the REF period,
+  48.1% of research students identified as BAME.
+
+  Monitoring and assessment. Feedback from the 2018 Athena Swan award panel agreed
+  that the School had ‘good consultation methods’ for self-assessment, identifying issues, and
+  creating action plans. EDI, including Athena Swan Self-Assessment Team (SAT) reports, is
+  discussed in quarterly staff meetings and at Student Staff Committee meetings. EDI activities
+  are communicated to staff and students via a dedicated virtual learning environment and
+  learning management system. The SAT Chair is a University Equality Champion, meaning
+  regular meetings take place to discuss EDI initiatives at a College level. We sustain close
+  collaboration with the University Athena SWAN executive panel, the College Gender Equality
+  Panel, and an Athena SWAN “buddy” department to exchange knowledge and best practice.
+
+  Inclusion. We ensure that meetings take place within our core hours to support staff with
+  caring responsibilities. We also operate Flexible Working and Special Leave policies, and an
+  Annual Leave Purchase scheme, to facilitate a healthy work/life balance and provide flexibility
+  to staff in times of need. We have a wellbeing tutor to look after the health and wellbeing of
+  our PGRs. To celebrate our achievements, we have several annual awards dedicated to
+  recognising the contributions of our colleagues, e.g., Law was a finalist for the 2016
+  Discovering Excellence award and a nominee for the 2017 Research Impact Award.
+
+  EDI and REF. We are submitting all eligible staff in our REF return. UoL’s REF Code of
+  Practice specifies how our REF return has been compiled with due regard to EDI. In advance
+  of this, we ensured a diverse mix of staff were involved in output quality review (38% of our
+  panel were female). We have a supportive process in place for declaring staff individual
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+  circumstances in relation to our REF submission, guided by our EDI Champion (Kefalidou)
+  and University’s EDI team. We have robust support structures in place so that even staff
+  facing substantial challenges have been able to produce outputs for REF.
+
+
+ 3. Income, infrastructure and facilities
+
+  RESEARCH INCOME
+
+  During the REF period, our research income totaled ~£3.8M, with a total spend per FTE of
+  £196k—a 74% increase on REF2014 (£112k/FTE). Our principal sources of external research
+  funding were awarded by EU governmental bodies (£2.4M), UK governmental bodies (£553k),
+  EPSRC (£384k), and industry (£198k).
+
+  Strategy for generating research income. Following REF2014, the School committed to
+  increasing its outward-facing activities, the success of which is reflected in a significant
+  increase in both the volume and diversity of our funding portfolio. We have made notable
+  gains in several areas, including a 1320% increase in industry funding, a 288% increase in
+  funding from the UK government and health authorities, and a 107% increase in funding from
+  EU government.
+
+  The School capitalises on College- and institutional-level support for the preparation and
+  costing of research grant applications, provided by our Head of Department, Director of
+  Research, Research and Enterprise Division, Research Institutes, and Key Funder Working
+  Groups. Together, they raise awareness of funding opportunities and provide internal peer
+  review of early-stage to fully-developed research proposals, mentoring, progress reviews, and
+  workshops to ensure a good understanding of funder requirements. This support has enabled
+  a sustainable upward income trajectory over the REF2021 period, from £423k in 2013/14 to
+  £618k in 2019/20.
+
+  Increase in our research funding has enabled us to conduct innovative research and deliver
+  considerable impact. Major grants include:
+
+       A £2.5M European Regional Development Fund grant to underpin the launch of the
+        Leicester Innovation Hub (Reiff-Marganiec). Based at UoL, the hub supports businesses
+        through incubation, innovation support, and access to facilities, funding, and academic
+        expertise. It has worked closely with over 100 companies to turn research and business
+        ideas into innovative products, services, and processes.
+       A £1.3M ERC Consolidator Grant for the ‘D-SynMA’ project, which has advanced
+        distributed synthesis by considering novel interaction and communication concepts that
+        have created an adaptable framework of correct-by-construction application of
+        collaborating devices (Piterman, TACAS 2019).
+       A £422k EU ICT COST Action grant on ‘Reversible Computation’ (Ulidowski). Working
+        with over 150 scientists from 28 countries, it aimed to support the growth of foundations
+        of reversible computation and apply the research outcomes in practical applications.
+        Highlights include work on causal-consistent reversibility and its applications in reversible
+        debugging tools, novel techniques for reversing Petri nets with applications in the
+        modelling of biochemical reactions and wireless communication networks, design and
+
+
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+        synthesis of reversible circuits, and applications of reversibility in programming industrial
+        robots performing assembly operations.
+
+  Future funding strategy. We recognise that an over-reliance on a small number of sponsors
+  creates vulnerability. Our strategy led to a more balanced research income profile with
+  charities, industry, Government, and Research Councils, making our current and future
+  research income streams more sustainable and robust to external economic and political
+  fluctuations. We hope this diversity will provide a degree of insulation against changes in the
+  funding landscape, supported by a strengthening of our industrial links and ensuring that we
+  seize opportunities in areas relating to Trustworthy Autonomous Systems and Biomedical
+  Informatics. With two large multidisciplinary grants already secured in these areas (£3M
+  EPSRC, £2M UK Space Agency), we are ensuring that UoL continues to conduct innovative
+  and impactful computer science research over the coming years.
+
+
+  INFRASTRUCTURE AND FACILITIES
+
+  Informatics researchers are based in the Informatics Building, which includes accessible
+  offices, research and seminar space, and laboratories. The University further invested in a
+  new modern building dedicated to Computer Laboratories for education and research.
+  Construction was completed in 2020, ready for use post-lockdown.
+
+  Specialist laboratories and equipment. During the REF period, the University has invested
+  £50k to host our Human Computer Interaction (HCI) Laboratory, equipped with Virtual Reality
+  (VR) technologies. The HCI lab has supported projects such as the EU H2020 ARETE
+  (£293k). Law and Heintz have made considerable advancements in understanding how
+  specific design features of augmented reality can cultivate fruitful learning environments for
+  school children, from improvements in literacy and STEM to positive behaviour. They have
+  become leaders in successfully applying human-centred design in technology-enhanced
+  learning by providing innovative Augmented Reality resources in the education system (Int. J.
+  H-C Studies 2020).
+
+  The University has also been provided space to support our Artificial Intelligence Lab, as well
+  as investment in a variety of specialist equipment, including high-specification computers,
+  Vector robots, autonomous vehicles, and simulators. These led to successful public
+  engagement activities (such as the Royal Society Summer Science Exhibition) and also in
+  student and research projects.
+
+  High Performance Computing (HPC). UoL is renowned for its provision of nationally-
+  significant HPC facilities (IES, 4.3). All staff and students in this UoA have access to two large
+  HPC clusters, ALICE and SPECTRE, providing maximum performance for the most
+  demanding data processing, data analysis, and simulation tasks. These facilities have been
+  essential to support the development of our AI-based collaborations, including Zhou’s
+  collaboration with AstraZenecta (Cambridge), which aims to enhance the performance of
+  recognising contaminated cell lines in cell images whilst minimising errors in identification and
+  led to PhD funding.
+
+  Centre for Artificial Intelligence and Data Modelling (AIDAM). In collaboration with the
+  School of Mathematics, we launched AIDAM in 2020. The centre carries out, consolidates,
+  and integrates research on AI, data science, and machine learning to develop data-driven AI
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+  systems that are resilient, robust, trustworthy, and adaptable to changing operational
+  conditions. A major objective of AIDAM is to facilitate related fundamental and challenge-led
+  research. In line with our two key interdisciplinary research themes—trustworthy autonomous
+  systems and biomedical informatics—the centre supports, in particular, collaborations with Life
+  Sciences and industry. Examples include the METEOR project with Space Park Leicester. In
+  the short time since its launch, AIDAM has supported interdisciplinary projects and industrial
+  partnerships totalling over £5.5M.
+
+  Leicester Institute for Advanced Studies (LIAS). LIAS facilitates new ways of modelling
+  and translating interdisciplinary research (IES, 2.2). Our unit has secured and capitalised on
+  LIAS-driven funding schemes designed to pump-prime interdisciplinary research networks,
+  such as the Leicester Artificial Intelligence Network, and various interdisciplinary projects,
+  including: the ‘Digital Technology in Maternity Care’ project, which has transformed the way
+  we understand and harness digital technology in pregnancy, maternity care, and early
+  parenthood in the UK, India, Peru, and South Africa (Verdezoto); the ‘Leicester Ethnicity,
+  Ageing and Dementia’ project, which is developing clinical applications of AI and machine
+  learning in healthcare (Law); and the ‘Mental Health and Social Media’ project, which explored
+  the positive and negative impacts of social media on adolescents (Law).
+
+  Other institutional infrastructure. The unit has access to Leicester’s award-winning library
+  (IES, 4.1), including digital access to Computer Science libraries such as IEEE and ACM
+  DL, ScienceDirect, and Springer Link. UoL provides comprehensive support for research,
+  enterprise, impact, and knowledge exchange activities through the Research and Enterprise
+  Division (RED). RED also provides support for the costing and preparation of research grant
+  applications, including mock interviews, and keeps the School informed of new research
+  initiatives.
+
+  Future investments. Within the next year, it is expected that the UoA will physically move into
+  a newly refurbished building which will host both the School of Informatics and Mathematics,
+  an investment worth ~£500k. This will enable a stronger and closer collaboration and joint
+  research culture between these two departments, especially within the field and context of
+  Trust in AI, Big Data Analytics, and Machine Learning.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ During the REF2021 period, the School has facilitated and strengthened over 100 national and
+ international partnerships. This includes collaborative projects with local, national, and
+ international researchers, as well as industrial and governmental partners.
+
+
+ COLLABORATION WITH AND CONTRIBUTION TO THE RESEARCH BASE
+
+ We have been involved in several collaborative interdisciplinary projects. For example, Law (Co-
+ I) collaborated with law scholars on ‘Law in Children’s Lives’ (ESRC £20k). By engaging with
+ end users, Law designed and evaluated the usability of a tablet-based game that aimed to
+ explore how far children see law as an empowering force in their lives. The research led to six
+ joint publications (e.g., Law, Int. J. H. C. Studies 2020) and feedback from the young
+ participants was extremely positive: ‘The game was AWESOME! And I learnt a lot!’ (Girl, Year
+
+
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+ 5). LCL has opened new research opportunities to explore how ‘gamification’ can engage pupils
+ and enhance education.
+
+ The UoA utilises its AI expertise to create new collaborative partnerships. With support from
+ LIAS, members of AAAI formed the ‘Leicester Artificial Intelligence Network’, the University’s first
+ platform to promote interdisciplinary collaborations pivoting on AI. Consisting of 18 faculty from
+ the Colleges of Life Science, Science and Engineering, and Social Sciences and Arts and
+ Humanities, the network exists to bring together researchers working on all aspects of AI and
+ drive innovative cross-disciplinary research agendas. LAIN has facilitated a variety of projects,
+ including using AI for diagnosis in cardiac arrests and shoulder diseases and grants, including
+ £3M from ESPRC to lead on the ‘verifiability’ aspect of autonomous systems (Mousavi).
+
+ Other examples include Zhou (Co-I) who, with academics from Criminology, Psychology,
+ Mathematics, and Geography, is developing close working relationships with East Midlands
+ police forces through the ‘Violence Reduction Information Network’, an ESRC IAA Strategic
+ Partnership (£46k). VRIN aims to develop knowledge and share information concerning the
+ prevention of public space violence, which will have a positive influence on policing operations in
+ the region and beyond. Zhou is leading work on AI and face recognition to support the reduction
+ of public space violence (IEEE Tran. Image Proc. 2020).
+
+
+ INDUSTRY COLLABORATIONS, BENEFICIARIES, AND PUBLIC ENGAGEMENT
+
+ Our work in applied informatics involves extensive engagement with industry partners and key
+ users. Since REF2014, we have worked with more ~30 organisations across healthcare, space
+ and earth observation, travel and transportation, education, and software and services
+ companies to address major challenges. We have delivered significant economic and social
+ impact, including developing high-performance analytics for medical systems; improving the
+ performance of satellite systems; and reducing airport congestion.
+
+ Healthcare. We have initiated several strategic collaborations that will utilise, grow, and develop
+ impact from our growing expertise in biomedical informatics, including AstraZeneca, TrailMed,
+ and Roche. With Roche, for example, Anjum investigated a blockchain based distributed ledger
+ infrastructure for trusted management of data coming from IoT devices in healthcare and
+ developed a HyperLedger based infrastructure for an immutable and verifiable record of
+ transactions between patients, investigators, and IoT devices.
+
+ Space and earth observation. We contribute to the University’s international reputation as
+ world leaders in space and earth observation research. Collaboration with Airbus Defence and
+ Space and the European Space Agency led to significant economic impact by extending the
+ flight time of satellites (ICS 2). Vladimirova’s research helped to mitigate the effects of some of
+ the harsh operating conditions in space that threaten the effectiveness of a satellite’s flight time.
+ By developing high-performance embedded computing systems and improving the reliability of
+ satellite data processing systems, Vladimirova et al were able to extend the functional life of
+ satellites, ensuring these flight times are more cost-effective and addressing gaps in knowledge
+ in the space industry. Their research led to six outputs during the REF period, including articles
+ in ACM Computing Surveys Journal (2015) and IEEE Trans. Aerospace and Electronic Systems
+ (2016).
+
+
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+ With Precise Crop Nutrition, Vladimirova’s research further contributed to the development of a
+ system to help farmers make better use of satellite images to develop variable rate nitrogen
+ fertiliser application plans for their crops (Innovate UK/NERC, £45k to UoL) Vladimirova’s
+ expertise in satellites and high-performance computing helped Precise Crop Nutrition to offer a
+ quicker and more flexible way to convert data and allow agronomists and farmers to be more
+ closely involved in crop management recommendations.
+
+ Travel and transportation. We have partnered with national and international companies in
+ travel and transportation, including Air France KLM, RollsRoyce, Zurich Airport. Burke is leading
+ the ‘Mathematical Models and Algorithms for Allocating Scarce Airport Resources’ programme,
+ with Drake, colleagues from the Universities of Stirling and Lancaster, and air transport industry
+ organisations and policy makers. Tackling growing concerns over airport capacity, rising
+ demand, and the impact of congestion, the six-year £2.8M (EPSRC) project is investigating—
+ from a mathematical and computational perspective—whether capacity management is being
+ realised as efficiently as possible, supporting policy makers and air transport decision makers in
+ the UK and overseas to optimally allocate scarce airport resources (SSCI 2019). Furthermore,
+ Burke and Drake are working together with Banedanmark to develop a constructive framework
+ to tackle the problem of planning preventive maintenance of railway signals in the Danish railway
+ system (Journal of the Operational Research 2019).
+
+ Software and Service. A strategic partnership with the Software Engineering Research Group
+ at British Telecom led to three industrially-funded challenge-led PhD studentships. This includes,
+ for example, a project on ‘Automated Accessibility Testing for Mobile Applications’, to develop a
+ fully automated test generation approach to check the accessibility of mobile Android apps and
+ evaluate the severity and relevance of the accessibility issues identified (supervised by Rojas
+ and Mousavi). Additionally, Drake’s and Burke’s research into multiobjective evolutionary
+ algorithms for strategic deployment of resources (Journal of Operational Research 2020), has
+ allowed the planning team at BT to understand the unique complexities of maintenance
+ problems they face in different areas of the UK, particularly with respect to the choice of number
+ of operational units, and has strengthened their ability to design operational units effectively.
+
+ Public engagement and outreach. The School has a strong public engagement component on
+ trust in autonomous systems. It includes activities at public fairs and festivals, such as the
+ prestigious Royal Society Summer Exhibition and the Science Museum, and several outreach
+ activities at open days and schools. The exhibition at the Royal Society Summer Science
+ Exhibition 2019 had ~13,000 visitors, including over 2,000 school students. Our Late Event at
+ the Science Museum attracted more than 4,000 visitors. We also produce educational material
+ for the general public and maintain active web presence and communications for a lay audience.
+ We gather data to evaluate public awareness and understanding and outreach. A preliminary
+ report of this activity has been published as a paper co-authored by five staff members, two
+ PGR, one graduate, and one undergraduate student (DSCI 2019).
+
+
+ ESTEEM AND LEADERSHIP
+ We have a strong base of faculty with prominent leadership roles in the community. We give
+ select examples below.
+
+
+
+
+                                                                                           Page 15
+Unit-level environment template (REF5b)
+
+
+  Awards,            National/          Editorships         PC                  Keynotes and
+  recognitions,      international                          Memberships         invited talks
+  and fellowships    partnerships
+
+
+
+  18 awards          131                49 in different     Membership of       69 keynotes and
+  4 fellowships      partnerships       journals and        287 international   invited talks
+  3 recognitions     worldwide,         venues              PCs
+  1 patent           including
+                     academia and
+                     industry
+
+                            Table 1. Esteem indicators within the unit
+
+
+ Editorships. Examples include: Editor-in-chief of Journal of Scheduling (Burke); Area Editor of
+ the Journal of Heuristics (Burke); Associate Editor of the INFORMS Journal on
+ Computing (Burke); Editor of Theoretical Computer Science (Erlebach); Editor-in-chief
+ of Science of Computer Programming (Mousavi); Associate editor of IJHCS and Interacting with
+ Computers (Law); Associate Editor of Acta Informatica (Piterman); Editor of the Journal of
+ Discrete Algorithms 2014-18, Associate Editor ACM J. Experimental Algorithms (Raman);
+ Editor-in-Chief of Recent Advances in Electrical & Electronic Engineering and Associate Editor
+ of IEEE Transactions on Human-Machine Systems (Zhou).
+
+ Programme committee chairs and steering committee members. Examples include: Chair of the
+ Steering Committee of the EPSRC Observatory for Responsible Research and Innovation in ICT
+ (Orbit) 2017-present (Burke); Chair of ICGT Steering Committee and Steering Committee
+ Member of ETAPS and FASE (Heckel); Steering Committee member of SBMF and PC Chair of
+ SBMF 2018, Steering Committee member of SPLC (Mousavi); Associate chair of CHI 2015 and
+ 2016-2019 (Law); General Chair of SustainCom 2020 and Cyberlife 2019 (Liu); PC Chair of
+ HVC 2019 (Piterman); PC Chair of SEA 2017 (Raman); and PC Chair of RC 2018 (Ulidowski).
+
+ Programme Committee membership of high-quality conferences and workshops. Examples
+ include: ACM CHI 2015-2019 (Law), CSCW; FM 2018-2019 (Mousavi); MFCS 2015, SEA
+ 2016, ESA 2017, SOFSEM 2019 (Raman); SODA 2021 (Erlebach); PC Member of FMCAD
+ 2019, APLAS 2019, and FORTE 2019 (Dimitrova); PC Member of SBMF 2018 and CyPhy2018
+ (Ringert); and PC Member of ASE 2018, ICST 2020, and PC Member of ICST 2017-2020 and
+ MUTATION 2016-2019; PC Chair of SBST 2019 (Rojas).
+
+ Leadership in professional and academic bodies: Chair of the UK Huawei ICT Academy
+ Advisory Board 2017-present (Burke); Chair of the EPSRC Strategic Advisory Team for
+ ICT 2016-present (Burke); Chair of EASST (Heckel); Secretary of IFIP W 1.P (Mousavi); Royal
+ Society Newton Fellowship Reviewer Panel (Raman); member of the EPSRC Strategic Advisory
+ Network (SAN) 2019-present (Burke); member of the EPSRC Equality, Diversity and Inclusion
+ Strategic Advisory Group 2019-present (Burke); member of the All Party Parliamentary Group
+ on Artificial Intelligence 2017-present (Burke); member of the Expert Panel on Informatics and
+ Knowledge Technology for Research Foundation Flanders 2015-2020
+ (Burke); EPSRC Responsive Mode panel membership (Erlebach and Raman), and EPSRC
+
+
+                                                                                          Page 16
+Unit-level environment template (REF5b)
+ Future Leader Fellowship panel membership (Zhou); and reviewing responsibilities for various
+ international funding organisations such as the Dutch NWO, Swiss NSF, French ANU, and the
+ EU ERC.
+
+ Awards/Fellowships/Patents: We have won 10 Most Distinguished and Best Paper awards,
+ including: Most Influential Paper Award ICFP 2017 (Ridge); ACM Distinguished Paper Award
+ ICSE 2017 (Rojas); ACM SIGSOFT Distinguished Paper Award ASE 2015 (Rojas); Best Paper
+ Award (SBSE-SS Track) GECCO 2015 (Rojas); Best Foundation & ACM Distinguished Paper
+ Award MoDELS 2015; and Best Foundation Paper Award at MoDELS 2020 (Ringert).
+
+ Burke was awarded Fellowship in the Royal Academy of Engineering (2020), Turing Fellow by
+ the Alan Turing Institute for Data Science and Artificial Intelligence (2018), and Companion of
+ Operational Research, awarded by the Operational Research Society (2017). He is a long-
+ standing FIMA Fellow of the Institute of Mathematics and its Applications, FORS Fellow of the
+ Operational Research Society, and FBCS Fellow of the British Computer
+ Society. Mousavi and Liu were appointed Fellows of the British Computer Society. Zhou gained
+ a three-year Newton Advanced Fellowship, 2017-2020. Boronat won the Tool Transformation
+ Contest 2018 with YAMTL. Rojas won the Best Demonstration Award at ICST 2017.
+ Piterman won the Microsoft Research Outstanding Collaborator Award (2016). Liu et al were
+ granted a patent for ‘A Document Retrieval Method for Peer-to-Peer Online Social Networks
+ based on Knowledge Learning’ (Chinese Patent No. 201510955213.4).
+
+ Keynotes/Invited Talks. Examples include: Keynote at the International Conference on
+ Concurrency Theory 2015 and Tests and Proofs 2020 (Mousavi); invited talk at the ACM
+ SIGMOD/PODS Conference 2018 (Raman); keynote at the Frontiers of Algorithmics
+ Workshop 2016 (Erlebach); invited talk at the International Conference on Biomedical
+ Engineering and Biotechnology 2018 (Zhou); and keynote lecture at the 20th IEEE International
+ Conference on High Performance Computing and Communication 2018 (Liu).
+
+ Final words. During the REF2021 period, the UoA has substantially strengthened its leadership
+ position in challenge-driven research, particularly in AI and machine learning, algorithmics and
+ formal methods, model-driven engineering, and validation and verification. It established
+ interdisciplinary challenge-led themes—trustworthy autonomous systems and biomedical
+ informatics—and strategically hired and developed staff with strengths in AI, machine learning,
+ and biomedical informatics to support our rapidly growing expertise. As a result, Leicester is now
+ exceptionally well-placed to take on interdisciplinary societal and industrial challenges regarding
+ trust in autonomous and data-driven systems.
+
+
+
+
+                                                                                             Page 17
+

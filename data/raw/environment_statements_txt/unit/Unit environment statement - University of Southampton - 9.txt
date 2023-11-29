@@ -1,0 +1,955 @@
+Unit-level environment template (REF5b)
+
+ Institution: University of Southampton
+
+ Unit of Assessment: 09 Physics
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Overview and context
+ The School of Physics and Astronomy (P&A) at Southampton thrives as a centre of world-leading
+ research and discovery. We provide a collegial, supportive environment for our staff and students
+ who come from a diverse set of backgrounds. In P&A, we want to understand the physics behind
+ the fabric of the universe and how it affects the world we observe: 1) What are the most
+ fundamental physical laws of the universe? 2) How do they influence the evolution of the universe
+ from its beginning to the present day, and into the future? 3) How can we harvest our knowledge
+ of these fundamental laws to improve our daily lives?
+ Our mission is to find answers to these questions, ranging from the smallest to the largest scales,
+ and combining theory, computation, and experimentation. Our research is focused through three
+ established research groups: Astronomy, Theoretical High Energy Physics (‘Theory’), and the
+ experimentally-focused Quantum Light & Matter (QLM). As part of our evolving strategy, we are
+ also building a flourishing Space Environment Physics (SEP) group under the umbrella of the
+ Astronomy group (for details on strategy, see §1.2).
+ P&A, part of the Faculty of Engineering and Physical Sciences, has 98 academic staff at the REF
+ census date (39 academic staff with teaching and research duties, 7 Independent Researchers,
+ and 52 research fellows/postdocs). Of the 45 REF-submitted staff, 38 identify as men and 7 as
+ women. 9% of staff have a BAME background. Improving upon this imbalance is one of our key
+ goals and ties into our ED&I action plan (§2.1 & 2.3). We ensured that our output selection reflects
+ this ratio and does not discriminate on the basis of gender or ethnicity (§2.3.6). Staff are supported
+ by 10 technical research-support staff and 6 professional administrative staff. The following will
+ detail the individual topics addressed by each group.
+ The Astronomy group’s research programme (13 academic staff) is linked to the physics of
+ compact objects: from supernova explosions that create and destroy them, to accretion that makes
+ them luminous and outflows that appear to accompany accreting systems, to the effect they have
+ on their host galaxies throughout cosmic evolution. Our goal is to understand the physics behind
+ these phenomena and exploit them, especially for cosmological purposes. We have a particular
+ interest in time-domain astrophysics and data-intensive science techniques as a tool for pursuing
+ these goals. This topical focus and our associated hiring strategy has resulted in a group that is
+ well balanced: our interests cover diverse topics, but with a necessary overlap that allows effective
+ collaboration.
+ The emerging Space Environment Physics (SEP) group (4 academic staff) focuses on
+ magnetospheric and ionospheric dynamics. This includes the large-scale dynamics of the
+ magnetospheres of Earth, Saturn, Jupiter and Mercury down to auroral processes on scales of
+ tens of metres and fractions of a second. The associated physical processes underly the concept
+ of ‘space weather,’ an aspiring centrepiece of our research and public engagement activities. Over
+ the last five years, we have invested in a new generation of staff with highly complementary areas
+ of expertise in these areas.
+ The Theory group (13 academic staff) is one of the largest theoretical particle physics groups in
+ the UK. We generate innovative theoretical progress responding to formal and experimental
+ developments across the field of fundamental physics. The core question we are addressing is
+ “what are the mathematical building blocks and laws that underlie nature at the shortest distance
+ scales?”. Our phenomenology work with experimentalists ensures that the Standard Model is well
+ tested and that current and future data is searched thoroughly for signals from new theories. The
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+ theoretical model building and mathematically-based research supports this phenomenology and
+ explores the space of models at yet higher scales that might explain fermion mass patterns, dark
+ matter, and matter anti-matter asymmetry. We are making state-of-the-art predictions for Quantum
+ Chromo Dynamics and develop new directions in field theory (including quantum gravity) that
+ underpin future advances in our descriptions of high energy phenomena.
+ The Quantum Light and Matter (QLM) group (15 academic staff) hosts the core of the School’s
+ experimental research in fundamental and applied physics, connecting the scales between the
+ Astronomy and Theory groups, and serving as a platform to turn our fundamental knowledge of
+ physics into technology. We work on a diverse set of topics that are aligned with national and
+ international efforts (e.g., our participation in European and national Quantum Technology (QT)
+ initiatives; §1.2). These include i) quantum science and technology with photonic, atomic, solid-
+ state and optomechanical systems, covering topics like matter-wave interferometry and quantum
+ simulators by exciton-polaritons; ii) nano-photonics, metamaterials and plasmonics experiments
+ paralleled by Raman and THz spectroscopies as well as X-ray imaging; iii) the synthesis of
+ nanomaterials and devices. Research in the QLM group is interdisciplinary, linking fundamental
+ and applied physics, e.g., through collaborations with Electronics & Computer Science (ECS),
+ Zepler Institute (ZI), Institute for Life Sciences (IfLS), and medicine. Our research is being enabled
+ by strong ties to national facilities (Diamond Light Source), nanofabrication in local and
+ national/international facilities, industries in the photonics, space and QT segments, and the
+ European Space Agency (ESA).
+
+ 1.2 Research Strategy
+ P&A is growing and ambitious. We have positioned ourselves as one of the top physics
+ departments in the UK and Europe, with a research strategy guided by the three fundamental
+ questions we want to answer (§1.1), influenced by the national and international research
+ landscape. We attract the best scientists from all backgrounds (§1.1 & §2) who can help answer
+ our fundamental research questions, providing opportunities to become leaders in their field
+ (§4.6). This includes support to participate or lead national and international research initiatives
+ (see below and §3&4), and support to remove barriers they may experience (§2). We aim to
+ respond with agility to new opportunities, as with the formation of the SEP group.
+ While the research groups work mostly autonomously, the School has oversight to ensure
+ alignment with our strategy. This is done via committees bringing together School and group
+ leadership: general strategic discussion and decisions, such as hiring or major investment, are
+ made at the fortnightly School’s Senior Management Team (SMT) meeting while the Research
+ Enterprise Committee discusses, enables, and supports research initiatives. In the following, we
+ will outline how our research groups position themselves within the School’s research strategy.
+ The Astronomy group’s strategy following REF2014 consisted of three main goals: (1) expand
+ our “compact object”-centred research into extragalactic/cosmological areas; (2) exploit links and
+ synergies between our Galactic and extragalactic compact object research; and (3) develop into
+ a true multi-frequency, rather than just high-energy, group. This was a major shift in focus and a
+ direct response to developments in the field, specifically the emergence of extragalactic surveys
+ in the optical (e.g., DES, PESSTO, LSST) and new facilities, already operational or soon to start
+ (e.g., NICER, NuSTAR, ALMA, 4MOST, MOONS, JWST). This shift was enabled by strategically
+ filling replacement positions and enabling targeted hires (§2.1.1). As a result, extragalactic
+ research now covers supermassive black hole and galaxy formation through cosmic time, surveys
+ of the evolution of active galactic nuclei, as well the physical characterisation and simulation of
+ accretion onto supermassive black holes from the event horizon to galactic scales.
+ For the next 5 years, our main strategic aim is to establish the group as a world-leading centre of
+ excellence in data-intensive and time-domain astronomy as part of our ‘Physics of Compact
+ Objects’ theme. This strategy is driven by our international scientific leadership in current and
+ upcoming synoptic sky surveys and instrument consortia and growing expertise in data-intensive
+                                                                                                Page 2
+Unit-level environment template (REF5b)
+ science, including time-series analysis and machine learning. We were able to join major surveys
+ and collaborations such as the Rubin Observatory LSST, 4MOST, MOONS, or GRAVITY+ in
+ support of our goal
+ The SEP group is a prime example of our successful strategy implementation and identification of
+ opportunities. Its expansion followed an external review to assess the needs and viability of our
+ activities in this field. As such, it was approved by the University, and the group has since been
+ extremely successful, winning fellowship and grant support from STFC, NERC, SPRINT and
+ SPITFIRE at historically high levels for SEP. The group is now a major player in the field of
+ magnetosphere and aurora research with support from the School, e.g., through involvement in
+ EISCAT. Over the next 5 years, the group will also play an ever-growing role in our research with
+ public outreach via the AuroraZoo project (§1.3; Astronomy Public Engagement ICS).
+ The Theory group’s current work is addressed to four “Grand Challenges”: 1) helping the
+ experimental community pin down the Higgs sector that underlies the standard model; 2) exploring
+ the key mystery of the flavour problem of fermion masses; 3) tackling the problem of our inability
+ to calculate at strong coupling; and, 4) searching for a consistent quantum theory of gravity. The
+ key to advancing these goals is building a state-of-the-art modelling framework (HEPMDB,
+ CalcHEP) for experiments. Two group members joined CMS (Belyaev, Moretti) and our
+ Directorship of the NExT Institute fosters the link to experiments. Our linked model building work
+ has addressed the flavour puzzle and been responsive to the discovery of neutrino mass/mixing
+ and experiments on CP violation and absolute neutrino mass scale. We have developed our work
+ in cosmology and leptogenesis proposing related signals at gravitational antennas and using the
+ 21 cm cosmological global signal. Our lattice work has been strengthened with resulting precise
+ results for light-flavour phenomenology (e.g., the QCD+QED hadronic vacuum polarization
+ computation for muon g-2). The lattice work has diversified through an innovative project linking
+ holography, cosmological observations, and field theory to study the physics of the very early
+ universe. There has been an expansion in work on amplitudes at high order including links to
+ AdS/CFT and we made important understandings of the renormalisation group for perturbative
+ quantum gravity. We have used holography to study strong coupling in QCD, composite Higgs
+ models and defect theories linking to condensed matter, collider and gravitation wave
+ phenomenology plus lattice studies.
+ Over the next 5 years, we will diversify our main research strands: the lattice work will solidify its
+ strong presence in light-flavour phenomenology but develop it into cosmology work. We are keen
+ to broaden this area to prepare for the exascale computing era, responding to the upcoming
+ international landscape in the field. In phenomenology, we will be led by the new era of Precision
+ Higgs Physics at the LHC as well as future electron-positron Higgs factories. Dark matter searches
+ and other non-accelerator experiments will become a field of increased attention by our group.
+ We will continue to develop models led by new data, e.g., in neutrino physics where we are
+ preparing for data from T2HK and DUNE. Our model building will seek unified structures in flavour,
+ neutrino masses, dark matter and matter-antimatter asymmetry. After the large growth of the
+ formal area in collaboration with Maths, the two groups will exploit this growth to build an
+ international agenda in perturbative quantum gravity, string theory, applied holography, conformal
+ field theory and amplitude techniques. Goals include a geometric formulation of QFT amplitudes,
+ understanding the nature of quantum gravity in AdS space, understanding entanglement across
+ black hole horizons, and describing the QCD equation of state in conjunction with gravitational
+ wave data.
+ For REF2014, the QLM group identified ‘Quantum Technology’ as the unifying theme linking
+ engineers, physicists, chemists, and mathematicians. The research strategy has since seen an
+ expansion in this direction, and three main thematic areas are the focus of our 5-year strategy.
+ (1) Foundations of quantum physics and quantum metrology. We are working to establish the
+ Penrose Institute (PeI) of Physics of the Universe at the University of Southampton. This will foster
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+ dedicated experimental and theoretical research to understand physical effects at the interplay
+ between General Relativity and Quantum Mechanics. We will develop new experiments that target
+ new physics and test fundamental theories of nature, including quantum optomechanics and
+ magnetomechanics of large-mass systems and cold-atom BEC experiments.
+ (2) Photonic and polaritonic quantum technologies. We are building on international partnerships
+ with experimental and theoretical groups working on Quantum Polaritonics. A second area of
+ growth is in silicon-based solid-state integrated photonic quantum simulators, photonic quantum
+ memories, and single-photon sources. This area is pushed forward through a $2M Moore
+ Foundation grant (Sapienza), and through new entrepreneurial activities, such as Duality
+ Quantum Photonics.
+ (3) Advanced materials and Nanoscience. We are going to increase our lead multidisciplinary,
+ cross-faculty and cross-university initiatives on priority areas in energy, healthcare and ICT. We
+ will develop underpinning science, new instruments and tools, and advanced materials for a wide
+ range of research activities. We will expand the strong links with the Diamond Light Source through
+ a recently awarded UKRI Future Leaders Fellowship on coherent X-ray experiments (Newton).
+
+ 1.3 Developing Impact
+ The School actively encourages individual researchers, as well as the research groups, to develop
+ impact from their applied and blue-skies research. The main vehicle for this is the annual STFC
+ Impact Acceleration Award where seed funding is locally available for projects that drive our impact
+ cases. Successful examples include Sullivan (MoleGazer), Bird (Symetrica), Knigge (DataKind),
+ and Shankar (blood pressure monitoring).
+ Through our established coordination channels (e.g., Research & Enterprise Committee, Impact
+ Champion), we identified four cross-group strategic pillars of impact from our research: Data
+ Science, Sensor & Display Development, Public Engagement, and Industrial Engagement.
+ Implementation of the strategy is supported by tailored administrative and financial services at
+ University, Faculty, and School level, e.g., via central Research & Innovation Services (RIS), the
+ faculty’s Future Worlds hub facilitating industrial engagement, and the School’s Business
+ Engagement Manager.
+ A cornerstone of implementing our Impact strategy is seed funding through our STFC Impact
+ Acceleration Account, allocated via a competitive process to projects reaching beyond our core
+ research. Projects in Data Science and Sensor & Display development have profited from such
+ funding, going on to secure external grants (e.g., Shankar for blood pressure monitoring; Bird for
+ coded aperture mask development, leading to a KTP grant). A further highlight is our placement
+ scheme for postgraduate students: Through our Business Engagement Manger, local and regional
+ companies, from SMEs to large enterprise and non-profits, offer multi-week to several month-long
+ placements enabling bidirectional knowledge transfer and plant seeds for further research impact.
+ In addition, we have been successful in attracting a Royal Society-funded Entrepreneur-in-
+ Residence to help develop our impact strategy further (Hill).
+ We highlight major initiatives in our four impact pillars:
+ (1) Data Science: Data science is now a cornerstone in the UK’s industrial strategy and a key
+ component of Industry 4.0. As a result, the School has placed an increased focus on this pillar of
+ our impact strategy. For example, our leading roles in large astronomical surveys (e.g., 4MOST,
+ MOONS, Rubin Observatory, VEILS) has led to broad expertise in the analysis, modelling, and
+ interpretation of multi-dimensional datasets. Topics of particular interest include time-series
+ analysis, the analysis of “big data”, machine learning and image processing. Jackman and
+ Shankar are fellows of the Alan Turing Institute.
+ A basis for our work in data science beyond physics is our leadership of the STFC-funded CDT in
+ data intensive science DISCnet. This CDT provides a vehicle for knowledge transfer to industry.
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ PGR students in this programme receive training in big data techniques, including Machine
+ Learning and Artificial Intelligence. During their 4-year PhD, students participate in two 3-month
+ industrial placements where they apply their acquired skills in industry or the third sector. These
+ placements and training will be sustained beyond the lifetime of the DISCnet CDT with other
+ studentships. An example of how DISCnet seeds future impact work is a recent School-funded
+ PhD studentship in direct collaboration with the data science start-up company HAL24K.
+ We are actively working to generate impact in the Third Sector via the growing field of Data
+ Science for Social Good (DSSG). We have been working closely with DataKind UK to make our
+ expertise available to charities who need assistance with data-science related problems (led by
+ Knigge). With the Office of National Statistics, we co-hosted an extreme DataDive event at
+ Southampton in Sep 2018 and will host further events. We have volunteered to contribute to the
+ organization of the Turing Institute’s 12-week internship programme in DSSG.
+ A growing field of our impact work in Data Science concerns applications of our research to
+ medicine. Shankar used his galaxy evolution model to improve blood pressure monitoring of the
+ population. This work is carried out in collaboration with the British Heart Foundation Centre and
+ the Department of Clinical Pharmacology at Kings College London. Another project applies
+ techniques used to identify supernova in survey images to detection and monitoring of malign
+ melanoma. This ‘Molegazer’ programme is supported by an ERC Proof of Concept grant
+ (Sullivan/Smith). Based on our experience with time series analysis, we recently started a new
+ STFC-supported project on cardiac arrest prediction (Sullivan/Frohmaier), and during the COVID-
+ 19 crisis, PhD students and postdocs were recruited by the Faculty of Medicine/University Hospital
+ to assist in analysing data from COVID test trials.
+ Finally, the Theory’s group work in lattice QCD has significant impact on the development of
+ parallel supercomputers. With UKRI Strategic priorities funding under ‘Excalibur’, our 'Exalat'
+ project (Flynn, Jüttner) will develop a roadmap for training, algorithm development and
+ application of lattice methods in industry (ATOS, Dragonfly Labs).
+ (2) Sensor & Display development: Our second impact pillar is the work of the Astronomy and
+ QLM groups in detector and display technology development. The Astronomy group has a long-
+ standing relationship with Symetrica, where the company’s founder was a past member of the
+ group and developed high-energy detectors, a line of research with a 20+-year track record in
+ P&A. In 2016, a new lab for Bird was established to facilitate further R&D links to Symetrica as
+ part of a KTP project (£101k), with further strengthening of links via a parallel instrumentation
+ development activity funded by the Impact Acceleration Account. Recent work focused on medical
+ and defence-related applications of coded mask apertures as used in high energy detectors in
+ space.
+ In QLM, we are working actively on new sensor technology. Piezoelectric energy recuperation and
+ harvesting – a process to convert mechanical energy to electrical power via the piezoelectric effect
+ in crystalline materials – has been exploited in a new device by Newton (patent filing number
+ EP19156606) and we are discussing with Merck licensing the technology for use in novel pressure
+ sensors. Kaczmarek has developed an Optical Multi-Parameter Analyser for liquid crystals based
+ on new optical methods developed in P&A. A first device has been sold to Facebook Reality Labs
+ for display performance analysis, and further expressions of interest have been received.
+ (3) Public Engagement: The School runs a major public engagement programme based on
+ research from all the groups. Our key goal is to reach audiences that are traditionally
+ underrepresented in public engagement through our ‘New Audiences’ scheme. Since 2014, we
+ have had more than 105,000 face-to-face interactions and more than 1M engagements on-line
+ (including social media). We have a strategic partnership with the Winchester Science Centre,
+ where our exhibition was visited by about 75,000 people. In addition, our appearances on BBC
+ TV programmes reached almost 5M viewers. For astronomy, more details can be found in our
+ Public Engagement Impact Case Study “Astronomy with US”, but we also have a stategic public
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+ engagement programme in QLM that significantly contributed to these numbers (corresponding
+ impact case not submitted).
+ We own and operate the inflatable planetarium “Astrodome” as a vehicle for public engagement,
+ and frequently work with regional schools as part of a programme to engage children from age 8-
+ 17 in STEM, which also includes lectures by PGRs and academics. We also run more focused
+ events, such as a supernova exhibition at Southampton airport where passengers can learn and
+ engage about our research. A recent focus is ‘AuroraZoo’, a citizen science project run by the
+ SEP group on the Zooniverse platform. Our researchers (Whiter/SEP) reach out to the public to
+ help classify aurora required to reveal physical process of aurora formation. These classifications
+ are subsequently used in research papers.
+ (4) Industrial Engagement: QLM research is directed towards producing industrial impact. As
+ our work spans the gap between physics and engineering, we actively collaborate with the ZI on
+ research and impact falling into REF descriptors of physics and engineering (e.g., nanoscale
+ physics, lasers, optoelectronics and photonics). This makes our research inherently
+ interdisciplinary (§1.4), as evidenced by the selected Impact Case Studies (“5D memory”,
+ “Covesion”). Our photonic and polaritonic quantum technologies group is pursuing new routes to
+ optical computing and quantum simulators of spin Hamiltonians through strong industrial-
+ academic partnerships with IBM Zurich and MIT-Skoltech. We are expanding our diverse funding
+ support on the national and international level, for example through the recently awarded FET-
+ Open project “Polariton Logic (POLLOC)”. Several group members have filed patents with the goal
+ of commercialisation (Muskens, Newton, Freegarde). Another example is our work on metal-
+ oxide metasurfaces for infrared active coatings (Muskens). This technology is being picked up by
+ Italian commercial R&D centre CREO, with whom we started to develop flexible radiative cooling
+ panels for satellites.
+
+ 1.4 Interdisciplinary Research
+ Our goal to exploit advancements in the understanding of physics to improve daily lives naturally
+ leads to collaborations outside physics, supported through our research and impact strategy. We
+ actively engage with interdisciplinary Centres of Excellence at Faculty level, where researchers
+ from across engineering, computer science, chemistry, and physics are brought together (e.g.,
+ IRIS, the Centre of Excellence for In-situ and Remote Sensing).
+ The QLM group has strong engagements within the wider university including ZI, Chemistry,
+ Engineering, Life Sciences, Mathematics, and Electronics and Computer Science. QLM-led
+ research increasingly makes use of local world-leading infrastructure such as the Southampton
+ cleanroom facilities and Diamond Light Source. An example of such cross-disciplinary research is
+ our Advanced Materials and Nanoscience research, where we are transitioning from the Physics
+ rapid prototyping facility to the use of ZI cleanroom facilities. This strengthens ongoing
+ collaborations with the ZI and ECS on emerging topics related to photonics for AI, Space, and
+ Defence. Several staff (Smith, Kanaras, Muskens) have an established track record of
+ interdisciplinary collaboration between QLM, Chemistry and Life Sciences (IfLS), e.g., for cancer
+ treatment (£1M BBSRC grants).
+ In the Astronomy and Theory groups, we conduct interdisciplinary research around data science.
+ To support this, we have 3 joint studentships between Astronomy/Theoretical Physics and
+ Computer Science. The Astronomy and Theory groups also participate in interdisciplinary
+ research through DISCnet and NGCM CDTs. The DISCnet CDT receives matched funding from
+ P&A for all STFC-funded studentships. The DISCnet CDT students are engaged with mandatory
+ placements in industry, which are also open to other PGR students.
+ The SEP group has strong ties to aeronautics and space engineering, in part facilitated by the
+ UKRI-funded SPRINT innovation network. Space weather (the effect of solar
+ wind/magnetosphere/ionosphere coupling on space- and ground-based technology) is inherently
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+ interdisciplinary, and we collaborate with colleagues in Ocean & Earth Sciences, supported by a
+ NERC Highlight Topic grant (Co-Is on SWIGS).
+ We are co-founders of the Southampton Theory Astrophysics Gravity (STAG) Research Centre,
+ formed in 2012 to develop science at the interface between three research groups from two UoS
+ faculties: Theory and Astronomy in P&A, and the Gravity Group in Mathematical Sciences in FSS.
+ Both faculties support STAG financially, and STAG has developed its international profile through
+ hosting scientific and public engagement events, including the annual STAG public lecture series
+ promoting the research centre. Most of the past speakers are Physics Nobel Prize laureates,
+ supporting engagement with our research in schools and the community.
+
+ 1.5 Open Data
+ We are strongly committed to an open research policy and contributing to an environment that
+ allows open access to data from publicly funded research. Our objectives for open access align
+ with the University (REF5a§2.4). Most importantly, we are committed to address the
+ “reproducibility crisis” by working towards general access to data produced by our research.
+ Outputs are deposited in PURE which delivers them to the University repository ePrints (see REF
+ 5a). We follow open data rules and procedures as required by national and international funding
+ bodies (e.g., STFC, EPSRC, NERC, EU). In general, research papers produced by our staff,
+ postdocs, and PGRs will be accessible through arXiv. All groups in the School follow the provisions
+ for reproducibility and open data/open software as required by funders and the major academic
+ journals. Where we are involved in large collaborations or use international research facilities, data
+ are stored and publicly available through archives (e.g., ESO).
+
+ 1.6 Research Culture
+ We provide an inclusive and diverse working environment with tailored support to set our
+ researchers up for success. A key part of this is our Code of Conduct that all members of P&A are
+ committed to. We follow mandatory training by the university on topics surrounding research
+ culture. Our PGR students receive training on research integrity and research ethics as part of
+ their skills training provided by the Doctoral College.
+ The University is a signatory to the Concordat to Support Research Integrity and we follow policies
+ derived from the framework by the University (REF5a§2.8). Breaches of research integrity will be
+ pursued through the faculty research ethics committee, which serves as outside counsel and
+ decision-making body to reduce potential conflict-of-interests. Since 2014, no research ethics
+ issues within the School have been brought to our attention.
+ Since 2008, P&A has been part of SEPnet (the South-East Physics Network) with nine partner
+ universities. SEPnet provides a network to promote excellence in physics research, impact and
+ teaching, works to improve diversity by sharing best practice amongst its partners, and raises the
+ quality of postgraduate training through shared ‘GRADnet’ tuition.
+
+ 2. People
+
+ 2.1 Staff
+ 2.1.1 Staffing strategy and staff recruitment policy
+ Our strategy is to recruit the best researchers who will help us address the three fundamental
+ questions we want to answer (§1.1) and enrich our impact work. Careful planning allowed us to
+ grow the number of academic staff from 42 in 2014 to 45 in 2020 despite a challenging funding
+ environment. Most of our recruitment happens though internationally open competition (60% of
+ submitted staff are international), but we also make target-of-opportunity hires of excellent
+ candidates (e.g., Banerji-Wright, Gingell). Recruitment follows ED&I policies (§2.3). All staff
+ involved in recruitment receive unconscious bias training. When recruiting, we specifically invite
+ strong candidates from underrepresented groups to apply. School interview panels aim at
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ representing the diversity of the shortlisted candidates. The 7 staff recruitments since
+ implementing the ED&I policies in 2016 resulted in the hire of 4 women and 3 men, demonstrating
+ the effectiveness of our new approach.
+ Since 2014, P&A have made 14 new appointments at the Lecturer and Associate Professor levels.
+ With only two anticipated retirements over the next 5 years, we now have the required continuity
+ to implement our research strategy. Our major challenge will be staff development to lead more
+ junior members into senior roles. Hence, we encourage and invite junior staff to participate in
+ management training offered by the University’s Leadership & Management Development
+ programme (e.g., through Leadership Circles, Line Manager Development), and guide them
+ towards higher responsibilities by assigning leadership roles in specific fields. The major vehicle
+ for encouraging staff is our appraisal, support and management strategy (§2.1.2). This approach
+ has led to the award of 9 Chairs and 12 Associate Professorships over the last 5 years. The
+ fraction of men and women promoted reflects the current gender distribution in the School.
+ Currently six academic staff are on fixed-term contracts while holding a long-term (5+ years)
+ personal fellowship. We have an excellent record in converting suchpositions into permanent
+ posts. Newly appointed independent fellows (e.g., RS URF, STFC ERF, EPSRC fellows) are
+ treated on the same basis as other staff, fully integrated into research groups, and are encouraged
+ to supervise PhD, Masters and UG project students. Evidence of the effectiveness of our strategy
+ is our attractiveness to external research fellows: since 2014, 6 long-term (5+-year duration)
+ research fellows have arrived at P&A, including 3 transferring their fellowships from other
+ universities. We also attracted shorter-term research fellowships including 6 Newton International
+ Fellows and 3 Marie Curie Fellows.
+ Since the last REF, the Astronomy group has seen turnover from retirements (Charles, Coe) and
+ departures (Breton, Croston, Ho, Scaife). This has been used as an opportunity to hire staff to
+ support our expansion in the extragalactic field and with a multi-wavelength approach (Banerji-
+ Wright, Childress, Gandhi, Hoenig, Middleton, Raimundo). Five of the six new staff came with
+ fellowships, demonstrating the high quality of our recruitment. The SEP group was expanded over
+ this REF period in line with our research strategy. Following the retirement of Lanchester, the
+ proleptic appointment of Fear has been made permanent. In addition, we were able to recruit three
+ new staff, all of them holding long-term fellowships (Jackman, ERF; Gingell, URF; Whiter,
+ NERC) with permanent positions at the conclusion of the fellowships. The Theory group has been
+ strengthened through the hiring of O’Bannon who came to us from Oxford on a Royal Society
+ (RS) URF. In the QLM group, hiring since the last REF was used to support expansion in quantum
+ technology, one of our key strategic fields (§1.2). This was achieved by making the appointments
+ of Sapienza and Himsworth permanent and recruiting Ledingham. In addition, we were able to
+ strengthen our X-ray imaging group by the new appointments of Thibault and Zanette and making
+ Newton permanent.
+
+ 2.1.2 Staff development
+ Our staff are the key to achieve the School’s goals outlined in §1, which is why we have developed
+ policies to support them developing their careers.
+ All new P&A staff are assigned a line manager, who coordinates their mandatory UoS induction
+ and oversees the two-year (postdocs one year) probation period. Our induction includes
+ signposting to policies on diversity, discrimination, our Dignity at Work and Study policy, our
+ School Code of Conduct, our School Workload model, and online courses that all new staff must
+ take (e.g., ED&I training; safeguarding training). New staff are made aware of university-wide
+ mentoring schemes, the WISET+ network and the Springboard development programme available
+ to women (P&A pays for women to take this course). Postdocs and junior staff can join the
+ Concordat to Support the Career Development of Researchers that has recently been launched
+ by the University (REF5a§3.5).
+
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ New staff are offered a mentor, who is named in the induction material. The mentor is available
+ to discuss all aspects of academic life, to assist the new academic staff to settle into the School,
+ and to discuss career development. Once staff have completed probation, they have mandatory
+ annual appraisal meetings with their line managers (REF5a§3.1). All line-managers take
+ mandatory appraisal training, monitored by the University, which includes further elements of
+ unconscious bias and ‘managing diversity’ training. Promotion and long-term ambitions are
+ discussed during appraisal and recorded.
+ Promotions for ERE staff are considered on an annual cycle, with two annual university-wide
+ information events run for staff. Potential promotion applications are first informally discussed with
+ line-managers, who are proactive in encouraging staff to apply. The application form includes
+ space to describe individual circumstances (e.g., career breaks). Applications are then considered
+ by a P&A School panel, then by a faculty panel. For promotion to Associate and Full Professor,
+ the faculty panel will have representation from external to the Faculty. Interviews are conducted,
+ and the university offers day-long interview training for short-listed candidates (‘Excelling at
+ Interviews’). The purpose of the P&A SMT review is (1) to provide feedback to applicants to
+ strengthen applications, and (2) to decide whether P&A will support the application (applicants are
+ free to proceed with their application regardless of P&A support). This P&A step is designed to
+ strengthen applications prior to faculty review, and to identify any applications that may be
+ considered premature. The fraction of women applying for promotions is consistent with our staff
+ profile and have been successful 100% of the time. Unsuccessful candidates receive in-person
+ feedback from the HoS and/or Dean.
+ Research Innovation Services (RIS) hold a library of successful grant proposals (contributed by
+ staff). All major UKRI and EU grants undergo a formal internal peer review process in the School
+ before submission. Mock interviews are offered for those who reach the interview stage of grants
+ or fellowships (uptake is 100%). The PG lectures on ‘Applying for Fellowships’ are also open to
+ junior postdocs. Our self-assessment since 2015 has identified a need to better support staff with
+ unsuccessful grant applications. Although our existing mentor/line-management system is the first
+ point of contact, we have established the role of School ‘Fellowship Champion’, who highlights
+ opportunities and offers advice for potential applicants.
+
+ 2.1.3 Support for early-career researchers
+ Students and postdocs are critical to the success of P&A. They are fully integrated with our
+ research life, including organising the seminar series of their parent research groups. In 2018 we
+ set-up a new postdoc network, with a focus on peer support, and with seminars on applying for
+ fellowships, grants, including resilience aspects of such proposals. In addition, postdocs have the
+ option to be paired with a permanent staff as a career mentor.
+ We also have a Women’s Physics Network (WPN; open to all members of the School) that seeks
+ to highlight the profile of junior researchers in physics. WPN is self-organised by PhD students
+ and postdocs and receives an annual £1k budget from the School to support events. The group
+ is represented on our ED&I committee (§2.3) and part of the university-wide WiSET+ group
+ (REF5a§3.8). Since 2014, WPN holds regular networking events, seminars on careers in science,
+ and public outreach events.
+
+ 2.1.4 Sabbatical/leave policy
+ Academic staff with a mix of teaching and research responsibilities are eligible to apply for a
+ semester of research leave every 4 years. While business needs may require flexibility on the
+ timing of the sabbatical, the School will usually make arrangements to allow for the leave as
+ requested by the staff member. This policy also applies to part-time staff.
+
+
+
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+
+ 2.1.5 Rewarding impact
+ Most academics are on a ‘balanced’ pathway (see University Environment statement). All impact
+ (including public engagement) is fully accounted for in the School’s workload model, with the same
+ status as teaching or university administrative duties: to encourage our staff to carry-out impact,
+ we do not count it as time towards their ‘blue skies’ research. In addition, we offer our staff the
+ opportunity of 30 days per year for work in industry or third sector bodies as part of their normal
+ working contracts to stimulate knowledge exchange with academia.
+
+ 2.2 Research students
+ 2.2.1 Recruitment
+ Over the REF period, we have been home to 141 PGRs, retaining the annual average from the
+ last REF. A fall in STFC DTP studentships due to a flat-cash funding landscape combined with
+ more universities bidding for the same studentship pool was offset by individual grants (ERCs,
+ Leverhulme, John F Templeton foundation) and new doctoral training centres (ITNs, STFC and
+ EPSRC CDTs). We also offer studentships jointly with world-class research institutions (ESO,
+ JAIST).
+ We regularly receive a factor of 10 more applications than PGR places available. The international
+ profile of the School is reflected in our PGR recruitment: 79 entrants were UK nationals and 62
+ came from abroad. 26% of the recruited PGR students identify as women. Our PGR students are
+ recruited by the individual research groups with central administrative support from the faculty.
+ While the groups are responsible for selecting students, the process is governed by the School’s
+ recruitment guidelines along the principles of equality, diversity, & inclusion (ED&I) and set out in
+ our Athena Swan Silver Action Plan. All staff involved in the recruitment will have undergone the
+ university’s mandatory ED&I training.
+ The undergraduate summer research placement scheme within the School and across SEPnet
+ serves as an initial point of contact with the best undergraduate students from our own university
+ as well as the partner universities in the South East. Moreover, we regularly recruit PGR students
+ from our undergraduate flagship programmes, where the best students in Theory, Astronomy and
+ QLM spend a year at CERN, the Centre for Astronomy at Harvard, and our research labs,
+ respectively, to undertake a research project.
+
+ 2.2.2 Support and monitoring
+ Each PGR student has a supervisory team comprising at least two academics. The University
+ provides mandatory training for new supervisors. Main progression events for PGRs are: start of
+ year 1 training evaluation, 9-month report and viva, 18-month report and upgrade viva, and 36-
+ month report on progress to submission. These are evaluated by two academics independent of
+ the supervisory team. Additionally, students produce regular, short 3-month reports on progress,
+ including meetings with their supervisory team and training.
+ All students are monitored through ‘PGRTracker’ – a bespoke UoS web-based interface that
+ provides a personalised record of student training, monitors all progression events and
+ automatically sends e-mail reminders to staff and students to prompt each stage of progression.
+ It also allows the Graduate School staff to access all progression information on a student very
+ simply.
+ Each student, regardless of funding source, receives a Research Training Support Grant (RTSG)
+ of £1,230. We have a dedicated PGR student representative to communicate concerns of the
+ wider PGR community to the School’s Senior Management Team, if necessary. Moreover, each
+ research group has a PGR Senior Tutor who provides confidential pastoral support to PGR
+ students.
+ Over the current REF period, we have awarded 134 doctoral degrees (17 women, 83 men).
+ Against the 141 entrants during the same time, this implies a more than 90% success rate
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ considering that overall entries remained about constant. Of those not graduating, about half
+ moved to a different institution (e.g., because their supervisor moved).
+
+ 2.2.3 Skill development
+ We run lectures for our PGR students on pursuing an academic career and applying for grants
+ and fellowships, and diversity/unconscious bias. Uptake is 100% by first year PGR students.
+ SEPnet/GRADnet runs and funds many other career development events and workshops, some
+ of which are considered mandatory. This includes exercises in leadership, team-working skills, CV
+ writing, and science communication. In addition, GRADnet runs a mentoring scheme connecting
+ PGR with physicists ready to act as mentors. Since 2017, we have offered a PGR training
+ programme in data science techniques (e.g., Machine Learning, Statistics, or Big Data handling
+ and visualisation) as part of the DISCnet CDT. All lectures are open to and used by PGRs beyond
+ the CDT. The CDT, including its training programme, has recently been reviewed and awarded an
+ ‘A’ grade by STFC, one of only two such grades in the country.
+ Students are led towards independence with small exercises in grant bidding within SEPnet where
+ they can competitively bid for grants to organise student-led conferences. Such conferences were
+ funded and hosted in Southampton by our students in March 2017, April 2018, and April 2019,
+ attracting students and postdocs from across the UK. Students also self-organise journal clubs
+ and compete in the Three Minute Thesis competition. For experimental PGRs, we run 1-2 week-
+ long workshop courses per year, covering both mechanical and electronic engineering.
+
+ 2.2.4 Stimulation of knowledge exchange
+ We employ a SEPnet Employer Engagement Officer to run our undergraduate placement scheme
+ (more than 35 students placed since 2014). Since 2018, we also employ a Business Engagement
+ Manager funded by our STFC Impact Acceleration Account.
+ Our DISCnet CDT placements have placed 10 of our CDT PGR students in 3-month placements
+ in local industries. We host a 0.2 FTE Royal Society Entrepreneur in Residence (Hill, a previous
+ PhD student in the Astronomy group) from the HAL24k data science company.
+
+ 2.3 Equality, Diversity & Inclusion (ED&I)
+ 2.3.1 Overview
+ Since 2014, P&A has achieved Athena Swan (AS) Bronze (2015), AS Silver (2018), Project Juno
+ (PJ) Practitioner (2017) and PJ Champion (2019). This is driven by our Equality, Diversity and
+ Inclusion committee (EDIC), whose mandate is to develop, implement and monitor (local P&A)
+ policies and best practices that promote ED&I in the School, including the AS/PJ action plans. The
+ EDIC is fully embedded within the School, and the Chair regularly attends SMT meetings to
+ discuss EDIC policies. These have always received approval from SMT.
+ The EDIC consults five established focus groups: UGs, PGs, postdocs, and one each for Support
+ and Technical staff, led by the reps on the EDIC. The groups are informal, and the student groups
+ are open to all in the cohort. We have gained detailed (and frank) perspectives on experiences in
+ P&A using these groups that have driven much of our work and change in P&A.
+
+ 2.3.2 Career pathways for part-time and fixed-term staff
+ Part-time and fixed-term staff are treated the same way as staff on open-ended contracts. All
+ academic staff independent of their contractual circumstances belong to our ERE (Education,
+ Research, Enterprise) job family over Levels 4-7 (L4-7; REF5a §3.1). Reward and leave process
+ are open to fixed-term and part-time staff as they are for permanent staff and they are fully
+ integrated within the School.
+
+
+
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+
+ 2.3.3 Support for staff and research students with special needs
+ The School established a dedicated ED&I fund that can support staff and research students with
+ care responsibility or other special requirements. The fund is supported by an annual contribution
+ of £2k from faculty. In addition, we have used a donation from the Hercock family of £50k to award
+ scholarships to research students to attend conferences, with a particular focus on students with
+ responsibilities outside of academia. Up to £5k is reserved for a hardship fund to support
+ disadvantaged research students.
+
+ 2.3.4 Support for extended leaves
+ Before taking leave, staff meet line managers to plan for changes in workload and cover, discuss
+ career aspirations, and plans for their return. In case of maternity leave, P&A has a flexible
+ approach and, where the job descriptions allow, we offer flexible working arrangements during
+ pregnancy, e.g., working from home if that is more comfortable. Research groups facilitate remote
+ working and participation in key meetings via remote conferencing. We enable partners to attend
+ as many ante-natal appointments as required.
+ The University has a maternity/shared parental leave package for all staff beyond statutory
+ requirements: for the first 26 weeks, this is full contractual maternity pay (CMP), for the next 13
+ weeks statutory maternity pay (SMP), and a final 13 weeks unpaid. To qualify for CMP, staff are
+ required to return to work for at least 52 weeks after the leave period. While on leave, P&A uses
+ the 10 Keeping in Touch (KIT) days (or 20 SPLIT days) to provide the opportunity for staff to
+ undertake a limited amount of work and training, attend group meetings, seminars or social events,
+ meet with their PG students or postdocs, or simply introduce their child to colleagues. This has
+ helped ease the return to work and benefit both parties. PGR students are usually eligible for paid
+ maternity (or adoption) leave following normal UKRI rules: 26 weeks of maternity leave on full
+ stipend and a further 26 weeks of unpaid maternity leave. The 26 weeks of paid leave is in addition
+ to the original length of stipend support.
+ We offer a 50% reduction in teaching load for the first year upon return, tracked via the School’s
+ workload model. Staff can transition from full-time to part-time and back again via amendments in
+ their contract.
+
+ 2.3.5 Wellbeing
+ P&A has a formal core hours policy: regular or major meetings should be scheduled during (i.e.,
+ neither starting nor ending outside of) the hours of 9.30am to 4pm on normal university working
+ days. Our email etiquette policy also reflects these hours, and staff are not expected to respond
+ to email outside of these hours. These policies are disseminated to staff each year and during
+ induction. In addition, we have rolled out a "Code of Conduct" for the School, which highlights our
+ commitment to good practice in all areas of ED&I.
+ The Women’s Physics Network (WPN) (§2.1.3), founded as part of our first Athena Swan Bronze
+ submission in 2014, holds events to support women in physics via careers seminars and
+ networking events. These events typically have a mix of genders in attendance, are open to
+ everyone in P&A, and are attended by members of other departments/Schools within our faculty.
+
+ 2.3.6 Equality and diversity in REF submission
+ At every stage of preparing the REF submission, we have monitored the impact of decisions on
+ diversity and equality aspects. This was specifically important where unconscious biases may
+ become important, such as selection of outputs. The selection matches the gender distribution of
+ the School (15% women) and includes 13% of outputs from staff with a BAME background (9% of
+ staff). In line with University policy, all staff were given the opportunity to confidentially report any
+ special considerations or concerns affecting their productivity during the REF period for an
+ application to reduce their required numbers of outputs. No eligible staff opted for a reduced
+ submission.
+
+                                                                                                  Page 12
+Unit-level environment template (REF5b)
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income and strategy
+ The School’s total annual grant income averaged £5.28M per year over the REF period (£35.04M
+ total). While a direct comparison to REF2014 is difficult due to a change of UOA accounting, we
+ have seen an increase in annual income to the School from 2013 to 2016 of more than 40% from
+ £3.7M to £5.4M, and which remained above £5M ever since. Our research is primarily funded via
+ UKRI and the EU. The Astronomy/SEP and Theory groups hold STFC consolidated grants
+ (£5.87M through REF period). In addition, between 2014 and 2019 we have hosted 5 ERC
+ grantees as well as 6 RS URF fellows, 4 STFC ERF fellows, and 1 NERC fellow. The School led
+ 3 STFC and EPSRC CDTs as well as a Marie Sklodowska-Curie ITN.
+ Aside from those traditional income streams, P&A diversified its funding basis through its
+ interdisciplinary research. Via the SEP group, the School successfully bid for NERC grants (total
+ income £1.4M). The QLM’s involvement with chemistry and biology secured funding from BBSRC
+ (total income £1M). Finally, several staff won competitive fellowship, prizes, or grants from
+ private/charity funders, such as the Leverhulme Foundation (£1.49M), the Moore Foundation
+ ($2M), and the Ogden Trust.
+ Our research output and impact cases were supported by several of these grants. For example,
+ the Ogden Trust partly funded a public engagement officer. Other examples include support by
+ the STFC IAA fund for the research collaboration with Symetrica and the blood pressure impact
+ case study where galaxy evolution models have been transferred to medicine.
+
+ 3.2 Research infrastructure
+ 3.2.1 Areas of strategic expansion and investment
+ Since REF2014, significant areas of expansion include data science (Astronomy, Theory) and
+ Quantum Technology (QLM), in line with our research and impact strategies. The School is the PI
+ institution of the CDT DISCnet, the Data-Intensive Science Centre in the South-East Physics
+ Network. The School provided 7 matched PGR studentships to secure 7 studentships from STFC
+ (other DISCnet partners received similar or smaller shares). The CDT is now used as a vehicle to
+ broaden the School’s applied research Data Science and Artificial Intelligence, and to link to
+ industry via DISCnet industry mixers, show cases, and student placements. QLM is a partner in
+ the CDT in New and Sustainable Photovoltaics. This CDT supports the transformation of
+ photovoltaics in the UK, achieving its renewable energy obligations.
+ The expansion of the Astronomy group’s research into the extragalactic field was supported by
+ investment into several projects. The faculty provided €100k to allow the Astronomy group to buy
+ into the 4MOST collaboration to run a time-domain spectroscopic survey in the 2020s. The recent
+ targeted hire of Banerji-Wright was support by £30k of funding to join the MOONS collaboration,
+ a spectroscopic survey using ESO’s VLT observatory. These buy-ins are seen as a strategic
+ investment to support future grant income and impact in the field of time-domain astronomy and
+ analysis of time-series data in general.
+
+ 3.2.2 In-house infrastructure and related impact activities
+ P&A receives infrastructure support from the faculty and University. The University’s central IT
+ department iSolutions provides an embedded IT expert (shared between two iSolutions staff) to
+ allow for day-to-day support with equipment and software. Our data and computing infrastructure
+ is centrally hosted and maintained. To facilitate data science, with the focus on interdisciplinary
+ and/or impact-creating projects, the faculty invested in a specialised 88-core high-performance
+ server for P&A (£30k investment). In addition, staff, postdocs and PGR students in the School
+ have access to and make extensive use of IRIDIS4 and IRIDIS5, two major computer clusters with
+
+
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+ 12,000+ and 18,000+ cores, respectively. In November 2017, IRIDIS5 was ranked as one of the
+ top 500 supercomputers in the world.
+ The Astronomy group created a new lab with the purpose to support the KTP project by Bird on
+ coded aperture masking. The data science activities use the School’s computing facilities. Our
+ QLM group and their laboratories are supported by the in-house research workshops. These
+ employ 10 technicians with expertise in mechanical and electronic engineering. The research
+ workshops provide invaluable capabilities in the design and fabrication of parts not commercially
+ available, which underpin many of our experimental and impact activities, including a helium
+ recovery system and liquefier. We also have access to the university’s Cleanrooms (REF5a§4.2)
+ for fabrication of nanomaterials, fibres, etc.
+
+ 3.2.3 Specialist infrastructure and facilities
+ Data-heavy research within the Astronomy group is supported by several data storage and high-
+ performance computing servers with a data capacity of >1Pb. In addition, the faculty-funded data
+ science server provides a unique platform for advanced parallel processing beyond
+ “embarrassingly parallel” problems.
+ The Theory group’s modelling work is mostly carried out on local (IRIDIS) and national HPC
+ facilities (DiRAC). In addition, the group operates several computer clusters, including a 512-core
+ Knights Landing cluster.
+ The QLM group operates several research laboratories with optical tables, Lasers and
+ spectroscopy equipment, cryogenic equipment (at 4K and 300mK), and ultra-high vacuum
+ equipment. The facilities also support bio-sample handling as required for interdisciplinary
+ projects. Further, the group uses the faculty clean rooms for nano fabrication.
+ The SEP group operate the arctic auroral instrument ASK (Auroral Structure and Kinetics). This
+ instrument takes multi-wavelength observations of the aurora on the same spatial and temporal
+ structure as the upcoming major radar facility EISCAT_3D and enhance its scientific quality.
+
+ 3.2.4 Shared and collaborative infrastructure and facilities
+ The Astronomy group uses both shared computing and observing facilities. IRIDIS and
+ STFC/DiRAC and IRDISis serve high-performance computing needs. For observations, major
+ shared international ground-based and space-based facilities have been used (§3.2.6).
+ The Theory group makes use of local and national, RC-supported supercomputing facilities
+ (§3.2.6). Through CMS experiments, our full and associate researchers access the major LHC
+ programmes at CERN.
+ The QLM group makes extensive use of the RC-supported Diamond Light Source (Thibault,
+ Newton) with about 120 days of beamtime awarded. In addition, the group has access to
+ cleanrooms and laboratories at the National Institute of Standards and Technology, Gaithersburg
+ (USA), at the Ecole Normale Superieure in Paris (France), and at The George Washington
+ University, DC (USA).
+ Details on monetary equivalent where available are provided in §3.2.6.
+
+ 3.2.5 Benefits-in-kind
+ For our impact case on code-aperture masking (Bird), Symetrica provided 1/3 of the postdoc plus
+ material costs (£70k), essential contributions for the success of the case. Bird, Shankar, and
+ Knigge received 3 Nvidia GPU Titan XP cards from Nvidia. The Royal Institute of Technology
+ (KTH), Stockholm (Sweden) and the University of Tromso (Norway) provided the equivalent of
+ £100k in staff time and EISCAT radar access (Whiter, Fear).
+ The QLM group received (non-competitive) access to various international research labs (see
+ above) and fabrication samples for further analysis and investigation, e.g., from ENS, NIST, KIST,
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+ Hong Kong University, IIT Genua, University of Lancaster, George Washington University. In
+ 2016, an ultrafast laser system was awarded from the STFC laser loan pool retirement scheme
+ (£350k in value).
+
+ 3.2.6 Use of major national and international research facilities
+ Over the REF period, researchers in the School received non-UKRI-supported facility access with
+ an equivalent value of £33.72M (see REF4c Research Income in-kind).
+ Astronomy/SEP (total £19.7M)
+    •   XMM/Newton: £6.8M
+    •   INTEGRAL: £6.1M
+    •   ESO telescopes: £5.2M
+    •   e-Merlin: £671k
+    •   Liverpool Telescope: £369k
+    •   EISCAT: £240k
+    •   ALMA: £105k
+    •   WHT/ING: £91k
+    •   DiRAC: £57k
+ In addition, the astronomy group made use of international facilities where no monetary equivalent
+ is available: Chandra X-ray space telescope (>200ks observing time), Swift-Gehrels space
+ telescope (>1,730ks), NuStar space observatory (>250ks), AstroSat (>35ks), NICER on the ISS,
+ (>372ks), Hubble space telescope (>22 orbits), Gran Telescopio de Canarias (10 hrs), VLA (133
+ hrs).
+ Theory group (total £9.9M):
+    •   DiRAC HPC computing time: £9.9M
+ The theory group also received computing time on additional facilities without monetary equivalent
+ available: Brookhaven National Lab Jpsi (27M core hours), IBM Blue Gene/Q (1.56B core hours),
+ Edinburgh Extreme Scaling Service (100M core hours).
+ QLM (total £4.0M):
+    •   Diamond light source: £2.9M
+    •   ESRF: £77k
+    •   E-XFEL: £1.0
+ The QLM group also made use of the Swiss Light Source (award of 2 beam times).
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Overview
+ The School’s research is inherently collaborative, and the individual groups have extensive
+ national and international networks, including major and leading involvements in large projects.
+ Since 2014, 87.6% of our research outputs had international co-authors, which is the highest
+ fraction within the University (58% overall). On the regional level, the School provides all groups
+ with the SEPnet platform (£35k annual buy-in; §1.6).
+
+ 4.2 Support for collaborations, partnerships, and networks
+ The various collaborations and networks are supported by UKRI and EU grants as well as
+ allocation of the School’s DTP and university PGR studentships to projects relevant to those
+ collaborations. The faculty supported the Astronomy group’s participation in the 4MOST project
+ with a 100k EUR buy-in to the collaboration.
+
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+ With few exceptions, all the Astronomy group’s research papers have been the result of national
+ and international collaborations, where our staff take leading roles. These are supported by EU
+ and STFC grants and studentships as well as successful bids to major observatories. Banerji-
+ Wright (PI), Hoenig (Co-PI), Sullivan, and Childress are members of the VEILS, an international
+ collaboration of ~80 astronomers running the ESO Public Survey VEILS. Sullivan (PI), Hoenig,
+ and Childress are members of 4MOST/TiDES, a Southampton-led time-domain survey on the
+ upcoming 4m Multi-Object Spectroscopic Telescope (4MOST). Banerji-Wright is Co-I of the
+ MOONS extragalactic GTO survey team as part of the team currently building a new instrument
+ for the ESO VLT. Hoenig is Co-I of GRAVITY+, an upgraded instrument approved by ESO after
+ its ‘ESO in the 2030s’ review. Knigge is Co-I of the ThunderKAT MeerKAT Key Project on
+ Astrophysical Transients. Knigge is Co-I and steering committee member of SCIP, a key project
+ on stellar, circumstellar and interstellar astronomy within the WEAVE consortium. Altamirano is
+ member of the NICER science team, a collaboration of ~70 astronomers using NICER data to
+ understand the physics of accretion onto black holes and neutron stars. Altamirano (PI), Gandhi,
+ Whiter, Knigge and Middleton lead the OPTICam collaboration to build a triple-beam fast
+ imaging camera for time-domain astrophysics with UNAM (Mexico). Gandhi is member of the
+ NuStar science team. Banerji-Wright, Sullivan, Gandhi, and Hoenig are Affiliate PIs of LSST:UK
+ and members of various international LSST Science Collaborations. Shankar is PI of EU Horizon
+ 2020 funded ITN BiD4BESt with partners in Italy, Spain, Germany, and the Netherlands.
+ The Theory group works closely with colleagues in Brookhaven and Columbia University in the
+ USA and with the group in Edinburgh, under the RBC-UKQCD collaboration (Flynn, Jüttner,
+ Sachrajda). Weekly collaboration meetings and sharing resources and simulation data in both
+ collaborations gives increased leverage. We have the advantage of working very closely with LHC
+ experimentalists through the NExT (New directions in Experiment and Theory) Institute, hosted in
+ Southampton and directed by Moretti. NExT involves collaboration with Queen Mary, Bristol,
+ Brunel, and the Rutherford Laboratory experimental particle physics group. As new data from the
+ LHC and other facilities call for rapid interpretation, NExT provides the ideal environment for a
+ new kind of interaction between theorists and experimentalists to meet this challenge. This is
+ maintained by joint studentships, conferences and workshops.
+ Most of the QLM group’s research papers are written with international partners based on a large
+ network of international collaborations. Many of them are sustained by cross-national funding
+ sources. As examples, Muskens is part of an EU Horizon 2020 Space project involving Italian
+ and Danish partners, a Royal Society International Joint Project with Bordeaux, and a GCRF
+ Seedcorn funding project that led to a Malaysian government grant. Lagoudakis is part of
+ SkolTech and several EU-funded projects with international partners. Ulbricht is part of the EU
+ Horizon 2020 FET Open project TEQ, the COST actions “Fundamental problems in Quantum
+ Mechanics”, the EU QTFlagship project, and has a long-standing collaboration with Tata Institute
+ at Mumbai, India. Politi is part of the EU Horizon 2020 FET open project. Kavokin leads the
+ Mediterranean Fundamental Physics Institute, is Head of the Spin Optics Laboratory at the
+ University of St Petersburg, and Director of the International Center of Polaritonics at Westlake
+ University.
+
+ 4.3 Major international conferences organised
+ Several major international conferences and workshops have been organised in Southampton by
+ members of P&A. These provided a very visible platform to engage with the relevant academic
+ audiences, develop new relationships and widen the impact of our research.
+    •   TORUS 2015 (Gandhi, Hoenig): Triennial international conference on the environment of
+        s supermassive black holes; 120 participants
+    •   XCalibur 2019 (Gandhi): International Workshop on “Next generation X-ray spectroscopy”;
+        100 participants
+
+
+                                                                                          Page 16
+Unit-level environment template (REF5b)
+    •   43rd Annual European Meeting on Atmospheric Studies by Optical Methods (Whiter); 40
+        participants
+    •   Lattice 2016 (Flynn, Jüttner, Sachrajda): Major annual conference in Lattice Field
+        Theory; 420 participants; supported by STFC, Intel, IPPP, SEPnet, SGI, DDN and Emmi
+    •   Quantum Science Distinguished Lectures (Sapienza, Ulbricht): Series of lectures given by
+        high-profile researchers from Harvard University (USA), National Institute of Standards and
+        Technology (USA), Technical University Munich (Germany), University of Oxford and
+        Southampton
+ To reach beyond the academic audience, we organise student placements and industry mixer
+ events as part of our CDTs.
+
+ 4.4 Wider contributions to the economy and society
+ The four submitted Impact Case Studies are only a small fraction of our wider contributions to the
+ economy and society. We are running a far-reaching public engagement and outreach programme
+ in all fields of research (§1.3). As highlighted in the Impact Case Study “Astronomy with US”, we
+ are specifically interested in targeting non-traditional audiences. This includes engaging visually
+ impaired in astronomy by sonifying astronomical data and reaching out to schools with traditionally
+ lower fraction of students from academic households. In 2018, we held our first DataKind event.
+ Staff and PGRs from the School were paired for two days with two charities to work on a problem
+ that can be solved with data science.
+ Beyond the presented ICS with companies, other active collaborations in the private sector include
+ new detector design to be developed with Merck and screentesting devices with Facebook Labs.
+ We integrate the knowledge transfer mentality that is a core trait of P&A into the training of our
+ PGR students via industry mixers and placement scheme, as provided through SEPnet or our
+ DISCnet and NGCM CDTs.
+
+ 4.5 Sustainability of discipline and responsiveness to priorities
+ The Astronomy group developed several initiatives in the industrial strategy priority area of “data
+ economy.” Specifically, we have strong ties with more than two dozen SMEs and large companies
+ on the south coast via the DISCnet industrial placement scheme. The group also runs the GCRF
+ SITARE project (Gandhi) that focuses on advancing the physics knowledge base in India and
+ Nepal.
+ For the academic community, we hosted the UK national community meeting in space science
+ (Spring MIST) and the STFC Summer School in space science. We are part of the SPRINT
+ innovation network, in support of government ambition for the UK to capture 10% of the global
+ space market by 2030, and SWIGS, the NERC Highlight Topic into the effects of Space Weather,
+ which is a threat identified in the UK national risk register.
+
+ 4.6 Wider influence and recognition
+ P&A staff contribute to the research base in various ways. All staff regularly review journal articles
+ and grant applications for private and governmental/inter-governmental funding bodies in the UK
+ and abroad. They lead a wide range of national and international funded research programmes
+ and serve on scientific organising committees of large international conferences or hold editorships
+ at journals. The following lists positions by category:
+    •   Editorships and editorial board memberships
+        Optics Express (Muskens), Flavour Lattice Averaging Group (Jüttner), ROPP (Moretti),
+        EPJC (Moretti), AHEP (Moretti), Space Research Today (Altamirano), IEEE TNS
+        (Bird), Scientific Reports (De Liberato), Superlattices & Microstructures (Kavokin)
+    •   Advisory roles for national/international funding agencies
+        STFC Operations Review committee (Altamirano), STFC Astronomy Advisory Panel
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+        (Gandhi, Sullivan), STFC Herschel Oversight Committee (McHardy), Italian Ministry of
+        Education Scientific Advisory Board (Shankar), Czech Academy of Sciences (Hoenig),
+        REF2021 panel (Moretti),
+    •   Award panels of national/international funding bodies
+         (i) Chairs: STFC PP Theory grants panel (Evans), STFC Astronomy Grants Panel
+        (Sullivan), Horizon 2020 evaluation panels (vice-chairs: Moretti, Kaczmarek)
+          (ii) Membership: STFC Astronomy grants panel (Fear), STFC equipment grants panel
+        (Evans), EPSRC College Funding Panel (Freegarde, Himsworth, Muskens), Royal
+        Society University Research Fellowship Panel (Moretti), Royal Society Research Grants
+        panel (Sullivan), US Department of Energy award panel (Moretti), US NSF grant panel
+        (Gandhi), Swiss NSF panel (Moretti, Shankar), Polish NSF panel (Shankar), Chilean
+        CONICYT (Shankar), Swedish Wallenberg Foundation award panel (Moretti), RAS
+        Astronomy Awards panel (Jackman), RAS Fellowship panel (Jackman)
+    •   Advisory roles for national/international research facilities:
+          (i) Chairs: CERN Computing Resource scrutiny group (Flynn), STFC gridPP oversight
+        committee (Flynn)
+         (ii) Memberships: DiRAC procurement board (Jüttner), VRO LSST Contributions
+        Evaluation Committee (Hoenig)
+    •   Chairs and membership of facility access panels
+         (i) Chairs: STFC PP/NP DiRAC Resource Allocation Committee (Jüttner), Liverpool
+        Telescope Time Allocation Group (Sullivan), Chandra Time Allocation Committee
+        (Middleton)
+         (ii) Membership: ESO Observing Program Committee (Banerji-Wright, Hoenig,
+        Sullivan), XMM/Newton Time Allocation Committee (McHardy)
+    •   Memberships on accreditation bodies
+        IoP Degree Accreditation Committee (Freegarde)
+    •   Leadership roles in international organisations
+        European Interferometry Initiative (Hoenig), Optical Society of America Executive
+        Committee of Nonlinear Optics Working Group (Sapienza),
+ The work of several staff was recognised by prizes and fellowships, including:
+    •   Leverhulme Trust (Senior) Research fellowships (Belyaev, Knigge, McHardy, Morris,
+        Shankar)
+    •   ERC Grants (Starting/Consolidator) (Drummond, Hoenig, Jüttner, Sullivan, Thibault)
+    •   STFC Ernest Rutherford Fellowships (Jackman, Middleton)
+    •   Royal Society University Research Fellowships (Banerji-Wright, Gingell, Zanette)
+    •   NERC Fellowship (Whiter)
+    •   EPSRC Established Career Fellowship (Kavokin)
+    •   Honorary Doctorates (Kavokin, Moretti)
+ In addition, Gandhi received a NASA Group Achievement Award as a leading member of the
+ NuSTAR survey team. Kanaras was awarded the “SET for Britain” silver medal in biological and
+ biomedical sciences.
+
+
+
+
+                                                                                            Page 18
+

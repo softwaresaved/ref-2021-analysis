@@ -1,0 +1,729 @@
+Unit-level environment template (REF5b)
+ Institution: University of Lincoln
+
+ Unit of Assessment: 9 Physics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Context
+ During the census period the University of Lincoln (UOL) has expanded dramatically in STEM
+ areas, investing in the creation of several new Schools including Chemistry, Mathematics and
+ Physics, Geography, and (most recently) Medicine. The new School of Mathematics and
+ Physics (SOMP) is housed alongside Engineering and Computer Science in the purpose-built
+ £28M Isaac Newton building (2017). The SOMP’s founding in 2014 created the first totally new
+ Physics department in the UK since the 1960s.
+ Before these new schools were opened, Physics research at UOL consisted solely of medical
+ physics imaging (Medical Instrumentation Centre) and was submitted in REF 2014 under UOA
+ 11. The SOMP was opened to extend and centralise research themes in physics. The initial
+ strategy focused on computational materials research, with a distinct expertise portfolio in
+ computational soft matter physics, soft/solid interfaces and chemical physics. Additional
+ research themes were initiated as the school grew. The Physics return now consists of 15.2 FTE
+ organised into the following research foci:
+
+ •   Healthcare - Medical Instrumentation Centre (MIC), Centre for Computational Physics
+     (CCP), Nanotechnology Team (NT);
+ •   Green and sustainable materials - CCP, NT;
+ •   Software Development for Materials Design - CCP, High-Performance computing for
+     Science, Technology and Environmental Research group, (HiPSTER);
+ •   Modelling of Interacting Systems – CCP.
+
+ The UOL’s research strategy emphasises complementary interdisciplinary units and these
+ research themes have strong links with units in Engineering, Chemistry and Computer Science.
+ Submitting staff are researchers drawn from across the UOL’s Schools of Computer Science,
+ Chemistry and Mathematics and Physics with global links (see Section 4).
+ Structure
+ These research groupings drive the research areas listed above:
+ ‡: Centre for Computational Physics (CCP)
+ The nucleus of the CCP relocated to Lincoln in 2014 from another UK University to establish the
+ SOMP. The CCP leads UOL research in computational and theoretical physics in the areas of
+ soft-matter, soft/solid interfaces and chemical physics and their application in Healthcare and
+ Green and sustainable materials. The ultimate goal of the CCP is computer-aided design of new
+ materials. In June 2018, the CCP was formally inaugurated by Prof Daan Frenkel ForMemRS.
+ Expertise includes modelling of planetary rings and exo-moon systems; nonlinear dynamical
+ systems, perturbation theory and integrable systems; foundations of statistical mechanics such
+ as efficient sampling, ergodicity probing and their applications in economics and materials, such
+ as granular matter; and theoretical biophysics and colloidal science, including systems out of
+ equilibrium such as active matter. The CCP develops and optimises High Performance
+ Computing (HPC) software and numerical methods from continuum models to electronic
+ structure methods. A recent highlight from 2019: An Institute of Physics (IOP) meeting on
+ Machine Learning led to collaborations that proposed a reliable AI-based testing method which
+ can outperform current RT-PCR testing methods for COVID-19.
+ †: Medical Instrumentation Centre (MIC)
+ The MIC is a hub for the development of new medical imaging instrumentation and part of its
+ research is the application of medical physics. MIC's imaging work also includes extensive
+ computations, complementing the UOA's high performance computing (HPC) based physics
+ research. MIC's Monte Carlo simulator is the most advanced simulation platform for Proton
+ Imaging.
+ The MIC is administered as part of the School of Computer Science, which connects to other
+ areas of medical imaging research (e.g. algorithms, as a part of the Computer Science REF
+
+                                                                                            Page 1
+Unit-level environment template (REF5b)
+ submission). During the census period, MIC’s work has focussed on the provision of proton CT
+ for the enhancement of cancer treatment using Proton Beam Therapy (PBT). Many MIC
+ members and associated members are based in other organisations – universities, hospitals,
+ research institutes and industry. They work with medical and particle physicists, clinicians and
+ electronic, device and computer engineers from leading research groups and companies across
+ Europe and wider. Five NHS Trusts and Foundation Trusts and four UK universities are
+ members of the Centre together with iThemba LABS, South Africa; Paul Scherrer Institute,
+ Switzerland; and the Karolinska University Hospital, Sweden.
+ §: High Performance computing for Science Technology and Environmental Research
+ (HiPSTER)
+ HiPSTER is an offshoot of the CCP to link expertise in HPC and simulations techniques across
+ the UOL. Simulation software development expertise is found across the UOL, including
+ engineers, geographers, pharmacists, robotics, agriTech and computer scientists. HiPSTER
+ provides a mechanism for UOL’s strengths in other areas to be fed back into UOA physics
+ research, for instance, in machine learning (mLearn group in Computer Science and Power and
+ Energy Group in Engineering) and fluid dynamics (e.g. the Physical Ecology Lab in the School of
+ Lifesciences, and Intelligent Systems Research Group in the School of Engineering). Members
+ contribute to the development of leading materials simulations codes,e.g. Quantum Espresso.
+ *: Nanotechnology Team
+ The NT focuses on experimental research in nanophysics (e.g. quantum dots) and its application
+ in nanotechnology (especially nanomedicine) contributing to the theme of Green and
+ Sustainable Materials and with overlapping research interests to the CCP. A large part of the
+ Nanotechnology Team’s research involved national and international collaborations with
+ pharmacy research (returned in the Allied Health UOA).
+
+
+ Achievement of Research Strategy
+ This is the first UOA Physics submission for UOL. The UOL STEM investment strategy was to
+ build a strong, concentrated physics unit. Notable features of this new unit are: 1) four
+ academics (Zvelindovsky, Vorselaars, Greenall, Pinna) are developing self-consistent field
+ theory and phase field methods for polymer systems, especially block copolymers, which is the
+ largest group of academics in this subfield in a single UK-based institution. 2) significant
+ expertise in the development of massively parallel simulations (Watkins, Chulkov and Floris)
+ contributing 4.5 person-years of software development in the atomistic simulation package
+ CP2K, and to the development of (and to highly cited papers on) the Quantum Espresso (QE)
+ software.
+ The research strategy of this UOA was two-fold: 1) continue the development of the existing MIC
+ and 2) establish new research directions based on the core expertise in computational materials
+ modelling. Here we detail our achievements.
+ Development of charged-particle imaging for Proton Beam Therapy
+ The main research activity during the current REF period was the development of charged-
+ particle imaging for the optimisation of PBT in cancer treatment (Allinson†, Esposito†). With
+ Wellcome Trust funding, we led an international team to produce the first fully solid-state proton
+ CT instrument, PRaVDA. PRaVDA has been called “the most complex medical imaging system
+ ever conceived”. Further work is supported by an EPSRC Healthcare Technologies award,
+ developing a second-generation CT system for installation at the NHS Christie PBT Centre,
+ Manchester. This will be the first time that a proton CT system will be set up in an operational
+ clinic.
+ The standing of our proton imaging research is demonstrated by a number of awards; the
+ Institute of Engineering and Technology (IET) Innovation Prize for Model-based Engineering
+ (2014), runner-up in the British Engineering Excellence Awards for Design Team of the Year
+ (2017) and being selected for the year-long IET exhibition of ‘100 Objects that Changed the
+ World.’ MIC Director, Professor Nigel Allinson was awarded the 2018 IET J. J. Thomson Medal
+ for Electronics for his contributions to imaging technology.
+ Establishing new Physics research
+ The opening of the SOMP (Prof. Zvelindovsky‡§, Founding Head of SOMP, Pinna‡§, Mura‡ and a
+ PhD student, 2014) determined a new strategic focus for physics: computational and theoretical
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ physics of soft matter. In particular, polymeric materials including nanostructured soft matter
+ (block copolymers), as well as colloids, bio-macromolecules and soft/solid nanomaterials. This
+ led to further appointments in soft matter physics: Paillusson‡ (colloids, DNA, microemulsions,
+ granular matter), Vorselaars‡§ (nucleation theory, polymers), Roccatano‡ (molecular dynamics,
+ proteins) and Greenall‡ (polymers, vesicles). Thus, a critical mass was built, and two key themes
+ have emerged, namely Modelling Interacting Systems and Green and Sustainable materials, in
+ addition to the existing Healthcare research.
+ In the next expansion stage, appointments were made in the field of electronic structure of
+ materials with Watkins‡§ and Floris§. As well as facilitating intra- and inter- school collaborations,
+ these appointments increased our Green and Sustainable materials capacity and naturally the
+ theme of Software Development for Materials Design emerged based on their software
+ development work. A dedicated Research Software Engineer (RSE), Chulkov, was appointed to
+ support the growing areas of computational physics research.
+ A senior appointment (Prof. Ahmed*) was made to lead a Nanotechnology Team, along with an
+ early career researcher (Booth*) and a UOL funded researcher (Nourafkan). The team was to
+ promote interdisciplinary research in experimentally and industrially-driven areas with
+ applications in energy generation and storage, and healthcare (Ahmed’s outputs are returned in
+ the Allied Health UOA), in order to grow the Healthcare and Green and Sustainable Materials
+ themes. Further expansion in computational astrophysics of planetary systems (Sutton‡) was
+ chosen to strengthen the Modelling of Interacting Systems theme and bring links to external
+ facilities and data sources - from the recent Cassini mission to Saturn, for instance. A recent
+ paper by Sutton hit the top 5% of all research outputs as scored by Altmetric (with impact index
+ of 175).
+ In 2019, McIlroy‡ and Christodoulidi‡ were appointed as lecturers. McIllroy was a holder of a
+ ‘Royal Commission for the Exhibition of 1851’ Research Fellowship, who works in the field of
+ polymer fluid dynamics tackling problems in additive manufacturing including development of
+ leading models of 3D printing, and Christodoulidi‡ works on complex system dynamics. Further
+ details of the staffing strategy are given in section 2.
+
+ Post-graduate student recruitment
+ Two PhD students have graduated in the census period. Dessi performed interdisciplinary work
+ in applied mathematics with the PhD position funded by UOL as a pump-prime initiative
+ (returned in UOA 10). Our first PhD completion in polymer physics, Diaz, received two national
+ awards: the IOP Alexei Likhtman runner-up prize at 29th Biennial IOP Meeting “Physical Aspects
+ of Polymer Science 2019” and the IOP Annual PhD Thesis Prize in Computational Physics. In
+ order to attract excellent international candidates, we offer collaborative projects with top
+ research universities. For instance, current PhD students have undertaken six-month
+ placements at Cambridge Graphene Centre and the Stephenson Institute for Renewable Energy
+ (Liverpool). The first experimental PhD (Amli, Nanotechnology Team) was funded by the
+ Palestine Solidarity Initiative and UOL and is near completion. The PGR cohort is growing - 13
+ PGR enrolled at the submission date. Mechanisms to expand our PGR recruitment are outlined
+ later in this section.
+
+ Creating a positive research environment
+ We have looked to build a lively research atmosphere and to make Lincoln recognisable on the
+ international computational soft-matter and chemical physics research map. We hosted national
+ and international conferences and workshops as detailed in section 4, found placements for our
+ PGR students with extended visits to other institutions and joined networks (e.g., MMM Hub, see
+ sections 2 and 4) that engage our students, post-doctoral researchers and staff with wider
+ scientific communities. Joint PhD studentships with the School of Computer Science, “Collective
+ behaviour of autonomous organisms: from bio-particles to robotics” and “Artificial intelligence for
+ energy management optimisation in smart grid” are currently offered via a University DTP.
+ The UOL’s Lincoln Institute of Advanced Studies (LIAS, see institutional statement) offered
+ fellowships to build international collaboration. One the first two International LIAS Fellows was
+ Professor Dick Bedeaux (NTU Norway, 2018), who delivered a set of research seminars and
+ provided expert international mentorship during a one month stay. We also have visiting
+
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+ appointments from small tech start-ups and local institutions, notably a Visiting Professor
+ position for Martin Crawley, Head of Radiotherapy Physics at Lincolnshire NHS Trust.
+
+ Achievement of impact strategy
+ The impact strategy was: 1) build on the success of the PBT group as detailed in the
+ accompanying impact case studies and 2) lay the groundwork for the future in the new research
+ directions.
+
+ To commercialise Proton Beam Therapy
+ Following the success of the PRaVDA project (Allinson, Esposito, Watlham†), we are leading a
+ £3.2m EPSRC Healthcare Technologies project to provide the next generation system for
+ installation in the Research Room of the new NHS PBT Centre at The Christie, Manchester –
+ the first time that a proton CT will be installed in an operational clinic. With existing commercial
+ collaboration (Cosylab, the world’s leading provider of control systems for cancer therapy
+ systems), this work will be progressed through clinical trials and regulatory processes to market.
+ The underlying philosophy is to develop technologies and methodologies from basic research,
+ through prototyping and experimentation through to potential transfer to the commercial sphere.
+ This is evidenced by our growing patent portfolio to protect essential IP, and by our associated
+ ICS on the development of wafer-scale CMOS imagers for healthcare through the spin-out
+ company ISDI Ltd, which has grown to become the third largest supplier of such devices and
+ supporting systems worldwide.
+
+ To develop a basis for impact in new physics areas
+ Connections to local technological innovation companies were established using mechanisms
+ including consultancy (Sutton with Pretorian Technologies Ltd.) and EU-funded Lincolnshire
+ Innovation Programmes (Watkins with Foresight Data Systems) to build relations with local
+ specialist companies based around our research specialisms: ranging from the smallest start-
+ ups to large multinationals, e.g., Teledyne e2v. The school is engaging with companies involved
+ in the Greater Lincolnshire Manufacturing Network (LEP) led by UOL to inform future applied
+ physics research and seek ways to boost the sector including collaborative links through the
+ Lincoln Institute of Agri-Tech (LIAT) and National Centre for Food Manufacturing (NCFM) where
+ UOA soft-matter expertise can be strongly relevant.
+
+
+ Research and Impact Strategy for the next five years
+ Physics will continue to further the University of Lincoln’s research strategy of prioritising
+ research that is of relevance to our locality, has global significance, drives economic
+ development and enhances social and cultural life both within and beyond our immediate
+ community, feeding into the University’s research themes of Health and Well-Being,
+ Sustainability and Digitalisation (as set out in the Institutional environment statement). Lincoln
+ physics development will build a powerful computational physics research centre able to design
+ soft, bio-inspired and interface materials whilst developing a corresponding experimental
+ capability.
+ Our priority research directions (PRD) are:
+ PRD1. Physics for healthcare
+ We will build capacity in medical care and advanced drug-delivery including,
+ • Medical imaging (Allinson, Esposito, Waltham): In parallel with providing the operational
+     proton CT system for The Christie NHS Foundation Trust, MIC will continue to develop a
+     pixelated proton probe, which is intended to provide direct measurement of proton stopping
+     powers at the point of treatment and so enabling fully adaptive and personalised treatment
+     regimes and an improvement of outcomes for tens of thousands of patients. In the longer
+     term, the field of charged particle imaging will be developed into a new medical imaging
+     modality. In parallel with producing new science, the commercialisation of our technologies
+     will be pursued with our commercial partners. MIC development will be done in a synergetic
+     way with the development of various image processing directions in the School of Computer
+     Science (e.g. computer tomography), where MIC is an integral part;
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ •   Drug-delivery systems (Vorselaars, McIlroy, Ahmed): We will build on our under-pinning
+     research on the theory of nucleation and polymer dissolution for the development of novel
+     drug-delivery systems using additive manufacturing techniques to provide a new approach to
+     personalised healthcare. Collaborative research on nanomaterials for drug delivery for
+     cancer and asthma will be developed further to build on research submitted in UOA 6; work
+     will mature on modelling of block copolymer drug delivery systems, such as nanocontainers
+     (Pinna, Zvelindovsky, Vorselaars) as well DNA complexes (Paillusson);
+ •   Machine Learning for diagnosis (Vorselaars): build on developed AI-based testing methods.
+     Potential uses, improvements and applications of this new method will be sought to help
+     respond to new episodes of the Covid-19 epidemic. This direction will stimulate further work
+     on machine learning applications, bridging powerful soft-matter computational techniques to
+     healthcare applications;
+ •   Interfaces and coatings (Mura, Roccatano, Ahmed): We use our computational methods and
+     develop interdisciplinary links to investigate antimicrobial coatings and bio-interface designs
+     for health-care applications. Our experimental research in coatings for surgical tools and
+     instruments will be further enhanced by molecular modelling developments.
+
+ PRD2. Green and sustainable materials
+ We will build on modelling approaches developed over the current census period to aid the
+ design of efficient and sustainable materials.
+ Fluid dynamics for industry: We will apply non-Newtonian fluid mechanics together with
+ molecularly-aware modelling beyond continuum models to develop more easily-recycled plastic
+ products using additive manufacturing technology (McIlroy, Vorselaars).
+ • Energy: Modelling to understand responsive polymer capsules for smart energy applications
+     (Greenall), block copolymer nanoscaffolds for energy materials (Pinna, Zvelindovsky,
+     Vorselaars), and the development of experimental methods to understand quantum dot
+     nanoparticle structures for energy harvesting (Booth). Further theoretical approaches will be
+     pursued to understand thermofluids for energy storage (Floris). These developments will be
+     in close collaboration with the University’s new Bridge Lab initiative, which involves
+     Chemistry, Engineering and Computer Science and will seek to develop closer links between
+     university research in battery technologies and energy from waste systems with industrial
+     companies (Ahmed).
+
+ PRD3. Model and Software development for material design
+ We develop multiscale physics software to enable collaborative research in materials modelling,
+ applied to areas including additive manufacturing and full anti-microbial protein simulation. The
+ extensive knowledge of soft-matter modelling techniques present in CCP provides a rare
+ opportunity to develop these models successfully.
+ Examples of development areas include molecular force fields refining (Roccatano), self-
+ consistent field theory and field-theoretic codes for soft matter (Vorselaars, Zvelindovsky). Our
+ emphasis will be on software solutions with a world-wide user base, and to include open access,
+ for materials design which comprises development of more efficient computational methods but
+ also seeks more accurate and transferable models (force field, DFT, polymer SCFT, etc.) and
+ coupling between them.
+ We will contribute to the development of world leading materials simulation software: CP2K
+ software suite (Watkins, particularly optical properties of materials and coupling to macroscopic
+ environments); Quantum Espresso software (Floris, spectroscopic methods); and SUSHI/OCTA
+ (Zvelindovsky, Pinna, block copolymer/nano-particle composites) in collaboration with leading
+ groups from Japanese industry and academia.
+
+ PRD4. Modelling of Interacting Systems
+ Our speciality is theoretical and mathematical physics research in soft matter, biophysics,
+ foundations in statistical physics and dynamic systems, as well as planetary astrophysics.
+ Research in these areas will be supported and strengthened including:
+ • modelling of planetary rings and exo-moon systems (Sutton);
+ • nonlinear dynamical systems, perturbation theory and integrable systems (Christodoulidi);
+
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+ •   foundations of statistical mechanics such as efficient sampling, ergodicity probing and their
+     applications in economics and materials, such as granular matter, (Paillusson);
+ •   theoretical biophysics (DNA) and colloidal science (Paillusson);
+ •   systems out of equilibrium such as active matter (Zvelindovsky, Paillusson).
+
+
+ Strategic Actions
+ To achieve an impactful and sustainable research environment within the UOA we will take the
+ series of actions outlined below to mature and advance the technological readiness level of core
+ research carried out in the current period.
+ A1. Diversify income generation
+ We will build a strong and sustainable research effort by accessing a diverse range of funding
+ streams to support our priority research areas bringing our funding up to around £2.5m in the
+ next REF period. The main driver to accomplish this will be the increase in research bidding
+ activity following the successful establishment of the SOMP’s internal infrastructure. The PRD
+ directions are those where the UOA has an existing presence and can successfully compete for
+ external income.
+ A2. Mature the technological level of research lines
+ McIlroy is working with Natureworks through the AM-Bench initiative to develop biodegradable
+ polymers for 3D printing applications; McIlroy, Vorselaars and Ahmed will seek industrial
+ connections in the pharmaceutical industry through the School of Pharmacy and external
+ academic collaborators (King's College, London) to build on published proof of concept work and
+ models. Software development knowledge in HPC can be channelled via project partners in the
+ Excalibur network and contribute to RSE development policy.
+ A3. Connect to the UOL led £6.5m Bridge commercial analytical suite
+ The Bridge Initiative provides a commercial route to access our academic expertise in materials
+ research. The Physics involvement in the Bridge Initiative also seeks to build on the Greater
+ Lincolnshire (LEP) Manufacturing Network by focussing on industrially relevant research.
+ A4. Expand PGR recruitment
+ PGR recruitment will be expanded through targeted recruitment from international channels and
+ matched funding to support large fellowship applications up to around two PhD or researchers
+ per FTE. The CCP is working towards teaming with other universities for joint submission of an
+ EPSRC doctoral training centre in materials modelling, including biomaterials for medical
+ applications.
+ A5. Broaden research outreach
+ We will popularise our public lecture series; increase our public communication, aiming to reach
+ at least 10,000 attendees in the next REF cycle; massively expand our online delivery to widen
+ the reach and accessibility following recent experience such as the recent “International
+ Nanotechnology Workshop” (Ahmed, McIlroy, Mura); expand our student placements, support
+ and host Newton Academy events to increase uptake of STEM to female students and work with
+ the IOP to deliver more physics outreach activities.
+
+
+ Approach to Interdisciplinary Research
+ Most of our research is inherently interdisciplinary or is strengthened by collaborations outside
+ the UOA. Examples include; charged particle imaging (Allinson) where our consortia include Co-
+ Is from leading particle physics groups, directors of national PBT facilities, bodies of international
+ standing such as the Karolinska Institute, and NHS clinicians and medical physicists; 3D-printed
+ drug-delivery systems (McIlroy, Vorselaars) bring together non-Newtonian fluid mechanics,
+ polymer physics, engineering technology, pharmaceutical science and computational modelling.
+ We will also seek expertise from Lincoln's National Centre for Food Manufacturing to utilise soft-
+ matter domain knowledge usefully.
+ We benefit from close links with research in the Schools of Chemistry, Computer Science,
+ Engineering, Pharmacy and Life Sciences and share analytical facilities housed in the purpose-
+ built Joseph Banks Laboratory and The Bridge Lab (see Section 3). New facilities in the Bridge
+ Lab will also promote interdisciplinary soft-matter and other materials projects, especially with
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ business. Conference organization is key to our approach to interdisciplinary research, see
+ section 4 for further details of conference organisation.
+
+ Research Integrity and Open Research Environment
+ We follow the University’s Code of Practice for Research, as well as the University’s Ethics
+ Policy, as the main instruments for the creation of a comprehensive framework for good
+ research conduct.
+ The HiPSTER group is committed to work on international open-source and open-development
+ codes, for instance long-term contributions to CP2K and Quantum Espresso. These initiatives
+ are augmented by providing support to the user and developer communities via dedicated
+ forums, regular tutorial workshops, and user/developer meetings aiming to up-skill users and
+ widen participation in scientific open-source development. The principle audience is PGR and
+ post-docs UK and internationally but includes SMEs and other industry.
+ MIC provides an on-line proton imaging database that allows the worldwide research community
+ to research new proton CT reconstruction methods. The CCP (Pinna and Zvelindovsky) have for
+ many years contributed to the development of the Japanese open-source software
+ SUSHI/OCTA for soft-matter systems.
+ We financially support open-access publication schemes wherever possible via green/gold open
+ access pathways or engaging with innovative publication models such as full open-access/open-
+ review journals. For example, Roccatano is an Associate Editor for the open-access journal
+ PLOS ONE and Paillusson is on the Board of Reviewers for the open-access mathematical
+ physics journal Entropy.
+
+
+ 2. People
+
+ Staffing strategy
+ Since 2014, the School of Mathematics and Physics has invested in developing strength in
+ computational and theoretical physics. The aim was to build a powerful computational physics
+ team supported by a growing experimental and analytical capacity as evidenced by the
+ £640,179 staff investment from the UOL in this UOA. UOA 9 also includes returns from the
+ established MIC based in the School of Computer Science and a chemical physicist based in the
+ School of Chemistry.
+ The strategy was implemented by the appointment of seven academics (Prof., three Senior
+ Lecturers and three Lecturers) in soft matter theory/modelling, reinforced with the appointment of
+ experts (two SL) in chemical physics materials modelling and, more recently, in astrophysics,
+ computational fluid dynamics and complex dynamical systems (three Lecturers). These
+ appointments have created a distinctive materials-modelling portfolio comprised of a wide range
+ of knowledge and technical skills, from its fundamentals to its more applied components. Further
+ appointments in the SOMP and inclusion of the Medical Instrumentation Centre (Prof., SL,
+ design engineer), bring the total to 15.2 academics in the UOA.
+ The appointment strategy targeted the employment of early career researchers (Paillusson,
+ Vorselaars, Floris and Greenall in 2015, Booth in 2016, Sutton in 2017, McIlroy and
+ Christodoulidi in 2019) supported by senior lecturer appointments (Pinna and Mura in 2014,
+ Watkins and Roccatano in 2015). More details of the research drivers for the appointments were
+ given in Section 1. Beyond 2021, we aim to strengthen the smaller research branches that have
+ begun in the present period by:
+ • Appointments in astrophysics, e.g. plasmaspheres around celestial objects, to complement
+     the existing modelling expertise of the CCP and promote cross-fertilisation between research
+     areas;
+ • Appointments in materials development to increase opportunities for partnership with
+     industry and the possibilities offered by the new Bridge Lab facility. The over-arching aim is
+     to achieve full materials design "in house": from model to experimental validation and
+     commercialisation.
+
+
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+
+ Staff Development
+ Physics research is supported by the University of Lincoln’s comprehensive range of policies
+ concerning employment, equal opportunities, research management and ethics, each with an
+ element designed to support research activity. The staffing strategy is strongly linked to the
+ unit’s research strategy through increasing research capability (see above) and providing
+ continuous professional development and mentoring support. All academics participate in the
+ annual appraisal scheme and can apply for a promotion annually. In the REF period two
+ academics were promoted to Associate Professor (Watkins, Pinna, both promoted 2018).
+ Leadership training is also offered to staff via appropriate ILM management courses.
+ The SOMP runs an annual travel grants scheme for all academics to visit / host collaborators to
+ foster national and international collaborations. We organize regular Research Away Days for
+ developing joint research projects. All early-career researchers have a mentor as well as their
+ line manager and we have used initiatives like the LIAS International Fellow scheme to bring in
+ mentors of international stature.
+ College away days are organised to enable early-career, mid-career and senior staff from
+ different schools to get to know each other and develop plans to work together. The College
+ runs an annual Research Showcase event at which researchers from all Schools within the
+ College can see their colleagues’ research and develop knowledge of what research expertise is
+ available for interdisciplinary projects.
+
+ Support for PGR Students
+ The Lincoln physics community is committed to developing the next generation of researchers
+ through its PGR students. All PhD students have at least two active supervisors providing a
+ broad view to develop the students. Following UoL’s Institutional Environment Statement PGR
+ students participate in weekly meetings and presentations at Group / Laboratory level, seminars
+ and open days across UOA 9, and talks by academics in events organised by LIAS.
+ International students have access to peer support in events hosted via the International
+ Postgraduate Society.
+
+ To expand their experience, we have connected our PGR students to external institutions and
+ infrastructure through the following initiatives:
+ • Engagement with the MMM-hub (EPSRC) is encouraged and we promote their journal clubs,
+     conferences, and lecture series aimed at PGR and early career researchers to our students;
+ • PGR students with an experimental focus are given opportunities to collaborate with external
+     organisations, e.g, Stephenson Institute for Renewable Energy at Liverpool and Cambridge
+     Graphene Institute via three-month student placements (Amli). Several PhD students
+     benefited from the placements in industry (Boukari at Inciner8 Ltd for his PhD studies on
+     Incineration Systems for Energy from Waste, and Walwyn at MSS Products for Advanced
+     Energy Systems);
+ • Computational physics PhD student Díaz benefited from three extended research visits to
+     the University of Barcelona (2016, 2017 and 2018), supported by two Santander travel
+     awards and a BritishSpanish Society award;
+ • Engagement with the School’s RSE allows students to develop advanced computational
+     methods in the context of their projects;
+ • Students also benefit from access to and training on the use of local cluster computing
+     facilities and the tier-2 MMM-hub Young supercomputer (we also contribute to the training).
+
+ Experimental physics research students also have access to the pool of centrally managed
+ laboratory equipment and training, as detailed in section 3.
+
+ Equality, Diversity and Inclusion
+ The school supports the university’s position on equality, diversity and inclusion, see the
+ institutional statement. SOMP operates an EDI Committee chaired by the Equalities Officer to
+ develop strategy, oversee effective implementation and monitor equalities policies in all
+ functions of the School. The EDI Committee leads the work on applying for a Juno Award, an
+ IOP initiative designed to develop an equitable working culture in which all students and staff
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ can achieve their full potential. Of the UOA’s 15.2 members, 25% identify as female, 0% are
+ BAME and 0% disabled. Currently, senior research academic staff are few, with all Professors
+ (2) and Associate Professors (2) identifying as male.
+ Key objectives in the School’s EDI action plan are to support staff promotion and encourage the
+ presentation of female role models in research - ECR staff are encouraged to participate in the
+ Aurora AdvanceHE leadership development scheme for female academics. Mura sits on the
+ committee for the Eleanor Glanville Centre (EGC), which is a central hub for the University’s
+ equality and diversity policy research. Through the EGC, one of the School’s academics and one
+ MRes student secured ‘Back to Science’ research support (£15k) as part of the University’s
+ support for academics returning from maternity leave. Additionally, the School provides flexible
+ working arrangements for academics actively supporting parenting and caring responsibilities
+ and the working space is fully accessible.
+ As well as involvement in the University wide EGC, Pipeline mentoring scheme, and other
+ institutional policies, the School of Mathematics and Physics is an IOP Juno supporter. The
+ School is working with the IOP towards obtaining Juno practitioner status and will be submitting
+ its application this year and building on this to move towards the school’s aspiration to acquire
+ Athena Swan awards.
+
+
+ 3. Income, infrastructure and facilities
+
+ Research Income
+ The School of Mathematics and Physics was founded in 2014 and MIC’s interdisciplinary work
+ was returned in the Computer Science UOA in REF2014. Hence, there was no research income
+ reported pre-2014.
+ During the census period, major grant awards have come from:
+ • the Wellcome Trust and EPSRC for the development of charged-particle imaging for the
+     optimisation of PBT in cancer treatment. With £1.8m Wellcome Trust funding to produce the
+     first fully solid-state proton CT instrument in the world, PRaVDA. Following the success of
+     this project, MIC are leading a £3.2m EPSRC Healthcare Technologies project to provide the
+     next generation system;
+ • Another prestigious grant was to McIlroy of a Royal Commission for the Exhibition of 1851
+     independent research fellowship to investigate semi-crystalline polymer materials in additive
+     manufacturing;
+ • Specialised computational software development grants have come from three person years
+     of software development ARCHER, an EPSRC and NERC funding stream for software
+     development for the National Supercomputer (Watkins £212,000) and one and a half person
+     years of software development from EPSRC High End Computing flagship and Excalibur
+     exascale computing initiative (Watkins £123,000).
+ We have secured numerous smaller grants and awards not reported in the HESA figures
+ including a Royal Society International Exchange Scheme with the University of Genoa
+ (McIlroy), HPC computer time, travel grants (Santander, British-Spanish Society) and small
+ equipment grants (RSC). Total research income for this UOA is £2.1m.
+
+
+ Infrastructure and Facilities
+ Computational physics research is enabled by an excellent computing infrastructure developed
+ over the census period. We have a growing local CPU/GPU cluster (currently ~600 cores) with
+ expert support from an RSE (Chulkov). We are one of three new partners (along with Reading
+ and Brunel) joining a refresh of the Tier 2 EPSRC HPC resource the MMM-Hub (Young
+ supercomputer ~30,000 cores of which ~1000 cores are dedicated to UOL), which is led from
+ UCL. This facility provides a springboard to national tier-1 resources, national collaborations and
+ to international initiatives. Additionally, we have access to national tier-1 (Archer and Archer-2)
+ and other tier-2 resources (Thomas, Jade) via membership of Materials Chemistry Consortium
+ (Watkins, Floris) and Biomolecular Simulation Consortium (Roccatano).
+ The MIC works with long-standing OEM companies (ISDI Ltd, a CMOS design house that spun-
+ out of Professor Allinson’s research on large-area CMOS imagers), and aSpect Design Systems
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ (Dresden), a specialised scientific data acquisition company. Such arrangements allow us to
+ design and fabricate custom CMOS circuits and imagers, as well as start-of-the-art electronics
+ built to an industrial standard.
+ Modern purpose designed wet-lab space is available within the Joseph Banks Laboratory (JBL,
+ which also houses the School of Chemistry). In the JBL we also have access to analysis tools,
+ including research grade NMR (500MHz including broad band solution and solid state probes),
+ X-Ray Diffraction (dual-source SCD, multi-stage PXRD), Mass Spectrometry-Chromatography
+ (GC- triple quadrupole, LC-Orbitrap, LC-triple quadrupole), Elemental Analysis (XRF, ICP-OES),
+ Thermal Analysis (STA-MS, STA-IR, Thermomicroscopy, ITC) and Nanoscience (DLS, Zeta-
+ potential, Nano-sight). These facilities were combined with existing resources including PVD
+ apparatus, machining and SEM. Dedicated instrument scientist support is available for
+ characterisation work. Further instrumentation will be become available as part of the £6.5m
+ Bridge Lab project that will provide opportunities for collaboration with industry and facilitate an
+ expansion of staff expertise into experimental areas.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Research collaborations, networks and partnerships
+ Research Consortia and Networks
+ The MIC is leading two major research consortia funded by the Wellcome Trust (£1.8m) and the
+ EPSRC Investigator-led Healthcare Technologies (£3.2m) project, OPTIma. Both consortia
+ have partnerships with up to five UK and two overseas universities, five NHS Trusts and
+ Foundation Trusts and PBT centres worldwide (e.g., Switzerland and South Africa). Due to their
+ complexity, these consortia are managed by an experienced project manager.
+ Watkins is on the steering committee of the Materials Chemistry Consortium, one of the largest
+ EPSRC-supported High End Computing consortia which allocates a significant amount of time
+ (~15% in 2019) on the national supercomputer. The CCP led UOL in joining the Materials and
+ Molecular Modelling (MMM) Hub (EPSRC), along with ten other UK institutions, gaining access
+ to significant computing resources.
+ McIlroy is on the polymers scientific committee for AM-Bench, a joint academic and industrial
+ initiative led by the US NIST, which guides best practice in developing additive manufacturing
+ methods.
+
+ HiPSTER and CCP participate in the national networking programme Excalibur (Met Office/
+ EPSRC) combining the effort of over 100 research groups UK-wide in order to roadmap the
+ development of UK exascale computing using materials simulation codes.
+ Research Collaborations
+ We have grown strong networks of research collaborations with other UK universities, as
+ evidenced by our publications record. These include:
+ Universities of Nottingham and Leeds, see submitted papers from McIlroy;
+ Universities of Warwick and Aston, collaboration on an MCSA individual fellowship and
+ publications, Greenall;
+ University of York, papers (McKenna, Physics) and joint supervision of student (Avestro,
+ chemistry); UCL long standing collaborations with Woodley and Shluger (Watkins);
+ UCL, KCL (Ahmed, Floris, Watkins, Mura)
+ University of Liverpool and Anglia Ruskin University (Ahmed);
+ University of East Anglia, (Roccatano).
+ We also have extensive ongoing international collaborations with researchers at institutions
+ including:
+ • Tohoku University, Japan (SUSHI/OCTA soft matter code co-development, Zvelindovsky,
+     Pinna; MD modelling, Roccatano);
+ • Norwegian University of Science and Technology (Dick Bedeaux, Visiting LIAS International
+     Fellow);
+ • Kanazawa University, Japan (Atomic Force Microscopy in liquid, Watkins, Nanoscale 2016);
+ • Aix-Marseille Université, (collaboration on synthesis of molecularly fused nano-meshes for
+     light harvesting, Watkins, Nature Chemistry 2018);
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ •   Sorbonne Universités, UPMC Univ Paris 06 (Paillusson, Journal of Chemical Physics 2019);
+ •   University of Zurich and ETH Zurich, ongoing CP2K development, Watkins, editor’s highlight
+     in Journal of Chemical Physics;
+ •   University of Waterloo, Canada, publications, extended visits, Vorselaars;
+ •   Centro Brasileiro de Pesquisas Físicas, Brazil, a paper in this REF submission -
+     Christodoulidi;
+ •   University of Padua, Italy, Christodoulidi's collaborators;
+ •   Universitat de Barcelona, several papers in this REF submission (Pinna, Zvelindovsky);
+ •   CECAM, Centre Européen de Calcul Atomique et Moléculaire, École Polytechnique Fédérale
+     de Lausanne, several papers in this REF submission (Pinna, Zvelindovsky);
+ •   Universitat Rovira i Virgili, Tarragona, Spain (a paper in this REF submission – Pinna,
+     Zvelindovsky);
+ •   University of Genoa, Italy (via Royal Society International Exchange Scheme, McIlroy);
+ •   Purdue University and Kansas State University, USA, BZ Multan University, Pakistan, Qatar
+     University and Dhofar University, Oman) (Ahmed’s collaborators);
+ •   RWTH Aachen University, DECHEMA Research Institute, Germany (a paper in this REF
+     submission – Roccatano);
+ •   University of the Basque Country UPV/EHU, Spain (a paper in this REF submission –
+     Roccatano);
+ •   Johannes Gutenberg University Mainz, Germany (Floris’ collaboration).
+
+ Industrial Partnerships
+ MIC has two long-term industrial partners, aSpect Systems GmbH and ISDI Ltd – the latter is a
+ spin-off CMOS design and supply company that provides large-scale CMOS imagers chiefly to
+ the healthcare industry. Both companies market products based on research undertaken by
+ MIC.
+
+
+ Relationships with users, beneficiaries and society
+ Users of Medical Imaging:
+ Research conducted by MIC directly benefits UK healthcare in relation to cancer treatment using
+ proton beams. Through our research consortia and relationships with NHS trusts, our research
+ outputs are directly beneficial to patients. Through our industrial partnerships (aSpect Systems
+ GmbH, ISDI Ltd), we continue to inform development of imaging technology for the healthcare
+ industry. The OPTIma instrument at The Christie Foundation Trust will form part of the UK
+ national research facility to enable access to other UK and overseas groups.
+ Users of Computational Physics Software
+ Watkins and Floris contribute to the development of CP2K and Quantum Espresso (QE),
+ respectively. They are two of the most widely used materials simulation codes internationally
+ and UOL has contributed around five person years of software development as well as user
+ support and training as part of the larger international effort. CP2K was used for £1.7m and QE
+ £470k of calculations on the national supercomputer between November 2014 and October
+ 2019 by EPSRC and NERC users - typically occupying ~10% of the machine combined. 100s of
+ groups are using these codes internationally with >20,000 papers citing the core development
+ papers over the census period. We have co-organised annual CP2K summer-workshops and
+ user-group meetings since 2014 - co-organisers have included EPCC, KCL, Imperial, STFC
+ Daresbury, University of Zurich - as part of a five-year EPSRC network grant (CP2K-UK). We
+ are actively developing online resources to supplement workshop delivery.
+ Public Engagement and Outreach
+ Our public lecture series, established in 2014, has hosted leading international speakers to
+ deliver compelling research at a non-specialist level to audiences including academics,
+ schoolteachers and children, leaders and technical experts from industry and NHS. A 500+
+ person lecture theatre in the Isaac Newton Building allows the hosting of large conferences and
+ talks, greatly enhancing our research outreach. Since its inception this series has been attended
+ by over 3,000 people from around the UK.
+ Staff actively disseminate their research to the public, examples include:
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+ •   Paillusson’s research on entropy was presented in two public IOP talks in Lincoln and during
+     a tour of four other UK cities;
+ • SOMP launched its own series of Christmas Lectures, two of which were about research on
+     physics of the dynamics of self-propelling particles (Zvelindovsky), protein dynamics
+     (Roccatano) and physics of DNA (Paillusson);
+ • Roccatano, Zvelindovsky, Paillusson and Sutton presented their research results at the
+     highly popular Grantham Gravity Fields Festivals in 2016 and 2018;
+ • McIlroy and Christodoulidi presented their research to MPs at STEM for Britain 2018 and
+     2020;
+ In March 2021 the members of the unit will deliver eight research outreach talks online as a part
+ of British Science Week 2021;
+ The MIC team are very active in public engagement because cancer treatment is a topic of great
+ interest to the public. An interactive display on PRaVDA was exhibited at The Royal Society
+ Summer Exhibition (2014), GravityFields Festival (2014) and Spark Engineering Festival (2015)
+ as well as in the Wellcome Trust HQ. The display has been visited by an estimated 25,000
+ people;
+ • The Annual Edmund Weaver Lectures in Astronomy, focussing on Sutton’s research on
+     Saturn Cassini mission data and exoplanets, were attended by over 600 people. He also
+     presented his research to a wider community on 12 talks in various Astronomical Societies,
+     and popular science clubs like Cafe Scientifique and Pint of Science;
+ Sutton’s paper on exoplanet J1407b, in Monthly Notices of the Royal Astronomical Society, was
+ featured in 18 news outlets, such as Forbes, Fox News and MSN, as well as Russian news
+ outlets and BBC Radio 5.
+ Wider Contributions to the research base
+ Contribution to Learned Societies
+ We are actively involved with physics learned societies:
+ • Vorselaars (Treasurer) and Pinna (Chair) of the IOP Computational Physics Group;
+ • Greenall (term finished in 2019) and Zvelindovsky (current) ordinary committee members of
+     the IOP Polymer Physics Group;
+ • McIlroy is the Secretary of the British Society of Rheology, and a member of the Institute of
+     Non-Newtonian Fluid Mechanics.
+
+ Contribution to Research Quality
+ All researchers within the UOA are involved in peer-reviewing for internationally-recognised
+ journals, and many review grant applications for major award bodies both in the UK and
+ internationally. We also contribute to journal editorship:
+ • Zvelindovsky is on the International Advisory Board of Macromolecular Theory and
+      Simulations (Wiley) and the Editorial Advisory Board of Advanced Theory and Simulations
+      (Wiley);
+ • Roccatano is an Associate Editor of PLOS ONE;
+ • Sutton is on the Editorial Board of Journal of International Astrophysics;
+ • McIlroy is an Associate Editor for the journal of Additive Manufacturing (Elsevier).
+
+ Contribution to Conferences and Workshops
+ Conference organisation is our main driver for instigating international collaborations, which
+ have contributed to many of our best publications. International meetings we have organised
+ include:
+     • International symposium and workshop ‘Computational condensed matter: advances and
+        challenges’ (CompMat2014), (2014, Zvelindovsky, Pinna, Mura);
+     • Annual Meeting of the Crystallize COST Action CM1402 group, involving scientists from
+        27 different countries (2017, Vorselaars);
+     • International CECAM (Centre Européen de Calcul Atomique et Moléculaire) workshop:
+        ‘Nano-structured soft matter: a synergy of approaches to amphiphilic and block
+        copolymer systems’, (2018, Zvelindovsky, Vorselaars, Paillusson, Greenall);
+     • International CECAM workshop: ‘Emerging behaviour in active matter: computational
+        challenges’, (2019, Paillusson, Zvelindovsky, Pinna);
+
+                                                                                           Page 12
+Unit-level environment template (REF5b)
+    •   The 29th biennial meeting “Physical Aspects of Polymer Science”, IOP, (2019, Greenall);
+    •   The Biannual Materials Chemistry Consortium Conference (2018, Watkins);
+    •   Non-Newtonian Club meeting on “Rheology for Processing” (2019, McIlroy);
+    •   Machine Learning in Physics meeting by the IOP CPG, (2019, Vorselaars).
+
+
+
+
+                                                                                        Page 13
+

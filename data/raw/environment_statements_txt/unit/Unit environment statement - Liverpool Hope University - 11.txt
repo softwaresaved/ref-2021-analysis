@@ -1,0 +1,859 @@
+Unit-level environment template (REF5b)
+ Institution: Liverpool Hope University (LHU)
+ Unit of Assessment: B11: Computer Science and Informatics (CS&I)
+ 1. Unit context and structure, research and impact strategy
+
+ The CS&I Unit of Assessment (the UoA) at LHU (the University) comprises all eligible staff from
+ the School of Mathematics, Computer Science and Engineering (the School or ‘MCS&E’: total
+ 12.5 FTEs) along with 1 FTE from the Business School working on multi-disciplinary research
+ themes. Among the 13.5 FTE submitted, five are Early Career Researchers (ECR). The UoA is a
+ lively and energetic unit, supporting a strategic range of mathematical, computational, and robotics
+ research.
+
+ Over a decade ago, the School set out to redefine and refocus itself as an active centre of research
+ and teaching devoted to aspects of mathematical and computational sciences associated with
+ LHU’s core strengths in humanities-shaped and liberal-arts inspired curriculum. We have followed
+ this route consistently throughout the last ten years, building momentum over this assessment
+ period. In doing so, we have been forging a unique research vision of CS&I research as an inter-
+ disciplinary set of practices, methods and techniques clustered around the roles of mathematical
+ and computational modelling in individual creativity, social connectivity, medical applications of AI
+ and Robotics, and Virtual and Augmented Reality (Spatial Computing).
+
+ This major re-focusing was undertaken to meet both external factors (in particular, an increase in
+ student numbers) and changes in the strategic direction of the University. This in turn has led to a
+ significant shift in staffing profile. The re-focusing has also shifted the emphasis from primarily
+ Information Systems provision to Mathematical and Computational Science, including AI and
+ Robotics areas, and has helped to establish a healthy postgraduate programme as well as to
+ develop a vibrant research environment.
+
+ The research environment described in this document is one that has been built consciously to
+ support interdisciplinarity and transdisciplinarity across the University, enabling us to work closely
+ with LHU's strongest, most successful, and most innovative schools/departments. This
+ environment has helped to strengthen and consolidate our research profile in our chosen fields,
+ enabled application of the research, and provides the basis for continued development.
+
+ The School structures and manages its research activity around three groups that represent the
+ School’s core areas of research strength:
+
+ •   Intelligent and Distributed Systems (IDS)
+ •   Spatial Computing and Robotics (SC&R)
+ •   Mathematical Sciences Research (MSR)
+
+
+
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+
+ IDS: Led by Reid, this group aims to build computational models for understanding biological and
+ social intelligence found in nature, with particular interest in neural information processing in the
+ brain and the organising principles of neural and morphological development from the evolutionary
+ perspective. The group is also concerned with developing efficient computational algorithms,
+ inspired from natural intelligence and built on mathematical models, for solving complex real-world
+ problems, targeting problem spaces in high value-added engineering domains as well as domains
+ in autonomous systems such as swarm robotics, healthcare and bioengineering with strategic
+ societal impact.
+
+ SC&R: Led by Secco, the expertise of this group overlaps with IDS, utilising Immersive
+ Technology (AR/VR) and Robotics, with a growing focus on Spatial Computing and Embedded
+ Intelligence (SEI). Example outcomes of this research activity include: High Altitude Platform
+ Stations (HAPS) for the provision of broadband and internet services especially in rural,
+ underserved and disaster areas; Haptics for Immersive Technologies (Tactile Internet); and a
+ Portable Pollution-Monitoring Internet-of-Things (IoT) system. This group is involved in a set of
+ multiple branches of Robotics, such as insights on Human Robot Interaction (HRI), Bio-mimetic
+ Robotics (BM), miniaturized haptic-based sensors and actuators, and Haptics.
+
+
+ MSR: Led by Xenitidis, this group aims to encompass research from pure and applied
+ mathematics. The skills within the group are wide and far-reaching but complement each other.
+ Themes within the group include Complexity, Singularity Theory, Differential Geometry, Dynamical
+ Systems, Integrable Systems, Theoretical Physics, and Particle Physics/Quantum Computing.
+ With many of the research areas overlapping, there has already been collaborations within the
+ group and with the other groups (e.g. complexity analysis for self-organised HAPS).
+
+
+ The group leaders serve as representatives on the School’s Research Committee (SRC) and its
+ Knowledge Exchange Steering group, where issues such as strategy implementation, KE strategy,
+ and research investment are addressed. Figure 1 below describes the various committees,
+ research groups and their relationship with the University committees. The membership, areas of
+ interest and expertise of these groups are not mutually exclusive, and collaborative research
+ occurs frequently between them, together with other Schools/Departments in the University (e.g.
+ Business, Psychology, Creative and Performing Arts, Health Sciences), and with national and
+ international partners (e.g. partner HEIs in India). All School staff are co-located in the Frances
+ Mary Lescher building with close proximity (along the same corridors) to teaching and research
+ laboratories, which helps to facilitate a vibrant academic and research community of staff, PGR
+ students and undergraduate students, especially with our curriculum that emphasises research-
+ informed teaching.
+
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+
+
+
+
+ The research groups provide a forum for focussed discussion, feedback (on presentations,
+ manuscripts, and research proposals), and collegial support through regular meetings. Research
+ groups are also expected to be outward-facing to enable multi/inter-disciplinary research. In
+ addition, members of research groups are expected to encourage academics from elsewhere to
+ visit LHU and to foster wide academic networks. Furthermore, and consistent with the mission of
+ the University for a positive impact of our research in people’s lives, research groups are expected
+ to work to establish and maintain links to stakeholders (e.g. AI applications for memory and
+ learning disorder in children with Sickle Cell Anemia being jointly done with the Indian Council of
+ Medical Research (ICMR)) for whom the translation of research into practice is important. These
+ links are especially critical to ensuring that research from the UoA has impact.
+
+
+ Research strategy:
+
+ Our strategy for research culture involves growing a viable and sustainable research community
+ in each area/theme, consisting of academic staff, research assistants and students, visiting
+ professors as mentors, and collaborators from industry. Whilst growing research communities is
+ a long-term and ongoing undertaking, there have already been significant notable successes as
+ described below. To fulfil this strategy, we have prioritised the development of a strong and active
+ research culture, alongside the maintenance of an international profile and the provision of a rich
+ and satisfying environment for research students. The research culture consists of an intensive
+ research-informed teaching environment that advances knowledge, develops technology, and
+ provides highly-trained scientists and engineers to meet the needs of industry and society.
+ Contributing to the UK economic competitiveness and quality of life, the development of this
+ culture fulfils the University’s mission of engaging with the world beyond academia to ‘make a
+ difference’ – preparing our students for the world of work, and for the work of the world.
+
+
+
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ Achievements and evaluation of strategic aims during the assessment period:
+
+ We have met the following REF2014 strategy and research targets.
+
+ 1. Focus on fostering research in carefully-selected growth areas of MCS&E and their
+    applications.
+    ✓ Creation of active and sustainable research thematics in key areas that build on the
+        strengths established through repositioning, refocusing, and rebranding of the School, as
+        well as the creation of the three research groups. Key staff appointments including
+        promotions (details in Section 2). Of the 13.5 FTE staff returned, 9.5 were appointed after
+        REF2014.
+ 2. Raise output quality and visibility by publishing in high-quality, peer-reviewed, mainstream and
+    internationally-respected venues/outlets (including Open Access).
+    ✓ The School is well-represented on the programme/organising committees and editorial
+        boards of the top international conferences and journals in the field. Open Science is firmly
+        embedded in our work.
+    ✓ Research quality is evidenced by increased publications in top-quality outlets (e.g. various
+        IEEE Transactions) and key archival conferences such as International Conference on
+        Robotics and Automation (ICRA); launch of the Springer Algorithms for Intelligent Systems
+        (AIS) research series; hosting of a major Soft Computing conference (SocProS-2019)
+        series with proceedings published by Springer.
+ 3. Increase the quality and quantity of Ph.D. students; proactive efforts towards increasing
+    external grant income in order to attract researchers and visitors.
+    ✓ Growth in PhD student numbers from 2 in 2013 to 10 in 2018/19, with under 4-year
+        completion rate for doctoral degrees (Section 2). Includes two externally-funded
+        scholarship PGRs who joined during 2019/20.
+ 4. Improve laboratory equipment provision.
+    ✓ Improved research infrastructure, including strategic investment in excellent facilities and
+        environment (Section 3).
+ 5. Increase external research, knowledge exchange and technology transfer collaborations.
+    ✓ Key collaborations in robotics and mathematical computing; increased academic as well
+        as industrial collaborations and networks (Section 4).
+
+ Future research strategy, aims and goals for sustainability: The researchers in the UoA
+ continue to set for themselves the objective of pursuing both fundamental and applied research at
+ the forefront of scientific and technological development, as well as responsiveness to national
+ and international initiatives and priorities, e.g. AI and Robotics. This strategy will continue to be
+ adopted and developed, leading to continued growth in our high-quality outputs and already fruitful
+ activities and their effects. We will continue the policy of developing strength in depth with an
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ emphasis on interdisciplinarity, building upon existing themes and diversifying in a carefully
+ controlled fashion, and achieving international excellence in aspects of our portfolio. We will
+ achieve this capacity and capability through our staff development procedures, by emphasising
+ and encouraging synergy, and by attracting active researchers in relevant areas (e.g. recent
+ appointments being made in the Cybersecurity area). A conscious effort will continue to be made
+ to ensure relevance and timeliness of research and its translation into practice.
+
+ Within the framework of this strategy, the School will pursue a set of well-identified goals over the
+ next five years. These include:
+
+ 1) responding to the challenges presented by the explosive growth of AI, IoT, robotics, haptics
+     and wearable systems areas, including the emerging area of HAPS being led by the School;
+ 2) continuing to focus on exploiting our core skills and strengths by prosecuting both fundamental
+     research and applications as diverse as HAPS and eHealth;
+ 3) continuing to raise the quality of publications to higher standards and outlets through target-
+     setting in performance reviews, staff development, and mentoring;
+ 4) ensuring that we continue to emphasise sustainability through research grants; increasing the
+     number of research funding bids; ensuring the importance of collaboration as a further impetus
+     for external funding;
+ 5) undertaking knowledge-exchange, commercial exploitation and patenting of our findings;
+ 6) continuing to support less-experienced researchers in research teams including through
+     mentoring by more-experienced researchers and visiting professors;
+ 7) further increasing the critical mass of our PGR student body and maintaining successful
+     research degree completion.
+
+ Unit’s Open Science Statement:
+
+ The UoA’s strategy is that all stages of the research lifecycle can be made open, within the bounds
+ of the associated good governance and conditions of the research, ranging from opening up
+ research methodologies through to pre-registration, sharing notes, software, simulation, and data,
+ and publishing open-access. This approach has already enabled greater visibility and wider
+ distribution of our research, thereby unlocking access to knowledge and generating new
+ opportunities for collaboration and participation (e.g. our developing collaborations with Avealto
+ Plc).
+
+ The UoA has already embedded the principles of Open Science that go beyond simply making
+ publications open access. Our Visiting Professor John Wood (CBE and Former Secretary-General
+ Association of Commonwealth Universities) was invited to advise colleagues in the School
+ regarding the ‘Open Research and Open Science’ (OR&OS) agenda (with his expertise in
+ implementing OR&OS in Europe working as a consultant for CERN). The University has launched
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ an Institutional Open Access Research platform called InOAR (developed by the School).
+ Colleagues use/lodge data (e.g. TCGA data, ImageNet, Eurostat, OpenGL libraries); some have
+ pre-registered studies prior to publication (e.g. Foulkes and Garron on arxiv.org), and others are
+ involved in the public dissemination of science, e.g. through British Science Week (BSW) and
+ bespoke public science engagements, such as at Liverpool Business Festival (Reid). We have
+ also introduced OR&OS into our UG/PG curriculum (e.g. GNUplot, RProject, CYGWIN, Pytorch)
+ in order to begin to foster OR&OS practices among our students. We seek to increase the
+ proportion of colleagues engaged in activities supporting OR&OS through an ongoing programme
+ of staff development and mentoring.
+
+ Impact strategy: The research scope of the School covers a broad range of activities including,
+ for example, developing tools and techniques for teaching science and mathematics to visually-
+ impaired school children (a REF2014 case study), medical robotics and sensors (Secco and
+ Ranasinghe). Our wide-ranging activities enable a breadth of impact, with a focus predominately
+ in areas where system-interaction-design, modelling and simulation, and technological
+ development have a key role, or where there is a particularly strong policy influence (e.g. HAPS
+ research leading to policy impact on the Commonwealth Telecommunication Organisation’s
+ (CTO) strategy). Public-engagement and outreach also play a major role (Section 4).
+
+ Our approach to, and mechanisms for delivering, Impact have been achieved within the
+ context of the University’s mission of engaging with the world beyond academia. The University’s
+ values of ‘being the critic and conscience of society’ and ‘making a difference’ are mirrored in
+ various strategies within MCS&E. In the School there is clear expectation, articulated in staff
+ recruitment and annual monitoring and promotion policies, for staff to demonstrate wider
+ contribution both within and beyond the academic world. The work of MCS&E therefore draws on
+ contacts and expertise from elsewhere in the University, and over the years it has nurtured
+ extensive, and in several cases deep, external associations. The School continues to facilitate
+ staff to engage in this wider contribution (including by funding: e.g. targeted impact calls such as
+ ‘Route to Impact’, ‘REFine’, and ‘REFlect’). Besides helping staff to innovate and to expedite
+ production of research output, this facilitation enables staff to engage with research users as the
+ work develops. The School, in conjunction with the University’s Business Gateway team, have
+ held research open days and summer schools to show-case on-going research in various ways
+ (e.g. the SocProS-2019 conference had an industrial track and an exhibition/poster session).
+
+ The School has taken a number of different approaches to ensure impact from its research,
+ ranging from a broad-sweeping approach to raising the impact-awareness of its researchers to
+ specific and targeted impact activities that have the potential to achieve significant impact. These
+ impact activities, which are focused around research themes/clusters and individuals, are
+ undertaken through various approaches such as: (i) Interactions with Users/Industry (e.g.
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+ Barclays Plc. and Tento Plc.) – see Section 4; (ii) targeted efforts to establish and develop
+ research themes and activities that are more industrially-focused but still deliver innovative and
+ excellent research and science, often bringing researchers with multidisciplinary backgrounds
+ together; (iii) funding and supporting impact potential of research, a particular success here
+ being the REFine and REFlect grants, through usage of the devolved budget of the SRC; (iv) the
+ role of public engagement and outreach, an area in which the School is particularly active (e.g.
+ iCure funding to engage stakeholders on Visual Secret Sharing (VSS) project – see Section 4);
+ (v) regular review mechanisms to assess progress and effectiveness, and for forward
+ planning; (vi) regular staff-development workshops intended to contribute to a culture shift
+ whereby impact is a key part of the overall research-development consciousness; and support at
+ the various stages of the impact life-cycle (planning, beneficiary engagement and involvement,
+ achieving, evaluating, and providing evidence).
+
+ The School’s future impact strategy is: Plan it (as part of Research from the beginning), Action
+ it, Evidence it, Communicate and Showcase it, and Reward and Celebrate it.
+
+ Impact awareness (including staff development and mentoring): The School will encourage
+ the development of impact for every researcher by increasing the importance of impact within
+ performance-review and staff-development opportunities.
+
+ Enhancing interaction with Industry/Users: The School will deepen these relationships by
+ building upon Open Day as an ‘Industrial Showcase Event’ and as a networking opportunity that
+ engages local industry with the research community within MCS&E. Further networking events
+ will involve Daresbury Laboratory (Warrington, Cheshire) and Liverpool Science Park and Sensor
+ City, with whom we are already collaborating/interacting.
+
+ Targeted impact: The School has already been employing this strategy, investing in research
+ laboratories and equipment (such as 3D Printers, HPC machine, variety of robotics equipment,
+ HAPS, VR and AR equipment – details in Section 3).
+
+ Recruitment of staff: The School targets key academic appointments in areas that strengthen
+ industrial collaborations (e.g. the recently-appointed Dr Mark Greenwood, who chairs the
+ Industrial-Liaison Panel, is a professional tutor and brings valuable industrial background).
+
+ Relationship to submitted Impact Case studies (ICSs): The various approaches taken by the
+ School are reflected in the make-up of the submitted ICSs. (i) the e-Health ICS (Nagar) is directly
+ linked to influencing the work of IBM, the UAE Health Ministry, and NGOs in North India working
+ for underprivileged sections of society, with a direct impact on enhancing the productivity and
+ quality of life; and (ii) the HAPS ICS (Anicho and Nagar) has crossed disciplines through
+
+
+
+
+                                                                                                 Page 7
+Unit-level environment template (REF5b)
+ engagement with CTO and communication professionals, achieving impact by influencing
+ Spectrum Allocation policies.
+
+ 2. People
+
+ The UoA maintains a rigorous staffing policy, and recruits research-promising academics as well
+ as high-calibre early-career researchers (e.g. Dev and Anicho). The staffing strategy is designed
+ to meet objectives set by the research and impact strategy, alongside the requirement of the
+ University to deliver teaching. The strategy must be understood in light of two key objectives: to
+ recruit the very best academics that will help achieve our strategic goals; and to develop the
+ academics already in post to be able to perform as best as possible (through building skills and
+ networks). For example, we have recently recruited Garron, a particle physicist, as we are
+ expanding our directions of research and developing our provision in Quantum and Non-
+ conventional Computing. In addition, we seek to achieve these objectives while fostering a spirit
+ of equality and inclusivity across all colleagues within the UoA. Moreover, as part of the annual
+ performance review, the research achievements, aspirations and development needs (e.g. bids
+ and grants writing) of staff are explored and acted upon.
+
+ New members of staff are mentored by more experienced senior academics and visiting
+ professors, who provide guidance and help. Wherever possible, new members of staff carry out
+ at least part of their research work in conjunction with other colleagues (e.g. joint supervision of
+ PhDs). Funding is provided for recruiting Graduate Teaching Assistants (GTAs) who are enrolled
+ for a PhD degree and support the School’s research and teaching. During the assessment period
+ six Vice-Chancellor’s PhD scholarships were awarded, and we currently have two externally-
+ funded scholarship PhD students. We are a relatively young School and no staff reach nominal
+ retirement age within five years. The UoA has a sound staff profile, with a good balance between
+ (i) research leaders (Nagar, who established the Department (now developed into a growing and
+ vibrant School) in 2008 as foundation professor of Mathematics), (ii) experienced researchers
+ (Reid, Secco, Xenitidis, Foulkes, Naguib, Garron), (iii) new and emerging researchers
+ (Ranasinghe, Baxendale, Dev, Buckley, Anicho, Reeve), and (iv) visiting scholars and professors.
+ Nagar works in a number of areas across the unit, and with his mathematics background
+ contributes to enriching and mentoring the research of emerging and ECRs.
+
+ The School’s supporting and nurturing environment allows colleagues to develop their academic
+ profile from which all staff benefit. Indeed, this also means that some colleagues move on to
+ promoted positions elsewhere. For example a colleague, after being fast-tracked to Associate
+ Professor, was appointed full Professor at Leeds Beckett (2015); Hu received support from the
+ School resulting in a successful 3-year EPSRC grant on which a postdoc was being appointed
+ when he moved to Exeter; Kirpichnikova moved to Edinburgh Napier to lead their Data Science
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ developments; and Caliskanelli, due to her Distributed Systems expertise, was attracted by the
+ UK Atomic Energy Authority; and another member of staff whose PhD was fully funded by the
+ School later moved to the University of Manchester.
+
+ The organisation of the UoA’s research, divided into three research groups as described in
+ Section 1 (Figure 1), facilitates the efficient deployment of resources, effective coordination of
+ research, multidisciplinary collaboration and subsequent transfer of knowledge and expertise.
+ Day-to-day management of research activities is coordinated by Reid (SRC Chair) supported by
+ the research group leaders and Nagar (Head). This ensures a coordinated approach and
+ facilitates the cross-fertilisation of ideas and projects, as well as the integration and mentoring of
+ new and upcoming members of staff, encouraging the development of junior researchers,
+ identifying publication targets and drafting applications for funding and internal peer-review.
+
+ Colleagues benefit from short sabbaticals taken in the form of consolidated research time
+ (CRT) which allows staff the opportunity to step back from other responsibilities to focus on
+ research. Over the census period most staff have benefitted from at least one period of CRT (e.g.
+ Baxendale to finish his PhD thesis in 2019).
+
+ Research funds are available from the devolved SRC budget and central University funds
+ (managed by the PVC Research). Priority is given to staff presenting papers at mainstream
+ conferences (e.g. ICRA), tutorials, workshops or chairing/organising special sessions at
+ conferences. During the current research assessment period, all staff members presenting papers
+ at recognised conferences have been supported with funding to do so.
+
+ Risk assessments and ethics are managed by dedicated ethics lead reporting to the School
+ Ethical Approval Committee and to University Sub-Committee on Ethics (a sub-committee of
+ Senate Research Committee). We recognise that our research culture must embody the values
+ of ethics, good practice, and scientific and professional integrity, so that others can have trust and
+ confidence in the methods and the findings of our research. We view our commitment to OR&OS
+ practices (see Section 1) as an important mechanism to ensure this trust and confidence.
+
+ The PGR community is fundamental to delivering a sustainable research environment,
+ participating fully in the research of the School. As part of our strategy to further develop a PGR
+ critical mass within the School, we have recently (from 2019) modified our PGT provision in order
+ to stimulate PG research activity. Meanwhile, a funding mechanism has been agreed by the PVC
+ Research that allows future PGT recruitment to link in a scaled and sustainable manner to the
+ offering of PGR bursaries, with the goal of facilitating growth and adding to the recruitment of self-
+ funding students. The target is to carefully recruit up to 5 high-calibre PGR students per-annum,
+ reaching a minimum of 15 PGRs at any given time. We have already identified an income stream
+
+
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+ to support the potential growth in academic staff (2 per-annum) and PGRs (5 funded bursaries
+ per-annum) between 2020 and 2023.
+
+ Several VC PhD studentships were created from QR funds during the current REF period. Since
+ REF2014 we have supervised 7 high-quality PhDs to successful completion, and 2 more PhDs
+ have had successful Vivas since July 2020. Our PGRs have been successfully employed: 1 PhD
+ is now working for Google Labs (having also worked for IBM in California), 3 PhDs are in academic
+ positions (2 in the UK and 1 in Oman), 1 PhD student is employed by a major Italian
+ Telecommunication company, and a further PhD student is working for a major Manufacturing
+ company based in Coventry. The School carefully selects its research students, keeping in mind
+ the research strengths/expertise and supervisory capacity of staff members. Research
+ supervisory status is approved by the Research Degree Sub-Committee (RDSC), a sub-
+ committee of the Senate’s Research Committee.
+
+ Research students are based in a dedicated PGR laboratory space in the School, situated
+ alongside staff offices. They are required to attend the School’s Research Seminar series, and
+ also informal meetings where research-active staff encourage discussions and create an excellent
+ research ‘buzz’. All research students undertake a Research Skills programme as well as
+ interactive workshops, seminars and group activities, and participate in PGR skills and Poster
+ sessions. Meanwhile, School staff are also involved in delivering University-wide PGR sessions,
+ and a supervisor training programme has run since the University achieved RDAP in 2009.
+ Success in generating a productive atmosphere for research students is evidenced by the healthy
+ under-4-year completion rate for our cohorts.
+
+ Research students are supervised by teams, all of whom receive appropriate supervisor training
+ sessions (including: processes and procedures; how to supervise; examining a thesis; and LHU
+ doctoral regulations) and are allotted dedicated time for supervision. The team may (and
+ frequently does) include external people chosen for their specific expertise (e.g. a former Airbus
+ engineer on the HAPS project). Generic research training is provided centrally, and covers topics
+ such as research ethics, project planning, thesis writing, Viva examination, and presentation skills.
+ Specific training is provided at School level, e.g. attending appropriate MSc modules or external
+ courses and events, and is tailored to individuals, e.g. funding to attend a summer school on
+ Medical Imaging in Italy. Research students are encouraged to deliver papers at the first available
+ opportunity, taking advantage of ‘research student-friendly’ conferences and events where senior
+ researchers provide feedback and encouragement to students and new researchers. An example
+ is the dedicated special session for PhD students held at the Soft Computing for Problem Solving
+ Conference (SocProS). At SocProS-2017 an LHU student won a best paper award, and in 2019
+ the event itself was held at LHU.
+
+
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ PGRs’ progress is monitored annually through an Annual Monitoring Review process (AMR) that
+ includes a report by the supervision team, a review of the student's training record, and an
+ interview carried out by an Independent Chair and the Supervisory team. Progression is subject
+ to satisfactory performance in AMR and the approval of the RDSC. The School’s policy of
+ discouraging students from switching to part-time mode without good reason has resulted in
+ maintaining completions within 3–4 years. Structures for supporting our research students were
+ commended as areas of good practice by the 2016 School Review.
+
+ It is important to the UoA that we achieve our goals while both promoting and supporting equality,
+ diversity and inclusion (EDI) as only then will our efforts to give all colleagues the opportunity to
+ produce high-quality, impactful research have longevity. We take the view that a sustainable future
+ will only be achieved if these issues of equality, diversity and inclusion are at the forefront of our
+ thinking. In fact, awareness of EDI has informed all aspects of our practice from re-thinking new
+ research-informed curricula to recruiting, developing and managing colleagues and in how we
+ think about the membership of research groups and the academic committees supporting
+ research. In line with the University mission of establishing a collegium and a research community,
+ the UoA has taken clear steps in embedding a culture of openness, support and opportunity in
+ relation to EDI so that voices from protected groups are heard.
+
+ As with most similar departments/UoAs, the ratio of male-to-female academic staff and research
+ students remains disproportionately high. The School is working actively to address this issue as
+ part of the University’s EDI policy (e.g. recent appointments, after the census date, of Yaroson in
+ Logistics and Natsheh in Cybersecurity to strengthen research and provision in these areas). A
+ number of steps have been taken since REF2014 to address EDI, especially in relation to female
+ and senior staff members e.g. Ranasinghe has been appointed to the University Research
+ Committee. The UoA has led events at the annual BSW (in 2017 and 2018) focusing on the Role
+ of Women in Science and Society. The outcome is that we are making progress in addressing the
+ historic barriers to academic career progression for women. The School has always had an
+ international profile (with staff from 11 countries during the census period); currently 64% of its
+ staff have an international background.
+
+ The relatively modest size of the UoA makes it difficult for us to evidence a similar approach to
+ that used for gender with respect to other protected characteristics. Colleagues within the UoA
+ must complete appropriate training (e.g. Equality and Diversity, Mental Health Awareness) and
+ are encouraged to join EDI-related networks (e.g. LHU’s Women’s Network) and participate in
+ data capturing exercises (e.g. Stress Audit, Mental Health Survey) that help in improving our
+ approach to EDI issues. The UoA is, nevertheless, mindful of the need to be alert to complacency.
+ To ensure we work according to best practice, the UoA has an EDI lead (currently Anicho) who
+ has a formal responsibility for ensuring open dialogue (through provision of information and
+
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+ through a dedicated online newsletter facilitating the circulation of relevant research), monitoring
+ our practice and progress and reporting to committees on EDI issues.
+
+ 3. Income, infrastructure and facilities
+
+ The UoA supports research through a set of linked funding mechanisms including: direct allocation
+ of QR income from the University to the School; the workload-allocation allowing for ⅓ time-
+ allocation for Research and Scholarship for all staff; the development and maintenance of
+ research infrastructure and equipment; support for research-related activities (e.g. conference
+ attendance and other marginal costs); and bursaries for PGR students. While our grant income is
+ currently modest, the UoA also benefits from a reallocation of overhead/indirect income from grant
+ and other awards; ⅔ of all such income is returned to the School for discretionary spending on
+ supporting research.
+
+ As in the research strategy, increasing research income is a priority and important for maintaining
+ a vibrant research culture. Hence researchers are expected to apply for external funds within their
+ research plans and this forms part of the Performance Review process. All colleagues have
+ applied for grants during this review period and we have had some modest successes, which has
+ helped us to identify key areas of strength described in this statement, namely, mathematical
+ computing, and HAPS research. On the basis of applications in progress, we estimate a steady
+ state of at least £250k income per-year from 2021 composed e.g. of New Investigator Awards
+ (from Anicho and Dev), and KTP awards (Buckley jointly with his colleagues from AskEddi, and
+ Barclays). Given the age profile of our staff, this is sustainable subject to succession planning.
+ Strengthened support from the University includes significantly increased investment in the
+ School’s equipment and laboratory facilities and in digital library research resources, and
+ increased research support via the creation of a Central Research Support and Development
+ Office/Research Facilitator.
+
+ The UoA benefited from the University’s over £14 million investment (funded entirely from its own
+ resources without borrowing) in the expansion of its Science-based (including Sports Science)
+ facilities, which opened in 2016. The UoA utilises many of these state-of-the-art facilities, e.g. a
+ double-height robotics lab to aid the building and testing of drones (HAPS project). There is a
+ synergy of interdisciplinary collaborative research and knowledge-exchange between CS&I and
+ Sports colleagues relating to the use of AI in the field of sports rehabilitation – particularly
+ prosthetics and robotic-assisted technology, which is helping the University to engage with ‘The
+ Ageing Society’, a key challenge of its Industrial Strategy. Nagar’s PhD student has been using
+ the functional near-infrared spectroscopy (fNIRS) available in the Psychology Labs for work that
+ aims at computationally modelling memory-performance (joint work with the ICMR). Additionally,
+
+
+
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ the Unit has spent in excess of £80,000 per-annum on research equipment, the details of which
+ are outlined below.
+
+ In 2014, the School created the Vision research laboratory, a dedicated dark room used for
+ psychophysics studies. This dark room is used by Foulkes in his research on optic flow parsing in
+ the periphery, which has resulted in publications on Visual Perception (e.g. Perception, 2015).
+ Ongoing projects include investigating whether there is a bias in optical flow processing to those
+ who suffer from migraines.
+
+ The robotics laboratory is a 78m2 facility along with an adjacent electronic engineering
+ laboratory (60m2). Robotics research is significantly growing and there are extensive research
+ collaborations with institutions such as the Bristol Robotics Laboratory (BRL) and the Morph Lab
+ (Imperial College). The laboratory houses a range of equipment, including manufacturing
+ equipment (e.g. DWS XFAB2000 3D printer) and a wide range of robotics equipment, including:
+
+ •   A 7-degrees-of-freedom industrial-grade robotic arm (Xarm-7) having human-like flexibility,
+     and various SDK, ROS support, and access to multiple developmental platforms.
+ •   A Visuotactile sensor and a Low-cost GelSight-like Sensor developed in-house (Ranasinghe
+     and Abad) using a wide range of equipment and materials (e.g. WiFi endoscope camera,
+     cosmetic Silicone sponges, Shore A hardness meter). This GelSight sensor uses UV marking
+     that facilitates use as a high-resolution visuotactile sensor being used for texture recognition
+     and tactile forces analysis.
+ •   Ranasinghe developed a tactile actuator through the purchase of a variety of materials and
+     equipment, including Dot Braille Cells, and is further developing fingertip tactile displays for
+     haptic gloves that can be used in Virtual Reality applications and tele-robotic applications.
+ •   An eMotimo TB3 pan and tilt unit and Dynamic Perception Stage R motion control unit allowing
+     accurate positioning of a sound source under computer control was used in Robot Audition
+     research (Baxendale and Secco) in collaboration with BRL, and this equipment made it
+     possible to carry out a wide range of experiments underpinning research into automatic
+     calibration of sound source localisation using multiple adaptive filter models of the cerebellum.
+     This was also underpinned by investment in MatLab toolboxes (site-licence). In 2019 a 48-
+     node SpiNNaker machine was purchased which is being used to investigate a neuromorphic
+     approach to this research. The same system, along with Miro-e robots, facilitates related
+     research into brain-based robotics, again in collaboration with BRL (and by association,
+     indirectly with the Human Brain Project).
+ •   A set of wearable and biomedical sensors, such as transducers for monitoring physiological
+     parameters, body temperature, breathing rate, were used to design a portable platform and
+     was presented to the international scientific community (Secco and Maereg). Fibre optics and
+     optical amplifiers were used to develop a bio-mimetic finger which was embedded within the
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+    design of a robotic finger (Secco and Maereg). A Virtual Reality (VR) headset, such as Oculus
+    Rift was combined with vibrotactile actuators and marker-less motion capture system (Leap
+    Motion) to design a wearable haptic system integrated with VR environmental exploration
+    (Secco and Maereg). Robotic devices, such as the Open Bionic Robotic hand was employed
+    to develop novel graphical user interfaces for robotic and prosthetic applications (Secco). Brain
+    Computer Interfaces such as the Emotiv Helmet Headset were used to explore the possibility
+    of controlling prosthetics through EEG signals (Secco and Ranasinghe). Other robotic systems
+    include an Aldebaran Nao, Summit XL rover robot and PadBot P3 Telepresence Robot.
+
+ Our acquisition of equipment for spatial computing research includes a VICON marker-based
+ motion capture system, MarvelMind navigation system, Leap Motion cameras, Oculus Quests,
+ Windows MR headsets, HTC Vive headsets, Hololens 1 & 2 devices, Meta AR headset, Daqri AR
+ headset, Pico Neo Eye VR eye tracking headset, Fove VR eye tracking headset, XTAL Ultra wide
+ FOV VR headset, PiMax Ultra wide FOV headset, ZapBox AR adapters, Ps3 eye cameras, Intel
+ Realsense D435 cameras, Tobi eye tracker, StereoLabs ZED mini AR camera, Shockwave VR
+ Haptic Suit and full body tracker, Novint Falcon, MicroDrives Development Haptics Kit. This is a
+ key area of research in the School, which has also been commissioned by the University to
+ develop a new Simulation Lab for Research and Teaching. This lab has the potential to bring
+ disciplines together including across STEM and arts, humanities and social sciences (e.g. Social
+ Scientist working with Computer Scientist to simulate the needs of a blind person; a geographer
+ to simulate a remote field trip, etc.) for experiential and immersive learning.
+
+ The HAPS research is an ambitious project that the Unit will continue to develop as one of its
+ niche areas. The Unit is part of the HAPS Alliance (hapsalliance.org) – only the second UK
+ University to be so. The research utilises equipment and accessories in developing unmanned
+ aerial systems and related hardware/software. These equipment and accessories, which range
+ from Taranis remote controls (mode 2 transmitters/receivers) to carbon fibre materials and V2
+ LiPO chargers, were procured for designing low-cost solar-powered Low Altitude Platforms (LAPs)
+ for experimental/test purposes. The purpose of the HAPS research is to develop competencies
+ around solar-powered, fixed-wing unmanned aerial vehicles (UAV) in order to investigate
+ challenges implementing such vehicles for Stratospheric missions. In addition to the acquisition of
+ UAV parts and accessories, the School has also invested in training/engaging unmanned aerial
+ pilots who are essential resources for carrying out simulations and experiments involving
+ unmanned aerial vehicles. The HAPS team has developed an in-house simulator and has
+ established a partnership with Avealto Plc and the CTO to explore practical/commercial
+ applications of this simulator.
+
+
+
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+ 4. Collaboration and contribution to the research base, economy and society
+
+ All academics have evidence of invited/plenary lectures, membership of journal editorial boards,
+ peer-review work, and national/international research collaborations. An illustrative (and far from
+ exhaustive) list of particularly notable contributions and esteem indicators are summarised below
+ (all data pertain to the assessment period).
+
+ The vitality of the research environment is demonstrated by the number of international academic
+ visitors. The UoA runs an active seminar series that invites eminent, high-profile researchers from
+ around the around the world to describe their ground-breaking work to an audience of School-
+ wide students and academics. Over the assessment period this has attracted a range of external
+ speakers including international experts in the research areas for which the School is well-known.
+ Some recent visitors include Professors Willy A. Hereman, (Colorado School of Mines, USA);
+ Ashok Deshpande (University of California Berkeley, USA) and Drs Xia (Senior Research Scientist
+ at Ericsson USA), Timofeeva (University of Warwick), Konstantinou-Rizos (Yaroslavl Demidov
+ State University, Russia), Kokkinaki (Aristotle University of Thessaloniki, Greece), and Bansal
+ (South Asian University, India), to list a few.
+
+ Visiting/Adjunct Professors are appointed as mentors, to support joint-publications and
+ bids as well as supervising PGRs. These have included: Professors Konar (leading researcher
+ in AI and Robotics); Giblin (OBE) (leading Mathematician with expertise in Singularity theory and
+ its applications to geometry and computer vision, computer graphics); Subramanian (leading
+ Theoretical Computer Scientist; expert in P-System); Deep (expert in Natural Computing); Thomas
+ (Grammatical Inference); Arumugam (leading Graph Theorist); and Taylor (leading expert in
+ Industrial Electronics). These visiting colleagues although not part of this REF submission hold
+ fractional (0.11)/honorary contracts and work in close collaboration with the team.
+
+ The School has been engaging with Nuffield Trust-funded Sixth-Form students (an average 2
+ per-annum) who reside in the School gaining research and HE experience; and with other
+ European Institutions, such as the École Nationale Supérieure d'Informatique pour l'Industrie et
+ l'Entreprise, ENSIIE (Evry, France), the Institut National des Sciences Appliquées, INSA (Rouen,
+ France), the Haute École HELMo (Liège, Belgium). Reid took ‘Hope Bus with computers on-board’
+ to local schools for the week of ‘UK hour of Code’ programme. As part of BSW we celebrate a
+ dedicated School Research Day, which reflects a broader commitment to the public understanding
+ of science; and colleagues inform pupils from local schools and colleges, together with other
+ members of the general public, about our facilities and research findings. During every BSW we
+ offer a programme of talks from colleagues, PGRs and external speakers, e.g. in 2016 Dr Nikolay
+ Andreev (Steklov Institute of Mathematics, Russia) delivered a talk on popular maths highlighting
+ the applications and benefits of the discipline in the real-world.
+
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+ International links and networks: Formal research collaboration agreements are in effect with
+ various institutions e.g. the Yaroslavl Demidov State University; Madras Christian College; Christ
+ University in Bangalore; IITs; and SAU. There is also active collaboration with researchers from
+ Christian Medical College in Vellore (India), Jadavpur University, the University of Madras, the
+ Work Design Innovation Group at IBM (USA); De La Salle University in the Philippines (under the
+ auspices of British Council TNE funding); Bristol Robotics Laboratory (since 2014, resulting in
+ ongoing research into brain-based robotics); the University of Hamburg; and the universities of
+ Moratuwa and Sri Jayewardanepura in Sri Lanka.
+
+ Nagar was invited (December 2013–February 2014) by the Government of India, fully funded by
+ the Department of Science and Technology (DST), for a three-month sabbatical to deliver
+ staff-development sessions and PGR training at IIT Roorkee including a three-week course on
+ Membrane Computing plus a series of three specialist lectures on his expertise in Complementary
+ Bivariational Principles and their applications. The visit helped to develop new collaborations
+ between the Indian institutions (e.g. Jadavpur University and SAU) and the School.
+
+ Awards and honours: Mc Auley was awarded ‘model of the month’ by the European
+ Bioinformatics institute, Cambridge, October 2013 for ‘A whole-body mathematical model of
+ cholesterol metabolism and its age-associated dysregulation’. Ranasinghe won the Franklin
+ Taylor Memorial Award for the best paper at IEEE SMC 2013. Nagar won the best paper award
+ in Fuzz-IEEE 2017.
+
+  Staff             Participation in review, advisory, funding and policy bodies:
+  Nagar; Naguib;    Reviewers for UAE National Research Foundation (Emirates).
+  Foulkes; Reid;
+  Baxendale
+  Naguib            FP7 “Virtual Physiological Human and Personal Health Systems”, 2014-
+                    2017; Horizon 2020 “AI for Health Imaging”, 2019-2020; CORONAVIRUS-
+                    2020-2B “Medical Technologies, Digital tools and AI Analytics to Improve
+                    Surveillance and Care at High Technology Readiness Levels”, 2020.
+  Foulkes           Member, Parliamentary and Scientific Committee (May 2020).
+  Nagar             AHRC Technical Peer-Review College (served two terms).
+                    Expert Reviewer for EPSRC, UKIERI-DST;
+  Naguib,           Expert Reviewer for the UAE Ministry of Education Collaborative Research
+  Baxendale         Programme Grant on ‘Engineering and Technology’ and ‘Medical and
+                    Health Sciences’
+  Nagar; Naguib;    Qatar Research Foundation
+  Foulkes
+  Reeve             Expert Reviewer for Umm AlQura University (Saudi Arabia)
+
+                                                                                           Page 16
+Unit-level environment template (REF5b)
+
+ All members participate in peer-review activities for top-quality Journals, in many cases as
+ regular reviewers. Xenitidis was awarded ‘Outstanding Reviewer’ by Physica Scripta in 2018.
+ some further examples include:
+
+  Staff         Reviewer for Journals (some examples)
+  Foulkes       Journal of Vision; Journal of Physics; New Journal of Physics; Nature
+                Communications; Perception.
+  Reeve         Journal of Mechanics in Medicine and Biology; Computational and
+                Mathematical Methods in Medicine
+  Naguib,       IEEE Access
+  Nagar
+  Secco,        IEEE Transactions: on Biomedical Engineering; on Neural Networks and
+  Nagar         Learning Systems; IEEE Robotics and Automation Letters;
+  Secco         International Journal of Product Development.
+  Xenitidis     Physica D; Journal of Physics A: Mathematical and Theoretical; Physics
+                Letters A; Applied Mathematics Letters; Symmetries, Integrability and
+                Geometry: Methods and Applications; Proceedings of Royal Society A.
+  Ranasinghe    IEEE Transactions: on SMC; on Haptics.
+  Reid          Neurocomputing; PloS One; IEEE Sensors.
+  Garron        Physical Review D.
+  Nagar         IEEE Transactions on Fuzzy Systems; IEEE Transactions on Emerging Topics
+                in Computational Intelligence; Mathematical Reviews; Chaos, Solitons &
+                Fractals.
+
+
+  Staff        Keynote (K) address / invited (I) talks / Other (O)
+  Naguib       K: Annual IEEE International Conference on Humanoid, Nanotechnology,
+               Information Technology, Communication and Control, Environment, and
+               Management, Manila, Philippines; 6th International Conference on
+               Developments in eSystems Engineering, December 2013 (UAE); IEEE
+               International Conference on Advances in Science and Engineering Technology
+               (ASET 2020), Dubai.
+  Anicho       I: Invited HAPS presentation and Panel Discussion Membership, Spectrum
+               Management Conference 2019, organised by the CTO.
+  Xenitidis    I: Workshop on Hamiltonian Methods and Algebraic Structures for Integrable
+               Systems (2016, 2019), Sanya, China, International Congress on Industrial and
+               Applied Mathematics 2019, Valencia, Spain;
+
+
+
+
+                                                                                         Page 17
+Unit-level environment template (REF5b)
+                K: International Webinar Series on Recent Advancements in Discrete
+                Mathematics June 2020, Stella Maris College (India).
+  Reid          O: Radio 4 broadcast (Four Thought) on the Ethics of AI (2018);
+                K: On AI and Ethics at International Festival of Business (2016); Why AI should
+                be on the School Curriculum), Anfield Stadium (2019).
+  Ranasinghe K: in ICSISCET-2020 at MITS (Gwalior, India);
+  Nagar         K: SocProS-2014 (India); the Kaleidoscope of Computation in Biology
+                organised by the Sam Higginbottom Institute of Agriculture, Technology and
+                Sciences (India); International Conference on Recent Advances in Mathematics
+                and their Applications (ICRAMTA-2016), University of Rajasthan (India).
+
+
+  Staff         Journal Editorial role: Editor-in-Chief (EiC); Guest Editor (GE); Reviewer
+                Editor (RE): Editorial Board Member (EBM); Topic Editor (TE)
+  Naguib        EBM: International Journal of Networking and Virtual Organisations;
+  Xenitidis     TE: Symmetry
+  Ranasinghe RE: Frontiers
+                GE: Frontiers in Virtual Reality
+  Nagar         EiC: Springer’s Algorithms for Intelligent Systems (AIS) - jointly started by:
+                Bansal, Deep, Nagar; ISSN: 2524-7565;
+                EiC: International Journal of Artificial Intelligence and Soft Computing;
+                Inderscience (IJAISC);
+                EBM: Journal of Universal Computer Science.
+                EBM: Ganita Sandesh (Indian Mathematics Journal).
+                GE: Innovations in Systems and Software Engineering, Springer (a NASA
+                Journal).
+                GE: Swarm and Evolutionary Computation.
+                GE: International Journal of System Assurance Engineering and Management.
+
+ Editors of International conference Proceedings: Nagar: Springer’s Advances in Intelligent and
+ Soft Computing published proceedings of the International Conference on Soft Computing for
+ Problem Solving (SocProS) series (December 2013-present); Naguib: Associate Editor for
+ Healthcare Information Systems and Telemedicine, IEEE-EMBS International Annual Conference,
+ Chicago, USA (2014); and Healthcare Systems, Pacific Asia Conference on Information Systems,
+ Chiayi, Taiwan; Secco: Guest Editor of Special Issue on Green Radio Networks, Sensors, MDPI
+ (2020); Associate Editor for IEEE/RSJ International Conference on Intelligent Robots and Systems
+ (2018-present); and International Conference on Robotics and Automation (Secco, 2019-present).
+
+
+
+
+                                                                                             Page 18
+Unit-level environment template (REF5b)
+ Six International, high-profile conferences and symposia were organised or hosted by the
+ School; all staff acted as chairpersons of several conferences and workshops, and members of
+ the organising committees. Nagar started, with support from colleagues in India, the Soft
+ Computing for Problem Solving international conference series (SocProS); and the 9th version
+ (SocProS-2019) took place at LHU. LHU co-hosted the SIAM-IMA Student Chapter's inaugural
+ ECR Conference in 2019.
+
+ Adjunct/Visiting Professor: Nagar: IIT Roorkee, Madras, South Asian, and Jadavpur
+ Universities (India); Naguib: De La Salle University (Philippine); Dai Nam University (Vietnam).
+
+     Staff     External PhD Examiners
+     Naguib    Hull (2014, 2016); Coventry (2017); Deakin (2018); De La Salle University,
+               Philippines (various since 2014).
+     Xenitidis UCL (2018); Essex (2020).
+     Garron    Clermont-Ferrand (2018).
+     Nagar     Bangor (2017); Brunel (2019); Leicester (2019); Indian institutions such as Banaras
+               Hindu University, Universities of Madras and Gujarat, IIITMs, IITs; IISc Bangalore.
+
+ Knowledge transfer, collaboration and contribution to industry, economy and society are
+ an important part of our research activities. The University’s educational philosophy is based
+ on the quest for Truth, Beauty and Goodness. Within this distinctive context the School has a
+ strong reputation for engaging with industries on a local, national, and international level, with
+ outreach activities and direct engagement with a wide cross-section of the public and a wide and
+ diverse network of collaborations with other institutions (academic, industrial, and public sector)
+ across the UK, Europe and the World. The UoA has many formal and informal collaborative links
+ with other academic institutions such as Randox (Balfast), Sensorcity (Liverpool), Royal
+ Liverpool Broadgreen University Hospitals NHS Trust (eHealth project), amongst others
+ described earlier in this statement.
+
+ It is critically important to note that we are not simply providing ‘Computer Science, Mathematics,
+ and Engineering’ input to other projects, but we are a primary partner, pushing forward the
+ boundaries into other disciplines and re-shaping the international research agenda in the light of
+ new inter-disciplinary synergies; some examples include:
+
+ •     Nagar’s work with ICMR and Christian Medical College Vellore on Electrophysiological
+       studies on Acetylcholine-Dopamine interaction on memory and learning; and Automatic
+       leukocyte nucleus segmentation by intuitionistic fuzzy divergence;
+ •     Secco’s work on VR applications combined with Haptics (with Facebook);
+
+
+
+
+                                                                                             Page 19
+Unit-level environment template (REF5b)
+ •   Secco has also collaborated with world-leading research centres in bionics/prosthetics; he has
+     been investigating and designing a multiple-sensor capture system for human-hand motion
+     analysis; looking at novel human-robot interface development for prosthetics;
+ •   Ranasinghe investigated Ambient Assistive Living (AAL); Wearable-Sensors, Robotic
+     Rehabilitation, and VR for the simulation of Human-Robot Interaction; jointly with Secco,
+     investigating architecture of humans’ perception in haptic-based communication;
+ •   Anicho and Nagar are developing HAPS solutions for telemedicine and broadband for rural
+     areas (with Avealto);
+ •   Garron’s HPC work with Nvidia and CERN;
+ •   Buckley has been developing an InnovateUK KTP proposal with AskEddi on Open-Data
+     Project (to benchmark of multiple datasets, humanise data, and use the nudge principles to
+     deliver predictive-analytics for the education industry);
+ •   Buckley’s work on Secret-Sharing and Visual-Cryptography with Tento Plc. is an example of
+     successful translation of research into practice.
+
+ One of our PGR students was offered a fully paid ($9000/month) internship for 6-months with
+ Oculus in the USA demonstrating the calibre and quality of students we recruit. Another doctoral
+ students was employed by IBM in California on a Future-workspaces/VR project which was related
+ to his PhD; this student is now a senior scientist at Google Cloud AI and Industry Solutions.
+
+ Nagar is a member of the Jisc research strategy forum (since December 2018). Nagar,
+ Xenitidis, and Foulkes are Fellows of the Institute of Mathematics and its Applications (FIMA).
+ Nagar has been serving as an adviser to develop Bethlehem University’s Science and
+ Engineering Research and helped Stella Maris College (Chennai) develop their Research in
+ Data Science provision; Nagar also served as an adviser for Banasthali University (India) for
+ development of their Research; and as a consultant produced software and reports (in
+ Hindi/Sanskrit language) on ‘Applications of Machine Learning for Defence Industry’ for the
+ Defence Research and Development Organisation (DRDO) India. Nagar actively contributes,
+ as a life-member, to the Indian Mathematical Society: Ganita Parishad.
+
+ Jointly with VIT Bhopal University (India), a patent has been filed (June 2020; Nagar et al.) for
+ a USB data-blocker that camouflages the OS information of the host-machine, preventing malware
+ attacks. The MoU with the CTO (February 2020); and membership of the HAPS-Alliance will
+ facilitate cooperation for HAPS project development, research and training.
+
+
+
+
+                                                                                            Page 20
+

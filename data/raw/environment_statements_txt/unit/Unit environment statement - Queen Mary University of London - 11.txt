@@ -1,0 +1,1462 @@
+Unit-level environment template (REF5b)
+
+
+ Institution: Queen Mary University of London
+
+ Unit of Assessment: 11 Computer Science
+
+ 1. Unit context and structure, research and impact strategy
+1.1 Unit context and structure: The 68.8 FTE staff in UoA11 are from the School of Electronic
+Engineering and Computer Science (EECS), which was formed in 2008 through merger of the CS
+and EE departments. EECS is run as a single administrative entity with no distinction between the
+two pre-existing departments. Our vision is that research in the discipline speaks to both fundamental
+science and the engineering of large-scale technological systems, and that linking these activities in
+the same academic unit benefits both, though they remain reportable separately at REF (UoA11 and
+UoA12) and by HESA (cost centres 119 and 121).
+
+UoA11, like UoA12, has had great success delivering the REF2014 strategy to make QMUL the
+premier institution for engineering, material and computer science research. The UoA11 REF2021
+submission consists of all units of Computer Science and two additional EECS groups; the Centre
+for Digital Music (C4DM) and Multimedia & Vision (MMV), which include computer science
+oriented research under the umbrella of digital economy. This has been driven by expanding
+expertise in the five groups submitted to Computer Science in REF2014 (Networks, Theory, Risk
+Information Management, Cognitive Science, and Computer Vision). This submission also
+includes two new groups (Game AI and the Operational Research Lab, Communications
+Systems).
+
+1.2 Key UoA11 achievements in REF2021
+    • An increase of UoA11’s REF submitted staff headcount from 55 to 75.
+    • Growth in annual PGR recruitment by 31% from 51 in 2013/14, and growth in PhD awards
+       by 41% from 29 in 2013/14.
+    • Current PGR population/staff FTE = 3.68 (Russell Group 90th Percentile for 2018/19 =3.03).
+    • Growth in PGR training provision: EPSRC CDT in Media and Arts Technology renewed in
+       2013/14 and 2019; two new EPSRC CDTs AIM, and IGGI (joint with York); a share in
+       Wellcome Trust DTP; a QMUL/BBC funded CDT (DAME).
+    • An active grant portfolio of £37.2m (89 grants; £541k/FTE).
+    • Coordination of four EU projects (€12.2m), plus two ERC grants (£3.2m).
+    • Major UKRI grants include FAST-IMPACt (£5.2m); PAMBAYESIAN (£1.5m); EARL (£2m).
+    • Published 3,042 Scholarly Outputs (SciVal) = 44.2/FTE (@9/7/20)
+    • Consultations with 24 different companies and founding/co-founding 13 new start-up
+       companies.
+    • 18 staff are Alan Turing Institute Fellows.
+
+1.3 Strategy
+1.3.1 Research strategy: Interdisciplinary research remains a key strategy and the spread of
+collaborators has been considerably enhanced (§4.1). Staff appointments have been used to grow,
+strengthen and deepen existing areas of research excellence or support the development of new
+research opportunities, exemplified by the creation of the new research groups (18 new academics
+§2.1) and the strengthening of all existing UoA11 groups with new academics (Table 2.1).
+
+We have recognised the growing importance of AI and this is now a core thread that runs through
+much of our research, with the creation of the GAME-AI group and with all other research groups
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+
+
+embracing AI. This was aided by a major investment (2019/20) in 10 new academic staff in AI and
+Data Science, with appointments across research groups. This strategy aligns with the UK-
+Government Industrial Strategy White Paper (2017), the Royal Society and the RAEng (Hall &
+Pesenti's) review that recommended more PhD places in AI/Machine Learning.
+
+We have continued to enhance research in the Creative Industries sector (C4DM, COGSCI), which
+is the UK’s fastest growing sector. Bazalgette's ‘Independent Review of the Creative Industries’
+highlights the “importance of the music industry” as of "central importance to the UK's productivity
+and global success". Exemplifiers are the recent AIM, IGGI and DAME CDT awards and new staff
+recruitment (Table 2.1).
+
+This strategy is derived through the interplay between the EECS Senior Management Team (SMT),
+Research Group Heads (RGH) and Research Committee via the Head of School and the Director of
+Research, and aligns with the QM2030 Strategy [REF5a].
+
+Looking forward, our strategy for research growth, all of which cross group boundaries are focused
+on the following areas:
+    • Artificial Intelligence (all groups)
+    • Autonomous systems (CIS, MMV, CSR, GAME)
+    • Better modelling of human cognition (COGSCI, RIM, VISION, MMV, GAME)
+    • Beyond 5G Systems (CSR, NETWORKS)
+    • Creative Industries (GAME, C4DM, MMV, NETWORKS, CIS)
+    • Cyber-physical systems & robotics (COGSCI, C4DM)
+    • Data science (C4DM, NETWORKS, RIM)
+    • Digital Health (MMV, RIM, CIS, COGSCI)
+    • Multimodal environmental sensing (domestic, urban, natural, global) (CIS, C4DM)
+    • Quantum systems (computing etc.) (THEORY).
+
+We will increase industrial engagement through Innovate-UK, KTPs and KTAs and improve our
+commercialisation of research through a revised frame of reference for the Industrial Board and
+developing on-line events such as “Research Week 2020”, which attracted 285 attendees through
+10 themed webinars.
+
+1.3.2 Impact strategy: Impact, innovation and engagement are central to all UoA11 research
+activity. Operational support is provided at Faculty and School levels by Impact Managers and
+Faculty Impact Officers led by the Deputy Vice-Principal for Research and Innovation (position
+launched 2018). Research commercialisation is supported by Queen Mary Innovations Ltd (QMI).
+QMUL’s award winning Centre for Public Engagement (CPE) (§4.3) provides expertise and funding
+for relevant impact generation activities [REF5a].
+
+An Academic Impact Champion (Reiss) is responsible for identifying research with impact potential
+and realising impact via a range of institutional support routes. Impact excellence is integrated into
+staff induction, probation and annual appraisals, at all levels of seniority. Major impact activities are
+recognised annually at QMUL’s Engagement and Enterprise Awards. Since 2014 UoA11 staff have
+(§4.2):
+    • held consultancies with 24 different companies,
+    • founded/co-founded 13 new start-up companies, and
+    • had 16 awarded patents, plus 15 currently filed.
+
+
+                                                                                                 Page 2
+Unit-level environment template (REF5b)
+
+
+Eight Impact Case Studies were shortlisted for REF submission and each involves successful, high
+growth spin-out companies, including AIM-listed Actual Experience and LandR, an online music
+mixing service with over 2.8m users. They demonstrate measurable impact on:
+   • Policy (Causal Bayesian Reasoning, Actual Experience [UOA12]),
+   • Law (SeeQuestor, Causal Bayesian Reasoning),
+   • Societal behaviour (Psychology Online, Bela).
+
+All involve disruptive innovations (e.g. Monoidics, LandR, Dragonfly [§1.4.9]), building on high
+impact, transformative research. Additional research activities leading to spin-outs are listed in §4.2.
+Looking forward, we will exploit the full potential impact of our research by tracking impact
+opportunities and sharing best practices. Increasing collaboration across research groups, Schools
+and Faculties will enable high impact activities that would not otherwise be achieved (e.g., DTP
+Health Data in Practice with Blizard Institute; CDT DAME). Industrial collaboration will be enhanced
+by maintaining strong links through increasing KTPs, placements from CDTs, enhancing our
+Industrial Board (§4.2), plus spreading annual networking events to a wider audience, e.g. Faculty
+Industry-Research Engagement days. We have recently increased our links with Tech Industry (e.g.
+CDT IGGI), and have attracted nearly £1m in studentship donations.
+
+In September 2020 QMUL launched a £15m investment to create the Digital Environment Research
+Institute (DERI), supporting ambitions to maintain UK leadership in data science and AI [REF5a].
+DERI builds on globally recognised expertise at QMUL, fostering new collaborations across all
+Faculties and developing existing partnerships with key organisations including Barts NHS Trust and
+Turing Institute. Its Director (Slabaugh, Professor of Computer Vision and AI) joined EECS from
+Huawei Technologies R&D.
+
+QMUL was recently awarded University Enterprise Zone (UEZ) status (one of twelve in the UK) with
+£1.5m funding to enhance engagement and impact generation with innovative businesses within
+East London, with a focus on Medical Technologies and Digital Health innovation [REF5a].
+
+1.4 Research group summary and future strategy
+1.4.1 Centre for Digital Music
+
+ Academic Staff                                   12 (11.7 FTE)
+ Professor                                        Bryan-Kinns, Dixon, Reiss, Sandler (0.7)
+ Reader                                           McPherson
+ Senior Lecturer                                  Fazekas, Stockman, Barthet, Benetos
+ Lecturer                                         Phan, Saitis, Stowell
+ Fellowships                                      4 EPSRC/RAEng Fellowships, 3 Turing
+                                                  Fellows, one RS Wolfson Research Merit
+                                                  Award, one FREng
+ PGR Students                                     68
+ Number Scholarly Outputs (Scival)                614; 52.5/FTE
+
+C4DM is one of the world’s foremost multidisciplinary groups in the field of Music & Audio Research
+and the UK’s leading Digital Music research group. Research covers everything in digital music and
+audio: from analysis, understanding and retrieval, to delivery, synthesis, sound rendering, music
+interaction and digital musical instruments.
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+
+
+Major achievements: C4DM led the EPSRC Programme grant FAST-IMPACt, bringing together
+Nottingham University’s Mixed Reality Lab and Oxford University’s e-Research Centre, plus
+international advisors and collaborators from industry and academia.
+
+C4DM leads 3 full CDTs: MAT, renewed in 2013/14; AIM, new in 2019; and joint QMUL/BBC DAME
+(2020). It has an EU PhD ITN, ‘New Frontiers in Music Information Processing’.
+
+Bela has become a leading open-source hardware platform for creating interactive music systems
+[REF3]. Open-source contributions include: Sonic Visualiser, widely used in corporate and academic
+research, for music and audio analysis; Tony, for speech analysis; and Sonic Lineup for comparing
+multiple performances. Commercialisation includes several successful spinouts, from Landr [REF3]
+(valued >£25m) to Augmented Instruments Ltd (which seed-funded Bela via Kickstarter campaign)
+to the Warblr birdsong app.
+
+Future strategy: C4DM aspires to be the world’s best university research centre covering the widest
+diversity of topics in the science and technologies of Music and Audio. To achieve this C4DM will
+continue developing world-leading strengths in DSP, Semantic Web technology, and Music
+Informatics. It will expand research in Audio Engineering, Augmented Instruments and Music-Human
+Interaction. It will establish new themes, including:
+    • Data Science for Music, Audio and Bioacoustics
+    • AI for Music, including intelligent instruments
+    • Music Computational Creativity, including machine-assisted creativity
+    • Virtual and Computational Acoustics for immersive audio, instrument synthesis
+    • Performance Science: scientific techniques to better understand musical performance
+    • Multimodal Music and Audio Processing (with CIS).
+
+CDTs MAT and AIM will be a significant force for achieving these aims.
+
+For external partnerships C4DM will:
+   • Enhance interactions with the Turing Institute, co-creating its AI for Arts theme.
+   • Strategically partner with the BBC, and spread this across QMUL.
+   • Continue collaborating with other world-leading centres such as McGill, NYU, Polimi,
+       Georgia Tech, Barcelona and IRCAM.
+
+1.4.2 Cognitive Science
+
+ Academic Staff                             11 (9.2 FTE)
+ Professor                                  Curzon (0.9), Healey, Lappin (0.2), Liakata (0.8),
+                                            Poesio, Purver (0.5)
+ Senior Lecturer                            Ma (0.8), Pearce
+ Lecturer                                   Hough, Naeem, Zubiaga
+ Fellowships                                2 British Academy Fellows, 4 Turing Fellows, one
+                                            ERC Advanced Fellow
+ PGR Students                               38
+ Number Scholarly Outputs (Scival)          307; 33.4/FTE
+
+COGSCI is a multi-disciplinary group that studies human cognition, action and interaction on scales
+ranging from individual experience up to the languages, cultures and dynamics of whole societies.
+                                                                                            Page 4
+Unit-level environment template (REF5b)
+
+
+COGSCI combines empirical and computational methods and has critical mass in Human
+Interaction, Natural Language Processing, Outreach and Education, and Social Data Science.
+COGSCI is distinguished internationally by its focus on human-human interaction, understanding the
+computational mechanisms at the heart of human capacities such as creativity and musical
+appreciation and its outreach work.
+
+Major achievements: COGSCI leads Computer Science for Fun (cs4fn) and world-leading public
+engagement work, including the multi-award winning Clapping Music app (>350k downloads) and
+the 2020 IEEE Computer Society Taylor L. Booth Education Award. COGSCI has a wide track record
+of funding from AHRC, EPSRC, ERC, ESRC, MRC, Wellcome. Recent major grants include:
+    • EMBEDDIA (£3m, H2020)
+    • Health Data in Practice (£5.5m, Wellcome DTP - led by the School of Medicine and Dentistry
+        (SMD))
+
+COGSCI led a ‘Topics in Cognitive Science’ special issue on ‘Miscommunication’ in 2018, which was
+selected as one of thirteen ‘Visions of Cognitive Science’ to mark the 40thanniversary of the Cognitive
+Science Society. COGSCI regularly hosts international meetings including 2017’s 7thJoint Action
+Meeting (JAM), 23rd Semantics and 2019’s Pragmatics of Dialogue Meeting.
+
+Future strategy: COGSCI provides major opportunities for social and economic impact, especially
+in healthcare where good communication is essential for diagnosis and treatment. This directly
+addresses major UK policy priorities including the 2019 Topol Review, the NHS long-term plan, and
+UKRI health and ICT research priorities. COGSCI is building on its high impact novel healthcare
+technologies through new partnerships with Barts Health NHS and the Turing Institute’s Health
+Programme. COGSCI promotes gender balance in CS and EE through its world-leading outreach
+work §4.3, teacher training initiatives (e.g. CPD network ‘Teaching London Computing’) and advice
+to government.
+
+1.4.3 Communication Systems Research
+
+ Academic Staff                                  7 (6.2 FTE)
+ Professor                                       Nallanathan, Yang (0.2)
+ Senior Lecturer                                 Bodanese, Elkashlan
+ Lecturer                                        Jaber, Liu, Pan
+ PGR Students                                    29
+ Number Scholarly Outputs (Scival)               670; 108/FTE
+
+CSR spans the areas of wireless communications and statistical signal processing, with emphasis
+on communication theory, information theory, optimisation, machine learning and random graph
+theory. CSR is internationally renowned for its contributions towards: 5G Networks; Internet of Things
+(IoT); Bio-inspired Molecular Communications; and technologies developed to address practical
+issues concerning multi‐gigabit wireless for mobile backhaul, energy efficient ultra‐dense small cells,
+low latency wireless cloud access, self-organizing unmanned aerial vehicles (UAV) and massive IoT
+networks. CSR also specializes in the Internet of Nano Things, enabling connectivity between nano-
+devices and bridging the gap between bio-signal processing and nano-precision healthcare.
+
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+
+
+Major achievements: CSR was founded in 2017 and has grown to ten academic staff. Recent
+projects include:
+    • M3NETs: signal processing for massive machine-to-machine networks.
+    • SENSE: full-duplex dense networks in scalable service provisioning.
+    • MiMiWaveS: high speed millimetre wave communications for 5G.
+    • SWIFT: energy harvesting for wireless powered communications.
+    • MMIMO: massive MIMO enabled heterogeneous networks.
+
+These projects link the group with UK and US governments and industrial partners (BT, InterDigital,
+NPL, Huawei, Thales). Research outputs include >100 IEEE journal papers and 60 top conference
+papers (CSR members receiving best paper awards in IEEE GLOBECOM’2017 and IEEE VTC’2018,
+with Nallanathan named a AI2000 Internet of Things Most Influential Scholar in 2020).
+
+Future strategy: 5G and beyond networks are considered a global game changer from
+technological, economic, societal and environmental perspectives with very aggressive performance
+levels in terms of latency, energy efficiency, wireless broadband capacity, elasticity etc. CSR will
+tackle challenging research in reliable near-instant unlimited wireless connectivity, distributed
+computing, context-dependent wireless connectivity and artificial intelligence for serving the
+requirements of vertical applications. CSR aspires to be one of the top research groups for ‘beyond
+5G’ research.
+
+1.4.4 Game-AI
+
+ Academic Staff                                9 (8.2 FTE)
+ Professor                                     Colton (0.6), Cowling (0.6), Lucas
+ Senior Lecturer                               Woodward, Perez
+ Lecturer                                      Gow, Rauber, Rossi
+ Research Fellow                               Cook
+ Fellowships Held                              1 Turing Fellow
+ PGR Students                                  22
+ Number Scholarly Outputs (Scival)             282; 34.4/FTE
+
+GAME uses games as a test-bed for AI research, and as a creative industries application domain
+for advancing areas such as general game playing and computational creativity. It leads several
+areas of General Video Game AI research, including the GVGAI framework and high-performance
+statistical planning algorithms such as Rolling Horizon Evolution. Its work on automated game design
+(e.g. ANGELINA) and procedural content generation is world-leading and has led to spin-out apps
+such as WEVVA that introduced thousands of high-school students to code-free game design. It
+collaborates with games industry partners such as Unity Technologies and Spirit AI in the
+development of next-generation tools for game development (e.g. Danesh), and applies Game AI to
+real-world applications.
+
+Major achievements: Founded in 2017, GAME has grown to nine academic staff and more than 35
+people and is the leading academic Game AI group in the UK (by staff, publications, citations and
+best paper awards.) By applying advanced AI to real-world planning and optimisation problems
+GAME was awarded five DSTL-funded projects (variously joint with Warwick, Nottingham, ITU
+Copenhagen and an industry partner NSC). GAME’s genetic improvement software is used daily to
+                                                                                            Page 6
+Unit-level environment template (REF5b)
+
+
+fix bugs in mission-critical software. The Intelligent Games & Game Intelligence (IGGI) EPSRC CDT
+(£3m for UoA11) was renewed in 2019. The group organised and hosted the first IEEE Conference
+on Games in 2019, the largest academic conference in the world focussed on games and game AI
+with >400 delegates.
+
+Future strategy: The focus is on establishing QMUL as a world leader in the development and
+application of Game AI to complex decision making and game design tools, and to build on significant
+recent advances in learning world models and in efficient parameter tuning to increase the capability
+of AI agents to learn to play or design a range of games. GAME's statistical forward planning
+algorithms provide an inherently more explainable type of AI than pure deep-learning approaches
+and work on forward model learning will enable applications to more real-world problems. Lucas is
+taking a 1-year employment at Facebook (Dec 2020/21) to apply Game-AI to the Facebook platform.
+GAME will lead the way in providing next-generation tools that enhance the skills of both expert
+game developers and newcomers.
+
+1.4.5 Multimedia and Vision
+
+ Academic Staff                                 5 (4.3 FTE)
+ Professor                                      Izquierdo, Patras
+ Senior Lecturer                                Tzimiropoulos (0.3), Zhang
+ Lecturer                                       Hao
+ PGR Students                                   22
+ Number Scholarly Outputs (Scival)              260; 60.5/FTE
+
+MMV has made substantial contributions in several fields of multimedia signal processing (video
+compression, visual information retrieval, and video analytics for security applications). MMV enjoys
+research cooperation with key players from industry including Thales, BT, BBC, Huawei, United
+Technologies, Philips, Telefonica, STMicroelectronics, Alcatel-Lucent Bell and Disney Research,
+and key European research groups such as Fraunhofer/Germany and INRIA/France.
+
+Major achievements: MMV developed an improved fully scalable video encoder and made several
+contributions to MPEG standards. Related research was published in eight high impact IEEE
+transactions papers and led to £2m funding from the EU, DTI and EPSRC. It developed effective
+tools for content adaptation (up-sampling) and enhancement, and an improved, standard compliant,
+high efficiency video encoder/decoder system for UHD services (The Turing Codec). This codec
+exploits deep-learning technology, vastly outperforms state-of-the-art techniques, and has high
+commercial potential. MMV also made inroads in video analytics for security applications, utilising
+cooperation with Metropolitan Police and European police forces. MMV received over £3m funding
+in six cooperative projects to address critical security application. The group organised the
+prestigious IEEE Conferences Visual Communications and Image Processing (2017 and 2019), and
+organised/hosted the largest IEEE Conference Multimedia (2000), attracting >600 delegates.
+
+Future strategy: has three pillars:
+   • Turing Codec and the recently completed Cognitus system will be exploited to strengthen
+       cooperation with the BBC and potentially a joint research lab focused on future broadcasting
+       industry needs. The technology is showcased in BBC’s ‘blue room’, enabling deeper
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+
+
+       cooperation and strengthening the QMUL-BBC data science partnership.
+       (https://www.bbc.co.uk/rd/projects/cognitus).
+   •   Deepen research on video analytics for security applications exploiting acquired partnership
+       with police forces across Europe. Three large ongoing projects in the field will be used to
+       enhance MMV’s research and to attract additional funding.
+   •   Expanding ongoing work on histology image understanding for improved cancer treatment
+       with key medical schools such as Karolinska/Sweden, La Sapienza/Italy and QMUL-Barts.
+
+1.4.6 Networks
+
+ Academic Staff                                11 (11 FTE)
+ Professor                                     Uhlig
+ Reader                                        Philips
+ Senior Lecturer                               Mondragon-Ceballos, Poslad, Schormans,
+                                               Tyson
+ Lecturer                                      Antichi, Clegg, de Castro Arribas, Doyle,
+                                               Gill
+ Fellowships Held                              4 Turing Fellows
+ PGR Students                                  30
+ Number Scholarly Outputs (Scival)             346; 31.5/FTE
+
+Networks is active in key areas of networking including Internet measurements, quality of service,
+mobile communications, content delivery and network analysis. Networks has an international
+reputation for excellence; its work is regularly published in prestigious venues such as ACM
+SIGCOMM, IEEE INFOCOM, ACM IMC, ACM CoNEXT, WWW, IEEE ICNP, AAAI ICWSM and
+premier IEEE/ACM Transactions (e.g. ToN, TPDS, TC, ToMM). Networks has been leading
+evolution/development of the Big Data MSc, with significant investment in new staff for distributed
+systems and Cloud computing research.
+
+Major achievements: have been in the areas of data communications, Internet measurements, and
+Big Data. Major grants on Software-Defined-Networking (SDN) include:
+    • ENDEAVOUR (H2020 coordinator, €4.4m)
+    • EARL (EPSRC, £2m, with Cambridge University).
+
+Networks organised the premier conference in data communications, ACM SIGCOMM (2015), and
+ACM SIGCOMM Internet Measurement conference (2017). These activities have significantly raised
+the group’s International reputation, evidenced by Uhlig’s ACM SIGCOMM executive committee
+membership; Editor-in-chief of SIGCOMM CCR journal; steering committee Chair of the Passive and
+Active Measurements conference; TPC chair of IFIP Networking 2019 and IEEE ICNP 2019. The
+group leads a very successful MSc in Data Science (>100 students/yr).
+
+Future strategy: The group will establish itself as one of the world-leading groups in Internet
+measurements, and one of the top UK research groups in data networking. The strategy is to lead,
+building on recent successes, in areas such as SDN, Internet measurements, Cloud and Big Data.
+
+
+
+
+                                                                                           Page 8
+Unit-level environment template (REF5b)
+
+
+1.4.7 Risk and Information Management
+
+ Academic Staff                                   7 (6.5 FTE)
+ Professor                                        Fenton (0.7), Neil (0.8)
+ Senior Lecturer                                  Constantinou, Marsh, Roelleke, Smeraldi
+ Lecturer                                         Hsu
+ Fellowships Held                                 5 Turing Fellows
+ PGR Students                                     11
+ Number Scholarly Outputs (Scival)                161; 24.8/FTE
+
+RIM conducts interdisciplinary research on problems of decision-support under uncertainty in applied
+areas (health, law and forensics, transport safety, finance, and cybersecurity). It works with domain
+experts and uses methods from CS, statistics, machine learning, and psychology to solve challenges
+presented by scale, complexity and variability. RIM is world-leading in its development of causal
+modelling algorithms and applications (Bayesian networks), and its unique combination of data-
+centric methods with hypothesis-driven approaches in which the power of advanced computing and
+data analytics is combined with the insights of human expert judgements, especially with respect to
+causal factors. RIM has coined this the ‘smart-data’ approach.
+
+Major achievements: Major grants include:
+   • BAYES-KNOWLEDGE (ERC Advanced Grant, €1.7m)
+   • PAMBAYESIAN (EPSRC Digital Healthcare Technologies Project, £1.6m)
+   • Bayesian Artificial Intelligence for Decision Making under Uncertainty (EPSRC UKRI
+       Innovation Fellowship, £0.6m).
+
+Outputs from this research are exploited by Agena (directors Fenton/Neil), who have incorporated it
+into their widely used software platform [REF3]. RIM members have acted as expert witnesses in
+major criminal and civil trials, and invited to speak in the UK Parliament and the International Criminal
+Court in The Hague. Fenton led the six-month Isaac Newton Institute Cambridge Programme in 2016
+on Probability and Statistics in Forensics. Fenton and Neil’s book ‘Risk Assessment and Decision
+Analysis with Bayesian Networks’ has proven to be exceptionally important in decision science with
+752 Google Scholar citations (@2/12/2020). RIM’s extensive network of collaboration with clinicians
+and other medical experts has led to the ‘smart-data’ approach being evaluated and adopted in a
+range of areas such as trauma care, diabetes and rheumatoid arthritis.
+
+Future strategy: A quiet ‘causal revolution’ is taking place within the data science and empirical
+science community. Turing Award winner Judea Pearl’s message is that big data and machine
+learning’s algorithms can only learn ‘associations’ and hence are insufficient for true AI which
+requires learning of ‘interventions’ and ‘counterfactuals’ via causal models and expert knowledge.
+Essentially RIM’s ‘smart-data’ approach, this is beginning to resonate with researchers who
+previously assumed that Big Data alone could be sufficient. At the causal revolution forefront, RIM
+is unique in developing practical algorithms/methods that enable causal modelling to solve real-world
+risk and decision-making problems. RIM will apply these methods in critical applications where either
+expert judgement alone or data alone are used. It will continue working on law and forensics, and
+cybersecurity, especially focusing on medical decision-making, extending partnerships in large-scale
+projects and targeting a range of chronic conditions.
+
+                                                                                                 Page 9
+Unit-level environment template (REF5b)
+
+
+1.4.8 Theory Group
+
+ Academic Staff                                   8 (6.7 FTE)
+ Professor                                        Distefano (0.2), Malacaria, Robinson
+ Reader                                           Oliva, Riis
+ Senior Lecturer                                  Tzevelekos
+ Lecturer                                         Rezaei-Khouzani, Tautschnig (0.5)
+ Fellowships held                                 1 ERC starting grant
+ PGR Students                                     7
+ Number Scholarly Outputs (Scival)                120; 17.9/FTE
+
+THEORY is a world-leading centre for research on logical methods for reasoning about computer
+systems. Its work has spearheaded several developments – separation logic, logic for continuous
+systems, information theory for security, process types for web services, game semantics for
+programming languages – in which novel theoretical developments have been brought to bear in
+new application areas. Its Infer open-source software has enabled automatic verification of memory
+violations and is used by leading companies (including Amazon, Spotify, Uber, Mozilla) [REF3]. It
+has made fundamental contributions in pure logic (model theory, proof theory, categorical
+semantics), complexity theory and computational linguistics.
+
+Major achievements: the group’s work has won many test-of-time awards and major prizes
+including:
+    • POPL Most Influential Paper: 2019 Distefano, 2018 Kohei Honda
+    • ETAPS2019 Test of Time Award: Honda
+    • OOPSLA2018: Distefano
+    • LICS2018: Honda
+    • Alonzo Church Award for Outstanding Contributions to Logic and Computation (2017):
+        Malacaria
+    • Royal Academy of Engineering Silver Medal: Distefano.
+
+Alumni have received significant awards - O’Hearn (FRS, FREng), Martin (FREng, CBE). Theory
+has an ERC Starting Grant and is a partner in an EPSRC Programme Grant. It has successfully
+developed close contacts with industry, and some of its academics work part-time in industry to apply
+their research - Distefano (Facebook), Tautschnig (Amazon Web Services), Yorsh [2013-19] (Jane
+Street).
+
+Future strategy: To concentrate on areas where potential application helps motivate and guide
+top-quality foundational research. These include applications in cybersecurity, systems engineering,
+and the structure of social interaction. It will seek to maximise impact through its industry links (e.g.
+Facebook, IBM, Microsoft, BAE Systems and Google), and its involvement in both EPSRC/GCHQ
+research institutes in Cybersecurity. It will strengthen its wide-ranging research team, working on
+Logic, Combinatorics, Information Theory and Game Semantics, applying its research to solve
+crucial problems such as the quality and certification of software, and systems analysis.
+
+
+
+
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+
+
+1.4.9 Vision Group
+
+ Academic Staff                                   5 (5 FTE)
+ Professor                                        Cavallaro, Gong
+ Senior Lecturer                                  Hansard
+ Lecturer                                         Oh, Wang
+ Fellowships Held                                 2 Turing Fellows
+ PGR Students                                     23
+ Number Scholarly Outputs (Scival)                281; 56.4/FTE
+
+VISION is world-leading in work on person re-identification in multi-camera networks and
+internationally influential on zero-shot learning, domain transfer learning and deep learning for object
+recognition, sketch analysis, and multi-camera multi-object tracking. Internationally recognised
+research on object recognition with privacy by design, multi-modality intelligent sensing, and on
+visual saliency modelling, have been applied to vehicle and people detection, object tracking, crowd
+analysis, people search in public space CCTV, law enforcement agency video forensic analysis, and
+for commercial advertising.
+
+Major achievements: Research is funded by a range of grants from government to industry,
+including: EU, TSB, EPSRC, EPSRC-MOD CASE, Innovate UK, Royal Society Newton Advanced
+Fellowship, Turing Institute, as well as industry with FBK on Audio-Visual Sensing, OMRON on
+sketch retrieval for mobile, SeeQuestor Deep Learning for Video Analysis. The Dragonfly spin-out is
+an AI bio-inspired predictive visual analytics software solution enabling the analysis and identification
+of what will grab a human’s attention, with major clients in commercial advertising. VISION became
+the first Nvidia Deep Learning Supercomputer Research Site in Europe, with two Nvidia DGX1s
+deployed (2016), underpinning its deep learning research in computer vision.
+
+VISION’s person re-identification research won the 2019 Bruce Dickinson Entrepreneur of the Year
+Award, and the 2019 QMUL Innovation Award. The group’s Impact Case Study, built on its patents
+and software has:
+   • Won a Global Frost & Sullivan Award for Technical Innovation for Law Enforcement Video
+       Forensics Technology (2017).
+   • Won a 2017 Aerospace Defence Security Innovation Award for "revolutionary solution to
+       reviewing CCTV footage".
+   • Contributed to winning a major commercial contract on law enforcement post-event video
+       forensics and analysis deployed across > 40 UK police forces.
+
+Future strategy: Produce effective widely used computer vision and machine learning models for
+understanding and analysing perception, human actions and interactions from visual data, and multi-
+sensory and multi-source heterogeneous Big Data. Develop machine learning and deep neural
+networks for large-scale visual recognition problems, with increasing awareness to privacy concerns,
+distributed data and user data protection. Develop deep learning for multi-view scene analysis, visual
+sensor networks and visual recognition in distributed internet of things, and on industrial funding to
+develop existing work in human detection and interpretation of interactions.
+
+
+
+
+                                                                                                Page 11
+Unit-level environment template (REF5b)
+
+
+1.5 Research centres
+
+We have two formally constituted Research Centres offering cross-fertilisation across the wider
+QMUL community and industry.
+
+1.5.1 Centre for Intelligent Sensing (CIS) focuses on models to analyse streams of high-
+dimensional data from cameras, microphones, wearable sensors, smartphones, and robots that can
+sense their surroundings. The core disciplines of CIS are computer vision, machine listening, tactile
+sensing, and natural language processing. CIS applies AI and machine learning to interpret sensor
+data while accounting for user privacy.
+
+Major achievements: Leads the project CORSMAL (Collaborative object recognition, shared
+manipulation and learning), supported by the EU Future and Emerging Technologies (FET)
+programme through the CHIST-ERA co-operation of national research funding organisations. Leads
+the cross-Faculty initiative on sensing and privacy with the Schools of Law and Business and
+Management.
+
+The Erasmus Mundus Joint Doctoral Programme in Interactive Cognitive Environments is a
+collaboration with four leading European Universities. It led to a joint PhD degree with Genoa
+University (first of its kind in ICT). CIS collaborates with industry (Honeywell, Thales, CEA, and
+Aselsan) through the Marie Curie Industry-Academia Pathways and Partnerships project CENTAUR,
+and the Innovate UK/ARTEMIS project COPCAMS. The COPCAMS object tracker ranked first
+among online trackers in the international evaluation ‘Multiple Object Tracking Benchmark’
+(MOT2016). CIS contributes to the sensing tasks of the National Centre for Nuclear Robotics.
+
+Future strategy: Focusing on strengths in physical analytics through multiple modalities (visual,
+sound, touch, motion, text) using advanced machine learning methods, it will exploit the
+pervasiveness of sensors in everyday devices and mobile robots to enable personalised services.
+To maximise impact through industry links and involvement in international collaborative projects
+and continue organising specialist training and knowledge dissemination activities for PGR’s
+(including the annual Intelligent Sensing Summer School and commercialisation boot-camps).
+
+1.5.2 qMedia: Established in 2009 as a unified brand for our research in Audio, Music, Video, Media
+& Arts, Interaction Design and Cognitive Science, while providing a collaboration forum for cognate
+research in Humanities and Social Science (e.g. Film and Drama).
+
+Major achievements: Forged strong links with MPEG standardisation and has successfully
+published research into Ontologies as MPEG Standards. The qMedia Research Manager
+(Kudumakis) was Chair of the UK delegation to MPEG, appointed by the BSI. Recent activities
+include the Media Value Chain Ontology (MVCO, ISO/IEC 21000-19) which facilitates rights tracking
+for fair and transparent royalties payment. The Audio Value Chain Ontology (AVCO, ISO/IEC 21000-
+19/AMD1) extends MVCO to address issues arising from content re-use and sharing in the audio
+domain. Early in this REF period, qMedia was the brand used for our interactions in Digital
+Shoreditch, which was an annual festival (2010-15) for the Digital Creative and Tech industries in
+Shoreditch,          London,           attracting      up       to        14,000        attendees
+(https://en.wikipedia.org/wiki/Digital_Shoreditch).
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+
+
+Future strategy: To support the creation of a University Research Institute in Creative Industries
+and to continue promoting the international standardisation of QM research.
+
+ 2. People
+
+2.1 Staffing strategy
+Appointments are used to grow and strengthen existing areas of research excellence or support the
+development of new research opportunities. Since 2014, CS has established two new research
+groups:
+    • Game-AI (seven new academics): Led by Lucas (Prof. Artificial Intelligence) - see §1.4.5
+    • Communications Systems Research (five new academics + two existing): Led by
+       Nallanathan (Prof. Wireless Communications) - see §1.4.4
+
+In addition, we have strengthened all existing UoA11 research groups with new academics (Table
+2.1).
+
+   Group         New Staff                   Areas enhanced and expanded
+ C4DM               6       Linked data and ontologies; affective computing; Internet of
+                            Musical Things; haptics and interactional audio; immersive, AR
+                            ad VR audio; bioacoustics; musical acoustics and
+                            psychoacoustics; Digital Signal Processing; Machine and Deep
+                            Learning
+ COGSCI             6       Natural Language Processing and social sensing; natural
+                            interaction including verbal and non-verbal co-ordination; the
+                            strategic bridge to ARQ
+ MMV                1       2D and 3D face alignment, Neural networks and face
+                            alignment, Human pose estimation
+ NETWORKS           6       Software-defined Networking; Big Data; cloud computing;
+                            Green Computing: Networked architectures; Programmable
+                            dataplanes; Distributed computing; Network economics
+ RIM                1       Bayesian Artificial Intelligence for causal discovery; intelligent
+                            decision making under uncertainty
+ THEORY             2       Cybersecurity; model-checking
+ VISION             2       Self-supervised visual learning; Deep learning-based image
+                            restoration; Semi-supervised image segmentation; 3D
+                            image/video processing
+Table 2.1 Groups expanded by new staff
+
+Since 2014, CS has recruited 37 new academic staff (8 Professors; 5 Senior-Lecturers; 22 Lecturers;
+2 Research Fellows) (Table 2.2). During this period 20 academic staff left, of whom 13 have taken
+more senior posts in major UK or International Universities, four have taken senior industry posts,
+two have retired and one is deceased. We have in total 22 professional services staff with a primary
+role of research support within EECS.
+
+
+
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+
+
+ UOA11 STAFF                 REF2014 13/14 14/15 15/16 16/17 17/18 18/19 Jul-20
+
+              TOTAL FTE            30.5    56.3 57.75 61.45 58.95 61.25 65.35                68.8
+ INCREASE (from 13/14)                      0%      3%      9%      5%      9%     16%       22%
+Table 2.2 UoA11 academic staff FTE
+
+2.2 Staff development
+New academic staff benefit from start-up packages to ensure that research momentum is
+maintained, involving institutionally funded PhD studentship(s) and funding for key
+equipment/research costs. Staff new to academia are protected from significant administrative roles
+during the standard three-year probation period with reduced teaching load enabling focus on
+establishing research. A pro-active probation system ensures support to develop independent
+programmes of research, focusing on attracting external research funding and producing high-quality
+outputs. A senior academic acts as a mentor for teaching and research staff during probation, in
+addition to RGH mentoring.
+
+Research impact is supported at Institutional, Faculty and School levels (§1.3.2). Since 2014 several
+academics have been allowed reduced FTE in order to work with individual companies and or spin-
+outs (British Library, Agena, Facebook, Fujitsu Laboratories, NodeNs Medical and Amazon Web
+Services, plus two supported by RAEng schemes).
+
+A workload model equalises loads and achieves a balance between responsibilities, typically ring-
+fencing 50% for research activities, and noting special probationary requirements. A QMUL-wide
+annual appraisal process monitors progress and sets future aspirations. The appraiser is a senior
+colleague who discusses teaching, research plans, publications, research funding, impact, public
+engagement and professional development.
+
+All research groups run research seminar series. Over a typical year, our research groups run over
+160 external seminars. The ‘Distinguished Lecturer’ research seminar series present high-profile
+speakers, giving talks on subjects relevant to wide audiences. New academics present a summary
+of their research at School Meetings to aid collaboration.
+
+From 2018 a new promotion process supports applicants by requiring them to discuss applications
+with RGHs, appraisers or mentors before submission (plus access to the Director for Staff
+Development for additional advice). Late-draft applications are read by the School Promotions Panel
+(HoS, T&R Directors, RGHs), and a final edit plan prepared. Tables 2.3 and 2.4 summarise
+promotion statistics, showing 58% of 53 applications were successful.
+
+  Promotion to     2014   2015     2016     2017   2018          2019     2020       Total
+ Prof                                           2      2             1        1            6
+ Reader                2        2       1                                                  5
+ Senior lecturer       3        4       5       1      2              3        2          21
+ Total                 5        7       6       3      4              4        3          32
+Table 2.3. UoA11 academic staff promotions (@1/10/20)
+
+
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+
+
+       Number        2014 2015         2016    2017     2018             2019       2020     TOTAL
+ Applications           8          8       9        8       9                4          7         53
+ Successful             5          6       6        3       4                4          3         31
+ Successful          63%       75%      67%      38%     44%              100%       43%        58%
+Table 2.4. UoA11 academic staff promotions success rate
+
+Colleagues are also encouraged to take on senior university positions (e.g. Burke: Faculty Vice
+Principal 2015-2018; McOwan: Vice-Principal (Public Engagement and Student Enterprise) 2012-
+2018), and attend QMUL’s ‘High-Potential Leadership’ training programme.
+
+2.3 Support for Early Career Research staff
+QMUL holds the HR Excellence in Research Award awarded by the EU [REF5a]. The Vitae
+Concordat is fully supported through the Researcher Development (RD) team, part of the Queen
+Mary Academy [REF5a]. Researchers are represented in the Research Committee that convenes
+termly and is chaired by the Director of Research with membership by HoS, RGHs, Research
+Services Team (RST), two PGR’s and one PDRA representative.
+
+We have a strong PDRA community (table 2.5) with PDRA/REF-Academic-FTE at an average of
+1.18 over the REF period and 35% BAME for UOA11 in 2019/20. Support for PDRAs includes:
+   • Participation in the QMUL wide appraisal scheme
+   • Encouragement to apply for grants individually, or in collaboration with academics.
+   • Faculty selection processes for individual fellowships, with formal feedback and mentoring to
+       complete applications, including mock interview panels (8 UoA11 individual fellowships won
+       since 2014).
+   • QMUL Careers events support STEM researchers considering alternative careers options,
+       especially transition from academia into industry.
+
+ UoA11 PDRA Cohort             13/14 14/15 15/16 16/17 17/18 18/19 19/20
+ Total                             62    61    60    72    75    88    91
+ Female                          23%   23%   17%   18%   27%   25%   19%
+ BAME                            23%   21%   20%   22%   33%   33%   35%
+ PDRA/academic FTE               1.10  1.06  0.98  1.22  1.22  1.35  1.32
+Table 2.5. UoA11 PDRA cohort by year
+
+2.4 PGR recruitment, training and supervision
+2.4.1 Recruitment
+Recruitment follows QMUL’s Equal Opportunities policy and is monitored through our Athena Swan
+commitment. All posts are advertised and short-listing plus interview are undertaken by two
+academic staff. All interviewers are required to attend training in fair selection. The whole process is
+overseen and administered by the RST (6 full-time professional-services staff). Table 2.6 shows the
+source of PhD student funding.
+
+
+
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+
+
+ PGR FUNDING SOURCE                                                              FUNDED
+ International Scholarships, Bursaries, self-funded students                          37%
+ CDTs, namely MAT, AIM and IGGI plus Wellcome Trust DTP                               20%
+ Central QMUL funds                                                                   14%
+ School internal funds                                                                13%
+ Research grants                                                                       8%
+ EPSRC, Doctoral Training Account (DTP)                                                4%
+ BUPT Joint Programme                                                                  2%
+ Industrial Case                                                                       1%
+ DTP-Case                                                                              1%
+Table 2.6. UoA11 funding source for current PGR’s (@1/2/20)
+
+Our PGR recruitment over REF2021 has increased slightly above the increase in staff FTE (table
+2.7). PGR current population is shown in Table 2.7b showing the population/staff FTE is well above
+Russell Group benchmarking. The Schools gender/BAME profile is shown in figure 2.1, along with
+sector benchmark figures from HESA.
+
+ New PGR          2013/1 2014/1 2015/1 2016/1 2017/1 2018/1 2019/2 REF
+ enrolment (      4         5        6        7      8      9      0      TOTA
+ >12 months)                                                              L
+ UoA11                 51        48        56     51     61     66     67   400
+ PGR/Academi         0.90      0.83      0.91   0.87   1.00   1.01   0.97
+ c FTE
+Table 2.7a. PGR recruitment over REF period
+
+ UoA11 PGR POPULATION (@31/7/20)
+
+ Current Population                                                       253
+
+ Population/Staff FTE                                                     3.68
+
+ Russell Group 90th Percentile 2018/19 HESA Benchmark                     3.03
+
+Table 2.7b. PGR current population
+
+
+
+
+                                                                                         Page 16
+Unit-level environment template (REF5b)
+
+
+
+
+Figure 2.1. EECS PhD student gender/BAME profile as % of population
+
+2.4.2 Training and supervision
+PGR supervisors are responsible for academic progress and formal review meetings, along with a
+‘monitor’ checking progress independently of the two supervisors. Academic progress is assessed
+in four review points - months 3, 9, 22 and 36 - all based on a progress report, presentation, plus
+viva with supervisors and monitor. Formal feedback is given via the Doctoral College electronic
+record and the student may progress, resubmit, transfer to MPhil, or be de-registered. Students may
+appeal the decision through a formal QMUL mechanism. Following each review meeting, a one-to-
+one student/monitor meeting takes place, providing the student opportunity to comment, in
+confidence, on any supervision issues.
+
+All our PGRs are provided with a desk and computer, normally located in a mixed doctoral office,
+enabling interaction with colleagues researching in related areas outside of their supervisor’s
+immediate group. Research groups run regular seminars and reading groups while Centres and
+CDTs organise events such as summer schools. Students participate in the annual School Industry
+Day where external industrial partners and representatives from the IEEE and IET attend. Students
+are empowered to run other activities (e.g IEEE student branch, MAT student G-Hack and
+experimental concerts/performances).
+
+PhD students are encouraged to develop teaching skills through paid demonstrator roles working
+with undergraduates, for which they receive in-house training. Students are encouraged to present
+at conferences, for which funding is available via application to the QMUL’s Postgraduate Research
+fund (max £1k) as well as the School supported research group travel fund (£90k/yr), and DTP
+support.
+
+Table 2.9 shows the PhD timely submission rate improving over the REF period (most recent period
+affected by COVID19). Table 2.10 gives the number of PhDs awarded over the REF period, showing
+increasing number of awards per staff FTE.
+
+
+
+                                                                                          Page 17
+Unit-level environment template (REF5b)
+
+
+     UoA11 On-time        2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20
+       submission
+ Cohort joined            2009/10 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16
+ Students registered            45        43     43     45     49      45      49
+ after 13-months
+ PhD submission             60.0%     65.1%  74.4%  62.2%  69.4%   82.9%   80.0%
+ within 4yrs
+Table 2.9. PhD thesis submission rate
+
+ PhD Awards             2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20
+ UoA11 Total FTE           28.00  29.50   36.50   33.75   41.20   42.85   43.30
+ UoA11                      0.49   0.51    0.59    0.57    0.67    0.66    0.63
+ Total/academic FTE
+Table 2.10. PhDs awarded (HESA)
+
+2.4.3 Doctoral College support
+QMUL’s DC enhances the PGR experience by cultivating an innovative cross- and inter-disciplinary
+community of researchers [REF5a]. PGR training is overseen by the DC with electronic records of
+training/supervisor meetings maintained. All new PGRs undertake a series of induction/orientation
+activities, organised by DC, introducing the wide range of services available. Students develop
+training plans in conjunction with their supervisors and the DC runs a points-based training system,
+including courses on presentation, time-management, writing skills and enhancing employability.
+Based on the Vitae Researcher Development Framework, each training element is mapped onto
+one Vitae quadrant. The DC provides PhD supervision training that all academic staff must complete
+before supervising students, with ‘top-up’ every two-years.
+
+2.5 Equality, diversity and inclusion
+A revised equality, diversity and inclusion (EDI) governance structure implemented in 2019 spreads
+best practice across QMUL [REF5a]. The structure is supported by an EDI team and leads in all
+Schools. EDI is an item on all meeting agendas. QMUL promotes the Dignity at Work and EDI policy
+to all new staff.
+
+EECS holds an Athena Swan Bronze award. We have wheelchair access to all laboratories, teaching
+rooms and offices and QMUL has worked with DisabledGo for campus access. We have a long track
+record in outreach promoting EDI, working with national and regional bodies to support the uptake
+of the discipline by all, including the Faculty wide WISE initiative [REF5a]. This includes:
+    • Being a founding partner of the IoC, we are heavily involved with four of its five themes,
+        having provided a major contribution on diversity (analyses of current demographics and
+        using natural language processing research to produce analyses of across sector current
+        materials provided to students).
+    • Since 2018 IoC has secured approximately £1m in studentships for under-represented
+        groups (Female, BAME) for PhD, MSc and BSc supported by Google DeepMind, Tata
+        Consulting Services, and others.
+    • A key agenda for magazine/website cs4fn, which has won several national and international
+        awards (§4.3), for the last 15 years https://teachinglondoncomputing.org/celebrating-
+        diversity-in-computing/.
+
+
+
+                                                                                           Page 18
+Unit-level environment template (REF5b)
+
+
+   •   Hosting, over a weekend in 2019, an all-female Hackathon, tech industry careers fair, coding
+       workshops run by Makers, Cisco and Capgemini, and a day of inspirational talks from
+       Microsoft, JP Morgan, Lloyds, CodeFirst:Girls etc.
+
+The EECS managed Equalities Committee (ECO), has 18 representatives (8F:10M), from different
+grades/roles (12 academic, 3 PS, 2 PhDs) and individuals with experience of part-time working,
+flexible working and caring responsibilities. ECO’s team structure (Figure 2.2) has influenced School
+policy, including transparent workload allocation, core-hours policy, and parental leave provision
+which employs post-doctoral researcher to provide research continuity. During COVID19, ECO
+provided advice and support, including adapting the core-hours policy to enable carers to schedule
+work around family commitments. The co-chairs are ex-officio members of SMT, and report to the
+Faculty EDI Committee and University Gender Equality Self-Assessment Team. The priorities of
+ECO are to:
+    • Monitor and implement the Athena Swan Action Plan.
+    • Identify, implement and monitor new activities that promote equality and the progression of
+         women at all career stages.
+    • Explore ways of embedding EDI into School and University culture.
+    • Leading on Athena-Swan applications.
+
+These actions showcase our strong commitment to creating a diverse and inclusive working
+environment, which helps attract more women and retain and support those already here. EECS
+currently have 129 academic staff (19% female, 33% BAME) and 44 professional services staff (77%
+female, 27% BAME).
+
+
+
+
+Figure 2.2 ECO team structure
+
+Our academic recruitment processes ensure women and BAME candidates are encouraged to apply
+and that the selection process is both fair and welcoming. There is a requirement of a gender balance
+on all recruitment panels, with external panel members appointed if needed with all panel members
+having appropriate training (‘Recruitment and Fair Selection’ & ‘Unconscious Bias’).
+
+Nationally, CS and engineering and technology fields show the largest gender imbalances, from
+current students, to graduates and the workforce figures. Since 2014 (Table 2.11), we lost seven
+female staff (two Professors to other institutions, three to more senior posts in UK academia, one to
+industry, one transferring to the Teaching and Scholarship post), and only hired two (one Professor,
+one lecturer). In 2019, we launched an action plan to address this issue including:
+    • Actively help women in CS to transition from PhD to PDRA to Fellow to academic.
+    • Proactively encourage female applicants to apply to specific posts.
+    • Encouraging applications at fractional FTE to all posts.
+    • Academic recruitment panels open to different research citation profiles for male/female
+        candidates.
+                                                                                            Page 19
+Unit-level environment template (REF5b)
+
+
+   UoA11 academic         2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20
+  staff gender/BAME
+ Staff                         55        59    60      63      68      70      75
+ Female                      18%       15%   17%     14%     13%     11%      8%
+ BAME                        25%       24%   23%     22%     22%     23%     25%
+Table 2.11. Staff gender/BAME profile.
+
+ 3. Income, infrastructure and facilities
+
+3.1 Income
+All Mainstream QR income is distributed to the School and directly supports the research
+environment. Strategic grant applications (eg. Fellowships, large grants) and DTPs are supported
+by significant institutional matched-funding and incentivisation (e.g. internal funding of associated
+PGRs; distribution of grant overheads to match-fund major equipment). Table 3.1 shows a steady
+research income across the REF period, with the drop in 2019/20 attributed to COVID19. Table 3.2
+shows the current active grant portfolio of £37.2m, with 64% of this portfolio being UKRI funded and
+with 21% EU as second largest funder.
+
+ Research spend £k      2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20
+ UoA11                   £7,148  £6,677  £7,134  £6,457  £7,171  £8,055  £7,126
+ UoA11 FTE                  56.5    57.8    61.5    59.0    61.3    65.4    68.8
+ Spend/academic            £127    £116    £116    £109    £117    £123    £104
+ FTE
+ EECS=HESA cost          £8,960  £8,430  £8,725  £7,777  £8,933 £10,637  £9,949
+ centres 119+121
+Table 3.1. Research spend (£k)
+
+ Active grants 31/7/20      UoA11
+ Research Councils       £23,816,754
+ EU                       £7,944,369
+ UK Government            £2,324,441
+ Charity                  £1,062,254
+ Industry                   £864,824
+ Alan Turing Institute      £809,073
+ Other Overseas             £424,266
+ Total                   £37,245,981
+ Grant Count                       89
+Table 3.2. UoA11 current active grant portfolio by funder
+
+Major grants (>£1.0m) active since 2014 include:
+   • RCUK CDT MAT, renewed in 2013/14 with EPSRC/AHRC funding of £3.7m (Bryan-Kinns).
+       Key impact: presented at 49 international conferences; 10 journal publications; six book
+       chapters; two best-paper and best-team (Hackathon) awards; exhibited by invitation at world-
+       renowned Ars Electronica Festival (2018-2020); nine invited talks; appeared in 23
+       newspaper/media articles; several PhDs had spun-out companies. Led to 14 follow-on
+       grants and 25 new collaborations were facilitated through student placements.
+
+
+                                                                                            Page 20
+Unit-level environment template (REF5b)
+
+
+   •   RCUK CDT AIM, value £6.24m (Dixon, 2019). Key impact: through academic publications,
+       software toolkits, commercialisation and standardisation activities, artistic engagement,
+       industry integration and academic collaboration. ‘In kind’ industry support valued at £3.1m
+       and direct funding at £1.5m.
+   •   RCUK CDT IGGI-2, value £2.8m (Lucas, 2019; York University (lead) and QMUL). Key
+       impact: All 60 IGGI 1 (2014-2018) students have industry placements with companies
+       including AI Factory, Bossa Studios, Creative Assembly, Sony Entertainment, Microsoft
+       Research, Ninja Theory and Google. The first cohort graduated with 100% tech industry
+       employment (e.g. Bossa, Prowler.io) and academia (two lectureships). We hosted the 2019
+       IEEE Conference on Games, and are launching a Computer Games MSc for 2021 with
+       industry backing.
+   •   EPSRC grant ‘PAMBAYESIAN’, £1.5m. (Fenton, 2017). Key impact: 48 publications
+       (including Best Student Paper at the 2020 IEEE ICHE Conference); several new
+       collaborations with clinical groups outside original consortium (cardiology, pelvic floor
+       conditions, cancer). Currently in discussions with two medical devices companies to
+       incorporate the technology. Awarded £50K pump priming grant to incorporate the technology
+       into a health tech company platform that monitors rheumatoid arthritis patients for NHS
+       Trusts.
+   •   EPSRC grant ‘EARL’, value £2m (Uhlig, 2017). Key impact: Turing Institute Partnership
+       Project ‘LIME’, value £87K; EPSRC New Investigator Award, ‘NEAT’, value £392K.
+   •   ERC grant ‘BAYES-KNOWLEDGE’, £1.2m. (Fenton, 2014). Key impact: 37 publications,
+       eight awards, 56 dissemination events; decision-makers in health, law, forensics,
+       environment are using the results and tools from the project; new international
+       collaborations/grants (including Newton Institute grant involving most of the world’s leading
+       forensic and legal argumentation experts); EPSRC project PAMBAYESIAN.
+   •   ERC grant ‘DALI’, £2m. (Poesio, 2016). Key impact: novel probabilistic aggregation
+       methods; biggest crowdsourced corpus for coreference in NLP; 20 publications; several new
+       international collaborations; and establishment of several successful workshop series, in
+       particular ‘Games and NLP’.
+   •   Wellcome Trust DTP ‘Health Data in Practice’, Value £5.5m (Dezateux (Blizard Institute,
+       QMUL) with Healey (COGSCI) as one of three co-investigators, 2019). Key impact:
+       Developing a clear understanding of how health data is generated and used for AI, forming
+       vital new strategic links between SMD and CS.
+   •   US DoD grant to Centre for Trauma Sciences, Value £1m (Marsh (RIM), Col; Nigel Tai
+       (QMUL Trauma Sciences Centre), 2019). Key Impact: Clinical Decision Support tools that
+       clinicians use to treat wounded soldiers on the battlefield. AI decision support is continuation
+       of a long-term collaboration between RIM and SMD.
+
+Major EU projects led by CS staff since 2014 are:
+   • ENDEAVOUR (Uhlig, €922k QMUL (Coordinator), total €3.3m). Key impact: Led to EPSRC
+       grant ‘EARL’.
+   • ConCreTe (Wiggins, €517k QMUL (Coordinator), total €2.5m). Key impact: 114 peer-
+       reviewed publications advancing computational creativity, and concept construction; 40
+       dissemination events.
+   • Lrn2Cre8 (Wiggins, €627k QMUL (Coordinator), total €2.5m). Key impact: 85 refereed
+       publications advancing computational musical creativity; led to EU Launchpad grant, I2Cre8.
+   • MIP-Frontiers, Marie Skłodowska-Curie Innovative Training Network (Dixon, €0.82m QMUL
+       (Coordinator), total €3.9m). Key impact: H2020 consortium (4 academic and 3 non-academic
+       beneficiaries, plus 9 Partners) is training 15 university/industry based PhDs (2018-22); 32
+       publications.
+
+
+
+
+                                                                                              Page 21
+Unit-level environment template (REF5b)
+
+
+Faculty-wide initiatives have been established since 2014 to support enhancement in research
+funding including:
+   • Research support fund: a structured approach to provide institutional support for large and
+       strategic funding bids (researchers can request institutional support equivalent to 40% of
+       residual overhead on a grant to be invested in equipment, PhD studentships etc.)
+   • Research enabling fund: from 2016/17 Faculty introduced this Fund, where research grant
+       PIs receive 10% of their research overheads returned to support pump-priming/ preliminary-
+       studies that enhance the likelihood of future successful grant applications.
+   • Coaching and mentoring (mock interview panels, etc.) to support ERC grants, Fellowships,
+       Programme grants, etc.
+
+Specific financial support for impact in the Faculty is via STFC/EPSRC Impact Acceleration Accounts
+(IAA) (~£260k p.a.) to exploit our research base (§4.2) with a focus on:
+    • An Innovation Fund (with additional support from HEIF) supporting the translation of research
+        for economic or social impact.
+    • An Accelerator Programme to create high-value spin-out companies based on EPSRC
+        research.
+    • Funding to match to Global Challenges Research funding.
+
+UoA11 use of these amounts is at £382k since 1/1/14.
+
+3.2 Infrastructure and facilities
+Since 2014 QMUL has invested £185m in capital infrastructure [REF5a], which includes major
+investment in research infrastructure, including refurbishment of the Engineering Building. UoA11
+occupies space in three buildings on the Mile End Campus: Peter Landin Building; Informatics
+Teaching Laboratory; Engineering Building.
+
+The REF2021 period has seen very significant investment in research infrastructure and facilities.
+Over £32m has been invested in a programme of refurbishment of the Engineering Building to
+provide the highest quality research/teaching environment. New/enhanced research laboratories
+and workshops that support UoA11 include:
+   • A multi-functional media experimental lab supporting two separate Kinect capturing sessions
+       in parallel, eye tracker work area, space for using virtual reality headset, TV wall.
+   • New 4th floor for the north engineering building, providing academic and PhD space for
+       C4DM (361 sqm).
+   • New 3rd floor for the north engineering building, providing electronics teaching/research
+       laboratory (384 sqm).
+   • New research mechanical workshop combining previous separate workshops into one new
+       space (190sqm) plus investment of £150k in new machine tools.
+   • New Empire House building (Whitechapel) housing DERI, including all the expanding GAME
+       and part of the RIM Groups.
+
+Within UoA11 there has been significant investment in new equipment/facilities, involving external
+funding and/or institutional investment. This includes the QMUL Strategic Facilities Investment Fund
+which aims to support major new strategic facilities development with a focus on providing matched
+funding to leverage significant external funding. Significant investment includes:
+   • Materials Processing Laboratory for CDT MAT programme: EPSRC-funded equipment
+       includes 3D printers, laser cutters, digital embroidery, 2D materials printing (£314k).
+   • £430k for the CIS laboratory including sensors, robotic arm and quadcoptors.
+   • Nvidia DGX-1 deep learning supercomputer (2016), centred around the VISION group, this
+       is specifically designed for deep learning and big data analysis. Several other computer
+       clusters for big data have been installed.
+                                                                                           Page 22
+Unit-level environment template (REF5b)
+
+
+   •   Hadoop Cluster: for big data research, £80K, installed 2014.
+   •   Deep learning individual compute nodes: (Nvidia) 20 nodes installed 2015/16, £160k.
+   •   Cisco VIRL virtual internet routing lab: NETWORKS, £10k.
+   •   £200k for C4DM labs/studios and computing equipment.
+   •   £450k COGSCI new office/lab space.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+4.1 Supporting collaborations
+Our interdisciplinary collaboration and engagement within academia, Industry and government
+spans the spectrum from within QMUL through national and international collaboration. This
+includes a large spread of collaborators:
+    • Biologists: forensics and security (MMV); using machine learning to decode animal
+       vocalisations (C4DM), analysing animal behaviour by video (MMV).
+    • Clinicians & Medical Researchers: Image analysis (MMV); decisions in trauma/chronic
+       medicine (RIM); tools for assessing quality of life (COGSCI).
+    • Defence Analysts: better real-world decisions, better military training games (GAME,
+       THEORY); improved decision-making for intelligence agents (RIM).
+    • Ecologists and Climate Scientists: understanding climate change effects on natural
+       ecosystems (COGSCI, Networks); detecting solar panel installations (C4DM).
+    • Economists: Game Theory and Decision Theory applied to Economics (GAME).
+    • Educational researchers and practitioners: developing more effective approaches to
+       school level education (COGSCI).
+    • Financiers: compiler work optimising speed of financial systems (THEORY).
+    • Historians/Museum Curators: exploring the History of Computing, public
+       engagement (COGSCI).
+    • Human rights activists / organisations (UNHCR): language processing methods applied
+       to human rights work (COGSCI); improved risk assessment and project planning for major
+       agricultural projects in underdeveloped countries (RIM).
+    • Lawyers: evidential reasoning (RIM).
+    • Librarians: cataloguing sound and music collections (C4DM).
+    • Linguists: computational models of complex linguistic phenomena; predicting patient
+       adherence to treatment from dialogue; predicting clinical diagnosis and outcomes from
+       patient interaction (COGSCI).
+    • Mathematicians: applying ideas from Logic and Proof Theory to mathematical proofs
+       (THEORY); understanding the effects of climate change on natural ecosystems (COGSCI &
+       NETWORKS)).
+    • Musicians and Composers: deeper understanding of the creative process and of the
+       sensorimotor skill of playing instruments (C4DM).
+    • Neuroscientists: understanding brain mechanisms of auditory perception, for interplay
+       between language and vision, representation of emotions (COGSCI, C4DM).
+    • Psychologists: causal reasoning and decision-making under uncertainty (RIM); developing
+       models of attention (COGSCI).
+
+We employ a wide range of mechanisms to support and encourage collaboration:
+
+4.1.1 Bringing researchers together
+At International conferences UoA11 staff have, since 2014 been general chair/co-chairs at 54 events,
+given 109 invited plenary talks, and received 42 best-paper awards.
+
+
+
+
+                                                                                           Page 23
+Unit-level environment template (REF5b)
+
+
+Collaboration is supported through formal groupings such as:
+    • Turing Institute: In 2018 QMUL became one of eight new University members of TI. Of the
+       46 QMUL TI Fellows, 18 are from UoA11 attracting research funding jointly with the TI.
+       QMUL’s TI membership led to the creation of the Institute for Applied Data Science (IADS),
+       a cross-disciplinary Institute which is the public interface to Turing, managing projects,
+       Fellowship applications, seminars (several each month) and an annual conference. Our
+       fellows have been prominent in IADS and TI events, leading to multiple new interdisciplinary
+       research activities, e.g. TI funded KNIFE (Knowledge Discovery from Health Use Data, 2019,
+       £100k).
+    • Research Cooperation with BUPT: We have a major teaching Joint Programme (JP) with
+       Beijing University of Posts & Telecommunications (BUPT), with approximately 2,700
+       students. This has led to stronger research links including establishing a new ‘Smart
+       Communication’ joint laboratory (2018). International workshops have been JP-organised
+       e.g. Emerging Advances for 5G Networks and Beyond: Concepts, Technologies and
+       Applications (2017); and a Russell Group UK-China Workshop on Intelligent Transportation
+       Systems for Smarter Urban Mobility (2016).
+    • CDT MAT: Has been a major catalyst for collaboration, with PhD students having (lead/joint)
+       supervisors across all research groups, as well as in the wider QMUL community (including
+       SMD, Biology, Drama). Major impacts are described in §3.1. New collaborations facilitated
+       through the student placements bring new industry and academic partnerships leading to
+       further collaborations and exchanges. MAT has established collaborations with over 25
+       institutions including BBC, Georgia Tech (USA), Hunan Uni (China), McGill University
+       (Canada), CreativeWorks London, The Barbican, London College of Fashion, Manchester
+       School of Art, Yamaha. The CDT also led to a collaborative Masters with Hunan University
+       (China), the first design-tech masters between China/UK.
+    • CDT IGGI-1 and IGGI-2: IGGI-1 (2014) was a collaboration between York University (lead),
+       Essex University, and Goldsmiths. The Essex part of IGGI-1 moved to QMUL with Lucas and
+       Perez in 2017, later joined by Goldsmiths IGGI-1 investigators Colton and Gow. York (lead)
+       and QMUL now form IGGI-2 (2019) with an even split of students. IGGI is having a
+       transformational effect on the games industry, with each phase funding more than 60 PhD
+       students. All IGGI students have industry placements (minimum 3-months), ranging from
+       indie games studios to tech giants. Major impacts from IGGI have been described in §3.1,
+       and it has encouraged many international collaborations, resulting in papers published at
+       leading Game/AI venues.
+    • CDT AIM: This 2019/20 CDT will produce world-class researchers who combine state-of-the-
+       art ability in artificial intelligence, machine learning and signal processing with cross-
+       disciplinary sensibility to deliver ground-breaking original research and impact within the UK
+       Creative Industries and cultural sector. Partners comprise key players in the music industry
+       (e.g. Abbey Road Studios, Apple, Deezer, Spotify, Steinberg, Universal Music), covering
+       recording, distribution, electronic instruments and music software; plus a range of innovative
+       start-ups (e.g. HyVibe, Sensing Feeling, Chordify, Le Sound) covering hardware and
+       software for mainstream, alternative and experimental music. Partners contribute to AIM by:
+       funding or co-funding students; providing training courses and seminars; internships to
+       individual students; co-supervising students; and providing student project resources.
+    • CDT in Data Centric Engineering: This £1.6m award forms part of the UKRI Doctoral
+       Mobility Pilot (Co-investigators Bryan-Kinns & Sandler). Recruiting its first cohort in 2020/1,
+       the project will expand the number of scientists/engineers with data-science and engineering
+       research, facilitating students to apply such methods in the industrial settings of partners
+       including IBM, BT and the BBC.
+    • CDT DAME: This 2020/21 CDT in ‘Data-informed Audience-centric Media Engineering’,
+       jointly funded by QMUL and the BBC, will produce world-class researchers in technologies
+       that support future products and services in online media.
+    • MIP-Frontiers: QMUL led Marie Skłodowska-Curie Innovative Training Network of 4
+       academic and 3 non-academic beneficiaries, plus 9 Partners is training 15 researchers in a
+       range of university-based and industry-based PhDs (2018-22).
+                                                                                              Page 24
+Unit-level environment template (REF5b)
+
+
+   •   CIS: see §1.5.1.
+   •   qMedia: see §1.5.2.
+
+4.1.2 Support for collaboration
+During REF2021, UoA11 activity supports:
+    • Incoming international visitors: 46 visits (average stay 6-months) from Assistant
+       Professor/Lecturer and upwards, and 22 visits (average stay 9-months) from
+       Postdocs/Fellows for periods in excess of five-days have taken place during this REF period.
+    • Staff Honorary Visiting Academic posts: Staff hold 26 visiting academic posts abroad, with
+       15 as Visiting Professor (8 Europe & Middle East, 18 Asia).
+    • PhD students to travel and present at international conferences via a £90k/yr budget plus
+       Doctoral College administered central funds.
+    • Staff to hold 15 collaborative UKRI grants (with QMUL value >£100k) creating 23
+       collaborations spread over 20 institutions.
+    • National & International Collaborations: Defining a significant collaboration as one leading to
+       a peer-reviewed co-authored journal/conference paper and/or funded research project,
+       UoA11 has 320 independent international collaborations (Table 4.1), and 143 independent
+       UK university collaborations with 50 institutions including 21 Russell Group members.
+
+ Americas Europe           Asia       Other          Total
+          54          157         86            23           320
+Table 4.1. Number of independent UoA11 international collaborations.
+
+4.2 Industrial collaborations and impact
+Our Impact strategy (§1.3.2) has yielded 8 Impact Case Studies prepared for REF2021 submission.
+These Impact Case Studies represent only the tip of the iceberg. UoA11 research activities have led
+to 13 new spin-outs (table 4.2), and seven staff continued with spin-outs created before 2014.
+
+ Company name                Staff member
+ Tonz                        Benetos/Reiss
+ Chorograph                  Clegg
+ Imaginative Al              Colton
+ Dithen Ltd                  Doyle
+ SeeQuestor Ltd              Gong
+ Dragonfly                   McOwan
+                             (deceased)
+ TouchKey Instruments        McPherson
+ Augmented Instruments       McPherson
+ Cahtterbox Lbs              Purver
+ Fxive                       Reiss
+ Teragence                   Schormans
+ Warblr                      Stowell
+ Acygn Ltd                   Tzevelkos
+ Easy Advanced Systems       Woodward
+Table 4.2. UoA11 spin-outs created since 2014
+
+Examples of major societal impact [REF3]:
+   • Fenton's guidelines (based on RIM’s Bayesian Decision support research) for lawyers and
+      forensic scientists, led to the decision by the International Criminal Court in The Hague to
+                                                                                            Page 25
+Unit-level environment template (REF5b)
+
+
+       train all their judges and lawyers in the use of Bayesian methods to efficiently process pre-
+       trial evidence.
+   •   COGSCI's communication training programme for clinicians treating psychosis has been
+       used by 12 NHS Trusts across the UK and 43 international institutions. COGSCI's natural
+       language processing methods are applied in a commercial online CBT service (NHS
+       available) treating approximately 1m patents in UK and USA.
+
+QMUL supports new impact through a variety of internal funding means, including EPSRC Impact
+Acceleration Accounts (IAA) [REF5a]. The IAA Flexible Innovation Starter Fund (£5k) allows
+exploration of ideas with major impact potential, the IAA Large Grants (up to £50k) are awarded to
+enable high profile Impact activities arising from research. Proof of Concept funds (up to £50k),
+awarded by QMI, get research outcomes into shape for investment and full commercialisation. QMI
+launched the QMUL Enterprise Investment Fund, providing early-stage seed capital to academic
+and student spin-out enterprise. QMUL offers free legal/business advice to tech start-ups and new
+entrepreneurs through qLegal, and for financial issues qNomics, provided by the schools of Law
+and        Economics.      Notably,      the     2019      Entrepreneurial       Impact       Ranking
+(https://octopusventures.com/entrepreneurial-impact-ranking-2019/) ranked QMUL 4th in the UK
+for its production of spinout companies, and successful exits, relative to the total funding received.
+A significant proportion of this success relates to spin-out activities arising from our research.
+Tables 4.3 and 4.4 list the patents and commercial agreements activity for UoA11 staff, the revenue
+generated in FY 2019/20 was £143.5k.
+
+ Group         Awarded Filed
+ C4DM                  8      2
+ COGSCI                       1
+ CSR                          3
+ MMV                   1      3
+ NETWORKS              2
+ THEORY                1      2
+ VISION                4      4
+ Total                16     15
+Table 4.3. Summary of Patents undertaken since 2014
+
+ UOA11 Assignment Collaboration/ Evaluation License Option Tech                      Total
+                        Option          License                           Evaluation
+ Total               3              1              7         26        8           1   46
+Table 4.4. Commercial agreements undertaken with industry since 2014 (QMI)
+
+UoA11 staff have consulting activities with 24 companies, including Intel, Yamaha Motors, British
+Telecom, Care Quality Commission. Three UoA11 staff have taken extended industrial secondment
+(see table 4.5), and Lucas (GAME) will join Facebook from December 2020 for 1-year.
+
+ Name          Group Secondment FTE and period Company
+ Distefano     Theory                0.8 FTE since 2013          Facebook
+ Fenton            RIM                  0.3 FTE 2014-16          Agena Ltd
+ Tautsching Theory                   0.8 FTE since 2015 Amazon Web Services
+Table 4.5. Staff taking industrial secondment
+
+Our Industrial Board meets twice-yearly, having 23 industrial members taken from the wide range of
+industries relevant to research/teaching. Board meetings coincide with research open-days, where
+                                                                                              Page 26
+Unit-level environment template (REF5b)
+
+
+research groups share their research through posters/demos given by PDRAs and PhDs. From
+2020 the Board has been an enabler for showcasing Industry/Academia events offering both large
+scale meetings (QMUL/Cambridge Wireless Conference, Covid delayed Jan2021) to industry
+themed webinars (§1.3.1).
+
+4.3 Public engagement of research
+COGSCI’s 2017 book ‘Power of Computational Thinking’ (Curzon & McOwan) has been translated
+into Chinese, German and Russian, with a 2nd Edition in press. COGSCI takes a lead role in the
+development of government policy: Curzon was appointed to the National Centre for Computing
+Education’s Academic Board (one of six members); and advises Royal Society working group on AI
+and Outreach. QMUL’s Centre for Public Engagement (CPE), founded by McOwan (COGSCI), was
+the first institution to achieve the gold standard for public engagement [REF5a]. Significantly
+influencing that award was COGSCI’s cs4fn activity which has engaged school students and
+teachers in the UK and worldwide, with CS research topics for 15-years (twice yearly magazine,
+20,000 print copies/issue, >100k downloaded to over 80 countries). Other cs4fn-related awards
+include the premier ‘Richard Garriott Award for Leadership in Public Engagement’ (2018) and the
+IEEE Taylor L. Booth Education Award medal (2020) for computer science education (Curzon).
+
+Other significant activities:
+   • Hosting the public engagement website http://probabilityandlaw.blogspot.com (Fenton/Neil)
+   • Running annual Computer Science Royal Institution masterclass for the past five years. For
+       13-14 year-olds from local schools (cohort: 25-30).
+   • Children’s Christmas Lecture series (with IET local network), engages local community
+       promoting STEM in schools. Speakers present in the style of the RI Christmas Lecture.
+   • COGSCI are active in running a UK-wide CS education research network.
+   • Fenton co-presented the multiple award-winning (table 4.6) BBC documentary “Climate
+       Change by Numbers”.
+
+4.4 Open research and data management
+UoA11 fully supports QMUL’s Open Access policy, and in addition to the centralised facilities for
+publications, we use, on a group-by-group basis, various facilities such as GitHub and OSF, to make
+our research code and data available. Exemplifiers of this are: H2020:EMBEDDIA, 57 repositories
+via GitHub, industry-facing software tools released under open-source license and via Docker for
+ease of uptake; GAME won the AIIDE2019 conference best artefact award for its Pommerman
+framework; C4DM http://isophonics.org.
+
+Looking forward open access to our research code and data will increase in-line with the subject
+trends, were already some leading conferences/journals require code release or strongly encourage
+it for reproduction and comparative evaluation.
+
+4.5 Significant leadership roles and staff esteem
+Since 2014 UoA11 staff have:
+    • Provided funding body leadership roles as: EPSRC review college (27); EU (1); Royal
+       Society (2); RAEng (3); IEEE (2); Non-UK national funding bodies (10).
+    • Provided journal editorial roles as: Editor (12, of which 5 IEEE), Associate Editor (36, of
+       which 14 IEEE); guest editor (27, of which 4 IEEE); editorial board member (17).
+    • Acted as chair/co-chair for 54 international conferences, of which 13 are IEEE conferences.
+    • Been made Turing Fellows (18).
+    • Been elected FREng (Sandler).
+
+
+                                                                                          Page 27
+Unit-level environment template (REF5b)
+
+
+Specific leadership roles include:
+Cavallaro: Leads joint PhD programme in interactive and cognitive environments, with University of
+Genoa (since 2010); Chair of: Image, Video, and Multidimensional Signal Processing Technical
+Committee; IEEE Signal Processing Society (since 2020).
+Curzon: Provided a leading role in computing education, collaborating with DfE, BBC, Royal Society,
+Greater London Assembly, Computing at School Working Group, Norwegian Parliamentary Working
+Group, Danish ministry of education. Leads on cs4fn.
+Dixon: Coordinator of EU H2020 Innovative Training Network: MIP-Frontiers (2018-22); President
+International Society for Music Information Retrieval (2014/15).
+Fenton: Major contributor to Turing Institute submission to House of Lords Science & Technology
+Committee inquiry into Forensic Science (2018). Expert witness/consultant in Criminal and civil
+cases including cases in the USA and Netherlands (since 2014).
+Lucas: Vice-President (Education) of the IEEE Computational Intelligence Society (2017 – 2020).
+Reiss: Audio Engineering Society: Chair Publications Policy Committee (since 2016); Co-Chair High
+Resolution Audio Committee (since 2014).
+Robinson: Council of Professors and Heads of Computing (Treasurer 2014/18, Deputy Chair 2018).
+
+See Table 4.6 for staff esteem. Ten submitted staff in World Top 2% of Scientists by Stanford
+University (Cavallaro, Dixon, Elkashlan, Gong, Izquierdo, Lucas, Malacaria, Nallanathan, Poslad,
+Uhlig).
+
+
+
+
+                                                                                          Page 28
+Unit-level environment template (REF5b)
+
+
+ Year    Academic     Esteem
+ 2020    Gong         IET 2020 Achievement Award
+ 2020    Cavallaro    IEEE Distinguished Lecturer, Signal Processing Society
+ 2019    Distefano    POPL 2019 most influential paper award POPL (Principles of Programming
+                      Languages)
+ 2019    Sandler      European Association for Signal Processing (EURASIP) Group Technical
+                      Achievement Award
+ 2018    Bryan-       Fellow of Royal Society of Arts (FRSA)
+         Kinns
+ 2018    Cavallaro      Fellow of International Association for Patter Recognition
+ 2018    Distefano      Most Influential OOPSLA Paper Award
+ 2018    Yorsh          5-year EU-ERC
+ 2018    Chew           5-year EU-ERC
+ 2017    Cowling        Royal Society Wolfson Merit Award
+ 2016    Distefano      CAV Award, “fundamental contributions to the field of Computer-Aided
+                        Verification for development of Separation Logic”
+ 2016     Fenton        5-year EU-ERC
+ 2016     McPherson EPSRC 5-year Fellowship award
+ 2016     Sandler       Elected FREng
+ 2015     Benetos       RAEng 5-year Fellowship
+ 2015     Fenton        (co-presented) BBC Documentary “Climate Change by Numbers” awarded;
+                        American Association for the Advancement of Science, Science Journalism
+                        Gold Award for best in-depth TV reporting; European Science TV and New
+                        Media for the best environmental issue Science programme.
+ 2015     Izquierdo     IEEE Distinguished Lecturer, 2015-2017
+ 2015     Sandler       Royal Society Wolfson Merit award
+ 2014     Distefano     Awarded one of four annual RAEng Silver Medals
+ 2014     Stowell       EPSRC 5-year Fellowship
+Table 4.6. Staff esteem
+
+
+
+
+                                                                                       Page 29
+

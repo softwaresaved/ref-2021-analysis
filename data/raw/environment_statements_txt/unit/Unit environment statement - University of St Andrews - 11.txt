@@ -1,0 +1,914 @@
+Unit-level environment template (REF5b)
+
+ Institution: University of St Andrews
+
+ Unit of Assessment: UoA 11: Computer Science
+
+ Section 1. Unit context and structure, research and impact strategy
+                                   Unit Context and Structure
+ The School of Computer Science comprises 32 Category A academics. We have fostered, and
+ are careful to preserve, a collegiate, collaborative school with a substantial emphasis on
+ interdisciplinary research, benefitting from the other world-class schools in the arts and sciences
+ at St Andrews. We are small and therefore agile enough to respond quickly to the constant
+ changes in our discipline, such as the recent rapid rise of artificial intelligence and machine
+ learning. We are large enough to achieve critical mass in the areas on which we have chosen to
+ focus, organised into five internationally-recognised research groups investigating diverse
+ theoretical and practical aspects of software and systems:
+    •   Artificial Intelligence. Computational algebra; computational argumentation; decision-
+        making and optimisation via constraint programming and propositional satisfiability;
+        intelligent intrusion detection in cybersecurity; image processing; responsible and legal
+        AI.
+    •   Computer Systems. Cloud computing; data analytics, integration, and linkage;
+        middleware; networking, distributed and autonomic systems; software engineering;
+        wireless and sensor networks.
+    •   Health Informatics. AI in precision therapeutics; computational models of cancer
+        treatment and infectious diseases; software for medical devices and data analytics.
+    •   Human-computer Interaction. Distributed learning environments; input and output
+        technologies; intelligent interactive systems; natural language processing; pervasive and
+        ubiquitous computing; privacy; visualization; virtual reality.
+    •   Programming Languages. Compiler technology; functional programming;
+        parallel/concurrent systems; generative programming; language design; type systems.
+ At REF2014, the School was organised into broad research themes containing several small,
+ focused research groups. We reorganised into a larger group structure for inclusiveness and to
+ foster collaboration. Our groups are valuable but not constraining: many academics are members
+ of more than one group and/or carry out research involving several groups (e.g. co-supervision of
+ PhD students).
+ Each group has a leader responsible for organising seminars and activities such as research away
+ days, publicising the group, providing feedback on grant proposals, and mentoring PGR students
+ and contract research staff. Group leaders manage a budget (5% of the School operational
+ budget) to support group activities, conference travel, attendance at events to disseminate
+ research and generate impact. The group membership decides the group leadership.
+ Our groups are heavily involved in interdisciplinary work beyond the School (Figure 1), see also
+ Institution-Level Environment Statement, ILES, 2.5. Eight of our academics are members of the
+ Centre for Interdisciplinary Research in Computational Algebra (CIRCA, Miguel is deputy director),
+ established in 2000 to support collaboration between Computer Science and the School of
+ Mathematics and Statistics. Eleven of our academics are members of the Institute for Data
+ Intensive Research (IDIR), which gathers researchers from nine Schools across the University.
+ The Mackenzie Institute for Early Diagnosis places data analytics at the core of several healthcare
+ grand challenges and involves several members across the School. Dearle and Dobson are on its
+ management board. Seven of our academics are members of the Centre for Research in
+ Ecological and Environmental Modelling (CREEM), focusing on machine learning and sensor data
+ analytics in the field. The School helped establish the engineering focus centre (E@ST), bringing
+ our staff working on sensing, 3D prototyping, and machine learning together with colleagues
+ developing new materials, medical and environmental devices.
+
+
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+ Further active collaborations exist with academics in the Schools of Biology, Chemistry,
+ Geography and Sustainable Development, History, Management, Medicine, Modern Languages,
+ Physics and Astronomy, and Psychology. Externally, our staff collaborate with industry and
+ academics worldwide (Figure 2, below).
+
+
+
+
+    Figure 1 – Computer Science Group Structure and Wider Interactions within the University
+ The Research and Impact Committee (RIIC) oversees and promotes research and impact within
+ the School, setting and reviewing research leave policy, encouraging research group activity and
+ funding applications, making decisions on competitive research applications, and planning and
+ documenting impact. The Director of Research convenes RIIC, which includes the group leaders,
+ the Directors of Impact and Postgraduate Research, and representatives from contract research
+ staff, postgraduate research students, and the Equality and Diversity Committee.
+ The School is part of SICSA, the Scottish Informatics and Computer Science Alliance, a
+ collaboration of Scottish Universities aiming to develop and extend Scotland’s position as a world
+ leader in Informatics and Computer Science research and education. We benefit substantially from
+ a collective voice with government and access to a larger community for collaboration, organised
+ through research themes such as AI, cyber security and data science, each with an active
+ programme of workshops and events. SICSA provides a broader experience for our PGR students
+ through its Graduate Academy, which runs a highly successful annual PhD conference where
+ students can present, network, and attend workshops and talks. Furthermore, SICSA runs
+ DemoFest, an annual knowledge exchange event gathering researchers, industry practitioners
+ and investors. The School was a founder member of SICSA and has been central to its
+ governance and development (Section 4).
+                      Research Objectives During the Assessment Period
+ The best research and greatest impact come from supporting our staff with the freedom and
+ opportunity to pursue their interests. Different individuals and topics may require different patterns
+ of collaboration, funding and dissemination, so we do not impose a single research group
+ structure, or rigid expectations regarding funding and publication, instead supporting and
+
+                                                                                                Page 2
+Unit-level environment template (REF5b)
+ encouraging each researcher to generate knowledge however suits them. We review our strategic
+ aims in support of this philosophy since REF2014:
+    •   To foster a culture that provides the freedom to pursue individual research directions, and
+        values and supports blue-sky research.
+    A salient example of a highly successful piece of basic research is The Complexity of N-queens
+    Completion by Gent, Jefferson and Nightingale (Journal of Artificial Intelligence Research,
+    2017). This curiosity-driven work proves a foundational result about a variation of the famous
+    chess puzzle once studied by Gauss. It received considerable media attention.
+    •   To deepen and diversify our funding sources to fit our intellectual shape, provide continuity
+        for our talented contract researchers, and enable us to respond quickly to opportunities
+        requiring a rapid turnaround.
+    We have balanced substantial multi-year grants, such as the four-year EPSRC programme
+    grant Science of Sensor System Software (EP/N007565/1, £900K at St Andrews held by
+    Dobson), with smaller pieces of funding to address immediate practical problems, such as
+    Harris-Birtill’s work with Canon Medical (£46K) using deep learning in medical technology.
+    Our funding income has increased by 30% relative to the last REF period. In terms of diversity,
+    we have increased our funding from the EU, such as the SERUMS project (£500K of €4.7M
+    held by Bowles, coordinated from St Andrews), and other sources, such as Infineon
+    Technologies (£194K Harris-Birtill). Miguel provides an example of an academic who has
+    attracted both blue-skies funding (EP/P015638/1, £870K A Constraint Modelling Pipeline) and
+    application-driven (Financial portfolio rebalancing with Butterfly Catcher Ltd funded via a
+    Scottish Funding Council Innovation Voucher) in a single area – Constraint Programming in
+    this instance.
+    •   To grow and strengthen our research groups, exploring new areas and synergies across
+        the university and externally as interest and opportunities arise.
+    Our Health Informatics Group was established in this period to exploit collaboration
+    opportunities with the School of Medicine and beyond. It has been highly successful, growing
+    to include seven of our academics with collaborations locally, nationally (e.g. NHS Scotland),
+    and internationally (e.g. Zuyderland Medisch Centrum, The Netherlands).
+    We have appointed twelve academics across our research groups in this period, growing from
+    28 to 32 category A staff. Our strategy has been to strengthen our groups while gaining the
+    opportunity to explore new directions. Akgün, for example, strengthened constraint
+    programming and data linkage in the AI and systems groups, also bringing expertise in data
+    mining. Arandelovic strengthened our expertise in machine learning while providing several
+    new collaboration opportunities with medicine.
+    •   To develop the careers and international profiles of our staff and students along their
+        chosen mix of academic and industrial career paths.
+    The School granted Henderson a year-long sabbatical to study a law degree, experience he
+    reinvested into his research, such as his work on the right to data portability, and teaching
+    within his module on data ethics and privacy. The School was similarly supportive of Barker’s
+    two periods with Google as a Visiting Scientist. Voss spent the academic year 2018–19 in the
+    Department of Philosophy at Harvard University supported by a Leverhulme International
+    Fellowship. We made duty allocation and remote work arrangements to enable him to extend
+    his stay into 2019–20.
+                                        Achieving Impact
+ Impact is an integral part of the School's research pathway. 5% of the School's operations budget
+ is reserved for impact activities, and we specialise the University's support structures according
+ to the needs of our diverse research base. At different technology-readiness levels we regularly
+ leverage Impact Acceleration funding from EPSRC, Global Challenge Research funding to
+ engage in large-scale interdisciplinary projects with global significance, and Innovation Vouchers
+ for small-scale close-to-market engagements with Scottish SMEs. We use the School's funding
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ for activities we see as in the long-term interest but which cannot attract immediate external
+ funding. We have found that many relationships take years to develop, so in 2018 the School
+ established the biennial St Andrews ROCS (Research Open day in Computer Science) event,
+ where prospective industrial partners are invited to the School to pitch their activities and hear
+ about potential collaboration opportunities.
+ Our three impact case studies reflect how the various strands of our research lead to significantly
+ different impacts. Bhatti's basic research in network protocols is leading to a sea change in how
+ internet traffic is routed, gaining significant momentum as interest has built within the global
+ communications technology community and the ILNP protocol moves towards standardisation.
+ The School has supported Bhatti's attendance of IETF meetings as an essential part of advancing
+ the standardisation process, without which such basic research cannot gain industrial traction.
+ The complexity of modern processors makes it imperative that functional units can be described
+ and formally verified for individual correctness and overall consistency. Sarkar's conformance
+ testing system is routinely used within large hardware companies (e.g. IBM) to test processors
+ before release, and has identified subtle problems before production, saving significant costs. The
+ approach is gaining wider impact through its use with ARM processor cores, found in almost all
+ mobile devices. This work validates taking the long-term view of potentially impactful relationships,
+ arising from long-standing academic and industrial partnerships that the School helped Sarkar to
+ maintain and develop.
+ The School has devoted considerable staff and system resources for over twenty years to the
+ development and support of the GAP open-source computer algebra system. Being open source
+ has made GAP into a standard component in this area, in a way that would have been most
+ unlikely for a commercial product. Consequently, it is used for research and teaching of topics in
+ advanced mathematics across numerous universities and research institutions worldwide, and
+ has been cited in thousands of research publications (https://bit.ly/gap_citations).
+                              Supporting Interdisciplinary Research
+ As Figure 1 illustrates, interdisciplinary research is at the heart of what we do. We are located
+ close to all other schools in the university, facilitating networking and events crucial to fostering
+ and sustaining interdisciplinary collaboration. An illustrative example is the long-running CIRCA
+ seminar series that brings together local and external mathematicians and computer scientists,
+ supporting a fruitful stream of collaborative work. Centres such as CIRCA and IDIR were
+ established directly to encourage interdisciplinary research; the School is active in their leadership
+ and development.
+ In creating, and recruiting to strengthen, the Health Informatics research group the School has
+ invested substantially in growing our collaboration with the School of Medicine, exploiting our
+ expertise in artificial intelligence, data science and human-computer interaction. This has proven
+ highly successful, for example resulting in Kelsey’s high-profile collaboration with NHS Lothian on
+ fertility preservation following cancer treatment.
+                        Progressing Toward a Culture of Open Research
+ The School has an established culture of openness regarding our software and research materials
+ (ILES, 2.4). Researchers routinely make software and resources available on GitHub and Figshare
+ – examples of long-lived open source projects include GAP and Conjure. Miller and colleagues
+ share their work recording historic artefacts and sites on publicly available platforms such as
+ Sketchfab and Roundme. Henderson co-founded the CRAWDAD wireless network data archive,
+ which hosts hundreds of datasets used in thousands of research papers worldwide. He sits on the
+ University research data advisory group and has published on data archiving and research
+ reproducibility. Gent co-founded and Miguel, Jefferson and Akgün continued to edit CSPLib, the
+ world’s major repository of constraint programming benchmarks.
+ Konovalov is a trainer for Software Carpentry and delivers training across the University in
+ software and data skills for all disciplines. He is also a Fellow of the Software Sustainability
+ Institute and the editor of the Journal of Open Research Software, and recently initiated the
+ Code4REF project (https://code4ref.github.io/) to encourage researchers to record software
+ outputs in University information systems and help the recognition of software as a primary
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ research output. We hosted a 2014 summer school on Experimental Methodology in
+ Computational Science Research with speakers from the Universities of Cork and Edinburgh,
+ Microsoft Research, and the Software Sustainability Institute.
+                            Supporting a Culture of Research Integrity
+ The School recognises the fundamental importance of research integrity. The School Ethics
+ Committee (SEC) has grown to eight academics and one administrator, meeting monthly to
+ discuss staff and student ethics applications. Henderson convenes the SEC, sits on the University
+ ethics committee and is active in the university ethics management project working group to
+ redevelop processes, exercising his research expertise e.g. in data protection and the use of social
+ media. He has also published in various applied research ethics venues. All students must
+ consider research ethics as part of their final projects, and a new data ethics module for
+ undergraduate, MSc and EngD students includes a strand on research ethics. The University
+ provides research integrity training for staff.
+                            Research Objectives: The Next Five Years
+ We believe that St Andrews provides the best environment to research and study computer
+ science. Our objective over the next five years is to maintain and strengthen that position.
+ Computer Science is a dynamic subject. While there are broadly-agreed foundations it is important
+ to ensure that research retains relevance and importance. We maintain an on-going process of
+ refining the number, membership, and focus of our research groups, assessing existing groups
+ and proposals for new groups from the twin standpoints of marrying blue-skies and applied
+ research. Previously, this has led to our strengthening our AI group with hires beyond the core
+ competencies of constraints and computational mathematics, adding argumentation (Toniolo) and
+ image processing (Arandelovic); and to focusing the increasing work in medical informatics into
+ its own Health Informatics Group. The formation of a Research Software group is under way
+ following the appointment of Konovalov. It will focus on interdisciplinary computational research in
+ all areas (from digital humanities and medical informatics to astrophysics and discrete
+ mathematics), development of underpinning research software, training in computational science
+ (e.g. drop-in sessions, training workshops), studies in research software and campaigning for the
+ recognition of the roles of research software and its developers in research. The group is
+ especially interested in reproducibility of computational experiments, which is particularly timely
+ given the increasing appreciation of the importance of reproducibility in Computer Science
+ research.
+ The School is continually deepening and refining its approaches to research and training. During
+ this period the School identified a need for a research administrator and industrial liaison to provide
+ focus for our dissemination activities. We have integrated this goal within the E@ST initiative
+ through the appointment of a coordinator experienced in industrial liaison, who will work across
+ the range of engineering activities including those within the School. This change leverages St
+ Andrews' small size to find and pursue opportunities benefitting several Schools.
+ The University plans a major investment in a new STEM building to house both Computer Science
+ and the School of Mathematics and Statistics. A single state-of-the-art facility will promote synergy
+ and collaboration within the School, and we will obtain the benefit of strengthening our existing
+ collaborations with Mathematics and Statistics, for example via the cross-disciplinary CIRCA,
+ CREEM and IDIR centres.
+ Section 2. People
+                             Staffing Strategy and Staff Development
+ Our strategy is to recruit, develop, and retain high-quality academic and contract staff engaged
+ with our ethos of community and collegiality (ILES, 3).
+ Staff Development
+ Early-career staff are allocated reduced teaching and administrative loads in their first three years
+ and a start-up budget of at least £5K, supplemented when specialised equipment is required. All
+ staff have personal overheads funds derived from grant income. Early-career staff are encouraged
+ to collaborate with established staff in acquiring first research grants. Brady and Brown, for
+                                                                                                 Page 5
+Unit-level environment template (REF5b)
+ example, have successfully obtained first grant funding in this period. New staff are mentored both
+ locally and within the institutional structures, including as part of joint mentoring programmes with
+ other institutions. Probationary staff are assessed bi-annually over their 2–5 year probation by a
+ committee comprising the mentor and two other staff (one full professor). All staff engage in an
+ annual confidential review meeting with the Head of School or their PI to discuss career goals and
+ agree a plan of action.
+ The University is committed to supporting the further development of women. The School has
+ supported the attendance of Balasubramaniam, Bowles, Duncan, and Ye at the Aurora
+ programme, and of Bowles at the University’s Elizabeth Garrett programme.
+ We understand the importance of fellowships to career development, particularly of contract
+ research staff within the framework of the Concordat to Support the Career Development of
+ Researchers, and encourage and support fellowship applications at all career stages. Proposals
+ are shepherded by senior staff, and mock interviews are arranged internally and with colleagues
+ from other disciplines. In this period Jefferson has held a Royal Society University Research
+ Fellowship; Barker a Royal Society Industry Fellowship; Voss a Leverhulme International
+ Academic Fellowship; and Dang a Leverhulme Early Career Fellowship. Kelsey is a Fellow of the
+ Royal Society of Medicine, recognising his influential interdisciplinary work. Dobson has been
+ elected to Scotland’s national academy as a Fellow of the Royal Society of Edinburgh.
+ The University’s Centre for Educational Enhancement and Development (CEED), Organisational
+ and Staff Development Services (OSDS), and Careers Centre provide varied staff development
+ courses, such as mandatory training in supervising postgraduate students. Grants are allocated
+ for attendance at external staff development events. Our staff, such as Bain, Henderson,
+ Konovalov and Torpey provide training for CEED and OSDS on topics such as software carpentry
+ and data organisation.
+ The School actively manages staff careers. The Career Support Officer leads an annual review to
+ assess staff members’ state of readiness for promotion. Staff are then mentored in preparing
+ promotion applications. This has led to successes in this period: Barker, Kelsey, Miguel to
+ Professor; Arandelovic, Jefferson, Kelsey, Sarkar to Reader; Balasubramaniam, Bowles, Duncan,
+ Nacenta, Ye to Senior Lecturer; Letham, Lewis, Terzic to Lecturer; and Janjic to Senior Research
+ Fellow.
+ We enrich our environment by programmes of outside speakers. Since 1969 the School has run
+ a bi-annual Distinguished Lecture Series of world-leading researchers giving a day-long series of
+ lectures. In this period these have included: Luca Cardelli (Microsoft Research and Oxford), Carl
+ Hewitt (MIT), Jane Hillston (Edinburgh), Maria Klawe (Harvey Mudd College), Julie McCann
+ (Imperial), Timothy Roscoe (ETH Zürich). The School hosts a term-time weekly seminar series
+ where diverse external speakers present to a general Computer Science audience. Recent
+ speakers include: Ankush Jhalani (Bloomberg), Daniel Katz (Illinois), and Marina Romanchikova
+ (National Physical Laboratory). The School also supports group-centric seminar series.
+ At our weekly Grant-writing Club researchers at all levels share experience (e.g. successful
+ proposals, proposal reviews, funding panel experiences), critique work in progress, and present
+ ideas. The dissemination of this experience benefits the whole School, and the feedback gained
+ from a broad range of viewpoints benefits individual researchers. Miguel’s Constraint Modelling
+ Pipeline grant, for example, benefited greatly from discussion at this meeting.
+ Staffing and Recruitment
+ Applicants’ publication, funding and engagement profiles are benchmarked against what would be
+ expected of someone on a trajectory towards a world-leading career, moderated by career stage
+ and pathway. In this period we have focused on recruiting early-career staff who, in developing at
+ St Andrews, become invested in the School, helping to maintain and strengthen our collegiate
+ community.
+ We have recruited eight new academics to strengthen all five of our research groups. We have
+ balanced appointing the best external candidates (Arandelovic, Clarke, Fayed, Toniolo) with
+ recruiting locally from contract research positions, allowing the School to retain those of our best
+ researchers seeking an academic career path (Akgün, Brown, Harris-Birtill, Hinrichs, Konovalov,
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ Dang), while diversifying our research interests. We have balanced traditional Computer Science
+ backgrounds with other disciplines (Harris-Birtill in Physics, Konovalov in Mathematics, Clarke in
+ design, Brown with start-up experience).
+ Our contract researcher community is key to our success in attracting external funding. 23 such
+ staff have been employed in this period, recruited to the same rigorous standards as our
+ academics. Testament to their quality is that academic appointments from among our contract
+ research staff were made in the face of strong international competition.
+ The School has successfully recruited non-UK academics (Canadian, Croatian, German, Italian,
+ Serbian, Turkish, Ukrainian, Vietnamese) and contract researchers (Bosnian, Chinese, German,
+ Hungarian, Italian, Mexican, Serbian, Spanish, Turkish). 40% of our academic and 20% of our
+ contract research appointments have been women. This improves significantly over the previous
+ REF period and is significantly above the national average, reflecting our commitment to gender
+ balance in Computer Science.
+ Leave
+ All staff are given regular research leave from teaching and administration of one semester every
+ four years. We allocate research leave outside this schedule for staff working on strategically
+ significant proposals or projects, or who are identified as benefitting from additional focused
+ research time. Henderson, for example, was granted a contiguous year of research leave to study
+ a law degree and change the focus of his research.
+ Stimulating and Facilitating Exchanges Between Academia and Industry
+ We gain valuable experience from seconding our staff to industry, for their own development, to
+ establish new partnerships, and to return experience to the School. The School is flexible in
+ agreeing a work pattern to accommodate such projects. Examples include Barker’s two periods
+ working with Google, producing a high-profile piece of research analysing the performance of the
+ Google Borg cluster, and Fayed’s current position at Cloudflare. The St Andrews ROCS event
+ was established exactly to stimulate such exchanges.
+ Recognising and Rewarding Research and Impact
+ Staff and students can apply to a travel budget (11% of the School operational budget), to attend
+ a conference, workshop or other such opportunity in the absence of their own funds. This budget
+ is derived from academics’ overheads accounts, so all staff contribute and benefit. 10% of this
+ budget supports speculative travel activities, for example attending the 2019 Data Science
+ Initiative Summer School in Paris, and the 2018 Summer School on Deep Learning in Genoa.
+ We have had considerable success with the Scottish Funding Council Innovation Voucher scheme
+ (19, worth £105K) to establish new collaborations with SMEs. This activity is incentivised by
+ making the entire award available to the staff member involved to spend on research and impact
+ activities. Workload adjustments are made for, for example, those involved in writing up impact
+ case studies. Impact features strongly in promotion cases: Sarkar, for example, was promoted
+ directly to Reader in 2018, substantially due to his work on formally verified hardware concurrency,
+ now deployed commercially in all ARM-based devices.
+                                             Students
+ Our students are highly valued and fully integrated members of our School. We maintain an open,
+ approachable culture where students are actively encouraged to interact with staff. This is
+ supported by our physical estate, with research students’ offices interleaved with those of staff
+ and a single common area for students and staff. Staff are encouraged to propose research-led
+ undergraduate and MSc projects, an important resource particularly for those exploring new ideas
+ or whose work is not yet supported by external funding or PhD students. The School runs an
+ Undergraduate Research Assistant Scheme with 7% of the operations budget, supplemented by
+ University funds.
+ Recruitment of Doctoral Research Students
+ Prospective students are encouraged to correspond directly with potential supervisors, supported
+ by administrative mechanisms to help identify supervisors where needed. Applications are the
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ same for internal and external applicants, and include a proposal of the student's devising to gauge
+ technical thinking. Students selected for interview are given a relevant paper as the basis for a
+ technical discussion. This advantages students by balancing the initial on-paper evaluation, and
+ provides an opportunity to boost otherwise weak proposals. Candidates are interviewed by a
+ proposed supervisor and Director of PG studies, who agree a recommendation.
+ Monitoring and Support Mechanisms, Skills Development
+ Our culture prioritises community, emphasising the value of shared learning and experience
+ through three mechanisms. First, all students undergo an annual review process in the same
+ week, allowing the sharing of support and advice in a potentially stressful experience. The format
+ is lightweight and responsive: a 45-minute oral review conducted by two independent members of
+ staff. Students and supervisors submit written comments on their training and supervision
+ beforehand, and students generate short research reports. Secondly, the School hosts a bi-
+ monthly PGR seminar series at which every student, once during their tenure, delivers a 40-minute
+ technical talk based on related work, rather than their own. Attendance is mandatory (facilitating
+ consistent UKVI engagement monitoring). Finally, the School sponsors an annual residential 2-
+ night retreat, where the students organise the programme of research and leisure activities.
+                                       Equality and Diversity
+ We value our diverse research community, and recognise the need to support staff from any group
+ (gender, ethnicity or sexuality, for instance) still underrepresented among computer science
+ researchers. Many senior staff roles have been filled by women and BAME staff across the period,
+ including Director of Teaching, Director of Impact, research group leaders, EDI and taught-
+ programme coordinators. Within this period 40% of academic staff recruited were women and 60%
+ were non-UK nationals. We continued our longstanding policy of recruiting over 50% of new staff
+ externally, providing a constant stream of new thinking.
+ Following our action plan from our Bronze Athena/SWAN award of 2017 we have introduced
+ mechanisms to monitor staff recruitment and development, and support measures to counteract
+ historical, unconscious or institutional biases. These include checks and adjustments in our
+ recruitment processes, such as the language used in job advertisements; on duty allocation;
+ before, during or after parental leave; and ahead of the annual promotion round. In planning our
+ Distinguished Lecture Series and School seminars diversity is explicitly considered. A new role of
+ Career Support Officer monitors these initiatives.
+ Constructing our REF Submission
+ We have carefully considered equality and diversity in constructing this submission. Following the
+ institutional code of practice outputs were selected purely based on an assessment of quality,
+ following two blind reviews per output proposed. Check-in meetings with a diverse panel were
+ held with each member of staff to be returned. Outputs were selected by attributing their best-
+ reviewed paper to each staff member, and then filling the required basket of outputs based solely
+ on quality according to the reviews. No expectation was placed upon any staff member to provide
+ a particular number of outputs, beyond the minimum. This is reflected in our output profile, which
+ does not disproportionately favour any subset of the School. The university has stated that
+ attribution of REF outputs will play no role in promotion.
+ Study Leave
+ Following institutional practice all staff with open contracts on all career tracks are entitled to a
+ semester of research or impact paid leave every 4 years. Eligible staff are reminded annually of
+ the option to apply for research leave, with mentors and research group leaders also encouraging
+ staff to consider research leave at appropriate times. This process is monitored by the Career
+ Support Officer. The Head of School has supported every application made in this period.
+ Flexible and Remote Working
+ Staff need for flexible working is considered when duty and timetabling preferences are sought
+ annually. The diverse School Management Group also considers staff requests to balance
+ personal and family commitments even without a formal flexible working agreement. For example,
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+ some staff have been assigned teaching in a block or scheduled to allow days free from teaching
+ commitments, or scheduled all teaching in one semester.
+ Career Pathways for Part-time and Fixed-term Staff
+ The School has a strong track record of accommodating staff wishing to work part time, and of
+ guiding fixed-term staff into permanent positions. Connor and Salamon are examples of academic
+ and contract research staff currently working part time; Harris-Birtill, Sarkar, Terzić and Toniolo
+ provide examples of staff who have moved from fixed-term to open contracts.
+ We provide continuity of employment by naming our contract researchers on follow-up funding
+ applications and, where appropriate, moving researchers between grants. Examples of such
+ movement to provide continuity include Barwell, Brown and Hoffmann. Furthermore, the University
+ covers short gaps in funding, which supported Morrison for three months. Contract research staff
+ are actively encouraged and supported in applying for open posts (see above).
+ Facilitating Those with Caring Responsibilities, Ill Health, or Disability
+ The school travel fund (see above) is used to support all staff in attending conferences, courses,
+ and training, administered by the School Manager and the Director of Research. We allow staff
+ and students to specify travel that fits their individual circumstances.
+ One member of the School is legally blind. The School has invested in assistive technology and
+ human assistance as required, for example for explaining diagrams and accompaniment to
+ conferences. We also took the opportunity to ensure that all the School’s facilities, information,
+ and services were accessible to all.
+ Funding Applications, Promotion and Reward, Recruitment
+ A group including the Career Support Officer, Equality and Diversity Convener, Director of
+ Research, Director of Teaching and Staff Welfare Officers meet before the annual promotion
+ round to consider all staff eligible for promotion. The aim is to ensure systematic consideration of
+ all eligible staff. One-to-one meetings are organised either to encourage individuals to apply for
+ promotion in the current academic year, or to suggest actions to strengthen their case for
+ promotion.
+ Leadership roles are advertised to all eligible staff, who are encouraged to consider applying.
+ Appointments to these roles are made by the School Management Group.
+ Returning from Periods of Leave
+ A phased return in terms of workload is arranged for staff who return from parental leave or
+ absences due to illness. Staff returning from such leave meet with Head of School or a delegate
+ to discuss their requirements. Supervisors of research students returning from similar
+ circumstances or Leaves of Absence discuss plans and strategies for pragmatic re-engagement.
+ Staff with Protected Characteristics
+ We follow recommendations from the University Occupational Health unit and Student Services
+ on providing support and resources required for staff and students with disabilities. Arrangements
+ for events organised for research students consider protected known characteristics of the cohort.
+ Staff and students are encouraged to approach relevant role holders, such as the Head of School,
+ Staff Welfare Officers, Equality and Diversity Convener or Student Welfare Officers, to discuss
+ support required in relation to a protected characteristic.
+ Staff have access to University staff networks such as the Staff BAME Network and Women in
+ Science St Andrews (WISSA) to meet, network and collaborate with others.
+ Wellbeing
+ The School has student and staff welfare officers, allocated to one male and one female staff
+ member. They act as an optional first point of contact for discussing problems or concerns for
+ those who do not wish to speak to academic co-ordinators or line managers, and signpost
+ individuals to appropriate further help and guidance, often within the Human Resources or
+ Occupational Health units.
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ Mentors help new staff to settle into school life and offer guidance on career, research and
+ teaching matters. Supervisors monitor the wellbeing of research students. Students are allocated
+ a second supervisor as additional support and research groups provide a further support
+ framework. Annual review meetings provide an opportunity for research students to discuss their
+ wellbeing with two independent staff members.
+ Section 3. Income, infrastructure and facilities
+ Income and Research Funding
+ The School’s total grant income has risen by 30% to around £9M in this REF period, compared
+ with REF2014. We have increased the diversity of our funding sources, with 53% from funding
+ councils, 27% EU funding, and the remaining 20% from other sources. Grants have been awarded
+ to staff members across all our research groups, with sustained success throughout the period.
+ Strategy for Research Income
+ The School seeks to diversify its research income and to widen the participation of staff in grant-
+ writing. The former is aided by a dedicated University-funded business development manager
+ (BDM) tasked with identifying and communicating future and alternative funding sources, and by
+ the central Research Funding Support teams who manage contract negotiations and subsequent
+ awards (ILES, 4.1). The latter is supported by a programme of mentoring grant-writers co-
+ ordinated through our grant-writing club, which the BDM attends. This strategy effectively
+ manages the risks of preparing proposals for new versus established venues and keeps us deeply
+ engaged with emerging funding strands such as EPSRC’s new investments in mathematical
+ sciences, while opening up new opportunities for collaboration.
+ We have been increasingly successful in working across St Andrews to pursue cross-disciplinary
+ opportunities. Example include CIRCA (computational algebra) and the Mackenzie Institute (early
+ diagnostic medicine). The School has recently joined CREEM (ecological modelling), contributing
+ expertise in sensing and sensor data analytics. We have also developed collaborations crossing
+ the academic and government/NGO sectors, most notably in applying virtual reality techniques to
+ cultural heritage, which has led to a substantial number of awards for working with small (and
+ otherwise under-served) agencies and sites across the UK and beyond.
+ Notable funding obtained
+ Major long-term funding includes:
+    •   Automated Conflict Resolution in Clinical Pathways (Bowles, 2014).
+        £334K EPSRC.
+    •   CoDiMa (CCP in the area of Computational Discrete Mathematics) (Linton, 2014).
+        £293K EPSRC.
+    •   OpenDreamKit (Linton, 2015).
+        £630K EU.
+    •   C3 Scalable Shared Memory via Consistency-directed Cache Coherence (Sarkar, 2015).
+        £213K EPSRC.
+    •   Science of Sensor System Software (Dobson, 2015).
+        £911K EPSRC.
+    •   A Constraint Modelling Pipeline (Miguel, 2016).
+        £870K EPSRC.
+    •   Modelling and Optimisation with Graphs (Jefferson, 2017).
+        £266K EPSRC.
+    •   Connected Culture and Natural Heritage in the Northern Environment (Miller, 2017).
+        £139K EU.
+    •   Adaptive Brokerage for the Cloud (Barker, 2017).
+        £380K EPSRC.
+    •   Teamplay (Brown, 2017).
+        £374K EU.
+
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+    •   Stochastic models to enable tailoring of medications to patients with multiple morbidities
+        (Bowles, 2018).
+        £157K MRC.
+    •   Millimetre Wave Radar-On-Chip (Harris-Birtill, 2018).
+        £193K EU.
+    •   SERUMS (Bowles, 2018).
+        £505K EU.
+    •   A Learning, Optimising Compiler for Computational Group Theory (Jefferson, 2018).
+        £202K Royal Society.
+    •   Programming as Conversation: Type-Driven Development in Action (Brady, 2019).
+        £367K EPSRC.
+    •   Keep Learning (Miguel, 2020, joint with Napier).
+        £464K at St Andrews, EPSRC.
+ In addition, we have obtained over £200K in short-term and small-scale funding for collaboration
+ with SMEs and charity sites.
+
+ Management Structures for Research
+
+ The Head of School leads the School’s research management team and centres around a Director
+ of Research with responsibility for research strategy and operations, aided by a Director of Impact
+ responsible for non-academic applications of research, a Director of Post-graduate Research
+ responsible for our PhD and EngD programmes, and a Director of Infrastructure responsible for
+ developing and maintaining our computing and storage infrastructures. An independent Ethics
+ committee is charged with ethical approval of all projects, liaising with the institutional ethics
+ bodies. This committee has grown in significance alongside the growth in projects tackling digital
+ medicine and novel interfaces.
+ Communication is vital in keeping staff informed of opportunities and in gaining feedback to
+ management on decisions. The Head of School maintains a monthly journal circulated to staff,
+ while the Director of Research circulates a weekly research update of funding and consultancy
+ opportunities. Twice-yearly staff councils provide opportunities for feedback. The School maintains
+ a staff handbook to codify processes in research and other areas of operation, and various social
+ media feeds to celebrate successes as a means to encourage additional activities. The School
+ has a universal “open door” culture providing easy access to senior management.
+ Each research group has a group leader and a budget, renewed annually, to support seminars
+ and other team-building activities.
+ Operational Investments and Funding
+ The school has an operational budget of £1.3M per annum of which £793K is discretionary and
+ from which the school ring-fences £285K for PGR scholarships, £150K for equipment, and £80K
+ for casual salaries. Of the remainder, we allocate:
+    •   11% to a travel pot available to all staff and research students for research related travel,
+        managed by a committee that considers requests for funding;
+    •   10% to staff research accounts for staff to fund their own activities;
+    •   5% to research groups to spend on research group activities for example invited speakers,
+        research group away days;
+    •   7% to school funded internships, which last year provided internships for 19 students with
+        a further 2 internships from non-operational budgets.
+ The strategic goal of this funding is to ensure that the School has the opportunity to pursue
+ research ideas ahead of grant funding, and in areas where funding opportunities are sparse. This
+ ensures equality of opportunity for students and researchers in all the research we conduct.
+ Equality and Diversity
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+ As the School has diversified its staffing and research portfolio over the REF period, the School
+ management group has championed diverting resources from other areas of the School’s budget,
+ allocating funding to prime and support the new activities so that new staff are facilitated in
+ developing their careers and independent collaborations. This has involved a move away from
+ traditional computing infrastructure to create novel facilities in emerging technologies. One
+ example is our new work in physical computing, complementing our existing sensor and HCI
+ activities, which is requiring investment in a range of prototyping and 3D fabrication equipment.
+ Another is the increased emphasis on medical data analytics, which has significant specialist
+ requirements for (especially) storage.
+ Operational Infrastructure and Facilities
+ The School’s research group structure has enabled us to plan the development of infrastructure
+ that will be of significant shared value, rather than devoting private facilities to individual projects.
+ In addition to specialised equipment we have:
+     •   Increased physical and virtualised compute capacity accessible to researchers across the
+         School. New facilities include a 24-node compute cluster, GPU-equipped workstations and
+         additional VM hosting capacity.
+     •   Installed faster, higher-capacity network storage.
+     •   Developed capacity to provision dedicated single-host and cluster-based virtualised
+         computing, networking, and storage configurations for repeatable experiments.
+     •   Allocated funding to commercial cloud computing credits.
+     •   Redeveloped of our HCI laboratory through moving to venue with 50% more floor space
+         allowing for more area to be dedicated to experimental setups.
+ The School occupies two dedicated adjacent buildings, within which it is free to develop the space
+ for teaching and research uses. Our dedicated server room caters for production and experimental
+ systems and hosts a range of modern, enterprise-grade servers for compute, hosting and storage.
+ These facilities have been provided by investment from the University and from a variety of
+ research grants. They are supported by a highly-qualified team of three technicians (including one
+ with extensive hardware development experience) and two systems administrators.
+ In this period our buildings have seen significant investment in network infrastructure for client and
+ server networks (covering offices, server room and research and teaching laboratories) providing
+ higher data rates and increased redundancy. Furthermore, our student laboratories have been
+ redeveloped to move their focus from lecture venues to spaces aimed at supporting group-based
+ and individual development work to better support research-driven teaching and PGR research.
+ The School operates a five-year equipment replacement cycle with an annual £150K budget,
+ allowing us to regularly update our compute and storage provisioning. This approach ensures that
+ the School’s hardware and software systems are up-to-date and can adapt quickly to follow
+ developing technology trends and to meet changing requirements. Staff’s personal machines are
+ upgraded from the central budget, to ensure that capabilities are not limited by grant income.
+ The School has had significant investment in its estate from the University during the REF period,
+ with over £510K spent on improvement work (additional to maintenance). This included major lab
+ refurbishment, work to create additional research space, new network infrastructure for client and
+ server networks (covering offices, server room and research and teaching laboratories) to provide
+ higher data rates and increased redundancy. Student laboratories have been redeveloped to
+ move their focus from lecture venues to spaces aimed at supporting group-based and individual
+ development work to better support research-driven teaching and PGR research activities.
+ General improvements to the environment have included providing baby-change facilities,
+ installing a plumbed coffee machine, and sparkling water facilities to reduce carbon footprint.
+ Shared and Collaborative Use of Research Infrastructure
+ The High-Performance Computing service provided by Cirrus, one of the EPSRC Tier-2 National
+ HPC Facilities, has been extensively used by several research projects in the AI group. All of this
+ work is computationally heavy and powerful computational resources are essential. The projects
+
+                                                                                                  Page 12
+Unit-level environment template (REF5b)
+ include a series of studies about automated generation of synthetic benchmark instances, building
+ portfolios of streamliners for constraint programming, a proposal of a new and efficient constraint-
+ based local search algorithm, and various studies of solving Patience games.
+ Specialist Research Infrastructure and Facilities
+ In addition to our general infrastructure the School has made a number of highly specialised
+ investments in support of specific strands of the research strategy. The School has in-house
+ facilities, supported by extensive expertise, for fabricating experimental electronic devices and
+ physical components through 3D printers and CNC systems. These include:
+    •   3D printing and fabrication facilities for physical computing, complementing facilities
+        available at institutional level by targeting rapid small-scale prototyping ahead of larger
+        commitments.
+    •   Funding training for a drone piloting licence that allows the Virtual Worlds group to carry
+        out drone-based photography and video capture, in-house.
+ Benefits in Kind
+ In addition to these investments, the School has benefited significantly from in-kind contributions
+ from industry. Notable examples include:
+   • An 84” Microsoft Surface Hub.
+   • Google Soli radar devices.
+   • Nvidia GPU grant program awards.
+ Library resources
+ The University’s recently-refurbished main library is well-supplied with physical and electronic
+ resources. Operating both centrally and from a mathematical sciences annex in the neighbouring
+ Physics building, the Library provides electronic and physical subscriptions to all the major journals
+ in computer science and adjacent areas, as well as providing subscription-based access to several
+ book series in e-book form. Reciprocal arrangements with over 20 other university libraries further
+ extend the resources that are directly available to support research. The University’s strategic plan
+ favours the provision of resources in digital form, which enormously increases accessibility while
+ reducing both storage requirements and carbon footprint.
+ Section 4. Collaboration and contribution to the research base, economy and society
+
+
+
+
+ Figure 2 – Computer Science: Map of Academic (blue/circle) and Industrial (red/’i’) Collaborators
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+ Research Collaborations, Networks and Partnerships
+ We have a large base of cross-School, cross-institutional, and international collaborations. The
+ research grant portfolio includes membership and leadership of Scottish, UK and EU project
+ consortia as well as membership of international and US-based activities, including:
+
+    •   Co-management of the CRAWDAD international wireless data archive (Henderson);
+    •   Leadership within the IETF in developing future IPv6 standards (Bhatti);
+    •   Chair of the IFIP Working Group 2.11 Program Generation and member of Working Group
+        2.16 Language Design (Brady),
+    •   Providing expertise to the RISC-V ISA specification group (Sarkar),
+    •   Contributing to the ISO C++ standardisation effort (Jefferson); and
+    •   Management of the CSPLib benchmark library for Constraint Programming (Akgün,
+        Jefferson).
+ National collaborations are enhanced by our leading role in the Scottish Informatics and Computer
+ Science Alliance (see Section 1), creating a collaborative research culture across Scottish
+ institutions. We have provided two Directors (Hammond 2016–18, Quigley 2019–20); Graduate
+ Academy Director (Miguel 2014-16, Sarkar 2018–); co-theme leader of the Human-Computer
+ Interaction theme (Nacenta 2014-18); and leader of the Cybersecurity Nexus (Duncan 2019-).
+ Hammond, Quigley and Miguel served on the advisory board of the Data Lab Innovation Centre
+ ex officio.
+
+ Our successful international collaborations are underpinned by substantial projects including:
+
+    •   RePhrase (H2020, 2015), coordinated by St Andrews. 9 partners from Israel, Austria,
+        Spain, Italy, Hungary, and the UK. The project created tools and techniques for software
+        development in parallel programming, including a new C++17 standard for parallelism.
+    •   OpenDreamKit (H2020, 2015), coordinated by the Université of Paris-Sud. 19 partners
+        from France, Germany, Poland, Norway, the Netherlands, and the UK. The project resulted
+        in new libraries, tools, standards, and demonstrators for modern computational
+        mathematics teaching and research.
+    •   Teamplay (H2020, 2018), coordinated by Inria. 11 partners from Germany, Greece,
+        Denmark, France, Spain, the Netherlands, and the UK. The project is developing new
+        programming language techniques to reason about non-functional properties such as time,
+        energy and security.
+    •   Serums (H2020, 2019) coordinated by St Andrews. 10 partners from Israel, Austria, Spain,
+        Cyprus, the Netherlands, Belgium, and the UK. Serums focuses on future healthcare
+        provision, enhancing personal care and maximising treatment quality, while ensuring
+        patient trust in the security and privacy of their data.
+ Relationships with Beneficiaries
+ We maintain fruitful long-term relationships with users and beneficiaries of our work.
+ Digitising Scotland is digitising 24 million Scottish records of births, marriages and deaths dating
+ from 1856. With colleagues at The University of Edinburgh, Queens University Belfast, The
+ Australian National University and the National Records of Scotland we are performing record
+ linkage on this dataset using new metric search techniques whose accuracy is calibrated against
+ ground truth information from a Swedish dataset.
+ With Marine Scotland Science and CREEM we are developing machine learning techniques to
+ automatically process decades of images of salmon scales to understand salmon behaviour over
+ long periods. We collaborate with the Scottish Oceans Institute in the re-identification of skate,
+ and the sizing/sexing of lobsters from images, essential techniques for estimating wild population
+ sizes. This collaboration has leveraged MSc and PhD studentships, and led to funding
+ applications.
+ Researchers at the Potsdam Institute for Climate Impact Research use Brady’s Idris language for
+ formalising models of decision procedures applied. This has led to two co-authored papers as well
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+ as improved tooling, libraries and automated reasoning support.
+ Adobe Ltd support internships, undergraduate scholarships and doctoral scholarships for our
+ students. Several former PhD students have moved to Adobe Labs and continue to work with us.
+ Technology developed in St Andrews for managing and interacting with cloud-scale data is being
+ used on an experimental basis within Adobe.
+ Our computational mathematics research is based on strong relationships with the community of
+ researchers and teachers in mathematics, physics, and chemistry. Konovalov disseminates
+ expertise in managing large-scale open-source software projects with communities through his
+ work as a Fellow of the Software Sustainability Institute and with the Society of Research Software
+ Engineering. His PLOS Computational Biology paper “Ten Simple Rules for taking advantage of
+ Git and GitHub” was among the top 50 most downloaded papers across all PLOS journals in 2016.
+ Our sensor analytics work is used for monitoring industrial pollution, and for improving the
+ sensitivity of commercial devices for detecting microbial resistance. We focus on making it easier
+ to design such experiments, and to interpret and respond to the results, which makes data far
+ more valuable to end-users.
+ Our work in complex networks interacts with clinicians studying microbial resistance and similar
+ processes. We are improving our ability to simulate how disease pathogens evolve through an
+ infection process and how co-infection with multiple diseases affects disease dynamics. We are
+ also developing techniques to help understand how small-scale features of human contact
+ networks can affect the large-scale behaviour of epidemics.
+ Through collaborative research projects in virtual museums including EU LAC Museums, CINE
+ Northern Peripheries and Arctic Programme, and CUPIDO North Sea Region Cultural Heritage,
+ we contributed significantly to the preservation and accessibility of cultural heritage. Examples
+ include:
+    •   Virtual Time Machine Exhibits: Illicit Still Experience, Tomintoul and Glenlivet Discovery
+        Centre. Lords of the Isles, Finlaggan Heritage Centre. Picts and Pixels Exhibition, Perth
+        Museum. Skriduklauster Monastery, Iceland. Medieval Abernethy, Abernethy Museum.
+        The Curing Yard, Timespan Museum and Archives. St Andrews Cathedral 1318, Historic
+        Environment Scotland.
+    •   Virtual Time Binoculars Mobile Apps: Edinburgh 1544, Bennachie Colony, Finlaggan,
+        Seat of the Lords of the Isles, St Andrews Cathedral, UIST 360.
+    •   Virtual Museum Infrastructure: World War One Roll of Honour, Royal Scots Museum.
+        Digital Doors Open, Scottish Civic Trust. SLEAT the South of Skye, SLEAT Development
+        Trust, Tay Landscape Partnership.
+ Nederhof is a member of the International Association of Egyptologists, the primary body for this
+ discipline. Collaborating with the global Egyptological community, he developed extensions
+ included in the Unicode 12 international standard to enable the representation of hieroglyphic text.
+ Our Health Informatics Group work with medical professionals with different specialisations
+ (diabetes, cardiovascular, rheumatoid arthritis and other autoimmune diseases) to investigate
+ precision therapeutics as part of Health Data Research UK, and with Rhode Island Hospital, US,
+ and Aberdeen Royal Infirmary on radiation oncology. We have worked with clinical oncologists at
+ the Western General Hospital, Edinburgh, to develop a new version of NHS Predict, a toxicity
+ predictor for breast cancer considering co-morbidities.
+ We provide expertise to Copenhagen University Hospital investigating cryopreservation of ovarian
+ tissue as a fertility preservation technique. Accurate prediction of attributes (unmeasurable in vivo)
+ is needed to quantify differences in the populations investigated, and we apply AI and statistical
+ learning to quantify the confidence in results based on small samples. We work with The Wolfson
+ Fertility Centre on individualised approaches to assisted conception, adapting our tools and
+ techniques for fertility after cancer to the wider problem of helping subfertile couples.
+ Our tool CISpaces (Collaborative Intelligence Spaces) was developed alongside expert analysts
+ in the UK and US intelligence communities to support analysis of potentially conflicting evidence
+ to form plausible hypotheses. Analysts provided requirements for the tool, realistic scenarios, and
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+ evaluated the quality of support that the system provides. CISpaces is supported by the US Army
+ Research Lab and the UK DSTL, and was selected by the UK and US government partners as
+ one of three scientific highlights from the NIS ITA programme. A second version of CISpaces,
+ supported by the UK DSTL in the follow-on Defence and Security Accelerator programme, is
+ available to professional analysts in the UK Joint Forces Intelligence Group and as an open-source
+ tool (cispaces.org).
+ Contribution to the Sustainability of the Discipline
+ We have established an Engineering Doctorate (EngD) programme, unique in the UK in being
+ completely funded by industry through partnerships in directly-impactful research. The School
+ provides a programme director (Bhatti) and administrative support. Current industry sponsors
+ include Canon Medical, Aggreko, NHS Scotland, and Deutsche Asset Management. Topics
+ include image analysis, data science, artificial intelligence, systems engineering, and financial
+ systems. Student intake is international, with current students from the UK, Chile, Indonesia, and
+ the USA.
+ Konovalov is a Fellow of the Software Sustainability Institute (SSI) and a member of the
+ Carpentries (https://carpentries.org/), a global volunteer organisation for teaching foundational
+ computational and data skills to researchers. As a certified Instructor and Trainer Konovalov has
+ co-run 10 Software Carpentry workshops training over 250 researchers, and has trained 20
+ Carpentries instructors.
+ School staff contribute extensively to summer schools and other tutorial programmes. Highlights
+ include Brady’s engagement at the Oregon Programming Languages Summer School 2017 and
+ other events in the UK; Henderson’s tutorial at the CRISP surveillance summer school and the
+ Estonian cybersecurity summer school; Akgün’s several tutorials on constraint programming at
+ the leading international conferences; Nacenta and Hinrich’s workshops on experimental
+ methodology and visualisation aimed at building the user communities; and long-term
+ engagements with the Scottish Programming Language and Verification summer schools and
+ the Erasmus Mundus Dependable Software Systems programme.
+ Engagement with Diverse Communities and Publics
+ Outreach is conducted by every member of the School through live events, the national press,
+ social and traditional media (ILES, 2.8). The School maintains a strong annual presence at SICSA
+ DemoFest showcase where we present and demonstrate our work to academia and industry.
+ Dearle helped establish the University’s Digital Health Science initiative, which hosts seminars
+ attended by academics and NHS members. Bowles has presented her research at Café
+ Scientifique, organised by and open to the general public. Gent and Miguel have written articles
+ on Artificial Intelligence for the national press, and Gent’s work on n-queens completion was
+ featured very widely. His advances in understanding patience games was featured by Major
+ Nelson, the most popular Xbox gaming podcast, in their 700th episode. Brady’s book, “Type Driven
+ Development with Idris”, has exceeded 5,500 sales. Dobson’s work on epidemic modelling gave
+ rise to a general-audience book and an associated web site making all the experimental code
+ available to “citizen scientists”.
+ Our virtual museum infrastructure has empowered 30 museums in 21 countries across the world
+ to understand, explore and digitally preserve their heritage. This includes reconstructions of 25
+ subjects, 370 digital artefacts, 109 virtual tours, 73 videos and 18 mobile apps. Our virtual reality
+ exhibits have been installed in 17 museums in Scotland with a combined annual footfall in excess
+ of 320k people, stimulating local economies by enhancing visitor experience. We have reached
+ millions of people through pieces in social and traditional media, including The Guardian, the BBC,
+ Google Maps and Facebook.
+ The School has a very active outreach programme for schools, with a view to spreading the
+ excitement of computer science to a broader range of social groups. This includes several week-
+ long residential summer programmes where students attend research-based lectures, labs, and
+ other activities organised by members of the School. Examples include events with the Sutton
+ Trust as part of the University’s agenda for widening participation; Science Summer Schools
+ organised as part of the University Summer Access Experience courses; and First Chances,
+
+                                                                                              Page 16
+Unit-level environment template (REF5b)
+ where local school pupils are supported in their literacy, numeracy and IT skills throughout the
+ academic year, culminating in a residential summer school. Throughout the year the School hosts
+ day visits from local schools themed around topics such as the development of computing
+ technology or the connection between Computer Science and video games. Dearle and
+ Balasubramaniam run in-class sessions and an after-school club at a local primary school.
+ Codefirst:girls is very popular, with many instructors from our student body: the School provides
+ space, competition judges and prizes, and St Andrews was the first university to include this
+ course on student transcripts. We supported the creation of a RoboGals chapter in St Andrews,
+ providing advice, guidance and equipment. As part of the interdisciplinary module Communication
+ and Teaching in Science our undergraduate students visit local schools to design and teach
+ lessons in their subject.
+ Personal Leadership, Recognition, and Awards
+ The leadership of our staff members is widely recognised. Dobson has been elected a Fellow of
+ the Royal Society of Edinburgh. Kelsey has been elected a Fellow of the Royal Society of Medicine
+ and a member of the International Society for Fertility Preservation, and is a Board Member of the
+ Managed Services Network for Children and Young People with Cancer, NHS Scotland. Jefferson
+ holds a Royal Society University Research Fellowship. Dang has been awarded a Leverhulme
+ Early Career Research Fellowship (2020-2023). Barker held a Royal Society Industry Fellowship
+ (2014-16). Voss was granted a Leverhulme International Academic Fellowship (2018-19), and has
+ been awarded a Technology and Human Rights Fellowship (2020) from the Carr Centre for Human
+ Rights Policy and Harvard. Bowles was selected for the Farr Institute’s Future Leaders in Health
+ Data Science programme. Several staff have held leadership roles in SICSA (see above). Quigley
+ served as SIGCHI Vice President for Conferences (2015–20), is an ACM Distinguished Speaker,
+ and served on the board of ScotlandIS, which represents Scotland’s digital technologies industry.
+ Sarkar received the ACM SIGPLAN Most Influential ICFP paper award, presented in 2017 (for
+ 2007). Henderson received best paper awards at: WSDM 2017 Workshop on Mining Online Health
+ Reports, 6th International Workshop on Hot Topics in Peer-to-peer computing, Online Social
+ Networking (HotPOST 2014). Nacenta received a Best Paper Honourable Mention Award at the
+ ACM SIGCHI Conference. Brady was awarded best paper at Trends in Functional Programming
+ 2014. Quigley was awarded best paper at the 12th ACM International Working Conference on
+ Advanced Visual Interfaces, 2014. Dang was awarded best paper in the GECCO 2017
+ Evolutionary Combinatorial Optimization and Metaheuristics track.
+ Several of our staff, such as Bowles, Dobson, Henderson and Sarkar, are members of the EPSRC
+ College. Sarkar was an invited reviewer for ANR France in 2018. Barker is an Independent Expert
+ for the European Commission. Dobson has been elected to the steering committee of ASOS, the
+ main conference venue for self-adaptive and autonomic systems research. Barker was a Google
+ Visiting Scientist in 2016, and a Google Senior Visiting Scientist in 2019.
+ Our staff are frequently asked to give invited or keynote talks. For example, Kelsey spoke at the
+ 4th Biennial World Congress of the International Society for Fertility Preservation, 2015, and the
+ 61st Annual Meeting of the Canadian Fertility and Andrology Society, 2015. Brady’s invitations
+ include IFL 2017, PLACES 2017, TYPES 2017, ML Workshop 2017, BCTCS 2017, SPLASH-I
+ 2016, Scala 2014, LFMTP 2014. Toniolo was invited to address the first Conference on “Bridging
+ the Gap between Formal Argumentation and Actual Human Reasoning”, Bochum, 2018. Quigley’s
+ frequent keynote invitations include: Mensch-und Computer Conference, Germany 2019; the 5th
+ International HCI and UX Conference 2019; and the IEEE Working Conference on Software
+ Visualisation, 2018. Ye gave a keynote talk at an international workshop at PerCom 2019. Dobson
+ delivered the keynote at the Conference on Design and Architectures for Signal and Image
+ Processing (2018).
+ An important aspect of leadership are editorial activities in the high-profile international journals
+ across all our areas of interest, which have included computer algebra (Linton: Applicable Algebra
+ in Engineering; Konovalov: Journal of Software for Algebra and Geometry), computing systems
+ (Linton: Communication and Computing; Barker: IEEE Transactions on Services Computing,
+ Journal of Cluster Computing), machine learning (Arandelovic: Information, Pattern Recognition),
+ human-computer interaction (Quigley: Proceedings of the ACM on Interactive, Mobile, Wearable
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+ and Ubiquitous Technologies; Nederhof: Transactions of the Association for Computational
+ Linguistics), and software technology (Brady: Journal of Functional Programming; Konovalov:
+ Journal of Open Research Software; Henderson: IEEE Technology and Society). Special issues
+ guest-edited have included topics in machine learning for cultural heritage (Arandelovic: Sci),
+ wireless technologies (Bhatti: IEEE Communications Magazine), high-performance computing
+ (Brown: International Journal of Parallel Programming, International Journal of High Performance
+ Computing), natural language technology (Nederhof: Journal of Language and Modelling), human-
+ computer interaction (Quigley: ACM Transactions on Interactive Intelligent Systems, User
+ Modelling and User-adapted Interaction), and sensing (Ye: Information, Sensors). Henderson has
+ served on the editorial board of ACM Books.
+
+
+
+
+                                                                                         Page 18
+

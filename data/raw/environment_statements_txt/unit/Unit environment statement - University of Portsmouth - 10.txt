@@ -1,0 +1,948 @@
+Unit-level environment template (REF5b)
+
+
+ Institution: University of Portsmouth
+
+
+ Unit of Assessment: 10 Mathematical Sciences
+
+
+ 1   Unit context and structure, research and impact strategy
+
+ Building on our success to date, our continued focus is on producing excellent research in
+ Applied Mathematics and Operational Research, from fundamental developments through to
+ applications and impact motivated by societal and global challenges. We work with academic
+ institutions, public sector bodies, and industry, to solve problems in sectors including the
+ environment and sustainability, renewable energy generation and storage, transportation, and
+ health. Our research output, networks and influence have grown, and our vision over the next
+ decade is to be at the forefront of these pressing challenges while remaining rooted in excellent
+ fundamental research.
+
+ 1.1 Unit Context and Structure
+
+ All staff submitted to UoA10 are mathematicians from the School of Mathematics and Physics
+ (SMAP) at the University of Portsmouth (UoP), formed in 2018 from the previously separate
+ Mathematics and Physics departments. The School is part of the Faculty of Technology. The
+ UoA has 19 staff (up from 11 in REF2014). Income, postgraduate research students and
+ publications have grown since REF2014. There are two research groups: Applied Mathematics
+ and Logistics, Operational Research, and Analytics (LORA). Both groups combine
+ fundamental research with industrial, commercial, and interdisciplinary applications.
+
+       Table 1: Mathematics research within SMAP. Key: *Left during assessment period.
+  Logistics, Operational Research,            Applied Mathematics
+  Analytics (LORA)
+  RESEARCH AREA             STAFF                  RESEARCH AREA              STAFF
+  Math. Programming         Li, Sim                Differential Equations     Cerasuolo, Kecker,
+                                                   and Applications           Foster, Pickett, Lee*,
+                                                                              Roustemoglou
+  Multi-Criteria            Jones, Treloar         Dynamical Systems          Simon, Burbanks,
+  Decisions                                                                   Osbaldestin
+  Cutting and Packing       Song                   Probability, Stat. Phys.   Gnacik, Burridge
+  Heuristic and Meta-       Ouelhadj, Khosravi     Topology and               Waters, Weiss
+  Heuristic Algorithms                             Differential Geometry
+
+ Applied Mathematics research has expanded in scope since REF2014, through increasing
+ headcount and strategic replacing of retirees, and now covers four broad areas: (1) differential
+ equations and applications, (2) dynamical systems, (3) interdisciplinary applications of statistical
+ physics and probability, and (4) topology and differential geometry.
+
+ LORA has achieved substantial growth in industry partnerships and income. Its research spans
+ (1) mathematical programming, (2) multi-criteria decision making, (3) cutting and packing, and
+                                                                                                 Page 1
+Unit-level environment template (REF5b)
+
+ (4) heuristic and meta-heuristic algorithms. LORA is supported in interdisciplinary research and
+ applications by our cross-faculty Research Centre, the Centre for Operational Research and
+ Logistics (CORL, see 1.2.2, 1.2.3), jointly founded and directed by LORA.
+
+ 1.2 Strategic Objectives: Past and Present
+
+ Past strategic aims for 2014-2021: (1) increase the quality and quantity of research, (2) develop
+ industrial and interdisciplinary applications, (3) enable impact including setting-up a Cross-
+ Faculty Research Centre, (4) increase and diversify our funding streams, and (5) improve
+ numbers of PhD students and postdocs.
+
+ We now describe our achievements and plans in relation to past and present strategy.
+
+ 1.2.1   Increase quality and quantity of research (aim 1)
+
+ To meet growing demand from external organisations in areas including renewable energy and
+ transport, we allocated funds for the strategic appointment of new staff (Foster 2016, Lee 2015)
+ working in industrial mathematics. This led to substantial funding success, publications and
+ impact. We replaced retiring staff with research-active new-hires with interests that complement
+ and broaden our Applied Mathematics research. New areas include mathematical biology
+ (Cerasuolo 2014), applied probability and stochastic processes (Gnacik 2016, complementing
+ Burridge), differential equations (Kecker 2014), and category theory and topology (Weiss 2016,
+ complementing Simon and Waters). We strengthened research in LORA with new staff in
+ optimization (Sim 2014) and computational approaches to applied problems (Khosravi 2014).
+ Strategy and support mechanisms for developing new hires are described in 2.2.
+
+ Future goals: (a) recruit to our strengths to support existing and emerging areas and aim to
+ improve participation from under-represented groups, (b) allocate workload and support fairly
+ and transparently to benefit research-active staff, while improving equality and diversity, (c)
+ identify and support fledgling research sub-groups, targeting leadership training, mentoring and
+ support. A promising avenue, in which we are growing local expertise and collaborations, is data
+ and machine learning that will drive new innovations and has the potential to revolutionise
+ traditional academic disciplines.
+
+ 1.2.2   Further develop interdisciplinary and industrial applications (aim 2)
+
+ LORA’s development of industrial applications explicitly promotes interdisciplinarity. This has
+ been particularly successful through the creation of our Cross-Faculty Research Centre
+ (CORL). LORA has also been instrumental in setting up two further collaborative networks in
+ partnership with Catapults [https://catapult.org.uk/], resulting in three interdisciplinary
+ collaboration hubs:
+
+ Our Centre for Operational Research and Logistics (CORL, est. 2014) brings together
+ researchers working on the mathematics underpinning operational research through to those
+ working on business applications with external partners (see 1.2.3, 3.3, 4.2).
+
+ The South Coast Centre of Excellence in Satellite Applications (SCCoE, est. 2016) brings
+ together academic institutions, businesses, Catapults, and local authorities (3.3, 4.2).
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+
+ The Intelligent Transport Cluster (ITC, est. 2018), combines the expertise of 54 academics
+ from 4 different faculties and brings them together with end users (3.3, 4.2).
+
+ These clusters have enabled numerous external collaborations with businesses and local
+ authorities, partnerships with Catapults (Renewable Energy, Connected Places, Satellite
+ Applications), and a substantial increase in funding on collaborative projects, leading to impact
+ (1.2.3, 1.2.4). Most recently Ouelhadj secured our role in the Solent Future Transport Zone
+ (FTZ, £28.75m consortium) as PI (£1.8m to UoP, funded by Department for Transport) on
+ sustainable solutions for transport of people and goods. LORA organises additional workshops
+ and conferences with industrial practitioners (see section 3).
+
+ A key aim of the Applied Mathematics group since REF2014 was to increase applicable and
+ interdisciplinary research. This was achieved through strategic recruitment and our Research
+ Leads actively encouraging staff to engage with other Portsmouth academics through the five
+ University-wide interdisciplinary Research Themes [see Institutional Level Environment
+ Statement, REF5aSections2,4].
+
+ Foster’s work in industrial mathematics with chemists, engineers, and the automotive industry
+ led to impact (see 1.2.3). Appointing Cerasuolo and Gnacik further strengthened
+ interdisciplinarity. Cerasuolo secured consortium funding to work on crop diversification and
+ collaborates internationally on experimental and theoretical models of prostate cancer. Burridge
+ and Gnacik’s work applying probability and statistical physics to social systems with Cambridge
+ collaborators attracted media attention and led to research fellowships (sections 2 and 3).
+ Weiss is developing applications of his Topological work to problems in machine learning.
+
+ Future goals: (a) further increase interdisciplinary research in Applied Mathematics, also
+ exploring research synergies with physics; we aim to break new ground connecting mathematics
+ with other disciplines to address global challenges in medical research, sustainability and
+ environment, renewable energy, and data analysis, and (b) further increase knowledge transfer
+ activities in LORA by involving a wider range of academic staff as project participants. We will
+ increase interactions with academia and industry, stepping-up our seminar programme and
+ number of joint proposals including cross-faculty projects facilitated by University Research
+ Themes and cross-disciplinary hubs, to generate external contacts and impact.
+
+ 1.2.3   Enable and facilitate impact, creating a cross-faculty Research Centre (aim 3)
+
+ We successfully delivered our REF2014 strategic aim to create a university-wide Centre for
+ Operational Research and Logistics (CORL). LORA co-founded CORL with the Faculty of
+ Business and Law. CORL provides focus for collaboration and impact-generating activities
+ across the University and has facilitated new industrial and academic partnerships. Its rising
+ profile led to hosting the Annual Conference of the OR Society (OR58, 2016), with Ouelhadj
+ invited to Chair. Its first five-year review (2014-2018) reported 100 published articles of
+ internationally excellent quality (target 60), £3m of income (target £1.65m) from 30 projects, and
+ 28 postgraduate research students (target 16) affiliated to the Centre, with LORA staff
+ contributing income: Ouelhadj around £1m, Jones £652k and Song £9.6k.
+
+ Our strategy to support interdisciplinary and industry applications (1.2.2) and impact led to
+ collaborations that enabled Ouelhadj’s development of automated railway station ticket barriers
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+
+ with Cubic Transportation Systems, Transport for London, Arriva UK and the Connected Places
+ Catapult (see Impact Case Study, REF3:UoA10Gatelines). In Applied Mathematics, Foster,
+ working on mathematical models of batteries, achieved substantial funding for postdocs. His
+ work with the automotive industry delivered “significant economic benefit” (quoting a General
+ Motors research scientist) by reducing the development costs of battery technology and
+ improving reliability and safety (see Impact Case Study, REF3:UoA10Batteries).
+
+ Further evidence of our infrastructure supporting interdisciplinarity and impact, including support
+ from our institutional Research & Innovation Services (RIS) [REF5aSection4], is given in
+ section 3.
+
+ Future goals: (a) increase impact, particularly from our Applied group; we will engage in industry
+ open days, meetings, and host visits from industry, brokered with the help of the University
+ Themes, RIS, and our 3 collaboration hubs; we will support staff to engage in knowledge
+ exchange fora including Newton Gateway and V-KEMS, (b) develop existing and potential
+ partnerships through our MSc in Logistics & Supply Chain Management student placement
+ programme, and (c) continue to lead on interdisciplinary hubs via LORA and seek to develop
+ similar initiatives for Applied Mathematics to grow business partnerships leading to impact.
+
+ 1.2.4   Increase volume and diversity of external research income (aim 4)
+
+ Prior to REF2014, research funding in Applied Mathematics (excluding Cosmology) was small
+ (£101k) and mainly from one grant. We set strategic priorities to grow funding and diversify the
+ range of sources. Our hiring plan and researcher support mechanisms to grow income are
+ detailed in section 3.
+
+ As a measure of success, Applied Mathematics income over the current REF period is over
+ eight times larger (£873k) than at REF2014, and derives from eight funding bodies, both
+ academically focused (EPSRC, Royal Society, Leverhulme Trust, European Commission) and
+ driven by commercial or industrial applications (Innovate UK, Aerogen Ltd).
+
+ LORA’s success prior to REF2014, and increasing demand for its expertise, led us to identify
+ Operational Research and Logistics as an important growth area, with impact as a priority. The
+ cross-disciplinary hubs (CORL, SCCoE, ITC) have brought together colleagues spanning a
+ wider range of applications, and pump-priming has helped secure roles in large grant consortia.
+ The resulting funding now spans four areas - Renewable Energy, Transport, Healthcare, and
+ Security and Risk - steered to align more closely with the University’s Research Themes.
+ LORA’s funding has grown from £823k during 2008-2014 to £2.2m, excluding £1.8m income
+ recently secured (Mar 2020) for the FTZ project.
+
+ Future goals: (a) increase volume and diversity of external research income by supporting all
+ staff to make high-quality (internally peer-reviewed) applications to a wider range of sources,
+ aiming for £1m per year by the end of the assessment period, (b) diversify staff participation in
+ high-value bids via mentoring, and (c) expand involvement in consortia by continued “pump-
+ priming” for exploratory meetings and seek small-scale funds to support visits and workshops.
+
+
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+
+ 1.2.5   Increase the numbers of postdocs and PhD students (aim 5)
+
+ We have increased PhD student numbers across the unit to 19 currently (8 at REF2014), with 16
+ completions over the REF2021 period. We recruited 10 postdocs, with 5 currently in post, and
+ for the first time have 2 in Applied Mathematics. Mechanisms supporting and maintaining growth
+ are detailed in section 2.3.1.
+
+ Future goals: (a) strengthen initiatives to grow PhD numbers using faculty-wide schemes,
+ research income and bursaries aiming for 2 per year and a 1:1 staff to student ratio, (b) develop
+ further links with potential partners and collaborators through international students, and (c) seek
+ cross-faculty and cross-institutional collaborations to fulfil the criteria for participation in Doctoral
+ Training Centres. We aim to maintain excellent results in the Postgraduate Research Experience
+ Survey (PRES).
+
+ 1.2.6   Progress on open research and integrity
+
+ Our institutional Open Research Policy [REF5aSection3.2] goes beyond REF Open Access
+ requirements. Timely deposit of all published outputs on the University Repository (Pure) is
+ required, with progress monitored centrally. 98% of outputs since 2016 (whether selected or not)
+ and 100% of submitted outputs are compliant. 100% of submitted staff have ORCIDs (cf. 43% in
+ 2018). 83% of submitted REF outputs and 91% of all 2019-2020 outputs met the goals of the
+ institution’s Research Data Management Policy regarding publication of code and data.
+
+ Under the University’s commitment to Research Integrity (informed by the Concordat to Support
+ Research Integrity), we refer ethical considerations not addressed at proposal stage to a Faculty
+ Ethics Committee (with 2 staff from each school). Of two projects not meeting the required
+ standards at first review, both gained approval after modification and further review, with one
+ requiring a third review to satisfy the Committee’s rigorous standards.
+
+
+ 2   People
+
+ 2.1 Overview
+
+ Since REF2014, investment in new staff, success in postgraduate recruitment, and replacement
+ of retiring staff has enabled new appointments in Applied Mathematics and LORA to strengthen
+ activity and expand into emerging areas of interest. New PhD student admissions increased
+ from less than one per year on average before 2017 to over two per year after 2017. Postdoc
+ numbers have increased steadily: 10 joined over the assessment period with 6 in the last three
+ years. New staff were supported to establish and maintain internal and external collaborations
+ including interdisciplinary activity. “Pump-priming” funds were provided to support collaboration
+ building and early-stage participation in grant consortia.
+
+
+
+
+                                                                                                   Page 5
+Unit-level environment template (REF5b)
+
+ 2.2 Staffing Strategy and Staff Development
+
+ 2.2.1   Staff Recruitment
+
+ We met our REF2014 aim to recruit permanent staff in LORA (+2) and Applied Mathematics
+ (+8), appointing research-active candidates with a track record of strong publications and
+ potential for grant acquisition and/or impact.
+
+ Our strategy was to recruit to our strengths while looking for opportunities to complement and
+ expand our core research areas. Appointments were targeted at developing industrial
+ mathematics (Foster, Lee), applied probability and statistical physics research (Gnacik),
+ mathematical biology, theoretical ecology, epidemiology, and medical applications (Cerasuolo),
+ topological data analysis (Weiss), and analytical (Sim) and computational (Khosravi) aspects of
+ operational research. Lee was headhunted for a Professorship but retains close links with
+ Portsmouth through visits and joint publications.
+
+ Our strategy to help new staff realise their research potential focuses first on reduced workload
+ and mentorship. New staff are freed from administrative roles for 1 year and given reduced
+ teaching commitments. This enables them to make research progress, maintain remote
+ collaborations and develop new ones, and initiate grant applications. We pair new staff with
+ experienced mentors and prioritise them when allocating fully-funded PhD bursaries with
+ experienced co-supervisors.
+
+ 2.2.2   Staff Development
+
+ Staff development is nested within the University’s People Strategy 2016-2020, the Concordat to
+ Support the Career Development of Researchers (CSCDR) and central HR policies
+ [REF5aSection3].
+
+ Mentoring & Training including for Early-Career Researchers
+
+ Treloar, Foster, Gnacik and Cerasuolo began independent research in 2014-2020. Treloar was
+ mentored to restart his research, leading to publication. Foster was supported by targeted PhD
+ bursaries, reduced workload and early mentorship from Lee. His Fellowship application was
+ supported by the University’s Themes Research and Innovation Fund (TRIF) and the Research
+ Innovation and Development Fund (RIDF). Under Burridge’s mentorship, Gnacik achieved
+ research independence and promotion to Senior Lecturer. Gnacik and Cerasuolo were
+ supported by bursaries and matched travel funding to develop collaborations.
+
+ A representative of Early-Career Researchers (ECRs) attends faculty research management
+ meetings. ECRs gain peer support and representation through the institution’s Researchers
+ Forum; the Research Staff Network represents postdocs’ interests.
+
+ We pair ECRs (as 2nd or 3rd supervisors) with experienced staff on PhD supervision teams to
+ gain experience, increasing the future pool of 1st supervisors. This provides mentorship and
+ opportunities for interdisciplinary work by including co-supervisors from outside the School.
+
+ Induction Conferences and institutional RIS Development Programmes are available to all staff
+ and postdocs, with 13 staff attending 17 programmes during 2014-2019, including Writing
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+
+ Targeted Research Proposals, Research Data Management, Becoming Reader and Professor,
+ Fellowship Applications, Impact and Engagement, and Media Promotion.
+
+ Stimulating exchanges with academic peers and industry
+
+ Regular research seminars in LORA and Applied Mathematics welcome national, international
+ and internal speakers with gender balance monitored. We aim to develop additional seminar
+ programmes with increased external participation including visits by eminent academics.
+
+ We support visiting academics and host Visiting Industry Fellows (including internationals) as
+ part of our global engagement strategy, providing office space, computing, and integration into
+ departmental activities. The Annual Conference of the Operational Research Society (OR58)
+ was held in the School. The School hosted a Collaboration Manager from the RIS Business
+ Engagement Team to enable more direct support for initiating and strengthening collaborations.
+
+ Support with fellowships, internal funding and sabbaticals
+
+ We identify and support fellowship applicants at early and established career stages. Calls are
+ disseminated and applications reviewed by senior staff. Selected applicants are supported via
+ constructive feedback and a cohort training programme to engage in a University bid process,
+ most recently Foster for a UKRI Future Leaders Fellowship. The School and Faculty commit to
+ support successful applicants by appointment of postdocs, PhD students and teaching relief.
+ Faculty and University support is facilitated by the Deputy Director of RIS and approved by the
+ Pro Vice-Chancellor for Research and Innovation. Recent success includes Burridge for a
+ Leverhulme Trust Fellowship and Royal Society APEX Award.
+
+ All staff are encouraged and supported to seek competitive Faculty funding for postdocs, PhD
+ students and sabbaticals. The University devolves REF2014 QR monies to faculties that
+ generated them, helping enable a rolling programme of bursaries.
+
+ The University Research Themes [REF5aSection3.2] strengthen focus, foster collaborations and
+ provide financial support. The Future and Emerging Technologies Theme supported the
+ successful cross-faculty Intelligent Transport Cluster with Ouelhadj as Director (£5k).
+
+ A Strategic Fellowship from the Themes Research and Innovation Fund supported Foster
+ (£7.4k). The RIS Research Development Fund supports innovative proposals (e.g., Burridge
+ received £17k). The Faculty monitors achievement on sabbaticals, providing constructive
+ feedback. Sabbaticals for Burridge and Waters (2017) led to outputs, funding, media coverage,
+ impact activity, and collaborations.
+
+ Development, reward and promotion
+
+ All staff and postdocs have annual Performance and Development Reviews to review progress,
+ set goals and assess development needs and career plans. Discussion of career plans forms
+ part of postdocs’ regular supervision meetings in line with the Concordat (CSCDR)
+ [REF5aSection2]. Staff development funds cover research visits, meetings, conferences and
+ short-stay visitors (staff also seek external match funding).
+
+
+
+                                                                                            Page 7
+Unit-level environment template (REF5b)
+
+ The School recognises research leadership by rewarding staff who consistently exceed
+ benchmarks by encouraging them to apply for promotion. Research time forms part of the
+ School's workload model. The University provides leadership training and has been quick to
+ recognise contributions of staff through promotions, with 8 from Lecturer to Senior Lecturer, 3
+ from Senior Lecturer to Principal Lecturer, Ouelhadj to Reader in 2015 and Professor in 2017,
+ Burridge to Reader in 2019, and Foster to Reader in 2020.
+
+ 2.3 Research students
+
+ 2.3.1   PhD and postdoctoral recruitment
+
+ Increasing our quality and quantity of research has attracted more high-quality PhD applicants.
+ In 2020, there were 19 PhD students, with 16 completions during 2014-2020, compared to 8
+ students and 6 completions at REF2014. Strategic pairing of new staff with experienced
+ supervisors and targeted PhD bursaries has built a larger pool of first supervisors.
+
+                    Table 2: Postgraduate recruitment and completion.
+  PhD Student/Postdoc    2014 2015 2016 2017 2018 2019 2020                         TOTAL
+  New PhD students                -      1       1       2      3       2       2       11
+  PhD completions                1       2       1       2      6       3       1       16
+  Postdocs starting*             2       0       2       0      4       1      *1       10
+
+ *Not including 6 new postdocs for the FTZ project (won March 2020) secured for 2020/21 (See
+ section 1.2.2)
+
+ The pipeline of future PhD students is developed by a range of activities. Talent is nurtured
+ through Summer projects supported by small external grants, e.g., from the London
+ Mathematical Society (LMS). These can lead to genuine research contribution and publications,
+ boosting students’ enthusiasm and confidence and increasing their academic employability.
+ Undergraduate modules and projects embed research thinking and students are invited to
+ selected seminars. We launched (2017) a new 4-year MMath degree and MRes programme.
+
+ We seek high-quality applicants and receive international applications, particularly in LORA. A
+ rigorous interview (with a gender-balanced panel where possible) emphasises quality. All staff
+ involved in recruitment are trained in Best Practice in Selection and Admission of Postgraduate
+ Students. Supervisor training includes Best Practice in Supervision, Being a 2nd or 3rd
+ Supervisor, Supervising Part-Time Students, Managing and Monitoring Projects, and conducting
+ external and internal vivas.
+
+ We explicitly encourage staff to collaborate on cross-school and cross-faculty project proposals
+ for internal bursaries. Recent examples include a joint PhD with our School of Civil Engineering
+ and Surveying on failure mechanisms for multi-layer materials. Proposals must address training
+ and support to be provided. We provide feedback and share best practice to develop staff ability
+ to scope support requirements for projects.
+
+ The PhD cohort is funded by a combination of individual grants, bursaries, industry partnerships
+ and self-funding. The Unit won nine internally funded competitive bursaries: 7 in Applied
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+
+ Mathematics (3 female, 4 male) and 2 in LORA (1 female, 1 male). These often benefit our best
+ home-grown undergraduates.
+
+ During 2014-2020 we recruited 10 postdocs with 11 in post during the REF period (6 male, 5
+ female). We currently have 5 in post (4 female). Historically, these were funded by industry
+ partnerships through LORA. We broadened this, securing two postdocs for Applied Mathematics
+ working with Foster and Cerasuolo. The FTZ project alone will bring 6 new postdocs in 2020/21.
+
+ 2.3.2   Induction, Support, and Progress
+
+ PhD students work in a large, shared office with access to dedicated space for workshops, mock
+ and actual PhD vivas and meetings. New postgraduates receive induction, department training
+ on mathematical techniques and software, and external training, e.g. from NATCOR (for LORA)
+ and summer schools (for Applied Mathematics). The University Graduate School
+ [REF5aSection3(2.2)] runs a Development Programme including research design, doctoral
+ process, publishing, and careers. Our staff contribute specialist sessions, including on LaTeX
+ and Machine Learning. Students are encouraged to engage in our institutional GPROF
+ programme to gain accreditation for delivering seminars and lectures.
+
+ All students meet at least one supervisor weekly. We encourage students to submit a summary
+ of progress and agreed goals using the Skills Forge system provided by the Graduate School.
+ Students have annual reviews with independent reviewers that are also used to explore career
+ plans and identify support. In preparation, students practise mini-seminars informally as a group
+ and present them to staff for feedback.
+
+ To immerse postgraduates, ECRs and other new staff in our research culture, we run regular
+ meetings and weekly seminars. Students and postdocs are expected to present within their
+ group’s seminars and externally. Regular large workshops and conferences are run by CORL,
+ which funds additional travel and collaboration.
+
+ Students and postdocs must present a poster or seminar at annual Faculty Research Days,
+ which provide cross-disciplinary networking for students, postdocs and staff, and further prepare
+ postgraduates to present externally. Bursary funding includes costs for conferences and
+ equipment, augmented by School provision.
+
+ 2.3.3   Skills development and preparation for careers
+
+ The School gained the highest results across the University in the PRES in 2018, with a 100%
+ satisfaction rating. Burridge was awarded Faculty Outstanding Supervisor of the Year.
+
+ We want our students to become independent researchers, rather than merely to complete and
+ defend a thesis. Career aspirations are discussed in regular supervision meetings of students
+ and postdocs, emphasising transferable and academic skills. Successes include a student who
+ is now a postdoc in the Business School, another whose PhD was funded under an initiative to
+ revitalise Iraqi universities and is now a lecturer at Basrah University, one is now a junior data
+ scientist, one works for BAE Systems in defence research, and one is a lecturer in Saudi Arabia.
+
+
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+
+ Over 70% of students whose work led to publications are BAME. We aim to further increase
+ publication rates among students.
+
+ 2.4 Equality, Diversity and Inclusion
+
+ We have made progress towards improving inclusion in a field that is traditionally male
+ dominated: 32% of our REF submitted staff are female (27% in REF2014). Among eligible staff,
+ 42% are female. The gender pay gap shows median female pay 4% lower and mean female pay
+ 6% lower in 2020. We are committed to closing this gap. The School has an internationally
+ diverse staff from 13 countries (31% British, 27% EU, 42% Non-EU International). All permanent
+ eligible staff members were submitted to this REF.
+
+ To ensure no significant differences in E&D were introduced in preparing the REF submission,
+ outputs were reviewed by gender-balanced groups and approved by a panel trained in E&D.
+ Under the University Code of Practice [REF5aSection3(3.1)], no staff members are expected to
+ contribute specific numbers of outputs, regardless of characteristics, although E&D is considered
+ during selection if a quality tie-break occurs. Of staff submitted, 22% are BAME (29% of eligible
+ staff are BAME). An Equality Impact Assessment (EIA) revealed that 23% of submitted outputs
+ were attributed to female staff and 25% to BAME. The differences in gender and BAME profiles
+ between submissible and eligible staff result from postdocs who do not meet institutional criteria
+ for research independence. The numbers do reflect our success in attracting BAME and female
+ postdocs (nationally only 15% are BAME) and our commitment to building a pipeline of future
+ independent researchers with diverse backgrounds.
+
+ All staff undertake mandatory training including Bullying & Harassment, Unconscious Bias, and
+ Equality & Diversity. Staff involved in preparing this REF submission had additional training
+ related to our Code of Practice.
+
+ The University retained its Athena Swan Bronze Award in 2018. The Department of Mathematics
+ received the Bronze Award in 2016. We identified and achieved key aims including the creation
+ of an E&D committee with diverse representation, more women in senior roles, rescheduling
+ activities within core hours, recruitment materials that emphasise diversity and flexibility, and
+ additional funding for programmes such as Aurora [REF5aSection3(2.1)]. E&D is now integrated
+ into the agendas of all School committees. We encouraged male staff to do outreach, to balance
+ the higher staff time previously invested by female staff. We will seek a renewed Award for the
+ newly constituted School of Mathematics and Physics.
+
+ The School supports the LMS Good Practice Scheme and Institute of Physics Project Juno. We
+ aim to support a Women in OR and Analytics Network (WORAN, Ouelhadj is on the Steering
+ Committee). Osbaldestin, as Chair of the Heads of Departments of Mathematical Sciences
+ (HoDoMs), helped develop the “Advancing Women in Mathematics” report commissioned by the
+ LMS and launched at the House of Commons.
+
+ We ensure all staff are aware of their rights to flexible working. No staff are currently part-time or
+ have declared disabilities, but several worked flexibly in 2014-2020. We supported staff dealing
+ with and returning from long-term illness and with caring responsibilities with adjustments to
+ duties, via relevant HR and Occupational Health policies, including compassionate leave and
+ processes for timetable adjustment. To support home working in 2020 we provided students and
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+
+ staff (including professional staff) with IT, including tablets for handwriting mathematics, and a
+ local “Keeping-in-touch” programme of weekly contact emphasising wellbeing. Postgraduates
+ are supported by the Student Wellbeing Service.
+
+ Departmental, faculty and institutional meetings are scheduled carefully to avoid unfairly
+ disadvantaging anyone. Staff submit requests for timetable constraints to a central team who
+ consider E&D. We have pursued increased cross-gender and cross-characteristic representation
+ on interview panels and committees while aiming to minimise additional burden for staff with
+ protected characteristics. Several institutional staff networks provide peer support covering
+ protected characteristics (e.g., Parents and Carers Network) augmented by a confidential 24-
+ hour Employee Assistance Programme [REF5aSection3]. Additionally, CORL’s new 5-year plan
+ includes three diversity goals: to ensure all members can (1) participate in an externally funded
+ project, (2) co-supervise a PhD, and (3) contribute to research likely to produce high quality
+ outputs. Progress is monitored by the Director (Jones) with senior academics.
+
+
+ 3   Income, infrastructure and facilities
+
+ 3.1 Value of funding secured
+
+ We have delivered on our aim to increase the volume and diversity of external income by
+ improving support for staff to make high-quality applications to a broader variety of sources (see
+ also 1.2.4). LORA has been the most successful, having extensive involvement in consortia with
+ international and UK business and the public sector. The Applied group has secured competitive
+ fellowships and individual awards.
+
+ The University's Research Information Database (Pure) shows total awards to UoP (2014-2020
+ by award date) of new grants or partnerships secured involving staff in the UoA as £3.122m,
+ with £2.325m having UoA staff as PI and £0.797m as Co-I, of which portions are received by the
+ UoA. Income received within the REF period allocated to the UoA [REF4] was £1.655m
+ (compared with £0.327m at REF2014).
+
+ 3.2 Infrastructure and strategy supporting income generation
+
+ Our hiring plan focused on recruiting research-active individuals (and/or those with the potential
+ for independent research) with an emphasis on industrial and interdisciplinary applications. New
+ hires were supported to achieve their potential and we provided mentoring in an open and
+ collaborative research environment. Alongside guaranteed funding for conferences and visits,
+ staff were successfully encouraged to apply for University-wide pump-priming funds. This helped
+ build external networks and collaborations and support larger grant applications by funding
+ short-term focused sabbaticals, travel, and workshops.
+
+ Early and mid-career staff were mentored to seek internal funding for sabbaticals and “pump-
+ priming” activities for collaborations and travel, small external grants (including for working-in-
+ pairs), participation in consortia as Principal Investigator (PI) or co-Investigator (Co-I), or
+ individual fellowships. Many funding calls are collected by Faculty and disseminated to the
+ School where suitable applicants are identified by group leads and the Associate Head
+ Research, and staff are encouraged to look for suitable opportunities.
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+
+ Staff are supported from the moment they express an intention to apply (by completing an
+ electronic form). This triggers the review of outline proposals by School and Faculty, providing
+ initial feedback. For those which progress, seven RIS Grants and Development Officers support
+ drafting and costing with finance officers. Best practice is shared within the School by individuals
+ with a track record of success who offer additional editorial, costing and personnel advice. The
+ University Peer-Review College provides further feedback and ensures quality [REF5aSection4].
+ “Grant Hothouse” workshops provide mock proposal reviews. Faculty administration collects and
+ manages bid information from intention through to post-award.
+
+ The University Themes and our collaboration hubs provide targeted support for income
+ generation (3.3, below).
+
+ Of the staff who generated income in excess of £100k during the assessment period, 50% are
+ female. The School recognises and appreciates all contributions. Successes have been
+ reflected in targeted support and in promotions. A diversity goal of CORL’s new 5-year plan
+ (2019-2023) is to ensure all researchers can participate in an externally funded project.
+
+ Funding of individuals including competitive and prestigious awards
+
+ Successes include an EPSRC New Investigator Grant for Foster’s work on lithium-ion batteries
+ (£310k, 4.2.2 and REF3:UoA10Batteries), a Royal Society APEX Award (£61k) and Leverhulme
+ Trust Fellowship (£46k) for Burridge’s interdisciplinary work at the interface of mathematics and
+ social sciences. All were supported by School co-funding to enable teaching relief. Song
+ received Royal Society funding (£9.6k) for a project on resilient blood supply chain system
+ design for disaster relief, which was supported through co-funding visits.
+
+ 3.3 Infrastructure supporting consortia, industry partnerships, and impact
+
+ 3.3.1   Pump-priming
+
+ We recognise the importance of meetings that can lead to collaboration and, ultimately, national
+ and international funding consortia and industry partnerships. We support staff to engage early,
+ knowing that outcomes are uncertain but that investment is necessary to ensure we play a
+ pivotal role. We help staff build collaborations, cost projects, and plan staffing cover. RIS and the
+ Themes help identify expertise and bring together optimal cross-disciplinary bid teams.
+
+ We described in REF2014 how pump-priming led to an EU project (“2OM”: Offshore Operations
+ and Maintenance Mutualisation) and to LEANWIND (Consortium €15m, European Commission)
+ that pursues cost reduction across the offshore wind farm life-cycle. LORA built on this
+ experience, accessing mainstream EU funding, supported by our pump-priming initiatives.
+
+ We funded Ouelhadj to attend an EU 2-Seas Interreg brokerage event leading to the SLIC
+ (consortium €4m; UoP £192k) and NEREUS (consortium €7m; UoP £223k) projects. SLIC is
+ developing energy savings, efficiency and renewable energy use in public lighting, to increase
+ uptake and reduce carbon emissions. NEREUS will transform wastewater into a valuable
+ reusable source of water, nutrients and energy. We funded Jones for two visits to Norway,
+ producing a collaboration with Arctic and North Atlantic Coastguards on ARCSAR (EU
+ consortium €4m) to support frontline security and an Emergency Preparedness Network.
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+
+ 3.3.2   Consortium and partnership formation
+
+ Sustained activity since 2014 and the need to diversify beyond EU sources led us to bolster our
+ infrastructure. We created a network around a core team from LORA and the University,
+ experienced in developing consortia and industry partnerships, to respond to new opportunities
+ and mentor staff (by pairing on projects). Successes include the recent FTZ project (1.2.2),
+ Intelligent Gatelines (funded by Rail Safety Standards Board; consortium £1.3m; UoP £241k),
+ and WASP (Innovate UK; consortium £900k; UoP £153k). WASP will design an integrated
+ autonomous vessel delivery system for offshore wind farm maintenance.
+
+ In Applied Mathematics, an example instigated through pump-priming, pairing and mentoring, is
+ Cerasuolo as PI on the European Commission funded project Diverfarming on Crop
+ Diversification and Low-Input farming (£165k), which recently produced high-quality output.
+
+ 3.3.3   Identifying and supporting impact
+
+ We foster early impact through a variety of channels. We supervise sponsored international PhD
+ and MSc students on placements with industrial partners, brokered with the aid of RIS. We liaise
+ with RIS and our Press Office to publicise our expertise and initiate external relationships,
+ culminating in regular visits to non-academic partners for whom we run Continuing Professional
+ Development courses. We host long-stay visiting academics and Industry Research Fellows
+ from existing and prospective partners.
+
+ We train and support our researchers in identifying, understanding and achieving impact, with
+ help from a Faculty Impact Team and the central RIS Impact Team and Collaboration Managers
+ [REF5aSection4]. Our pump-priming funds for staff travel to exploratory meetings and
+ international project preparation events lead to engagements with local companies and public-
+ sector bodies and with large networks of partners. Knowledge transfer is additionally supported
+ by internal funding schemes for innovative proposals and via external KTPs (e.g. Innovate UK).
+
+ Supporting infrastructure is enhanced by the University Themes, RIS, and our three
+ interdisciplinary hubs (CORL, SCCoE, ITC):
+
+ Our cross-faculty Centre for Operational Research and Logistics (CORL) brings together
+ interdisciplinary teams of researchers from across the University (in mathematics, technology,
+ business and industrial research) with partners in the public and private sectors, to address their
+ challenges in areas including technology, efficiency and sustainability.
+
+ The South Coast Centre of Excellence (SCCoE) in Satellite Applications is supported by a
+ consortium of 20 academic, industrial, government and third-sector partners to address
+ challenges spanning healthcare, media, education, construction, environmental resource
+ management, tourism, and agriculture. It helps businesses to gain a foothold in satellite
+ applications by supporting them to develop collaborative projects, share expertise, identify and
+ gain funding, and network with academia. It gained funding for its second phase (2019-2022)
+ from the UK Space Agency and the Satellite Applications Catapult (total £600k, UoP £300k).
+
+ The Intelligent Transport Cluster (ITC) builds on 10 years of collaboration with the Connected
+ Places Catapult (and its precursors). It unites users with academics (54 across 4 faculties of the
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+
+ University) to address goals of the Industrial Strategy and Future of Mobility Grand Challenge in
+ land, air and marine transport. It aims to meet the market need in the South Coast region, home
+ to the UK’s largest marine and maritime sectors. The Solent area alone generates 10% of the
+ sector’s UK GDP, provides 48,000 jobs locally and supports over 3,000 businesses.
+
+ 3.3.4   Infrastructure Leadership
+
+ Staff in our LORA research group comprise 50% of the management of CORL (Jones: Director,
+ Ouelhadj: Director of Innovation & Enterprise, Song: Scientific Research Coordinator), 50% of
+ the management of SCCoE (Ouelhadj: Director of Operations), and 100% of the management of
+ ITC (Ouelhadj: Director).
+
+ These hubs and the University Themes provide administrative and financial support for
+ networking, planning, and collaboration. CORL’s first 5-year report (2014-2018) noted £3m
+ income (target £1.65m) generated from 30 projects. SCCoE (2016-2020) established
+ outstanding business and local authority collaborations generating income around £18m. The
+ ITC launch event (2019) gained support from the Future and Emerging Technologies Theme,
+ attracting 145 delegates (with 80 from transport businesses and local authorities).
+
+ 3.4 Additional infrastructure including computing facilities
+
+ Academic staff, postdocs, and students are housed in the Lion Gate Building of the University’s
+ City Campus adjacent to several collaborating departments. Academics have individual or
+ shared offices and a staff room (with kitchen) that helps encourage informal discussions.
+ Postdocs have shared rooms and students have a large, shared office with a library area. The
+ University Library and central administration are within walking distance, enabling face-to-face
+ discussions with RIS, marketing, and other functions that support impact.
+
+ All staff receive desktop and laptop computers with central and local IT support. We provide
+ licenses for specialist software including Mathematica, Maple and MATLAB.
+
+ Staff and PhD students can access the SCIAMA 1000+ cores distributed-memory High-
+ Performance Computing cluster (at the University’s Institute for Cosmology and Gravitation), via
+ dedicated client software with support from a supercomputing technician, enabling large-scale
+ parallel computations.
+
+ During 2014-2020 we employed additional professional staff: one to develop the CORL website,
+ to improve its external face, with Higher Education Innovation Fund (HEIF) funding, and one to
+ support bid writing.
+
+
+ 4   Collaboration and contribution to the research base, economy and society
+
+ 4.1 Overview
+
+ Collaborations with national and international academic partners, industry, and non-commercial
+ organisations have risen substantially over 2014-2020. Our research has reached its target
+
+
+
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+
+ audiences, including commercial end-users, mathematicians, other disciplines, and the public,
+ disseminated through industrial links, research visits, outreach and the media.
+
+ 4.2 Research collaborations, networks and partnerships
+
+ 4.2.1   Collaborations within academia
+
+ Collaborations are supported by funding short-term research visits from external collaborators,
+ often combined with seminars, by flexible funding for travel and conference fees accounting for
+ individual circumstances, and via our research centre and clusters supported centrally by RIS
+ and the University Research Themes. We supported applications for exchange grants to foster
+ new partnerships. Alongside University pump-priming funds, this initiated fledgling collaborations
+ that led to new and interdisciplinary research directions and outputs.
+
+ LORA members have formed academic partnerships in the USA, China, Brazil and Iraq: CORL
+ funded Sim to visit Georgia’s Institute of Technology to work with a world-leading team on
+ mathematical programming, leading to high quality publications. Supervising a PhD student (now
+ lecturer at Basrah University) under a scheme to rebuild Iraqi academic expertise yielded
+ ongoing collaboration. We developed links with Brazilian (multi-objective optimization and
+ biomathematics) and Spanish (Heuristics, transportation algorithms) universities. The latter was
+ supported by research exchange visits with staff from Oberta De Catalunya University (2014)
+ and the Public University of Navarra (2017) funded by ERASMUS.
+
+ Incoming and outgoing visits by staff, funded by the Newton Scheme, ERASMUS and
+ international funding councils led to many good quality publications. Extended visits and visiting
+ research students have also helped build academic partnerships in China: Li was supported by
+ CORL and the National Natural Science Foundation of China (NSFC) to build collaborations with
+ Shanghai University of Finance and Economics. Song was supported by the Royal Society to
+ visit Shanghai Jiao Tong University (2019). Our School supported and hosted reciprocal visits
+ for the project, leading to strengthened Chinese collaborations. This created new research
+ avenues to develop a resilient blood supply chain after earthquakes, leading to several
+ publications, invitations to speak, and contribution to a review article. The work gained the
+ attention of NHS Blood and Transport (NHSBT). Further funding from MRC is being sought.
+
+ The School hosted Summer internships (May-August, 2013-2018) from City University, Hong
+ Kong. We also attracted researchers supported by national and international scholarships
+ including Villa (Della Riccia fellowship 2014) and Barbosa (UNESP, Brazil, 2018).
+
+ These initiatives strengthened interdisciplinarity in the Applied group, exemplified by Cerasuolo’s
+ recent collaboration with Consiglio Nazionale Delle Ricerche (Italy) for a project funded by GW
+ Research Ltd (Cambridge) on the TRAMP model for prostate cancer. We provided travel
+ funding, which included tickets for Cerasuolo’s dependents. An LMS Research in Pairs scheme
+ supported work on plant pathogens with Naples University. She was also external collaborator
+ and mentor of the lead applicant on the Newton International Fellowships 2018 for Cappelli,
+ Chiara Natural History Museum project “Choosy fungi”, and has local collaborations with
+ colleagues in Health Science and Marine Biology, one supported by a joint Masters Research
+
+
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+
+ student developing a tuberculosis model accounting for human behaviour and another modelling
+ the influence of climate change on algal growth.
+
+ Other interdisciplinary collaborations include Burridge’s work with quantitative linguists from
+ Cambridge and Pennsylvania on spatial models of language evolution. Internal support led to
+ two competitive fellowships (Royal Society 2018, Leverhulme Trust 2016) producing multiple
+ articles in high-quality journals, media coverage and invited lectures. Internal funding enabled
+ outreach talks to schools, participation in a city-wide project on local dialect, and statistical
+ support to Bristol and Portsmouth doctors for COVID-19 aerosol “cough” experiments. Burridge
+ and Gnacik adapted linguistics models in early 2020 to understand social distancing behaviour.
+
+ The School and the Czech Science Foundation (GAČR) jointly funded research visits for Gnacik
+ (2016-present) to form collaborations with the Czech Academy of Sciences Department of
+ Abstract Analysis. The new results on doubly stochastic matrices have led to seminar invitations
+ at Oxford University and to the 23rd Conference of the International Linear Algebra Society in
+ Galway. Recent funding (May 2020) from a University Impact Accelerator Account (funded by
+ STFC) provided a postdoc to analyse social distancing using satellite images.
+
+ 4.2.2   Collaborations outside academia
+
+ Collaborations outside academia have been driven mainly by LORA, both directly and via our 3
+ collaboration hubs (CORL, SCCoE, ITC). The main non-academic user groups span public-
+ sector organisations and authorities, and commercial organisations in transportation, healthcare,
+ and renewable energy (including multinationals, especially in port and maritime logistics, freight
+ and passenger transport, and offshore wind). They face challenges of managing complex flows
+ of resources amid conflicting objectives, performance targets, and constraints. They look to
+ LORA for techniques to help analyse the complex inter-dependencies of their business. Our
+ researchers work directly with users to build bespoke models employing optimisation, prediction
+ and simulation modelling, heuristics and meta-heuristic methods, and multi-criteria decision
+ making, enabling them to plan and optimise robust operations across potential scenarios. Work
+ with these groups, alongside contributions from Applied Mathematics, provides the basis for our
+ Impact Case Studies.
+
+ Renewable Energy and Sustainability
+
+ During 2012-2016 LORA applied their theoretical work on multiple objective decision support
+ optimisation and scheduling to marine renewable energy. Having jointly secured the “2OM”
+ project (covering the Channel Interreg zone; southern UK and northern France, with 11
+ partners), they jointly founded LEANWIND (EU funded, with 31 partners) to develop and apply
+ decision support tools. LEANWIND addressed challenges posed by the entire life-cycle of wind
+ farms including selecting sites, planning, managing supply chains, constructing, monitoring,
+ maintaining, and decommissioning. It spans configuration and scheduling of land-based and
+ port-based infrastructure, servicing by marine staff and routing autonomous service vessels over
+ the Mediterranean and English Channel. Benefits to stakeholders are reductions in cost and
+ environmental impact. Support for organising workshops enabled LORA to build a further
+ relationship with Polaris Consulting Ltd as part of a KTP with Innovate UK. The work generated
+ 15 publications and was supported by an internally funded PhD.
+
+
+                                                                                            Page 16
+Unit-level environment template (REF5b)
+
+ In Applied Mathematics, Foster established collaborations with Oxford, McMaster (Canada) and
+ Southampton universities and industrial partners including General Motors and Dassault. His
+ work with General Motors provided enhanced theoretical understanding and modelling
+ capabilities that led to new methods to improve the lifetime, performance, safety and reliability of
+ Lithium-ion batteries (see REF3:UoA10Batteries). This is crucial to the future uptake of electric
+ vehicles, contributing to societal goals to reduce emissions and waste, and significantly reduces
+ the time and cost of product development. An EPSRC New Investigator Grant (£310k) allowed
+ the appointment of a postdoc (2020-2023). Foster is part of the Faraday Institute Challenge
+ (award £216k) to support multiscale modelling, in which he is training an additional postdoc.
+
+ Transport and Maritime Systems, Risk and Security
+
+ During 2012-2018, Ouelhadj, Khosravi, and others were supported to undertake research in
+ optimisation, scheduling, heuristics, meta-heuristics and stochastic simulation and (2016-2020)
+ applied this to optimise passenger flow through gate lines (ticket barriers), crucial for efficient
+ throughput of people and for crowd management, reducing congestion and improving safety.
+ Funded by the Rail Safety and Standards Board, with industrial partners including Cubic
+ Transportation Systems Ltd, Transport for London, Arriva UK Ltd, and the Connected Places
+ Catapult, the resulting self-reconfiguring gate line solutions are widely applicable (see
+ REF3:UoA10Gatelines).
+
+ The WASP project (in collaboration with Renewable Energy Catapult, L3Harris, Holders Ltd, and
+ SeaRoc Ltd) and AntsOnDeck (in collaboration with Polaris Consulting Ltd, L3Harris, and BMT
+ Argos) support development and optimal routing of autonomous vessels for wind farm
+ maintenance and for defence.
+
+ Early-stage institutional support, including visits by a RIS Collaboration Manager (from the
+ Business Engagement Team) to an EU Security brokerage event in Brussels and pump-priming
+ funds for two subsequent visits by Jones to Norway, nurtured a LORA partnership with Arctic
+ and North Atlantic coastguards on the ongoing EU ARCSAR project to tackle transnational
+ maritime threats and enhance safety and security.
+
+ To enable focussed collaboration and foster new connections, the School appointed and hosted
+ Visiting Industry Research Fellows from our industrial collaborators including Fletcher (Cubic
+ Transportation Systems), Galatioto (Connected Places Catapult), Cheeseman (Offshore
+ Renewable Energy Catapult), Trafford (Fawley Waterside), and Fennessey (BAE Systems
+ Maritime Services).
+
+ 4.3 Wider activities and contributions to research base
+
+ 4.3.1   Indicators of wider influence and contribution
+
+ Journal Editorships include Jones (Mathematical Problems in Engineering and Advances in
+ Operations Research), Foster (guest editor IOP Progress in Energy) and Li (guest editor Pacific
+ Journal of Optimization). Staff throughout the department peer review for over 50 journals.
+
+ Approximately half our staff were invited to present in 2014-2020. Notable examples include
+ Ouelhadj (keynote OR60), Jones (keynote, Spanish MCDM Group Conference), Foster (invited
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+
+ talks at German Physical Society Meeting, Oxford IAM seminar series and Fields Institute for
+ Research in Mathematical Sciences), Burridge (Cambridge, Edinburgh, Southampton, Yale and
+ IMA Budapest), Waters (Finite Dimensional Integrable Systems Conference, Barcelona and
+ Laboratoire Dieudonné, Nice), and Cerasuolo (Japan Society for the Promotion of Science,
+ funded by Royal Society, and UNESP Botucatu, Brazil).
+
+ Staff represent the institution at events where national and international policies are discussed.
+ Osbaldestin’s roles included LMS Representative, Chair of the Institute for Mathematics and its
+ Applications Higher Education Committee, Council Member and Treasurer of the IMA, Chair of
+ the Heads of Departments of Mathematics, and member of the MSOR Subject Benchmark
+ Statement group. Burbanks is Isaac Newton Institute and International Centre for Mathematical
+ Sciences Correspondent, disseminating information about the Mathematics infrastructure and
+ representing the University. Burbanks was a panel member for the joint LMS/IMA Christopher
+ Zeeman Medal (2020).
+
+ Ouelhadj is on the Assessment Committees of EU Interreg 2 Seas, France Channel England
+ and of the Netherlands Organisation for Scientific Research on Complexity in Transport and
+ Logistics. She is on the Advisory Boards of Transport for the South East (representing 12
+ universities), of Solent Transport, and the 2017 Year of Autonomy cluster, led by Southampton’s
+ National Oceanography Centre, is treasurer of the Committee of Professors in OR, member of
+ the European Intelligent Transport Forum, Chair of the Southern OR Group, and Southern
+ Regional Representative to the General Council of the OR Society.
+
+ Our LORA group leads SCCoE’s knowledge exchange activities, organising and chairing 41
+ major events, producing collaborations and major income from business and local authorities.
+ Regional benefits resulting from this include business investment in satellite applications, plus
+ expanding access to satellite facilities and know-how.
+
+ Ouelhadj is Academic Lead for the University’s 10-year collaboration programme with NATO,
+ USA. Funding from the University Theme Security and Risk helped secure the project that
+ provides training, workshops (6 in 2019 with 100 delegates) and collaborations on topics
+ including optimisation, intelligence and AI, including plenary sessions at I3 (Initiate-Innovate-
+ Imagine) held at NATO, Virginia (Feb 2020). The partnership created collaboration opportunities
+ for the Themes Future and Emerging Technologies and Security and Risk.
+
+ Foster reviews grants for the Natural Sciences and Engineering Research Council of Canada.
+
+ Weiss is co-author of the Springer Undergraduate textbook “A Primer on Hilbert Space Theory”,
+ downloaded 19,000 times (First Ed., 2016).
+
+ 4.3.2   Conference organisation
+
+ LORA receives support from the OR Society and Southern OR Group for workshops and
+ conferences with industry. Ouelhadj chaired the OR58 Conference (2016) hosted in Portsmouth
+ with record attendance (195 academics, 175 practitioners) and was on organising committees
+ for the 2nd IMA Conference on Mathematics for Robotics (2020), Connected Everything (2017,
+ 2018) and the IMA/OR Society Conference on Mathematics and OR (2017). Song chaired
+ “Emerging Technologies in Humanitarian Supply Chain Management” in the 9th IFAC
+
+                                                                                             Page 18
+Unit-level environment template (REF5b)
+
+ Conference MIM (2019), and sessions in OR58 and OR60, and organised the 12th International
+ ESICUP (2015).
+
+ In Applied Mathematics, Cerasuolo organised the mini symposium modelling epidemics in
+ human and plant populations at BAMC, Surrey (2017). Weiss is organiser of the 22nd Galway
+ Topology Colloquium to be hosted in Portsmouth (2021) supported by the LMS.
+
+
+
+
+                                                                                      Page 19
+

@@ -1,0 +1,1057 @@
+Unit-level environment template (REF5b)
+ Institution: Imperial College London
+ Unit of Assessment: 11 Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+1.1 Unit context and structure
+The Department of Computing is comprised of 67 academics, 139 research staff, 247 PhD students
+and 1,050 taught-course students, making it one of the largest computing departments in the UK. By
+being part of the Faculty of Engineering, we are committed to computing as an engineering discipline,
+but we also engage in theoretical and foundational computer science research. The Department’s
+research is organised around 9 themes: Analysis & Verification, Artificial Intelligence, Data Science,
+Programming Languages, Security, Software Engineering, Systems, Theory & Algorithms and Visual
+Computing. We value innovative and collaborative research in core and applied computing, and its
+application and translation to solve real-world problems.
+The Department promotes and fosters research excellence and impact through the following
+strategic mechanisms, whose effectiveness is evidenced in the bar chart below:
+• Attracting and developing academic leaders. The number of staff submitted has increased
+  from 54 in REF2014 to 67 in REF2021. We recruit international academics of the highest calibre,
+  making our Department vibrant and sustainable – 40% of submitted staff were appointed since
+  REF2014. Our recruitment strategy has focused particularly on attracting and developing early-
+  career researchers (ECRs) – 16 are submitted.
+• Expanding the research pipeline. Our research income over the REF2021 period has more
+  than doubled to £106m (£50m in REF2014) and we have 42% more researchers and PhD
+  students. Our focused research support has helped secure large, highly competitive grants and
+  fellowships: our staff obtained more than 30 major awards (>£1m), 3 Royal Academy of
+  Engineering Chairs, 5 prestigious ERC awards and 8 external fellowships (EPSRC, Royal Society
+  Wolfson).
+• Training the next generation of researchers. Our PhD students have increased by 50%
+  between 2013 and 2020, and the number of PhDs awarded has increased by 70%. We compete
+  for the very best national and international PhD candidates, awarding full fees and stipends to
+  85% of our students. Our diverse PhD population comes from more than 40 countries with 72%
+  from outside the UK.
+• Translating research into impact. We encourage entrepreneurship, which has led to a large
+  number of startups in the REF period. These include GraphicsFuzz (acquired by Google), Fabula
+  AI (acquired by Twitter), FaceSoft (acquired by a large technology company), Ariel AI (acquired
+  by Snap), Magic Pony (acquired by Twitter), SLAMcore, Surreal Vision (acquired by
+  Oculus/Facebook) and Xayn.
+
+                Headcount                  54
+                                                67                             REF 2014 vs 2021
+            PhDs awarded                                                 164
+                                                                                              278
+                                                                         165
+              PhDs in post                                                              247
+               RAs in post                                   120
+                                                                   139
+        Grant Income (£m)               50
+                                                           106
+                             0        50             100           150         200    250      300
+
+We believe that computing must play a major part in securing the UK’s economic health and
+contributing to quality-of-life improvements. The Department’s impact areas include:
+• Industry. Between 2014 and 2020, the Department has engaged with more than 50 national and
+  international companies through joint appointments, collaborations (e.g. joint research centres
+  with Dyson (see SLAM impact case study), HeartFlow, Intel and Syngenta), development of
+  startup companies (see GraphicsFuzz, Infer and 3D Analysis impact case studies), patenting and
+  technology licensing.
+                                                                                                    Page 1
+Unit-level environment template (REF5b)
+• Public health. The Department’s research on new technologies for diagnosis and intervention
+  has been adopted by clinicians and led to improvements in patient care in UK and overseas
+  hospitals and large-scale NHS clinical trials (see IXICO and 3D Analysis impact case studies).
+  We also train the next generation of PhD students in clinically relevant AI methods through our
+  AI4Health CDT and the joint Smart Medical Imaging CDT with King’s College London (KCL). We
+  contribute to NHS trusts through the Imperial College Academic Health Science Centre (AHSC)
+  and the London Medical Imaging & AI Centre for Value Based Healthcare.
+• Public policy, engagement and outreach. The Department engages with the UK Government
+  and EU Commission to inform and shape public policy, particularly in AI, security and privacy (see
+  Section 4.2.2). Our research is disseminated through public lectures, media engagement and
+  outreach events (see Section 4.2.3).
+1.2 Research strategy
+The Department of Computing is ranked among the top 10 departments in the world for research
+and education. Our objectives remain mostly unchanged from 2014:
+•   to pursue research excellence and innovation in core computer science;
+•   to conduct world-leading interdisciplinary research that recognises the pervasive nature of
+    computer science in all areas of society;
+•   to develop novel, sound and applicable computing techniques that meet the evolving needs of
+    science, industry and society;
+•   to work with industrial collaborators on research translation into economic and societal impact;
+•   to offer innovative education based on foundational research that fosters technical excellence,
+    originality and breadth of vision in students.
+To achieve these objectives, the Department’s research strategy combines fundamental curiosity-
+driven research and applied problem-driven research. Our 9 research themes cover a broad set of
+core computer science topics, which feed into 3 cross-cutting research topics:
+•   Artificial Intelligence (AI)/Machine Learning (ML)/Data;
+•   Health;
+•   Security.
+The Department’s strength in these topics enables us to demonstrate critical mass in order to
+establish and lead a number of College-level research initiatives (see Section 1.2.1a).
+The Department’s research themes directly contribute to the Faculty of Engineering’s research
+strategy as follows: Theory & Algorithms contributes to “Transitions to a sustainable zero-pollution
+economy”; Data Science and Security to “Engineering resilient and secure infrastructure”; AI and
+Visual Computing to “AI and machine learning for engineering applications”; and Systems and Visual
+Computing to “Affordable technologies for an ageing society”. This facilitates interdisciplinary
+collaborations with other engineering departments (see Section 4.1).
+Our research strategy also places a strong emphasis on academic recruitment, career development
+and investment in people. We have attracted ECRs of the highest calibre and supported them to
+become global leaders in their fields (see Section 1.2.1b). Over the REF period, AI and ML have
+been a thematic recruitment focus, substantially increasing the Department’s activity in this area.
+Tactically, the Department has worked on supporting academic staff to fund research through large
+long-term projects and fellowships and on extending its industrial funding streams (see Section
+1.2.1c).
+The research strategy is agreed by the Departmental Management Committee, chaired by the Head
+of Department; each term, the Departmental Research Committee, open to all academics, discusses
+related opportunities and challenges. The strategy is reviewed at the annual Away Day.
+
+
+
+
+                                                                                            Page 2
+Unit-level environment template (REF5b)
+1.2.1 Strategic research goal achievements since 2014
+(a) Cross-cutting research topics that result in research leadership
+
+
+
+
+Our cross-cutting research topics (shown in the figure above) are explained below:
+(i) Artificial Intelligence (AI)/Machine Learning (ML)/Data is a new cross-cutting topic that evolved
+from the data science topic, which has now become a core research theme. This topic amplifies our
+capabilities from the AI, Data Science and Visual Computing themes to satisfy the escalating
+demand for research and education in this area. It was a new strategic growth area in REF2014 and
+this led to the successful recruitment of 6 academics.
+(ii) Health is a cross-cutting topic that leverages our research in AI and Visual Computing and
+demonstrates it via collaborations with medical departments and hospitals within Imperial (e.g.
+Imperial College AHSC) and externally.
+(iii) Security leverages our strengths in the Security, Software Engineering and Programming
+Languages themes to solve real-world security, safety, reliability and privacy challenges.
+The Department’s strength in these cross-cutting topics allowed us to bid successfully for 4 centres
+for doctoral training (CDTs), including the following 2 Department-hosted ones:
+• UKRI CDT in AI for Healthcare (AI4Health) (Director: Faisal (joint appointment/returned with
+  UoA12)) currently trains 41 PhD students and 5 Clinical PhD Fellows in AI-themed clinical
+  methods. In addition to UKRI’s £15m contribution, the CDT has secured £4.5m in external
+  funding. Activities stemming from the CDT comprise two NHS-X Health & Care Awards and AI &
+  Healthcare regulation workshops with the entire UK’s regulatory pipeline (Office AI, BEIS, MHRA,
+  HRA, NICE, CQC, NHS-X).
+• EPSRC CDT in High Performance Embedded and Distributed Systems (HiPEDS) (Director:
+  Luk) has admitted 76 PhD students and trains them in systems research, ranging from smart
+  sensors to secure cloud services. Operated jointly with the Department of Electrical and Electronic
+  Engineering (EEE), the CDT produces technological leaders with a systems (hardware and
+  software) perspective, filling an important skills shortage in industry. The CDT has engaged with
+  24 industrial partners (e.g. Arm, Coerain, dunnhumby, Dyson, Intel, Jump Trading and Microsoft).
+The cross-cutting topics also align with the College’s strategic research themes: AI/ML//Data aligns
+with “Smart society”; Health aligns with “Healthy society”; and Security aligns with “Resilient society”
+(see institutional statement). This alignment has enabled the Department to pursue new leadership
+roles for cross-Faculty Institutes, Centres and Networks at the College level (also shown in the figure
+above):
+• Data Science Institute (DSI) (Co-director: Guo; members: de Montjoye, Heinis) involves the
+  whole life cycle of data, from acquisition and exploration to analysis and visualisation. The
+  Imperial/Huawei Data Science Innovation Lab, hosted by the Institute, is a joint partnership with
+
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+  Huawei. The institute led the EU eTRIKS project (£26m) on a new platform for the analysis of
+  large datasets used by pharmaceutical companies.
+• Centre for Smart Connected Futures (Lead: McCann) is a research network covering industrial
+  IoT and cyber-physical systems. Its interdisciplinary research themes involve 3 engineering
+  departments (Computing, EEE, Design Engineering): connecting people with their environment;
+  designing future connected systems; and trusted control machines.
+• AI Network (Speaker: Faisal) is a new College-wide forum for interdisciplinary research on AI. It
+  consists of 219 academics (48 from Computing) from all 4 Faculties and more than 200
+  postdoctoral researchers/PhD students. The network has galvanised funding bids, industry and
+  outreach events and hosted delegations from the UK Government (e.g. Number 10, Office of AI,
+  BEIS, DH) and EU/Asian countries.
+• Robotics Forum (Management committee: Johns, Leutenegger) is a College-wide network for
+  robotics research that connects 44 academics (9 from Computing). Its scope ranges from the
+  manufacture and production of robotic systems, to applications in healthcare, transport, energy
+  and the environment.
+• Institute for Security Science and Technology (ISST) (Director: Hankin (until 2019); Associate
+  Director: Lupu (until 2020)) conducts interdisciplinary security and defence research. It has
+  created an innovation ecosystem on Imperial’s White City Campus with industry, the MOD
+  Defence & Security Accelerator and NATO. Research projects include the EPSRC Security,
+  Privacy, Identity and Trust Engagement NetworkPlus (SPRITE+) (Fellows: Demetriou, Hankin,
+  Lupu) with 5 universities/14 partner organisations, and the NCSC/EPSRC Research Institute in
+  Trustworthy Inter-connected Cyber-physical Systems (RITICS) (Director: Hankin) with 13
+  universities. The Institute has contributed to Imperial’s recognition as an NCSC/EPSRC Academic
+  Centre of Excellence in Cyber Security Research (ACE-CSR) (PI: Lupu), bringing together 25
+  academics. The related Research Institute in Verified Trustworthy Software Systems (VeTSS)
+  (Director: Gardner) focuses on program analysis, testing and verification; the PETRAS National
+  Centre of Excellence for IoT Systems Cybersecurity (Deputy Director: Lupu) involves 16 UK
+  universities that collaborate on IoT privacy, trust and reliability.
+• Centre for Cryptocurrency Research and Engineering (Director: Knottenbelt) partners with
+  industry (Blockchain, Outlier Ventures, Coinshares) to establish a research programme on
+  cryptoeconomics, blockchain interoperability and digital assets. It has resulted in a spinout
+  (Interlay; co-founded by Knottenbelt/Gervais’s PhD students) and a regulated EU financial
+  benchmark (CGCI). The related FinTech Network (Co-lead: Parpas) draws together researchers
+  across College who share an interest in innovation in financial systems and technology.
+(b) ECR recruitment and strategic growth
+We have achieved our REF2014 objective of academic recruitment of ECRs: of the 67 submitted
+staff (16 ECRs), 27 are new appointments over the current REF period, including 20 Lecturers, 2
+Senior Lecturers, 1 Reader, 3 Professors and 3 Research Fellows. From full-time staff submitted to
+REF2014, 5 have left (Bradley, Lee, Przulj, Wolf, Yang) and 7 retired (Eisenbach, Hodkinson,
+Kramer, Magee, Rustem, Sergot, Sloman).
+As shown in the figure above, recruitment has been largely balanced across the themes. An
+exception has been our strategic focus on AI, with new expertise in natural language processing
+(Specia, Rei), ML (Bronstein, van der Wilk) and multi-agent systems (Jennings, Belardinelli).
+(c) Long-term prestigious research funding and industry streams
+We have established a robust funding base (see Section 3.1) with mostly collaborative and often
+interdisciplinary projects, including 8 EPSRC Programme grants and 1 Platform grant, 5 EPSRC
+Fellowships, 5 ERC grants, 3 RAEng chairs and 12 large (>£1m) grants funded by UKRI, EU and
+industry.
+The Department has expanded its funding streams from industry through new strategic partnerships.
+Examples include the EPSRC/Dyson-funded Prosperity Partnership for Computer Vision Research
+(£5.3m; Davison/Leutenegger); the HeartFlow Project for Modelling Blockages and BloodFlow in
+Arteries (£1.1m; Glocker/Rueckert); the Future Digital Ocean Innovation Centre with China
+
+                                                                                           Page 4
+Unit-level environment template (REF5b)
+Shipbuilding Corporation (£1.3m; Guo); Huawei-funded projects on Future ML Systems (£1.4m;
+Pietzuch); the Lloyds Foundation/Turing project on Resilient and Robust Infrastructure (£1m;
+McCann); and the Innovate UK London Medical Imaging & AI Centre for Value-Based Healthcare
+(£1.5m; Rueckert/Glocker/Kainz).
+1.2.2 Research theme achievements
+Each research theme consists of multiple research groups. Research groups may be associated
+with more than one theme, which encourages collaboration and the flow of expertise among themes.
+Each research group consists of academics who lead a team of researchers and PhD students.
+(a) Analysis & Verification. This theme has provided mathematical reasoning techniques and tools
+for establishing the correctness of real-world software systems. Representative outcomes are
+Donaldson’s GraphicsFuzz tools (see GraphicsFuzz impact case study), which combine fuzzing and
+metamorphic testing to generate tests for graphics device drivers, and the Gillian multi-language
+platform with Facebook for compositional symbolic analysis (Gardner). Major achievements are an
+EPSRC Established Career Fellowship and a Programme grant (Gardner), an EPSRC Fellowship
+(Donaldson) and a Roger Needham Award (Donaldson).
+(b) Artificial Intelligence. This theme has resulted in new approaches for autonomous system
+verification (Belardinelli, Lomuscio), fake news detection and automated fact checking (Bronstein,
+Toni), human-like AI (Muggleton), multimodal machine translation (used by Facebook) (Specia) and
+explainable AI (Toni). Theme members have been co-leading 3 new CDTs, Imperial’s AI4Health,
+Safe and Trusted AI and Smart Medical Imaging (the latter two with KCL). High-profile achievements
+include Lomuscio’s RAEng Chair in “Trusted learning-based autonomous and robotic systems”;
+Toni’s RAEng Chair in “Argumentation for explainable AI”; and Bronstein’s ERC Consolidator grant
+in “Geometric deep learning”. A commercial success is the acquisition by Twitter of spinout Fabula
+AI (Bronstein) for fake news detection.
+(c) Data Science. The focus of this theme is applied ML, data analytics and issues of data privacy,
+storage and visualisation. de Montjoye has investigated questions of data access while preserving
+privacy – a crucial research direction, particularly in the context of medical applications. It has had
+significant public policy impact in the UK (e.g. contributing to the UK Data Protection Act 2018), the
+EU (e.g. the EDPB guidance) and worldwide (e.g. US Supreme Court). Major funding successes
+include Guo’s funding for research in medical analytics (£26m; EU eTRIKS) and data science
+(£2.7m; HNA Innovation); and Heinis’s EU-funded initiative on using DNA for data storage (€2.9m;
+OligoArchive).
+(d) Programming Languages. The work in this theme has addressed theoretical and practical
+challenges in the design and implementation of programming languages and program analysis
+techniques, with the goal of enabling performant and correct software. Outcomes include language
+semantics around type systems and logics for concurrent and distributed computing (Gardner,
+Drossopoulou, Wu, Yoshida); compiler and language implementation with automated validation,
+concurrent garbage collection and acceleration (Donaldson, Field); and weak-memory concurrency
+semantics (Raad). The theme has developed strong industry links: Drossopoulou has a joint
+appointment leading Facebook’s programming tools group; Donaldson co-leads the Android
+graphics quality efforts at Google; and Yoshida’s session types are used by Red Hat and VMWare.
+(e) Security. This theme has investigated malicious data detection, security and privacy in IoT
+environments (Lupu), the measurement of security and identification of critical components (Hankin),
+vulnerabilities and adversarial attacks in ML (Lupu, Maffeis), hardware security mechanisms for
+trusted execution (Pietzuch), as well as blockchain scalability and security (Gervais). Imperial was
+one of the first recognised Academic Centres of Excellence in Cyber Security Research (ACE-CSR),
+playing a significant role in the national cyber security programme (see ISST in Section 1.2.1).
+Commercial activities include spinout Xayn (Huth) to develop private AI technologies; and Livshits’
+role as Chief Scientist at Brave Software.
+(f) Software Engineering. A research focus has been on formal foundations and automated
+techniques for software development and requirements/performance engineering. Work on software
+reliability (Cadar) has made evolving software more dependable. Requirement specifications have
+enabled inductive synthesis techniques for automated refinement and adaptation (Alrajeh, Russo) –
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+such a framework for distributed applications was transitioned into an IBM tool, and a verification
+tool for serverless computing is now used commercially (Russo). Research on probabilistic symbolic
+execution was integrated with NASA’s Symbolic PathFinder system (Filieri). Control-theoretic
+approaches for trustworthy unmanned aerial vehicles are used by Mitsubishi and the Argentine
+National Agriculture Institute (Uchitel). Major funding successes are an EPSRC Fellowship and ERC
+Consolidator grant (Cadar). Prestigious awards are: HVC Most Influential Work 2017, CCS Test of
+Time 2016, Roger Needham Award 2019 (Cadar) and Houssay Prize 2015 (Uchitel).
+(g) Systems. This theme covers the design, implementation and evaluation as well as verification
+and analysis of software/hardware systems, and theme members lead the HiPEDS CDT. Notable
+research outcomes have been new approaches for adaptive emergent systems
+engineering (McCann); advances in custom computing and accelerator systems (Luk) and software
+performance optimisation (Kelly); and systems for secure and data-intensive ML (Pietzuch).
+Substantial awards are the Suffrage Science Award 2018 and the President’s Medal for Research
+Excellence 2020 (McCann). Major funding successes are an EPSRC Programme and a Platform
+grant (Luk, Kelly); and industry funding (>£2m) from Huawei, Intel, BP and Alibaba (Pietzuch). The
+theme impacts industry: Luk’s spinout BlueBee was acquired by Illumina; and Pietzuch is a Visiting
+Researcher at Microsoft Research Cambridge.
+(h) Theory & Algorithms. Research in this theme reflects the broad applicability and impact of
+theory and algorithms to society. It has addressed fundamental and applied problems in
+concurrency, optimisation, quantum computing, stochastic modelling, control and computational
+psychiatry. Major awards are the AIChE 2020 CAST Outstanding Young Researcher award for
+Misener’s work on optimisation and petrochemical process network design. Funding successes
+include an RAEng Research Fellowship and an EPSRC Research Fellowship (Misener); an ERC
+Starting grant (Berta); and 2 EU H2020 projects (DICE, £2.9m; RADON, £3m) co-ordinated by
+Casale. The work on blockchains and cryptocurrencies resulted in the Interlay spinout.
+(i) Visual Computing. This theme has conducted research on topics in computer vision, medical
+image computing, robotics, graphics, audiovisual processing and intelligent behaviour
+understanding, exploiting synergy with the AI theme. Funding successes include an ERC Starting
+grant (Glocker), an ERC Advanced grant (Rueckert), the EPSRC SmartHeart Programme grant
+(Rueckert), an EPSRC Fellowship (Zafeiriou), 2 Royal Society Wolfson Fellowships (Bronstein,
+Rueckert) and the EPSRC FACER2VM Programme grant (Pantic). Significant industry funding
+established the Dyson Robotics Laboratory (Davison) and the HeartFlow Laboratory
+(Rueckert/Glocker). Commercialisation activities have led to spinouts, including FaceSoft, Ariel AI,
+SLAMcore and Surreal Vision (see SLAM/3D Analysis impact case studies).
+1.2.3 Future research strategy
+The Department’s research is driven by both curiosity and societal challenges that relate to the
+Faculty of Engineering’s and College’s strategic aims. We will maintain this successful approach and
+continue to lead – through CDTs, Institutes, Centres and Networks – collaborative research that
+influences technological change. The plans for our three strategic focus areas are as follows:
+(a) Cross-cutting research topics
+(i) AI/ML/Data. In 2020, we established a major strategic College initiative in this area at Imperial’s
+new White City Campus, with a working title of Imperial-X (Co-director: Pietzuch). This will be a
+laboratory for the university of the future by exploring and implementing new models for research,
+teaching and technology transfer in AI, ML and data engineering. In addition, Imperial-X will provide
+an extra 3,000m2 of high-quality space, allowing 30 academics and 150 researchers to be co-located
+with industrial partners, other departments and spinout companies.
+(ii) Health. We will extend our successful collaborations with Imperial’s AHSC and external NHS
+trusts on AI-enabled diagnostic technologies, aligning with the AI4Health CDT. We plan to add
+seamless image acquisition, decision-support loops and trustworthy causality analysis as new
+thematic areas.
+(iii) Security. We plan to build new capabilities (through targeted grant proposals) related to
+security/privacy issues in edge-based ML, e.g. security/privacy for personal monitoring during the
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+pandemic. We will leverage ongoing work in the Analysis & Verification theme to provide secure and
+bug-free software on edge devices.
+(b) Academic recruitment and growth
+Our academic recruitment will continue to focus on the AI theme, building further capacity to
+contribute to Imperial-X, to benefit from funding opportunities and to satisfy teaching demand. With
+50–70 PhD students in AI-related topics starting in the Department each year, there is a strategic
+need to increase supervision capacity. In addition, we want to strengthen our theoretical computer
+science research (algorithms, complexity theory, cryptography, quantum computation), opening up
+new collaboration avenues with the Departments of Mathematics and Physics.
+(c) Long-term research funding
+We regard Imperial-X as a strategic vehicle to generate extra research income for new, ambitious
+“moonshot”-style research initiatives through industrial and philanthropic partnerships, further
+diversifying the Department’s funding portfolio. We will identify key technology companies and
+sector-specific SMEs that can become strategic partners for the Department and Imperial-X. This
+will exploit our London location and new intellectual property (IP) and licensing models offered by
+Imperial-X.
+1.3 Impact strategy
+A key priority for the Department is to maximise the impact of its research on industry, government,
+the healthcare sector and the wider community. This takes advantage of Imperial’s embedding of
+entrepreneurial culture across research and teaching, in accordance with its publicly stated mission
+“to achieve enduring excellence in research and education in science, engineering, medicine and
+business for the benefit of society”.
+1.3.1 Impact strategy achievements
+Our impact strategy has achieved successful impact by exploiting a range of mechanisms:
+(a) Stimulating intellectual property generation and commercialisation
+(i) Staff encouragement and reward. The Department encourages staff to exploit inventions or
+spend time in industry. Our academics can spend 20% of their time (up to 80% with approval) on
+impact, commercialisation and outreach. Such activities are considered in annual appraisals and
+promotion cases. Impact is also a key component when mentoring PhD students, researchers and
+ECR staff. Entrepreneurial activities have benefited from recent College changes: Imperial’s Reward
+to Inventors Scheme now provides staff with a share of revenue (£267,000 over the REF period)
+from licensing College IP; through its Founders Choice scheme, the College retains only 5–10%
+equity in startups (compared with 50% previously). These changes have directly catalysed several
+startups; 5 are featured in our impact case studies.
+(ii) Spinout companies. The Department, facilitated by the new Industry Partnerships and Faculty
+Commercialisation teams, has a robust process for staff and students to create startups. The Faculty
+team supports IP generation, protection, technology transfer, company incubation and investment.
+An Innovation Fellow (Knottenbelt) acts as liaison, helping identify commercialisation opportunities,
+and the current Head (Huth) brings experience from a recent two-year industrial secondment.
+Since 2014, our staff and students have filed 44 patents, established 17 licensing agreements and
+founded/co-developed 11 companies. Our impact case studies describe: GraphicsFuzz acquired by
+Google (Donaldson; 2018), FaceSoft acquired in a confidential deal (Zafeiriou; 2020), Ariel AI
+acquired by Snap (Zafeiriou; 2020); SLAMcore (Leutenegger/Davison) and Surreal Vision acquired
+by Oculus/Facebook (Davison’s PhD students). Other spinout companies include: Fabula AI
+acquired by Twitter (Bronstein; 2019), Magic Pony acquired by Twitter for $150m (Rueckert’s PhD
+students; 2016), BlueBee acquired by Illumina (Luk; 2020), Interlay (Gervais/Knottenbelts’s PhD
+students); Liquidity Network (Gervais); and Xayn (Huth).
+(b) Engagement and collaboration with industry
+(i) Industrial leadership roles. Our academics can spend up to 80% of their time on secondments
+to industry. Current industry roles are AI Scientific Research Lead, Facebook (Pantic); Head, Graph
+
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+ML Research, Twitter (Bronstein); Senior Research Scientist, DeepMind (Shanahan); Chief
+Scientist, Brave Software (Livshits); Chief Scientific Officer, Corerain (Luk); Founder, GraphicsFuzz
+(Donaldson); Founder, FaceSoft (Zafeiriou); Founder, Ariel AI (Zafeiriou); CTO/Co-founder, Xayn
+(Huth); Founder, Liquidity Network (Gervais); Co-founder, ChainSecurity (Gervais); and Visiting
+Researcher, Microsoft Research (Pietzuch). Past industry roles include Research Director, Samsung
+AI Centre (Pantic; 2018–20); Founder/Chief Scientist, Fabula AI (Bronstein; 2018–19); and Principal
+Engineer, Intel (Bronstein; 2012–19).
+Academics also serve on advisory boards, e.g. EPD Dynamics, Relation Therapeutic (Bronstein);
+Nimiq (Gervais); Kheiron Medical Technologies, Definiens (Glocker); IXICO, Magic Pony (Rueckert);
+ZhongGuanCung, Lizhi (Guo); ThinkSono, Cydar Medical, Ultromics (Kainz); Surreal Vision, Hadean
+Supercomputing, Deep Render (Kelly); Five AI (Lomuscio); SUGA, CCB Fintech (Luk); IPSOS,
+Realeyes, Emotech, Lloyds Register (Pantic); and GN Store Nord, fluent.ai, SensAura Tech
+(Schuller).
+(ii) Industrial collaborations. Most of our research includes industry collaborations, e.g. through
+partnership in UKRI/EU projects or direct funding. Examples are research on facial appearance
+modelling, now used for realistic facial capture in cinematic visual effects by Disney’s MEDUSA
+system (Ghosh); research on session types in the Scribble project, now commercialised by Red Hat
+(Yoshida); research on adaptive ML, now transferred by Huawei to its MindSpore platform
+(Pietzuch); and work on the quality of machine translation, used by Facebook (Specia).
+(iii) Industrial boards. Our Corporate Partnerships Programme (CPP) gives companies a forum to
+engage around student-focused activities. It has 18 member companies (e.g. Amadeus, Amazon,
+ARM, McLaren, Microsoft, Morgan Stanley, Ocado, Winton), which have funded PhD studentships
+(see Section 1.3.1c(iii)), offered internships and provided PhD travel/hardship funds. The Industrial
+Liaison Board (ILB) advises on the industrial relevance of our research/teaching strategies. Board
+members (Barclays, Babylon Health, Bitcom, CAP Gemini, Entrepreneur First, IBM, JPMorgan,
+McLaren Applied, Microsoft, NHS Digital, Ocado and Solidatus) have contributed funding (e.g. Toni’s
+RAEng Chair, partly funded by JPMorgan) and enabled consultancy.
+(c) Knowledge and technology transfer
+(i) Joint industry chairs and research centres. In addition to academics who hold industry
+appointments (see Section 1.3.1b(i)), our 3 RAEng Chairs (Lomuscio, Muggleton, Toni) also focus
+on knowledge-transfer activities. We use our joint research centres for knowledge transfers to
+specific sectors, e.g. the PETRAS Centre to transfer IoT security solutions; the Imperial College
+AHSC, a partnership between the Institute of Cancer Research and 3 NHS trusts, to transfer
+research to the NHS; the AI4Health CDT to impact clinical NHS training and practice; and the Centre
+for Cryptocurrency Research and Engineering to affect financial regulation.
+(ii) Impact funding. We exploit UKRI funding streams for knowledge exchange and impact projects,
+offering a basis for subsequent commercialisation. We hosted 14 impact acceleration account (IAA)
+projects, including: the CLsmith/GPUVerify projects that led to the impact in the GraphicsFuzz impact
+case study (Donaldson); the EuroExa project that enabled FPGA hardware acceleration in
+weather/climate modelling (Luk); a collaboration with the National Crime Agency on intelligent crime
+linkage that developed tools for policing child sexual offences (Alrajeh); and the creation of an image
+segmentation tool used for a clinical study of 17,000 patients at Addenbrooke’s Hospital (Glocker).
+(iii) PhD students and research staff. PhD students and postdoctoral researchers are another
+potent pathway for transfer, especially to the UK industrial base. During the REF period, 278 PhD
+students graduated, and almost half went directly to industry; about 40% of more than 400 research
+associates joined industry, research institutions, the public sector or became self-employed. Startups
+formed by PhD students include Magic Pony, Surreal Vision and Interlay. Over 40 industrial PhD
+studentships have technology transfer in their remit. These include 13 CASE awards with major UK-
+based companies (e.g. Airbus, ARM, Arup, Detica, Dyson, Huawei, Microsoft, Schlumberger, Shell)
+and directly funded PhD studentships (e.g. Google, HeartFlow, JPMorgan, IBM, Intel, Microsoft,
+Qualcomm, Oracle).
+(iv) Consultancy. Our staff are encouraged to undertake consultancy work through Imperial
+Consultants with 41 projects since 2014. Staff engage with large multinational companies (e.g. Audi,
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+Barclays, Disney Research, Dyson, Facebook, GSK, Huawei, Microsoft, NEC, Samsung, SAP,
+Syngenta), legal firms, government and international organisations (e.g. GCHQ, BCS, Barbican,
+International Tennis Federation) and SMEs (e.g. Accountancy Cloud, Becrypt, Cambridge Quantum
+Computing, Circle Cardiovascular, Hexagon, Tindall Riley).
+(v) Open-source software. Our research produces open-source software that is used in industry
+and academia: KLEE, a symbolic execution engine with >70 contributors, is used by e.g. Baidu,
+Bloomberg, Fujitsu and Samsung (Cadar); TensorLy has >600 users, including Amazon, Facebook,
+NVIDIA, INRIA and Apple (Pantic); Devito is now supported by spinout Devito Codes and is used by
+>100 companies, with funding from BP, DUG, Microsoft and Shell (Kelly); TranSMART is the most
+widely used big data analytics platform for medical research (Guo); GraphicsFuzz is now maintained
+by Google (Donaldson); JMT for performance modelling (>38,000 downloads) is used by e.g.
+Carleton University, IBM and NC State University (Casale); TensorLayer (>6,000 GitHub stars) is a
+popular platform for deep learning (Guo); Haskell’s Generic Lens Library is used by >200 projects
+and companies, including Target and Tweag (Wu); Liquidity Network has >2,000 users (Gervais);
+and Unsaturated Type Families are added to the widely used Glasgow Haskell Compiler (Field).
+1.3.2 Impact case studies
+The influence of our impact strategy on submitted case studies is shown in the table below.
+  Case study            Impact strategy influence                            Sector
+ IXICO        Interdepartmental and multi-institution            Healthcare, pharmaceutical
+              collaboration, spinout (2004)
+ GraphicsFuzz IAA funding, open-source software, spinout,        Information technology, SMEs
+              industrial collaboration, reward to inventors
+ Infer        Multi-institution collaboration, spinout (2009),   Information technology, SMEs,
+              open-source software, industrial collaboration     government
+ SLAM         Consultancy, spinout, PhD transfer to              Manufacturing, information
+              industry                                           technology
+ 3D Analysis  Licensing, spinout, reward to inventors,           Information technology,
+              industrial and multi-institution collaboration     telecommunications, healthcare
+
+1.3.3 Future impact strategy
+We will continue our multi-pronged impact strategy, which recognises that impact occurs through a
+variety of channels. We plan to enhance impact activities by:
+(a) establishing new strategic partnerships with industry, especially in the context of our CDTs and
+    Imperial-X with its co-location concept for industrial collaboration. Imperial-X will bring new
+    models for industry projects, e.g. through pooled IP arrangements;
+(b) encouraging staff to work with Imperial’s Industry Partnership and Faculty Commercialisation
+    teams to determine impact opportunities for their research, to make use of the Techcelerate
+    programme for entrepreneurial activities by ECRs and the advanced hackspace for prototyping
+    research ideas;
+(c) enabling closer interaction and advice from our industrial boards on strategies that encourage a
+    higher level of societal and economic impact, e.g. expanding our well-established Applications
+    of Computing in Industry lecture programme;
+(d) continuing support and mentorship for staff to apply for impact funding, industrial fellowships,
+    sabbatical leave for impact-related activities, and part-time industrial appointments;
+(e) continuing support for staff to engage in policy advisory roles, public lectures and outreach
+    activities (see Section 4);
+(f) conducting horizon-scanning exercises to identify emerging opportunities for new partnerships
+    with industry, healthcare and government, especially in growth areas such as explainable AI,
+    federated ML, distributed ledger technology and quantum computing.
+
+
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+1.4 Open research environment
+The College is committed to an open research environment and has played a leading role in open
+access (OA) discussions with publishers (see institutional statement). The College’s OA policy is
+overseen by the Scholarly Communications Office, and the Department promotes the publication of
+research outputs in green/gold OA modes. Staff can apply for College-managed funds to cover OA
+publishing charges. All our submitted outputs are freely available from institutional repositories.
+Accepted paper versions must be published in the College’s Spiral repository, if allowed by the
+publisher.
+The Department has an OA Champion (Pietzuch) and promotes openness and transparency in
+reproducibility through artefact evaluation (AE), open source software releases and research data
+management. Our academics regularly participate in AE processes (e.g. for ACM, USENIX, VLDB)
+and serve on AE committees. Source code is typically made available as open-source software on
+repositories such as GitHub, GitLab and BitBucket (see Section 1.3.1c). Many research datasets
+have been publicly released (e.g. Singapore Environmental Sensing, City Scale LPWAN, KANFace,
+Mobiface, VaFRIC, Normal-whispered-silent Speech, AgeDB, 300W).
+1.5 Research integrity
+The College is a signatory to the Concordat to Support Research Integrity and is committed to
+maintaining the highest standards of rigour and integrity in all aspects of research. The Vice-Provost
+for Research is responsible for oversight of research integrity, advised by the Advisory Group for
+Research (see institutional statement). The Department adheres to the College Research Integrity
+policy, and policy matters are discussed at the Faculty Management and Research Committees.
+Dedicated mechanisms to ensure research integrity exist. PhD students are required to attend
+Graduate School courses on research integrity, impact and ethics/compliance (plagiarism, IP,
+copyright). The Postdoc and Fellows Development Centre (PFDC) offers similar courses for the
+professional development of postdoctoral researchers.
+Ethical reviews of proposals take place within Imperial’s Ethics Code of Practice, and research
+involving human subjects, animals or human tissue is reviewed by the Research Ethics Committee.
+To address ethical issues specifically in technology research involving human subjects, a new
+Science, Engineering and Technology Ethics Committee (former member: Sergot) was established
+in 2018. A communications strategy across the Faculty has raised awareness of ethics approval in
+non-medical research in our Department.
+ 2 People
+2.1 Staff strategy and staff development
+2.1.1 Academic staff
+The Department pursues excellence by recruiting outstanding academics with leadership potential,
+nurturing ECRs (16 submitted) to maturity, and supporting all academics in their research activities.
+Of the 67 submitted staff (43% Professors, 16% Readers, 18% Senior Lecturers, 23% Lecturers and
+4% Research Fellows), 27 (including 6 women) were appointed during the REF period: 18 Lecturers,
+2 Senior Lecturers, 1 Reader, 3 Professors and 3 Imperial College Research Fellows (ICRFs). Our
+academic staff are predominantly appointed on full-time, open-ended contracts; some maintain part-
+time links to other institutions. In our REF submission, 10 academic staff are now part-time with
+external industrial/academic roles, and 3 have partly retired; of these, 4 have fixed term contracts: 2
+industrial secondments and 2 retired, as well as the 3 ICRFs. Part-time staff supervise PhD students
+and postdoctoral researchers, apply for grants and are often involved in teaching.
+(a) Academic recruitment. Our annual recruitment process attracts world-leading researchers. We
+align with the global academic hiring cycle (December to April) in competing for the top talent. When
+advertising posts, the Department encourages applications in any area of computer science,
+pursuing excellence as the main criterion (while considering our equality, diversity and inclusion
+(EDI) goals) and academics encourage “rising stars” to apply. This helps attract an international
+profile of academics from top-tier institutions: over the REF period, we recruited from CalTech
+(Berta), ETH Zurich (Heinis, Gervais, Leutenegger), UIUC (Demetriou), Lugano (Bronstein),
+Microsoft (Livshits), MIT (de Montjoye, Pirk), MPI-SWS (Raad), Politecnico di Milano (Filieri), UCSB
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+(Paccagnan) and Technion (Vilanova).
+All academics in the Department are invited to review applications and contribute to the selection
+process. A Departmental Hiring Committee, with elected representation, draws up the final interview
+shortlist in consideration with our EDI policy. Shortlisted candidates visit the Department for two
+days, give an open research seminar, have one-on-one sessions with academics and group
+meetings with undergraduate/PhD students, as well as a formal panel interview. All academics can
+attend and assess the seminars and provide feedback from their one-on-one sessions to the
+committee.
+To sustain and expand our research activity, the Department’s emphasis has been on recruiting
+ECRs and developing them into world leaders. We attract such candidates to join us and develop
+their careers through a number of means: competitive salaries and support with London housing; a
+startup research package of about £130,000 to cover seed funding for equipment, travel and at least
+2 PhD students; new academics either join an existing research group or create a new group; and
+to facilitate settling in, they have a reduced teaching load and no administrative duties for two years.
+(b) Career development. New academics are assigned an academic adviser who provides
+mentoring, observes occasional lectures for constructive feedback and joins three probationary
+reviews. They also attend training courses in “Teaching and learning for engineers”, “PhD
+supervision” and “Personal tutoring” and are offered courses on research project management.
+Academics are typically promoted by the end of their probationary period (e.g. de Montjoye, Heinis,
+Leutenegger, Misener). To offer flexibility to academics, the Department allocates 20% of grant
+overheads to PIs, thus providing them with discretionary funds for consumables, seed funding for
+new initiatives and bridge funding for research staff and students.
+The Department supports academics in winning fellowships and grant awards. The Director of
+Research and senior academics help with proposal preparation, including funding strategy advice,
+feedback on draft proposals and mock interviews in the Department, followed by a Faculty mock
+interview. The College also offers one-to-one coaching (25 sessions used). As a success measure,
+almost all new academics obtain their first PI grant funding within 2 years, e.g. through EPSRC First
+grants (Casale, Cully, Ghosh, Glocker, Kainz, Misener).
+(c) Sabbaticals. Staff are encouraged to spend dedicated sabbatical time in academia or industry,
+fostering new collaborations and gaining fresh perspectives. Sabbatical models are implemented in
+line with EDI policy, e.g. Imperial allows for “mini” or flexible sabbaticals for those with caring
+responsibilities. A Departmental Sabbatical Committee assesses applications annually, with EDI
+considerations applied. During the REF period, 10 sabbaticals (including 2 by women) were taken
+(3 more approved for 2019–20 but suspended due to the pandemic).
+(d) Appraisals and promotions. The Department encourages ambition and rewards achievement.
+All staff have an annual appraisal with the Head of Department or a designated senior academic to
+discuss current activities, propose future development plans and raise concerns. Staff are promoted
+according to merit in an annual College-wide promotion round without quotas. The College is a
+signatory to DORA, ensuring that promotion procedures do not use journal-based metrics. Over the
+REF period, there were 26 promotions (9 to Professor).
+(e) Administrative support. The Department uses support functions to reduce the time that
+academics spend on administrative and technical tasks. It employs 14 Teaching Fellows to perform
+much of the teaching administration as well as specialised roles such as Equality, Diversity, Outreach
+and Public Engagement (Bell), UG Senior Tutor (Valera-Espana) and PG Senior Tutor (Lancaster).
+This preserves a low average teaching load of 1.5 modules per year. Academics with substantial
+research groups, fellowships or major awards (e.g. ERCs grants) have a reduced teaching and
+administrative load (currently 10 academics). Academics on part-time secondment in industry still
+lead research projects and supervise PhD students (Bronstein, Donaldson, Gervais, Livshits, Pantic,
+Shanahan).
+(f) Working together. The Department meets weekly as a community for well-attended “Wednesday
+lunches” – a forum for academics to present current research ideas, often leading to collaborations
+across areas. Our annual Away Days, which include teaching and support staff, foster discussion on
+departmental strategy and have enabled us to react quickly to emerging new research trends, e.g.
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+by updating research themes. Away Days have also helped new academics integrate into the
+Department.
+2.1.2 Research staff
+The Department supports postdoctoral research associates (RAs) in their career development by
+helping them reach permanent academic or industrial posts. We offer an environment in which
+research staff can secure funding and attend conferences to engage with the global research
+community. An RA Mentor (Davison) is available to all RAs for one-on-one career advice and general
+guidance. Elected RA representatives organise “Thursday lunches” and liaise with academics,
+including the Head of Department. We encourage RAs to apply for fellowships, including ICRFs of
+which 7 have been awarded (Alrajeh, now Lecturer; Deisenroth, was Lecturer, now Professor at
+UCL; Clark, Sharmanska, Tuncer submitted; 2 in external posts).
+The College has fully implemented the Concordat on Career Development of Researchers and
+achieved an EC HR “Excellence in Research” badge. Imperial’s PFDC provides skills and career
+development training, a personal development programme for women, bespoke ICRF development,
+the multidisciplinary Postdoc Reps Network and individual support, including entrepreneurship,
+management skills, coaching, funder showcases and mock interviews. The Department encourages
+research staff to use 10 annual development days. Over the REF period, research staff attended 31
+training courses, 95 one-to-one PFDC sessions and participated in 34 mock interviews.
+2.2 PhD students
+The annual intake of PhD students now is 60–70, up from about 45 in REF2014. UK student numbers
+remained fairly constant (45–55), while EU/overseas student numbers rose between 2018 and 2020.
+Between 2013 and 2020, the PhD student population grew by nearly 50% (from 165 to 247). The
+PhD success rate has also improved: 89% of our PhD students submit within 4 years (compared
+with 76% in REF2014). The number of PhDs awarded has increased by 70% (from 164 to 278).
+A major contributing factor to the increase in students has been the Department’s strategic decision
+to increase PhD funding to more than £1.5m a year (excluding DTPs, CDTs and grants). The
+Department has a Teaching Scholarship scheme, which allows students to pursue a 4.5-year PhD
+while obtaining a teaching certificate. Overall, 85% of our students are funded through UKRI
+DTP/CDT awards, scholarships, grant-based employment, industry and the College (e.g. 17
+competitive College President’s Scholarships). The sustainability of our PhD programme is
+supported by our two hosted CDTs, HiPEDS started in 2014 and AI4Health started in 2019, and two
+partnered CDTs, Medical Imaging and Safe & Trusted AI.
+(a) Admissions. Our PhD application numbers have increased from 550 (in 2019) to 937 (in 2020)
+– home, EU and overseas students up 151%, 36% and 34%, respectively – in spite of the impact of
+Brexit and the pandemic. Candidates apply by submitting a research statement, their academic
+record and a CV. If they meet our academic criteria (typically a distinction-level Master’s degree), an
+admissions decision is made after interview by at least two academics. Offers, for both admission
+and funding, include EDI considerations, e.g. the Department recognises that applicants from non-
+traditional backgrounds to cross-disciplinary CDTs (e.g. AI4Health) typically perform well.
+(b) Support. PhD students are supported by the PhD team, consisting of the Director of
+Postgraduate Studies (Filieri), Postgraduate Tutor (Wu), Cohort Mentors (Belardinelli, Specia, de
+Montjoye) and PhD Administrator (El-Kholy). Each PhD student is given dedicated office space, a
+high-end computer, laboratory access and a £4,000 travel budget over their PhD. Research groups
+provide further funds for resources, equipment and travel.
+To support completion within 4 years, the Department and its CDTs have comprehensive monitoring
+and progress procedures. An informal progress review is carried out after 3 months, and a formal
+review 6 months later, for which the student presents a literature survey and thesis outline, and the
+supervisor, second supervisor and an independent assessor provide feedback. After the 2nd year,
+the same team evaluates the thesis plan. A draft dissertation is assessed after year 3. The PhD
+Tutor and the Director of Postgraduate Studies monitor cohort progress quarterly.
+(c) Mentoring. Each PhD student is assigned an academic Mentor and a “PhD Buddy”, who is a
+senior PhD student. The Department offers bespoke training courses on academic writing and
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+communication skills, which include feedback from an academic and a communications expert from
+Imperial's languages centre. The Department also organises panel sessions on pursuing academic
+careers. In a “One Minute Madness” event, PhD students pitch their research and participate in a
+poster competition.
+The College’s Graduate School offers skills training courses, e.g. “Research skills and techniques”,
+“Communication skills”, “Networking and team-working” and “Career management”. PhD students
+must take at least four. The Graduate School promotes interdisciplinarity between students by
+hosting research symposia, poster competitions and external lectures. It also organises participation
+in public engagement events, such as school talks, and in Imperial's annual science festivals.
+PhD students participate in student-led events. The Department has an ACM Student Chapter, and
+students organise an annual public PhD student workshop to acquire skills in reviewing and
+conference management. For social interactions, the Department provides funds for a student-run
+“Friday cakes” seminar series. During the pandemic, the Department held several online cohort-
+building activities with external professionals, including an escape room and a hackathon. It has also
+provided partial funding for PhD students for home offices and offers a loan scheme for equipment
+and furniture.
+2.3 Equality and diversity
+2.3.1 Commitment to equality, diversity and inclusion
+The Department aims to create a fair, diverse and inclusive environment for all staff and students,
+irrespective of gender, ethnicity, religion and age, as indicated in the Department’s new welcome
+message. The Department has appointed an EDI Champion (Bell), responsible for organising
+training events, monitoring compliance with College EDI policies and embedding EDI into everything
+that we do. Imperial’s EDI Strategy is set by a committee chaired by the Provost, supported by the
+College EDI Forum with staff and student members and Faculty EDI committees (see institutional
+statement). The Department’s Equality, Diversity & Culture Committee adapts this strategy, e.g. to
+address staff/student concerns submitted via anonymous feedback forms and regular Departmental
+surveys. The Department also participates in the Faculty’s “Have your Say campaign” that develops
+College values and trains line management to support an inclusive culture.
+Out of 67 submitted academics, 21% are women (14), including 8 professors, and 13% Black, Asian
+and Minority Ethnic (BAME), including 4 professors (13% not recorded). Only 15% of our staff are
+over the age of 60, and 24% (16) are classified as ECRs. Our academics were born in 26 countries
+(12 for professors). For research staff, 20% are women, 38% BAME and 38% white (24% not
+recorded). Over the REF period, 15–19% of PhD students were women, 57% of students white, and
+32% BAME (11% not recorded).
+Imperial has an Athena SWAN Silver award and the Department has a Bronze award (from 2017,
+currently applying for Silver). The Department works to improve gender balance, directing outreach
+efforts to school-aged students and communities to enable widening participation by under-
+represented groups. It offers DeepMind Scholarships to under-represented groups for MSc courses.
+PhD students and researchers who are women hold insight sessions to help PhD students into an
+academic career. The Department funds an active Women in Computing group to support
+networking.
+The College follows transparent and fair hiring procedures (guided by Stonewall’s Diversity
+Champions Programme, “Time to Change”, Disability Confident Leader and Race Equality Charter)
+and all involved staff undergo regular bias training. The Faculty has also introduced Active Bystander
+training, which won a 2018 UHR Award, and new students attend the training during their first weeks.
+Our Department leads in-house Unconscious Bias training for 480 students each year. We
+encourage staff development for all through diversity staff networks (Able@Imperial for disabled
+staff; Imperial 600 for LGBTQ+ staff/postgraduates; Imperial as One for BAME staff).
+Our commitment to EDI policies related to promotions is evident in that 60% of our professors are
+women and 43% are BAME. In addition, 57% of women and 55% of BAME academics have won
+prestigious fellowships and/or large grants, attesting to our funding support.
+
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+2.3.2 Flexible working
+The College’s Flexible Working Policy is a formal way to offer flexible working arrangements. Going
+beyond this, the Department promotes informal flexible working, e.g. for staff with
+caring responsibilities or travel challenges into London. Staff may request flexibility on their teaching
+schedule during the annual timetabling exercise. This is regularly used by staff of all gender identities
+to handle childcare duties, for example. The Department has a family-friendly policy in terms of
+scheduling meetings and events; events are often recorded for remote viewing. If staff are required
+to attend remote work events, such as conferences, they have access to Imperial’s Carer Support.
+During the pandemic, all staff have been working from home, with dedicated College webpages
+offering up-to-date guidance and wellbeing advice. Recognising the increased demands during the
+pandemic, the Department initiated a no-determent policy that protects the career progression of
+staff, across all job families, whose performance has been affected.
+2.3.3 Sickness, caring and disability support
+The College’s sick pay entitlement allows staff up to 6 months off work on full pay and a gradual
+return to work after sick leave with 50% pay. Staff returning from long-term absence are encouraged
+to adopt a phased return, as recommended by Occupational Health.
+The Department offers a range of family leave, irrespective of gender identity, sexual orientation,
+gender expression, biological sex or transitioning: maternity (used by 15 academics/RAs), paternity
+(8), shared (2) and adoption/surrogacy leave. Maternity (extended to paternity in 2017) returners can
+apply for an Elsie Widdowson Fellowship that supports one year of research focus (awarded to
+Alrajeh). The College won the Working Families Best for all Stages of Fatherhood Award in 2017. A
+total of 31 staff used the childcare vouchers scheme to help fund childcare costs.
+The College is a Disability Confident employer, making workplace adjustments for disabled staff and
+students. It recognises that disabilities can be physical or mental, visible or invisible, and that mental
+ill health is an under-reported issue. The College’s Equality, Diversity & Inclusion Centre (EDIC)
+provides advice for disabled staff and assesses staff for dyslexia and other learning differences. The
+Centre offers Calibre, a development programme for staff with long-term physical/mental health
+conditions. The Departmental Disability Officer (Lancaster) manages any special requirements due
+to staff disability or health needs, e.g. office furniture. The Department has 3 staff and 11 PhD
+students with declared disabilities.
+(a) PhD student support. The Department implements the UKRI Leave of Absence policy, allowing
+students to take parental leave with a provision for additional stipend (up to 26 weeks in full).
+Students may also study on a part-time basis. After evidence from a clinician, the Department funds
+up to 12 weeks of sick leave, in most cases irrespective of the student’s funding source. Over the
+REF period, 5 students took maternity, 1 paternity and 4 sick leave.
+Students facing hardship are helped from Departmental funds, e.g. supervisor’s personal research
+funds, remaining scholarship funds and the CPP hardship fund (used by 5 students over the REF
+period). Other sources include the College’s Student Support Fund (started in 2015) and the
+Engineering Dean’s Fund (used by 2 students), which receives alumni donations for financial
+hardship or specialist medical treatment, and the College provided additional funds for hardship due
+to the pandemic.
+2.3.4 Wellbeing
+The Department recognises that staff wellbeing is affected by the nature of roles, domestic situations,
+caring responsibilities and health. The College carries out regular wellbeing surveys; the most recent,
+in September 2020, highlighted specific concerns around managing workload, returning to regular
+campus work, travelling to work safely and the impact of long-term remote working. The College and
+Department have used this feedback to implement new online meeting protocols, no expectations
+for email responses outside working hours, working from home guidance, a Wellbeing Day (3 July)
+and increased flexibility for staff with caring responsibilities. The Department has recruited a 0.5 FT
+Wellbeing Officer (Langan) to support student wellbeing and mental health issues. Wellbeing
+resources are advertised on our webpages.
+
+
+
+                                                                                                 Page 14
+Unit-level environment template (REF5b)
+The Department has a policy to allocate workload in a fair and transparent manner. The
+Departmental Management Committee regularly analyses workload distribution, and staff are
+encouraged to discuss workload allocation issues with the Head of Department. Individual workloads
+also feature in the annual Personal Research and Development Plan appraisal process.
+During the pandemic, the Faculty has developed a Remote Working Development Hub to support
+line managers and staff with best practices. With this support, the Department was able to deliver
+the bulk of its research and teaching activities remotely. Access to research labs with equipment was
+made available based on need and Government/College public health guidelines. The Department
+has also invested in solutions for remote equipment-based research, e.g. in robotics. Staff training
+courses are now delivered as interactive video sessions.
+2.3.5 Output selection
+Staff were invited to submit up to 6 outputs with significance statements for consideration. All outputs
+were rated without bias according to the REF evaluation criteria by a panel of 9 members from the
+Departmental REF committee, and ratings and constructive comments were fed back to staff. All
+outputs were then ranked based on these ratings, and the committee selected at least 1 and at most
+5 outputs from each staff member from this ranked order. A small number of borderline selections
+changed after discussion with staff members. The following table shows the number of outputs
+submitted with respect to gender, ethnicity and ECR status:
+
+      Submitted                     Gender                        Ethnicity
+                                                                                             ECR
+       outputs         Total    Female   Male           White     BAME      Unknown
+           1            48%        22%     78%           63%        22%          16%           28%
+           2            16%         9%     91%           82%         0%          18%           36%
+         3               16%         27%        73%        73%        9%            18%         9%
+         4               12%         13%        88%       100%        0%             0%        25%
+         5                8%         40%        60%        80%       20%             0%         0%
+       Overall
+                                     21%        79%        73%       13%            13%        24%
+      submitted:
+As can be seen from the data, the distribution of submitted outputs largely follows the overall staff
+distribution.
+ 3 Income, infrastructure and facilities
+3.1 Income
+The Department’s overall research income/expenditure over the REF period has more than doubled
+from £50m in REF2014 (£1.0m per FTE) to £106m in REF2021 (£1.8m per FTE). Diversifying our
+research funding sources has strengthened the vitality and sustainability of our research portfolio.
+As the chart below shows, the Department’s RCUK/UKRI income increased by 78%, EU by 75%,
+industry by 198%, government by 506% and charities by 52%. Allowing for differences in the length
+of the REF periods, the total average income per annum increased by 51% (from £10.0m in REF2014
+to £15.1m in REF2021). Based on current and already awarded grants, our partial projected income
+for 2020–21 is £14.2m, 2021–22 is £13.1m and 2022–23 is £10.1m, indicating good sustainability.
+
+
+
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+      50        48.8
+
+      40                               Research Income
+
+      30     27.4
+                                                                 2014    2021
+       £m                   21.5
+      20                                18.2
+                                                                                             15.1
+                         12.3
+                                                     10.3                               10
+      10                             6.1
+                                                  1.7         2.7 4.1           2.8
+                                                                          0.2
+       0
+            RCUK/UKRI      EU        Industry   Government   Charities     Other      Avg. Income
+                                                                                        per year
+
+
+Our strategy for supporting research has been to focus on prestigious, large (>£1m) and long-term
+(>3 year) projects, and we have had 34 such awards. One of the largest is a Prosperity Partnership
+with Dyson (EPSRC: £2.1m, Dyson: £2.9m; Davison/Leutenegger). Other major grant awards were:
+5 ERC Starter/Consolidator/Advanced grants (Bronstein, Cadar, Rueckert, Berta, Glocker); 3 Royal
+Academy of Engineering Chairs (Muggleton with Syngenta, Toni with JPMorgan, Lomuscio); 8
+EPSRC Programme grants with substantial Departmental involvement (Davison/Kelly, Donaldson,
+Gardner, Luk, McCann, Pantic, Rueckert, Yoshida); an EPSRC Platform grant (Luk); 5 EPSRC
+Fellowships (Donaldson, Gardner, Ghosh, Misener, Yoshida); 4 large EPSRC grants (Cadar, Lupu,
+Pantic/Zafeiriou, Pietzuch); 3 large EU grants (Rueckert, Pantic, Guo); 2 large industry grants (Guo,
+Glocker); an Innovate UK grant for the London Medical & Imaging Centre (Rueckert/Glocker/Kainz);
+and a Gates Foundation grant (Lo).
+Although we focus on large grants, we encourage grant proposals of all sizes, with more than 350
+grants awarded during the REF period. Among the 67 submitted staff, 46 have been PI on at least
+one grant. Several of our funded industry collaborations came out of previous consultancies (Casale
+with SAP, Davison with Dyson, Glocker with HeartFlow). Special funding events, such as
+Faculty/Department workshops on AI applications, cybersecurity, robotics, autonomous systems and
+medical informatics have also fostered collaborations that led to grant funding.
+3.2 Infrastructure and facilities
+The College has a transparent funding model in which departments receive all income from teaching
+and research but contribute pro-rata costs for College operation. The Department has exploited this
+model to ensure that academics are well supported, both in obtaining funding and in conducting
+research. Each academic has access to a Departmental administrator to assist with the preparation
+of proposals and the management of projects.
+The Department makes a significant investment to provide a Computing Support Group (CSG) with
+8 staff members who support local ICT services for research and teaching. CSG provides an IaaS
+cloud service, a departmental HPC facility and bespoke research services, all leveraging the
+College’s provision of email, networking, workstations and a larger HPC facility. Over the REF period,
+the College invested £25m in the Research Computing Service and the Department spent £2.9m on
+research infrastructure hardware.
+The total number of research staff and PhD students increased from 283 (in 2013) to 386 (in 2020).
+To ensure that the physical environment meets research needs, the Department has invested
+substantially in both the quantity and quality of research space. In 2013, the Department had 2,500m2
+classified as research space; since then it has spent £3.5m (including £1.8m for the Data Science
+Institute) on repurposing and refurbishing space, increasing its research space footprint by 32% to
+3,300m2.
+
+
+
+
+                                                                                                Page 16
+Unit-level environment template (REF5b)
+ 4 Collaboration and contribution to the research base, economy and society
+4.1 Research collaborations
+Our academics collaborate extensively with other Imperial departments, supported by strategic joint
+appointments with Bioengineering (Faisal, UoA12), EEE (Leung, UoA12; Jennings) and Surgery
+(Lo). Many staff are involved in interdisciplinary collaborations with other Engineering departments,
+e.g. the EPSRC IRIS Programme grant with EEE (Donaldson); the EPSRC INHALE, MAGIC and
+PREMIERE projects with Earth Science and Chemical (Guo); an EPSRC project on neonatal
+imaging (EP/S013601/1) with Bioengineering (Kainz/Glocker/Rueckert); and the NEC Japan Smart
+Water labs with Civil (McCann).
+Our collaborations and engagement with industry and academia extend to national and international
+levels. The Department has engaged in more than 40 funded industrial collaborations, with the
+largest being the Dyson Robotics Laboratory (>£10m; Davison/Leutenegger) and projects (>£1m)
+from Huawei (Guo, Pietzuch), Intel (McCann), HNA (Guo) and HeartFlow (Glocker). All fellowships
+and RAEng chairs include industrial collaboration. The Department’s 8 EPSRC Programme grants
+are by nature multi-institutional (e.g. Cambridge, Edinburgh, Glasgow, KCL, Newcastle, Oxford,
+QMUL, St Andrews, Stirling, Surrey, UCL) and involve industrial collaboration (e.g. Amazon, ARM,
+BT, Facebook, FreeBSD Foundation, GridPP, HP Labs, IBM, Microsoft, Philips, Rolls Royce and
+Siemens). Both our hosted CDTs (AI4Health and HiPEDS) have large industrial networks and
+contributions (see Section 1.2.1a).
+The Department is involved in high-profile international research consortia: Lomuscio is a primary
+contractor in the US DARPA Assured Autonomy Project with Stanford, Berkeley, Vanderbilt, UPenn
+and NASA; Russo, Lupu, Jennings and Pietzuch are PIs in the IBM-led “International Technology
+Alliance in Distributed Analytics and Information Sciences” (DAIS-ITA) funded by the US Army and
+the UK MOD, involving 10 US/UK universities. The Department also forms strong links through large
+UK/international networks (>20 academic and industry partners): Concordia Pilot Cybersecurity
+Competence Network (Lupu; 50 partners); MRC RASP-UK “UK Refractory Asthma Stratification
+Programme” (Guo; 49 partners); IMI2 IDEA-FAST on “Identifying Novel Digital Measures for Fatigue
+and Sleep Disturbances” (Guo; 47 partners); IMI2 PIONEER on “Prostate Cancer Diagnosis and
+Treatment through Big Data” (Guo; 37 partners); EPSRC-NIHR HTC Partnership Award ‘Plus’
+MEDIAN for the UK medical image community (Glocker); and EPSRC Human Like Network
+(Muggleton; 21 partners).
+The majority of our research projects are collaborative in nature. Using the Visual Computing theme
+as an example, collaborative medical imaging projects with other universities and the NHS include:
+the UKRI/InnovateUK London Medical Imaging & AI Centre with KCL/QMUL, 4 NHS Trusts (Guy’s
+& St Thomas’, King’s College Hospital, South London & Maudsley, Barts Health), industry (Siemens,
+NVIDIA, IBM, GSK), 10 UK-based SMEs and the Health Innovation Network
+(Rueckert/Glocker/Kainz); the “Intelligent and Personalised Risk Stratification and Early Diagnosis
+of Lung Cancer” project with KCL, Guy’s & St Thomas’, Kings Healthcare and Siemens (Glocker);
+and the SmartHeart programme grant with Barts Health, Guy’s & St Thomas’, UK Biobank, Siemens,
+Philips and Spectrum Diagnostics (Rueckert/Guo).
+Academics use their international networks to take leadership roles in EU collaborative projects:
+Casale co-ordinates the H2020 RADON project on serverless cloud computing with 8 academic and
+industrial partners; Heinis co-ordinates the H2020 OligoArchive project on DNA storage with CNRS,
+Eurecom and Helixworks; Pantic was co-ordinator of the H2020 SEWA project on automatic
+sentiment analysis with Passau, Augsburg, RealEyes and Playgen; Guo was co-ordinator of the IMI
+eTRIKS project on medical analytics with Roche, AstraZeneca, Sanofi, Pfizer, Merck, Lundbeck,
+Janssen, GSK, Lilly and Bayer; and Casale was co-ordinator of the H2020 DICE on cloud
+performance with 10 partners.
+4.2 Academic leadership and contributions to the discipline or research base
+The Department provides academic leadership, influencing and driving research agendas, strategy
+and policies, at both national and international levels.
+
+
+
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+4.2.1 Esteem and leadership
+(a) Esteem and leadership roles. Evidence of the esteem in which our academics are held includes
+8 Fellows of the Royal Academy of Engineering (Davison, Gardner, Guo, Jennings, Luk, Muggleton,
+Pantic, Rueckert); Fellow of the Academy of Medical Sciences (Rueckert); Fellow of the European
+Association for AI (Jennings, Lomuscio, Toni); 6 IEEE Fellows (Bronstein, Jennings, Luk, Pantic,
+Rueckert, Schuller); 19 Fellows of the BCS; and 5 Fellows of the IET.
+Our academics serve in leadership roles: Chair, ACM SIGMETRICS (Casale); Chair, ACM Europe
+Technology Policy Committee (Hankin); Chair, RAEng National Engineering Policy Centre and
+Engineering Policy Committee (Jennings); Chair, ACM SIGOPS European Chapter (Pietzuch);
+Member at Large, ACM SIGSOFT (Uchitel); Member, ACM SIGSOFT Empirical Standards Definition
+Committee (Filieri); Member, BCS Awards Committee (Donaldson); Honorary Vice-Chairman,
+Chinese Association of AI (CAAI) (Guo); Member, European Cloud Computing Expert Group (Guo);
+Member, IEEE Big Data Steering Committee (Guo); and Board member, European Association for
+Programming Languages and Systems (EAPLS) (Wu). Past leadership roles include: Chair, ACM
+Europe Council (Hankin, 2017–19); Board of Directors, ACM SIGMETRICS (Casale, 2015–19);
+Chair, BCS Lovelace/Needham Awards Committee (Gardner, 2013–16); Trustee, Building Research
+Establishment (Jennings, 2015–18); and Board of Directors, MICCAI Society (Rueckert, 2011–15).
+(b) Awards and prizes. Our academic leadership has been recognised with prestigious awards from
+external bodies: BCS Lovelace Medal 2020 (Jennings); Royal Academy of Engineering Silver Medal
+2020 (Bronstein); AIChE CAST Young Researcher Award 2020 (Misener); IAPR Maria Petrou Award
+2020 (Pantic); BCS Roger Needham Award 2019 (Donaldson); IEEE Computer Society Golden Core
+Award 2019 (Schuller); Suffrage Science Award for Maths & Computing 2018 (McCann); Fondation
+Dalle Molle Prize 2018 (Bronstein); AMiner Top 10 Most Influential Scholars Award in AI 2018
+(Jennings); Royal Society Wolfson Merit Award 2018 (Bronstein); Royal Academy of Engineering
+Macfarlane Medal 2017 (Misener); BCS Roger Needham Award 2017 (Donaldson); Royal Society
+Wolfson Merit Award 2016 (Livshits); ACM Distinguished Scientist 2015 (Uchitel); Young Scientist
+of the World Economic Forum 2015 (Schuller); EuroSys Jochen Liedtke Young Researcher Award
+2015 (Cadar); and MIT Innovators under 35 in Belgium 2015 (de Montjoye).
+(c) Grant reviewing. Our academics review grant proposals for many UK and international funders
+in Europe, USA, Canada, Hong Kong, Singapore and China. They often chair or serve on funding
+panels, e.g. EPSRC (Alrajeh, Cadar, Donaldson, Ghosh, Lupu, McCann, Pantic and Russo); and
+EU ERC/H2020 (Guo, Pantic and Pietzuch).
+4.2.2 Contributions to the discipline
+(a) Editorships and journal boards. Academic leadership is reflected by our posts of editor-in-chief
+of international journals: Computer Language and Speech (Specia); Deputy, IET Software (Alrajeh);
+OUP ML Series (Muggleton, 2013–20); Image and Vision Computing (Pantic, 2006–19). Our
+academics also hold more than 55 associate editor/editorial board memberships, including for many
+IEEE/ACM journals and as guest editors for journal issues.
+(b) Conference leadership. Academic leadership is measured by our service to conferences. On
+average over the REF period, each academic has been a committee member of 2–5 international
+conferences per year. Our academics led more than 50 conferences and workshops as Programme
+Chair (PC) or General Chair (GC), with recent examples including: ACM PLDI’20 (Donaldson, GC);
+EGSR’20 (Ghosh, GC); ACM ESEC/FSE’19 (Russo, PC); INTERSPEECH’19 (Schuller, PC);
+ECOOP’19 (Donaldson, PC); MIDL’19 (Glocker, GC); IEEE ICDCS’18 (Pietzuch, PC); Pacific
+Graphics’18 (Ghosh, GC); ACM SIGKDD’18 (Guo, GC); KR’18 (Toni, PC); ACM Middleware’17
+(Pietzuch, PC); IEEE/ACM ICSE’17 (Uchitel, GC); BMVC’17 (Zafeiriou, GC); IEEE MASCOTS’15
+(Casale, PC); IEEE SASO’15 (McCann, GC); and USENIX ICAC’14 (Casale, PC).
+(c) Conference keynotes. Our academics gave more than 130 keynotes in the REF period, e.g.
+CVCS’20 (Gosh); IJCNN’20 (Bronstein); FPL’20 (Luk); WACV’20 (Pantic); CVMP’19 (Ghosh);
+China-UK Big Data & AI’19 (Lomuscio); MVA’19 (Davison); MIDL’19 (Bronstein); CICLing’19
+(Specia); IFM’18 (Cadar); PSE’18 (Misener); COMMA’18 (Toni); HAI’18 (Jennings); CADE’17
+(Gardner); IOT’17 (McCann); ISCV’17 (Pantic); Intelligent Trading Summit’17 (Parpas); ICCBDC’17
+(Guo); ICFNDS’17 (McCann); DEBS’16 (Pietzuch); CAV’15 (Gardner); and IROS’14 (Davison).
+
+
+                                                                                           Page 18
+Unit-level environment template (REF5b)
+(d) Advisory roles. Our academics currently serve in numerous advisory roles: EPSRC Council
+(Jennings); EPSRC Science Engineering and Technology Board (Jennings); Covid-19 Research and
+Innovation Task Force (Jennings); Member, AI for Screening Task Group, UK National Screening
+Committee (Glocker); EU Blockchain Observatory (Gervais); Monaco Digital Advisory Council
+(Jennings); Sino-British Fellowship Trust (Luk); Science Foundation Ireland Review Panel for Trinity
+College Dublin (McCann); INRIA France Distributed Programming and Software Engineering Review
+(McCann); and Steering Committee Member, Science Foundation Ireland (McCann). Past roles
+include: Wallenberg Foundation Program (Jennings, 2018); Witness, House of Commons Select
+Committee on AI (Muggleton, 2016); Member, World Economic Forum Network on AI, IoT and the
+Future of Trust (de Montjoye, 2016); Chair, INRIA Scientific Council (Hankin, 2015); Member, OECD
+Advisory Group on Health Data Governance (de Montjoye, 2015); and Vice-Chair, CONNECT
+Advisory Forum for DG CONNECT (Hankin, 2014).
+4.2.3 Contributions to the economy and society
+(a) Improving public health and quality of life. The Department’s work on health-related research
+(e.g. on medical imaging and AI for health) has directly contributed to healthcare practice: EPSRC
+SmartHeart led to new cardiovascular imaging techniques (Rueckert/Guo); ERC MIRA enables
+machine intelligence for medical image representation (Glocker); ERC dHCP describes human brain
+connectivity (Rueckert); the London Medical Imaging & AI Centre pioneers new AI enabled
+healthcare (Rueckert/Glocker/Kainz); the HeartFlow Laboratory offers personalised heart disease
+diagnosis (Glocker); H2020 IDEA-FAST focuses on neurodegenerative and immune-mediated
+diseases (Guo); EPSRC MAHEVA achieves new neonatal movement assessment
+(Kainz/Rueckert/Glocker); H2020 DE-ENIGMA pioneers human/robot interaction for autistic children
+(Pantic); EPSRC ROAD2H develops new learning health systems (Toni); and Bronstein’s research
+identifies new cancer beating molecules. Many of these projects, together with the AI4Health CDT,
+are collaborative with NHS trusts and the AHSC, thus providing fast routes for clinical translation.
+Our IXICO impact case study illustrates this for new drugs and therapies for neurodegenerative
+diseases; the 3D Analysis impact case study shows this for reconstructive facial surgery.
+(b) Influencing public policy. The Department engages with Government at national and
+international levels: de Montjoye’s work on privacy has influenced policy through his roles on the
+Belgian Data Protection Authority and as a Special Adviser to EC Commissioners Vestager
+(Competition) and Reynders (Justice). He also served on the OECD Advisory Group on Health Data
+Governance; Guo is a Scientific Adviser in Big Data/AI to the Jiangsu Province Government, China;
+Jennings serves on the National Security Council, Science and Technology Committee. He was the
+Chair of the Science Advisory Council in the National Security Area and a member of the Technology
+and Innovation Futures working group; Uchitel is an adviser to the Chief of Cabinet and COVID
+Expert Advisory Board in Argentina; Muggleton provided advice to the House of Commons Select
+Committee on AI; McCann contributed to the DCMS consultation on the UK Government’s regulatory
+proposals regarding consumer IoT security.
+(c) Public and media engagement. Our public engagement activities seek to inspire interest,
+debate and discussion, e.g. by running an evening public lecture series or organising Ethics in AI
+events. Our academics often participate in media and public activities, e.g. lectures at Imperial Fringe
+and the Great Exhibition Road Festivals (Bronstein, Casale, Cully, Davison, de Montjoye, Glocker,
+Edwards, Kainz, Knottenbelt, Leutenegger, Misener, Toni); TED talks (Pantic, Bronstein, McCann);
+BBC Radio 4 (McCann); G7 Global Forum on AI for Humanity (Muggleton); Royal Society Summer
+Science Exhibition (Pantic); and Festival of Science Film (Cully).
+Our research frequently attracts media interest and press coverage around the world, e.g. the work
+on privacy breaking re-identification (de Montjoye); blockchains (Gervais); medical AI and ML
+(Glocker); medical imaging (Kainz); AI/robotics for autism and facial recognition (Pantic); audio
+engineering (Schuller); cognitive AI (Shanahan); and adaptive robotics (Cully).
+(d) Outreach. The Department organises many outreach events, including talks, workshops and
+demonstrations with schools, local societies, teacher groups and professional bodies. Staff are
+encouraged to become school governors. A specific Departmental focus (led by Bell) has been to
+inspire more women to pursue computing careers by organising outreach events for girls and women
+(e.g. Engineering Summer School for Girls, AnitaB.org initiative; MegaGame school event; the Junior
+
+                                                                                               Page 19
+Unit-level environment template (REF5b)
+Hackathon for Girls). The Imperial Codelab (started in 2016) raises interest in programming for young
+girls and children from under-represented communities; the cZeus School League engages pupils
+in the joy of mathematics; and Yoshida has organised ACM Programming Language Mentoring
+Workshops. The Department is a STEM Club Champion for training secondary state-school
+teachers, and our undergraduate students can do an optional assessed module, working with school
+teachers on teaching projects. The Department has an annual Open Day to showcase prize-winning
+projects to schools and industry. As a result of the EDI focus of our outreach, the female student
+intake for our MSc cohort saw an increase from 20.6% in 2018–19 to 27.2% in 2020–21.
+
+
+
+
+                                                                                            Page 20
+

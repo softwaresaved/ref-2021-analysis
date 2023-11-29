@@ -1,0 +1,894 @@
+Unit-level environment template (REF5b)
+ Institution: Goldsmiths, University of London
+
+ Unit of Assessment: 11, Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+Context
+
+Over the last two decades, Goldsmiths’ Computing has been developing with the express purpose
+of contributing to the College’s core strengths in creative practice and studies of social
+engagement. This has led us to become a Department with a dedication to inter-disciplinary
+research, working with other Goldsmiths’ Departments and other institutions to develop projects,
+research centres and groupings around computationally informed creative practice and around
+data-analytic social science. This trajectory leads to research outputs that are unusual for a
+Computer Science Department: our research finds expression in, and inspiration from, artistic
+expression, creation and performance. In this period, we performed computational musical pieces
+at the Barbican; produced AI-based computational instruments used in AI jazz improvised
+performances on Radio 3; displayed computational art works at the Centre Pompidou, and the
+Hermitage; and produced commissioned public art works displayed in Trafalgar Square, and in
+public squares across Asia and in Chicago. These events form part of our research culture and
+contribution, and they are also part of our impact strategy, encouraging non-computing audiences
+to engage with computing ideas.
+
+In this REF period, the research focus of Goldsmiths’ Computing broadened, with its inter-
+disciplinary activities reaching beyond arts and social sciences to other sciences, mathematics,
+and finance. This expansion of view is partially driven by the growth of Goldsmiths’ School of
+Professional Studies, Sciences and Technology (PSST), where Computing sits in the College
+structure. Zimmer, Head of Computing, is collaborating with the Head of School, Banissy in
+2020/21 in the planning of a thematic inter-disciplinary School-wide exploration of the Future of
+Work. This initiative encompasses research and teaching across the School, reaching from
+Management to Well-Being, to Computational Technology. Computing is not new to setting
+agendas for inter-disciplinarity at Goldsmiths. In 2016, the Warden of Goldsmiths asked d’Inverno,
+Professor of Computer Science and then Research Pro-Warden to create research themes to
+support cross-college research. Zimmer, working with d’Inverno, led a series of consultative
+seminars across the College. Over 150 staff members took part in the process, suggesting and
+elaborating a large number of suggested themes. In the end, four were chosen for development.
+Two of these have strong Computing components: Invention, Creativity and Experience; and
+Technologies, Worlds, Politics. The themes are not only research ideas but also have a real status
+with meetings involving members from several departments and budgets to support hosting
+research events and scoping joint inter-disciplinary research projects.
+
+The Computing Department is proud of its central position in cross-department thinking at
+Goldsmiths. We are also proud of our history and reputation in exploring and furthering the
+relationship between creativity and computation. We believe that in this way we have contributed,
+over the last twenty years, to the diversity of thinking in the discipline of computer science. We are
+now at the beginning of an intensification and broadening of that cross-disciplinary thinking, which
+is leading to new disciplinary alignments. We have reached a new phase of Goldsmiths’
+Computing.
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+
+
+Structure of Research Areas
+
+The Department’s research aim is to preserve and enhance its distinctive foundations in creative
+computing, while taking the same interdisciplinary impetus into new areas: data science,
+algorithmic foundations, quantum mechanics, robotics, biomedicine, and psychology. This
+research is structured into four very broad research areas; the first two devoted to bolstering and
+sustaining the core Departmental research, and the second two, largely but not exclusively,
+support new areas of research. The groupings are: (1) Creativity and Computation; (2)
+Human/Computer Interaction; (3) Data Science; (4) Algorithmics. Each of these areas host their
+own seminars and events, and members publish and work on grants together. Each of the
+research sectors is led by a partnership of two members of staff, usually one senior and one less
+so.
+
+Creativity and Computation (led by Tanaka and Crawford). Goldsmiths’ Computing is unusual
+in that a large portion of academic staff work professionally as creative practitioners, artists and
+performers. This professional practice motivates and underpins much of the Department’s
+research. The combination of arts and science practice is tightly interwoven: in the research we do
+ourselves and in teams, in our support of a larger research community, and in the way we present
+our research to the public. A pair of events sponsored by the Arts Council, Creative Machines 1
+and 2, are exemplars both of how we support interdisciplinary research across institutions and how
+we provide a public face to our research. These events, exploring human/machine creativity in
+contemporary art, consisted of exhibitions and workshops. They highlighted works by computer
+scientists and artists linked to Goldsmiths and to the CYLAND MediaArtLab in St. Petersburg,
+Russia. The events relied on and stimulated work across institutions and across disciplines. The
+exhibitions were open to a general audience. This is one of many examples of exhibitions involving
+art produced by or with Goldsmiths’ Computing: others include the Centre Pompidou, the Lowry
+Centre and the Hermitage. There have also been many musical performances based on this
+research including concerts at the Barbican and a live performance on Radio 3. And in a new
+cross-Department collaboration, Tanaka is working with Goldsmiths' Music and Media
+Departments, to innovate and host immersive public performances as part of an AHRC/EPSRC
+funded project. An example of the work reaching a supporting a larger community of researchers
+from different disciplines is Crawford’s AHRC and EC supported music informatics retrieval work,
+in which Goldsmiths is a central hub in a large network of researchers across the UK and Europe.
+And, finally, Goldsmiths hosted a joint China/UK workshop in the creative industries, including
+academics, commercial partners and cultural institutions from both countries. This led to an
+AHRC/UKRI grant to stimulate interdisciplinary research projects across the two countries.
+
+Human Computer Interaction (HCI) (led by Latham and Pan). HCI research at Goldsmiths is
+long established. One subgroup, Embedded Audio-Visual Interaction (EAVI), has a fifteen-year
+history of pioneering new paradigms of interfaces to computational systems. The group runs a
+series of internal research seminars and external talks and performances in London. EAVI enables
+different kinds of interactions with computers. For example, we have supported people with
+disabilities to express themselves musically with specially designed computational instruments.
+Fiebrink, funded by the Paul Hamlyn Foundation, created, in collaboration with music therapists
+and music teachers, a suite of prototype musical instruments for children with disabilities, with
+which they performed at the Barbican. While Tanaka, in work reported on US national television
+networks, produced a haptic interface for visually impaired audio producers that is being used in
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+professional recording studios in the US and UK. The HCI group has supported the research
+community through running exhibitions, performances, and workshops. Fiebrink and Gillies co-
+chaired a workshop on Human-Centered Machine Learning at the 2016 ACM SIGCHI. The group
+is active in Virtual and Augmented Reality research. Latham and Leymarie’s research concerns
+scientific visualization. Their work supports medical research and public understanding of science.
+Medical researchers at Oxford, York, and Imperial all report that their research benefits from the
+insights they get from experiencing DNA, proteins, and viruses in more intuitive ways. This
+research was one of twelve powerful VR applications highlighted by Forbes Online and has been
+shown to the public at many venues, including New Scientist Live and at a Scientific VR Workshop,
+hosted by The Francis Crick Institute and Goldsmiths in 2019. The group also used VR systems to
+make realistic, virtual humans and human-like characters. Pan, working with UCL, has used these
+systems to train medical professionals to deal with difficult social interactions more confidently. Pan
+and Gillies, supported by UKRI, are helping develop a game, based on Peaky Blinders, that
+incorporates AI-enabled realistic characters. The game is set to be realised commercially in 2021.
+
+Data Science (led by Soldatova and Stamate). Data Science has been a feature of the
+Department throughout the period. In 2015 Goldsmiths partnered with the company, Tungsten, to
+set up a research centre based at Goldsmiths with a remit to investigate the use of AI technologies
+to problems in procurement analytics. The centre continued to do commercial-facing data science
+projects throughout the REF period in partnership with two other companies. The group has been a
+particular area of growth for the Department both in teaching and research. The Department is
+developing a suite of postgraduate programmes, both online and on-campus, around data science
+and its applications. The Department has appointed five established researchers to lead the
+development: Buchan, Soldatova, Russell-Rose, Aquino, and Nicolaou. The group interacts
+extensively, sharing ideas for research, especially around medical applications. Soldatova co-runs
+an EPSRC grant with Cambridge, set on producing AI systems that can choose cancer treatments
+as effectively as a human oncologist. In collaboration with Manchester, Stamate uses Data
+Science techniques to predict the risk of dementia through the scrutiny of primary care records.
+During this REF period, work of the group has been funded by the BBSRC, Horizon2020, the
+EPSRC, DARPA, and Alzheimer’s UK. A public-facing output of this group was the Robot
+Scientist exhibition in the Science Museum in 2015 as part of the European-funded AdaLab
+project. The event attracted 3500 visitors who learned, through demos and games, about
+computational approaches to drug discovery.
+
+Algorithmics, Quantum Informatics, and Financial Technology (led by Hughston and
+Hoban). Hughston has contributed to the fundamentals of the quantum theory of measurement
+and the thermodynamics of quantum systems, which is relevant to the characterisation of near-
+term, noisy quantum computational devices. Hoban developed a new theory for systems, going
+beyond quantum theory, in a paper that that was awarded the 2018 Paul Ehrenfest Prize, being
+judged the best paper in quantum foundations in the last five years. Hoban is funded by a FQXi
+(Foundational Questions Institute) with a £36,691 grant to develop new causal discovery
+techniques for quantum systems (based on probabilistic reasoning with directed acyclic graphs).
+This relates to Badkobeh’s work on graph and string algorithms, supported by Leverhulme and the
+London Mathematical Society. In the Goldsmiths spirit of interdisciplinarity, she is now working with
+musicologists to apply her string algorithms to questions about music informatics. The group is also
+applying algorithmic thinking to questions around finance. For example, Chinthalapati has studied
+financial systems by creating agent-based models to explore the opportunities and dangers of ties
+
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+between different players in a financial market. He is actively setting up a network of London
+financial institutions to work with us and our students on these questions.
+
+Research Strategy
+
+The overall goal for the present and next REF periods is to reinforce our core interdisciplinary
+strengths while adding new subjects and new techniques. We have achieved that in the present
+REF but the goal for the next period will be, possibly to expand further, and definitely to better
+integrate the thinking across strands. To achieve these goals, the Department has developed a
+strategy with four pillars. Goldsmiths’ Computing aims to be stable and sustainable
+(strengthening our computing/creativity research values), expansive (open to new ideas,
+audiences and disciplines), placed in the world (making a difference to individuals, charities,
+companies, and universities), and drawing from and adding to department teaching.
+
+Stable and sustainable. The Department is committed to helping the core research -- computing
+in relation to arts and creative industries – thrive. One way is through the support for international
+collaborations. For example, the Department hosted two international art & technology symposia,
+jointly with Kyoto University. We have also encouraged and supported Tanaka in his application
+for another Japanese partnership: Art, Artifice & Intelligence: A UK-Japan partnership exploring art
+and AI, sponsored by the ESRC. Research in this area is also sustained by commissions and
+collaborations with non-university partnerships. For example, Shoben was commissioned by the
+Marie Curie Cancer Care charity to produce a public artwork in London’s Paternoster Square
+commemorating the launch a fundraising campaign: 4,000 handcrafted daffodils, that responded to
+the environment.
+
+Expansive. In this period, we have broadened our interdisciplinary mission to include sciences. In
+this submission 12% of our outputs relate to physics; 14% to psychology; 24% to biomedicine. The
+extent to which our researchers are making an impact in general science is evidenced by the
+publications in multi-disciplinary science journals in this REF submission. This research, again, is
+sustained by research collaborations. The Departmental research support team facilitated joint
+research with a US-based quantum informatics company, as well as European and UK
+universities. As well as broadening our topics, we are extending our audience. For example, the
+Department supported Latham and Leymarie, with fees and personnel, in setting up several public
+events, such as the Royal Society Summer Exhibition and New Scientist Live. We have also
+supported staff to give over 100 public lectures, including 2 TED and 4 TEDX talks and seminars at
+Google, Apple and Microsoft.
+
+Placed in the world. The Department is dedicated to supporting staff to do research that improves
+people’s lives. In this period, for example, we have partially financed a project with Great Ormond
+Street Hospital, using VR to train doctors to support families of terminally ill children (Pan and
+Gillies). We have provided staff time and administrative support for work with the charity MIND,
+helping sufferers of pandemic or lockdown – through the work of Ohene-Djan; to working with
+Microsoft Research, providing better computer access for people with disabilities (Fiebrink); and for
+work with the University of Manchester in diagnosis and treatment for Alzheimers’ and Covid-19
+(Stamate, Soldatova). Part of our strategy for keeping research relevant is to work directly with
+companies, particularly SMEs in the creative industries. Two projects – MIMIC, funded by the
+AHRC, and RAPIDMIX, funded by the EU – were set up to engage stakeholders in the process of
+music making with creative tools by bringing machine learning to SMEs.
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+
+
+Doing research that draws from and adds to our teaching. In the last two years we have
+launched two distance-learning programmes: an MSc in Data Science and a BSc in Computer
+Science. This both gave us an opportunity, and an imperative to expand our thinking, particularly in
+fundamental computer science and data science. That has led to our research groups in quantum
+computing and in data-rich, bio-medical research. It has also given us the opportunity to form a
+virtuous circle of doing pedagogical research based on Coursera-provided data and using the data
+science research techniques to analyse the data and improve the teaching.
+
+Impact Strategy
+
+All staff are encouraged to think about impact as part of planning their research. The Department
+supports staff, administratively and financially, for activities that enhance engagement and impact
+of their research. The specific modes of impact for Computing are set out below:
+
+Impact on and from Arts. The Department supports staff to attend and contribute to arts
+exhibitions and performances. At times, as in the joint exhibition with Kyoto University, we play an
+active role in the organisation and running of these events. As exhibitions and performances can
+attract larger, more diverse, audiences than computer science ones, these events can raise
+questions and increase understanding of the nature of computation and creativity among
+audiences not usually in attendance at a computer science event. In another example, Colton’s
+fundamental AI research on ideation was used as the genesis of what the producers called: “the
+first West-End Musical created by computers.” The musical itself had an audience of 3,000 and it
+was accompanied by a platform discussion about creativity and computation and a Channel 4 SKY
+Arts documentary about the project (see Impact Case Study).
+
+Public Understanding of Science. The Department produced three systems for helping scientists
+and lay people to better understand molecular biology by experiencing it through VR and games.
+The original work was done with and for medical researchers in Imperial, Oxford, and York. It has
+since been adapted to give non-scientists the same opportunity as professional medical
+researchers to experience molecular structures. The work was a central feature of the New
+Scientist (2016 and 2017) live events. The Department supported that event by paying exhibitor
+fees and providing staff including professors and students to explain the work to the public, as well
+as people to transport and set up the display. The Department part-paid the salary of a post-
+doctoral researcher for six months to make sure the engagement event could happen (see Impact
+Case Study)
+
+Impact on medical practice. Pan and Gillies create virtual characters who use AI to socialise
+realistically. Working with UCL, they create ethically challenging scenarios to train people-facing
+professionals, particularly medical practitioners, to deal with socially difficult situations. They are,
+for example, working with Great Ormond Street Hospital on a system that helps professionals
+communicate sensitively with the families of ill children.
+
+Impact on the London SME community. About ten years ago, Goldsmiths Computing set up
+Goldsmiths Digital Studios as an in-Department consultancy dedicated to doing projects with small
+companies in South-East London. Goldsmiths’ Digital works on projects that build on Goldsmiths’
+research and employ present or recent students to work alongside an established member of staff.
+We have completed more than twenty such projects, mostly with SMEs in the Creative Industries.
+
+                                                                                                   Page 5
+Unit-level environment template (REF5b)
+This supports local industry and employment. Projects in the period ranged from augmented reality
+for the culture sector to assistive technologies on mobile phones to visualising DNA. Falconer is on
+a part-time contract to run the consultancy and find and negotiate the projects.
+
+Culture of Research Integrity
+
+Maintaining an open research environment. The Department meets the requirements of Green
+Open Access through the support of staff and resources of the Goldsmiths Research Online
+repository. The Department supports Open Science movements and encourages staff to make
+their research results available to the research community and general public. Examples include
+Wekinator 2.0, Sound Control, InteractML, Analytics Automated, CSynth software platform, head-
+movements datasets at OSF platform.
+
+Supporting a culture of research integrity. The Department has a Research Ethics Officer, who
+reports to the Department Research Committee and the College Research Ethics Committee. The
+Officer reviews and approves the research ethics proposal forms that all PhD and Masters’
+students must complete. Staff must submit their research ethics forms to a College-wide Research
+Ethics and Integrity Sub-Committee for approval. Ethical clearance must be obtained before any
+research project begins. Ethical considerations include the application of appropriate research
+protocols for projects (such as independence of researchers, no harm to human participants,
+integrity of research, fidelity to verifiable knowledge, consent to research and use of data, rights to
+privacy, confidentiality and anonymity) as well as the management of research staff.
+
+Historical and Future Plans
+
+In REF2014, we announced quantifiable goals for this REF period: to increase by 25% the grants
+won. The 60% increase in funding far exceeds the target.
+
+In REF 2014, we announced our intention to “continue to grow our research reach and significance”,
+specifying the Creative Industries and Social Sciences. The former was to be built, in part, on the
+York/QMUL consortium; the latter was to be the result of an increased Department interest in data
+science. All of that happened. What was not anticipated was the turn to foundations and scientific
+applications. Our research strategies and the arrangements put in place have enhanced the
+interdisciplinarity, vitality and sustainability of the research environment.
+
+In the coming years, we shall continue supporting interdisciplinary research, building on both the
+creativity research and science explorations. However, the real excitement will come from merging
+the thinking and techniques from the two. We do not know what forms the synthesis will take but
+some speculative ideas are emerging. We are planning a centre on the Future of Reality, that may
+bring together ideas from VR/AR and quantum informatics by, for example, using VR to help
+naturalise the unimaginable experience of the quantum world. Goldsmiths’ Computing research
+already produces robots that make art and robots that discover science. Can these two be brought
+together? Can the scientific research on brain function be used to make artificially creative systems
+or interfaces that lead directly from brains to creative practice? Whatever ideas and technology we
+conceive, we will feed into a pan-Goldsmiths programme exploring the future of work and, more
+broadly, what it will mean to be human, in a world full of AI, simulated experiences, and changing
+habits of work, social interaction, and creativity. Whatever applications we develop will be
+underpinned by foundations we have laid down in this REF period: machine learning, bodily/brain
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+interactions, virtual reality, quantum informatics, mathematical foundations. Building on these
+foundations, and merging the arts and science thinking, we will create the next phase of a truly
+distinctive Goldsmiths’ Computing offering.
+
+Another focus for future development is to substantially increase departmental support of ECRs and
+postgraduate students. The Department plans to introduce 'light' years for ECRs in which the load
+of teaching is alleviated to make time and resources available to boost their research profile. We
+shall improve our mentoring scheme, moving from an informal arrangement to more formalized
+assignment of mentors to ERCs. Recently, the Department has started a brownbag/seminar series
+that are exclusive to our postgraduate students to provide a friendly environment for knowledge
+exchange. We will build on its success and introduce other activities dedicated to supporting our
+ECRSs and PhD students and enhancing our research culture.
+
+We will also introduce activities supporting other groups of researchers, e.g. grant writing
+workshops for women only.
+
+ 2. People
+
+The Department is proud of its record of promoting equality and diversity and proud, too, of its
+record of helping staff develop their academic careers. In the REF period, we appointed 31 new
+academic staff members onto long-term or permanent contracts, principally staff early in their
+academic careers. Some staff are appointed on teaching and research and some on teaching and
+scholarship. We view these contract types equally. However, we are supportive of staff who want
+to move from one career path to the other, and we expect that at least half of the staff members
+who are currently not on research contracts to feature in the next REF.
+
+Recruitment. All T&R staff are recruited with the Department research strategy in mind.
+The recruitment practice supports:
+(1) Stable and sustained research by reinforcing our creativity-related research in this period.
+39% of the staff we appointed in the period have arts backgrounds and/or practices, many adding
+new dimensions to that aspect of the Department’s research. For example, Pritchard is a
+productive exhibiting artist, who also has a background in sociological research. She uses her art
+and computing technology to explore, and draw attention to, environmental issues, gender issues
+and big data. Another new appointment, Lomas, is an Emmy Award winning graphic artist who, in
+this REF period, exhibited computational artwork in the Centre Pompidou. Our recruitment strategy
+sustained and strengthened further our arts focus by appointing: Falconer, Fasce, Forth, Grow,
+Lomas, Lotto, McClellan, Perry, Pritchard, Raskob, Zbyszynski, Zucconi.
+(2) Expansion of research disciplines. 26% of the new appointments have backgrounds in
+sciences other than computing. Hoban, Hughston, Milne all work on quantum informatics.
+Hughston also works on financial technologies, as does Chinthalapati. Aquino, Buchan and
+Garagnani work in computational biology. Maiolino’s background is mechanical engineering, which
+is the basis of her work on tactile skins for robots. These eight appointments mark a fundamental
+expansion of the Department’s research disciplines.
+(3) Impactful research. The recruitment practice helps us broaden our place in the world. In the
+REF period, for example, we appointed Lotto, who has given three TED talks (two in this period)
+about perception, with a combined viewership of 10 million. We also appointed Buchan, who is
+developing and running the PSIPRED Workbench, an important bioinformatics machine-learning
+based data server that services requests from about 5,000 unique users a month.
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+(4) Research that draws from and adds to department teaching. The expansion in research
+topics supports existing teaching content and contributes to forthcoming programmes. In particular,
+to underpin new programmes in Data Science and Financial Technologies, we have expanded the
+data science research team by appointing Soldatova as a reader; Buchan, Aquino, Nicolaou, and
+Gerow as lecturers; and Russell-Rose as a senior lecturer. The number of outputs submitted for
+these new appointments testify to the large effect they are having on our research culture.
+
+Early-Career Researchers. About a quarter of our Category A staff are early career researchers
+(ECRs). Providing an effective pipeline by nurturing them is vital to our sustainable contribution to
+the research of the Department and the diversity of research in the discipline. New appointments
+are assigned mentors with relevant research interests. For many staff members, mentoring
+includes collectively developing group shows and performances. The Department runs workshops,
+principally for ECRs, for supporting staff in writing articles for conferences and journals, and for
+writing grant proposals. Senior staff often write international peer-reviewed journal articles
+collaboratively with research assistants and other ECRs. Research Assistants are always named
+as co-authors, often as lead authors. The Department hosts workshops and expositions that
+include a mixed population of staff, ECRs and students, providing new researchers access to the
+latest research and also to an audience for their work. In September 2016, Goldsmiths submitted a
+revised action plan for 2016-20 and retained the HR Excellence in Research Award from the
+European Commission award, first awarded in September 2012 Goldsmiths’ Central Services
+offers support for ECRs in line with the UK’s Concordat to Support the Career Development of
+Researchers. Career guidance and other development opportunities (e.g. Postgraduate Certificate
+in the Management of Teaching and Learning, which uniquely combines pedagogic training with
+discipline-specific topics and politico-ethical focus) are available to staff at all levels, including
+research staff.
+
+Career Development. Staff members meet with their line managers at least annually to discuss
+their academic work and career development. This can, on a voluntary basis, be part of the
+Performance Development Review (PDR) scheme, which includes a written preparation document,
+a one-to-one discussion, and an agreed written conclusion. All members of academic and research
+staff are offered a PDR annually, with their line managers or the head of department, to reflect on
+their careers, working towards individual and research group goals. These sessions are available
+to both permanent and fixed-term research staff. All research-active staff are assigned to at least
+one of the research groupings, which provides opportunities for collaborative working and guidance
+from research leaders. Staff are routinely supported, by Department Research Committee funds, to
+attend conferences and to, in other ways, further their research careers. The Department workload
+model is designed to encourage and reward research activity: it has a sliding scale of research
+time allocation based on achievement and potential. The research time includes, as well as output
+generation, grant writing and editorships and other professional research activities. Staff are
+entitled to apply for research sabbaticals through the College Research Office and are also
+encouraged to apply for research buyout time from funding bodies. In REF2014, we reported that
+two ECRs from RAE2008 (Gillies and Grierson) had been promoted to senior lecturers. Gillies is
+now a reader and Grierson is a professor. Promotions, supported by the Department, in the
+present REF period include: Fiebrink to reader, Devlin, Katan, and Papadopolous to senior
+lecturer; Maolino and Wiseman from post-doctoral research fellow to lecturer.
+
+Equality and Diversity. In line with the discipline at large, women remain underrepresented in the
+Department, although the situation is improving. In this submission, 10 of the 41 REF returned
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+members of staff are females (24%), whilst submitting 27% of the outputs. This is an improvement
+on the 2014 Goldsmiths’ Computing REF submission, which was about 21% women (which, in
+turn, was more balanced than the national average of computing submissions at about 18%
+women). In the present REF period, 35% of the new academic appointments went to women. The
+improvement from 2014 to 2021 is part of an ambitious Departmental project targeted at increasing
+the role of women in computing. In April 2015, the Guardian newspaper printed an article that
+profiled women in Goldsmiths’ Computing. This article was prompted by a targeted recruitment
+campaign, aimed at increasing the percentage of women in the Department. Also, in 2015, we
+started a project entitled “Women in Computing”, in which women game programmers at
+Goldsmiths inspired female pupils and students to consider careers in computing. This is a
+Departmental priority. In 2018-19, Zimmer co-chaired (with the Deputy Warden), the Goldsmiths’
+College-wide Athena SWAN Self-Assessment Team (SAT), spearheading the College’s first
+submission for the award. He also chaired the SAT for the Department in that period, leading to a
+submission at the same time as the College one. The Departmental Management Team now has a
+majority of women members (4 out of 7 members), including the new Chair of the Athena SWAN
+SAT, Director of Research and the Deputy Head of Department and Department Business
+Manager.
+
+There is a Departmental policy of pro-actively soliciting promotion applications from appropriate
+staff members who have not put themselves forward, particularly women. In the REF period, 57%
+of internal promotions went to women, despite the fact that the Department is still predominantly
+male. The Department supports family and personal obligations of its staff members: 8 members of
+staff have agreed flexible-working arrangements, 7 of whom need the arrangements for childcare.
+These staff members are protected from teaching and other duties that require University
+attendance in especially pressured times. This was in place well before the pandemic, but the
+flexibility has become more important and more extensive due to lock-down induced home
+schooling and caring responsibilities.
+
+Goldsmiths’ Computing is committed to supporting and promoting BAME computer scientists. In
+2020, the Department hosted a series of externally facilitated all-day workshops for academic staff
+to explore issues of unconscious bias and race equality. For four years, Computing’s Ohene-Djan
+held a Goldsmiths-wide role of Associate Pro-Warden in charge of Widening Access and Student
+Opportunity. That role has now been focussed in the sense that he is concentrating on STEM
+subjects and widened in the sense that it includes research and academic staff. The cohort
+submitted to REF includes 22% BAME colleagues, who are submitting 23% of the outputs. This is
+a marked change from the 4% in the 2014 submission. We are aiming for this trend to continue.
+Our students are predominantly BAME and we actively encourage, through interventions in
+schools and targeted master classes, inner-city BAME students to study Computing at Goldsmiths.
+Moreover, our prominence on the Coursera platform enables us to reach thousands of students
+from diverse backgrounds. We hope, long-term, to develop these students through our own, and
+other post-graduate programmes, to help diversify the discipline.
+
+Supporting PGR students. PhD students are an integral part of our research environment,
+playing an active part in all research activities from grant preparation to paper writing and
+presenting at Department seminars. We have a separate research committee to support post-
+graduate researchers. That committee, chaired by the Post-Graduate Tutor, Badkobeh, meets
+termly to discuss PGR students’ progress and to allocate funding for students to attend
+conferences or in other ways support their research. The budget for PhD student travel is twice the
+
+                                                                                            Page 9
+Unit-level environment template (REF5b)
+budget for staff travel and it is expected that every student will get a chance to attend at least one
+conference, or equivalent, during their studies. Research students attend and present at local
+seminars, including the weekly research at lunchtime seminar series. We run two doctoral research
+programmes: Arts and Computing Technology (ACT) and Computer Science each led by a set of
+senior staff who coordinate collaborative activities within the cohort. ACT was one of the first
+practice-based PhDs in the University of London. Students on the programme produce both art
+and technology outputs and reflect on the relations between the two. This PhD programme is a
+clear reflection of our research philosophy and practice. All students on all programmes have two
+supervisors, often with one from a department outside Computing. We are part of two Doctoral
+Training Centres: Intelligent Games and Games Intelligence (IGGI) is a joint centre with York and
+QMUL. IGGI students study for 4 years, with an initial year that includes taught modules. The other
+centre is an AHRC-funded consortium devoted to Humanities and Arts PhDs in South-East
+England. Student progress is monitored through an online system in which notes of supervisions
+are kept, as well as records of engagement with training, and other aspects of PhD progression.
+Students write a report at the end of their first year. All research students begin as MPhil students.
+To become a PhD student, they need to upgrade through a process that involves writing two
+chapters and submitting to a viva. This upgrade provides a natural point to exit with an MPhil if the
+panel and/or student feel that progress to date does not provide confidence that the student will
+produce a PhD thesis. During this REF period, our PhD students have won several prizes,
+including: Donnarumma who won the Prix Ars Electronica for a performance integrating muscle
+interaction and machine learning and Ayoub who won a Santander student entrepreneur top prize
+for her glove that automatically translates from speech to sign language.
+
+ 3. Income, infrastructure and facilities
+
+Strategies for generating research income
+The strategies for generating research income are directed by the overarching research aims; to
+keep the core research values in creative computing, actively planning for a thriving research
+future, be open to new ideas, explore new computer science foundations, focus on research that
+makes a difference and draws from and adds to department teaching.
+
+The strategies for generating research income are:
+
+(1) Diversify national sources of research income. Our research is intrinsically collaborative and
+interdisciplinary and benefits from a greater variety of funding sources compared to the previous
+REF period. This is evidenced by the diversity of research councils funding our research: EPSRC,
+AHRC, BBSRC, ESRC, Leverhulme and Alzheimers Research UK. Cross-disciplinary grants
+include: Crawford (AHRC) ‘Transforming Musicology’ (£1,6M); Pan (AHRC) ‘Immersive Art and
+Tech: the use of immersive technology in performance art’ (£488K); Soldatova (EPSRC) ‘Action on
+Cancer’ (£500K); Buchan’s (BBSRC) grant enhancing the PSIPRED workbench using deep
+learning (£138K); Tanaka (ESRC) ‘Art, Artifice & Intelligence: A UK-Japan partnership exploring art
+and AI’ (£50K); Pan (AHRC/UKRI) works with universities, arts institutions and creative industries
+in the UK and China (£449K); Stamate (Alzheimers Research UK) ‘Predicting risk of dementia
+using routine primary care records’ (£110K); Gillies (Leverhulme) ‘Understanding and Generating
+Real-time Face to Face Social Interactions’ (£22K).
+
+(2) Increase research income internationally. Our research benefited from collaborations in
+Europe and beyond: Rapidmix (Horizon 2020, €2.2M) involves both academic and commercial
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+partners in France and Spain; Fiebrink (EU Marie Curie, €213K) is hosting Gamez-Djokic from
+Amsterdam to study brain activity and machine learning; Tanaka (ERC Executive Agency)
+‘Metagesture Music’ (£1.4M); Ward (ERC) ‘Neurolive’ studying brains and theatrical performance;
+(€184K), Soldatova (CHIST-ERA, €1.5M) involved academics from France and Belgium; Soldatova
+was involved in the Big Machine Science project (DARPA, $4.5M) – international network led by
+Chicago; Latham and Leymarie hosted two international art & technology symposia with Kyoto
+University; and we recently won funding for Hybrid Live (£67K) - a collaboration with Stanford, and
+cultural institutions in San Francisco and London.
+
+(3) Increase research income from commercial partners. We attracted substantial funding from,
+or to support working with, commercial partners: Bishop Deep360 (£362K) is funded by UK
+company; Hoban’s research is supported by a Silicon Valley company; Innovate UK funds
+Goldsmiths work with London companies, e.g. Bishop’s KTP project, ‘CHROMA’ (£187K) with
+Sherwin-Williams, Gillies’s ‘Maze Theory’ with the producers of a video game based on Peaky
+Blinders (BBC2 gangster drama). There has also been a shift from relying on the traditional
+sources of funding towards seeking other opportunities with US, Asian and UK private funding
+streams that are both altruistic and commercial in nature.
+
+The total Department research income over the reporting period is £9,237,970, which on average
+is around a 30% increase per year on income reported in REF2014. Our average per-head funding
+is £236,871 for the 7-year period. These numbers show sustainability and expansion of our
+research in accordance with our research strategy.
+
+Directed by the research strategies and strategies for generating research income, Goldsmiths’
+Computing embraced and enhanced the interdisciplinary nature of its research, maintained the
+core research area and expanded to new areas in data science, quantum computing, biomedicine
+and AI. Our projects led to outstanding outputs (see the submitted REF outputs and significance
+statements).
+
+Organisational Structure Supporting Research and Impact
+
+Goldsmiths’ Computing provides a supportive and inclusive research environment to all staff,
+enabling realisation of its research strategies for sustainability and expansion to new areas.
+
+The Goldsmiths’ College Research Office is a reliable source of support. It distributes monthly
+newsletters outlining funding opportunities, invites external experts to run grant writing workshops,
+helps with funding applications and post-award matters. PIs are able to use 10% of the College
+FEC overheads for the furtherance of their research aims. This incentivises and rewards grant
+writing activity. It also provides opportunities for individuals and groups to come together and
+support ECRs, blue skies research, etc.
+
+The Computing Department is also a source of support, employing four administrators dedicated
+to supporting research and enterprise. Bellamy is the research manager: she proactively helps
+academics (particularly ECRs) to find and apply for grant opportunities, helps academics with the
+applications, and manages the portfolio of grants. She directly approaches relevant researchers
+with suggestions, requests, and reminders. Bellamy produces a termly newsletter that celebrates
+Departmental successes such as research awards, publications and prizes, to keep the community
+up-to-date and to encourage collaborations. MacDonald is the industry engagement champion: she
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+manages the interactions with commercial organisations, scoping opportunities for contract
+research, joint research and student placements. Falconer is the administrative lead for
+Goldsmiths’ Digital Studios. She manages an in-house consultancy that runs small-scale
+commercial projects with local SMEs. Such projects are an opportunity for the researchers in the
+Department to foster new collaborations, try out new ideas, and carry out pilot studies. Geller, the
+student experience and marketing coordinator, makes sure that our research is publicised through
+websites, fora, and social media outlets. Researchers are informed by email and web
+announcements about seminars, public lectures, and funding opportunities. The Departmental
+research support team also supports blue-sky research which might not lead to funding bids but
+contributes to diversity and sustainability of our research environment. We see this as a valuable
+way of maintaining the vitality of the research culture: grant-getting is not a necessary condition for
+career progression.
+
+The Research Committee. The Director of Research, Soldatova, is a member of the Department
+Management Team (DMT), where she reports and discusses research matters regularly. The
+Director of Research chairs the Departmental Research Committee, which organises seminars,
+away-days, strategy discussions, and regular seminar series in which every post-doctoral research
+staff member and PhD student is encouraged to present work several times a year. The
+Committee also allocates seed-corn grants, particularly to help ECRs with travel for collaboration
+and conference participation. The annual budget assigned for these grants is £12,000, supporting
+ten staff members and ten PhD students each year. The Research Committee meets at least
+termly to monitor and encourage department research. The Committee, as well as supporting staff
+and travel, supports visits of academics from other institutions and research events. In this period,
+we were particularly pleased to be able to support public events in the Games and VR and in
+Creative Machines.
+
+Physical Infrastructure and facilities
+
+Goldsmiths is an urban single campus university in South-East London. The college buildings are a
+mixture of purpose-built buildings and converted residential and civic buildings. The Computing
+Department is spread out across offices in converted Edwardian terrace houses, that contribute to
+its unique character; to computing lab spaces in newer or more specifically converted buildings: for
+example, PhD students and some staff are located in the Ben Pimlott Building, a modern iconic
+building that Goldsmiths uses on all its branding. Some of our labs and teaching happen in a
+deconsecrated church. The church is used, on occasion, as an exhibition space, including for the
+Computing Department’s Computational Arts shows, for public engagement events, and for
+research conferences and workshops. For example, the church was used as an exhibition space
+for the Future Minds: Art and Technology in the Future conference that we jointly ran with Kyoto
+University.
+
+During the reported period, we substantially expanded our research infrastructure and facilities to
+accommodate the needs of a steadily growing number of staff, their expanding research interests,
+new collaborations and partnerships. The research facilities we invested in support our core
+research in creative computing and arts. The SIML Lab discussed below is a state-of-the-art facility
+funded initially by the EPSRC, but the facility has created an asset where future bids could be
+possible as a result of this new resource. There has been an active investment in audio visual
+facilities in the Department to support the large growth of Virtual Reality projects in the Department
+(notably the work of Latham, Fol Leymarie, Gillies and Pan).
+
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+
+
+Two specialist spaces for interdisciplinary Goldsmiths’ research in creating and performance:
+The Sonics Immersive Media Lab (SIML) is a state-of-the-art immersive audio/visual facility,
+offering a sprung floor, seamless surround video mapped across 6 high powered video projects,
+and surround sound on a 12.2 PA system. Building and equipping SIML was partially funded by the
+EPSRC capital equipment fund related to our IGGI Doctoral Training Centre. SIML accommodates
+audiences of up to 40 people. It is a Computing-managed space, available to ECRs and PhD
+students, and is used for inter-disciplinary research with other departments. It helps in exploring
+new research agendas and supports local/public engagement, e.g. making TV programmes.
+
+SIML was used in two AHRC-funded Immersive Experience grants to develop content that toured
+internationally. Based on work developed in SIML, Tanaka was invited to present an immersive
+audiovisual performance at the IX Symposium in Montreal (2018); London artists People Like Us
+used SIML to finalise production of, and host a VIP screening of, an immersive cinema piece,
+Gone Gone Beyond. The piece was part of the Recombinant Festival in San Francisco. PhD
+student, Youhong Peng, created a portable SIML and presented an immersive dance performance
+work, Skin Awareness, originally created in SIML, at the ACM Motion Computing (MOCO)
+conference in Arizona in 2019. In 2017, the BBC news documentary ‘Weapons of Mass
+Surveillance’ was partially filmed in the space. The documentary incorporated generative, real-time
+custom graphics software developed as part of Goldsmiths’ Computing research. The director,
+Elizabeth Jones, wrote: “The artistic work itself was superb and worked perfectly and is probably
+what people comment on most when they watch the film.”
+
+The Hatchlab is a digital fabrication facility, realising mental images and digital designs as physical
+objects. The Hatchlab is equipped with a laser cutter, FDM and SLA 3D printers, vinyl cutter, CNC
+mills and routers, 12 fully equipped electronics development workbenches (including inductive
+soldering stations), oscilloscopes and bench power supplies, metal-engraving laser for printed
+circuit board prototyping, high-end woodworking equipment, as well as manually operated
+machinery, such as sander, drill press, jigsaw and more. The Hatchlab supports a number of
+research projects that involve either building objects from code or producing physical objects that
+contain code/electronics. The space hosts an artist-in-residence summer programme co-organised
+with the Victoria and Albert Museum. The Hatchlab has been also used for commercial projects
+and for commercial/Goldsmiths collaborations
+
+Three other specialist spaces support the Department’s research in creating and consuming
+media: Filming Studios the XR Lab, and the Motion Capture Suite.
+
+Recently, we installed two professional-level innovative Filming Studios. These studios were built
+to support our online programmes but are increasingly supporting research and public
+engagement, for example online scientific presentations. Studio facilities accelerate our creation of
+high quality pre-recorded and live video content. Academics can use the systems in self-recording
+mode, switching between camera angles, and background video feeds using our own custom
+controller software. We use the studios for live webinars, controlling the composition and layout of
+the stream in real-time.
+
+The XR lab is a two-room space equipped with a range of state-of-the-art VR and AR equipment.
+The main room is for technical work and collaboration and the second for specialist technical work
+and demos. The joint pre-covid capacity was 40. The labs house 10 sets of high-end VR headsets
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+with graphics workstation PCs, a Hololens 2 AR headset, two AR glasses, several 360 video
+cameras, and a professional motion capture system (optitrack). We use the lab for VR research
+including models of micro-biology, models of social situations, and games characters. The space is
+used by PhD students and postdocs for running experiments and research demos. It is also used
+in research events such as the 2019 Innovate UK Workshop. It has also been with commercial
+collaborators, including HTC VIVE, and Mindbubble, a London-based start-up. The space is large
+enough to be both a technical working space and a social space for our researchers and
+collaborators, allowing PhD and masters students to work alongside each other.
+
+The Motion Capture Suite is an annex to the XR Lab. In the suite, multi-camera motion capture
+technology records people’s movement and renders it into a virtual world in real time: the actor
+controls an avatar in VR. 8.1. Ambisonic Surround generates a cube of precisely located sound.
+Customised Oculus Rift and LEAP Motion equipment enables free exploration of a virtual version
+of the room. The virtual reality and motion capture rooms together provide a powerful support for
+motion tracking for VR research.
+
+On a more basic level, most of the Department’s research is supported by researcher’s individual
+machines or one of over 200 iMacs housed in our four dedicated computer labs.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+In line with our research strategy, staff made major contributions to sustaining and developing the
+area of creative computing (stable and sustainable) and extending interdisciplinary engagements,
+both within the UK and internationally (expansive). The Department maintains relationships with a
+wide range of non-academic users, stakeholders and beneficiaries (placed in the world),
+including: charities, creative-sector SMEs, cultural organisations, large industries, and the general
+public. Staff are supported through training, and internal and external resources to deliver research
+that has impact, reach and significance. We are particularly proud that we have demonstrated how
+Creative Computing makes a difference within and beyond the academy.
+
+Research collaborations, networks and partnerships
+
+Collaborations are central to our research, particularly research networks that cut across discipline
+boundaries. The key indicators of their success are joint applications for funding and publications -
+the vast majority of our submitted outputs are by multiple co-authors from different institutions.
+These collaborations have enriched the research environment, widened our research horizon,
+enhanced our national and international standing, and contributed to research-led teaching. The
+examples in this section demonstrate national and international collaborations in many research
+areas, including in creative computing, AI, systems biology, neurology, and musicology.
+
+International Funding Networks: In the REF period, Goldsmiths Computing was involved in
+eleven European projects: Colton (EU FP7: WHIM, COINVENT, PROSECCO), Crawford (H2020,
+TROMPA), d'Inverno (EU FP7, PRAISE, CHISTERA ACE), Soldatova (EU FP7 CHIST-ERA
+AdaLab), Tanaka (FP7 ERC, Metagesture Music, EU H2020: RAPID-MIX, BIOMUSIC), Ward (EU
+H2020: NEUROLIVE, SOCSENSORS). Soldatova was a PI in Goldsmiths of the Big Machine
+Science project funded by DARPA ($4.5M). This project was part of the $45M DARPA Big
+Mechanism programme, aimed at automatically processing scientific literature to develop
+
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+executable models. This work led to subsequent funding for Soldatova from the EPSRC as the
+ACTION on cancer project.
+
+UK Funding Networks: York, QMUL, Falmouth, and Goldsmiths were awarded £18M to develop
+research in VR, digital art, data visualisation and graphics, for the benefit of science, society,
+education and culture as an EPSRC-funded network, called Digital Creativity (DC) Hub. The DC
+Hub employs 15 researchers. This work builds on a previous grant to transfer knowledge and
+expertise gained from £90M of investment in digital creativity research at Goldsmiths, York,
+Falmouth and Cass Business School over the last decade. Crawford was the PI on the AHRC-
+funded Transforming Musicology grant with partners at Oxford, QMUL, Lancaster, and Utrecht.
+This was the largest grant (£1.2M) in the Digital Transformations programme.
+
+Individual Collaborations: Latham and Leymarie have collaborated with three groups of
+biomedical researchers who all see value in Goldsmiths VR as a way of experiencing molecular
+biology: Sternberg at Imperial, Twarock at York, and Taylor at Oxford. Similarly, Buchan’s
+collaboration with Jones at UCL led to a recent BBSRC grant, bringing Deep Learning to Virus
+Identification. The grant builds on Buchan and Jones’s previous work on the PSIPRED Workbench,
+which enables about 500 unique users a month to run machine learning predictors over protein
+data. Stamate works with Reeves at Manchester on work funded by Alzheimer’s Research UK, that
+uses machine learning for early diagnosis of Alzheimer’s. Casey in collaboration with Rockmore,
+Dartmouth College, organised the world’s first Turing Tests in the Creative Arts, Competitions.
+D’Inverno long-established academic relationship with Sierra, (Director of IIIA Institute of AI at the
+University of Autonoma in Barcelona) and Pachet (Spotify) have led to EU projects, publications,
+software and performances, related to AI and Music.
+
+Engagements with research users, beneficiaries or audiences to develop impact
+
+Our engagement activities are aligned with the research strategy of doing research that makes a
+difference to individuals, charities, companies, and universities. Staff actively promote our vision of
+computing as a creative practice through engagement with artists and art audiences and take it
+further through engagement with science audiences, companies and general public, as seen from
+the examples below.
+
+Engagement with Artists. The Wekinator, machine learning software, designed and implemented
+by Fiebrink, has achieved major worldwide impact for developers of music and games applications,
+music and dance performers, and the public. It was featured by BBC and Daily Mail and in venues
+such as the Roundhouse and The British Library. Yee-King’s music-creation software improvised
+jazz live on a Radio 3 jazz programme.
+
+Engagement with Arts Audiences. D’Inverno featured in a Sky-Arts documentary discussing the
+relationship between Computation and Creativity. As part of the Late at Tate, Frendred showed
+three installations in Tate Britain. Forth participated in Radio 3 Music Matters programme about
+musical memory in collaboration with The Wellcome Collection. He collaborated with
+choreographer Janine Harrington to organise dance/live code/generative music performances at
+many venues, e.g. The Victoria and Albert Museum, V&A Museum of Childhood, INKONST Malmö
+(Sweden), Dance Umbrella Festival Siobhan Davies Studios London, TripSpace London, UK
+Dance showcase, Poole, and MOCO Conference. Ward, in collaboration with UCL, Flute Theatre,
+Shimadzu ran a series of live public research talks and performances exploring wearable sensing,
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+theatre, and the brain at the Bloomsbury Theatre. This led to a week of performances at the Bridge
+Theatre involving Flute and autistic children. This work won the 2020 Goldsmiths Public
+Engagement Award. Raskob exhibited sculptures made with the LivePrinter project at the Design
+Research for Change Exhibition at London Design Festival in 2019.
+
+Engagement with Science Audiences. Soldatova’s exhibition of the Robot Scientist in the
+Science Museum attracted 3,500 visitors who learned about computational approaches for drug
+discovery through demos and games. Maiolino’s Robot skin was also displayed at the Science
+Museum. Visitors to New Scientist Live, and to the Royal Society Summer Exhibition, leaned about
+VR and about the structures of viruses and DNA through Latham and Leymarie’s exhibitions.
+Pritchard invited local citizens to participate in their research project on the air quality monitoring.
+The results of this project were used in the representations made by the local community to the
+Parliament.
+
+Engagement with General Audiences through Public Lectures. Researchers in the
+Department have given over 100 public lectures including Lotto’s TED talk about Awe that involved
+a love performance from the Cirque du Soleil (viewed over a third of a million times as of January
+2021) and his talk at the World Economic Forum. Latham gave a TEDX Talk about computer
+generated, organic life forms. Falconer gave a talk and chaired a panel on AI bias and Feminism
+in the Music Industry. Raskob gave a public talk in the episode of Bar Arduino Worldwide (99.5K
+subscribers). Hughston gave a public lecture in Casablanca Stock Exchange, Morocco (May
+2014).
+
+Engagement with Companies, especially Creative Industries SMEs. We have worked with
+companies from the largest (including Microsoft, Adobe and Google) to the smallest, to ensure our
+research makes a difference in the world. A particular feature is Goldsmiths’ Digital Studios,
+(described in Section 1). In this period, this work was supported by an initiative called London
+Fusion Collaborative Awards as part of Creativeworks. In the REF period, we worked with: Ribui
+Ltd, to make augmented reality apps for the culture sector; Performance and Wellbeing Ltd to
+design and implement a cloud-based application to capture and reuse health information; Such
+and Such Design Ltd to produce an online, mobile platform providing assistive technologies for
+disabled and elderly people; Intatex – ReWorKsI to produce a web-based application for recycling
+surplus textiles; Enternships to innovate new intelligent search techniques for an online job board;
+AUM Investments Limited Trading, to produce a sound-based messaging system for the music
+industry; NeuroCoach Limited to produce cloud-based services for tracking biodata. Desktop
+Genetics to produce visualisations of biological features found in large DNA databases
+
+Engagement with Charities. Our work with charities ensures that our research makes lives better.
+For example, Fiebrink led a project on providing systems that help disabled children express
+themselves musically. Ohene-Djan worked with Mind to produce systems to help sufferer of
+depression to find support during the pandemic. This work was followed-up by a QR-based system
+providing physical interventions aimed at preventing suicide in young men.
+
+Wider activities and contributions to the research base
+
+Reaching wider audiences has been an important dimension of our research strategy because it
+enables the development of impact for existing research expertise, stimulates further enquiry, and
+instigate new collaborations. The Department supports community engagement and leadership by
+
+                                                                                               Page 16
+Unit-level environment template (REF5b)
+providing funding for travel and community engagement, and by recognising substantial external
+responsibilities in its workload model through the tier system. As evidenced below, staff have been
+successfully representing and promoting our vision of creative computing through serving on
+advisory and management boards, editorial boards, programme committees, and giving invited and
+keynote talks.
+
+Advisory/Management Boards: 34 in total. Examples: Latham (Board of Directors of USC-SJTU
+Institute of Cultural and Creative Industries of Shanghai Jiao Tong University), Soldatova (EPSRC
+ICT prioritisation panel), Russell-Rose (vice-chair of the BCS Information Retrieval Specialist
+Group); Ward (technical advisor for LiveTree Ltd), Leymarie (co-director of DynAIkon Ltd), Fiebrink
+(Research Council of Norway Centre of Excellence, Advisory Board), D’Inverno (HEFCE’s
+Research and Knowledge Exchange Strategic Advisory Board).
+
+Editorial Board Memberships: 39 in total. Examples: Gillies (Virtual Reality (Springer), Associate
+Editor), Pan (Frontiers in Virtual Reality, Associate Editor), Ward (Frontiers in Computer Science
+(Mobile and Ubiquitous Computing), Associate Editor), Soldatova (Journal of Machine Learning,
+Special issue on Discovery Science, Lead Guest Editor), Leymarie (Arts (MDPI), The Visual
+Computer (Springer); Associate Editor). Hughston (International Journal of Theoretical and Applied
+Finance, Editor-in-Chief).
+
+Programme Committee Chair/Co-Chair/Track Chair: 66 in total. Examples: Lewis (Digital
+Libraries for Musicology, General Chair); Gillies (4th International Symposium on Movement
+Computing, London, Chair); Pan (Scientific VR Workshop, The Francis Crick Institute, Chair), Ward
+(International Symposium on Wearable Computers (ISWC), ACM, Co-Chair), Soldatova (Discovery
+Science’19, Co-Chair), Leymarie (Workshop on Artistically Skilled Robots, IEEE IROS, Principal
+Chair), Casey (Music and AI Competition, Neukom Institute Turing Tests in the Creative Arts,
+Chair).
+
+Fellowships/Prizes/Awards/Named Lectures/Public Engagement: 30 in total. Examples:
+Crawford (BL Labs Research Awards, the First Prize), Yee-King (Google research Award in AI,
+sound synthesis work), Ward (APEX Award), Hoban (Paul Ehrenfest Best Paper Award for
+Quantum Foundations), Badkobeh (Leverhulme Early Career Fellowship), Gamez-Djokic (Marie
+Sklodowska-Curie Fellowship).
+
+Keynote/Invited Talks: 145 by members of staff in total and additionally over 200 talks by Lotto.
+Examples: Casey (Reconstructing Music Stimuli from fMRI, North-East Music Cognition Group
+(NEMCOG), Harvard University, Keynote); Ward (Wellcome Trust Centre for Neuroimaging, UCL,
+London, Invited), d’Inverno (Lego Ideas Conference, The Conference, Music Most Wanted, AI for
+Good), Yee-King (AI for Good Global Summit, Invited), Pan (the 2nd European Congress for Social
+Psychiatry, Switzerland, Invited), Latham (NWR Museum, Dusseldorf, Keynote), Crawford (Music
+Encoding Conference, USA, Keynote), Hughston (International Conference on Quantum Control,
+Mexico City, Invited), Garagnani (Oliver Zangwill Club Talks Series, Department of Psychology,
+University of Cambridge, Invited), Blackwell (Computer simulation of musical creativity conference,
+Dublin 2018, Keynote), Putnam (International Symposium on Electronic Art, Keynote), Leymarie
+(“Drawing, Gestures, Robots”, ACM Symposium, Keynote), Lotto (invited to speak about 200 times
+in the period, including at Apple, Google, Microsoft, McKinsey).
+
+
+
+
+                                                                                           Page 17
+Unit-level environment template (REF5b)
+Some research collaborations led to visiting positions, for example Tanaka was guest professor at
+Technical University of Berlin (Summer 2019) funded by the Deutscher Akademischer
+Austauschdienst. The visit ended with a public symposium at the German State Musical Instrument
+Museum. Gillies is a Visiting Senior Lecturer at UCL Institute of Cognitive Neuroscience.
+
+Hosting events. We support the research base not only by organising and speaking at events, but
+also by providing a London venue for international research events. In the REF period we hosted:
+Future Mind: art & tech symposium with collaborators at Kyoto University; Eavi-Live: (Embodied
+AudioVisual Interaction) a day of audiovisual workshops and performances at the ICA (Institute of
+Contemporary Arts); Human Interactive Conference; the MOCO (Movement and Computing)
+conference; Virtual Social Interaction 2018; Innovation in Immersive Art & Tech: a Goldsmiths UK-
+China Workshop; Art, AI-created content, & industrial/cultural effects; Transforming Musicology –
+Looking to the Future, Oxford (musicology and digital technologies); a series of London-Paris
+Workshops initiated by Hughston with Pennanen (KCL) and Gobet (Ecole Polytechnique, Paris)
+(the 2015 meeting in London was supported by a grant from the London Mathematical Society).
+
+
+
+
+                                                                                         Page 18
+

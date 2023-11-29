@@ -1,0 +1,1137 @@
+Unit-level environment template (REF5b)
+Institution: The Open University
+
+Unit of Assessment: B11
+
+1. Unit context and structure, research and impact strategy
+
+1.1 Context and Structure
+
+Computing research in the B11 Unit of Assessment at the Open University (OU) is people-
+centred. Research in this unit integrates technology into human activities, supporting human
+needs through technology and augmenting human capabilities to shape and influence the
+development of technology in our daily lives. It addresses socio-technical problems, which is
+particularly relevant in the current era when computing is fully integrated in society and society is
+an integral part of computing.
+
+The overall environment of the OU shapes and is shaped by B11’s research. Following from the
+social justice mission of the OU, researchers in the B11 Unit of Assessment conduct research in
+computing technologies for social good. For example, research in digital health has contributed to
+the development of tools to support patients and doctors to monitor the level of pain in patients with
+knee issues, the development of haptic devices to help patients to recover from neurological
+conditions and the involvement of visually-impaired in artistic activities. Similarly, research in
+animal computer interaction has contributed to the training of dogs to support people with
+disabilities and the development of bio-sensing technology to assist with cancer detection. Other
+examples include the development of learning applications to improve and innovate teaching
+practices; methods and tools to support social interaction; applications for smart cities through the
+MK:Smart project including the areas of transport, energy, water, and citizen and business
+engagement; security, privacy-aware and forensic-ready technologies for cyber-physical systems;
+the use of AI technologies to support citizen scientists in pollination studies; and social media
+analysis through natural language processing techniques to highlight misogyny and other forms of
+hatred.
+
+B11’s research follows the OU’s mission to use technical innovations in order to support openness
+to people, places, methods and ideas in a scalable way. For example, the CORE system (an
+impact case) is considered the world’s largest open access collection of research papers; the
+OUAnalyse system (another impact case) supports an open dataset with learning analytics data for
+more than 40,000 students used by both internal and external parties; work on blockchain gives
+users ownership and control of their own data; and work in digital health technologies empowers
+patients to take control of their treatment.
+
+Two collaborative entities contribute to B11: The Knowledge Media Institute (KMi) and the School
+of Computing and Communications (C&C), and both are part of the Faculty of Science,
+Technology, Engineering and Mathematics (STEM). Altogether, the unit includes 47 research-
+active staff with 12 Professors, 21 Senior Lecturers and Readers, three Senior Research Fellows,
+four Lecturers and seven Research Fellows.
+
+The research income has increased from £11m in the REF2014 period to £19m in the REF2021
+period, an increase of 30% after considering inflation and the longer REF2021 period. The unit has
+published 1220 outputs in peer-reviewed international venues and has enjoyed considerable
+international esteem (see 4.2). Table 1 compares key indicators for different assessment periods.
+Table 1: Key sustainability indicators
+                     External Research Income                     Staff      PhD Students
+              National International Industrial        Total       Cat-A    Total Completed
+RAE 2008        £2.9m         £3.8m      £0.3m          £7.0m         24        56        20
+REF 2014        £3.5m         £7.3m      £0.2m         £11.0m         32        81        47
+REF 2021        £8.5m         £9.3m      £1.2m         £19.0m         47        93        64
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+
+Building on the research described in REF 2014, we collaborate on a multidisciplinary research
+agenda, which spans four main research themes with international recognition, and a body of work
+with several years of impact:
+
+ • HCC: Human-Centred Computing
+ • LMT: Learning and Multimedia Technologies
+ • SEAD: Software Engineering and Design
+ • AIDA: Artificial Intelligence and Data Analysis (established since REF2014)
+
+OU researchers in the unit work freely within and across research themes and topics, collaborating
+and sharing projects, and participating in a single PhD programme and joint seminar series.
+
+Achievements of Research Goals since REF 2014
+
+Since 2014, the OU’s Unit of Assessment B11 continued to successfully:
+
+ • Address and extend our vision for people-centred computing for the social good;
+ • Engage in current research themes and identify new research lines, e.g., AI and Data Analysis;
+ • Develop inter-disciplinary and cross-boundary collaborations that reflect the complex societal
+   contexts in which computing systems are deployed;
+ • Maintain and expand our well-established research infrastructure and funding sources both
+   nationally and internationally;
+ • Generate impact based on a unit-wide strategy supported by a dedicated business development
+   manager, an in-house systems and development team, and a communications manager.
+
+1.2 Research Themes
+
+The research themes across the unit have overlapping membership. Researchers meet
+periodically to discuss work in their respective fields, present seminars and discuss topics, identify
+funding opportunities and mentor colleagues. Themes operate in groups whose leaders meet
+regularly to review the overall strategy. This dynamic collaboration enables responsiveness, cross-
+fertilisation and consonance with our overall strategy. We use the unit’s own in-house infrastructure
+to support online collaboration.
+
+1.2.1 HCC: Human-centred computing
+
+Researchers: Bowers, Gooch, M Hall, Holland, Laney, van der Linden, Mancini, Mulholland, Petre
+(retired), Price, Ramage, Sharp
+
+HCC at the OU takes a bottom-up approach to designing and deploying computing technologies
+for real-world needs and activities – whether in homes, hospitals, museums, or cities. This allows
+us to empower end-users and encourages their engagement with such technologies. We
+specialise in novel interfaces (e.g., haptics, wearables, embedded technologies), the integration of
+technology into activities (e.g., music making, healthcare, working with animals), and effective
+design practice. Distinguishing features of our research are a methodological focus on
+understanding technology in context in-the-wild, and co-designing with the direct beneficiaries of
+the technologies, often in challenging circumstances.
+
+Key accomplishments
+
+We have developed Painpad as a digital health technology; it is a simple handheld device that
+enables patients to self-report about pain levels, and that provides more accurate and complete
+results than nurse prompting. This collaboration with clinicians at Milton Keynes University Hospital
+(MKUH) led to a roll out of tangible devices across several MKUH wards and two private hospitals,
+
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+and the formation of a spin-out company to explore commercial exploitation. Work on haptic
+wearables for co-ordinating the limb movement of drummers led to an innovative approach for
+improving the mobility of people with neurological conditions, including stroke. These examples
+exploit synergies across our research themes and groups, here software engineering and music
+computing informing digital health.
+
+Our research on embodied technologies for arts and theatre explores how new forms of haptics
+and wearables can improve direct involvement for diverse people, including visually-impaired
+people. Flatland (Nesta, 2014-2015), the collaboration between a blind theatre director, robotics
+engineers and our researchers, investigated how to stage a theatre play that is not visible, but is
+directed through haptic technologies. Using electronic textiles, we work with visually-impaired
+makers and organisations, including Royal National Institute of Blind (RNIB), Tate Gallery and
+Whitechapel Gallery, to enable users to create art pieces based on sound and touch pushing the
+possibilities of accessible technologies.
+
+We lead research on community-based technologies to create change in local communities. In
+collaboration with E.ON, we created an IoT testbed of 50 homes to enable householders to ‘have
+conversations with their washing machines’, in support of energy-demand-shifting practices with
+solar energy. Our HEFCE-funded MK-Smart project (2014-2017, £17M) in collaboration with
+Community Action MK, ran an initiative at city scale to solicit ideas for – and then develop –
+projects that embed ‘smartness’ into community concerns, from breastfeeding apps for new
+mothers to a community fridge.
+
+Animal-computer interaction (ACI) seeks to advance the science of designing animal-centred
+interactive systems fit for a multi-species society. Canine-centred controls developed with the
+leading UK Charity Dogs for Good have significantly improved training efficiency for dogs that
+support people with disabilities nationwide. Our interfaces for Bio-sensing technology developed
+with the UK Charity Medical Detection Dogs, worldwide leaders of cancer detection with dogs,
+enables the nuanced interpretation of canine olfactory responses for earlier disease detection. This
+was showcased at the 2014 Royal Society Summer Science Exhibition. We have led the
+consolidation of the new field of ACI, and in 2014 established the ACI conference in cooperation
+with ACM.
+
+Our design studies research addresses two key perspectives: UX design in software-based
+products and design dialogues among software developers. We undertake rich empirical studies in
+industry – informing practices, representations and tools. We produced empirically-grounded
+insights for designers in our pocketbook DSDM and UX Design project and book Software Design
+Decoded, which have in turn led to invitations for podcasts and collaborations (e.g., UX in software
+startups in Sao Paolo; work with Mozilla and NextGen Healthcare on design dialogues).
+
+
+1.2.2 LMT: Learning and Multimedia Technologies
+
+Researchers: Bromley, Charlton, De Liddo, Dooley, Fernandez, Jones, Knoth, Hlosta,
+Mikroyannidis, Kouadri Mostefaoui, Motta, Osborne, Schibelsky G Piccolo, Rosewell, Rueger,
+Siddharthan, Song, Smith, Wong
+
+LMT is concerned with digital learning and social engagement technologies, which have significant
+infrastructural demands for reliable connectivity and rich multimedia content. The challenge is to
+bring demand-driven information and knowledge meaningfully to learners and consumers, and to
+provide contextual meaning to enrich and transform society and business.
+
+Our research in LMT seeks to develop tangible solutions for students or members of society. We
+involve users of the developed technologies in co-designing solutions, by approaching problems
+from a broader socio-technological perspective. For example, using augmented scalable data
+
+
+
+                                                                                            Page 3
+Unit-level environment template (REF5b)
+mining techniques with semantic technologies to improve system performance and explainability.
+
+
+Key accomplishments
+
+Our research on technology for learning draws on our proven track record of teaching innovation
+and expertise, established in online and distance learning. The work is central to current
+educational debates given the increasing prevalence of e-learning and social approaches to
+learning. Outreach and enquiry are evidenced by the iSpot project, an innovative Social Citizen
+Science Platform about the natural world, to help the public identify plants and animals. As of 2020
+the platform has gathered 1.5m photographs yielding 850,000 biological observations of 30,000
+species by 75,000 citizens. iSpot data have contributed to national and international datasets used
+for conservation and planning purposes, e.g., to the UK mammal atlas, iSpot partners and the
+State of Nature reports.
+
+Our research into predictive learning analytics has also led to significant enhancements in
+teaching practice. Results from this work have been deployed in the OUAnalyse system, which is
+used in over 250 undergraduate modules by 4,500 tutors at the OU. A formal evaluation revealed
+that OUAnalyse tutor usage is one of the two significant predictors of whether students will
+complete and pass a module. OUAnalyse has been adapted to a face-to-face setting at the Czech
+Technical University (Prague), which after deployment in 2015, saw the average first-year student
+drop-out rate decrease from 33% to 19%. OUAnalyse received the 2020 DataIQ Award.
+
+Work in Information Retrieval investigates state-of-the-art quantum models of human cognition of
+language. As well as developing the foundations of the theory, we have applied our ideas to search
+personalisation, question answering, multimodal and conversational sentiment analysis, and
+exploratory of Web and domain-specific collection.
+
+We investigate theories, methods and tools accounting for the centrality of social interaction and
+discourse in public engagement, urban informatics, e-democracy (see also ICS1), and social
+innovation contexts. Our research focuses on models of dialogue and argumentation; models of
+crowdsourcing and participatory representation; and the design, implementation and uptake of
+online systems that seek to increase collective environmental awareness and capacity to make
+sense of complex issues, like social justice and environmental sustainability.
+
+We also undertake research in various areas relevant to the development of user-centric,
+intelligent, data-intensive solutions: application domains include Smart Cities, Scholarly Data
+and Digital Humanities, while key achievements include the development of MK Data Hub, which
+won The Smart Cities UK Awards 2017 – 1st prize in the Data category, and an innovative
+approach to automatically generate scientific taxonomies, adopted by Springer Nature.
+
+Research into next generation multimedia technologies seeks to collaboratively synthesise
+advanced innovative paradigms and tools for real-world applications, which are nascent from the
+compelling convergence of mobile communications, multimedia processing and ICT systems.
+Key achievements include an UK Space Agency funded project TreeView: Precision Forestry to
+Tackle Climate Change, (NSIP, 2020-21) to develop on-board satellite ICT solutions for climate
+action; and award-winning multimodal medical imaging collaboration with the Deutsches Zentrum
+für Luft- und Raumfahrt (ABB-sponsored Postgraduate First Prize, IET Industry Awards, 2014).
+
+
+1.2.3 SEAD: Software engineering and design
+
+Researchers: Bandara, Barroca, Bennaceur, J Hall, Kennedy, Nuseibeh, Petre (retired), Price,
+Rapanotti, Sharp, Tun, Wermelinger, Yu, Zisman
+
+Our research in software engineering recognises the ubiquity of ‘software in the world’ through
+investigations that challenge disciplinary boundaries in order to empower users and developers.
+
+                                                                                            Page 4
+Unit-level environment template (REF5b)
+Through this work, we advance several interrelated software engineering areas: automated
+software engineering; security, privacy and digital forensics; engineering adaptive software; and
+empirical studies of software development. The multidisciplinary nature of our research has led to
+deep and sustained collaborations with researchers from other disciplines including psychology,
+business and law.
+
+
+Key accomplishments
+
+We have framed the agenda for research in engineering adaptive software that is secure,
+privacy-aware and forensic-ready (ERC Advanced Grant, 2013-2018). Our patented adaptive
+security techniques (2016, 2019, see 1.4.3) have demonstrated that a precise specification of
+contextual factors can support dynamic adaptation of security controls in complex cyber-physical
+systems. Our innovative adaptive sharing frameworks provided formally-based computational
+techniques for privacy trade-off management and adaptive architectures that integrate social-
+identity with privacy-awareness. We developed foundations, adaptive techniques, and practical
+methods to engineer forensics-ready cyber-physical systems. For example, in collaboration
+with Gwent Police we developed Social Lift, a tool for privacy-aware forensic evidence collection
+from social media platforms. Our work has received best paper awards (e.g. TrustCom 2014,
+SEAMS 2018) and has led to significant industry engagement (e.g., our asset-centric adaptive
+security technology was funded and adopted by UTC/Lenel in their OnGuard™ security software
+with over 20,000 global installations).
+
+Our work on software engineering techniques for IoT applications has resulted in new
+frameworks for dynamic composition of components in cyber-physical systems and provided end-
+users with usable tools to program IoT applications. We have advanced the understanding of
+usable privacy through innovative empirical studies of mobile applications design in healthcare
+and use of wearable technologies in the wild. By combining our expertise in engineering privacy
+management technologies with the IoT, we patented and developed “Privacy Band”, a novel
+tangible privacy management device that received the IET Cyber Security Innovation Award
+(2017).
+
+We have advocated for and pioneered the use of ethnography in empirical software
+engineering. Most recently we used this approach to explore how professional software
+developers engage with security, and using our theory-building work as a starting point, we
+produced four NCSC-endorsed practitioner toolkits for sensitising software engineers to security
+concerns. Practitioner engagement is key to our empirical research activity, contributing to new
+understandings of technical and social factors that impact on practice. As co-founders of the Agile
+Research Network, since 2013 we have helped organisations reflect on and address a
+range of agile challenges and won the best paper award at XP 2015.
+
+Our research on automated software engineering has advanced automated traceability
+techniques to enhance software development processes in general, and key activities such as bug
+localisation, security bug reporting, and refactoring. Our patented automated parsing technology is
+currently being developed and trialled in Huawei’s global software engineering laboratory.
+
+Our research has also substantially enhanced the performance, reliability and usability of service-
+oriented systems, in particular optimising web services composition in business processes,
+scalability of secure communications, and integration of digital and human services. We have
+developed innovative requirements and design methods that have led to significant advances in
+systems safety; for example in rail, naval and aerospace applications. Our distributed drone flight
+management architecture and simulation environment is being developed and trialled by NATS,
+with the support of Nesta’s Flying High Challenge award and then an Engage KTN.
+
+
+
+
+                                                                                           Page 5
+Unit-level environment template (REF5b)
+1.2.4 AIDA: Artificial Intelligence and Data Analysis
+
+Researchers: Alani, Daga, Domingue, Fernandez, Knoth, Motta, Osborne, Piwek, Rueger,
+Siddharthan, Third, Willis
+
+The Artificial Intelligence (AI) and Data Analysis work at the OU tackles socially relevant
+phenomena such as web behaviour and data privacy, and develops technologies to help the public
+engage with the complex social, political and environmental debates of the time.
+
+Key accomplishments
+
+Our research on social phenomena on the Web helped uncover child grooming behaviour
+patterns, detect radicalisation and classify social media crisis information. This interdisciplinary
+research has attracted over £6m in funding in the last seven years, producing a number of key
+insights. Our findings on online misogynistic communities and our analysis of the spread of
+COVID-19 misinformation were covered by several mainstream media outlets, including BBC radio
+and TV, and WIRED Magazine. The latter also formed the basis for a submission to the UK
+Parliament’s DCMS Select Committee.
+
+Research in natural language processing for social media analysis has combined linguistic and
+data analyses of Twitter networks to understand how audiences perceive large institutions. In the
+context of an AHRC-funded project Russia Today (2017-2020), researchers at the OU brought new
+computational insights to partners in sociology and languages to challenge widely held views on
+the Russian broadcaster Russia Today.
+
+We design AI technologies for engaging the public with societally relevant issues. Our research
+develops Natural Language Generation, Image Recognition, Recommender systems and Bayesian
+Consensus models for citizen science and outdoor learning around biodiversity, supported by the
+EPSRC-funded project Human Computer Collaborative Learning in Citizen Science, and funding
+from NERC, National Geographic and H2020. The research integrates these into school curricula
+using pollination as a case study and has been referenced in the UKRI public engagement strategy
+and was recently showcased by Defra during Bees' Needs Week 2020. The unit’s work is also
+supported by the EPSRC-funded project Opening Up Minds: Engaging Dialogue Generated from
+Argument Maps (2020-2022), which builds on our expertise in modelling dialogue, including non-
+cooperative dialogue, to influence people's appreciation of the complexity of societal debates and
+attendant ability to comprehend the world from other people's point of view.
+
+We also tackle challenging topics around data privacy. The unit’s work on Distributed Ledger
+Technologies investigates how personal data can be decentralised, giving users ownership and
+control whilst maintaining integrity guarantees. This work has attracted over £1m in funding
+through a number of projects, including a cross-university platform for storing, sharing and verifying
+qualifications (QualiChain, 2018-2021) and the Institute of Coding (IoC, 2017-2021). The work has
+been highlighted in the European Commission’s JRC Science for Policy Reports (2017 and 2019),
+and in a report from the American Council on Education (2020). We produced the world’s first
+decentralised privacy-preserving certification system for COVID-19, an achievement that was
+extensively reported in the media.
+
+We offer two large initiatives to improve information access to scholarly publications. Our work
+on CORE (multiple grants totalling £2.7m and licence income of £200k) develops new techniques
+in machine processing of scholarly information. As of 2020, CORE hosts 25 million open access
+articles (nine times bigger than the world’s second-largest open access collection of research
+papers), has over 40 million monthly active users, and is among the top 1500 websites globally
+according to Alexa. CORE has been selected by Research England to support the REF 2021 audit
+on open access compliance. Recent adopters of CORE include arXiv, the most widely used ePrints
+server in the world. We have also developed a strategic partnership with Springer Nature, which
+has funded our research since 2014 to generate value from scholarly data. A key result is the
+Computer Science Ontology, a taxonomy of research areas in Computing, which is an order of
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+magnitude bigger than the most widely used alternative, the ACM Computing Classification.
+Building on this work, OU researchers developed the Smart Topic Miner system, which has been in
+routine use at Springer Nature since 2016. This research has also focused on the automatic
+generation of large-scale scholarly knowledge graphs. Outputs include the Artificial Intelligence
+Knowledge Graph, a knowledge base with 850k elements extracted from the most cited 330k
+articles in AI; and Academia Industry Dynamics, a knowledge graph that integrates information
+about 21m publications and 8m patents.
+
+1.3 Research Strategy
+
+The unit’s strategy is to extend research on dependable, usable and useful software to encompass
+and promote responsible Computing in its four research themes. Its main goals are to:
+
+   •   Excel in research for the social good;
+   •   Empower our researchers;
+   •   Expand multidisciplinary and cross-boundary activities;
+   •   Innovate the nature of learning.
+
+Excellence in research is achieved by focussing on our four research themes. Researchers in the
+unit participate in one or more research groups in the four research themes across the unit.
+Horizon scanning for funding opportunities happens at University and Faculty level for large
+collaborative grants, and at research groups and individual level. This informs our decisions as to
+which funding opportunities fit best for the research portfolio. Researchers pursue opportunities
+that promise impact on social good and track evidence of achievements.
+
+We empower our researchers through a collegiate environment that gives everyone the
+opportunity to grow. Although we occasionally recruit senior positions, predominantly the unit
+develops researchers to more senior positions from junior intake. Within our pipeline of proposal
+development and execution, members in the unit share leading grant application processes,
+leadership of work packages and research tasks around, as appropriate, allowing colleagues to
+mature. This provides researchers opportunity to grow as intellectual leaders in their research
+areas with external profile, managers of large projects, and members of their respective research
+communities. Staff development, training and promotions are described in detail in Section 2.
+
+We expand multidisciplinary and cross-boundary activities by fluid and soft research group
+membership and by a culture of actively reaching out to colleagues in Faculty, University and
+outside organisations. We share PhD students between C&C and KMi and across research
+themes. Researchers organise joint seminars and hold a regular overarching research fiesta
+together with other mechanisms described in Section 2. We actively pursue networking
+opportunities through European networks of excellence, EPSRC networks and industrial networks
+(see Sections 2 & 3).
+
+Computing research leads OU innovation. Staff in KMi have research-only posts to act as
+technology catalysts enabling the introduction of radically new ways of learning. KMi acts as an
+innovation lab that is focused on providing a good technical and physical infrastructure to foster
+creativity, experimentation and prototyping of ground-breaking technologies. Key to successful
+innovation is the inclusion of full mirrors of the OU teaching infrastructure; highly skilled
+development resources to transform research prototypes into minimum viable products and
+scalable enterprise solutions; access to a large pilot pool of OU students and their data. We
+maintain and enhance our links with all OU key stakeholders, and reach out to the world of
+technology for education through external projects and partnerships.
+
+Our future strategy centres on aligning research even more closely to the OU’s social mission
+and the UN Strategic Development goals. The result is a discipline that engages and empowers
+the creation of resilient socio-technical systems that meet personal challenges and enhance
+collective lives. We are currently forming an alliance with the Data Science centre at VISA Europe
+to co-investigate bias in AI models and associated social justice issues. In a forthcoming CHIST-
+
+                                                                                           Page 7
+Unit-level environment template (REF5b)
+ERA project, CIMPLE (2021-2024), we will bring together AI and Creative Computing to produce
+explanations of information manipulation. Through the EPSRC-funded Trustworthy Autonomous
+Systems Node in Resilience project (2020-2024), we will build on our adaptive systems research to
+develop automated techniques for collaborative autonomous systems for healthcare and
+emergency response, and through the UKRI-funded SERVICE project (2020-2022) we will
+continue to support vulnerable individuals in our society. Further examples of likely future
+engagement are:
+
+ • New digital health technologies including further spin-out companies;
+ • Autonomous systems for healthcare and emergency response;
+ • Accessible European musical heritage and entertainment performance events;
+ • Conservation of endangered animals and improving the welfare of farmed animals;
+ • Global open access of scientific work by progressing our work on CORE;
+ • Solutions to practitioner-identified problems with the Agile Research Network;
+ • Haptics for visually impaired designers;
+ • Accelerated convergence of mobile communications, multimedia technologies and machine
+   learning for digital learning;
+ • Solutions to model news dynamic, focusing on identifying bias, blind spots and (lack of)
+   viewpoint diversity in the media using data, NLP and AI technologies;
+ • Environmental monitoring methods, e.g., through the analysis of images and audio using AI.
+
+
+1.4 Impact Strategy
+
+1.4.1 Impact Strategy Goals
+
+The unit develops research with impact for the social good. To achieve this we:
+
+   • Establish and maintain medium to long-term links with impact partners;
+   • Maintain a systems team and a pool of software developers and data scientists to build and
+     run industrial systems used at scale;
+   • Have a business development manager who oversees relationships with legal departments,
+     commercial entities, and funders of research translation and innovation;
+   • Provide advice and guidance to the researchers on all aspects of impact funding acquisition,
+     e.g., relevant funders and calls, and consortium member suggestions;
+   • Manage support for running large commercial or innovation projects;
+   • Train academics, Research Fellows and PhD students for impact activities.
+
+The unit’s impact strategy is supported by the STEM Research, Enterprise and Scholarship team
+of 15 staff, which helps with funding bid development. The Faculty has a dedicated Impact
+Manager who helps develop pathways to impact in funding bids and supports their implementation
+for awarded projects including communication.
+
+The unit’s ability to run large infrastructures within commercial contexts is demonstrated by the
+prestigious £17m MK:Smart project (2014-2017, £3.9m for the OU), where we developed the MK
+Data Hub, an award-winning data infrastructure, which is a key component of the smart city
+infrastructure in Milton Keynes. Examples of the Hub’s use include support for SME innovation in
+the CityLABS programme (2017-19) and the world’s first International Competition of Robots in
+Smart Cities. It also provides a key infrastructure component for the ongoing 5G deployment in
+Milton Keynes (MK:5G, 2019-21). These activities derive from the unit’s partnership with MK
+Council since 2014, which led to seven major collaborative initiatives linked to the smart city
+agenda in Milton Keynes.
+
+Another example of a large-scale collaborative initiative that develops impact by influencing
+education is the recently awarded Institute of Coding, a collaboration between the UK Government,
+more than 60 universities, big players in the tech industry, SMEs, industry groups, experts in non-
+
+                                                                                           Page 8
+Unit-level environment template (REF5b)
+traditional learning and professional bodies. The unit leads the theme on University Learning,
+focusing on influencing computer science teaching in universities nationally, and applying the
+results of our research in data analytics and blockchains to higher education.
+
+1.4.2 Industrial and Societal Engagement
+
+Impact is delivered via key strategic partnerships with major companies (e.g., Springer Nature,
+Elsevier, BT, Atos, E.ON, Samsung, Cisco, IBM, NATS, Mozilla Foundation), and collaborations
+with SMEs (e.g., Simply Business, DynAIkon, members of the Agile Business Consortium),
+governmental and not-for-profit organisations (e.g., MK Council, MK University Hospital, Thames
+Valley Police, Tate Gallery), charities (e.g., Dogs for Good, Age UK, Pet Plan Charitable Trust,
+RNIB, Learning through Landscapes) and schools.
+
+The OU actively promotes Knowledge Transfer Partnerships and several of them have been
+established through Computing. The unit is a partner in the ERDF-funded ALPHAS project and in
+the ERDF-funded CityLabs project, both of which support over 40 SMEs from the South East and
+Midlands region. It also participates as partner in several EPSRC-funded networks that include
+companies and policy makers, e.g. Internet of Food Things NetworkPlus, 2018-2021 (Zisman); UK
+Manufacturing Symbiosis NetworkPlus, 2019-2022 (Zisman), Skills and Education for Robotics and
+Autonomous Systems, 2020-2021 (Song and Charlton). Other examples of industrial and social
+engagement are described in 4.3.
+
+
+1.4.3 Consultancy and Patent Applications
+
+Our researchers offer consultancy services to facilitate highly focused, typically short-term but
+high-value, activities. In recent years, examples have ranged from giving specialist advice on
+distance learning and usability (Ramage, 2014-2016) to academic consultant for BBC
+programmes, e.g. The Age of Image, 2019-2020 (Wong), Icons, 2019 (Smith), Secrets of Silicon
+Valley, 2018 (Smith), The Wonders of Dogs, 2013 (Mancini), The Secret Rules of Modern Living:
+Algorithms, 2015 (Wermelinger); international programmes, e.g. Animal Allies Season, USA,
+2016 (Mancini); companies, e.g. Animal Wearables, Companion, USA, 2016 (Mancini); or
+schools and universities, e.g. PhD degree Programme, Kuala Lumpur, 2019-2020 (Dooley).
+
+Patents. In the REF period two patents were awarded (Systems and methods for runtime adaptive
+security to protect variable assets, US9330262B2, 2013, Nuseibeh; Method and system for
+adaptive security in cloud-based services, US10713355B2, 2017, Nuseibeh, Bandara, Tan, Yu);
+and three further applications are pending.
+
+
+1.4.4 Impact Case Studies
+
+The key achievements within the description of our research themes above are a rich source of
+examples for the impact of our research. Our four selected impact case studies, Collective
+Intelligence (ICS1), Springer Nature (ICS2), CORE (ICS3), and OUAnalyse (ICS4), particularly
+demonstrate beneficial societal impact supporting: democratic empowering mechanisms to
+harness collective intelligence (ICS1), scholarly communication and open science (ICS2, ICS3),
+and students at risk of failing (ICS4).
+
+Three impact cases (CORE, OUAnalyse and Springer Nature) make use of the unit’s systems
+team and data infrastructure. For example, CORE offers unique data services for researchers, the
+general public, not-for-profit organisations and commercial paying customers. It enables discovery,
+process, and text and data mining of research literature. OUAnalyse, with its predictive learning
+analytics, helps tutors with early identification of struggling students, supports early intervention;
+while Springer Nature improves the generation of editorial metadata for all their book series
+covering conference proceedings in Computer Science, with demonstrable improvements in quality
+and increase in the number of downloads and access to scientific content. Collective Intelligence
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+demonstrates a mixture of problem-solving and knowledge generation approaches in which a suite
+of discourse-based technologies have been developed and adopted by health, higher education,
+public engagement, and peace building organisations (e.g. support for participation in political
+debates and peace building efforts in Rwanda).
+
+The OU Computing research context defines a coherent roadmap for developing generally
+applicable solutions as exemplified by the submitted impact case studies. They reflect the unit’s
+people-centred approach, with technologies for the social good, and its principle of openness; and
+improves quality of life with economic benefits.
+
+
+1.4.5 Open Source
+
+The unit encourages an open source (OS) philosophy. Some examples are:
+   • CSO Classifier - text classifier for Computer Science Ontology;
+   • R and Python Clique Percolation - for community extraction;
+   • PT Anywhere - network simulation environment;
+   • Open Melody - collaborative music creativity tool;
+   • OpenPF - requirement engineering tool;
+   • Cargo-Geiger - statistics of unsafe Rust code;
+   • Compendium - visual mapping and management of ideas, arguments and documents;
+   • Cohere - tool to share, create and connect people and ideas as semantic web networks;
+   • Evidence Hub - collaborative knowledge building tool;
+   • LiteMap - collaborative web annotation and visual argument mapping;
+   • DebateHub - online discussion and collective decision-making technology.
+
+
+1.4.6 Future Impact Strategy
+
+We aim to expand our capability to deliver impact in our core domains, including smart cities;
+health technologies; animal-computer interaction; scholarly data mining, learning analytics, and
+engineering secure, privacy-aware, and forensic-ready software. These capabilities are derived
+from the unit’s research facilities and equipment, existing academic reputation and presence in
+these domains, and leading academics and professional services that ensure chosen activities to
+be designed, delivered and recorded. We plan to deploy emergent capabilities in new domains
+including, but not limited to, AI and citizen science, AI for business analytics and AI and
+decentralised ledgers to democratise data ownership and control.
+
+
+1.5 Open Research Environment and Research Integrity
+
+The unit follows the University’s procedure for open access with outputs deposited in the Open
+Research Online repository and data deposited in the Open Research Data Online repository. This
+is evidenced by less than 2% of the unit’s submitted papers not being deposited on time. Staff and
+PGR students receive regular support and reminders about the open access policy for outputs and
+data. Similarly, the unit follows the robust institutional provision for research integrity (see
+Institutional Environment), including the principles of the Concordat to Support Research Integrity,
+briefings and trainings of researchers; and analysis in research work, outputs, grant proposals, and
+PGR work.
+
+
+
+
+                                                                                           Page 10
+Unit-level environment template (REF5b)
+2. People
+
+2.1 Academics and Researchers
+
+The profile of 44.7 FTE staff submitted to this REF is: Professor (11.5), Reader (1), Senior Lecturer
+(19), Senior Research Fellow (3), Lecturer (3.2), and Research Fellow (7). The unit’s research
+strategy prioritises appointments of academics who build research excellence within our key
+themes, expand our research into related emerging areas, and complement existing expertise.
+Around one quarter of the staff are on research-only contracts.
+
+Since REF 2014, the unit has maintained both leadership and critical mass in each of its previous
+REF 2014 key areas and developed a new research area (AIDA). We have developed and
+promoted tenured staff: five to Professorship and six to Senior Lectureship. Three Postdoc
+researchers have been promoted to Lecturers and, subsequently, two of them to Senior Lecturers.
+Eight contract researchers have been promoted to Research Fellows to develop independent
+research. Four professors and one senior researcher retired, two professors moved abroad to
+other academic institutions and two senior researchers left. One new academic (a research leader
+in AIDA) and five early career researchers (ECRs) have been recruited.
+
+Individual researchers may move across disciplines, sometimes focusing on aspects of computing
+technology, sometimes on integrating that technology into other disciplines. As a result, some of
+our researchers are submitted under the disciplines to which we contribute (e.g. Collins’ research
+on Field-Studies is submitted under Education).
+
+A substantial investment in research is made annually in studentships; flexible support for research
+activity including seed money for new projects and collaborations; development for early-career
+staff; equipment and infrastructure. The unit’s robust implementation of the OU’s Concordat was
+recognised in 2013 with the European Commission HR Excellence in Research Award, which was
+retained at the six-year review point in 2019.
+
+
+Staff Development and Training. Transferring the experience of senior staff to career-young
+academics is regarded as critical. Every new member of staff is allocated a probation supervisor
+who supports the staff with career development. Academics are also allocated a mentor who will
+support them throughout the probationary time, which can be extended beyond probation on
+request. Contract researchers are moved into permanent positions through mentoring and internal
+development processes. As far as possible, new academics have reduced teaching loads for the
+first two years of their appointments and are entitled to travel funds from the unit to attend any
+activity useful to the role, and bid for PhD student scholarships offered by the university.
+
+The unit has a substantial budget to be used for external training. Members of B11 have taken up
+these opportunities to increase their technical knowledge and skills, and for other professional
+development, e.g. leadership courses. There are also many opportunities for internal training, both
+face-to-face and online. These courses are on offer for both academics and researchers. The OU
+offers an Academic and Professional Development programme of courses that can be booked
+online. Examples of training packages run by the OU are Academic Leadership Development
+Programme; Academic Career Development and Staff Appraisal; Mental Health and Wellbeing;
+Awareness of Implicit Bias; and Equality, Diversity and Inclusion Practices.
+
+The Faculty also offers its own Academic Professional Development programme, led by Faculty
+members who have the corresponding expertise, e.g., workshops by a BBC-trained presenter on
+engaging content for online audiences. These sessions are popular, highly valued, and annually
+updated. Most seminars, workshops and other staff development sessions across the university
+are accessible online and often recorded. The OU offers staff fee waivers for its own modules, and
+many staff take up these opportunities for personal and career development.
+
+All staff members engage in on-going career development and appraisal, coupled with tailored
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+workload planning that tracks career goals and performance against objectives. Preliminary
+workload plans are completed in April-June for the following year, and projected days allocated to
+different tasks are recorded in the University Academic Workload Management system.
+
+In addition to allocated research time, staff can take up to two months of study leave annually
+for research and scholarship. Study leave corresponds to a sabbatical system elsewhere. With
+line manager agreement, study leave can be accrued to give someone up to 12 months of
+continuous study leave. Staff in senior leadership roles (e.g. Associate Deans) have an additional
+month of study leave per year of service, in recognition of the need for additional time to re-engage
+with their research activities. The unit also facilitates colleagues who wish to take secondments in
+industry or other external organisations. Recent examples included periods to support writing- up
+research or developing bids; external visiting positions (e.g. Malmö University; University of
+California Irvine); and industrial secondments (e.g. Huawei).
+
+Parental leave is supported through workload planning. Flexible working is supported and
+encouraged. Dedicated contingency leave supports our diverse workforce. The Faculty has
+adopted a policy of core hours for meetings in order not to exclude those with childcare or other
+caring responsibilities.
+
+
+2.2 Promotion
+
+In 2015, the OU adopted a set of four academic promotion profiles: Teaching; Knowledge
+Exchange; Research; Research and Teaching. The corresponding criteria make explicit the range
+of activities that are recognised and valued for each profile and seniority level, including criteria
+related to academic leadership. The promotion criteria adapt expectations for staff who have taken
+periods of parental leave, part-time working, or where other special circumstances apply.
+
+Within B11, there is a Senior Lecturer Promotions Panel: all staff at Lecturer level are considered
+by the panel to see whether they are ready to go forward to the Faculty for promotion in the current
+year or in following years. Candidates for promotion prepare a draft promotion case, supported by
+their career development appraiser. Potential candidates for subsequent years provide a
+mapping, which demonstrates their progress towards meeting the criteria. The promotion case
+documents are developed by the candidate, with support and feedback from a mentor from the
+panel and the candidate’s appraiser. This support continues throughout several stages of drafting
+and feedback, with final submission of suitable cases to the Faculty. The Faculty’s Promotions
+Group reviews all submitted cases and makes the final judgement. There is no limit on the
+number of promotions in a given year.
+
+Promotion to Professor is supported by a Chairs Promotions Panel, which considers mappings,
+draft cases and CVs of candidates. Appropriate cases are submitted to the Faculty Chairs Working
+Group for consideration and feedback. Each candidate is allocated a mentor from this group, and
+given considerable support from the mentor and other senior colleagues. After a period of review,
+support and feedback from the group, appropriate cases are submitted to the University
+Promotions Committee, which makes the final judgements. There is no limit on the number of
+promotions to Professor in a given year. There are three professorial bands, and movement
+between the bands is supported in the same way.
+
+Promotion from Research Assistant to Research Associate and Research Fellow requires
+evidence of achievement in research, and assessment of satisfactory progress. Line managers
+present the case for approval by the Faculty.
+
+Up to 20% of staff can be put forward to the Faculty each year for merit awards and increments;
+the majority of applicants are successful. This enables staff to receive increments on the pay-scale,
+or a one-off financial award. The unit encourages staff to recommend their colleagues for awards
+and increments, which adds an element of community support to the process. Staff can also put
+themselves forward.
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+2.3 PGR students
+
+The University infrastructure for PhD research exceeds the requirements of both UKRI and the
+Quality Assurance Agency. Our programme is supported by a university-wide Graduate School
+that provides consistent administration and training in research methods and skills; structured
+annual progress reporting; and a university-wide Graduate School Network which provides
+access in one place to a range of skills, news, careers, supervision, library, social media and
+administrative resources. It ensures comparability of experience to all OU research students
+regardless of their physical location or part- or full-time status. All students have at least two
+supervisors and a third-party monitor who takes a pastoral role. The faculty invests in mental
+health support, and Mental Health First Aid training has been completed by all staff with
+responsibility for PGR student welfare.
+
+The unit has 93 PG students, an increase from 81 students in REF 2014. Since August 2013, 64
+PhD students completed their degrees successfully – see Table 1. All our students publish in
+refereed outlets before submission, with eleven best-paper awards and five Honourable Mentions
+in journal and conferences (a marked increase from four best-paper awards in REF 2014).
+Furthermore, our students won eight awards from respected organisations, e.g. IET Cyber Security
+Innovation Award 2017, European Women in Games Hall of Fame by Women in Games 2019, and
+Distinguished Dissertation Award from the Semantic Web Science Association 2016.
+
+The success of this vibrant PhD programme is owing to a comprehensive PhD support
+infrastructure and training programme that operates throughout their studies, including a strong
+focus on community building and peer-to-peer learning; weekly research skills seminars; regular
+on-line seminars for part-time students; annual student conference attended by the whole research
+community; funding to attend conferences, external courses and summer schools; and dedicated
+on-line resources. All full-time PhD students receive an annual bursary of £1,000 for travel and
+research expenses.
+
+Students participate alongside academic staff in research groups and seminars, reading groups,
+our annual Research Fiesta (a forum for intellectual debate and for refining research goals), and
+engage with research visitors. In person or online seminars are open to all staff and research
+students.
+
+B11’s doctoral programme is at the forefront of quality and innovation, as reflected by our
+collaboration with Vitae to realise the potential of our researchers, and by leading doctoral activities
+within European networks of excellence and major international conferences (e.g. European and
+International Conferences on Computer-Supported Cooperative Work, International Semantic Web
+Conference, International Learning Analytics and Knowledge Conference).
+
+Members of the unit have applied the OU's leadership in innovative educational models to
+international PhD Summer Schools. These include the ESWC summer schools in the Semantic
+Web area and the JTELSS in Technology-Enhanced Learning. PhD students regularly go on to
+take-up positions in academia (e.g. Queen Mary University, Warwick University, Glasgow
+University, Dundee University; VUA Amsterdam, University of Lappeenranta); private companies
+(e.g. Google, IBM, Siemens, HSBC, Nokia, Palantir, Adarga AI, Elastic Path Software); and global
+non-profit organisations (e.g. EdTech Hub).
+
+Students are recruited through normal channels, including advertising and professional networks.
+Staff members use conferences, summer schools, collaborations and internships to identify and
+form relationships with potential candidates. Between August 2013 and July 2020, the unit hosted
+75 visiting PhD students from 14 countries (e.g. Brazil, China, Russia, Switzerland and EU
+countries), including 38 students for a period of 3-6 months each as part of their studies abroad;
+nine of them joined the OU’s PhD programme after their visits.
+
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+2.4 Equality, Diversity and Inclusivity (EDI)
+
+Table 2 details the proportion of female, BAME and disabled staff within the 47 submitted staff and
+within different seniority levels, and contrasts that to the proportion of the outputs attributed to
+them. Female and BAME staff proportions compare favourably with the sector, while the
+proportion of disabled staff is in line with the academic sector. Female and BAME staff are over-
+represented in outputs and well represented in higher academic roles, demonstrating equal
+opportunity in the unit.
+Table 2: Proportion of female, BAME and disabled for staff categories & attributed outputs
+               Sector    B11      Professor         Reader,            Lecturer       Attributed
+                         Staff                  Senior Lecturer          and           Outputs
+                                                  and Senior           Research
+                                                Research Fellow         Fellow
+  Female        22.3%    27.7%         25.0%              33.3%            18.2%           29.1%
+  BAME          14.2%    21.3%         41.7%              16.7%             9.1%           28.2%
+  Disabled       4.6%     4.3%            n/a                 n/a             n/a           2.7%
+
+The OU holds an Athena SWAN Bronze Award for promoting gender equality, “demonstrating a
+clear commitment to change and a solid foundation for eliminating gender bias”. Both C&C and
+KMi have obtained Athena SWAN bronze status and will pursue silver status in April 2021 (C&C)
+and November 2021 (KMi). Female members of staff are supported to attend the Aurora
+Leadership program, which encourages women to become leaders in HE institutions. Female PhD
+students are offered a female third party monitor if their supervision team is all male. Monitoring of
+the gender distribution of workload, especially the balance between teaching and research, is
+carried out annually at Faculty level.
+
+Our strong and supportive research culture attracts researchers from around the world. The
+Computing community comes from 14 different countries from North and South America, Asia, and
+Europe, bringing global research links and cultural understanding.
+
+The unit encourages women applicants during recruitment; e.g. promoting posts via women’s
+professional networks such as WISE (Women in Science and Engineering) and sharing widely via
+social media. The wording of advertisements, job descriptions and person specifications is
+carefully considered for inclusivity. Diversity statements are promoted on our websites to highlight
+our commitment to equality and diversity. We have also ensured that our websites feature
+positive images in terms of gender, ethnicity, disability, and other protected characteristics,
+and present a good balance across groups. The University’s Dean of EDI has the responsibility to
+support representation of staff and to improve recruitment, management, and development of
+diverse groups of people.
+
+Social activities to increase the visibility of the research conducted by minority groups, to promote
+a collegiate culture and to raise awareness about the importance of diversity, are frequently
+organised, e.g. Wikipedia editathons to increase its representation of women; posters displaying
+the achievements of female researchers; games to learn about female and black role models; or
+knowledge makers forums to incentivise creativity across diverse groups. A specific summer
+internship program has been deployed to attract, support and mentor BAME students. Staff
+members need to complete our Equality Essentials and Unconscious Bias courses before they
+are involved in any recruitment process, including PGR recruitment.
+
+The unit is committed to equal opportunities for all staff in pursuing their research. All academic
+staff are guaranteed research time and encouraged to apply for external and internal funding.
+Support for external engagement and development of grant applications is available at University,
+Faculty, and unit levels: in particular, academic staff members are encouraged to apply for
+externally funded research fellowships; when applicable, these fellowships allow researchers to
+be released from teaching and administrative duties. Success in externally-funded fellowships
+
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+include Royal Society-Wolfson Merit Awards (Nuseibeh, 2013-2018); ERC Advanced Grants
+(Nuseibeh, 2012-2017); David Parnas Fellowship, Lero, Ireland (Zisman, since 2018). We foster
+international research through collaboration and welcome research visitors each year (see 4.1).
+
+
+3. Income, infrastructure and facilities
+
+3.1 Income
+
+The unit continues its successful external funding strategy, with a focus on diversification and
+sustainability. For example, the SEAD research theme has been ranked in fifth place in the EPSRC
+ranking in terms of values of grants held by organisations. Table 1 shows the growth of research
+income from RAE 2008, REF 2014 and REF 2021.
+
+The unit’s strategy for funding is to:
+
+   -   Engage with national and international research councils. For example, EPSRC ICT
+       Strategy Advisory Team (Nuseibeh, 2012-2017); EPSRC Strategy Advisory Network
+       (Sharp, 2016 to present); BBSRC research portfolio scoping exercise (Mancini, 2020); ERC
+       Computer Science and Informatics Panels (Advanced Grants, 2017-, Nuseibeh;
+       Consolidator Grants, 2011-2017, Rueger; and Starting Grants; 2019-, Motta).
+
+   -   Maintain and build relationships with key funders and partners. For example, running
+       a workshop on behalf of the Head of the Future Internet Research and Experimentation on
+       Skills and the Future Internet (Domingue); MK Council in relation to MK:Smart (Motta);
+       Cisco (Bennaceur, Mikroyannidis, Third); and JISC (Knoth).
+
+   -   Build leadership roles to aid in enhancing partnership networks. For example,
+       membership of networks in the Semantics and Data Analysis areas with key European and
+       Global research groups fostered through: Presidency of the Semantic Technology Institute
+       (Domingue); leadership positions within the Semantic Web Association (Motta); and co-
+       partnership in the EPSRC-funded Internet of Food Things (Zisman) and the UK
+       Manufacturing Symbiosis NetworkPlus (Zisman).
+
+   -   Coordinate external research relationships (academic and industrial) with research staff
+       and a Business Development Manager as appropriate. On the industrial side our main
+       partners include: Agile Business Consortium Ltd, BT, CISCO, Springer International
+       Publishing, IBM, Medical Detection Dogs, Microsoft, Milton Keynes University Hospital, and
+       NATS.
+
+   -   Diversify funding sources including research councils, national and local government
+       bodies, industry, and charities. Examples are UKRI (EPSRC), HEFCE, European
+       Commission, Royal Society, Leverhulme Trust, British Council, Innovate UK, GCHQ, Milton
+       Keynes Council, Agile Business Consortium Ltd, JISC, Dogs Trust, and Sir Halley Stuart
+       Trust.
+
+   -   Increase in the number of large grants. Examples include the £1.3m EPSRC-funded
+       Platform Grant on SAUSE: Secure, Adaptive, and Usable Software Engineering; £1.0m
+       EPSRC-funded STRETCH: Socio-Technical Resilience for Enhancing Targeted Community
+       Healthcare; £1.0m EPSRC-funded Citizen Forensics; £1.4m Home Office-funded Policing
+       Research and Learning Centre; £1.0m Innovate UK-funded project Happie Audience of the
+       Future – Creative Touch, Design Prototyping; £3.9m HEFCE-funded MK:Smart project; and
+       €3.0m EU Horizon 2020-funded project Polifonia to start in 2021.
+
+   -   Increase share of interdisciplinary grants. Examples include our EPSRC and NCSC
+       grants on social factors that impact writing secure software; and EPSRC grants on citizen-
+
+                                                                                        Page 15
+Unit-level environment template (REF5b)
+       police collaboration; development of smart homes technologies to enhance independent
+       living for older adults; use of automation to improve technical resilience; and pollinators - a
+       biodiversity citizen science project embedded in primary schools.
+
+   -   Exploit synergies with teaching and outreach. Examples include the Institute of Coding
+       with funding from the OfS and industry and Smart cities MOOC with funding from
+       Department for Business, Energy & Industrial Strategy.
+
+The unit plans to carry this strategy forward, responding to the changing funding landscape and the
+unit’s development by increasing the emphasis on major collaborations, on larger grants, and on
+industry collaborations leading to funding and in-kind contributions.
+
+
+3.2 Infrastructure and Facilities
+
+Computing excellence underpins the mission of the OU to exploit the latest technology for open
+education. This strategic alignment coupled with the unit’s objective to study and build systems for
+concrete user populations in authentic contexts has led to the provision of a well-endowed
+computing infrastructure supporting impactful engaged research. The unit provides a flexible and
+adaptive platform to help initiate, develop and sustain dynamic and evolving computing research
+and innovation requirements including:
+
+ • Flexible hosting environment with five on-campus data centres and external cloud providers
+ • Scalable server hosting for 250 servers and 500 web services using Software Defined Storage
+ • Load Sharing Facility Cluster with £400k of investment and over 1,000,000 CPU hours per year
+ • Big Data Cluster
+ • High-bandwidth 10GBE network
+
+The unit’s hardware and software infrastructure is architected, configured, managed and
+maintained by a unit-specific Technical Services Team that support infrastructure resources as
+required. This team works with researchers and external partners to understand research needs;
+develop requirements and specifications for systems; manage the unit’s technology backbone,
+data centres and network resources; and provide specialist technology assistance. Other
+responsibilities are to liaise with researchers at bid development stage and during the lifetime of
+large projects to ensure that research, funder and stakeholder needs are met including
+organisational, national, and international requirements, e.g. GDPR, accessibility and security.
+
+The University’s commitment to computing research is also evident in the purpose-built modern
+buildings that house KMi and C&C. The unit has five state-of-the-art labs in addition to web-cast
+facilities, available to host appropriate projects: Software Engineering and Design Lab that
+supports experimentation with software engineering methods; Music Computing Lab that offers
+specialised musical, haptic, gesture-sensing, and sound processing systems, with an anechoic
+chamber for acoustics, and a recording studio; Animal-Computer Interaction Lab that provides a
+growing repertoire of monitoring and interactive equipment to test prototypes with animals in an
+animal- and human-friendly settings; Pervasive interaction Lab, with its focus on augmenting and
+extending everyday learning and work activities, with electronic textiles, haptic technologies and
+other interaction technologies, and a Maker Space Lab with advanced equipment to support
+prototyping and development work across C&C.
+
+
+
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+4. Collaboration and contribution to the research base, economy and society
+
+4.1 Collaboration
+
+The Unit of Assessment B11 at the OU has a rich history of collaboration with external partners
+from academic, business, not-for-profit and government/policy domains. We have engaged in more
+than 100 collaborative research projects since 2014, ranging from short engagements with a single
+partner to projects of over five years duration with up to 20 partners. Researchers in the unit
+carefully select collaborators from an extensive network and consider how resulting consortia can
+best address the challenges posed by research funding bodies in the context of economy and
+society in multidisciplinary domains.
+
+Since 2014, B11 has proactively invested in staff, wider network engagement, and technology
+infrastructure to develop capability and applications in the Smart Cities multi-disciplinary domain.
+Such investment has resulted in leadership and participation in projects, including: HEFCE-funded
+MK:Smart (2014-2017), CityLabs (2017-2019), SEMLEP-funded MK:5G (2019-2021), UK
+Autodrive (2018, consultancy), EU-funded SciRoc (2018-2022) and Gatekeeper (2019-2023).
+Similarly, the unit has invested resources in software engineering and design resulting in the
+leadership of the EPSRC-funded SAUSE platform grant (2018-2022), STRETCH (2017-2020),
+Citizen Forensics (2018-2021), STRIDE (2020-2023), JENNY (2017-2019), and JOHNNY (2017-
+2020) projects.
+
+The profile of consortium partners includes highly respected universities (e.g. Imperial College
+London, Lancaster University, University of California Irvine, University of Limerick Ireland),
+national research institutes (e.g. NASA), government bodies (e.g. SEMLEP, NHS Trusts, Milton
+Keynes Council), corporations and SMEs (e.g. Atos, BAe Systems, BT, Simply Business, IBM,
+E.ON, Cisco, Samsung, BT, Huawei), and charities or community organisations (e.g. Age UK,
+RNIB, Community Action MK).
+
+The OU has a Memorandum of Understanding with Japan's National Institute of Informatics (NII),
+which has resulted in mutual visits, regular joint workshops, 3-month research internships by our
+PhD students at NII, and co-authored papers. Our staff have held visiting professorial and
+research fellow posts in 20 institutions around the world, e.g. University of Bergen (Motta, since
+2019); University of California, Irvine (Petre, since 2018); University of Cambridge (Siddharthan,
+2018–2019); Malmö University, Sweden (van der Linden, 2018); NII, Japan (Nuseibeh, since
+2007); and University of Waikato, New Zealand (Rueger, 2009–2021).
+
+Researchers in the unit promote international collaboration with research visitors each year.
+Some visitors spend a short time giving seminars and engaging with our colleagues. Others stay
+longer (e.g. the academics from Tianjin University in China visiting Song and Yu as part of an EU
+Marie Curie project). Our influential community of long-term visitors includes Visiting Professors
+David Bainbridge (University of Waikato, NZ); Carole Beal (University of Massachusetts, USA),
+Paul Cohen (also UMass), Clayton Lewis (University of Colorado, USA), Henry Lieberman (MIT,
+USA), Cory Doctorow (tech activist and science fiction author), Mark Levine (University of
+Lancaster, UK), Bjornar Tessem (University of Bergen, Norway); visiting Research Fellows David
+Bush (NATS), Ryan Kelly (University of Melbourne, Australia); and independent consultant Michael
+Jackson (London). All the long-term visitors play strategic roles as research collaborators, advisors
+and domain specialists.
+
+4.2 Academic Leadership and Esteem
+
+The unit’s leadership in the academic community is evident through:
+
+(1) Coordination of international collaborations such as EU projects (e.g. ERC ASAP advanced
+    grant (2012-2018), Gatekeeper (2019-2023), SCiRoc (2018-2022), Polifonia (2021- 2024));
+    Qatar National Research Fund (2013-2016)); and community building (Animal Computer
+    Interaction).
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+(2) Advisory roles in 24 different occasions, including the Software Carpentry Foundation (Petre,
+    2015-16); with research funders as exemplified in Section 3.1. Other roles include evaluator
+    for internal REF2021 B11 UoA submissions: Swansea University (van der Linden) and
+    University of Essex (Piwek); and representing the EU at EU-US Future Internet Workshop in
+    2017 (Domingue).
+
+(3) Chairing over 18 of the leading conferences in our research themes. Examples include PC
+    Co-Chair of the ACM SIGSOFT ESEC FSE conference (Zisman, 2017); IEEE RE conference
+    (Zisman, 2020); ACM International Conference on Multimedia Retrieval (Rueger, 2014); ICSE,
+    Software Engineering in Practice (Sharp, 2019); Conference on Computer Simulation of
+    Musical Creativity, (Laney, 2017); International Conference XP 2016 (Sharp, 2016); and
+    general chair of International Conference on Animal Computer Interaction (Mancini, 2016,
+    2017, 2020).
+
+(4) Leading or participating in over 19 steering committees. Examples include Chair of the BCS
+    Information Retrieval SG Committee that coordinates the European Conference on
+    Information Retrieval Research (Rueger, 2016-2019); European Semantic Web Conference
+    (Domingue, 2008-2019); SIGSOFT ESEC FSE Conference (Zisman, 2016-2020); IEEE
+    Requirements Engineering Conference (Zisman, since 2020).
+
+(5) Seven Editor-in-Chief roles, including International Journal of Human-Computer Studies,
+    (Motta, 2004-2018); ACM Transactions on Autonomous & Adaptive System, 2017-2020
+    (Nuseibeh, 2017-2020); Journal of Creative Music Systems (Laney, since 2017).
+
+(6) 36 memberships of editorial boards, including IEEE Transactions on Software Engineering;
+    Elsevier Journal of Systems and Software; Elsevier Science of Computer Programming
+    Journal; Springer International Journal of Multimedia Information Retrieval; ACM Transactions
+    on Information Systems; Empirical Software Engineering Journal; IEEE Software; ACM
+    Transactions on Software Engineering & Methodology; Elsevier Journal of Web Semantics;
+    ACM Journal on Interactive, Mobile, Wearable and Ubiquitous Technologies
+
+(7) Membership of standards and working groups. Examples include vice-chair of the IFIP
+    Working Group 2.9, Requirements Engineering (Zisman, since 2016); co-chair of the DARIAH
+    AIM Artificial Intelligence in Music working group (Daga, since 2019); Data and Analytics Task
+    Group of the Government Office for Science (Motta, 2014-2015); Knowledge Graph
+    Construction W3C Community Group (Osborne, 2020); W3C Credentials Community Group
+    (Mikroyannidis, 2020); IFIP Technical Committee on HCI - TC13 (Schibelsky G Piccolo, 2020).
+
+(8) OU B11 members have received 29 best-paper awards (e.g. van der Linden/Mancini, CHI
+    2014; Siddharthan NLDB 2017; Tun, SEAMS 2018; Fernandez/Alani, WebSci 2018; Song,
+    ICTIT 2019; Wermelinger, VMV 2020). Other awards include Smart City UK 2017 Award in
+    categories Housing and Communications (van der Linden, 2017).
+
+(9) Researchers in the unit delivered 76 keynotes at international conferences (e.g. ICSOFT,
+    Domingue, 2015; ACM ItiCSE, Petre, 2019; ESEC FSE, Nuseibeh, 2015; IEEE ICSC, Rueger,
+    2016; Green Data Conference, Siddharthan, 2019; SEMLA, Bennaceur, 2019; eLmL,
+    Mikroyannidis, 2020).
+
+(10) Researchers have engaged in international summer schools either as organisers (e.g.
+     ESWC Summer School, 2011-2016, Domingue) or as speakers (e.g. International Semantic
+     Web Summer School, 2018, Motta; Computational Social Science Summer School, 2018,
+     Fernandez; Natural Language Generation, Summarisation, and Dialogue Systems Summer
+     School, 2015, Piwek).
+
+(11) Members of the unit held 20 Visiting Chairs at other universities as exemplified in Section
+     4.1.
+
+                                                                                         Page 18
+Unit-level environment template (REF5b)
+(12) Examples of other distinguished positions include fellowships such as the ACM Distinguished
+     Scientist (Petre, 2016); the Irish Computer Society Fellow (Nuseibeh, 2017); Royal Society of
+     Arts (Laney, since 2019), the Office of Naval Research, Department of Defence, US (De
+     Liddo, 2019-2022); and seven fellowships of BCS (some by invitation), five of CEng and eight
+     of HEA.
+
+(13) Members of the unit have taken Government and policy advisory roles, For example:
+     Government Office for Science, Data Analytics Task Group (Motta, 2014-2015); Her Majesty’s
+     Treasury, Unlocking Digital Competition (Nuseibeh, 2019) and industrial Chair of the Digital
+     Policy Alliance (J Hall).
+
+4.3 Contribution to Economy and Society
+
+The research in the unit embraces users in a multidisciplinary way: technical stakeholders, e.g. the
+software developers who informed our empirical studies of design, or who informed the
+development of secure software – EPSRC Johnny’s project; and domain specialists, e.g., NATS, in
+the Drone Identity project; Milton Keynes University Hospital and Age UK in the EPSRC-funded
+STRETCH project. Researchers in the unit work actively with users during the formulation of
+research questions, through research and development, and subsequently in the deployment of
+technologies into real contexts. For example, our long-term relationship with Agile Business
+Consortium Ltd allows researchers to work with practitioners to understand their challenges.
+Similarly, the work with policing organisations around the UK through projects supported by the OU
+Centre for Policing Research and Learning since 2015; the work with World Wide Fund
+Switzerland and Earth Hour on user studies around climate change issues; deployment of
+blockchain badges; work with older adults around digital health technologies and privacy
+management in ubiquitous environments; and work with yachtsmen, sailing instructors and other
+users to scope issues and challenges for augmented reality navigation interfaces.
+
+Researchers in the unit collaborate with industry through research projects, knowledge and
+technology transfer, and consultancy. The industrial collaborators act both as research partners in
+several projects and as informants. The unit’s collaboration with industry includes companies like
+BAe Systems, IBM, APPII, Cambridge Research Lab of Toshiba Europe, Cisco, Daiwa Capital
+Markets, Huawei.
+
+B11 unit research at the OU has also informed the research agenda of industry and public
+bodies. Examples are Advisory Board of the Software Carpentry Foundation (Petre, 2015-2016);
+Iceland Ministry of Education, input to COVID-19 plan for schools (Petre and Richards, 2020);
+Digital Policy Alliance Industry Chair (J Hall, since 2019); Thames Valley Police (Bandara, Price,
+Nuseibeh, 2019-2020); MK-AI, Science Advice to Policy (Piwek, 2021-2023).
+
+The unit’s wide scope of impact activities is supported by a communication and dissemination
+strategy, which covers a wide array of channels, such as:
+ • Industry workshops, e.g. a series of AI workshops with communities and SMEs, 2019
+   (Charlton), Tate Gallery workshops, 2014-2015 (Charlton);
+ • Public engagement events, e.g. ‘Women in IT’, Credit Suisse, 2016 (Petre), ‘STEMettes’,
+   Women in STEM careers, 2019 (Bandara), Edinburgh Science Festival, 2019 (Mancini); Royal
+   Society Summer Science Exhibition – 2014 (Mancini);
+ • Public lectures, e.g. Oxford Café Scientifique, 2019 (Mancini);
+ • UK Government’s Digital Skills Toolkit, 2020 (Mikroyannidis);
+ • Social and broadcast media; in particular, our strategic relationship with the BBC and Radio 4
+   has been instrumental in generating wider impact from OU Computing research, e.g. Inside
+   Science, 2016 (Mancini), 2020 (Jones); Computing Britain; 2015 (Jones); Today Programme,
+   2013 (Price), 2014 (Yu); as well as international media, e.g., Canadian Public Radio 2014
+   (Mancini). Members of the unit have published 18 articles in The Conversation; for example
+   Bandara, Mancini, Price and Yu.
+
+
+
+                                                                                           Page 19
+Unit-level environment template (REF5b)
+Summary. Research in the OU’s B11 unit constitutes a coherent, sustainable core of expertise
+with international recognition, and a body of work with many years of impact. It reflects the OU’s
+mission and contributes to the development of technologies that are people-centred, open and for
+the social good and society at large. The four research themes in our unit are overlapping areas
+with applications in Learning and Education; Health and Wellbeing; Citizen Empowerment; Politics
+and Government; Security and Policing, Forensics & Privacy; Environment & Sustainability;
+Science & Scholarly Communication; Urban and Smart living; New Media and Society;
+Accessibility, Inclusion, Ethics, Social Justice and Diversity; Arts, Entertainment and Culture; and
+Professional Practice.
+
+
+
+
+                                                                                           Page 20
+

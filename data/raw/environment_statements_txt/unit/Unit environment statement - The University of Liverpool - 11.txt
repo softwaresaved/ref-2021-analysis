@@ -1,0 +1,957 @@
+Unit-level environment template (REF5b)
+ Institution: University of Liverpool
+
+ Unit of Assessment: 11 (Computer Science)
+
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Overview of Unit structure
+ The Department of Computer Science is part of the School of Electrical Engineering, Electronics,
+ and Computer Science (EEECS) within the Faculty of Science and Engineering. The department’s
+ research is organised around four closely interlinked research clusters:
+
+   •       Algorithms and Networks (ALGO, 10 faculty).
+   •       Artificial Intelligence (AI, 11 faculty).
+   •       Economics and Computation (EcCo, 10 faculty).
+   •       Logical Methods in Computer Science (LMCS, 11 faculty).
+
+ ALGO, LMCS, and EcCo are three of the largest research clusters in the world in their respective
+ fields, and have a long history within the department going back 25, 19, and 10 years, respectively.
+ AI, with its focus on Machine Learning and Argumentation and applications in Autonomy, Natural
+ Language Processing, and Legal Systems, is a more recent strategic addition to the department.
+ It was formed in 2015 as an evolution of our Multi-Agent Systems research group. Each cluster
+ grew during this REF period, primarily through the hiring of 14 early career researchers that
+ provide vitality and fresh ideas.
+ The purpose of the clusters is to coordinate research collaborations and provide an interface to
+ the university and the outside world. Below research clusters, the department is structured` into
+ seven research groups, which exist for organisational purposes, for example, for mentoring and
+ specialised seminars. Each research group contributes to multiple research clusters, with the
+ structure and interconnections shown in Figure 1 below, which also shows interdisciplinary
+ centres, centres for doctoral training, and stakeholders from elsewhere in the university. This
+ figure is explained in more detail later and is used throughout the document.
+
+ 1.2 Research and Impact Strategy
+ Our three objectives are to:
+
+       •   Compete and collaborate with the leading Computer Science departments in the world in
+           our core research areas.
+       •   Apply our research for the benefit of the economy and society, in Merseyside, the UK, and
+           across the world.
+       •   Support the next generation of computer scientists (ranging from PhDs to ECRs), and help
+           them to reach their potential as the future research leaders of their respective fields.
+
+ Our research strategy to achieve these objectives has been to develop:
+
+ RS1:      Core Strengths. Invest in carefully selected areas of existing strength and future potential
+           within our four research clusters, Algorithms, Artificial Intelligence, Economics, and Logic.
+           To illustrate, since 2017 we have hired at least three ECRs in each of the clusters, each
+           adding strength in areas identified as strategically important.
+ RS2:      Interdisciplinarity. Collaborate with other disciplines to realise the potential of our research
+           beyond our core research areas, for example, through interdisciplinary centres such as
+           the Centre for Autonomous Systems, the Leverhulme Centre for Functional Materials
+           Design, Sensor City, and the Virtual Engineering Centre.
+
+
+                                                                                                    Page 1
+Unit-level environment template (REF5b)
+ RS3:   Targeted Impact. Introduce specific mechanisms to translate our research expertise into
+        work that directly addresses economic and societal challenges; in particular, we aim to:
+            1. Support and develop new and existing collaborations with non-academic partners,
+               for example, via Knowledge Transfer Partnerships (KTPs) and interdisciplinary
+               projects (RS2).
+            2. Support public engagement, for example, to raise public understanding of safety
+               and trustworthiness of AI systems.
+ RS4:   New Talent. Invest in developing new talent in computing, ranging from PhD students to
+        ECRs. To illustrate, the number of PhD students that have graduated has increased by
+        more than 150% compared to the last REF period.
+ RS5:   People. Develop further our emphasis on equality, diversity, and well-being. Ensure that
+        our research environment embodies the principles of the Researcher Development
+        Concordat and Athena SWAN. For example, the proportion of female PDRAs has
+        increased from 15% in REF2014 to 25% during this REF period.
+
+
+
+
+ Figure 1. The unit and its major connections within the university.
+
+ To ensure accountability, participation, and transparency, our research strategy is reviewed and
+ discussed in research cluster and department-wide meetings, including our annual department
+ away day. The overall strategy is agreed and executed by the departmental research committee,
+ consisting of the Head of Department, the Deputy Head of Department for Research, the Heads
+ of the Research Clusters, and our Impact Facilitators.
+ RS1, RS2, and RS3 were at the core of our future strategy in REF 2014. They were revisited,
+ reconfirmed, and then fleshed out early during this REF period. For example, the unit developed
+ RS3.2 since we believe that our research and commercial impact activities in AI should be
+ complemented by raising public understanding of AI technologies. RS4 and RS5 recognise that
+ to reach our main objectives in a rapidly developing and highly competitive discipline such as
+ Computing, we have to invest in new talent, while creating a supportive environment for all staff
+ and students. RS1–RS5 are discussed further throughout the document.
+
+
+                                                                                            Page 2
+Unit-level environment template (REF5b)
+
+ 1.3 Implementation and Achievements
+ Figure 2 evidences the success of the unit’s strategy for growth. In line with RS4 (New Talent),
+ this growth includes 14 new ECRs. We report in detail on the implementation of RS4 and RS5
+ (People) in Section 2, and on research income in Section 3. We next give details of our
+ implementation of RS1, RS2, and RS3.
+
+
+
+
+ Figure 2: Growth since the last REF (with all eligible FTE counted for REF2014).
+
+ RS1 (Core Strengths)
+ We organise our research around four research clusters, which all have critical mass at all levels
+ of seniority and are appropriately supported by research funding. We aim to empower staff to
+ develop and realise their own research agenda. Collaborations across clusters are encouraged
+ and indeed fundamental to our approach. We summarise the research achievements of our
+ clusters below.
+ Algorithms and Networks:
+ This cluster addresses emerging research challenges in networks and distributed computing,
+ graph theory, scheduling, reachability, and, more recently, the underpinning area of data structures
+ and complexity theory. It publishes regularly in the core venues of the field, for example a
+ combined total of 59 papers in Algorithmica and TCS during this REF period. The unit is a founding
+ member of the EPSRC AlgoUK Network for Algorithms and Complexity in the UK (2017–).
+ The cluster hosts the Network Sciences and Technologies Initiative (NeST; see Figure 1). Within
+ NeST, Gasieniec, Michail (ECR), Spirakis, and Zamaraev (ECR) have initiated the study of
+ temporal graphs, an extension of graph theory suitable for representing modern dynamic systems.
+ The cluster also continued its long research tradition in distributed computing, for example winning
+ a Best Paper Award at ICALP’18 (Kowalski), and achieving breakthroughs in population protocols
+ (Gasieniec, JACM’20). Potapov’s research in reachability problems for words and matrices was
+ recognised by the award of a Royal Society Leverhulme Trust Senior Research Fellowship.
+ Another focus of the cluster is scheduling theory (Christodoulou, Kowalski, Wong), with
+ contributions ranging from efficient scheduling solutions for smart power grids to substantial
+ progress on the Nisan-Ronen conjecture (STOC’20).
+ In addition to the ECRs hired in networks, the cluster made the strategic decision to invest in
+ complexity theory and data structures, and recruited Ikenmeyer (from Simons Institute Berkeley
+ and Max Planck Saarbrücken) and Tsakalidis and Wild (both ECRs from University of Waterloo),
+ respectively.
+ Economics and Computation:
+ This cluster addresses research challenges in algorithmic game theory and mechanism design,
+ and published 32 papers at the three key specialised venues (EC/SAGT/WINE) during the REF
+ period. The cluster also brought the SAGT conference to Liverpool in 2016.
+ Christodoulou, Gairing, Sgouritsa (ECR), and Spirakis have made ground-breaking contributions
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ in the area of quality of equilibria, for example, by initiating the study of the Price of Anarchy of
+ auctions (JACM’16), designing networks with good equilibria (SICOMP’19), and resolving the
+ long-standing open question of the Price of Stability in Weighted Congestion Games
+ (SICOMP’19). Christodoulou was supported by a Royal Society Leverhulme Trust Senior
+ Research Fellowship.
+ The cluster has made numerous contributions in the area of mechanism design, including on
+ pollution control and mechanism design with verification (Krysta JAIR 2018, Algorithmica 2019).
+ On the complexity of equilibria, Fearnley and Savani resolved fundamental questions about the
+ complexity of linear programming (STOC’15), strategy improvement (SODA’16), and the query
+ complexity of equilibria (Algorithmica 2019).
+ In addition to Fearnley and Sgouritsa, the cluster made three further strategic hires, Filos-Ratsikas
+ (ECR, from EPFL Switzerland), Ibsen-Jensen (ECR, from IST Austria), and Laraki (Reader, from
+ Ecole Polytechnique), who strengthen our expertise in complexity of equilibria, stochastic games,
+ and voting theory.
+ Artificial Intelligence:
+ This cluster addresses research challenges in autonomous systems, argumentation, and multi-
+ agent systems, and has strategically expanded into machine learning and data mining and its
+ applications in NLP, vision, and robotics. Over the REF period, the cluster has published a
+ combined total of 68 IJCAI and AAAI papers, and a combined total of 16 AIJ and JAIR papers.
+ The cluster led the EPSRC-funded UK Network on “Verification and Validation of Autonomous
+ Systems” (2015-19), and pioneered the use of formal verification for the safety and reliability of
+ autonomous systems and robotics. The AI cluster also hosts two robotics labs, the smARTLab
+ and Home Robots Lab; see Figure 1.
+ The unit has continued to be an international centre for computational argumentation and its
+ application to AI and Law. Over the REF period, research by Atkinson, Bench-Capon (emeritus),
+ and Dunne led to a combined total of 30 papers in COMMA/JURIX/ICAIL, the main venues for
+ research in the area.
+ Bollegala and Goulermas (who joined the unit in 2015) are leading the machine learning activities
+ of the cluster, with Bollegala (Amazon Scholar since 2019) focusing on NLP applications, in
+ particular word embeddings (TKDE 2016), and Goulermas working on representation learning and
+ combinatorial data analytics (TPAMI 2015, 2017).
+ Over the REF period, the cluster expanded into computer vision and robotics by recruiting the
+ ECRs Lu (Oxford), Luo (Harvard and Leeds), and Do (University of Singapore). Luo is now leading
+ the smARTLab.
+ Logic:
+ This cluster addresses research challenges in the logical foundations of computing, automated
+ reasoning, formal verification, and knowledge representation. Over the REF period, the cluster
+ has published a combined total of 33 papers in LICS/LMCS/InfoComp, the core venues for logic
+ in computer science.
+ Fearnley, Schewe, and Wojtczak have made significant progress on fundamental questions in
+ optimal control, strategy generation, and solving multi-player games. In the same area, the cluster
+ hosted Marie Skłodowska Curie Fellows Hahn and Lehtinen (ECR). Hernich, Konev, and Wolter
+ worked on logical methods for ontologies and ontology-based data management, winning
+ distinguished paper awards at PODS’17 and IJCAI’18.
+ The work of Hustadt on calculi for modal logics was invited to the Best Papers from Sister
+ Conferences Track at IJCAI’17. Kuijer (ECR), Van der Hoek, and Wojtczak have investigated
+ logics for gossip protocols (JAIR’18 and AIJ’20). Another highlight is the application of SAT solvers
+ to the Erdős Discrepancy Conjecture (AIJ’15) by Konev and Lisitsa that has been celebrated in
+ academia and the media (for example, the Independent and New Scientist).
+ In addition to the two ECRs mentioned above, the cluster has strengthened its expertise in logical
+ and automata-theoretic foundations of verification by recruiting Totzke (ECR from Edinburgh) and
+ Zimmermann (from Saarbrücken).
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ Inter-cluster collaborations:
+ Cross-cluster collaboration is fundamental to our research culture, and many staff contribute to
+ two or more clusters. One important interface is between logic and AI, where we apply logical
+ methods to verify and increase the trustworthiness and safety of AI systems. In the REF period
+ we have recruited Huang (ECR from Oxford) who has pioneered the verification and testing of
+ deep learning algorithms (CAV’17). Others working at this interface include Van der Hoek, Kuijer,
+ Luo, and Wolter. The AI, Algorithms, and Economics clusters have collaborated extensively to
+ make progress in understanding automated markets – ranging from online retail and internet
+ advertising to automated trading in financial markets. The unit also recruited Kurlin (Durham),
+ whose work bridges AI and Algorithms to support materials design, as discussed further below.
+
+ RS2 (Interdisciplinarity)
+ To realise the potential of our research beyond our core research areas, the unit has taken
+ leadership or major roles in expanding existing interdisciplinary centres, while also developing new
+ ones; see Figure 1.
+
+    •   The Leverhulme Research Centre for Functional Materials Design (CFMD) opened in
+        2017 with £10M of funding to last until 2027. It is a collaboration between Computer
+        Science and Chemistry. The main computing topics are Computational Materials Design
+        (Krysta, Michail, Potapov, Spirakis from NeST), Intelligent Automation (Atkinson, Tuyls),
+        and Harnessing Exponential Knowledge Growth (Goulermas, Kurlin).
+    •   Sensor City opened in June 2017. It is a £15M joint venture between Liverpool John
+        Moores University and The University of Liverpool. Computer Science collaborates with
+        Sensor City on a range of applications of AI to secure and wearable sensors (Coenen,
+        Gairing, Savani).
+    •   The Centre for Autonomous Systems Technology (CAST) was a key part of our
+        REF2014 impact strategy. CAST is led by the unit (Fisher until 2020, now Huang) and
+        coordinates activities across the university in software autonomy, verification, and trust. It
+        has grown significantly during this REF period, funded through three Robotics and AI Hubs
+        and four EPSRC projects (£5.75M in the unit).
+    •   The Virtual Engineering Centre (VEC) was founded in 2010. It currently employs 22 staff,
+        and has a turnover of approx. £2.5M. A prominent example of a Computing/VEC
+        collaboration is the GAMMA EU Project (Growing Autonomous Mission Management
+        Applications), which ran from 2012 to 2020.
+
+ These centres are supported by the university as part of the two university-wide themes, Digital
+ (all centres) and Advanced Materials (CFMD). The centres are complemented by a wide variety
+ of interdisciplinary research projects. As planned in our REF 2014 future strategy, we have worked
+ closely with our sister department EEE. We give two examples: the Algorithms cluster runs NeST
+ jointly with Marshall’s networking group; collaboration between the unit and Maskell’s group
+ underpins our CDT in Distributed Algorithms, and, along with Medicine, the large EU WEB-RADR
+ project on studying adverse reactions to pharmaceutical drugs. In line with RS3.1, and envisioned
+ in our REF 2014 future strategy, interdisciplinary projects have been a path to impact. This is
+ illustrated by two of our returned impact case studies:
+
+    •   The Geographic Data Science Lab (GDSL) is a multi-faceted collaboration between
+        Computer Science and Geography (see Figure 1). The impact, which is underpinned by
+        GDSL’s methodology for creating geodemographic classifications, has beneficiaries that
+        range from Hull City Council to the Anti-Eviction Mapping project in the US.
+    •   LiftUpp is an assessment information system for clinical education that was developed
+        jointly by Computer Science (Jimmieson, Savani) and the Dental School (Dawson) at
+        University of Liverpool. It is used by 63% of dental schools in the UK.
+
+ Further details and other examples of interdisciplinary activities are given in later sections.
+
+
+                                                                                                   Page 5
+Unit-level environment template (REF5b)
+ RS3 (Targeted Impact)
+ Interdisciplinarity is complemented by the following mechanisms to encourage and support the
+ development of impact. Our Impact Facilitators run departmental impact workshops, visit research
+ groups, and support impact-related funding applications. The impact workshops are often
+ attended by existing and potential non-academic partners. They present developing impact cases,
+ along with new challenges and potential collaborative projects. The department’s Industrial Liaison
+ Committee (ILC) comprises a mix of representatives from large corporations such as IBM,
+ Unilever, and PwC, and local SMEs. The ILC reviews and informs our impact strategy.
+ We next discuss the achievements of our strategy in relation to the two points of RS3.
+ RS3.1: New and existing collaborations with non-academic partners.
+ The unit has forged many new collaborations with non-academic partners during this REF period.
+ This was facilitated by 10 Knowledge Transfer Partnerships (total funding of £2.4M) and 25 direct
+ industry projects and consultancies; further details can be found in Section 3. For example, our
+ “nDrites: Enabling Laboratory Resource Connectivity” impact case study was the outcome of a
+ KTP with a local SME, CSols. In this KTP, Atkinson, Coenen and Payne developed an agent-
+ based technology that is widely used by utility companies for monitoring drinking water quality.
+ Impact arising from interdisciplinary projects has been discussed above. Our interdisciplinary
+ Centres for Doctoral Training (CDTs) are another pillar of our engagement with non-academic
+ partners. The unit is a major stakeholder in 4 industry-focused CDTs. Every centre PhD project
+ involves a non-academic partner, including, for example, IBM, Roche Diagnostics, and Unilever.
+ We give more details on these CDTs in Section 2 under PhD training; also see Figure 1.
+ RS3.2: Public engagement.
+ During the REF period, the unit made a targeted and concerted effort to engage the public in the
+ areas of AI and Robotics, Trustworthiness of AI systems, and AI and Law (Atkinson, Collins,
+ Dennis, Fisher, Tuyls). Our outreach impact case is based on our engagement with schools in the
+ North West and the university’s partnership with the Tate Gallery, which led to the “Sprung a Leak”
+ installation on robotics that has travelled from Tate Liverpool to Belgium, Germany, and Japan.
+ Atkinson’s invitation to deliver part of the 2019 Royal Institution Christmas lectures was based on
+ the unit’s standing in the field of AI and Law.
+
+ 1.4 Strategic research and impact aims for the next five years
+ In 2020 we revisited our objectives and strategy and decided that our three objectives will remain
+ unchanged over the next five years. At the strategy level, we will adjust RS1 (Core Strengths) and
+ RS2 (Interdisciplinarity) by developing further our inter-cluster activities, with emphasis on three
+ key areas:
+
+    •   Verification of AI. The unit has pioneered logic-based methods to ensure the safety,
+        interpretability, and trustworthiness of AI systems. Following the departure of Dixon and
+        Fisher, we will strengthen this area by advancing approaches that bridge the methodology
+        gap between symbolic and sub-symbolic AI. This will be led by Huang, Luo, Schewe,
+        Wojtczak, and 3 new lectureships.
+    •   AI and Law. This theme is at the intersection of argumentation, multi-agent technologies,
+        and NLP (Atkinson, Bollegala, Coenen). We will build on our existing strength and put the
+        unit at the centre of a Liverpool-based legal technology hub.
+    •   Automated Markets. We will address important emerging themes such as the regulation
+        of competing strategic algorithmic agents in financial and retail markets (Christodoulou,
+        Filos-Ratsikas, Savani, Sgouritsa).
+
+ These and related activities will be supported by the new Digital Innovation Facility (DIF) which
+ is discussed in more detail in Section 3. It will house CAST, the smARTLab, the Home Robots
+ Lab, a branch of the VEC, along with many SMEs. Our leadership in the DIF will be complemented
+ by continued support and growth of the interdisciplinary centres during this REF period. The DIF
+ will also support our implementation of RS3 during the next REF period.
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+ RS4 (New Talent) of our strategy has been successfully implemented during the current REF
+ period. Over the next REF period, we will put even more emphasis on hiring female academics,
+ discussed in more detail in Section 2. Within RS5 (People), an important focus will be developing
+ our 14 ECRs.
+
+ 1.5 Research Integrity and an Open Research Environment
+ The unit embraces an ethical approach to research, and views an open research environment as
+ a key component of research integrity. To illustrate, we have contributed to the development of
+ standards and professional frameworks to ensure the ethical use of AI in autonomous systems
+ and robotics (see Section 4), and the unit has contributed to an open and informed discussion with
+ the public about the impact of AI on society (as described in one of our impact cases). These
+ activities are informed by the unit’s research on explainable AI (Huang), the application of AI to the
+ legal sector (Atkinson), and trust in and the ethics of AI (Dixon/Fisher).
+ In line with the institution’s policy, the unit is committed to providing a rigorous and independent
+ process of ethical review. To this end, the unit has a dedicated Ethics Officer (Biktasheva), who
+ advises on ethical aspects of research projects and on processes for seeking ethical approval.
+ Every staff member takes the university-produced “Research Ethics Training” online module.
+ The unit regards reproducibility of research as a precondition for both integrity and openness.
+ Reproducibility requires free access to papers, code, and data:
+
+ Papers.
+       The unit aims to make all its research available to anyone for free by making extensive use
+       of the open publishing service arXiv (> 450 papers on arXiv during this REF period) and
+       the institution’s research repository for papers.
+ Code.
+       The unit strives to make all software and code related to our research freely available. For
+       example, the Economics cluster provides the web-based software platform “Game Theory
+       Explorer” to the research and teaching community; its source code is freely available on
+       github, as is our work on Natural Language Processing (https://github.com/LivNLP), and
+       our work with the Leverhulme Research Centre for Functional Materials Design
+       (https://github.com/lrcfmd).
+ Data.
+       Where data is used in our research, we either use external publicly-available datasets, or,
+       where licensing conditions permit, make our data publicly available. For example, much of
+       our work with the Geographic Data Science lab uses the data repositories of the Consumer
+       Data Research Centre hosted at Liverpool (http://cdrc.ac.uk).
+
+ In terms of training and guidance for reproducibility, the unit participates in N8 CIR ReproHacks,
+ which are one-day reproducibility hackathons; the February 2020 event was held at Liverpool.
+
+
+ 2. People
+ Guided by point RS5 (People) of our overall strategy, we have developed further our emphasis on
+ equality, diversity, and staff well-being and have applied the principles of the Researcher
+ Development Concordat to all research-active members of the department. Guided by point RS4
+ (New Talent), recruitment has focused on attracting excellent early career researchers, PDRAs
+ and PhD students. In this section, we discuss in detail our staffing strategy, staff development, and
+ research students. We discuss equality and diversity issues throughout the section, with a
+ dedicated final section that deals with EDI issues not covered elsewhere.
+
+ 2.1 Staffing Strategy
+ The department has expanded considerably during the REF period: 20 new members of staff have
+ been hired. In line with point RS4 of our research strategy, we have focused on hiring early career
+ researchers. In fact, over the REF period the department did not recruit at all at professorial level,
+ while at the same time, we recruited 15 lecturers, 1 lecture-track fellow, 2 senior lecturers, and 2
+
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ readers; 6 existing members of staff were promoted to professor, 6 to reader, and 7 to senior
+ lecturer. In short, our staffing strategy has followed the principle of “We don’t buy stars, we make
+ them”.
+ The following hires were made during the REF period, at lecturer level unless indicated otherwise.
+ All lecturers except Fearnley and Zimmermann are ECRs.
+
+    •   Ikenmeyer (SL), Michail, Tsakalidis, Wild, and Zamaraev have joined Algorithms and
+        Networks.
+    •   Fearnley, Filos-Ratsikas, Ibsen-Jensen, Laraki (Reader) and Sgouritsa have joined
+        Economics and Computation.
+    •   Goulermas (Reader, now Professor), Kurlin (SL), Lu, Luo, and Do have joined Artificial
+        Intelligence.
+    •   Huang (now Reader), Kuijer, Lehtinen (Lecture-track Fellow), Totzke, and Zimmermann
+        have joined Logic.
+
+ We are proud to have been able to attract these excellent researchers. To illustrate, Wild won the
+ 2016 Best German-Swiss-Austrian Dissertation Award in Informatics for his work on sorting
+ algorithms and Sgouritsa was runner up for the 2018 BCS Distinguished Dissertation Award for
+ her work on algorithms for game-theoretic environments. All hires are in line with RS1 (Core
+ Strength), and we have described in Section 1 how these new recruits fit into our research clusters.
+ The strategic thinking behind the more senior hires was the following. Ikenmeyer brings new and
+ complementary strength to the algorithms cluster. He is a world-leading expert on complexity
+ theory, with 7 STOC and FOCS papers and support from a German DFG project (EUR 356K).
+ Kurlin works at the intersection of computing and materials science. In line with RS2
+ (Interdisciplinarity), Kurlin strengthens our collaboration with the Materials Innovation Factory
+ (MIF), discussed in detail in Section 3. Goulermas is an expert in machine learning and has been
+ leading industry projects (for example in health, law, and defence) for over ten years. Jointly with
+ Bollegala, Goulermas provides leadership to the Machine Learning group. Laraki is an expert in
+ the theory and practice of voting, complementing existing strength in the EcCo cluster. He is the
+ author of three Economics monographs and Fellow of the Game Theory Society. Laraki’s voting
+ method majority judgement is having significant non-academic impact (see Section 4), supporting
+ RS3 (Targeted Impact).
+ We have a balanced profile of faculty: 14 professors, 5 readers, 4 senior lecturers, 18 lecturers,
+ and 1 lecture-track fellow. Every research cluster is led by 3-4 professors and has 4-5 lecturers,
+ and thus has a good mix of seniority levels.
+ We have implemented the Concordat’s principles for recruitment. We aim to attract the best
+ researchers by advertising widely, and involving research groups in actively soliciting applications.
+ We strongly encourage applications from candidates with diverse backgrounds. In particular,
+ actions have been taken to systematically improve the numbers of BAME and female staff that we
+ recruit. For example, at least one female candidate is short-listed for each vacancy, interview
+ panels include at least one female member, and advertisements are reviewed to ensure that
+ Athena SWAN principles are included. In the current REF period, we hired four BAME ECRs (Luo,
+ Lu, Huang, and Do) and two female ECRs (Lehtinen and Sgouritsa).
+
+ 2.2 Staff Development
+ We recognise that staff need time, space, and support to deliver world-class research and impact.
+ Facilitated by the creation of 5 offices during the REF period, all faculty have their own offices, all
+ within one building. Teaching loads for research active staff are uniformly light, not exceeding two
+ modules per annum. This has been partly enabled by the employment of 5 permanent teaching
+ fellows and the support of 4 technicians. We also use sabbaticals and part-time working
+ arrangements to give staff time for research and impact activities. Applications for a sabbatical are
+ open to all, and assessment of applications takes EDI considerations into account. In this REF
+ period, 8 academic staff took sabbaticals. These staff span different levels of seniority, gender,
+ and other protected characteristics. Examples include establishment of industry collaborations
+
+                                                                                                 Page 8
+Unit-level environment template (REF5b)
+ (Tuyls, Google DeepMind), completion of long-term collaborative research projects
+ (Christodoulou, Biktasheva, Wojtczak), and development of collaborative grant proposals
+ (Spirakis). Part-time working arrangements over the REF period have allowed Bollegala to
+ collaborate with Amazon, Japan, and Laraki (50% Liverpool) to continue his CNRS position at
+ LAMSADE, Paris.
+ Promotion.
+ Promotions are awarded through the University’s annual review procedures, independent of the
+ unit. Evidence of the success of the unit’s staff development approach includes the large number
+ of promotions, nineteen, within the REF period. This includes three female staff (Atkinson -
+ promoted to Dean of School, Dixon and Wong) and three BAME staff (Bollegala, Savani, Wong)
+ promoted to professor, compared with only one female professor and only one senior BAME
+ academic in 2014.
+ Early career researchers.
+ Early career researchers form a key part of RS4 (New Talent), and so the department has
+ extensive support for ECRs to help new members of staff establish their research careers.
+ Reduced load.
+         In their first year, ECRs teach at most one module, do not first supervise any final-year
+         projects, and normally have no administrative duties. Their load gradually increases over
+         their first three years.
+ Dedicated mentor.
+         Every ECR staff member is assigned a senior academic from the department as a mentor.
+         Mentors give advice on a wide range of topics including teaching, research, and career
+         progression.
+ Support for grant applications.
+         In addition to the general support discussed in Section 3, the unit created the “Get the
+         Grant” initiative specifically for ECRs. The initiative is led by Schewe and includes regular
+         workshops and talks by funding organisations.
+ Integration activities.
+         New academics are invited to present their research at the annual departmental away day,
+         at departmental seminars, and at the industrial liaison committee.
+ To give an example of where the measures helped an ECR to establish their career through funded
+ research projects, Luo arrived in 2018 from Harvard. Since then, he won an award from the Centre
+ for Digital Built Britain to work on “Aerial Swarm Robotics for Active Inspection of Bridges” (PI), a
+ UKRI/AHRC grant to work with the Shanghai Theatre Academy on “Shaun the Sheep: Immersive
+ Experience” (co-I), and an EPSRC New Investigator Award to work on “ViTac: Visual-Tactile
+ Synergy for Handling Flexible Materials”. Another example of an ECR who won an EPSRC New
+ Investigator Award is Totzke with his project “The Cost of Winning Strategies”.
+ PDRAs.
+ In line with RS4 (New Talent), PDRA activity has risen from 918 PDRA person months in the last
+ REF period to 1470 in this period, with an accompanying improvement in PDRA gender balance,
+ from 15% female in the last period to 25% in this one. As members of academic staff, PDRAs are
+ fully integrated into our research groups and environment. In addition to the standard support
+ mechanisms given to all academic staff (for example, personalised induction, training, annual
+ PDR, reviewing of grant proposals), PDRAs are members of the School PDRA forum, which meets
+ regularly to discuss PDRA-specific matters and represents the PDRAs at unit and school (EEECS)
+ level. The unit supports fellowship applications of PDRAs via mentors and match funding
+ commitments. As an example of success, Lehtinen secured a Marie Skłodowska Curie Fellowship
+ while a PDRA in the unit and stayed as a lecture-track fellow.
+ As an indication of the success of our PDRA support, during this REF period the following PDRAs
+ progressed on to permanent teaching and research positions: Fearnley and Kuijer (Liverpool),
+ Deligkas (Royal Holloway), Akrida (Durham), Gutiérrez Basulto (Cardiff), de Keijzer (King’s
+ College London) and Slavkovik (Bergen). Deligkas and Akrida also attained their PhDs in the unit.
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ Many other PDRAs have gone to successful careers in industry, for example, Riley (Head of
+ Innovation at the Quant Network), Cucco (Global Robotics and Automation Engineer, Unilever),
+ and Caliskanelli (UK Atomic Energy Authority).
+
+ 2.3 Research Students
+ As part of our commitment to developing the next generation of Computer Science researchers in
+ point RS4 (New Talent) of our research strategy, we have dramatically expanded our training of
+ postgraduate research students, with over 96 students graduating in the current REF period
+ compared to 36 graduating previously. We are proud of the fact that 35% percent of these
+ graduated PhD students are female.
+ The growth in PhD student numbers was enabled by the strategic decision of the School of EEECS
+ to internally fund 10 PhD students a year, with allocations decided by: the quality of the candidates,
+ the strategic fit of the project, a preference for an ECR on the supervisory team, and careful
+ consideration of equality and diversity, including protected characteristics of the candidates. In
+ addition to the internally-funded students, the growth in PhD student numbers was supported by
+ four doctoral training centres which we discuss next.
+ Centres for Doctoral Training.
+ The department is heavily involved in four doctoral training centres: an EPSRC-funded CDT on
+ Distributed Algorithms, an EPSRC/ESRC-funded CDT on Risk and Uncertainty, an ESRC-funded
+ CDT on Data Analytics and Society, and an internally-funded doctoral training programme on AI
+ for Future Digital Health that is led by the unit. Combined, these CDTs have funded 20 PhD
+ students during the assessment period. In line with our commitment to RS2 (Interdisciplinarity), all
+ four centres are interdisciplinary. In line with RS3 (Targeted Impact), all have significant industry
+ involvement. CDT students are co-supervised by staff members from multiple departments, see
+ Figure 1. Our doctoral training centres have also been a major driver of engagement with non-
+ academic partners, which is discussed in more detail in Section 4.
+ Training, monitoring, and progression.
+ Every student is assigned at least two supervisors, and two advisors, who provide additional
+ support and advice. All PhD students are members of the university-wide Liverpool Doctoral
+ College, which offers a wide range of training events including a three-day career-related
+ workshop. Additionally, the school of EEECS runs a series of 20 doctoral training seminars each
+ year, with specific training and advice. Students are encouraged to apply for internships during
+ their PhDs. Examples during this REF period include Butterworth (NNAISENSE, Switzerland),
+ Evangelopoulos (IBM, Daresbury), O’Neill (Amazon, Tokyo), and Spooner (JP Morgan, London).
+ Evidence of Success.
+ Our PhD students regularly co-author high quality CS outputs, for example 7 ICALP, 7
+ Algorithmica, 5 IJCAI, and 6 AAAI papers during the REF period. More than 50% of our graduates
+ now hold positions at CS departments (ranging from UK universities such as Imperial and Oxford
+ University to European universities such as TU Vienna and TU Munich) either as PDRAs, or as
+ academic faculty, such as our female graduates: Liu (Utrecht), Ozaki (Bergen), and Sgouritsa
+ (Liverpool). Many other students that graduated during this REF period have moved to highly
+ competitive jobs in industry, for example, Farrugia (Capgemini), Gatens (ARM), Geleta (Astra
+ Zeneca), Igwe (Hitachi, Japan), and Rajendran (KPMG).
+
+ 2.4 Equality and Diversity
+ Earlier in this section we discussed several aspects of RS5 (People), for example, study leave via
+ sabbaticals, flexible working arrangements, the promotion of female and BAME staff to professors,
+ and EDI aspects of recruitment. In this subsection we discuss governance, wellbeing, and EDI
+ considerations in relation to the REF exercise itself. We close with an outlook for the next REF
+ period.
+ Governance and policies.
+ The University of Liverpool is a member of the Athena SWAN Charter (Institutional Silver Award),
+ a Stonewall Diversity Champion (Top 100 in 2013 and 2014 Workplace Equality Index), and a
+ member of the Two Ticks guaranteed interview scheme. Equality, Diversity and Inclusion principles
+
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+ have been firmly embedded in our everyday practices.
+ Within the unit, RS5 (People) is overseen by the School Diversity and Equality Committee.
+ Representatives of this committee contribute to the development of all departmental policies,
+ including research policy. Early career researchers have a say on all departmental matters ranging
+ from the newly developed work allocation model (Kuijer), to our mock grant funding panels, and
+ the REF Selection panel (Huang, Sgouritsa).
+ Wellbeing.
+ The unit operates policies that provide support for family-friendly working arrangements; these
+ include scheduling of meetings only during school-friendly ‘core’ hours. Our centralised timetabling
+ system allows for specification of lecture times and dates to provide carer and family-friendly
+ timings. The University provides carer-only car parking to support flexible working. The unit has
+ always supported family leave for staff. In 2016, the School of EEECS introduced a family leave
+ policy for PhD students too, guaranteeing provision for family leave for all research-active
+ members of the department. Over the REF period, ten members of the department took family
+ leave following the birth of children; all were integrated back into the unit successfully.
+ New staff are offered advice on housing and schools during induction. The unit organises social
+ events for staff and students, including a monthly coffee morning, a summer barbecue, graduation
+ party, special events for major staff anniversaries and awards, as well as an end of year
+ celebration.
+ Preparation of the REF submission.
+ The unit implemented the institution’s Code of Practice for REF. Outputs of academic staff were
+ peer reviewed by a REF reading group consisting of five academics, which comprised at least one
+ female academic, one ECR, and one BAME member of staff. The members of the panel undertook
+ Advanced HE training in Equality, Diversity, Inclusion, and Unconscious Bias.
+ Oversight of the selection of outputs, impact cases, and the environment statement was
+ undertaken by the unit’s REF Selection panel, which comprised the Department Head, the Deputy
+ Head of Department for Research, an impact facilitator, a member of the School Diversity and
+ Equality Committee, 2 ECRs, and an independent observer from another unit. The REF selection
+ meetings started by viewing and discussing the Royal Society videos on ‘Understanding
+ Unconscious Bias’ and ‘Making better decisions in groups’.
+
+ 2.5 Outlook and Plans.
+ In Section 1.4, we outlined research areas for future investment. For the recruitment aspect of this
+ investment, we aim to hire a significantly larger proportion of female academic staff than in the
+ current REF period. One reason for optimism is the proportion of female PDRAs (25%) and female
+ PhD graduates (35%) in the unit. Some of the measures described at the end of Section 2.1 were
+ only implemented in the second half of this REF period and we are confident that they will be
+ effective in the next REF period.
+
+
+ 3. Income, infrastructure and facilities
+ This REF period saw significant strategic growth of 33% in the number of faculty in the unit. To
+ achieve our overall aims, and as previously laid out in our strategy from REF 2014, we have
+ made a concerted effort to grow our complementary research resources: our external research
+ income has grown by 123%, the number of PDRA person months by 60%, and the number of
+ PhD students by more than 150%. To support this growth, we have invested in infrastructure
+ such as office and lab space, new interdisciplinary centres, and high-performance computing
+ facilities.
+
+ 3.1 Research Funding and Strategy
+ Our funding strategy is guided by RS1 (Core Strengths), RS2 (Interdisciplinarity), and RS3
+ (Targeted Impact) of our overall research strategy. For RS1, we typically target funding for PDRAs
+ via mid-sized multi-site research council grants in our core research areas of Algorithms, Artificial
+ Intelligence, Economics, and Logic. For RS2, we encourage and support participation in large
+
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ interdisciplinary projects, both with other parts of the university (see Figure 1) and with other
+ universities, institutes, and commercial partners. For RS3, we promote joint projects with non-
+ academic partners, such as Knowledge Transfer Partnerships (KTPs), as a mechanism to achieve
+ impact.
+ The School of EEECS has a dedicated research support officer, whose responsibilities include
+ distributing funding calls and supporting grant writing and costing. The school also runs a mock
+ grant funding panel every two to three months at which proposals are reviewed and discussed
+ with applicants. For KTP applications, the UoA has established an internal support network (led
+ by Coenen).
+ We next describe our achievements and plans related to RS1 to RS3.
+ RS1 (Core Strengths):
+ We provide highlights of externally-funded research in our four core research areas.
+ Foundational research in temporal graphs and reachability by Michail, Potapov, Spirakis, and
+ Zamaraev was supported by EPSRC projects Algorithmic Aspects of Temporal Graphs and
+ Reachability problems for words, matrices and maps: Algorithms and Complexity (total £965k).
+ These grants supported Liverpool’s leading role in these areas, including the Reachability
+ Problems conference series organised by Potapov and the series of workshops on temporal
+ graphs at ICALP organised by Spirakis, Zamaraev, and others.
+ In the area of trustworthy and explainable Artificial Intelligence, the unit’s logic-based approach
+ was first led by Dixon and Fisher, supported by the following EPSRC grants: EPSRC Programme
+ Grant Science of Sensor System Software (£5.24M, UoA £1.1M), EPSRC projects Reconfigurable
+ Autonomy, Trustworthy Robotic Systems, and Verifiable Autonomy (total £1.8M). Based on this
+ research, Fisher was awarded a Royal Academy of Engineering Chair in Emerging Technologies
+ (£2.7M). Since his arrival in 2017 as an ECR, Huang has extended this approach to the verification
+ of machine learning algorithms, supported by 4 Dstl projects, an EPSRC project EnnCore: End-
+ to-End Conceptual Guarding of Neural Architectures and a Horizon 2020 EU project FOCETA -
+ Foundations for Continuous Engineering of Trustworthy Autonomy (total £1.8M for the UoA).
+ Liverpool’s leading role in research at the interface of knowledge representation and databases
+ (Hernich, Konev, and Wolter) has been supported by EPSRC projects iTract: Islands of Tractability
+ in Ontology-Based Data Access and quantMD: Ontology-Based Management of Many-
+ Dimensional Quantitative Data (total £930k). Outputs from these projects have influenced
+ research in both knowledge representation (AIJ’16) and databases (TODS’14).
+ Our research in game theory applies to control, verification, and economics. In optimal control and
+ program verification, the research of Fearnley and Schewe has been funded by the EPSRC
+ projects Energy Efficient Control and Solving Parity Games in Theory and Practice (total £1M).
+ Within economics, our research on equilibria and mechanism design (Christodoulou, Fearnley,
+ Krysta, Savani) has been supported by EPSRC projects Efficient Algorithms for Mechanism
+ Design Without Monetary Transfer, Algorithms for Finding Approximate Nash Equilibria, Worst-
+ Case Guarantees in Auction Design, and a European Space Agency project on game-theoretic
+ analysis of space debris removal (total £936k). These projects led to a large number of high-quality
+ outputs (e.g., STOC’15, SODA’16).
+ RS2 (Interdisciplinarity):
+ As discussed in Section 1, our co-leadership with Chemistry of the Leverhulme Research Centre
+ for Functional Materials Design (CFMD, £10M funding) has been one of our main strategic
+ initiatives in interdisciplinary applications of computational methods. This initiative, which only
+ started in 2017, has already proved very successful. For example, Kurlin and an interdisciplinary
+ team have used machine learning to discover two novel co-crystals (Chemistry Science, 2020).
+ Kurlin’s work is also supported by the EPSRC project Application driven Topological Data Analysis
+ (£3.5M, UoA £700k).
+ Our involvement in three EPSRC Hubs for robotics in hazardous environments illustrates our
+ collaborative approach with other universities and commercial partners. Using the interdisciplinary
+ Centre for Autonomous Systems Technology (CAST) as a platform, the UoA was involved in the
+ RAIN Hub (Robotics and Artificial Intelligence for Nuclear), the ORCA Hub (Offshore Energy Asset
+
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ Integrity Management), and the FAIR-SPACE Hub (Future AI and Robotics Hub for Space), with
+ a total volume of £34M (UoA £2.8M). Another large-scale collaboration is the EU Gamma project
+ on Autonomous Mission Management Applications in which the UoA is jointly involved with the
+ Virtual Engineering Centre using our expertise in verification (total £9.1M).
+ In a collaboration with medicine, the UoA was part of the EU WEB-RADR project (EUR 5.9M) to
+ study adverse drug reactions, where the UoA provided the main expertise in the analysis of social
+ media data. Another example where the unit has worked on data analytics for health is the MRC
+ project “Supporting Evidence-based Public Health Interventions using Text Mining”, joint with
+ University of Manchester (Goulermas, UoA £330k).
+ RS3 (Targeted Impact):
+ To promote collaboration with industry and other non-academic partners, the UoA has targeted
+ KTPs. This has led to ten KTP projects with an overall volume of £2.4M over the REF period. A
+ typical example illustrating the technological and economic impact of these collaborations is
+ provided by a KTP with Riverview Law, a Merseyside-based alternative legal services provider.
+ Using research by Atkinson and Bollegala in natural language processing, the KTP produced
+ software that reduced the processing time of legal documents in crucial data migration tasks by
+ 350%. This very significant progress contributed to the successful deployment of Riverview Law’s
+ virtual assistants and, ultimately, the acquisition of Riverview Law by Ernst and Young in 2018.
+ Other examples include further KTPs in the legal domain, with a blockchain software company,
+ and with online retailers. Two KTPs with CSols Ltd, a company that produces software for
+ laboratories, underpin one of the unit’s impact case studies.
+ Besides KTP projects, during the REF period the unit undertook 20 direct industry projects that
+ similarly focused on knowledge exchange. For example, Savani built on his research in
+ reinforcement learning to help Stratagem Technologies (now a part of Blockchain.com) apply this
+ technology for automated trading in sports betting markets; Luo (ECR), an expert in robotics and
+ tactile sensors, helped Magellan Robotech Ltd to develop a prototype of a robotic shop agent;
+ Goulermas used his expertise in machine learning and data analytics to help Kromek Ltd build an
+ isotope identification system; Zamaraev (ECR) helped InsoftGlobal Ltd to explore new knowledge
+ graph representations for the users of their cloud computing services.
+
+ 3.2 Research Infrastructure
+ To accommodate the growth in faculty, we have created 5 new offices within the main unit building.
+ Our strategic research infrastructure investments during this REF period primarily support RS2
+ (Interdisciplinarity) and RS3 (Targeted Impact). These investments, described below, can all be
+ seen within their wider context in Figure 1.
+ AI Research Labs.
+ Very early in the REF period and as part of its investment in the AI cluster and the interdisciplinary
+ Centre for Autonomous Systems Technology (CAST), the UoA decided to invest in two AI research
+ labs, the smARTLab and the Home Robots Lab. Later in the REF period, and in collaboration with
+ Geography, a third lab focusing on geographic data science combined with AI methodologies was
+ added to our portfolio of lab support for AI research.
+
+    •   smARTLab. The smARTLab is a state-of-the-art robotics laboratory that includes two large
+        experimentation facilities, one for drones and one for ground-based robots. The lab hosts
+        £300K of specialist facilities including: a collaborative (UR5) robot arm, two state-of-the-art
+        robot grippers, a wide variety of drones and robots, including KUKA youBots, and a motion
+        capture system. The smARTLab currently hosts 9 PhD students. Achievements include
+        winning the 2014 RoboCup@work and RoCKIn2015competitions. The smARTLab team
+        played a major part in developing the Sprung a Leak installation at Tate Liverpool, a key
+        component of one of our returned impact cases.
+    •   The Home Robots Lab. This lab emulates the internals of a house, in which robots are
+        deployed and developed for domestic/social care. The lab comprises several Pepper,
+        NAO, and Miro robots, all within a Vicon tracked space. The lab plays a key role in the
+        above-mentioned EPSRC-funded projects Trustworthy Robotic Systems and Verifiable
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+        Autonomy. The lab also enabled the robotics outreach activities in the North West that is
+        part of one of our returned impact cases.
+
+
+    •   The Geographic Data Science Lab (GDSL). The GDSL was founded in 2015 to host
+        interdisciplinary work at the intersection between Data Science and Geography, applying
+        machine learning to spatial data to inform decision making. The primary leads of GDSL are
+        Singleton and Arribas-Bel, who are based in Geography, with honorary positions in
+        Computer Science. Atkinson, Kurlin and Savani are involved in the areas of AI and law,
+        topological data analysis, and generative modelling. The GDSL enabled our impact case
+        study “Geographic Data Science”. The case includes public sector impact via the GDSL’s
+        “Transport Classification of Londoners”, which is now fully embedded in planning
+        application processes in London.
+
+ Interdisciplinary Centres and User Collaboration.
+ The UoA is a key user of recent investments of the University of Liverpool in facilities for
+ interdisciplinary research and collaboration with non-academic partners.
+
+    •   The Materials Innovation Factory (MIF) is a £81M investment of the University of
+        Liverpool and Unilever as part of the UK Research Partnership Investment Fund (UKRPIF).
+        Its aim is to accelerate materials discovery through the use of robotics and high-
+        performance computing. Together with the Leverhulme CFMD the infrastructure provided
+        by the MIF is crucial for our strategic collaboration with Chemistry in Computational
+        Materials Design and Intelligent Automation, as discussed earlier. Together the CFMD and
+        MIF support a large number of PDRAs and PhD students that are jointly supervised
+        between Chemistry and the UoA. A notable example of success is PhD student Burger’s
+        work “Automation: Chemistry shoots for the Moon” (Nature Technology Feature).
+    •   Sensor City is a £15M joint venture between Liverpool John Moores University and The
+        University of Liverpool that brings together academics and commercial partners developing
+        sensor technologies. As two example projects, Savani is working with Engineering and
+        Medicine and SME Foot-ZZ to develop AI-driven wearable sensors for monitoring sleep
+        position; Gairing has a project with General Data Protected Ltd to showcase the use of
+        secure sensors.
+
+ These centres were founded in 2018 and 2017 respectively, so they are strategic investments for
+ the future development of the UoA and new research outcomes and impacts are only just
+ emerging. Looking further to the future, the unit has been instrumental in establishing the new
+ 1,530𝑚2 Digital Innovation Facility (DIF), which brings together complementary areas of
+ research in Computer Science, Robotics, and Engineering. The DIF is forecast to boost the city
+ region economy by creating approximately 400 jobs. It will enable a step change in our
+ engagement with users in the areas of AI and Robotics, with CAST, the smARTLab, and the Home
+ Robots Lab moving into the DIF in 2021.
+ Computing infrastructure.
+ All members of the unit have access to high-performance workstations (Intel Xeon), along with 15
+ GPU servers for shared use. At the university level, there are two main HPC clusters. The newest
+ and most powerful is the Barkla HPC system comprising 105 nodes, each with 40 cores and
+ 384GB of memory (two nodes have 1.1TB of memory). All these facilities are heavily used by the
+ unit, in particular for deep learning (by the smARTLab) and in automated reasoning (by the Logic
+ cluster). A notable example is the computational proof of a special case of the Erdős Discrepancy
+ Theorem by Konev and Lisitsa (AIJ’15). Our shared facilities use job-scheduling systems that
+ ensure fairness across all user groups, including ECRs, PDRAs, and PhD students.
+ The Virtual Engineering Centre provides the unit with access to STFC’s Hartree Centre, a £170M
+ government-funded HPC centre. To illustrate, the Economics cluster used this facility in the
+ European Space Agency project on space debris, mentioned earlier. The Hartree Centre is also a
+ key partner on the EPSRC CDT on Distributed Algorithms.
+
+
+                                                                                          Page 14
+Unit-level environment template (REF5b)
+ Going forward, we will also use the recently established GPU-focused Bede Facility of the N8
+ Centre of Excellence in Computationally Intensive Research (N8 CIR).
+
+ 3.3 Plans for funding and infrastructure
+ With our large number of ECRs, a key priority for the next REF period is to effectively support our
+ new faculty to win external research funding. A second priority is to leverage the MIF, Sensor City,
+ and the DIF for new funding applications and projects with non-academic partners. The DIF, in
+ particular, which is due to open in 2021, offers a major opportunity for new interdisciplinary
+ collaboration and interaction with research users in the areas highlighted for strategic growth in
+ Section 1. Our final priority relates to funding for our impact activities. We aim to complement
+ KTPs with applications to other Innovate UK schemes, such as “demonstrator” projects.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+ Our vision of being a world-leading department in our core research areas and applying our
+ research to the benefit of the economy and society can only be realised through national and
+ international collaboration with world-leading computer scientists, other disciplines, and with
+ potential users of our research. Our strategy for collaboration is based on RS1 to RS5.
+
+ 4.1 Research Collaborations within the Discipline
+ Our collaborations within the discipline are guided by RS1 Core Strengths. Our main mechanisms
+ to foster and support new and existing collaborations are:
+        P1: Invite excellent computer scientists to Liverpool to collaborate with us and inspire our
+        young researchers, from PhDs, to PDRAs, and ECRs.
+        P2: Encourage collaboration with other researchers, nationally and internationally through
+        travel funding and support for research projects.
+ In line with P1, the unit runs a weekly seminar with 168 invited speakers over the REF period.
+ Invitees are typically funded to stay for two or more days and often give additional technical talks
+ at research group level and to PDRAs and PhDs. Invitees are determined ‘bottom up’ from the
+ research groups. The unit also provides funding for visiting fellowships (38 over the REF period),
+ where researchers obtain funding to stay for at least a week. Around 50% of the fellows were
+ hosted by faculty that were ECRs at the time of the visit. The fellowships have contributed to strong
+ outputs and project proposals, for example, a Marie Skłodowska Curie Fellowship for Hahn (held
+ at Liverpool) and papers at conferences such as CAV, ICALP, and IJCAI.
+ We are an international department and collaboration is fundamental to our approach. As an
+ illustration, 20 out of our 28 ICALP papers during this REF period have a co-author based outside
+ the UK; for Algorithmica, AAAI, and IJCAI, the numbers are 17/28, 21/27, and 35/41, respectively.
+ In line with P2, the unit supports travel to visit research collaborators and conferences (£210K
+ internal funding over the period), through sabbaticals (8 over the period), and support for joint
+ research projects through PhD studentships and reduced teaching loads.
+ More than three quarters of our externally-funded research projects are joint with researchers from
+ other institutions. For example, in addition to being a member of a number of large-scale EU
+ projects, and a founding member of the EPSRC networks on Algorithms and Autonomous
+ Systems, the unit has joint research council projects with Birkbeck, Durham, Edinburgh, Glasgow,
+ Oxford, Sheffield, Swansea, and Warwick. These multi-site projects, and their associated research
+ visits and seminars, contribute to the unit’s rich and vibrant research environment, not only for
+ faculty, but also for PhD students and PDRAs.
+
+ 4.2 Engagement and Contributions beyond Academia
+ In line with RS3 Targeted Impact, the UoA engages with a diverse set of non-academic partners
+ across many contexts. In this way, the unit is exposed to a wide range of research challenges that
+ are based on real-world problems. We next highlight some of our most noteworthy engagements
+ with non-academic users.
+
+
+                                                                                              Page 15
+Unit-level environment template (REF5b)
+ Engaging with the public.
+ In line with RS3.2, the unit believes that it is important to explain to the public our research and its
+ relevance to society. To this end, the UoA has played a very significant role in the University of
+ Liverpool’s partnership with the Tate Art Galleries. For example, the UoA co-created with artist
+ Cecile Evans the Sprung a Leak installation at Tate Liverpool, which explored the interaction
+ between humans and AI and thus raised awareness and contributed to this important public
+ debate. The installation plays a central part in one of the UoA’s impact cases, and was a key
+ reason behind Liverpool winning the “Partnership of the Year” PraxisUnico RCUK Impact Award,
+ 2017.
+ In addition, during this REF period the unit has regularly interacted with the public via both local
+ (for example, BBC Radio Merseyside and the Liverpool Echo), and national media (for example,
+ Tomorrow’s World Live, BBC; Granada Reports, ITN News; Today Programme, BBC Radio 4; Law
+ in Action, BBC Radio 4; The Times and Sunday Times). Particular topics covered include AI and
+ the legal sector, autonomous systems, the future of AI, and robotics (Atkinson, Collins, Dennis).
+ We also engaged with the public through academic events including the LivWise Festival 2018
+ (Liverpool Women in Science & Engineering) and the Royal Society AI Roundtable 2019.
+ Engaging with the private sector.
+ In line with RS3.1 and as discussed in Section 3.1, the unit interacts with the private sector via
+ KTPs, consultancy, the MIF and Sensor City, externally-funded research projects, and industry-
+ focused Centres for Doctoral Training. Here we expand on the discussion in Section 3.1 about our
+ industry engagement in the area of AI and Law. In addition to the collaboration with Riverview Law,
+ in a KTP project with Fletchers Solicitors, Atkinson, Bollegala, and Coenen developed automated
+ decision support tools for processing medical claims. The tools have affected several parts of
+ Fletchers’ operations, yielding dramatic time savings, improved reliability, and better decisions.
+ Fletchers estimate that these new tools have transformed the working practices of 350 of their
+ legal staff. In a third project, a consultancy with national law firm Weightmans, the unit applied its
+ methodology for factor-based reasoning in legal cases to several of Weightmans’ domains. The
+ outcomes of this project were recognised by the prize for ‘Best use of technology’ at the 2019
+ Modern Law Awards.
+ Ethics in AI and International standards.
+ During this REF period, the unit has played a key role in the development of new international
+ standards for robotics, ethics, and autonomous systems. Underpinned by their research in the
+ verification and ethics of autonomous systems, Dennis, Dixon and Fisher have contributed to the
+ IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems; Dennis is serving on the
+ IEEE P7001 committee, “Transparency of Autonomous Systems”, Fisher is serving on IEEE
+ P7009, “Standard for Fail-Safe Design of Autonomous Systems”, and Dixon and Fisher have
+ served on the British Standard Institute AMT/10 committee on Robotics. Fisher contributed to the
+ 2018 International Red Cross report “Autonomy, artificial intelligence and robotics: Technical
+ aspects of human control”. More recently, supported by two Dstl-funded projects, Huang and
+ Schewe have continued this engagement by studying coverage metrics for artificial intelligence.
+ This work features in the SCSC-153 document of the Safety of Autonomous Systems Working
+ Group.
+ Democracy.
+ Good voting methods are needed for democracy to work well. The unit (Laraki) has pioneered a
+ new voting method know as majority judgement (MJ). Its key feature is that it allows grading of
+ options rather than picking winners. This allows fairer and in particular more representative
+ outcomes. During this REF period, Laraki has conducted large-scale field experiments to test MJ.
+ The experiments included the presidential election in France. By now, MJ is used in many
+ contexts. For example, the British Academy uses MJ to elect its members, and, in 2020, several
+ municipal elections in France ranked candidates using MJ.
+ Health and Wellbeing.
+ The unit has a long tradition of collaborating with the health and social care sectors. To illustrate,
+ Jimmieson has been co-developing the In My Shoes tool with Child and Family Training from 1991
+ until the present. In My Shoes is a unique software tool used in social care and related contexts
+ for interviewing children and vulnerable adults. It was returned as an impact case in REF 2014.
+
+                                                                                                 Page 16
+Unit-level environment template (REF5b)
+ Since then, three new apps have been developed and a further 260 practitioners have been
+ trained in using the tool in their day-to-day work. As another example, Payne has been
+ collaborating with Rowe, Professor in Orthoptics in Liverpool. They have produced a visual
+ impairment screening assessment tool (VISA) for acute stroke survivors, which is a crucial part of
+ a REF 2021 impact case in UoA4 Neuroscience. Our recently established PhD network in AI for
+ Future Digital Health has initiated collaborations with partners ranging from Alder Hey Children’s
+ Hospital to Public Health England.
+
+ 4.3 Leadership, Interdisciplinarity, and Responsiveness
+ We aspire to use our research expertise to advance computing and its role in interdisciplinary
+ research. To that end, we lead international research organisations: Atkinson served as President
+ of the International Association for Artificial Intelligence and Law, Spirakis as President of the
+ European Association for Theoretical Computer Science (EATCS), and Wolter as President of
+ Knowledge Representation (KR) Inc. We also serve on important national committees and panels:
+ the Lord Chief Justice’s advisory group on AI (Atkinson), the LawtechUK Panel established by the
+ Secretary of State for Justice (Atkinson), the London Mathematical Society Computer Science
+ Committee (Wong, Committee Chair), the EPSRC Strategic Advisory Team (Fisher and Wong),
+ and the REF 2021 panel (Atkinson).
+ Interdisciplinarity is at the core of our strategy (RS2 Interdisciplinarity). At unit level, we have, for
+ example, the core interdisciplinary Economics and Computation cluster that comprises 10 faculty.
+ At university level, we co-lead major interdisciplinary initiatives with Chemistry, Electrical
+ Engineering, and Geography, as discussed in detail in earlier sections. Beyond the university, we
+ have, for example, contributed to three EPSRC robotics hubs, worked with mathematicians at
+ Oxford and Swansea on the large EPSRC project “Application Driven Topological Data Analysis”,
+ and collaborated with the European Space Agency.
+
+ 4.4 Indicators of Wider Influence on the Discipline
+ Editorships. Spirakis is an editor in chief of Theoretical Computer Science (TCS) and Wiebe Van
+ der Hoek of Synthese. Overall, members of the department have served on editorial boards of 37
+ journals, including Algorithmica (Spirakis), Artificial Intelligence (Dunne, Van der Hoek), IEEE
+ Transactions on Neural Networks and Learning Systems (Goulermas), International Journal of
+ Game Theory (Laraki, Savani), Journal of Web Semantics (Payne, Tamma), Theoretical Computer
+ Science (Gasieniec, Krysta), Transactions of the Association for Computational Linguistics
+ (Bollegala).
+ Grant Panels. Spirakis served as chair of the ERC Advanced Grants Panel for CS in 2017, Payne
+ as chair of consensus meetings for the European Horizon 2020 programme, and Atkinson as chair
+ of a Research Council Panel in Finland. Panel memberships include: EPSRC panels (Goulermas,
+ Wong, Fisher), Royal Society Newton Panel (Gasieniec), Foundations for Polish Science Panel
+ (Gasieniec), Flemish Research Council (Van der Hoek), DFG panels (Wolter).
+ Chairing of Conferences and Programme Committees. Members of the department have been
+ conference or programme chairs of 46 international conferences, including CONCUR (Schewe),
+ FCT (Gasieniec), ICAIL (Atkinson), KR (Wolter), MFCS (Potapov and Spirakis), PODC and SSS
+ (Spirakis), Reachability Problems (Potapov), SAGT (Gairing and Savani), Semantic Web
+ Conference (Tamma), WINE (Christodoulou). Members of the department served on over 350
+ conference or workshop programme committees.
+ Organisation of Conferences in Liverpool. In the REF period, the UoA has organised the following
+ conferences: DLT 2015, SAGT 2016, MFCS 2018.
+ Awards. Fellow of the EATCS (Spirakis, 2014), GI Dissertation Award for Best CS Dissertation in
+ Germany, Austria, and Switzerland (Wild, 2016), Best use of technology prize at Modern Law
+ Awards (Atkinson 2019), Best paper awards include: FEM 2018 (Dixon, Hustadt, Fisher); ICALP
+ 2018 (Kowalski); IJCAI 2018 (Wolter); IWOCA 2018 (Zamaraev); PODS 2017 (Hernich and
+ Wolter); SAGT 2016 (Ibsen-Jensen); SEFM 2016 (Schewe); Transactions of the Japanese Society
+ for AI 2014/15 (Bollegala).
+
+
+
+                                                                                                  Page 17
+Unit-level environment template (REF5b)
+ 4.5 Future plans and strategy
+ Building on our international standing in Algorithms, Logic, Economics, and selected areas of
+ strength in AI, we plan to be pro-active in setting the national research agenda in these areas, in
+ particular in Automated Markets, verifiable AI, and AI and Law (as discussed Section 1). We will
+ support our ECRs (only 3/14 got a UK PhD) to become active members of the UK research
+ community by engaging with UK professional bodies and research councils, non-academic
+ partners, and our interdisciplinary initiatives.
+
+
+
+
+                                                                                            Page 18
+

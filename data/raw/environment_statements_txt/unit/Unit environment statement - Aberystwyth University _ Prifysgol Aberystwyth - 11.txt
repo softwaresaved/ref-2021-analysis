@@ -1,0 +1,825 @@
+Unit-level environment template (REF5b)
+ Institution: Aberystwyth University
+
+ Unit of Assessment: 11: Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Unit structure and research aims
+ The Department of Computer Science at Aberystwyth University (AU) is a long established and
+ significant department in the UK, founded in 1970 and celebrating its 50th anniversary in 2020.
+ The Department’s expertise is focused on research in applied Artificial Intelligence (AI), as well
+ as contributing to more foundational and theoretical aspects of AI that facilitate successful
+ applications of AI in the real-world. This focus is reflected in our research, impact and people
+ strategies, and also in the structure of the Department’s four research groups - Advanced
+ Reasoning (AR); Bioinformatics and Computational Biology (BCB); Intelligent Robotics
+ (IR); and Vision, Graphics and Visualisation (VGV).
+
+ Whilst we have four research groups in terms of subject areas, owing to the common interests of
+ our staff in applied AI, most of our research-active members are not affiliated to just one group.
+ Instead, the groups are organised in terms of research topics:
+
+           AR covers all major areas of Computational Intelligence (CI) and is one of the world-
+            leading groups in CI, particularly renowned for its invention of semantics-preserving
+            approximate techniques for explicit knowledge model formulation and simplification and
+            for its ground-breaking work on data-driven decision support with increased level of
+            automation, efficiency and reliability.
+
+           BCB conducts research in data analysis of large-scale biological data, formalisation of
+            biological data, biomedical informatics, genomics, metagenomics, and pharma-
+            genomics, closely working with world-leading specialists in the BBSRC Institute of
+            Biological, Environmental and Rural Sciences (IBERS).
+
+           IR is one of the best-known UK robotics groups, carrying out research covering
+            unconstrained environments, tackling both software and hardware. It covers robotics
+            research ranging from aerospace and airspace, through land and water surface, to
+            underwater, with a particular strength in space robotics, currently participating in the ESA
+            ExoMars mission.
+
+           VGV undertakes research concentrating on a range of fundamental techniques for
+            analysis of high dimensional data, feature extraction, matching and classification, driven
+            by application areas such as medical image analysis, machine vision for robotics, video
+            and 3D shape analysis and matching. This is the newest group in the Department,
+            strategically planned for in RAE 2008, developed during the REF 2014 period, and fully
+            matured within this assessment period, conducting a significant amount of world-leading
+            and internationally excellent research as evidenced by the returned outputs and an
+            associated impact case study.
+
+ The high-level strategic aim of the Department has been and still is to deliver world-leading and
+ internationally excellent research in applied AI, supported by the vitality and sustainability of its
+ research environment. In order to achieve this aim, over this assessment period, the
+ Department’s research strategy has three key objectives:
+
+   i.       To focus resources on research of high scientific quality (substantially strengthening our
+            75% 4*/3* research output profile awarded at REF 2014) and significant impact (built on
+            our 100% 4*/3* research impact profile last round), delivering methodological solutions to
+            current globally challenging issues relevant to intelligent and decision support systems,
+            while growing our research capacity;
+
+                                                                                                  Page 1
+Unit-level environment template (REF5b)
+   ii.       To provide the right environment (with high-quality administrative, infrastructural and
+             capital support) to stimulate and drive progress in our research, investing in
+             collaborations in the UK and across the world, expanding the funding streams and types
+             for research, and promoting open access to research outcomes;
+
+  iii.       To develop the experts of tomorrow and attract researchers from across the globe,
+             enhancing the development of staff career and research student potential with clear
+             performance standards, while championing for equality, diversity and inclusiveness of our
+             staff and students.
+
+ The research strategy of the Department is complemented by its impact strategy, which is
+ focused on promoting and facilitating applications of AI developed through its research and
+ which has always been driving our work over the Department’s 50 years history. The
+ Department’s research and impact strategies are aligned with the University’s Research and
+ Innovation Strategy as outlined in REF5a, and build on its key principles of encouraging
+ ambitious, entrepreneurial research that challenges existing approaches and knowledge;
+ creating a coherent research-led academic environment; and collaborating with external
+ partners, in the UK and globally, both in generating research and in passing on the benefits of
+ research through impact and innovation.
+
+ Implementation and achievement of strategic aims
+ In the assessment period, the implementation of the research strategy has enabled researchers
+ in the Department to:
+
+            undertake cutting edge research across its core strengths in all four groups, and to
+             develop new areas of investigation such as AI applications in healthcare;
+
+            work collaboratively with academic and commercial partners and other end-users of AI
+             systems in the UK and internationally;
+
+            recruit six world-class research fellows (amongst other leading researchers);
+
+            secure over £5.3M in external grant income to support our research;
+
+            attract £2M+ capital investment in state-of-the-art equipment and workshop/laboratory
+             facilities;
+
+            graduate PhD students (double the number for REF 2014) with outstanding academic
+             training and career development;
+
+            become the most gender-balanced department among the leading computer science
+             departments in the UK.
+
+ Over this period, our research-active staff have published over 290 peer-reviewed articles in
+ international scientific journals, plus approximately 200 peer-reviewed conference papers. On
+ average, each staff member has produced 9.5 journal articles. According to SciVal 62.9% of our
+ research output includes international collaboration, attracting on average 7.1 citations per such
+ output. Publications are of high quality: 25% are published in the best 10% percent of journals,
+ measured by CiteScore; this is compared to 19.3% on average for the UK.
+
+ The 70 outputs returned this round are examples demonstrating that our staff at all stages of
+ their career have produced excellent research results. Amongst these outputs, fifty-one
+ appeared in top journals of an impact factor (IF) greater than 5, including 25 that each have an
+ IF larger than 9; thirty-one have an average number of Google Scholar (GS) citations per year
+ (since publication) larger than 10. Particularly, nine of the outputs returned have each attracted
+ more than 100 citations despite their relative recency. Two papers were selected by IEEE as the
+
+                                                                                                    Page 2
+Unit-level environment template (REF5b)
+ annual Publication Spotlight articles in its flagship journal IEEE Transactions on Fuzzy Systems,
+ with the work specially introduced in IEEE Computational Intelligence Magazine (in 2018 and
+ 2021 respectively). Six papers are the journal version of work that has led to winning best paper
+ awards or competition at esteemed international conferences, while the original conference
+ papers are not returned. Another eight papers have led to special issues at prestigious journals
+ or special sessions or tutorials at foremost international conferences.
+
+ The three Impact Case Studies returned this round are examples of how our commitment to
+ impact leads to significant practical achievements in a diverse range of real-world applications,
+ including intelligent robotics, health informatics, and decision support for e-commerce. In
+ particular, the research within IR, focussed on unconstrained environments has contributed to
+ various types of impact, including direct contributions to the ExoMars rover mission. We have
+ used our expertise in a wide area of robotics applications to enhance STEM engagement on
+ different levels, from schools and colleges to engagement with the general public. The health
+ informatics case centres around improving patient outcomes and developing commercial
+ benefits via medical image analysis, linking the VGV research to a range of impact aspects,
+ especially around commercial orthopaedics' segmentation software (which was developed by
+ Synopsys), international deep endometriosis standard (adopted by the International Society of
+ Ultrasound in Obstetrics and Gynaecology), MS/stroke segmentation (leading to spin-out
+ company Tensormedical) and stroke rehabilitation and retinal disease treatment. The positive
+ impact outcome ranges from individual patients to groups of hospitals up to international
+ standard. In the area of e-commerce, our work carried out in AR on data mining, in particular
+ fuzzy rough theoretics and associated algorithms, has been exploited to discover e-commerce
+ site usability issues. This application of our techniques has benefitted companies due to
+ increased automation, reduced losses and improved competitiveness, leading to annual savings
+ of more than $86M.
+
+ In the assessment period, research capacity in the Department has been reinforced by
+ investment in people, equipment and infrastructure. We have increased our research-active staff
+ number by 12% since REF 2014 (from 24.80 to 27.82 FTEs, note that despite REF 2014 being
+ selective returns, we returned 99+% of our staff then). We have received £2M+ capital funding
+ from HEFCW and other sources for equipment purchase and lab/workshop revamping.
+ Particularly, a host of individual equipment of significant value each has been acquired (see
+ Section 3 for examples), and we have a 170 square-meter mobile robot workshop built and in full
+ use. This is in addition to existing workshops such as MarsYard, where our space robotics
+ research is based, including a half-real-sized Mars rover for the ESA ExoMars mission; an
+ intelligent humanoid robotics lab, where an iCub humanoid robot and a most recently acquired
+ Yumi robot and many hosts of small mobile robots are based; and state-of-the-art engineering
+ and electronics workshops.
+
+ Research integrity (governed by the University’s Research Integrity Concordat) and research
+ ethics (defined with the University’s Research Ethics Framework) are an integral part of all
+ research projects. All research applications are subject to an ethics assessment, where the
+ process is supported by a University online ethical review system that facilitates an efficient,
+ lightweight process that does not create unnecessary barriers to research while ensuring that all
+ research projects adhere to the highest ethical standards.
+
+ A notable development for the Department during the assessment period has been the
+ strengthening of connections with cognate subject areas, facilitated by two rounds of University-
+ level restructuring (in 2014 and 2018), leading to the establishment of the Faculty of Business
+ and Physical Sciences. This process involved the coordination and integration of research
+ policies, sharing best practice and strengthening research support and activities that facilitate
+ cross-departmental collaboration (including research ‘speed dating’ events and sandpits). An
+ outstanding example of joint efforts in conducting interdisciplinary collaborative work is for the
+ development of research on space robotics, with our staff providing expertise on robotics and
+ staff from the Department of Physics offering their in-depth knowledge on planetary science.
+ With a dedicated laboratory (MarsYard) that was originally established within the Department,
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ we share its use with Physics in support of both Departments’ research projects, at the moment
+ most prominently on the ExoMars mission. The laboratory also houses a number of related
+ resources, including a mini-rover, 3D tracking system and simulated Martian terrain.
+ Researchers in the Department are also active participants in Interdisciplinary Research Centres
+ formed by the University with significant internal research funding support, including the
+ Aberystwyth Centres of Excellence for: Space and Earth Monitoring, Rural Health Research (co-
+ directed by Zwiggelaar), and Environmental Microbiology, through which they work with
+ colleagues in Biological Sciences, Geography and Earth Sciences, Physics, Psychology, and
+ Sports and Exercise Science.
+
+ The drive to implement our research strategic aims informs all dimensions of departmental
+ management, including staff and research student recruitment, and is embedded in the everyday
+ work of our members of staff through the four research groups. Each group is organised by a
+ coordinator, who in turn are supported by the departmental research coordinator. The
+ departmental research coordinator ensures that all research-active members of staff understand
+ the Department’s strategic direction of travel. By organising meetings with short lightning talks
+ they provide new and current members the opportunity to get to know the Department’s
+ research and recognise opportunities for collaboration. Other activities include department-wide
+ research meetings/seminars (with the latter periodically presenting talks by invited world-leading
+ academics and industrialists). Particularly, meetings to coordinate research bid preparations
+ involving multiple research groups help the Department to make optimal use of its different
+ research strengths and to exploit synergy effects. These are further complemented by Faculty
+ research meetings that facilitate cross-departmental coordination and collaboration, and one-to-
+ one meetings for research-active staff with the Faculty Associate Dean for Research, Knowledge
+ Exchange and Innovation (Zwiggelaar).
+
+ To promote research and cherish research impact, the Department provides incentives for
+ research-active staff, which include the following: staff members can buy themselves out from
+ non-research activities; staff are allocated a part of the overheads on externally funded projects;
+ and staff have regular opportunities for sabbatical research leave (one semester in every eight).
+ Particularly, staff can use their accumulated overheads allocation as they see fit (for research
+ purposes) and this tends to be used for open access publications, PhD funding, and travel for
+ collaboration and conferences, to supplement such support offered by the University/Faculty and
+ the Departmental central fund.
+
+ The Department has engaged with the open science agenda and is committed to open access
+ publishing and open data, through ‘gold’ or ‘green’ route. Article processing charges are
+ generally covered from research grants, or through University accounts for UKRI-funded
+ research and as part of JISC agreements with publishers, with targeted additional funds
+ provided by the Department. Over the period, the Department has covered open-access
+ publication charge to the value of approximately £45K. Where funds are not available, green
+ open access publishing is facilitated by the AU Research Portal, with staff required to deposit
+ pre-production manuscripts on acceptance. Staff have made substantial contributions to
+ scientific and engineering applications of AI techniques through providing open-access free
+ software packages. For instance, Jensen and MacParthalain have contributed a host of
+ programmes implementing the data-driven model learning and feature selection algorithms
+ (developed by AR, including user manuals) to Weka, the world’s largest open-access repository
+ for machine learning and data-mining software. Also, through international collaboration, Shen
+ has contributed to the international digital image processing community with the first, real-world,
+ large-scale underwater dataset, covering a diverse range of underwater scenes involving
+ different objects and object motions. Such contributions have helped standardise the
+ development and implementation of follow-on research in the relevant areas, providing reference
+ benchmarks.
+
+ Future strategic aims and goals
+ For the next REF assessment period we aim at further reinforcing our research in applied AI,
+ with an emphasis on improving our research environment. We will strengthen the leadership in
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ Intelligent Robotics and Health Informatics, while increasing investment in areas where we plan
+ to expand in response to social and economic demands. We are currently recruiting a
+ Reader/Chair in Bioinformatics and a Lecturer in Cyber Security, and we will be appointing a
+ Chair in Intelligent Robotics shortly. We plan to use the momentum generated by the UKRI
+ Centre for Doctoral Training in AI, Machine Learning and Advanced Computing (AIMLAC) to
+ increase PhD student numbers. Its inherent interdisciplinarity and close cooperation with
+ industry partners will help us continuing work with external partners and forging new
+ partnerships. We are also engaging with the newly founded £40.5M Aberystwyth Innovation and
+ Enterprise Campus to forge new collaborations nationally and internationally. These activities
+ will aid in our endeavour for gaining research funding from a wide range of sources, including
+ but not restricted to UKRI, Leverhulme, Royal Society, Horizon Europe, COST, and industry.
+ One particular area we plan to focus on is AI in space data science and engineering, based on
+ our existing strength in space robotics and the world-leading research experience on planetary
+ science from our sister Department of Physics. This will be reinforced with strong support from
+ international academic collaborators and industry, as evident by the recent award of one of the
+ only five Strategic Partner Acceleration Awards granted by the Welsh government, for us to lead
+ the establishment of an international joint centre for AI in space data science and engineering.
+
+ To further strengthen our future research, the Department has placed the following KPIs in place
+ for staff on Research and Teaching contracts. On average, each full-time member of staff will
+ aim to: produce 1.5 journal/conference papers per year, at 3*/4* level; graduate 1.5 PhD
+ students every four years; and hold a grant of £200K+ over a 3-year period. This KPI setting is
+ realistic based on our historical profiles in each of the three aspects, with a provision for
+ gradually increasing our research student numbers and income.
+
+ As a department focussing on applied AI, we will continue to deliver research with significant
+ social and economic impact, especially targeting pressing global challenges. For instance, AR
+ has been working with international collaborators (e.g., Beijing University of Chemical
+ Technology and Fujian Business University, as well as their local companies and authorities),
+ exploiting the ideas of real-time road-user feature extraction, selection, classification and
+ tracking over dynamic temporal windows in a noisy environment. This has led to the
+ development of intelligent transportation management and traffic surveillance systems, which
+ based on initial deployment feedback, have helped to significantly improve public safety and
+ security. VGV has started collaborative research with clinical staff on cleft lip and palate. The
+ collaboration involves (clinical) researchers from Birmingham Women's and Children's NHS
+ Foundation Trust, Hospital Dental Service in NHS Tayside, and the Dental School at the
+ University of Dundee. We are exploring 3D computer vision and machine learning techniques for
+ the analysis and classification of children's cleft lip and palate data which is expected to inform
+ surgical staging. IR’s research on autonomous driving off-road and on ill-defined tracks has led
+ to work on projects funded by the Defence Science and Technology Laboratory and QInetiQ,
+ using one of our autonomous track solutions as part of QinetiQ's solution to the Autonomous
+ Last Mile Resupply. This has since gained considerable interest in the precision agriculture and
+ farming community, where general off-road (in field) and on track autonomous navigation is seen
+ as solving problems of the farming community facing staff, time and funds constraints, by
+ automating tasks such as weed control, seeding, monitoring of animals, etc. A further direction
+ is based on our involvement as part of one of the largest EU research consortiums to develop a
+ mechanistic and actionable definition of how the brain generates action, using a set of
+ elementary interactions, and to translate this knowledge into novel technological solutions to
+ control robotic mobility. We are extending our work on health informatics (BCB and VGV) to the
+ analysis of movement of stroke patients via data from wearable and mobile devices, to monitor
+ and assess their recovery. This research also offers great potential to join forces with our
+ existing success in MRI brain segmentation to make a systematic contribution to improving
+ public healthcare.
+
+
+
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+ 2. People
+
+ Staffing strategy and staff development
+ The recruitment of research-active staff and policies and practices for staff development are
+ informed by the Department’s research strategy, with the aims of strengthening the vitality of the
+ research environment, by appointing and enabling world-class researchers, and of ensuring the
+ sustainability of the research environment, by training and equipping the research leaders of the
+ future. Recruitment takes into account the strengths of our research groups, as well as areas for
+ strategic development, including emerging research themes. We recruit on all levels, developing
+ promising early career researchers (ECRs) and employing more established senior researchers
+ to provide leadership for our groups.
+
+ The Department currently has 29 (Cat-A) research-active staff, including:
+
+ •      4 Professors,
+ •      2 Readers,
+ •      4 Senior Lecturers,
+ •      12 Lecturers and
+ •      7 independent Research Fellows.
+
+ During the assessment period, the Department appointed 1 Professor (Han), 1 Reader
+ (Tsakiris), 5 Lecturers (Anjos, Hunter, Khan, Miles, Zarges), 6 Sêr Cymru II COFUND Research
+ Fellows (Akanyeti, Chao, Daykin, Lan, Li, Qu), and 1 Marie Skłodowska-Curie Fellow (Dagdia).
+ The highly competitive Sêr Cymru II COFUND programme was introduced by the Welsh
+ Government to attract world class talent to Wales, and the Department was the one that across
+ all discipline departments in all Welsh universities, has been able to attract the largest number of
+ such outstanding fellows. The Department has in general a very good staff retention record; over
+ the period only five academic staff on a permanent contract left the Department, mostly for
+ promoted appointments elsewhere: Gkoutos and Liu (appointed to Chair at Birmingham and
+ Edgehill University respectively); Tuci (appointed Associate Professor at University of Namur,
+ Belgium); He (appointed Associate Professor at Nottingham Trent University); Neal (moved to
+ public service sector). In addition, Lee retired in 2018 after 47 years of distinguished service;
+ Barnes passed away; and Dagdia was appointed Associate Professor at Versailles Saint-
+ Quentin-en-Yvelines University, France after completion of her fellowship.
+
+ All research-active staff in the Department benefit from the support for professional
+ development, reflecting University policies described in REF5a. There is a yearly review meeting
+ with each member of staff where strategy and goals for the next year are discussed, with their
+ performance evaluated and contributions appreciated. Each member of staff has an opportunity
+ of one semester research leave every four years, requiring a detailed research plan including
+ expected outcomes prior to taking up the sabbatical and a formal report right after the leave, with
+ both being scrutinised by the research committee where the Department’s HoD, Research
+ Coordinator and two of our Professors sit.
+
+ For the next REF period, the Department will continue to strengthen our cohort of research-
+ active staff to further build capacity in new and existing areas. Recruitment is currently underway
+ for a Lecturer in Cyber Security, a Reader/Chair in Bioinformatics and a Chair in Intelligent
+ Robotics will be appointed shortly, to provide leadership in BCB and IR respectively. Also
+ planned is to appoint a Reader in the area of Space Data Science and Engineering, where we
+ intend to develop an interdisciplinary sub-unit based on existing world-leading strength in space
+ robotics in our Department and the expertise in planetary science within the Department of
+ Physics.
+
+ Equality, diversity and inclusiveness
+ Principles of equality, diversity and inclusiveness (EDI) are at the heart of our approach to staff
+ recruitment and development. We are proud of our diverse research community, in which 41% of
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ research-active staff are women and 28% are of non-white ethnic background, with individuals
+ originating from 9 different countries. A recent analysis by CrowdStrike (which examined gender
+ balance across the leading UK and USA universities) ranked the Department as having the
+ highest representation of women among teaching and research staff in all considered computer
+ science departments in both the UK and the USA. The inclusive research environment is the
+ product of the Department’s strategic and proactive approach to EDI issues over a sustained
+ period. The Department is fully aligned with AU's Strategic Equality Plan and AU-wide EDI
+ initiatives as outlined in the institution-level document REF5a. It has a dedicated and very active
+ Equality Champion, and all our female Cat-A staff have won research grants during this REF
+ period.
+
+ EDI is indeed addressed in all aspects of academic life in the Department. For instance, given
+ the large number of quality outputs produced by our staff, in the process of selecting and ranking
+ research outputs for this REF return, the selection panel included three observers covering
+ different aspects of inclusiveness and diversity, namely gender, ethnicity and Welsh language
+ (with one observer for each aspect). The Department was the first at AU to receive the Athena
+ Swan Bronze Award, and our staff have contributed to work on the University’s Athena Swan
+ application and provided advice on the process to a good number of computer science
+ departments nationwide. Members of the Department participate as both mentors and mentees
+ in the University’s female academic mentoring programme, have engaged in initiatives for, and
+ organised, International Women’s Day and Black History Month, and are active in the
+ University’s Women in Research network. Through these activities they have provided
+ leadership on equality issues in the University and contributed to representing EDI concerns in
+ University policy and strategic planning. Unconscious bias training is mandatory for all staff.
+
+ We are the unique representation of all Welsh computer science departments participating in the
+ EPSRC’s Inclusion Matters programme with a project on ‘Challenging Different Forms of Bias in
+ Physical Science and Engineering Research’, that involves reverse mentoring as one important
+ element. Through initiatives such as this, members of the Department are prominent in
+ championing EDI issues within the discipline more broadly. For example, Dee was an originator
+ for the annual BCSWomen Lovelace Colloquium that the Department involves in organising
+ annually; it is regularly attended by more than 120 female undergraduate and taught
+ postgraduate students from all over the UK. She has been recognised by Computer Weekly as
+ one of the most influential women in UK IT. In 2016, Dee received the BCS John Ivinson award
+ for voluntary service. In 2018, she was entered into the Computer Weekly hall of fame for those
+ who have made a lasting contribution to women in technology and received a Suffrage Science
+ award, one of the six awards given every two years for women in computer science.
+
+ The Department has an excellent track record in retaining and developing ECRs; five of the eight
+ ECR staff members returned last round are also returned this round (whilst the other three are
+ now serving as Head of Data Science at Wandera or as an Associate Professor elsewhere).
+ ECRs are assigned an experienced mentor who helps them develop their own research plan
+ embedded in the context of the research group(s). For example, since joining the Department as
+ a lecturer, Akanyeti has worked very closely with Shen, and in his second year after joining us,
+ he was awarded a prestigious two-year Sêr Cymru II COFUND fellowship. During his fellowship,
+ Akanyeti has won research grants of a value totalling £115K and recruited seven PhD students.
+ Another distinguished achievement that our ECRs have made is demonstrated by the success of
+ Miles receiving a £1.16M EU grant for her work on advanced media production, mentored by
+ Tiddeman. ECRs also have access to the University’s Research Fund (of a typical size of £5-
+ 10K per grant) as a valuable source of pilot funding to enable them to develop ideas and prepare
+ external grant applications. Akanyeti’s success directly benefitted from this scheme. ECRs are
+ further supported with earmarked PhD studentships jointly funded by the Department and the
+ Faculty. In addition, two members of staff (Aubrey, Shaw) successfully applied for participation in
+ the Welsh Crucible, a competitive HEFCW-funded scheme for early and mid-career staff to
+ develop future research leaders.
+
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ The quality of researcher support and professional development in the Department has helped
+ established staff members to take on positions of research leadership within the University,
+ including as Pro Vice-Chancellor for the Faculty of Business and Physical Sciences (Shen),
+ Head of the University Graduate School (Zwiggelaar) and Faculty Associate Dean for Research,
+ Knowledge Exchange and Innovation (Zwiggelaar), as well as to be successful in the highly
+ competitive academic promotions (e.g., Tiddeman to Reader, Clare and Dee to Senior
+ Lecturers) and in external appointments (e.g., Gkoutos, Reader, and Liu, Senior Lecturer, to
+ Chair in other British universities). Senior researchers in the Department have been externally
+ recognised for the quality of their research and their contributions to computer science and
+ engineering, including the election of Price (2015) and Zwiggelaar (2020) as Fellows of the
+ Learned Society of Wales, joining Lee (elected in 2014) and Shen (2012, who is an elected
+ Council member of the Society).
+
+ Research students
+ The Department is committed to developing and supporting the next generation of researchers
+ and to growing a vibrant and sustainable graduate school. We had 46 PhD students (including 3
+ jointly supervised with a sister department owing to the interdisciplinary nature of their work;
+ totalling 44.5 doctoral awards) graduate over this assessment period, double the absolute
+ number and a 38% increase in the annualised rate of awards compared to REF 2014, with
+ another 35 currently on-going students; this indicates a significant increase in PhD numbers over
+ the late part of the assessment period and reinforces the uptrends. Further expansion of the
+ PhD cohort is a continuing priority for the next REF period, supported by our participation in the
+ UKRI CDT in AI, Machine Learning and Advanced Computing (awarded in 2019). The University
+ and Faculty provide both full and partial scholarships annually to applicants for them to study
+ with us. This is strengthened with departmental scholarships that are offset against the fees for
+ excellent international students; over the assessment period, we have awarded well over 20
+ such scholarships. There are also sandpits for ECRs to obtain seed funding from the University
+ Research Fund to help them kickstart the supervision over PhD projects, typically involving an
+ interdisciplinary topic. Another innovation during this period has been the introduction of the
+ University’s Professional Doctorate (DProf) scheme that allows qualified professionals to study
+ for a doctorate while staying in employment. Despite this being a recent scheme, the
+ Department has recruited five DProf students. In addition to training the students, this scheme
+ provides supervisors in the Department great opportunities to establish and deepen our ties with
+ industrial partners. One example is a research DProf project looking at how digital automation
+ within a hospital setting may affect satisfaction levels of patients.
+
+ The Department has a rigorous PhD selection and admission process in place. For individual
+ applicants, this involves detailed discussion between the departmental PhD selector and the
+ appropriately identified supervisors, which is supported by interviews. For competitively funded
+ studentships (e.g., for the UKRI AIMLAC CDT), there is an initial shortlisting process followed by
+ formal interviews and selection by a panel consisting of experienced supervisors.
+
+ Every PhD student is assigned at least two supervisors in the Department (or for interdisciplinary
+ projects, at least two supervisors across the two departments). All supervisors are required to
+ undertake frequent training/re-training, including UKVI matters. One important aspect taken into
+ consideration when selecting supervisors is inclusiveness and diversity (in particular, with
+ respect to gender and ethnicity). A recent initiative taken by the Department has enabled the
+ University to introduce a ring-fenced PhD studentship competition for early career supervisors,
+ administered at the Faculty level.
+
+ All PGR students receive centrally provided research training, with modules supporting their
+ research and skills development, preparing them for their career. Modules on offer range from
+ public engagement to grant development workshops, and from leadership to developing their
+ first peer-reviewed publication. In addition, responsible research, EDI, ethics and data
+ management plans form the core of a compulsory induction module. An added benefit of the
+ research training provision is the peer-based teamwork and networking with students from
+ different disciplines (e.g., Arts, Humanities and Social Sciences) and universities (e.g., modules
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ shared with the UKRI CDT). Students are encouraged to participate in scientific conferences and
+ disseminate their results, with support from a conference fund maintained by the Faculty while
+ the Department covers the cost for PGR students to attend specialist training courses.
+
+ Progress is monitored via an annual report submitted to a review committee and also via
+ interview by an independent panel of experienced supervisors. All PGR students are expected to
+ attend the departmental research seminar programme as well as seminars within their research
+ group. The Department also organises a one-day workshop (as part of the monitoring process)
+ each year for all research students to present their work to fellow students and staff, with a prize
+ for outstanding presentations in years 2 and 3. We also have an annual prize competition for the
+ best first-year report. At University level, PhD students have the opportunity to attend and
+ participate in an annual PGR conference, which also incorporates the local competition for the
+ national Vitae 3MT event.
+
+ Thanks to the motivational encouragement and supervision arrangement offered by our
+ dedicated staff, and supported with world-class research facilities, over the assessment period,
+ we have a 100% success rate for students to complete their degree within their approved
+ registration period. All 46 PhD graduates within this assessment period have been successful in
+ gaining their post-degree employment upon graduation and a number of them have been able to
+ produce an outstanding quantity of top-quality publications from their studies. For example, Diao
+ (graduated in 2014) first-authored three and second-authored another three articles in leading
+ computer science journals, including two in IEEE-TCYB (IF= 11.079, attracting 168 and 88 GS
+ cites respectively) and two in IEEE-TFS (IF= 9.518, with 66 and 58 cites respectively), with
+ another conference paper receiving the best paper award at FUZZ-IEEE 2012 (top international
+ conference on fuzzy systems), selected from the 305 papers that were accepted globally for
+ presentation at the conference. Li (2020) first-authored six and co-authored another five leading
+ journal articles, including four in IEEE-TFS and two in IEEE-TCYB; she also received a best
+ conference paper award (from the 16th Annual Workshop on CI); both examiners of her
+ dissertation have been deeply impressed and would like to nominate it for a
+ national/international best dissertation award.
+
+ Within the period, our PhD students (Akpokodje, Diao, Jin, Li, Xu, Yang, Zhang) have
+ collectively won seven best paper (including finalist) or competition awards at international
+ conferences. For example, Akpokodje received best PhD student paper at the 6th International
+ Conference on Cloud Computing and Services Science (2016); Zhang is a finalist for the best
+ paper award at the 2020 World Congress on Computational Intelligence (the largest and
+ foremost biannual international event in the field), selected from 1,819 accepted papers
+ worldwide; and Xu is the winner of the internationally renowned Competition on Constrained
+ Real Parameter Optimisation, organised by CEC-2019 (which is the most important annual
+ international conference in evolutionary computation). Additionally, our students have received
+ 10 Outstanding Student Paper Travel grants from IEEE over this period. Historically, this is the
+ largest number of such awards granted to students from a single academic department.
+
+ A significant number of our recent PhD graduates have already demonstrated a great potential
+ in making a very successful academic career. For instance, Naik (2015) and Chen (2017) are
+ now a Senior Lecturer at Aston University and Huddersfield University respectively; and Jin
+ (2015) and Lu (2016) are now a Professor and HoD at Chongqing University of Science and
+ Technology and Chongqing Jiaotong University respectively. The most remarkable is Nicholls
+ (2018), now an ECR at Birmingham, who has rapidly developed and automated the digital
+ infrastructure needed to coordinate the acquisition and sharing of SARS-CoV-2 virus sequencing
+ data for the COG-UK consortium, with continued support from his PhD supervisors at AU. This is
+ a major responsibility for this early career stage, but one that Nicholls was excellently skilled to
+ do. The subsequent analysis of the data that this infrastructure then enabled has influenced
+ government policy and public health. Owing to his exceptional achievement, he has now been
+ nominated for a Dillwyn Medal, awarded to outstanding ECRs across all fields, by the Learned
+ Society of Wales.
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+
+ Research income
+ The vitality of the research environment in the Department is underscored by success in
+ obtaining external research grant income to support and facilitate our work. In total our research-
+ active staff have participated in winning more than £10.1M in external funding (with more than
+ £5.3M of this going to AU) over this REF period from a wide range of different sources. The most
+ significant sources for research income are UKRI/Royal Society (22% of funding), EU (47%),
+ government bodies/local authorities including health (17%) and industry (12%). The participation
+ in the UKRI CDT in AIMLAC is currently the greatest single grant. Of a particular note is that the
+ Department is the one across all discipline areas in all Welsh universities that has been awarded
+ with the largest number (six) of independent world-class research fellowships that are funded
+ under the prestigious Sêr Cymru II COFUND programme. Another noteworthy example is the
+ EPSRC Inclusion Matters grant. In addition, in support of our research, staff have also been
+ successful in receiving eight KESS research studentships within the assessment period, through
+ collaboration with industry (e.g., Hywel Dda University Health Board; Bond Digital Health; RHE
+ Global; Hafren Scientific; Welsh Water; and Wales Coastal Monitoring Centre).
+
+ Examples of external funding received over this period include:
+     Advanced media production (EU, £1.16M, Miles and Tiddeman);
+     Centre for Doctoral Training in Artificial Intelligence, Machine Learning and Advanced
+       Computing (UKRI, £5.4+M, £800K to AU, Zwiggelaar and Shen);
+     Developmental algorithms for robotics: Understanding the world of objects, interactions
+       and tools (EPSRC, £560K, Shen, Lee and Shaw);
+     Geographical data and earth observation for monitoring (EU, £300K, Labrosse);
+     Benchmark scenario planning in primary production: Creating sustainable change (TSB,
+       £290K, Neal);
+     SeqInfo: Big data stringology algorithms for 2nd and 3rd generation sequencing (EU,
+       £164K, Clare and Daykin);
+     Optimised framework based on rough set theory for big data pre-processing in certain
+       and imprecise contexts (EU, £138K, Zarges);
+     Co-Production of alternative views of lost heritage (AHRC, £125K, Tiddeman);
+     ExoMars Mars terrain simulator (UK Industry, £115K, Labrosse);
+     Network-aware evolutionary coordination for ariel backbone (UK Industry, £110K,
+       Wilson);
+     FuzzyBot: Dynamic fuzzy rule interpolation for humanoid robot control (UK Government,
+       £110K, Shang); and
+     Dynamic modelling of plant growth with computer vision (EPSRC, £100K, Dee).
+ The majority of the grant holders named above- Miles, Shaw, Clare, Daykin, Zarges, Wilson,
+ Shang and Dee- are women.
+
+ The further growth of external income to sustain a wide range of research activities is a
+ departmental priority for the next REF period. The objective of expanding research income is
+ strongly backed by Departmental, Faculty and University support for research development. For
+ example, the University Research Fund offers pilot funding (of a typical size of £5-10K per grant)
+ to support research staff developing ideas and preparing external grant applications. Since the
+ formation of the Faculty (in 2018), our staff have won six such grants. All grant applications are
+ supported by an internal peer review process and by a Research Development Officer at the
+ Faculty level designated from the University’s Department of Research, Business and
+ Innovation. Planning for grant applications is also enabled by annual review meetings,
+ sabbaticals and workshops and sandpits, especially in relation to facilitating larger collaborative
+ proposals. Our most recent research fund-raising activities have led to a significant number of
+ successful applications over the final academic session of this REF round (Aug. 2019-July
+ 2020); most notable examples are: FoodBioSystems: biological processes across the Agri-Food
+ system from pre-farm to post-fork (BBSRC, £2.4M) and South West and Wales Doctoral
+ Training Partnership II (AHRC, £1.35M); Zwiggelaar is overseeing the delivery of both projects.
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+ In addition, he is contributing training aspects on responsible research and innovation aspects,
+ which are transferred from his experience with the UKRI AIMLAC CDT.
+
+ Research infrastructure and facilities
+ The Department has excellent research facilities that support our work in different research
+ groups and has benefited from capital funding by the University and external sources (mainly
+ HEFCW). This supports and adds to the Department's rolling programme of investment in new
+ research equipment, allowing us to conduct research of the highest quality in areas that are part
+ of our strategic growth vision. Apart from the existing major facilities such as the MarsYard, the
+ humanoid robotics lab, and the state-of-the-art engineering and electronic workshops, examples
+ amongst the many newly acquired facilities and equipment that have been made during this
+ assessment period include: a 170 square-meter purpose-built mobile robot workshop; an
+ outdoor Mars rover lab; a multi-material high-accuracy 3D printing machine to support research
+ in soft robotics and space robotics; a SPARUS II, underwater robot; a virtual reality lab; a Yumi
+ robot working as a process control and diagnostic rig; a local big data storage; a flow estimation
+ environment; a submarine robot for environmental monitoring; and a transcranial magnetic
+ stimulation (TMS) machine stroke lab.
+
+ Each of the above-listed relatively larger and newly acquired lab facilities and equipment
+ requires at least a monetary support of £100K, summing up to a sub-total of capital investment
+ worth £1.58M, excluding a separate investment of £440K for the building of the aforementioned
+ workshop. In addition, we participate in Supercomputing Wales (£15M total), much of our data-
+ intensive applications that require very significant computing resources (carried out in all our
+ groups) makes use of this invaluable facility, whilst we also run our own GPU farm to support
+ computationally heavy tasks and experiments.
+
+ Our researchers benefit from the excellent research infrastructure and facilities. For instance,
+ VGV benefits from the virtual reality laboratory that supports research in virtual and augmented
+ reality, and from the TMS lab for their medical imaging work. AR benefits from the process
+ control and diagnostic rig for their model-based reasoning work in support of intelligent decision-
+ making. BCB benefits from the big data storage for their plant gene sequence analysis. IR
+ benefits greatly from our robotics laboratories and state of the art engineering and electronics
+ workshops that enable the production of our own hardware to support our research. We are
+ proud to have contributed to hardware that will fly to Mars as part of the ESA ExoMars mission.
+ Of particular note is that the Department owns a large number of different robots, ranging from
+ robot manipulators and a robotic submarine to large all-terrain vehicles and swarms of robots.
+
+ There is a strong connection to our research-led teaching activities where we ensure that each
+ student who is enrolled on a robotics-related study scheme gets their own robot for modules in
+ the first and second year to improve engagement. A dedicated member of staff is available for all
+ researchers to offer training and support, in order to make use of the Supercomputing and GPU
+ farm resources.
+
+ We also benefit from a physical sciences library dedicated to the Faculty, which we share with
+ our sister Departments. All important journals in our specialist area are available and the full
+ online access to the IEEE and ACM digital libraries provide our researchers with indispensable
+ immediate and convenient access to relevant publications in their fields of research. We also
+ enjoy free access to the National Library Wales that is located adjacent to our campus.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Collaboration
+ All four research groups contribute to the vitality of international research in their areas and have
+ collaborated with researchers in more than 50 countries all over Europe, North and South
+ America, Africa, Australia, and Asia, most notably China. According to SciVal 62.9% of our
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ research output involves international collaboration, of high quality: 25% are published in the
+ best 10% percent of journals, measured by CiteScore (as compared to 19.3% on average for the
+ UK).
+
+ The research in AR has been developed in cooperation with national and international academic
+ collaborators including those from Universities of: Adelaide, Deakin, La Trobe, RMIT (Australia);
+ Beijing Chemical Tech, Dalian Maritime, Fujian Business; North China Electric Power,
+ Northwestern Poly, Sun Yat-sen, Tiajing, Xiamen (China); Coimbra (Portugal); DTU, Southern
+ Denmark (Denmark); École Polytechnique, Lorraine, Paris-North (France); Institut Superieur de
+ Gestion de Tunis (Tunisia); Michigan State (USA); Passau (Germany); Stellenbosch (South
+ Africa); Yuan Ze (Taiwan); as well as those from Birmingham, Cardiff, Lancaster, Loughborough,
+ Nottingham, Oxford, Sheffield, and Swansea. We work with many industrial companies, for a
+ diverse range of real-world applications (e.g., e-commerce; transportation; crime-prevention; and
+ diagnosis, for both physical and biomedical systems) that require novel data-driven learning-
+ based solutions for problems such as feature selection, rule interpolation, classification and
+ prediction, evolutionary optimisation, modelling and simulation. Our work has strong support
+ from major companies and government organisations, nationally and internationally (e.g.,
+ Candela, Huawei, MoD, QinetiQ).
+
+ Staff in BCB work very closely with the BBSRC-funded Institute of Biological, Environmental and
+ Rural Sciences (IBERS), which is also an integrated part of AU, and their wide-reaching
+ international academic and industrial partners. Moreover, we work closely with bioinformaticians
+ in Queens University Belfast and University of Birmingham on metagenomics and with Hywel
+ Dda Health Board on data management and analytics for lung disease, also on a biobank
+ information management system. We also work with industrial partner Bond Digital Health on
+ systems for self-management of chronic lung disease; with industrial partner Dwr Cymru Welsh
+ Water on anomaly detection in water treatment; with research groups in South Africa
+ (Stellenbosch and Cape Town) on genome variation analysis; with University of Sydney on
+ diagnostic tools for early pregnancy complications and endometriosis; with researchers at the
+ Alan Turing Institute and the Universities of Warwick and Edinburgh on NLP/text analysis of
+ scientific publications and their non-academic impact; and with colleagues at Harvard University
+ and University of Florida on fish modelling thorough analysis of biological data and fluid-
+ dynamics.
+
+ The research within IR has been developed through international collaboration within academia
+ (e.g., Paris Descartes and Karbala) and with industrial partners (e.g., Airbus, QinetiQ, Dstl, Lego
+ Foundation, IIT). We have particular strong connections to QinetiQ (often in joint collaboration
+ with the Defence Science and Technology Laboratory), recently generating £288K of direct
+ research income in projects in the area of robotics around navigation, autonomous vehicles, and
+ data management. Our work involves interdisciplinary collaborations with biologists (animal
+ tracking and vegetation estimation), geographers (survey of rivers in New Zealand and of the
+ icecap in Greenland) and psychologists (infant development). Supported with EPSRC funding,
+ we also actively engage with domestic collaborations of course, e.g., to model how children
+ learn from play, we worked with psychologists from the Universities of Cambridge and Cardiff.
+
+ The research within VGV has been developed with support from international academic
+ collaborators, which include UPenn, Girona, MIT, Namur, Macquarie, Minnesota, Max Planck
+ Institute (Leipzig), Bern etc., and from industrial collaborators such as QinetiQ, Unilever, RHE
+ Global. It involves interdisciplinary collaborations with radiologists (cancer staging and
+ detection), psychologists (face modelling and perception), geologists (VR for Mars missions),
+ geographers (survey of the Rees river in New Zealand to measure movement of sediment during
+ flood events, survey of the icecap in Greenland to measure ice movement), marine biologists
+ (video-based classification and analysis of killifish, lobster and crab), plant biologists (plant 3D
+ capture and phenotyping), and archaeologists (3D reconstruction and Augmented Reality). We
+ also actively engage with domestic collaborations, e.g., for a virtual heritage project, we worked
+ with archaeologists from the University of Bangor, Manchester Metropolitan University and the
+ University of Central Lancashire to digitise and maintain cultural heritage assets.
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+
+ To encourage international collaboration and exchanges, our staff have continued to be active in
+ securing a range of grants in support of such activities over this assessment period. For
+ example, we play the leadership role in a COST Action (Jansen) in the area of nature-inspired
+ optimisation. This has helped to establish an extensive range of new international research
+ collaborations (with colleagues in: France, Portugal, Spain, Croatia, Ireland, Czech Republic,
+ Italy, Leiden, Norway and Slovenia), particularly through the two international industry
+ workshops (in Denmark and Portugal respectively; participating companies included Zenzero,
+ UK; Thales Group, France; AVL, Croatia and Hispasec, Spain) that we organised, facilitating
+ cooperation between academic and industry partners and improving impact. We are involved in
+ the Horizon 2020 Marie Curie RISE program on brain inspired solutions for intelligent navigation
+ and robot mobility (Akanyeti), a large consortium including world-renowned industrial partners
+ (e.g., BWM, Mathworks) and world-leading academic partners (e.g., Max Planck and Donder
+ Institutes). We have won a number of Newton Fund grants, including those co-sponsored by
+ British Council (Liu), by Royal Academy of Engineering (Shen), and by Royal Society
+ (Zwiggelaar). Whilst these recently completed Newton Fund projects were all in collaboration
+ with Chinese partners, the most recently funded one (Shen) is to support academic exchanges
+ with Thai academics and industrialists, to help develop their research and innovation capacity for
+ long term sustainable growth.
+
+ In this assessment period, we welcomed many academics and industrialists to visit us, either on
+ a longer-term basis (e.g., six months or one year) or through an opportunistic stay (ranging from
+ a couple of days to a few weeks), from all over the world. Longer-term visitors were typically
+ involved in co-implementing a dedicated research project or a significant workpackage of a
+ much larger project, whilst short opportunistic stays were often for delivering an invited seminar,
+ discussing a joint project proposal or co-authoring a publication. We have hosted a large number
+ of such visitors, including the following senior academics, who stayed with us for at least half a
+ year: Ai and Li, Northwestern Poly; Li, Sichuan; Cao and Lin, Xiamen; Jie, Electronic Science
+ and Technology; Zhang, Shanghai; Zhu, Quanzhou Normal, all being from China, and Quek
+ from Nanyang Technology, Singapore.
+
+ In recognition of the national strategic importance and existing success of international
+ collaboration, Welsh government has recently granted us one of the only five Strategic Partner
+ Acceleration Awards (Shen and Shang) to further develop our research partnership with
+ Northwestern Polytechnical University (NWPU, which is the leading institution in China for
+ interdisciplinary research on AI with Aerospace and Airspace Science and Engineering). The
+ collaboration between us and the School of Computer Science at NWPU over this REF period
+ has been fruitful: We have jointly produced 22 papers in leading computer science and applied
+ journals (including two published in 2017 that have already attracted 400+ and 130 GS cites,
+ with the former listed by Remote Sensing as the most cited within the first three years since
+ publication in this prestigious journal) and graduated 3 jointly supervised PhDs (including the
+ exceptional graduate, Li mentioned in Section 2). Supported by this award both Universities
+ have now signed an agreement to set up a joint international research centre for AI in Space
+ Data Science and Engineering. This perfectly meets, and will strongly contribute to, our research
+ strategic plan on the development of a sub-unit in this area (see Section 1).
+
+ General contributions
+ Members of the Department actively contribute to the vitality and sustainability of the discipline
+ through a wide range of external roles. For example, over the REF period, amongst the 29 Cat-A
+ staff, thirteen have served as an Associate Editor for 22 leading SCI-indexed international
+ journals (with many more serving as an editorial board member), including: Artificial Intelligence
+ (IF=6.628; Jansen); Engineering Applications of Artificial Intelligence (IF 4.201; Price); IEEE
+ Transactions on Cybernetics (IF=11.097; Shen); IEEE Transactions on Evolutionary
+ Computation (IF=11.169; Jansen); IEEE Transactions on Fuzzy Systems (IF=9.518; Jensen,
+ Shen); Information Sciences (IF=5.910; Li); Journal of Biomedical and Health Informatics
+ (IF=5.223; Zwiggelaar); Neurocomputing (IF=4.438; Han); and Pattern Recognition (IF=7.196;
+ Zwiggelaar). Also, our Cat-A staff have acted as a guest editor for many journals, including:
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+ Applied Soft Computing (IF=5.472; Li); IEEE Transactions on Fuzzy Systems (IF=9.518; Li);
+ Journal of Ambient Intelligence and Humanized Computing (IF=4.594; Li); and Neural
+ Computing and Applications (IF=4.774; Qu).
+
+ As such, more than 2/3rds of our Cat-A staff have played a leading editorial role in the academic
+ community, covering staff at all career stages, and different genders and ethnic origins. In
+ addition, our staff have participated in the organisation of well over 80 conferences during the
+ assessment period, including: major international events such as ICIRA, FOGA, FUZZ-IEEE,
+ GECCO, PPSN, WCCI. Since 2011 we are organising and hosting the annual iOSDevUK, a
+ conference on app development for iOS devices with about 200 computer practitioners
+ worldwide in attendance every year. We also host the 20th annual workshop on computational
+ intelligence, this series of workshops have been strongly supported by EU and EPSRC.
+
+ Departmental staff actively participate in peer evaluation of grant proposals. Particularly,
+ members of staff sit on funding councils or grant review panels nationally and internationally,
+ e.g., Clare on panel for RAEng Research Fellowships; Price on Irish Higher Education Research
+ Council; Shen on panels for: National Center of Science and Technology Evaluation,
+ Kazakhstan, and Yangtze River Research Professorship Selection, China; and Zwiggelaar on
+ panels for: EPSRC and Health and Care Research Wales. Additionally, Lee, Shen, Wilson and
+ Zwiggelaar served as standing members of EPSRC peer review college, with Jansen and
+ Zarges being associate college members; and Price, Shen and Zwiggelaar are on the EPSRC
+ future leader fellowship peer college. Also, during this assessment period, our Cat-A staff have
+ acted as an external examiner for 66 PhD dissertations, including 28 produced in 14 foreign
+ countries (Australia, Belgium, China, France, Greece, India, Italy, Malaysia, Norway, Pakistan,
+ Singapore, South Africa, Spain, Thailand). Furthermore, staff have undertaken various
+ consultancy duties, including major roles (e.g., as advice board member or scientific adviser to
+ an established company) served by: Akanyeti for AberInnovation; Price for Apple and Certiport;
+ and Shen for Agxio.
+
+ Research activities conducted by our staff make substantial contributions to the research base,
+ economy and society (see Section 1 for a brief summary from research impact perspective). We
+ are also proactively engaged in outreach and public engagement activities that contribute to the
+ University’s civic mission (see REF5a) and to enhancing public understanding of science,
+ including events such as the National Eisteddfod of Wales Science Village (which attracts
+ approximately 150,000 attendees annually). Reflecting the Department’s commitment to EDI
+ issues, a notable emphasis has been on activities that support the vitality and sustainability of
+ computer science research by engaging new audiences, including young people. Over this REF
+ period and prior to the Covid-19 pandemic, we have organised: around 150 public events
+ involving local schools (via school visits, robotics club, and science fairs); and an annual public
+ robotics beach lab show for local community and beyond. We also host monthly regional BCS
+ talks and run Aberystwyth Robotics Week attracting popular attendance by staff, students and
+ people from the wider community. These activities help raise awareness of the development of
+ AI research and the advancement of AI applications, and attract future generations of scientists
+ and engineers.
+
+
+
+
+                                                                                             Page 14
+

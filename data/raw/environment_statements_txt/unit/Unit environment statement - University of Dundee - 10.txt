@@ -1,0 +1,821 @@
+Unit-level environment template (REF5b)
+ Institution: University of Dundee
+
+ Unit of Assessment: UoA 10 Mathematical Sciences
+
+ 1. Unit context and structure, research and impact strategy
+
+1.1 Unit structure and context
+Research in the School of Science & Engineering (SSEN) is founded on four overarching themes
+that straddle UOAs10, 11 and 12: Mathematical Sciences, Engineering and Physical Sciences,
+Computing Sciences and Science and Justice. The Mathematical Sciences theme aligns with REF
+UOA10. Mathematical Sciences (the Unit) comprises 17 category A staff and is structured as three
+clusters (each with a lead, underlined):
+
+•   Mathematical and Computational Biology (MCB) (Davidson, Eftimie, Lin, Murray, Pisliakov,
+    Sknepnek, Trucu, Zachariae) focuses on developing a wide range of mathematical, physical
+    and computational tools and techniques that are applied to quantify and better understand
+    complex biological problems.
+•   Magnetohydrodynamics and Astrophysics (MHDA) (Sicilia-Aguilar, Gregory, Hornig,
+    Matsumura, Meyer, Russell) combines innovative computational and mathematical modelling
+    with state-of-the-art observations to address problems from solar, stellar and exoplanetary
+    physics that cannot be solved by any one of these approaches alone.
+•   Numerical Analysis and Scientific Computing (NASC) (Athanassoulis, Eftimie, Hall, Hornig,
+    Kyza, Lin, Pisliakov, Russell, Sknepnek, Trucu, Zachariae) develop numerical methods
+    and algorithms that are accurate, efficient and robust with respect to challenges that manifest
+    in the simulation of complex phenomena arising in biological and physical applications.
+
+Former staff (previously Category A eligible) who also contributed to the Unit over the reporting
+period are Chaplain (MCB until 2015), Janvier (MHDA until 2015), Fletcher (NASC until 2016),
+Ptashnyk (MCB until 2017) and Pontin (MHDA until 2019). Moreover, each cluster has affiliated
+postdoctoral and postgraduate researchers, and staff leading research-focussed teaching.
+Researchers can affiliate with multiple clusters to facilitate interdisciplinary working and build
+capacity. Clusters benefit from members of other Schools (e.g. MCB and NASC have members
+from Life Sciences).
+
+Research within SSEN aligns with the core mission of the University to Transform Lives Locally
+and Globally through the societal and economic impact of its research. Fundamental to this
+mission is the concept of interdisciplinarity leading to impact across four key institutional themes of
+which Mathematical Sciences research is focused on two:
+
+    •   Understanding and improving health and wellbeing (IT1)
+    •   Innovating technological solutions to tomorrow's problems (IT2)
+
+Mathematical and Computational Biology (MCB) [IT1, IT2] comprises mathematicians,
+physicists, and computational biologists who develop and implement a wide range of
+mathematical, physical and computational tools and techniques. Working closely with colleagues in
+the Schools of Dentistry, Medicine, Life Sciences and Social Sciences these tools are applied to
+quantify and better understand complex biological, medical, and ecological problems. The
+technical focus is on the development of tools used to study dynamics across temporal and spatial
+scales ranging from state-of-the-art molecular dynamics and agent-based systems, through multi-
+
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+scale models to continuum descriptions based on the functional analytic representation of ordinary
+and partial differential equations. Both deterministic and stochastic approaches are woven through
+the work of this cluster. Applications cover a diverse range of fundamentally important and topical
+issues including epidemiology, cancer, drug metabolism, the immune system, developmental
+biology including oral deformities, cell and tissue mechanics, cell physiology and microbiology. The
+MCB cluster is characterised by its pursuit of interdisciplinary impact through innovation. By
+working across discipline boundaries both locally and globally, the aim is to make significant
+progress on problems that are resistant to solution by experimental approaches alone.
+
+Magnetohydrodynamics and Astrophysics (MHDA) [IT2] combines innovative computational
+and mathematical modelling with state-of-the-art observations to address problems that cannot be
+solved by any one of these approaches alone. By focussing on understanding fundamental
+processes, the results obtained have cross-disciplinary impact in areas such as laboratory
+plasmas, classical fluids, and superfluids. A key focus is plasma dynamics in the Sun’s
+atmosphere, including the heating of the solar coronal plasma, acceleration of the solar wind, and
+processes important in solar flares such as magnetic reconnection. This work contributes to the
+international effort to develop reliable forecasting systems for “space-weather”, essential for
+enabling space exploration and protecting services in our increasingly technological society. A
+second focus of the cluster is the formation, evolution, and dynamics of planetary systems, as well
+as star formation, accretion, magnetism and stellar activity in young stars. The approach to
+addressing the above problems combines numerical simulations (high performance computing) –
+such as N-body simulations, Computational Fluid Dynamics and Monte Carlo radiative transfer –
+with mathematical methods and observational studies. The mathematical methods range from
+dynamical systems theory and differential equations to braid theory, differential geometry, and
+statistical analysis. Observational methods combine multi-wavelength observations from ground-
+and space-based telescopes.
+
+Numerical Analysis & Scientific Computing (NASC) [IT1, IT2] develops and analyses high-
+performance numerical methods designed to meet exacting demands regarding complexity,
+stability, convergence, error control and preservation of selected mathematical and physical laws.
+Moreover, this cluster applies numerical methods and develops computational tools and software
+for engineering, physical, biological and medical problems. The NASC algorithms have been
+applied to a wide range of problems such as caustics and dark matter streams, complex fluids,
+multiphase flows, magnetohydrodynamics, fluid-structure interaction, multiscale modelling of solid
+materials with defects, proton transfer process in cell physiology, biological and medical image
+processing, calibration with incomplete data of cancer invasion, chick embryo gastrulation,
+collective dynamics in ecology and cell biology, atomistic molecular dynamics simulation of
+proteins, and measuring clinical outcomes on digital dental models. Due to the interdisciplinary
+nature of the area, the NASC cluster has significant and productive intersections with the two other
+clusters within Mathematical Sciences and other clusters from UOA11 and 12 within SSEN.
+
+1.2 Implementation of plans from REF 2014 and future strategy
+The plan for Mathematical Sciences at REF 2014 was to build on excellence in areas of existing
+strength and to broaden the research portfolio from this strong base. Going forward, the aim has
+been to build on the excellent results of REF 2014, increase the staff base in terms of FTE and
+research expertise, increase PhD student numbers, increase research income and improve impact,
+both academic and societal. The Unit has achieved these goals:
+
+
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+•   Strategic investment has seen the Unit grow from 12.7 to 17 FTE staff since REF 2014. Three
+    research clusters based on research strengths within the Unit at REF 2014 have been formed
+    and all three clusters have been strengthened by this growth (details in Section 1.1).
+•   Broadening of research expertise to include the development and application of molecular
+    dynamics (Pisliakov, Zachariae – MCB), soft matter physics (Sknepnek – MCB), stochastic
+    processes (Athanassoulis, Hall – NACS) and astrophysics (Matsumura, Sicilia-Aguilar,
+    Gregory – MHDA) (Section 2.1)
+•   Increased number of PhD students and research income per FTE (Section 2.3)
+•   Enhanced contribution to the academic community (Section 4.2)
+•   Sustained quantity, quality and breadth of public engagement activities (Section 4.3)
+
+The strategy for Mathematical Sciences was refined at a mid-REF-term review, which highlighted
+that the Unit could benefit from further expansion. Two potential areas were identified as
+particularly promising, both in the way they would tie in with the existing research clusters and in
+their potential to open up new academic and industrial collaborations. The two areas identified
+were (i) Stochastic Processes and Probability and (ii) Optimisation and Operational Research. Both
+areas are a priority for UKRI, as subjects in their own right (EPSRC, Mathematical Sciences) and
+indirectly via major UKRI themes such as Energy, Global Uncertainty and Health Care
+Technologies.
+
+Stochastic Processes and Probability (building from NASC, MCB)
+Developing strength in this area builds on the existing expertise in stochastic PDEs (Lin and
+Athanassoulis) and carries significant potential for applications in technology and engineering
+such as image processing, signal processing, information theory, cryptography and
+telecommunications. Broadening this area also facilitates connections to existing research groups
+in the Schools of Business (e.g., Finance), Life Sciences and Medicine and thus opens further
+routes to collaboration with industry. In line with this strategy, research in this area has recently
+been strengthened by the appointment of Hall under the Institution's Baxter Fellow scheme
+instigated to attract Early Career Researchers of exceptional promise. Hall’s work, centred around
+predictive data science, uncertainty quantification and stochastic numerics, includes applications to
+biology, engineering and finance. Future hires will further develop the Unit’s interface with these
+areas.
+
+Optimisation and Operational Research (building from NASC)
+Reinvigorating this impactful research area (see Fletcher REF 2021 Impact Case Study) by
+building on growing strength and breadth in numerical analysis will further strengthen research
+links to the Schools of Business (Finance and Economics), Life Sciences and Medicine (drug
+discovery; parameter estimation in biochemical pathways), as well as within SSEN (e.g. medical
+image analysis in Biomedical Engineering and Computing).
+
+1.3 Impact strategy
+Core to the impact strategy of Mathematical Sciences is the commitment to interdisciplinarity to
+maximise the potential impact of concepts, ideas, and discoveries. The organisation of research in
+the Unit is deliberately designed around areas of application rather than the underlying
+mathematical concepts. This fosters the use and development of a range of mathematical tools to
+solve important problems in science and engineering. This approach has successfully delivered the
+submitted impact case studies (Lin and Fletcher, respectively). Examples of how this strategy is
+facilitating an effective pathway to future impact are as follows:
+
+
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+•   Eftimie’s work on epidemiological modelling has been recognised by the Ministry of Defence
+    and confidential contract research was undertaken. She is also collaborating with colleagues
+    in the School of Medicine and has already published work on the effect of bed placements in
+    hospital wards on the spread of COVID-19 (Moreno-Martos et al., Math. Biosci. Eng. 17,
+    2020).
+•   Zachariae is internationally renowned for the development of computational methods used to
+    better understand the physiology of cell membranes and in particular their interaction with
+    external active agents. He has experience of working with major pharmaceutical companies
+    (e.g. BBSRC CASE award with Boehringer-Ingelheim completed in 2019). In 2019 he secured
+    an MRC iCASE award with Helperby Therapeutics to develop novel antibiotic combination
+    therapies. This reputation led to an invitation to apply to the UKRI-BBSRC COVID-19 Agile
+    Response Call (31 March 2020). [Award subsequently made to Zachariae (PI) working with
+    the Drug Discovery Unit, UoD: c. £330K].
+•   Zachariae’s work with a colleague in Molecular Microbiology, UoD, and others (Brandani et
+    al., Langmuir, 31 2015; Bromley et al., PNAS 112, 2015) contributed to the development of a
+    patent for the biotechnological use of a bacterial protein, BslA, and its variants as surfactants
+    to stabilise multiphase synthetic mixtures for use as pharmaceuticals, personal care or food
+    products (Patent Publication Number EP3182836B8; Publication Date 25.02.2020).
+•   Pisliakov’s work with colleagues in the Drug Discovery Unit, UoD (Baragana et al., PNAS
+    116, 2019) contributed to ongoing developments of a potentially significant advance in the
+    treatment of malaria (Lysyl-tRNA synthetase as a drug target in malaria and cryptosporidiosis -
+    Patent Publication Number WO/2017/221002; Submitted 28.12.2017).
+
+These and other outcomes give confidence that Mathematical Sciences’ strategy of actively
+engaging in interdisciplinary research can deliver significant impact outside academia and is
+providing promising indicators for future development.
+
+Connecting to Industry and Business
+To enhance our impact and contribute to today’s societal and economic challenges, the Unit aims
+to engage further in research and development of innovative technology in collaboration with
+industry and businesses. The appointment of a new Associate Dean for Industrial Engagement
+supports this aim and the many existing industry connections within SSEN e.g. Industrial Advisory
+Boards and the Graduate Apprentice Scheme form a strong basis for growth of this activity. This
+will enable us to take advantage of opportunities from the UK R&D Roadmap and Industrial
+Strategy, including training the next generation of researchers through PhD programmes in applied
+mathematics, (increasing the employability of MSc and PhD students) and securing future
+collaborative research grants. The research areas selected for targeted growth (Section 1.2) will
+facilitate these connections by providing high value tools and expertise.
+
+1.4 Research culture
+Connectedness - Mathematical Sciences is part of an international community and remains
+engaged with scientific and cultural developments by attending conferences, workshops, and
+seminars as well as inviting academics to Dundee for seminars, workshops, and research
+collaborations (further details in Section 4). During the reporting period a Mathematical Sciences
+seminar series has brought more than 160 UK and international researchers to Dundee. These
+regular meetings foster the exchange of knowledge and ideas (i) between the Unit and the
+international research community and (ii) within the Unit to trigger innovative ideas and new
+directions. This seminar series concentrates on the mathematical and computational foundations
+common across Mathematical Sciences. Individual clusters also run seminars and workshops,
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+often in conjunction with groups from other disciplines where the focus is on the relevant
+application.
+
+The Mathematical Sciences Unit is represented in all relevant learned societies, professional
+bodies and organisations including the London Mathematical Society, the Edinburgh Mathematical
+Society, the European Mathematical Society, the Institute for Mathematics and its Applications,
+Heads of Department of Mathematical Sciences, the Isaac Newton Institute, the International
+Centre for Mathematical Sciences as well as more specialised organisations (further details under
+Section 4.2). Information from these organisations is shared by representatives with other
+members of the Unit and includes conference, workshop or seminar announcements, funding
+opportunities, policies, job adverts, relevant surveys or calls for proposals or actions. This stream
+of external information complements that provided by the School and University.
+
+Inclusiveness – see EDI Section 2.4.
+
+Openness - Mathematical Sciences has a long-established culture of sharing research and helping
+others within the research community and, in line with Institutional policy, is committed to fostering
+an open research environment through increased advocacy and support for all staff, including
+postgraduate researchers. Researchers routinely provide preprints of publications on preprint
+servers (e.g. arXiv.org, bioRxiv.org) as well as on the University’s Discovery repository to ensure
+open access compliance (https://discovery.dundee.ac.uk/). Datasets generated are also deposited
+in appropriate international databases and/or distributed from local servers. All staff within the Unit
+are guided to publish in journals compliant with the Open Access policy set out by UKRI and to
+leverage expertise and advice from the University’s Library and Learning Centre regarding data
+management planning and compliance with the Concordat for Open Research Data.
+
+Integrity - Mathematical Sciences is an active participant in the School-wide Research Integrity
+structure through which a Research Integrity Lead provides (i) an independent point of contact for
+staff and research students outside their immediate research environment, (ii) impartial advice on
+responsible conduct of research and (iii) advice on making misconduct allegations. Research staff
+and students are provided with online video-based training in Responsible and Ethical Practice in
+Research and Publication, which is mandatory for research students. The Director of Postgraduate
+Research oversees rigorous procedures that ensure all postgraduate research students benefit
+from the appropriate research integrity training and all data created for PhD theses and
+publications are archived in an appropriate and accessible form.
+
+ 2. People
+
+2.1 Staffing strategy
+Mathematical Sciences’ staffing strategy is to recruit researchers with an outstanding research
+track record and the potential for achievement at the highest level. Emphasis is placed on
+recruiting staff who demonstrate excellence with impact and interdisciplinary collaborations or the
+potential to do so. Since REF 2014, the Unit has recruited staff from high profile international
+institutions (e.g. RIKEN Institute, Syracuse University, Universities of Maryland, Edinburgh and St
+Andrews) and in combination with strategic realignment following the creation of research clusters
+has grown from 12.7 to 17 Category A FTE. All Category A staff are on permanent contracts. The
+Unit has a comparatively young age profile with 41% in the age bracket 30-39 years, 41% in 40-49
+years and 18% in 50-59 years. Succession planning in the medium term is therefore focussed on
+career progression for individual staff and building a strong future for the Unit rather than
+necessitated by imminent retiral. To grow capacity in existing areas, we will continue to invest in
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+recruitment of ECRs and support their development within the cluster, Unit, School and Institutional
+contexts. The development of new areas of research will require targeting the appointment of more
+senior staff.
+
+In 2013, the University introduced the Dundee Fellows Scheme to bring the next generation of
+research-intensive ECRs to the institution. Targeted support for the Unit led to four appointments
+(from a total of 15 available posts) through this scheme: Janvier and Matsumura to the MHDA
+cluster; Pisliakov and Sknepnek to the MCB cluster. The School also took advantage of funding
+from the Scottish University’s Physics Alliance (SUPA), to recruit in the same year Zachariae, to
+further strengthen and broaden the work now clustered under MCB. Matsumura, Pisliakov,
+Sknepnek and Zachariae remain in post as key contributors to Mathematical Sciences. Each has
+been promoted – Matsumura, Pisliakov, Sknepnek to Senior Lecturer and Zachariae to Chair.
+
+Additional appointments have been made at Lecturer level to further strengthen Mathematical
+Sciences: Sicilia-Aguilar (2017, now Reader), Russell (2016), Gregory (2019) and Meyer
+(2020) to MHDA as well as Athanassoulis (2017) to NASC.
+
+Building on the success of the Dundee Fellows and SUPA schemes, Mathematical Sciences has
+benefited from the University’s investment in the Baxter Fellowships Programme (2019). Four out
+of 18 Fellowships in the institution were secured by the School with Hall (RWTH Aachen, 2020)
+appointed to further strengthen and broaden expertise in NASC.
+
+2.2 Career development
+The University is committed to the Concordat to Support the Career Development of Researchers.
+As such, the Unit provides a supportive environment that is aligned with the University’s strategic
+aims to enable staff to flourish and promote a high-performance community. All staff including
+Postdoctoral Researchers benefit from annual, individual reviews of their research progress by
+their line manager as part of the Objective-Setting & Review (OSaR) process that delivers the
+University’s strategic aim of embedding and supporting a culture of performance management and
+improvement. OSaR takes a holistic view of research, teaching and administrative duties, and is a
+data-driven process informed by:
+
+(i) Workload Allocation Model (WAM), to ensure that research, development and impact-
+    generation activities can be accounted for in assigning teaching and administrative duties, and
+    in developing future staffing strategy. The cluster lead role is recognised in the WAM, as is the
+    supervision of postgraduate research students, time on external research projects and impact
+    generating activities such as consultancy, which support the generation of new avenues of
+    research and strong contribution to the wider academic community.
+
+(ii) Annual Research Review (ARR). This was introduced in 2016 with the principal aim of
+     providing peer feed-forward to research-active staff to maximise the impact and visibility of
+     their research, to provide guidance in developing plans for securing resources and to support
+     career development (via feed-in to OSaR). The ARR, which in SSEN is conducted across all
+     four themes as a single exercise, maximises the identification of interdisciplinary opportunities.
+
+New lecturers are supported by line managers, the Associate Dean for Research and senior
+colleagues through the University’s three-year probation period, which on successful completion
+results in confirmation in post and the award of a Postgraduate Certificate in Academic Practice in
+Higher Education. All newly appointed staff are assigned a mentor - a senior colleague typically
+within the Unit - to help formulate and achieve personal performance goals and deliver the
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+School’s objectives. They also enjoy a reduced teaching load to provide additional time to establish
+sustainable research activities at the University. Newly appointed staff have access to start-up
+funding from the School Research Committee to support network establishment, dissemination
+activities and integration of their research activities within the cluster. In addition, they are guided
+through their probationary period by cluster leads and established research staff, who provide peer
+review of research proposals and e.g. convene mock interview panels for Fellowship applications.
+Postdoctoral Researchers are similarly supported in progressing their career and are mentored to
+apply for fellowships and/or ECR positions. Furthermore, ECRs are preferentially allocated PhD
+studentships (both at School and Institutional level) to aid the rapid establishment of their research
+profile.
+
+All staff are encouraged to make use of TRAM (Teaching, Research and Academic Mentoring
+scheme), set up jointly with five other HEIs, to ensure that researchers (including postdoctoral
+researchers) are supported in developing their careers. Staff are encouraged to plan for promotion
+and are supported through the process by line managers and senior colleagues. Measures of
+research performance are captured through the ARR and OSaR processes and include quality of
+publications and research funding, PhD supervision, contributions to the wider academic
+community, indicators of esteem and activities leading to impact.
+
+2.3 Research students
+During the REF assessment, 25 PhD students completed under the supervision of staff within the
+Unit with a further 22 students studying in Mathematical Sciences (at 31st July 2020). Students
+have been financially supported by UKRI (c. £0.5M mainly EPSRC and STFC DTP), the Chinese
+Scholarship Council, the Northern Research Partnership (SFC Pooling Initiative), the Leverhulme
+Trust and Government Scholarships (the last totalling over £1M).
+
+The School’s Director of Postgraduate Research coordinates the recruitment, support and
+development activities for PhD students across all research themes along with quality assurance
+and mentoring of research staff in supervision (particularly for early career staff). Research student
+recruitment and supervision is framed by the University's commitment to the QAA Code of Practice
+for Research Degree Programmes and governed by the University Code of Practice for Supervised
+Postgraduate Research, supplemented by the School’s own Postgraduate Research Guide. For
+each student, a Thesis Monitoring Committee (TMC) meets twice per year. These individual TMC
+meetings are held with two non-supervisory research staff to whom both student and supervisor
+provide information on progress and can identify, in a confidential manner, any issues that arise. A
+feed-forward mechanism operates with the TMC providing suggestions and guidance to the
+supervisory team. The composition of the TMCs remains set throughout the student’s study period
+to ensure continuity of oversight and guidance.
+
+At an institutional level, the Doctoral Academy provides generic support and research development
+training for students, bespoke training for supervisors (particularly those at ECR level) and has
+embedded an interdisciplinary research ethos. Students can also access the full academic and
+transferrable skills training programme offered by Organisational and Professional Development at
+the Institutional level.
+
+Training specific to Mathematical Sciences students is provided mainly by the Scottish
+Mathematical Training Centre (SMSTC) and for some aspects also by SUPA. Specific
+postgraduate courses are offered by members of the Unit. New PhD students within the Unit are
+encouraged and supported to attend the Scotland-wide introductory SMSTC meetings organised
+by Trucu and Eftimie. An annual postgraduate research symposium within the School provides
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+opportunities to all students for dissemination of results across the research themes. In addition,
+the Mathematical Sciences seminar programme also enables discussions of research projects and
+the identification of cross-cluster research opportunities. Funding is available to all research
+students to facilitate participation in national and international conferences. For computational
+projects research students are provided with full access to School computing facilities and core-
+funded technical support.
+
+2.4 Equality, diversity and inclusion (EDI)
+The University is a member of the Race Equality Charter and both the University and the School
+hold an Athena SWAN Bronze Award (most recent renewals 2017 and 2018, respectively).
+Mathematical Sciences rigorously adheres to the principles of these Charters and is committed to
+the advancement of equality, diversity and inclusion. The School’s Athena SWAN application
+received significant input from members of the Unit. The first application in 2015 was led by
+Hornig, together with Matsumura and Russell who were part of the application team. The School
+is currently working towards a Silver Award application for 2022 and Kyza represents
+Mathematical Sciences on the School-wide working group. The School’s Athena SWAN self-
+assessment committee focuses on actions that maintain and further enhance an inclusive culture
+and collegiate working practices. School and University level EDI and Athena SWAN action plans
+guide ongoing improvements in support of all staff and students; these are informed by the
+University's biennial staff survey.
+
+Mathematical Sciences fully engages with the range of University level work-life balance policies,
+including coverage for those with changed circumstances. These include compassionate leave,
+parental leave, adoption/fostering and carer's leave. A nursery is available on campus for children
+of staff and students. Line managers maintain regular contact with the member of staff during their
+leave. Discussions related to return to work are held prior to return, in line with the University’s
+Flexible Working Policy. Voluntary declaration of any mitigating circumstances is part of the
+standard academic promotions process. A full-time counsellor for mental-health issues has
+recently been appointed by the University. Harassment Advisers have been appointed to support
+staff and students and among these is a member of Mathematical Sciences (Eftimie). Working
+with the School and University the Unit are supportive of the many staff with young families
+(currently seven members) by offering flexible working and distributed workloads.
+
+The School appoints staff on merit alone and is committed to equality, diversity and inclusion.
+Appointing and shortlisting panels are always mixed gender; all panellists must have undertaken
+unconscious bias training. Online training in equality and diversity is mandatory for all staff and
+includes modules on Diversity in the Workplace, Disability, Stress in the Workplace, Diversity in
+Learning & Teaching and A Manager’s Guide to Stress. Additionally, a module on Recruitment and
+Selection is taken by staff involved in those activities. Completion is monitored centrally as part of
+ensuring EDI is embedded in the institutional culture. Unconscious bias training sessions are
+delivered regularly and available to all in the School.
+
+Twelve different nationalities are represented within the 17 Category A staff in Mathematical
+Sciences and the gender balance is currently five females to twelve males. This ratio is higher than
+the national average of academics in mathematics, but continued efforts are made to combat the
+“leaky pipeline”, that is the decreasing proportion of women progressing to higher academic
+positions. For example, we encourage applications from women (and other under-represented
+groups) for academic positions highlighting flexible working, we promote the use of networking
+opportunities such as the Aurora Leadership programme (recent participant Eftimie) and special
+funding schemes such as the Emmy Noether Fellowships (Kyza) and provide support and
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+guidance to facilitate successful promotion applications. Over the REF assessment period four of
+the five Category A female staff have received promotion, including to Reader (Sicilia-Aguilar)
+and to Chair (Eftimie). Two of the 17 Category A staff identify as BAME and one of them
+(Matsumura) was promoted during the assessment period.
+
+It is part of the University strategy to minimise the number of fixed-term contracts and the Unit is
+exemplary in that is has no academic staff on fixed-term contracts; all contracts are open-ended.
+Efforts are made to provide PDRAs, who are on fixed-term contracts, with the required skills and
+opportunities to apply for academic positions or personal fellowships and the Unit was successful
+in this in the past (see Section 3.1).
+
+Construction of REF submission
+All UOA10 Planning Group members completed institution level unconscious bias training in
+addition to equality, diversity and inclusion, and information security awareness training prior to
+contributing to output selection and Planning Group discussions. Outputs have been selected
+through a rigorous process of internal and external review and attributed to individual staff by the
+UOA10 Planning Group following the University’s REF 2021 Code of Practice. All staff were invited
+to submit impact case studies and those selected reflect the strongest impacts arising over the
+REF period. Of the 43 outputs submitted 26% are attributed to female and 74% to male staff. This
+is in line with the gender balance of 30% female to 70% male staff who contributed to the
+submission. Two submitting staff identify as BAME (10%). The number of selected outputs
+attributed to BAME staff is seven (16%).
+
+ 3. Income, infrastructure and facilities
+
+3.1 Research funding
+The Mathematical Sciences Unit was successful in attracting over £2.4M research grant income
+over the REF period, principally from UKRI (EPSRC, BBSRC and STFC) but also including support
+from the Leverhulme Trust, EU, the Ministry of Defence and the Northern Research Partnership
+(Scottish Funding Council Pooling). Highlights include:
+
+•   MHDA cluster: three separate awards from STFC to Hornig & Pontin (ST/K000993/1,
+    ST/N000714/1, ST/S000267/1) totalling over £1.3M, together with an STFC award for Sicilia-
+    Aguilar & Matsumura, (ST/S000399/1, £130K) and two Leverhulme awards (Pontin, RPG-
+    2015-075, PLP-2011-074 totalling £100K), led to over 30 publications, six of which are part of
+    the Unit’s REF 2021 submission. Of the six Postdoctoral Researchers funded by these grants,
+    three now have academic positions - UoD (Russell), Glasgow (S. Candelaresi) and Durham
+    (P. Wyper) - one took up a prestigious fellowship position at the US Naval Research
+    Laboratory (R.B. Scott) and one is employed in industry (J. Thurgood, NCTech Imaging). A
+    further five PhD positions can be linked to these awards.
+
+•   MCB cluster: BBSRC awards to Davidson (Co-I on £2.6M sLoLa grant BB/P001335),
+    Sknepnek (Co-I on £427K award BB/N009789), three EPSRC first grants (Eftimie, Ptashnyk,
+    Sknepnek: EP/K033689/1, EP/K036521/1, EP/M009599/1, £90K each), EPSRC award to
+    Davidson (Co-I, £501K, EP/P00301X), as well as a contribution from ERC Advanced Grant
+    PE1, ERC-2008-AdG (Chaplain), collectively led to five Postdoctoral Researchers directly
+    linked to the Unit (three of which have moved onto substantive academic posts: D. Matoz-
+    Fernandez, Northwestern University; M. Pineda, UCL and B. Seguin, Loyola University) and
+    five publications that form part of the Unit’s submission.
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+3.2 Infrastructure and facilities
+
+Support structure
+Mathematical Sciences is supported in research both administratively and in terms of impact
+generation at an institutional level by the University Research Office, which operates under the
+strategic leadership of the Vice-Principal for Research, Knowledge Exchange and Wider Impact
+(VPR). Working as part of the Research Office, Research Finance Services provide pre- and post-
+award management of non-commercial grant applications and awards, and Research and
+Innovation Services support research strategy, consortia building, industrial engagement and
+issues pertaining to intellectual property, licensing, contracts and knowledge exchange.
+
+Research strategy in SSEN, is led by the Associate Dean for Research (ADR), who chairs the
+School Research Committee comprising all cluster leads and the Director of Postgraduate
+Research. The ADR holds a budget that is used to support staff development and networking as
+well as other research-related expenses approved by the Research Committee (such as pump-
+priming activities), with priority given to supporting ECRs. The ADR is a member of the University’s
+Research and Knowledge Exchange Committee and other groups convened by the VPR formed to
+contribute to the development and monitoring of the implementation of University-wide strategic
+objectives. The ADR works closely with the Associate Dean for Industrial Engagement, whose role
+is to provide additional leadership in relation to the School’s engagement with industrial partners
+and organisations, contributing to the economic and social progress of the city, the region and
+beyond. This includes creating and nurturing partnerships with local enterprises, developing
+opportunities for industry-led innovative research and encouraging pathways for impact and
+commercialisation of research. The Research Administrative Lead coordinates a team that
+supports the ADR in sustaining a research-driven culture within the School.
+
+Leadership provided by the AD Research and AD Industrial Engagement and support at
+institutional level has minimised the impact of the COVID-19 pandemic on Mathematical Sciences
+research. During lockdown, academic and research staff were supported to work effectively from
+home and computational resources were fully accessible to support remote working on research.
+Collaborations and supervision were optimised via the use of complementary online platforms.
+
+Computing infrastructure
+A substantial part of the research in Mathematical Sciences is based on numerical simulations of
+physical or biological systems, either to gain a better understanding of these systems or, in case of
+the Numerical Analysis and Scientific Computing cluster, to test and demonstrate the efficiency
+and accuracy of new numerical algorithms. High Performance Computing (HPC) requirements
+across all clusters are supported via scalable infrastructure. In 2014 SSEN established a local
+cluster, which now has 768 cores (640GB RAM) and is principally used by researchers in UOA10
+and 12 for day-to-day research computing needs. A larger, institutional cluster is based in the
+School of Life Sciences and is a high-end facility that currently includes over 4PB of data storage
+with associated offsite backup systems, and over 3,000 CPU cores and 61 NVDIA TESLA
+K80/GTX1080 GPGPU cards. The GPGPU cards are used by members of the MCB cluster for
+molecular dynamics simulations and simulation of biophysics at the cell-scale.
+
+The Unit also has access to a smaller machine with high performance graphics cards that provides
+a test bed for GPU computing. As one example of the impact of these facilities, this infrastructure
+allowed for the development of a GPU-based Lagrangian magnetic relaxation solver using mimetic
+operators leading to the publication by Candelaresi et al., (SIAM J. Sci. Comp., 36, 2014)
+submitted as part of the Unit’s outputs. The software package (Glemur) has been released to the
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+public under the open-source GPL 2.0 licence on GitHub. The Glemur package not only runs
+significantly faster due to its use of GPUs but is also more accurate than its competitors due to the
+implementation of mimetic operators.
+
+These facilities provide support for the genesis, development and up-scaling of large numerical
+simulations, prior to accessing national supercomputing resources such as the DiRAC HPC
+clusters in Cambridge and Durham and ARCHER in Edinburgh. Access to these national HPC
+facilities is supported by STFC funding for the UKMHD consortium (Royal Astronomical Society
+Group Achievement Award (G) for the quality of its work in 2013) of which the MHDA cluster is a
+member. The Unit benefits from support from a team of 18 HPC specialists within University of
+Dundee IT Services. Moreover, the School has a dedicated Computing Officer who maintains the
+facilities and provides hard and software support for staff and students in Mathematical Sciences.
+
+The Unit’s computing infrastructure proved to be a decisive lever in obtaining more that £1.5M of
+research funding from STFC and the Leverhulme Trust.
+
+Physical infrastructure for staff and students
+PhD students share a dedicated open plan space at the heart of the Mathematical Sciences
+footprint within one of the main School buildings. This colocation alongside Unit staff (who benefit
+from individual offices) helps to create a sense of communality and supports interaction as well as
+joint learning. This PhD space houses a dedicated reference library and an individual desk and
+personal computer is provided for each student. The SMSTC and SUPA courses for the students
+are delivered in two dedicated video conferencing suites with state-of-the-art large interactive flat
+panel displays.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+4.1 Research collaborations and networks
+The work carried out by Mathematical Sciences is highly collaborative and interdisciplinary, both in
+its structure (see Section 1.1) and strategy (see Sections 1.4, 1.5). All members of the Unit are
+involved in collaborations and networks on either national or international levels. Such
+collaborations are supported by our research structure (see Sections 1.1, 1.5); pump-prime funds
+are provided by the School and special arrangements can be made regarding teaching schedules
+to enable visits during term time. The research cluster structure as well as the mentoring scheme
+are designed to help ECRs build their own successful collaborations and networks (see also
+Section 2.2). The success of this environment is evidenced in a high number of collaborations and
+networks; exemplars are:
+
+•   Athanassoulis is part of the Scottish Numerical Methods Network (Dundee with Strathclyde,
+    Heriot-Watt and Edinburgh Universities). Support for the network has been awarded by LMS,
+    EMS, IMA, RAS and others totalling c. £12K. (2017 - onwards) to organise a series of
+    workshops, which led to a number of high-profile international speakers coming to the
+    participating universities.
+•   Hornig, Pontin & Russell are part of an ongoing collaboration with Durham University (since
+    2013) on the dynamics of complex plasma, supported by STFC Consortium grants with over
+    £1.3M (see Section 3.1 for details and impact).
+•   Kyza collaborated with cosmologists at Wolfgang Pauli Institute, Vienna on efficient numerical
+    algorithms to describe the formation of galaxies, which led to a Carnegie Research Incentive
+    Grant (2018).
+
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+•   Sicilia-Aguilar is part of international, community-driven, public data projects to which Dundee
+    is contributing via the development and application of the STAR-MELT code for emission line
+    extraction and analysis in high-resolution, time-resolved spectra (funded by STFC grant
+    ST/S000399/S).
+•   Lin is part of a collaboration with colleagues in China (USTB, Shanghai JTU) and Germany (U
+    Magdeburg) on “Simulation and analysis of temporal multiscale problems” which obtained
+    €360K funding from a collaborative NSFC-DFG fund.
+•   Lin collaborated with E Celiker (Cyprus) who worked as a PDRA in Dundee for one year
+    funded by an EU Scholarship Programme, resulting in two publications.
+•   Lin collaborated with colleagues at USTB (China) resulting in funding from NSFC and CSC for
+    four visits of researchers and PhD students.
+•   Sicilia-Aguilar is part of international project "Outflows and Disks around Young Stars:
+    Synergies for the Exploration of ULLYSES Spectra (ODYSSEUS)", which is part of the Hubble
+    Space Telescope "Ultraviolet Legacy Library of Young Stars as Essential Standards
+    (ULLYSES)" project.
+•   Matsumura is collaborating with colleagues at the Earth-Life Science Institute (ELSI), Tokyo
+    Institute of Technology in Japan, as an expert on numerical simulations of formation and
+    dynamical evolution of planetary systems, leading to 12 joint publications so far including two
+    papers attributed to the author in the Unit Output pool.
+•   Meyer collaborated with the Solar & Stellar X-Ray Group at the Harvard-Smithsonian Centre
+    for Astrophysics, with research visits in 2015, 2017 and 2018 funded through NASA-ROSES
+    grant “Studies of Reconnection in Coronal Jets Observed with IRIS”.
+•   Meyer collaborated with colleagues at the Royal Observatory of Belgium through three
+    research visits in 2018-19 funded through the PROBA-2 Guest Investigator Program. This
+    resulted in a publication and is the basis of a new grant application to STFC.
+•   Hall collaborated with colleagues at RWTH Aachen University and WIAS Berlin leading to a
+    project concerning numerical methods for non-Markovian dynamics with applications in
+    finance, which is currently funded by the Alexander von Humboldt Foundation (June 2020).
+•   Hall is participating in an ongoing collaboration concerning stochastic and predictive modelling
+    with applications to nano-porous metamaterials with colleagues from University of
+    Massachusetts Amherst and Stanford University leading to recent grant support from the
+    AFOSR under grant FA-9550-18-1-0214 (June 2020) and six publications so far.
+•   Russell led a team at the International Space Science Institute on “Magnetic Waves in Solar
+    Flares” leading to three publications and code development of HYDRAT and RADYN, used by
+    the community.
+•   Russell is a collaborator on the project “IRIS Fe XXI line profiles as diagnostics for flare
+    heating models” supported by NASA ROSES-2019 Heliophysics Guest Investigator grant.
+•   Pontin collaborated with colleagues at Northumbria University on the project “Revealing the
+    fundamental nature of time-dependent, wave generating reconnection” leading to a successful
+    Leverhulme grant with funding for a PDRA (2015-18).
+•   Murray visited a world leading developmental biologist/dermatologist in the US supported by
+    funding from the Northern Research Partnership, which led to two papers in Cell that received
+    international publicity (e.g., Science Daily, BBC, Guardian, LA Times, Daily Mail).
+
+The Unit is also part of the Scottish Mathematical Sciences Training Centre and the Scottish
+Universities Physics Alliance, both are networks that contribute to the training of our PhD students
+(see Sections 2.3, 3.2 for further details).
+
+
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+4.2 Contributions to and recognition by the research base
+Relative to its size, the Unit has a significant presence in the national and international research
+community. More than 250 invited talks/seminars were delivered by staff in Mathematical Sciences
+over the reporting period. Major awards and their impact are included under Section 3.1. Other
+indicators listed below, including editorial roles, conference organisation and membership of grant
+committees, provide further evidence of the active input to, and recognition by, the international
+research community.
+
+Membership of societies, workgroups, and committees
+• American Geophysical Union (Russell)
+• Edinburgh Mathematical Society (Athanassoulis, Trucu, Davidson, Pontin, Kyza, Hornig,
+   Eftimie, Lin) in various roles including Representative, Treasurer and Member of the General
+   Committee
+• Society for Mathematical Biology (Eftimie, Trucu, Murray)
+• British Society for Immunology (Eftimie)
+• London Mathematical Society (Athanassoulis, Eftimie, Trucu, Kyza)
+• Institute of Mathematics and its Applications (Athanassoulis, Davidson)
+• Society for Industrial and Applied Mathematics (Eftimie)
+• EPSRC Early Career Forum Member (Kyza, 2014 – 2016)
+• Royal Astronomical Society (Sicilia-Aguilar, Russell)
+• International Astronomical Union (Sicilia-Aguilar, Russell)
+• European Astrobiology Institute Project Team on Protoplanetary disks (Sicilia-Aguilar, since
+   2020)
+• UK Solar Physics Council member (Pontin 2016 – 2019, Russell 2012-16, Hornig 2011-15)
+• International Space Science Institute, team “New Diagnostics of Particle Acceleration in Solar
+   Coronal Nanoflares from Chromospheric Observations and Modelling” (Russell invited
+   member 2015-18)
+• International Space Science Institute, team “Magnetosphere and Ionosphere as a Coupled
+   System: Theory and Observations” (Russell invited member 2013-14)
+• NASA Chandra satellite proposal peer review member (Gregory, Deputy Chair, 2015)
+• Mills Observatory Advisory Committee (Sicilia-Aguilar, 2018-present)
+• Marie Sklodowska- Curie fellowships, European Commission (Zachariae member of the
+   evaluating panel)
+• Young Stars Working Group for the Arago Space Mission proposed to the European Space
+   Agency (Sicilia-Aguilar, 2015-2016)
+
+Editorial roles
+• Frontiers in Applied Mathematics and Statistics, Editorial Board (Eftimie)
+• Frontiers in Medical Technology, Editorial Board (Pisliakov since 2019)
+• Fungal Ecology, Editorial Board (Davidson since 2010)
+• International Journal of Computer Mathematics, Editorial Board (Lin since 2018)
+• Journal of Mathematical Biology, Editorial Board (Eftimie)
+• Journal of Applied Mathematics, IMA Editorial Board (Davidson since 2007)
+• Journal of Structural Biology, Editorial Board (Zachariae)
+• Journal of Theoretical Biology, Associate Editor (Eftimie)
+• Mathematical Biosciences and Engineering, Advisory Editor (Eftimie)
+• Mathematics in Applied Science and Engineering, Associate Editor (Eftimie)
+• Numerical Mathematics: Theory, Methods and Applications, Editorial Board (Lin since 2007)
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+•   PLOS Computational Biology, Guest Editor (Zachariae)
+•   Proceedings of the Royal Society of Edinburgh Series A, Editorial Board (Davidson since
+    2013)
+•   PLOS ONE, Editorial Board (Eftimie, Trucu)
+•   Scientific Reports - Nature, Editorial Board (Zachariae, Matsumura, since August 2016)
+
+Conference organisation
+Mathematical Sciences at Dundee actively promoted the exchange of scientific knowledge and
+ideas by organising 29 conferences, workshops or mini-symposia over the reporting period. Among
+those were mini-symposia at the International Congress on Industrial and Applied Mathematics
+(2019, Trucu), the British Applied Mathematics Colloquia (2018, Athanassoulis, Pontin, Russell,
+Trucu, Kyza, Ptasnyk), Annual Society for Mathematical Biology Meeting (2017, Eftimie, Trucu),
+European Conference on Mathematical and Theoretical Biology (2014, 2016, Ptashnyk), AIMS
+Conference on Dynamical Systems, Differential Equations and Applications (2014, Ptashnyk) and
+the Royal Astronomical Society National Astronomy Meeting (2014, Gregory). A prominent
+example for workshops organised for the regional community is a series of workshops under the
+title “Scottish Numerical Methods Network” (2017, 2018, Athannassoulis), which brought a range
+of international experts to the region and was supported by grants from the LMS, EMS, IMA and
+RAS.
+
+Grant committees/ funding bodies
+• EPSRC Peer Review College Member (Davidson, Eftimie, Lin)
+• EPSRC Mathematics Prioritisation Panel Meeting (Kyza, 2015, 2018, Murray, 2019)
+• STFC Peer Review Member (Hornig, Pontin, Sicilia-Aguilar, Russell)
+• DiRAC Panel on Astronomy and Cosmology for the evaluation of computational programmes
+   in UK universities (Matsumura, 2015-2017, Sicilia-Aguilar, 2018-2020).
+• STFC, Ernest Rutherford Fellowships panel member, (Hornig 2016, Pontin 2018)
+• INSERM (Paris, France) for the call “Interdisciplinary approaches in oncogenic processes and
+   therapeutic perspectives: contributions of mathematics and informatics to oncology” (Eftimie)
+• Volkswagen Stiftung (largest German private foundation), grant panel member (Hornig, since
+   2018)
+• NASA “Living with a Star” grant panel member (Pontin, 2018)
+• NASA Research Opportunities in Space and Earth Sciences programme, Grant panel member
+   (Russell, 2016)
+• NASA Solar System Workings, grants panellist (Matsumura, 2014)
+• NASA Heliophysics Supporting Research panel member (Meyer, 2018)
+• NASA grants panels, external examiner (Matsumura, 2014, 2015, 2016)
+• MINECO Research Grants (main Spanish public funding body) External Referee (Sicilia-
+   Aguilar, since 2017)
+• Lise Meitner Position and the Erwin Schrödinger Fellowship, Austria (Sicilia-Aguilar, 2015-
+   16).
+• Research Grant Council of Hong Kong External Referee (Lin, since 2012)
+• UKRI Future Leaders Fellowships, external examiner (Sicilia-Aguilar)
+
+Keynote/plenary/public talks at conferences (selection only)
+• Keynote Speaker Davidson, MiCom14 4th International Conference on Microbiology for Young
+   Scientists, Jena, Germany, April 2014.
+• Mentor and Plenary Speaker Lin, British Council Researcher Link Workshop on Soft Matter,
+   Daejeon South Korea, March 2014.
+
+                                                                                        Page 14
+Unit-level environment template (REF5b)
+•   Plenary Speaker Trucu, International Conference on Mathematics for the Natural and Life
+    Sciences, University of Tlemcen, Algeria, November 2014.
+•   Keynote Speaker Lin, 9th International Conference on Computational Physics, National
+    University of Singapore, January 2015.
+•   Plenary Speaker Trucu, International Conference on Perspectives in Environmental and
+    System Biology, Universite Joseph Fourier, Grenoble, April 2015.
+•   Keynote Public Lecture Davidson, British Association of Science Lecture Series, Dundee,
+    January 2016.
+•   Plenary Speaker, Zachariae, Annual Meeting, Biophysical Society, Los Angeles, February
+    2016.
+•   Keynote Speaker Lin, Bi-annual Conference of the East Asia Section of SIAM, University of
+    Macau, June 2016.
+•   Public Talk Sicilia-Aguilar, Jöst Bürgi International Symposium, Lichtenstein, April 2018.
+•   Keynote Speaker Eftimie, BIOMATH 2018: International Conference on Mathematical
+    Methods and Models in Bioscience, Sofia, Bulgaria, June 2018.
+•   Keynote Speaker Eftimie, Workshop PDE Models for Cancer Invasion, Belfast, Northern
+    Ireland, December 2019.
+•   Plenary Speaker Trucu, International conference “Intensive Research Programme: Recent
+    Progress in Mathematical Biology”, Centre de Recerca Matematica Barcelona, Spain, June
+    2018.
+•   Plenary speaker Lin, Annual Conference of the Computational Mathematics Association of
+    Beijing and surrounding provinces, Henshui, China, August 2018.
+•   Plenary Speaker Lin, 16th International Conference for Mesoscopic Methods in Engineering &
+    Science, Heriot-Watt University, July 2019.
+
+4.3 Contributions to the wider community
+The Unit actively responded to calls to address local and global challenges. For example, Lin’s
+collaboration with colleagues in India led to pump-prime funding from the Global Challenges
+Research Fund in 2017. Eftimie's collaborations with colleagues across the University resulted in
+two projects awarded to Dundee (c. £500K) from the Chief Scientist Office (Scotland) as part of the
+Rapid Research in Covid-19 Programme. Zachariae was selected to apply to the UKRI-BBSRC
+COVID-19 Agile Response Call (award made – see Section 1.3).
+
+Public Engagement activities directly related to Mathematical Sciences are co-ordinated by
+Russell and Sicilia-Aguilar, who work closely with other outreach leads across the School.
+School-wide coordination and support is provided by the School’s Director of Public Outreach and
+Engagement. Activities benefit from close links with key stakeholders locally and nationally and
+strong links exist with local high schools, the Dundee Science Centre, the V&A Museum Dundee,
+and the Mills Observatory, all of which provide accessible, well-known and well-connected
+platforms for events.
+
+Throughout the recording period, Unit staff contributed to 22 separate outreach events. These
+included regular workshops at local high schools as contributions to national initiatives like Maths
+Week Scotland. Other activities initiated by the Unit were designed to enthuse and engage young
+adults in mathematics and its applications through the research it conducts. A particular aim of the
+Unit’s public engagement activities was to encourage more females to engage with mathematics.
+The Unit contributed to the Women in Science Festivals e.g. Meet the Expert (2015) and Family
+Fun with Women in STEM (2020) as well as Girls in Physics events hosted by the Institute of
+Physics (several events in Tayside and Fife in 2019, 2020). Staff contributed focussed activities as
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+part of event series e.g. the Saturday Science and Wednesday Wonders series at the local Mills
+Observatory (MHDA) as well as organising special events such as Life and Light (2014) (MHDA
+and MCB) and Nature’s Equations – D’Arcy Thompson and the Beauty of Mathematics (2015)
+(MCB) both at the Dundee Science Centre.
+
+The Unit has also designed and run two major public engagement activities during the reporting
+period:
+
+Travel Through a Solar Storm: an immersive virtual reality experience (2016 onwards) This STFC
+funded outreach project (Janvier) provided a virtual reality (VR) experience through which
+participants could witness the birth of a solar storm, its journey across space and its impact with
+Earth (http://www.solarstormvr.com/). The project was first presented at SMASHfestUK in February
+2016 and since then at the Edinburgh International Science Festival, the Cheltenham Science
+Festival, and the Dundee Science Centre.
+
+Dundee Science Festival 2014. Mathematics was awarded the main auditorium at the Dundee
+Science Centre and in total 16 staff manned 10 separate display stations with 681 guests passing
+through the centre. Each hands-on exhibit presented an interesting phenomenon related to our
+research, including examples for chaos, biofilms, fungal growth, magnetic fields, and the dynamics
+of interfaces of rising bubbles. Feedback highlighted the popularity and effectiveness of our
+approach of using hands-on exhibits to introduce mathematical concepts in an interactive way and
+provide a starting point to explore and discuss mathematical ideas and how these impact our daily
+lives.
+
+
+
+
+                                                                                          Page 16
+

@@ -1,0 +1,1302 @@
+Unit-level environment template (REF5b)
+
+ Institution: University of Warwick
+
+ Unit of Assessment: B9 Physics
+
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Structure of Research
+  We aim to make discoveries across fundamental and applied physics and to apply that
+  knowledge for the benefit of society. Over the last two REF cycles, we have expanded our
+  collaborative and interdisciplinary activities within the University and beyond, and this has led to
+  important impacts, particularly in the industrial and health sectors. Our strategy in core physics
+  has been to build research power in astrophysics and particle physics, complementing our
+  existing strengths in condensed matter, plasmas and theory. We now have critical mass in all
+  our main areas of activity, with each working at the forefront of knowledge.
+  This REF period has seen continued growth in research volume – paper output (800 p.a.) and
+  research awards (£21M in 19/20) have both doubled – and quality (average citation rate
+  increased from 13 to 23 per article, total citations >40,000 p.a, 12 staff in the top 2% of global
+  scientists per Stanford list), together with increased interaction with other disciplines and
+  impact. Physics has a ten-year growth strategy, that includes expansion into new thematic and
+  interdisciplinary areas, and will benefit from considerable investment in new science
+  infrastructure. Much of the growth in this period has been achieved by appointing excellent
+  early career researchers, who by 2030 will represent the core of the department.
+  Research in Physics is structured around five Research Clusters. Table 1.1 shows growth in
+  every cluster since 2014, with the number of independent researchers submitted to REF2021
+  increasing by 38%. A corresponding increase in supported research is reflected in more
+  PDRAs and PhDs. Boundaries within and between clusters are deliberately loose to encourage
+  interaction between staff and with other departments/outside organisations. The clusters set
+  their own priorities, guided by the departmental strategic framework developed after external
+  review in 2012 (20:20 Vision) and renewed in 2019 (2030 Insight). In this, we have set priorities
+  for future investment and expansion for the periods before and after moving into a new Physics
+  building (University’s STEM Grand Challenge, REF5a-4.2), which is a major part of the
+  institutional strategy Excellence with Purpose (REF5a-2.1) planning 40% STEM growth at
+  Warwick by 2030.
+
+    Research Cluster                      Independent              Postdocs               PhDs
+                                           researchers
+                                        2013       2020          2013      2020     2013     2020
+    Astronomy & Astrophysics              8           16           5        17       10          23
+    CFSA                                  8            9           7         9       26          22
+    Condensed Matter Physics           23 (+6#)    28 (+3#)       31        35       64          87
+    Elementary Particle Physics           9           18          11        13       17          22
+    Theoretical Physics                   7           10          10        10       22          22
+    Total                                 61          84          64        77      139       176
+
+         Table 1.1: Distribution of research active staff and PhD students (heads), showing
+          change between REF2014 and REF2021 census dates. #Submitted in UOA12.
+
+
+                                                                                                  Page 1
+Unit-level environment template (REF5b)
+
+ 1.2 Research Objectives
+ The following highlights illustrate alignment to the objectives set out in REF2014 and future
+ direction for each research cluster:
+    a) Astronomy & Astrophysics (A&A) focuses on time-resolved observational astrophysics,
+       encompassing white dwarfs [Gänsicke, Marsh, Tremblay], high energy transient events
+       such as gamma-ray bursts (GRB) or mergers of stellar remnants that generate
+       gravitational waves (GW) [Levan, Lyman, Stanway, Steeghs], and the discovery/study
+       of exoplanets [Pollacco, West, Wheatley]. A&A staff make extensive use of ground- and
+       space-based telescopes, and we operate our own facilities at premier observing sites in
+       Chile and La Palma.
+
+        A&A is world-leading in the theoretical and observational analysis of white dwarfs. By
+        exploiting data from the European Space Agency (ESA) Gaia mission we have enlarged
+        the sample of known white dwarfs by an order of magnitude, and are leading the
+        spectroscopic follow-up within the WEAVE, DESI, SDSS-V and 4MOST surveys
+        [Gänsicke, Tremblay]; uniquely, A&A leads activity in all four experiments, as well as
+        making high-time resolution observations of these systems with instruments we have
+        developed [Marsh].
+
+        Multi-messenger astrophysics is a rapidly growing area with enormous potential,
+        especially driven by advances in LIGO’s sensitivity and the ESA LISA mission due to
+        launch in the 2030’s. A&A is leading UK efforts to identify optical counterparts to GW
+        events with our purpose-built Gravitational-wave Optical Transient Observer (GOTO,
+        §3.2d) [Lyman, Steeghs]; two additional academics will be recruited in 2021 to expand
+        this activity as a core of our forward strategy.
+
+        Exoplanetary science is a frontier research field in astrophysics. A&A has capitalised on
+        the colocation of experts from the Wide Angle Search for Planets (WASP/SuperWASP)
+        consortium and recruited a further 7 academic posts and 3 permanent research officers in
+        this area to position Warwick as a leading global centre for exoplanet science (§2.1a).
+        We aim to cover the full life-cycle of planets from their formation in the dusty proto-
+        planetary discs around stars [Kennedy, Meru], through a potentially habitable phase
+        [Bayliss, Brogi, Cegla], to debris on stellar remnants [Gänsicke, Tremblay, Veras].
+        Although principally an observational group, recent hires have provided significant
+        modelling expertise [Tremblay, Veras] and developed machine learning techniques to
+        find planets in massive survey data sets [Armstrong]. Building on the SuperWASP
+        legacy, A&A has led development of the Next Generation Transit Survey (NGTS, §3.2b),
+        which is now routinely discovering exoplanets of Neptune or smaller size [Bayliss,
+        Wheatley]. Furthermore, Pollacco has driven the PLATO (PLAnetary Transits and
+        Oscillations of stars, §3.2a) space telescope mission to adoption by ESA for launch in
+        2026 to search for Earth-like planets around bright stars.
+
+        A&A have developed an astrodynamics activity applied to debris in the near-Earth
+        environment. Initially based on SuperWASP data, this has expanded to include other
+        facilities, dynamical modelling, and partnership with DSTL, to commercialise tracking of
+        bodies in low-Earth and geosynchronous orbits.
+
+
+
+
+                                                                                                 Page 2
+Unit-level environment template (REF5b)
+    b) The Centre for Fusion Space & Astrophysics (CFSA) is an interdisciplinary centre
+       embracing plasma physics applied to the grand challenges of magnetic and inertial
+       confined fusion power (MCF, ICF), space plasma physics, solar physics, and
+       astrophysics. The research spans fundamental theory, observation, and the analysis of
+       experimental data, combined with high performance computing (HPC).
+
+       CFSA is engaged with key plasma research centres in our region, including Culham
+       Centre for Fusion Energy (CCFE), Rutherford Appleton Laboratory (RAL) and AWE, as
+       well as large, multi-£B international facilities for fusion (JET, MPI, KSTAR, ITER)
+       [Chapman, Dendy, Hnat, McMillan], extreme plasmas (LLNL) [Gericke] and solar/space
+       missions (NASA-Parker Solar Probe, NASA-SDO, GONG, ESA-Solar Orbiter, Cluster)
+       [Broomhall, Nakariakov, Verwichte]. Recognising the importance of host star dynamics
+       to planetary evolution has enabled us to exploit synergies between CFSA and A&A
+       research in solar flares, astroseismology and transient astronomy.
+
+       CFSA is the leading centre for plasma HPC codes (e.g. EPOCH [Impact Case Study,
+       ICS-1], Odin) applied in fusion physics, space weather prediction, and fundamental
+       plasma physics of the solar corona, shocks and turbulence. CFSA works with
+       international MCF experiments, combining simulation with experimental data to unravel
+       kinetic physics underlying stability, current generation, and remote diagnostics for burning
+       plasmas, all of which are on the critical path to fusion as a commercial power source. In
+       this cycle, Arber’s activity has expanded into ICF.
+
+       With space weather now on the UK National Risk Register, CFSA investigates the full
+       chain of fundamental solar-terrestrial plasma physics and its implications. Nakariakov
+       leads international radio astronomy projects based on his nonlinear MHD modelling and
+       analysis of solar coronal observations. Arber is engaged in developing European space
+       weather forecasting capability. Chapman, supported by a Fulbright scholarship, has built
+       collaborations in space weather with leading institutes, most notably JHU/APL and NASA-
+       JPL, and applied her analysis to climate change and its economic consequences in
+       collaboration with Georgetown University, LSE, and the NORKLIMA network on climate.
+
+    c) Condensed Matter Physics (CMP) combines in-house experimental materials growth
+       and characterisation research with research at, and management of, international
+       facilities. CMP, previously structured as individual (REF2008) or combined (REF2014)
+       research groups, is now returned as a single cluster to reflect the many interactions and
+       collaborations between staff.
+
+       Activity in magnetic materials, 2D layered materials and ferroics has increased, through
+       new appointments and facilities for thin-film devices [Alexe, Broome, Wilson]. Prior
+       work in semiconductors and surface science [Bell, Leadley] has been applied to new
+       research fields, such as Van der Waals epitaxy.
+
+       High resolution electron microscopy and X-ray diffraction underpin our nanoscale
+       materials research [Beanland, Sanchez, Sloan, Thomas]. We make extensive use of
+       and contribute to development of international neutron and synchrotron facilities (ISIS,
+       ILL, ESRF, SPring8, Elettra etc.) [Bikondoa, Duffy, Hase]; together with Liverpool, we
+       have run the XMaS beamline at the ESRF as a UK National Facility for over 20 years
+       (§3.3b).
+
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+       The Warwick Centre for Ultrafast Spectroscopy (WCUS, §3.3g) was co-created in 2016
+       by Lloyd-Hughes as a multi-user, femtosecond laser facility. Our terahertz activities
+       have expanded with the appointment of Milot and MacPherson, whose THz studies of
+       skin increases our medical physics activity, with impact in healthcare.
+
+       Single crystals of materials exhibiting high-Tc superconductivity, frustrated magnetism, 2D
+       skyrmions, and topological insulators grown in Warwick are much sought-after and
+       supplied to over 50 different research groups worldwide, as well as fuelling our extensive
+       research program [Balakrishnan, Goddard, Lees, Paul, Petrenko, §3.3d].
+
+       Warwick’s NMR strategy is to be at the leading edge of technique development and
+       central to UK provision, running the UK National Facility for High Field Solid State NMR
+       since 2010 [Brown, Hanna, Iuga, Dupree, §3.3a]. Our ssNMR research is highly
+       applicable to a range of industries, spanning pharmaceuticals, materials for catalysis,
+       biomaterials for tissue engineering, energy materials, supramolecular hydrogels, and
+       cellulous in plant cells. Work with research partners, such as Astra Zeneca, BP,
+       Infineum, Johnson Matthey, has led to significant impact [ICS-4].
+
+       Diamond research [Newton, Green, Morley, §3.3d] benefits from a long-standing
+       relationship with De Beers and Element Six; commercial application led to ICS-3 & ICS-5.
+       Warwick leads the UK Diamond Science and Technology (DST) CDT and have
+       participated in three of the four UK Quantum Technology Hubs. Our research into
+       diamond NV centres has led to expansion into theory and practical quantum
+       measurement [Green, Newton, Morley, Datta, Broome].
+
+       Ultrasonics research [Dixon, Edwards], concentrating on industrially relevant research
+       challenges, has led to three spin-outs in addition to generating impact with industry [ICS-
+       2] through Warwick’s Centre for Industrial Ultrasonics (CIU) [ICS-6] and the UK Research
+       Centre for Non-destructive Evaluation (RCNDE).
+
+    d) Elementary Particle Physics (EPP) activity encompasses energy frontier studies with
+       ATLAS, flavour physics with LHCb, and neutrino studies with T2K and now DUNE &
+       Hyper-K. Research focuses on detector development, trigger hardware/software; event
+       simulation/reconstruction; and physics analysis. EPP research capability has been
+       significantly strengthened by strategic appointments in key areas: ATLAS trigger/real-time
+       analysis [Becker, Facini], LHCb analysis [Kenzie, Vesterinen], neutrino interaction
+       reconstruction [Marshall] and neutrino water Cherenkov detector readout and analysis
+       [Richards]. EPP have a strong leadership record in major international collaborations:
+       Gershon, Murray, Ramachers, Harrison have been Physics Coordinators for LHCb,
+       ATLAS, SuperNEMO and BaBar, respectively; Barker, Farrington & Gershon have
+       coordinated UK partners; all researchers are encouraged to take convener roles of
+       important working groups (§4.1d).
+
+       EPP are contributing significantly to LHC upgrade projects and future neutrino
+       experiments. For ATLAS, we deliver production and quality control of Inner Tracker
+       modules [Mitra]. For LHCb [Back, Kreps, Latham, Morgan], Gershon is UK leader for
+       Upgrade 2, we are part of TORCH, and have a key trigger upgrade role. In neutrino
+       physics, Barker is PI of DUNE-UK; Marshall leads development of LAr reconstruction
+       software; Boyd has a lead role in implementing optical calibration for Hyper-K and
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+        Watchman, and Richards provides the data acquisition for many water Cherenkov
+        projects, including Hyper-K. Ramachers’ interest in high precision, ultra-low background
+        experiments has opened new opportunities in quantum sensor technology for neutrino
+        mass measurement (QTNM), dark matter (Darkside) and neutrinoless double-beta decay
+        (LEGEND).
+
+    e) Theoretical Physics, Soft Matter & Biophysics (TP) works on problems in non-
+       equilibrium biophysics, the dynamics of complex fluids, molecular and materials
+       modelling, quantum transport and quantum information science. TP’s longstanding
+       leadership of scientific research computing across the University, Quigley’s direction of
+       the Scientific Computing Research Technology Platform, and appointments of Hine and
+       Bartok-Partay (joint with the School of Engineering, SoE) place TP at the heart of the
+       University’s strong, interdisciplinary computational materials modelling capability (§1.3d,
+       §3.4). TP members collaborate extensively with experimental groups working on both
+       hard condensed matter and bio-/soft matter, e.g. 2D heterogeneous materials,
+       nanocrystallisation, permanent magnets [d’Ambrumenil, Hine, Quigley, Römer
+       Staunton]. Datta’s expertise in quantum information theory complements quantum
+       technology developments by experimental CMP colleagues. Theoretical physics ideas
+       [Ball, Römer, Turner, Alexander] are applied to mathematics of complex systems and
+       the biosciences in interdisciplinary activities relating to antimicrobial resistance and
+       physics of life [Polin, Kantsler]. As a result, an integrated theory/experimental project on
+       DNA transcription combined optical measurements with theoretical modelling.
+
+ 1.3 Interdisciplinary research
+    a) Interdisciplinarity is a key theme that enhances the vitality and sustainability of Warwick’s
+       research environment. The compact campus, open approach, and thematic Global
+       Research Priorities (GRP, REF5a-2.9.1) present opportunities for physicists to have an
+       impact on some of the world’s most challenging issues through research in health,
+       manufacturing, energy, food etc. Physics academics regularly work across disciplinary
+       boundaries, collaborating on projects in chemistry, biophysics, medical physics, plant
+       science and engineering. Physics initiated the Materials GRP (co-led by Leadley until
+       2019) and created a cross-faculty Centre for Habitability, co-led by Armstrong, that has
+       become a University-wide GRP with members’ interests spanning astrophysics and life
+       sciences, to philosophy and film studies. In 2020, Ball initiated the interdisciplinary
+       Warwick Centre for Soft & Active Matter to create a critical mass of 30+ academics from
+       six departments, with interests spanning biological physics, polymers, nanocomposites
+       and properties of cells.
+    b) Two staff have 50% joint appointments with SoE – in the Centre for Industrial Ultrasonics
+       (CIU) and in computational materials modelling; two soft matter physicists have 30%
+       appointments in Warwick Medical School (WMS). Three staff whose research is in
+       applied physics/engineering are submitted in UOA 12 (Dixon, Edwards & Myronov).
+    c) Joint activity with Chemistry in the Millburn House Magnetic Resonance Centre extends
+       to shared CDTs on analytical science and diamond. We operate joint facilities with
+       Chemistry for X-ray photoemission spectroscopy (XPS) and ultrafast spectroscopy
+       (WCUS, §3.3g). Research Technology Platforms (RTP, §3.3c, REF5a-4.3) for X-ray
+       diffraction, electron microscopy, spectroscopy and scientific computing, directed by
+
+
+
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+         Walton, Beanland, Newton and Quigley, respectively, provide facility access and data
+         analysis for researchers across the institution and external users.
+    d) TP have a close relationship with Mathematics, esp. via Complexity, and co-supervise
+       PhD students from interdisciplinary CDTs in mathematical, physical and life sciences.
+       With the Centre for Predictive Modelling, Staunton and Hine created the EPSRC CDT in
+       Modelling of Heterogeneous Systems (HetSys), which spans six departments. CDT
+       activity unites researchers through jointly supervised PhD projects, retreats, workshops
+       and interdisciplinary seminar series.
+    e) Our widespread collaboration in projects and international facilities (§4.1) provides further
+       opportunities for interdisciplinary activity.
+
+ 1.4 Impact
+    a) Our research and expertise are relevant in application areas across energy, materials,
+       electronics, pharmaceuticals, as well as satisfying curiosity to understand the Universe.
+       Our impact strategy is to ensure all researchers recognise the potential for impact
+       inherent in their work and are provided with the time, skills and support to develop it.
+    b) Physics has built a strategy to actively manage the development of impact from our
+       research and embed this within the culture. An academic Impact Director (REF5a-2.6),
+       supported by an Impact Manager help researchers recognise exploitable aspects of
+       their research, identify support mechanisms, build relationships with partners, and track
+       progress from early stage ideas to IP licenses and/or establishment of fully-formed spin-
+       out companies. The Physics Impact Director represents all of STEM on the University’s
+       Research Impact Advisory Group (REF5a-2.6). External users can access our
+       expertise and facilities for short term, responsive projects that have been key to
+       developing our impact, as illustrated in our ICSs. We have provided incubation space
+       for three spin outs over the period: Sonemat, Advanced-Epi, Cytoswim.
+    c) Close contact with support staff in R&IS (REF5a-1.7), Warwick Innovations (WI, REF5a-
+       2.8) & Warwick Scientific Services (WSS, REF5a-4.3.1) enables rapid signposting of
+       opportunities and linking potential beneficiaries to the researchers. The impact support
+       teams agree flexible IP positions and impact pathways with industrial collaborators at
+       the start of research and translational projects, which also enables us to gather
+       information on end-users of the technology.
+    d) For astronomy and particle physics, where direct pathways to impact are less obvious,
+       an STFC Innovation Partnership Fellow (IPF) has been employed to seek exploitation
+       opportunities which form an important part of our future impact pipeline (§4.2b).
+    e) Co-funded PhDs are very effective for external engagement. As well as EPSRC CASE
+       studentships, Warwick Collaborative Postgraduate Research Studentships (WCPRS)
+       share costs 50:50 between University and industrial partner. Currently, 27 PhD
+       students have support from companies including Johnson Matthey, AWE, Huawei,
+       De Beers, Rolls Royce, EDF, GSK and AstraZeneca, with their projects featuring in our
+       ICSs. HetSys-CDT runs 3-day Industry Study Groups where staff and PhDs collaborate
+       on genuine commercial problems.
+    f)   Staff are encouraged and supported to develop Impact from their research via:
+           i.   Funding for staff time, consumables, equipment, prototype construction,
+                secondments into and out of Physics for staff devoted to exploitation projects.
+                Over £1M has been distributed from EPSRC/STFC IAAs & HEIF, via the
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+                Warwick Impact Fund (REF5a-2.7), with a further £1M via ERC Proof of Concept
+                and Innovate UK.
+          ii.   Time for impact activities, made available within our workload model and the
+                University Impact Leave scheme (REF5a-2.6), e.g. Brown spent 20% of his time
+                for two years at AstraZeneca developing their ssNMR capability [ICS-4].
+         iii.   Embedding themselves in company activities, supported via Royal Society
+                Industry Fellowships (Dixon at Rolls Royce, ICS-6) or the company (Newton at
+                Element Six ICS-3).
+         iv.    Employing Knowledge Transfer Partnership fellows in companies
+                (Brown - 3 KTPs with AstraZeneca; Hanna - KTPs with Infineum, Cryogenic).
+          v.    Welcoming company staff (e.g. from Arcinova, Element Six) to use our facilities
+                as Visiting Professors/Researchers.
+         vi.    IAA funds have been used to employ consultants e.g. to advise on creating
+                Sonic Driver Ltd. from Dixon’s ultrasonics research and setting up its
+                manufacturing capability [ICS-2].
+        vii.    Protecting IP, with support from R&IS/WI to create initial NDAs, negotiate
+                contracts for partnership activities, registering 43 new patent applications, and
+                creating 10 new license agreements.
+        viii.   Training researchers in entrepreneurship and identifying a market, through
+                courses for staff, within doctoral training, and especially the ICURe scheme for
+                ECRs (REF5a-2.8) experienced by three staff resulting in spinouts EddySense,
+                Advanced Epi. and Cytoswim.
+         ix.    Academic promotion criteria have been revised to explicitly reward engagement
+                with external stakeholders and generation of impact – impact featured in eight
+                successful promotions, including four to Professor.
+    g) Engagement activities are supported financially and logistically, ranging from bottom-up
+       networking events for academics and industry on specific topics, branded as “Physics
+       Days”, to international meetings utilising Warwick Conferences’ excellent facilities.
+       Internal “Impact Days” highlight the range of potential impactful activities to PhDs,
+       PDRAs, academic staff and support teams, create networking opportunities and inspire
+       others to engage, thereby ensuring vitality and sustainability. Physics originated
+       external facing “Industry Days” on specific themes to promote collaborative research
+       (§4.2a). These now extend across STEM and have directly led to staff secondments
+       and new projects. Newton (Conference Chair) organises The Annual Diamond
+       Conference in partnership with De Beers (held at Warwick since 2009), attracting over
+       150 academics, equipment manufactures and end users of diamond products.
+       Networking from this event underpins the DST-CDT, external funded use of the
+       Spectroscopy RTP, and ICS-3/5. Annual CIU meetings and focus groups, attended by
+       industrial partners and local MPs since 2011, have led to more than 20 industry
+       collaborative projects [ICS-6].
+    h) Societal impact is generated from enhancing public knowledge of our exciting science.
+       Research-based and educational outreach is delivered enthusiastically to schools, the
+       general public, and industry across all our main research themes (§4.3).
+
+
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+
+ 1.5 Open research environment
+    a) Research papers are made available Open Access either before or immediately after
+       publication on preprint servers, arXiv, INSPIRE, ADS and/or our institutional repository
+       WRAP (REF5a-2.10). Gold OA is enabled where funding is provided by the research
+       sponsor.
+    b) We follow the Concordat on Open Research Data (2016). Thomas chaired the Open
+       Research Data Task Force, making recommendations to Government to benefit from
+       open research data more rapidly. Examples of our engagement with open data:
+              Researchers deposit publication data in WRAP as a permanent archive with
+               persistent DOI.
+              The large consortia (e.g. ATLAS) and international facilities we use all have data
+               sharing agreements.
+              SuperWASP data acquired since 2004 is available via the NASA Exoplanet
+               Archive; 18 million lightcurves can be interrogated; papers on WASP planets
+               have appeared at a rate of 34 p.a. throughout this REF cycle.
+              The SDSS-V Science Archive is seen as its main product; previous SDSS data
+               releases led to >10,000 papers.
+              GOTO will survey the whole sky regularly, and publicly share discoveries in near
+               real-time to maximise opportunities for studying the relatively short-lived events it
+               discovers. Its survey dataset will offer a legacy archive for a broad range of time-
+               domain astrophysics.
+              NGTS releases reduced data products through the European Southern
+               Observatory (ESO, our host) archive.
+              XMaS follows the generic ESRF data sharing policy; raw data is backed-up on
+               tape after 6-months with associated metadata, and made publicly available after
+               three years. Commercial users pay an access fee for data rights; no copies are
+               retained to protect the data.
+              The National Facility for High Field ssNMR retains raw and processed data at the
+               spectrometer, with daily backup. Users access their data remotely from
+               protected directories, with confidential data invisible to others. After a period,
+               non-proprietary data becomes public.
+              For data intensive activities, only the code and parameters are stored, as
+               rerunning a simulation is more economical than storing TBs of output data.
+              Software is developed as Open Source (§3.4b) and made publicly available for
+               non-commercial use [ICS-1].
+
+ 1.6 Support for a culture of research integrity
+    The University Research Integrity and Ethics Committee (REF5a-2.4/2.5/2.11), which Leadley
+    chairs as DPVC for Research, ensures the Concordat to Support Research Integrity is followed
+    and provides ethical approval for research projects; esp. in medical and biological physics.
+    All researchers (and PhDs) are required to complete Epigeum’s Research Integrity training
+    alongside modules on ED&I and Unconscious Bias. Guidelines have been developed to
+    enable international collaboration within the Trusted Research framework.
+    Warwick supports the Technician Commitment (§2.1k) and the principle of fair attribution.
+
+
+
+                                                                                                Page 8
+Unit-level environment template (REF5b)
+
+ 2. People
+ 2.1 Staffing Strategy and Development
+    a) Our staffing strategy has been to expand while ensuring long-term sustainability. This
+       has been achieved by (i) primarily recruiting at Assistant Professor level and developing
+       staff internally; (ii) confirming indefinite positions for Senior Research Fellows who have
+       either attained independence or remain vital to delivering our research; (iii) attracting
+       holders of prestigious fellowships, and retaining them with indefinite positions – nine
+       joined in the period. In total, 44 substantial fellowships have been held:
+
+   UKRI              Future Leaders Fellow          Cegla*, Lyman*, Richards*
+                     Stephen Hawking Fellow         Nealon*
+   EPSRC             Career Acceleration Fellow     Datta, Goddard, Lloyd-Hughes, Quigley
+                     Established Career Fellow      Dixon*, Sloan*
+                     Leadership Fellow              Turner
+                     Daphne Jackson Fellow          Spiga*
+   STFC              Ernest Rutherford Fellow       Armstrong*, Kenzie*, Veras*, Vesterinen*
+   Royal Society     Dorothy Hodgkin Fellow         Meru*
+                     Industrial Fellow              Dixon*
+                     University Research Fellow     Blake*, Morley*, Kennedy*
+   RAEng             Industry Fellow                Dixon
+                     Research Fellow                Green*
+   Leverhulme        Research Fellow                Gänsicke*, Kapourniotis, Marsh*,
+                                                    Meru, Oates, Turner*
+   1851              Research Fellow                Knee
+   ERC               Advanced Grant                 Gänsicke, Nakariakov
+                     Consolidator Grant             Farrington*, Goddard*, Levan*, Vesterinen*
+                     Starter Grant                  Edwards, Gershon, Tremblay*
+   Fulbright-Lloyds of London Scholar               Chapman
+   Humboldt          Research Award                 Alexe*
+   Wolfson           Research Merit Award           Alexe, Pollacco, MacPherson*
+
+                           Table 2.1 Fellowships held. *current awards
+          The 28 indefinite appointments since REF2014 are designed to:
+              Strengthen TP – Datta (2015, quantum measurement), Hine (2015, materials
+               modelling), Bartok-Partay (2019, materials modelling, 50:50 with SoE)
+              Enhance CMP, refocussing and linking existing staff – MacPherson (2017,
+               THz/medical), Broome (2018, 2D materials/quantum), Milot (2018,
+               THz/photovoltaics).
+              Develop EPP, opening opportunities for new projects – Mitra (2016, hardware),
+               Marshall (2018, neutrinos), Vesterinen (2018, LHCb), Facini, Becker (2019,
+               ATLAS), Kenzie (2019, LHCb), Richards (2019, neutrinos).
+              Grow astrophysics, especially exoplanets – Tremblay (2015), Armstrong,
+               Bayliss, Brogi, Kennedy, Veras (2017), Meru (2018), Cegla, Lyman (2020).
+
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+             Confirm independence/secure indefinite positions for prominent research fellows
+              – Blake (EPP), Broomhall (CFSA), Bikondoa, Green, Iuga (CMP).
+             Create indefinite positions for critical facility support staff – Goffrey, Bennett
+              (CFSA), Ciomaga-Hatnean, Li, Walker (CMP).
+         Six of these are women (21%), increasing the fraction of female staff submitted to
+         REF2021 to 16%, in line with our long-term EDI strategy to promote women’s careers in
+         Physics.
+    b) Our 2019 Strategic Renewal set a staffing strategy to 2030, with posts identified to
+       recruit at three Gateways along with new areas of expansion once additional space and
+       facilities become available via Warwick’s STEM Grand Challenge (REF5a-4.2). The
+       immediate next priority is to expand time-domain astronomy, emphasising GW follow-
+       up, and CMP in 2D materials, quantum science and NMR, with appointments in 2021/22
+       (after a Covid-induced delay).
+    c) Staff are highly satisfied working in Warwick Physics (80% positive, Pulse Survey
+       2019), with very few leavers (5) in the period, demonstrating the attractiveness of the
+       research environment and collegiality of the department. Four professors left, two for
+       family reasons – Levan taking a position in Nijmegen and Farrington in Edinburgh;
+       McConville moved to Australia as a PVC; Paul sadly died in 2019.
+    d) Our flexible workload model accounts for funded research time in distributing
+       administrative and teaching duties, including allowances for staff with caring
+       responsibilities, running facilities, or management roles. Staff can take short periods
+       away, to perform experiments at international facilities/telescopes, coordinate major
+       projects, deliver external courses, or contribute to impact.
+    e) Academic Leave has benefitted 22 staff, most taking a full year to enable research
+       collaboration with an overseas institute, take up an award (e.g. Leverhulme Fellowship,
+       Fullbright Scholarship), build institutional links, or focus on particular research
+       responsibilities (e.g. ATLAS Higgs coordinator). The 18% taken by female staff fully-
+       reflects the population. Exchanges with industry are also facilitated via Impact Leave,
+       KTP Associates, EPSRC and Royal Society Industry Fellowships. Industry personnel
+       are able to use University facilities by appointment as Visiting Researchers (§4.1a).
+    f)   Rotation of staff through key departmental committees improves representation, builds
+         resilience and provides development opportunities to ensure sustainability. Active
+         succession planning has enabled Marsh and Harrison, who founded the A&A and EPP
+         groups in 2003/4, to transfer leadership of these expanding groups to Steeghs and
+         Barker, respectively; Leadley was Deputy HoD for 5-years prior to becoming HoD in
+         2015 and will hand over to Newton in 2021.
+    g) Assistant Professors have up to six years of reduced teaching/administration, with
+       mentoring and training, to establish their research activity; promotion to Associate
+       Professor follows once probation criteria are satisfied. New appointees receive a start-
+       up package, including a funded PhD studentship to grow their research group.
+    h) Development for researchers is encouraged at every career stage. Warwick follows the
+       Concordat to Support the Career Development of Researchers (REF5a-3.3). Contract
+       research staff and PhD students are specifically represented at the Physics Staff
+       Meeting, Research Committee, and Welfare & Communications Group (WCG). Physics
+       postdocs hold monthly seminars, in addition to thematic seminars in research groups.
+       Warwick’s Institute for Advanced Studies (IAS, REF5a-2.9.2) provides Early Career
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+         Fellowships to support PhDs transition to independent postdoctoral research careers,
+         and Associate Fellowships for PDRAs to join a diverse, respectful and mutually-
+         supportive interdisciplinary community. ECRs are supported in fellowship applications,
+         with successes shown in Table 2.1. More senior staff can develop management skills
+         through the Warwick Leadership Programme. All staff (including PDRAs) have an
+         annual Personal Development Review that includes setting research goals, identifying
+         training needs and long-term career mentoring.
+    i)   58 academic staff have been promoted (98% success, REF5a-3.3), including 27 of the
+         35 non-professorial staff submitted to REF2014 (including all the women). Eight have
+         been promoted twice, and one three times (becoming the department’s fifth female
+         professor). Five more-recent appointees have already been promoted, two twice.
+         Twelve senior postdocs became Senior Research Fellows, recognising their growing
+         independence. Further along the Research-focussed track, four became Principal
+         Research Fellows and 3 full Professors. 32% of promotions on this track were female.
+
+
+
+
+                         Figure 2.1: Age profile of independent researchers.
+    j)   By predominantly recruiting ECRs, the demographic profile of independent researchers
+         (Fig. 2.1) retains a median age of 46. On average, women and men establish a
+         permanent academic appointment at age 31.6 and 33.9, respectively. This two-year
+         difference persists through promotions; 33% of both male and female academic staff
+         are Professors, with women reaching that grade at 42.6 and men at 45.0.
+    k) Warwick upholds the Technician Commitment to ensure visibility, recognition, career
+       development and sustainability for technicians in HE. We co-lead the TALENT
+       programme (REF5a-4.3.2) for the eight Midlands Innovation (MI) universities, with £3M
+       of Research England funding, to enhance career opportunities and recognition for
+       technicians. In 2015, MI founded the UK Higher Education Technicians Summit,
+       attracting over 700 delegates in 2019, and recognises technicians through Papin Prizes
+       which have been won by our Building Services Manager and two electron microscopy
+       technicians. We have a rolling programme of appointing trainee and apprentice
+       technicians, who rotate through workshops and research groups.
+    l)   Staff are rewarded for their achievements in research and impact through external
+         prizes (§4.4b), annual Merit Pay and institutional awards, e.g. Astrophysical Transients
+         won Team of the Year 2018, Pollacco for Research Excellence 2016.
+         Physics instigated an annual prize for the best PDRA paper, which has now been
+         replicated across the whole science faculty.
+
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+
+ 2.2 Research students
+    a) 253 research students were recruited in the period. Studentships are openly advertised,
+       with applications encouraged from under-represented groups: the diverse postgraduate
+       population is now 30% female, 25% BAME and 34% international. The current
+       population of 167 PhDs exceeds a PhD:staff ratio of 2:1, is an increase of 30% over the
+       REF period, and includes a student for all new staff. A further 19 PhDs registered in
+       other departments are co-supervised by 10 Physics staff, representing 7% of the UOA
+       supervisory load. Each year, about six complete an MSc by Research, with several
+       subsequently enrolling for a PhD.
+    b) Studentship funding comes from a multitude of external and internal sources: EPSRC
+       DTP/CDTs and STFC quota awards support the majority; Royal Society URFs secured 5
+       additional studentships; 4 came from ERC grants, and 27 were industry funded.
+       Warwick has invested £4.1M for PhD scholarships in physics: 14 international students
+       won University Chancellors Scholarships or partnership funding with Monash and
+       EUTOPIA; 25 from department’s own funds; WCPRS enabled 11 studentships to be 50%
+       funded with companies and central facilities (ILL, Diamond Light Source, ISIS, Cockcroft),
+       including 3 AWE employees studying part-time.
+    c) Physics staff lead three interdisciplinary CDTs (§1.3). Students in each CDT are
+       separately recruited and have dedicated programmes of taught courses and cohort
+       activities.
+          i.    HetSys-CDT (Director: Staunton) spans all STEM areas, has 15 industrial
+                partners and connections to 14 international research centres. HetSys exposes
+                students to real world scientific computing challenges, including immersive
+                challenges on actual problems that benefit the industrial partners, and ensures
+                they gain the necessary theoretical/computational skills to contribute in a wide
+                range of areas/careers.
+         ii.    DST-CDT (Director: Newton) involves 10 UK universities and over 30 companies
+                exploiting diamond. Initial cohort teaching at Warwick, followed by regular group
+                activities and the annual Diamond Conference maintains student cohesion across
+                multiple sites. DST-CDT follows the successful Integrated Magnetic Resonance
+                CDT model (active to 2016). Graduate destinations include De Beers, NPL, E6,
+                III-V Catapult, M2 lasers, and PDRA positions.
+         iii.   AS-CDT (Director: Brown) exploits Warwick’s world-leading analytical science
+                facilities and expertise, together with external facilities at partners (e.g. Diamond,
+                ILL, ISIS) to train PhD students in STEM, life and medical sciences, in close
+                partnership with industry (e.g. AstraZeneca, Lubrizol, Syngenta).
+                Both DST- and AS-CDTs were created in 2013 with EPSRC funding, and are now
+                self-supporting through strong industrial engagement and commitment from
+                Warwick.
+        Ball, Turner and Alexander contribute to delivery and management of EPSRC
+        Mathematics for Real-World Systems CDT, which involves Computer Science, Maths,
+        Statistics and 25 external partners.
+        Polin and Kantsler contribute to the MRC Interdisciplinary Biomedical Research DTP,
+        with WMS, SLS Computer Science and Statistics.
+        Warwick is one of six partners in the EPSRC CDT in Future Innovation in Non-Destructive
+        Testing (FIND-CDT), led by Bristol which continues the RCNDE CDT, that also includes
+
+                                                                                                 Page 12
+Unit-level environment template (REF5b)
+         49 international companies such as EON, EDF, Airbus.
+         Sanchez is on the advisory board for the EPSRC CDT in Compound Semiconductor
+         Manufacturing.
+         The Centre for Postgraduate Training in Plasma Physics and High Energy Density
+         Physics has provided training for CFSA PhDs, alongside those at Oxford and Imperial, in
+         collaboration with RAL, AWE and CCFE, since 2014.
+    d) All postgraduates are assigned a primary and second supervisor. Each also has a
+       “feedback supervisor”, from outside their research area, who monitors progress.
+       Students on industrial projects, or working away from Warwick (e.g. at ILL, ESRF,
+       CERN), also have external supervisors. Additional support and guidance is provided by
+       the Director of Graduate Studies (DGS), Postgraduate Coordinator, and through the
+       University’s Doctoral College (REF5a-3.10).
+    e) Students are trained in graduate-level physics via our Physics Graduate School (PGS)
+       and develop transferable skills via Doctoral Skills (DS) courses, or equivalents within a
+       CDT. The PGS provides a broad knowledge relevant to their research and expands their
+       horizons beyond the immediate field, with modules from the Midland Physics Alliance
+       Graduate School, Warwick-specific graduate-level modules, and external national/
+       international courses (e.g. STFC Summer Schools, ILL courses). Widely transferrable
+       skills develop via DS activities include scientific writing, research ethics & integrity, project
+       management, teaching, and team-working. The University developed SkillsForge for
+       students to build their skills portfolio, perform development needs analysis, and discover
+       additional training opportunities. DS activities contribute to the PG Certificate in
+       Transferable Skills in Science, which is accredited by institutions including the IOP and
+       maps onto CPhys requirements. Progression is monitored via interviews, cohort activities
+       (posters & seminars), and tracking students’ training portfolios.
+    f)   Research students are fully integrated into the department’s research culture. Every
+         student has their own office space, with postdocs and other members of their research
+         group. Each group has a seminar programme, including opportunities for student
+         presentations. A postgraduate-only seminar series encourages informal interdisciplinary
+         collaboration. An annual research symposium showcases their research. The
+         Postgraduate Student Staff Liaison Committee meets twice termly to highlight and solve
+         issues, e.g. students wanted additional mental health support and consequentially
+         established a weekly well-being café.
+    g) We prioritized postgraduates in planning Covid-safe laboratory research and provided
+       funded extensions for all those whose progress had been affected.
+    h) PhD students can contribute to undergraduate teaching and demonstrating. Initial
+       training for teaching contributes to DS activities; extending this training with self-reflection
+       leads to HEA Associate Fellowship. Revised employment contracts as Graduate
+       Teaching Assistants now fix hours at the start of a year and provide greater security.
+       Warwick Awards for Teaching Excellence have regularly been won by physics
+       postgraduates.
+    i)   Following introduction in Physics, a Faculty prize is awarded annually for the best thesis
+         in each discipline. In addition, we nominate a Springer prize-winner and an
+         astrophysicist for a Winton Capital prize.
+    j)   252 doctoral degrees have been awarded (REF4a: 222.29 FTE). After completion, 38%
+         take up postdoc positions in prestigious universities around the world e.g. EPFL, Harvard,
+         Oxford, NTU, Princeton, or are employed in a diverse range of occupations outside of
+
+                                                                                                 Page 13
+Unit-level environment template (REF5b)
+        academia: scientific research (22%), computing, finance, consulting, teaching, patents
+        etc. Advice is available from physics specific careers counsellors on academic and non-
+        academic pathways. As well as University employment events, we run an annual PhD
+        Careers Fair with representatives from employers, including Warwick alumni.
+    k) Several PhD students have founded their own companies e.g. Overleaf, a LaTex
+       development environment; Luxembourg Ion Optical Nanosystems, helium ion
+       microscopes (HIM SIMS).
+
+ 2.3 Equality, Diversity and Inclusion
+    a) As detailed above, EDI is embedded in everything we do and recognised by Athena
+       Swan Silver and IOP Juno Champion awards held and renewed in the REF period.
+       Furthermore, Physics staff contributed strongly to promoting EDI across the University
+       and the AS institutional Silver award (REF5a-3.4, Thomas lead author, Leadley on SAT,
+       Bell on Gender Taskforce). EDI is a central agenda item for WCG, chaired by the HoD,
+       but is also considered at all levels of decision making and represented in the make-up of
+       departmental committees. We have now moved the EDI discussion beyond the
+       male/female dichotomy to be fully-inclusive of all diversity and benefitting the entire staff,
+       as seen in the highly positive staff survey results.
+    b) Advertisements for recruitment are written in inclusive language, with the option of part-
+       time offered for all posts. All staff involved in short-listing and interviewing complete
+       training in EDI and Unconscious Bias. Single gender shortlists require express HoD
+       permission. Recruitment, progression, rewards, invited speakers are monitored for
+       inclusivity and reported annually to all staff against our Juno/Athena Action Plan.
+    c) Health and Safety of staff and students is led from the HoD through a departmental H&S
+       Committee with representation from academics, technicians and postgraduates.
+       Protocols for risk management developed within Physics have been adopted across the
+       University and the department has gained OHSAS 18001 certification.
+       We signpost to Wellbeing support (REF5a-3.4) for staff and students, including a 24/7
+       Employee Assistance Programme.
+    d) Staff with caring responsibilities, or returning from illness, are offered additional support
+       (REF5a-3.4). Maternity leave (12 instances) of up to a year, including paid Keeping-In-
+       Touch days, can be followed by an equal period of Warwick Returner’s Fellowship to re-
+       establish active research, with options of part-time working. Two staff have been
+       supported in returning to scientific research with flexible Daphne Jackson and Dorothy
+       Hodgkin Fellowships. In the last five years, 16 researchers have taken paternity leave
+       and four have shared parental leave; three male staff have taken career breaks. Funds
+       are provided for childcare to enable conference attendance for both staff and PhDs.
+    e) In preparing this REF submission, we followed the University COP (REF5a-3.5) to assess
+       independence of researchers. A mixed gender panel selected on average 3.00 (2.34)
+       Outputs from each female (male) submitted; BAME staff each contributed 2.75 Outputs.
+
+
+
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+ 3.1 Research Funding
+    a) Research Income has grown steadily: £67.3M of income was received during the census
+       period, with an average annual income 20% greater than REF2014. UKRI provides 76%
+       of our funding: £30M from EPSRC; STFC funding doubled to £17.5M, in line with our
+       targeted expansion and included £12.5M of Consolidated Grants for A&A, CFSA and
+       EPP. £8.7M of EU funding was received and £4.4M came from industry/Innovate UK.
+    b) Income in-kind is vital to our research, contributing the equivalent of £113.3M for
+       competitively reviewed international facility time (123% greater p.a. than in REF2014). In
+       addition to £60.1M recorded in REF4c, we used £53.2M of non-UKRI sponsored facilities:
+       Facility                Name                            Usage                Value £
+                                                     million AUs     months
+    HPC            ARCHER/HECToR                          500         + 18          3,238,246
+                   Marconi fusion                       420,000 node-hours            381,818
+                   HPC Mid+                                20                         357,015
+                   Cirrus                                  5                          184,500
+                   BlueJoule, Hartree Centre                           6               20,000
+                   DiRAC                                       value                   10,320
+                   Isambard                                       "                     6,776
+                                                               Days
+    Synchrotrons ELETTRA, Trieste                               153                   767,000
+                 SPring8                                        105                   616,440
+                 NSLS-II, Brookhaven                             69                   225,000
+                 ANTARES, Soleil                                 30                   152,000
+                 APS, Argonne                                    12                   183,846
+                 Heinz Maier-Leibnitz (FRM II)                   18                    65,000
+                 Helmholtz Zentrum (XPP)                          7                    35,000
+                 Swiss Light Source                               5                    25,000
+    Solar        Big Bear                                        23                   176,923
+    Observatory Swedish Solar Telescope                          20                    65,455
+                                                       Nights        Orbits
+    Telescopes     HST (full value)                                   307          23,615,385
+                   ESO, 3.6m                               72                         666,667
+                   CAHA                                    2                           20,000
+                   TNG (via Italian GAPS)                 144                         900,000
+                   Observatoire Haute Provence             9                           45,000
+                                                        Shifts        Days
+    X-ray & free   FELIX                                   7                           15,000
+    electron       LCLS, SLAC                              24                       5,538,462
+    lasers         NIF, LLNL                                           7            8,076,923
+                   European XFEL                           15                       6,136,364
+                   OMEGA, USA                                          3              230,769
+                   PHELIX, GSI Germany                                 20             490,909
+                   FLASH, DESY Germany                                 6              272,727
+                                                       Weeks         Hours
+    Magnetic       NHMFL, Florida                          8                          131,700
+    Fields         HMFL, Nijmegen                                      80             203,636
+                   LANL, pulsed fields                     20                         308,000
+
+                                                                                           Page 15
+Unit-level environment template (REF5b)
+
+          We make significant use of:
+             High performance computing (HPC) allocations worth £3.82M – Tier-1
+              HECToR/ARCHER; Tier-2 Dirac, Cirrus, Isambard, Mid+.
+             CMP facilities – X-ray synchrotrons (ESRF, Diamond, Elettra, SLS, ANTARES,
+              APS, NSLS, SPring8); neutron sources (ILL, ISIS, PSI); high magnetic field labs
+              (Grenoble, Nijmegen, Los Alamos Tallahassee); NMR and free electron laser
+              (FELIX). £17.0M.
+             Solar observatories (Big Bear, Swedish SO & Goode solar telescopes), space
+              probes (SDO, STEREO, Hinode, Parker Solar Probe, Solar Orbiter) and
+              radioheliographs (SRH, eOVSA). The solar community generally shares data
+              freely so these are not directly costed.
+             A wide range of telescopes, both ground (VLT, NTT, ALMA, ING, LT, GTC, VLA)
+              and space based (Chandra, XMM, HST). Warwick received one of largest
+              allocations outside USA of 307 Hubble Space Telescope orbits. NASA assumes
+              $100k/orbit, rather than the UK Space Agency contribution of £4.3k/orbit used in
+              REF4c, valuing our HST use at £23.6M. £35.0M.
+             X-ray lasers for plasma physics, with shots valued at £20.8M.
+             Particle physics at CERN (ATLAS and LHCb) valued at £35.1M.
+              Our extensive participation in neutrino experiments, T2K, MICE, ProtoDUNE, is
+              not directly costed.
+    c) Research Awards continue to increase, averaging £12.8M p.a. (£5.7M p.a. for REF2014).
+       32% of T&R staff time, and 79% for research-focussed academics, is now recovered from
+       external grants. £21M of awards in 2019/20 secures our future Research Income.
+    d) Investigators are directed to relevant funding opportunities, with R&IS (REF5a-1.7)
+       support throughout the application. Warwick’s flexible approach enables us to access
+       opportunities at short notice. An especially successful aspect of our funding strategy has
+       been to guide internal and external fellowship candidates, which netted £18.5M (including
+       £6.4M of ERC grants).
+    e) ECRs have been mentored to obtain independent resources, e.g. Brogi received an
+       STFC New Applicants grant in 2018; Milot won an EPSRC New Investigator Award in
+       2020. A £2M EPSRC award purchased underpinning multi-user equipment for ECRs.
+       Postdocs have been helped to establish independence, e.g. 1851 Fellowship for Knee;
+       Leverhulme ECFs for Oates, Kapourniotis; Daphne Jackson Fellowship for Spiga.
+    f)   Over £20M has been invested in postgraduate research training, from a wide range of
+         sources (§2.2b). £4.1M of Warwick’s own funds has ensured all new staff recruit a
+         student within their first two years. Industrial funding of £1.8M, particularly in NMR,
+         diamond, ultrasonics and plasma physics, has contributed to postgraduate research
+         reflected in our ICSs.
+
+ 3.2 Strategic Investments in Astronomy
+    a) Growth of exoplanet science has been a strategic focus. Pollacco has been the driving
+       force behind ESA’s adoption of PLATO as the third medium-class mission in their
+       Cosmic Visions programme. PLATO’s main goal is detection/characterisation of
+       terrestrial planets within the habitable zone of Solar-like stars. It will also characterise
+       thousands of rocky, icy, and gaseous planets, investigate planetary system architectures,
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+         and perform asteroseismology of thousands of stars, requiring ultrahigh precision,
+         uninterrupted, photometric observations for periods up to several years. PLATO includes
+         over 500 researchers from 14 ESA Member States. To coordinate scientific activities,
+         Pollacco established the PLATO Science Management project office in Warwick, with two
+         permanent scientific administration posts. New exoplanet researchers have been
+         recruited (§2.1a) to establish significant research activity now, in preparation to reap
+         maximum benefit from PLATO observations after 2026. Warwick has received £2.2M of
+         PLATO income to date.
+    b) Wheatley leads the wide-field, ground-based Next-Generation Transit Survey (NGTS) at
+       the Chilean Paranal Observatory. NGTS is a consortium with QUB, Leicester, Geneva,
+       DRL and three Chilean universities. An array of 12 small fully-robotic telescopes
+       operate at 520-890nm, maximising sensitivity to bright but relatively cool/small host
+       stars. The unprecedented photometric precision (150 ppm) has enabled the discovery
+       of exoplanets as small as 3 Earth radii. Combined with long-period observing capability,
+       NGTS will enable detailed follow-up of candidate planets from survey instruments such
+       as TESS. Warwick invested £370k to initiate NGTS and has subsequently received £2M
+       from STFC for construction and operation.
+    c) The original SuperWASP instrument on La Palma has been repurposed primarily to study
+       the near-Earth environment. As more satellites are launched, it is increasingly crucial to
+       map and understand the nature of space debris, and minimize the impact on satellite
+       operations. Over £2.5M has been invested in partnership with UKRI, DSTL and several
+       SME’s.
+    d) Building on our heritage of developing small, highly capable observatories, the
+       Gravitational-wave Optical Transient Observer (GOTO) is a wide-field robotic telescope
+       designed to rapidly search large areas of sky for transient optical sources. It is optimized,
+       and synchronised, to respond to GW events detected by LIGO/VIRGO. GOTO’s first
+       phase, consisting of 4x40cm telescopes on a single mount to provide a 20 square degree
+       field-of-view, has been deployed on La Palma, with £300k of Warwick funding and £1M
+       contributions from 9 partners (§4.1b). 46 GW triggers were followed-up during
+       LIGO/VIRGO Science Run 3 in one of the most comprehensive searches, typically
+       spanning ~1000 square degrees. A further £3M of STFC funding now allows us to both
+       double the La Palma instrument and build a Southern Hemisphere counterpart in
+       Australia to complete the 32 telescope, 2-node configuration. The GOTO consortium is
+       led by Steeghs and was pivotal to Lyman’s FLF.
+    e) HiPERCAM has been developed, from UltraCAM by Marsh and Dhillon (Sheffield), as a
+       portable, fast-transient camera with five spectral channels for mounting on large
+       telescopes. HiPERCAM was deployed as a visitor instrument on the 4.2m WHT and
+       10.6m GTC telescopes in 2018. Over 200 papers have been published using UltraCAM
+       data, with 2500 citations to date. These unique instruments observe black holes, white
+       dwarfs, neutron stars, brown dwarfs, extrasolar planets/asteroids, AGN, FRBs, GRBs,
+       SNe, ultra-diffuse galaxies and even planetary occulations. The related ULTRASPEC
+       instrument now has a permanent home on the 2.4m Thai National Telescope (TNT),
+       providing Sheffield and Warwick with 30 nights/year on the TNT in return for access to
+       ULTRASPEC for the Thai astronomical community.
+    f)   We have invested over £1M during this REF cycle for staff to join consortia, placing
+         Gänsicke as a founding member of SDSS-V, and most recently Cegla joining HARPS3
+         and TerraHunter.
+
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+ 3.3 Strategic Investments in Condensed Matter
+    a) Millburn House Magnetic Resonance Centre contains 12 magnets for solid-state NMR
+       and DNP from 2.3T (100MHz) to 23.5T (1GHz), with a large array of probes for magic
+       angle spinning (up to 111kHz), static NMR and DOR. Brown directs the UK National
+       Research Facility (NRF) for High Field Solid State NMR, with an 850MHz system serving
+       the physical and life science communities since 2010. The NRF provides high-quality
+       intellectual and scientific support via the Facility Manager, Iuga, who has his own
+       scientific activity. It runs 24/7 with 85% of instrument time allocated to its 50-75 regular
+       users; it also trains ~20 PhD students p.a. The NRF has enabled 115 publications and
+       over 500 conference presentation. Considerable impact [ICS-4] flows via insight from
+       ssNMR of technological importance to industries such as pharmaceutical (AstraZeneca,
+       GlaxoSmithKline), oil/fuel (Infineum, Sasol), and catalysis/materials (BP, Johnson
+       Matthey). These companies access the NRF either via paid-for contract research or
+       industry-supported PhD students. In 2020, the NRF was enhanced by the UK's first
+       1GHz (23.5T) ssNMR spectrometer, funded by £8M of a £20M EPSRC investment in
+       NMR equipment that Brown coordinated across UK institutions. Warwick has invested
+       a further £1M to build the supporting infrastructure.
+    b) XMaS: The UK Materials Science National Facility at the ESRF, co-directed by Hase
+       (with Lucas, Liverpool), has provided free-at-the-point-of-use access to synchrotron
+       radiation since 1997. XMaS provides over 3400 hours of beamtime p.a. to 110 UK and
+       international users, with 40% being new users and 50% ECRs. Diverse scattering/
+       spectroscopic experiments can be performed in a wide range of sample environments; an
+       offline X-ray -source also enables use of these when the ESRF beam is unavailable. In
+       2019, the ESRF Enhanced Brilliance Source upgrade necessitated significant engineering
+       changes and a complete overhaul of XMaS (after 20 years’ continuous operation) with a
+       capital injection of £2M. XMaS reopens in 2021 with enhanced operational capabilities,
+       new detectors, and a refurbished diffractometer to exploit the extended X-ray energies (2-
+       40keV), 75x increased brightness, and 10x smaller beamsize.
+    c) Extensive local facilities for analytical science developed within Physics, in electron
+       microscopy, X-ray diffraction, and spectroscopy, have been transformed into Research
+       Technology Platforms (RTP) available across the University and externally (REF5a-4.3).
+       Over £10M of capital investment since 2014 has upgraded equipment in the physics-
+       based RTPs. Each RTP has an academic Director and a dedicated technical Facility
+       Manager to ensure smooth running of the equipment, high-quality service and training for
+       users, development of new techniques, and promotion of interdisciplinary research.
+       Physics researchers have free-at-the-point-of-use access to the RTPs, to maximise
+       equipment usage, with actual usage logged and charged to grants where possible or
+       otherwise underwritten by the department; this is especially important to enable access
+       for PhDs and ECRs without their own funds. External RTP use is enabled through
+       simplified WSS contracts, with 34 different universities and 84 companies using £813k
+       worth of facility time since 2014. A joint Physics-Chemistry facility for X-ray photoelectron
+       spectroscopy (XPS) and ARPES operates in a similar manner.
+    d) The Warwick Single Crystal Growth facility produces high-quality crystals of magnetic,
+       superconducting and related material that provides samples to over 50 groups worldwide.
+       Sustainability of the facility has been secured by over £1M of EPSRC investment, and by
+       Warwick providing an indefinite post for Ciomaga-Hatnean. This has enabled major
+       projects on Skyrmionics and Topological Insulators, amongst others, receiving £2.5M of
+       external funding, leading to 124 publications, and over 4,000 citations since 2014.
+
+                                                                                              Page 18
+Unit-level environment template (REF5b)
+    e) We have invested £1.5M in multi-user facilities to set-up new appointees including: a
+       laser lithography system for rapid device prototyping and material characterisation,
+       creating for example ferroic devices (Alexe) and 2D lateral heterojunctions (Wilson,
+       Broome); a flexible low temperature, tuneable laser facility for quantum state
+       manipulation in 2D materials (Broome) and diamond NV centres (Green); microfluidics
+       and optical microscopes to study cell motility for physics of life, biofilms and antimicrobial
+       resistance programmes (Kantsler, Polin).
+    f)   Alexe established a unique scanning probe microscope with a vector magnetic field,
+         pulsed laser illumination, and variable temperature, via a 2015 EPSRC Strategic
+         Equipment grant. Together with start-up funds for pulsed laser deposition, this has
+         leveraged £3.2M of funded research on ferroic materials and devices, producing 46
+         papers cited over 1,000 times.
+    g) The Warwick Centre for Ultrafast Spectroscopy (WCUS) is a joint Physics/Chemistry
+       femtosecond laser facility established in 2016, with an EPSRC Strategic Equipment grant
+       (£620k) and matched investment (£510k). The 40fs laser is split into four beamlines to
+       study molecules and materials across a broad spectrum (UV to THz) and in a variety of
+       environments. Directors Lloyd-Hughes and Stavros (Chemistry) are supported by a
+       dedicated facility manager to make this resource widely available. In 2019, 30 research
+       groups used 3,400 facility hours, included 357 hours by external academics and 830
+       hours by industrial partners (e.g. Lubrizol, Newport, Syngenta, DeBeers). We further
+       invested in THz spectroscopy by appointing MacPherson and Milot, with additional
+       spectroscopy equipment in their start-up packages. £1.25M of external grants have
+       already been won for THz studies, including Milot’s New Investigator Award on metal
+       halide perovskite devices, MacPherson’s investigation on cancer prevention/treatment
+       with a THz skinometer, and Lloyd-Hughes investigating multiferroics. Recent science
+       highlights include work on efficient THz modulators and real-time THz imaging, and the
+       first studies of the ultrafast dynamics of 1D van der Waals heterostructures.
+    h) Warwick is a leading UK centre for diamond research, exploiting diamond’s unique
+       properties for industrial applications, quantum technology and, of course, jewellery. The
+       DST-CDT brought together >20 partners from across universities and industry. Diamond
+       research, investments in spectroscopy, and collaboration with companies, such as
+       Element Six, GIA, De Beers, Hach and DSTL has led to impact in diamond sensors, on
+       lab-grown jewellery [ICS-3], and automated gemstone verification [ICS-5]. Experiments
+       on NV centres took us into quantum technology, theory of quantum measurement, and
+       development of highly sensitive magnetometer. This area of has received £4.2M of
+       research funding, plus £4.5M for the CDT.
+
+ 3.4 Strategic Computing Infrastructure
+    a) HPC is used extensively for simulation and modelling across all our research areas –
+       from materials, through fusion plasmas, to particle collisions and solar system formation.
+       The Scientific Computing RTP, directed by Quigley, provides shared Tier-3 HPC across
+       the University, including 11,000 cores for parallel processing, 10PB storage, and a Linux-
+       based desktop/server infrastructure for research computing. The principal machine is
+       refreshed/replaced on a two-year cycle, with annual investment of over £1M, which in
+       2019 included a further £1.8M for a new energy-efficient machine room. Warwick is a
+       leading partner of the HPC Midlands+ consortium that installed national Tier-2 HPC in
+       Loughborough in 2016 and won a further £3M for the next machine, Sulis, installed in
+       Warwick’s new machine room in 2020. To benefit from this hardware, two Research
+
+                                                                                                Page 19
+Unit-level environment template (REF5b)
+       Software Engineers have been established in the SC-RTP to aid users professionalise
+       their approach to research computing.
+    b) We lead development and support for a number of widely used codes, investing
+       significant staff time: ONETEP (Hine) is a DFT code for electronic structure calculations;
+       EPOCH (Arber) is widely used in plasma physics and has wide-reaching impact [ICS-1],
+       a permanent position and promotion for its main author Bennett ensures sustainability.
+       EPP staff (Marshall, Morgan, Richards and 3.5 PDRAs) develop: EvtGEN (b-physics
+       generator), LAURA++ (Dalitz plot package), ToolDAQ (data acquisition/analysis for
+       neutrino water-Cherenkov experiments), GEANT4 (particle interaction tracking through
+       materials), and PANDORA (Marshall)which is becoming the code of choice for
+       reconstructing particle tracks in neutrino detectors, esp. DUNE.
+    c) The wide interdisciplinary computing expertise in Warwick led to HetSys-CDT that trains
+       students from across physical sciences to model complex real-world systems across
+       multiple scales, motivated by the industrial partners, e.g. nanoscale devices, new
+       catalysts, superalloys, smart fluids, laser-plasma interactions.
+
+ 4. Collaboration and contribution to the research base, economy and society
+ 4.1 Collaborations and partnerships
+    a) In addition to the large EPP and astronomy consortia, we have over 600 active
+       collaborations with academic institutes in all parts of the world and our researchers
+       partner with more than 150 external companies/organisations. Collaborations have been
+       built by individual contact, through joint projects and from institutional initiatives.
+       Physics staff have 34 Visiting/Adjunct Professorships at prestigious institutions worldwide,
+       associated with research collaborations, many of which have deepened through Study
+       Leave visits, have led to joint publications and delivery of innovative teaching.
+       We welcome incoming researchers, as short and long-term visitors. British Council
+       schemes and Newton International Fellowships have enabled researchers from e.g. India,
+       Brazil, Russia, Korea to visit. We regularly appoint, and review, Honorary/Visiting
+       Professor/Researchers from academic and industrial collaborators (currently 84; 160 total
+       since 2014), who contribute to our research, impact and teaching.
+    b) Physics has benefitted from the strategic institutional Monash-Warwick Alliance (REF5a-
+       2.12.1): creating the Southern Hemisphere node for GOTO, with £3M of UK STFC funds,
+       and separately leveraging Australian Research Council funding for OzGrav. The
+       complementarity between Warwick’s experimental EPP group and Monash theoreticians
+       has enabled Monash to join the LHCb experiment, assisting Australia’s progress towards
+       becoming a CERN member state. Our theoreticians are active within the EUTOPIA
+       strategic alliance: Alexander combines with Ljubljana experimentalists on liquid crystals
+       topological defects and Römer collaborates with Cergy-Paris on disordered systems.
+    c) A&A use international observational facilities (§3.1) and lead consortia to develop new
+       community facilities (§3.2b-e) and surveys (§3.2f). Their relationship with observatory
+       staff at premier sites is key: working closely with the Instituto de Astrofísica de Canarias
+       (IAC) we built SuperWASP, the Warwick 1m and GOTO (§3.2d) telescopes on La Palma;
+       Gänsicke is on the Board of the Isaac Newton Group of Telescopes and Steeghs the
+       International Scientific Committee for Canary Island Observatories. At Paranal, Warwick
+       work with ESO to lead the NGTS consortium of six partners from the UK, Geneva and
+       Berlin (§3.2b). Steeghs is on the Governing Council and Levan the Executive
+
+                                                                                             Page 20
+Unit-level environment template (REF5b)
+       Committee of ENGRAVE, a collaboration of over 250 astronomers using ESO facilities to
+       research GW events. GOTO itself has nine partner institutions from the UK, Finland,
+       Australia, and Thailand; close collaboration with LIGO/VIRGO allows us to receive real-
+       time triggers and rapidly point GOTO at candidate GW events. Pollacco is Head of
+       Science Management and Exoplanet Science Lead for PLATO (§3.2a), in which most
+       Warwick exoplanet researchers are involved. Brogi is a member of the Italian GAPS
+       consortium and associate of the Observatory of Turin. Multi-object spectroscopic
+       experiments enable vast data sets to be recorded for eventual public release; Gänsicke
+       is leading surveys in DESI, WEAVE, and SDSS-V, and Tremblay is part of 4MOST. As
+       a founding member, Gänsicke directs the white dwarf science in SDSS-V.
+    d) CFSA has a longstanding collaboration with the fusion plasma theory group at CCFE,
+       where Dendy (CCFE/Warwick) coordinates fusion research activities for UK universities
+       with national and European projects. Dendy also leads activities with the Japanese
+       National Institute for Fusion Science, Korean National Fusion Research Institute, and the
+       MPI for Plasma Physics. CFSA’s extensive participation in experimental fusion
+       programmes includes JET/MAST at Culham, Euroatom and ITER.
+       Radio astronomers from China, Russia and India have benefitted from networks led by
+       Nakariakov: “Radiophysics of the Sun”, “Superflares on stars and the Sun”. British
+       Council funding initiated institutional links with the Space Research Institute of the
+       Russian Academy of Sciences, and the School of Space Research, Kyung Hee
+       University, Korea. He is also a member of the International Consortium for the Continued
+       Operation of the Nobeyama Radio Heliograph, an associate investigator of NASA-
+       SDO/AIA, co-founder of the heliospheric working group in the Square Kilometre Array
+       project, and Co-I of Proba-3/ASPIICS.
+       Chapman is an associate investigator on ESA-Solar Orbiter/SWA. Armstrong,
+       Broomhall, Chapman, Nakariakov and Verwichte participate in teams at the
+       International Space Science institute in Bern. Verwichte also coordinates data-analysis
+       for the UK consortium at the DKIST Solar Telescope, Hawaii. Hnat chaired the
+       interdisciplinary EPSRC Network on “Emergence and Physics Far from Equilibrium”.
+       Broomhall is in the TESS and Kepler Astroseismic Consortia.
+    e) External collaborations in CMP are built around our unique materials analysis, modelling
+       and synthesis capabilities. Extensive collaboration ensues from running the UK National
+       Facilities for High Field ssNMR and XMaS, and local RTP facilities (§3.3). CMP staff
+       perform measurements at 15 international facilities for synchrotron radiation, neutrons,
+       muons, and high magnetic fields. The sample environment built for magnetic scattering
+       by Duffy is available for all SPring8 users. Wilson contributed to creating Elettra’s
+       nanoARPES capability and subsequently to establish a UK facility at Diamond. Hanna
+       established a joint doctoral programme in materials physics with NTU, Singapore.
+       Datta, Green, Newton and Morley have engaged with three of the four UK Quantum
+       Technology Hubs, contributing on quantum measurements and diamond-based quantum
+       technologies. Experimentalist and theoreticians combine their expertise on multi-
+       institutional programmes, e.g. EPSRC Programme Grants on Crystallisation (Leeds led),
+       Skyrmionics (Durham led) and Complex Nanostructures (Southampton led). CMP
+       network through 7 EU COST actions, with Balakrishnan as vice-chair of three. Leadley
+       was instrumental in setting up the SiNANO Institute (a Director until 2018) that united 18
+       European institutes in microelectronics research.
+
+
+
+                                                                                           Page 21
+Unit-level environment template (REF5b)
+    f)   EPP are highly visible from their leadership roles in existing and future experiments.
+         Barker is PI for DUNE UK (budget $1.5B, UK £45M, Warwick £1M) and chairs the DUNE
+         UK Institute Board; Marshall is WP lead for event reconstruction software.
+         In LHCb, Gershon was Physics Coordinator and UK Spokesperson (2016-2020); group
+         convenors include Kreps (Simulation), Blake (Rare Decays), Latham (Charmless B-
+         Hadron Decays), Kenzie (Beauty to Open Charm), and Vesterinen (Semileptonic
+         Physics & High-Level Trigger project leader). Gershon co-led the Heavy Flavour
+         Averaging Group 2010-17.
+         Murray was ATLAS Physics Coordinator and now convenes the Higgs & DiBoson
+         searches group; Farrington was UK Physics Coordinator 2016-18 and co-convener of
+         HSG4 2013-15, where she oversaw publication of Higgs decay to tau leptons; Facini
+         convened ATLAS Exotics 2016-18 (600 members), Exotics Jet & Dark Matter (200
+         members), founded the Cluster & Tracking in Dense Environments group and was Tile
+         Calorimeter Coordinator; Becker has been Semiconductor Tracker Coordinator and
+         convened working groups on several Higgs decay paths, now HSG4; Martin is Trigger
+         Operation Coordinator.
+         Ramachers was SuperNEMO Physics Coordinator until 2018. Boyd was Operations
+         Manager for MICE. Richards is Convener of Software & DAQ working groups at ANNIE.
+    g) In computing, Arber chairs the UK national Computational Collaborative Project (CCP) in
+       Plasma Physics, the EPSRC High-End Consortium in plasma physics, co-directs the
+       AWE-Warwick Centre for Computational Plasma Physics, and is on the DiRAC
+       Management Board. Quigley chairs the HPC Midlands+ Strategic User Board and
+       contributes to CCP5. Staunton chairs CCPmag for computational magnetism. Brown
+       and Bartok support the multidisciplinary CCP-NC for NMR crystallography software.
+       Hine is in CCP9, leads the ONETEP developers group for linear scaling DFT and the
+       Car-Parrinello High-End Consortium for ab initio atomistic simulation.
+
+ 4.2 Impact
+    a) Section 1.4 outlines our approach to developing impact. “Industry Days” showcase our
+       expertise, highlight how we work with industry, and encourage industrial attendees to
+       share their R&D challenges. Up to 700 have attended, 30% from industry, on topics
+       such as Sensors, Sustainability, and Analytical Science. Their interdisciplinary nature
+       has exposed companies working with a specific academic to other expertise within
+       Warwick, e.g. Lubrizol expanded their engagement across the sciences and became
+       headline sponsor for the 2019 British Science Festival. Cross-department industrial
+       collaboration on conducting diamond based sensors for water quality monitoring
+       resulted in a 2017 Royal Society Innovation Award to Newton and Macpherson
+       (Chemistry). Providing easy and flexible access to our infrastructure and expertise,
+       through various channels designed around industrial need, has directly led to the impact
+       in four ICSs.
+    b) Opportunities for exploitation identified in the STFC area include a way to magnify
+       vibrations in images, based on Nakariakov’s solar plasma research, a predictive
+       electoral voting programme arising from Harrison’s Monte Carlo simulations, and UV-
+       sensors developed jointly between EPP & CMP leading to the spin-out UVDyne. STFC-
+       IAA funds seeded repurposing the wide-area WASP telescopes for tracking space
+       debris (Pollacco & Steeghs), which now has considerable commercial interest from
+       DSTL and other satellite operators. Furthermore, this led to the STFC Global Network
+
+
+                                                                                         Page 22
+Unit-level environment template (REF5b)
+         on Sustainability in Space (GNOSIS), coordinated by Pollacco, that brings scientists
+         and industry together for discussion and seeding joint actions.
+    c) Collaboration with equipment manufacturers enrich our research environment. Our
+       experts can access the latest equipment and showcase its ultimate performance
+       through high impact science. Examples include long-standing relationships with JOEL
+       and Bruker, for electron microscopes, NMR and EPR; Newport Spectra Physics helped
+       design and setup WCUS’s fast laser facility. Beanland’s electron microscopy
+       technique development has further benefitted JOEL by expanding their instruments’
+       capabilities.
+    d) Warwick contributes to the development of major external science facilities, in the UK
+       and overseas, to generate impact beyond the original field of research (§3.3). E.g.
+       XMaS enriches research possibilities for industrial beamline users, and also holds nine
+       commercial licenses to supply project-designed X-ray optics/instruments to
+       synchrotrons worldwide.
+    e) Collaboration on real world problems with commercial partners further enhances the
+       research environment by inspiring researchers. Industry inspired projects support 27 of
+       our current PhD students and have been crucial to sustaining our CDTs. These
+       partnerships also provide a route for employment e.g. recent PhD/PDRAs joining Astra
+       Zeneca, De Beers, Infineum, Element Six, Rolls Royce and a range of SMEs; six have
+       taken advantage of the KTP scheme to work across companies and university.
+    f)   Our spin-outs (4), patent applications (43), and IP licensing agreements (10) all point to
+         a healthy future impact pipeline. A flavour of these and examples of potential impact
+         still at the pre-commercial stage follow:
+           Wilson discovered graphene oxide makes an excellent support grid for TEM
+               imaging. In 2019 alone, over 10,000 grids were made in Warwick and sold to an
+               SME for distribution to end-users. Impact comes from employment of two people in
+               the distributer, the improved measurements these end-users can make, the
+               academic and commercial R&D it enables, and products that follow in fields from
+               cancer research to environmental analysis.
+           Morley developed quantum technology based on the spin of nitrogen vacancies in
+               diamond to produce a highly sensitive magnetometer for medical and surveying
+               applications.
+           Hanna’s ssNMR has contributed significantly to Johnson Matthey’s battery
+               materials and nanoparticle catalysis technologies, implemented in automotive/
+               marine engine emissions abatement and Fischer-Tropsch processes.
+           Kantsler’s microfluidics research on sperm cell motility has potential applications in
+               livestock breeding. Through ICURe (REF5a-2.8) commercialisation opportunities
+               were explored; this led to creation of CytoSwim, which now employs three people
+               and is starting clinical trials in an incubator unit, with Innovate support.
+           Chapman’s expertise in analysing time-series, developed for space plasmas, has
+               been applied to risk evaluation for extreme events, heat waves and climate change.
+               Arber’s plasma code is being developed for a European space weather forecast
+               service. Aspects of plasma software (Arber, Gericke) are of particular interest to
+               UK and US military.
+           Expertise in XRD and corrosion science, together with XMaS and XRD-RTP
+               facilities, contributed to cultural heritage investigation of artefacts from Henry VIII’s
+               Mary Rose warship, giving insight into Tudor brass production.
+
+
+                                                                                                 Page 23
+Unit-level environment template (REF5b)
+           Physics-based RTPs enabled 84 companies, from Aston Martin to Xerion
+            Healthcare and including many SMEs, to increase their competitive advantage. For
+            instance, access to skills and technology in the EM-RTP enabled Prima Dental,
+            now the world’s largest carbide bur manufacturer, to expand into design and
+            manufacture of dental milling tools.
+           The CIU has directly supported over 20 companies, with significant impacts in 15
+            [ICS-6].
+           Through her THz imaging, MacPherson is collaborating with a suncream
+            manufacturer to improve skin protection and developing new portable
+            instrumentation for diagnosing and treating skin cancer with UHCW NHS Trust.
+
+ 4.3 Public Engagement
+     Our extensive outreach and public engagement programme involves all groups of
+     staff/students and aims to:
+       improve scientific awareness amongst the public, in time impacting on society/policy;
+       widely disseminate an appreciation of our research;
+       excite young people by science, especially under-represented groups; encourage
+          further study at school/university;
+       support teachers to deliver engaging science lessons.
+     Physics has a full-time outreach post, originally established with The Ogden Trust. Our
+     regular activities include: school visits with demonstration lectures, inviting schools on to
+     campus (4,000 pupils); annual events – Primary Science Fair; School Physicist of the
+     Year; Science Gala (800 guests, 2019); participation in national events like Big Bang and
+     science festivals; residential workshops for under-privileged students, with Sutton and
+     Smallpeice Trusts. While interaction with pupils is important, longer term impact comes
+     from supporting, training and enthusing teachers. Our activities focus especially in local
+     WP primary and secondary schools, often without physics-trained staff, by e.g. training 20
+     local science co-ordinators, raising enthusiasm at a struggling primary school, providing a
+     framework for primary science projects.
+     Highlight activities:
+         XMaS Scientist Experience – annually since 2015, 20 sixth-form girls visit ESRF for
+            4 days. Impact is made wider than the competitively selected group by pre-trip
+            activities in school, post-trip presentations, involvement of participants in other
+            events, and cohort follow-up. The model has been replicated by Lund University.
+         Warwick Christmas Lectures – a Physics initiative, now an annual event across
+            disciplines; 1,500 seat venue sold out twice in 2017; Christmas Lectures in 2020
+            were recorded as accessible videos (>2,400 views on YouTube).
+         Live Q&A on space recorded in Leicester Prison for broadcast on National Prison
+            Radio.
+         Inception and delivery of Brownie/Guide Physicist Badge – local & national roll-out.
+         British Science Festival 2019 hosted by Warwick – 17,000 visitors, prominent public
+            talks from Physics staff, live Science of Music event in Coventry city centre, live
+            appearance on BBC Sky at Night.
+         Local pub-based Pint of Science – regular contributions particularly from
+            ECRs/PhDs.
+         International Masterclasses for Particle Physics – in the framework of CERN’s
+            International Particle Physics Outreach Group, connecting pupils across 60
+            countries every March.
+
+                                                                                             Page 24
+Unit-level environment template (REF5b)
+           Online Atlas of Astronomy Groups, >12,000 views.
+           Mobile planetarium – reaching >3,000 people in two years, Space Camp
+            programme shortlisted for a Times Education Award in 2017.
+           A&A led workshops – introducing A-level students to supernova and GWs, through
+            problem solving and programming.
+           Physics journal club – set up during Covid-19 lockdown to support A-level and
+            GCSE students with activities, used by local (and even international) schools to
+            enhance their online lessons.
+           Physics researchers exhibited at the Royal Society Summer exhibition (2016:
+            Antimatter matters; Diamond: more than just a gemstone) and London Science
+            Museum (2015: Diamonds are for Sensing).
+           Edwards is Deputy Director of Warwick’s recently established Institute for
+            Engagement (REF5a-4.3.4).
+
+ 4.4 Indicators of wider influence and recognition
+    a) 39 staff have held 44 distinguished fellowships since 2104 (Table 2.1).
+    b) Prizes won include: (*PDRA)
+        Alexander          British Liquid Crystal Society, Young Scientist 2014
+   T2K (Barker, Boyd)      Breakthrough Prize for Fundamental Physics 2016
+          Blake            IOP HEPP Group prize 2015
+        Chapman            RAS James Dungey Lectureship 2014; AGU Ed Lorenz Lectureship 2020
+          Dixon            Roy Sharpe Prize, British Institute of NDT 2017
+ Facini, Martin*, Pianori* ATLAS Outstanding Achievement Awards 2015
+          Levan            Blavatnik Young Scientist Awards Finalist for Physical Sciences 2018
+         Lupton*           LHCb Early Career Scientist Award 2020
+          Marsh            RAS Herschel Medal 2018
+          Morley           IOP/RSC magnetic resonance group prize 2014
+       Nakariakov          IOP Payne Gaposchkin Silver Award 2015
+         Newton            Royal Society Innovation Award 2017
+          Wilson           Royal Microscopy Society, Mid-Career Scientific Achievement 2020
+         Woodruff          IUVSTA Science Prize, 2019
+        IOPP has awarded the “PPCF Dendy Europe-Asia Pacific Award for Outstanding
+        Research Collaboration in Plasma Physics” in honour of Richard Dendy since 2018.
+    c) 15 staff act as journal editors, 4 as Editors-in-Chief. All staff contribute to peer review,
+       many for over ten journals. d’Ambrumenil and Staunton are APS Outstanding
+       Referees. Veras moderates all 2,500 p.a. exoplanet manuscripts submitted to arXiv.
+    d) 19 staff are members of EPSRC’s Peer Review College, Pollacco on EPSRC
+       Engineering SAT; 18 review for STFC; 10 for The Royal Society, Woodruff deputy chair of
+       URF panel; and 8 for ERC. Reviews have been performed for BBSRC, MRC,
+       Leverhulme and Nuffield foundations, for national research agencies of 18 countries and
+       Horizon 2020, where Staunton chaired ERC Panel PE3 and Steeghs is vice-chair of the
+       MCSF Physics Panel. Sloan contributed to a German roadmap on Large-scale Research
+       Infrastructure Projects. Chapman reviewed Norwegian Centres of Excellence.
+       27 staff partake in time allocation panels for international telescopes (HST, WHT, K2)
+       beamlines (ISIS, ESRF, Diamond) and computing facilities (ARCHER).
+
+
+
+
+                                                                                                Page 25
+Unit-level environment template (REF5b)
+         11 staff are members of UKRI advisory committees: STFC – Pollacco (Science Board),
+         Ramachers, Steeghs, Thomas (Council); Pollacco chaired STFC reviews of Nuclear
+         Physics and of Astrophysics, Barker for Particle Physics; Barker, Marsh, Ramachers,
+         Steeghs are on STFC oversight committees for Neutron EDM, MOONS spectrograph
+         (chair), ISOL-SRS, A-LIGO+, respectively. Barker is also on the STFC Education,
+         Training and Careers Committee. Quigley served on EPSRC’s working group for future
+         capital investments in Tier-1&2 HPC, and Arber on EPSRCs’ Review of Nuclear Fusion.
+         Dendy serves the REF2021 Physics Panel, as in REF2014. He also chairs the EPS-APS
+         Landau-Spitzer Prize selection.
+    e) Membership of, and active participation in, learned societies is encouraged. Dendy is
+       Chair of EPS Plasma Physics Division; Wilson a member of the Royal Microscopy
+       Society Council; Broomhall the RAS UK Solar Physics Council; Stanway the IOP
+       Awards Committee; Chapman the EGU Alfven Medal Committee; Veras elected to the
+       International Astronomical Union Steering Committee. 9 staff serve on IOP subject group
+       committees. Nakariakov – Scientific Committee on Solar Terrestrial Physics, an
+       interdisciplinary body of the International Council for Science.
+    f)   Many staff serve on international facility User Groups, e.g. Hase was Chair of the
+         Diamond Light Source User Committee (2014-17), he now chairs the Science Advisory
+         Committee and sits on the Board of Governors.
+         International advisors include: Alexe – Centre for Innovation, Martin Luther University
+         (Halle); Arber – Rosseland Centre for Solar Physics (Oslo); Barker – ATLAS Phase 2
+         Upgrade Scrutiny Group; Brown – French High Field NMR network; Hase – UAE
+         Synchrotron; Morley – Hitachi, Cambridge; Murray, CepC (Beijing); Staunton – Hero-m,
+         KTH (Stockholm); Turner – HKBU, Computational Research Centre (Beijing).
+         Morley coordinated a written submission to the House of Commons Science &
+         Technology Select Committee Quantum Technologies Inquiry on behalf of the UK
+         Diamond Quantum Technology community and advised the Government Office for
+         Science on the same topic. Pollacco is a member of the UK Space Agency Science
+         Policy Advisory Committee. Dendy was a government appointed member of the MOD
+         Nuclear Research Advisory Council (to 2015) and the Marshall Aid Commemoration
+         Commission (to 2016).
+    g) Over 800 invited talks, keynotes and plenaries have been given by staff, with a further
+       2,800 presentations contributed by PDRAs and PhDs. 66 events have been hosted in
+       Warwick’s award-winning conference facilities. Staff have chaired 35 conferences or
+       symposia at major external meetings, e.g. EMRS, APS March Meeting, and been on the
+       scientific organising committee of another 33.
+    h) Postgraduate training encompasses traditional (lectures, seminars) and applied
+       (experimental, computational) activities. Staff regularly lecture and help organise
+       international graduate summer schools, e.g. the annual Warwick Week benefits UK
+       particle physics PhDs. From 2014 to 2018, Warwick led the national HPC Short Courses
+       consortium of 12 universities to provide advanced computing training.
+    i)   Our training provided through the nine CDTs described in §2.2c has benefited students in
+         16 UK universities, 17 international institutes and over 100 industrial partners.
+
+
+
+
+                                                                                           Page 26
+

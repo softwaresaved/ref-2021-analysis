@@ -1,0 +1,906 @@
+Unit-level environment template (REF5b)
+ Institution:
+ Robert Gordon University
+
+ Unit of Assessment:
+ 11 Computer science Informatics
+
+
+ 1. Unit context and structure, research and impact strategy
+ Computing research at the Robert Gordon University (RGU) operates under the broad theme of
+ data science. We are driven by both the interests of our researchers and the industrial
+ collaborators who help to test research findings in a practical, real world context.
+
+ 1.1 Research Vision and Unit Structure
+ We focus on the data, methods, and processes needed to generate actionable insights for
+ decision support across a range of sub-disciplines in the energy, healthcare, medical and
+ tourism sectors.
+ We are recognised for leading research in Artificial Intelligence (AI) reasoning methodologies
+ (specifically case-based reasoning); computational and nature inspired algorithms and machine
+ learning in the context of complex and heterogenous data streams.
+ Since REF2014 we have also developed capacity in immersive technologies and the blending of
+ machine vision algorithms to create real-world simulations for autonomous systems in complex
+ environments. We have continued to work extensively and collaboratively with external partners,
+ and often with municipal authorities from across the North Sea region.
+ The staff cohort from which the submission is drawn has evolved during the REF period and at
+ its core are a team of ten members with a balance of early (three), mid-career (four) researchers
+ and professors (three); these appear as bold, bold-italic and bold-underline respectively
+ below.
+ A further complement of Research Assistants (RA)/Research Fellows (RF) (thirteen) and Early-
+ Career Lecturers (ECR) (six) form critical mass and play an important supporting role.
+    -   Artificial Intelligence and Reasoning (AIR) – Prof Wiratunga (F); Dr Massie (M); Dr
+        Corsar (M)
+        Supporting Members:
+            o RF/RA: Dr Nkisi-Orji (M), Dr Wijekoon (F), Mr Palihawadana (M)
+            o ECR Lecturers: Dr Kalutarage (M), Dr Martin (M), Dr Snaith (M))
+    -   Computational Intelligence (CI) – Prof McCall (M); Dr Petrovski (M); Dr Zavoianu (M);
+        Supporting Members:
+            o RF/RA: Dr Christie (M), Mr Dang (M), Mr Dobos (M), Mr Fayyed (M), Dr Han (F),
+                Dr Lacroix (M), Dr Nguyen (M), Mr Santos (M),
+            o ECR Lecturers: Dr Bartlett (M)
+    -   Interactive Machine Vision (IMV): Prof Elyan (M); Dr Isaacs (M); Dr Jiang (F); Dr
+        Moreno-Garcia (M);
+        Supporting Members:
+            o RF/RA: Dr Ali-Gombe (M), Ms Jamieson (F)
+            o ECR Lecturers: Dr Johnston (F), Dr Piras (M)
+
+ 1.2 Evidence of achievement at Unit level
+ The AIR and CI groups strategically set out in REF2014 have been maintained to a significant
+ degree and have promoted greater quality through multi-disciplinary research in the Energy and
+ Healthcare sectors.
+ Both groups have each provided an impact case study related to optimisation and scheduling
+ algorithms (CI) and representation and retrieval methods (AIR).
+ The IMV group has evolved from the demand for real-world data science systems that
+ increasingly involve both machine vision and immersive technologies.
+ We regard the integration of our research groups within multi-disciplinary projects to be critical to
+ the development of a strong intellectual culture within the host disciplines.
+
+                                                                                                 Page 1
+Unit-level environment template (REF5b)
+ Indeed, our funding success during the submission period is evidence of this multi-disciplinary
+ approach enabling us to respond to external challenges in creative and agile ways. It has also
+ been possible to develop a thematic framework for the University’s activities within data science
+ and its application in health care systems, architecture and built environments; creative art and
+ design; and energy sustainability; where the topics, challenges and activities of our research are
+ often conveniently integrated in research projects from those disciplines.
+
+ 1.2.1 Evidence of achievement in relation to increasing funding and publications
+ Our income total of £4,6M+ in this assessment period has nearly tripled our previous REF2014
+ income generation (2014: £23K per head per annum, 2020: £65K per head per annum).
+
+                            Income contribution percentage by research group
+
+        25
+
+                                                                                       6
+        20
+                                                                                       2          5
+        15
+                            0                                                                     4
+                 1                                                       3
+        10                                                2
+                 5                        1                              3            16
+                            11
+         5                                5               5                                       10
+                 5                                                       7
+                            2             3               3
+         0
+             2013 - 14   2014 - 15    2015 - 16       2016 - 17       2017 - 18    2018 - 19   2019 - 20
+
+                         % AIR contribution       % CI contribution      % IMV contribution
+
+
+ The percentage contribution of each research group (in the stacked graph) over the current REF
+ period shows a general increasing trend of AIR and CI as established groups having contributed
+ a total of 46% and 35% respectively; with support from the growing IMV contribution of 19%.
+ Our publication track record in the submission period maintains on average 45 papers per year.
+ Since REF2014 we have increased our journal publications (forming 60% of our accepted
+ papers) and increased submissions to high-impact venues.
+
+ 1.2.2 Evidence of adopting research integrity and principles
+ We are committed to the Concordat for research integrity and recognise that a proactive and
+ collaborative approach is required between all stakeholders, to create and develop positive
+ environments and cultures in which all researchers can achieve their full potential and be
+ rewarded for excellence.
+ We maintain a public access GitHub repository of our main codes (https://github.com/RGU-
+ Computing) and encourage all researchers to share datasets publicly where possible (e.g. this
+ dataset from 2019 has had 15K+ hits https://archive.ics.uci.edu/ml/datasets/MEx).
+ In this way we address requirements for open data and open-source code to ensure
+ reproducible research by ensuring access to data is as open as possible, and closed as
+ necessary, and where appropriate in line with the FAIR Principles for data management.
+
+ 1.2.3 Evidence of achievement in relation to supporting the research community
+ Following from our REF2014 submission, we have had significant HR policy changes that have
+ helped to create a clearer research career progression for our research staff (lecturer to senior
+ lecturer A and B; and RF to Senior RF and Reader).
+
+ Several of our REF submitted staff have benefitted from these changes, for instance Jiang
+ promoted to Senior Lecturer, Massie to senior RF and then Reader; and both Elyan and
+ Wiratunga from Reader to Professor. McCall was promoted to a cross-university role,
+
+                                                                                                           Page 2
+Unit-level environment template (REF5b)
+ Professorial Lead in Predictive Data Analytics and seconded as Research Director of the new
+ National Subsea Centre (a multimillion-pound partnership between RGU and The Oil & Gas
+ Technology Centre, OGTC, which is part of the Aberdeen City Region Deal). Accordingly,
+ Isaacs was promoted senior lecturer to Head of School.
+
+ Our submission includes ECRs recruited during this period, Corsar, Moreno-Garcia and
+ Zavoianu; and others more recently recruited (Bartlett, Piras, Snaith) who we plan to develop for
+ the next REF. ECRs in the UoA are supported with a minimum research allocation of 40%.
+ Overall, these changes have helped us develop a stronger research culture and community. All
+ ECRs are linked to PhD supervision teams to create necessary momentum towards developing
+ research independence and encouraged to take an active role in managing departmental
+ seminars and contributing to regional initiatives (Scottish Informatics and Computer Science
+ Alliance and National Subsea Centre, see Sections 1.5 and 1.6).
+ Other plans from REF2014 to improve research culture have resulted in a range of changes
+ from simple approaches such as using informal communication channels to nurture a supportive
+ environment, discussing successes and “failures” through mentoring roles, embedding research
+ integrity within the Unit’s senior management team, ensuring our research leaders are supported
+ by administrative support and most importantly ensuring that they lead by example. This has
+ paid dividends in creating an increasing trajectory in our funding successes and of strengthening
+ the outputs from our research in terms of both published academic outputs and through
+ engagement with research-led practice.
+
+ 1.2.4 Evidence of achievement in relation to supporting research students
+ We have had a long-standing strategic aim to create a vibrant culture for our early-stage
+ researchers (ESRs). We maintain a research student community of around 30, with four
+ completions on average each year and supported by four fully funded studentships each year by
+ the Unit of assessment (UoA).
+ It was also extremely important within the UoA to ensure that there was a close connection
+ between the three research groups and studies undertaken by our ESRs.
+ During the submission period RGU established an institution-wide Graduate School, which has
+ effectively managed processes and formal training in relation to our research degree candidates.
+ One clear and distinctive benefit of this university wide initiative has been the establishment of a
+ strong peer group of research degree candidates, which is cross-disciplinary in nature. The
+ strength of that community is perhaps most strongly evidenced by its continuation throughout the
+ COVID pandemic of 2020, where students continued to meet in significant numbers, to present
+ their work, and to engage in discussion and debate (albeit online).
+
+ 1.3 Evidence of achievement at the research group level
+
+ 1.3.1 Artificial Intelligence and Reasoning (AIR) group
+ Strategic research focus
+ AI reasoning methodologies like Case-Based Reasoning (CBR) form the basis for organising
+ problem-solving experiences to create intelligent systems. We develop new ways of combining
+ representations from learned models for reasoning with structured and unstructured
+ heterogenous data. We explore how reasoning can be supported though personalised models
+ for information search and browsing, recommendation, and decision support.
+ KPI: Publications
+ Our research has produced 57 publications (1/3 in journals) during the submission period, with
+ world-leading work in personalisation of models for human activity recognition, semantic
+ indexing for search and browse, recommender and reasoning algorithms in the healthcare and
+ Energy domains.
+ KPI: Research Income
+ During the submission period, the AIR research group attracted 46% of the total Unit’s funding.
+
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ Notably this included funding from EU (Horizon2020 selfback.eu, FP7 socialsensor.eu), national
+ funding (InnovateUK projects) and Scottish funding through Oil&Gas (AZOTH and Prophecy
+ projects) and Datalab (FITsense) Innovation Centres.
+ This income helped to significantly increase our research capacity through several externally
+ funded (eight) and internally funded (five) studentships; (four) research fellowships (Wijekoon,
+ Nkisi-Orji, Palihawadana, Sani now at BT, Horsburgh now at QuantumBlack); and to create
+ career progression opportunities (from research student to lecturer (Martin) to readership
+ (Massie), and to professorship (Wiratunga)).
+ Following our funding successes in AI and health (selfback.eu and several InnovateUK projects
+ in Diabetes management and radiology fracture detection), our group is known for our
+ contributions to organising and participating in the AI and health workshops that are annually co-
+ located with the main AI conferences (IJCAI, ECAI and BCS-SGAI).
+ Innovation Activities
+ Successful research activity has birthed two award-winning spin-outs: Storical (Massie) and
+ Attendr (Wiratunga and Martin). Both spinouts completed an innovation accelerator in 2020,
+ (with Attendr winning Most Innovative Start-Up, and Storical winning Best Pitch) and are now in
+ pilot phase testing with potential customers. Storical has been incorporated, while Attendr is pre-
+ incorporation. Leveraging this experience, in the future the AIR group intends to create and
+ incorporate a company as a vehicle for commercialising research activities.
+
+ 1.3.2 Computational Intelligence (CI) group
+ Strategic research focus
+ The CI group has long-standing strategic focus on search, optimisation and machine learning
+ and their performance in complex, data-driven decision-making environments. We develop new
+ algorithms and problem representations, explore the problem-solving interface between
+ optimisation and simulation, and drive computational efficiency through surrogate modelling and
+ online statistical reasoning. Our research is informed by our experience of challenging real-world
+ problems across a variety of industries. Forming long-term research partnerships with industrial
+ collaborators is, therefore, a key component of our strategy.
+ KPI: Publications
+ Our research has produced 68 publications, (62% in journals) during the submission period, with
+ world-leading work in permutation-based algorithms, vehicle routing and scheduling, multi-
+ objective (industrial) optimisation and intrusion detection in cyber-physical systems.
+ KPI: Research Income
+ Over the period CI has attracted 35% of overall income generated. The group operated as a
+ self-sustaining Smart Data Technologies Centre (SDTC) with McCall as Director from 2014 to
+ 2017. During that period, CI was the dominant source of research income for the UoA. During
+ the period 2017 – 19, when McCall was Head of School of Computing, CI partnered
+ successfully with other groups to maintain activity and cross-fertilise with the other groups, and
+ in other UoAs (Engineering UoA 12, Creative and Cultural Business UoA 34 and Architecture
+ UoA 13) with a significant involvement in projects with other PIs. This income is recorded with
+ the PI’s of AIR and IMV research group tables. In 2018-19, McCall was Co-I on Massie's (AIR)
+ £400K Azoth project and Nguyen, Lacroix and Dang worked on the project. Santos and Dang
+ have provided technical support on several projects led by Elyan, Moreno-Garcia, and Jiang
+ (all IMV). Over the period, the CI group has doubled in size from two academics and three
+ research staff in 2014 to three academics and eight research / early career staff in 2020.
+ Innovation Activities
+ The CI group has two spin out companies. Both are fully described in the Unit’s impact case
+ study "Transforming the North Sea Logistics Supply Chain".
+      Celerum was established in 2013 as a general optimisation consultancy but has
+        specialised in road freight logistics since developing an AI-supported truck operations
+        control system for ARR Craib in 2016. One full-time software engineer job was created at
+        Celerum in 2017 and a full-time CTO has been employed since August 2020.
+      PlanSea Solutions (established 2017) focusses on providing fleet optimisation and
+        vessel scheduling software for the offshore Oil&Gas marine support sector. This will be
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+        commercially released in Q3 2021. In partnership with the Oil & Gas Technology Centre
+        (OGTC), the study highlighted potential savings of up to £100M p.a. in the North Sea and
+        identified the contribution that optimisation software can make to reduce the sector’s
+        CO2 emissions.
+
+ 1.3.3 Interactive Machine Vision (IMV) group
+ Strategic research focus
+ Key research areas are focused on learning from small, imbalanced and unstructured data,
+ including images, video and 3D representation. Methods developed were successfully applied to
+ a wide range of applications across different domains such as Oil & Gas (Elyan), Medical Image
+ analysis (Moreno-Garcia), Immersive Technologies and Computer Graphics (Jiang) and
+ Simulation of movement in confined spaces (Isaacs).
+ KPI: Publications
+ IMV’s outputs have been published in top international journals and top-tier international
+ conferences and constitute 37% of the share of outputs generated by the UoA. Our world-
+ leading work in machine vision is focused by addressing the challenges with imbalanced and
+ few data.
+ KPI: Research Income
+ Funding attracted by IMV contributed 19% of the Unit’s research spend during the REF period.
+ As the newest of the three groups, IMV plays an influential role by developing cutting-edge
+ solutions to various real-world problems across different domains including Oil & Gas, Fashion
+ and Textiles, Health, Environment and Sports Sciences.
+
+ 1.4 Evidence of achievement at the international level
+ The Unit has extensive collaborations and links with international universities, the wider research
+ community and industry.
+     - CI regularly collaborates with similar groups at Stirling and Napier universities to organise
+        academic workshops and invite world-leading academics in computational intelligence to
+        Scotland (McCall, Petrovski).
+     - The AIR group’s research has motivated renewed interest in deep metric learning in the
+        international CBR community (Wiratunga, Massie, Martin). The group has supported
+        this strand of research through organising and chairing the annual CBR-DL (Interplay
+        between Deep Learning and CBR) workshop since 2017 until present.
+     - IMV have several links established with:
+            o Chinese research institutes through the £1.3 million AHRC funded collaborative
+                 project on "Augmented Fashion: Immersive Interactions for Sustainable Heritage
+                 in Fashion and Textiles" together with textile companies such as Harris Tweed
+                 (Yang); and
+            o Universidad Nacional Autonoma de Mexico (UNAM), which is the largest
+                 university in Latin America, through a Newton fund grant aimed at early diagnosis
+                 of cardiovascular diseases (Moreno-Garcia).
+     - Wiratunga and Massie have collaborated in four international consortia to successfully
+        attract European funding of over £1M for RGU (with total consortium funding over
+        £6.5M). Most of these are multidisciplinary projects which have led working closely with
+        the Schools of Health Sciences (UoA 3), Architecture (UoA 13), and Creative and
+        Cultural Business (UoA 34).
+
+ 1.5 Evidence of achievement at the national level
+ A distinctive feature of the Scottish research environment is the existence of “Research Pools”
+ that encourage collaboration in particular disciplines across Scottish HEIs. The Scottish
+ Informatics and Computer Science Alliance (SICSA) is our relevant pool www.sicsa.ac.uk. The
+ goal of the pools is to coordinate activity where relevant and to ease reaching critical mass by
+ pooling across the different HEIs in Scotland.
+ Our unit aligns very closely with several strategic SICSA themes: Artificial Intelligence, Data
+ Science, Human Computer Interaction, and Modelling and Computation.
+
+
+                                                                                                   Page 5
+Unit-level environment template (REF5b)
+ We have also made use of SICSA’s Postdoctoral and Early Career Researcher Exchanges
+ (PECE) funding for research training and development opportunities for our early career
+ researchers (Moreno-Garcia).
+ The Graduate Academy Distinguished Visiting Fellow (DVF) scheme provides a mechanism to
+ facilitate collaborations between Scottish-based Computer Scientists and leading academics
+ helping to fund linked activities with the textiles sector in China (Yang).
+ Our Unit has organised workshops and has participated in SICSA annual events (see Section 4).
+
+ 1.6 Evidence of achievement at the regional level
+ RGU and OGTC (formerly the Oil & Gas Technology Centre), have partnered to create the
+ National Subsea Centre, (NSC), a £10M Centre of Excellence for Subsea Research Technology
+ development funded by Scottish and UK Governments as part of Aberdeen City Deal. Launched
+ in 2021, NSC will harness the University’s academic expertise, research capability and facilities
+ to establish a world-class research and development centre focused on tackling the underwater
+ challenges faced by all marine industries tackling sustainable economic development. Expected
+ value to the UK is shown in the graphic below.
+
+
+
+
+ The NSC working across industrial sectors (oil and gas, offshore marine renewables, marine
+ aquaculture), will draw from and extend our research into areas involving communications, data,
+ energy integration, remote monitoring and underwater robotics. It provides a new and unifying
+ focus for all three research groups on applied Data Science coupled with Subsea Engineering
+ (UoA 12) and Energy Integration.
+ Our Unit shares research staff with the NSC, which has already led to the development of some
+ initial funding successes (Elyan SAIBOK £112K project on underwater autonomous systems)
+ and joined up activities and events.
+
+ 1.7 Future strategic priorities for research and impact:
+ We have generated £4.6M+ spend in this REF period, but our plan for the next five years seeks
+ to double that, in a move that will support up to 45 research staff a year (i.e., ~50% increase) as
+ we generate 20 outputs and attract funding of around £2M per annum. That makes our plan the
+ most ambitious since previous REF commitments.
+ This is reflected in each of the individual research group development plans for the next five
+ years as detailed in the table below.
+ It is feasible with the recent £10M NSC investment and OGIC backing as well as the recent NSC
+ professorial appointments to achieve our ambitious five-year targets.
+
+  Research Next five years
+  Group
+  AIR      The AIR group will consolidate its position as a leading research group on
+           intelligent healthcare and medical systems research.
+           We will develop new themes to incorporate more complex multi-modal inputs
+           (increased number and complexity of sensors, free-text, clinical dialogue and AI
+           conversation systems, etc).
+           We are committed to working in collaboration with the Triple Helix initiative (NHS-
+           Grampian, Aberdeen University, Scottish Enterprise and healthcare companies),
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+
+             towards the goal of maximising the potential to commercialise health care
+             research.
+             We intend to establish the AIR research group in the rapidly growing field of “AI
+             Matters” research. To this end we have recently secured funding for the three-year
+             iSee project (EPSRC, EP/V061755/1) to produce a technological platform to
+             empower industries to explain the output of their intelligent systems and comply
+             with national and international law supporting an individual’s right to an
+             explanation. The iSee platform will be co-designed with users and evaluated using
+             real-world case-studies (including radiology and medical systems). Input from
+             industrial and academic advisory members will be used to help identify
+             commercialisation opportunities (e.g., explanation-as-a-service).
+             The group have also recently obtained EU Interreg funding for the Story-tagging
+             Northword project (Interreg 304-9126-2019) to develop a digital story platform for
+             Europe’s Northern territories. Research will focus on integrating personalised
+             recommendation components to the AI platform. Sustainability to allow the project
+             to continue beyond the funded period is a key consideration and Storical, a spin-
+             out company, has been developed to aid this transition.
+
+  CI         CI will build on its strengths and experience in industrial optimisation to focus on
+             four globally important challenges: energy transition, smart subsea, smart mobility
+             and smart supply chains. From Q3 2021, the group will be physically located at
+             the National Subsea Centre (see Section 1.5), co-located with major energy
+             companies and contractors operating in both hydrocarbons and renewables in the
+             North Sea.
+             For energy transition, the group remains engaged with a large consortium of
+             industry and academic partners through a £10M H2020 Green New Deal funding
+             bid to construct a mixed energy systems demonstrator. An ongoing EU
+             collaboration with Johannes Kepler University (Austria) is extending CI methods
+             for use by electrical engineers to optimise design of electrical machines (motors
+             and actuators). This is being considered for a four-year extension.
+             The smart subsea research aims to develop digital twins of subsea assets
+             alongside advanced monitoring, control and cyber security capabilities. The NSC
+             has been selected as a data repository for subsea image data and a pilot project
+             Subsea AI Body of Knowledge (SAIBOK) has been funded by OGTC and
+             supported by a consortium of industry partners to establish this capability. CI will
+             contribute deep classifier expertise while IMV will contribute machine vision.
+             The smart mobility theme will use CI research to design large scale sustainable
+             transport systems. Recent projects include the EU-Interreg ART Forum
+             consortium, HiTrans, the Highlands transport authority, Orkney Islands Council,
+             West Yorkshire Combined Authority and the Highlands and Islands Food and
+             Drink network.
+             Smart supply chains will continue to extend our work on freight logistics and
+             supply chains. Recently CI began a £260K project with Aberdeen Harbour Board.
+             This adds a crucial link to our capability to model the full multi-model offshore
+             supply chain and we intend to develop globally-relevant reference models and
+             algorithms.
+
+  IMV        A key objective is to scale up the use of data-driven solutions across different
+             domains to provide faster, more efficient and safer practises specifically in the Oil
+             & Gas and renewable energies sector.
+             To date, many key applications in this industry remain largely dependent on
+             domain knowledge expertise. This is partly due to the complex nature of data and
+             lack of annotations.
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+
+              IMV aims to build a framework for streamlining the gathering, processing, and
+              retrieval of visual content from complex subsea environments and the
+              development of data-driven solutions to inform business practices.
+              Along with the data processes, the IMV group has also a long-term vision to
+              create a generative immersive technologies platform. A recent networking fund
+              from the Royal Society of Edinburgh to form the Immersive Scotland Network (as
+              of March 2021) will help extend our strong international links with this research
+              community.
+              It is our aim to build on these collaborations in both the Energy and Creative
+              Design sectors to bring out a general platform for immersive and interactive vision
+              technologies of the future.
+
+
+
+
+ 2. People
+ The Unit adopts the university guidelines on employee wellbeing (updated for COVID-19) which
+ covers amongst others health and wellbeing, financial wellbeing, supporting working parents and
+ fair treatment.
+
+ 2.1 Staffing strategy and staff development
+ We use staffing initiatives aim to help create capacity by balancing the need for expansion with
+ the need to strength and promote research quality within our established and developing
+ research groups. We have a healthy demographic profile in terms of age and nationality, and an
+ improving gender balance; all of which provides additional evidence of the Units’ sustainability in
+ the long term.
+
+ 2.1.1 Staff development strategy
+ Out of the 29-research staff (listed in Section 1), three of the core staff members (Corsar,
+ Moreno-Garcia and Zavoianu); and all of the supporting staff members were recruited over the
+ REF period. Many of these involve staff who progress from PhD to RF or lecturer; the remainder
+ (excluding the professors) are new appointments.
+ Our commitment to strengthening our research groups standing is also evident with all recent
+ employment focused on recruiting staff aligned to our research strengths.
+
+  AIR      Ontologies and Reasoning: Nkisi-Orji (PhD student to RF), Corsar (new lecturer)
+           Explainable AI: Palihawadana (new RA and P/T PhD student), Wijekoon (PhD
+            student to RF)
+           Dialogue and conversational AI: Martin (PhD student to Lecturer), Snaith (new
+            lecturer)
+  CI       Optimisation problems: Christie (PhD student to RF), Han (new RF), Santos (RA
+            and P/T PhD student), Dr Bartlett (new lecturer); Dr Zavoianu (new senior RF)
+           Evolutionary algorithms for deep learning systems: Dang (new RA and P/T PhD
+            student), Nguyen (new RF)
+  IMV      Video and image manipulation and analysis: Johnston (KTP associate to PhD
+            student to Lecturer), Ali-Gombe (PhD student to RF)
+           Digitising of technical drawings: Moreno-Garcia (RF to lecturer); Jamieson (RA
+            and P/T PhD student)
+
+ Next REF period will focus on early career staff progressing in their academic careers. ECRs are
+ included on PhD supervisory teams, participate in grant-writing as co-Is and are encouraged and
+ assisted to apply for small grants as PIs. Opportunities are taken to include ECRs on organising
+
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+ committees, review panels and other professional activities and to attend workshops and
+ conferences to expand their academic networks.
+
+ 2.1.2 Recruitment Initiatives policy and evidence of its effectiveness
+ All staff submitted under category ‘A’ are on long-term (permanent) contracts, and there is an
+ appropriate mix between full-time and part-time contracts.
+ All recent vacancies within our Unit have appointed staff having a PhD and a record of
+ publication and /or grant income. We ensure that all research staff have an opportunity to feed
+ into the recruitment process by being involved in candidate talks and Q&A sessions.
+ We also developed a new initiative within our Unit to improve job security by introducing F/T RA
+ posts with P/T PhD routes (Palihawadana and Dang). Active since 2018, this has helped to
+ expand our pool of RAs, and enabled us to respond to resource requirements in an agile manner
+ by balancing the needs of current and new funded projects with varying duration timelines
+ (e.g. six months, up to three years). This meant that during the COVID period we were able to
+ begin several funded projects without the need for project specific recruitments on fixed-term
+ contracts.
+ Given our Unit’s important role within NSC there have been recent recruitments (in 2021) of two
+ new professors to lead research teams focused on building capacity in the areas of “automation
+ and robotics” driven by a strategic deliverable related to creating “an integrated basin view”.
+ Specifically, these research leads will greatly enhance and complement our existing industry
+ focused AI and data science capability. They will help to lead our future research on cyber-
+ physical systems and interaction in complex environments.
+ The host school (Computing) for the majority of Unit members applies an operational workload
+ planning model, which in part helps to ensure that ECRs are given sufficient time (40%
+ minimum) to develop their own areas of research. In practice, this has resulted in staff, wherever
+ possible, being engaged with research, PhD supervision and teaching which is thematically
+ connected. ECRs are encouraged to build in the UKRI New Investigator Award scheme as a
+ strategic objective target.
+
+ 2.1.4 Supporting and integrating staff into the research culture
+ All staff are aligned with one or more established research groups within the Unit and have a
+ planned induction programme to help them integrate within the Unit and extended through the
+ quarterly probationary reviews in the first year.
+ We have an established programme of research seminars. All staff joining the Unit are expected
+ to present their research through this venue. Professorial staff within the school are also active
+ in public speaking, including through the University’s own Professorial lecture series.
+ Staff are supported to attend and present at high-level research conferences, especially where
+ these relate directly to ongoing research activity.
+ We have weekly “Research Group Scrum” sessions where members can share initiatives and
+ updates with colleagues. These helps create a positive and supportive research culture. Informal
+ communication is encouraged e.g., through our Research Scrum Slack channel or MSTeams.
+ Staff with leadership and management roles are supported by RGU’s Leadership Development
+ programme - a suite of both ILM accredited and non-accredited development programmes and
+ activities. The Unit has a policy that supports attendance to these in-line with career progression.
+ For instance, Senior RFs are encouraged to attend, the Discoverer, RGU’s First Line and
+ Aspiring Managers' Programme (ILM Level 3 Award in Leadership and Management); thereafter
+ Readers and Professors to attend, the Voyager, RGU’s Middle Managers' Programme (ILM
+ Level 5 Certificate in Leadership and Management).
+ The Pioneer Future Leaders' Programme is open to anyone aspiring to be a leader. In particular
+ female staff are strongly encouraged to apply to the Aurora women-only leadership development
+ programme.
+ All staff access the Skills4Success portfolio of staff development workshops to help with generic
+ and interpersonal skills such as time management, communication and personal
+ effectiveness. Additionally, our VP (Research) office has during the REF period established a
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ strong programme of researcher development training, which includes guidance and support for
+ proposal writing and submission, peer review, research project management and research
+ impact.
+
+ 2.1.5 Policy for research, impact leave/sabbatical leave
+ A University-wide scheme and procedures for sabbatical leave were approved in 2016 and
+ thereafter renewed in 2019. The policy applies to all academic research staff and all research
+ active academic staff, on permanent contracts of employment.
+ Entitlement to sabbatical leave is not automatic but is based on the merits of a proposal and how
+ those fit with the strategic needs of the University, Faculty and School or Department at the time
+ the application is made. Although staff from our Unit have not used the scheme during the REF
+ period due to staff numbers and training requirements of newly recruited staff, we are now in a
+ position to plan for several sabbaticals in the future. Specifically, we anticipate sabbaticals in the
+ next REF period across our research groups e.g., Elyan, Jiang, Massie, Moreno-Garcia and
+ Wiratunga.
+
+ 2.1.6 Procedures to stimulate and facilitate exchanges
+ With a strong KTP track record of eleven projects funded in the REF period, we remain
+ committed to stimulating and facilitating collaborations and exchanges between our academics
+ and industry project partners.
+ We have had both placements and exchange visits between RGU and external institutions i.e.,
+ British Telecom (e.g., Martin and Santos spent 40:60 between company and University) and
+ British Geological Survey (e.g., Nkisi-Orji on a one-year secondment).
+ We have detailed academic exchange under Section 4.
+
+ 2.1.7 Recognising and rewarding staff achievement
+ Promotions during the REF period have recognised achievements (see Section 1.2.2).
+ We have made our priorities clear, with a 40% research time allocation and PhD student
+ allocation to our ECRs driven by a personal research plan linked to the Employee Progress
+ Review (EPR).
+ Achievement is managed with KPIs that are agreed through the EPR process:
+      Funding: targets are based not only on funding successes but also on the proposals
+         submitted and their totals. This has enabled us to acknowledge the significant effort that
+         goes into proposal writing as well as those that succeed to win funding. Successful
+         projects are coupled with funded PhD studentships.
+      Public output: targets are linked to increasing levels of protected research time. For
+         instance, staff with protected time for research > 40% will be expected to produce at
+         least two papers annually with at least one at REF 3* or above; whilst those with
+         allocations between 40-20% at least one paper annually at REF 3* or above. Journals
+         must be compliant with REF Open Access Policy.
+      PhD Supervision: our ECRs with protected time for research will be expected to co-
+         supervise PhD students. This is regulated with training from the Graduate School.
+      Innovation activity: staff are encouraged to participate in the annual “Innovation
+         Accelerator” competitions, and have the opportunity to focus on these through the
+         sabbatical policy. As detailed in Section 1 (Innovation activity) we have had several
+         recent success stories of spin-outs.
+      Peer esteem: staff our encouraged to organise and be members of programme and
+         review committees.
+
+ 2.2 Research students
+ Since REF 2014, the three Research Institute-based Graduate Schools were amalgamated into
+ one single pan-institution School in 2016. The intention of this consolidation was to ensure that
+ best practice was being followed equitably for all PGR students regardless of their individual
+ discipline of study.
+
+ 2.2.1 Approach to recruitment
+
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+ The total number of doctoral degrees awarded annually as reported in REF4a in the assessment
+ period relate to PhDs (i.e., we have not had any research-based professional doctorates).
+ A yearly breakdown on the basis of new intakes with continuing students organised into P/T and
+ F/T counts appear in the table below. We aim to maintain around 30 students within our Unit.
+
+         Intake/       Full time/   Academic Year
+         continuing    part time
+
+                                    2015    2016     2017      2018      2019      2020
+         Cont.         FT           17      13       14        14        12        12
+                       PT           6       9        10        7         6         7
+         Intake        FT           1       4        5         2         4         9
+                       PT           3       3                  1         3         2
+         Total                      27      29        29       24        25        30
+
+ Studentships are advertised in regional, national and international websites (e.g., jobs.ac.uk,
+ FindAPhd and LinkedIn). Candidates are invited to present their research proposal, followed by
+ a coding task and a formal interview.
+ ECRs and successful grants are supported by a funded studentship. Additionally, an annual
+ budget allocation supports a competitive call for fully-funded studentships distributed across the
+ research groups. These are awarded on a competitive basis following review by the Unit’s
+ academic strategic lead for research, the research leads and the Head of School.
+
+ 2.2.2 Evidence of monitoring and support
+ All research students complete a PGCert (Researcher Development) delivered by the Graduate
+ School, within the first two years of their degree, and the development and career progressions
+ are managed using the Researcher Development Framework (RDF) planner from Vitae.
+ The evidence from 2016 is unequivocal in confirming that the overall research degree
+ experience from the PhD community has improved, based on returns from Advance HE and
+ equivalent internal Postgraduate Research Experience Surveys (PRES). The Overall
+ Satisfaction questionnaire in the internal PRES elicited a value of 89% (although the surveys are
+ not directly comparable, the national Advance HE PRES value was 80% for Overall
+ Satisfaction).
+ A contributory factor to the considerable improvement (from 77% previously) was in part the
+ result of the introduction of the RDF in 2020 for all PhD students and ECRs within RGU
+ https://www.rgu.ac.uk/research/the-graduate-school/researcher-development-programme.
+ RDF builds upon the PgCert Researcher Development course, a course that all PhD students
+ must successfully complete, that was successfully revalidated in September 2019.
+ By necessity the programme since March 2020 has been delivered online and the most recent
+ feedback from the module taught in November 2020 provided a rating of 95% Excellent.
+ PhD supervisors undergo mandatory supervisory training, with refresher training every three
+ years.
+ Historically the research degree graduate success has been high, with those passing being
+ above 85% (when taking into account those who had failed the initial attempt but passed on
+ resubmission).
+ Despite the very positive outcomes mentioned above, the time taken for students to complete
+ PhDs more commonly than not exceeded the maximum registration period of four years full-time
+ or 6 years part-time. Although historic performance across the 11 academic Schools was
+ variable, the Graduate School set the target of 70% completion within registration period for the
+ whole PGR student community. In 2019/20, the data show that completions within registration
+ period have moved up from less than 40% overall to just about 70% currently, and rising.
+
+ 2.3 Evidence of how the submitting Unit supports and promotes equality and diversity.
+
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ Table provides a breakdown of equality and diversity statistics for both REF returnable and
+ eligible staff in the Unit.
+
+                                                          Eligible    Returnable
+                 Sexual Identification                     Staff         Staff
+                 Female                                 8             <5
+                 Male                                   31            8
+
+                 Disability
+                 No known disability                    35            10
+                 Disability Declared                    <5
+                 Unknown                                <5
+
+                 Age
+                 <30                                    <5
+                 30-39                                  16            <5
+                 40-49                                  8             <5
+                 50-59                                  8             <2
+                 60-69                                  <5            <5
+                 >70                                    <5
+
+                 Ethnicity
+                 Arab                                   <5
+                 Black or Black British - African       <5
+                 Chinese                                <5            <5
+                 Other Asian background                 <5            <5
+                 Other Black background                 <5            <5
+                 Other mixed background                 <5            <5
+                 Other White background                 15            <5
+                 White - Scottish                       10            <5
+                 Unknown                                <5
+
+ Our research committee with the remit to “enhance, organise and shape all research activities in
+ the School”, meets quarterly and has representation from each research group, ECRs, PhD
+ students and an equality and diversity champion.
+ The latter sits on the Unit’s accessibility group, which takes guidance from the central RGU
+ Accessibility group on applying equality and diversity requirements throughout Learning,
+ Teaching and Research.
+ All management staff are expected to undertake relevant training and development related to
+ equality, diversity and inclusion; training on wellbeing and mental health, including University
+ processes for reporting and addressing incidents of discrimination, bullying and harassment, and
+ poor research integrity. The University also has maternal and paternal policies and family-
+ friendly working arrangements which have been useful for our staff (e.g., Corsar and Jiang).
+ Aligned with the University policy, we strive to ensure that all our committees are gender
+ balanced; although this needs careful consideration to ensure that the smaller female population
+ is not overly burdened with committee memberships.
+ As of 2021 a further female professor has joined the Unit through the NSC. Despite that we need
+ to work towards balancing the current 20:80 gender ratio.
+ From the submitting Unit, Jiang undertook the AdvanceHE’s Aurora Women in Leadership
+ programme to develop, identify, crystallise and communicate her aims within academia. She
+ contends that it also assisted with managing work, leadership responsibilities, politics and
+ maintaining cordial and objective relations with colleagues.
+ Similarly, Isaacs and Wiratunga have also taken part in the Pioneer and Voyager programmes
+ respectively, both aimed at the senior management level, which was planned to coincide with
+
+                                                                                           Page 12
+Unit-level environment template (REF5b)
+ their timely promotions to Head of School and Professorial Academic Strategic Lead (ASL) for
+ Research respectively.
+ We also manage a 1-1 mentoring programme for ESRs & ECRs and staff undertaking PhD by
+ publication.
+ Furthermore, with Wiratunga’s adjunct professorial role within NTNU (Norwegian Institute of
+ Science and Technology, Trondheim), we are able to participate in the “IDUN- BALANSE
+ project” (IDUN), aimed at increasing at least 15 – 20 % females at all levels, from PhD to
+ professor. IDUN offers scientists a career catapulting and research focused mentoring program,
+ where Wiratunga is one of nine IDUN mentors, enabling the sharing of best practice within our
+ Unit.
+ The University also conducts a mentoring scheme open to any staff member, and has noted the
+ benefits to more senior women of the mentoring role and the benefits of the enhanced working
+ relationships between cohorts of women involved in the programme.
+
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income
+
+ Research funding portfolio:
+ We evidenced our achievement in relation to increasing research income and publications in
+ Section 1.2.1.
+ The submitting Unit has successfully undertaken just over 130 projects during the REF period,
+ with a grant spend value of £4,668,217.70.
+
+
+                                     £250K-£350K     > £350K
+                                         2%             2%
+                          £150K-£250K
+                              9%
+
+
+
+
+                  £50K-£150K
+                     20%
+                                                            <£50K
+                                                             67%
+
+
+
+
+ The pie chart analysis above provides a snapshot of the distribution of projects by value of bid to
+ the funder, where it shows that 67% of bids fall under £50K. Our aim for the next period is to
+ double our success instead in the £50K-£150K bid range and maintain at least 15% of £150K-
+ £350K bids.
+ Our top funding sources (in REF5a) are UK Industry (30%), UK other (28%), UK central
+ government sources (21%) and EU (14%).
+ The larger valued bids (>£350K) are through EU’s FP7, H2020 and Interreg programmes. We
+ are particularly successful in undertaking work funded by Innovate UK, including KTPs and
+ funded research commissions.
+ Our funding from BEIS (e.g. UKRI) remains at 3% and it is our aim to increase this to 15% in the
+ next five years. Although not included in this submission, we have already started to benefit from
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+ this effort with substantial grants from both AHRC (AH/T011483/1) and EPSRC (EP/V061755/1)
+ won since late 2020.
+
+ Infrastructure and facilities
+ The Unit has dedicated Systems (five) and Administrative (nine) staff teams, each with senior
+ management representation. Both teams work hand in hand with all academic and research
+ activities to ensure that day to day operations run smoothly.
+ RGU uses the cloud based Worktribe software for seamless end-to-end research proposal
+ authorisation and management. This has positively contributed to team collaboration, and has
+ ensured that there is continuous connection between staff details, research activity and
+ governance.
+ Following REF2014, computing facilities were significantly enhanced to include:
+       RGU Cloud Development Project (2014-15): The provision of a Big Data Server (£83k), a
+        private Cloud Computing Server (£32k) and further high spec PCs (£33k) outlay for a
+        proposed Digital Incubator. In 2015-16 a further £35K for a Render Farm and £50K for
+        Desktop Virtualisation.
+       Across the university (2016-2017) funding was pulled together to create a virtual
+        environment of VMware Horizons server network (top-spec DELL 710 and 810 servers)
+        with NVIDIA Graphics for virtualisation (400-node HPC) and 3D rendering work.
+       RGU Cloud Replacement - Nutanix Cluster (With ITS) (2019): There was an £80K pot of
+        money allocated for the enhancement of the RGU Cloud.
+       Deep learning experiments required spend on an Nvidia DGX plus a support contract to
+        manage it (2017, £125K).
+       Video conferencing facilities to support research consortiums (2018-2019 £53K)
+       VR headsets for immersive technology research (2018, £8K)
+ Our Unit works closely with NHS-Grampian on data science related projects. Access to patient
+ data from the Grampian Safe Haven (DaSH) has required initial clearance from NNPAC after
+ completing the MRC Research, GDPR and Confidentiality training. Following the Innovate UK
+ SBRI competition on radiology image analysis award, several of our researchers have been
+ authorised (e.g., Moreno-Garcia and Martin) and since then others (Lacroix, McCall, Massie,
+ Nguyen, Wijekoon, Wiratunga, Zavoianu) have completed the necessary training for the Triple
+ Helix initiative.
+
+ 4. Collaboration and contribution to the research base, economy and society
+ All national and international collaborations have a formal process of setup guided by the
+ University’s research ethics and integrity procedures and contracts. This helps to setup
+ expectations and standards concerning research integrity, on the laws and regulations that will
+ apply, on protection of the intellectual property of collaborators, and on procedures for handling
+ conflicts and possible cases of misconduct.
+
+ 4.1 Collaborations with the research community
+ Wiratunga has strong links with several International academic partners including the NTNU,
+ Trondheim where she holds an adjunct professorship role. Wiratunga and Massie have also
+ hosted sabbatical visits from Universidad Complutence Madrid, UCM (Prof Belen Diaz-Aguda)
+ and University College Cork, UCC (Dr Derek Bridge) in 2019. These visits led Wiratunga,
+ Corsar and Martin, to develop a generic explainable AI platform. With recent EPSRC funding
+ this line of work has strengthened ties with both UCM and UCC; where in the past we have
+ worked together on the hugely successful jCOLIBRI opensource platform (with over 25K+
+ sourceforge downloads) to provide textualCBR utilities for the CBR research community.
+ Following the Horizon SelfBACK project’s work package on human movement recognition,
+ Wiratunga led a satellite project through the EPSRC Network+ GetAMoveOn project. This
+ enabled the project RF, Wjekoon, to participate in their Fellowship programme to raise
+ awareness of the SelfBACK project to widen impact of our AI research within the GetAMoveOn
+ HCI and mobile computing research communities; and to successfully apply for a networking
+ research grant with multi-disciplinary collaborators from GetAMoveOn.
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+
+ McCall has a long-standing collaboration and a series of academic exchanges with University of
+ the Basque-Country (UBC) in estimation of distribution algorithms (EDA) and permutation-based
+ algorithms. Santos is a graduate of UBC and co-supervised in his PhD by Josu Ceberio at UBC
+ (http://www.sc.ehu.es/ccwbayes/members/jceberio/home/). Another ex-UBC PhD student, Goñi,
+ is supervised by Zavoianu with McCall as second supervisor. Ceberio visited McCall in 2018
+ and 2019 and McCall and Moreno-Garcia visited UBC also in 2019.
+ Since 2017, led by McCall, the Unit has been building a collaborative research relationship with
+ IIMAS, at Universidad Autonoma de Mexico (UNAM). Moreno-Garcia together with Corsar,
+ Elyan, Massie and Wiratunga has secured £250K funding (per partner) for a joint project with
+ UNAM investigating image segmentation of cardiograms. Nguyen and Dang are providing
+ support on Deep Neural Networks to that project. In February 2020, McCall, Moreno-Garcia
+ and Zavoianu were invited to UNAM contribute talks to a Mexican industrial research workshop
+ organised by IIMAS. Additionally, McCall gave a workshop on Principles of Industry
+ Engagement with Academia and a Masterclass on Real World Optimisation.
+
+ 4.2 Collaborations with Industry
+ The Unit has a world-class reputation for industry-led research. Industrial collaborators include
+ large multinationals (BT, BP, EDF, Equinor, CNOOC, Intertek, Selex ES) and a range of national
+ companies and SMEs (NEL, IDS (UK), ARR Craib, Accord, Albyn Healthcare, Jiva.AI, Azoth.AI,
+ AskSenti, and Orkneyology) in domains such as Energy, medical imaging, healthcare and
+ tourism.
+ McCall’s research on North Sea supply chain modelling is globally recognised and forms one of
+ the impact case studies from this Unit. Our relationship with BT is particularly longstanding and
+ has funded seven PhD studentships during the period. Two former PhD students now occupy
+ senior research positions at BT. Other research staff and PhD graduates during this REF period
+ have moved on to industrial research positions at Airbus, Fujitsu Labs, and Accenture, and
+ lectureships at Durham and Nottingham (Ningbo).
+ Wiratunga’s work with the public funded British Geological Society (BGS) led to the creation of
+ a GeoNER model which has had significant impact on international geoscience research through
+ BGS. Indeed, it forms one of two impact case studies for this UoA. That work further helped to
+ fund a PhD studentship for Nkisi-Orji and created a career path to a postdoctoral position with
+ the AIR group.
+ The IMV group have led collaborative projects with leading International business partners (Det
+ Norske Veritas, Norway; Shell, Total, British Petroleum, Intel) and National partners (Mintra, IDS
+ and Harries Tweed Hebrides). More recently a collaboration with a Canadian business partner
+ through an industry funded project (£215K) will create a platform for analysing complex
+ documents and engineering drawings (Elyan).
+
+ 4.3 Regional collaborations through SICSA
+ We have contributed to SICSA events including in 2019 the SICSA HCI workshop (co-chair
+ Jiang); in 2018 AI Theme workshop on Reasoning, Learning & Explainability (co-chair
+ Wiratunga); in 2015 The SICSAWomen in Computing Research (co-chair Wiratunga).
+ In 2014 RGU organised the DEMOfest North’14, with 40 exhibits attracting 135 attendees and
+ 27 companies; and the SICSA PhD Conference 2018 was both organised and hosted at RGU.
+ SICSA funding was used to: Host Professor Ian Watson, University of Auckland; Professor Nik
+ Kasabov, Auckland University; and Professor Rong Zheng from Donghua University.
+ Moreno-Garcia used PECE SICSA funding to arrange exchange visits to collaborate with
+ Universitat Rovira i Virgili (Spain), University of Munster (Germany), Universidad Nacional
+ Autonoma de Mexico & Tec de Monterrey (Mexico)
+
+ 4.4 Other collaborations and peer esteem activities
+ Our Editorial services include 2016-2019, Associate Editor, IEEE Systems, Man and
+ Cybernetics (McCall); 2014-2019, Associate Editor, IEEE Computational Intelligence Magazine
+ (McCall); 2020 – date: Complex and Intelligent Systems (McCall). In 2018 Special Issue Editor
+ of the Evolving Systems Journal (Wiratunga).
+
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+
+ We have had conference and workshops chairs for, among others, International Joint
+ Conference for Neural Networks IJCNN 2018-2020 (Elyan); also in 2020 ECPERM Permutation-
+ based Optimisation Algorithms Workshop, GECCO (McCall); in 2019 IJCAI Workshop on
+ Knowledge discovery from health data (Wiratunga); in 2018 Workshop on Intelligent Operations
+ Management in the Energy Sector, GECCO 2018 (McCall); ECAI Workshop on AI and health
+ 2018 (Wiratunga); in 2017 Model Building Evolutionary Algorithms Workshop, GECCO, 2015-17
+ (McCall).
+ Invited keynote lectures include in 2020 the 28th International Conference on CBR
+ (Wiratunga); Islands deal Healthy Ageing Innovator project pitch to UK and Scottish govts
+ (Massie); in 2019 International Conference on Intelligent Computing Systems and Data
+ Analytics Applications (Elyan); in 2018 FIT for Healthy Living Event, DataFest18 Highlands &
+ Islands Fringe (Massie); in 2017 Industrial Track at FUZZ-IEEE (McCall); Digital Energy Journal
+ (McCall); ITF Tech Talk, Aberdeen (McCall); in 2016 Oil and Gas ICT Leaders Conference,
+ Aberdeen (McCall).
+ Best paper awards in 2020 best application paper 28th International Conference on CBR
+ (Wiratunga); in 2018 Connect Digital Health & Care Connect ICT Award (Massie); in 2017
+ Global Telecoms Award in Innovative Software Applications, with British Telecom (McCall);
+ Finalist in Innovation category, Offshore Achievement Awards, with PlanSea Ltd (McCall); in
+ 2015 Donald Michie Award for the Best Technical Paper (Massie); best technical paper award at
+ International Conference on CBR (Massie)
+ We have advisory roles in the international case-based reasoning community (Wiratunga);
+ senior programme committee roles in IJCAI (Wiratunga);
+ Peer Review memberships in 2020 Member of Future Leaders Fellowships Peer Review
+ College (McCall); Member of EPSRC Peer Review College (McCall); and in 2016 international
+ evaluation panel for Chistera 2016 (Massie).
+ Our patents and licenses include:
+    - two patent applications filed with BT (EP20160296.8 (GB2002946.8) Filed 1-MAR-2020;
+       Title: Database relationship inference based on semantic clustering; EP20160295.0
+       (GB2002947.6), Filed 1-MAR-2020, Title: Database Relationship Discovery
+    - CloodCBR opensource creative commons license Attribution 4.0 International (CC BY
+       4.0)
+
+
+
+
+                                                                                          Page 16
+

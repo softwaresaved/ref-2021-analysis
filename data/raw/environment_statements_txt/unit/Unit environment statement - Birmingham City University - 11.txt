@@ -1,0 +1,897 @@
+Unit-level environment template (REF5b)
+ Institution: 10007140 Birmingham City University
+
+ Unit of Assessment: UoA11 Computer Science and Informatics
+
+ Section 1. Unit context and structure, research and impact strategy
+
+ a. Overview
+
+ The Computer Science and Informatics research cluster is part of the School of Computing and
+ Digital Technology (CDT) in the Faculty of Computing, Engineering and Built Environment (CEBE)
+ at Birmingham City University (BCU). We conduct research in the theory and application of
+ Computing and Digital Technology, with key areas of focus in Data Analytics, Artificial Intelligence,
+ Digital Media Technology, and Cyber Physical Systems.
+
+ Since REF2014 we have achieved significant growth in research staff, outputs, doctoral
+ completions and income; we have invested in our research infrastructure; and we have developed
+ new partnerships with field-leading industry and institutions. In 2014 we returned 7.4 FTE staff
+ and 30 outputs compared with the current submission of 30 FTE staff and 75 outputs. Doctoral
+ awards have climbed from 1 to 19, while our doctoral community has grown from 27 in 2014 to
+ 48. Research grant capture has increased modestly from a total of GBP3.5M in REF2014 to
+ GBP4.6M, but with GBP3M of this awarded in the last two years showing good upward
+ momentum.
+
+ With growth has come investment in quality. Our outputs now regularly feature in top-rated
+ conferences including the ACM CHI Conference on Human Factors in Computing Systems, the
+ Vehicular Technology Conference (VTC-Spring), the International Joint Conference on Artificial
+ Intelligence, and in high-impact journals such as IEEE Transactions on Wireless Communications,
+ Elsevier Computer Networks, and the Journal of Artificial Intelligence. Our project collaborators
+ include Jaguar Land Rover, GlaxoSmithKline, Orange Telecom and many prestigious universities
+ from around the world. Director of Research Gaber has been named one of the world’s top
+ scientists     according     to     research     by    Stanford    University    and     Elsevier
+ (https://www.bcu.ac.uk/research/news-events/bcu-professor-named-one-of-the-worlds-top-
+ scientists-according-to-study).
+
+ At the time of writing we stand on the verge of a transformational move to a new GBP70m facility
+ adjoining the new HS2 terminus. From December 2021, BCU’s STEAMhouse (covering Science,
+ Technology, Engineering, Arts and Mathematics) will support interdisciplinary work across the
+ arts, science and technology, building on the University’s 178-year heritage of design and creative
+ education. CDT will occupy 35% of the building, sharing it with incubation and corporate spaces.
+ The Computer Science and Informatics cluster is taking a lead in developing strategies in STEAM.
+
+ Research Groups
+
+ The Computer Science and Informatics cluster consists of three research groups, each led by a
+ senior academic and featuring researchers from all career stages alongside postgraduate
+ students:
+
+ Data Analytics and Artificial Intelligence (DAAI). Led by Gaber, DAAI comprises 13 submitted
+ staff who develop advanced machine learning and optimisation methods through 4 sub-groups.
+ The Machine Learning sub-group focusses on deep learning, data stream mining, time series
+ analysis, mobile and embedded machine learning, and text mining. The Evolutionary Computation
+ sub-group on genetic programming, genetic algorithms and particle swarm optimisation. The Multi-
+ agent sub-group on mobile software agents, multi-agent computer network routing protocols and
+ agent-based machine learning systems. The Knowledge Engineering sub-group on automatic
+ ontology engineering, ontology-based information retrieval and using ontology in healthcare
+ systems.
+
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+ Digital Media Technology (DMT Lab). Led by Williams, DMT Lab comprises 9 submitted staff
+ who specialise in the development of methods for creating, processing, analysing, evaluating and
+ distributing digital media. Its HCI sub-group specialises in user experience design,
+ virtual/augmented reality, accessibility and assistive technology, and sensor-driven interaction.
+ The Graphics and Vision sub-group focuses on synthetic image generation, digital twins,
+ animation and computational geometry. The Sound and Music Analysis group uses audio signal
+ processing and machine learning techniques to achieve music information retrieval, intelligent
+ music production, digital audio effects, rhythm and metre analysis and automatic music
+ transcription.
+
+ Cyber Physical Systems (CPS). With a total of 9 submitted staff led by Aneiba, CPS brings
+ together the Cybersecurity and Software Engineering groups reported in REF2014, adding a
+ further strand in future communication systems. This group specialises in software-defined
+ networking (SDN), network function virtualization (NFV), high computing performance (HCP),
+ future networks (5G and LPWAN), blockchain, and trustworthy protocols and systems. CPS
+ develops innovative solutions, methods and techniques across multiple application domains such
+ as Smart Cities, Smart Manufacturing and Smart Mobility, delivered through two intersecting
+ research themes, Future Information Networks, and Secure and Trustworthy Systems.
+
+ Group leaders are responsible for developing (i) group research strategy and plans (ii) research
+ staff capabilities and careers (iii) research seminar series (iv) research funding applications (v)
+ research equipment bids (vi) plans for symposia and conferences, and (vii) opportunities and
+ context for visiting scholars.
+
+ School, Faculty and University
+
+ To provide strategic leadership to these groups the School has established a Research Steering
+ Committee comprising: Associate Dean of Research and Enterprise (Professor Cham Athwal) at
+ the Faculty level; Head of School (Professor Andrew Aftelak); School Director of Research
+ (Gaber), supported by research group leads (Gaber, Williams and Aneiba); and the School
+ Director of Innovation (Professor Makhan Sharma). This team meets monthly to discuss the overall
+ strategy of research in this UoA, set and review operational plans for its implementation, and
+ allocate a devolved budget that permits swift responses to the needs of staff undertaking key
+ projects, enabling better planning for junior staff careers, meeting urgent equipment needs, and
+ servicing visits, seminar series, and other key features of a vibrant research environment.
+
+ As set out in BCU’s REF5a, the University’s Doctoral Research College (DRC) supports all
+ aspects of the doctoral student journey from application to examination, while the Research,
+ Innovation, Enterprise, Employability (RIEE) team oversees grant awards, engagement with
+ industry, contracts, IP policy, technology transfer, governance and enterprise. Both areas have,
+ as the 5a explains, received significant investment since REF2014, with the measurable impact
+ on PhD completions and external funding summarized above.
+
+ The University’s investment has also allowed the benefits of research to be seen in our
+ undergraduate and postgraduate taught programmes. Building on the work of the DAAI group,
+ data science has emerged as a strong thread across many of our courses, while HCI and future
+ networks research feature strongly in curriculum development at taught PG level. The success of
+ our research-informed teaching strategy is evident in our top third (30/109) ranking in the latest
+ Guardian University Guide for courses in Computer Science and Informatics.
+ b. Research strategy
+
+ REF2014-2021
+
+ The future strategic vision in this UoA’s return to REF2014 was to deepen excellence in core
+ disciplinary subjects, harmonise theory and practice, strengthen collaborations and
+ partnerships with research users, and thus achieve stronger impact in selected
+ interdisciplinary and application areas. This was further refined in light of the University’s
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ Strategic Plan 2016-2020 that promoted growth in all research indicators and emphasised the
+ role of research in stimulating regional transformation with an ambition for BCU to be
+ recognised as ‘the University for Birmingham’.
+
+ Deepen excellence in core disciplinary subjects, harmonise theory and practice, growth.
+ This has been achieved by:
+
+ •   Growth in staff with significant responsibility for research to 31 following three recruitment
+     campaigns and investment in existing staff; appointments of new Professors in Machine
+     Learning (Gaber) and Telecommunications (Patwary).
+ •   Adoption of a research-centred workload that makes at least 25% of time available for all
+     research active staff to conduct research and allows for reduction of other workload for staff to
+     pursue funded projects, regardless of whether the external funding pays for investigator time.
+ •   Allowing the establishment of two new research groups and growth of all three to reach critical
+     mass in their core disciplines and fuel growth in PhD numbers (48 currently enrolled) and
+     completions (19 including 1 by publications route); allowing the development through PhD
+     projects of new foundational knowledge and applied research results as demonstrated by
+     growth in numbers and quality of research outputs.
+ •   Using this knowledge and expertise to work with industrial partners and end users in funded
+     projects to gain new insights and develop pertinent research questions and directions for
+     further PhD topics. Demonstrated by growth in research awards.
+
+ Strengthen collaborations and partnerships with research users. This has been achieved by
+ a range of measures including:
+
+ •   Events and outreach including RIEE supported brokering of partnerships across local
+     authorities, Local Enterprise Partnerships (LEPs), stakeholder groups and private-sector
+     partners.
+ •   Partnership with regional public sector bodies in two large ERDF funded programmes that
+     engaged SMEs and developed their research and innovation capabilities (Innovation Engine
+     and Big Data Corridor).
+ •   Faculty sponsored events to foster internal collaborations with engineering and built
+     environment researchers.
+ •   Enabling the formation of partnerships with companies and public sector organisations to bid
+     for and deliver a range of digital transformation projects. These have included in Manufacturing
+     with Jaguar Land Rover and their machine tool suppliers, and several regional SMEs; in
+     Construction with Walsall Housing Group, Beattie Passive and Carillion Energy Services; in
+     Smart City and Sustainability with United Utilities, Singular Logic, Birmingham City Council
+     and Traffic for West Midlands; in Healthcare with GlaxoSmithKline and several NHS trusts;
+     and in the Tech sector with Orange Telecom and Microsoft.
+
+ Achieve stronger impact in selected interdisciplinary and application areas, stimulating
+ regional transformation. This has been achieved by a range of measures including:
+
+ •   RIEE facilitated workshops and training around knowledge transfer and impact by both internal
+     staff and with external input from impact experts Saskia Walcott (Walcott Communications)
+     and Professor Mark Reed (University of Newcastle).
+ •   Staff mentoring provided on an ongoing basis from research group impact leads who also
+     organise industrial visits and specialist workshops.
+ •   Enabling the award and continuing successful delivery of several large funded projects such
+     as IoT4WIN, Red-Alert, DfMA, Perseus, 5G Connected Forest and 12 KTP partnerships
+     (described in sections 3 and 4).
+
+ This interdisciplinary working with partners, including research users, has become intrinsic to the
+ research/impact strategy of this unit, and the selected impact case studies provide examples of
+ the success of this approach:
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ 1.     An interdisciplinary project (with architects and construction companies) on personalised
+ retrofit packages. Basurra and Gaber have collaborated with regional partners Beattie Passive
+ Retrofit (industry lead and construction delivery partner), Carillion Energy Services, InteSys and
+ iZdesign, together with Birmingham City Council, which provided the housing stock for the project.
+ The research contribution was a novel algorithm that optimises deep retrofit packages for reducing
+ energy consumption and carbon emissions in previously energy-inefficient houses whilst making
+ occupants’ lives more comfortable. The Stroma Group (the UK’s leading provider of training and
+ certification for property energy assessors) is working with Basurra to develop an enhanced tool
+ (iRET) based on this research, that supplements the current Stroma SAP government-approved
+ calculator used in around 2,500 daily assessments for Energy Performance Certificates. Full
+ details are given in [ICS1].
+
+ 2.    Partnerships exploiting Augmented and Virtual Reality systems for the benefit of the
+ healthcare industry and providers. Findings from DMT Lab’s world-leading research for improving
+ the quality of experience and interaction capabilities of AR/VR systems are being used by the
+ global pharmaceutical company GlaxoSmithKline (GSK) in a Knowledge Transfer Partnership
+ (KTP) with Williams and Frutos-Pascual to develop new AR/VR based tools for product analysis
+ and consumer environment design, and for raising the awareness of the potential benefits of
+ AR/VR throughout the company. Williams’ and Wilson’s work with separate NHS Trusts has
+ culminated in the design for an AR based platform for delivering radiotherapy training and
+ treatment set up, and a VR app that is being used for ophthalmology training respectively. Full
+ details are given in [ICS2].
+
+ 3.     Our third project provides intelligent software tools to support music production. Working
+ with a community of music producers, Stables carried out research into intelligent music
+ production tools that leveraged semantic descriptors to power technologies such as automatic
+ track grouping or effect recommendation. Parallel to this his team developed web-powered
+ production suites which also gather large volumes of production data, furthering the understanding
+ of the music-mixing process and lowering the barriers to entry for professionals and hobbyists
+ alike. These tools have been used in prestigious recording studios such as Abbey Road Studios
+ and downloaded by 15,000 other users in 20 countries. The research has led to a Stables co-
+ authored book, Intelligent Music Production, published by Taylor & Francis (Routledge) in 2019
+ (ISBN: 9781315166100). A spinout company Semantic Audio Labs is developing and
+ commercialising the research outputs and employs 6 staff, including Stables on a partial (0.2FTE)
+ secondment. Full details are given in [ICS3].
+
+ Future Strategy
+
+ Central to our future plans are the opportunities afforded by STEAMhouse for interdisciplinary
+ research, innovation and public engagement projects. The fruits of our future work with designers
+ and artists in BCU’s internationally renowned arts faculty, and business experts, health specialists
+ and a host of other research practitioners from across the university will be evident in the next
+ REF cycle. This GBP70m project, part-funded by the Birmingham and Solihull Local Enterprise
+ Partnership, will also transform the scope and scale of our relationships with industry in the UK
+ and internationally. A partner institution, STEAMhouse India, is set to open in 2022. Increasingly,
+ we will seek to develop expertise that addresses the big challenges to society working both
+ regionally and seeking to amplify our impact through collaborations in India.
+
+ In that context, the next REF cycle will see further progress in building research capacity through:
+
+ •   increasing the proportion of REF-returnable Category A staff from 34% to 60%, so furthering
+     our capacity for grant capture, industry partnerships, and research-informed teaching
+ •   doubling our doctoral community through STEAM bursaries and industrial partnerships aimed
+     at finding solutions to process and technological problems
+ •   doubling our external research income through further collaboration domestically and
+     internationally, taking advantage of opportunities presented by STEAMhouse India.
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ •   nurturing applicants and developing proposals for independent research fellowships from
+     EPSRC, Royal Society, Leverhulme Trust, other UK research councils, and foreign
+     governments and foundations
+ •   exploiting our internationally leading research for the benefit of UK industry and attracting more
+     research funding from overseas (non-EU) to BCU.
+
+ We expect to achieve those aims in the context of our three existing research groups, with a new
+ remit to develop research capability among existing and junior staff.
+
+ Governance processes in our home Faculty (CEBE) have played no less significant a role. Our
+ research endeavours are held to the highest standards of compliance with ethical obligations and
+ standards, so that integrity with regard to legal and professional frameworks is paramount. CEBE
+ has a well-established ethics committee that stipulates and ensures that “All those engaged with
+ research have a duty to consider how the work they undertake, host or support, impacts on the
+ research community and on wider society”. All research projects are submitted for ethical approval
+ prior to commencement; we observe strictly the Research Integrity Concordat and the process
+ and governance structures at University level as set out in 5a.
+
+ That includes full compliance with the Concordat on Open Research Data, in which we are
+ supported by the University’s Open Access Officer. Open Access has been a key component of
+ our UoA strategy, and has in part been realised by introducing Personal Research Accounts. Staff
+ members with quality outputs have an account incremented by an amount of funding supporting
+ their research. Accounts are incremented only if the output is deposited in the University’s Open
+ Access repository. Researchers are also encouraged to make their datasets publicly available;
+ server facilities are made available to support the policy. Examples of open datasets attached to
+ projects underway in our UoA include (i) Image datasets (Williams) (ii) Big Data Corridor and
+ Birmingham in Real Time datasets (Tawil), (iii) Citygate (Aneiba), and (iv) Semantic Audio
+ datasets (Stables). Open Source code and applications arising from our research are routinely
+ made publicly available via GitHub.
+ Section 2. People
+
+ Staffing strategy and staff development
+
+ We aim to provide a research environment that is attractive to new researchers, and which
+ supports and nurtures researchers at all stages of their careers. All new appointments must
+ demonstrate individual excellence in their research outputs and/or potential (as evidenced by
+ publications, funded projects, industry links, doctoral/postdoctoral performance), while
+ consolidating or complementing existing research strengths. New early-career staff are allocated
+ additional research time and reduced teaching and administrative duties during their first three
+ years of appointment, and are mentored by senior staff and attend structured staff development
+ programmes, including mandatory training for supervising research students.
+
+ We also recognise the need to invest in senior strategic appointments. Out of the 20 new
+ appointments made during the current cycle, eight have been researchers with an established
+ record of internationally excellent or world-leading research in the areas of Artificial Intelligence
+ and Machine Learning, Future Communications Systems, Cybersecurity, and Digital Media
+ Technologies. Of those eight senior appointments, Gaber and Aneiba have taken up leadership
+ positions in our research clusters while Azad, Patwary, Asyhari, Arshad, Creed, and Harvey
+ have played a key role in securing external funding, mentoring junior staff, and building industrial
+ and HE collaboration.
+
+ For all appointments, we have drawn on international fields of applicants in order to secure the
+ best talent. Five of our new appointments in the current cycle have been recruited from outside
+ the UK: Aneiba (Libya), Hockman (Canada), Abdallah (Australia), Azad (Ireland), and
+ Adedoyin-Olowe (Nigeria).
+
+
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+ Recruitment, Workload, Support
+
+ We encourage, enable and expect excellent research from our staff. To this end we:
+
+ •   Appoint only staff who have, or can be expected to develop, a profile of 4* and 3* research
+     outputs and significant engagement with the research community.
+ •   Enable and recognize research activity in our workload model: all staff are allocated dedicated
+     research and grant-preparation time of at least 25% FTE and rising to 50% (at a salary cost in
+     this UoA of GBP727,430 in 2019/20 alone); additional research time is protected for staff
+     holding grants and for staff in the first years of their academic career.
+ •   Offer close support and mentoring for all staff, particularly new staff and early career
+     researchers (ECRs), via the research group leaders and Director of Research; for established
+     staff, we offer support in meeting the expectations of the University, making promotion
+     attainable: in this REF period sixteen of our staff have been promoted, four to Senior Lecturer
+     (Tait, Basurra, Fouad, Kovalchuk), one to Reader (Palomar) and eleven to Associate
+     Professor (Williams ,Tawil, Aneiba, Creed, Bhogal, Mahbub, Azad, Hockman, Stables,
+     Wilson and Harvey).
+ •   Using our system of annual appraisal and objective-setting, adjust workload expectations
+     according to research performance, as reviewed by senior research staff.
+ •   Mentor junior staff so that they are positioned to prepare for leadership opportunities and future
+     promotion and conferment rounds.
+
+ As noted above, over the next REF cycle we expect to build capacity from 34% of staff with
+ significant responsibility for research to 60%, which is expected to equate to returning 65 FTE.
+
+ Incentives and Requirements
+
+ Newly appointed academics are assigned an experienced or senior member of academic staff as
+ mentor, to provide support in all aspects of work, especially the development and implementation
+ of a personal research strategy. Doctoral supervision is a key element of the research environment
+ for BCU and all relevant staff are expected to engage with the University’s SEDA-accredited
+ Research Supervision Training Programme.
+
+ Recognising the value of incentives, the power of local decision-making, and the desirability of
+ giving staff early experience of budgeting, we award every research-active member of staff a
+ Personal Research Account (PRA). The value of each account depends on individual performance
+ against objectives for (e.g.) submitting funding bids, publishing papers of recognised quality, or
+ seeing doctoral projects through to successful completion. The available fund can only be used to
+ further support research activities such as:
+
+        •   Buying research equipment,
+        •   Attending conferences and networking events,
+        •   Funds for short-term internships to support their research.
+
+ The PRA scheme is a valuable tool in helping all academic staff understand how research activity
+ can assist them in plotting paths to promotion and conferment, so increasing the leadership and
+ intellectual capital of our UoA and its host School.
+
+ Research staff are expected to engage with all aspects of academic life, including having
+ membership of departmental and professional committees, assisting with supervision of research
+ students and masters and undergraduate projects, showcasing research at university open days,
+ playing a role in the development of research grant applications, and giving informal graduate-
+ level courses. The University’s Doctoral Research College (DRC) and School Research
+ Committee make development opportunities and training courses available to all research-active
+ staff.
+
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ To enhance the vibrancy of our research environment, we support a large number of active
+ research seminars. In addition to the School seminar series, we have specialist seminar series in
+ Artificial Intelligence and Machine Learning, Cyber Security, Future Communications Networks
+ and Systems, HCI, and Image Processing and Computer Vision. Our seminar series have been
+ enriched by the involvement of more than 20 international visitors, among whom have been
+ Visiting Scholars from the Wuhan University of Science and Technology (WUST) (PR China),
+ Anna University (India), Kazan Federal University (Russia), St Petersburg State University
+ (Russia), and the University of Coimbre (Portugal). These visits have yielded greatly in terms of
+ joint bids and publications. For example, Wei Hu’s seven month visit from WUST, to work
+ alongside Wang in the DMT Lab in 2016, has since led to joint publications of a book, 3 journal
+ papers and 15 conference papers, the organisation of 3 conferences, and the success of a grant
+ bid to support research student visits from WUST to BCU.
+
+ Mentoring
+
+ All new lecturers and research fellows are mentored by senior staff in their research groups.
+ Mentors typically recommend them to international conference committees and journal editorial
+ boards as paper reviewers or members, introduce them to collaborators in academia and industry,
+ and offer support for promotion or future conferment applications. Research Fellows are important
+ members of our research community; our 5G Connected Forest project alone has three Research
+ Fellows and one Research Associate. We have a strong record of providing ample opportunities
+ for their development and integration into permanent research or teaching and research posts. All
+ these are essential in developing the next generation of UK researchers to lead the world in their
+ fields.
+
+ Industry Links
+
+ Industry links are core to our strategy for both research and its impact. They are facilitated by
+ dedicated officers in RIEE. As a UoA, we support staff to undertake industry secondments: Wang
+ was seconded to a blockchain development company based in New York for 0.8 of his time for
+ one year in 2018/19; since 2019, Stables has been seconded for 0.2 of his time to a spin-out
+ company that he himself founded; Patwary was seconded to West Midlands 5G for 0.5 of his time
+ for one year in 2019/20.
+
+ Research students
+
+ Scaling up our PGR community has been a key part of our strategy. By training the next generation
+ of academics and innovators, we nurture our discipline and its impact on the communities around
+ us. In the current cycle we have recruited students of ever-higher quality via different scholarship
+ schemes: international funding, university scholarships (including STEAM scholarships), funded
+ research projects, and through industrial collaborations. Recruitment takes place through a variety
+ of channels: academic mailing lists, publicity to current UG and Masters students (helped by strong
+ growth of our taught Master’s programmes during this period); advertisements in official websites
+ (findaphd.com and jobs.ac.uk) and via industrial partners. All applications are reviewed by two
+ members of staff, and interviews are conducted by a panel of three.
+
+ All new PGR students undergo formal research training as part of our career development support
+ arrangements. Within the School, they are required to complete a PGCert in Research Methods
+ which covers generic Computer Science research skills. Additional area-specific training is given
+ as necessary. More generic training is provided via the University’s Doctoral Research College
+ (DRC), which has a wide range of courses related to research and personal development. All
+ PGR students are allocated a supervisory team comprising a first supervisor, one or more second
+ supervisors and in some cases additional external advisors. Beyond their supervisory team
+ students attend workshops with and have regular contact with the Director of PGR Studies who is
+ available to them for additional or alternative academic and pastoral support. Support is also
+ available from the DRC and from the University’s Education Development Service (EDS).
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ All PGR students are offered opportunities to develop their teaching skills and supplement their
+ income through Visiting Lecturer and Demonstrator schemes. Training is provided through
+ dedicated ‘Teaching for PGRs’ modules and through training within the School (providing subject
+ specific guidance, for example in running lab sessions). We view our PGR students as full
+ members of our research community, moving towards formal roles in HE and/or industry. The
+ weekly plenary seminar is entitled the “PGR Seminar” to encourage participation.
+
+ We provide all PGR students with a desktop or laptop computer and a desk within the same open
+ office area as the research fellows, academic staff and respective leaders of their research group.
+ This ensures that they are fully immersed in the workings and culture of their group, facilitates
+ opportunities for research discussions with fellow students and academic staff, and thereby
+ supplements their career enrichment beyond scheduled sessions with their supervisory teams.
+
+ Progress monitoring: For full time PGR students, regular progress reports are produced by
+ Supervisor and student, and examined by the PGR Director of Studies and the University’s
+ Doctoral Research College (DRC). Progress reports are produced at 12 months, 24 months and
+ 30 months, with six-monthly reporting thereafter until completion. At the end of each academic
+ year, the full time PGR students must undergo a formal assessment for progression, involving the
+ latest written report, oral presentation and a viva voce examination by two independent assessors.
+ Students who have difficulty at this stage are proactively supported in developing and delivering
+ a research and study plan, overseen by the Director of Studies and the DRC. Arrangements for
+ part-time students are similar, with longer timeframes to reflect their part-time status. The PGR
+ research unit is managed by a senior research staff member and administratively supported by
+ three research administrators from the DRC. All completed PhD students have obtained
+ appointments in industry or as researchers or junior lecturers in universities.
+
+ The success of these arrangements is evident not simply in the growth in completions and overall
+ volume noted above, but in outstanding individual achievements by some of the PhD students.
+ Outstanding Paper awards have been given by journals and conferences including the Audio
+ Engineering Society’s 2020 John Eargle Scholar (Matthew Cheshire); the International
+ Conference on Emerging Technology in Computing, Communication and Electronics 2020
+ Outstanding Research Paper Award (Dalia Elbanna); and Best Student Paper Award in the 2018
+ International Conference on Computational Collective Intelligence (Fatima Abdallah).
+
+ Equality, Diversity and Inclusion (EDI)
+
+ Our School EDI committee is purposed with embedding inclusive practice across CDT. Chaired
+ by the Associate Dean for Student Learning Experience & Academic Quality, it includes
+ representatives from all staff and student levels. The group meets monthly and is leading the
+ School's efforts to address diversity issues locally and in the sector. The School supports and
+ implements policies for Equality and Diversity in Employment Policy, Trans Policy, the Equal
+ Opportunities Policy, Maternity, Paternity, and Adoption Leaves not only for teaching staff but also
+ for all research staff. Alongside the EDI committee, School staff are encouraged and supported to
+ engage with groups within the university such as the Black, Asian and Minority Ethnic (BAME)
+ Steering group, the Disabled Steering group, the Mental Health and Well-being Network, and the
+ LGBT+ Staff Network.
+
+ Among Cat-A staff in CEBE, 40% have identified as BAME, higher than the BCU average of
+ around 25%; while 5.6% have declared a disability, which is close to the BCU average of 5.2%.
+ Meanwhile 76% of Cat-A CEBE staff are male compared to the BCU average of 48%. Gender
+ equality is well recognised as a particular issue in the male-dominated discipline of computer
+ science. We claim some success in redressing the balance. A BCU Women in Computing group
+ (BCU WIC, @bcuwic) was setup by Bhogal in order to create a sense of community among
+ women studying computing and related subjects. Events have included female computing alumni
+ panels, social evenings, industry guest speaker sessions, and a Women-Only Careers Networking
+
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ event, with plans for debates and female team hackathon events such as Stem 4 All and Women
+ in CEBE.
+
+ In May 2016, BCU was awarded an Athena SWAN Bronze Institutional award in recognition of its
+ commitment to advancing gender equality through a four-year Action Plan (2016-2020) based on
+ mentoring, interrogation of key processes, and community action. The School has encouraged
+ and supported our female academics to participate in women leadership development
+ programmes such as the Aurora Leadership Programme funded by Higher Education Academy.
+ We also seek to ensure that our internal processes and culture are conducive to creating an
+ environment in which women computer scientists can prosper and reach senior positions. Gender
+ diversity issues are explicitly considered at all appointment and promotion panels.
+
+ Now, twelve of our academic staff (three Readers, four Senior Lecturers, and five Lecturers) are
+ women, a majority of whom are submitted to REF2021 (Kovalchuk, Abdallah, Fouad, Adedoyin-
+ Olowe, Frutos-Pascual, Bhogal, and Palomar). Female staff hold senior research leadership
+ roles within the school. Kovalchuk leads the data science research team within the DAAI research
+ group; Bhogal is Head of the Computing and Data Science Department, and Professor Sharon
+ Cox leads the Digital Transformation Department. Professor Hanifa Shah is Pro-Vice-Chancellor
+ & Executive Dean for the Faculty of Computing, Engineering and the Built Environment.
+
+ Section 3. Income, infrastructure and facilities
+
+ Income
+
+ As outlined in the 5a and Section 1 above, one of the missions of the university is to foster
+ economic growth and social innovation for the benefit of citizens, businesses and public sector
+ organisations, and in our 2014-2020 strategy we have chosen to do this is by developing
+ sustainable industry-academic partnerships to generate income and achieve impact. Supported
+ in this endeavour by RIEE we fund visits to networking events, such as those organised by funders
+ like UKRI, make industry visits and host industry seminars. External and internal experts have
+ been invited to deliver bid writing workshops and seminars. In addition, as part of the quality control
+ procedures within the unit, we have put in place a system of peer review panels for large bids,
+ especially to prestigious schemes. Regular cross-faculty research events and meetings have
+ supported successful collaborations between Computing researchers and their counterparts in
+ Engineering and the Built Environment as well as many industrial partners. Examples of
+ interdisciplinary research involving research groups in UoAs 11, 12, and 13, are in the IoT4Win,
+ DfMA Houses, Perseus and 5G Connected Forest projects below.
+
+ Strategically we are focussed on supporting productivity improvement in the industrial sector
+ especially manufacturing, construction and digital tech, and supporting the public sector to
+ provide a better environment through Smart City, Sustainability and Smart Health. We have
+ obtained income for these ambitions in the following ways (further details on the projects and their
+ contributions to the economy and society are presented in Section 4):
+
+ Industrial Sector
+ Leveraging our existing knowledge and expertise, we have carried out research in collaboration
+ with industrial companies that also aims to improve their processes, services or products and
+ crucially their productivity and profitability. When working with individual companies a major
+ source of funding for this activity has been through Innovate UK/industry funded KTP schemes.
+ From a base of being awarded one KTP in each of the years 2015, 2016 and 2017, with support
+ from the Knowledge Partnership team within RIEE who initiated KTP specialist workshops with
+ individual research groups in early 2018, staff from this UoA are currently engaged in 9 live KTP
+ projects, with 5 KTP awards in 2018/2019 and 4 in 2019/2020. During the REF period we have
+ been awarded a total of GBP2.1M of KTP funding. In other cases individual companies have used
+ their own funds alone to engage our expertise for their research issues such as GBP70K of funding
+ from Orange Telecom (France) on security of inter-vehicle communication (2019): GBP20K from
+
+
+                                                                                                 Page 9
+Unit-level environment template (REF5b)
+ Huopai Media (USA) on blockchain technology (2018), GBP59K from Anster Ltd towards a PhD
+ studentship on big data in social care (2019).
+
+ We have also gained funding for large collaborative projects involving several industrial and
+ academic partners and achieving strategic sector-wide impacts:
+
+ •   EU H2020 funded IoT4Win - Internet of Things for Water Innovation Networks on applications
+     of secure smart tools for water monitoring. Project value GBP638K, grant to BCU of GBP458K
+     (2017)
+ •   Innovate UK funded Design for Manufacture and Assembly Houses on use of knowledge-
+     based engineering tools to support the off-site manufacture of energy-efficient houses. Project
+     value GBP973K, grant to BCU of GBP186K (2018)
+ •   Joint UK Government/Industry Advanced Propulsion Centre (APC) funded Perseus project for
+     Jaguar Land Rover Electric Drive Unit manufacture on use of digital technologies to support
+     flexible manufacturing. Project value GBP10M, grant to BCU of GBP200K.
+
+ Public Sector
+ We have partnered with the public sector in two major innovation and enterprise focussed
+ European Regional Development Fund (ERDF) projects that acted as vehicles to create regional
+ impacts from the results of our research and expertise. Working with regional government, NHS
+ trusts and public transport authorities these projects supported SMEs to develop their technical
+ capabilities to engage with the challenges and priorities of these public sector organisations:
+
+ •   Innovation Engine: Project value GBP3.2M, grant to BCU of GBP318K (2015)
+ •   Big Data Corridor: Project value GBP2.6M, grant to BCU of GBP237K (2016).
+
+ These projects led to two research and development projects directly funded by Birmingham City
+ Council in order to enhance its technical capabilities:
+ • Data Science Collaboration, grant to BCU of GBP130K (2018)
+ • Birmingham in Real Time traffic visualisation and vision based traffic counting, grant to BCU
+    of (GBP26K) (2017).
+
+ More widely nationally and internationally in the public sector:
+
+ •   EU H2020 funded Red Alert – developing real-time terrorism alerts based on online activity,
+     with police forces and other technology partners from several EU countries. Project value
+     GBP1.7M, grant to BCU of GBP209K (2017)
+ •   EU Erasmus+ funded PhD Hub – development of an EU-wide platform for academic/industry
+     research collaboration. Project value GBP992K, grant to BCU of GBP117K (2017)
+ •   DCMS funded 5G Connected Forest project - supporting Nottinghamshire Councils and
+     industry to develop 5G connected technologies for forest monitoring and forest based business
+     and leisure activities. Project value GBP10M, grant to BCU of GBP806K (2020).
+
+ We have also received several other smaller awards, including two audio processing mini-projects
+ with GBP31K from EPSRC and GBP50K from AHRC funded major consortiums respectively.
+
+ From 1/8/2013 to 31/7/2020, we secured a total of GBP4.6M external funding working with
+ partners in projects that had a total value of GBP28.1M. These figures exclude the two ERDF
+ projects mentioned above, but do include the IoT4Win and DfMA Houses projects which are also
+ reported in UoA12 and 13 respectively.
+
+ It should be noted that 20 of the 31 staff submitted in this return joined BCU during this REF period,
+ and then spent time adjusting to their new roles before contributing fully towards research bids.
+ From a relatively low base at the start of the cycle, the new staff have helped the UoA to develop
+ a strong upward momentum in funding, as seen in Table 1, with a sustained grant capture of
+
+
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+ around GBP1.5M in each of the last 2 years (research income of around GBP50K per person per
+ year) and a large proportion of which has not been yet obtained as income captured in REF 4b.
+
+     13/14 (GBP)       14/15         15/16         16/17        17/18         18/19         19/20
+        27,974        243,590       169,735       516,004      606,889      1,484,190     1,570,000
+
+ Table 1: Research funding totals per year secured in UoA 11
+
+ This upward trend, supported by a strong pipeline of submitted bids awaiting decisions as of July
+ 2020, gives us confidence in achieving a target of averaging GBP2M in grant awards per year
+ during the next REF period. We intend to further enhance our role in the regional economic
+ ecosystem by reaching and maintaining a portfolio of around 12 live KTPs, and targeting regionally
+ devolved funding that supports digital approaches to sustainable low carbon regeneration. We will
+ also seek to diversify our income via two routes. Firstly, by substantially strengthening our efforts
+ in nurturing applicants and developing proposals to EPSRC, Royal Society, Leverhulme Trust,
+ and other UK research councils and charities. Secondly, by targeting international collaborations
+ and associated funding especially through our strong and growing presence in India.
+
+ Infrastructure and facilities
+
+ RIEE provides four dedicated research and innovation officers who are located within the CEE
+ faculty and two central partnership managers to facilitate the research groups' activities. They
+ provide professional administrative support, identify funding opportunities, provide assistance with
+ grant applications, help to increase impact, and encourage multidisciplinary research. The wide-
+ ranging practical help afforded allows the School to focus its resources on specific areas of
+ strength.
+
+ The School has made strategic use of the University Strategic Investment Fund (SRIF) to support
+ areas of research excellence: since 2014, circa GBP700,000 has been invested in the research
+ environment, infrastructure and ICT facilities, including:
+
+ •    GBP125,000 on a High-Performance Computing rack that is a dedicated resource within the
+      DAAI research group for Machine Learning computations. This complements the use of cloud
+      platforms provided at favourable rates through our strategic relationships with MS Azure, AWS,
+      and IBM.
+ •    A total of GBP450K arising from SRIF, equipment donations from our work with WM5G and
+      from the equipment budget in the 5G Connected Forest project, has allowed the CPS research
+      group to establish a new 5G research lab that contains state-of-the-art communication
+      technologies and equipment. This includes 5G Private Network Infrastructure, 5G end devices,
+      Nokia NDAC (Nokia Digital Automation Cloud) software platform, IoT sensors, robotics and
+      drones. As well as being used to support our research objectives for the 5G Forest project,
+      this equipment has already led to further collaborations with critical infrastructure (water) and
+      healthcare (NHS Trusts) and offers BCU the potential to create a multi-site 5G private network
+      for non-commercial purposes.
+ •    GBP100,000 on DMT Lab infrastructure: these include motion capture and AR/VR equipment
+      as well as a HCI lab that provides a dedicated, controlled environment for conducting usability
+      studies and capturing high-quality recordings of user behaviour for the study of novel
+      interaction methods. This infrastructure accelerates the development DMT Lab’s research
+      ideas to practical prototypes and promotes our outputs to impact partners.
+
+ In December 2021 the School will move to the new GBP70M STEAMhouse building, with
+ dedicated state-of-the-art laboratories for each of the research groups, which will also enhance
+ interdisciplinary working. The School will occupy 35% of this building, which it will share with
+ incubation spaces and other corporate tenants. The building is designed to engender collaboration
+ of School researchers with the SMEs and larger tech companies located in the building as well as
+ the many academic and business visitors from across the university and the region attending its
+ events and using its facilities.
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+ Staff and PGR access to relevant scholarly material has also improved with increased investment
+ in the University library’s holdings of Computer Science and Informatics resources (GBP93K spent
+ in 2014 compared with GBP129K in 2019). Over 12,136 titles have been made available in the
+ REF assessment period. Currently there are 67 direct subscriptions from the School’s library
+ journals’ budget. Additionally, we have more than 665 relevant publications available for the
+ subject area from the library databases such as ACM Digital Library, IEEE Xplore Digital Library,
+ ScienceDirect Freedom Collection, SMPTE Digital Library and SpringerLINK Lecture Notes in
+ Computer Science (LNCS) and Wiley Online Library.
+
+ Section 4. Collaboration and contribution to the research base, economy and society
+
+ Collaboration and interdisciplinary research
+
+ Our approach to research and impact is inherently interdisciplinary. Collaboration with other
+ disciplines at BCU is encouraged and commonplace, but is set to receive an additional boost with
+ our central role in the new STEAMhouse facility. Every research group in the UoA is represented
+ in our current collaborative portfolio of funded research, and there are collaborations with
+ researchers from every Faculty across the University as well as a diverse range of industrial and
+ academic partners. We have numerous research collaborations with other institutions regionally,
+ nationally and internationally, as follows.
+
+ Regionally:
+
+ Tawil has built a sustainable industrial consortium around an Open Big Data platform for public
+ services. The EU funded Big Data Corridor project (BDC) linked West Midlands based businesses
+ with emerging technologies and helped them combine and utilise their own and regional data.
+ BDC worked with 43 SMEs, servicing industries in the health, transport, education, and tourism
+ sectors. This work has led to a Birmingham City Council (BCC) funded Data Science Collaboration
+ to research approaches for the integration of Data Analytics and AI into the operations of a number
+ of BCC departments. Further activities with BCC, West Midlands Combined Authority and Travel
+ for WM have been engendered by the BCU led Birmingham in Real Time project that has mapped
+ traffic flows in the region. In the Design for Manufacture and Assembly (DFMA) Houses project
+ funded by Innovate UK, Tawil has also worked with Built Environment researchers at BCU to
+ collaborate with Hadley Industries and Walsall Housing Group to carry out research on Knowledge
+ Based Engineering tools that help to optimise the off-site manufacture of energy efficient houses
+ within Hadley’s factories.
+
+ As described in our impact case studies, Bassurra and Gaber have worked with local government
+ and Beattie Passive to apply computational methods for the design of zero carbon housing retrofit
+ solutions. Gaber and Faoud have a collaboration with JLR through the APC funded Perseus
+ project to support their plans for reconfiguring their Wolverhampton Engine Plant to manufacture
+ Electric Drive Units. Williams and Frutos-Pascual have developed a collaboration between the
+ DMT Lab and the Children’s Brain Tumour Research Team at Birmingham Children’s Hospital to
+ investigate novel image processing methods for segmenting brain tumours. Wilson has worked
+ with the West Birmingham and Sandwell NHS Trust to develop a virtual reality app which enhances
+ the teaching of the correct process doctors need for eye examinations, allowing medical students
+ to learn complex ophthalmology diagnosis.
+
+ KTPs have served as an important mechanism for achieving impact with medium-sized companies
+ in the region. During this REF period, our UoA has been awarded 12 KTPs, of which 9 have been
+ gained in the last 18 months – further evidence of our accelerating progress. As described in the
+ 5a, the University now provides a well-resourced facility for engaging in KTPs. Future plans are
+ for the UoA to be active in around 12 KTPs at any one time, eight of which should be with regional
+ companies.
+
+
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ Nationally:
+
+ The staff investment described in Section 2 has led to enhanced collaborations by CPS
+ researchers (Aneiba, Asyhari and Abozariba), with leading research and industry partners such
+ as University of Surrey 5G Innovation Centre, University of Cambridge, Cranfield University, IBM,
+ Nokia, and BT. Asyhari is also an academic visitor to Cranfield University, has a research
+ collaboration and academic visitor status at Coventry University, as well as external PhD
+ supervision at Birkbeck College and a research collaboration with the University of London’s BIDA
+ Cyber Security Lab. This CPS group also collaborated with BCU’s Sensors and Control research
+ group from UoA12 Engineering on 5G, IoT Sensing, AI/ML, UAV and Robotics technologies,
+ helping to secure UK DCMS funding for the 5G Connected Forest Project. Internal
+ interdisciplinarity apart, this project brings academic, industrial and local government collaboration
+ with partners such as Nottinghamshire Country Council, Netmore IoT Solutions Ltd, Nottingham
+ Trent University, ISPB 2006 Ltd, Gooii Ltd, Harworth Group, Parkwood Outdoors and Stagecoach.
+ The BCU team is using the aforementioned technologies to develop a 5G-assisted forest
+ monitoring system, which is envisioned to provide value-added services to forest stakeholders and
+ help overcome sustainability challenges that face woodland in Nottinghamshire.
+
+ Tait has a long-standing research collaboration with the University of Cambridge/Cambridge
+ University Hospitals around autism and early brain development, as part of the Cambridge Human
+ Imaging and Longitudinal Development (CHILD) Study in the Autism Research Centre. He
+ performs cross-sectional and longitudinal analysis of structural and functional MRI data using the
+ University of Cambridge High Performance Hub for Clinical Informatics. He attends progress
+ meetings and provides technical support to PhD students working on the CHILD dataset. As
+ reported in section1, Williams has a strong collaboration with GSK nationally and internationally,
+ as well as with Newcastle NHS Trust. Stables has collaborated with Dr Matthew Baker, University
+ of Strathclyde, and Dr Dominico Viciananza, Anglia Ruskin University, on data sonification for the
+ analysis of cancerous tissue samples by providing real-time audible feedback for clinicians and
+ surgeons whilst using a spectroscopy device to scan in-vitro tissue samples. As well as
+ publications in the Journal of Neuro-oncology, Analyst, and the International Conference on
+ Auditory Display, the project led to articles in the New Scientist, Scientific American and a number
+ national newspapers in the UK and Ireland in addition to ongoing commercialisation efforts.
+
+ Internationally:
+
+ Gaber teamed up with Engineering researchers at BCU and international technology companies
+ and water supply consultancies to apply for a Horizon 2020 grant. The IOT4WIN project is founded
+ on partnership with UK-based United Utilities, a Greek/Romanian technology firm, Singular Logic,
+ and a Spanish ICT and water consultancy company. Together, they have brought academic
+ expertise and industrial practice to bear on the use of smart sensors, IoT, Big data and AI/ML
+ technologies to solve water use challenges, such as (i) how to provide real-time updates on the
+ quality and quantity of water in urban areas (i) how to predict demand and future maintenance
+ procedures for water, and (iii) identifying cyber-physical security issues such systems may face.
+ Funding was awarded under the Marie Sklodowska-Curie Grant Agreement no.765921.
+
+ Williams is applying his image and audio processing expertise in a Horizon 2020 funded project
+ involving numerous European academic and law enforcement partners. The Red-Alert project
+ (https://redalertproject.eu) seeks to identify real-time indicators of extremists’ threats. It is led by
+ SIVECO, a Romanian company specialising in the execution of complex cybersecurity projects,
+ with the involvement of (i) law enforcement agencies from the UK, Romania, Israel, Spain, and
+ Moldova (ii) a law association based in Malta (iii) universities and research institutes from Israel,
+ Hungary, and the UK (City University); and technology-providing companies from the UK, Spain,
+ Israel, and Hungary.
+
+ How to connect European academic and industrial partners has been the focus of an EU-funded
+ project led at BCU by Aneiba and Palomar (http://phdhub.eu). The aim was to establish a
+ collaborative research platform in order to accelerate industrial research activity through and by
+
+                                                                                                 Page 13
+Unit-level environment template (REF5b)
+ PhD projects. Consortium partners were the Universities of Alcalá, Thessaloniki, and Lodz, and
+ Euroconsultants S.A., LSI Software, and Auger Torque.
+
+ Working with Orange Labs (France), Mahbub secured GBP70K to work on the project ‘Isolation
+ and Resilience of Autonomous Vehicles’. The project investigated mechanisms and techniques
+ that can be applied to address the safety and security challenges in connected autonomous
+ vehicles. Bringing cybersecurity expertise to industry, the purpose was to (i) detect and limit the
+ impact of intrusions at the level of in-vehicle networks that can compromise the safety of
+ autonomous vehicles, and (ii) ensure secure and isolated communication channels for the ECUs
+ in-vehicle network.
+
+ In 2018, Hockman established a productive collaboration and shared expertise between DMT
+ Lab and Georgia Institute of Technology (US), AudioLabs FAU (DE),and Johannes Kepler
+ University Linz (AT) on a Music Transcription and Community Evaluation research project.
+
+ In 2019 Creed developed a partnership with Microsoft to develop new technology that will help
+ people with disabilities become more independent in the workplace. As a grantee of Microsoft’s
+ AI for Accessibility programme, BCU has received GBP15,500 to help develop a prototype
+ technology system that enables people with limited mobility to control computers using voice
+ commands and eye movement. The new technology aims to unlock a range of careers for people
+ with disabilities by removing the need for a mouse and keyboard, paving the way for their
+ increased participation in professions such as coding, web development and computer
+ programming, which in turn contributes to filling nationwide skills gaps.
+
+ With a view to progressing and widening the scope of our research in applications of digital
+ technology in the manufacturing sector, BCU has been developing the Munjal-BCU Centre of
+ Innovation and Entrepreneurship (STEAMhouse India) in collaboration with the Hero group of
+ companies – the largest (by volume) manufacturers of motorcycles and bicycles in the world. To
+ support future research at the Centre, we have developed collaborations with several universities
+ in that region of India including Indian Institute of Technology Ropar, Panjab University, Lovely
+ Professional University and Chandigarh University.
+
+ Contributions to the discipline and community leadership
+
+ Members of our UoA are active in launching and leading activities for the benefit of the scientific
+ community and broader public, enhancing the development of our subject and its application to
+ real-world problems. Through chairing conferences and panels, serving on editorial boards or
+ scientific committees, acting as peer reviewers or examiners, we have helped our discipline come
+ up with new solutions to tough problems; through working with SMEs and other non-academic
+ organisations, we have worked to improve the living environments and potential of our citizens.
+ The latter aim is supported by our strong and active Industrial Advisory Board, with members from
+ SAS, Microsoft, Cisco, Oracle, ABP Food Group, Arqiva, Nccgroup, Mottmac, Qlik, Coalfire,
+ Verizon UK, and Music Tribe.
+
+ Individual contributions include:
+
+ Gaber has chaired conferences and programme committees include (1) 34th International ECMS
+ Conference on Modelling and Simulation (ECMS 2020), Track co-chair for Machine Learning for
+ Big Data; (2) 3rd IEEE International Conference on Data Science and Computational Intelligence
+ (DSCI 2019), General co-chair; (3) 39th European Conference on Information Retrieval (ECIR
+ 2017), Doctoral Colloquium co-chair; (4) IEEE Mobile Data Management (MDM 2016),
+ Programme committee co-chair; (5) 5th International Conference on Emerging Internetworking,
+ Data & Web Technologies (EIDWT 2016), Track chair for Machine Learning on Large Data Sets
+ & Massive Processing; (6) 13th International Conference on Mobile and Ubiquitous Multimedia
+ (MUM 2014),Demonstrations and Posters chair; (7) 16th IEEE International Conference on High
+ Performance Computing and Communications (HPCC 2014), Track chair for Database
+ Applications and Data Mining; (8) IEEE Mobile Data Management (MDM2014), Advanced
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+ Seminars co-chair; (9) 2014 FTRA International Symposium on Frontier and Innovation in Future
+ Computing and Communications (FCC 2014), Programme committee co-chair. Alongside
+ Basurra, he won the 2018 IEEE Access Best Multimedia Award Part 2.
+
+ Williams has chaired conference tracks and programme committees for IEEE International
+ Symposium on Mixed and Augmented Reality (ISMAR) - Scientific and Technical Committee
+ Member (2016 to present) and VS Games Committee (2017 to present) as well as performing a
+ grant application review role for EPSRC Digital Economies - panel member (February 2019). He
+ has also reviewed for the journals: i) IEEE TVCG; ii) IEEE GCA; iii) IEEE SPL; iv) Elsevier CVIU.
+ Stables was the Head of the Local Organising Committee for the 22nd International Conference
+ on Digital Audio Effects (DAFX-19) held at BCU in September 2019. He founded the Workshop
+ on Intelligent Music Production and its 5th Workshop was co-hosted with DAFX-19. He also
+ organised the 16th Rhythm Production and Perception Workshop hosted at BCU in 2016. He has
+ reviewed research proposals to ERC. Alongside Hockman, he won second place in the
+ 2015 DAFX Best Paper Award, who was also an organiser of the 9th International Workshop on
+ Folk Music Analysis hosted at BCU in 2019.
+
+ Aneiba is a member of the research bids reviewers at the EU H2020 evaluation panel for their
+ Digital Innovation Hubs (DIH) federation for large-scale adoption of digital technologies by
+ European SMEs, “DigiFed”; and Academic Editor for MDPI Future Internet Journal. Aneiba has
+ reviewed articles for Elsevier Computer Networks journal. He has initiated an IoT community by
+ building the first citywide open public LoRaWAN network in the city of Birmingham
+ (@TTN_Birmingham) as a contribution to the regional innovation community. Asyhari is
+ Academic Editor, PeerJ Computer Science and Associate Editor for IEEE Access. He is member
+ of the technical committees for International Conference on Artificial Intelligence, Automation and
+ Algorithm (AI2A), IEEE International Conference on Communications (ICC), International
+ Conference on Information Technology and Computer Communications (ITCC), International
+ Conference on Cyber-Technologies and Cyber-Systems. Arshad is Associate Editor for the IEEE
+ Access journal, Associate Editor for the Cluster Computing journal, and has been Guest Editor for
+ a Special Issue on Exploring the Socializing Aspect of Wearable Internet of Things (WIoT) in the
+ Elsevier Internet of Things journal.
+
+ Kovalchuk has been a member of the editorial board of MPDI journal "Computers" since 2007,
+ the Co-Chair of the IEEE Workshop on e-Health Pervasive Wireless Applications and Services
+ since 2013, and has reviewed EPSRC grant applications. Azad has performed an editorial role
+ for Genetic Programming and Evolvable Machines - Springer, as well as reviewing grant
+ applications for the European Research Council (ERC), and NERC/EPSRC. Dr Azad has also
+ reviewed articles for the journals: i) IEEE Transactions on Evolutionary Computation; ii) Genetic
+ Programming and Evolvable Machines - Springer; iii) Applied Soft Computing - Elsevier
+ Publishers. Winner of Silver award GECCO HUMIES 2015. Abdelsamea is a reviewer for a
+ number of journals including (i) IET Image Processing (ii) IEEE Transactions on Neural Networks
+ and Learning Systems (iii) IEEE Transactions on Medical Imaging (iv) Neurocomputing (v) IEEE
+ Signal Processing Letters, and (vi) Journal of Computers.
+
+ Harvey chaired tracks at the following conferences: (i) International Conference on Graphics and
+ Interaction 2017, 2018 and 2019 (ii) The Visual Computer 2015 and 2016 (iii) Spring Conference
+ of Computer Graphics 2015 and 2016 (iv) IEEE International Conference on Multimedia and Expo
+ 2019 and 2020; and (v) VS Games (2018 and 2019). He has also served as a reviewer for EPSRC.
+ Wang is AES Standards Committee Member of SC-02-02 & SC-02-12-H and ETSI Industry
+ Specification Group (ISG) on Non IP Networking (ISG NIN). He was the head of the organising
+ Committee for SmartCom 2019: The 4th International Conference on Smart Computing and
+ Communication, and SmartBlock 2019: The International Conference on Smart Blockchain.
+
+
+
+
+                                                                                            Page 15
+

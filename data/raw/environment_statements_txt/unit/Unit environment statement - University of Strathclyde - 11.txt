@@ -1,0 +1,889 @@
+Unit-level environment template (REF5b)
+ Institution: University of Strathclyde
+
+ Unit of Assessment: 11
+
+ 1. Unit context and structure, research and impact strategy
+
+The Department of Computer and Information Sciences (CIS) at Strathclyde believe that technology
+must be developed from a human perspective if it is to deliver on its potential. With representation
+from computer science, information science and health science backgrounds, we are a truly
+multidisciplinary CIS department. Our research profile spans a broad range of interests from the
+technical to human side of computer and information sciences. From a developing research base
+in REF2014, we have invested significant resource in strengthening and reshaping all of our research
+groups over the REF period. Since REF 2014, UOA11 has had significant successes in key research
+metrics including research spend, PGR numbers, research quality and staffing. We have won major
+grant awards since 2014, PGR numbers have increased every year and now stand at 76 PGRs in
+2020 (33 in 2014), and we have recruited 21 new full time academic staff since 2014 including 7
+professors (a total of 31.8 FTE compared with 20.2 FTE in REF2014).
+
+We are comprised of five research groups (shown in Table 1) that are committed to delivering
+impactful, human-centred research with meaningful outcomes for society. This includes the strategic
+decision to create two new research groups in Cyber Security and Artificial Intelligence as capacity
+in these topics is vital given research trends in our subject and funding opportunities through UKRI.
+The University of Strathclyde is a ‘place for useful learning’ and prides itself on being a leading
+international technological University with a focus on impactful, translational, intra- inter- multi-
+disciplinary and collaborative research. The University has identified several strategic research
+themes to realise these ambitions and our research is aligned with these as outlined in Table 1.
+
+Table 1: UOA11 Research groups, staff FTE and aligned University strategic themes.
+Research Groups 2021 University Strategic        Research Focus
+                          Research Themes
+Artificial Intelligence   Measurement Science & Developing tools for analysis, decision-
+(AI) 4FTE                 Enabling Technologies support, and autonomy for a variety of real-
+                          AND                    world application areas in which AI is used to
+                          Health & Wellbeing     supplement human creativity and expertise.
+Cyber Security            Ocean, Air & Space     Intrusion detection techniques, malware
+(CS) 4FTE                                        characteristics and social and nature inspired
+                                                 approaches to security and situational
+                                                 awareness in self-protecting systems.
+Digital Health & Wellness Health & Wellbeing     Design, development, implementation and
+Group (DHaWG) 6FTE                               evaluation of digital health and care solutions
+                                                 for people, services and organisations.
+Mathematically            Measurement Science & The use of mathematics to understand the
+Structured Programming Enabling Technologies nature of computation, particularly focussing
+(MSP) 7.8FTE                                     on programming language development.
+Strathclyde iSchool       Health and Wellbeing   Information-centred research, particularly on
+Research Group            AND                    information behaviour, information
+(SISRG) 10FTE             Society & Policy AND   engagement, interactive information retrieval
+                          Measurement Science & and information policy.
+                          Enabling Technologies
+
+
+
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+The Departmental research strategy is supported by the Department Research Committee that is
+chaired by a senior Professor and comprises the leaders of each research group and the
+Postgraduate Research (PGR) Director. The committee meets quarterly to provide directions for,
+and monitor progress in, all the thematic areas of research. The Research Committee also reviews
+the support mechanisms for PGR students and Early Career Researchers (ECRs), grant application
+writing and output, and various intra- and inter-university collaborations in research, knowledge
+exchange and impact-related activities. The Research Committee Chair is also a member of the
+Faculty Research Committee and Department Executive Committee and thereby acts as a conduit
+between the University and Department in all research and supervision activities.
+
+In addition, in 2017, in order to strengthen the role, capacity and capability of the Director of Research
+to effect change, a Research Directorate was formed. This group of 5 academic staff, led by the
+Director of Research, is charged with management of research in the Department. In 2018, it
+developed a new Departmental research strategy to provide a clear framework for delivery against
+research expectations. This strategy has been pivotal in redefining our strategic research objectives
+and fostering a dynamic research environment, including development of staff and PGR students
+(see Section 2).
+
+Research Strategy
+Our vision for this period was to complete the transformation of our Department, begun during the
+REF2014 period, into one which is 100% research active and effectively harnesses the breadth and
+depth of our research portfolio to solve problems in the world around us. Our research objectives
+for the review period were to:
+     • Support all academic staff to produce publications of international quality: We have
+        used internal peer review to support the quality of publications produced in the department
+        to ensure that all academic staff generate outputs of international quality, publishable in
+        journals and at conferences of the highest standard.
+     • Ensure each member of academic staff supervises PGR students: By implementing our
+        staffing recruitment strategy (see Section 2) and providing developmental support
+        opportunities for staff (see Section 2), we have increased the percentage of UOA11 staff
+        supervising PGRs from 77% to 86%.
+     • Increase and diversify our research portfolio: Our objective in 2014 was to translate our
+        increased international research portfolio into an expanded grant portfolio with a greater
+        number of external partners. We have made substantial progress with this objective at
+        REF2021 as we have led and won a number of substantial grants including several over £1m
+        FEC (detailed in Section 3) and obtained our first wins from funders such as Leverhulme
+        Trust, the Marie-Curie ITN programme and the Medical Research Council. At REF2014 we
+        expected all members of academic staff to hold substantial (>£50k) external research grant
+        funding. We have made major progress with this ambition as 20 of 32 staff have successfully
+        won grant funding awards of at least £50K during the REF period.
+     • Improve the practical application of our research: Through Knowledge Transfer
+        Partnerships, industry-funded research, involvement with innovation centres and
+        involvement in Glasgow City Innovation District (GCID) clusters, we have made very
+        substantial progress with our strategic ambition to improve the practical application of our
+        research. As detailed in Section 4, we have secured 4 Knowledge Transfer Partnerships
+        (KTPs) and been awarded research grants with companies including BAE Systems, as well
+        as the National Physical Laboratory and the DataLab and Digital Health and Care Innovation
+        Centres. Our growing reputation for being able to apply our research resulted in us taking
+        leadership roles within the University’s flagship Technology and Innovation Centre 2 (TIC2)
+        project (see Institutional Statement) to transform knowledge exchange across the University.
+        Of the six proposed industry facing cluster areas associated with TIC2, four members of our
+        Professorial staff co-lead three of these areas of University excellence.
+
+                                                                                                  Page 2
+Unit-level environment template (REF5b)
+    •   Recruit new research leaders: We had clear aspirations at REF2014 to recruit new
+        research leaders and thereby create capability in the areas where our external partners face
+        challenges and require research support. We have been very successful in this goal. We
+        recruited 21 new academics, including 7 new Professors (see section 2) and formed two new
+        research groups in the key strategic areas of Cyber Security and Artificial Intelligence. The
+        influx of new staff has reinvigorated the whole department and all staff have benefitted from
+        the rejuvenated research environment (see sections 2 and 3). All staff – new and established
+        – have a personalised strategy to support their development (see section 2). In this respect,
+        new staff have provided established staff with new tangible opportunities for collaboration.
+
+Strategic Research Objectives for the Unit:
+Over the next 5 years, our strategic research aims focus on the following key objectives:
+
+1. Increase Research Intensity: Since REF2014, we have meaningfully intensified the volume and
+quality of our research. This is only part of the journey. Thus, our first strategic goal is to continue to
+increase our research intensity. For example, while we have won grants up to about £1m, we
+have also come close to winning much larger grants (£2-3m) by getting to the final interview stage
+of schemes including EU ERC, UKRI CDTs and UKRI Trustworthy Autonomous Systems Call. In the
+next REF period, we set ourselves the task of reaching this next level. We will complete the process
+of ensuring all staff supervise PGR students and for all staff to win research grants of increasing
+scale and value. Research intensity will also be increased by further investment in staff (see below).
+Finally, we will capitalise on our growing reputation within the University and beyond to become part
+of larger, collaborative research activities with national and international partners.
+
+2. Strengthen and expand our research groups: We have invested significant resource in
+strengthening and reshaping all of our research groups as detailed above. Due to the increasing
+projected investment by UK government, industry and other stakeholders in Cyber Security, Artificial
+Intelligence, and Digital Health, a strategic priority over the next five years is to strengthen these
+research groups with further appointments. We also intend to increase the size of our UOA to 50
+staff by the next REF to ensure we have the capacity to grasp new research opportunities. While
+ambitious, this is also achievable as it replicates the achievements of this REF period.
+
+3. Deepen distinctiveness: As previously stated, our belief, and the belief of our stakeholders, is
+that technology must be developed from a human perspective if it is to deliver on its potential.
+Therefore we will maintain a research profile that spans a broad range of perspectives from the
+technical to human side of computer and information sciences. Over the next 5 years, our third
+strategic goal is to extend this distinguishing feature of our research approach. This will be achieved
+firstly by focussed recruitment and we began by hiring in the area of human factors of cybersecurity
+(Moncur and Renaud) to complement existing expertise in the technical side. The second approach
+will be to strategically seed-fund new collaborative engagements between the traditionally more
+human-focussed research groups and the traditionally more technically-focussed research groups
+within the Department.
+
+4. Increase stakeholder relevance: We jointly lead the three of the industry facing clusters that
+support the University’s contribution to the Glasgow City Innovation District (Industrial Informatics,
+Health Technologies, FinTech) and contribute to three (Space Technologies, 5G and Quantum).
+Continuing to align with areas of national and international need, and associated strategic University
+activity, will enable CIS to deliver scientifically valuable activities that are relevant to industry and the
+public. A key stakeholder with which we wish to further align is the National Physical Laboratory
+(NPL). NPL is a strategic partner of the University which already funds iCase studentships and the
+Trusted Systems research project in the department (Ghani, McBride, Forsberg: £600k). We will
+deepen this relationship with NPL via further projects and joint appointments in data analytics - a key
+
+                                                                                                     Page 3
+Unit-level environment template (REF5b)
+area of mutual interest. We will also continue to build on KE opportunities with the Digital Health and
+Care Innovation Centre (DHI) following recent success in digital health evaluations by Lennon,
+Maguire and McCann (£299k) in collaboration with DHI. DHI is one of 8 national innovation centres
+in Scotland and its location on the University campus as part of our department provides tangible
+opportunities for transformative and impactful research to co-design and evaluate digital health and
+care solutions across service, business and technical innovation directly with researchers from
+UOA11.
+
+The above objectives will be supported through transformational improvements to both our physical
+and research infrastructure over the next 5 years. Specialist research labs will be created within a
+new building with space to support further development of our research groups e.g. an expanded
+Cyber Security Lab. We will also have a physical footprint in the forthcoming TIC2 building (a
+purpose-built state of the art facility to be located within the Glasgow City Innovation District - see
+Institutional Statement) which will host an Institution-wide Living Lab for our Digital Health &
+Wellness Research Group.
+
+Impact Strategy
+At REF2014, we saw a need to increase our level of research impact by capitalising on opportunities
+and support from the University to develop strategic partnerships with industrial, commercial,
+professional and governmental organisations. The opening of the University’s Technology and
+Innovation Centre (TIC) in 2014 facilitated engagement opportunities with a variety of industrial
+companies and partners looking for research-based solutions to their problems. We purposefully
+sought further ways to develop external use of our research and so appointed a Knowledge
+Exchange Fellow (Wallace) in 2016 to develop these activities. We were the first Computer Science
+Department in the UK to create this role. The investment has been particularly fruitful: we have
+generated over £1million in Knowledge Exchange funding in this review period because Wallace has
+actively managed the introduction of our research to relevant interested external organisations
+(including the previously mentioned 4 KTPs).
+
+Wallace’s appointment has also supported the successful award of 10 innovation voucher research
+projects (innovation vouchers are administered by Interface - a central hub to connect national and
+international industries with academics and researchers across Scotland - to encourage the
+development of new business and academic partnerships to accelerate innovation). Consequently,
+we have developed 10 new industrial collaborations over this review period with organisations such
+as My Customer Lens (our contribution: ontology development); Welbot Ltd (our contribution:
+prototype development and data analytics); Fash Consulting Analysis (our contribution: machine
+learning); and the Riverside Museum, Glasgow (our contribution: novel methods for prototyping and
+creating digital and tangible interactions). We have recently appointed a second KE Fellow (Sutter)
+to work specifically on the cross-institution initiative Health and Care Futures at Strathclyde.
+
+Staff are supported to actively pursue impact-generating activities by releasing them from allocated
+academic duties and responsibilities. This is achieved by acknowledging the importance of KE
+activities in the department’s workload model. Staff with Knowledge Exchange Leadership roles
+(Chowdhury, Ghani, Maguire, Revie) are allocated reduced workloads in other areas to support
+effective engagement in these activities.
+
+The success described in our impact case studies was enabled and facilitated by focussing on three
+specific impact-generating areas: networks and relationships, public engagement, and informing and
+influencing policy. We encourage staff to actively pursue impact generating activities by releasing
+them from academic duties and responsibilities. For example, in relation to the research on
+dependent types in Haskell (which forms one of our impact case studies) protected time and
+associated funding was provided for McBride to be released from academic duties for 6 months to
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+develop relationships with key academic and industrial partners, including 2 extended periods with
+Microsoft UK to further enable impact-related activities. We also allocated dedicated time and staff
+expertise to publicly generate awareness of Lennon’s research in digital health (which forms another
+of our case studies), when she chaired dissemination sessions at four national Digital Health
+Roadshows held in Glasgow, Belfast, Cardiff, and London attended by over 1500 health and social
+care professionals and technology providers across the UK.
+
+Approach to Supporting Interdisciplinary Research
+In this period, we determined to leverage the University’s Strategic Research Themes to develop
+and deliver impactful interdisciplinary research that aligned with the objectives of our research
+groups. In particular, we targeted Strathclyde Centres for Doctoral Training (SCDT) and now lead 5
+centres as a direct consequence of aligning with the University Strategic Research Themes and
+developing internal collaborations forged at University supported events. These initiatives support
+the development of the Department’s next generation of research leaders in Digital Health & Data
+Analytics; Human Centric AI in Healthcare; FinTech; Explainable AI; and Cyber Security, and
+operate in collaboration with colleagues from Strathclyde Institute of Pharmacy & Biomedical
+Sciences, Strathclyde Business School, Mathematics & Statistics, Engineering and Marketing.
+
+We also use the national Innovation Centres and national networks to increase our interdisciplinary
+activity. We host the DHI as part of our department and we co-locate co-funded PGR students within
+their office spaces, thereby providing ready access to support from innovation experts. Our strategic
+links to the DataLab Innovation Centre also enable collaboratively delivered, impactful, human
+centred research. Opportunities for interdisciplinary research are further optimised through
+participation in pan-Scottish activities such as the Scottish Informatics and Computer Science
+Alliance (SICSA) and the Scottish Graduate School for Arts & Humanities (SGSAH) (details in
+Section 4).
+
+Progress towards an Open Research Environment
+Open access comes naturally to researchers in multiple areas of computer and information science
+where putting drafts, preprints and software online and accessible to all have been part of our
+research practice over many years This meant that the Department was well placed to embrace
+institutional provision in this area particularly when Strathclyde established its institutional research
+data repository and open access facility in 2015, alongside its existing processes to allow access to
+publications. All active researchers – staff and students – are required to deposit their research
+outputs, including research papers, reports and theses. We satisfy funder mandates with respect to
+research dataset deposition and ensure we demonstrate best practice in this regard by requiring
+PGRs to develop a Data Management Plan for their research.
+
+Staff in CIS benefit regularly from RCUK/UKRI funding at Strathclyde for open access publication.
+As of February 2020, 97% of the articles published from CIS are Open Access; this is the highest
+proportion within the Science Faculty.
+
+Supporting a Culture of Research Integrity
+University policies on Research Code of Practice, Code of Practice on Investigations Involving
+Human Beings, and the University Code of Practice for Postgraduate Research provide the
+foundation for our approaches to research integrity. The Research Code of Practice, with which all
+staff and PGR students must comply, aims to promote excellence in research practice and
+dissemination across the whole University and so sets out expected standards associated with
+research governance for project conduct, data protection, protecting research authenticity, data
+storage, authorship and publications. To ensure the standards set out within the Code are
+maintained, we have a Department Ethics Committee that scrutinises research planned by students
+at Undergraduate, Masters and PhD level and all staff research. For any research projects which fall
+
+                                                                                                 Page 5
+Unit-level environment template (REF5b)
+beyond the remit of the Departmental Ethics Committee, ethical applications are instead submitted
+to the University Ethics Committee (UEC) or to external ethics review committees managed by the
+NHS. Our Departmental Ethics Committee reports annually to UEC on the number of applications
+submitted, approved, returned for revision or rejected as appropriate. In the most recent full
+academic year (2019 - 2020), 220 applications were approved by our ethics committee, indicating
+the thriving research culture in CIS. For those research projects working within NHS settings,
+researchers are responsible for obtaining relevant NHS Ethics Committee and associated Research
+and Development approvals in place, alongside the necessary research passports and Honorary
+Contracts or Letters of Access.
+
+We augment University procedures and process on research integrity by providing regular
+Departmentally-led training on ethics and integrity. These events, conducted by members of the
+Department Research Ethics Committee and other colleagues, highlight specific issues relevant to
+ethical research in the CIS discipline. This training is mandatory for all staff and PGR students within
+the first 3 months of joining the department and is complemented by further training available from
+the University and other partners (e.g. NHS). The application of ethical approaches to conducting
+research is then reviewed with PGR students during annual progress review meetings. Two of our
+academic staff (McMenemy and Moncur) are experts in data and research ethics and share their
+expertise with the Department.
+
+
+ 2. People
+
+Our department’s success is directly dependent on the quality of our staff and our ability to retain
+and develop the team. In order to continue the transformation of our department, the recruitment
+strategy has been hugely significant during the current REF period. However, we have also been
+working hard to build an environment that fulfils the University’s values and enables new and existing
+staff to thrive.
+
+Recruitment
+Since 2014, we have adopted a recruitment strategy in direct response to our ambitions to grow and
+strengthen our areas of research expertise by expanding our research groups and the volume and
+quality of the research they produce. This has resulted in a significant increase in staff numbers at
+both senior and junior levels.
+
+We previously identified a lack of depth in research expertise, experience and leadership as a
+strategic weakness and so we have focussed on recruitment of world leading researchers and
+outstanding early career researchers who have the potential to become world-leading. Through the
+University’s Global Talent Programme (GTP) scheme for senior appointments, we have recruited
+over this review period 7 Professors (Chowdhury, Dong, Maguire, Mardare, Moncur, Revie, Winskel)
+and 1 Reader (Nagaraja), adding one new Professor to each of our research groups. We have also
+benefited from the University Chancellor’s Fellowship scheme for future world-class research
+leaders by appointment of Atkey, Azzopardi, Cashmore, Forsberg, Lennon, Moshfeghi and Thomas
+to further consolidate the strength of our research groups. In addition, the department has made
+strategic appointments of another 6 staff to Research, Lecturer and Senior Lecturer positions (Egan,
+Halvey, Innocenti, McCann, Pennington, Wilson). The total of 21 new academics hired during the
+review period represents 66% of our staff and demonstrates a clear commitment by the University
+to reinvigorate research in Computer and Information Sciences at Strathclyde.
+
+
+Development
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+We have embedded a number of staff development opportunities, strategies and structures to
+support the career progression of all CIS staff over this review period – both new recruits and existing
+staff.
+
+We are committed to supporting staff development across all the job families and grades. We utilise
+University structures to facilitate this, particularly the University’s annual Accountability and
+Development Review (ADR) process. We jointly agree with staff which senior colleague will act as
+their ADR reviewer, so they can discuss objectives and development needs with someone whose
+research is appropriate and with whom they feel comfortable about being open and honest. Annual
+ADRs are augmented by mentoring support to staff throughout the year and Reviewers and
+Reviewees meet for an informal six-monthly meeting to consider performance, and discuss ways in
+which outstanding objectives can be realised before the end of the ADR cycle. In addition, all staff
+have mentors with whom they meet informally through the year.
+
+We also support staff development by encouraging all staff to engage in whatever training will benefit
+their roles and responsibilities within the department. We encourage staff to participate in University-
+provided training courses delivered by the Organisational and Staff Development Unit (OSDU) and
+the Researcher Development Programme Team in Research and Knowledge Exchange Services
+(RKES). Staff are also encouraged to complete training courses relevant to research leadership via
+the Institution-wide Strathclyde Programme in Research and Leadership (SPIRAL). During the
+review period, 84% of staff have attended University training courses including sessions focussed
+specifically on grant and paper writing skills and research career development and leadership, which
+has contributed to an uplift in grant success, the quality of research outputs and general research
+leadership across the department.
+
+At a Departmental level, we closely monitor and evaluate all staff development needs, regardless of
+seniority or FTE status, through the Departmental Executive Committee, Departmental Research
+Committee and Research Directorate (See section 1 for details). Our research groups (see section
+1) provide a supportive environment and mentoring opportunities for staff and aligned PGR students
+and researchers. We have an internal Peer Grant Review process that staff are required to follow
+prior to final submission of grants. This process arose directly from the aforementioned Research
+Strategy developed in 2018 and was purposefully implemented to increase the quality of grant
+application submissions. Individual research groups coordinate the development of grant
+applications and arrange review workshops where lead researchers receive focussed assessment
+of research proposals at different stages from inception to submission. A senior member of staff is
+available to help staff develop grants throughout this process. Care is taken to ensure that
+applications are targeted to the most appropriate funder and that the constructive comments on
+proposals are provided by peers with appropriate expertise. We also facilitate opportunities for
+internal research collaborations and networking via ‘research speed dating’ activities for staff. In
+2018, we instituted the new idea of an annual research away day for all staff and PGRs to foster a
+collegiate and inclusive research community, reflect on what has been achieved and consider what
+might be developed in the year ahead.
+
+Reward and recognition for research, knowledge exchange and impact
+Achieving excellence in research, knowledge exchange (KE) and impact generating activities is
+recognised at both Departmental and University levels. For staff to get the best out of their
+endeavours, they must have dedicated time and financial resources.
+
+We utilise our workload model to allocate time to staff for their research, KE and impact generating
+activities as well as other responsibilities. Winning grants and other successes in research and KE
+are rewarded by allocation of additional time for these activities. This offers protected time from
+teaching and citizenship roles so staff can focus on achieving maximum success in their research
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+and impact generating activities. Also, the employment of Teaching Demonstrators, to supervise
+laboratory classes and assist with marking, releases academic staff time for research, etc. Over the
+period, use of Teaching Demonstrators has increased from 1560 hours in 2014/5 to 2723 hours in
+2019/20. Additionally, non-academic staff take more responsibility for administration duties
+associated with assessment and the management of research/KE grants. In practical terms, these
+initiatives typically provide academics with 30% more time for research, KE and impact activities
+than would otherwise be possible, incentivising success.
+
+Non-professorial staff who write papers considered to be of world leading quality (as gauged by
+internal review) are provided with a £1000 payment per paper into their individual research fund to
+reward and thus incentivise production of world leading research. Where staff supervise dissertations
+on MSc programmes beyond CIS, the £1,000 payment from the host department is allocated directly
+to the individual staff member’s research funds account.
+
+We are committed to providing opportunities for staff to contribute their research at major
+conferences. For any staff member presenting a paper that is considered to be of international quality
+which is novel, significant and impactful, the Department uses its central research funds to support
+attendance when no other funds exist. Central research funds are also used to reward research
+excellence by prioritising financial contributions towards Departmental or University PhD
+studentships.
+
+We utilise the university-wide Starter Grant initiative to help newly appointed staff establish their
+research careers at Strathclyde. Newly appointed Professors are awarded £25k via the New
+Professor Fund, while Readers, Senior Lecturers, Lecturers and Research Staff on Open Ended
+Contracts are awarded £10k.
+
+The University also has an annual promotion scheme to reward exceptional performance of staff.
+Following the ADR process, professorial staff may be rewarded financially for their research,
+knowledge exchange and impact excellence through the University’s Senior Academic Review and
+Development (SARD) panel. The University operates a Professorial-zoning system (zones 1 to 4),
+so promotion between zones may also be recommended by this panel. During the review period, 9
+staff in the UOA academic staff have been promoted to senior lecturer or reader (Atkey, Azzopardi,
+Cashmore, Halvey (promoted twice over this review period), Kupke, Lennon, McBride, Moshfeghi,
+Pennington). Duncan was promoted from research fellow to senior research fellow and Egan was
+promoted from research associate to research fellow. Together these 12 promotion cases are over
+half of our non-professorial staff. Exceptional performance of staff at all levels is also recognised
+through the University’s annual Contribution Pay programme, which rewards staff through salary
+increases or one-off payments.
+
+Research Students
+We supervise PGR-students studying full-time, part-time and by distance learning. Year-on-year
+increases in the number of PGR students registered in CIS have grown the number of PhD students
+from 33 in 2014-15 to 76 in 2020/21. Since REF2014, 49 PGR students have been awarded PhD.
+Recruitment into PhD studentships is achieved by a number of mechanisms:
+
+Having established in REF2014 that supervision of research students was an expectation of all
+academic staff, we have ensured that staff advertise their research interests and expertise via their
+staff profile webpages and are available to prospective students that make direct approaches to
+discuss their own research ideas and aspirations. Prospective students submit their research
+proposals via open competitive processes in CIS for Departmental/University funded studentship
+awards. These are competitive processes so we encourage and aim for excellence in both our
+student applicants and the research proposals.
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+
+Additionally, we have become increasingly strategic in our student recruitment through targeted use
+of internal funds, and external networks and relationships. We have regular success in recruiting
+excellent students through Strathclyde’s John Anderson Research Award Scholarship scheme,
+which awards funding to students holding First Class Honours or Masters with Distinction, and
+requires a substantial funding contribution from an industrial partner. We have also an established
+record of obtaining PGR studentships from major external funding bodies, including from: AHRC (x
+1), Capita (x 2), EPSRC (x 3), EPSRC-iCase (x 4), and NPL (x 1). We attract the best calibre students
+by providing a supportive research environment in which students thrive and by securing funding for
+innovative research projects that leverage our research networks to provide interdisciplinary
+supervision support. An example is our Joint Supervision Programme with three Universities in
+Saudi Arabia. This initiative is aimed specifically at supporting female students from Saudi Arabia
+to establish a research career (the programme also aligns with our commitment to Equality &
+Diversity - see further details on this in the Equality & Diversity section below). To date, 5 females
+from Saudi Arabia have joined this programme in CIS; two have graduated with PhDs in this review
+period and 3 are currently supervised by CIS academics. This unique programme provides PGR
+students with a University of Strathclyde supervisor and a supervisor from the host institution in
+Saudi Arabia. The students are expected to visit Strathclyde for a 2 – 6 week period at least once
+during each year of study. In future, we will broaden opportunities for postgraduate research by
+widening access to our Professional Doctorate programme (to support people working in industry
+who wish to complete PhD research in CIS either full or part-time alongside their professional
+commitments) from Information Science professionals to people working across other industrial
+sectors.
+
+PGR students are embedded within research groups and undertake annual formal reviews to monitor
+their progress. In 2020, we implemented a CIS PGR and Supervisor Learning Agreement (developed
+collaboratively with our PGR students). This document outlines the expectations on students and
+supervisors in relation to PGR research and supervision, and is signed by both the student and their
+supervisors. This Department level guidance complements the University’s Policy & Code of Practice
+for PGR Study (see Institutional Statement). Research Group Leaders ensure PhD students aligned
+to their research group are provided with opportunities to present their research to their wider
+research group at least twice per year. Review panels are convened with the supervisory team and
+another member of academic staff, and constructive feedback is provided to the student.
+
+We also strive to support participation of students in conferences and other external events where
+they can present their research and benefit from engaging with leaders in their field of study. The
+positive impact of the training we provide to our PhD students is reflected in their successes when
+presenting at conferences. Highlights include: the Marc Resnick Best Paper Award
+to Azzopardi and Halvey’s PGR student Sylvain Daronnat at the 64th International Annual Meeting
+of the Human Factor Society (2020); best paper award at the CHI Conference on Human Factors in
+Computing Systems ACM (2020) for Dunlop’s PGR student Gibson; best paper award for Azzopardi
+and Halvey’s PGR student Foulds at Association of Computer Machinery Special Interest Group on
+Information Retrieval (ACM SIGIR) Conference on Human Information Interaction and Retrieval
+(2020); and Best Paper Award for Simpson with Ghani and Forsberg at European Joint Conferences
+on Theory And Practice of Software (ETAPS) (2016). Another notable PhD student success was the
+Carnegie Trust Robertson Medal for the best research PhD proposal (2016) for Levine’s PhD student
+Damien Anderson.
+
+Equality and Diversity
+We implement all relevant University policies at Departmental level and adapt these if required to
+provide personal support to CIS staff and PGR students. Our Head of Department is from an ethnic
+minority and this gives visibility to that traditionally under-represented group. In addition, over this
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+review period we have recruited staff from ethnic minorities at Professor, Reader and early career
+researcher levels. We monitor gender equality issues in terms of the operational structure of the
+Department in the following ways: the workload model and allocation of duties and responsibilities
+are gender-neutral; staff with parenting or caring duties can negotiate flexible working relationships;
+we monitor committee memberships and all major departmental committees contain at least one
+female member. Women and men have held the Director of Research and Deputy Director of
+Research roles during the current review period. Innocenti Chairs the Athena Swan working group
+in CIS and will lead submission of our Bronze Award application in 2021. Pennington represents CIS
+at the institution-wide Women in Science and Engineering group and the STEM equals Committee
+which discuss issues and opportunities and recommend best practice for advancement of females
+within the STEM sector. Despite there being fewer females in the CIS domain generally, during this
+assessment period, we have successfully appointed two female Professors (Maguire, Moncur) and
+3 Senior Lecturers (Innocenti, Lennon, McCann) and 1 Lecturer (Pennington). Lennon has since
+been promoted to Reader and Pennington has since been promoted to Senior Lecturer.
+
+ 3. Income, infrastructure and facilities
+
+During the review period we have made considerable advances towards our aim of having an
+internationally leading portfolio of research and KE activities. This success has been achieved
+through a combination of substantial university investment in our research infrastructure and
+facilities, alongside notable improvements in competitive external funding.
+
+i) Research & KE Income Portfolio
+At REF2014, we expected our research strategy would lead to an expanded grant portfolio. This has
+occurred in three ways. Firstly, whilst RCUK/EU grants are still our main source of research income,
+we have diversified significantly (28% of research income in REF2021 was non-RCUK/EU income
+compared to 5% in REF2014). Research income been further strengthened through increased
+industrial funding (£402k in REF2021 compared to £78k in REF2014), UK central government
+funding (£353k REF2021, £39k REF2014), and charity funding (£190k REF2021 compared to £34k
+REF2014). As illustrated in Figure 1, the trajectory of income from these sources is strong and
+consistent.
+
+Figure 1
+
+
+
+
+Secondly, we have seen a significant increase in large grant wins, with 8 grants over £500k FEC
+achieved including three over £1m FEC. Thirdly, at REF2014 we expected all members of academic
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+staff to hold substantial (>£50K) external research grant funding. In REF2021, 20 staff have
+successfully won grant funding awards of at least this value.
+
+We began this REF period with annual total research income of over £300k (2013-2014) and end it
+with over £670k (2019-2020). Within the cycle (in 2017-2018 and 2018-2019) this annual total was
+exceeded as a result of our leadership of the FP7 eSMART project (one of our grants over £500k).
+Of the 33 colleagues eligible for REF2021, 24 have achieved grant success whilst at Strathclyde
+during the current REF period, 5 of those who have not yet won grants are in post for less than 2
+years and we fully expect that they will also be successful early in the next period. We have had
+research grants awarded from industrial partners such as BAE Systems (Moshfeghi, £34k), DataLab
+(McBride, Forsberg, Roper, £60k), the National Physical Laboratory (McBride, Forsberg, Ghani,
+£595k) and the Digital Health and Care Innovation Centre (Lennon, Maguire, McCann, £299k).
+
+During the REF2021 period we gained our first Knowledge Transfer Partnership (KTP) and built on
+that success. The KTP scheme facilitates transfer of knowledge and expertise from academics and
+researchers into UK-based business-critical projects. Over this review period, we have been
+awarded four KTPs, worth a combined income of over £700k, with the following organisations: BIP
+Solutions (Azzopardi & Moshfeghi, £244k), Cambridge Quantum Computing (Atkey, Forsberg,
+McBride, £199k), Symphonic Software (Atkey & Kupke, £151k) and Syngro Limited (Roper with
+Revie & Barlow from Management Science, £186k). As previously mentioned, this growing
+reputation for being able to apply our research resulted in us taking a number of leadership roles
+within the TIC2 project to transform knowledge exchange across the University in key areas. As
+outlined in the Institutional Statement, there are six proposed cluster areas representing University
+excellence and four members of our Professorial staff co-lead on three of those six proposed clusters
+(Ghani: Industrial Informatics; Chowdhury & Revie: FinTech; and Maguire: Health and Care Futures).
+This creates a platform for future significant and sustainable expansion of our Knowledge Exchange
+activities.
+
+ii) Infrastructure
+
+Scholarly Infrastructure and Facilities: Our Department is housed over four floors within the
+Livingstone Tower at the University of Strathclyde. One floor is dedicated to our Departmental
+professional support services staff and houses dedicated study spaces for students. The other three
+floors co-locate our research group academics, researchers and PGR students in individual and
+group office spaces. All four floors were refurbished during the period through investment (£113,000)
+provided jointly by the University and the Department. A number of improvements and configuration
+changes were made to the environment to improve interaction, support and collaboration between
+peers and colleagues, thereby enhancing the sense of community within the department.
+
+We have three dedicated, bookable, data collection spaces in the Department for experiments that
+are frequently used by researchers recruiting participants for face-face activities. The Usability and
+User Experience Lab is a bespoke accessible and reconfigurable lab space for conducting a wide
+range of research including usability studies, fabrication of technologies, prototyping, and co-design
+sessions with stakeholders. The laboratory is essential to the human-centred research activities of
+the Digital Health & Wellness Group and Strathclyde iSchool Research Group. Specialist equipment
+in this lab includes recording equipment, Virtual Reality headsets, wearable devices (including
+Google glasses) and a desktop computer for running user studies.
+
+As indicated in Section 1, we are committed to continued improvement in the infrastructure available
+to our staff. Over the next 5 years, we will create specialist research labs within a new building
+with space to support further development of our research groups, e.g. an expanded Cyber Security
+Lab. We will also have a physical footprint in the forthcoming TIC2 building (a purpose-built state of
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+the art facility to be located within the Glasgow City Innovation District) (see Institutional Statement)
+which will host an Institution-wide Living Lab for our Digital Health Research Group and support
+cross-faculty and inter-disciplinary research collaborations and activities.
+
+Our Cyber Security Research Group are members of a cross-institutional Strathclyde Security
+Research Group and have led the development and testing of a number of security testbeds
+including: The Experimental Network of ArChitectures Testbed (ENACT), which consists of 1056
+switch ports and 96 server ports using Pica8 3290N switches and Juniper 4500EX switches; and
+The Ransom Architectures for Network and Systems Opportunistic Malware (RANSOM),
+which is an exclusive datacentre that hosts up to 100k virtual machines on a 40Gbps Mellanox
+network. Two donations from the National Cyber Security Centre (UK Government) were used to
+procure testbeds and associated equipment valued at just under £200k. This £200k funding was
+additional to the University of Strathclyde’s funding allocation (£119k) as the lead institution in the
+larger EPSRC grant (£750k) on Software-Defined Networks led by Nagaraja with collaborators from
+the University of Birmingham and the University of Edinburgh. The testbeds were built to investigate
+the development of next-generation router-security technologies that incorporate machine learning
+at their core. The testbeds allow us to develop and test cyber-attacks at a significant scale thus
+enabling the development of defence mechanisms to overcome such attacks in the Software-Defined
+Networking paradigm. Smart and secure routers are a key part of the Strathclyde vision for a secure
+network, where the core of the network (rather than just the network periphery) is involved in ensuring
+cyber security.
+
+We also have a dedicated Systems Support Service within our Department consisting of three IT
+Systems Support Staff and one Technician. This team provides front line IT support to all staff and
+students and is responsible for managing dedicated IT budgets and updating/maintaining IT
+equipment and services for the Department. Additional IT support for staff and students is also
+available via central University IT services.
+
+Across the University, our collaborations enable access to a range of additional facilities and
+resources to expand our research portfolios and to deliver impactful research. For example,
+researchers from the Artificial Intelligence and Cyber Security research groups (see Section 1) utilise
+the ARCHIE-WeSt High Performance Computing facility, which is a regional supercomputer centre
+hosted by the University and dedicated to research excellence and industry applications in the West
+of Scotland. This resource was implemented at Strathclyde in 2012 and facilitates multidisciplinary
+and collaborative research between Strathclyde and the Universities of Glasgow, Glasgow
+Caledonian, West of Scotland and Stirling.
+
+Collaboration between researchers from the Digital Health & Wellness Group (see Section 1) and
+the Digital Health and Care Innovation Centre (DHI) benefit from access to DHI’s Demonstrator and
+Simulation Environment which is used to demonstrate the capabilities of data integration and data
+exchange across organisations in new and market ready technologies for digital health and care
+applications.
+
+Our staff regularly access and benefit from the Scottish Informatics and Computer Science Alliance
+(SICSA) infrastructure. SICSA is a collaboration of 14 Scottish Universities which promotes
+international excellence research, education, and knowledge exchange for Scottish Informatics and
+Computer Science. One of our ECRs, Forsberg, successfully received SICSA research exchange
+funding to establish a new research collaboration with Dan Licata from Wesleyan University,
+Connecticut, USA. Kupke and Weir have both received SICSA funding to enable attendance at
+workshops, summer schools, to host cross-institutional research meetings and publicise events to
+increase their research networks and portfolios respectively, and Moshfeghi has co-ordinated and
+led a workshop on Data Science and Digital Health through this network.
+
+                                                                                                Page 12
+Unit-level environment template (REF5b)
+
+Operational Infrastructure: The University’s Research & Knowledge Exchange Services
+Directorate (RKES) supports research and KE activity across the institution. There are dedicated
+Research Funding Managers in RKES and Finance Officers in Finance who support the submission
+of grant funding applications from CIS, and support, respectively, pre- and post-award finance
+management. Contracts Managers within RKES provide essential support to negotiate contract
+agreements with funders, collaborators, external partners and third parties to initiate research
+projects and implement impact generating activities arising from research in CIS.
+
+There are a number of centrally managed university-wide initiatives that provide CIS researchers
+with opportunities to engage in impact generating activities with partners beyond academia.
+Researchers from the Digital Health & Wellness Group (DHaWG) have led events at Engage with
+Strathclyde (Strathclyde’s annual flagship programme of events aimed at stimulating engagement
+with external organisations from industry, business, education and the third sector) on topical areas
+such as Citizen Science (McCann: 2018) and Virtual Reality in Healthcare (Wilson: 2019), with
+attendees from NHS, Third Sector and industrial companies. DHaWG researcher (McCann: 2017,
+2018) has also utilized the University-led annual Explorathon initiative to engage with over 200
+members of the public to generate awareness and understanding of digital health research.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+As outlined in Section 1, our focus is on impactful, human-centred research with meaningful
+outcomes for society. We achieve this by developing relationships with external key stakeholders in
+academic, industry, NHS and third sector organisations. We lead interdisciplinary and collaborative
+research at local, national and international levels and have exemplars of wider influence within the
+discipline across all our research activities.
+
+Research Base & Sustainability of the Discipline
+We have successful academic collaborations with high-calibre UK universities such as
+Birmingham, Bristol, Cambridge, Edinburgh, Glasgow, Nottingham, Oxford, Southampton, and
+Warwick. Our collaborators include biomedical engineers, computer and information scientists,
+mathematicians, nursing and medical specialities, psychologists, physical activity for health
+specialists, sociologists and statisticians. Notable highlights are: Atkey’s AISEC project (AI Secure
+and Explainable by Construction; EPSRC; £348k) with University of Edinburgh and Heriot-Watt
+University; and Azzopardi & Moncur’s work on Cumulative Revelations in Personal Data (EPSRC;
+£249k & £338k) with the Universities of Dundee, Edinburgh & Northumbria.
+
+Our research has international significance and reach and we regularly collaborate with global
+academic partners. Azzopardi, Halvey & Ruthven are acknowledged experts in Information Retrieval
+and regularly collaborate with multi-disciplinary academic and industrial partners on world-leading
+research, such as the EU Horizon 2020 funded Innovative Training Network (ITN) on ‘Domain
+Specific Systems for Information Extraction and Retrieval (DoSSIER)’ with partners from Australia,
+Japan, the USA and 6 European Countries (£772k). Maguire and McCann have led and collaborated
+with a wide range of European and USA partners on both FP7 (£830k) and H2020 (£506k) funded
+research on the development and evaluation of digital health technologies in real-life contexts.
+Nagaraja is a specialist in network security and privacy, and collaborates with the top cyber security
+department in India (Indian-Institute of Science) and leading industrial partners (AST Telecom Solar
+Pvt Ltd, India) on projects such as ‘Secure and Resilient Cyberphysical Systems’ (£146k).
+
+In terms of broader networks, we align ourselves closely to SICSA taking advantage of various
+opportunities for networking and establishing new collaborations with this community of peers across
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+Scotland. Ghani and Kupke have both previously been leaders of the SICSA Complex Systems
+Engineering theme, Halvey has previously been co-leader of the Human Computer Interaction
+SICSA theme (2016 – 2020) and Moshfeghi is currently one of the leaders of the Data Science
+theme. We are regular participants in SICSA sponsored events and activities designed specifically
+to introduce potential collaborators to opportunities and benefits of collaborating with our
+researchers. We also support and encourage attendance of PGRs to engagement and networking
+events hosted by SICSA such as the annual SICSA PhD Students Conference.
+
+Members of the Strathclyde iSchool Research Group (SISRG) regularly collaborate with partners
+through the global iSchool network. Chowdhury is Global Chair of the iSchools Organisation and has
+chaired numerous panels for iSchool global collaborations throughout 2020. SISRG members
+participated in the recent iSchool European Doctoral Seminar Series and a SISRG PGR student
+presented at this event.
+
+Our staff are actively engaged in activities that contribute to the wider vitality and sustainability of our
+discipline as a whole. All academic staff are active peer reviewers for at least one key journal in both
+Computer Science and Information Science. Colleagues have been members of more than 20
+different journal editorial boards across the CIS discipline over this review period
+including four notable senior positions: Associate Editor of Journal of Personal and Ubiquitous
+Computing (Dunlop); Associate Editor of International Journal of Mobile Human Computer
+Interaction (Dunlop); Editor-in-Chief of Library and Information Research (Pennington); Associate
+Editor of Information Processing and Management (Ruthven). Many of our staff have held or
+currently hold Editorial Board Member positions in leading CIS discipline specific journals. Some
+examples include Journal of Information Science (Chowdhury); Journal of Compositionality (Ghani);
+The International Journal of Information, Diversity & Inclusion (Innocenti); Software: Testing,
+Verification and Reliability (Roper); Software Quality Journal (Roper); Journal of Reliable Intelligent
+Environments (Terzis) and International Journal on Advances in Intelligent Systems (Terzis). Five
+staff have also held edited/co-editing roles for special edition publications over this review period
+including: Editor for the 2017 TYPES post-proceedings (Forsberg); Guest Editor, Special Issue of
+Sensors on Internet of Things in Healthcare Applications (Maguire); Guest Editor, Special Issue of
+JASIST on Neuro-Information Science (Moshfeghi); Guest Editor, Evidence-Based Library and
+Information Practice (EBLIP) (Pennington); Guest Editor Information Processing Management
+(Ruthven); Guest Editor Journal of Computing and Cultural Heritage (Ruthven).
+
+Our staff contribute regularly to the sustainability of the CIS discipline through membership of
+various national and international research grant funding bodies, as well as holding leadership roles
+and positions of influence at national and international levels. The breadth of our expertise is
+reflected in the variety of funding organisations that seek our opinion on grant proposals as panel
+members. Some examples are: Engineering and Physical Sciences Research Council; Arts and
+Humanities Research Council; Medical Research Council; Israel Science Foundation; European
+Commission led funding calls such as Horizon 2020, Marie-Curie Fellowships and FP7 programmes;
+and Norwegian Research Council. A notable contribution was Ruthven’s role as a senior strategic
+advisory reviewer for Arts and Humanities Research Council from 2014 to 2016.
+
+With respect to positions of influence, Lennon was an Academic Advisor to the National Telecare
+Advisory Board for the Scottish Government and is an Academic Advisor on the Ethics Board for the
+DHI; McMenemy was Trustee of the Chartered Institute of Information and Library Professionals
+(CILIP) and a member of the Board from 2014 – 2016; Pennington was awarded Fellowship of the
+Higher Education Academy (2016) and Fellowship of the Royal Society of Arts (2017); Revie is
+a member of Technical Advisory Group (TAG) of the Aquaculture Stewardship Council (2018-2025)
+and member of the World Organisation for Animal Health Expert Group on Animal Health Data
+Codification Systems (2019-2021); Ruthven has been Chair of the Scottish & Library Information
+
+                                                                                                  Page 14
+Unit-level environment template (REF5b)
+Council since 2017 and Chair of Information Seeking Conference Series since 2020. In recognition
+of their contributions, McMenemy was awarded CILIP Honorary Membership (2020) for outstanding
+services to CILIP, libraries, information services and the wider profession; and Ruthven was awarded
+the prestigious Tony Kent Strix Award in December 2020 for his outstanding contributions to the field
+of information retrieval.
+
+More than half of our academic staff hold roles with other Universities and external agencies and
+these roles further facilitate our influence across society in local and international contexts. Some
+notable examples are: Azzopardi – Honorary Associate Professor, Queensland University of
+Technology, Australia (2016 - ongoing); Chowdhury – Global Chair of iSchools Organisation (2020–
+2022); Maguire – Visiting Professor, Queensland University of Technology, Australia (2018-2021);
+Mardare – Honorary Professor, Aalborg University, Denmark (2020-2021); Nagaraja - Adjunct
+Faculty Position with the Co-ordinated Science Laboratory in Illinois, USA (2009 – ongoing);
+Pennington - Chair of the Chartered Institute of Library and Information Professionals (CILIP)
+Metadata and Discovery Group (2020 – ongoing); Revie – Visiting Professor of Epidemiology,
+Atlantic Veterinary College, University of Prince Edward Island, Canada (2018 – 2022); Ruthven –
+Chair - Scottish Library & Information Council (2017 – ongoing); Chair – Institute of Information and
+Library Science (2020 – ongoing); Weir – Adjunct Professor at the School of Criminology, Simon-
+Fraser University, Canada (2018-2021).
+
+Our staff also contribute to the vitality of the CIS discipline through membership of the organising
+committees of major conferences. Examples are: Dunlop: Various Associate Chair, Co-Programme
+Chair, Sub-Committee Chair roles for Association of Computer Machinery (ACM) Conferences on
+Human Factors in Computing Systems (CHI) and ACM International Conferences on Mobile Human
+Computer Interaction (MobileHCI) (2014 – 2019); Halvey: Various Senior Program Committee,
+General Chair, Local Chair, Short Papers Chair, Demos Chair Roles for ACM CHI / ACM Conference
+on Human Information Interaction and Retrieval (CHIIR) / MobileHCI / ACM International Conference
+on Multimodal Interaction (ICMI) (2017 – 2019); Mardare: Organising Chair for the Workshop on
+Higher-order Probalistic Programming (2019, Barbados); Pennington: Local Organising Committee
+Co-Chair, International Evidence Based Library and Information Practice Conference (EBLIP10)
+(Glasgow, 2019); Publicity Chair, CHIIR (2109); Ruthven: Conference Co-Chair, CHIIR (2019);
+Programme Committee Co-Chair, The Information Behaviour Conference (ISIC) (2020); Roper:
+Programme Committee Co-Chair, IEEE International Conference on Artificial Intelligence Testing
+(AITest) (2019 & 2020); General Chair IEEE AITest (2021); Weir: Technical Programme Committee
+Chair - 4th International Cybercrime and Digital Forensics Conference (2016, Vancouver, Canada);
+Programme Chair - Cybersecurity and Cyberforensics Conference (2016, Jordan); Wilson: Associate
+Chair, ACM CHI 2019 and ACM SIGACCESS Conference on Computers and Accessibility
+(ASSETS) 2019.
+
+Researchers from UOA11 have been active in delivering keynote presentations at discipline-leading
+national and international conferences over this review period including: Lennon: International
+eMental Health Forum, Belfast; Revie: Annual Meeting of the Society for Veterinary Epidemiology
+and Preventive Medicine (SVEPM), Ghent, Belgium, 2015; Revie: XV11 International Symposium of
+the World Association of Veterinary Laboratory Diagnosticians (WAVLD), Saskatchewan, Canada,
+2015: Ruthven: Information Seeking in Context (ISIC), Zadar, Croatia, 2016; Weir: The Ninth
+International Conference on Cloud Computing, GRIDS and Virtualization (IARIA), Barcelona, Spain,
+2018.
+
+In addition to our research visits and exchanges to partnering organisations and institutions, we also
+have an active Visiting Researcher programme whereby we host national and international
+academics, expert scholars and key industry partners in our Department to develop collaborative
+research projects, and deliver guest lectures and seminars to students and staff. Over this review
+
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+period, Visiting Researchers include: Mohammed Al-Fairuz (Sultan Qaboos University, Oman);
+Gerard Canal (Kings College London); Yoshio Hosaka (University of Japan); Annemaree Lloyd
+(University College London); Michael Olsson (University of Technology, Sydney); Anabel Quan-
+Haase (University of Western Ontario, Canada); Amy Vab Scoy (University of Buffalo, USA); Anna
+Maria Tammaro, University of Parma (Italy) and Brendan Wilson (University of Tokyo).
+
+
+Economy & Society
+Our staff have significant strategic relationships with high-profile industrial partners and we have
+leveraged these relationships to develop successful KTPs during the period with BIP Solutions,
+Cambridge Quantum Computing, Symphonic Software and Syngro Limited. KE and research
+activities have also occurred with partners including Google, Indian Institute of Science, Keysight,
+Microsoft, Police Scotland and the Scottish Institute for Policing Research, and Spartan Solutions
+Ltd. We have cultivated our strategic relationship with the National Physical Laboratory (NPL) to
+facilitate impactful research on discipline leading areas such as Trusted Systems (Forsberg, Ghani
+& McBride, £600k). Azzopardi has twice been seconded to Microsoft in the USA to specifically
+develop collaborative projects focusing on modelling and measuring search engine result pages.
+McBride has had two fruitful secondments to Microsoft to develop Haskell related impactful research
+(see Section 1 and associated impact case). Nagaraja has twice been seconded (2019 & 2020) to
+industrial partner QinetiQ and the visits were used to leverage specific QinetiQ input to future
+research proposals from the Cyber Security Research Group, including a recent submission (2020)
+to the PETRAS national centre of IoT Cyber Security in collaboration with NPL. Development of a
+strategic partnership with BAE Systems has funded an industrial case PhD studentship supervised
+by Moshfeghi. Over the period we developed industrial collaborations with 10 new organisations
+(referred to in Section 1) including with My Customer Lens (Pennington, Roussinov: ontology
+development) and Welbot Ltd (Terzis, Lennon, Roper: prototype development and data analytics).
+
+Researchers within the Digital Health & Wellness Group and Strathclyde iSchool Research Group
+regularly collaborate with NHS clinical partners and clinical services across the UK and Europe in
+the development, deployment and evaluation of person-centred technological solutions to support
+health and care provision. Ruthven, an Information Scientist, collaborated with sociologists and third
+sector organisations such as Barnardo’s and Glasgow Life on the project ‘Understanding the
+Information Needs of Young First Time Mothers from Areas of Multiple Deprivation’ funded by ESRC.
+Maguire and McCann collaborated with international academic, industry and health sector partners
+in the largest randomised controlled trial to date of a mobile phone based remote monitoring system
+for people with cancer in 5 countries across Europe. Lennon, with Maguire & McCann, led an
+evaluation at scale of digital health products in NHS settings in two different areas of Scotland to
+inform changes to service pathways and collaborated closely with industrial partners MedTronic and
+CorporateHealth and academic colleagues during this work. Dunlop’s PGR students Gibson, Khan
+and Meiklem have worked closely with the Scottish Commission for Learning Disability, Down
+Syndrome Scotland, NHS Queen Elizabeth University Hospital, Glasgow and Return to Life Charity
+respectively. Furthermore, five academics in CIS hold Honorary Academic/Research posts with NHS
+Lanarkshire.
+
+We capitalise on University and Departmental events designed to promote and foster research
+networks across Strathclyde. At a University level, in 2019 Revie led a Herald AI Business Breakfast
+event with Incremental Group, one of our industrial partners, to promote the expertise of AI research
+at Department and University levels. At a Departmental level, we hosted our inaugural
+CIS Alumni and Friends Event in 2019. This event provided an opportunity for members of the
+Strathclyde CIS Community past and present to come together to celebrate the achievements of the
+Department and highlight our research strengths, diversity and expertise to student and
+
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+staff Alumni and invited guests. Our keynote speaker at this event was Dr Pauline Burke, Global
+Head of Experimentation and Personalization at eBay.
+
+The expertise of CIS staff has also been utilised in patent cases as Dunlop has provided Expert
+Witness input into two international patent cases over this review period (2018 & 2020) for high-
+profile industry clients. Awareness of Lennon’s MyCityGlasgow app, developed specifically for the
+2014 Commonwealth Games and gold medal winner for the most innovative app for the
+Commonwealth Games was made available to the public through various press releases in 2014. In
+terms of media coverage, McMenemy’s expertise in information law and ethics was visible and
+accessible to the public via widespread media coverage for his interdisciplinary research ‘Corporate
+Surveillance on Writers’ published in 2018 (The Times, Herald, Scotsman and Daily Mail). Thomas’s
+‘Booting the Booters’ research evaluated law enforcement interventions in relation to cybercrime and
+his proficiencies in this area resulted in widespread media coverage for this work in 2019. Weir’s
+research on readability measurements received public attention in 2018 via an article published in
+The Sunday Times.
+
+
+
+
+                                                                                           Page 17
+

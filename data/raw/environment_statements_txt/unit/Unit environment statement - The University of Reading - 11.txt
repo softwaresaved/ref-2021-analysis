@@ -1,0 +1,859 @@
+Unit-level environment template (REF5b)
+ Institution: University of Reading
+
+ Unit of Assessment: UOA11 – Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Overview
+ The UOA is coincident with a new Department of Computer Science (established August 2016)
+ within the School of Mathematical, Physical and Computational Sciences (SMPCS) and an
+ associated Computer Science Research Division within the University’s Environment Research
+ Theme. Led by a Research Division Leader (RDL), our research is organised into three
+ groupings, which collectively represent our applied and interdisciplinary approach to data and
+ computational science: Computational Vision (CV), Data Science and Artificial Intelligence
+ (DSAI), and Advanced Computing for Environmental Science (ACES). CV addresses
+ computational issues of perception and reasoning in relation to image interpretation, at the
+ forefront of international security research. DSAI researches machine learning, data mining, big
+ data analytics devoted to algorithms, and techniques and applications for data-driven knowledge
+ discovery from big data. ACES conducts cutting-edge research in computer science to
+ accelerate environmental science.
+
+ Position since REF2014
+ Since REF2014 (when Computer Science was a subject group within a wider School of Systems
+ Engineering, submitted under UOA13), the subject group was identified as an area of excellence
+ in its own right and received substantial investment by the University in launching as a new
+ department. The establishment of a new identity, in conjunction with extensive working
+ relationships we have built with local, regional and global business and third sector
+ organisations, has: supported and strengthened our research agenda; led to a significant income
+ and outputs quality profile; and resulted in realisation of significant impact under each research
+ grouping.
+
+ Research strategy
+ Our vision is to deliver international excellence in applied and interdisciplinary research in data
+ and computational science, based upon an excellent core of fundamental computer science, and
+ to realise significant and far-reaching interdisciplinary impact.
+
+ As a newly formed Unit, our key aims within the REF period have been to:
+    • build up a critical mass of staff
+    • maintain and build on existing strengths while focusing on emerging activities which have
+        considerable impact potential
+    • increase collaborative interdisciplinary activity with the School, wider University and
+        external collaborators
+    • attain high-quality journal publications
+    • target funding sources most suited to delivering aims 1 to 4.
+
+ We have met (1) through a round of strategic appointments since 2013 (including Assistant,
+ Associate and Full Professors) totalling eight staff. This has grown our Category A FTE count
+ from 6 to 10.4 representing a small but critical mass of academics covering the core areas of
+ Data Science and Computational Science.
+
+ To meet (2), existing strength in Computational Vision (CV) was validated by generating
+ sustained and significant targeted research income, outputs and impact (see REF3b), while
+ existing and emerging activity in data and computational science was consolidated into two new
+ research groups, namely Data Science and Artificial Intelligence (DSAI) and Advanced
+ Computing for Environmental Science (ACES).
+
+
+
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+ To meet (3), the creation of ACES has increased collaborative interdisciplinary activity,
+ specifically supporting SMPCS and the University’s Environment Research Theme in conducting
+ cutting-edge research in computer science to accelerate environmental science. We have also
+ established new relationships with a wide range of companies, third sector and government
+ organisations to maximise the relevance and use of our work.
+
+ For (4), we have published 385 papers in international peer-reviewed journals and conference
+ proceedings (314 in journals classified as Computer Science by Scival). Of these 314, 40.5%
+ are in Q1 (by SNIP) Computer Science journals, with three in every five outputs (57%) resulting
+ from international collaborations.
+
+ For (5), we have won large collaborative interdisciplinary grants of >£5.5m overall EU research
+ income (with a total of ~£7m, or £95k/year per FTE, from all sources) since 2014 (see Section
+ 3).
+
+ Our future strategic goals are to:
+    • Support new emerging and focused areas of research in data science and machine
+        learning (e.g. interpretability and explainability of AI, scalable and efficient machine
+        learning).
+    • Strengthen interdisciplinary and applied research both within the University and
+        externally, incorporating, for example, the joint topic of machine learning and data
+        simulation bridging Computer Science, Mathematics and Meteorology, with significant
+        impact potential in areas including medicine and climate science.
+    • Further strengthen our links with industry and establish other strategic partnerships.
+    • Embrace and demonstrate a strong commitment to open research to further the
+        usefulness of our work.
+
+ Research themes, achievements, and future 5-year research goals
+ Achievements and strategic plans for each of our research groups are summarised below. Note
+ that staff can be affiliated to more than one grouping.
+
+ Computational Vision (CV) (Badii, Di Fatta, Ferryman, Hong, Wei)
+ This research group exploits synergies between focused areas of computer vision and image
+ analysis and real-world applications, supported by substantial grant awards totalling >£3.3m
+ from the EU since 2014. Contributions from this approach are reinforced through close
+ collaborations with end users and a wide range of stakeholders, from domains covering critical
+ infrastructure protection to border security to remote sensing. Strategic areas of interest and
+ achievements include:
+     • Two major collaborative EU projects (FASTPASS, PROTECT, one led by Reading with
+         grant value €5m, total €1.97m to Reading) have profiled Reading as a world leader in
+         identity solutions for border security. Ferryman’s work (as lead on main technological
+         workstream on traveller identification in FastPass) on multimodal biometrics and counter
+         spoofing led to the world’s first deployment and evaluation of a harmonised on-the-move
+         biometric identification system in a real operational setting for both cruise ships and land
+         borders (with vehicles). The follow-on PROTECT project (led by Ferryman) developed,
+         trialled and evaluated the world’s first pervasive border control no-gate crossing point
+         solution and was shortlisted for the Times Higher Education Awards 2020 in the STEM
+         research category. The solution integrates non-stop contactless biometrics on-the-move,
+         exploiting mobile devices, advanced passports and tracking through re-identification, and
+         is applicable to air, sea and land borders and commercialisation and standards
+         development thereof.
+     • Furthering the biometrics work, Wei developed an approach to user authentication based
+         on non-conventional keystroke dynamics. Remaining within the domain of border
+         security, Ferryman’s work in FastPass and PROTECT, as well as EU EFFISEC (€547k
+         to Reading), led to development of novel video analytics for abnormality detection (e.g.
+         left luggage detection, tailgating), abnormal behaviour detection, and dynamic queue
+         estimation, supporting border guards’ monitoring at checkpoints.
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+    •   A further four major collaborative EU projects (VideoSense, led by Reading, overall value
+        €5.28m, £1.12m to Reading; P5 (Privacy Preserving Perimeter Protection Project);
+        ARENA; IPATCH, total €1.48m to Reading) led to:
+    •   establishment of framework for personalisable context-aware privacy filtering/masking of
+        video-audio (Badii)
+    •   development of TRL7 open and flexible architecture for multimodal sensing and analysis
+        (robust object detection, tracking, classification and especially semantic activity
+        characterisation and unified action recognition enabling abnormality discovery and threat
+        detection) for both real-time ground-based fixed and on-board mobile asset (critical
+        infrastructure) protection (Ferryman).
+    •   The research extended to development of universal privacy protection measures
+        applicable to both visible and thermal imagery, with anticipated impact on wide
+        deployment of automated video surveillance solutions (Ferryman).
+    •   Wei's work broadened our research into the application of computer vision to remote
+        sensing (in collaboration with the University of Indonesia), and image registration for 3D
+        surface reconstruction (in collaboration with Tianjin University). Ferryman’s research into
+        development of algorithms for analysing full waveform airborne LiDAR for characterising
+        vegetation has made a significant contribution to automatic determination of
+        tree/vegetation structure, quantity, and growth. Furthermore, extracted information can
+        be used both for rural scene classification and canopy height profiling with release of an
+        open-source toolkit. In the long term, there is likely to be impact in environmental
+        planning as well as in understanding the dynamics of the global carbon cycles.
+    •   Wei’s work on image fusion, in collaboration with Wang (Tianjin University), contributed
+        to China’s 2019 historic robot moon landing through 3D reconstruction of the moon’s
+        surface from satellite imagery. Hong’s work on subspace clustering is widely applicable
+        to real-world data (e.g. faces and handwritten digits images).
+    •   Ferryman’s leading role in benchmarking, specifically scenario-led benchmarking on
+        tracking and surveillance (PETS), has led to worldwide impact (including industrial
+        application) in development of video surveillance systems, especially for crowded scenes
+        and for applications (e.g. critical infrastructure protection). Further related work includes
+        development of a novel method for performance diagnosis of video trackers, with
+        anticipated impact on improving robustness of surveillance systems.
+
+ Our five-year goals for CV are to expand research, deployment and practitioner-led validation
+ of our research. This includes: novel approaches to identification, addressing the whole identity
+ lifecycle (e.g. new €736k EU project D4fly integrating biometrics on-the-move and alternative
+ technologies to identifying people); multimodal, multisensory surveillance (e.g. EU FOLDOUT
+ €458k) on through-foliage sensing and alarming in harsh environments for (border) security;
+ enhancing impact; and pursuing new large collaborative grants. We will develop strategic
+ partnerships with industry, working via the University’s Knowledge Transfer Centre and Innovate
+ UK, to: (1) widen our funding base; (2) explore opportunities for further development and
+ knowledge transfer of identity and surveillance solutions; and (3) strengthen promotion of our
+ work in security research.
+
+ Advanced Computing for Environmental Sciences (ACES) (Kunkel, Lawrence, Maynard)
+ The ACES group provides a nexus for developing and exploiting advanced computer science
+ techniques for deployment in real applications of multidisciplinary environmental science;
+ leveraging the world-class meteorology and mathematics research within SMPCS and close
+ collaborations with the UK Met Office and the European Centre for Medium-Range Weather
+ Forecasts (ECMWF).
+
+ Close collaborators include staff from the Institute for Environmental Analytics (IEA), the
+ Computational Modelling Services unit of the National Centre for Atmospheric Science (NCAS),
+ and both the Centre for Environmental Data Analysis (CEDA) and the Scientific Computing
+ Department of the UKRI Science and Technology Facilities Council (STFC).
+
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ Strategic areas of interest and achievements include:
+     • Storage systems and input/output performance: Work in this area is led by Kunkel and
+        includes analysing HPC storage system performance, his leadership role in establishing
+        the IO500 which describes supercomputing storage system performance, and new
+        methods of choosing storage compression technologies. Funding includes an Advanced
+        Storage Management (ASM) technology transfer grant to Kunkel from the European
+        Commission. Further, Lawrence has a leadership role within the European Centre of
+        Excellence in Weather and Climate Computing (ESiWACE) for storage and workflow
+        solutions for exascale computing.
+     • Energy and Performance: Some of the first published detailed analyses of methods for
+        energy savings from systems scheduling (Kunkel) and applications (Kunkel), with
+        measurements and plans for understanding power consumption in climate science
+        (Lawrence).
+     • Metadata systems and computing infrastructure: The development of metadata schema
+        for describing numerical simulation workflows with application (Lawrence). Architecture
+        and implementation of the Earth System Grid Federation in support of climate model
+        intercomparison (Lawrence). Lawrence’s role in the development of cloud computing for
+        JASMIN and establishing global climate computing infrastructure. Architecting and
+        building systems for delivering open data for the European Space Agency.
+     • Next generation systems and programmability: Early thinking on use of quantum-based
+        circuits. Maynard’s development of mixed precision arithmetic high-performance
+        numerical solvers now operationally in use at the Met Office, with multigrid solvers for the
+        next generation models. Work on extreme scaling of weather and climate simulations
+        codes. A leadership role in exposing exascale-coding issues.
+
+ Our five-year goals for ACES: Motivated by ever-growing challenges around extreme scale
+ simulation, our goals are to continue to focus on computer science problems relevant to cutting-
+ edge weather and climate simulation as well as more general applicability to exascale simulation
+ workflows (especially for data handling). Existing partnerships with national (Met Office, NCAS)
+ and international organisations (Argonne National Laboratory (ANL), ECMWF, German Climate
+ Computing Centre (DKRZ), National Center for Atmospheric Research (NCAR), Oak Ridge
+ National Laboratory (ORNL), Sandia National Laboratories) will be strengthened, alongside new
+ and existing relationships with the storage industry (DDN, KOVE, Seagate). We will also build on
+ the relationship with UK NVIDIA AI Technical Centre, in partnership with the University of
+ Edinburgh and the STFC Hartree Centre, to exploit ML and AI techniques in environmental
+ science.
+
+ ACES will continue to focus on delivering impact via research and development that can be
+ directly applied in environmental science software and computing infrastructure (e.g. to support
+ scalable performant weather and climate models, the Met Office supercomputing and analysis
+ systems, the JASMIN supercomputer, European supercomputing systems and the global Earth
+ System Grid Federation), as well targeting industrial partnerships.
+
+ Data Science and Artificial Intelligence (DSAI) (Badii, Di Fatta, Lester, Liang, Nicosia, Ojha,
+ Stahl, Thorne)
+ DSAI focuses on research activities on algorithms for data mining and machine learning, as well
+ as systems and applications for multidisciplinary data-driven knowledge discovery. The activities
+ are supported by a significant and diverse grant portfolio (primarily from the Australian Research
+ Council, BBSRC, EU, Innovate UK, NERC).
+
+ Strategic areas of interest and achievements include:
+ Data mining and big data analytics:
+     • Application of highly innovative data stream classification (Stahl) for 1) performance
+        bottlenecks and fault detection (EPSRC Fast Generalised Rule Induction, £98k, with
+        partner BT) and 2) real-time smart home intrusion detection (EU CHIST-ERA COCOON,
+        €120k to Reading). A KTP project with Exonar Ltd. (Di Fatta, Stahl) for a document
+        classification platform to help large organisations to identify, monitor and protect from
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+       leakage very large and distributed sets of confidential documents within private networks.
+       A KTP project with Churchill Controls Ltd. (Stahl) on data management and analytics
+       support for the next generation of telemetry equipment for the water industry; a KTP
+       project with One Sight Solutions (Stahl) resulting in development of an innovative
+       dashboard system to support storage and analysis of building lifetime data for the
+       intelligent building control sector. Research collaboration with KNIME (Switzerland) (Di
+       Fatta) on algorithms for advanced and guided data science.
+ Applications for data-driven knowledge discovery:
+    • Significant industrial engagement via KTP (Hong, Ojha) with Optimal Monitoring Ltd. on
+       development of a world-leading automated anomaly detection platform for energy
+       management (EMMA AI) led to the winning of the prestigious 2019 Wright Commission
+       award.
+    • An EPSRC project (Hong) for online monitoring of nuclear power plants based on new
+       approaches to improve the prediction of critical faults in nuclear reactors, in collaboration
+       with the University of Portsmouth.
+ Systems for data-driven social computing:
+    • Project led by Reading, EU SciCafe 2.0 (Badii, €339k to Reading): the creation and
+       curation of the European Observatory for Crowd-Sourcing, a portable virtual platform and
+       observatory for crowd-sourcing and extending wiki-based and other media and
+       knowledge bases with an invitational and customisable interface, to engage both
+       offline/online communities and support them in joint deliberation to resolve real
+       problems/dilemmas faced by society.
+    • Development of next-generation system for 2nd screen services in a social media
+       context, whereby valuable business intelligence is captured, analysed and used to push
+       relevant content directly to consumers (EU SAM, Badii, €343k to Reading).
+    • Development of an innovative digital toolkit (Liang) to enhance communication of
+       scientific health claims (EU EIT FOOD Health Claims Unpacked).
+    • Improvement of workplace-based assessment and feedback through learning analytics
+       and e-portfolio (EU WATCHME, Badii, €428k to Reading).
+    • Novel adaptation of techniques originally applied to genomics to enable privacy-
+       preserving speech processing in the cloud (with Intelligent Voice Ltd., UKRI, Badii,
+       £110k to Reading).
+ Machine learning and optimisation algorithms:
+    • Innovative research work on multi-objective optimisation (Nicosia) showing that (1)
+       different real-world transport networks (airplanes, trains, buses) can all be characterised
+       in terms of Pareto Optimality, (2) worldwide ethanol production could potentially be
+       doubled, and (3) higher efficiency solar cells can be realised.
+    • Novel method for modelling metabolic fluxes (with open source software), and research
+       on gene regulatory network inference, enabling new biological insights (Thorne).
+    • Other research work on nonlinear dimensionality reduction for image analysis with
+       potentially important applications in several domains such as pharmaceutical drug design
+       and border access control (Hong).
+
+ Our five-year goals for DSAI are to: (1) develop a focused area of research in data science
+ and machine learning, specifically in interpretability and explainability of AI and in scalable and
+ efficient machine learning; (2) strengthen interdisciplinary and applied research including, for
+ example, in the joint topic of machine learning and data simulation; (3) apply our expertise in
+ advanced data analytics to new application domains, e.g. coordination of EU-wide IOT
+ blockchain-enabled security framework for next generation critical cyber-physical systems for the
+ finance sector (CRITICAL-CHAINS, Badii, Di Fatta, overall grant value €5m, €696k for
+ Reading); and to consolidate and build up existing activity, e.g. EIT Food work with follow-on
+ funding (Horizon2020) (Liang).
+
+ Research integrity: open and reproducible research
+ Adopting the University’s proactive approach to open research (as the first UK university to
+ adopt an institutional statement on open research, see IES, Section 2), we develop tools and
+
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+ standards to support manipulating, sharing, and archiving data (e.g. CEDA with Meteorology),
+ and to generate open data portals and reproducible numerical simulation (e.g. CMIP6) leading to
+ standards and requirements which have become de-facto (e.g. cfconventions, es-doc). We
+ produce open-source software and platforms (e.g. Generalised Rules Induction, LinkSmart,
+ KNIME certification in Data Science) and benchmarking methodology, software and datasets
+ (e.g. IOR, IO500). Released in 2017, IO500 now follows a regular bi-annual release cycle at two
+ premier HPC conferences with 3000+ and 14,000+ attendees and gained significant attention
+ from the HPC community and vendors in the storage area. We organised four PETS
+ benchmarking workshops between 2014 and 2017, continuing leadership of this world-leading
+ activity since 2000, and we developed the MediaEval benchmark for multimedia evaluation.
+ Open Access APC charges are included as part of other direct eligible costs in grant proposals
+ wherever possible.
+
+ Research integrity: ethical, professional and legal obligations and standards
+ The SMPCS Ethics Committee reviews all relevant research projects, with those requiring
+ further scrutiny reviewed at University level. We lead by example, generating informed consent
+ processes for our EU projects involving (sensitive) personal data which now act as a reference
+ for other (external) EU projects. Our annual Professional Development Review process
+ incorporates a strong professional standards aspect which reinforces issues of research integrity
+ and provides an opportunity for consideration of training needs. Our staff are made aware of the
+ values set out in the University Code of Good Practice in Research and responsibilities under
+ the Concordat to Support Research Integrity through this process.
+
+ Supporting interdisciplinary research
+ As described in the Institutional Environment Statement (IES, Section 1), the University’s
+ research activity is structured around four interdisciplinary research themes. Computer Science
+ is one of nine Research Divisions that make up the Environment Theme, and we have close
+ working links in particular with the three Divisions in Meteorology.
+
+ Interdisciplinarity is core to our research vision and is a central ethos of our research culture. We
+ have strategically focused on developing interdisciplinary work with the wider SMPCS by
+ appointing Lawrence and Maynard, who have world-leading expertise in climate science. This
+ has resulted in new knowledge (including in exploiting AI/ML in both data exploitation and
+ simulation, cloud and exascale computing) and opportunities being brought into the Unit which
+ can also be used to tackle industrial applications.
+
+ A new interdisciplinary area of advanced computer science applied to medicine was realised
+ through establishment in 2017 of a Joint Academic Board between the University and Royal
+ Berkshire NHS Foundation Trust (RBFT), leading to a new strand of research for us and a
+ successful funding bid by Liang (see Section 4). Further, we focused on, and were highly
+ successful in, targeting multi-year EU research funding, which is inherently interdisciplinary (see
+ Sections 3, 4).
+
+ Impact strategy and development
+ During the assessment period we have implemented a range of initiatives to embed engagement
+ and impact at all levels of our research and to maximise impact opportunities. The majority of
+ our research proposals have been co-created with industry and other stakeholders (hard-wiring
+ impact into the research process), and staff and PhD students have been provided with
+ increased resources, tools and training to develop impact opportunities. Impact is incorporated
+ into staff performance targets (e.g. probation, personal development review, work-load models
+ and promotion processes) and is an important consideration in recruitment of new academic
+ staff. Staff are encouraged to submit projects to the University’s annual Research Engagement
+ and Impact Awards, which recognises and celebrates best practice in this area.
+
+ We have strengthened our link to user communities by expanding membership of our Industrial
+ Advisory Board, organising events involving practitioners, and maintaining active links with
+ partners and beneficiaries following project completion (e.g. continued engagement with the
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ Home Office in the wake of EU PROTECT led to EU D4fly and ultimately continued and new
+ impact).
+
+ Impact leadership has been strengthened through the appointment of an academic Impact Lead
+ within the Unit, supported by an Impact Development Manager for the Environment Theme
+ (based in Research and Enterprise Services, RES). The strong institutional support and seed-
+ funding available, from the University’s impact support programme (BOISP, see IES, Section
+ 2.3) brought c.£30k to the Unit and is reflected in our submitted impact case studies, which
+ demonstrate our focus on interdisciplinary research answering to real user needs and are based
+ on strong evidence-based narratives. Beyond our impact case studies, Section 4 highlights
+ examples of our many short-term and ongoing impacts within the REF period.
+
+ Going forwards, a vital goal will be to build on existing strong industrial engagements and to
+ forge new relationships, particularly within the Thames Valley tech sector via the University-led
+ Thames Valley AI Hub (see Section 4). Further, we will benefit with increased working
+ relationships with the Reading-based IEA and ECMWF that provide a meaningful link between
+ science and the translation of environmental data into societal impact.
+
+ 2. People
+
+ Staffing strategy and staff development
+        We strive to create a diverse and inclusive community and environment that attracts,
+        supports, develops and rewards excellent computer science researchers in their careers
+        and in working to our research goals, with equality and diversity at the forefront.
+
+ In this assessment period, we have built up our staff from 6.0 FTE to 10.4 FTE, with a focus on
+ recruiting ECRs, developed existing staff toward senior positions, and increased our research
+ capacity by recruiting dedicated teaching staff (to reduce researchers’ workloads). This has
+ given us a solid foundation for the coming period to tackle our research goals.
+
+ Recruitment and development of staff are crucial aspects of our vision and key to our future
+ success in achieving our research and impact goals. We determine areas for recruitment with
+ reference to research as well as teaching needs. Practices and policies across our UOA adhere
+ to our values and culture of promoting equality, diversity, inclusion and wellbeing for all of our
+ students and staff, mirroring those of the wider University. Selection processes and panels are
+ formed with diverse staff who receive training in D&I, unconscious bias and responsible use of
+ metrics, with all our staff having completed mandatory D&I training within the last three years.
+
+ All Category A eligible staff are being returned to the REF. Among our staff, we have a BAME
+ representation of 25% UK and 50% non-UK nationals. 27% of our staff are female, which is
+ above the sector average of 14 to 21%, according to HESA data. Our grade profile is now 36%
+ Lecturer, 27% Associate Professor and 37% at Professorial level, reflecting a combination of our
+ own as well as University support towards recruitment of ECRs and internal staff promotion.
+
+ Building a critical mass
+ Our recruitment has resulted in eight new academic T&R appointments (five Assistant, two
+ Associate and one full Professor), increasing our FTE count by ~75% (from 6.0 to 10.4 FTE).
+ The strategic dual/joint appointments of Lawrence and Maynard, together with the appointment
+ of Kunkel, led to the setting up of the ACES group to conduct cutting-edge computer science
+ research to accelerate environmental science. The appointment of ECRs Lester, Liang, Ojha,
+ Thorne, in addition to existing staff Badii, Di Fatta, Stahl, has built up the expertise and remit of
+ DSAI. Our third research group (CV) has remained unchanged in staffing and retained its
+ successful focus on computational vision applied to physical security and remote sensing. The
+ strategic appointments of Nicosia and Thorne enhanced our interdisciplinary capacity in AI,
+ applied to synthetic biology, bioengineering and bioinformatics. We additionally recruited two
+ Teaching Fellows, reducing the teaching load for Category A staff to enhance our research
+ capacity.
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+
+
+
+ Career development support
+ We work to sustain and develop an inclusive environment that enables and supports
+ researchers to thrive and prepares them for future careers. All academic staff have an annual
+ Performance and Development Review (PDR) with their line manager, providing an opportunity
+ to discuss and reflect on achievements, career plans and support or training needs. PDRs also
+ enable the Head of Department, RDL and Research Dean to identify common needs or
+ challenges and work towards ways to address them.
+
+ As well as internal funding opportunities, all staff have access to a wide range of training and
+ development opportunities run by People Development, including personal development,
+ communications skills, publishing, open research and grant applications. Research staff receive
+ specialised guidance on developing research independence from RES, including a dedicated
+ Research Development Manager who supports all Computer Science funding applications.
+ Within the UOA, we offer further, tailored support, primarily led by the RDL. Support and training
+ for RDLs is achieved through multiple processes such as regular Community of Practice
+ meetings within the Environment Theme and via the Research Deans’ office.
+
+ Research excellence and engagement has contributed to the promotion of three members of
+ staff: two to Professor (Di Fatta, Ferryman); one to Associate Professor (Stahl). The School
+ holds Personal Titles meetings each year to proactively identify candidates for promotion and to
+ provide mentoring where appropriate to strengthen cases, including for self-nominations.
+
+ We employ relatively small numbers of postdoctoral researchers, mostly on a fixed-term basis
+ linked with funded projects, who therefore have a more fluid career progression. Training for
+ PDRAs, provided by professional services teams, includes sessions on open research and
+ research data management, research communications and University finance processes. We
+ proactively seek ways to provide greater security of employment for PDRAs, including: (i)
+ ensuring fixed-term contracts run for as long as possible, especially on renewal, ideally several
+ years for multi-year grants; (ii) providing bridging facilities, and (iii) maintaining an SMPCS list of
+ research staff who are nearing the end of their contracts so that opportunities for re-employment
+ can be maximised. PDRAs are entitled to the same enhancement opportunities as lecturing staff
+ and are supported to engage in small amounts of teaching to gain experience and enhance
+ employability. Several internal funding schemes are also open to PDRAs (including seed-funding
+ awards, travel and undergraduate research placements). During the assessment period our
+ PDRAs have used such awards to devise and lead on interdisciplinary events (e.g. 2018
+ workshop on Behaviour Analysis of Ageing People at Home, co-organised with researchers in
+ Psychology).
+
+ We follow University policies and procedures to provide support for personal circumstances,
+ including flexible or part-time working, maternity/parental/adoption leave, ill-health or caring
+ responsibilities. A dedicated SMPCS website includes case studies of the benefits this can
+ deliver for individuals and teams, drawn from our community. Circumstances can be raised as
+ part of PDR discussions and are also considered in the promotion process.
+
+ All permanent staff have a Staff Development Account which receives an annual fixed sum from
+ School funds and variable income relating to research grant awards and consultancies. The
+ account can be used for equipment purchases, travel, conference attendance and payments to
+ research staff. In addition, all academic research staff can apply for a sabbatical period (typically
+ 6-12 months), which is considered depending on how the proposed research project fits with our
+ research strategy as well as staff development objectives. Two have been awarded since 2014
+ (Hong for six months for a collaboration with Imperial College London; Badii for 12 months for a
+ collaboration with the University of Notre Dame).
+
+ Enhancing our stability is that fact that all staff in this submission are on permanent contracts.
+ Leadership roles are generally cycled every three to five years, providing career development
+
+                                                                                                 Page 8
+Unit-level environment template (REF5b)
+ opportunities and fresh perspectives. Thus, processes that support succession planning are well
+ embedded within Computer Science driving a strong culture of leadership ambition and
+ achievement.
+
+ Early-career researchers: supporting excellence and ambition
+ Early-career members of academic staff (Kunkel, Lester, Liang, Ojha, Thorne) were each
+ assigned a mentor to provide individual support, independent of their line manager. We have
+ worked to improve mentoring (e.g. on grant applications), adopting the wider SMPCS process.
+ Our ECRs attend training workshops organised by RES, which include opportunities to network
+ with researchers from other Divisions and Themes. University policy provides ECRs with a 3-
+ year probation period, and expectations and specific probation targets are discussed and agreed
+ with the Head of Department to ensure they can establish themselves as independent
+ researchers. ECRs are afforded a reduced teaching/administration load during probation to help
+ build research momentum, as well as start-up funds (~£3k) and/or a fully funded PhD student.
+ The success of these measures is demonstrated by the prominence of contributions by ECRs in
+ winning DTP studentships and KTPs. Ojha won one studentship jointly with Professor Carrassi
+ in Meteorology – a collaboration between machine learning and data assimilation to infer,
+ estimate and characterise model errors. The second is joint with Wei – on smart LED lighting for
+ eco and assisted living (with Kosnic Lighting Ltd.), providing expertise in AI and machine
+ learning and enabling access to electronic and sensor systems expertise. ECRs have also been
+ successful in winning EU funding (Liang: EIT FOOD).
+
+ Supporting and rewarding staff
+ SMPCS runs an annual Rewarding Excellence process for all staff, which enables accelerated
+ progression (via additional spinal point increment(s) or in Grade). In addition, the University has
+ arrangements to reward staff via lump sum awards considered twice-yearly, with decisions made
+ at School level, or Celebrating Success awards, to recognise and reward staff for a job well done
+ or for the demonstration of positive professional behaviours. Over the assessment period, five of
+ our full-time staff (two female and three male) have been awarded contribution points.
+
+ Knowledge exchange with industry, public and third sector bodies
+ We promote and support enterprise activities via (1) the Knowledge Transfer Centre, with a
+ dedicated Business Relationship Manager for the Environment Theme, (2) the Thames Valley AI
+ Hub and (3) user-focused collaborative projects such as PROTECT, see Section 4. Individual
+ academics also engage with industry, e.g. Kunkel has run a series of collaborative workshops
+ covering storage technologies and developed a new collaboration with NVIDIA. Our strategic
+ appointments have facilitated two-way knowledge exchange e.g. Maynard’s dual position with
+ the Met Office has enabled research students and staff to be introduced to new ways of
+ developing applications with domain specific languages, and Lawrence and Maynard have
+ together developed collaborations around next-generation application development. Lawrence’s
+ partnership with STFC has resulted in new ways of using cloud computing in environmental
+ science.
+
+ Promoting diversity and inclusion
+                                      We are committed to Diversity and Inclusion (D&I) and are
+                                      proud of the Athena SWAN Silver Award received by
+                                      SMPCS. An Equality and Diversity committee is led by a
+                                      dedicated Director of Wellbeing, Inclusion, Diversity &
+                                      Equality (WIDE) and is embedded into the School’s
+                                      management structure. Staff at all research levels
+                                      (including PDRA) are represented on the committee. All
+                                      staff receive D&I training and our key staff have received
+                                      unconscious and implicit bias training. During the
+                                      assessment period we have improved professional skills
+ development by incorporating D&I training into PGR skills modules.
+
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+ A strong culture of flexible working has developed, particularly following constraints imposed by
+ COVID-19, as well as for students with disabilities, including tailored provision of computing
+ equipment for remote use. We proactively support wellbeing through Stress Management
+ Workshops, a regular WIDE newsletter, trained Wellbeing Peer Support staff volunteers, and
+ SMPCS Wellbeing webpage. All PGR supervisors have access to a Graduate Briefing guide on
+ how to support student wellbeing. There is also a blog for students led by an external wellbeing
+ consultant, as well as Graduate School drop-in sessions. We actively promote accessibility and
+ inclusivity of research degrees, and we ensure female staff representation at Open Days to
+ provide role models for all prospective students. Overall, we strive to cultivate an open,
+ interactive and friendly working environment.
+
+ E&D with respect to REF submission
+ In line with the University’s Code of Practice, while output quality is the main selection criterion,
+ diversity across a range of characteristics (gender, ethnicity, career stage) was taken into
+ account in the selection of outputs. Notably, 37.5% of submitted outputs are from women (1.5
+ times the 25% proportion of women in the return), 29% are authored by Assistant Professors,
+ 17% from Associate Professors, and 54% from Professors. Furthermore, almost one third are
+ from ECRs. The University’s interim Equality Impact Assessment carried out a main panel level
+ (2020) and bias analysis of the final pool (2021) identified no statistically significant differences
+ for protected characteristics in our selection.
+
+ Support for research students
+ Our vibrant and growing community of PhD students is well integrated in our research groups
+ and activities, supported by our PGR Programme Director and the Graduate School. We offer
+ flexible modes of study (including PhD by distance), and all research-active staff supervise
+ postgraduate researchers and act as assessors for PGR monitoring. 27% of our current PhD
+ cohort are female, 63% are non-UK nationals and 7% have a disability. We have significantly
+ increased the proportion of BAME students from the UK, from 6% in 2013/14 to 64% in 2019/20.
+
+ PGR recruitment: With 63% international students in 2019/20, we attract a large number of
+ international students funded by national governments. Furthermore, 37% of the 2019/20 cohort
+ are part-time, demonstrating our commitment to supporting flexible study. There are ~25 funded
+ or self-funded PhD projects proposed each year by our staff and widely advertised.
+ All applications are facilitated by the Unit’s PGR Programme Director and overseen by the
+ Graduate School. For admission it is required that interviews are held with two staff either in
+ person or by video/phone for international students, with further review by the PGR Coordinator.
+ In line with SMPCS policy, we adopt a proactive and inclusive approach to recruitment of
+ students with protected characteristics.
+
+                                                              We have been successful in winning
+                                                              studentships including from EPSRC
+                                                              DTP, NERC DTP and Wilkie Calvert
+                                                              (with TUI, UK). Some of these are
+                                                              jointly supported by industry partners,
+                                                              with contributions in partial fees or
+                                                              staff time, e.g. BT and Kosnic Ltd.
+                                                              International government sponsors
+                                                              include Brazil, Iraq, Libya, Nigeria,
+                                                              Saudi Arabia and Thailand.
+
+                                                              PGR monitoring, support mechanisms
+                                                              and skills development: The School
+                                                              PhD handbook provides essential
+                                                              information to new students on
+                                                              general orientation, training, and
+                                                              monitoring and progression. The
+                                                              Graduate School coordinates
+
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+ postgraduate researcher training with a threshold of achievement required by all PhD students to
+ progress beyond their first year. Bi-annual monitoring of each student is carried out by a
+ Committee of two assessors based on submitted reports to ensure that students are making
+ satisfactory progress and are receiving appropriate levels of supervision and support.
+ Confirmation of PhD registration after a year (or part-time equivalent) is granted only after
+ assessment of a comprehensive transfer report.
+
+ There is an annual welcome event for new PhD students and a PhD workshop. PGRs are
+ strongly encouraged to attend departmental seminars (mainly given by external speakers), as
+ well as to attend at least one international conference during their studies with each student
+ allocated £1000 for travel. Other activities include organised trips (e.g. annual Computer Science
+ visits to Bletchley Park and JASMIN Data Centre at Rutherford Appleton Laboratory), reading
+ groups organised by PhD students, and active participation of PGRs in the Unit’s Data Science
+ Club and hackathons. Welfare support is available through Student Services and the student
+ Counselling and Wellbeing Service.
+
+ The success of our PGRs is evidenced by the high number of doctoral degrees awarded in the
+ assessment period (45, or the equivalent of 4.36 per FTE, 90% with minor amendments).
+ Between 2014/15 to 2019/20, over a third of our PGRs were self-funded. Following completion,
+ a number have returned to permanent academic positions in their home countries or hold R&D
+ positions.
+
+ 3. Income, infrastructure and facilities
+
+ Research funding portfolio, impact and strategies for income generation
+
+ We have achieved research income
+ totaling £6.93m in the assessment
+ period (£95k/FTE per annum). The
+ strategy to pursue larger collaborative
+ grants led to a substantial £5.6m total of
+ awards from the EU. Our engagement
+ with UK industry yielded awards totalling
+ over £1m from KTPs over the same
+ timeframe. We achieved this through
+ new support staff, structures and
+ resources to PIs (time, travel funding,
+ including travel for EU grant applications,
+ reduced workload and internal peer
+ review offered for all grant applications).
+ RES provides support in all aspects of
+ preparing and managing research
+ grants, in particular fellowships and large
+ collaborative grants. For the latter, an EU-team with a dedicated funding manager for the
+ Environment Theme organises sessions and information days on specific funding instruments,
+ an annual EU research opportunities event, and has developed a repository of successful grant
+ applications representing good practice (including some provided by our Unit), all of which have
+ contributed to a high success rate: 25 EU proposals resulted in ten awards (40% funded),
+ including three where the Unit is project coordinator.
+
+ Provision and operation of specialist infrastructure and facilities
+ The Unit retains a dedicated infrastructure coordinator (an academic) who liaises with and
+ interacts closely with the University’s Academic Computing Team (ACT) which supports and
+ advises staff and PGRs on IT infrastructure. Additionally, ACES advises the Department and the
+ University with respect to internal HPC resources such as the Reading Academic Computing
+ Cluster Service (RACC), which supports both departmental and wider University research
+ activities. ACES group members also have leading responsibilities in the design, procurement
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+ and deployment of national supercomputers. Lawrence was a core member of the procurement
+ team for both ARCHER and ARCHER2 and is the Director and Principal Investigator for the
+ JASMIN supercomputer. Kunkel led the I/O benchmarking for Archer2. Maynard has a key role
+ in setting requirements for Met Office supercomputing. The ACES engagement with JASMIN
+ provides not only access to one of the world's largest data analysis facilities, CEDA, but also to a
+ cloud environment that the ACES group use as a research testbed.
+
+ The Unit provides a small cluster equipped with 15 nodes and various types of hardware (e.g.
+ GPUs, ARM64 processors) and software stacks which facilitate a range of services, for instance,
+ the hosting of virtual machines for research projects, or the evaluation of distributed and parallel
+ algorithms before they are scaled on to national supercomputers. The infrastructure is
+ accessible for research partners worldwide. We host regression test suites for popular software
+ such as IOR (https://github.com/hpc/ior) and the IO-500 benchmark which is used by HPC
+ experts worldwide to evaluate storage solutions and in procurements of supercomputers.
+ Moreover, it enables us to integrate and evaluate bleeding-edge hardware and software
+ solutions as part of research projects. A dedicated VR-laboratory provides various types of
+ equipment such as Oculus Rifts and an immersive Cave Automatic Virtual Environment (CAVE).
+ Finally, supported by ACT, we provide a dedicated Wi-Fi network that supports the secure
+ evaluation of IoT devices and research network services.
+
+ All services and equipment are available to all research students and staff providing an equal
+ and fair environment to share IT resources. Diversity in the ability and personality of students is
+ accommodated by allowing students to make progress at an individual schedule and
+ by providing various means of accessing the different types of equipment. We acknowledge, in
+ particular, that some students make best progress when working in their own environment which
+ they consider safe and less stressful. Both goals are achieved by allowing students to borrow
+ equipment for research projects and by providing 24/7 access to facilities and the various remote
+ resources (hardware and software), regardless of the local operating system, enabled by central
+ Digital Technologies Services (DTS).
+
+ Investments in infrastructure and facilities
+ With part-funding from research grants, we added a research cluster (£40k) in 2019 for research
+ and teaching to staff and students in Computer Science. We also invested £103k to upgrade
+ equipment across four PC laboratories (including a lab dedicated for MSc students) and created
+ a new AI laboratory. At the start of their studies, each PhD candidate receives a laptop (giving
+ them mobility) and is allocated a desk with a PC in a dedicated lab. All staff receive specialised
+ DSE equipment where needed to enhance wellbeing.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Collaborations, networks and partnerships
+ The Unit is involved in significant interdisciplinary collaboration, both within the University (e.g.
+ with Meteorology and the Institute for Food Nutrition and Health) and with external partners
+ worldwide (collaboration with >100 companies, e.g. BAE Systems, IDEMIA, Veridos). In many
+ cases staff are directly involved in the coordination of large integrated European projects won
+ through our strong leadership and responsiveness to EU priorities (e.g., PROTECT and
+ CRITICAL-CHAINS). Such opportunities are the result of focused networking actions and
+ partnership-building, e.g. Security Mission Information and Innovation Group (SMI2G) and
+ SEREN network.
+
+ The extent of collaboration is evidenced in our outputs. In the REF period we have produced 385
+ international peer-reviewed research publications (with 43% journal articles), including almost
+ one third (31.6%) of our REF2 Computer Science outputs in the top 10% most cited Computer
+ Science publications worldwide, and almost two-thirds (63.2%) in the top 10% Computer
+ Science journals indexed by CiteScore. Our interdisciplinary focus is reflected in the number of
+ submitted outputs (~17% of total). Thirteen international patents have been granted which cite
+ our outputs published in the REF period. The interdisciplinary focus extends to PGR training,
+
+                                                                                                 Page 12
+Unit-level environment template (REF5b)
+ with consistently high numbers of students co-supervised with other disciplines (12.5% of the
+ current cohort). Equally, we have extensive international collaborations with 61% of publications
+ in the assessment period having international co-authors, increasing to 70% for REF2 outputs
+ and corresponding field-weighted citation impact score of 2.19. Our strong industrial
+ partnerships drive us to translate research to software solutions and win awards, e.g. Hong’s
+ KTP with Optimal Monitoring on use of energy monitoring using machine learning earned the
+ 2019 Wright Commission Award voted by the Retail Energy Forum.
+
+ Working with end users: developing impact from our research
+ We establish industry needs through industry approaches via the KTP (with six KTPs awarded
+ during the assessment period and an Innovate UK KTN prize for innovation excellence) and
+ through our Industrial Advisory Board (members include Eli Lilly, IBM, Microsoft, Nationwide,
+ NVIDIA, Oracle, Sony). As well as building on existing partnerships, a key aim has been to forge
+ new relationships, particularly in the Thames Valley. Achievements include:
+     1) A new data science certification programme developed in partnership with KNIME which
+         directly benefitted us through sponsorship of €25k software licenses for researchers
+         including Master’s and PhD students.
+     2) Launch by NVIDIA of a new technology centre to advance AI across the UK (in
+         partnership with the Unit, EPCC and Hartree Centre). Our contribution is on deep
+         learning methods to enhance simulation workflows in weather and climate.
+     3) In 2019, we set up the Thames Valley AI Hub in conjunction with the University’s Henley
+         Business School, to connect our large and thriving local AI community and accelerate
+         research take-up. Business support services and funders have signed up and a varied
+         programme of events has brought the community together to facilitate new connections
+         and build collaboration. These events showcase state-of-the-art research developments
+         and create valuable ‘collision space’. The Hub, overseen by a steering committee with
+         senior membership from the Local Enterprise Partnership, Microsoft, Oracle and Reading
+         Borough Council, has over 400 Linked-In followers (70% manager or more senior role)
+         and over 100 regularly sign up for events. A direct outcome of the community
+         engagement through the Hub was the award of a Royal Society Industrial Fellowship to
+         Stahl.
+     4) The success of the partnership between the Royal Berkshire Hospital and the University
+         is evidenced by an approach by a Hospital partner seeking expertise in AI which led to a
+         collaborative proposal, to develop an AI decision-support system for thyroid nodules
+         diagnosis, being submitted to the EPSRC (Liang).
+     5) We have engaged with >30 end users/practitioners in our EU-funded projects (including
+         the UK Home Office, Public Health England, Ministry of the Interior (Finland), Fraport,
+         Milan metro, Foinikas shipping company). This has led to consortia and interdisciplinary
+         funding bids and ongoing engagement with users during project execution.
+
+ Wider societal contributions: creating impact locally, nationally and internationally
+ Our wider research activity has attained significant societal impact beyond the examples detailed
+ in our impact case studies. Short-term impact is exemplified by:
+     • Badii’s Innovate UK work on Privacy-Preserving Speech Processing (PPSP)-in-Cloud
+         (with industry partner Intelligent Voice), which has enabled the company to enhance their
+         speech transcription product, create multiple revenue streams and have patents granted
+         within the REF period.
+     • Ojha’s KTP with Optimal Monitoring Ltd. on EMMA AI led to development of the world’s
+         most advanced energy monitoring system, a 6-month pilot at 48 locations in the BetFred
+         estate, which in turn identified energy savings of £140k p.a., with subsequent full rollout.
+
+ The Unit has further achieved continuing impacts, for example Badii’s research on development
+ of security and context management in middleware for networked embedded systems in HYDRA
+ led to the LinkSmart® open source IoT platform and resulting improved energy management
+ and control in existing (even historical) buildings, and creation of interactive energy awareness
+ apps for the general public. The digital toolkit developed by Liang to enhance communication of
+ scientific health claims (EIT FOOD) has ~900 international public users.
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+
+
+
+ Outreach and public engagement
+ We are committed to communicating and engaging with public audiences, including media work,
+ supported by the University’s Press Office (e.g. Ferryman: BBC News,~500,000 views, Sky
+ News), and other engagement opportunities (e.g. the European Commission’s Science is
+ Wonderful 2019; multiple public talks, e.g. to IET-EC3 and Thames Valley AI meet-ups (Ojha, Di
+ Fatta) and a BCS Women public lecture on An Introduction to Data Mining and Predictive
+ Analytics (Stahl). Ferryman has taken part in two Civil Service World briefings on biometrics in
+ practice and borders of the future. We have produced videos for a range of our projects
+ (including EFFISEC, FASTPASS, PROTECT, ARENA and IPATCH) to enhance public
+ understanding of our work. Di Fatta led a discussion on Artificial Intelligence, Machine Learning
+ and Data Science at the Henley Business School’s World of Work Conference for business
+ leaders.
+
+ Leadership and contribution to the research base
+ Our contributions to the discipline and research base are evidenced by a range of high-profile
+ activities, including:
+     • Invited talks: ~20 keynote and plenary presentations (e.g. IDCS2014, ESA BiDS2014,
+          IJCB2017, IEEE Cluster 2018, CAIP2019) and >80 further invited talks in international
+          meetings, conferences, seminar series and with industry.
+     • Conferences, workshops and other events: Staff have had leading roles in >70
+          international events including ~10 Conference Chairs/Co-Chairs, e.g. IEEE ICDM, IDCS.
+          Panels: e.g. CPDP2015, SRE2018, CSW18, Festival of Identity 2020, AVSS2019
+          (Ferryman); MultiCore 9 (Maynard).
+     • Awards and prizes: e.g. Leptoukh Lecture for significant contributions to informatics,
+          computational, or data sciences (Leptoukh, 2014); Best paper 9th IDCS2016 (Di Fatta);
+          Best papers at AI2016 and ICONIP2019 (Hong).
+
+ Advisory and steering boards: ~5 of our academics, including:
+    • Lawrence: Chair CEDA/JASMIN governance board; Scientific Advisory Board for
+        Barcelona Supercomputer Centre since 2017; Chair of Advisory Panel for Computational
+        and Information Systems Laboratory (CISL) at US National Centre for Atmospheric
+        Research from 2019.
+    • Kunkel: Founder of HPC-Certification Forum and Virtual Institute of IO (vi4io.org),
+        Founder and steering board of IO500 benchmark (io500.org).
+
+ Editorial boards/roles
+     • Board members for e.g. Neurocomputing, Scientific Data
+     • Editor of IEEE Trans. Syst. Man & Cyb (Nicosia); Guest editors of: Sensors J.; Expert
+         Systems J.; Expert Update J. (BCS SGAI); J. of Network and Computer Applications; J.
+         Systems Science; European Network for Earth System Modelling (ENES).
+
+ Membership of research council or other national/international committees, including:
+   • Badii, Di Fatta: EPSRC College Members
+   • Ferryman: EC ERNCIP committee, NPCC CCTV committee
+   • Lawrence: EPSRC infrastructure SAT; Chair NERC HPC Strategy Committee; Deputy
+      Chair NERC Information Strategy Group (2008-2017); Member WMO's WGCM
+      Information Panel (2014-2019); Member of the NetCDF/Climate-Forecast Conventions
+      Governance committee (2015-present)
+   • Kunkel: committee member BCS Open Source Specialist Group
+   • Stahl, Di Fatta: BCS Specialist Group for Artificial Intelligence (SGAI) committee.
+
+ Refereeing of external academic publications/research proposals/institutions:
+
+
+
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+    •   For ~40 journals (e.g. IEEE TPDS, Future Generation Computer Systems, IEEE Big
+        Data, Sensors) and ~20 conferences (e.g. ICCV, ECCV, CVPR, ACCV, BMVC, IJCB,
+        AVSS) by twelve staff
+    •   For proposals: e.g. EPSRC, BBSRC, MRC, Norwegian Research Council, European
+        Commission, Natural Sciences and Engineering Research Council of Canada,
+        Department of Energy (US)
+    •   For institutions: e.g. Karlsruhe Institute of Technology (KIT, Germany), Totalforsvarets
+        Forskningsinstitut (FOI, Sweden), German Climate Computing Centre.
+
+ Contribution to standardisation / benchmarking activities (e.g. ISO/IEC JTC 1/SC 37 (see
+ REF3b), cfconventions, IO500, CADDementia Grand Challenge).
+
+
+
+
+                                                                                            Page 15
+

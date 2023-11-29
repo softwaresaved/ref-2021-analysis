@@ -1,0 +1,927 @@
+Unit-level environment template (REF5b)
+ Institution: Keele University
+
+ Unit of Assessment: UoA11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Computer science at Keele is a small UoA, largely within the School of Computing and
+ Mathematics. The School’s historical focus is AI (especially neural networks) applications and
+ evidence-based software engineering. The 2021 UoA11 return is characterised by significant
+ growth, broadening of research themes and rapidly growing involvement in smart energy and
+ transport sectors.
+
+ The unit has made huge strides since REF2014 and is returning outputs from 15 staff with
+ significant responsibility for research (15 FTE) plus two retired professors. This compares to 5
+ category A staff in REF 2014. Average annual research income has grown by 116% (to £233k
+ from £108k) since REF 2014.
+
+ Structure and its evolution
+
+ All staff and postgraduate students (PGRs) are part of one or more thematic groups:
+
+ ●   Artificial Intelligence (AI: nature-inspired computation, machine learning, data analytics)
+ ●   Evolutionary Systems (ES: open-ended evolution, theoretical constraints on evolution,
+     neuroevolution and behavioural evolution)
+ ●   Software & Systems Engineering (SSE: wearables, simulation, synthetic biology).
+
+ Our structure is flexible, supporting widespread cross-theme and interdisciplinary collaborations.
+ We have many cross-theme PhDs: for example, Brereton and Andras supervised pioneering
+ work applying AI text mining in systematic reviews (https://doi.org/gf6h5m); de Quincey and
+ Andras supervised highly-cited research using ML in detection of malicious content in social
+ media (https://doi.org/ff2j).
+
+ Our research on smart energy (Fan, Cao), which includes cross-discipline doctoral fellowships
+ with industrial partners (Section 2) is aligned to both AI and SSE themes.
+
+ Themes align with developing University and national priorities, and the staffing strategy reflects
+ these priorities. For example, during 2020, wo new cross-cutting AI/SSE themes emerged:
+ Computational Health & Biological Systems (Woolley, Day, Misirli: see Section 4 for
+ collaborations), and explainable AI (Ortolani, Woolley, Polack).
+
+ Collaboration and collaborative initiatives
+
+ All returned staff have collaborations with other disciplines, SMEs, large companies, or health
+ organisations (Section 4). All staff are supervising PGR students.
+
+ UoA11 staff are Investigators on three major industry collaborations:
+ 1. The Keele Smart Energy Network Demonstrator (SEND), the largest cross-vector smart-
+    energy network in the UK, underpins the University’s objective to become carbon neutral by
+    2030. Funded (2017-21) by ERDF (£9.1m), Keele University (£1.5m) and BEIS (£4.7m), the
+    project supports an interdisciplinary PhD programme. Academic Director, Fan, previously
+    Chief Research Fellow with Toshiba Research Europe in Bristol, leads research on Internet of
+    Things (IoT), smart grid, data analytics, and 5G communications. The programme supports
+    Tenure Track research fellows: Cao (dynamic control / optimisation of multi-energy systems)
+    and Matthews (UoA12: sustainable photovoltaics).
+            ○ In 2020, engineering partner Siemens plc announced a “global case study” based
+               on SEND, whilst Fan leads the first UK-based MSc in Smart Energy Management.
+ 2. Zero Carbon Rugeley, a sustainable smart local energy system design project for Rugeley,
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+    Staffordshire (2019-22, Innovate UK PFER: £1.4m + £1.5m from consortium partners), led by
+    Engie plc., with Keele PIs from Institute for Sustainable Futures (Fogwill/Robinson): Polack
+    and Cao are Co-investigators, communicating learning from SEND to support energy
+    modelling.
+ 3. Building on Keele’s global leadership in sustainability, Polack is academic lead for Simulate
+    Live Lab (DfT/Adept, £1.9m), led by Staffordshire County Council (SCC) with Amey plc and
+    Connected Places Catapult. Simulate manages 9 mobility and air quality trials with partner
+    companies,      and    evaluation     by     Keele    academics      from   many      schools
+    (https://www.keele.ac.uk/business/businesssupport/simulate/).
+
+ Further projects in smart energy and transport include: UrbanX (Innovate UK £316k partner: Qbots
+ Energy, PI Fan); EPSRC PFER EnergyREV consortium (£9m; Keele Co-I Fan is cybersecurity
+ lead; postdoc to be recruited 2021). The above initiatives support collaborations across Keele and
+ beyond, representing a major UK and EU investment in the technology to underpin sustainability.
+
+ Building from 2014
+ In 2014, UoA11 returned 5 staff. The 2014 strategy was to build on the strong reputation of existing
+ research in software engineering and computational intelligence/cognitive science. This has been
+ achieved, and our new vision is to continue to grow impact and visibility, aligned to national
+ priorities (Section 2 outlines staff recruitment strategy).
+
+ The success of UoA11 since 2014 is underpinned by significant collaborative and interdisciplinary
+ research, illustrated by the wide range of computer science and interdisciplinary topics covered in
+ our selected outputs: theory and practical applications of large-scale data analytics/machine
+ learning (supervised and unsupervised); theories of evolution and evolutionary computing;
+ engineering design contributions as diverse as synthetic biology and smart energy management;
+ evidence-based software engineering; use and analysis of systematic reviews; engineering of
+ demonstrably fit-for-purpose simulations; pedagogic technologies; social media analysis;
+ reconstruction from 3D models, design and analysis of health wearables.
+
+ Since 2014 in Software engineering, Kitchenham and Brereton (retired 2019) consolidated their
+ international leadership of evidence-based software engineering, EBSE (Google Scholar “since
+ 2015”: Kitchenham over 20,000 citations, Brereton over 7,500); the EASE international conference
+ they founded is now in its 25th year (https://ease2019.org/previous-conferences/). Their latest
+ book (Kitchenham, Brereton, Budgen (2015) CRC Press ISBN: 9781482228656) underpins the
+ tool suite which is the subject of our systematic review impact case study.
+
+ Over the REF period, through targeted recruitment, our software and systems engineering has
+ developed new strands:
+ ● Polack and Misirli: research building on different areas of model driven engineering (e.g.
+    https://doi.org/f6qh8d, https://doi.org/f52k22; https://doi.org/f9tdq3). Polack is a founder
+    member of the internationally important York-based model driven engineering group (D.
+    Kolovos, R. Paige). She leads pioneering work on software engineering of fit-for-purpose
+    simulation (e.g. Stepney, Polack (2018) Springer ISBN 978-3-030-01938-9). Misirli’s
+    research in computational synthetic biology is within an international collaboration that defined
+    and manages the SBOL language (https://sbolstandard.org/; highly-cited 2014 Nature
+    Biotechnology paper: https://doi.org/f56pqg; current version 3.0.0: https://doi.org/ff5n). Misirli
+    contributed significantly to the language and tool interchange standards, repositories
+    (https://doi.org/gcwg8v) and visualisation (https://doi.org/ff5s); personally contributing
+    underlying mechanisms (https://doi.org/ff5v) and practical application of model-driven
+    workflows in synthetic design (https://doi.org/fdxf). The research has spawned public
+    repositories (e.g. synbiohub.org, SEVA plasmid standardisation: https://doi.org/ff5w), and is
+    used by open-source tools (e.g.                Myers Research Group's SBOLDesigner
+    (https://sboldesigner.github.io/).
+ ● Woolley and De Quincey have a wide range of research skills, loosely characterised as
+    gadgets and usability: design and analysis of health/medical monitors, guidelines, wearables
+    analysis and reliability of wearables (e.g., Woolley et al. https://doi.org/fdz3; De Quincey et
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+     al. https://doi.org/fdw8). De Quincey also leads pedagogic data analytics and usability
+     research (HEFCE Catalyst fund, 2016, £99,790, and JISC Learning Analytics Research
+     Group, 2019, £19,880; e.g. https://doi.org/fd2n). His expertise in social media analysis (e.g.
+     https://doi.org/ff2j) underpins collaborative research into the treatment of Muslims (e.g., AHRC
+     AH/T004460/1/ £337,482, https://doi.org/gg24nc).
+ ●   Woolley leads a multidisciplinary collaboration on virtual 3D modelling and reconstruction,
+     showcased in our virtual cuneiform impact case study. The teams’s technologies support 3D
+     model acquisition, visualisation, interaction and reconstruction, and augmented reality, used
+     in archaeological artifact reconstruction, interactive virtual museum displays and public
+     outreach activities (https://virtualcuneiform.org/ARMuseum.html).
+
+ Since 2014, the computational intelligence/cognitive science (CICS) theme has split into two
+ distinct research themes.
+ ● Evolutionary Systems research (2014: Channon): Channon now leads a team that has
+     established an international reputation in ALife and evolutionary computation. Channon’s
+     research includes: (1) his ongoing interdisciplinary collaboration (Section 4) developing new
+     theory (e.g., extinction and evolution, in evolutionary computing and biology: BBSRC £465,242
+     and £268,176; https://doi.org/bd7r; https://doi.org/cf8w). (2) international leadership in open-
+     ended evolution (OEE), co-founding the OEE workshop series (Section 4). The first OEE
+     workshop report (https://doi.org/bpqb) reviewed OEE, revealing broad consensus on
+     behavioural hallmarks of OEE plus broad hypothesized mechanisms, and led to a resurgence
+     in        OEE            research          internationally       (https://workshops.alife.org/oee2/,
+     https://workshops.alife.org/oee3/). The 2016 report was the most-downloaded ALife Journal
+     paper in 2019 and is the most highly-cited paper ever in the ALife Journal. In 2019, Channon
+     guest-edited the OEE special issue of the ALife Journal, which is the only double-issue of the
+     Journal (Artificial Life 25(1) and 25(2), 2019).
+ ● The wider Evolutionary Systems research includes Stanton’s neuroevolution of robotic
+     behaviour (e.g. https://doi.org/59x, https://doi.org/ffm3), leading to wider research in theory
+     and practice of neuroevolution (e.g., https://doi.org/ctfq, https://doi.org/ffzz); and Borg’s
+     influential work on social behaviour evolution (e.g. https://doi.org/b88c).
+ ● Neural networks and computational intelligence research (2014: Day, Lam): building on
+     previous data analytics research, Day and Mandal research echo state networks and deep
+     convolutional neural network approaches, with applications to time series, structural data,
+     ultrasound, images and video. Examples of collaborative research (Day, Kyriacou, Lam, or
+     Mandal) includes analysis of skeletal imaging (e.g. https://doi.org/ggsh2x), prosthetic control
+     (e.g. https://doi.org/ffz5, https://doi.org/fdn3), hidden and visible defects in concrete structures
+     (e.g. https://doi.org/fdn4, https://doi.org/ffm9; https://doi.org/ffz6), and a wide range
+     classification problems using image or video data (Mandal et al, https://doi.org/fd2h,
+     https://doi.org/fd2j ). Andras contributes novel theory and algorithms derived from
+     neuroscience (e.g. https://doi.org/fd2k).
+
+ Research and impact strategy
+ Our current research strategy, aligned to University Strategy, supports our rapidly growing
+ research engagement and income. It is closely coupled to our impact strategy, and sees all staff
+ engaged in research collaborations across disciplines, universities, industry and health
+ organisations.
+
+ A key objective is to develop a sustained portfolio of funded research, which in turn will establish
+ a community of postdocs to enhance the sustainability and resilience of research. There is already
+ evidence of success, with 3 new postdocs recruited during 2020 (Fan, UrbanX; de Quincey,
+ AHRC; de Quincey, data science research associated with OfS-funded MSc), and another
+ starting in 2021 (Fan, EnergyREV).
+
+ In Artificial Intelligence (including nature-inspired computation, computational neuroscience,
+ machine learning, data analytics, explainable AI), our strategic aims are:
+ ● Strengthen and expand theoretical and applied AI in data-rich areas, specifically smart energy
+    and transport
+
+                                                                                                  Page 3
+Unit-level environment template (REF5b)
+ ●   Expand data analytics and statistical applications underpinning data science for biological and
+     medical domains
+ ●   Maintain and expand structural and biological applications of our machine learning research
+
+ In Evolutionary Systems (open-ended evolution, incremental evolution, neuroevolution,
+ behavioural evolution), our strategic aims are:
+ ● Maintain and enhance our reputation in evolutionary systems research, in both the theory of
+    incremental and open-ended evolution and applications to biological and engineered systems;
+ ● Strengthen our robotics research, focusing on incremental neuroevolutionary strategies as
+    drivers of evolutionary robotics and behavioural evolution;
+ ● Expand our developing expertise in modelling social and cultural evolution.
+
+ In Software & Systems Engineering (wearables, simulation, synthetic biology, digital heritage), our
+ strategic aims are:
+ ● Evolve EBSE research in new directions, developing our expertise in engineering complex
+     system simulation and user-centred design;
+ ● Extend, through collaboration with other themes and disciplines, system and software
+     engineering principles and practices to data analytics, medical systems engineering, and
+     digital heritage, smart energy and transport;
+ ● Grow the impact of our work on digital heritage, 3D visualisation, learning analytics, usability
+     and health monitoring.
+
+ In addition, we are actively developing research that supports our growing data science teaching
+ and the University’s digital strategy. We aim to consolidate emerging research on ethical and
+ explainable AI (above) aligning with professional policy work undertaken independently by our
+ data science lead, Dr Allison Gardner, (with IEEE; BSI; charitable organisations -- Leverhulme,
+ Chatham House, G20 women's forum; UN Rapporteur on impact of AI on vulnerable groups; with
+ policy makers -- UK Select Committee on Artificial Intelligence, All Party Parliamentary Group
+ STEM, Centre for Data Ethics). We anticipate future impact and international recognition in this
+ area.
+
+ In relation to our large industrial projects in Smart Energy and Transport, our strategy aligns with
+ National and University sustainability agendas. Our strategic aims are to:
+ ● Build strong interdisciplinary research within the University’s Institute for Sustainable Futures,
+     showcasing Keele’s demonstrator and live lab capabilities, consolidating the relevance and
+     usability of the demonstrator/live labs to guide future (inter)national initiatives;
+ ● Expand further our industrial partnerships and funding through active participation in energy,
+     transport and sustainability initiatives from UKRI and others, and build on our participation in
+     DERLAB, Energy Research Accelerator (ERA) and EnergyREV;
+ ● Increase, and build research from, our “industry assist” roles in smart energy and transport.
+
+
+ Research integrity
+
+ UoA11 is committed to open science. Gold or green open access is a requirement, supported both
+ via the University Open Access Fund and school resources; staff include open access costs in all
+ submitted research proposals. All outputs are available via the University’s Symplectic repository
+ and associated data management systems. Understanding of open science is now the focus of
+ staff development across the School via workshops at Research Awaydays, with associated
+ scholarship on data management and research ethics in data science. To further strengthen the
+ rigour and integrity of our research, we are working with the University and Faculty research
+ integrity champions on the development of robust data curation, and replicability of research
+ (Misirli). Colleagues are actively involved in the School and Keele initiatives to ensure that
+ research is conducted according to appropriate ethical and legal frameworks, obligations and
+ standards. Woolley, the Faculty Ethics Director, and Polack, the School Research Director,
+ provide guidance and oversight for staff and PGRs in relation to research ethics (e.g., use of the
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ University Ethical Oversight Committee’s innovative risk-based ethical assessment process) and
+ GDPR (e.g., Oct 2019: invited seminar by GDPR expert, Charlie Houston-Brown, RushKeep
+ Solutions / BCS North Staffordshire Chair). Aligned to our developing research in bias and
+ explainability in AI (Ortolani, Gardner), and our growing reputation in data science teaching,
+ frameworks for data science ethics and integrity are becoming an important part of our research
+ portfolio.
+
+ Future strategic aims and impact
+
+ Our overall research impact stems from extensive collaboration, within academia, with companies
+ and with health organisations. We are establishing ongoing processes, working with University
+ and Faculty impact leads, to support early identification and enhancement of research impact,
+ including developing the impact of our industrially important smart energy and data science
+ research -- which align to University, regional, national and international priorities in sustainability
+ and inclusivity. Our strategies encourage cultivation of partners for research in AI, smart energy
+ and transport, health wearables and other medical computation, and user centred design. For
+ example, AI researchers collaborate with civil engineering firms MWT Engineering Ltd and Arcadis
+ Ltd. Machine learning applications on medical data has partnered University Hospitals of North
+ Midlands (Stoke-on-Trent) and The Robert Jones and Agnes Hunt (RJAH) Orthopaedic Hospital
+ (Oswestry). A major KTP (£250k: PI Kyriacou) applies business-critical data analysis with Bentley
+ Motors. Our collaborations are elaborated in Section 4.
+
+ Looking to the future, we anticipate strategic growth in computational support for sustainability,
+ notably in relation to smart energy and transport; continued development and growth in data
+ science research including applied data analysis, explainable AI, bias in AI and other data
+ analytics, and research integrity in data sciences. We expect broad collaborations across data-
+ related research areas within Keele and the development of further academic and industrial
+ collaborations in these strategically important areas.
+
+ 2. People
+
+ Staffing and staff strategy
+ Staffing strategy is embedded within, and complemented by, Keele’s People Strategy (see
+ REF5a). We are returning 15 category A staff and two retired professors (cf: REF2014: 5 staff).
+ Eleven of these 15 staff joined since 2014, leading to significant evolution in strategy and research.
+ Our strategy allows us to maintain balance in seniority, bring in strong early-career and
+ experienced staff.
+
+ Since 2014, we have externally-recruited three professors: Andras (Newcastle), Polack (York) --
+ replacing Brereton, Kitchenham -- and Fan (Toshiba). Channon was promoted to Reader. Our 3
+ senior lecturers (SLs) are Woolley (appointed 2016, Birmingham); de Quincey (appointed 2015,
+ Greenwich; promoted 2016) and Kyriacou (promoted 2019).
+
+ Four Computer Science staff were Early Career Researchers (ECR) on appointment (Stanton
+ 2017, Misirli 2017, Mandal 2018, Borg 2018). Stanton and Borg were Keele postgraduates;
+ Misirli was a postdoc at Newcastle; Mandal was a postdoc at A*, Singapore. Ortolani (appointed
+ 2018, from Palermo, Italy) is in his first permanent post; in 2017 he was awarded a Fulbright
+ Scholarship (Missouri University of Science and Technology). Cao (recruited 2017, from Oxford)
+ is an ECR in the Keele Institute for Sustainable Futures and SEND Research Fellow; he is CoI on
+ bth UrbanX (PI Fan) and Zero Carbon Rugeley (Section 1) and has held a £7k Royal Society
+ Grant (2019-20) and a National Natural Science Foundation China Grant (2015-17).
+
+ Support for ECR staff
+ Our ECR support combines well defined expectations and active mentoring / support. Probation
+ applies to all new staff, and mandates university training and induction. ECRs also take the Keele
+ Higher Education Practice MA/PGDip and become HEA Fellows. Polack and Andreas mentor
+
+                                                                                                  Page 5
+Unit-level environment template (REF5b)
+ first-grant submissions (e.g. by Misirli, Mandal, Stanton).
+ ECR support examples. Borg joined the academic staff in 2018, having contributed significantly
+ to teaching activities alongside his PhD. He has received active support (from theme lead,
+ Channon, and Research Director, Polack, for instance) to (a) achieve a REF output profile on
+ social evolution and noise research; (b) establish the collaborations needed to progress his
+ research, through local funding for visits and visitors, etc. Misirli, by contrast, already has
+ significant collaborations and strong research output.; his support has focused on developing
+ independence, exploitation of funding opportunities, widening publication outlets to develop
+ research impact; in addition, senior staff are supporting development of Misirli’s potential as a
+ future research leader, with a goal of a leadership fellow application within two years. Cao is
+ mentored by academically Fan, developing novel research in e.g. aspects of smart energy
+ management and optimisation; Polack is supporting impact development by Cao and Fan, and
+ contributing to development of Cao’s research leadership ambitions (he has reached the interview
+ stage of UKRI Future Leaders Fellowship competition: unfunded MR/T042761/1).
+
+ Equality, Diversity, Inclusion (EDI)
+ The school is actively committed to inclusivity and holds Athena Swan Bronze (renewed October
+ 2020), whilst the University’s holds an institutional Athena Swan Bronze. The university’s support
+ for inclusion and diversity (including, for instance, a very active BAME staff group, an LGBTI Role
+ Models & Allies Programme and strong diversity leadership within Faculties) is recognised by a
+ Bronze Race Equality Charter Award, Level 2 Disability Confident Employer status and a positive
+ Stonewall Workplace Equality Index ranking.
+
+ All recruitment uses positive action to encourage and support applications from underrepresented
+ groups; interviewers must have up-to-date training in recruitment best practice and unconscious
+ bias. Interview panels aim to include female and BAME representation, whilst respecting the need
+ to avoid overloading underrepresented staff groups. BAME are strongly represented in applicants
+ and interviews, and we typically interview 30-50% female candidates.
+
+ All 15 REF-eligible staff are currently on fulltime open contracts. The unit responds flexibly to
+ changing staff circumstances. For example, one member became permanent, fulltime in 2019,
+ having been recruited as fixed-term 0.3 FTE (2016), rising to 0.6 FTE (2018) as personal
+ circumstances changed. Other examples of adjustments to respect personal circumstances from
+ the last three years include at least 4 returned staff with specific adjustments of more than two
+ months (ill health, end of life care, paternity/parental leave). If we had staff returning to research
+ after maternity leave, there is open access to the Keele Academic (Maternity) Returner's Fund.
+ Shorter-term flexible working is considered formally in annual performance reviews, but also as
+ needed in consultation with Head of School or School Research Director. All such meetings
+ continue online since March 2020, with active support for staff safeguarding and working from
+ home.
+
+ Category A staff include 4 BAME and 2 female academics (Table 1.1.). IWe are returning two
+ retired female professors. Ratios are comparable to the sector, but we have a higher proportion
+ of women in senior roles.
+
+ Table 1.1. Diversity detail, Category A REF-eligible staff
+                 BAME          ECR on        Lecturer   SL /         Prof.        Post
+                               arrival       / Senior   Reader                    2014
+                                             Postdoc                              arrival
+
+  Total     15      4 (26%)     5 (33%)       8 (53%)     4 (26%)      3 (20%)    11 (73%)
+
+
+  Male      13             4             5          8            3            2             9
+
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+
+  Female 2                0           0            0           1            1           2
+
+
+  Post      11            3           5            6           2            3          11
+  2014
+
+
+
+ Support for research and academic training
+ UoA11 is fully committed to Vitae's Concordat for Promoting Excellence in Research. As the
+ proportion of research-active staff increases, research leadership and mentoring has grown.
+ Andras, Polack and Fan joined with extensive research experience: Polack took University of
+ York’s award-winning research leadership programme, and all have undertaken Keele leadership
+ training. Polack sits on Faculty Research Committee, guiding research strategy for Natural
+ Science, whilst all three are in Keele Research Leaders’ Network, which meets monthly to support
+ and develop the University’s research culture.
+
+ Expectations for all staff are defined in School Role Descriptors and formally discussed in annual
+ probation or performance reviews. Between reviews, research staff discuss plans and goals
+ informally with School Research Director at least once a year. Formal and informal reviews identify
+ promotion candidates, and identify support and development needs, as well as identifying and
+ supporting potential fellowship candidates and future leaders, e.g., signposting to EPSRC FLF,
+ Springboard and Aurora. We anticipate at least two promotions to Reader / Chair, and several to
+ SL within the next 3 years.
+
+ In addition to ECR support, above, more senior staff support staff identifying and applying for
+ funding, and assist in develop academic and industrial collaborations; e.g., Polack supports
+ Woolley and Gardiner in their career development. As noted in Section 1, Woolley (Faculty
+ Ethics Director) provides extensive support on research ethics and GDPR, working closely with
+ University and medical ethics staff. Staff are also supported actively by the University research
+ support team (RaISE). Senior staff review all proposals, maintain an archive of highly-rated
+ proposals, and support staff working on rebuttals, or reviewing rejections.
+
+ Our research leadership activities have identified new internal collaborations, such as Day and
+ Mandal on structural monitoring data analytics; Fan, Andras and Ortolani on AI for smart
+ systems; Polack, Woolley and Misirli on simulation.
+
+ The School has a research budget for consumables and travel, which is accessible by all staff,
+ postdocs and PGRs, and enables researchers to attend key conferences and research meetings
+ (e.g., attending annual ALife and Models conferences): the only eligibilty criterion is some
+ relevance to the School research portfolio. In addition, Polack oversees our many applications for
+ University funding (Faculty Research Development (RDF); Faculty PhD scholarships; Institute for
+ Keele Liberal Arts and Sciences Fellowship (ILAS), Keele Impact Fund (KIF)). Examples of funded
+ activities include Keele events (e.g., Misirli 2018: UK Ontology Network; Polack 2019: Agent
+ Based Modelling workshop; Mandal 2019: BCS Workshop on Emerging ML), and ILAS-funded
+ research visitors (e.g., S. Power, Edinburgh Napier: Borg, 2018; E. Gehlken, Frankfurt: Woolley
+ 2019-20). KIF grants have paid for consumables and outreach activity for 3D reconstruction, 2019-
+ 2020.
+
+ There are a minimum of 3 all-staff research meetings a year (since March 2020, incorporated in
+ monthly online School meetings). All staff contribute to strategy, theme evolution, and promotion
+ of funding opportunities. Research seminars (weekly in termtime) include internal speakers
+ (PGRs, postdocs and academic staff) and visitors from Keele and beyond: notable examples
+ include Susan Stepney (York Cross-disciplinary Centre for Systems Analysis: 2016), Emma Hart
+ (Napier, Editor-in-Chief of Evolutionary Computation: 2020), David McKee (CEO and founder of
+ Slingshot Simulation, 2019).
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+
+ We maintain strong research relationships with retired staff, Kitchenham and Brereton, who
+ continue to contribute advice and insights (e.g., on research strategy and PhD supervision). It is
+ likely that 2-3 current staff will retire during the next REF cycle, with similar potential to continue
+ contributing to research activities.
+
+ Through our industry links, a number of staff have active industrial roles. All the SEND research
+ fellows (below) spend a day a week with their company sponsors, and KTP researchers have all
+ been based at the participating company.
+
+ PGR recruitment and supervision
+ Our total PGR population over the REF period is 80 FTE, with an annual average of 11.4 PGRs.
+ We have seen a sustained rise in recruitment over the period: in July 2020, excluding submitted
+ PhDs, we had 17 PGRs, with many more due to join after the REF cut-off. Our total PhD awards
+ in the reporting period is 20, a 138% increase over REF 2014. Since 2017, we have had 3 to 5
+ awards each year, which will be exceeded in 2020-21.
+
+ All staff are supported in recruiting PGRs (e.g., through FindAPhD and social media channels),
+ and all returned staff have supervised PGRs during the REF period.
+
+ The school’s broad artificial intelligence and health-related research is particularly attractive to
+ PGRs; with many recent recruits coming from industry or studying part-time alongside working in
+ companies (including: Apple Retail Systems, Dell Healthcare, GE Renewable Energy,
+ DeutscheBank). The percentage of female PGRs is at or above sector average (July 2019: 2/17),
+ with BAME also well-represented (July 2019: 4/17). There is no significant difference in attainment
+ across groups. Among the current cohort of PGRs, four have recognised disabilities, requiring
+ adjustments to study conditions and other support. They are actively supported by School and
+ Faculty PGR directors, who also provide advice and guidance to supervisors. PGRs are supported
+ by the University disability services. Some PGRs have flexible working arrangements (including
+ parental leave and remote supervision); during 2020, most PGRs received support for home
+ working from the School, including provision of computer hardware and software. Remote
+ supervision and online support groups have worked well.
+
+ The SEND project supports 16 industry-linked doctoral research fellowships, due to complete
+ during 2021-22) at Keele (Table 2.1) and elsewhere (Table 2.2), with seven in Keele Computer
+ Science (these 7 are included in statistics, above). The fellowship contract for each PGR includes
+ an industrial partner, two academic supervisors, and full PhD registration, establishing a wide
+ range of disciplinary and commercial links1.
+
+ Table 2.1. Keele-based SEND doctoral fellowships and sponsoring companies
+ Company          School     Title
+  Connexica Ltd                        Augmented / Virutal Reality as Persuasive Technologies for
+                                       Reducing Energy Consumption
+  Synetica Ltd                         Blockchain for the Internet of Things
+  Add2 Ltd                             Electric Vehicle Charging and Control
+  Assured              Computer        Privacy-preserving federated learning for IoT
+  Systems (UK)         Science
+  Ltd
+  Astec IT                             Data Analytics for Industrial IoT and Digital-Twins
+  Solutions Ltd
+  Giosprite Ltd                        Deep Reinforcement Learning for Smart Energy Networks
+
+1https://www.keele.ac.uk/business/businesssupport/smartenergy/researchdevelopmentandinnovationprogramme/three-
+
+yearsendresearchprojects/. Details are from fellowship contracts.
+
+                                                                                                       Page 8
+Unit-level environment template (REF5b)
+ Powelectrics                     Anomaly detection for IoT Time- series
+ Ltd
+ JDSE Ltd         Chemical & Passivation of Transport Cylinders for Low Concentration Gas
+                  Physical   Standards
+                  Sciences
+
+ Table 2.2. Other SEND doctoral fellowships and sponsoring companies
+ Company          University          School           Title
+ Beta Research Huddersfield           Computing &      Transient Energy Storage Sources for
+ Ltd                                  Engineering      Future Electrical Power Systems
+ HVDC             Huddersfield        Computing &      Grid-forming Virtual Synchronous
+ Technologies                         Engineering      Machine technique
+ Power            Lincoln             Engineering      MPC for Power-Constrained EV charging
+ Technologies
+ Ltd
+ DRM Technic      Staffordshire       Creative Art &   Measuring Particulate Emissions from
+                                      Engineering      Small Combustion Plant Process
+ Adelan Ltd       Aston               Engineering &    Control Strategies for Micro-Tubular Solid
+                                      Applied          Oxide Fuelcells
+                                      Science
+ Lucideon Ltd     Warwick             Warwick       Flash Sintering of Ceramic Electrolytes
+                                      Manufacturing for Solid-State Batteries
+                                      Group
+ Environmental Northumbria            Mechanical &     Low carbon technology management and
+ Essentials Ltd                       Construction     safety
+                                      Engineering
+ Prime Hybrid     Wolverhampton       Engineering      Battery storage in domestic applications
+ Energy                                                and communal mini-smart grids
+
+ Fan leads the SEND doctoral fellowships as a doctoral training centre (DTC), with joint training
+ and cohort meetings. We have a strategic objective of winning a funded DTC, focusing on AI for
+ smart energy, transport, sustainability, data science (e.g. health or medical analytics): we have
+ had several highly-rated but ultimately unsuccessful bids -- notably AI and smart energy, with
+ Southampton (EPSRC, 2018).
+
+ In addition to registered PGRs, Fan supervises 2 visiting PhDs (China CSC), whilst Woolley and
+ Andras have hosted Erasmus+ visiting PhDs.
+
+ External PhD studentships are summarised in Table 2.1. We have one current Faculty-funded
+ student, and have had several partial Faculty scholarships in the past.
+
+ Table 2.1. Grants spend, PGR external funding, 2014-July 2020
+  Source         Short Title                   start           end         Lead         Spend
+                                                                           Supervisor
+
+ Iraq Min.       Time Evolving Streams         9/17/2014       9/16/2017                51,000
+ High. Edu. &    Analysis for SPAM
+ Sci.            Detection
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+
+ Embassy of    Information security and      1/12/2015     1/11/2018                   53,100
+ the United    Human computer
+ Arab Emirates interaction
+ NITDA           Text mining for systematic 2/23/2015      2/22/2018    ANDRAS         51,000
+                 literature reviews in
+                 software engineering
+ University of   Testing large scale         9/29/2015     9/28/2018                   57,000
+ Philadelphia    software on the cloud
+ (Jordan)
+ Libyan Min.     Issues in acceptance of     4/18/2016     4/17/2019                   52,798
+ HE Sci. Res.    VLEs for elearning
+ University      Guidelines for the          12/1/2017     11/30/2020 DE               29,714
+ Hospitals of    Production of Medical                                QUINCEY
+ North           Guidelines Mobile
+ Midlands        Applications
+
+ Keele’s PGR Code of Practice mandates that PGRs develop a Personal Development and
+ Learning Plan. Our School PGR Director (Misirli) coordinates internal training to complement
+ University (Keele Doctoral Academy) and Faculty training (e.g., Polack leads training on research
+ impact, and Woolley on research ethics and data management). External training is funded by
+ the School and Faculty (e.g., 2 PGRs attended BCS HCI Statistics Masterclass, 2020). PGRs and
+ their elected representatives engage proactively in creation and delivery of training activities;
+ there are annual school, faculty and university PGR conferences (online 2020-21).
+
+ PGRs participate in all departmental research events contributing strongly to theme meetings. The
+ success of our inclusive and supportive approach is evidenced by 2019 PRES (CS scored 91%
+ overall, 98% on research skills, cf. University average, 86%).
+
+ Technical support and administration
+ Support for the School of Computer Science and Mathematics comprise 3.8 FTE technical support
+ team (Section 3), and a full School administrative team complemented by four staff supporting
+ industrial engagement.
+ 1
+  https://www.keele.ac.uk/business/businesssupport/smartenergy/researchdevelopmentandinnov
+ ationprogramme/three-yearsendresearchprojects/. Details are from fellowship contracts.
+
+ 3. Income, infrastructure and facilities
+
+ During the REF period, our research income is £1.6m (202% increase from REF 2014).
+ Average annual income has risen by 116%. This omits grants supporting PhD students, and
+ grants where no spend had occurred by July 2020 (De Quincey: AHRC; Lam: University
+ Hospitals of the North Midlands Trust).
+
+ The raw figures hide the extent to which funding supports collaborative research. For example,
+ Channon’s collaborations on theory and application of evolution have been supported by a
+ series of BBSRC grants, whilst the Keele smart energy initiatives and collaborations are
+ recognised by EPSRC (EnergyRev), BEIS/ERDF (SEND), Innovate/SLES (ZCR) and Innovate
+ (UrbanX). Our success with large collaborative grants is allowing us to achieve our objective of
+ recruiting a strong postdoctoral community, which, in turn, strengthens our ability to compete for
+ grant funding.
+
+ Kyriacou and Andras lead an Innovate UK KTP with Bentley Motors valued at almost £250,000;
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+ two further Innovate UK KTPs were completed during the period (de Quincey et al, KBC Process
+ Technologies Ltd: 2016-18, £130,000; Lam et al, Wood Mitchell Printers: 2015-17, £175,000).
+
+ Like most computer science departments, our main funding target is EPSRC. However, because
+ all research-active staff are engaged with interdisciplinary and non-academic collaborators, we
+ are not prescriptive. For example, in the 12 months to October 2019, we submitted 7 proposals to
+ EPSRC (“first grant”, responsive mode and call bids), 2 bids to BEIS, and one bid each to: BBSRC
+ (responsive mode), Innovate UK, British Council, British Computer Society, Cultural Evolution
+ Society, Yoti Ltd, Sarcoma UK, Cancer Research UK, Alan Turing Institute, Nvidia and Amazon;
+ during the same period, Fan and Polack were academic leads in partnership bids to Industrial
+ Strategy Fund and to DfT/Adept.
+
+ For PGRs, in addition to the 8 SEND fellows, we had one BBSRC case studentship £92k (Lam:
+ 2013-17) and one EPSRC doctoral training studentship (Kyriacou: Regenerative Medicine CDT).
+ Overseas and other awards are shown in Table 3.2.
+
+ Infrastructure and Facilities
+ Staff and PGRs are co-located, sharing facilities with Mathematics. All facilities are available 24/7.
+ During 2020, we have worked hard to maintain virtual machines and online access to all facilities,
+ and to maintain interaction and research theme meetings, PGR meetings, and online PGR
+ supervision.
+
+ In addition to University-supported research computing, we host:
+ ● private vScaler cloud, purchased with School and Faculty funds (£25,000) and maintained by
+     vScaler/BIOS IT 2 (valued at ~£5,000 per annum), supporting AI/data analytics and cloud
+     systems research (e.g., Ahmad, Andras, J. Cloud Computing (2019) https://doi.org/ggtz94);
+ ● CUDA GPU cluster (512 virtual CPU cores, GPU compute capacity 256 teraflops: £100,000
+     investment within REF period), supporting data analytics, evolutionary systems research and
+     simulation.
+
+ The cloud and cluster are used by other schools (e.g., medicine, life sciences, psychology, physics
+ & chemistry), independently and in collaboration with UoA11 staff. Access is free for staff and
+ student research.
+
+ Other specialist teaching and research facilities include:
+ ● state-of-the-art games lab, sponsored by Overclockers UK (~£60,000: 24 machines, plus
+    accessories, maintenance and upgrades);
+ ● virtual-reality lab;
+ ● flexible research and meeting room that houses a robot lab with full camera tracking and
+    simulation capability, and a makerspace (~£40,000).
+
+ The robot lab has Vicom camera tracking and a range of flying and walking robots. We have two
+ 3D printers and a 3D scanner, primarily used in robotics and 3D model acquisition / reproduction
+ (see virtual cuneiform impact case study). Our makerspace has Arduinos, Lego Mindstorm, and
+ other “starter” robots,. Makersapce, VR and Overclockers’ Lab support significant outreach: e.g.
+ we have a popular student-led robotics group which is enabling new directions in teaching and
+ research, whilst the Overclockers’ Lab is a unique facility in the Stoke area.
+
+ We have full access to SEND data (via Siemens’ Digital Energy Management System and
+ “Mindsphere” platform), to be complemented during 2020-21 with transport livelab demonstration
+ facilities and data (Simulate). All are available to any researcher, subject to ethics, data protection
+ and curation arrangements. In addition, our collaboration with medical researchers and links to
+ hospital research give us access to medical and health data, and associated domain expertise.
+
+
+2 https://www.vscaler.com/vscaler-empowers-teaching-keele-university/
+
+
+                                                                                                Page 11
+Unit-level environment template (REF5b)
+
+
+ Our research facilities are maintained by the research software and hardware technical team.
+ jointly with academic staff (Stanton, Misirli, Channon) to maximise usage and usability.
+
+ A strategic objective is to build on our ever-widening industrial and academic links, working with
+ the University to achieve its Strategy of making Keele a regional leader in digital services, teaching
+ and research (a new digital centre will open in 2022). We also plan to create digital simulation and
+ visualisation facilities to complement the smart energy demonstrator and transport livelab facilities
+ at Keele, widening our impact on the social and environmental sustainability agendas for which
+ Keele is famous (e.g., as world leaders in sustainable education, behavioural analysis and
+ behaviour change; policy change).
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ A notable feature of the research conducted by UoA11 staff is that almost all is undertaken in
+ collaboration with companies, health trusts, and/or other academic disciplines. This is apparent
+ in our selected outputs and case studies.
+
+ Collaborations related to Smart Energy and Transport
+ Keele is a sought-after partner for industry in the fields of smart energy and transport, with
+ significant and growing impact on the sustainability agenda nationally and internationally. For
+ instance, the key partnerships detailed in Section 1 include:
+
+ ●   The Smart Energy Network Demonstrator (SEND: Fan, Cao): industrial and academic partners
+     are listed in Tables 2.1 and 2.2. SEND researchers have a significant practical partnership
+     with Siemens Plc., the lead contractor.
+ ●   Zero Carbon Rugeley (CoIs Polack, Cao: Innovate PFER) is a consortium led by Engie PLC
+     (full list of partners: https://www.rugeleypower.com/zero-carbon-rugeley-project). Like SEND,
+     the research includes collaborations across the Keele Institute for Sustainable Futures.
+ ●   Simulate Live Lab (Polack, DfT/Adept) is the only one of the eight DfT-funded live lab projects
+     to have a full academic partner, alongside Staffs CC, Amey plc and Connected Places
+     Catapult, and supporting nine industry-led feasibility projects (for full list, see
+     https://www.keele.ac.uk/business/businesssupport/simulate/)
+ ●   Fan and Cao work with Qbots Energy (Innovate UK: UrbanX project), which is implementing
+     academic research such as Cao’s battery energy optimisation framework
+     (https://doi.org/fdpb).
+ ●   Fan is also cybersecurity lead on the Core EnergyREV (EP/S031863), a consortium of 12
+     universities, led by Strathclyde.
+ ●   Fan maintains links with Toshiba, and with a range of academic partners in smart energy and
+     transport, e.g., Oxford and Leeds (https://doi.org/fdpb, https://doi.org/fdpc https://doi.org/fdpc)
+     Aston and Sheffield (https://doi.org/gc79g8).
+
+ Collaborations related to health and medicine
+ We have extensive collaborations within Keele medical and related disciplines and with health
+ trusts/hospitals, including pioneering work on data analytics, health monitoring, training, and
+ various forms of app (Andras, Day, de Quincey, Lam, Kyriacou, Mandal, Woolley).
+
+ The research reported in REF2014 and 2014 impact case studies (Lam, Day) continues, with
+ partners from Oswestry (Orthopaedic Institute Ltd/RJAH) and University Hospital North Midlands.
+ The work on analysis of time series and visual medical data is detailed in Section 1, representing
+ a long-term collaboration with staff of the former Keele Institute for Science and Technology in
+ Medicine, now at Aberdeen University.
+
+ North Midlands Trust Charity funds research on app-based clinical care guidelines, (see Sections
+ 1, 3 and below: de Quincey: https://doi.org/fdw8). The research is a collaboration with Royal
+ Stoke University Hospital, and surveying many other health trusts, then applying usability design
+
+
+                                                                                                Page 12
+Unit-level environment template (REF5b)
+ expertise to create a bedside clinical guidelines app, which is being rolled out to 14 Trusts in 2021,
+ with a further funded postdoc to support evaluation and development. This research collaboration
+ is already generating interest and impact in clinical organisations.
+
+ North Staffs Medical Institute is funding data analysis research due to start by 2021 (Lam: partner
+ Great Ormond Street Respiratory Sleep Unit).
+
+ Woolley’s research on the design and analysis of health-related devices led to her participation
+ in Ambient Assisted Living EU COST Action "AAPELE": https://www.it.pt/Projects/Index/1921
+ (2013-17); she continued to build on this collaboration in analysis of wearable health technology
+ (Universidade da Beira Interior and Universidade Lusófona de Humanidades e Tecnologias),
+ along with a PhD visitor from Georgian Technical University and Keele School of Health and
+ Rehabilitation Keele, (e.g. https://doi.org/fdn6). Woolley’s groundbreaking research on adrenaline
+ injection training was a collaboration University Hospitals of Leicester NHS Trust, and Birmingham
+ City (https://doi.org/fdn7), whilst in 2017 Woolley and her collaborators at Manchester
+ Metropolitan, Birmingham, and University Hospitals, Birmingham presented a collection of
+ research under the title “the quantitative outpatient”, which received the best poster presentation
+ award at European Federation for Medical Informatics Conference.
+
+ Collaborations in theory and practice of evolution
+ Our Evolutionary Systems team has a number of ongoing collaborations which reflect its
+ importance in open-ended evolution and evolutionary robotics.
+
+ Channon (see also Section 1) has ongoing collaborations in evolutionary theory, with applications
+ in biological, health and environmental research, with Manchester (Environmental Research
+ Institute; Evolution & Genomic Sciences) and Middlesex (Science & Technology). The research
+ is summarised in papers and led to or was funded by a series of grants. For example,
+ https://doi.org/skb reports research funded 2010-2013 by EPSRC £423k. Subsequent research
+ funded by BBSRC £465k, 2014-2017 and BBSRC £268k , 2015-2018 is published in e.g.
+ https://doi.org/bd7r -- 2016, Journal of Mathematical Biology; https://doi.org/cb9s --2017, PLOS
+ Biology; https://doi.org/cf8w -- 2017, Scientific Reports; https://doi.org/cst8 -- 2018, ISME; and
+ https://doi.org/ctm6 -- 2018, Heredity.
+
+ Channon’s agenda-setting research on Open-Ended Evolution includes collaborations with
+ Bedau (Reed College, USA; President of the International Society for Artificial Life 2001-2015)
+ and Taylor (Monash University, Australia). The team founded the International OEE Workshop
+ (https://workshops.alife.org/oee1/. Details in Section 1).
+
+ In evolutionary robotics, Channon and Stanton are part of a team led by F. Iida (Cambridge Bio-
+ Inspired Robotics Lab) that has a Leverhulme Trust proposal accepted for full application (2020):
+ the research explores open-ended evolution of physical robots. Meanwhile, Stanton has a
+ longterm collaboration with J. Moore (Grand Valley State University) on incremental evolutionary
+ robotics (https://doi.org/cwwj, https://doi.org/ffm3, https://doi.org/fdz9, https://doi.org/ffm4).
+
+ In social and behavioural evolution, Borg has two key collaborations: with S. Power, Edinburgh
+ Napier (Keele ILAS Visiting Fellow 2019) on social evolution (e.g. https://doi.org/fgc9) ; and with
+ M. Grove, Liverpool Archaeology on models of noise and historical evolution (e.g.
+ https://doi.org/fgdc -- ALife conference best paper of 2020).
+
+ Other significant academic collaborations
+ The following summary exemplifies the range of our other collaborative research. Many more
+ collaborations are noted in earlier sections and evidenced by co-authorships.
+ ● Andras’ neuroscience work on voltage-sensitive dyes is an ongoing collaboration with
+     Newcastle University (Neuroscience Institute, Digital Interaction Group, Electronic
+     Engineering), and a wider network including Imperial College and South East University,
+     China, (e.g. https://doi.org/fdxb).
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+ ●   De Quincey has a long-running collaboration with Keele Media and Communications (£337k
+     AHRC Grant https://doi.org/gg24nc). He is also an authority on technology in pedagogy,
+     where       he      works      primarily     with  Warwick      Mathematics     (JISC      grant:
+     https://analytics.jiscinvolve.org/wp/2020/07/08/using-analytics-to-enhance-student-support-
+     and-improve-learning/)
+ ●   Mandal’s long-running collaboration with A*Star, Singapore (e.g. https://doi.org/fdxc) and with
+     IIUT, Bhubaneswar, India (e.g https://doi.org/fdxd), has applied his machine learning and
+     vision analysis technique to many data sets. Mandal is developing partnerships with the Keele
+     Medical School, which funded a PGR scholarship and postdoc with P. Yeates, 2020-23. The
+     same analysis approach is being applied to analysis of civil structures with Arcadis Ltd,
+     Birmingham, UK (e.g., unfunded EP/V006061).
+ ●   Misirli‘s significant work on computational synthetic biology (Section 1) sees collaboration with
+     the ongoing £5m international consortium led by Imperial College and Newcastle University
+     Centres for Synthetic Biology. His many contributions to the SBOL language and to synthetic
+     biology repository and workflow frameworks have collaborators such as Universities of
+     Washington, Boston and Utah in US (https://doi.org/fdxf, https://doi.org/gcwg8v), as well as
+     the academic and industry partners listed on the SBOL website, https://sbolstandard.org/.
+ ●   Ortolani maintains his collaborations with Universities of Missouri Science and Technology
+     and Kentucky, US (e.g.https://doi.org/fdw7, https://doi.org/gdwffd) and University of Palermo,
+     Italy (e.g. https://doi.org/fdw6).
+ ●   Polack’s work on simulation fitness for purpose and software engineering builds on
+     collaborations with York Biology, Medicine and Electronic Engineering (e.g.
+     https://doi.org/fdw5), Computer Science (e.g. https://doi.org/fdw4) and others (e.g.
+     https://doi.org/f7pd87, https://doi.org/ff7v). Recent collaborations include King’s College,
+     London         (e.g.      https://doi.org/fdw3),   McMaster       and      Toronto,     Canada
+     (https://richpaige.github.io/uncertainty2020/, https://doi.org/ggqrnv).
+ ●   In addition to her health-related collaborations, above, Woolley works with Manchester
+     Metropolitan, University of Nottingham Ningbo, China, and Institut für Archäologische
+     Wissenschaften, Goethe-Universität, Germany, on acquisition of 3D models and virtual
+     reconstruction (e.g. https://doi.org/fdw2) the research underlying the virtual cuneiform impact
+     case study.
+
+ Major funded networks in which we participate include
+ ● EPSRC EnergyRev consortium (Fan, above)
+ ● EPSRC MDE-Net £463k (Polack) led by King’s College, London and Edinburgh University.
+ ● EU DERLAB (Fan) (https://der-lab.net/): EU consortium of leaders in distributed energy
+    research, which aims to develop technology requirements and quality criteria.
+
+ Also, arising from our major industrial collaborations in smart energy and transport, Fan and
+ Polack, respectively, represent Keele on (a) ERA network: the Midlands research centre of
+ excellence in energy and sustainability and (b) the Midlands innovation transport group.
+ ● In October 2020, through the ERA network, Keele became a partner in the new Centre for
+    Postdoctoral Development in Infrastructure, Cities and Energy (C-DICE: Research England
+    funded, £4m), which will further enhance our smart energy and transport research and
+    collaborations.
+
+ Wider contributions to research and economy
+ Our staff make a significant contribution to the discipline. Academics within the unit serve on many
+ research bodies. Examples from the current REF period include the following:
+
+ UKRI:
+ ● EPSRC Full College members: Andras, Brereton, Channon, Fan, Polack, Woolley: in 2019,
+   Woolley received a EPSRC review commendation; she served on CDT panels in 2018;
+   Channon serves as a panel and interview panel member
+ ● BBSRC proposal reviews: Channon
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+ Other UK funding organisations:
+ ● Royal Society Panel Member: Andras
+ ● Carnegie Trust S.E.T., Research Assessor: Polack
+ ● UK Commonwealth Scholarships Commission, Academic Adviser: Lam
+
+ International funders:
+ ● EU H2020 reviewer: Andras
+ ● Portuguese Foundation for Science and Technology reviewer: Fan
+ ● Qatar National Research Fund, reviewer: Fan
+ ● Research Council of the Sultanate of Oman, reviewer: Fan
+ ● Innovation Funding Agency of Belgium, reviewer: Fan
+ ● Dutch Research Council (NWO), Complexity Panel (2017-18): Polack
+ ● FWF Austrian Science Fund (2017, 2019), reviewer: Polack
+ ● FIT - IT Austrian Research Promotion Agency (FFG) panel member: Andras
+
+ Examples of our current editorial roles include: Andras (Elsevier Cognitive Systems Research);
+ Fan (IEEE Access; Associate Editor: IET Smart Cities). Fan was also guest editor of a Special
+ Issue of Journal of Network and Computer Applications on “Smart World Systems, Applications,
+ and Technologies”. Channon was guest editor of ALife Journal special editions on open ended
+ evolution (Section 1).
+
+ Examples of research invitations during the REF period include:
+ ● Andras: keynote to Trust in Intelligent Machines, Edinburgh, 2018
+ ● Channon: Invited talk, Robotics Seminar Series, University of Cambridge, 2019
+ ● de Quincey: Keynote at Academic Practice and Technology conference 2017
+    https://aptconference.org.uk/index.php/apt/apt2017/schedConf/overview
+ ● de Quincey: “Who speaks for Muslims?” British Academy panel discussion.Audio:
+    https://www.britac.ac.uk/audio/who-speaks-muslims 2018
+ ● Fan, invited speaker at UK-KSA Workshop on clean energy and AI, 2019; Energy Live Expo,
+    London, 2019; UK-UAE Science Collaboration Symposium on Clean & Renewable Energy,
+    2018; China-UK Energy research partnership symposium (USTB, Tsinghua, JITRI), Jan. 2020
+ ● Fan: Invited panellist, PFER showcase, London, 2020
+ ● Fan: Invited lecturer, ICET (International clean energy talent programme), Sweden, 2019
+ ● Polack: Dagstuhl seminars invited participant (2018: no.19481, 2019: no.18491);
+ ● Polack: Shonan seminar invited participant (2020: no.168 -- COVID postponement to 2021)
+ ● Polack: Festschrift invited chapters for Springer: From Astrophysics to Unconventional
+    Computation (https://doi.org/ff7r); and Journal of Object Technology Special Issue 19(3)
+    dedicated to Martin Gogolla (https://doi.org/ff7v)
+ ● Polack: Member of Scientific Advisory Panel, Premier project, 2020-2026 (EU Partnership for
+    Health IMI, grant 875508: https://imi-premier.eu/)
+ ● Stanton: “Science Lives Here” event, A generalist AI panel, Royal Institution, 2019:
+    https://soundcloud.com/royal-institution/a-generalist-ai-ri-science-podcast-45
+ ● James Mitchell, final year PGR working clinical guidelines usability and app support
+    (supervisor: de Quincey) is invited Vice-Chair of the International Medical Informatics
+    Association Students and Emerging Professional SIG (2019-21) (https://imia-
+    medinfo.org/wp/student-and-emerging-professionals-special-interest-group-sep-sig/) and
+    Early Career Lead for BCS Health and Care.
+
+ Other awards and recognition include:
+ ● In 2019, Kitchenham was recipient of IEEE CS TCSE Distinguished Women in Science and
+    Engineering (WISE) Leadership Award.
+ ● In 2014, Kitchenham received the ACM SigSoft Impact Award for her seminal 2004 paper
+    Evidenced-based software engineering (https://doi.org/crc8n5)
+ ● In 2016, Polack was awarded an ACM Ten Year Most Influential Paper Award for 2006
+    MoDELS conference paper, Merging Models with the Epsilon Merging Language by Kolovos,
+    Paige and Polack. (https://doi.org/cssn9v)
+
+                                                                                       Page 15
+Unit-level environment template (REF5b)
+ ●     BCS Health & Care Scholarship Award 2019: James Mitchell (PhD, supervised by De
+       Quincey): clinical guideline delivery.
+ ●     Best paper awards include: Borg et al., ALife Conference, 2020: https://doi.org/fgdc; Misirli et
+       al., IEEE Symposium on Computational Intelligence and Bioinformatics and Computational
+       Biology, 2014: https://doi.org/fgk2; and Polack et al., Conference on Operations Research and
+       Enterprise Systems 2016: https://doi.org/ffm7.
+
+ Some of the journals for which staff reviewed repeatedly during the REF period are: ALife Journal
+ (Andras, Channon, Polack, Stanton); SOSYM Journal (Polack); IEEE Trans. Neur. Netw. Learn
+ Sys. (Andras); IEEE Trans. Intelligent Transportation Systems, and IEEE Trans Image
+ Processing (Mandal).
+
+ Some selected examples of our international conference activities include:
+ ● Artificial Life Conference (ALife): Regular PC / reviewers throughout REF period: Andras,
+   Borg, Channon, Polack, Stanton.
+ ● ALife Workshop co-organisers (three international Open-Ended Evolution Workshops; four
+   international Social Learning and Cultural Evolution Workshops): Channon; Borg, Andras
+ ● Models Conference: PC / reviewer throughout REF period; PC Member for the MODELS ACM
+   Student Research Competition-track (2020), EduSymp@Models (regularly): Polack. (Polack
+   also reviews regularly for conferences such as ECMFA and ICSE.)
+ ● Models Workshop co-chair: Uncertainty@Models workshop (2020); Models EduSymp (2019)
+   : Polack
+ ● ACM Digital Health Conference PC and Poster/Demo Chair: De Quincey (2015, 2016)
+ ● IEEE Smart World Congress Programme Chair: Fan (2019)
+ ● International Workshop on BioDesign Automation: Misirli, organiser (2016) and regular PC
+   member.
+ ● Emerging Research in Electronics, Computer science and Technology conference, advisory
+   committee and invited speaker (2018): Mandal.
+
+ Professors Kitchenham and Brereton founded the international EASE conference, and have
+ been involved in chairing, PC and organisation throughout its 25-year existence.
+
+ We are also committed to growing Keele’s profile by hosting events and conferences. In addition
+ to events noted elsewhere, Keele would have hosted 2020 BCS HCI Conference (Chair: Woolley;
+ organising chairs: de Quincey, Misirli, Ortolani, Mandal), the national (and increasingly
+ international) showcase for the human interface of computer science. Due to Covid-19 the
+ conference has been rearranged to take place in Keele in 2022.
+
+ 2
+     https://www.vscaler.com/vscaler-empowers-teaching-keele-university/
+
+
+
+
+                                                                                               Page 16
+

@@ -1,0 +1,842 @@
+Unit-level environment template (REF5b)
+ Institution: University of the West of Scotland
+ Unit of Assessment: 11: Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Structure of research
+ With 25 academic staff, 19 post-doctoral researchers and 40 projects with the total value of around
+ GBP35,000,000 (UWS share approximately GBP5,000,000) in this REF period, Computing at
+ UWS represents the strongest Division within the School of Computing, Engineering and Physical
+ Sciences (CEPS). The Division is recognised for its pioneering research, knowledge transfer and
+ innovation, led by the Artificial Intelligence, Visual Communications and Networks (AVCN) re-
+ search centre, comprising two major research groups: (1) Beyond 5G Research Group and (2)
+ Affective and Human Computing for Smart Environments (AHCSE) Research Group. Collectively,
+ each group focuses on a specific sub-discipline and provides the focus needed to develop world-
+ class research. The leadership of the groupings is internationally recognised and responsible for
+ the ongoing strategy development and management of resources.
+
+
+
+
+   Figure 1: Doubling awarded grants and quadrupling PhD completions are a testament to the
+                                  unit's world-class standing.
+
+ Artificial Intelligent, Visual Communications and Networks (AVCN) research centre led by
+ Dahal is one of UWS’s strongest research centres in terms of research outputs, intellectual
+ property (IP), and income generation. AVCN has grown into a centre internationally known for
+ cutting-edge research for Artificial Intelligence, Big Data, Deep Learning, IoT, Blockchain, and
+ Cyber and network security. AVCN has a proven track record of leading national and interna-
+ tional projects from European Commission, EPSRC, Research Councils UK, Innovate UK, Scot-
+ tish Funding Council (SFC), Scottish Innovation Centres and industries. Since 2014, AVCN has
+ hosted 34 small and large funded projects, including coordinating a large consortium of EU EM
+ SmartLink (total project value EUR3,000,000) project with 20 international partners. It has been
+ a partner of EU gLINK (total project value EUR3,000,000), SunSPace (total project value
+ EUR1,000,000), eACCESS (total project value €1m), Police Scotland/CENSIS (Scotland's Inno-
+ vation Centre for sensing, imaging and Internet of Things (IoT) technologies) projects. The re-
+ search contributions of the centre in this REF period have been officially recognised through
+ over 250 peer-reviewed research publications, a number of research & enterprise awards, and
+ best paper awards. While AVCN covers an enormous breadth of research interests, it actively
+ supports interdisciplinarity as the key for its success. The research centre has been working with
+ more than 30 international academic and technology partners around the world. One of the aims
+ of research at UWS is to be an internationally renowned knowledge hub for societally important
+ applied research to meet the UN Sustainable Development Goals (SDGs) in Smart, Connected,
+ Secure & Sustainable Environments. The AVCN research activities promote the position of UWS
+ at this point. More specifically, its two research groups are:
+
+ The Beyond5G Research Group (Beyond5GHub): the group is led by Alcaraz-Calero and
+ Wang and is one of the foremost research groups of this kind in the UK. The team have devel-
+ oped a complete mid-sized data centre and a unique 5G testbed designed specifically to conduct
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+ cutting-edge research in the field of 5G, Network Function Virtualisation, Network Slicing, Soft-
+ ware-Defined Networks (SDN) and AI. It features specialised hardware equipment for 5G, UAV,
+ AR/VR etc., and is an integrated platform where a collection of industry-grade open source net-
+ working systems including OpenStack, Juju, MaaS, OpenDayLight SDN controller, Open
+ vSwitch and other supporting tools are installed, to provide an industry-relevant operational
+ testbed. The Beyond5G team has grown significantly since REF2014 primarily based on the
+ external funding, complemented by the significant institutional internal funding in excess of
+ GBP450,000 (reinvestment in equipment, PhD studentships and space). Their research has
+ been primarily funded by several large EU Horizon 2020 projects with a total project budget of
+ EUR27,000,000 including SELFNET (total budget EUR7,000,000), SliceNet (EUR8,000,000),
+ 5G-INDUCE (EUR6,000,000) and 6G-BRAINS (EUR6,000,000). This world-class research
+ group has produced over 100 high-quality publications over the assessment period including
+ over 40 journal publications and over 70 conference publications. The group has won a number
+ of research and innovation awards including the Innovation Award 2002 from Scottish national
+ body, the Centre for Engineering Education and Development (CeeD) - NATO Scientific
+ Achievement Award 2018, Winner for Times Higher Education (THE) Awards 2020 - Knowledge
+ Exchange/Transfer Initiative of the Year category, Best Paper Award Winner for SOFTNET-
+ WORKING 2017 and IEEE ICCE (International Conference on Consumer Electronics) 2014, as
+ reported by BBC and other media.
+
+ Affective and Human Computing for Smart Environments (AHCSE) Research Group: led
+ by Ramzan, the research group brings together the complementary expertise of social science,
+ computing and engineering, and humanities. In total, over the assessment period, the group has
+ published in excess of 100 publications including more than 50 journal papers and received Best
+ Paper Award 2017 of the IEEE Transactions on Circuits and Systems for Video Technology and
+ a paper selected for cover page of the IEEE Journal of Biomedical and Health Informatics 2018
+ first issue and released the world’s first open-source dataset for Emotion Recognition by Physi-
+ ological signals. As a result of the translation of world-class research into innovations, Ramzan
+ received the Scottish Knowledge Exchange Champion of the Year 2020 award. The AHCSE has
+ secured more than GBP4,000,000 external research and knowledge exchange funding and re-
+ ceived significant internal institutional investment in excess of GBP250,000. Since 2014, the
+ research group has built an unrivalled portfolio of 14 new Knowledge Transfer Partnerships
+ (KTP) with a total value of more than GBP2,800,000. The quality of their work is exemplified by
+ the recently completed KTP with MODO, which achieved “Outstanding” rating by Innovate UK.
+ The other main research funding is secured by EU projects including ATHIKA (EUR945,000)
+ and SAFE-Rural (EUR648,000). The principal expertise of the team lies in emotion recognition,
+ signal processing, emotional language and cyber-psychology, e-learning, digital games, social
+ media, personality and social media, system thinking and practice, and Independent living. Emo-
+ tions perform a significant function in personal or social interactions and can be conveyed ver-
+ bally by words or expressed by non-verbal signs such as facial expressions and gestures. The
+ main intention of AHCSE is to construct the next generation smart environment that contains
+ systems of sensors, actuators, objects and software to analyse and drive affective states in
+ health and sport applications.
+
+ 1.2 Research Objectives
+
+ 1.2.1 Current REF Period: Review of REF2014 Objectives
+ In REF2014 we have committed ourselves to supporting a vibrant research and knowledge ex-
+ change environment across all of our subject disciplines, underpinning student experience, provid-
+ ing a stimulating environment in which staff can work and develop. The University has committed
+ to supporting the development of our communities and regional economies through the exchange
+ of leading-edge knowledge into industry, commerce, government and the professions as we aspire
+ to deliver world-class outputs across its research portfolio. The current submission clearly demon-
+ strates that we have achieved this key objective.
+
+
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ Furthermore, the University operates an annual planning cycle that includes a review of progress
+ against a wide range of key performance indicators, and the production of strategic and opera-
+ tional plans within Schools. In Computer Science, strategic and operational plans are developed
+ iteratively by the leadership team in consultation with research group leaders. A review of progress
+ against these plans and objectives is a standing item on School leadership team agendas, so the
+ progress and the effectiveness of agreed actions is monitored regularly.
+
+ Specific objectives are monitored within the framework of the annual operational plan for the Divi-
+ sion of Computing, indicating how these support our vision, and providing evidence of progress
+ since REF2014. The objectives are:
+
+ Research objective: to value research excellence for its own sake. This is in line with our vision to
+ carry out pioneering research in computer science, which encompasses different models of intra-
+ and inter-disciplinary research. Evidence of progress: To ensure that our strongest research is
+ highly visible, staff have been encouraged to publish outputs of the highest quality (e.g. 72% ERA
+ A and A* Conferences and Journals).
+
+ Research objective: to attract critical mass of world-leading & early career researchers. In com-
+ puter science, the aim has been to recruit and retain academics of the international standing via
+ reinvestment by offering attractive package. Evidence of progress: 11 research active staff re-
+ cruited during this REF period and 6 promotions.
+
+ Research objective: to transform itself into an engine for commercialisation of research,
+ knowledge exchange and serving our communities. In computer science, to enable engagement
+ in larger scale projects with the resources to conduct pioneering research, and to strengthen out-
+ ward looking collaborations, we have had three primary associated objectives: To increase partic-
+ ipation in EU projects, we have established a role for an EU Coordinator, increased engagement
+ in EU events, and run training on EU funding. Evidence of progress: total expenditure per annum
+ on EU projects increased by 70% from 2014 to 2020; To increase industrial income, to ensure
+ close engagement with industrially relevant problems, and to enable the direct application of re-
+ search results. Evidence of progress: annual expenditure on industrial projects increased by 60%
+ from 2014 to 2020; To increase involvement in knowledge transfer projects. Evidence of progress:
+ during the REF period, we have been involved in 14 Knowledge Transfer Partnership (KTP) pro-
+ jects with a range of partners, including the Codeplay, Police Scotland and VMS.
+
+ 1.2.2 Strategy: Next Five Years
+ Following from our successes in this REF period, we aim to be among leaders in academic activity
+ contributing digital solutions and skills to tackle global challenges. The objectives to secure this
+ position are:
+      We support fundamental computer science research and interdisciplinarity to develop high
+         Technology Readiness Levels (TRLs) solutions focused on the UN SDGs;
+      We stimulate curiosity-led, world-class research with purpose, through knowledge ex-
+         change and commercialisation, in support of the economy and society everywhere;
+      We attract world-leading and early career researchers to develop signature research and
+         areas of strength, complementing high-quality international collaborations;
+      Our world-class research translates into research-informed education programmes to con-
+         tribute to the upskilling, reskilling and shared prosperity goals.
+
+ To achieve our objectives, our strategy has been to sustain a balanced portfolio of fundamental
+ curiosity-driven and applied problem-driven research relevant to UWS’s strategic themes re-
+ lated to the UN SDGs. This strategy is realised through a focus on emerging research chal-
+ lenges in core Computer Science and increased interdisciplinary research by collaborating in-
+ ternally and externally. Focusing on large interdisciplinary grants has been at the heart of our
+ success and this will also be of vital importance in the future. Whilst the strategy itself is reviewed
+ annually, its implementation will be enriched through: (1) targeted studentships; (2) continued
+ embeddedness in collaborative alliances (e.g., SICSA); (3) engagement with the members of
+ our industry board; (4) sabbaticals and extended visits; (5) expanded dissemination (software,
+
+                                                                                                   Page 3
+Unit-level environment template (REF5b)
+ standardisation, online educational materials, public engagement), and (6) proactive engage-
+ ment with funders. In addition, our curriculum revision processes will continue to integrate new
+ research content to deliver leading edge and exciting education to our next generation of scien-
+ tists and engineers.
+
+ 1.3 Achievement of impact
+ Institutional Business Innovation unit is involved in the development of all research proposals with
+ impact being at the forefront of staff, who also receive central support in intellectual property dis-
+ covery, protection, and exploitation. This includes working with industry, KTP and commercialisa-
+ tion. UWS maintains the open-door-to-industry approach, which has been critical for creating a
+ welcoming innovative environment.
+
+ 1.3.1 Impact Case Studies and Impact Approach
+ Focusing on impact at the outset is at the heart of our strategy to develop signature research. The
+ submitted impact case studies (ICS) are a testament of this approach [(a) 5G Innovations, (b) Data
+ Driven Intelligent and Autonomous Systems and (3) Signal/Image Processing and Machine Learn-
+ ing].
+
+ While we did not have 5G research capabilities back in 2014, focusing on our niche contribution
+ to the development of 5G services since then has led to a rapid development of industry-focused
+ high-TRL research activity that delivered benefits almost immediately to industry. For example,
+ UWS contributed technically to one of the first commercial launches of 5G networks and to the
+ development of International Telecommunication Union (ITU) and European Telecommunications
+ Standards Institute (ETSI) standards. In addition, the Signal/Image Processing and Machine
+ Learning ICS shows how UWS research has led to new care home solutions, a pioneering open-
+ source database, healthcare solutions, as well as significant financial impact for the businesses
+ we work with. The Data driven intelligent and autonomous systems ICS has achieved comparable
+ impacts; and the benefits to include developments in smart farming practices in Nepal, Bhutan,
+ and Thailand, tI3Q smart trolley in 19 Chinese airports, and award-winning drone technology for
+ use by Police Scotland in search and rescue operations.
+
+ 1.4 Interdisciplinary Research
+ Interdisciplinarity is key to achieving high-TRL solutions and our research has benefitted from an
+ institutionally-driven focus on developing innovative solutions. For example, AVCN research cen-
+ tre has a strong international base with over 30 interdisciplinary teams having coordinated the
+ large SmartLink project and participated in projects like gLINK, SunSPAce and eACCESS) with
+ many international partners. The SmartLink project focus was smart technologies in a wide range
+ of applications areas including data management, education and disaster management. gLINK
+ focused on ICT for green technology. The SunSpace project is looking at smart farming practice
+ and the eACCESS project at smart power systems. Within the research groupings, AHCSE has
+ developed robust interdisciplinary collaboration with industries and research institutions (Income
+ for this REF period is over GBP5,000,000). The group has strong collaboration with health and
+ healthcare providers especially for emotion recognition by physiological signals. They have de-
+ veloped and deployed the emotional gym in Loretto Care and developed a long-term partnership
+ with Wheatley Group. This interdisciplinary area has been supported through two joint research
+ projects funded by the Scottish Funding Council (SFC), 14 KTP awards, and Ramzan awarded
+ Scottish Knowledge Exchange Champion of the Year 2020 award. Within this REF period, the
+ Beyond5G Hub team has closely collaborated with over 40 European/international partners and
+ stakeholders, including network operators (e.g., Orange France, Orange Romania, Portugal Tel-
+ ecom, OTE), equipment vendors (e.g., Ericsson, InnoRoute), technology providers (e.g., IBM,
+ DellEMC, Thales UK), vertical businesses (e.g., EFACEC, PROEF), public sectors (e.g., Police
+ Scotland, Swedish Drone Rescue), standardisation organisations (e.g., ITU, ETSI), SMEs (e.g.,
+ Nextworks in Italy, CSE in Greece, Intebloc in UK), academia (universities and research centres
+ in Spain, Germany, France, UK etc.). The prestigious Times Higher Education Award for
+ Knowledge Exchange//Transfer Initiative of the year, designed to save lives of missing people,
+
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ could only have been achieved with the interdisciplinary research partnership between UWS, in-
+ dustrial partner Thales and Police Scotland and funding from the “CENSIS”, Scottish Innovation
+ Centre.
+
+ Staff in the unit have sought to apply their knowledge to help support the national effort to deal
+ with the first COVID-19 lockdown and in rapid response mode towards the end of the REF2021
+ 5a period, were in the late stages to arrange funding from Scottish Government and Comic Relief
+ (NSI funding) to develop a mobile phone app to help reduce the disproportional number of ethnic
+ minority people affected by COVID-19.
+
+ 1.5 Open Research Environment
+ In computing, open-source has been in existence for decades and we use modern technologies
+ to improve access to research, transparency in the research process, reproducibility of results,
+ and to promote efficient methods of scholarly communication. This is further underpinned by the
+ University and funders support for a growing culture of Open research to increase the quality,
+ integrity and accessibility of our research.
+
+ For example, to serve the open-source research community, we pioneered the first publicly avail-
+ able dataset (DREAMER) for emotion recognition using wireless portable electroencephalog-
+ raphy (EEG) and electrocardiography (ECG) devices. After its publication, the dataset has at-
+ tracted a significant attention from international professional audience (e.g., Facebook/Oculus).
+ Up until 21/08/2020, 3,757 requests for access to the dataset had been made via the “ze-
+ nodo.org” platform, 5,000 full text views of the publication via the “IEEE Xplore” platform. Another
+ new open access dataset for Biometric EEG dataset namely BED has been developed since
+ then and will be published in IEEE IoT Journal.
+
+ We have developed the open source software "Open vSwitch (OVS)-based 5G traffic" for the
+ industry de-facto open standard Open vSwitch, to enable traffic classification and control in
+ 5G/LTE networks and "5G Topology Manager" for leading global 5G infrastructure platform
+ OpenAirInterface (OAI), to enable topology management in 5G networks.
+
+ In addition, UWS are committed to the use of the research networking system PURE for research
+ knowledge management. This has enabled us to go above and beyond the REF open access
+ policy requirements, as we aim at making a version all of our research outputs publicly available
+ through the UWS institutional repository. Alongside with the Green open access route, an in-
+ creasing number of outputs is being published Gold open access, thanks to the transformative
+ agreements the UWS Library has signed with numerous publishers.
+
+ 1.6 Research Integrity
+ The UWS is committed to maintaining the highest standards of research integrity in all aspects of
+ its research. The University and School Ethics Committees are thus custodians of research integ-
+ rity, from developing guidance to monitoring all research projects at all levels. The School of Com-
+ puting, Engineering, and Physical Sciences Ethics Committee has members from Computing, en-
+ suring appropriate representation and dissemination of guidance and standards. Staff in Compu-
+ ting work with staff in Support Services to ensure highest standards of scholarly and scientific
+ research integrity. They adhere to the university Code of Ethics, which is in place to ensure that
+ all researchers are aware of ethical issues, as well as fairness and integrity.
+
+
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ 2. People
+
+ 2.1 Staff Development Strategy
+ We have a wide range of formal and informal mechanisms for staff development and career pro-
+ gression. The annual MyContribution process provides an appraisal and self-reflection oppor-
+ tunity: it assesses each year's performance, rewards exceptional contribution, and importantly it
+ includes a goal setting and development component. We operate a “Workload Allocation Model”
+ which records measurable activity and effort under three headings: Research, Teaching, and Ad-
+ ministration, to prevent individuals from being overloaded. This allows reduced loads to be given
+ to our star performers in research, and we also support academics targeting prestigious grants
+ having far reaching impact, globally and in the immediate communities we serve. Part-time staff
+ benefit from sabbaticals and pro-rata loads. We have developed a systematic approach to support
+ grant writing at four distinct levels: generic, mechanism-specific, subject-specific, and proposal-
+ specific. We provide: workshops aimed at generic training in computer science grant writing,
+ largely aimed at ECRs and those joining us from non-UK HEIs; regular tutorials and Q/A sessions
+ on specific mechanisms for funding (e.g., Horizon 2020, programme grants, KTPs, etc.); subject-
+ specific mentoring and review through the research groups; and regular proposal-specific reviews
+ for each proposal itself through our internal grant review process. This internal review process
+ tries to simulate the real review process with independent and constructive feedback. In addition,
+ the institutional support mechanisms (see REF5a for more details) have been in place during this
+ assessment period to support staff development. They include: PhD studentships (Internally
+ funded; requiring ECRs and experienced supervisors); GBP1,000,000 VP Fund for research and
+ enterprise activities; and infrastructure grants.
+
+ 2.2 Staffing and Recruitment
+ During this assessment period, we appointed 11 research active staff: one Senior Lecturer (Ndzi;
+ AI and Autonomous Systems) and nine Lecturers: (Olszewska; Algorithms and Software for Intel-
+ ligent Vision Systems), (Riordan; AI and robotics), (Marco and Siddiqui; Cybersecurity), (Shakir;
+ 5G), (Gilardi; AR/VR), (Keir; Software Engineering), (Matalonga; Blockchain), (Truslove; Music
+ Technology) and (Katsigiannis; AI and Affective Computation). Two of these staff members have
+ subsequently been promoted to Reader.
+
+ Our Strategy for academic appointments reflects our interest in both core computer science and
+ its application. We are committed to appointing and retaining leading international researchers at
+ all stages of their careers. Our strategic investments (11 new staff) were focused on expanding
+ our expertise in AI, Next Generation of Networks (5G/6G and beyond), and Data Analytics. Staff
+ retention is deep-rooted in our staff development; despite an atmosphere of intense recruitment
+ between British institutions, only three research active academics (Lou, Casaseca and Wang)
+ have left UWS for personal reasons. Our recruitment process aims to attract the best researchers,
+ in line with the School’s strategic objectives. When advertising posts, the School encourages ex-
+ cellent researchers, usually from cognate areas of Computing. Academics with relevant and com-
+ plementary expertise, are invited to review the applications and contribute to the selection process.
+ An appointments committee, which includes elected representation, creates the final shortlist.
+ Candidates are invited for interview and spend at least a day in the School to give a seminar, have
+ individual sessions with potential colleagues and with students, as well as a formal interview. All
+ academics are invited to attend the seminars and add to the feedback from the one-to-one ses-
+ sions. In order to sustain research in the longer term, the emphasis has been on recruiting junior
+ staff, with the potential to become future research leaders.
+
+ 2.3 Support for Early Career Researchers
+ Welcoming new staff and early involvement is key to our success with ECRs, including their en-
+ gagement with industry partners. Our standard support packages for all new members of staff
+ include: (1) being immediately introduced to key people, policies and resources through a School
+ induction pack and initial trainings with UWS systems; (2) having assigned a personal mentor to
+ provide further support and guidance; (3) monthly informal meet-ups with the Head of Division
+ (HoD) to provide an opportunity to talk through research, teaching or university issue that may be
+ pertinent to their careers.
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+
+ In addition, the University provides training courses for new staff, in a range of topics, including
+ "proposal writing", "research supervision", and "research project management". At UWS Early Ca-
+ reer Researchers (ECR) benefit from a range of approaches, including: (1) ensuring ECR repre-
+ sentation on main research committees; (2) Early Career Researchers’ Forum; (3) dedicated pro-
+ fessional development opportunities (e.g., UWS Crucible, PROPEL, UWS Research Mentoring
+ Scheme); (4) participating in Scottish research pools and innovation centres – e.g., the Scottish
+ Informatics and Computer Science Alliance (SICSA); and (5) requiring ECR involvement as stand-
+ ard for all UWS-supported research projects. Throughout the REF period, this highly inclusive
+ approach has enabled us to retain 4 ECRs. Their achievements are celebrated and acknowledged
+ through career progression and incentives (e.g.. PhD studentships, research time allocation,
+ equipment support, research space development for larger projects). During this REF period, one
+ ECR was promoted to Reader, and later to a Full Professor.
+
+ 2.4 Academia – Industry Exchange
+ Staff in the Division of Computing have had an excellent relationship with industry and more than
+ 50 organisations (local, national, international) are on its Industrial Advisory Board. Working with
+ industry is at the heart of our research projects and the staff thus regularly host or visit industry
+ professionals. The Division has produced more than 100 joint publications with industry including
+ INTEL, SAMSUNG, HUAWEI and BBC among others. A number of research projects are carried
+ out in collaboration with industries who provide funding and PhD studentships. In addition, all our
+ industry match-funded PhD projects include industry supervisors (e.g., Dr Navid from Lumen Re-
+ search Ltd. and Dr Majid from MODO Ltd.). The Division supports industry exchange and ECRs
+ in particular have benefitted from early exposure to industry partners (e.g., Marco spent three
+ months in VMware Research Group, USA).
+
+ The School facilitation of academia-industry exchange is further enhanced through our central
+ support teams (i.e., Business Innovation), who include a dedicated UWS KTP Centre, Continuous
+ Professional Development (CPD) Centre and commercialisation support, all helping to facilitate
+ partnerships between academic staff and industry, as well as helping with commercialization, con-
+ sultancy, CPD development, and knowledge transfer. A total of 7 KTP projects were successfully
+ delivered during this REF period. In addition, over 7 new KTP were established related to this
+ UOA.
+
+ 2.5 Research & Impact Rewards
+ Several frameworks for incentives and rewards are in place to support the development of re-
+ search including: (1) Salary recognition and reward procedure (6 staff benefited on research ba-
+ sis); (2) Staff Appreciation and Recognition (STARS) Award (8 awards on research basis; highest
+ in the whole University); (3) Additional annual leave purchase procedure; (4) UWS reinvestment
+ in research excellence through Vice-Principal’s Research Fund (3 research projects funded inter-
+ nally of worth more than GBP300,000 along with 7 PhD studentships). The Dean of the School
+ allocates 10% of additional research time for live projects and offers competitive PhD studentships
+ as reinvestment for projects over two years in length. For each KTP award, the knowledge base
+ supervisor is awarded GBP3,000 per year to enable further professional development, meetings
+ with potential industry partners, addressing small equipment needs and further supporting their
+ doctoral students.
+
+ 2.6 Research Students
+ Postgraduate research community: Our computing postgraduate research community is among
+ our key strengths as we are contributing to the vibrancy of the discipline, developing excellent
+ scientists and leaders of tomorrow. There are presently 104 postgraduate research students in
+ the School, of which 30 students are associated with Computing: Within the review period, 80 PhD
+ students have been recruited to Computing. There have been 70 PhD completions (34.5 submitted
+ to REF4a) within this period, following strenuous institutional efforts to ensure students complete
+ within the maximum period of registration. The strategy for the next few years is to increase the
+ recruitment of high-quality research students to 20 annually through UWS studentships calls, in-
+ dustry match funding and other sources as appropriate. In the assessment period, five prestigious
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ externally funded studentships have been awarded by Scottish Innovation Centres (The Datalab,
+ CENSIS). Ten students have also been funded through competitive internal studentship calls
+ (15% success rate). Recently in Computing, eight KTP Associates have been recruited who have
+ enrolled as PhD students due to UWS’s strategic approach in support of KTPs. Approximately half
+ of our research students are self-funded, with an increasing number in recent years, via our MSc
+ Advanced Computing programme.
+
+ Recruitment and Progress Monitoring: We have consistently recruited excellent PhD students
+ nationally and internationally (i.e., receiving ~100 applications per year from qualified candidates,
+ and recruit between 20 and 30 PhD students), and awarded a significant number of highly-com-
+ petitive scholarships to cover 50% to 100% full tuition fees and stipend. Applicants submit a re-
+ search statement for an initial review and allocation of potential supervisors who interview the
+ applicant before a place can be offered. Upon joining UWS, PhD students attend an induction
+ meeting where they meet members of the Doctoral College and supervisory team. Each student
+ is provided with dedicated office accommodation, a new high-end computer and appropriate la-
+ boratory access. Students are provided with a budget of GBP1,000 for professional development,
+ and research groupings often provide additional funding for resources, access to grant-funded
+ specialised equipment, and travel/visits. Our original target of having each research active mem-
+ ber supervise at least 2 PhD students during this period has been exceeded with on average 2.8
+ PhD students per research active staff. We have introduced comprehensive monitoring and pro-
+ gress reviewing procedures overseen by the School PGR Coordinator who, compliant with Doc-
+ toral College requirements via an online MyPGR platform, ensure students complete their PhD
+ studies within the maximum period of registration. In the first year, there is a 6-week, six month
+ and first year review, where students present a literature survey and thesis outline. Annual panel
+ reviews represent important progress monitoring milestones with an independent assessor rec-
+ ommending progress continuation or termination in consultation with the supervisory team. Trans-
+ fer event is another key milestone the students need to achieve to become PhD candidates. At
+ the end of the second year the independent assessor evaluates the status of the thesis plan (i.e.,
+ completed and outstanding work). This rigorous approach has been beneficial and we have in-
+ creased completions by 412% when compared to the REF2014 period. The success of our ap-
+ proach is evidenced by the fact that in the current REF period the average time to submission of
+ the thesis from the initial registration was 3.5 years. We now maintain a sector-leading position of
+ 90% of students complete their PhD degree within a maximum period of registration (4 years for
+ full-time students). The awarded PhD degrees during this assessment period has increased four-
+ fold compared to REF2014. 47% of our PhD students now have an RA or Lectureship position at
+ universities and research institutions worldwide. Our research students have won many scholar-
+ ships and prizes (Best Paper award in ICDAMT2017; Best Student Paper Award Winner for SIG-
+ MAP2014 and IEEE ICCE2014). Our PhD students are an integral part of research advancements,
+ contribute to our research strength and publish at highly competitive venues.
+
+ Training: As standard, our PhD students join a vibrant research environment. Upon starting their
+ studies, they immediately join strong, award-winning research teams, benefit from co-location with
+ staff working on major externally funded projects and through the Doctoral College interact with
+ PhD students from other Schools. While this forms the basis for students to develop their skills,
+ we offer bi-weekly research seminars at which PhD students present their research in addition to
+ individual research groupings organising their own research meetings where each student pre-
+ sents their research once each term. While the institutional support is exemplified in REF5a, it is
+ worth emphasising that the Doctoral College jointly with the UWS Academy provides skills training
+ courses, and students are required to take at least four of these. There is a wide range of courses,
+ the most popular of which are Research Management, Personal Effectiveness, Communication
+ and Presentation, Networking, and Team-working and Career Management. The Doctoral College
+ promotes a collegial and interdisciplinary research environment, facilitating communication be-
+ tween students from different schools by hosting events, including research symposia, poster
+ competitions, annual research conference and lectures by prominent figures from the international
+ research community. Further, by bringing together Scottish HEIs, SICSA offers a number of train-
+ ing and development opportunities for our PhD students: (1) PhD Peer Support Group run by PhD
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+ students for PhD students, (2) Annual PhD conference, (3) Demofest to show case research work
+ to industry, and (4) SICSA Summer School.
+
+ 2.7 Equality & Diversity
+ UWS’ HR policies provide a framework for achieving our aims of progressing equality. The Equal-
+ ity, Diversity and Inclusion (EDI) team provides advice on best practice. In REF2021, we have
+ adopted a Code of Practice to appropriately recognise that not every member of staff has signifi-
+ cant responsibility for research. The Code of Practice ensures that EDI is mainstreamed within
+ REF processes. The University has demonstrated its commitment to equality and diversity through
+ attainment of: (1) Athena SWAN Bronze award; (2) HR Excellence in Research award; (3) UWS
+ are Stonewall Diversity Champions; (4) Disability Confident employer.
+
+
+ The setting up of Academic Life, a fully integrated and co-located unit to support all academic
+ activities, has been instrumental in developing and offering career-enriching opportunities to en-
+ gage in research, access internal funds and receive support for submission of funding applica-
+ tions. Research and Business Innovation teams within Academic Life have, since REF2014, de-
+ veloped numerous support mechanisms targeting under-represented groups, as defined by the
+ Equality Act 2010, within the University. These include PROPEL, Grant Accelerator, REF Accel-
+ erator, UWS Crucible, and Masterclasses. There are also a number of staff support networks that
+ provide peer support, advice and guidance. These include a UWS HighER ( staff female network,
+ UWS Liberty (staff LGBT+ network) BME Staff Network and a disabled staff network has recently
+ been launched.
+
+ The School has an EDI champion who attends a University wide forum to share good practice in
+ EDI and take forward activities to progress EDI, The Dean is represented at the EDI Committee.
+ This ensures that EDI information and activity can be shared at all levels in the School. In addition
+ all staff complete unconscious bias and inclusion essentials training.
+
+ In Computing, we operate within School and University policies and procedures which ensure that
+ we work towards the promotion of equality, diversity and inclusion. We operate a family-friendly
+ flexible working environment, to allow staff to achieve an appropriate work-life balance, and, for
+ example, to accommodate caring responsibilities. All staff are entitled to request part-time or re-
+ duced hours, compressed working, job sharing, annualized hours, and home working. Staff who
+ return from periods of leave are supported in accordance with the university policy, starting with a
+ return-to-work interview, and applying a phased return as necessary and this scheme is highly
+ appreciated by staff returning after COVID-19 infection. Staff who have been off work for a longer
+ period of time through e.g ill health or pregnancy and maternity can apply for our Returner’s
+ Scheme. This provides funding to support staff to get their research career back on track.
+
+ The university has a dedicated Occupational Health Manager, who works closely with staff, in the
+ People and Occupational Development (Human Resources). There is an employee assistance
+ programme that provides a range of support including counselling.
+
+ In terms of gender balance, all committees have female members including committees related to
+ recruitment. In student recruitment, we are actively seeking to increase ethnic minority represen-
+ tation and gender balance. Within the School, female staff have completed the Women’s Leader-
+ ship Programme and the Aurora Programme. Staff in the School, including female staff in Com-
+ puting have taken part in the UWS Crucible, to support their development as researchers.
+
+ Our School is seen to be fair and open to all, resulting in a diverse international department in
+ terms of gender, race, religion and age. We have five female academics in this submission, which
+ represents 20% of total REF returned staff. Our academics originate from over eight different
+ countries on four continents.
+
+ 3. Income, infrastructure and facilities
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ 3.1 Research Income and Funding Strategy
+ Our income strategy has been to focus on large (>GBP3,000,000 total project size), industry-
+ focused, and high-TRL grants (>TRL6) while simultaneously supporting developmental smaller
+ grants to support ECRs. We have significantly expanded our research portfolio during this REF
+ period by leading or partnering in approximately GBP35,000,000 of total research project funding
+ through a number of national and international projects. This represents a 200% increase in the
+ external income generation when compared to the last REF. The increased resources allowed us
+ to recruit and host >200% more researchers and research staff in comparison with previous REF
+ period. In addition, we have the most improved KTP portfolio in the UK, recruiting 100% more KTP
+ associates.
+
+ The increase in research income (REF4c) from GBP2,409,000 in REF2014 to GBP8,476,674 in
+ REF2021 is also fuelled by unprecedented success in projects funded by the European Commis-
+ sion. Just recently, we have secured approximately EUR19,000,000 in three Horizon 2020 pro-
+ jects and this provides a strong foundation for the next REF period. In addition, 7 KTP projects are
+ on-going apart from seven completed KTPs that also demonstrates sustainability of our approach
+ to work with businesses and deliver economic, technological and societal impact.
+ The table below includes projects with total award values in excess of EUR500,000 which have
+ contributed to grant size and grant income since REF2014.
+
+  PI/Co-PI                        Project Short Title                Total Award Value
+                                                                     EUR
+  Dahal, K                        Erasmus Mundus SmartLink           EUR 3,049,600
+  Dahal, K                        Erasmus Mundus gLINK               EUR 3,036,625
+  Alacaraz-Calero,J, Wang,Q       Horizon 2020 Selfnet-5G            EUR 6,886,496
+  Wang,Q, Alacaraz-Calero,J       Horizon 2020 Slicenet-5G           EUR 7,979,030
+                                  Smart Grid
+  Dahal,K                         Erasmus+ Collaboration             EUR 997,820
+                                  (eACCESS)
+  Dahal,K                         Erasmus+ Sunspace                  EUR 869,676
+  Ramzan,N                        Erasmus+ ATHIKA                    EUR 945,060
+  Riordan,J                       H2020 Risk Aware Autonomous        EUR 4,997,134
+                                  Port Inspection Drones (RAPID)
+
+ Our staffing strategy (Section 2) supports our income strategy. It has been implemented in order
+ to increase our research income. In Computing, over the assessment period, we have promoted
+ three lecturers to Professors with respect to the thematic areas of AI, and 5G networks, and ap-
+ pointed ECRs in areas of strategic importance (Cyber security, IoT and Robotics) with high grant-
+ earning potential. A number of appointments have been made within the past three years in Com-
+ puter Science. These appointments are part of a longer-term strategy and are expected to bear
+ fruit at the next REF exercise.
+
+ 3.2 Organisational Investment
+ REF5a includes the overall picture of the substantial institutional investment in new research fa-
+ cilities and it is worth mentioning that a whole suite of laboratories (ALMADA Centre) has been
+ dedicated at our new GBP110,000,000 Lanarkshire campus as a home for the flagship RAPID
+ project (EUR4,997,133.75m; Riordan). Prior to this, soon after REF2014 submission, UWS in-
+ vested GBP160,000 to build a complete large-scale data centre with unique capabilities in terms
+ of security, softwarization and programmability. Recently, there has been significant university
+ investment via GBP1,000,000 Vice-Principals fund. The Division of Computing has received the
+ highest share of nearly GBP300,000 along with seven funded PhD studentships. The 20% un-
+ funded research time is allocated to all research active staff including ECRs. The general-purpose
+ labs of Computer Science and Networks (GBP200,000) are upgraded to latest PCs and network-
+ ing hubs and switches. The new plans of refurbishing the lab spaces is approved as well that will
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+ help to get sustainability for the next REF. Our research space has increased by approximately
+ 60% by developing three new state-of-the-art research labs namely Beyond5G (GBP200,000);
+ Affective lab (GBP100,000); and IoT and Robotics (GBP100,000).
+
+ 3.3 Support Staffing and Infrastructure
+ Most of our research requires standard computing infrastructure, which is supported by ITDS ser-
+ vices teams at university, and school level. A dedicated Network Support Analyst “Tom Caddell”
+ provide support to Computing staff and students. In addition, each group trained their PhD stu-
+ dents and Post-doc with the help of ITDS to maintain the dedicated equipment’s (like 5G test bed;
+ HPC platform for AI; Brain Computer Interface framework, etc.).
+ A dedicated member of the Research & Business Innovation team provides hands-on support for
+ financial planning and detailed administrative aspects of proposal writing. This level of support is
+ critical to ensure funding requirements are met, scope appropriately determined and consortia
+ activities are appropriately coordinated. We have a dedicated finance team, to help staff to man-
+ age the finances of awarded grants and a dedicated departmental HR manager, who oversees
+ the process of recruiting research staff. This infrastructural support has been very successful as
+ evidenced by our funding success over the assessment period.
+
+ 3.4 Specialist Research Infrastructure for Impact
+ The School has its own cloud infrastructure, 5G network (including a mobile unit), and a complete
+ mid-size data centre designed specifically to carry out computational experimentation in the field
+ of Machine Learning, Big Data, Cloud Computing, Data Privacy, and Network performance & se-
+ curity. School facilities also include a world-class cloud testbed for mobile edge/fog computing, an
+ Internet of Things (IoT) platform and a number of networking devices. The data centre and infra-
+ structure greatly supports our research in the field of Cloud Computing, Network Function Virtual-
+ ized and Software-Defined Networks. It is worthy to emphasize that this data centre is not a regular
+ cloud computing platform but also a platform that enables the automatic installation and configu-
+ ration of a complete cloud computing infrastructure in less than 10 minutes, enabling all the part-
+ ners to enforce any configuration or setup they want to use for the experimentation towards the
+ purposes of the project. It features specialised hardware equipment for 5G, UAV, AR/VR among
+ others, and is an integrated platform where a collection of industry-grade open source networking
+ systems including OpenStack, Juju, MaaS, OpenDayLight SDN controller, Open vSwitch and
+ other supporting tools are installed. This setting provides an industry-level testbed for virtualiza-
+ tion, comprising more than 250 cores and can emulate more than 80,000 Linux containers with
+ speeds up to 100Gb/s, enabling highly complex networking infrastructures to emulate the real-
+ world settings and to evaluate performances and analyse network issues in the realistic environ-
+ ment.
+
+ 3.5 Cross-HEI Infrastructure Collaboration
+ UWS is part of EPSRC bid for “The ARCHIE-WeSt HPC Centre” with the University of Strathclyde.
+ The computing PhD students and staff benefitted from the HPC platform by utilising 10,000 hours
+ to conduct their training and testing of content-based image retrieval framework based on deep
+ learning. Furthermore, cross-HEI infrastructure collaboration is enabled through SICSA where
+ UWS takes active part in the Artificial Intelligence, Cyber-Physical Systems, Cyber Security, Data
+ Science, Human Computer Interaction, and Networking and Systems. ECRs and PhD students
+ benefit from SICSA activities (i.e., PhD conference, Demofest, and themes’ workshops) but also
+ from collaboration with staff and students from other 13 Scottish Universities who are members of
+ SICSA. UWS regularly hosts thematic workshops for SICSA (e.g., AI workshop in 2017 and Cyber
+ Security in 2019).
+
+ 3.6 In-kind Benefits
+ The main in-kind support we receive is in the form of additional support for industry co-funded PhD
+ studentships. The support so far includes supervision time of one hour every fortnight (GBP72,000
+ in total). BT and NATS provide a test bed as in-kind support to test “Network flying platforms for
+ 5G and beyond wireless communication” along with supervision time (GBP36,000). NVidia pro-
+ vided hardware platform to test “Multiple Deep CNNs for Content-based Image Retrieval”
+
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ (GBP18,000). Microsoft provided access to their full Azure stack through Microsoft Research pro-
+ gramme (GBP14,000). In addition, we received GBP168,900 to setup beyond5G lab from different
+ industrial partners. These in-kind supports contributed to our research portfolio not only in terms
+ of time but also the expertise and infrastructure exploited is a unique experience for staff and
+ students.
+
+ 4. Collaboration and contribution to the research base, economy and society
+ The School is committed to support a vibrant research and knowledge exchange environment
+ across all of its subject disciplines. Our globally impactful research is a key contributor to enhanc-
+ ing student experience, providing a stimulating environment in which staff can work and develop,
+ contributing to the development of each discipline, and supporting our communities and regional
+ economies through the exchange of leading-edge knowledge into industry, commerce, govern-
+ ment and the professions. Our research groupings aspire to deliver world-class research outputs
+ across its research portfolio. Our research is interdisciplinary and of a highly collaborative nature
+ with leading industry players nationally and internationally.
+
+ 4.1 Research Collaborations, Networks, Partnerships and Communities
+ The School has a wide range of mechanisms to support and encourage collaborative research.
+ These include: a visitor programme (56 visits of more than one month during the assessment
+ period), a budget available to all researchers specifically for increasing engagement in EU pro-
+ grammes either by school or SICSA, and joint supervision for all research students. To encourage
+ collaborations with industry, the school has established an industry advisory board with over 50
+ members (including IBM, Microsoft, CISCO, HP).
+
+ Staff are involved in large international collaborations. Staff have been the coordinators or partners
+ of big national, International and European projects extending collaborations with more than 85
+ UK, European, Asian and African HEIs, enterprises and SMEs. This includes providing Leader-
+ ships in International Flagship Collaborative Projects:
+  Coordinator of EU H2020 project RAPID; EM SmartLink; and SAFE-Rural projects with 20
+     international partners from Europe and Asia.
+  Partner of five EU gLINK, SunSPace, eACCESS, and ATHIKA projects involving over 35 in-
+     ternational partners from Europe, Asia and Africa.
+  Technical Manager for two EU 5G PPP SELFNET and SliceNet projects with 35 European
+     HEIs and Enterprises, SMEs. UWS was the only Scottish university involved in this 5G-PPP
+     programme, and one of the very few UK universities that technically led both 5G-PPP Phase-
+     1 (SELFNET) and Phase-2 (SliceNet) projects.
+
+ The research environment has been significantly enhanced by our membership in the SICSA. It
+ has involved close collaborative working with partner universities and Innovation centres, espe-
+ cially the universities of Glasgow, Strathclyde, Edinburgh Napier, and CENSIS. One distinctive
+ feature of the Scottish research environment is the existence of “Research Pools” that encourage
+ collaboration in particular disciplines across Scottish HEIs. The goal of the pools is to coordinate
+ activities where relevant and to ease reaching critical mass by pooling across the different HEIs
+ in Scotland.
+
+ The main areas of SICSA activity are Research Themes, Graduate Academy, Knowledge Trans-
+ fer, and Education. The SICSA Research themes are: Artificial Intelligence, Cyber-Physical Sys-
+ tems, Cyber Security, Data Science, Human Computer Interaction, Networking and Systems and
+ Theory, Modelling and Computation. These cover the main areas of work in Scotland and provide
+ larger, active, open, supportive communities across all the Scottish HEIs. SICSA is pivotal for
+ cross-institution collaboration in bidding for larger scale projects where the spread of expertise
+ crosses institutional boundaries. The themes deliver a lively schedule of meetings, workshops and
+ masterclasses on particular topics and SICSA provides support for travel, visiting speakers and
+ event catering.
+
+ The Graduate Academy provides support for the whole PhD community across Scotland and en-
+ courages the development of a “Scottish Cohort Effect” through the PhD and SICSA conference,
+
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+ an annual best thesis prize and other activities. More than 20 PhD students of computing has
+ benefitted from PhD events. The Graduate Academy Distinguished Visiting Fellow (DVF) scheme
+ provides a mechanism to facilitate collaborations between Scottish-based Computer Scientists
+ and talented academics, researchers and/or leading professionals in industry or the public sector
+ from across the globe (two leading academics invited by UWS). Our Postdoctoral and Early Career
+ Researcher Exchanges (PECE) funding provide research training and development opportunities
+ for the most able postdocs and early career researchers across SICSA by offering funding to
+ collaborate and work with other institutions around the world (more than 10 ECRs from UWS). In
+ Knowledge Exchange SICSA works closely with the SFC funded Innovation Centres (in particular:
+ Data Lab, CENSIS, and the Digital Health and Care Institute) to develop routes to impact and
+ exploitation of university research (UWS regular receive funding from these initiatives). Events
+ such as DemoFest allow Scottish Researchers to showcase their work to industry and others as
+ part of a programme of Knowledge Exchange work. SICSA thus provides a stable means for inter-
+ institution and inter-discipline collaboration where appropriate, and sustains a broad inclusive re-
+ search community in Scotland. The student and staff take an active part in SICSA activities (PhD
+ conference committee, Theme leader, organising workshops, hosting DVF).
+
+ 4.2 Contribution to Economy and Society
+ Our contribution to the economy is achieved by focusing on industry projects with immediate and
+ globally impactful projects. 5G services market is valued at approximately GBP35,000,000,000 in
+ 2020 and the compound annual growth rate (CAGR) is expected to be 46.2% from 2021 to 2028.
+ The unprecedented academic success of being technical managers for two consecutive EU 5G
+ PPP SELFNET and SliceNet projects with 35 European enterprises, SMEs and universities;
+ demonstrates the global role we are playing in this market. Furthermore, our staff have contributed
+ to the European’s 5G vision, development and trials through direct involvement in 5G-PPP Work-
+ ing Groups on 5G Architecture, Software Networking, Network Management, QoS and Security,
+ and Trials. Alcaraz-Calero and Wang have been serving as the EU 5G-PPP Technology Board
+ members since 2015, overseeing all the 5G-PPP Working Groups and projects and actively con-
+ tributing to 5G-PPP programme-level innovations and advising on key achievements and plans
+ for next phases. Adding our involvement in KTP projects with Innovate UK assessment of GBP7.5
+ gross value added GVA for every GBP1 investment, so far we have directly contributed to the
+ generation of >GBP2,100,000 GVA to the UK economy. Our collaborative projects (SmartLink,
+ gLINK and SunSPace) have catalysed socio-economic development in middle and lower-income
+ SAARC and ASEAN in Asia, including Afghanistan, Nepal, Bhutan, Bangladesh, Pakistan, India,
+ Thailand and so on. Through the SmartLink and gLINK projects, UWS helped the HEIs in these
+ countries in developing their research capacity and facilities. UWS’s computing research played
+ a significant role in the SunSPace project addressing socio-economic growth in three Asian coun-
+ tries (Thailand, Nepal, and Bhutan) by up-skilling conventional farmers to smart farming technol-
+ ogies across the entire sector as farm-to-fork. In addition, our outreach activities and contribution
+ to computer science education and upskilling in the areas of social deprivation (>25% of students
+ who are from the SIMD20 (Scottish Index of Multiple Deprivation, Quintile 1 or 20% most deprived)
+ areas study at UWS, making it a sector leader in widening participation) is of particular importance
+ in response to the UK Government Clean Growth agenda.
+
+ 4.3 Discipline, Interdisciplinarity, International Priorities and Wider Contributions
+ Discipline contributions: Our wider contributions demonstrate global reach and influence
+ through organisation of scientific conferences, editorial boards of highly impactful journals, devel-
+ oping standards, serving on a spectrum of external committees and bodies. We have provided
+ Conference Leaderships by serving on more than 500 programme committees, including all the
+ first-tier conferences in each of the research groups’ sub-areas. Our staff have also provided gen-
+ eral chairs and programme chairs, including IEEE Wireless Communications and Networking Con-
+ ference; IEEE International Conference on Intelligent Robots and Systems; IEEE International
+ Symposium on Robot and Human Interactive Communication; international conference on Soft-
+ ware, Knowledge Management and Applications (SKIMA); IEEE International Conference on
+ Computer and Information Technology; International Conference on Algorithms and Architectures
+ for Parallel Processing; and International Conference on Security, Privacy and Anonymity in Com-
+ putation, Communication and Storage. Two staff members are on the organising committee of the
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+ IEEE WCCI 2020. IEEE WCCI 2020, Glasgow - the world’s largest technical event on computa-
+ tional intelligence of the IEEE Computational Intelligence Society (CIS). The contribution to the
+ discipline also include a range of roles on committees and groups within specific research areas.
+ Staff are contributing to the UKRI research councils: 6 staff have been members of the EPSRC
+ college; 4 staff have acted as review members of the EU Horizon 2020 projects; 1 staff member
+ is a project reviewer of Australian Research Council (ACR) and Natural Sciences and Engineering
+ Research Council (NSERC) Canada.
+
+ Interdisciplinarity: Addressing global challenges is the key strategic position of our research,
+ which is thus inherently interdisciplinary. All projects during this REF period involved expertise in
+ other disciplines and we have contributed to delivering impacts in other UOAs (e.g., Smart Built
+ Asset Management impact case study in UOA12, Ramzan and Pervez). Specifically, some of the
+ particularly pertinent interdisciplinary areas include: (1) machine learning techniques to revolution-
+ ise medical diagnosis (R. Alzubi, N. Ramzan, H. Alzoubi and A. Amira, "A Hybrid Feature Selection
+ Method for Complex Diseases SNPs," in IEEE Access, vol. PP, no. 99, pp. 1-1. doi: 10.1109/AC-
+ CESS.2017.2778268), (2) addressing urgent challenges in the health sector through the ATHIKA
+ project involving academia, public health administration, health business , startups, consultants
+ and entrepreneurs; and (3) 5G with novel self-healing algorithms running on the power distribution
+ network to avoid power disruption caused by short-circuits, climatic phenomena and animals; as
+ well as (4) ‘Special Commendation’ recipient in the Multiparty Collaboration category at the 2018
+ Scottish Knowledge Exchange Awards - Thales-Challenge AALART project. Finally, SICSA has
+ worked closely with the other research pools to develop Research and Innovation Scotland (RIS)
+ that combines all the pools to develop a cross-pool approach to multi-disciplinary, challenge-based
+ research. Currently RIS is developing focused challenge workshops with KTNs and is working
+ towards a presence at the COP26 climate conference.
+
+ International priorities: We have contributed to standardisations activities including to ITU-T FG-
+ ML5G (Focus Group on Machine Learning for Future Networks including 5G) and SG13 (Study
+ Group 13: Future networks, with focus on IMT-2020, cloud computing and trusted network infra-
+ structures) with 2 official ITU-T Draft Recommendations approved, ETSI ENI ISG (Experiential
+ Networked Intelligence Industry Specification Group) with 1 POC approved, and ETSI GANA with
+ 1 ongoing specification being standardised; CoChair of VQEG HDTV; Co-Chair of VQEG
+ PSYPHY; Member of BSI IST/37.
+
+ Wider contributions: During this assessment period, our staff have been serving on 37 different
+ editorial boards, including Applied Soft Computing journal (Elsevier); Cognitive Computing
+ (Springers); Signal Processing: Image Communication; International Journal of Cyber Security
+ Technology; Frontiers in Wireless Communications and Networks; IEEE Communications Tech-
+ nology Newsletter; IEEE Communications Letters; Elsevier Physical Communications Journal;
+ IEEE Communication Magazine; Elsevier Computer and Electrical Engineer; IET Wireless Sensor
+ System; IARIA International Journal on Advances in Telecommunications; Cyber Journals: Multi-
+ disciplinary Journals in Science and Technology; and International Journal of Trust Management
+ in Computing and Communications. We have been invited to give 55 keynote/invited talks, includ-
+ ing ACM Future Worlds Symposium 2020, IEEE IES Webinar, IEEE.tv (2020), IROS WS 2018,
+ BMVA Symposium on Enabling Human-Level Understanding in Robots, IEEE ICC 2020 Workshop
+ on Intelligent 5G Network Slicing, IEEE International Conference on Cybernetics, 7th International
+ Conference on Cloud Computing, Data Science & Engineering, and IEEE sponsored Conference
+ on Innovations in Mobile Computing.
+
+ Staff in this assessment period have won 33 Best Paper Prizes/Awards in total including Best
+ paper award 2017 IEEE Transaction of Circuit and Systems for Video Technology; Best Journal
+ paper award 2019 jointly presented by IEEE Communications Society and China Institute of Com-
+ munications; Best Paper award at International Conference on Digital Arts, Media and Technology
+ (ICDAMT2017); Best Paper Award Winner for SOFTNET WORKING 2017; Best Student Paper
+ Award Winner for SIGMAP2014; and Best Student Paper Award Winner for IEEE ICCE2014; IEEE
+ ICCE (International Conference on Consumer Electronics) 2014.
+
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+ Our ten staff are Members or Senior Members of IEEE, and seven have served or are serving as
+ the visiting research professors/academics at the following HEIs: Nanjing University of Information
+ Science and Technology (China), Chiang Mai University (Thailand), Kantipur Engineering College
+ (Nepal), University of Lyon 2 (France), Amity University (India), University of Lorraine, France,
+ Capital University of Science and Technology, Pakistan, Polytechnic University of Valencia, Spain.
+
+ Staff have been recognised in wining several National and International Research and Innovation
+ Awards for their research and research projects. Significant awards include:
+  Winner of the Times Higher Education (THE) Awards 2020 -Knowledge Exchange/Transfer
+     Initiative of the Year Award 2020
+  Scottish Knowledge Exchange Champion award 2020
+  Scotland Centre for Engineering Education and Development (CeeD) Innovation Awards –
+     Best Innovation – 2020
+  2018 NATO Best Scientific Award – IST-118
+  Special Commendation award in Scottish Knowledge Exchange Awards 2018.
+
+
+
+
+                                                                                            Page 15
+

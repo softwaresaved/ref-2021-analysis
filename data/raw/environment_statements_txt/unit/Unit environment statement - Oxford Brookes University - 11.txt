@@ -1,0 +1,766 @@
+Unit-level environment template (REF5b)
+
+
+
+ Institution: Oxford Brookes University
+
+ Unit of Assessment: Unit of assessment: Computer Science and Informatics - 11
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Unit Context and Strategic Goals
+ Computer science research at Oxford Brookes comprises a dynamic group of researchers whose
+ work combines academic excellence with innovative practice based scholarship providing a pathway
+ to impact. Part of a successful and ambitious modern university, our researchers are at the cutting
+ edge of new developments and have a distinctive profile in artificial intelligence (AI) and software
+ engineering.    These developments are being applied in key areas such as healthcare,
+ telecommunications and digital technology for learning. This is strongly reflected in the impact case
+ studies (ICS) submitted for this REF.
+
+ The UoA has developed an inclusive research atmosphere with the aim of maximising the number
+ of staff actively engaged in research. Research directly informs teaching, in particular in the areas
+ of artificial intelligence, machine learning, robotics and software engineering.
+
+ Over the period 2014-2020, the school has continued the development of our two research centres;
+ the Dependable Systems Engineering Research Centre (DSERC) and the Intelligent Systems
+ Engineering Research Centre (ISERC) – (see Section 1.2) which foster collaboration and nurture
+ engagement with the public and other institutions, and support the achievement of impact. In
+ addition, we recently established the Institute for Ethical AI (IEAI). This is a virtual centre which
+ works with both of the above research centres and others across the university. All research-active
+ staff work with at least one group within these centres, developing their own research pathways with
+ the support of colleagues who share similar interests. Our regular research seminar series, which
+ disseminates progress to all researchers in the School of Engineering, Computing and Mathematics
+ (ECM), as well as regular group meetings, have fostered a rich, interdisciplinary environment in
+ which research flourishes.
+
+ Research and impact generated within these centres has been strengthened by staff success in the
+ university’s annual Research Excellence Awards competition, as well as Faculty Impact Acceleration
+ funding schemes (see Section 1.4). The school research budget provides scholarships for research
+ students, and targeted funding for distinct activities and events related to each centre.
+ Interdisciplinary research between the research centres and the wider intellectual communities of
+ the faculty and university is advanced through a range of collaborative projects (see Section 1.5).
+
+ The number of staff returned has increased from 13 FTE in 2014 to 17.3 FTE in 2020. This FTE
+ value represents 75% of eligible computer science staff. The external research spend has increased
+ from c.£1,000,000 in REF2014 to c.£2,350,000 over the period of REF2021. These figures show
+ that the UoA is growing and improving its research capability.
+
+ 1.2 Research Centres
+ The work in each Research Centre is formed into groups that address specific areas of research
+ and which are led by an experienced researcher. 11 FTE carry out research within DSERC and 6.3
+ FTE work within ISERC.
+
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+ DSERC is led by Harrison and the centre comprises three groups. The Cloud Computing and
+ Cybersecurity (CCC) group headed by Zhu has been working on the key area of software testing.
+ Zhu and Bayley have developed a new method for testing AI applications, Datamorphic Testing: A
+ Method for Testing Intelligent Applications (Zhu et al, 2019). Bayley and Zhu have investigated
+ how to ensure that third-party software services that are dynamically discovered and composed are
+ semantically correct, Monic Testing of Web Services Based on Algebraic Specifications, (Bayley et
+ al, 2016). Design patterns provide reusable software solutions and are widely used in software
+ development. Zhu and Bayley have been studying how a developer can prove that an application
+ of a pattern is valid, On The Composability of Design Patterns (Zhu and Bayley 2015). Security is a
+ newly established area of research being led by new cyber security lecturers Kamarudin and
+ Dehghanniri, who have expertise in malware and the social impact of cybercrime. Initial work is
+ focussed on a security framework for autonomous vehicles.
+
+ Harrison leads the Applied Software Engineering and Data Analytics (ASEDA) group in DSERC.
+ Harrison’s work on software engineering has applied a paradigm known as ‘learning from crowds’
+ to classify software engineering defects with non-expert knowledge, Learning to classify software
+ defects from crowds: a novel approach (Harrison et al, 2018). Martin and Harrison have developed
+ case based reasoning techniques which have been applied to a patient-controlled diabetes
+ management system, Temporal Case-based Reasoning for Type 1 Diabetes Mellitus Bolus Insulin
+ Decision Support (Martin et al, 2018). Aldea and Younas have shown how to use semantic similarity
+ and ontology mapping to automate regulatory compliance management, Automating the Semantic
+ Mapping between Regulatory Guidelines and Organizational Processes (Sapkota, Aldea et al,
+ 2016). In the area of data analytics, Younas has been investigating the application of NoSQL
+ databases for the analysis of London bus service data, Testing of Transactional Services in NoSQL
+ Key-Value Databases (Younas et al, 2018). Basu has developed a software tool for selection of
+ cloud services based on quality of service, Modelling and Simulation of QoS-Aware Service
+ Selection in Cloud Computing (Basu et al, 2020) and Younas has developed a software tool for
+ detecting malware, CloudIntell: An intelligent malware detection system (Younas et al, 2018).
+
+ Jabir leads the third group in DSERC which is the Advanced Reliable Computer Systems
+ (ARCoS) group. This group has a long history of developing resilient VLSI circuit designs and during
+ this REF period has designed and patented a concurrent error detection and correction system
+ electronic hardware, A Low-Complexity Multiple Error Correcting Architecture Using Novel Cross
+ Parity Codes Over GF (2^m) (Jabir et al, 2015), The main thrust of the work is now on memristor
+ logic designs including resilient cross bar architectures and memristor sensor arrays, Efficient
+ sensing approaches for high-density memristor sensor array (Jabir et al, 2018). The group received
+ the best paper award at the IEEE IOLTS’2016 conference for the paper Novel Memristive Logic
+ Architectures and the work has resulted in the filing of 8 patents.
+
+ Crook (2014-18) and Ball (2018-2020) lead ISERC. There are four groups which address different
+ types of intelligent systems but which have a common objective to analyse and process data to
+ improve system performance. The Visual AI Lab (VAIL) is led by Cuzzolin and is world-leading in
+ the field of deep learning for action detection in videos, Deep learning for detecting multiple space-
+ time action tubes in videos, (Cuzzolin, 2016), autonomous driving, and AI for healthcare, with a
+ strong momentum in the direction of frontier topics such as AI and neuroscience, human-centric AI
+ and machine, as evidenced by the best detection accuracies to date, and the first system able to
+ localise multiple events in real time, Online real-time multiple spatiotemporal action localisation and
+ prediction (Cuzzolin et al 2017).
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ The AI and Robotics (AIR) group is led by Olde Scheper. The group carries out research into
+ Social Robotics, Human Robot Interaction, Human Computer Interaction, AI & Machine Learning
+ and Bio-inspired Computing, Biologically Inspired Rate Control of Chaos (Olde Scheper, 2017).
+ Collaborations with clinicians and experimentalists have provided the opportunity to investigate
+ applications of AI, Human Computer Interface, and data analysis in health and human robot
+ interactions.
+
+ The Performance Augmentation Lab (PAL) led by Wild was established in 2016 to focus on
+ Augmented Reality and Wearable Technologies. The aim is to embed information directly into
+ experience, developing novel and powerful forms of real-time feedback on performance. Wild’s
+ expertise in this field resulted in him being appointed as the co-ordinator for work on an international
+ standard on Augmented Reality Learning Experience Model (IEEE standard P1589/Draft 3). In 2020,
+ the resources in this group transferred to the Open University following Wild’s award of a Chair in
+ Technology Enhanced Learning.
+
+ The Communications, Media and Telecommunications (CMT) research group led by Ball and
+ including Ou and Sengul has focussed on intelligent mobile wireless systems, including
+ communication between vehicles and infrastructure, Multiple Interface Scheduling System for
+ Heterogeneous Wireless Vehicular Network, (Ball, 2017), improving the performance of radio
+ access networks, Dynamic Resource Scheduling in Mobile Edge Cloud with Cloud Radio Access
+ Network (Ou 2018) and the optimisation of parameters for cellular radio, Self-optimization of
+ coverage and capacity based on a fuzzy neural network with cooperative reinforcement learning
+ (Sengul 2014). This group was closed in 2019 as the staff moved to new areas of research in the
+ VAIL and CCC groups.
+
+ The Institute for Ethical Artificial Intelligence (IEAI) forms part of Oxford Brookes’ response to
+ the UK Industrial Strategy. It was established by the co-director Crook and formally launched in
+ February 2020. The IEAI was founded and is being led by staff being returned to UoA11; it is,
+ however, a university-wide initiative that involves staff from across many disciplines, including
+ social science, business, health and life sciences. The mission of the IEAI is to promote the ethical
+ development and deployment of AI technologies, with a particular focus on trustworthy AI solutions
+ for business and society. The Institute is creating a number of new income streams with the aim of
+ becoming financially sustainable. External funding of c.£1,250,000 was won by the institute from
+ the Research England Development Fund. Initially the institute has been working in specific
+ business sectors (HR and Law), to establish pay-for-membership consortiums.
+
+ 1.3 Research and Impact Strategy
+ The overarching objective for the unit during the assessment period has been to deliver the highest
+ possible outcomes in research and impact in the areas represented by our two research centres.
+ The key objectives identified in REF2014 have been substantially delivered due to the strategy and
+ support structures identified below. These objectives were as follows:
+
+    ●   Develop a research community with the capability of addressing increasingly complex global
+        challenges.
+    ●   Make strategic new appointments to strengthen research capacity
+    ●   Increase external funding
+
+ The objective to develop a research community capable of addressing global challenges has been
+ achieved through the close coordination of the group activities, in particular in the areas of AI
+ technologies and software testing, case based reasoning, data analytics and performance
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+ augmented learning. This has enabled our teams to successfully lead and partner on several major
+ Horizon 2020 projects. These projects are related to the global themes of healthcare (Martin,
+ PEPPER project and Cuzzolin, SARAS project) and advanced teaching and learning (Wild, WEKIT
+ and ARLEM). The expertise in AI technology and big data has also enabled Cuzzolin and Younas
+ to actively participate in the university’s new Research, Innovation and Knowledge Exchange (RIKE)
+ networks (see IES and Section 1.5). In addition, the expertise in AI, for example Rolf and Cuzzolin
+ (AI algorithms) and Zhu (AI testing), has contributed to the establishment of the new IEAI by Crook.
+ These areas of expertise have also generated impact and this is reflected in the Impact Case Studies
+ (ICS) on Human Performance Augmentation and Artificial Intelligence for Saliency Detection and
+ Action Recognition (see Section 1.4).
+
+ While the core research staff that were returned in REF2014 have all been retained, we have fulfilled
+ the objective to make new strategic appointments to strengthen our research capability. Rolf joined
+ in 2016 and has made a significant contribution to successful bids for funding through KTPs with
+ Blenheim Palace and the law firm Moorcroft. Rast joined in early 2020 and is an expert with many
+ years of research experience in AI. He is now leading the teaching on our AI programmes and is
+ actively involved in applying his knowledge of AI and computer vision to research into autonomous
+ vehicles, which is a major cross-ECM project; Pillai (2016-2018), Dehghanniri and Kamarudin
+ were appointed to support our new UG and PGT programmes on computer science for
+ cybersecurity, which has been certified by the National Cyber Security Centre and their roles also
+ include the establishment of a new research area in cybersecurity. Rast, Dehghanniri and
+ Kamarudin have been returned as an Early Career Researchers (ECR).
+
+ Our objective to increase external funding has been very successful and overall the external funding
+ has increased by 235% as described in Section 3.1.
+
+ Moving forward into the next five years, we will sustain and further develop our rich research and
+ impact culture. Our main aims are as follows:
+
+    ●   To enhance pathways to impact by identifying opportunities for impact at an early stage and
+        fostering them through to a successful outcome.
+    ●   Further develop inter-disciplinary research across the School, between Faculties with other
+        universities and with industry.
+    ●   Increase the number of applications for external funding to sustain and expand the research
+        in line with the university strategy as described in the IES.
+    ●   To increase our flourishing community of postgraduate researchers through the continuation
+        of faculty-funded PhD bursaries and by seeking external or collaborative funding.
+    ●   To enhance the careers of early researchers through the university’s continuing commitment
+        to supporting research and impact as integral parts of academic duties.
+
+ 1.4 Impact Support and Development
+ Support for impact is delivered through the Faculty Impact Lead (Gupta), underpinned by the
+ university’s Research Impact Steering Group and Research Impact Officers. Together the impact
+ team offers dedicated sessions on planning, delivering and recording impact activity, working in
+ partnership with the university’s Research and Business Development Office. Within the school, the
+ research centre leads, in collaboration with the group leaders, monitor research work and identify
+ and support activities that can enhance impact. Additional support is provided through mentoring
+ by the unit’s ‘Impact Champions’ whose work forms the basis of our submitted ICSs.
+
+
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+ A regular programme of faculty and departmental events explores the opportunities and benefits of
+ impact and is open to colleagues at all career stages. Impact is firmly embedded into the annual
+ Personal Research Planning (PRP) process in which all research staff participate and impact is
+ considered in workload allocations as well as applications for promotion.
+
+ Under the umbrella of the above support schemes, projects are monitored and supported to
+ maximise impact. The university Impact Tracker database is used to record evidence of impact as
+ it occurs during a project. Examples include the work by Olde Scheper, Aldea and Martin on the
+ application of ‘Rate Control of Chaos’ analysis for identifying medical conditions. Trials have been
+ carried out in a hospital in Mexico and the work was awarded Impact Acceleration funding from the
+ Faculty which allowed the team to organise a focus group of medical and technical stakeholders to
+ disseminate the findings of the research.
+
+ The work on predictive personalised decision support for diabetes management by Martin and
+ Harrison was also identified as having potential for impact (more details provided in Section 4.2).
+ The Faculty awarded Impact Acceleration funding to this project which enabled a video to be
+ produced to increase the dissemination of the work. Project videos have received well over 7500
+ views between them: (tinyurl.com/pepperh2018 and tinyurl.com/pepper2020). Trials of the monitor
+ have now been completed and have shown that the system could be extremely beneficial to people
+ managing diabetes.
+
+ Through the Horizon 2020 WEKIT project, Wild has developed a technology platform using
+ augmented reality for producing 3D augmented reality training content enabled by smart wearables.
+ The project validated the methodology and technology in pilot test-beds in aviation, space
+ engineering and medicine. Wild was awarded Impact Acceleration funding by the Faculty to deliver
+ training on the use of performance augmented learning to local schools and colleges to broaden the
+ awareness of the opportunities offered by this technology. Important impact resulting from this work
+ is the first standard on performance augmented learning produced by the IEEE sub-committee
+ chaired by Wild (see Section 4.1).
+
+ Cuzzolin has developed an international reputation for his group’s work on computer vision and
+ action recognition. The impact from this work is starting to emerge and is likely to grow significantly
+ over the next few years. Earlier work under Torr (now UoO) on saliency detection was further
+ developed by Huawei and deployed on their mobile phones for processing images for their ‘selfie’
+ feature. More recently Cuzzolin has been working with Huawei and his consultancy has led to the
+ development of action recognition algorithms that have been selected for deployment in the next
+ generation of Huawei mobile phones. In addition, Cuzzolin has a successful KTP with Createc
+ whose business includes the development of a tool for analysing football players. Cuzzolin’s action
+ recognition technology is able to monitor players’ behaviour on football pitches, such as how they
+ land from a jump and how they kick a ball, which will have impact in terms of player performance
+ and analysing causes of injury. This KTP work has facilitated connections with three Premier League
+ clubs and funding for development has been received from one of these clubs.
+
+ The work of Wild (Human Performance Augmentation) and Cuzzolin (Artificial Intelligence for
+ saliency detection and action recognition) were selected for the ICS for REF2021.
+
+ There are promising indications that all the above projects will produce significant impact over the
+ next REF period and they will continue to be monitored and supported together with emerging new
+ projects. The procedure for identifying key areas of research and monitoring the progress towards
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ impact has been very effective in terms of keeping impact as one of the strategic targets for the
+ research. It is therefore planned to continue this approach into the next REF period.
+
+ 1.5 Interdisciplinary Research
+ Research staff are supported in engaging with researchers from other disciplines. Over the last few
+ years there have been a number of very successful collaborations, with publications expected in due
+ course. Examples include:
+
+ Olde Scheper (Computing with UoA3) was awarded a faculty funded PhD student scholarship as a
+ result of a faculty initiative to develop interdisciplinary collaboration. This collaboration is with Dawes
+ (UoA3, Faculty of Health & Life Sciences [HLS]) and Dr Karl Morten, Nuffield Department of
+ Women’s and Reproductive Health, Oxford University [UoO]) and studies Criticality Gait Analysis.
+ Dawes’ group is providing data for the analysis and joint publications are planned in future. Aldea
+ and Olde Scheper (Computing with UoA3) were awarded a Newton Institutional Link grant for the
+ CArDIGAN (Criticality Analysis of Diabetic Gait in Children) project. This is a multidisciplinary project
+ in collaboration with Dawes (UoA3, HLS) and a children’s hospital in Mexico (Obesity Clinic, Hospital
+ Infantil de Mexico Federico Guzman). Martin (Computing and Medicine) was awarded Global
+ Challenges Research Fund (GCRF) funding from Innovate UK for the project Abledoc (Avatar-Based
+ Learning for Diabetes Optimal Control) project. This project is in collaboration with Cognitant and
+ Hospital Universitario San Ignacio (Colombia). A joint publication between the collaborators is in
+ preparation. Olde Scheper (Computing and Engineering) received a university central fund award
+ to work on applying rate control of chaos to the control of petrol engines.
+
+ Martin (Computing and Health/Medicine) is the PI for the Horizon 2020 project PEPPER in which
+ the project partners are: Imperial College London, University de Girona, Girona Biomedical
+ Research Institute – Hospital Dr Josep Trueta, RomSoft SRL and Cellnovo Ltd. The project uses
+ case-based reasoning as the basis of the diabetes management system. A publication from this
+ collaboration has been returned, A Modular Safety System for an Insulin Dose Recommender: a
+ Feasibility Study; more details are given in section 4.2. Martin (Computing and Health/Medicine)
+ was awarded GCRF funding from the Royal Academy of Medical Sciences for the project
+ COORDINATES: (Cloud-Based Tool for diabetes management and research in Colombia). The
+ project partners are Hospital Universitario San Ignacio (Colombia), Universidad Antonio Narino,
+ Imperial College. The project explored the feasibility of a cloud-based platform for diabetes
+ management.
+
+ Wild (Computing with Arts) has explored the application of augmented reality with a number of
+ different disciplines including most notably design sciences (Schools of Art, Built Environment and
+ Architecture) and HLS (Medical sciences, Nursing, Psychology, Sports).
+
+ Interdisciplinary research is also carried out through the university’s new RIKE networks (see IES).
+ Cuzzolin is contributing his expertise in AI to the Health Ageing & Care network. Younas is a co-
+ lead of the Refugees and Migration network, where he is applying his knowledge of big data to the
+ information analysed by this network. Crook has established the IEAI, which is addressing AI in a
+ business context (Computing with HR/Law); see also Section 1.2.
+
+ 1.6 Open research environment and ethics
+ This UoA has gone beyond the requirements: almost all outputs over the period have been made
+ open access (OA) on Oxford Brookes’ institutional repository RADAR through either the Green or
+ Gold routes to OA. The UoA encourages all researchers to make their work available through
+
+                                                                                                   Page 6
+Unit-level environment template (REF5b)
+ publically accessible websites. Over the last 6 years the research work which forms the basis of the
+ ICS has been carried out by Cuzzolin’s Visual AI lab and Wild’s Performance Augmentation Lab.
+ Each      of    these    labs     has     its    own      website     for   sharing    information:
+ https://cms.brookes.ac.uk/staff/FabioCuzzolin/ and https://pal.cct.brookes.ac.uk/ respectively.
+
+ The two largest projects in the UoA also both have a website describing the progress of the research
+ work. Information on the PEPPER project, managed by the project PI Martin, can be accessed at
+ (http://www.pepper.eu.com/). Information on the Horizon 2020 project SARAS, for which Cuzzolin
+ is a co-partner, is publically available through the project website (https://saras-project.eu/).
+
+ Staff make open datasets for non-confidential data generated in research projects. For example,
+ Ball has made the data generated in tests carried out in Guildford, UK to measure roadside parking
+ spaces     with     a    mobile   sensing    system      available    as    an    Open     Dataset
+ (DOI: https://doi.org/10.24384/dkha-9n48) and the dataset for Harrison’s paper, Learning to classify
+ software defects from crowd has been published and will allow other researchers to develop medical
+ diagnostic decision-making tools.
+
+ The research integrity of the unit is overseen by the University’s Research Ethics Committee whose
+ membership brings cross-faculty researchers (staff and students) together members external to the
+ University. The faculty has a dedicated Ethics Officer responsible for reviewing projects and liaising
+ with appropriate university committees. Good practice concerning data protection, privacy, and the
+ involvement of human participants is shared among staff through a Research Committee where
+ applications for ethical approval are shared and discussed.
+
+ 2. People
+
+ 2.1 Staffing Strategy, Support and Development
+ The unit’s research activities are overseen by a Research Lead (RL, Ball) who has overall
+ responsibility for strategy and management, working closely with the Postgraduate Tutor (PGRT,
+ Olde Scheper) and the Research Centre Leaders to ensure effective liaison with the postgraduate
+ community. Ball and Olde Scheper represent the staff on the Faculty RKE Committee, chaired by
+ the Associate Dean (AD) RKE. All researchers complete a Personal Research Plan (PRP) every
+ May, in consultation with the RL. This enables staff to identify research goals in keeping with their
+ career stage and the unit’s strategic priorities and to identify how their research impact could be
+ enhanced. PRPs are considered by the RL, Head of Department and Faculty ADRKE, and feedback
+ is provided to guide each researcher. The amount of time allocated to staff for research is determined
+ in accordance with the university’s workload planning framework. At every stage, EDI issues are
+ taken flexibly into account.
+
+ The UoA provides support for ECRs by providing a mentor (e.g. Olde Scheper for Kamarudin and
+ Dehghanniri, and Rolf and Cuzzolin for Rast) for both teaching and research. The researchers
+ are also encouraged to work with teams within the Research Centres. ECRs are also guided through
+ the ‘Your First Three Years’ scheme as described in the IES. This provides training and guidance
+ for early career researchers to establish a research career. ECRs are also allocated time to develop
+ their research as part of the workload planning process coordinated by the Head of School.
+
+ There are a range of opportunities for both ECR and mid-career researchers to bid for internal
+ funding to support their research. Examples of the schemes that have been available and where
+ they have been used over the period 2014-2020 are shown below.
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+    ●   University ‘Next 10 Awards’ - Cuzzolin received this award from the university in 2014 which
+        provided a scholarship for a PhD student with a value of £60,000. The resultant project
+        produced excellent work on action recognition which has been a key factor in stimulating the
+        growth of Cuzzolin’s research activities over the last 5 years.
+    ●   Central Research Funds (CRF) – Bayley and Zhu received an award of £20,000 to work on
+        Cloud computing and Big Data which has led to further work on cloud-based software.
+    ●   CRF Research Excellence awards - Ball received an award of £20,000 to complete research
+        publications resulting from a PhD project on heterogeneous wireless communications and
+        mobile sensing.
+    ●   CRF 150th Anniversary studentship awards - Olde Scheper was awarded £60,000 for a PhD
+        studentship on ‘Criticality control of insulin release’. Martin received an award of £60,000
+        for a studentship to work on case based reasoning.
+    ●   Faculty funded PhD studentships – Olde Scheper was awarded a PhD studentship on
+        Criticality Gait Analysis (£90,000) and Zhu and Bayley were awarded a £90,000 studentship
+        on AI Software testing.
+    ●   School awarded PhD studentships – These are used to stimulate new areas of research and
+        particularly for ECRs. Bayley, Kamarudin and Dehghanniri were awarded £60,000 for a
+        PhD studentship on cybersecurity, Cuzzolin and Bradley were awarded a £90,000 PhD
+        studentship on autonomous technologies, Rolf was awarded a £60,000 studentship on deep
+        reinforcement learning based on temporal goals.
+    ●   HEIF funding - Olde Scheper was successful in applying for £185,000 to work on bio-
+        inspired rate control of chaos. This project has resulted in a patent being granted in the EU,
+        US and Japan.
+
+ Faculty funding is also available to support staff in realising impact as described in Section 1.4. In
+ addition, a budget of £20,000 is made available to the research centres for research expenses such
+ as travel to collaborators and conference attendance, which all staff can apply for. This provides an
+ opportunity for staff to present their work and facilitates networking.
+
+ The recruitment of new staff is described in Section 1.3. There have been three academic staff
+ promotions over the last 6 years. Crook was promoted to Professor in recognition of his leadership
+ role within the university; Cuzzolin has been promoted from Reader to Professor in recognition of
+ his outstanding research, including world leading work on action recognition; Younas was promoted
+ from Senior Lecturer to Reader in recognition of his contribution to teaching and his research on
+ data analytics, web and cloud-based systems and services and his collaborations with co-workers
+ around the world.
+
+ Succession planning is facilitated through the structure of the Research Centres and their constituent
+ groups. When staff have established an area of research, a new group can be formed e.g. Cuzzolin
+ - VAIL, Wild - PAL. When a group leader is promoted, a member of the group is able to progress
+ to group leader e.g. Olde Scheper – AIR, taking over from Crook.
+
+ Over the assessment period, the UoA has had 10 PDRAs funded by the Horizon 2020 project
+ SARAS, the Horizon 2020 PEPPER project and the Leverhulme Trust projects on Machine Theory
+ of Mind and Self-Repairable Memristive Gas Sensor Arrays. There has been one Research Fellows
+ (RF) funded by the Faculty (2019). Of the 11 post-doctoral positions, 2 are women reflecting the
+ national percentage of women in computer science, and 6 are from a BAME background. We are
+ making a concerted and co-ordinated effort to address the gender and ethnicity balance through our
+ involvement in the Athena Swan and Race Equality charters. The Faculty to which UoA11 belongs
+ has Athena Swan Bronze, which will be submitted for renewal in 2021.
+
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ RFs and PDRAs play an important role in the UoA research; they bring experience from previous
+ posts and play a key role in the successful delivery of the projects. For example, Cirstea, employed
+ under the Leverhulme Trust project on Machine Theory of Mind, came with a very strong background
+ in reinforcement learning and inverse reinforcement learning that made him a very valuable addition
+ to the team. Skarga-Bandurova is working on the EU funded SARAS project; she is an experienced
+ researcher who was head of department in her previous university and has greatly helped with the
+ management of the project. Within the UoA, PDRAs and RFs contribute to seminars, which are
+ given on a bi-weekly basis throughout each semester and to research group discussions. They are
+ also given the opportunity to do some teaching, which can be beneficial to the development of their
+ academic careers. Of the PDRAs that have reached the end of their contracts, one has moved to be
+ a PDRA at UoO, one has joined Trip Advisor as a Senior Software Engineer and one has taken a
+ software position in the USA.
+
+ 2.2 Links with Industry
+ Several good connections with industry have been established through KTP projects. Cuzzolin
+ (Metavision, Createc), Ball and Ou (Clearview Traffic), Rolf and Olde Scheper (National Heritage,
+ Blenheim Estate), Crook and Rolf (Moorcrofts LLP). In addition to KTPs, Ball worked on a project
+ with Ethos Valuable Outcomes and Cuzzolin has been awarded funding from Huawei for
+ consultancy (0.2 FTE) and support for a RF and a PhD Studentship. Additional links with industry
+ have been established through the School’s Industry Advisory Board. Members represent a cross
+ section of the computer science industry and provide guidance and advice on both teaching and
+ research.
+
+ The support within the university for establishing links with industry is described in Section 3.2.
+
+ Through our contacts with industry we have received equipment to support our research. Wild
+ received samples of Hololens from for his work on AR and Cuzzolin received a hardware grant of
+ £650 from NVIDIA for a Titan GPU card to support his work on action recognition.
+
+ 2.3 Research Students (PGR)
+ The university has a strong doctoral student culture and this is coordinated at the School level by
+ the Post Graduate Research Tutor (PGRT, Olde Scheper). We are focussed on creating
+ opportunities for our PhD students to develop the necessary experience to equip themselves for
+ future academic or technical careers. All PGR students are given the opportunity to provide teaching
+ support through lectures, tutorials and laboratory work. The majority of research projects involve the
+ use of software tools for simulation and analysis which are commonly used in industry, so students
+ gain skills which are highly valued by employers.
+
+ All PGR students are members of the Graduate College which is a student community coordinated
+ by the university’s graduate office. Within the Faculty, the UoA fosters close and supportive links
+ between staff and PGR students, which are further developed through the faculty’s programme of
+ events. All students are involved in the Faculty’s Doctoral Training Programme, which provides a
+ programme of professional development and careers training. The supervision team are available
+ to provide technical guidance and advice on the direction of research; all students produce an annual
+ report and have an annual appraisal organised by the PGRT who monitors the overall progress of
+ the project and the training to ensure progress is appropriate for a timely completion. All
+ postgraduate research students have an opportunity to present their research work at the Faculty
+ Research Festival which is held in May each year and is co-ordinated by a team of students.
+
+
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+ Over the period 2014-2020 there have been 18 PhD completions, which compares to 14 over the
+ previous REF period 2009-2014.
+
+ We are very proud of the record of the career progression of our PGR students. We believe that the
+ research environment has played a significant role in this success due to the quality of the technical
+ training as well as the mentoring provided for all students. Students that have completed their PhD
+ with supervisors in ISERC have been employed with Samsung Research Centre in the USA and as
+ PDRAs at Stanford University, ETH Zurich and UoO. Students that have completed their PhD in
+ DSERC, now have roles as Head of Microcontroller Series Development Group at Continental AG
+ Automotive Industries group in Germany, Senior Software Engineer at Trip Advisor, Data Analyst at
+ Deductive and Senior Analogue Verification Engineer at Infineon Technologies; this alumnus also
+ now serves as a member of the School’s Industry Advisory Board.
+
+ PGR students have also been recipients of awards as a result of their research excellence; a student
+ with Olde Scheper, Martin and Aldea received the best poster award at Womencourage 2019 for
+ her work on diabetes management. In VAIL, a student supervised by Cuzzolin won the reading
+ group prize at the 2015 International Computer Vision Summer School (ICVSS) and a team of
+ students secured 2nd place in both the 2016 and 2017 Computer Vision and Pattern Recognition
+ (CVPR) activity detection challenges.
+
+ 2.4 Equality and Diversity
+ Advancing equality of opportunity for all researchers, and a concern for equality and diversity, is
+ embedded into our University systems and structures as detailed in our Code of Practice, and the
+ IES (Section 3).
+
+ Of the 23 (by headcount) eligible staff in UoA11, 18 have significant responsibility for research (SRR)
+ (17.3 FTE). Of the 17.3 FTE with SRR, 17% are women reflecting the current proportion of women
+ in computer science nationally (15%); 75% of eligible women have SRR. In addition, 23% are from
+ a BAME background; this compares to the national average for engineering and technology of 23%.
+ Our EIA showed no significant difference in those with SRR by any of protected characteristics
+ including gender and ethnicity. Equally, there were no differences in the selection of outputs by
+ gender, ethnicity or other protected characteristics. As stated in Section 2.1, we are making a
+ determined effort to address the gender and ethnicity balance through our involvement in Athena
+ Swan (Faculty Bronze) and the Race Equality Charters (Institutional application planned for 2021).
+
+ We are endeavouring to attract more women into computer science through summer computing
+ workshops run by Aldea, Kamal and Martin, who introduce the subject to women students in a
+ friendly environment. The events include programming and the design of wearable technologies.
+
+ Of the 18 PhD completions, 18% were women; this compares to the national average of 17%. In
+ addition, 76% of these PGR students were from BAME backgrounds, which is significantly above
+ the UK average (27%). Six of the PhD students were funded by university scholarships. We are
+ pleased to report that, of the current cohort of 13 PGR students, 46% are women, which is showing
+ a positive trajectory in terms of gender equality and we hope that this will encourage more women
+ into computer science research in the future as more role models graduate.
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ One of the strategies for the UoA over the period 2014-2020 was to ‘increase external funding’
+ (Section 1.3). The unit has had notable success over this period with over 50% of the staff submitting
+ bids for external funding. A process of internal peer review of funding proposals has been introduced
+ to improve the quality of the proposals and to share good practice.
+
+ The total external funding spend over the current REF period was c.£2,350,000, which compares to
+ c.£1,000,000 over the previous REF period.
+
+ The major sources of external funding are as follows, noting that a number of the recent awards will
+ realise research spend over the next REF period.
+
+ Awards in ISERC:
+  ● Cuzzolin: Horizon 2020 project SARAS (Smart Autonomous Robotic Assistant Surgeon)
+     €596,073. More details of this project are given in Section 4.1.
+  ● Knowledge Transfer Partnerships (KTP) with Meta Vision LTD (£143,000) and Createc
+     (£190,000) – see Section 2.2
+  ● A three-year research agreement on complex activity recognition from videos with Huawei
+     Technologies Canada (£278,000)
+  ● A Leverhulme Trust award £273,000 for research on Machine Theory of Mind.
+  ● Cuzzolin is also a Lead Team member and advisor for the recent £1,257,000 Research
+     England UEZ-funded Oxford Brookes Artificial Intelligence & Data Analysis Incubator (AIDA),
+     which is led by Crook and is co-funded by Oxford Brookes for an additional £654,000.
+  ● Wild received EU funding for projects directed at the application of augmented reality and
+     performance augmented learning:
+       ⮚ Wearable Experience for Knowledge Intensive Training (WEKIT), (c.€280,000)
+       ⮚ Textile & Clothing Business Labs (TCBL), (c.€401,000)
+       ⮚ Learning Analytics for Augmented Reality (LAAR), (c.€58,000)
+       ⮚ Augmented Reality for Formal European University Education (AR- FOR-EU), (€78,800)
+       ⮚ Augmented Reality Interactive Educational System (ARETE), (€342,000)
+
+
+ Awards in DSERC:
+  ● Martin is the PI for the H2020 collaborative research project ‘PEPPER’ (Patient Empowerment
+     through Predictive PERsonalised decision support) (2016-2020). The project has total funding
+     of c.€3,500,000 with €643,000 for OBU. More details of this work are given in Section 4.2.
+  ● Martin was also part of a GCRF Royal Academy of Medical Sciences grant of £59,700
+     (£12,000 to OBU) (2019 – 2020) for the project COORDINATES: (Cloud-Based Tool for
+     diabetes management and research in Colombia). More details in Section 4.2.
+  ● Aldea and Olde Scheper were awarded a Newton Institutional Link grant (£97,281 for OBU)
+     for the CArDIGAN (Criticality Analysis of Diabetic Gait in Children) project. More details in
+     Section 4.2.
+  ● Martin has been awarded GCRF Innovate UK funding of £10,000 (total project £59,600) for a
+     6 month pilot study (2020) to study the acceptance of immersive technology as an educational
+     tool for patients with diabetes. More details in Section 4.2.
+  ● Jabir was awarded a Leverhulme Trust Research Project Grant: “MONITOR: A Self-
+     Reparable Memristive Gas Sensor Array” (£234,000) See section 4.1 for more details.
+  ● There have also been 5 KTPs with industry partners as described in Section 2.2
+
+ 3.2 Infrastructure and Facilities
+ Organisational infrastructure: Research in this UoA is coordinated by the RL (Ball) and the
+ Research Centre Leads (Harrison and Ball) supported by the Group Leaders. A PGRT (Olde
+ Scheper) manages the PhD students.
+
+ The UoA is supported by the Faculty Research Support Office. This provides support for academic
+ staff in the Faculty of Technology, Design and Environment to undertake high quality, high impact
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+ research and knowledge exchange activities. It also supports the Faculty in the development and
+ delivery of the strategies which lead to these activities. It consists of a Research Manager who
+ provides a link between each UoA and the ADRKE, two Grants officers and a Research
+ Administrator who provide information about available funding opportunities and support in the
+ bidding process. The Research Support office supports the research programmes through regular
+ RKE Committee meetings, an Ethics approval panel and a Grants approval panel. The Research
+ Office also coordinates a mentoring scheme. The university Research and Business Development
+ Office (RBDO) has an IP & Commercialisation Manager who works closely with all our researchers
+ to identify and develop ideas to maximise patent and commercial opportunities.
+
+ The RBDO support a KTP Manager who establishes links between companies and research teams
+ and supports the preparation of KTP proposals.
+
+ Operational infrastructure: Brookes IT Services maintain the university computer infrastructure.
+ It also hosts workstations used for AI simulation in a secure, air-conditioned server room with
+ uninterruptible power supplies for high reliability operation. ECM has an IT Technical Coordinator
+ who supports the computing infrastructure for both teaching courses and research. The Estates and
+ Facilities are managed centrally within the university but the School has a Technical Support Service
+ Manager who coordinates facilities for the School and liaises with the central team. He also
+ manages the technical support staff. The university library has a librarian dedicated to the School
+ who maintains access to the key resources including publication databases.
+
+ Facilities: Each Centre has a dedicated laboratory for the research students. These laboratories
+ were relocated into refurbished accommodation at the start of 2018 as part of a campus re-
+ organisation. As the number of researchers in Cuzzolin’s group has increased since 2018, a
+ second laboratory was made available for ISERC. These dedicated laboratories provide an
+ environment where students working with similar skill sets can interact and share their experiences.
+ The staff that are associated with each Centre have offices close by the laboratories which
+ encourages a close working relationship between all the researchers in each centre and maximises
+ the opportunities for sharing information and expertise.
+
+ A new fabrication laboratory was established in 2018 to support courses and research which require
+ hardware build and software integration. Two networking labs were set up in 2018 to support
+ teaching and research into cyber security.
+
+ An eight GPU workstation (£34,000) was funded by the School in 2019 to support the work on action
+ recognition including the work on the ICS for Artificial Intelligence for Saliency Detection and Action
+ Recognition.
+
+ A dedicated laboratory was set up in 2019 for experimentation with Augmented Reality. This has
+ cameras and AR headsets for testing AR algorithms. This infrastructure supported the ICS on
+ Human Performance Augmentation.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1. Collaboration
+ Collaboration with other groups and institutions both nationally and internationally has been one of
+ the key factors in influencing the generation of impact from our research.
+
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+ In ISERC, Cuzzolin’s VAIL has been a partner in the H2020 project SARAS (Smart Autonomous
+ Robotic Assistant Surgeon). This project partners are University of Verona, University of Ferrara,
+ University of Catalonia, University of Dundee, Università degli Studi di Modena e Reggio Emilia,
+ Ospedale San Raffaele, Medineering, Austrian Center for Medical Innovation and Technology.
+ SARAS aims at developing the next-generation of surgical robotic systems that will allow a single
+ surgeon to execute Robotic Minimally Invasive Surgery (R-MIS) without the need of an expert
+ assistant surgeon. The design approach in this project will have significant impact for hospitals as
+ it is to produce a cost effective solution being developed in this project will have a tremendous impact
+ for hospitals as it will allow more hospitals to access this technology and reduce their operating
+ costs. (https://saras-project.eu/). We expect that impact from this work will be realised in the next
+ REF period.
+
+ Cuzzolin’s international reputation in action recognition has led to his collaboration with Huawei’s
+ research lab in Vancouver. Action recognition algorithms developed under Cuzzolin’s guidance
+ have been selected for use in Huawei’s mobile phones as described in Section 1.4. For this reason
+ we have selected this work as one of the ICS for this UoA – see section 1.4.
+
+ Cuzzolin is also collaborating with Cambridge University on the Levehulme Trust project ‘Machine
+ Theory of Mind’. This project combines the action recognition skills in Cuzzolin’s group and the
+ clinical neuropsychology knowledge of Sahakian (Cambridge) to investigate the next generation of
+ action recognition techniques.
+
+ In the PAL, over the period 2014-2020, Wild has been working on five collaborative European
+ projects listed in Section 3.1. These projects include over 20 partnering organisations in countries
+ across Europe. Wild’s work on PAL and his contribution to the IEEE specification for Augmented
+ Reality Learning Experience Models (ARLEM, IEEE standard association working group p1589)
+ could not have been achieved without this broad collaboration.
+
+ In the Dependable Systems Engineering Research Centre (DSERC), Jabir’s Leverhulme Trust
+ funded project on Self-Repairable Memristive Gas Sensor Array is in collaboration with the University
+ of Rome. This project is investigating gas and chemical sensing properties of memristors and the
+ collaboration combines the circuit design knowledge of Jabir with the fabrication facilities in Rome.
+
+ Additional (interdisciplinary) collaborative projects are described in Section 1.5.
+
+ Our KTP projects are an important part of our collaboration with industry and these are described in
+ Section 2.2.
+
+ 4.2 Contribution to the Economy and Society
+ The vitality and diversity of our research culture is demonstrated by the wide range of colleagues
+ involved in developing impactful relationships with research users outside of academia.
+
+ Our healthcare related projects will have a significant impact on the general public in the coming
+ years. For example, Martin’s project PEPPER (see also Sections 1.5 and 3.1). This system
+ provides a personalised decision support system using case-based reasoning combined with
+ predictive computer modelling to enable patients with Type 1 diabetes to safely self-manage their
+ condition. The project results and feedback from the trials indicate that the system has the potential
+ to improve health outcomes for people with insulin-dependent diabetes. The long-term impact of
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+ PEPPER is to contribute to the evolution of diabetes technology to increase the participation of the
+ patient in the care process which could lead to a reduction in global healthcare costs.
+
+ Martin’s project, Abledoc, shows how immersive technology can be used as an educational tool for
+ patients with diabetes. Martin’s project, COORDINATES is working with a hospital in Colombia to
+ develop a Cloud-Based Tool for diabetes management. Aldea and Olde Scheper’s project,
+ CArDIGAN (Criticality Analysis of Diabetic Gait in Children) project is working with a children’s
+ hospital in Mexico (Obesity clinic, Hospital Infantil de Mexico Federico Guzman). It uses rate of
+ chaos for gait analysis and the tests indicate that clinical intervention can be effective for improving
+ the health of obese children. (See Sections 1.5 and 3.1 for additional information on these projects).
+
+ Olde Scheper and Crook have been champions for outreach to the local community. Over 50
+ presentations have been given to schools, churches, University of the 3rd Age and interviews on
+ radio and TV. For example, Olde Scheper and Hughes gave a presentation on robotics to St
+ Andrew's Church of England Primary School (January 2018) and Crook gave a talk on ‘Robots vs
+ Humans’ to Magdalen College School and a talk on ‘Robots of good character’ to the University of
+ the 3rd Age at OBU (23rd November 2015). Crook has also given several interviews on robotics on
+ radio and TV such as ‘Realistic humanoid robots and computer graphics’, BBC World News, Global
+ programme, 6th November 2014 and ‘Comments on Autonomous moral vehicles‘, BBC Radio
+ Oxford Radio 9th February 2018. Olde Scheper has given an interview on ‘Artificial Intelligence’ on
+ BBC Radio Oxford (27 August 2017).
+
+ 4.3 Contribution to the research base
+ Staff contribute strongly to the process of research dissemination through their journal editorship
+ e.g. Harrison is Editor-in-Chief of the Software Quality Journal and Cuzzolin is on the Editorial
+ Board for IEEE Transactions on Fuzzy Systems. Staff also serve as conference chairs and on
+ programme committees e.g. Zhu is a co-founder of the IEEE international Conferences on Artificial
+ Intelligence Test (AI Test) and a general chair of its first edition held in San Francisco in April 2019,
+ Harrison has served on the programme committee for the International Conference on Software
+ Engineering (ICSE), Younas has served as Program Chair at the IEEE International Conference on
+ Big Data Computing Service & Applications, California, USA, 2019, Cuzzolin was Program Chair of
+ the 3rd International Conference on the Theory of Belief Functions (BELIEF 2014) and is a member
+ of the Board of Directors of the Belief Functions and Applications Society (BFAS), which organises
+ the BELIEF series of conferences.
+
+ Staff undertake reviews for a wide range of journals including: IEEE Transactions On Systems Man
+ and Cybernetics Systems, Neurocomputing, IET Wireless Sensors Systems, IEEE Access,
+ Information and Software Technology, Journal of Concurrency and Computation: Practice and
+ Experience.
+
+ Staff are regular contributors at conferences, and have frequently been invited as keynote speakers
+ e.g. Wild gave keynote presentations for European Space Programmes (2019) at ESA in Noordwijk,
+ Younas gave an invited talk at IEEE International Conference on Big Data Computing Service &
+ Applications, Bamberg, Germany, 2018, Jabir presented invited special sessions at the IEEE
+ International Symposium on On-Line Testing and Robust System Design (IOLTS’ 2019), Cuzzolin
+ gave a keynote speech at several conferences including the International Conference on Computer
+ Science and its Applications (CSA, 2016).
+
+
+
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+ Sustainability of the discipline: Staff in this UoA make a contribution to the sustainability of the
+ discipline through the development of new areas of research; Cuzzolin is a leading researcher in
+ action recognition and belief functions, Zhu, Harrison and Bayley are developing the new
+ techniques for software testing of AI, Jabir’s work on circuit designs incorporating memristor
+ technology provides opportunities for new and improved reliable system solutions and Crook has
+ established the Institute for Ethical AI.
+
+ Staff also contribute to the research community through the peer review process; Cuzzolin is a
+ member of the European Research Council, Younas, Harrison and Cuzzolin are Members of the
+ of the Associate College of reviewers for EPSRC and Crook is an Expert Evaluator of EU proposals,
+ a Reviewer of EU funded projects and a panel member for the UKRI Future Leader’s scheme.
+
+
+
+
+                                                                                           Page 15
+

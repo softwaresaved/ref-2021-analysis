@@ -1,0 +1,1194 @@
+Unit-level environment template (REF5b)
+ Institution: Durham University
+
+ Unit of assessment: Physics
+
+ Section 1. Unit context and structure, research and impact strategy
+
+ 1.1 Context
+
+ The Physics department is the largest of the eight departments and schools within the Faculty of
+ Science at Durham and is a thriving centre for research and education. It is the fifth largest Physics
+ department in the UK, with 85 Cat A staff, 95 PDRAs and 178 PhD students. We teach around
+ 575 undergraduates per year through a combination of single honours four-year MPhys and three-
+ year BSc Physics degrees, as well as 286 interdisciplinary students taking some Physics modules
+ under our Natural Sciences programme. The department closely aligns the teaching and learning
+ experience for its students with the research-intensive values and practices of the university.
+ Research-led teaching is embedded at all levels from first year laboratory reports to the final year
+ MSci flagship individual research project, worth half of the marks for that year. Our department is
+ ranked 4th in the 2020 Complete University Guide subject league tables.
+
+ Highlights of the REF period include:
+    ● Research grant funding of GBP87M, and GBP37M of in-kind funding;
+    ● Carlos Frenk appointed as Commander of the Order of the British Empire (CBE) in the
+        2017 Queen’s Birthday Honours for services to cosmology and public understanding of
+        science;
+    ● Outreach events directly involving over ~15,000 school children and ~500 teachers in local
+        region which has high social deprivation;
+    ● Teaching materials ‘From Higgs to Hubble’ used by over 100,000 secondary school pupils;
+    ● Opening a new GBP12M building designed by world-renowned architect Daniel Libeskind;
+    ● Economic impact from successful spin-out companies and partnerships with major global
+        companies such as Procter and Gamble;
+    ● Societal impact from leveraging computer simulation expertise to model the pandemic.
+        This code is used by NHS England Emergency Preparedness Resilience and Response
+        Group.
+
+ 1.2 Research structures (see Figure 1)
+
+ There are six intermeshed research groups spanning a wide range of areas: from blue skies
+ research in astronomy and cosmology (Centre for Extragalactic Astronomy: CEA and Institute for
+ Computational Cosmology, ICC), elementary particle physics (Institute for Particle Physics
+ Phenomenology: IPPP) and ultracold atoms/molecules (Quantum properties of Light and Matter:
+ QLM), to the more applied groups which focus on understanding and fabricating new materials
+ (Centre for Materials Physics: CMP) and precision optical devices (Centre for Advanced
+ Instrumentation: CfAI). Economic impact is currently concentrated in the more applied groups, as
+ these have most potential for industrial collaboration and spin out companies, while the more
+ fundamental groups have societal impact through public understanding of science.
+
+ The university also has institute structures. These can be sharply focused to promote areas of
+ excellence, such as the Institute for Particle Physics Phenomenology (IPPP, which includes all of
+ the particle physicists), and the Institute for Computational Cosmology (ICC, incorporating the
+ astronomers working on large scale computer simulations of the universe). Both of these Institutes
+ are hosted entirely within physics and together make up the Ogden Centre for Fundamental
+ Physics.
+
+
+                                                                                                          1
+The other eight university Research Institutes span departmental boundaries, enhancing
+multidisciplinary collaboration. Physics is strongly represented in many of these, with significant
+leadership positions, for example:
+
+   ●   The Biophysical Sciences Institute (BSI: Director Girkin to 2019, which links to Biological
+       Sciences, Chemistry, Engineering and Mathematical Sciences)
+   ●   The Durham Energy Institute (DEI: co-director Halliday, linking especially to Engineering
+       and Chemistry)
+   ●   The Institute for Data Science (IDAS: Director Krauss, reaching across Mathematical
+       Sciences and Computer Science).
+
+These broader Institutes form the supporting context for the four multidisciplinary Centres for
+Doctoral Training (CDTs) with Physics leadership (Soft Matter and Functional Interfaces - BSI,
+Energy - DEI, Data Intensive Science – IDAS and a new Global Challenges Centre - DEI). Two
+additional CDTs with substantial Physics involvement are hosted by the DEI, on Fusion energy
+(with York, with CfAI and CMP) and on Renewable Energy North East (Newcastle and
+Northumbria with CMP).
+
+
+
+
+         Computer Science
+         Maths
+
+
+           IDAS                            CEA
+
+
+
+           ICC
+
+                       Impact
+                        Hub 2
+                                                                    CfAI
+
+                                           QLM
+
+           IPPP
+                                                                               BSI   Biosciences
+                                                       Impact                        Maths
+                                                                                     Chemistry
+                                                        Hub 1                        Engineering
+
+
+                                           CMP
+
+
+
+                                                        DEI
+                                                      Engineering
+                                                      Chemistry
+
+
+
+
+Figure 1: How groups in Physics relate to each other, to the Institute structures, and main linkages
+to other departments within Durham. Current impact is mainly concentrated in Hub 1. Additional
+planned, future impact growth areas in Data Sciences are shown as Hub 2.
+
+
+
+
+                                                                                                       2
+CfAI Centre for Advanced              Design, development and fabrication of precision
+Instrumentation                       optical instrumentation e.g. adaptive optics on large
+                                      telescopes        (Harmoni on the Extremely Large
+Bourgenot (F), Brown (L),
+                                      Telescope) and massively multiplexed fibre fed
+Chadwick, Girkin, S. Morris, T.
+                                      spectrographs, either robotically placed to enable
+Morris, O’Brien, Osborn (P),
+                                      efficient spectral surveys of galaxies and quasars (as
+Saunter, Sharples, Wilson
+                                      used in the Dark Energy Spectroscopic Survey: DESI),
+                                      or close packed into arrays to give true imaging-
+                                      spectroscopy (integral field units) such as NIRSpec
+                                      (James Webb Space Telescope) and KMOS
+                                      (European Southern Observatory Very Large
+                                      Telescope VLT). The same technology is applied to
+                                      imaging spectroscopy of tokamak fusion plasmas.
+CEA Centre for Extragalactic          Predominantly observational studies using large scale
+Astronomy                             surveys (including 4MOST and DESI) to trace the
+                                      cosmic web of galaxies across the Universe.
+Alexander, Cooke (P), Done
+                                      Multiwavelength observations of individual objects and
+(DoR), Edge, Fumagalli, Jauzac
+                                      populations using the largest available facilities
+(P), Massey, Morabito, Norberg,
+                                      (including KMOS on the VLT) to understand the
+Roberts (DoE), Smail, Smith,
+                                      astrophysics of galaxies and their central black holes.
+Swinbank
+                                      X-ray studies of accretion show the growth of quasars,
+                                      while radio (LOFAR and SKA) and very high energy
+                                      gamma rays (CTA) probe jets. Tracing the buildup of
+                                      the elements using gas in the intergalactic medium.
+ICC Institute for Computational       Uses supercomputer simulations to understand the
+Cosmology                             origin of galaxies and larger scale structures and their
+                                      evolution across cosmic time in a Universe dominated
+Amorisco (F), Baugh, Bower, Cole,
+                                      by dark matter and dark energy. These models are
+Deason (P), Eke, Frenk, Jenkins,
+                                      tested by large scale surveys, including CEA.
+Lacey, Li, Theuns
+                                      Calculating the imprint on large scale structure of new
+                                      physics in the dark sector of the Universe.
+IPPP Institute for Particle Physics   Addresses the fundamental nature of matter from two
+Phenomenology                         major standpoints. Firstly, providing high precision
+                                      calculations within the standard model to interpret
+Abel, Alonso, Andersen, Badger
+                                      results from the LHC at CERN and other experiments,
+(P), Bauer, Cerdeno, Ellis, Glover
+                                      and secondly investigating and modelling beyond the
+(HoD), Huss, Khoze, Krauss,
+                                      standard model effects at the LHC, in neutrino
+Maitre, Pascoli, Pecjak, Schoenherr
+                                      oscillation experiments, in quark flavour physics and
+(P), Spannowsky
+                                      the dark sector.
+QLM: Quantum Light and Matter         Advance fundamental understanding of the quantum
+                                      properties of atoms, molecules and solids and their
+Adams, S Bromley (F), Carty,
+                                      interactions with light, using ultracold Rydberg atoms
+Cornish, Chancellor (F), Gardiner
+                                      and molecules, Fermi degenerate gases, with quantum
+(0.5FTE as Deputy Executive
+                                      optics, technology, and computation.
+Dean), Hughes, Jones, Kendon,
+Potvliege, Weatherill
+CMP: Centre for Materials Physics     Topics range from understanding the electronic
+                                      structure of complex materials, with applications in
+Adeyeye, (College Head), Atkinson
+                                      organic light emitting diodes, photovoltaic solar cells
+(DoF), Clark, E. Bromley, (DoEDI),
+                                      and semiconductors, to magnetism and magnetic
+Degiacomi (P), Dias, Fielding,
+                                      devices at both the nano-scale and for
+Gidopoulos, Halliday, Hampshire,
+                                      superconductivity. The group now extends into soft
+Hatton, He, Hindmarch, Hunt,
+                                      matter, with experimental and theoretical research into
+Kusumaatmaja, Lancaster, Mendis,
+                                      materials such as polymers, gels, and colloids as well
+Monkman, Staykova, Szablewski,
+                                      as bio-molecules, their dynamics and self-assembly.
+Terry, Tjhung (L), Voitchovsky
+                                                                                                 3
+Table 1: Staff and research topics for groups in Physics as shown in Fig 1. Staff in bold font are
+section heads. Other abbreviations are F – Early Career Fellow (fixed term), P – proleptic
+appointment, L – Lecturer (fixed term), HoD - Head of Department, DoR - Director of Research,
+DoE - Director of Education, DoF - Director of Facilities, DoEDI - Director of EDI
+
+
+1.3 Research Strategy
+
+Our stated goals from REF2014 were to:
+   ● Increase grant funding;
+   ● Increase postgraduate research (PGR) numbers and training provision at doctoral level;
+   ● Complete the building program for Ogden Centre West, including the refurbishment and
+       reconfiguration of the vacated space to rationalise and consolidate all the groups after a
+       period of sustained growth.
+
+All of these objectives have been successfully met despite the harsh economic climate (see
+below).
+
+Our overarching research strategy during the period covered by REF2021 was to build critical
+mass in areas of excellence, both by consolidating existing core activity and responding to new
+opportunities. The centre and institute structures provide a coherent, focused and supportive
+environment, which is also flexible enough to adapt to the evolving research landscape. Our
+sustainability and vitality are demonstrated by the evolution of the groups during the REF period
+described in Section 2, and are underpinned by a commitment from the university to fully replace
+all vacated posts including retirements. We use open positions both to refresh existing research
+strengths, and to flexibly realign our research to exploit new opportunities, especially those which
+link between groups in a cross-cutting manner.
+
+Going forward, we plan to build on this approach, and have identified several new areas in which
+to re-align existing group structures. Many of the research strengths in the department depend on
+high performance computing. This is required to produce, analyse and interpret the enormous
+datasets from simulations of the Universe (ICC), as well as those produced by current and
+upcoming new telescope surveys (CEA and CfAI). Similar computational challenges result from
+interpreting data from particle collisions at CERN, e.g. identifying the one Higgs interaction from
+the 1011 background events (IPPP), while in CMP the computational challenges are instead in
+determining the multi-electron orbital structures underpinning the behaviour of complex materials.
+
+These strands have already been drawn together in the new Institute for Data Sciences, building
+on the success of the CDT in Data Intensive Science developed by Profs Krauss (IPPP) and
+Baugh (ICC) to train excellent researchers in cutting edge science and techniques in artificial
+intelligence and machine learning. This demonstrated the power in sharing research experience
+and techniques between the research groups in physics as well as strengthening links to industry
+via its placement scheme. Our aim is to use IDAS to strengthen our research, leveraging its
+multidisciplinary links to Mathematical Sciences and Computer Science to position ourselves in
+readiness to maximally exploit the science from the enormous datasets expected in the next REF
+period. Facilities such as the Large Synoptic Survey Telescope (LSST), an optical telescope which
+will map the sky every day to look for transients, and the Square Kilometre Array (SKA), the world's
+largest radio telescope, will produce PetaBytes of data every day for their operational lifetimes.
+
+Another area of regrouping identified in our strategy links together the IPPP research expertise on
+exploration of physics beyond the standard model with QLM using laser cooled Rydberg atoms
+as exquisitely sensitive probes of new physics. Light dark matter (where ‘light’ refers to mass,
+‘dark’ to its lack of any electromagnetic interaction) can potentially give distortions to the Coulomb
+potential or particle masses, leading to minute, time-dependent variations in spectral line energies.
+IPPP have the field theory expertise to predict masses and couplings from the various models of
+new physics (e.g. axions, hidden photons). QLM have the techniques and equipment to
+manipulate and cool atoms, producing systems with a single electron placed in a very high
+                                                                                                         4
+principle quantum number shell. This gives a vastly inflated atomic size of order a micron, so the
+electron is extremely loosely bound and, hence, very sensitive to external fields or interactions,
+such as those expected from light dark matter. The precision of these experiments can be
+increased further when combined with CfAI expertise in designing and fabricating quantum
+sensors, and CMP theoretical understanding of electronic interactions in these sensors. The high
+risk/high reward outcome of this program would be nothing less than the discovery of a dark matter
+particle and the identification of the new physics behind the dark sector. However, the guaranteed
+return is in the development of laser cooling and sensors, controlling light photon by photon, and
+matter atom by atom, with the further aim of producing the world’s first Rydberg Hydrogen and
+Helium atoms.
+
+1.4 Impact Strategy
+
+Our strategy to enhance the impact of our research is threefold.
+
+i) Research driven impact, where a discovery gives clear potential for exploitation. This arises
+most often in CMP, as their work on understanding the structure of new materials has more
+immediate application in industry. Research & Innovation Services (RIS) supports academic staff
+through all the stages of commercialisation, as illustrated by the case studies below.
+
+The classic spin-out company model allows the impact to be directly controlled and exploited. Two
+of our case studies illustrate this route at different stages of development. Kromek is a well-
+established spin-out, based on the discovery of a novel way to grow large, defect free,
+semiconductor crystals. The potential of these for detector technology was quickly recognised and
+the decision taken to form the company. This soon outgrew university premises in Physics, and
+moved to NETPark, the NE Technology park (see Section 4), becoming one of their anchor
+tenants. It employs over 100 people in the UK and USA and had a turnover of GBP14.5M in 2018-
+19. Kromek has impact in security, with its detectors in use in liquid screening in over 50 airports
+in 11 countries as well as in health via medical imaging, where contracts presently stand at over
+USD58M.
+
+By contrast, Durham Magneto-optics is a much smaller scale spin out company. This grew out
+of research on magnetic switches, where the information is carried in the polarity of magnetic
+domain walls (spintronic devices) but nanoscale fluctuations in the size of the magnetic domains
+make these difficult to control. Researchers in CMP developed a unique instrument to sensitively
+resolve changes in magnetic structures in real time, and set up the company to make this
+commercially available as a scientific instrument.
+
+Peratech instead grew from a new pressure-sensitive material discovered by industry, giving a
+potential new dimension of response for touch screens. CMP research revealed the physical origin
+of the special properties of this material, and this understanding was key to its successful
+commercialisation.
+
+Licencing of IP (via RIS) gives another route to commercialisation, using an appropriate industrial
+collaborator as demonstrated by Castep. This is a computer code developed from research in
+CMP to predict the electronic, physical and chemical properties of materials from first principles in
+quantum mechanics by calculating the many body interactions between multiple electrons, now
+also including strongly correlated systems, not just density functional theory approaches. This has
+been cited by more than 982 patents since 2016.
+
+ii) Planned engagement with industry. There has been a shift in the funding landscape toward
+larger, more complex grants, which involve multiple university and industrial partners. RIS
+supports academics through the process of applying for these grants, with expertise on the
+financial and legal aspects of contracting, as well as advice on building and managing the
+consortium.
+The Brucker case study illustrates this, where Durham led a Euro2.65M European Commission
+Framework 7 ICT project with multiple partners in academia and industry to investigate Silicon
+                                                                                                        5
+wafer failures in semiconductor manufacturing. Research in CMP showed that X-ray imaging was
+able to distinguish cracks which would fail during high temperature processing, and those which
+were benign. Jordan Valley Semiconductors UK, an SME in the consortium, made the strategic
+decision to develop this IP into a fully automated tool for in-line inspection and removal of suspect
+wafers, and current sales are in excess of GBP1M.
+
+Case study Fusion instead highlights how a single research activity can play a key role in a much
+larger collaboration. The Euro20 Billion ITER project is building the first commercially viable
+tokamak. This uses low temperature, superconducting materials to carry the large currents
+required to confine the plasma, but these currents induce a magnetic field in the superconductor.
+Above some critical current, this turns the superconductor back into a normally resistive wire. Prof
+Hampshire (Durham Physics CMP and DEI) designed the first instrument to make high accuracy
+measurements of this critical current, which led to Euro2M of contracts to characterise the wires
+for the ITER magnet system. Those which do not meet the Durham tests are not used in the
+tokamak, avoiding potentially catastrophic failure of the superconducting ring.
+
+iii) Long term, formal partnerships with industry. This third approach builds and extends on the
+planned engagements with industry described above. It was initiated from the success of a project
+with Procter & Gamble (P&G, a US USD 80Billion turnover company), where they were trying to
+develop low temperature, more efficient detergents to minimise energy costs and environmental
+damage. P&G were using optical microscopy to image the effect of detergent on fatty stains.
+However, fat itself acts as an optical element, so the images were distorted. Prof Girkin (BSI and
+a member of CfAI in Physics) used techniques from Adaptive Optics, developed to remove
+atmospheric distortion from large astronomical telescopes, into the process. This gave much
+higher resolution images, revealing new aspects of how molecular bonds are broken and reformed
+in the washing cycle which generated multiple spin off projects in Chemistry. In response, RIS set
+up a Master Collaboration Agreement to make a single structure for Intellectual Property (IP) and
+consultancy agreements covering all projects with P&G. This circumvents the hidden barriers in
+starting up a single collaboration, where these issues have to be negotiated from scratch with
+each individual academic and/or department. There is now a portfolio of over 100 funded projects
+leveraging GBP24.5M (including GBP11.5M in Government and Research Council support)
+across the university. P&G ranks Durham as a ‘best in class’ academic partner in recognition of
+its innovative approach to university - business partnering where research needs and research
+capabilities of both partners have been carefully mapped and core areas of mutual interest
+identified (see case study: P&G-Durham Physics Partnership).
+
+Going forward, we will build on each of these three approaches to impact. We now have additional
+Master Collaboration Agreements building long term, formal partnerships with IBM, Akzo Nobel
+(who bought ICI), the BG Group (formerly British Gas PLC) and others, and these form part of our
+future strategy for developing new impact in Hub 1, focussed on the properties of materials.
+
+We are also developing an additional impact direction (Hub 2 in Fig 1) based around the new
+Institute for Data Sciences. This will build on the industry links developed for the Data Science
+CDT (see Section 2), which required that the students did at least two placements in industry.
+Our partners for this include SME companies in NETpark, as well as the global industries in Hub
+1, and international banks such as Barclays and Atom. Example projects included working with a
+local X-ray imaging company, IBEX at Netpark, on using machine learning to discriminate between
+bone and soft tissue in the presence of noise. The resulting software is now incorporated into the
+IBEX imaging system and the results presented at the influential SPIE Medical Imaging
+conference, as well as showcased to MPs at Westminster. Another project for the United Nations
+used artificial intelligence/neural networks to produce imaging software which could automatically
+classify and count temporary structures from satellite images of refugee camps, giving a real time
+estimate of occupancy to inform humanitarian relief work.
+
+Larger scale impact is already starting to develop from this out of our mainstream research. For
+example, ICC simulations of the Universe are computationally very expensive and there are too
+many free parameters to fully explore the effect of each one. Instead, they have developed
+                                                                                                        6
+Gaussian emulator methods in collaboration with statisticians in Mathematical Sciences, using
+sparse data to reliably predict how the results depended on the multiple input control parameters.
+The same methods are now being applied in a collaboration with P&G to control the operation of
+their drying towers to make washing powders more efficiently. This already gives results
+comparable to those that had developed over five years of experimental trial and error. P&G are
+rolling this out as a tool in all their drying plants (see case study: P&G-Durham Physics
+Partnership). The same approach is now being trialled with the Department of Work and Pensions
+for assessing the outcome of proposed public policy changes.
+
+1.5 Interdisciplinary Research
+
+There are multiple interdisciplinary aspects to our research. These are facilitated by the Institute
+structures (see Fig 1), which explicitly link thematically across to other departments. For example,
+the Durham Energy Institute (DEI) brings together staff in CMP working on understanding and
+characterising the behaviour of photo-active materials, both for lighting and solar cells, with the
+staff in Chemistry who make these highly specialised molecules, and staff in Engineering who
+design the systems. Similarly, the Biophysical Sciences Institute (BSI) links work in soft matter
+CMP on bio-inspired molecular design, such as a nano-scale motor that can ‘walk’ along DNA,
+with the biologists who work on synthesis of these proteins.
+
+The more specialist institutes still have strong interdisciplinarity e.g. the IPPP has close links with
+the Theoretical Particle Physics group in Mathematical Sciences. Together they form the Centre
+for Particle Theory with a joint seminar program and PGT MSc student training course (see
+Section 2.2). Gregory (returned in UoA 10) is a joint appointment, while Abel (returned in this
+UoA) is in Mathematical Sciences.
+
+Another strong driver of interdisciplinarity within the Science Faculty comes from the UKRI Centre
+for Doctoral Training (CDT) programs, described in more detail in Section 2.2. Broader cross-
+faculty projects are facilitated through the Institute for Advanced Studies and the wider Durham
+collegiate system, both of which foster contact between staff members across the university. For
+example, Prof McLeish (FRS, CMP in Durham until 2017) was Co-I on both an AHRC major
+project (led by History) on The Ordered Universe: Interdisciplinary Readings of Medieval Science,
+GBP0.8M from 2016 to 2020, and on a Templeton foundation grant (led by Theology) on
+Equipping Christian Leaders in an Age of Science of GBP0.7M (2015 to 2019). Staykova (CMP)
+is PI on a Royal Society Apex GBP0.1M award ‘Material Imagination’ in collaboration with
+Sociology, to establish the principles of a self-propagating bacterial factory as a new living material
+and to shape the future of this material using participatory design methods.
+
+Our strategy for future growth in interdisciplinarity is to use the new IDAS to add to these existing
+links, strengthening collaboration with Mathematical Sciences and Computer Science in research
+techniques for big data, machine learning and artificial intelligence.
+
+1.6 Open Access and Ethical Research
+
+Open access to data, software and publications is routine in Astronomy and Particle Physics.
+Large scale sky surveys are made public in a series of data releases to maximise the science
+return. For example, the Panoramic Survey Telescope and Rapid Response System
+(PanSTARRS), designed to alert for collisions from Near Earth Objects, observed the entire
+available sky several times per month. The immense task of uniformly calibrating and releasing
+this dataset was led by Metcalfe (CEA, not returned in REF as his position is to support research
+and teaching in the department) as chair of the Science Consortium Data Verification Group.
+Similarly, the ICC have pioneered the release of data from their large scale computer simulations
+of the growth of structure in the universe in a similar manner to real observations.
+
+Open access to publications was pioneered by the Particle Physics and Astronomy communities,
+with their preprint servers making research papers freely available worldwide, but it is now also
+
+                                                                                                          7
+becoming standard to publicly release software. This includes both individual codes and the larger
+software tools such as Herwig and SHERPA, developed by IPPP for analysis of LHC data.
+
+The new developments over the REF period have been the rolling out of open access/open data
+across the wider Physics and university community. The university is fully committed to sharing
+results of its research not only with academics but also industry, health services, government and
+the general public. Durham research online contains full text versions of publications by Durham
+staff, while the research data repository is used to store, curate and make available any research
+data/software as part of the research data management plan which is now required by most grant
+funders.
+
+There is a departmental ethics committee, which assesses all relevant grant applications. These
+include scrutiny of collaborations outside of the EEA, especially those with developing countries,
+where inequalities in power and status of participating scientists could lead to bias in claiming
+intellectual property e.g. the Global Challenges CDT based around the UN sustainable
+development goals with Development Assistance Committee nations. The university also has a
+specialist Research Policy team, responsible for the review, development and implementation of
+all the processes which underpin Research and Innovation activities. This includes oversight of all
+funded work with outside bodies, including consultancy, commercialisation and engagement
+activities.
+
+
+Section 2. People
+
+2.1 Context
+
+In REF2014 we submitted 74 Cat A staff out of a possible 82 whereas there are now 85 Cat A
+staff, showing the sustainability and vitality of the department. There is a university commitment
+to replace all vacant positions from either retirements or staff mobility. This has enabled the groups
+to consolidate after the period of more rapid expansion in 2008 to 2014, resulting in an
+approximately flat age profile from 35 upwards and a growing diversity at senior levels. We have
+similar numbers of postdoctoral fellows as in REF2014 and a 10% uplift in PDRA support. We
+have markedly increased our number of PhD students, from 154 in 2014 to 192 in 2019. This was
+a key forward goal from REF2014 which has been achieved despite a hostile economic climate.
+Much of this growth came from the externally funded CDTs, which leveraged substantial university
+and industrial investment in terms of funding additional studentships. Both postdoc and PhD
+cohorts are ~25% female.
+
+2.2 Staff Development: Probation, Progression and Promotion
+
+There are formal probation structures for all new academic staff, including a requirement to
+complete the PostGraduate Certificate in Academic Practice (PGCAP) which gives training and
+support on teaching methods and course design in accordance with the UK Professional
+Standards Framework supporting learning in Higher Education. Alongside this, we also assign a
+specific teaching mentor as well as a general mentor who can advise on all aspects of the role.
+The teaching load for a new lecturer is tapered at 1/3 and 2/3 for their first and second year,
+demonstrating our commitment to helping staff establish their research group, and complete the
+PGCAP whilst developing their new courses.
+
+We have robust processes for promotion, with all academic and research track staff in post for
+more than two years submitting their CV each year for consideration against written criteria for
+each grade. Impact is explicitly included alongside research, teaching and citizenship roles. All
+other research staff have an Annual Development Review to give an opportunity for input on their
+career direction and goals as well as feedback and recognition for their achievements.
+
+Staff are supported in terms of progressing their research though advice on applying for grants
+via departmental mentoring, and the university RIS structure. This advertises all grant
+                                                                                                         8
+opportunities from external funding calls, as well as running drop-in sessions for each research
+section to give more tailored advice. They also circulate information on internal funding, such as
+the university seedcorn grants, which can be used for pilot studies to demonstrate feasibility before
+writing a grant application, or for impact activities. EPSRC and STFC Impact Accelerator Account
+funds are an additional source of support for developing impact from research. Recipients of these
+funds include for example Girkin (CfAI), for development of a near IR dental imaging instrument,
+Massey (CEA), modelling the growth of cancerous tumours using modern statistical techniques
+and Kendon (QLM), working with D-wave, the first commercially available quantum computer.
+
+2.3 Staff recruitment
+
+All groups have recruited new staff during this REF period, in line with departmental strategy of
+consolidating areas of existing excellence and repositioning groups to exploit future opportunities.
+We have a general policy of recruiting earlier career staff, appointing those with emerging
+leadership potential rather than hiring more established figures. We advertise internationally,
+including targeted searches, to ensure the largest and most diverse pool of talent. This, combined
+with our track record of appointing holders of long-term research fellowships to academic posts
+as proleptic appointments, has ensured the sustainable age profile and growing diversity
+discussed above.
+
+New research areas identified as strategic future directions are specifically targeted for recruitment
+e.g. CfAI recruited O’Brien from Oxford for his work on Microwave Kinetic Inductance Devices
+(MKIDS). These quantum sensors are an emerging, disruptive detector technology that promises
+to revolutionize many areas of UV, Optical and Infrared instruments by giving energy sensitive
+imaging arrays, removing the need for the complex optics of a separate fibre fed spectrograph.
+These highly sensitive devices align with our planned activity in ‘Quantum Sensors for
+Fundamental Physics’, spanning across IPPP and QLM as well as CfAI and CMP, with Bauer
+hired in this area in IPPP. Similarly, CEA identified radio astronomy with the SKA as a future
+research priority, hiring Morabito for her experience in this field. The success and sustainability
+of this approach going forward into the future is highlighted by the recent announcement of both
+Bauer and Morabito as UKRI FLF (round 4).
+
+University policy is currently focussed on hiring Cat A eligible, fixed-term lecturers to cover grant
+and/or fellowship teaching buyouts rather than fixed term staff on teaching-only contracts. These
+lecturers are independent researchers and contribute to the research environment as well as to
+the teaching programme. This also makes the posts more attractive as they encompass the full
+set of skills required for an academic post, giving a better defined pathway for future career
+development.
+
+This approach is exemplified by recent staff developments within the relatively new soft matter
+group in CMP. This saw major expansion in the previous REF period, with five staff hires in
+response to the high level university joint appointment of Mcleish FRS as Pro-Vice chancellor for
+research and a Professor in Physics. Prof McLeish won the 2017 IoP Sam Edwards medal for his
+sustained and outstanding contributions to the fields of molecular rheology, macromolecular
+biophysics and self-assembly, before moving to York to take up a Chair in Natural Philosophy.
+The university commitment to replacements meant that we advertised a lectureship in this area,
+and the successful candidate, Diagiacomi, was appointed in 2019. He was part way through a
+GBP0.8M EPSRC early career fellowship and his teaching buyout funded a three-year fixed-term
+lectureship, with Tjhung appointed in 2020.
+
+There is also the flexibility to respond to unplanned opportunities, as exemplified by the high level
+university appointment of Adeyeye, from the National University of Singapore, whose research
+field is nanomagnets in non-volatile memory technologies (an area of current CMP strengths, see
+also Impact Case Study: DMO). He was recruited to a joint position as both a Professor in Physics
+and as the Head of Trevelyan college, connecting us to the wider student experience as well as
+strengthening a strategic, impact generating, research strand. His research activity is supported
+via a Royal Society Wolfson Fellowship.
+                                                                                                         9
+Succession planning highlighted a few key positions where appointments at a very senior level
+are required such as the Directorship of the IPPP and ICC. The university is fully supportive of
+this, and we recruited Ellis (FRS) in 2015 for IPPP from his position as Head of the Theory
+Department at Fermilab, USA. A similar search for a replacement for Frenk (FRS, OBE) led to
+Cole (Shaw prize winner, 2014) being appointed as director of the ICC.
+
+2.4 ECR support (Cat A and B/Z)
+
+All new staff appointments come with a negotiated start up package. This is especially important
+for early career experimentalists, where equipping a laboratory is required before their research
+can flourish. We offer consultation to all incoming academic staff to make sure that they are
+making an appropriate bid for support of their research, to overcome any biases which can arise
+from background.
+
+All research staff are also encouraged to take part in teaching in the department to build
+experience and enhance their CV with transferable skills. This is limited to six hours per week in
+term time, so that their research is not unduly impacted, and they are recompensed by travel funds
+to attend conferences in their field. They are also encouraged to attend relevant skills training
+courses run by the university. These include ones specifically focused on ECR such as
+‘Networking and making the most of conferences’, ‘Hacking the academic job market’ and
+‘Preparing for a non-academic career’ as well as more general courses on entrepreneurial
+learning, innovation and enterprise. There are annual ‘Physics Awards for Excellence’ for fixed-
+term staff in the Physics department, allowing them to highlight the quality of their research on
+their CV.
+
+Postdoctoral researchers hired on grants are also supported to develop their own independent
+research career. This is a key recommendation in the Concordat to Support the Career
+Development of Researchers. The department has implemented our Research Staff Consultative
+Committee proposal to allow 20% of time for development of independent projects and skills, and
+also provides a small funding stream of GBP 20k annually to support this e.g. for travel to build
+new collaborations or to cover minor equipment requests.
+
+2.5 Sabbatical leave and secondments
+
+All staff are actively encouraged to apply for sabbatical leave. This can be taken in Durham, to
+ensure it is equally accessible for staff with caring responsibilities, as well as the more traditional
+sabbatical leave hosted elsewhere. There is flexibility in scheduling this, so that it can be either
+taken as a single term e.g. Lancaster (CMP), who was invited to take up a visiting Professor
+position for three months at Universita di Parma, to collaborate on a project to develop theoretical
+and computational tools to model the interaction of muons with solids. Alternatively, it can be
+accumulated over a longer time in order to request several consecutive terms (up to one academic
+year) for longer projects e.g. Done (CEA) spent a year in Japan, working with the Japanese Space
+Agency, where she was part of their science exploitation team for a new X-ray astronomy satellite.
+
+Sabbatical leave can also be spent on impact activities, for example Saunter in CfAI, developed
+a camera tracking system for pre-screening drugs on C. elegans nematode worms. Many of their
+genes have human orthologs, so they can replace mice in the early stages of testing. However,
+their use was limited as assessment was often invasive, disrupting the test conditions, with results
+limited to alive/dead rather than continuous monitoring. Instead, a standard CCD camera attached
+to a cheap Raspberry Pi computer enables real-time, continuous, non-invasive tracking of worm
+activity. He set this up as a spin-out company, Magnitude Biosciences, which has subsequently
+raised GBP375k in a stage 2 funding round.
+
+The IPPP has a long history of strong links with CERN, hosting staff either on sabbatical leave or
+secondment. For example, Richardson (IPPP) had a five-year secondment (so is not eligible for
+inclusion in REF) as staff member in the theory division of CERN. He is a key developer of the
+                                                                                                 10
+Herwig Monte Carlo event generator software, which encapsulates the current theoretical
+understanding of hadronic collisions and produces simulated events which can be compared with
+data. This is a standard tool for analysis of high-energy collisions, both for testing the Standard
+Model and in the search for physics Beyond the Standard Model.
+
+2.6 Research students:
+
+We have graduated 210 PhD students in the REF period. These form a vital part of our strategy
+to increase the reach and significance of our research activity. Our objective is that the facilities,
+financial support, training and mentorship for all our postgraduate students are amongst the best
+in the UK.
+
+PhD students are directly recruited into one of the research sections, supported primarily by
+studentships from either UKRI or external funders. All potential supervisors have undergone
+unconscious bias training, and we record and monitor gender balance between applications, offers
+and acceptances.
+
+2.6.1 Support from major funding bodies
+
+The majority of PhD positions are funded from RCUK, with the EPSRC Doctoral Training Account
+currently totalling GBP1.3M and STFC quota studentships currently totalling GBP 6.0M. There is
+also additional support from various EU Training Networks. For example, there are four EU
+Framework 7 Initial Training Networks which have run from IPPP in the REF period: HiggsTools,
+(Glover, GBP0.6M) which investigated electro-weak symmetry breaking, MCnet (Richardson,
+GBP0.4M) which focuses on MonteCarlo techniques to understand collider experiment data from
+the LHC, Invisibles (Pascoli, GBP0.3M) on neutrino and dark matter phenomenology, and
+LHCphenonet (Maitre, GBP0.2M) on advanced particle phenomenology.
+
+The department also receives students from multiple Doctoral Training programs. The largest of
+these are detailed below.
+
+Soft Matter and Functional Interfaces (SoFI 2014 to 2022, GBP4.8M and now SoFI2 2019 to
+2028, GBP5.6M): The core aim is to deliver a comprehensive, team-based approach to solving
+complex industrial challenges with topics as varied as smart surfaces, recyclable plastics and new
+medicines as well as learning about all aspects of soft matter (CMP soft, joint with Chemistry).
+This is structured so that the first six months is cohort training, and the PhD includes the
+opportunity for a six month external placement with either another university group (Leeds and
+Edinburgh) or industrial partner (25 ranging in size from GSK and Nestle to local SME). The
+training also includes a mini-MBA coordinated by Durham Business School, with modules in
+project management, leadership and best practice in collaborative innovation. This has hosted
+79 students since 2014, with 13 in Physics (predominantly in the CMP soft matter group)
+
+Energy: PI Halliday (CMP and co-Director of DEI). It provides a wide ranging, stimulating and
+effective training program in all aspects of energy with particular emphasis on developing
+multidisciplinary perspectives and approaches to energy problems, from engineering to social
+aspects. A series of internal and external invited lectures from leading energy researchers allow
+the students to gain an insight into real energy challenges. An annual group project allows
+students, working in small groups, to carry out a project addressing current energy issues. Regular
+field trips and site visits allow students to see energy technologies in operation and how new
+approaches might be developed and implemented. This has hosted 31 students in Physics since
+2014.
+
+Data Intensive Science: This is a collaboration between the Astronomers and IPPP to combine
+their skills and expertise in handling the computational challenges of large datasets, with GBP 1M
+funding from STFC. Krauss (IPPP) and Baugh (ICC) are co-PIs. There is initial intensive training
+for nine months on generic technical skills and methods (statistics, numerical algorithms, high-
+performance computing, machine learning) and in their chosen subject specialisation (astronomy
+                                                                                                 11
+or particle physics). There is also training in transferable skills, together with a mini-MBA and
+workshops on communicating science. Impact is embedded in the program, as it requires that
+students do two eight-week team-based projects, either in-house in our research groups or with
+external partners. This industrial placement element of the CDT has been so successful that we
+have rolled out this opportunity to all PhD students in Astronomy. All 22 students on this CDT
+since its start in 2017 are in Physics.
+
+Global Challenges: This is the newest CDT, supported by GBP3M from a successful bid to the
+Global Challenges Research Fund by Halliday (CMP and co-Director of the Energy Institute) in
+2019. Research focuses on multidisciplinary projects aligned with one (or more) of the UN
+Sustainable Development Goals. It will host 26 international students from 17 DAC nations,
+working across 15 departments across all Faculties in Durham (Sciences, Social Sciences, and
+Arts and Humanities). Students receive cohort-based training in a range of areas including
+development-related research methodologies, and spend four to six months in the country that is
+the focus of their research, working with a partner overseas university and/or other groups such
+as non-governmental organisations. Once they have completed their PhD, their knowledge and
+research can be communicated and implemented back to the student’s country of origin where
+they will be continuing their work.
+
+We also have students in Physics funded by the Fusion CDT (led by York, GBP3.7M, 2014 to
+2022) and the ReNU CDT (led by Northumbria, GBP5.5M, 2019 to 2027).
+
+2.6.2 Research student monitoring, support and training
+
+Progress is tracked by both student and primary supervisor via quarterly reviews. This short
+questionnaire on the database gives a fixed timescale on which to assess achievements against
+goals for the period. Typically, this is only a brief record of ongoing discussions between student
+and supervisor, but it does also provide an opportunity for either party to voice concerns.
+Responses are monitored by the Director of Postgraduate Studies, so they can intervene on any
+issues raised.
+
+There is an additional larger scale Annual Progress Review for all PhD students, again monitored
+by the Director of Postgraduate Studies. First year students write a 5000 word report, structured
+in a similar fashion to a thesis introduction, but with content appropriate to this more preliminary
+stage. The supervisory team nominates two Review Team members/examiners who interview the
+student, and make a recommendation on progression based on their assessment of the student’s
+ability to complete a PhD in a timely fashion. Subsequent reviews take place annually, with a
+completion review in the final year where the students submit a plan indicating how they propose
+to finish their thesis by the end of the period of supervised study
+
+The department of Physics recognises and celebrates excellence through the award of
+postgraduate prizes for outstanding achievement, both for first year and final year students.
+
+Pastoral meetings are available to all students as an opportunity to informally discuss any
+problems that they are encountering that impact their research. Students can arrange these with
+any member of staff from the Postgraduate Studies Committee not connected to the students’
+academic research, in order to have an independent source of advice and support.
+
+All students attend dedicated advanced lecture courses on the specific background science and
+techniques relevant to their field. For IPPP this comprises two terms of Masters level taught
+courses in order to fully cover the theoretical foundations of particle theory, string theory and
+cosmology. Other sections do a shorter combination of lectures and skills sessions. These can be
+tailored for each individual area, or shared where the groups require common skills such as in
+Optical Design (using Zemax) in both QLM and CfAI, or in the integration and computer control of
+experiments (using Raspberry Pi’s) in both CfAI and CMP. Several of these courses are supported
+by textbooks written by Durham staff during the REF period:
+     ● Adams and Hughes: Optics from Fourier to Fresnel (2018);
+                                                                                                12
+   ●   Kusumaatmaja: The lattice Boltzmann method, principles and practice (2017);
+   ●   Girkin: A practical guide to optical microscopy (2019);
+   ●   Spannowsky: Looking inside jets (2019),
+   ●   Krauss: The black book of Quantum Chromodynamics (2018);
+   ●   Mendis: Electron beam-specimen Interactions and simulations methods in microscopy
+       (2018).
+
+There is training available on more generic skills development, based on the Research Councils’
+Joint Skills Statement. All students complete a training needs analysis every year to identify
+broader university courses which are relevant to their interests. All postgraduate students are also
+offered opportunities to develop their teaching portfolio at an appropriate level, such as
+demonstrating in undergraduate laboratories, example classes and workshops. Students are
+supported by compulsory training sessions and paid at an hourly rate for their work. Their
+contribution is limited to six hours per week in term time to ensure this does not negatively impact
+on their research time, whilst allowing them to accumulate evidence of teaching experience for
+their CV.
+
+2.7 Equality and Diversity
+
+The department is committed to upholding the principles of EDI. This is managed through the EDI
+committee, chaired by DoEDI (Bromley, CMP) comprising HoD, staff from across all
+demographics, PGR and UG students. The DoEDI is a core member of all senior committees,
+including Operations Group, the top level management team of the department, along with HoD,
+DoR, DoE, DoF, and the departmental manager responsible for professional services. This means
+EDI principles are embedded across the department, with the DoEDI monitoring outcomes (e.g.
+of applications for university sabbatical and equipment funding requests, and ranking of fellowship
+applicants) in terms of gender balance and other protected characteristics. This has resulted in
+Durham being one of only 18 Physics departments in the UK to hold Juno Champion status, and
+the department also holds a Silver Athena Swan award. A key strategic goal is to gain Athena
+Swan Gold status in the near future. Bromley has recently been appointed as Faculty of Science
+Athena Swan lead by the university in recognition of the quality and impact of her leadership of
+EDI in Physics.
+
+All staff involved in selecting and hiring graduate students and postdocs are required to have
+undergone the ‘Unconscious bias’ university training course. This enables staff to recognise their
+own assumptions, and to actively deal with them. Staff on appointment panels for academic
+positions are further required to attend university training on recruitment and selection where there
+is emphasis on written criteria and standardised questions for each applicant.
+
+Succession planning for the highest level departmental academic roles (HoD, DoR, DoE, DoF,
+DoEDI) is explicitly advertised across all staff. The system encourages the widest participation by
+circulating written descriptions of the roles, along with a questionnaire asking which position(s)
+staff might want to consider applying for in the short, medium and longer term. This has enabled
+a more transparent process, where all staff can identify what training and experience they might
+require to achieve their career goals.
+
+EDI issues in recognising and rewarding staff are similarly monitored. The process is that all
+academic, teaching track staff and research track staff in post for more than two years are required
+to submit a CV annually to the departmental Progression and Promotion Committee. These are
+considered against published criteria for promotion and/or merit awards. The Director of EDI and
+a representative from the university HR department sit on this committee and monitor its
+processes and discussions to ensure that fixed-term staff are considered alongside permanent
+staff and that part time staff are not disadvantaged.
+
+The department supports flexible working applications, allowing staff to temporarily or permanently
+change their contracted hours in response to circumstances, such as change in caring
+responsibilities. There is support for a reduced teaching load for people returning from parental
+                                                                                                  13
+leave, or a period of ill health, where the department works closely with the university Occupational
+Health service to support staff on phased return where we make reasonable adjustments for
+disability. We advertise this by case studies on the ‘Diversity’ section of our website, to illustrate
+the range of adjustments which can be made to maximise staff engagement and productivity.
+
+There is a full workload model for all teaching and administration roles within the department,
+costed in hours with rates which are openly advertised. The resulting spreadsheet of tasks is seen
+by all staff, with load pro-rata’d to FTE. This transparent process means that part time staff can
+ensure that their load is appropriately reduced, and that all staff, including BAME and other
+protected characteristics, can directly track and compare their contribution. Each member of
+academic staff has a rolling personal account, topped up with GBP1000 per year as part of
+research incentivisation. This can be used more flexibly than many research grant funds to cover
+a wider variety of additional costs involved with conference attendance, such as child care.
+
+All departmental meetings and research seminars are held during core hours to ensure maximum
+accessibility for staff. University-wide processes around timetabling invite all staff to submit known
+schedule constraints in advance so that lectures do not clash with school pickup/drop off or other
+fixed time caring responsibilities. Additionally, there is a dedicated room in Physics which is private
+and lockable to support EDI activities such as breastfeeding.
+
+The department is proactive in supporting wellbeing. There are also multiple posters advertising
+the ‘Departmental Listeners’ network, signposting confidential support for issues around health
+and wellbeing, including mental health and stress as well as bullying and harassment. The named
+Listeners can directly refer to university Occupational Health Service, bypassing the line manager
+in cases where staff feel uncomfortable in discussing sensitive issues with them. Copies of the
+IoP ‘Resilience toolkit: A Physicists guide to building and maintaining wellbeing’ are available on
+a dedicated noticeboard in the common coffee area, and posters outlining our code of conduct
+‘Respect at Work’ are prominently displayed throughout the department.
+
+The department followed the recommended university code of practice for selecting staff for
+submission. Of our 85 Cat A staff, 2 staff are on part time (0.6FTE) contracts so this
+gives 84.2 FTE, requiring 211 outputs. Of these, 29 are from female and 18 from BAME staff, in
+line with (and slightly above) their representation (12 female, and 6 BAME). We also included 12
+outputs from early career Cat B staff to illustrate the quality of independent researchers who have
+held fellowships here during the REF period.
+
+
+Section 3. Income, infrastructure and facilities
+
+3.1 Research funding
+
+Our strategy for generating research funding is to use RIS resources to advertise all grant
+opportunities to all staff. These include both UKRI/EU funding sources together with wider Grand
+Research Challenges Fund/industry/regional development opportunities. RIS holds drop-in
+sessions for each group to facilitate informal discussions on relevant grant opportunities. All staff
+are mentored through the application process, with the requirement that the case is read by a
+senior internal assessor before submission to ensure that they are well structured and focused on
+the grant criteria. This has resulted in the award of over GBP87M to the department in research
+grant income since the last REF, with large grants from major funders detailed below.
+
+STFC Consolidated grants: The department holds two of these, one in Astronomy
+(ICC/CEA/CfAI) and one in particle physics (IPPP). These are a major source of funding for the
+research in these groups, with support totalling GBP6.1M (Astronomy) and GBP7.4M (IPPP) over
+the REF period. Each consolidated grant sets out multiple individual research cases contributed
+by all staff in these sections, forming a broad programme of related work across the group. This
+sets much of the research agenda for the three-year period of the grant application cycle.
+
+                                                                                                     14
+STFC PPRP grants: CfAI have a substantial track record in Astronomical instrumentation. Over
+the past three decades, they have participated in the design and/or construction of common-user
+instrumentation for many of the world’s major astronomical facilities (e.g. VLT, SALT, DESI, ELT,
+CTA). Currently the group holds contracts to develop instrumentation for the European Extremely
+Large Telescope (E-ELT), with 15 times more collecting area than any current telescope. First
+light instruments include Harmoni, an Integral Field Unit providing high resolution spectra for every
+image pixel simultaneously, while subsequent instrumentation will include a high spectral
+resolution and multi-object spectrographs. Durham was awarded a total of GBP3.3M to design
+and build optical components for all these instruments, and an additional GBP3.8M grant has just
+been announced (PI: S. Morris). These contracts include a guarantee of time for first light science
+data, with consequent high impact publications. The quality of these novel instruments also
+directly influences research in CEA and ICC: e.g. CfAI built part of the 5000 fibre multi-object
+spectrograph for DESI, a US-Europe-China collaboration led by the US Department of Energy
+(grants totalling GBP1M in the REF period). This will study the cosmological expansion rate and
+the growth of structure via a wide-angle spectroscopic galaxy and quasar redshift survey, with
+additional science, including studying galaxy formation and evolution, galaxy cluster surveys, the
+structure of the Milky-Way galaxy and Galactic archaeology. These data directly support multiple
+research strands in CEA.
+
+Major Industry Grants: CfAI made a strategic decision to expand into satellite instrumentation
+when they were chosen to provide the precision optics for a spectrograph which will fly on the
+NASA James Webb Space Telescope, the successor to the iconic Hubble Space Telescope.
+There are limited opportunities in astronomy space-based missions, but there have been small
+contracts to design novel instruments for ESAs EXOMars mission and the ESA-Roskosmos Luna-
+2 moon lander (Bourgenot). There are many more Earth observation and remote sensing
+satellites, with a total of GBP4.2M from Airbus for METimage, a polar orbiting weather satellite
+and GBP2.2M for the ESA Sentinel system (PI: Sharples).
+
+EPSRC program grants
+
+Skyrmions: from magnetic excitations to functioning magnetic devices: Hatton (PI) and Lancaster
+(both CMP). Skyrmions are vortex-like excitations in magnetic fields which hold promise for
+advancing our basic understanding of matter, and also for technological deployment as highly
+efficient memory elements. The research combines expertise across universities, national facilities
+and industry to answer basic questions about the status of magnetic Skyrmions and to develop
+technological applications. GBP5.1M (GBP1.7M to Durham)
+
+QSUM: Quantum science with ultracold molecules: Cornish (QLM). Entanglement is at the heart
+of quantum mechanics. Once two particles have interacted they cannot be treated as independent
+entities no matter how far apart their separation. These interactions are enhanced for particles
+which have a dipole field, making it easier to build a quantum computer from molecules rather
+than atoms. However, while the techniques to manipulate cold atoms are well developed,
+techniques to manipulate molecules are still in their infancy. This project will build up expertise,
+from control of isolated molecules and their coupling to single photons; to small arrays of
+interacting molecules, controlling interactions and entanglement in simple geometries; and then
+to two- and three-dimensional lattices to understand the complex behaviour of strongly interacting
+many-particle systems. GBP6.7M (GBP2.8M to Durham).
+
+EPSRC platform grants
+
+Atom based Quantum Photonics: Hughes (QLM), with Jones, Gardiner and Weatherill (QLM)
+as co-Is. This brings together a range of activities in the QLM group to make and manipulate
+photons rather than atoms. GBP1.2M.
+
+EPSRC responsive mode: There are multiple grants held across QLM, CMP and CMP (soft)
+funding our research. Most of these are smaller scale than the programme/platform schemes,
+                                                                                         15
+though they can reach ~GBP1M such as the Optical clock arrays for Quantum Metrology: Jones
+and Adams (QLM).
+
+3.2 Research fellowships
+
+The department uses the same mentoring process for personal fellowship applications as used
+for grants, giving input from a senior staff member. Additionally, for those schemes which also
+involve a presentation and/or interview for the final round, the department sets up a panel of senior
+staff (generally including HoD and DoR) to hold a practice session and give feedback.
+
+ERC grants held during the REF period:
+
+ Advanced               Smail, CEA GBP1.73M (2013 to 2018), Frenk ICC GBP2.5M (2018 to
+                        2023)
+                        Glover IPPP GBP1.5M (2014 to 2018), Frenk ICC GBP1.7M (2011 to
+                        2017)
+ Consolidator           Pascoli IPPP GBP1.2M (2014 to 2019), Badger IPPP GBP1.4 (2018
+                        to 2023)
+                        Fielding CMP GBP1.5M (2012 to 2017)
+ Starter                Li ICC GBP1.0M (2017 to 2022), Fumagalli CEA GBP1.1M (2017 to
+                        2022)
+
+Staff in each of the groups have also won multiple, personal long-term fellowships, both from
+UKRI, and the Royal Society
+
+For example, Deason was appointed as a proleptic lecturer to ICC in 2016 on a Royal Society
+URF with an enhancement award, bringing a new focus on large-scale simulations of the formation
+history of our Milky Way galaxy. These models can now be tested with data from large surveys,
+including ESA’s Euro750M GAIA satellite which enables the most precise measurements of the
+dynamics and structure of the 100 billion stars in our Galaxy. Their kinematics retain traces of past
+events such as a major accretion event of a satellite galaxy of the Milky Way around the epoch of
+the formation of the galactic disc around 10Gyr ago, as well as pointing to a future collision with
+the Large Magellanic cloud in ~2Gy time. She was awarded the Philip Leverhulme Prize in 2018
+for her research in this area.
+
+Badger in IPPP was appointed as a proleptic lecturer in 2016 with a GBP0.6M STFC ERF for
+research in standard model physics at the precision frontier. His calculations of the multi-loop
+scattering amplitudes are needed to compare with current and future experiments at the Large
+Hadron Collider, and attracted further support both from STFC ERF with an enhancement grant
+for GBP0.4M and a Euro1.8M ERC consolidator grant. Most recently, Schoenherr was appointed
+in 2019 with research which is similarly aligned with this core IPPP activity on a Royal Society
+URF and an enhancement award.
+
+CEA appointed Cooke from a Royal Society URF in 2016 to study elemental abundances in the
+most pristine material in the Universe to constrain Big Bang Nucleosynthesis and to directly
+observe the composition of gas out of which the first stars and galaxies form. One of his
+enhancement awards was for a deep learning workstation to train a convolution neural network to
+automatically fit the properties of intervening gas systems in the intergalactic medium along
+sightlines to distant quasars, connecting him to the IDAS. CEA also appointed Jauzac as a
+proleptic lecturer in 2019, after she won one of the first tranche of UKRI FLF. She is PI of one of
+the largest allocations of time on the Hubble Space Telescope for a program to study clusters of
+galaxies, mapping their dark matter distribution to unprecedented detail by using gravitational
+lensing distortions of background galaxy images. Osborn (CfAI) won one of the second tranche
+of UKRI FLF positions, with a research plan modelling the atmospheric distortion of large
+                                                                                                   16
+telescopes and applying this to increase transmission rates in satellite communications,
+connecting to an impact area.
+
+In the soft matter group, both Voitchovsky and Diagiacomi hold EPSRC Early Career
+Fellowships (GBP1.1M to track single ions which transport and store energy in both living
+organisms and in batteries and GBP0.8M to develop computational methods for modelling
+biomolecular systems at atom scale resolution).
+
+Fellowships are also used to open up new areas of research in the department. Kendon was
+appointed in 2014, with her GBP1.3M EPSRC Established Career Fellowship, one of the first to
+be awarded from the Quantum Technology funding stream. Her work in quantum computing
+offered a new activity for the QLM group into a field with undoubted future potential, both for pure
+research and for impact. She is developing quantum algorithms as an interdisciplinary area, with
+reach into mathematical physics, computer science, and quantum many body physics. This has
+already attracted an EPSRC innovation fellow (Chancellor) to the group, and is an area identified
+for future growth, especially under the new IDAS multidisciplinary structure.
+
+Impact is also recognised, with Atkinson holding a Royal Society Industry Fellowship. Baugh is
+an STFC Innovation Fellow, with a project to translate expertise on data sciences in Astronomy
+into industry, while ECR Bourgenot holds an EPSRC Innovation Fellowship to develop spectral-
+imaging technology for remote sensing on drones to monitor agricultural yields.
+
+3.3 Organisational support for research and impact
+
+The ICC, together with all of the astronomers in CEA and CfAI, moved into the Ogden Centre for
+Fundamental Physics West in 2017. This GBP12M dedicated building was designed by world-
+renowned architect Daniel Libeskind and funded by Durham university, together with a GBP3.35M
+donation from the Ogden Trust and GBP1.5M from the Wolfson Foundation. The new building is
+adjacent to the main Rochester building and the original Ogden Centre, so maintains Physics as
+a cohesive unit. The additional space has benefited the entire department by allowing all sections
+to reconfigure and regroup, rationalising their structure and use of space. This was supported by
+a major programme of refurbishment including new dedicated research laboratory space for CMP
+and QLM.
+
+CfAI has a GBP6M dedicated instrumentation laboratory at NETPark with large-scale clean room
+and diamond machining capability to fabricate high precision optics. The university contributes
+GBP300k per year towards the cost of this, and it forms the home for the recently funded University
+Enterprise Zone (see Section 4.2).
+
+3.4 Infrastructure supporting research and impact
+
+The ICC hosts parts of STFCs Distributed Research utilizing Advanced Computing (DiRAC). This
+is an integrated supercomputing facility for theoretical modelling and High Performance
+Computing (HPC) based research in astronomy and cosmology. It is housed in the Lydia Heck
+data centre (named after the long term ICC computer manager), supported with university
+investment of GBP3.5M. The upgrade to DiRAC-2.5x was funded by STFC for GBP2.7M (Frenk,
+ICC). Time on this is allocated via proposal rounds in open, nationwide competition, but 80% is
+won by Durham.
+
+The ICC also owns an additional large supercomputer, COSMA-VIRGO, which is not part of
+DiRAC, to directly support its own research program. This has 4800 cores with 38TB of RAM,
+3.2PB of storage and a 6PB tape archiving system. It provides 42M core-hours per year. In 2016
+it was upgraded with GBP200k of local funds for storage and tape archive. For most applications,
+its performance per core is within 20% of the newest DiRAC machine. COSMA-VIRGO running
+costs (GBP80k per annum) are covered by Durham. Together, the COSMA-VIRGO and DiRAC
+machines are key to the highest impact publications of the ICC, such as the EAGLE hydrodynamic
+simulation of galaxy formation. This was the most highly cited paper in Astronomy in 2015.
+                                                                                               17
+IPPP runs a High Throughput Computing centre. The 5000 physical core cluster has been funded
+by an equal mix of university and STFC funding, totalling GBP0.7M. This is part of the GridPP
+collaboration, bringing together particle physicists and computer scientists in the UK and at CERN,
+and the IPPP service runs jobs from ATLAS, CMS, LHCb when not fully utilized by IPPP for
+precision calculations. In return, IPPP users can access GridPP resources elsewhere in the UK.
+
+The university also operates its own HPC service, a Linux distributed memory cluster, Hamilton.
+Use of this is free of charge for Durham users with grants funded under UKRI. This is a major
+resource for the theoretical CMP group for their work on understanding the structure of complex
+materials from fundamental quantum mechanics of the electronic configuration (see Case study:
+Castep). Durham have recently won a GBP3.1M EPSRC grant as part of the Northern Intensive
+Computing Environment to establish a new national Tier-2 HPC service ("NICE19") to provide a
+route to Exascale computing that serves experimental users who generate large data sets
+requiring analysis, and for modellers who use machine learning.
+
+The Science Faculty operates an electron microscopy suite with five state-of-the-art scanning
+electron microscopes, transmission electron microscopes and focused ion-beam microscopes
+that are accessible to both staff and students to use for materials characterisation, as well as
+providing a commercial service to industry users. The CfAI diamond machining equipment is
+similarly commercially available to provide specialist expertise and equipment for manufacture of
+ultra-precision optical components for industry.
+
+
+Section 4. Collaboration and contribution to the research base, economy and society
+
+4.1 Research collaborations, locally, nationally and internationally
+
+Locally, we have strong links to Newcastle in Quantum processes. The Joint Quantum Centre
+links research in QLM with theoretical Chemistry in Durham and staff in the School of
+Mathematics, Statistics and Physics at Newcastle university sharing a common interest in the
+study of the quantum properties of atoms, molecules and solids, and their interactions with light.
+The strength of these collaborations is indicated by the grant income to this group detailed in
+Section 3.3. The DEI also acts as a regional link to Newcastle, Northumbria and York universities,
+together addressing common topics in energy generation, storage and technology, with the joint
+CDT programs ReNU and Fusion.
+
+On a national scale, the IPPP is the UK centre for particle phenomenology, and supports much of
+the theoretical and experimental activities in this field by running workshops, conferences and
+networks. An international expert panel report from the 2017 STFC review of particle physics
+theory states that “The creation of the IPPP in Durham was very successful in focusing the UK
+activity on particle physics phenomenology in a single institution, catalysing remarkable progress
+in the field.”
+
+4.2 Collaborations for impact and wider contributions to the economy
+
+A key university-wide facility for capturing and exploiting impact is NETPark (North East
+Technology science park), located in Sedgefield, County Durham. This was started as an initiative
+between Durham university, Durham County Council and the Teeside-based Centre for Process
+Innovation (CPI), which specialises in printable electronics. Its focus is on developing technology
+in the physical sciences, supporting this by access to early stage venture capital and taking it to
+market readiness. Physics plays a major leadership role in NETPark, with CfAI and Kromek (a
+spin-out company from Physics, see case study: Kromek) as anchor tenants, along with CPI.
+There is a three-way MoU between Business Durham (who manage NETPark on behalf of
+Durham County Council), CPI, and Durham university, signed in 2015, committing the partners to
+working together to promote research, business and career opportunities in the North East. CPI
+have set up a National Centre for Healthcare Photonics and are collaborating with Durham
+                                                                                                  18
+    university on a European Regional Development-funded project (Girkin, CfAI is academic lead)
+    to support SME companies developing technologies for medical applications. This has attracted
+    investment of GBP20M for a new building, and GBP1.3M in funding for projects.
+
+    NETPark is unique in the UK in hosting two Catapult centres. These are designed to transform
+    the UK’s capability for innovation in specific areas and help drive future economic growth by
+    bridging the gap between business and academia. The presence of CfAI expertise in Space
+    Instrumentation was key to the North East Satellite Applications Catapult Centre of Excellence
+    selecting the site. This is likely to be an area prioritised by post-BREXIT government investment
+    in the NE as part of its levelling up agenda, as announced by then science minister Chris Skidmore
+    at the opening of the Durham University Teaching and Learning Centre in January 20201.
+
+    In October the university, in collaboration with CfAI (Girkin), was awarded GBP1.5M to develop
+    the CfAI facility at NETPark into a new University Enterprise Zone. This will house up to 17 SMEs
+    and Micro-SMEs in a collaborative facility where they can utilise the expertise within the Physics
+    department and beyond to help develop their technology and products.
+
+    4.3 Public engagement
+
+    The Physics department has a long history of engaging with the public, with Dr P. Edwards as
+    our full time Outreach Officer (the first in the UK to be funded by a Research Council). The
+    outreach program has directly engaged with ~15,000 school children across the age range, and
+    over 500 of their current and future teachers during the assessment period. Teaching materials
+    for this ‘From Higgs to Hubble’ program are used by around 100,000 secondary pupils per year.
+    This work in strengthening science teaching and engaging children with education lies mainly
+    outside of the REF definition of Impact but the significance of the program is enhanced by being
+    in the North East, an area of high social deprivation. Dr Edwards was nominated as a TED
+    Educator, and his YouTube teaching resource developed in 2014 on ‘What light can teach us
+    about the Universe’ has been viewed by over 216,000 people, generating over 11,000 questions.
+
+    Durham Lumiere offers even wider engagement opportunities. This is the UK’s largest light
+    festival, where the entire city is transformed into an art installation, running for four consecutive
+    nights every two years. In 2015 the ICC collaborated with lighting artists to provide the centrepiece
+    of this festival, ‘The World Machine’, a celebration of cosmology projected onto Durham Cathedral,
+    seen by an estimated 200,000 people. A new version of this, ‘Cosmic Architecture’, projected
+    instead onto the Libeskind-designed Physics building in 2017 and 2019 (Fig 2).
+
+
+
+
+    Fig 2: The World machine (2015) & Cosmic Architecture (2017, 2019)
+
+    Other general outreach activities include ‘Celebrate science’, a three-day Science Festival that
+    takes place during the local schools' October half-term holiday. It includes a wide range of science-
+
+
+1
+  https://www.gov.uk/government/speeches/levelling-up-research-and-innovation-right-across-the-united-
+kingdom
+                                                                                                         19
+    themed events and activities focused around a marquee on Palace Green, attracting around 7,000
+    visitors each year.
+
+    The annual Royal Society Summer Exhibition instead gives a more direct connection between the
+    public and our research, with exhibits from the ICC ‘Galaxy Makers’ (2016) and IPPP ‘Modelling
+    the Invisible’ (2017), and ‘Ghosts in the Universe‘ (2018), each seen by around 15,000 visitors
+
+    4.4 Wider Indicators of esteem
+
+    Our staff are recognized nationally and internationally. We had four FRS in the department over
+    the REF2021 period (Ellis, Frenk, Glover, with McLeish who left for York in 2017), as well as
+    two Emeritus FRS (Martin, Wolfendale). Multiple staff have won awards for their research in this
+    period: Adams (IoP: Thomson medal), Chadwick (IoP: Bragg medal), Cornish (IoP: Thomson
+    medal), Deason (Philip Leverhulme Prize), Done (RAS: Darwin Lectureship), Ellis (Humboldt
+    Foundation: Humboldt Award, IoP; Dirac medal), Frenk (RAS: Gold medal, IoP/German Physical
+    Society: Max Born prize), Glover (IoP: Lord Rayleigh medal), Li (RAS: Fowler Award), McLeish
+    (IoP: Sam Edwards medal), Spannowsky (Humboldt Foundation: Bessel Award), Tanner (IoP:
+    Gabor medal, retired 2016). Royal Society Wolfson merit awards are held by Adeyeye, Gregory
+    (joint appointment with Mathematical Sciences, returned with UoA10), Khoze, Krauss, Pascoli,
+    and Smail.
+
+    A highlight from the REF2021 period includes Cole (ICC) winning the USD1M Shaw prize (2014)
+    for his work on the 2dF Galaxy Redshift Survey, which conducted a study of 250,000 galaxies.
+    This gave the first detection of baryon acoustic oscillations, the sound waves originating a few
+    seconds after the Big Bang, which can be used to measure distances in the universe and the rate
+    at which it is expanding.
+
+    Our students have also been recognised with major awards. Dr Dan Whiting (QLM): IOP Doctoral
+    prize in Quantum Electronics and Photonics for ‘Nonlinear Optics in a Thermal Rb Vapour at High
+    Magnetic Fields’. Dr Matthew Kirk (IPPP): Springer thesis prize for ‘Charming new physics in
+    beautiful processes’. Dr Sownak Bose (ICC): RAS Michael Penston Prize for the best thesis in
+    Astronomy and Astrophysics ‘Beyond ΛCDM’.
+
+    4.5 Responsiveness to national and international priorities and initiatives
+
+    The global pandemic requires a global response, and its challenges go far beyond a medical
+    understanding of the virus. It was clear from an early stage that governments needed new tools
+    which could more accurately model how infection spreads. Individual based models give the best
+    resolution, but there are computational challenges in handling large populations, and the huge
+    input datasets on how people live, work, travel and socialise. Krauss (IPPP and director of IDAS)
+    set up a network of volunteer coders from the Data Intensive Science CDT PhD students as part
+    of the Rapid Assistance in Modelling the Pandemic (RAMP) initiative, coordinated by the Royal
+    Society (initially 04-07/2020). Additional expertise was locally available, from advanced statistics
+    in machine learning (Bower, ICC, and staff from Mathematical Sciences) to accessing the input
+    data from the Office of National Statistics census data for England which is curated by Geography.
+    This covers the whole country down to units of around 250 people with information on the
+    distribution of age, sex, ethnicity, household type (single, couple, children and age distributions),
+    employment, commute (private or public transport and distribution of distance), and statistics on
+    their free-time activity. They continued to work on the code after July 2020, producing the most
+    accurate, fine grained model of social and mixing networks in England, capable of calculating how
+    COVID-19 infection rates respond to changes in government policy at a regional and even local
+    level2. Dr Kevin Fong, National Clinical Advisor in Emergency Preparedness Resilience and
+    Response for the Covid-19 Incident, wrote ‘There is currently no other model in hand that is able
+    to usefully explore inter-regional dependencies of the pandemic or the asymmetries produced by
+    socioeconomic differences in the general population. Your work so far has provided unique and
+
+2
+https://www.medrxiv.org/content/10.1101/2020.12.15.20248246v2.full.pdf submitted 16/12/2020
+                                                                                                       20
+    valuable insight and has helped us to close the gap between the modelling needs of the strategic
+    planners and those of our frontline operational teams.’
+
+    The modular structure of the code means it can be easily ported to model other populations, even
+    those with very different demographics. It is completely open source (GPL3 license) so it can be
+    freely downloaded and adapted. The team have already applied it to Cox’s Bazar3, a United
+    Nations refugee camp in Bangladesh which is the most densely populated place on Earth. This
+    code gives a dramatic illustration of our strategy for the future, where excellence in pure research
+    has transformative impact in the real world.
+
+
+
+
+3
+  https://www.unglobalpulse.org/2020/10/modelling-the-spread-of-covid-19-and-the-impact-of-public-health-
+interventions-in-coxs-bazar-and-other-refugee-camps/
+                                                                                                        21
+

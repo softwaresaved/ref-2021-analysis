@@ -1,0 +1,949 @@
+Unit-level environment template (REF5b)
+
+ Institution: University of Bradford
+
+ Unit of Assessment: B11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Context and Structure of the Unit
+
+ Research in UoA B11 is based in the Faculty of Engineering and Informatics, with our
+ academics drawn from the Department of Computer Science and the Department of Media,
+ Design and Technology. The current horizontal Faculty structure, including six departments, with
+ no hard-disciplinary borders, underpins a fundamentally interdisciplinary approach to research,
+ while at the same time preserving the core identity of each department profile. This results in
+ robust research interconnections across the computer science, media and engineering
+ disciplines which emerge from fundamental research developed in each of them. The UoA B11
+ research is organised through three Research Units (RUs), which are listed below.
+
+ Artificial Intelligence and Visual Computing Research Unit
+
+ This RU focuses on developing Artificial Intelligence (AI) and Visual Computing (VC)
+ fundamental and applied research. Members of this RU have an established track record in the
+ development of knowledge and technologies in Artificial Intelligence, Visual Computing, Data
+ Mining, Machine Learning, Image and Signal Processing, Big Data, Data Analytics, Digital
+ Health and medical imaging/diagnostics. Staff members are Abdullatif, Elshehaly, Mehmood,
+ Neagu, Qahwaji, Trundle, Ugail, Wan and Zhang
+
+ Computational Modelling Research Unit
+
+ The RU contributes to theoretical aspects of (unconventional) computational models, quantum
+ and membrane systems, formal verification and testing, and dynamic system safety analysis,
+ with a proven strong international track record, publishing in high-impact journals and top
+ conferences. The RU members have developed applications spanning qualitative and
+ quantitative analyses of complex, concurrent and stochastic systems in high-performance
+ computing environments, the use of computational models in manufacturing, as well as practical
+ software engineering solutions to industrial problems and cross-disciplinary applications. Staff
+ members are Gheorghe, Konur, Lefticaru, Lei and Vourdes.
+
+ Internet of Things, Cyber Security and Networks Research Unit
+
+ This RU contributes to cutting edge research in the development of knowledge and technologies
+ in smart cities, citizen science, semantic stream processing, semantic deep learning, intrusion
+ detection systems (IDSs), malware analysis, network traffic modelling, performance optimisation,
+ mobile, wireless and satellite communication, and vehicular communications networks including
+ aircraft and trains. The RU has strong interdisciplinary national and international collaborations
+ through funded projects, research labs working on smart cities and Internet of Things (IoT)
+ challenges such as Amsterdam Data Science, and organisations such as Digital Catapult, and
+ West Yorkshire Combined Authority. Staff members comprise Awan, Connolly, Ghafir, Hu and
+ Thakker.
+
+ This organisational structure encourages fundamental research in core computer science areas
+ and multi-disciplinary applications. New research facilities supporting multi-disciplinary research
+ have been developed, such as the Centre for Visual Computing, the Advanced Automotive
+ Analytics Lab, the IoT Innovation Lab, Cybersecurity Lab, the Computing Enterprise Centre and
+ the Multimodal Biometrics Lab. More details are provided in Section 3.
+
+ Research in the three RUs is managed by the Department Research Committee (DRC), which
+ develops, monitors, nurtures and reviews research plans and decisions in accordance with the
+ University’s strategy, evaluates research impact, sets priorities, allocates necessary resources
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+
+ and provides consistent communication, and also supports and mentors research staff (in
+ particular recently employed and junior staff).
+
+ Research and Impact Strategy
+
+ The Department’s post REF2014 strategic plan was based on the vision of developing high-
+ quality fundamental and applied research, whereby personal research interests and genuine
+ curiosity are merged with the University research strategy and growing sustainably through
+ identifying and nurturing relevant research areas. This vision is supported by the following
+ research objectives and an action plan.
+
+ Research Objectives
+
+ 1. Improving the quality and quantity of research produced.
+
+ 2. Exploring and identifying emerging and futuristic research areas and key challenges.
+
+ 3. Developing strong and sustainable research infrastructure and organisation.
+
+ Action plan
+
+ The research objectives have been agreed with the Faculty Research Committee (FRC) and the
+ DRC, and are implemented through a set of coherent actions, A1 to A5, leading to research
+ outcomes.
+
+ A1: Continuous improvement of the research outcomes [supporting objective 1]
+
+ A list of highly regarded journals and conferences and research grant opportunities has been
+ identified by DRC and staff members are encouraged to prioritise publishing and apply for
+ projects, respectively. Both the FRC and the DRC have supported staff members by organising
+ scientific seminars and establishing a Faculty-wide Early Career Research Forum (ECRF). The
+ submitted research outputs and the volume of research and knowledge transfer grants (Section
+ 3) demonstrate the quality of our research outcomes.
+
+ A2: Fostering new collaborations [supporting objective 1]
+
+ A broad spectrum of collaborations, including projects, research seminars, visits and organizing
+ joint events, with other high-profile national and international University research units (e.g. UK:
+ Sheffield, Newcastle, Warwick, Nottingham; Europe: Genoa, Seville, Vienna; Other countries:
+ UAE, Japan, India, China) and professional societies (e.g. British Computer Society (BCS),
+ Institution of Engineering and Technology (IET), IEEE) are encouraged and supported in the
+ UoA by the Department, Faculty and University. Joint seminars and talks, sandpit events and
+ workshops are organised on regular basis, benefitting from our active representation with BCS,
+ IET, Digital Catapult and funding through the successful Erasmus+ networks managed by the
+ University and funded H2020 RISE projects.
+
+ A3: RKT grants [supporting objective 1]
+
+ The FRC actively monitors this activity and provides support to early-career staff members and
+ peer-review of grant applications for all staff.
+
+ A4: Identify and invest in strategic research areas [supporting objective 2]
+
+ Our staff are involved in core and multi-disciplinary strategic research activities, such as Digital
+ Health, AI, Multimodal Biometrics, Remote Sensing, Aeronautical Communications, 5G Wireless
+ Communication and Systems, Networks, Smart Technologies, IoT, Cyber-Security, Automotive
+ Analytics, Modelling and Formal Verification, Membrane Computing, Quantum Computing and
+ Systems, High-Performance Computing, and Computational Biology. All staff members recruited
+ during the REF period work in these areas. RUs are encouraged to strengthen their research in
+                                                                                                Page 2
+Unit-level environment template (REF5b)
+
+ these areas by applying for internal and external research funding, advertising new multi-
+ disciplinary PhD projects on FindaPhD, organising specialist events, publishing in high impact
+ research avenues (as illustrated by the research outputs submitted), developing new external
+ and internal, academic and industrial collaborations.
+
+ A5: Organising the research and building infrastructure [supporting objective 3]
+
+ The process of re-organising the research started by clustering RUs around three main research
+ themes, encompassing the strategic research areas (mentioned above). These RUs represent
+ the backbone of our research environment. Research at every level is supported by a nurturing
+ environment that encourages cutting-edge and impactful research.
+
+ As shown in Section 2, this UoA went through a major process of staff recruitment, since 2015
+ we have appointed an anniversary chair (Gheorghe) and ten lecturers (Abdullatif, Connolly,
+ Elshehaly, Ghafir, Konur, Lefticaru, Lei, Mehmood, Thakker, and Zhang).
+
+ Our research environment enabled the production of significant impact in many disciplines:
+ automated solar activity prediction (Qahwaji with NASA, Impact Case Study (ICS) B11-1
+ “ASAP system makes prediction of solar activity faster, automated and more accurate”), and
+ advanced face recognition (Ugail, ICS B11-2, “Deep face recognition accurately identifies
+ suspects in international criminal investigations”).
+
+ Our staff continue to make significant contributions supporting the University’s key research
+ themes of Advanced Health Care, Innovative Engineering and Sustainable Societies. We have
+ strategically targeted fundamental research contributions and applications in the UoA relevant
+ interdisciplinary areas to these themes, as illustrated by projects mentioned in Section 3.
+
+ Open Access and Ethical Policies
+
+ The University has implemented a series of initiatives that encourage and incentivise staff to
+ meet, not just the basic open access (OA) requirements of the REF process, but that go beyond
+ these. Within UoA B11 DRC members have adopted the following practices:
+
+ 1. We actively promote OA and open research. OA promotion activities include presentations
+    to faculty assemblies, checking open access compliance of publications and data, and
+    advising academics on all aspects of OA.
+
+ 2. We operate a system of mandatory peer review of all grant applications. This process
+    includes an element where OA considerations must be addressed. We ensure that we
+    implement stringent data management plans for all data arising which may include, but is not
+    limited to:
+
+        •   Simulation results and experimental data are shared for use in validation or
+            reproduction of the work undertaken. Readme files are included alongside all core
+            data sets clarifying file naming conventions, units, acronyms and any other relevant
+            information.
+
+        •   Source codes are archived using the GitHub version control system, usually with an
+            interface allowing non-specialists to gather data for their work.
+
+        •   All public data sets could be given a DOI to aid discovery and linking e.g., by the
+            promotion of data sets on academic social media and the study website.
+
+ 3. The peer-review process also requires reviewers to consider the extent to which applications
+    have OA activities and funds embedded within them (where permitted by the funding
+    agency). For example, funds may be requested to store data in national or international
+
+
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+
+    database(s). Staff from the central Research and Innovation Services (RaIS) team will also
+    check for the inclusion of OA activities when reviewing applications before submission.
+
+ 4. The University holds an annual open research day at which delegates can learn from experts
+    about a variety of OA issues, such as optimisation of social media exposure, OA success
+    stories from within the University, and guest speakers from external organisations such as
+    the Patent Agency and ‘The Conversation UK’. Alongside the Open Research Day, the
+    University holds pop-ups in key locations across the campus throughout the week.
+
+ 5. We actively encourage our staff to apply for the University's Research Development Fund
+    (RDF), offering funds for gold OA publication of non-UKRI funded outputs and a monthly
+    publication award, a requirement of which is that the output is available via OA, so
+    incentivising OA compliance. Furthermore, access to any element of the RDF (e.g. pump-
+    priming funds or conference attendance) is only available to staff whose outputs are OA
+    compliant.
+
+ 6. We take the necessary steps (via the RUs) to make sure staff adhere to the University and
+    funders’ publication policies, requiring that staff check with repository staff regarding OA
+    compliance of their chosen journal.
+
+ 7. Social media workshops form part of the diet of training available to researchers. These
+    workshops focus on the use of social media to open up the process of research, from
+    ideation, to launch, to progress updates, to outputs and data beyond the researchers’ usual
+    ambit. In addition, the OA team offers presentations at research away days, research group
+    meetings, and research committees.
+
+ The University of Bradford has its own Ethics Policy based on the UUK Concordat for Research
+ Integrity. We rigorously ensure that those of our projects that involve healthcare aspects (e.g.
+ gestational diabetes) or collection of personal data (e.g. H2020 eBORDER project) have the
+ necessary ethical approval. We recognise that all researchers have an obligation to ensure that
+ their research is conducted with honesty, integrity, openness, minimal possible risk to
+ participants and themselves, and respect for other people, their values and their cultures. Our
+ policy makes it clear that conducting research with integrity requires embracing intellectual
+ honesty and accepting personal responsibility for one’s own actions. Researchers are expected
+ to consider the ethical implications of their research and, depending on its nature, the cultural,
+ economic, and social consequences of it. Researchers are also required to consider issues
+ related to Trust and Privacy especially when processing personal data in line with the GDPR.
+
+ Our researchers are required to consider their research from the perspective(s) of the
+ participants and any other people who may be affected by it and are encouraged to undertake
+ the University’s unconscious bias e-learning training module to assist with this.
+
+ Research misconduct is monitored via the University’s management structure or the University’s
+ whistleblowing procedures. Both routes require reporting the misconduct to the Chair of the
+ Committee for Ethics in Research and via that body, to the University’s Ethics Committee. An
+ annual research misconduct report is produced by the Chair of the Committee for Ethics in
+ Research. This is presented to University Council and made publicly available via the University
+ website, in accordance with the concordat for research integrity to which the University is a
+ signatory.
+
+ Comprehensive training in the application of research ethics is available at the University. There
+ is mandatory training for newly appointed researchers as part of their induction process. All
+ researchers are required to undertake a training session, which is available twice a year.
+
+
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+
+ 2. People
+
+ Our staffing strategy aims to create critical mass in research activities by supporting research
+ groups’ activities while giving individuals the freedom to pursue new opportunities. Our staffing
+ strategy starts with initial recruitment and includes the management and retention of competent
+ and motivated staff carrying out the right roles at the right time to meet their personal,
+ departmental and wider university goals. We have clear leadership roles, to create sustainable
+ and vibrant teams able to work in a supportive environment while working across discipline
+ boundaries to deliver our vision.
+
+ Our priority has been to recruit high-quality academics with an international reputation and
+ excellent research promise. Each member of the staff is part of one or more of the three RUs.
+ Since 2014, a significant number of new staff members have been appointed who each enhance
+ the research portfolio of every RU. An Anniversary Chair (Gheorghe), and ten Lecturers (three in
+ 2014-2015 and the rest in 2019) joined one or more of our three RUs as core or associate
+ members. The ten lecturers are Konur, Thakker, Lei (all in 2014-15), Mehmood, Ghafir,
+ Abdullatif, Lefticaru, Zhang, Elshehaly, and Connolly (in 2019). They have received University
+ and Faculty support for their research development and expansion of their grant portfolios - all
+ staff members recruited in 2014-2015 have secured considerable grant income as Principal
+ Investigators, as demonstrated in Section 3. Among these new staff, there has been one
+ promotion to Reader (Konur) and two to Senior Lecturer (Thakker and Lei).
+
+ Each RU comprises a dynamic blend of senior staff, providing research leadership, and high-
+ calibre early career researchers (ECR) working together in a highly collaborative environment.
+ Career development is a priority for the UoA and is addressed via an annual performance
+ review. Academic staff workload is managed by allocating credits for publication of research
+ outputs, research project management, proposal writing, postgraduate researcher (PGR)
+ supervision, scholarship activities and conference attendance as well as research-related
+ management and academic citizenship roles. Performance of staff is monitored regularly and
+ reviewed annually, where staff development, goals and mechanisms for support are discussed,
+ and individual action plans developed. Academic staff are actively encouraged to take
+ leadership courses offered by the University and other organisations regionally and nationally.
+ Examples of these leadership courses include the Bradford Leader programme (nine days
+ residential) and the Bradford:Fellowships programme.
+
+ Each ECR is assigned an experienced staff member, who is not their line manager, as a mentor
+ to support their academic career development, including support for professional development
+ and qualifications. The mentor gives appropriate guidance in all aspects of their roles, including
+ research activity planning, publication targets, grant applications, collaborative developments in
+ academia and industry, recruitment of PGRs and RAs, and attendance at relevant conferences.
+ ECRs have a reduced or minimum teaching load and no administrative duties for their first three
+ years, providing them with more time and freedom to focus on their research activities and
+ development. They are supported by the Faculty to attend conferences and networking events.
+ ECRs are required to complete the Bradford:Fellowships programme, which provides training in
+ teaching and knowledge transfer skills. ECRs prepare a research development plan, supported
+ by their mentors and in line with the Faculty’s strategy and plans, highlighting their career
+ development opportunities and setting personal development goals aimed at enhancing their
+ research profiles. ECRs are encouraged and supported to progress to principal PhD supervisor
+ status through initial involvement as Associate Supervisors. The intention is that, by the end of
+ the planned period, the new members will have developed the required skills and competencies
+ for research. Newly appointed ECRs review and discuss with mentors their research plan
+ annually, over three years.
+
+ Early career academics in the UoA are part of the faculty-wide ECRF, which aims to provide a
+ supportive and vibrant environment for ECRs to interact in an interdisciplinary forum, conducive
+ to the achievement of personal and Faculty strategic goals. The forum participants meet monthly
+ and receive support in the development of their research, including finding collaborations, advice
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+
+ and help on research funding and grant writing, and overall research matters. In the last few
+ years, the ECRF has organised events on topics such as grant applications (EPSRC New
+ Investigator Grant, writing your proposal step-by-step), industry-focused R&KT funding,
+ Intellectual Property (IP) development, the Researcher Development Concordat, and the
+ Research Information System.
+
+ Support capability for the UoA is complemented by the central RaIS team who support staff
+ training in IP protection, business development, grant development and submission, industrial
+ partnerships, and local business engagement, amongst other activities. RaIS helps with
+ identifying appropriate research funding and developing and submitting applications. A wide
+ range of training events is available for all staff members to develop and enhance various
+ research competencies, including finding research funding, writing successful grant applications,
+ effective research supervision, research ethics, and using social media for supporting research
+ activities. Also, RaIS circulates regular research bulletins and newsletters by email. Our staff are
+ supported in preparing high-quality research applications by rigorous internal peer review by two
+ senior colleagues and by our dedicated Faculty Research & Knowledge Transfer Business
+ Development Manager and RaIS.
+
+ Post-Doctoral Research Assistants (PDRAs) & Visiting Research Fellows
+
+ The nature of our research has facilitated a high number of externally funded PDRAs and visiting
+ research fellows working alongside our research-active staff. Over the REF period, we have had
+ 20 externally funded PDRAs and visiting researchers (mainly from overseas research
+ institutions). All these PDRAs and visiting researchers have contributed significantly to our
+ research environment, providing a comprehensive global view and additional maturity of thought
+ and practice to support our research culture, in particular our PGR progression. All the PDRAs
+ working with us have improved their academic and technical skills and progressed with their
+ careers. Some examples include:
+
+ -   Dr Saeed Sharif who worked on NHS Funded project with Qahwaji went on to become
+     Senior Lecturer at the University of East London
+
+ -   Dr Raluca Lefticaru worked with Gheorghe (2016-2018) and then joined the University of
+     Sheffield as PDRA until Sept 2019, then joined the University of Bradford as a lecturer.
+
+ -   Dr Longzhi Yang worked with Neagu as PDRA and now is an Associate Professor at
+     Northumbria University
+
+ -   Dr Moi Hoon Yap worked with Ugail as a postdoctoral researcher is now a Reader at
+     Manchester Metropolitan University
+
+ -   Peter Lowry worked with Ugail as a KTP associate now is a full-time forensic scientist at
+     Acume' Forensics
+
+ -   Dr Cheng Yong Qiang with Hu as a PDRA (2013-2015) and went on to become a Senior
+     Lecturer in the University of Hull
+
+ -   Dr Adeel Ahmed with Hu as a RA (2017-2018) and now a Data Engineering Manager at the
+     Adecco Group
+
+ -   Dr Fouad Benamrane with Hu as a PDRA (2018-2019) and now a NPI Nuage/SDN
+     Consultant in Nokia, Morocco
+
+ -   Dr Doanh Kim Luong with Hu as a PDRA (2018-2021) and now a software developer at
+     SAP, Belfast.
+
+
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+
+ PGR Recruitment, Supervision and Submission
+
+ During the REF period, we revised PGR processes to encourage the recruitment of quality PhD
+ students. The PGR processes include competitive advertisement of PhD applications on
+ platforms such as FindAPhD, with staff competing for advertisement slots; reaching out to
+ various strategically important geographical areas for recruitment through marketing and
+ outreach activities; a three-step verification process for selection of the candidates including
+ interviewing every candidate; the encouragement of cross-disciplinary supervisory team
+ formation and inclusion of relevant ECRs; and documenting the process of selection. Staff are
+ encouraged to bid for studentships to provide fully-funded PhD positions available through
+ research bid funding and industrial partnerships – a proportion of our PGR community over the
+ period of this REF period has resulted from such scholarship (notable funders include
+ Commonwealth Scholarship, EU, PTDF Nigeria, and EPSRC). The supervision and PGR
+ progresses are strictly monitored by the PGR office – monthly, annually, and at three other
+ milestones of the PhD (transfer to PhD, transfer to write-up, and viva voce thesis defence).
+
+ During the census period, our research groups have supervised to graduation 79 PGRs, which
+ includes a significant number of students holding prestigious Research Council awards, and
+ international government funding (from Iraq, Libya, Nigeria, Oman, Egypt, Jordan, Pakistan,
+ Japan).
+
+ Our PGRs benefit from studying in an interdisciplinary academic environment with access to an
+ excellent range of well-equipped research and office facilities. All PGRs are provided with a
+ desktop computer, access to our laboratory facilities, technician support and funds for travel and
+ conference attendance. PGRs receive an annual subvention of £500 towards research
+ expenses, to cover the costs of laboratory work, field research and conference attendance. For
+ seminars, we have a monthly ‘best presentation’ award. The Faculty holds an annual PGR
+ conference (Annual Innovative Engineering Research Conference (AIERC)) for postgraduate
+ students, who are all encouraged to participate. This gives opportunities for PGRs to present
+ their research, discuss new research ideas, and get feedback. It is also a good opportunity to
+ gain valuable experience in presentation and communication skills. At this conference we have a
+ number of awards including ‘best paper’, ‘best-published work’, ‘best presentation’, and ‘best
+ poster’ - all these awards monetarily contribute to research and training expenses for PGRs. We
+ also run a PGR research seminar series where the students present their work weekly to an
+ audience of fellow PGRs, staff, and members of the public. These seminars have continued
+ virtually during the pandemic. One PGR is selected each month for a ‘Monthly Best Presentation
+ Award’ – decided by a panel of three reviewers. In addition, our researchers (PhD, PDRA,
+ visiting research fellows and full-time staff) are encouraged to work together to share ideas and
+ to generate lively discussion through seminars and workshops. In 2020 we established a new
+ “IET on Campus” PGR society which is managed and led entirely by our PGR students under
+ the mentorship of a senior staff member (Qahwaji). This PGR society will organise events and
+ activities which will be funded and sponsored by IET.
+
+ All PGRs have a support committee, with a Principal Supervisor and one or two Associate
+ Supervisors. PGR progress monitoring, in ensuring support for students to timely completion, is
+ a high priority for the PhD supervisors. All PGRs are required to agree a Personal Development
+ Plan with their supervisors at the beginning of their study, and there is a rigorously enforced
+ system for recording both PGR progress and regular formal meetings between PGRs and their
+ supervisors. In addition to the monthly monitoring process, an annual monitoring report is
+ formally completed by the PGR and main supervisor, allowing for progress issues or skill
+ development needs to be identified and tackled by the supervision team and PGR director.
+
+ We place great emphasis on PGR training and support, integrating students into the research
+ community, supporting them to fulfil their development plans and providing them high quality
+ personal, professional and career development opportunities. The University is a signatory to the
+ Researcher Development Concordat and fully committed to implementing its principles for the
+ career development of researchers. In addition to the technical skills and development training
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+
+ programmes provided by the Faculty, the University library and staff development provide a
+ comprehensive programme of research and transferable skills training (including employability
+ skills).
+
+ Towards the end of their first year PGRs are required to prepare and submit a Transfer Report
+ that is read by two assessors, not involved in the supervision of the student. There is then a viva
+ voce assessment at which a decision is made to recommend the student’s transfer to full PhD
+ registration status or to propose additional work that is required before this recommendation can
+ be made. This supporting environment has helped boost our PGR completion rates. During this
+ REF period, there were 79 PhD completions.
+
+ Equality and Diversity
+
+ All staff involved in the recruitment and selection process are trained on equality, diversity and
+ unconscious bias by completing an e-learning modules, followed by one day of directed training.
+ We are proud that our staff come from diverse backgrounds, which enables us to build a more
+ inclusive culture for supporting staff and students.
+
+ For both staff and students, there is explicit information in our recruitment literature to encourage
+ applications from minority backgrounds and female computer scientist/engineers, to widen
+ access to computer science. Three new female members of staff (Lefticaru, Elshehaly, and
+ Connolly) were recruited recently and a number of female PDRAs are contributing significantly to
+ the delivery of our funded projects ( Sadaf, Palczewska, Kotiyal).
+
+ All our 19 staff are permanent staff with no known disabilities. There are 15 male and 4 female
+ staff members.
+
+ The ethnic status of staff is shown below.
+
+   Ethnic Status                       Headcount       Percentage
+
+   Arab                                2               10.5%
+
+   Asian or Asian British - Indian     1               5.3%
+
+   Asian or Asian British - Pakistani 2                10.5%
+
+   Chinese                             4               21.0%
+
+   Other Asian Background              1               5.3%
+
+   Other Ethnic Background             4               21.0%
+
+   Other White Background              1               5.3%
+
+   White                               4               21.0%
+
+
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+
+
+
+ Contract levels are shown below:
+
+     Contract levels (HESA Codes)       Headcount       Percentage
+
+     F1 (Professor)                     7               36.8%
+
+     I0 (Reader, Senior Lecturer)       2               10.5%
+
+     J0 (Lecturer B)                    6               31.6%
+
+     K0 (Lecturer A)                    4               21.1%
+
+
+
+ 3. Income, infrastructure and facilities
+
+ Computer Science Funding Profile
+
+ Our grant applications and awards are diverse and the funder base for our UoA has three main
+ components. Firstly, RKT applications and awards with industrial partners targeting Innovate UK
+ or Access Innovation funding schemes. Secondly, a solid profile of EPSRC and European Union
+ grant applications and awards schemes and calls. Thirdly, industry funding, including multi-
+ disciplinary collaborations with other University departments (e.g. Automotive Engineering,
+ Wolfson Centre for Applied Health Research, DVC (Research, Innovation & Engagement) HEIF
+ grants) and organizations such as the NHS National Innovation Centre, Digital Catapult and
+ Translate Medical Technologies.
+
+ Given the growing visibility of and interest in digital technologies (including AI and Big Data),
+ Computer Science funded projects cover all three of the University’s main research themes:
+ Advanced Healthcare, Innovative Engineering, and Sustainable Societies. Some relevant
+ examples are shown below, demonstrated by externally funded RKT projects:
+
+ Advanced Healthcare:
+
+ Some examples include:
+
+ -    “Efficient 3D Corneal Modelling”, Oct 2013 – Oct 2017, value GBP250,000, externally funded
+      by NHS National Innovation Centre.
+
+ -    FP7 SEURAT-1 COSMOS project “In Silico Models for the Prediction of Human Repeated
+      Dose Toxicity of Cosmetics to Optimise Safety”, Jan 2011-Dec 2015, value EUR572,000 for
+      Bradford from EUR6,790,000 project.
+
+ -    Three Small Grants funded by the Digital Catapult on 5G and Healthcare, 2018, value
+      GBP10,000.
+
+ -    Digital Health Projects funded by Translate, 14 funded student summer projects, GBP2,500
+      each, 2017-2020.
+
+ -    HEIF projects funded through internal PVC Research Office call on COVID-19 impact in
+      2020, total GBP60,000.
+
+ -    HEIF projects funded through internal grant schemes on Air Quality monitoring in 2020-2021,
+      total GBP50,000.
+
+
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+
+ Innovative Engineering:
+
+ Some examples include:
+
+ -   EU H2020 SESAR JU SINAPSE – “SDN Architecture with AI to improve aeronautical
+     communictions, performance, security and efficiency”, 2020-2022, total value EUR853,000,
+     Bradford EUR284,000.
+
+ -   EU H2020 Cleansky2 JU COMET – “Future Cockpit Network Communications Environment
+     Testing”, 2018-2022, total value EUR9,600,000, Bradford EUR907,000.
+
+ -   Innovate UK SINCBAC: “Secure Integrated Network Communications for Broadband and
+     ATM Connectivity”, 2012-2014, total value GBP1,000,000; Bradford GBP588,000.
+
+ -   Innovate UK “HARNet Harmonised Antenna, Radio and Networks”, 2014-2015, total value
+     GBP11,500,000; Bradford GBP766,000.
+
+ -   EPSRC project: “Light-weight Verification of Synthetic Biology”, 2018-2021, GBP352,000.
+
+ -   H2020 project funded by European Commission Research and Innovation call: H2020-
+     MSCA-ITN-2016 (Marie Skłodowska-Curie Innovative Training Networks), “SECRET: SEcure
+     Network Coding for Reduced Energy nexT generation Mobile Small cells”, November 2016-
+     November 2020, EUR3,300,000.
+
+ -   FP7 project “First European Comprehensive SOLar Irradiance Data exploitation”,
+     EUR2,000,000.
+
+ -   Jaguar Land Rover AAA project Advanced Powertrain Reliability R&D - Intelligent
+     Personalised Powertrain Health Care (InPowerCare), in excess of GBP500,000.
+
+ -   European Space Agency (ESA) funded project: “Solar Events Prediction system For Space
+     Launch Risk Estimation”, In collaboration with the Technical University of Catalonia and the
+     University of Malaga (Spain), Sep 2014-2016, EUR100,000.
+
+ -   Marie Skłodowska-Curie Actions, Research and Innovation Staff Exchange (RISE), Call:
+     H2020-MSCA-RISE-2019, "Secure and Wireless Multimodal Biometric Scanning Device for
+     Passenger Verification Targeting Land and Sea Border Control", EUR1,000,000, between
+     five European partners.
+
+ -   Six Innovate UK KTP and EU Access Innovation projects with industry (e.g. Intelligent
+     Manufacturing for Rakusen’s Ltd., 2017-2019, Smart Network Traffic Monitoring with Xalient
+     Ltd., 2020-2022).
+
+ -   InnovateUK funded KTP project with Hebe Works Limited, Leeds, 18-month project, 2015-
+     2016, GBP104,000.
+
+ -   KTP with Exa Networks, “Classification of Web contents using Machine Learning”,
+     GBP140,000, Funded by Innovate UK and Exa Networks Ltd, June 2018-May 2020.
+
+ -   MotiVar: Motivating weight loss through a personalised avatar - with collaborators from
+     School of Health, University of Bradford, King’s College London, University of Leeds and Mid
+     Yorkshire Hospitals, funded by NIHR, value GBP252,000, April 2017 – September 2020.
+
+ -   ‘Fragmented Heritage' From the Kilometre to the Nanometre: Automated 3D Technology to
+     Revolutionise Landscape, Site, and Artefact Analyses, AHRC Digital Transformations
+     Programme Theme Large Grant awarded– with Dr Andrew Wilson and Dr Adrian Evans
+     (School of Archaeological and Forensic Sciences), and external/international collaborators
+     such as Dr Nicholas Ashton (British Museum) and Dr Louise Leakey (East Africa), value
+
+                                                                                           Page 10
+Unit-level environment template (REF5b)
+
+     GBP1,900,000, July 2013 – December 2020; joint award with the School of Archaeological
+     and Forensic Sciences.
+
+ -   Development of the HALO Biometric Custody Suite - with Acume’ Forensics, KTP funded by
+     Innovate UK, GBP153,000, June 2016 – January 2018.
+
+ Sustainable Societies:
+
+ Some examples include:
+
+ -   European Council (ERDF Interreg North Sea) funded project on Smart Cities and Open Data
+     REuse: SCORE, 2017-2021, grant value: EUR2,800,000.
+
+ -   British Council SITARA project on sustainable smart grids, 2016-2018, GBP150,000.
+
+ -   Innovate UK funded KTP project on Artificial Intelligence in Immigration Law with A, Y & J
+     Solicitors, London. 24-month project, 2020-2022, funded for GBP175,000.
+
+ -   Innovate UK and direct industry-funded projects, such as KTP “Decision Support System for
+     Sustainable Housing” with Incommunities, 2015-2017, GBP120,000;
+
+ -   KTP “Open Data for Smart Cities” with HebeWorks Leeds, Innovate UK Urban Living:
+     Integrated Products and Services competition: Binnovation - Using IoT technology for
+     household waste, 2015-2017, value GBP104,000.
+
+ -   Connected Placed Catapult project on Horizon Scanning of Integrated Urban Planning for
+     Net Zero Carbon Emissions, GBP15,000.
+
+ -   GCRF funded PhD studentship on the use of drones for undiscovered landmines in
+     archaeological sites, GBP73,000.
+
+ As explained in Section 2, we have appointed new staff members (with a mixture of experienced
+ staff and ECRs joining across all our RUs). They are starting to contribute significantly to our
+ research bidding activities, also bringing their own industry and network opportunities. Today the
+ largest rise in grant bidding in this UoA comes from joint funding applications submitted by ECRs
+ and senior staff working together. This is a direct result of the implementation of the support
+ mechanisms described above to support all staff, in particular ECRs.
+
+ The UoA has maintained its strong industrial links over the REF period, undertaking research
+ and knowledge transfer contracts with industrial funders (such as Jaguar Land Rover: over
+ GBP£500,000 in the AAA Lab). Examples also include knowledge transfer with SMEs, for
+ example, Exa Networks, A Y & J Solicitors, Xalient Ltd, with a value exceeding GBP600,000.
+
+ Looking forward we are committed to continue our engagement with EPSRC, EU and Innovate
+ UK, and enlarge our international collaborations and funding (e.g. in direct-funding calls with
+ Canada, Brasil, China, India, Japan, and EU countries). Our research groups and research
+ directions are aligned with the priority areas of these funding bodies. All research groups are
+ also encouraged to diversify their funding portfolio and apply for grants from, for example, the
+ Royal Society, MRC, NIHR, Wellcome Trust and ESA.
+
+ Infrastructure and facilities
+
+ Our physical infrastructure is based around specialised spaces housing offices and specialist
+ labs for individual research units. The highly-specialised labs support the depth and breadth of
+ experimental and computational activities required to develop the quality output and impact
+ delivered within the research themes:
+
+ •   The Centre for Visual Computing (CVC) brings together computational, physiological and
+     psychological expertise to undertake world-class research and development in digital
+                                                                                          Page 11
+Unit-level environment template (REF5b)
+
+     imaging, visualisation, human visual perception, computer-based simulations and machine
+     learning. Research within CVC utilises a suite of modern 3D non-contact scanning and 3D
+     printing devices, visible and thermal imaging systems, eye trackers, an industry standard 21
+     camera motion capture system and a state-of-the-art digital arts centre.
+
+ •   The Advanced Automotive Analytics (AAA) Laboratory is an interdisciplinary
+     collaboration between researchers in Computer Science and the Automotive Engineering
+     Research Centre, focused on research and development of big data science methods and
+     solutions to enhance vehicle reliability throughout the lifecycle – from design to service and
+     reuse. The AAA Lab provides a set of world-class computational and analytics research
+     expertise and facilities (internal and cloud big data storage, access to the UoB High
+     Performance Computing (HPC) Cluster, big data analytics processing GPGPU hardware and
+     software). These are used for knowledge discovery from complex automotive engineering
+     challenges with fresh innovative machine learning techniques, funded by renowned industry
+     partners and organisations (Jaguar Land Rover, the SAFI consortium original SAFI
+     Consortium Partners: Airbus, Renault, PSA and Valeo, IAV) and University competitive HEIF
+     calls.
+
+ •   Bradford Computing Enterprise Centre (CEC) is a software development unit providing
+     knowledge transfer and custom software solutions to clients using a combination of
+     academic researchers and students' problem-solving expertise and skills. The beneficiaries
+     of short-term projects are local SMEs, funded through a variety of sources including Access
+     Innovation, the former European Commission Erasmus+ programme, Innovate UK and
+     industry funded projects. Expertise is provided by academic staff supported by a full-time
+     R&KT Development expert and R&KT Business Development Manager, with teams of
+     undergraduate second and final year, Masters and PhD students. Facilities include a
+     dedicated specialist CEC computing lab, meeting and interview facilities with a variety of
+     hardware equipment (data servers, workstations, laptops, EPOC+, R-Pi etc) and access to
+     online storage and processing equipment.
+
+ •   Interdisciplinary Research Centre in Cyber Security (IRC Cyber Security) brings
+     together academics from Computer Science, Engineering, Peace Studies, Social Sciences,
+     Management, and Law to work on cybersecurity and cloud computing-related research
+     projects in a lab with a variety of state-of-the-art computing facilities. This research centre
+     has strong links with members of the West Yorkshire Police Counter Terrorism unit and
+     works on joint projects.
+
+ •   The CS Arrack lab was recently built to facilitate various testing methodologies for
+     developing effective techniques to detect and/or prevent various sophisticated current and
+     potential future cyber-attacks. The test laboratory includes state-of-the-art computing
+     facilities and powerful switches to analyse high volumes of traffic.
+
+ •   The IoT Innovation Lab provides physical and collaboration infrastructure to support
+     research in IoT and Smart Cities. The lab has state-of-the-art equipment, including sensors,
+     drones, network traffic monitors, high-performance computing, and dedicated datasets, for
+     supporting research, development, and teaching. The lab’s facilities were part of our
+     expertise/offerings in six successful research proposals (combined value for UoB share of
+     over GBP700,000 from European Union, Innovate UK, Digital Catapult, and HEFCE).
+
+ •   The Future Ubiquitous Networks Research Lab with state-of-the-art facilities including a
+     high-performance computer for data-intensive AI training, an ADS-B radio transceiver set for
+     anti-jamming trials, an inhouse flight simulator, a CISCO switch and a Software Defined
+     Networking software platform.
+
+ •   The Multimodal Biometrics Lab, which is the newest lab in CS, fully funded by the H2020
+     project eBORDER, to establish biometric data capturing suite for capturing 3D facial images
+     and videos and other biometric data (e.g. fingerprints, iris, etc). The lab contains a variety of
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+
+    3D cameras, infrared cameras, iris scanners, fingerprint scanners, powerful workstations,
+    and secure data storage facilities. The lab focuses on the development of cutting-edge
+    imaging and machine learning technologies coupled with data fusion techniques for
+    delivering real-time automated person identification technologies.
+
+ Computer Science researchers also have access to several university research facilities such
+ as:
+
+ The High-Performance Computing (HPC) Cluster facility, which provides a powerful platform to
+ accommodate large memory and parallel processing applications. The HPC provides over 10
+ times the capacity available on a typical desktop workstation, allowing otherwise impossible
+ calculations to be carried out. With a diverse range of benefits, the HPC is providing solutions in
+ processing real-life big data using advanced deep learning technologies.
+
+ Digital Health Enterprise Zone (DHEZ) programme is a GBP13,000,000 partnership led by the
+ University of Bradford and backed by investment from the City of Bradford Metropolitan District
+ Council and the UK government. The DHEZ facilities include business incubation space, a
+ lecture theatre with Tech-Living Lab observatory space, Exhibition space, a Healthcare Analytics
+ lab and a Technology House/Living Lab. The Technology House is a two bedroom house, built
+ within the campus, containing advanced sensor technology designed to monitor and capture
+ data on movement and daily living activities. The property utilises state-of-the-art technologies
+ including embedded electronics, mobile, wireless and satellite communications, biosensors and
+ biomaterials, and big data analytics.
+
+ The Wolfson Centre for Applied Health Research (CAHR) brings together researchers from the
+ Universities of Leeds and Bradford with clinicians from Bradford Teaching Hospitals NHS
+ Foundation Trust to do research on three UK health priorities, which are Healthy Childhood,
+ Healthy Ageing and High Quality and Safe Care.
+
+ Staff and PGRs in the UoA have access to extensive general and dedicated computing facilities
+ within the Faculty and across the university. Each researcher is provided with hi-spec desktop
+ PCs suitable for the level of their computational investigation, installed with generic research
+ software (e.g. MATLAB, visual studio, AutoDesk, others). The Faculty annually renew the
+ license of specialised software for research purposes, for example, MATLAB. Both the faculty
+ and the university provide dedicated IT support teams to provided professional and technical
+ service to all staff and students. Grant holders are provided with virtual machines for hosting
+ project web pages and code repositories.
+
+ Technical support is provided by 14 Technicians plus two apprentices. We have signed up to the
+ Technician Commitment which provides development opportunities via the National Technicians
+ Development Centre (https://nationaltechnicianscentre.ac.uk).
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Overview
+
+ Most of our research is multidisciplinary and our staff are highly collaborative. Since 2014 we
+ have worked on funded projects with around 20 companies and more than 50 universities;
+ examples are given below. During the same period, we have published with over 250 co-authors
+ that are external to this UoA, including more than 130 international collaborators, over 100
+ outside Computer Science and over 20 industrial/clinical. These collaborations are vital for our
+ research strategy and successes. The great majority of our funded research projects involve
+ substantive collaboration with internal and external researchers, businesses, or medical
+ partners.
+
+ We have strong research links with Bradford Council, Bradford Royal Infirmary, Leeds Institute
+ of Health Sciences, Leeds General Infirmary (Neurology Dept), Bradford Institute for Health
+ Research (BIHR), the Wolfson CAHR, and tens of SMEs. The collaborations include publishing
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+
+ joint papers, joint supervision of PhD students, access to specialised datasets for analytics
+ purposes, and joint applications for research funding. For example, our collaboration with
+ Biomedical and Electronics Engineering resulted in many H2020 projects (e.g. eBORDER,
+ SECRET, SESAR, Cleansky2), a funded PhD project with LGI (Ramzi Jaber) and a new pending
+ KTP application with Vision Surgery Ltd. Working with colleagues from other disciplines and
+ other research units is a common practice for staff in our UoA. This is evidenced by the
+ tremendous breadth of disciplines and processes, such as synthetic biology (funded through
+ EPSRC research grants), optimising industrial processes (Innovate UK KTP projects), creating
+ cloud-based data analytics environments for monitoring computer networking activities (Access
+ Innovation funding), multimodal biometrics (H2020 eBORDER), 5G technologies (H2020
+ SECRET), EU project Smart Cities and Open Data REuse (SCORE), two Digital Catapult funded
+ projects on 5G and Urban Planning, 3D modelling of the Cornea (NHS-funded 3D Cornea
+ project), the prediction of Solar Energetic Particles (ESA-funded project).
+
+ Our researchers are also involved in cutting edge research and the development of technology,
+ in collaboration with prestigious national and international collaborators. Some examples are
+ shown below:
+
+ The development of the Communication Management Platform (CMP), which is fundamental in
+ the modernisation of air traffic management (ATM) systems in Europe and was also integral to
+ the realisation of the EU Single European Sky ATM Research (SESAR) vision to progressively
+ increase the level of automation support, the implementation of virtualisation technologies and
+ the use of standardised and interoperable systems.
+
+ The development of Data and Model Governance for Predictive Toxicology, an integral part of
+ the COSMOS Space platform, which has been taken to industry level by partner R&D
+ companies.
+
+ The development of a smart production control system for Rakusen's Ltd (UK-based food
+ manufacturer) to improve the production of quality products based on real-time data-driven
+ decision-making models. The project has been shortlisted for KTP Best of Best 2020. The
+ success of the project has been in several media outlets, including The Manufacturer and Food
+ Manufacture.
+
+ The development of an automated content classification system for optimal web content filtering
+ performance. The system is developed in collaboration with Exa Networks, one of the key
+ Internet Service Providers for Schools across the UK, where web filtering solutions have a major
+ impact on end-users (primary and secondary school children).
+
+ Development of a technology-centric Citizen Science as a Service (CSaaS) framework for event
+ monitoring - used in real-world flood monitoring use cases with two large communities in
+ England and Scotland.
+
+ Development of an UrbaN observatory for Indoor air Quality monitoring (UNIQ) using low-cost
+ IoT devices and used to support Bradford's Clean Air Zone.
+
+ Other examples include an advanced communication management platform (Hu with Thales),
+ monitoring network traffics (Konur with Xalient), intelligent monitoring of web contents (Lei with
+ Exa Networks), AI-based decision support system for UK Immigration Law (Thakker with A Y & J
+ Solicitors) and extracting patterns from automotive powertrain health care data (Neagu with
+ Jaguar Land Rover).
+
+ Involvement with Professional Societies
+
+ The UoA strategy to actively engage and facilitate innovation bridges to sister disciplines has
+ promoted active staff memberships in professional bodies’ (IET, BCS) events. Some of our staff
+ are fellows of BCS (Awan), IET (Qahwaji), Institute of Physics (Vourdas), IEEE (Zhang -Senior
+ Member), founding members of the IET executive committee on Healthcare (Qahwaji), the IET
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+
+ Engineering Safety Policy Panel (Qahwaji), IET Technical Assessors (Qahwaji), and members of
+ the International Membrane Computing Society (Gheorghe, Konur).
+
+ Our staff are also serving on the boards of Digital Catapult, West Yorkshire Combined Authority,
+ Industrial Centres of Excellence (ICE), Bradford District & Craven Digital Programme Board, IET
+ Executive Committee on Healthcare. Additional benefits of our interdisciplinary research include
+ collaborations with industry and colleagues in research-informed teaching, industry participation
+ in showcases and the Industry Advisory Board and participation in knowledge transfer for SMEs
+ through schemes such as Access Innovation and direct funding.
+
+ Supporting Academic Activities
+
+ Our staff serve as Associate Editors for journals such as IEEE Access, Expert Systems, Journal
+ of Intelligent Manufacturing (JIMS); Simulation Modelling Practice and Theory (SIMPAT,
+ Elsevier); PLOS ONE; PeerJ Computer Science; and Journal of Membrane Computing
+ (Springer). They also serve as guest editors for established journals such as Expert Systems,
+ Multimedia Tools and Applications (Springer), Multimedia Systems (Springer), IEEE Access,
+ Future Generation Computer Systems (Elsevier), Computers, Materials and Continua (Tech
+ Science Press), Mathematical Problems in Engineering (Hindawi), Concurrency and
+ Computation: Practice and Experience (CCPE, Wiley), Neural Computing & Applications
+ (Springer), Soft Computing (Esevier), Theoretical Computer Science (Elsevier), Natural
+ Computing (Springer), and Biosystems (Elsevier).
+
+ Our researchers are heavily involved, as reviewers, in supporting the peer-review process for
+ many leading journals such as: IEEE Access, IEEE Industrial Informatics, IEEE Transactions on
+ Reliability, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on
+ Control Systems Technology, IEEE Transactions on Fuzzy Systems, IEEE Transactions on
+ Industrial Informatics, IEEE Transactions on Vehicular Technology, IEEE Systems, IEEE
+ Internet of Things, Solar Physics, ACM Transactions on Autonomous and Adaptive Systems,
+ Expert Systems, Artificial Intelligence, Microelectronics, Multimedia Tools and Applications,
+ Future Generation Computer Systems, Journal of Supercomputing, Space Weather, Neural
+ Computing and Applications, Reliability Engineering and System Safety, Fuzzy Sets and
+ Systems, Defence Technology, Algorithms, Engineering Computations, Royal Society Open
+ Science, Journal of Intelligent Systems, Journal of Software Engineering and Applications,
+ Energy and Environment, Sustainable Cities and Society, Theoretical Computer Science,
+ Information Systems, and more.
+
+ As further evidence of esteem, UoA staff have been invited to deliver many talks including Data
+ Science in Spacecraft Missions & Space Research workshop (Royal Statistical Society-London
+ 2016), IEEE ICSPIS 2018 (Dubai), Industry 4.0 HTU 2019 (Amman) United Nations Institute for
+ Training and Research (UNITAR) Digital Policing Conference 2020, 1st and 2nd International
+ Forum on Frontiers of Automation and Artificial Intelligence (FAAI 2019 & 2020), Cyberworlds
+ 2020, UTM Distinguished Lecture, AI Tech North (2019, 2020), 35th Asian Bankers Association
+ General Meeting and Conference, SKIMA 2017, ACIT2015 and ICIT2015. Our staff are also
+ involved in the organisation of international conferences acting as conference chairs for many,
+ such as IEEE FiCloud, MobiWis, CMC2019, CMC2017, SSBSE 2019, A-MOST 2020, A-MOST
+ 2021, BDCloud-2020, DSS-2018, OBD 2015, UKCI2014, and EDMA 2019, EDMA 2020.
+
+ Our researchers (Neagu, Gheorghe, Hu, Ugail, Vourdas, Ugail, Qahwaji, Konur, Thakker) are
+ recognised as experts and are members of the EPSRC Peer Review College or are frequently
+ asked to review UKRI applications, evaluating proposals for funders including EPSRC, NERC,
+ BBSRC, MRC, NIHR, Innovate UK, British Council, EC H2020 (expert evaluators), and Sêr
+ Cymru II (Welsh Government fellowship programme). Our staff are also involved in the
+ evaluation of international projects for international award funding bodies such as The Swiss
+ National Science Foundation (SNSF), the Cyprus Research and Innovation Foundation, the King
+ Fahd University of Petroleum & Minerals (KFUPM – KSA), MITACS Canada, and the Austrian
+ Research Promotion Agency (FFG).
+
+                                                                                           Page 15
+Unit-level environment template (REF5b)
+
+ Engagement with research users and the public
+
+ Engagement with research users is an important aspect of our research strategy and culture.
+ Our researchers are actively working with multidisciplinary partners delivering smart
+ technologies to different users. The current users of our technologies include space agencies
+ (NASA, ESA), various elements of the NHS (including Bradford and Craven Clinical
+ Commissioning Group), local authorities (e.g. Bradford Council, Aberdeen City Council),
+ charities (Well Bradford), and industry (from local SMEs to large multinationals (e.g. Thales). We
+ have established different points of access to our experts and research to enable external
+ interaction. During the REF period we have been delivering several IET sponsored events every
+ year (e.g. seminars, workshops, public lectures) delivered by our experts and collaborators and
+ usually attended by professionals and members of the public. These events have proven to be
+ very successful for engaging both the public and professions, and for providing excellent
+ networking opportunities. These events have continued online during the pandemic. Some of the
+ topics covered in these events include 5G technologies, Digital Health, Space Weather
+ Prediction, Smart Cities, Agile Techniques, IoT, AI and Big Data. The National Science and
+ Media Museum hosts public nights, called Lates Nights, and we contributed to different Lates
+ events on topics related to Space, Human Faces, and Games. These events are attended by
+ several hundreds of members of the public. Our staff have also delivered public talks to different
+ astronomical societies, such as the West Yorkshire Astronomical Society and Huddersfield
+ Astronomical Society. Our experts were also involved in different events sponsored by the
+ Digital Catapult and Satellite Applications Catapult. Our EU funded projects (SECRET,
+ eBORDER, SCORE) run dedicated knowledge transfer events informing the public and
+ interested professionals about our research and development activities in cutting edge topics
+ such as AI, 5G, IoT, and Multimodal Biometrics. Our staff are frequently interviewed by media
+ outlets and newspapers discussing news events such as the Khashoggi murder, solar storms,
+ air quality, 5G developments, healthcare technologies, and women in STEM. In addition, our
+ staff are actively engaged, through cross-sector and community-led programmes, in several
+ initiatives to bridge the digital divide in Bradford and equipping secondary school students with
+ the digital skills necessary for the post-pandemic recovery of the city.
+
+
+
+
+                                                                                           Page 16
+

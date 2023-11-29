@@ -1,0 +1,616 @@
+Unit-level environment template (REF5b)
+ Institution: University of Derby
+
+ Unit of Assessment: 11- Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Introduction and development since 2014
+ The research environment for Computer Science in the College of Engineering and Technology
+ (CoET) builds upon the foundation of our REF 20214 submission and continues to pursue our aim
+ of “progressively develop[ing] a sustainable, internationally excellent research environment that is
+ highly regarded for societal impact through scholarship, interdisciplinary collaborations, income
+ generation and knowledge contributions in the field of future computing architectures, services
+ and technologies.”
+
+ The CoET is proud of its location in a City with an historically strong industrial heritage, particularly
+ in transport (automotive, aeronautical and rail). The College has a strong association with the
+ expertise of the City’s high-tech engineering industries that are undergoing a data revolution- a
+ perfect alignment with the strategic direction and staff expertise of UoA11. This alignment of region
+ and UoA expertise is evident in our Digital Data Stream Analytics Impact Case Study (ICS) (REF3,
+ 11-1), where we highlight data science applications in the predictive maintenance of rail rolling
+ stock as well as digital twin developments in the supply chain of Rolls Royce, for example.
+
+ A key development during this REF cycle has been the construction and commissioning of a
+ HEFCE funded £12.5 million STEM Centre on the Markeaton Street site in September 2017; co-
+ located with the College of Arts, Humanities and Education (AHE). This co-location leads to
+ opportunities for emerging interdisciplinary research collaboration, on, for instance, city planning
+ and more design-oriented aspects of data visualisation. The build gave much needed space to
+ develop our teaching and research and significantly improved our research environment and
+ capability. The STEM Centre hosts the Data Cave as well as specialist Cyber Security facilities
+ and some of our Data Science infrastructure; bringing staff and students into proximity and thus
+ enabling the development of an ecosystem for research and knowledge exchange in which greater
+ synergies can be exploited (an example is Stella, an Early-Career Researcher (ECR), who has
+ worked with Undergraduate students to successfully deliver research activity for immersive reality
+ models of disease transmission).
+
+ The establishment of the Data Science Research Centre (DSRC) in 2017 under the leadership of
+ Professor Anjum until 2019 and now Professor Meziane, provides the overarching structure to
+ connect the various research themes in the UoA. DSRC has provided a focal point for UoA11
+ research activity, focusing on interoperable, interconnected, large-scale e-infrastructures such as
+ cloud computing or the Internet of Things (IoT), covering aspects from system and software
+ architectures through to data analytics, applications of machine learning, data visualisation and
+ security of such systems. The University has made an investment of £1M into the DRSC, of which
+ c. £900k has been invested in academic posts and supporting PGR students. In addition, the
+ DSRC was awarded £250k investment from the Garfield Weston Foundation in 2018 for the
+ creation of a VR equipped Data Cave (Section 3.2.1).
+
+ The Rail Research Innovation Centre (RRIC) was launched in March 2019 with a capital
+ investment of £902k from D2N2 LEP (Derby, Derbyshire, Nottingham and Nottinghamshire Local
+ Enterprise Partnership). The RRIC has built on the close collaboration between the University’s
+ Institute for Innovation in Sustainable Engineering (IISE) and DSRC, reflecting the data revolution
+ in engineering in the region and internationally. The RRIC, located at Lonsdale House with IISE,
+ hosts High Performance Computing (HPC) facilities for rail related data science applications
+ (Section 3.2).
+ 1.2 Research objectives and strategy
+
+
+
+
+                                                                                                   Page 1
+Unit-level environment template (REF5b)
+ UoA11 aligns to the University Research Strategy (REF5a, 2) and capitalises on the demands in
+ almost all fields of society, industry and government to make better use of data, be able to
+ generate, use and represent data insights and ensure that data is managed securely.
+ Thus, UoA11 identifies the following strategic aims:
+    (1) To enhance the research environment through substantial investment, increased external
+        funding income, embedding the Research Ethics Policy and recognising scholarship and
+        research as an integral part of the University’s Developmental Performance Review (DPR)
+        process.
+    (2) To increase the range, quality and quantity of research for the benefit of the taught
+        curriculum, student learning and business engagement.
+    (3) To expand the capability of research in engagement with business in the City and County
+        through knowledge transfer, training services and research consultancy.
+    (4) To strengthen postgraduate research provision by enhancing the sense of a postgraduate
+        community, strengthening the programme of research training support and by adopting a
+        risk-based approach to postgraduate student recruitment.
+ Within this UoA, these aims are realised as follows:
+    •   Research themes: The role and visibility of the research themes has been greatly
+        increased, with a core focus on the DSRC at the spine.
+    •   Membership: Active membership has increased, with more experienced members
+        mentoring new or less established researchers, often using internal funding opportunities
+        to support this process. Visibility has been improved by increased publications (Section
+        1.5) and conference presentations coupled with symposia and conference events
+        organised and hosted at the University, or jointly organised and held elsewhere (Section
+        4). Section 2 details how early careers researchers (ECRs) have been recruited and
+        developed.
+    •   Research funding awarded to the UoA falls into diverse categories, with external funding
+        for facilities (Data Cave, RRIC), specific projects aligned to expertise (KTPs and
+        consultancy), and internal funding for enhancements of research environment (e.g.
+        investment in DSRC), PhD/GTA students or ECR research. These income streams have
+        created a virtuous circle positively impacting outputs, better facilities and increased growth
+        opportunity both through this REF period and for the future direction of the Unit (Section
+        3).
+
+ Members of the UoA play an integral part in the College Research Ethics Committee, ensuring
+ central policies and procedures are embedded in the UoA. Research integrity and ethics have
+ particular relevance in the context of our data and data security focused research.
+
+ 1.3 Research themes
+ UoA11 incorporates 4 intersecting themes, all led by professorial staff. The use of research themes
+ as a structure for the research activity reflects both the size of UoA11 in terms of staff and, more
+ crucially, the close collaboration between staff, to address end-to-end scenarios including
+ networking, IoT devices, wireless components to data centers, clouds, HPC and Artificial
+ Intelligence (AI). These end-to-end scenarios are crucial in important emerging fields such as
+ Edge and Fog computing, Software-Defined Networking and Virtualisation and their applications.
+ The 4 themes are as follows:
+    •   AI and Data Science led by Professor Meziane engages in applied and fundamental
+        research. The research focuses on the application of machine learning techniques to Edge
+        Computing. Researchers within the group (Kang, Yuan), were the first to incorporate deep
+        learning techniques in a fully decentralised Edge environment to support intelligent
+        decision-making on the Edge. The potential contribution to the research field is significant
+        as this research designed a novel and efficient network representation model that enables
+        deep learning algorithms to be trained and tested in resource-constrained edge devices.
+        The Research is engaged in explanatory artificial intelligence (AI). For example, work on
+        explaining AI models by discretising the black-box process model of deep neural networks,
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+        using partial differential equations (PDEs) was developed as the PDEs based deterministic
+        models would minimise the time and computational cost of the decision-making process
+        and reduce the chances of uncertainty that make the prediction more trustworthy. The
+        Theme has been instrumental in attracting a number of the UoA’s KTPs (Section 3.1).
+    •   Cyber Security led by Professor Kurugollu has focused on Vehicular Adhoc Network
+        (VANET) and IoT network security, trust management in VANET and IoT, IoT and Cloud
+        forensics, as well as data privacy. In VANET security, the primary concern is trust
+        management. Different methodologies underpinned by blockchain, AI and Machine
+        Learning based techniques have been developed.
+    •   Data Visualisation led by Professor Xue investigates methods and techniques to
+        summarise, understand and represent data in visual ways, thus making explicit trends and
+        patterns inherent in the data. The techniques are applied in visualising remote sensing
+        data as well as in the creation of immersive analytics in engineering, for example employed
+        in modelling of engineering components. The research has attracted inward investment for
+        the Data Cave (Section 3.2).
+    •   Distributed Computing and IoT (Internet of Things) led by Professor Anjum and, since
+        2020 by Professor Reiff-Marganiec, investigates computational and data architectures
+        such as cloud and Edge Computing as well as the software architectures creating systems
+        on the platforms. The ICS (REF3, 11-2) with RDS is an achievement of the results of the
+        data processing architecture work of this theme combined with results from the data
+        analytics theme.
+
+ Researchers disseminate results through plenary speeches, conference tutorials and workshops
+ (Sections 1.5 and 4.3). The DSRC has increased both the University’s external profile in Data
+ Science (Section 1.4) and impact (REF3, 11-1 and REF3, 11-2), as well as research outputs and
+ grant capture of predominantly applied research funding (Section 1.5).
+
+ 1.4 Enhancing impact
+ The Strategy to enhance impact within the UoA has concentrated on growing Innovate UK funding,
+ enhancing industrial and international collaboration, and improving vibrancy of the research
+ environment. Each are introduced below, with further detail emerging in later sections:
+    (1) Industrial Collaboration and Innovate UK funding. CoET uses its Industrial Advisory
+        Board (IAB) as an important means of communicating with industry. This has
+        representation from all research themes and from industry, for example: Severn Trent,
+        SNC-Lavalin, Derbyshire Rail Forum, Rolls Royce, Glenair, JCB, Bombardier (now Alstom),
+        Davis Derby, Network Rail, Miller Construction and Toyota. The IAB helps shape the role
+        and involvement of the College with industry. The University investment into DSRC and the
+        opportunities in the Engineering sector for data science stimulated by the IAB discussions
+        (Section 4.1).
+    (2) Income streams have been from industry as detailed in Section 3 and underpin both
+        UoA11 ICSs (REF 3 11-1 and REF 3 11-2).
+    (3) International collaboration (see Section 4.2) has advanced our research, for example
+        with CERN in areas of data science, in Cyber Security with partners in Turkey, and with
+        key partner activities in China.
+    (4) Vibrancy of the research environment is enhanced through the participation of UoA staff
+        and students in the University and regional events such as the inaugural lecture series and
+        3MT competition, the Researcher Development Programme run centrally by the University
+        Research and Knowledge Exchange Office (URKEO) (REF5a, 3.4.4) and a vibrant DSRC
+        seminar series. Research is a standing item at discipline meetings, supporting the UoA’s
+        strategic direction in realising a research-informed curriculum.
+
+ 1.5 Achievements: Income generation, outputs and impact
+ The impact of the Research Strategy is evidenced with a dynamic network of external
+ collaborations with industry and academia across the UK, Europe, and beyond, based on a strong
+ core of fundamental and applied research. This has led to near £1M (excluding ERDF grants)
+
+
+
+                                                                                            Page 3
+Unit-level environment template (REF5b)
+ external research funding from a range of sources. This compares with an income of £500k
+ reported in REF2014. Funding details are given in Section 3.
+ The UoA has demonstrated a successful publication record throughout this assessment period.
+ Members in the UoA have co-authored over 511 publications since 2014, more than 240 of which
+ are in peer-reviewed journals (based on Scopus data). As well as an increase in the volume of
+ publications, the UoA has also increased its contribution to higher quality publications.
+
+ 1.6 A View to the future
+ In 2020 CoET merged with the College of Life and Natural Sciences to form the College of Science
+ and Engineering (CoSE) and Computing became part of a School of Computing and Engineering.
+ The synergies of the new College structure build on the expertise residing in UoA11 and already
+ existing collaborations, for example: on climate and air quality between Xue and staff in Built and
+ Natural Environment and expanding collaborations in DSRC’s bioinformatics research with
+ Tripathi’s (UoA3) team and the Facility for Omics Research in Metabolism (FORM). UoA11
+ expertise in VR/AR (Reiff-Marganiec and Windmill) to transform urban planning is embedded in
+ the University’s first legacy endowment funded research project ‘DUST’ (Derby Urban
+ Sustainability Transformation), £640k over 3 years led by Bussell.
+ The CoSE is playing a leading role in the development of Infinity Park, a new manufacturing centre
+ focussed innovation and technology park adjacent to Rolls Royce headquarters. The Innovation
+ Hub (iHub) funded by £6.2 million from the Regional Growth Fund (RGF) was the first building on
+ site. The iHub (4700m2 floor space) is a collaborative venture involving the Universities of Derby,
+ Cranfield and Aston and offers a programme of innovation support services in alignment with
+ regional engineering activity and has national and global reach. UoA11 is involved with many of
+ the 30 tenants who recognise the commercial need for data science insights to improve their
+ processes. For example, we have delivered initial work with AddQual through ERDF funded
+ interventions and have now secured a KTP to investigate dynamic visualisation of high-
+ performance product characteristics, allowing clearer correlation of each characteristic to inputs,
+ features and changes, thereby offering a holistic view of the product's lifecycle capability.
+ Data science research with a rail and wider transport focus is a key direction for activity in DSRC.
+ The launch of RRIC will make a significant contribution to the skills and supply chain development
+ for the rail industry in Derby and beyond. Work in rail with Fishbone is evidenced in our ICS (REF3,
+ 11-1).
+ Our future strategic direction builds upon our reputation in applied data science, with a focus on
+ Edge Computing and data visualisation. This aligns with the Region’s strength in transport and
+ engineering and its future low carbon ambitions. This direction resonates too with three of the
+ University’s strategic interdisciplinary areas (Data Science, Clean Growth and Advanced
+ Manufacturing).
+ Table 1.2: Future research strategy success indictors
+
+  Strategy 2021-2027
+  (With reference to        Indicator of Success
+  REF5a, 2.3)
+  Invest in Talent          Retention and recruitment strategy, establish rolling Graduate
+                            Teaching Assistant (GTA) scheme, increase number of staff with
+                            SRR to 80%.
+  Growing Innovation        Continue to grow engagement with local businesses, increase direct
+  and Increasing            industry funding/ consultancy, grow data science activity in transport
+  Regional Impact           and other application areas.
+  Increase Research         Achieve a position where we have at least 1 funded project per 2
+  Income                    research active staff members at any given time by maintaining the
+                            level of success in Innovate UK funding and increase income for
+                            consultancy and from research councils.
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+  Delivering Assurance     Optimise use of existing and new systems (CRIS, PhD Manager,
+                           UDORA) to allow early management insights and hence better
+                           operational and strategic planning.
+
+
+
+ 2. People
+
+ 2.1 Staffing strategy and staff development
+ Our staffing strategy is based on strategic recruitment combined with ensuring targeted support
+ and development opportunities for staff and students at all stages of their career. We are focussed
+ on recruiting ECRs with excellent developing research profiles as well as bringing in experienced
+ research leaders. Each staff member is supported to understand the opportunities available to
+ them, and the personal development needed to achieve the next step in their career. This is
+ supported by the central mentoring schemes (REF5a,3.4.2) and our annual appraisal process.
+ The UoA11 staff submission represents a breadth of academic experience, including 4 Professors
+ (Kurugollu, Manning, Reiff-Marganiec, Xue), 2 Associate Professors (Bagdasar, Barnby) 4
+ Senior Lecturers (Farid, Hardy, Korpelainen, Windmill), 2 Lecturers (Azad, Ali Khan), and 6
+ ECRs (Atlam, Azad, Hardy, Saravi, Stella, Yuan).
+
+ 2.2 Academic staff
+ The UoA has made substantial investment in research leadership since REF2014. Three
+ Professors with international reputation (Xue, Kurugollu, Reiff-Marganiec) have been appointed,
+ with specialisms in cyber security, IoT, data science, and embedded systems with applications to
+ future smart cities, smart transport and medical applications of data science. Two Associate
+ Professors (Bagdasar and Barnby) have also been appointed through the internal professorial
+ promotions process (REF5a, 3.4.1). Other staff have moved to more senior roles away from Derby
+ (Professor Antonopoulos to Vice Principal at Napier University, Professor Liu to Head of
+ School at University of Leicester).
+ While every staff member in Computing and Maths is allocated a minimum of 10% of their time for
+ research, enterprise and scholarship, a growing percentage (49%) of academic staff in UoA11
+ have significant responsibility for research (SRR) and thus have a minimum of 20% FTE for
+ research activities. For example, DSRC flexes teaching responsibilities to ensure research
+ commitments are fulfilled (Kang and Yuan).
+ All staff in this UoA are engaged in PGR supervision and are required to complete the supervisor
+ training programme before they can join a supervisory team. Additionally, there are PGR
+ Supervision Good Practice seminars hosted by the University’s Research and Knowledge
+ Exchange Office to build a community of practice.
+
+ 2.3 Early-Career Researchers (ECRs)
+ The development of a more prominent research culture within the University has meant that there
+ has been increased internal support to develop new researchers. These fall broadly into two
+ categories. Some staff are well established but due to a particular career trajectory may not have
+ engaged with research, and now wish to become research active. Hardy is an example in the
+ UoA, who has been supported by the University to successfully complete a PhD which has
+ provided the focus to more actively engage with and contribute new dimensions to the research
+ agenda. Others are ECRs. Yuan completed his PhD at the University and has since moved to a
+ permanent staff role with SRR. Each ECR is linked with an experienced mentor. For example,
+ from the submitting group for this UoA, Atlam is mentored by Kurugollu, and Stella is mentored
+ by Reiff-Marganiec. Development activities for ECRs include masterclasses on key research
+ skills such as publication and bid writing, networking opportunities through seminars and Research
+ Cafes, key skills in research-related areas such as bibliometrics and information technology, as
+ well as developing research impact in wider society (REF5a, 3.4.3).
+ The University has also provided funding for ECRs in a competitive scheme and Stella has
+ acquired support for research using VR for modelling and representing disease spread in the
+
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+ context of COVID-19, which has led to a publication (Mason, Stella & Bauso, 2020) and the
+ submission of a Leverhulme ECR Application (outcome pending).
+
+ 2.4 Research Students
+ The University has invested significantly in the recruitment of PGR students. Seventeen Graduate
+ Teaching Associates (GTAs) have been funded in the UoA since 2014 all of whom are registered
+ PhD students, who also carry adjusted teaching duties.
+ The number of PGR students has grown throughout the reporting period. Recruitment is through
+ a combination of attraction through reputation (of both the CoET as a whole and individual
+ researchers) and progression from undergraduate and PGT. As of the census date there were 17
+ PGR students in the UoA encouraging growth in recent years. The number of PhD completions is
+ shown in Table 2.1.
+ Table 2.1: PhD Completions (HESA)
+
+  Ac. Year        2013-     2014-15    2015-16    2016-17    2017-18    2018-19    2019-20
+                  14
+  Completions     1         2          1          1          5          3          1
+
+
+ The University has a strong commitment to assuring the quality of its PGR provision overseen by
+ strong governance structures and, in 2018, introduced PhD Manager which has enhanced the
+ UoAs ability to monitor PGR progression and support. The University provides a researcher
+ development programme (RDP) for PGR students, encompassing key research skills, such as
+ thesis writing, presentation techniques and understanding intellectual property rights (REF5a,
+ 3.4.4). In addition to the RDP the University also provides training support for GTAs.
+ The Markeaton Lodge situated next to the STEM annex hosts dedicated PGR student offices, with
+ specialist high-performance computing desktop machines to meet data science project needs.
+ This is supported by working alongside academic researchers at all points in their careers, and
+ the use of dedicated specialist equipment.
+ Since 2017 PGR students have been invited to a University-wide conference as well as
+ encouraged to participate in opportunities, such as the 3MT competition, which gives them a
+ chance to practice presentation skills in a supportive environment. It has also enabled a stronger
+ sense of community to develop between students in different Colleges. Several students from this
+ UoA have presented to these fora.
+ The University holds an Annual Research and KE Conference, which offers opportunities to
+ network, keep up to date with changes and developments within research as well as hear external
+ experts speak. This is replicated at School level which has seen an increased participation,
+ reflective of the growing influence of research. These events are where researchers hold AGMs
+ and discuss and develop future-focussed plans.
+
+ 2.5 Visiting Professors and Industrial Advisers
+ The College benefits from a number of Visiting Professors with expertise aligned to any of the
+ diverse branches of its activities. Current and recent individuals aligned with UoA11 include Dr
+ Andreas Koop (Visiting Professor of Medical Informatics), Patrick Richardson (Visiting Professor
+ of Personalised Medicine) and Professor Alan Sill (Visiting Professor of Distributed Computing).
+
+ 2.6 Equality and Diversity
+ The University’s commitment to diversity and inclusion is encapsulated in its Equality, Diversity
+ and Inclusion Policy. UoA11 has a wide international staff base with Pakistan, China, Korea,
+ Romania and Turkey among the nationalities represented. Over the last two years among new
+ appointees, around one third identify as female. This is redressing the gender balance, which is
+ skewed towards male, in common with other UoA11 submissions in the sector. At PGR level there
+ is a more even overall representation with ~32% female PhD students.
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+ Statistical data on staff submitted for REF is reported in Table 2.3. The School of Computing and
+ Engineering recognises that it needs to make further progress in increasing female representation
+ in its research staff team.
+
+ Table 2.3: UoA11 REF submitted staff by protected characteristics and contract
+ information (%)
+
+  Ethnicity Group                               Age Group
+  Arab                       6                  25-34                  25
+  Asian                     24                  35-44                  35
+  Black                      0                  45-54                  24
+  Chinese                   12                  55-64                  12
+  Other/ mixed               6                  >65                     6
+  White                     47                  Contract Level
+  Not Known/Refused          6                  B0                      6
+  Gender                                        E1                      6
+  Female                     6                  F1                     24
+  Male                      94                  IO                      6
+  Disability Group                              JO                     59
+  Disabled                   0                  Contract Type
+  Not Disabled              100                 Permanent              100
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Research Income
+ UoA members take considerable pride in the wide-ranging interaction they have had with a variety
+ of industries and funding bodies and the income they have been able to generate from these. Our
+ focus has been on very clear engagement with industry through the vibrant suite of KTPs
+ (Knowledge Transfer Partnerships), other Innovate UK (IUK) projects as well as consultancy
+ income and industrial funding for PhD students.
+ Income breakdown by year and HESA category is shown in Tables 3.1a and 3.1b, which report
+ on drawn down contributions from grants in the REF period. Discussion of individual projects below
+ describe the income awarded, with figures for KTPs as shown on the KTP portal, which does not
+ reflect the additional industry partner contribution. Some KTPs explore results from a single theme
+ in DSRC, such as a KTP with XAD Communications Limited (£86k, completed 2014) which
+ investigated improved architectures for video processing, in alignment with areas of development
+ in the Distributed Computing and IoT theme; a KTP with Solutions for Retail Brands Limited (£97k,
+ completed 2019) explored applications of data analytics in retail; other KTPs have highlighted the
+ strength of combining themes in the DSRC as they are building on integrating developments.
+ KTPs with Bloc Graphics Limited (£260k running to June 2022 and £133k running to January
+ 2022) investigate applications of research at the intersection of data visualisation/ immersive
+ environments and data analytics.
+ A KTP with Financial Performance Solutions Limited (£145k running to March 2022; income was
+ £45,000 for FY2019/20) and KTP with RDS Global Limited (£288k running to April 2022; income
+ for 19/20 was £91,000) explores Edge data analytics and computing solutions integrating research
+ insights from three of our research themes (data science, cyber security and IoT) and have led to
+ an ICS (REF3, 11-2) in this REF period already.
+ We have gained three further KTPs; with AddQual (£119k), Aquis (£152k) and Premtech (£113k)
+ in 2020, which are recruiting associates at the time of submission. The first two are aligned with
+ the data analytics research theme, the third with the data visualisation theme.
+ Through our collaboration with IISE, the data visualisation theme £16k of direct industrial
+ consultancy projects have been awarded from Amey to explore the use of VR technology in
+
+
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+ applications of infrastructure inspection and training. Additional contributions by group members
+ have been made to further projects awarded to IISE from Amey.
+ The DSRC has been awarded industrial funding for 4 PhD students, 3 in the medical data
+ integration and analytics area from Roche, and 1 in the mechanical engineering area from Rolls
+ Royce to a combined value of £215k.
+ Table 3.1a: Research income by year in the REF period
+
+  Year        2013/14     2014/15     2015/16     2016/17      2017/18     2018/19       2019/20
+  Amount
+              102,000     103,000     42,000      97,000       51,000      122,000       316,000
+  (GBP)
+
+
+ Table 3.1b: Research income by HESA category
+
+  Category                                                               Amount (GBP)
+  Research Councils                                                              4,000
+  UK-based charities (competitive process)                                     53,000
+  UK central government bodies/local, health and hospital                     273,000
+  authorities
+  UK Industry, Commerce and public corporations                               353,000
+  UK Other sources                                                             23,000
+  EU Government bodies                                                           3,000
+  EU Industry, Commerce and public corporations                               120,000
+  Non-EU based charities (open competitive process)                              4,000
+  Non-EU Industry, Commerce and public corporations                           137,000
+  Totals                                                                      970,000
+
+
+ 3.2 Infrastructure and facilities
+
+ 3.2.1 Specialist Facilities
+ In 2018 the Data Visualisation Laboratory, comprising a VR-equipped Data Cave and laboratory
+ with VR headsets was opened. It is funded by a £250,000 grant from the Garfield Weston
+ Foundation. The Data Cave is used in both teaching and research. These facilities have been
+ instrumental in consultancy work undertaken with Amey in 2018 and 2019.
+ The University has also invested in a data centre, primarily focussed on the rail sector with
+ opportunities for wider use. It was partly funded by a D2N2 grant of approx. £300,000 as part of
+ the RRIC investment. Equipment in this facility includes a £280k Nutanix Supercomputer,
+ digitisation and VR equipment as well as suitable software for data visualisation and immersive
+ environment creation. Early results for the usage of these systems are described in the Distributed
+ Data Analytics ICS (REF3, 11-1), especially the work undertaken with Bloc Digital and Fishbone.
+ A UoA11 team, working with the University’s IT Services department, were key in launching a
+ ‘node' of the Worldwide LHC Computing Grid (WLCG) which has been operating since June 2018,
+ processing simulation jobs for the A Large Ion Collider Experiment (ALICE). This has given the
+ UoA valuable experience in the technologies and in the operation of a trusted distributed system.
+ It has involved collaboration with members of the GRIDPP consortium from the Rutherford
+ Appleton Laboratory to bootstrap the node and the WLCG members from the European Council
+ for Nuclear Research (CERN) for operations. The Grid operates with a system of securely issued
+ electronic certificates to allow use of resources by all members of the ALICE Collaboration.
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ Currently it is a proof-of-principle system which has made a modest contribution of around 0.03%
+ of the computing resources used by ALICE.
+
+ Aside from the facilities discussed, UoA members are also responsible for the operation of Virtual
+ Reality and 3D printing labs in the iHub (Infinity Park).
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Industrial collaboration
+ Research in the CoET is often collaborative, with researchers from industrial partners and much
+ of the grant income detailed earlier shows our close interaction with industry and is evidenced by
+ our Impact Case Studies (REF3).
+ DSRC and IISE have been a successful partnership in creating links to industrial partners, for
+ example Fishbone worked with RRIC/IISE before moving quickly to also work with DSRC on a
+ data science project in relation to predictive maintenance (Anjum, supported by a PhD student).
+ Another example of this collaboration between researchers in CoET is a consultancy project
+ funded directly by Amey in 2019-20 investigating opportunities for Data Visualisation capabilities
+ relating to rail infrastructure upgrades. This Project used the DSRC data visualisation capabilities
+ and was managed collaboratively between IISE and DSRC with delivery driven by Windmill,
+ Davies (then UG, now PhD student) and Merrit (PhD student).
+ Our distributed data analytics ICS (REF3, 11-1) evidences a range of work with local SMEs
+ through a structured approach of small investigative projects, often supported by students. These
+ initial collaborations have grown into more stable partnerships leading to ERDF funded
+ interventions and have been accelerated to KTP or larger consultancy interactions. Our KTPs with
+ Bloc Digital involve Yuan, Stella, Anjum, Manning and Reiff-Marganiec; whilst for RDS/FPS
+ Kurugollu, Saravi and Yuan have provided the academic knowledge.
+
+ 4.2 International collaboration
+ UoA members are themselves an international community; they enjoy extensive international
+ connections, leading to numerous opportunities for collaboration. Individual contributions are
+ varied, with examples summarised below.
+ From his arrival in 2016, Xue collaborated internationally with EAS Aerosol and the EU Marco
+ Polo projects as a data validation expert. In each case, along with other UoD staff, Bi (Research
+ Assistant) and Windmill worked to produce independently validated high quality algorithms for
+ the processing of long-term records of global aerosol properties from satellite instruments. This
+ work has fed into the NERC U-ALERT project (NE/N020677/1) investigating the impact of Climate
+ Change in Africa.
+ In July 2015 UoD signed an agreement to join the ALICE Collaboration, as an Associate member,
+ joining over 150 Institutes worldwide. The agreement focuses on collaboration with the software
+ framework and applications of the O2 project. This is concerned with upgrades to ensure
+ successful data-taking, with rate increases of up to a factor 100, with the upgraded ALICE detector
+ after the Large Hadron Collider (LHC) shutdown period. At the time, the shutdown was planned to
+ last until early 2021 but this has now been extended to 2022.
+ Staff, including Anjum (up to 2019) and Barnby (from 2016), have collaborated, along with their
+ PhD students on areas of the O2 project including AI-assisted data monitoring, smart job
+ scheduling and algorithmic improvements to reconstructing the signals of interest. In addition,
+ Barnby currently co-leads a specialist data analysis group of around 20 regular contributors and
+ has attracted current (ST/P005047/1, £18k) and future (ST/V001094/1, £96k) grant funding from
+ the Science and Technology Facilities Council (STFC) for this work.
+ Reiff-Marganiec has long-standing collaborations with ICMC (USP) and UNIFEI (Itajuba) in
+ Brazil, which he has brought to UoD and which are investigating Cloud and Web Services as
+ software architectures for IoT; he hosted a visiting scholar from USP in Spring/Summer 2020.
+ Several publications have recently resulted from these collaborations and further visits are being
+ planned.
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ The joint project “Computational Models for the reproduction of ceramic colours” between the
+ University of Alba Iulia, University of Derby and IPEC Alba Iulia (leading ceramics suppliers for
+ IKEA, concluded in December 2018). The Project aimed to optimise the reproduction and
+ correction of ceramic colours and was financed by a grant of 103K Euro (PN-III-P2-2.1-PED-2016-
+ 1835). Three UoD Mathematics students supported by Erasmus traineeships worked on the
+ statistical modelling and the design of a graphical user interface in the Summer of 2018 under the
+ leadership of Bagdasar. Two of them, Manzal and Chandni Mohammad, were also sponsored by
+ the University’s Undergraduate Research Student Scholarship scheme (URSS), in line with our
+ strategy of investing in talent. The results have been presented at the URSS conference in October
+ 2018 and the Jiangsu 20-20 workshop in China in December 2019.
+ Our involvement in the Jiangsu 20-20 collaboration creates a significant link to China, with
+ leadership by Paneerselvam and Yuan, but also now involving further colleagues such as Reiff-
+ Marganiec who presented at the Jiangsu 20-20 AGM in 2020. Yuan is using the consortium to
+ explore opportunities for his work in Data Science in Agriculture and food security.
+
+ 4.3 Contributions to the scientific community
+ UoA members have played a wide range of leading roles in the scientific community, for example
+ as conference organisers, session chairs, journal editors, keynote speakers, chairs or members
+ of professional panels, or advisers to professional bodies. Expertise exercised in this way is
+ brought back to benefit the overall academic community of the College. Example individual
+ contributions are given below.
+ Visiting Roles: Some of our more senior staff have been invited for research visits funded by
+ grants offered or secured by the inviting organisations, such as Kurugollu’s 4 week visit to Tubitak
+ Marmara Research Centre, Turkey (2019), Reiff-Marganiec visit to China University of Petroleum
+ (2014, 2019) and Harbin University (2019) as well UNIFEI (Brazil, 2018, 2019). Xue holds Visiting
+ Professorships at the Chinese Academy of Sciences, the Chinese Meteorological Administration,
+ China and at Chongqing University, China.
+
+ Ali Khan has been nominated ACM Distinguished Speaker in July 2020, with presentations
+ focusing on data analytics and software engineering for medical informatics.
+ Our researchers are further recognised and shaping research agendas nationally and
+ internationally through invited contributions to funding review panels. For example, staff are expert
+ reviewers for: Austrian Research Promotion Agency (FFG) funding programme “R&D
+ Infrastructure Funding” (Reiff-Marganiec) (2016-present); UKRI Science and Technology
+ Facilities Council “Projects Peer Review Panel” (Barnby) (2019); NOW (Dutch Research Council)
+ Open Competition Domain Science (Xue, 2019) and Member of Associate College of Engineering
+ and Physical Sciences Research Council (EPSRC) (Kurugollu).
+ Editorial positions and esteem factors. Staff members hold editorial positions for journals,
+ contribute to conferences with invited presentations as well as holding roles as Technical
+ Programme Committee or Conference chairs. Staff also contribute as session chairs, programme
+ committee members and frequently present work at conferences, however we see this as a
+ baseline expectation so do not report here. The following list highlights, organised by staff
+ members, some of their involvement in these activities:
+    •   Anjum: Keynote Talk, 13th International Symposium on ‘Smart Micro Grids for
+        Sustainable Energy Sources enabled by Photonics and IoT Sensors’ (Cyprus 2016),
+        Programme Chair 12th International Conference on Utility and Cloud Computing (UCC
+        2019) combined with long standing service to UCC (General Chair in 2017 (Texas) and
+        2015 (Cyprus) and Organising Chair in 2014 (London)), General Chair IEEE/ACM
+        International conference on Fog and Edge Computing (FEC 2017, Madrid) and
+        Programme Chair, 3rd International Symposium on Big Data Computing, Applications and
+        Technologies (BDCAT 2016, Shanghai, China).
+    •   Bagdasar: Chair of "The Knowledge Triangle: Mathematics Applied to Industry", within the
+        Exploratory Workshop on "Internationalisation of Higher Education: Challenges and
+        Rewards" (2015, Alba Iulia, Romania) and co-Chair and local host of 2nd IMA Conference
+        on Theoretical and Computational Discrete Mathematics (2018, Derby).
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+    •   Farid has contributed to the standards roadmap white paper for the IEEE 2957 Big Data
+        Governance and Metadata Management standard in the areas of healthcare and mental
+        health.
+    •   Kurugollu: Technical Program Chair of 5th International Conference on Cloud and Big
+        Data Computing (ICCBDC 2021), Programme chair of 3rd International Conference on
+        Cloud and Big Data Computing (ICCBDC 2019), General chair of 2nd International
+        Symposium on EmeRging Technologies in the Era of 5G-based Internet of Things, 2020,
+        General co-chair, 2nd International Workshop on Vehicular Networks over Future Internet
+        Architecture, 2019, Guest Editor for Special Issue in Sensors Journal, 2020.
+    •   Paneerselvam: Programme Chair for IEEE RTDPCC 2019, Programme Chair for IEEE
+        DMTS 2019, Reviewer for IEEE Transactions on Parallel and Distributed Systems, IEEE
+        Transactions on Sustainable Computing, IEEE Transactions on Cloud Computing and
+        IEEE Access Journal,
+    •   Reiff-Marganiec (since joining Derby in 2019): PC co-Chair of SOSE 2020 (IEEE Service
+        Oriented Software Engineering) and elected as General co-Chair of SOSE 2021, General
+        Workshop Chair for the IEEE Services Congress 2020 (overall decision making on all 9
+        workshops associated with the conference to ensure suitable alignment, relevance as well
+        as quality control), Invited panellist at IEEE Big Data Service 2020 panel on “Big Data and
+        AI for Tomorrow”, Guest Editor (Special Issue “Recent Advances in Web Services
+        Research, IEEE Transactions on Service Computing, 2019 ) and reviewer for IEEE Access
+        Journal, International Journal of Distributed Sensor Networks, IEEE Transactions on
+        Service Computing.
+    •   Xue: Associate Editor for the International Journal of Remote Sensing published by Taylor
+        and Francis Group and Associate Editor for the International Journal of Digital
+        Earth published by Taylor and Francis Group.
+    •   Yuan: Reviewer of IEEE Transactions on Industrial Informatics, Peer-to-Peer Networking
+        and Applications, IEEE Access, IEEE Internet of Things Journal, ACM Transactions on
+        Intelligent Systems and Technology, Information Sciences – Journal, Chair for MLHI2020
+        (at UCC2020), Workshop co-chair of ScalCom 2019.
+
+ Overall, we presented an environment that is vibrant and enabling our applied research as well as
+ ECRs to flourish. The Environment has significantly evolved from our REF2014 submission in
+ terms of internal investment, but also in terms of external funding, outputs and activity profiles,
+ and we consider direction of travel over the last 7 years as one to continue and grow.
+
+
+
+
+                                                                                            Page 11
+

@@ -1,0 +1,1050 @@
+Unit-level environment template (REF5b)
+ Institution: Newcastle University
+ Unit of Assessment: UOA 11 Computing Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+
+ a. Overview
+ UoA11 at Newcastle University (NU) is based in the School of Computing (Faculty of Science,
+ Agriculture and Engineering) – the current embodiment of over 60 continuous years of computer
+ science and informatics research at NU. The period since 2014 has been characterised by
+ investment and growth in research, focused on areas of strong business, societal or human
+ interest. This is founded on a culture of engagement with the beneficiaries of our research, and
+ an increasingly multi-disciplinary approach in technical, biological, human and social systems.
+
+ The institutional importance of Computing was highlighted in 2017 when NU invested £58M (out
+ of the total £90+ million investment over the review period) in a new building designed to meet
+ the needs of a growing, ambitious, 21st century School of Computing. The Urban Sciences
+ Building (USB) is now the working home of 45 academics on Teaching & Research contracts, 15
+ academics on Teaching & Scholarship contracts, 69 Research-only staff, 164 PhD students and
+ over 1300 students on taught programmes. It incorporates almost all teaching and research in
+ Computing and was designed to make research more visible to students at all levels: this was
+ hard to achieve in the former dispersed and “vertical” accommodation. Crucially, relocating to
+ the £350M “Newcastle Helix” site created adjacency with spaces for tech businesses in
+ Newcastle, including IBM Red Hat and AkzoNobel. It also provided a home for the new EPSRC
+ National Innovation Centre for Data (NICD), created as an organisation and location, which has
+ already attracted the Alan Turing Institute (ATI) and Dstl.
+
+ Compared to REF2014, our return increased from 27.5 FTE (Full Time Equivalent) appointments
+ to 49.8 FTE. Of 48 full-time staff submitted now, 32 are new appointees. As 10 of these new
+ appointees were Early Career Researchers (ECRs), a significant mentoring and support effort
+ has been provided by established staff to sustain our project portfolio and PhD completion rates.
+ The risks associated with rapid growth and relocation of UoA11 were addressed through a
+ comprehensive review of our research group structure. This consolidated model-based research
+ - previously split between two groups - in the Advanced Model-Based Engineering and
+ Reasoning (AMBER) group, and also identified a distinctive new interest in systems engineering
+ research – accelerated by recent appointments – and so created the Networked and Ubiquitous
+ Systems Engineering (NUSE) group in 2019.
+
+ b. Research and impact strategy
+ UoA11 research and impact strategy is designed and led by a Research Committee with leading
+ members from all groups, as well as school leadership and professional services. Several
+ members of the committee also sit on the School of Computing executive board. Alignment to
+ university strategy and coordination of cross-disciplinary opportunities come via equivalent
+ faculty-level and university-level groups. All these committees have members with a brief for
+ Equality, Diversity and Inclusion (EDI) concerns, and routinely address EDI issues related to
+ research and impact.
+
+ Our overall vision for research and innovation has remained aligned with that articulated in
+ REF2014 - ‘to be a world-leading centre for fundamental and rigorous computing science
+ research that is stimulated, informed and evaluated by application in areas of importance to
+ industry and society’ – and our strategic decisions are aligned with the NU’s ‘Vision & Strategy’
+ launched in 2018. They are based on the pillars of excellence, creativity and impact, and guided
+ by the principles of working together, visible leadership, freedom and opportunity to succeed,
+ and response to current and future challenges.
+
+ Our strategic approach to research has been to grow both research power (i.e. capacity) and
+ intensivity (i.e. resources) sustainably. Investments have been made in areas of research
+ strength that lead to business and societal impacts, and the opportunity for impact is increased
+
+
+                                                                                            Page 1
+Unit-level environment template (REF5b)
+ by working in ways that promote collaboration within the unit, across disciplines, and with wider
+ business and society.
+
+ Our approach to growing capacity has been to build and maintain critical mass through
+ sustainable research group structures that give staff and students a shared research ethos. We
+ have invested in researchers’ and groups’ development by providing staff, PhD studentships and
+ facilities. Examples include:
+     • support for Centres for Doctoral Training (CDTs) and Doctoral Training Partnerships
+          (DTPs) to foster the development of research skills in areas of sustained demand, both
+          within and outside academia;
+     • creation of academic FTEs in areas of research promise that build on our existing
+          strengths (e.g., cyber-physical systems (CPS), interaction design, secure and resilient
+          computing, and Internet of Things (IoT));
+     • investment in five career research fellowships which predated the institution-wide NU
+          Academic Track (NUAcT) scheme and was guided by our EDI strategy; and
+     • investment in staff development relevant to research, following the Concordat to Support
+          the Development of Researchers and Vitae Researcher Development Framework.
+
+ Our approach to growing resources has focused on investments that create opportunities for
+ collaboration, interaction and cross-disciplinary working. Examples include:
+     • the design of our new home in the USB building;
+     • investment in the microbiology and DNA/RNA nanotechnology laboratory;
+     • partnership in the Alan Turing Institute;
+     • support for our two RCUK Doctoral Training Centres;
+     • the Newcastle Data initiative; and
+     • the National Innovation Centre for Data.
+
+ Our strategic approach to impact aims to integrate impact systematically in all stages of
+ research. The approach is:
+    • user-centric in that it encourages development of deep relationships with key users, e.g.,
+        Dialog Semiconductor in UoA11_Workcraft Impact Case Study (ICS);
+    • open by encouraging commitment to open systems, platforms, tool development and
+        standards, e.g., W3C standard for provenance in UoA11_PROV ICS, and where
+        possible, making research data and publications open access;
+    • collaborative using institutional vehicles to foster multidisciplinary research, e.g., Centre
+        for Synthetic Biology and Bioexploitation; and
+    • agile in supporting flexibility to pursue opportunities for impact, e.g., Rodin Tools spinout
+        in UoA11_Railway ICS.
+
+ We strive to build up areas of impactful research systematically, e.g., two of our REF2021 ICSs
+ (UoA11_Workcraft and UoA11_Railway) emerged from our long-term engagement in the design
+ of asynchronous hardware (ICS4@REF2014) and validation of safety-critical systems
+ (ICS2@REF2014). We also provide internal funding (~£30K annually) for impact-oriented
+ activities in early stages of development, which supports new interactions with potential user
+ groups and rapid prototyping based on new research concepts. In particular, we used the
+ internal funding to develop our UoA11_PROV ICS. The long-lasting impact that results from this
+ approach is illustrated by our continuation ICS, UoA11_Redhat.
+
+ Current position with reference to REF2014
+ During the review period, we pursued the agenda that we set in REF2014, while responding to
+ technological and research developments such as the growth in scalable data systems. We
+ have achieved a majority of aims and objectives from our REF2014 agenda (some were revised
+ or extended due to the changes in staffing). Also, thanks to an overall growth in staffing, new
+ research areas emerged (e.g., IoT) and existing areas benefited from strategic investment (e.g.,
+ CPS). Highlights include:
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+    •   We responded to the opportunities created by the tremendous growth in scalable data
+        systems and data science (especially machine learning (ML)) by investing in new posts
+        at all academic levels. This allowed us to lead first the NU Digital Institute, and now
+        Newcastle Data, which focus on transforming NU’s research and its social impact
+        through multi-disciplinary research. In 2017, UoA11 led the successful institutional bid to
+        become a partner in the Alan Turing Institute (ATI). We were also awarded £30M to host
+        the National Innovation Centre for Data (NICD) that addresses the acute skill shortage
+        preventing organisations from exploiting the potential of the vast volumes of data now
+        available to them. Close collaboration with UoA10 led to the award of EPSRC CDT in
+        Cloud Computing for Big Data aimed at forming future leaders in data analytics with the
+        rare combination of skills in scalable computing and statistics.
+    •   The area of interaction design and ubiquitous computing involves tackling challenges that
+        must be approached from human-centred perspective. We were a pioneer in the
+        development of Digital Civics aimed at collaborative technologies to support citizens’
+        civic engagement and empowerment in the commissioning, delivery and evaluation of
+        digital services. Our research proceeded within an EPSRC Digital Economy Research
+        Centre and EPSRC CDT in Digital Civics and will now continue in the recently awarded
+        Next Stage Digital Economy Centre: Centre for Digital Citizens.
+    •   In the area of security and computer systems resilience, we have built on our founding
+        membership of the NCSC/EPSRC Research Institute in Sociotechnical Cyber Security.
+        We expanded into application areas in CPS and IoT through membership of the EPSRC
+        PETRAS consortium in IoT, the Active Building Centre and collaborations with the
+        national Centre for Energy Systems Integration based in Newcastle. Our researchers
+        received numerous research grants, including two ERC starting grants. Throughout
+        REF2021 period, our work has been supported by the NCSC Academic Centre of
+        Excellence in Cyber Security Research status awarded to NU.
+    •   A significant investment in our computational biology research at the beginning of the
+        REF2021 period resulted in a premier computational biology group positioned within a
+        UK computer science department - the only one to have both a microbiology and
+        nanotechnology wet lab, including an intelligent biofoundry.
+    •   We invested in ECR academic staff in the areas of CPS and the IoT, and maintained
+        close collaboration with industry, which led to the transfer of our foundational results in
+        formal methods and tool development to the areas of power management of integrated
+        circuits and rail safety systems reported in two ICSs.
+    •   We published 1140 journal articles, over 1850 conference and workshop papers, and
+        over 210 book chapters. We also authored and edited over 110 books and contributed to
+        28 patents.
+
+ Strategic goals and plans
+ Our vision for UoA11 at NU requires a research environment that fosters discovery and impact.
+ Our strategic approach is to equip all staff and students with the skills, resources and freedom to
+ succeed in their current academic research and external (commercial and public) endeavours,
+ as well as to foster new partnerships and collaborations with industry, business, external
+ agencies and other disciplines within NU.
+
+ In the next 5 years, we will prioritise support for external collaboration, dissemination and impact.
+ Aiming at further growth of international recognition of our research, we will provide resources
+ and environment for: organisation of leading international conferences; visits by esteemed
+ scientists; and sabbaticals in leading research organisations. We will also encourage and reward
+ engagement in external advisory boards, conference steering and programme committees, and
+ editorial boards. We will support our existing and emerging areas of research excellence and
+ leadership, by including goal-oriented protected time in workload allocation and funding
+ resources.
+
+ We will continue to support the engagement of research groups and individual staff and students
+ in multi-disciplinary research related to national and global challenges (e.g., over 15 current
+ impact cases). We will refresh our strategic advisory board with industry, scientific and public
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ sector representation, with the aim of developing new project streams such as strengthened
+ participation in Knowledge Transfer Partnership (KTP) schemes. We will maintain already strong
+ links with companies that have played significant roles in our ICSs (e.g., Dialog Semiconductor
+ and Red Hat) but will also develop joint research themes with institutional strategic partners
+ including Siemens and Procter & Gamble.
+
+ We will lead work to establish two new NU Centres of Research Excellence (NUCoREs) in
+ Autonomous Systems and Cyber Security, and will target the NUAcT scheme with concerted
+ discipline-oriented recruitment campaign. To further encourage diversity in our PhD cohort, we
+ will set up a new funding scheme for the best international students to complement the top-
+ quality UK students recruited via CDTs.
+
+ To ensure sustainability, we will grow the research community through extensive recruitment
+ campaigns for new research-active colleagues. This will reduce our student staff ratio, which
+ rose by 30% in the School of Computing over the review period due to highly attractive courses
+ and successful recruitment. Alongside a proactive approach to promotions, we will prioritise
+ senior appointments (staff returned in REF2014 included 40% full-time Professors compared to
+ the current 23%). We are always working on improving our recruitment processes, in terms of
+ how we reach potential colleagues and how we undertake recruitment.
+
+ We will maintain a culture of good practice in research following NU’s code of practice, which
+ includes promoting integrity and honesty during preparation, and peer review of research
+ outputs. Ethical considerations underpin all our research, e.g., the proposal approval process will
+ carefully review all ethical issues according to NU’s policies and procedures.
+
+ Group research profiles, achievements and plans
+ The main driving forces behind our research are groups which set their own research strategy -
+ developed in agreement with and facilitated by the School, ensuring consistency with NU’s
+ strategy and values - and provide support for delivery of research outcomes, training of research
+ students and collaboration with industry. There is also a strong ethos of cross-group working,
+ e.g., DERC (EP/M023001/1) involved researchers coming from 3 of our research groups.
+
+ Below we highlight research profiles, advances made during the review period, and plans related
+ to the six UoA11 research groups providing an organisational framework for staff on Teaching &
+ Research and Research-only contracts. Staff on Teaching & Scholarship contracts undertake
+ research-related activities - including involvement in research student supervision - within the
+ Educational Practice in Computing (EPiC) group, often in collaboration with or as members of
+ the other groups. We also list returned staff for whom a group was the primary one over the
+ review period, and indicate group (co-)leads.
+
+    •   Advanced Model-Based Engineering and Reasoning (AMBER)
+        Bogomolov, Fitzgerald, Harrison, Jones, Freitas, Koutny, Khomenko, Pierce, Pietkiewicz-
+        Koutny, Soudjani, Steggles
+
+ The AMBER group’s research aims to realise the potential of formal models, methods and tools
+ in engineering challenging types of system, particularly those that are concurrent, asynchronous
+ or cyber-physical. A feature of the group, reflected in the range of collaborations and projects, is
+ the extent to which it combines foundational work that extends the capabilities of formalisms with
+ collaborative projects that assess and improve their applicability with user communities in
+ industry.
+
+ The group’s foundational work covers the semantics and correctness of concurrent, hybrid and
+ probabilistic systems, e.g., developing models of causal relationships capturing simultaneity and
+ mutual exclusion, synthesis methods for globally asynchronous locally synchronous systems,
+ verification for complex biological networks, and formal methods based on modularity,
+ separation logic, and rely-guarantee thinking as well as verification over hybrid and probabilistic
+ temporal specifications.
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+
+ Work towards industry deployment focuses on providing multi-disciplinary engineering teams
+ with modelling, analytic and simulation support to achieve better performing and more resilient
+ designs, including those that combine semantically diverse design models owned by multiple
+ stakeholders, as in CPS and systems-of-systems. AMBER’s strategy is to embed research
+ outputs in sufficiently robust tools to achieve industry evaluation, e.g., the Workcraft tool
+ embodies work on a range of interpreted graph models, and work on co-simulation of multiple
+ diverse CPS models is embedded in the INTO-CPS tool chain.
+
+ Responding to the increasingly heterogeneous character of computing systems (and hence
+ models) the group sought to attract new staff to grow capabilities in probabilistic/stochastic and
+ hybrid system models. The group also sought to develop facilities such as the MindSphere Lab
+ created with Siemens as a focus for work with PhD students in CPS. The group sought funding
+ from diverse sources to support its strategy, notably EC FP7 and Horizon 2020 (COMPASS,
+ INTO-CPS, CPSE-Labs and HUBCAP), and direct industry funding (Dialog Semiconductor). The
+ group was also active in helping to set the European research agenda in CPS (projects
+ TAMS4CPS and Road2CPS).
+
+ We maintain extensive international academic collaborations, several on a strategic basis,
+ leading to joint publications and projects, notably with Leiden and Aarhus Universities (between
+ them contributing over 40 research outputs since 2014). We also maintained collaboration with
+ industry, including Siemens (MindSphere), analysing systems interdependencies using a digital
+ twin (Centre for Digital Built Britain), Digital Twins for Resilient Geo-Infrastructure, DECIDe for
+ Rail Systems and Safety Board, and Royston Company on new AI techniques in maritime
+ context.
+
+ AMBER’s focus on the “pipeline” from foundations to industry practice has been vindicated
+ through several advances including:
+     • Work on asynchronous circuit design implemented in Workcraft was adopted by Dialog
+        Semiconductor (exclusive supplier of power management integrated circuits for the Apple
+        iPhone, iPad, and Watch), providing the basis of UoA_Workcraft ICS. Dialog funded 2
+        PhDs and 2 US patents, and David Lloyd, a Senior Member of Technical Staff at Dialog,
+        became a Visiting Professor of Practice in the School of Computing to provide close and
+        regular contact with AMBER.
+     • The recently established spinout ScubaTx resulting from collaborative efforts with NU’s
+        medical researchers and Newcastle Hospitals NHS Foundation Trust leverages
+        AMBER’s expertise in verified software design to commercialise persufflation - a proven
+        but unexploited organ preservation technique.
+     • Work on CPS, including probabilistic and stochastic aspects, e.g., simulation of big bleed
+        trauma emergencies with Royal London Hospital, NIDUS (dialysis machine capable of
+        infant dialysis) achieving CE marking and commercialisation with Newcastle’s Royal
+        Victoria Infirmary (RVI), and EMV2 security analysis of EMV contactless credit and debit
+        cards.
+
+ Over the next 5 years, the group plans to develop its international profile in formal model-based
+ methods for asynchronous and cyber-physical systems. It will continue to focus on foundational
+ work that has impact through tools and methods, using this to attract and retain expertise in
+ stochastic and hybrid systems modelling and verification. It will focus on novel technologies for
+ design of asynchronous circuits and development of well-founded tool chains for the engineering
+ of digital twins for CPS. Application foci under active development include methodologies and
+ tools for supporting criminal investigations based on causality, and on the opportunities created
+ by the rise of model-based engineering in infrastructure and the built environment.
+
+    •   Interdisciplinary Computing and Complex BioSystems (ICOS)
+        Bacardit, Bauer, Goni-Moreno, Fellermann, Kaiser, Krasnogor, Lord, Taylor, Wang,
+        Wipat, Zuliani
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ ICOS is the premier computational biology group within a UK Computer Science department and
+ the only one to have both a microbiology and nanotechnology wet labs, including an intelligent
+ biofoundry. Our mission is to carry out ground breaking research at the interface of computing
+ science and complex biological systems, creating the next generation of algorithms that provide
+ innovative solutions to problems arising in natural complex systems (e.g., Biology, Chemistry,
+ and Physics) as well as synthetic ones (e.g., Biological/Software Engineering and Healthcare).
+ ICOS substantially expanded during the review period, reaching a steady state of 50-60
+ members coming from a range of disciplines (e.g., Computing Science, Engineering, Physics,
+ Chemistry, Biology, and Social Sciences) and including approx. 25 RAs and 25 PhDs.
+
+ In the review period, the growth and high-quality output of ICOS were enabled by substantial
+ external funding, including £7.5M (£4.7M from EPSRC, £1.5M from NU, and £1.3M from
+ industry) EPSRC Programme Grant with an additional £2M funding from NU for microbiology
+ and DNA/RNA nanotechnology laboratory as well as various Innovate UK KTPs, H2020 projects
+ and a RAEng Chair in Emerging Technologies for Krasnogor (one of only two such awards in
+ NU).
+
+ ICOS regularly collaborates with other NU schools, e.g., the above Programme Grant involves
+ six different groups and all three of NU’s Faculties. In addition to state-of-the-art synthetic
+ biology, ICOS members conduct internationally leading research on neuroinformatics, e.g., in
+ 2020 Kaiser published in MIT Press a foundational book on brain connectomics.
+
+ ICOS is part of a strong network of leading international collaborating institutions including
+ universities, companies and research laboratories, including BBN, Boston University, Utah
+ University, Kobe University, NUS, Procter & Gamble, Prozomix, GSK, CERN, ECLT, Weizmann
+ Institute, Tel Aviv University, Granada University, Centro Nacional de Biotechnologia, SRC,
+ Huawei, Sixfold Bio, Nanovery, CPI, and PROIMI. The excellence of ICOS environment has
+ helped to generate outputs in high quality and highly interdisciplinary areas that range from stem
+ cells and tissue engineering to computer-driven neurological interventions, synthetic biology, and
+ DNA/RNA nanotechnology.
+
+ ICOS strategic goal in the next 5 years is to cement further a worldwide technological lead in
+ computer-aided biology and computer-aided nanotechnology with the key objective of
+ accelerating translation and spinouts for the science produced by the group. The starting point
+ for achieving this is very strong, building on Krasnogor‘s 10 year RAEng Chair and Taylor’s 5
+ year UKRI Future Leaders Fellowship. Moreover, Krasnogor established a software-as-a-service
+ venture, Workli, which enables seamless teamwork via user-friendly collaboration pipelines. This
+ unique experience enabled mentoring and advising ICOS' RAs and PhD students (e.g., Ding,
+ Kozyra, and Sanassy) who then participated in incubators and accelerators programmes such
+ as ICURE, SETsquared, Health Innovation, and Entrepreneur First. They established their own
+ companies, e.g., Kozyra (Nanovrey, nano-bio-tech), Ding (X-Wow! making digital pathology
+ available in third world countries), and Sanassy (Vochlea Music, AI for the creative industries).
+ ICOS will build on this experience and with the help of NU’s business development unit convert
+ its internationally leading research outputs into commercial opportunities.
+
+    •   Networked and Ubiquitous Systems Engineering (NUSE)
+        Davison, Morgan, Puthal, Solaiman, Ranjan, Ushaw
+
+ The group, newly created in 2019, is building a global reputation for leading research in
+ distributed systems, working on emergent paradigms including IoT and Game Engineering.
+ Contributions to distributed system security and dependability include the development of a
+ novel hybrid smart contract (on and off-blockchain, in collaboration with Cambridge University)
+ architecture for monitoring and enforcing contracted interactions in distributed applications such
+ as IoT. The group’s work with the global video games industry includes carrying out over 15
+ industry-based projects a year on commercial games that have generated £5B revenue. The
+ group builds on a foundation of excellent research (e.g., the 2020 Stanford University
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+ bibliometric study in distributed computing positioned Ranjan as a highly cited author, at #6 in
+ 2019 when 46% of his journal articles were co-authored with NUSE members).
+
+ Working with NU’s Urban Observatory co-located in the USB (which shows how improvements
+ in the research environment have facilitated new highly productive collaborations), the group
+ made significant advancements in open source technologies (IoTSim-Edge, IoTSim-Stream,
+ BigDataSDNSim, and IoTSim-Osmosis) enabling the creation, simulation and testing of scalable
+ computing environments as well as supporting the rapid development of IoT and Big Data
+ analytics applications. IoTSim-X technologies leverage CloudSim (invented by Ranjan who
+ continues to maintain its code base) as the baseline simulation framework and one of the world’s
+ most adopted Cloud Computing simulators (with nearly 3000 citations a key publication on
+ CloudSim is the fifth most cited (Scopus, top 0.007%) of 78,864 papers published in Distributed
+ Systems between 1960 and 2020).
+
+ Successful collaboration with NU’s Schools of Engineering and Business resulted in four major
+ UKRI research grants with combined funding over £6M that build on the group’s advances in
+ developing analytical methods and software systems for processing the “big data” generated by
+ IoT infrastructures that address societal challenges (e.g., flooding, landslide, air quality, and
+ GDPR compliance). For example, IEEE TPDS selected our paper on remote sensing
+ applications in Digital Earth as the ‘Spotlight Paper’. Also, our collaborative G-Hadoop paper
+ was selected as ‘high quality research paper’ by Future Generation Computing Systems to
+ celebrate the Chinese Computer Science research landscape in 2012-2017. G-Hadoop
+ successfully integrated, managed, and processed 2.36PB of remote sensing data across 8
+ satellite data centres. G-Hadoop holds the current world record for remote sensing “big data”
+ management and processing.
+
+ NUSE has collaborated with medical professionals on diagnosis of eye disorders (Health
+ Innovation Challenge Fund). Working with NU’s Biomedical Engineering, we pioneered the use
+ of artificial intelligence combined with image analysis to demonstrate how robotic prosthetic
+ limbs can grab and hold items without human control. Recent collaborations with NU’s Civil
+ Engineering applies our real-time simulation expertise to aid in managing water security in
+ developing nations while utilising gamification to spread knowledge and know-how across
+ partner organisations (UKRI GCRF Water Security and Sustainable Development Hub).
+
+ NUSE will continue to pioneer the fundamental resource and data management principles for
+ orchestrating cross disciplinary (e.g., smart cities, healthcare, and industry4.0) IoT application
+ workflows. The group will investigate new theoretical models to address performance modelling,
+ workload modelling, and data fusion in the context of orchestrating IoT workflows in a hybrid
+ environment with both cloud and edge data centres. We plan to strengthen collaboration with the
+ NHS on blockchain storage technologies for managing personal healthcare data generated by
+ IoT technologies such as wearables. We will continue repurposing projects developed in
+ collaboration with the video games industry into other settings, employing our recently
+ developed streamed gaming platform to effect global-scale interactive simulations. With industry
+ partners and NU’s School of Engineering, we will seek to create highly precise simulations for
+ river erosion, autonomous flight navigation, and carbon-neutral landscape.
+
+    •   Open Lab (OL)
+        Bowen, Clarke, Crivellaro, Durrant, Guan, Kharrufa, Kirk, Smeddinck, Vlachokyriakos
+
+ Open Lab is an Interaction Design and Collaborative Technologies research group with specific
+ expertise in Human-Centred Design and Ubiquitous Computing. The group has a world leading
+ reputation for pioneering and developing the subfield of Human-Computer Interaction (HCI)
+ known as Digital Civics. This area develops digital technologies to support citizen engagement
+ and community empowerment, in pursuit of education, health and wellbeing, social care and
+ public participation in democratic processes. The strength of our research output is attested to
+ by consistently significant output at ACM CHI (the most prestigious dissemination venue for HCI
+ research).
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+
+ OL pursues development of theory, methods and technologies, is highly interdisciplinary (both
+ within the group and externally) and works with a broad community of partners (over 30 on the
+ latest funded project). The partners span government authorities, NGOs, charities (local and
+ international), educational organisations, health and social care services (including NHS
+ X/Digital), media companies (BBC R&D) and industry (Microsoft, Google, Mozilla), alongside a
+ broad network of international academics.
+
+ Since 2014 OL has been supported (as lead) by a £16.6M portfolio of UKRI-funding, including
+ CDT in Digital Civics, Digital Economy Research Centre (DERC), the Not Equal Network+, and
+ EPSRC Next Stage Digital Economy Centre - the Centre for Digital Citizens (CDC) valued at
+ over £8M. The CDC will fund a programme of Innovation Fellowships for post-docs to support
+ digital social innovation research using novel participation platforms and data-driven
+ technologies with a network of partners and the urban, rural and coastal communities of the
+ North East (and internationally).
+
+ An exemplar of our interdisciplinary internal collaborations includes working with MoveLab (NU
+ Institute of Cellular Medicine) to collaborate with Oxford University for the UK Biobank Study. OL
+ and MoveLab expertise was employed to develop wrist-worn accelerometers used as part of the
+ largest ever population assessment of physical activity (100,000+ participants).
+
+ Recent extensive collaborations include the International Federation of the Red Cross/Crescent
+ Societies (IFRC) that involved OL developing techniques to drive consultations with more than
+ 3000 members of the organisation’s youth volunteer-base, directly informing and feeding into the
+ IFRC’s Strategy 2030. This was launched in Geneva and further disseminated at that event
+ through a bespoke installation of a VR Escape Room experience (311 delegates in 27 national
+ teams used it). In 2020 we also built a bespoke web platform for IFRC to host their first global
+ Climate Conference to host over 10,000 international delegates to the virtual conference.
+
+ In the next 5 years, the new CDC will pioneer processes of digital social innovation for social and
+ environmental sustainability and will act as a catalyst for further research development. To
+ achieve this the group will continue to explore design futures and the development of
+ collaborative digital platforms using new algorithmic, data-driven and AI technologies to support
+ future living and new models of participatory education, health and social care, and local
+ democracy. OL will also pursue further challenges in developing digital support for Sustainable
+ Development Goals in international contexts and pushing the digital civics agenda towards an
+ environmentally focused Sustainable Digital Society agenda. Further to the digital healthcare
+ interests, OL will also continue behavioural informatics work to develop new ML techniques for
+ activity recognition in pursuit of digitally enabled healthcare interventions, in particular, using
+ wearable sensor platforms.
+
+    •   Scalable Computing (SC)
+        Ezhilchelvan, Fernstad, Forshaw, Holliman, McGough, Missier, Mitrani, Thomas, Watson
+
+ The group is internationally renowned for tackling research challenges in High Performance
+ Systems, Data Science, and ML. During the REF2021 period we focused on growing in key
+ areas of Data Science and AI, including data systems performance, data provenance, data
+ analytics, data visualization and ML. This included designing and building specialist facilities to
+ support our visualization research and innovation.
+
+ Through its leadership, the group has developed a “virtuous circle” that productively links
+ research to teaching and engagement in data science resulting in over £100M in external
+ funding for NU in the past decade. The importance of the group’s work to NU-wide research
+ resulted in the creation of “Newcastle Data (Watson) to co-ordinate, support, grow and promote
+ data science across the institution.
+
+
+
+                                                                                                Page 8
+Unit-level environment template (REF5b)
+ The group's reputation in scalable data analytics led to NU being invited to apply to become a
+ partner in the Alan Turing Institute (ATI) in 2018. This has provided new funding and
+ opportunities, including PhD internships, and collaborations with world-leading researchers
+ spread across The Turing's partners. For example, SC (Holliman) leads the Turing visualization
+ interest group #VizTIG and (McGough) the TIG developing best practice for collecting cyber
+ security data. SC also has active links to research teams in the USA, Australia, Italy, Switzerland
+ and Sweden, often supported by overseas research funding.
+
+ Over the review period, SC built strong collaborations with NU's School of Mathematics,
+ Statistics and Physics. Key to this was the CDT in Cloud Computing for Big Data, which is now
+ supported through investment from NU and our industrial partners, especially Red Hat (IBM).
+ The CDT creates future leaders with the rare dual competencies in the statistics and computing
+ required to drive forward scalable data analytics. It has successfully brought together a diverse
+ range of students, many of whom have had placements at companies as far away as California
+ (Twitter) and Australia (Woodside). We recently established an expanding portfolio of spin-off
+ MSc programmes (OfS funded) in Data Science to fill the long-term research and innovation
+ pipeline with a diverse set of high-achieving students.
+
+ The group’s work is also driven by collaborations with those who apply our research outputs to
+ transform their own data-rich research fields. We use these applications to challenge our
+ methods, inspire new approaches, and provide a means to evaluate their utility. Healthcare and
+ Urban Analytics, with recent expansion into security and defence, have been particularly
+ productive areas, and our tools now underpin large research projects. A spin-off of this activity is
+ the RSE (Research Software Engineering) team as a NU facility (engaged in 32 NU research
+ projects in 2020). The establishment of a Turing Dstl Applied Research Centre (ARC) at
+ Newcastle is one further outcome of the collaborative approach developed during the REF2021
+ period.
+
+ Many of our projects involve industry and over the past 6 years NU has set up major initiatives to
+ engage at scale with companies that lack their own data analytics skills. Among these, NICD
+ provides a route for SC to have a major impact on tens of public and private sector organisations
+ each year through collaborative projects. The new Catalyst building - a melting pot of
+ academics, students and industry working on data driven innovation - provides spaces designed
+ by the group for interaction with industry (e.g., IBM Red Hat) and includes state-of-the-art
+ visualisation facilities, e.g., the Team Decision Theatre.
+
+ Our research plans are focused on designing new methods for large-scale data analytics such
+ as a novel visualization method - Missingness Glyph - for analysing and exploring missing
+ values in data, generating impact by transferring the knowledge this generates to industry
+ through NICD, and producing the future Data Science leaders through the CDT and MSc
+ programmes. We will also develop a key new strength in image informatics through the
+ appointment of a joint chair with the Faculty of Medical Sciences.
+
+    •   Secure and Resilient Systems (SRS)
+        Coopamootoo, Dong, Gross, Mace, Maxion, Mehrnezhad, Morisset, Randell,
+        Romanovsky, van Moorsel
+
+ The group is recognised internationally for its research contributions to creating modern
+ information systems, networks and infrastructures that are dependable and secure. The group
+ extensively collaborates with psychologists, engineers, mathematicians, industry partners,
+ standardisation bodies, and users of systems. In the review period, to inform and lead novel
+ work on evidence-based methods in Cyber Security research, the group brought expertise in
+ from CMU (Maxion).
+
+ NU became a NCSC Academic Centre of Excellence in Cyber Security Research in 2012 and
+ has maintained this status throughout REF2021 period. The centre provides a strong
+ interdisciplinary research environment for the group, including researchers in engineering,
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ business, medical and social sciences and law. The group publishes routinely in the main
+ venues for Cyber Security and Resilience, including ACM CCS, IEEE TDSC, and USENIX
+ Security, and has achieved a number of important funding successes detailed below. The group
+ also has been awarded two ERC grants (Hao and Gross), dealing with the important challenges
+ of online voting without central authorities and security assurance of evolving network
+ topologies.
+
+ An important strand of research achievements is in human factors of Cyber Security, including
+ both qualitative and quantitative elements. UoA11 was a founding member of the NCSC/EPSRC
+ Research Institute for Sociotechnical Cyber Security (RISC). The group continues to be active in
+ RISCS, including through a role in the advisory board. Important milestones include the
+ establishment of the SCENE design framework for behavioural nudges in Cyber Security, the
+ developments in keystroke dynamics, and analysing and improving evidence-based methods.
+
+ A second important set of achievements is in security and privacy of IoT, where the group
+ established NU as a full member of PETRAS. The work in smart systems, and particularly in
+ smart buildings (also supported by the Active Building project), leverages NU’s Urban
+ Observatory and the ability to experiment in the USB.
+
+ A third strand that has seen important progress is that of artificial intelligence, be it in terms of
+ understanding resilience and security of AI approaches, or the use of AI for improved security or
+ privacy. In particular, the group hosts one of only two EPSRC Cloud Crime Centres in the UK,
+ which is an interdisciplinary centre exploring the use of ML in Cyber Security, e.g., aimed at
+ highly accurate remote inferring of PINs entered on mobile devices. It also is the home of the
+ interdisciplinary EPSRC FinTrust project, which has established important outputs in the
+ foundations of trusted automated services in collaboration with Atom Bank.
+
+ To support data-driven research, the group has established a secure data vault in the
+ University’s data centre, funded through NCSC. The group also has a fully outfitted cyber
+ incident room for ethical hacking experimentation and user studies.
+
+ The other strand of SRS research was concerned with system dependability, fault tolerance,
+ safety, software architectures, exception handling, error recovery, system verification for safety,
+ system structuring, and verification of fault tolerance and safety. A key support in this area was
+ provided by the EPSRC STRATA platform grant on Layers for Structuring Trustworthy Ambient
+ Systems. Recently, SRS led several projects on formal verification of railway safety supported
+ by industry. The focus of this work was to develop scalable and usable industry-strength
+ techniques for fully automated verification of signalling and interlocking.
+
+ The group plans to develop and lead a NUCoRE which brings together and promotes security
+ and resilience interests across NU. Staffing plans include further diversification (e.g., with
+ respect to race and culture) aiming to further strengthen and emphasise the research threads of
+ human factors, privacy and security of IoT and smart systems, and security/resilience of AI-
+ based systems.
+
+ 2. People
+
+ a. Staffing strategy and staff development
+ Our staffing strategy aims to create and maintain sustainable research groups while giving
+ researchers freedom to pursue new challenges (both speculatively and across disciplinary
+ boundaries). We also aim to reinforce areas of special economic and societal importance. For
+ example, we expanded the expertise in cloud computing and data analytics with the
+ appointments of Forshaw and McGough, created capability in scientific visualization by
+ appointing Fernstad and Holliman, and established a critical mass in CPS by appointing
+ Bogomolov, Pierce and Soudjani. Our future staffing will make the most of the opportunities for
+ collaboration and growth afforded by the new facilities in USB and NICD. We will also leverage
+ investment from other units and our involvement in NUCoREs to further multi-disciplinary
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+ research, exemplified by the chair of image informatics established jointly with Faculty of Medical
+ Sciences.
+
+ The vitality of our research environment can be appreciated through several national and
+ international senior academic appointments: Andras (Keele University), Balaam (KTH), Comber
+ (KTH), Hallinan (Macquarie University), Hao (Warwick University), Montague (Northumbria
+ University), Olivier (Monash University), and Ploetz (Georgia Tech).
+
+ To bring fresh research ideas and practices to the unit, we consistently recruited from as wide a
+ pool of talent as possible. Among the returned full-time staff, 65% are originally international,
+ and of those appointed during the review period, over 60% fall into this category. The
+ international dimension of our approach to staffing is further reflected by the range of Visiting
+ Scholars, e.g., Joseph Davis (University of Sydney), Ian Hayes (University of Queensland), Jetty
+ Kleijn (Leiden University), and Federica Mandreoli (University of Modena).
+
+ The unit is advised on strategic industry challenges by Visiting Professors of Practice: Nick
+ Booth (CHC), Mark Little (Red Hat), David Lloyd (Dialog Semiconductors), Tom McCutcheon
+ (Dstl), Phil Tetlow (IBM), and Jim Webber (NEO4J).
+
+ Staff development
+ The overarching principle guiding staff development is to give each researchers “freedom and
+ opportunity to succeed”. NU’s Organisational Development Team manages and co-ordinates
+ staff development processes, delivering training aimed at all career stages. During the review
+ period, over 170 of our academics and researchers attended over 200 training workshops and
+ events, including career-related (78), PI-related (65), research-related (47), EDI-related (18), and
+ leadership-related (18). Additional support for research staff development is provided by a
+ Career Pathways Framework Programme, which explicitly outlines the range of career pathways
+ available, and assists in planning development activities to support their future career
+ aspirations.
+
+ Newly appointed staff undertake a comprehensive induction. During the first two years of
+ employment, ECRs and new lecturers in particular have their workload carefully shaped to
+ ensure that they have the opportunity to establish themselves as successful researchers. A
+ group-based mentoring scheme for new research staff at all levels aims to advise, integrate and
+ build networks. This has been important in the generation of external fellowships (e.g., EPSRC
+ UKRI Innovation Fellowship for Bauer and UKRI Future Leader Fellowship for Taylor). We
+ provide all new academics with additional research allocation in the workload model, funding
+ (personal allocation for initiatives, travel, and equipment, e.g., Forshaw received funds for a 6-
+ month sabbatical at ETH), mentoring, and a first research studentship. The probation process
+ typically lasts two years and was successfully completed by over 90% appointees (and by 100%
+ female appointees) during the review period.
+
+ All new staff members are introduced to Library facilities, including support for open access
+ publishing, research data management, understanding copyright, and creating researcher
+ profiles on a variety of platforms to aid research dissemination, discovery and openness. All new
+ lecturers (unless they hold an equivalent qualification) undertake the Newcastle Educational
+ Practice Scheme (NEPS), which covers research, teaching and management. Also, new
+ academic staff receive individual support from the Research Funding Development Manager
+ who guides new staff through their “first grant” applications, and who ensures staff benefit from
+ internal peer review of research proposals. More experienced staff benefit, e.g., from a six-
+ month Principal Investigator Development Programme (attended by, e.g., Mace and Pierce)
+ covering the roles and responsibilities of PIs, including project, people and team management.
+ Senior staff are supported in developing into leadership roles, e.g., Fitzgerald, Krasnogor, and
+ Lord benefited from the Top Management and Academic Leaders Programmes. The AURORA
+ Development Programme, attended by Heels and Mehrnezhad, provides leadership training for
+ those who identify as female. Access to careers advice, training and development is aligned to
+
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+ the Concordat to Support the Development of Researchers and Vitae Researcher Development
+ Framework.
+
+ Before applying for grants, all academics are supported by a Research and Funding Facilitator,
+ who provides training on writing grant proposals through a group-based Proposal Club and
+ directs researchers to relevant funding calls. Researchers submitting proposals are supported by
+ designated experienced colleagues who advise on proposals and help to prepare for interviews,
+ e.g., by running mock panels. Evidence of the success of these measures is provided by the
+ research projects awarded to staff in highly competitive open calls, e.g., Krasnogor’s RAEng
+ Chair, Gross’ ERC Starter Grant, Hao’s ERC Proof of Concept Grant, Bauer’s EPSRC UKRI
+ Innovation Fellowship, and Taylor’s UKRI Future Leadership Fellowship.
+
+ All staff benefit from an annual appraisal with their line manager as part of the Performance
+ Development Review (PDR) process aimed at reviewing the past performance, agreeing current
+ objectives/priorities, discussing difficulties and identifying training needs. The PDR process also
+ identifies promotion opportunities. During the review period, 4 colleagues progressed to
+ professorship, 7 to readership, 9 to senior lectureship, and 7 to lectureship. The overall success
+ rate for all promotions was 60% (71% for female colleagues).
+
+ We are committed to supporting the development of staff returning from extended leave. For
+ example, Mehrnezhad received funding to organise the SSR’19 conference, and we help
+ researchers returning from maternity leave by underwriting their contracts for six months.
+
+ In 2020, following consultation with all staff and being guided by the 2018 Athena Forum report
+ on workload allocation models, we re-designed the workload model to better help staff in
+ advancing their careers, addressing work-life priorities, and balancing research demands with
+ educational, administrative and community service demands. This now provides a full profile of
+ contributions to teaching, research, management, and engagement activities with time-
+ equivalent tariffs alongside an individual’s employment position and any special circumstances.
+ The individual and group profiles help in allocating and balancing workloads as well as enacting
+ strategic plans. Supported by the new workload model, we will develop a group-centred
+ sabbatical scheme, aimed at doubling the current 10% rate of research sabbaticals and
+ focussing on mid-career researchers engaged in impact-oriented activities.
+
+ b. PGR students
+ An integral part of the advancement and dissemination of our research vision and culture has
+ been an exceptional cohort of PhDs. Being the only Computer Science unit in England running
+ two centres awarded in the 2013 EPSRC CDT exercise, during the review period we graduated
+ 157 successful PhDs (124.88 FTE) achieving 44% growth with three year average increased
+ from 19 in 2015 to 27.3 in 2019 (in terms of FTE, 47% growth with three year average 14.4 in
+ 2015 to 21.9 in 2019). On average, our PhD graduates received 20% of their training from other
+ NU units, evidencing our commitment to interdisciplinary research. Extensive interactions with
+ other Schools across all three NU Faculties have helped us to redefine the boundaries of a
+ Computer Science PhD and the success of our approach to PhD training is exemplified by the
+ fact that the CDT in Cloud Computing continues with new recruitment being sponsored by our
+ industry partners, many of whom also provide internships, e.g., Brown (Nvidia), Lee (Activision),
+ Whinham (Coconut Lizard), Matthews (Jumping Rivers), and Georgopoulos (Ansys).
+
+ Our long-term strategy has been to grow the PhD cohort sustainably, and fully integrate PhDs
+ into the life of the unit. We achieve this by treating them as regular members of research groups
+ during the time they receive a balanced training and supervision programme. For example, to
+ ensure that PhDs are fully embedded into our research community - and following an approach
+ piloted in Open Lab - in designing the USB we created workspaces close to and mixed with the
+ staff of their research groups. Initial evidence of the success of the approach is seen in the
+ recent prizes and awards won by our PhD students that was not the case previously, e.g.,
+ 10th SPEC Kaivalya Dixit Distinguished Dissertation Award (Alharby and Cooper), ACM SIGCHI
+ Distinguished Dissertation Award (Elsden), Young Digital Leaders 100 Award (Talhouk), and
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ Pathologist Trailbrazers Powerlist 2019 (Ding). The vitality of our PhD environment is further
+ evidenced by graduating co-founders and CTOs of start-ups (e.g., Sanassy and Kozyra), and
+ new faculty (e.g., Davison, Germanos, Kirkham, Nicholson, Wang, and Zeng).
+
+ All PhD students are encouraged to take an active role in suggesting and promoting
+ improvements to the research student experience with the PGR Student Staff Committee. They
+ are also invited to participate in the annual Postgraduate Research Experience Survey (PRES),
+ organised by the HEA. In the 2019 survey with 44.9% response rate, 90.7% of UoA11
+ respondents were satisfied with their experience of research degree programme, 94.6% felt
+ better prepared for their future careers, and 93.3% were satisfied with their working environment.
+
+ Monitoring and management
+ We provide a high level of support during the period of registration on a PhD programme, as set
+ out in a work agreement between the students and supervisors. Every student is allocated at
+ least 2 academic supervisors, who work with the student to produce an initial research proposal
+ within the first 3 months and then supervise their research. ECRs initially co-supervise with more
+ experienced colleagues.
+
+ Following NU’s Code of Practice for Research Degree Programmes, supervisory teams formally
+ monitor PhD progress through annual reports. The University provides generic research skills
+ training and monitors the number of courses attended. Training credits are awarded for
+ completion of these training modules, and a minimum score is needed before students can
+ proceed to further years of study. An independent Progression Panel, comprising 2 academic
+ staff, assesses the student’s reports and oral/poster presentations, and Dean of Postgraduate
+ Studies reviews recommendations externally. Progress is monitored and recorded through an
+ online system. Students are able to raise academic or pastoral issues at any time with their
+ supervisory team, or independent members of the school PhD team, or outside the School to
+ Faculty.
+
+ Recruitment
+ We have been proactive in growing our PhD cohort while maintaining quality, despite changes to
+ funding regimes. Individual research students are recruited through application in response to
+ advertised studentships or, for self-funded students, direct application. To widen access, we
+ offer a four-year Integrated PhD programme with specialist MSc-level training and research
+ preparation before commencing the PhD. EDI plays a significant role in PGR recruitment, as
+ discussed in Section 2.c below.
+
+ To help recruit the best PhD students, we provided a £1.2K annual top-up (or as stipend for an
+ additional writing up period) to all PhD scholarships funded in accordance with HEFCE
+ guidelines, and matching funds for partial scholarships. In addition, each new PhD student
+ receives at least £1K p.a. as research support fund, facilitating travel, publication and additional
+ resources. To provide initial support for new staff (in particular ECRs), we directly funded 5 full
+ studentships in the review period. We increasingly seek CASE awards (5 during the review
+ period), and industry scholarships (e.g., funded by Dialog Semiconductors, Red Hat, Datalytyx,
+ Nonovery, and Siemens). Also, we were awarded 9 scholarships as part of the AHRC Creative
+ Exchange Knowledge Exchange hub in digital public space.
+
+ Training and supervision
+ NU’s policy is to provide at least 10 formal supervisory meetings a year although in practice the
+ norm is many more. Academic and research staff working on related topics within the research
+ group provide additional support.
+ NU offers a comprehensive programme of over 30 skills training courses for research students,
+ based on the Vitae Researcher Development Framework, and including research skills and
+ techniques, communication skills, networking and team working, and career management. PhD
+ students take part in NU’s Research Student Development Programme in which they broaden
+ skills by taking 120 credits of relevant taught modules run by specialist teams. For example,
+ NU’s Library provides a blend of face-to-face and online opportunities, e.g., two online modules
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+ for Finding Information and Managing Information developed in October 2019 (completed by 30
+ PhDs). Also, the Writing Development Centre offers guidance to PhDs on developing their
+ writing style, reading strategies and approaches to learning as they make the transition from a
+ taught environment to independent research, including the “Write Here, Write Now” writers’
+ group. The PRES in 2015, 2017 and 2019 found that over 90% of UoA11 PhD students are
+ satisfied with library facilities (physical and online).
+
+ c. Supporting and promoting equality, diversity and inclusion (EDI)
+ EDI is fully embedded into the operation of the School of Computing. An EDI committee – with
+ membership covering all academic career stages and major operating committees - reports to
+ the School of Computing’s Executive Board and the Faculty EDI Board as standing items,
+ ensuring consistency with the NU’s Equality Strategy. The committee comprises diverse
+ membership and is co-chaired by two members of academic staff with experience of both
+ research and teaching: one of them (identifying as female) is teaching-focused, and the other
+ (identifying as male) is research-focused.
+
+ Computing was granted an Athena Swan Bronze award in 2014 and 2018. In particular, we
+ received positive feedback for our involvement in running a research associate network across
+ the university to support RA career development. Another commendation was for our Career
+ Research Fellow (CRF) scheme created to improve diversity in our academic career pipeline,
+ and which led to the appointment of 5 female research fellows. The scheme helps researchers
+ establish themselves through a series of targets, with a view to progress to an open-ended
+ academic position within 5 years. Compared to REF2014 where 7% of full-time returned
+ academics were female, we have now returned 17%.
+
+ When it comes to staff recruitment, we ensure all our job advertisements use gender-neutral
+ language and candidates for academic posts are expected to demonstrate their understanding
+ of EDI in their applications and during interviews. We aim at a wide dissemination of job
+ advertisements, commitment (signposting) to EDI, reasonable application deadlines, and diverse
+ selection and interview panels. We are also now piloting selection processes that are intended to
+ include a wider range of activities in conjunction with the research groups.
+
+ The School of Computing consults staff and students regularly to ensure that their views are
+ considered in decision-making. For example, we organised an anonymous online mechanism for
+ raising concerns, suggestions, and support interaction following the outbreak of Covid-19. This
+ influenced our approach to communications and resulted in developing a communication
+ channel so that parents/carers can share resources and report problems. Another example was
+ in the design of the USB spaces. At all levels from concept to detailed design, staff and students
+ participated in a programme of workshops with the architects, and were regularly updated on
+ construction progress, including site visits. A questionnaire was developed to promote
+ suggestions and allow reporting of issues. This resulted in a building that embodies the School’s
+ inclusive ethos with a wide range of spaces to accommodate diverse work preferences and
+ other needs, e.g., gender-neutral lavatories, and quiet rooms that can be used by breastfeeding
+ mothers, or for reflection or prayer, or by those who have disabilities or chronic illnesses and
+ need quiet time.
+
+ Another successful initiative is our CDT recruitment. For example, the CDT in Digital Civics has
+ used inclusive recruitment strategies and attracted an average of 40% female students since it
+ began. The CDT in Cloud Computing implemented initiatives to increase diversity including
+ advertising campaigns targeted at minority groups, providing local industrial placements for
+ those who cannot travel, and embedding flexibility into the taught programme for those with
+ caring responsibilities. As a recognition of our efforts, we were an invited panellist at an EPSRC
+ event on increasing diversity that will help influence external institutions on inclusive recruitment
+ methods, and Watson serves on the RAEng EDI Committee.
+
+ Diversity is celebrated throughout the School, with members being recognised at university level
+ for their efforts (e.g., the Tech Women team in Open Lab won a NU EDI award). The School has
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+ an extensive list of EDI actions and celebrates social activities such as LGBT history month and
+ International Women’s Day.
+
+ 3. Income, infrastructure and facilities
+ During the review period, our research has been enabled and supported by a rich project
+ portfolio. The overall research income from 343 funded projects was ~£35M including:
+     • 140 Research Councils projects totalling ~£23.6M,
+     • 49 EU projects totalling ~£5.5M,
+     • 55 UK Government projects totalling ~£2.5,
+     • 51 UK charity projects totalling ~£1.6M; and
+     • 42 UK industry projects totalling ~£1.1M.
+ On average, 30% of the contribution to these projects came from outside UoA11, evidencing our
+ commitment to collaborative research. All our research groups benefited from project support
+ matching their potential and aspiration: AMBER (£3.6M), ICOS (£10.9M), NUSE (£0.7M), OL
+ (£7.7M), SC (£4.2M), and SRS (£7.9M).
+
+ External funding reported above was essential to successful delivery of our research in
+ REF2021 period. For example, both Synthetic Portabolomics (EP/N031962/1) and UNCOVER
+ (EP/K001698/1) led to 7 submitted outputs, SiDE (EP/G066019/1) to 6 outputs, and Modelling
+ Human Brain Development (EP/K026992/1) to 5 outputs.
+
+ We adopted a strategy of diversifying our funding streams while maintaining our research
+ council income that remained steady at about 67.5% over the REF2021 period. Because of our
+ increasingly multi-disciplinary research, the range of funders has diversified and the proportion
+ of research income due to EU and UK Government has reduced as the income from other
+ resources has increased (three year average 26.1% in 2015 to 19.2% in 2019), and we have
+ seen substantial growth in charity funding (three year average 2.9% in 2015 to 7.6% in 2019)
+ and industry funding (three year average 2.6% in 2015 to 4.1% in 2019). We have therefore
+ achieved, as planned, a much better balance among the non-RCUK research income streams,
+ creating a robust funding structure for the next 5 years and beyond. Moreover, increasing charity
+ funding reflected our commitment to solving societal problems and challenges, and increasing
+ industry funding reflected our commitment to magnifying the societal impact of our research. A
+ key mechanism aimed at securing support for research is the series of events involving industry
+ and business community organised by the research groups, NICD, and the Director of Business
+ and Engagement.
+
+ In the review period we benefited from NU’s Research Impact Framework awards in digital
+ economy (£1.7M), synthetic portabolomics (£1.5M), and big data analytics (£0.1M). We also
+ benefitted from significant new investment into strategic infrastructure and facilities, including:
+     • USB (£58M from NU). The building - opened in September 2017 at Newcastle Helix - is
+         the new location for the School of Computing and a flagship development for urban
+         sustainability. It hosts laboratories supporting collaborative research on digital aspects of,
+         e.g., sustainability, transport, and energy. In particular, in MindSphere Laboratory we
+         share with Siemens our research on the IoT, and in Decision Theatre - an interactive 3D
+         facility linked to the Urban Observatory (the largest urban sensing network of its kind in
+         the UK) - we develop advanced data visualisation so that policy makers and other
+         stakeholders can plan and operate cities sustainably.
+     • National Innovation Centre for Data (NICD, £15M from EPSRC and £15M from NU).
+         Located in the Catalyst building - opened in January 2020 at Newcastle Helix - builds on
+         our world-leading expertise in data science and its application developed over the past
+         decade. It is addressing the shortage of data skills in the UK transferring practical data
+         skills developed by us into the workforce of private and public sector organisation. NICD
+         has already attracted global leaders - Red Hat and AkzoNobel - and it will provide major
+         opportunity for generating industry impact following our planned investment in data
+         science. NICD has already engaged approx. 5000 representatives from 400
+         organisations resulting in 60 workshops and 40 collaborative projects.
+
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+    •   Microbiology and DNA/RNA Nanotechnology Laboratory (£2M from NU). It hosts
+        state of the art equipment that includes, in particular, facilities to design and manufacture
+        microfluidic devices, an optimal tweezer, DNA sequencing machines, digitally controlled
+        bioreactors, an acoustic liquid handling robot, and a video rate Atom Force Microscope.
+    •   The Key Building (£10M from NU). It provides engagement and research space for data
+        science; in particular, for the growing team in image informatics.
+
+ 4. Collaboration and contribution to the research base, economy and society
+ During the review period we have deliberately fostered cross-disciplinary collaborations through
+ two mechanisms. One was to increase the share of our research income coming from charity
+ and industry, and the other engagement in Newcastle Data and NUCoREs, such as Data-
+ NUCoRE, leading to collaborations crossing established boundaries. This is evidenced by our
+ submitted research outputs which describe:
+     • collaborations with other disciplines, such as biology, electronic engineering, social
+        sciences, medicine, and media;
+     • international collaborations on over 61% outputs;
+     • collaborations with industry, e.g., GlaxoSmithKline, Merck, Illumina Inc., Dialog
+        Semiconductor, InlecomSystems, Thales E-Security, and Microsoft Research.
+
+ Each of our groups maintains meaningful collaborative links and holds joint projects with other
+ NU units, external academic organisations, and industry partners. We pursue new collaborations
+ using flexible individual funds as well as a targeted Impact Fund. Also, research centres such as
+ Newcastle Data provide venues for establishing new contacts.
+
+ We actively pursue opportunities to engage business directly with research outcomes. For
+ example, we have been partners in two Innovation Actions (CPSELabs and HUBCAP) which
+ offered equity-free funds (in the case of HUBCAP, €3M) for model-based design tools providers
+ and new users in the CPS arena. This is a vehicle for promoting research outputs in the forms of
+ the methods and tools that we have contributed to or developed. In addition, as a digital
+ innovation hub we offer businesses access to a network of research expertise in institutes
+ across Europe
+
+ Computing education
+ We contribute to the sustainability of the discipline at several levels:
+   • We are a leading partner in national and regional initiatives to support Computer Science
+       as a new school subject, running outreach events for 1000+ primary and secondary
+       school pupils each year, and holding an annual conference attended by 120+ teachers.
+       Our strong links to local schools inform computing education research in EPiC and Open
+       Lab, and we regularly (pre-Covid) hosted visits, workshops and even “science fairs” from
+       schools, bringing pupils into a research-rich environment in the USB.
+   • We redesigned the UG curriculum deployed in 2019 to increase focus on research,
+       professional practice, and impact. For example, we designed and introduced a portfolio-
+       oriented curriculum using problem based learning; in Stage 1 students deal with large
+       data sets deriving from our bio-research project; a module worth 25% of Stage 2
+       introduces activities designed by our research groups; and most student capstone
+       projects in Stage 3 are organised by the research groups.
+   • 13 specialist MSc programmes closely match the research agenda of our groups, e.g.,
+       new programmes in Data Science and in Smart Systems Engineering. All these
+       programmes involve significant project work conducted alongside one of the research
+       groups.
+   • We have been committed to the successful development of the Institute of Coding set up
+       to tackle the UK’s digital skills gap (supported by £1M from NU), and the already
+       approved Degree Apprenticeship programme, creating programmes in Data Science and
+       Cyber Security that are delivered by research-active staff.
+
+
+
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+ Local collaborations
+ Now, over 20 projects in our portfolio involve collaboration with other NU units. Exemplars
+ include work on asynchronous circuits and integrated energy systems with School of
+ Engineering, educational technology with School of Education, Communication, and Languages,
+ synthetic portabolomics with Faculty of Medical Sciences, and ethics of AI with the Business
+ School. Also, NICD have recently won £1.6M from North of Tyne to transfer data skills to local
+ industry.
+
+ National and international collaborations
+ Our international academic research collaborations have included: Aabo Akademi, Aarhus
+ University, AIST, Australian National University, Bonn University, Chinese Academy of Sciences,
+ Chinese University of Geosciences, CMU, Concordia University, CSIRO, ENS Cachan, ETH
+ Zurich, Georgia Tech, Leiden University, Luxembourg University, McMaster University, MIT,
+ NICTA, Sao Paolo University, TU Wien, Twente University, University of Augsburg, University of
+ Illinois Urbana-Champagne, University of Melbourne, University of Messina, University of
+ Nantes, University of New South Wales, University of Queensland, University of Sydney, and
+ Wuhan University.
+ Our national and international industry partners have included: Atom Bank, Bang & Olufsen,
+ Bosch, Google, Hewlett Packard, Komatsu, Mozilla Foundation, Microsoft Research, SAP,
+ Siemens, Swiss Precision Diagnostics, W3C, and over 30 other companies.
+
+ Collaborations with research users
+ Following our approach to research that is inspired by potential impact, we prioritise engagement
+ with research users both to guide our research, and to translate its outcomes into industry. We
+ have established several designated centres to provide informative outlets for our research, and
+ to support events and venues for external interaction. In 2017 the UoA was awarded £30M to
+ create NICD which focusses on enabling organisations to extract value from their data. This is
+ done through programmes of events, training and joint projects (e.g., 76 “discovery workshops”,
+ 24 active and 20 completed data skills projects, and £15.3M in 6 successful research proposals
+ supported by NICD). NICD builds on the success of the Cloud Innovation Centre (2014-17)
+ which had 2000+ attendees at its events and has assisted 200+ companies. UoA11 is also
+ heavily involved in the £40M National Innovation Centre for Ageing (NICA), which has a major
+ theme in healthcare analytics. Both Innovation Centres will share the £50M Catalyst building that
+ has been designed for the purpose (including a high-quality visualization suite).
+
+ Responding to national and international priorities
+ Our research staff and students actively responded to the challenges caused by Covid-19, e.g.,
+ by applying ML to predict respiratory failure in patients, and by applying 3D printing expertise to
+ make more effectively components for splash guard visors which resulted in winning a
+ Dynamites 2020 Award. Other examples include developing advanced solutions for combating
+ zika and dengue epidemics, and methods to work with Syrian refugees in Lebanon to design
+ technologies for food security and community resilience.
+
+ Exemplars of leadership of the UoA within the academic community
+
+ EPSRC College members. Full: Ezhilchelvan, Fitzgerald, Harrison, Koutny, Krasnogor,
+ Morisset, Romanovsky, Shrivastava, van Moorsel, Watson, Wright; associate: Bacardit, Gross,
+ Holliman, Kaiser, Kirk, Lord, McGough, Missier, Ranjan, Soudjani, Wipat, Zuliani
+
+ UKCRC members. Fitzgerald, Jones, Kaiser, Randell, Romanovsky, Shrivastava, Watson
+
+ Fellowships and adjunct/visiting professorships. Fellow ACM (Jones, Randell); Fellow
+ RAEng (Jones, Watson); Fellow FME (Jones); University Minho Braga (Harrison); Seoul
+ National University (Kaiser); McMaster University, Nicolaus Copernicus University, Xidian
+ University (Koutny); Weizmann Institute (Krasnogor); NII Tokyo (Romanovsky); University
+ Balearic Islands (Thomas); University of Sydney (Watson); ANU, University NSW, Julius Fellow
+ CSIRO, China University Geosciences (Ranjan)
+
+                                                                                             Page 17
+Unit-level environment template (REF5b)
+
+ Steering committees. FME chair, Theoretical Aspects Computing (Fitzgerald); Engineering ICS
+ chair (Harrison); Petri Nets chair (Koutny); ECLT chair, Nature Inspired Cooperative Strategies
+ for Optimization (Krasnogor); DILS, TAPP (Missier); ERCIM SERENE (Romanovsky); UK e-
+ Science All Hands Foundation chair (Watson); NSV, NSR (Bogomolov); BS Institute
+ Fundamental Principles of Automotive Cyber Security (van Moorsel), Epilepsy Foundation
+ (Taylor)
+
+ Editorial boards of journals and research monograph series. Applied Logic (Fitzgerald);
+ Formal Aspects Computing (Jones); ACM CR (Kaiser); Human Computer Studies (Kirk); editor-
+ in-chief Transactions Petri Nets, EATCS Monographs TCS & Texts TCS, Natural Computing,
+ Scientific Annals CS (Koutny); Natural Computing (Krasnogor); department-editor IEEE SP (van
+ Moorsel); Annals History Computing (Randell); Systems Architecture (Romanovsky); BioIT
+ (Wipat); IEEE TBD/CEM, Communication Systems (Puthal); Networks & Computer Applications,
+ Software Practice & Experience (Morgan); senior-editor Data Information Quality (Missier);
+ PLOS Computational Biology (Taylor); IEEE TCC/TC, ACM CS/TIoT (Ranjan); ACM SIGBED
+ (Bogomolov)
+
+ Awards and other forms of international recognition. Jim Gray Award (Watson); BPA
+ QEST’18 (Bogomolov); Spotlight Paper IEEE TPDS (5 in total) (Ranjan); CHI’14-18 (1-2 UK and
+ 4-7 worldwide); Microsoft Academic Top Authors in Cloud Computing, Big Data, QoS, Resource
+ Management, and Services Computing (Ranjan); Scopus SciVal 3rd in Cloud Computing,
+ Clouds, Distributed Computer Systems (Ranjan, 2010-2019); one of most influential papers in 30
+ years of ISSRE (van Moorsel)
+
+
+
+
+                                                                                         Page 18
+

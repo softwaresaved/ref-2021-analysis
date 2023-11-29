@@ -1,0 +1,1292 @@
+Unit-level environment template (REF5b)
+ Institution: University College London (UCL)
+
+ Unit of Assessment: 20 (Social Work and Social Policy)
+
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Context and structure
+ This submission is from the UCL Departments of Security and Crime Science (SCS) and
+ Science, Technology, Engineering and Public Policy (STEaPP), collectively, the Unit. Both
+ departments are in the Faculty of Engineering Sciences. While we occupy two separate
+ premises, we have co-located researchers, research students and selected staff to enable
+ strategic joint activities, including an EPSRC-funded CDT in Cybersecurity (also with Computer
+ Science). We share the broad mission of producing cutting-edge research and translating it into
+ practice and policy, through active engagement with research end-users, in order to address
+ pressing global challenges, particularly issues of societal risk. SCS focuses on anticipating
+ emerging crime threats and finding new ways to reduce crime and increase security. STEaPP
+ coalesces around meta questions about the relationship between science and policy, and
+ explores those issues through a range of lenses, such as energy access, climate change,
+ cybersecurity and congested cities. There are also synergies between the two departments’
+ respective areas of interest; cybersecurity is one, while topics such as climate change raise
+ questions both about crime and security implications and ways in which science and policy
+ interact. Integral to achieving their missions is a commitment to interdisciplinarity, with both
+ departments comprising staff drawn from across the social, physical and engineering sciences.
+ Both departments contribute to the Faculty’s strategic aim to ‘exploit (its) strengths in cross-
+ disciplinary research to expedite societal impact’, with SCS working with other departments to
+ identify the crime (reduction) implications of their work, and STEaPP working with departments
+ to bridge the research-policy nexus.
+
+ SCS was formally established in 2009 but its roots go back to 2001 and the founding of the Jill
+ Dando Institute of Crime Science (JDI), named in honour of the murdered British television
+ presenter. SCS is devoted to helping to reduce crime and other risks to personal and national
+ security, and the term ‘crime science’ was coined to describe the empirically-based approach
+ taken. Research examines patterns in crime in order to find practical ways to disrupt it. The
+ location of the Department within the Faculty of Engineering Sciences was a strategic decision
+ that has reinforced the problem-oriented underpinnings of crime science and facilitated the goal
+ of integrating the social, physical and engineering sciences in the quest for community safety.
+
+ STEaPP was formed in 2013 as a strategic move by the Faculty of Engineering Sciences,
+ following a growing recognition that Engineering’s social impacts call for meaningful and
+ sustained interactions with policymakers. Over its first six years, the Department has grown
+ rapidly, attracting some of the best science, technology, engineering, social and public policy
+ scholars and practitioners globally. It is the only science and policy department in the UK that is
+ situated in an engineering faculty, which gives it a unique setting and intellectual framing.
+ STEaPP’s focus is unashamedly on policy, with scholarly attention to policy impact in theory and
+ practice baked into the Department’s ethos. STEaPP’s scholars are experts in fields including
+ energy, environment, cities, digital technologies, futures, and science diplomacy. Much of the
+ work in STEaPP targets science, technology, innovation and engineering toward social,
+ economic and environmental goals, and is underpinned by a growing and diverse body of
+ academic literature that blurs the boundaries between science policy and social policy.
+
+ The departments have nine research priority areas (see Section 1.2.3), which shape their
+ mission, and are home to six research Institutes and Centres. These coordinate research
+ activities and help to deliver large scale projects, facilitating collaboration across UCL, with other
+ universities, and with stakeholders and end-users.
+
+
+                                                                                                 Page 1
+Unit-level environment template (REF5b)
+
+ 1.2 Research & impact strategy
+
+ 1.2.1 Overview
+
+ The Unit aims to produce research of the highest academic quality that, by influencing policy and
+ practice, will change the world for the better. To achieve this mission, our key aims for the REF
+ (as articulated for REF2014) period were to:
+
+       Build a critical mass of interdisciplinary researchers with a problem-oriented focus to
+        make our activities sustainable and enable us to tackle new problems. We had particular
+        ambitions to develop expertise in the field of cybercrime.
+       Improve research performance, as indicated by an increase in grant income and high-
+        quality research outputs.
+       Increase the number of PhD students who will become the next generation of
+        interdisciplinary researchers dedicated to finding effective ways of reducing crime.
+       Develop our supporting infrastructure, including the capacity to access and analyse
+        sensitive datasets.
+       Continue to work closely with stakeholders, and increase our reach across them, to
+        realise real-world impact. The Mayor’s Office for Policing and Crime (MOPAC) was
+        identified as a particular stakeholder with which we would seek to develop a stronger
+        strategic relationship.
+       Further our impact-focused work in international contexts.
+
+ Fundamental to our strategy is a challenge-led approach to research; that is, beginning with the
+ problem and asking what combination of skills are needed to address it. Key to this strategy is a
+ commitment to interdisciplinarity. Accordingly, staff have been recruited from backgrounds
+ spanning the social and physical sciences, including criminology, social policy, forensic science,
+ computer science, mathematics, electronic engineering, and international relations.
+
+ Similarly, as part of our strategy we have created an environment that encourages staff to
+ employ a diverse range of quantitative and qualitative methods that are appropriate to the
+ problem(s) studied. Research methods include interviews, experiments, surveys, focus groups,
+ computer simulations, statistical (Bayesian and Frequentist) analysis of primary, administrative,
+ open source and data scraped from the Internet, machine learning, personas, scenarios,
+ systems mapping, and systematic reviews.
+
+ The Unit’s strategies are developed within the context of the Faculty strategy, which in turn is
+ informed by the wider UCL Grand Challenges framework (Global Health, Sustainable Cities,
+ Cultural Understanding, Human Wellbeing, Justice & Equality, and Transformative Technology).
+ As well as providing strategic direction, UCL Grand Challenges and Engagement grants
+ awarded to the Unit (36 awards this period totalling £375K) have provided seed funding for new
+ projects and funds to support knowledge transfer activities. Strategies are also informed by
+ UCL’s commitment to being London’s global university, and to produce research that has impact
+ globally but also in London.
+
+ The Faculty strategy is set by the Dean and the faculty management board, and monthly
+ meetings, attended by departmental research directors, ensure strategic coherence across
+ departments, create pathways to support and implement research and impact strategies, and to
+ coordinate responses to large funding calls. The location of both departments within the Faculty
+ of Engineering Sciences has been pivotal to their success. It creates seamless opportunities for
+ collaboration (including ongoing projects that examine the impact of emerging technologies on
+ crime), as well as providing a critical mass to support larger research and infrastructure projects.
+ For example, central to the activity of several research groups is the analysis of sensitive
+
+
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ datasets, to which access is restricted. This has been enabled by the creation of the JDI secure
+ data lab with initial funding provided by the Faculty (see Section 3.2.3).
+
+ At the departmental level, research priorities are reviewed regularly with overall leadership
+ provided by the HoDs of SCS JDI (Wortley then Bowers) and STEaPP (Blackstock then
+ Chataway), supported by their respective leadership teams, and at the Centre/Institute level by
+ their respective directors. Monthly leadership-team meetings ensure agility in responding to the
+ changing research landscape, while annual departmental away days provide the opportunity for
+ all staff to provide input into the departmental research strategy. Through these processes, new
+ academic positions are strategically targeted to develop expertise in priority areas and to grow
+ existing ones. To help acquire funding for strategic priorities, both departments have dedicated
+ professional services staff whose roles are to co-ordinate major research proposals, identify
+ funding opportunities and oversee the development, peer review, and submission of these in
+ collaboration with external partners and academics.
+
+ 1.2.2 Achievement of strategic objectives since 2014
+
+ STEaPP was established in 2013 and hence our REF2014 aims related only to the activities and
+ aspirations of SCS. However, SCS’s key aspirations (outlined in Section 1.2.1) broadly align with
+ those of STEaPP, and through developments in SCS, and the addition of STEaPP, the
+ aspirations of the Unit have been met and exceeded:
+
+       In REF2014 the Unit comprised 11 FTE staff. With a total of 42 FTE submitted in this
+        REF, we have met our first strategic priority; SCS alone has more than doubled in size to
+        24 FTE. New appointments have enabled us to not only build capacity in the strategic
+        areas identified in our REF2014 vision (e.g., cybersecurity), but also develop exciting
+        new areas, including future crime and science diplomacy.
+       Growth has enabled a substantial increase in research performance and the
+        development and delivery of a broader range of impact activities. Total grant expenditure
+        during the REF period has increased by a factor of over 14 from £1.1M for REF2014 to
+        over £15.6M in the current REF period. There has been a corresponding increase in the
+        volume, quality and reach of our research, with articles published in a wide range of top-
+        tier journals specific to our disciplines (e.g., crime and security, science and policy
+        journals), contributing disciplines (e.g., mathematics, chemistry, engineering) and in
+        leading multi-disciplinary journals (e.g., Science, Nature, PNAS).
+
+                                                   REF2014       REF2021
+                          Journal articles           150           620
+                          Books                       10           51
+                          Book Chapters               62           149
+                          Government reports          23           68
+
+
+       There has been a surge in PhD enrolments and completions while candidate quality and
+        alignment with the Unit’s research mission has been maintained. Sixty-three PhD
+        students (equivalent to 42.75FTE) have successfully completed during this REF period,
+        compared to 3 in REF14, a 14-fold increase. We have 68 PhD students currently
+        registered (cf. 35 for REF2014).
+       We have also grown the infrastructure required to support our research mission. In
+        particular, our secure data lab has been accredited and launched, enabling fine-grained
+        research on sensitive data sets.
+       We continue to increase the breadth of our engagement with key stakeholders. We have
+        strong links with both high-level policy makers, frontline practitioners, the voluntary sector
+        and others. The establishment of the Institute of Global City Policing, jointly funded by
+        SCS, MOPAC and the London Metropolitan Police, has strengthened our relationship
+        with London policing.
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+       We have significantly increased the international reach of our research, with projects and
+        collaborations across the globe, including in developing areas such as Africa and South
+        America (see Section 4).
+
+ 1.2.3 Research priorities and their delivery
+
+ Research and impact activities across the Unit are organised around inter-related research
+ priorities or themes (listed alphabetically below). These articulate the scope and mission of the
+ departments and inform everything they do, including hiring strategies. Staff may work across
+ themes. The delivery of these research priorities is supported by the institutes and research
+ centres described in Section 3. Over the REF period, there were 9 research priorities:
+
+ Crime analysis
+
+ SCS staff pioneer methods of crime pattern analysis to advance understanding of crime,
+ disorder and terrorism, and their prevention. Work includes the application and development of
+ geographical and computational methods to study patterns of crime in physical space and, more
+ recently, online environments. SCS’s established expertise in this area has been strengthened
+ by the appointment of Davies in 2018. Over the REF period, Johnson and Gill have directed
+ research on offender and terrorist spatial decision-making (funders including EPSRC), while
+ Johnson and Davies have led projects on the use of spatial and computational models to
+ understand patterns of both illegal migration (funded by the Leverhulme Trust) and forced
+ migration during conflict (funded by the US Minerva initiative). Funded by the ESRC and
+ EPSRC, Davies, Bowers and Johnson have pioneered the use of mathematical graph theory
+ in the analysis of crime at the micro level of place (i.e., street segments) and examined new
+ ways that urban form impacts on crime risk at this level (see “Evidence Based Policing” Impact
+ Case Study (ICS)). Chainey has developed a programme of research to examine such crime
+ patterns in Latin America, a region that has received little attention to date.
+
+ Crime reduction policy and practice
+
+ SCS staff specialise in evaluation research (primary evaluations and systematic reviews), the
+ development of evaluation methodology, and the use of evidence to shape crime policies. Work
+ led by Laycock (see “Evidence Based Policing” ICS) has developed a new framework (EMMIE)
+ for evaluating crime reduction strategies. Applied to systematic reviews, EMMIE combines the
+ realist perspective (pioneered by Tilley) about how and where interventions might work, with
+ experimental perspectives concerned with the reduction of bias. Funded by the ESRC (£3.2M),
+ EMMIE and the systematic reviews produced, formed the basis of the College of Policing’s What
+ Works Centre for Crime Reduction. The Unit’s portfolio of work on the evaluation of crime
+ reduction at micro places has included an NIHR-funded national evaluation of the effects of
+ street lighting on crime (Johnson and Tompson, with the London School of Hygiene and
+ Tropical Medicine) and a large randomised controlled trial of an intervention to reduce repeat
+ victimisation (Belur, Bowers, Davies, Johnson). Wortley and Tilley’s work with colleagues at
+ Griffith University (Australia), funded by the by the Australian Attorney General’s Department,
+ has focused on the prevention of child sexual abuse in two Aboriginal communities.
+
+ Emerging technology
+
+ Established as a new research priority during the REF period, this theme is supported by seven
+ new academic positions (Becker, 2019; Brass, 2017; Carr, 2017; Kleinberg, 2018; Mariconti,
+ 2019; Tanczer, 2018; Watson, 2014). Staff across the departments take a technical and socio-
+ technical approach to understand how digital technologies impact on how we interact, work, and
+ govern, and how crimes are committed or prevented. Tanczer and Johnson’s work explores
+ the implications of the Internet of Things (IoT) on crime, including gender-based domestic abuse.
+ Brass, Carr and Johnson’s EPSRC-funded research examines risks associated with emerging
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ technologies (e.g., synthetic biology and new targeted medicines) and how to secure them
+ through the development of standards and regulation (see “Digital Technologies” ICS). Stilgoe’s
+ ESRC– and EU–funded work explores anticipatory governance in the context of self-driving
+ cars. Kleinberg and Johnson’s work has examined crime associated with cryptocurrencies and
+ new payment methods, respectively. Mariconti uses machine learning to detect malware and
+ online hate crime. Carr’s EPSRC funded work evaluates cybersecurity evidence for policy
+ advisors and industry board members who deal with crises or longer-term national security and
+ capacity building. Borrion and Becker's EPSRC-funded work develops frameworks and tools to
+ influence online behaviours to reduce risk.
+
+ Forensic science
+
+ Forensic science is a dynamic discipline that provides solutions to problems faced in the
+ detection and countering of crime and terrorism. This research relates to all stages of the
+ forensic science process from the crime scene, the analysis of evidence, the interpretation of
+ those results and their presentation in court. The appointment of Nakhaeizadeh (2020) has
+ strengthened our activity on this theme. Morgan’s and French’s research focuses on trace
+ evidence dynamics, examining the way that traces (DNA, fibres, gunshot residue, electronic
+ records) may be changed, become contaminated, transferred, and persist over time. Morgan’s
+ and Nakhaeizadeh’s work examines the human element of forensic evidence interpretation,
+ focussing on the impact of intrinsic and extrinsic factors on expert decision making at each step
+ of the forensic science process. Underpinning both strands is a consideration of the
+ philosophical nature of forensic science and how science can and should engage with policy and
+ key actors in the justice ecosystem (Morgan), and the imperative for transparency to provide
+ more robust interpretation of science to reduce the risks of miscarriages of justice.
+
+ Policing practice
+
+ Identified as research priority to develop significantly during the REF period, our research
+ capacity in this area is strengthened by the appointment of Ashby (2019), Bradford (2017) and
+ Posch (2020). Research examines operational aspects of the police role, with two broad
+ research strands. The first, policing for crime prevention, covers topics such as evidence-based
+ policing, hotspot policing, and Problem Oriented Policing. The second focuses on police-
+ community relations, examining topics such as public trust, police legitimacy, cooperation and
+ compliance in justice settings. Bradford’s ESRC-funded collaboration with LSE and Keele
+ University uses innovative virtual reality and ethnographic approaches to consider how police-
+ public interactions can be managed to enhance consent-based relations. Bradford, Belur and
+ Waseem worked with the Vera Institute of Justice (New York) to evaluate procedural justice
+ related reforms inside police organisations in the UK and US. Funded by the Home Office,
+ Sidebottom, Tilley, Laycock, and Ashby are evaluating the use and efficacy of police problem
+ solving. Johnson, Tilley and Bowers are collaborating with Leeds University on UKRI funded
+ research to understand how COVID19 is impacting on crime and policing.
+
+ Policy and decision making
+
+ Established as a research priority during the REF period, and supported by four new
+ appointments (Chataway, 2018; Mugwaga, 2017; Steenmans, 2019; Tyler, 2019), this theme
+ concerns evidence-based policy decision making. Significant projects include an ESRC
+ investment that established a social science section in the Parliamentary Office of Science and
+ Technology (Tyler), which has led to changes in the way that Parliament uses evidence.
+ Steenmans led two projects for the UAE, one to develop a new national science policy strategy.
+ Chataway (with Mugwagwa, Steenmans) leads a UKRI-funded project to steer research and
+ innovation to address global sustainability goals in lower-middle income countries. Tyler’s
+ research brings together people from high-, middle-, and low-income countries to explore
+ research questions about legislative science advice. Chataway leads an ESRC-funded
+ International Public Policy Observatory, focusing on synthesising knowledge about the social
+
+                                                                                            Page 5
+Unit-level environment template (REF5b)
+ impacts of COVID19 on (for example) homelessness, housing and communities, care and
+ mental health, to enable better decision making to benefit the British public. Here the blurred
+ boundaries between science and research policy and social policy are particularly evident.
+
+
+ Sustainable development, energy and environment
+
+ Established during the REF period, with contributions from four new academics (Cooper, 2013;
+ Mugwaga, 2017; Peterson, 2014; Washbourne, 2016) and spanning science, innovation and
+ social policy, this research priority concerns responses to challenges and opportunities
+ (including climate change and changes in governance) in the sustainable development
+ domain. Research questions assumptions about development, why institutions behave as they
+ do, and why policies fail. Petersen’s work combines science and technology studies with the
+ anthropology of development to interrogate how uncertainties are understood and dealt with in
+ environmental planning. Mulugetta’s research (funded by EPSRC, DfID and DECC) explores
+ how agro-industries in sub-Saharan Africa can help reduce inequalities in rural energy access.
+ Chataway and Steenmans are Co-I's on an East Africa-India-UK research collaboration that
+ examines how to link industrial and social innovation for social and health policy related to
+ cancer care. Mugwagwa’s ESRC Future Research Leaders Fellowship explored health
+ financing in South Africa and Zimbabwe. Washbourne’s GCRF-funded Digital Innovation
+ project examines flood early warning systems and water-related disease prevention for
+ community capacity building and resilience in Africa.
+
+ Terrorism, serious and organised crime
+
+ Strengthened by the appointments of Schumann (2019) and Zolghadriha (2018), this research
+ theme considers how methods of crime prevention, detection and disruption can inform counter-
+ terrorism and organised crime research and practice. Research covers topics including lone-
+ actor terrorists, radicalisation, terrorism risk prediction, organised crime networks, and trafficking.
+ Projects by Gill, Bouhana, Schumann and Zolghadriha, funded by the ERC and others, have
+ developed conceptual frameworks for the social ecology of radicalization, developed putative
+ risk and protective factors for violent extremist engagement, examined the spatial risk of terrorist
+ attacks, tested the reliability, validity and equity of terrorist risk assessment tools, and conducted
+ process evaluations of risk assessment and management initiatives (see “Extremist Risk
+ Assessment” ICS). Cockbain, Bowers, Sidebottom & Tompson’s ESRC-funded work has
+ filled a lacuna of empirical research regarding the scale and methods of human trafficking and
+ pioneered approaches to its study that has impacted widely on policy and practice (See
+ “Trafficking and Exploitation” ICS).
+
+ Urban innovation and infrastructure
+
+ This theme was identified as a research priority during the REF period, and developed with
+ support from new hires (Cosgrave, 2017; McArthur, 2018). Projects are conducted in
+ collaboration with public authorities, international organisations, the private sector and SMEs to
+ create a unique environment for urban experimentation, research and policy advice. While the
+ focus is on globally-relevant city challenges, projects are practically oriented and locally-focused.
+ Examples include Cosgrave’s work on choreography and design for sustainable urban
+ environments and Washbourne’s collaboration with the University of Melbourne and UN-
+ Habitat. Both seek to understand how different types of knowledge about cities is created and
+ used in decision-making. McArthur led research on the governance and politics of roadspace
+ re-allocation in cities for an EU Horizon 2020-funded project.
+
+
+
+
+                                                                                                 Page 6
+Unit-level environment template (REF5b)
+
+
+ 1.3 Supporting structures, practices and culture
+
+ 1.3.1 Pathways to impact
+
+ Impact has been fundamental to the missions of both departments since their inception. This is
+ reflected in our research priorities which collectively aim to develop understanding of real-world
+ problems, design policies or interventions to address them, evaluate those interventions,
+ understand how stakeholders use evidence, and translate research findings into forms that they
+ can use most effectively. We have developed a culture in which impact is explicitly valued. This
+ is reinforced at staff meetings, during the staff appraisal process, and in promotion
+ recommendations. Specific mechanisms through which impact is achieved include:
+
+ Engagement with stakeholders
+
+ Our research is routinely co-designed and carried out in collaboration with governmental,
+ industrial and public sector partners. In addition to working with stakeholders on projects,
+ engagement and co-production activities are facilitated through workshops with industry,
+ government and voluntary sector stakeholders. For example, every 2-3 months, research
+ Centre’s run by Johnson and Carr (see Section 3.2.1) run 1-2 day “sandpits” with stakeholders
+ (e.g., industry, voluntary sector, academia, policy, and police) to debate and understand how
+ technologies (digital or otherwise) might be (mis)used to impact upon crime (or other societal
+ outcomes), the associated ethical implications, and to develop programmes of research. Around
+ 300 stakeholders have contributed to such events since 2017, and over 3500 people have
+ attended other events since REF2014. The breadth of our external engagement is detailed in
+ Section 4.
+
+ Policy Impact Unit (PIU)
+
+ STEaPP’s PIU works with researchers in the Unit and across the Faculty to design bespoke
+ policy engagement strategies. It facilitates engagement between the research and policy
+ communities, designing and delivering engagement activities, and providing training. Recent
+ examples include working with SCS to produce policy briefs on research concerning future AI-
+ enabled crime, threats associated with cryptocurrencies and the challenges of preventing
+ counterfeit goods; and assisting Tanczer to put gender issues relating to the internet of things
+ on the policy agenda. The PIU conduct extensive background research on what is happening in
+ the policy/practitioner community to ensure that researchers connect with those stakeholders
+ who can make best use of their research.
+
+ Continuing professional development
+
+ Since 2004, we have had a programme of continuing professional development (CPD), and
+ since 2018, a dedicated CPD director (Chainey). Training is research-led and delivered in the
+ UK and internationally, and includes police training contracts in India (£1.3m) and Uruguay
+ (£800k). As well as enabling knowledge transfer, CPD courses generate income to sustain our
+ research capacity, create opportunities for collaboration with stakeholders, facilitate access to
+ data, and ensure staff have an understanding of real-world problems which, in turn, informs
+ departmental research priorities. For example, as a result of our police training programmes,
+ Tripathi developed a research collaboration in Mumbai – part-funded with UCL Grand
+ Challenges funding – to develop a Smartphone application for railway police to track missing
+ children, which was supported by the chief of Government Railway Police (GRP).
+
+
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ Latin American and Caribbean Unit
+
+ Established in 2017, this unit, led by Chainey, supports the conduct and delivery of research
+ and knowledge transfer activities in that region. Projects have included the implementation of a
+ four-city hot spots policing programme in Argentina (see “Evidence Based Policing” ICS), and
+ the founding of research collaborations in Brazil on analysing patterns of robbery and homicide.
+ Furthermore, ten international PhD students have enrolled on our PhD programmes as a direct
+ consequence of this activity.
+
+ 1.3.2 Creating a stimulating research environment
+
+ Seminars
+
+ The Unit has several seminar series. Fortnightly lunch time seminars are organised for
+ departmental staff, departmental and CDT Cybersecurity PhD students. A regular ‘Meet the
+ Policy Maker’ series provides a forum for researchers to hear about policy makers’ research
+ interests and the practical considerations of making policy. Seminars and other events (including
+ an annual horizon scanning poster session) organised jointly with the Home Office provide
+ opportunities for staff and students to share their research with the policy community and
+ voluntary sector. To support attendance at external seminars and conferences, for the REF
+ period, a ring-fenced allowance of £2,000 per annum was available for all staff in the Unit.
+
+ Fostering interdisciplinarity
+
+ Undertaking interdisciplinary research has always been an explicit part of our mission and
+ mechanisms to facilitate this are discussed throughout this submission. In the case of SCS,
+ interdisciplinary ambitions were significantly accelerated with the establishment of the SECReT
+ doctoral programme (see Section 2.2.2). This required academics from different UCL
+ departments to supervise every PhD student, leading not only to interdisciplinary doctoral
+ research but also stimulating regular inter-departmental interaction. The new CDT in
+ Cybersecurity (SCS, STEaPP and Computer Science) has built on this ethos. The establishment
+ of SCS-led and STEaPP-led research Centres (see Section 3.2) have further facilitated concrete
+ research links across other UCL departments and external university partners.
+
+ 1.3.3 Research Integrity
+
+ Research ethics
+
+ Both departments have their own ethics committee. All projects (staff or student) must be
+ submitted to the respective Departmental Ethics Committee which, based on explicit UCL
+ criteria, evaluates them and decides if they need to go to the full UCL Ethics Committee.
+ Training in ethical issues in research are integrated into PhD programmes, and ‘ethics boot
+ camps’ for research students (and staff) provide guidance on ethics, the process and timelines.
+
+ Responsible research and innovation (RRI)
+
+ The Unit is committed to research integrity and all staff and students are expected to follow
+ UCL’s Code of Conduct for Research. Research students are required to complete compulsory
+ taught modules which explore RRI, and EPSRC CDT students are additionally required to
+ undertake UCL training devoted to RRI led by Stilgoe. Research conducted by staff across the
+ Unit explicitly considers RRI issues. Stilgoe’s work examines the unintended consequences of
+ innovation. Bradford’s work explores the impact of policing practices on public trust and
+ perceptions of legitimacy. Such research can involve the public, the voluntary sector, NGOs, the
+ police and policy makers. As well as identifying issues associated with RRI, our work seeks to
+
+
+                                                                                            Page 8
+Unit-level environment template (REF5b)
+ identify solutions (e.g., Brass and Johnson’s work to encourage industry to secure the Internet
+ of Things).
+
+ Open science
+
+ In line with UCL policy, all staff and research students are required to make publications that
+ meet the REF inclusion criteria Open Access either through Green or Gold access routes.
+ Publishing fees are (where appropriate) covered by departmental funds, research grants,
+ transformative publishing agreements, or the UCL Open Access fund. As of December 2020,
+ 99% of the Unit’s outputs (2016-) were compliant with this policy. UCL Press supports this policy
+ by publishing 13 open access journals, with Washbourne being a member of the Editorial Board
+ of the newly established UCL Press open access journal UCL Open: Environment. In addition,
+ the Crime Science journal, founded in 2012 with Laycock as editor, followed by Bowers (2017)
+ and Wortley (2020), is a fully Open Access journal, published by Springer. It has attracted
+ authors from over 40 countries and, with over 300,000 downloads in 2020, it has the most
+ downloaded articles of Springer’s Criminology and Criminal Justice journals. SCS runs a
+ fortnightly ‘Open Science’ journal club and peer mentoring programme - JDI Open
+ (http://jdiopen.github.io) - aimed at all PhD students and academic staff to promote open science
+ practices and provide training in associated skills. Other specific activities that help to deliver our
+ open science strategy include promoting reproducibility in research
+ (http://bit.ly/2ZbUkIr), collating open crime data for others to
+ use (https://osf.io/zyaqn/), and making cutting-edge analytic tools openly available (e.g.,
+ http://bit.ly/3pd72kt).
+
+ 1.4 Future research priorities
+
+ The Unit will build on the aims identified for this REF period. As resources permit, we will recruit
+ additional talented staff who can take forward our ambitious interdisciplinary research and
+ impact agenda. We will continue to develop our portfolio of research income to sustain and grow
+ our existing centres and the training of research students, as well as funding new initiatives. To
+ support our research and help our ECRs and research students gain experience managing
+ grants, SCS will launch a small grants scheme. We will further develop a physical and social
+ environment that not only supports our research ambitions, but enhances well-being, equality
+ and diversity (including implementing Athena Swann action plans, see Section 2), and positive
+ learning experiences for staff and students. We will strengthen links between research
+ excellence and real-world impact, refining our approaches to the co-creation of research
+ agendas with stakeholders, and championing the translation of research for policy partners.
+
+ These priorities are set within the broader context of the evolving social and environmental
+ problems facing the word, captured in UCL2034’s Grand Challenges. For SCS, there are
+ particular challenges around advances in Transformative Technology. While such developments
+ bring enormous benefits for society, they also have unintended consequences for crime and
+ security. The growing threats of cyber-enabled crime and extremism are prime examples. At the
+ same time, technologies offer new strategies for combatting these crime and security threats, for
+ example, through advances in data science and machine learning. Reflecting this landscape, we
+ will develop further our research capacity in areas such as digital forensics, data science and
+ cybercrime. We recognise that these developments also have implications for Equality and
+ Justice. We will explore how new and existing approaches might be applied to crime problems in
+ ways that are socially responsible as well as effective, developing policy options that balance the
+ need to reduce crime opportunities while maintaining public confidence in the legitimacy of
+ policing and preventative strategies.
+
+ For STEaPP, work on innovation and science related to Global Health and Wellbeing create the
+ framework for new initiatives. STEaPP academics are developing integrative perspectives
+ across concepts of health systems, innovation systems and transitions thinking to inform new
+ academic and policy perspectives. One important element of the work is focused on
+
+                                                                                                 Page 9
+Unit-level environment template (REF5b)
+ understanding the dynamic evolution of health, scientific innovation and industrial capabilities.
+ Existing work led by Mugwagwa, Chataway and Steenmans looking at these issues at national
+ and global levels are examples of early work reflecting this approach.
+
+
+
+ 2. People
+ 2.1 Staff
+
+ The Unit has undergone significant strategic growth since REF 2014 with 44FTE submitted this
+ time (cf. 11 for REF2014). We have developed particular research capacities in policing, the
+ nexus between technology and crime, cybersecurity, the science-policy interface, data science,
+ science diplomacy and futures. The staff profile has also matured, with 13 professors (cf. 3 in
+ 2014) and 8 associate professors (cf. 1 Reader in 2014). As with REF2014, all HESA3 and
+ qualifying HESA2 staff have been entered.
+
+ 2.1.2 Sustainability
+
+ With four exceptions (Bradford, Chataway, Mulgan and Carr), all REF2021 recruitments have
+ been of early career researchers (ECRs) with an appetite for interdisciplinary, impactful
+ research. Appointments have been associated with our Masters’ programmes (circa 180
+ students pa) or our BSc in Security and Crime Science, which are in turn closely linked to our
+ research priorities. This synergy helps to provide a sustainable research environment that aligns
+ with our long-term agenda. Sustainability has been supported by year-on-year increases in
+ student enrolments. Workload models ensure that academic lecturing staff can devote at least
+ 50% of their time to research with staff teaching only two modules per annum. The increase in
+ HEFCE-funded permanent staff (relative to REF2014) provides a more stable basis for our
+ research capacity, but we are also keen to encourage the careers of our non-HEFCE-funded
+ researchers. To do this, where possible, these staff have been given short bridging funds to
+ enable continuation between research projects.
+
+ 2.1.3 Recruitment
+
+ Staff are recruited from a variety of disciplines as appropriate to need. Like the wider university,
+ our staffing policy is to recruit the best talent from the global pool. Vacancies are widely
+ advertised and processes transparent. We particularly seek out suitable women and candidates
+ from other under-represented groups, in accordance with our commitments to increase diversity
+ at UCL.
+
+ 2.1.4 Equality, diversity & inclusion (EDI)
+
+ UCL policies ensure Equality, Diversity and Inclusion at all levels. Both departments have
+ equality, diversity and inclusion (EDI) committees that promote good EDI practice for all staff and
+ students. These committees are inclusive and all staff and students are encouraged to apply to
+ be part of them. Committee membership is voluntary, but account is taken of this in staff
+ workloads. The Unit has a proud record relating to equal opportunities in the recruitment,
+ training, appraisal, development and promotion of staff. Both Heads of Department, some 41%
+ of our HESA3 staff (cf. 40% for REF2014), 76% of our HESA2 staff (cf. 60% for REF2014), and
+ 38% of our professoriate are female (higher than the 2018/19 national average of 27%).
+ Collectively, Category A staff have taken 11 periods of Maternity or Paternity leave in the REF
+ period and subsequent requests for flexible part-time working have been accommodated, with
+ workloads adjusted accordingly. In relation to ethnicity, per FTE, 10% of our HESA3 staff (cf.
+ 10% for REF2014), and 20% of our HESA2 staff (cf. 6% for REF2014) are from BAME groups.
+ Two staff completed Women in leadership courses during the REF period. Both departments
+ have held compulsory workshops for staff on diversity, equality, bullying and harassment, and
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ four staff have completed senior management training regarding bullying and harassment
+ prevention. UCL training on unconscious bias is also mandatory.
+
+ Our commitment to EDI is reflected in our approach to REF staff and output selection. Without
+ exception, all staff who met the REF criteria were submitted. To ensure inclusivity, all submitted
+ staff were involved in the selection of outputs, providing (anonymous) ratings for, and comments
+ on, nominated papers. An average of 2.6 outputs were submitted per FTE female staff member
+ (cf. 2.5 for males), and slightly more female staff submitted four or more outputs per FTE. For
+ BAME staff, the average number of outputs was 1.5, and for ECRs it was 2.3 per FTE. For
+ ECRs, this is expected as 100% of our ECRs started in 2018 or later. The figure for BAME staff
+ warrants attention, but we note that the figures are distorted by the number of staff with an
+ undeclared ethnicity (for whom the rate was 2.25).
+
+ Going forward, both departments submitted applications for Athena Swan Bronze awards in
+ November 2020 that presented a comprehensive picture of their EDI profiles and set out clear
+ action plans, with specified success criteria, to consolidate and strengthen our performance. The
+ exhaustive self-appraisal process identified areas in which we were performing well and areas in
+ which there is room for improvement. For example, our inclusive culture promotes a strong
+ sense of belonging and collegiality from all staff groups, and flexible working practices are
+ embedded. At the same time, we have work to do in improving gender and ethnic balance in
+ selected staffing areas. The many specific commitments made include ensuring: that staff
+ recruitment strategies promoted a gender- and ethnic-balanced workplace (e.g., further
+ diversifying selection panels); that staff undertake regular diversity training; and that there is
+ greater diversity with respect to honorary appointments, seminar presenters, committee chairs,
+ and other areas that provide visible role models.
+
+ 2.1.5 Career progression and promotion procedures
+
+ All staff are formally appraised annually – professors by the Head of Department, and more
+ junior staff members typically by the professors. Plans for career progression are always
+ discussed in appraisals. At the beginning of each year, departmental leadership teams invite
+ staff members interested in promotion to submit their CVs for feedback and advice, and
+ proactively prompt eligible staff members who have not self-nominated. The environment
+ created has been very successful: since 2014, 11 staff members have been promoted to
+ Associate Professor (all in SCS, three of whom have subsequently left the Department) and four
+ to Professor (2 in SCS; 2 in STEaPP).
+
+ 2.1.6 Early career researchers (ECRs)
+
+ Senior staff members routinely publish with ECRs and provide guidance on career plans and
+ strategies of knowledge transfer. New academic staff are allocated lighter teaching loads than
+ existing staff for the first year of their appointment, and are initially given minor administrative
+ roles, such as library liaison or the membership of committees, to help them to establish
+ themselves as independent researchers. We have appointed ten lecturers from our pool of
+ postdoctoral researchers, including two staff who won competitive ESRC/EPSRC early career
+ fellowships.
+
+ 2.2 Research students
+
+ 2.2.1 Ethos
+
+ Our aim is to deliver world-leading doctoral training programmes that produce future generations
+ of scientists (physical and social), policy makers and intermediaries whose work impacts on
+ social policy. All of our doctoral programmes are inherently interdisciplinary and we recruit
+ students from a wide range of disciplines, including sociology, psychology, computer science,
+
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+ political science, geography and mathematics. Students are required to have supervisors from
+ different disciplinary backgrounds. All PhD programmes involve a taught component to ensure
+ students receive a solid grounding in their discipline and the wider public policy (STEaPP) or
+ crime and security context of their work (SCS). All doctoral candidates are encouraged to take
+ on paid teaching assistant responsibilities (with capped hours) to build their teaching and
+ administration skills. UCL training – completed by 64 students in the REF period – is provided to
+ support this. PhD students are routinely employed to work on research projects (also with
+ capped hours), which further enhances their experience including opportunities to work
+ collaboratively and to publish. They are also encouraged to take UCL training in
+ entrepreneurship (8 have), and public engagement (4 have).
+
+ 2.2.2 Doctoral programmes
+
+ SCS launched the £7M UCL SECReT CDT in 2009. The initial EPSRC investment (2009-2018)
+ provided the means to create a vibrant and competitive programme that continues to enrol
+ around 15 students annually. There is a mix of self-funded students, international students who
+ bring scholarships with them, and students who win a Dawes Centre (of which there are
+ currently four annually, see Section 3.2.1) or other UCL scholarship. The first centre of its kind,
+ SECReT offers a three-year and a comprehensive four-year integrated MRes/PhD (1+3)
+ programme for students wishing to pursue multidisciplinary security or crime-related research.
+ To date, 71 students have completed the Department's MRes in Security Science, and 79
+ (including students supervised by staff in other REF UoAs) have been awarded their
+ PhDs. Annual industry evenings bring together end-users, academic and public sector partners
+ to meet the current student cohort, stimulating exchange between students and external
+ agencies, facilitating access to data, lab facilities, internships, practitioner expertise and
+ research problems, and encouraging career pathways. An additional £2.7M of studentship
+ funding has been provided by industry, grants and UCL, while in-kind contributions from partners
+ including the Home Office, the Defence Science Technology Laboratories, L3G, Selex,
+ Rapiscan, AWE, the National Crime Agency, and various police forces have exceeded £4M.
+
+ STEaPP's doctoral training programme started in 2015 and offers two routes. A traditional PhD
+ and the less common (and unique to UCL) Doctor of Public Administration (DPA). All students
+ undertake a taught component in their doctoral studies consisting of eight modules. This
+ includes training on what policy is, how the policy process works and how research can be
+ tailored to maximise policy impact. The DPA is a ‘doctorate on the job’ that can be undertaken
+ full- or part-time, which enables those who cannot take a career break to take a research-driven
+ approach to change policy. There have been 39 PhD students and five DPA students since
+ 2015, of whom four have graduated.
+
+ The £5.4M EPSRC-funded CDT in Cybersecurity was launched in 2019 jointly by SCS,
+ STEaPP and the Department of Computer Science. The integrated four-year programme trains
+ students in the socio-technical skills necessary to understand and address the evolving
+ cybercrime threat. There are currently 20 students enrolled. A unique aspect of the programme,
+ that reflects our approach to research and impact, requires students to work in groups to
+ conduct systematic reviews of the literature on topics nominated by stakeholders (e.g.,
+ Department for Digital Culture Media and the Home Office). Students are subsequently
+ encouraged to publish these and provided with support to do so.
+
+ 2.2.3 Selection, support and progression
+
+ Programmes are widely advertised and applicants are shortlisted by PhD programme panels.
+ Places are highly competitive with over 200 applications in 2020. Short-listed applicants are
+ interviewed in accordance with UCL policies either in-person or online. UCL provides mandatory
+ training for PhD supervisors, as well as courses to help them further develop their skills. All
+ supervisors must see at least one student through to the completion of an MRes project as a
+ second supervisor before being a first supervisor. Monitoring ensures that staff have
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ manageable supervisory loads and that opportunities and support are given to ECRs. Students
+ and supervisors meet regularly and complete the UCL Graduate School log. Completed every 3
+ months during their first year, and every 6 months thereafter, the log requires students to
+ summarise their progress and plans, which are reviewed by their supervisors. All students are
+ initially registered for an MPhil and to transfer to a PhD they are required to complete an
+ upgrade assessment, usually in their second year. They submit a substantial report and
+ complete an oral examination. Students receive substantial feedback as well as a pass/fail
+ decision, and those who fail the upgrade can retake it within 6 months.
+
+ All students are encouraged to present at international conferences and publish in peer-
+ reviewed journals or conferences. There is a dedicated poster session for all students at the
+ annual Crime Science conference. For students whose funding does not provide conference
+ support, a ring-fenced budget of at least £3K is available.
+
+ Dedicated teaching committees monitor the quality of the PhD and MRes programmes and
+ consultative committees elicit student feedback to help continually evolve and improve the PhD
+ experience. The SECReT society, run by and for PhD students, organises a mentor scheme for
+ new students, pairing them with existing ones, and organises activities (seminars, breakout
+ rooms, fund raisers) to enhance the PhD experience. The LACU provides additional social and
+ academic support for the increasing number of PhD students from South and Central America.
+
+ 2.2.4 Student outcomes
+
+ Since REF2014, our PhD graduates have gained employment in universities (including
+ Australian National University, Cambridge, UCL, Lancaster and Manchester), companies
+ (including PWC, Aecom, Dyson, and Bank of America Merrill Lynch, and Crest Advisory), and
+ organisations (including NHS Trusts, the Defence Science and Technology Laboratory, the
+ Digital Catapult, and the United Nations).
+
+
+
+ 3. Income, infrastructure and facilities
+ To provide a sustainable research environment and to anticipate future needs, the Unit has
+ grown its research infrastructure since 2014. SCS has its own dedicated building and facilities,
+ and has led the development of the only police-assured secure data lab located in a UK
+ university. In 2019 STEaPP moved into a larger building to accommodate for growth, allowing
+ STEaPP, some SCS staff and all PhD students from both departments to be housed together.
+ Both departments have also grown their Professional Services research teams to provide all
+ important support to turn research ideas into funded projects. The Engineering Faculty supports
+ the Unit by match funding large scale investments, which provides a competitive advantage.
+
+ 3.1 Research funding
+
+ The Unit has three main sources of research income – competitive grants (£23M awarded to
+ UoA during the REF period), money earned through CPD (£1.8M) and consultancies (£2.2M).
+ Excluding CDT funding, staff have submitted 75 successful competitive grant applications, with
+ prestigious awards from UK research councils (e.g., EPSRC, ESRC), charitable trusts (e.g.,
+ Leverhulme Trust, Lloyds Register Foundation), Government Departments (e.g., DFID, Home
+ Office), industry and other funders (e.g., US Minerva). As shown, grants awarded varied in size
+ – for 33, more than £200K came to the UoA (for 5 the amount exceeded £1M).
+
+
+
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+
+
+
+
+ 3.2 Infrastructure and facilities
+
+ 3.2.1 Research centres
+
+ Facilities, administration and other infrastructure to support the nine research priorities outlined
+ above are provided via six research centres (four established during this REF period) that play a
+ key role in the delivery of the Unit’s research agenda. The research priorities do not always sit
+ neatly within one centre.
+
+ The Jill Dando Institute for Security and Crime Science (JDI)
+
+ Established in 2001 with £1.2M from a public appeal, the JDI remains the umbrella structure
+ under which the other SCS centres sit. Wortley was director 2010-2020; Bowers is current
+ director (2020-). With a broader remit than the specialist centres, it hosts projects that have a
+ general crime and terrorism reduction focus, including the What Works Centre for Crime
+ Reduction project.
+
+ The Centre for Forensic Sciences (CFS)
+
+ Established in 2010 with an initial £90K grant from the Provost’s Strategic Fund, this centre is
+ directed by Morgan. The Centre has been successful in securing over £1m in cash and
+ equipment from industry partners and through a crowd-sourcing appeal. A new JDI Forensic
+ Science Lab will be completed in 2021.
+
+
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+ The Dawes Centre for Future Crime (DCFC)
+
+ Directed by Johnson and established in 2017 with a £3.7M grant from the Dawes Trust
+ (matched by UCL), the Centre focuses on finding pre-emptive solutions to emerging crime
+ problems associated with technological and social changes. It funds four full PhD scholarships
+ annually and research projects across UCL and other universities.
+
+ The Institute for Global City Policing (IGCP)
+
+ Established in 2017, under the directorship of Bradford, the Institute is a collaboration with the
+ MOPAC and the London Metropolitan Police Service (MPS) who together provided £500K
+ funding, matched by UCL. In addition, a researcher from the MOPAC research unit is seconded
+ to the Institute. Both the MOPAC and MPS have ongoing involvement in the activities of the
+ Institute. Money from the grant is used to fund seed projects and support post-doctoral
+ researchers.
+
+ PETRAS
+
+ Led by Watson, PETRAS is the National Centre of Excellence for the Cybersecurity of the
+ Internet of Things and associated systems at the ‘Edge’ of the internet. It connects over 100
+ commercial (e.g., BT, Costain and Pinsent Masons) and government partners, 16 research
+ institutions, and is linked to a £10M Innovate UK Demonstrator programme. Since 2019, the
+ parent programme (SDTaP) has received £25M in funding from the UKRI Strategic Priorities
+ Fund (£14M of the grant allocated to UCL). This provides academic funding and access to
+ industrial partners and their facilities, with funding for other institutions administered through
+ competitive calls.
+
+ Research Institute for Sociotechnical Cyber Security (RISCS)
+
+ RISCS, led by Carr, is the UK’s first Research Institute focusing specifically on sociotechnical
+ aspects of cyber security (i.e., how people, processes, and other related factors influence the
+ security of organisations). Financed by the EPSRC and the National Cybersecurity Security
+ Centre (NCSC), as well conducting research it co-funds a portfolio of (£500K annually) research
+ projects with partners including the EPSRC, Home Office and NCSC.
+
+ 3.2.2 Buildings and facilities
+
+ SCS moved into its current premises on Tavistock Square in 2011. Until 2019, the building
+ accommodated all staff, all PhD students whose primary supervision was undertaken within the
+ Department, and any visiting academics. The building has a computer cluster room and a printer
+ for student use, as well as a seminar room (capacity around 25) with AV facilities. The
+ Department maintains a small, specialist library. Personal computers are typically replaced every
+ three years.
+
+ Following significant growth, a strategic decision was made to move all PhD students (including
+ those belonging to the CDT in Cybersecurity) and research staff to co-locate with STEaPP in
+ their newly-acquired premises (see below). This has created a vibrant PhD and research
+ environment intended to stimulate multidisciplinary perspectives and research, and to capitalise
+ on our shared missions. Splitting SCS in this way requires efforts to maintain departmental
+ cohesiveness. To this end, two senior staff members (Professors Gill and Bradford) have
+ offices at Shropshire House to provide leadership, and staff are encouraged to conduct some
+ PhD supervision on site. Apart from relieving pressures at Tavistock, the premises at Shropshire
+ are more spacious and up-to-date, and students have been overwhelmingly positive about them.
+
+
+
+                                                                                                Page 15
+Unit-level environment template (REF5b)
+ STEaPP moved into Shropshire House in 2019. In addition to SCS staff and students, The
+ Conversation (an online magazine which communicates science and research to the general
+ public) shares this space and offers regular training to staff on writing for non-academic
+ audiences. The office is fully equipped with meeting rooms, a board room and social space to
+ enable casual interaction. Every member of staff and PhD students are supplied with appropriate
+ ICT equipment.
+
+ The DCFC has invested in Web Scraping and GPU Servers which provide State of the Art
+ resources to enable open-source data collection, computational modelling, and machine learning
+ on non-sensitive datasets. The servers are located in Tavistock Square, with back-up storage
+ situated in Shropshire house.
+
+ 3.2.3 JDI Research Laboratory (JDIRL)
+
+ JDIRL, directed by Bowers and then Sidebottom, is a secure data lab located on the UCL
+ campus. Built with £1M funding secured from the Faculty, and in collaboration with the
+ Department of Computer Science, the lab meets UK government standards for data security,
+ and is formally accredited as a Police Secure Facility. Only the second of its kind in the world, it
+ facilitates access to rich crime and other data that would normally be unavailable to university
+ researchers. It is located in a highly secure space with controlled access, secure wiring, and
+ high levels of electronic screening to prevent eavesdropping, and is managed by vetted
+ technical staff. The lab houses a high-performance computing cluster. It has a separate
+ visualisation suite; areas for secure working and document storage; and access to state-of-the-
+ art computing and computational software. A secure tutorial room can be used by staff to teach
+ MSc and PhD students, and departmental students can undertake dissertations and research
+ projects on restricted data. It is difficult to overstate the value of this facility to the research
+ activities of the Department and the full academic community in the UK generally.
+
+
+
+
+ 4. Collaboration and contribution to the research base,
+ economy and society
+ 4.1 Collaboration
+
+ Collaboration occurs at all levels – within UCL, within the UK, and internationally – and involves
+ both academic partners and external stakeholders in both funded and unfunded research.
+
+ 4.1.1 Collaboration across UCL
+
+ With its commitment to interdisciplinarity the Unit has active collaborations across the Faculty
+ and UCL more broadly. Much of this collaboration involves funded research projects. For
+ example, the EPSRC-funded Crime, Policing and Citizenship project brought together
+ researchers from the departments of SCS, Civil Engineering, Computer Science and
+ Geography. At a structural level, the Unit’s research centres foster ongoing cross-departmental
+ collaboration. For example, the DCFC has supported projects by researchers from departments
+ including Civil Engineering, Medical Physics, Institute for Materials Discovery, and Biochemical
+ Engineering. Collaboration extends to research training, of course, with the EPSRC CDT in
+ Cybersecurity.
+
+
+
+
+                                                                                               Page 16
+Unit-level environment template (REF5b)
+ 4.1.2 Collaboration with other UK universities
+
+                                                             As shown on the map, staff have
+                                                             carried out more than 20 funded
+                                                             collaborative funded research
+                                                             projects with more than 30 UK
+                                                             university partners to deliver
+                                                             research aligned to our strategic
+                                                             priorities. Notably, PETRAS (led by
+                                                             Watson), is made up of 16
+                                                             institutions: UCL, Imperial College
+                                                             London, University of Oxford,
+                                                             Lancaster University, University of
+                                                             Warwick, University of
+                                                             Southampton, Newcastle
+                                                             University, University of
+                                                             Nottingham, University of Bristol,
+                                                             Cardiff University, University of
+                                                             Edinburgh and University of Surrey,
+                                                             Coventry University, Northumbria
+                                                             University, Tate, and University of
+                                                             Glasgow. In another example,
+                                                             Laycock, led the ESRC funded
+                                                             What Works in Crime Reduction
+                                                             project that involved eight
+                                                             institutions; UCL, Institute of
+                                                             Education, London School of
+                                                             Hygiene and Tropical Medicine,
+                                                             Birkbeck College, University of
+                                                             Cardiff, University of Dundee,
+                                                             University of Surrey and University
+                                                             of Southampton.
+
+
+
+ 4.1.3 Collaboration with international partners
+
+ Our international reach is extensive, and staff have hundreds of international research
+ collaborations. They have worked on funded projects with more than 50 international partners in
+ more than 25 countries across all inhabited continents on research supported by the EU, the
+ Australian, Dutch, French, Japanese and UK national research councils, the USA Minerva
+ initiative, Public Safety Canada, US National Institute of Justice, CAPES-Brazil, FAPESP-Brazil,
+ VERA Institute, British Foreign Commonwealth & Development Office, Inter-American
+ Development Bank, Santander, and others. The map below shows locations where we have one
+ or more research collaborations.
+
+
+
+
+                                                                                          Page 17
+Unit-level environment template (REF5b)
+
+
+
+
+ We are also regularly asked to accommodate visiting scholars and have done so for periods of
+ up to two years. In the REF period we have hosted and collaborated with 15 scholars from
+ countries including Australia, China, Japan, Korea, Netherlands, Poland, United States, Spain,
+ Sweden, and New Zealand.
+
+ 4.1.4 Collaboration with external stakeholders and research end users
+
+ Staff have active collaborations and long-term engagements with over 60 external stakeholders
+ including police agencies (e.g., the National Crime Agency), government departments (e.g., the
+ Home Office), industry (e.g., Facebook), the finance sector (e.g., PayPal), Non-Governmental
+ Organisations and the charity sector (e.g., Lucy Faithfull Foundation). The extent and variety of
+ some of these collaborations are illustrated in the Chord diagram below.
+
+
+
+
+                                                                                            Page 18
+Unit-level environment template (REF5b)
+
+
+
+
+ 4.2 Contribution to research base
+
+ Staff make substantial contributions in terms knowledge creation and service to their disciplines.
+
+ 4.2.1 Recognition
+
+Staff are widely recognised for the significance of their research. Evidence of esteem includes:
+
+     Staff                                   Recognition
+  Bradford       Winner, 2018 British Journal of Criminology Radzinowicz Prize
+  Brass          BSI Standards Makers Award for Education about Standardisation
+                 by the British Standards Institution (BSI) (2019)
+  Carr           Appointed, World Economic Forum Global Commission on the IoT
+
+                 Appointed, Norwegian Research Council Panel of Experts
+
+                                                                                            Page 19
+Unit-level environment template (REF5b)
+  Chataway      BBSRC nominated member of the Academic.net network for
+                Outstanding Female Academics
+  Cosgrave      Women’s Engineering Society Top 50 Women in Engineering:
+                Sustainability
+  Johnson       Appointed, Scientific Advisory Board of the Max Planck Institute for
+                the Study of Crime, Security and Law
+  Morgan        World Economic Forum 21 Young Scientists 2019
+  Mulgan        Knighthood for services to the Creative Economy (2020)
+
+                Chair, World Economic Forum Council on Innovation and
+                Entrepreneurship
+  Mulugetta     Fellow, African Academy of Science
+  Petersen      Elected member, Academia Europaea, the European Academy of
+                Humanities, Letters and Sciences
+
+                Elected fellow, Institution of Engineering and Technology
+  Tilley        Co-recipient, ONS outstanding research award for the ESRC-
+                funded project
+
+                Home Office- sponsored awards for Problem Oriented Policing
+                named in his honour.
+  Tyler         Appointed Council of the Royal Anthropological Institute
+
+                Appointed Polaris Council of the STAA in the GAO in the US
+  Watson        Appointed Royal Academy of Engineering Trustee Board, 2019
+
+                Chair Royal Academy of Engineering Policy Centre
+
+                President Institution of Engineering and Technology (2016-17)
+  UCL What      Recipients, Chief Constables Commendation
+  Works team
+  Wortley       Member of the Order of Australia (AM)
+
+
+ 4.2.2 Editorial roles
+
+ Staff have/had more than 40 active journal editorial roles during the REF period, including:
+
+ Editor
+
+ Collective Intelligence (Mulgan)
+ Crime Science (Laycock, Bowers and Wortley, in succession)
+ Journal of Forensic Science International: Synergy (Europe) (Morgan)
+ Zygon: Journal of Religion and Science (Petersen).
+
+ Associate editor
+
+ Climate & Development (Mulugetta)
+ Climate Policy (Mulugetta)
+ Frontiers in Political Science (Brass)
+ Journal of Energy in Southern Africa (Mulugetta)
+ Journal of Threat Assessment and Management (Gill)
+ Legal and Criminological Psychology (Johnson)
+ One Ecosystem (Washbourne)
+
+
+                                                                                            Page 20
+Unit-level environment template (REF5b)
+ Wires Energy and Environment (Mulugetta)
+
+ Guest editor
+
+ Applied Network Science (Davies)
+ Energy Access and Sustainable Development (Mulugetta)
+ European Journal of Applied Mathematics (Johnson)
+ Frontiers in Psychology (Wortley)
+ International Journal of Geo-Information (Chainey)
+ Journal of Quantitative Criminology (Johnson)
+
+ Editorial boards
+
+ Brazilian Journal of Police Science (Chainey)
+ British Journal of Criminology (Bradford)
+ Crime Prevention and Community Safety (Tilley, Bowers)
+ Crime Science (Ashby, Johnson, Laycock, Sidebottom, Tilley, Wortley)
+ Criminal Justice Law and Society (Bowers)
+ Dignity: A Journal of Sexual Exploitation and Violence (Cockbain)
+ Earthscan Science in Society (Petersen)
+ Earth System Governance (Petersen)
+ Energy Efficiency (Cooper)
+ Energy Research and Social Science (Cooper)
+ International Centre for Counter-Terrorism publication series (Gill)
+ International Criminal Justice review (Bowers)
+ International Journal for Technology Management & Sustainable Development (Mugwagwa)
+ International Journal of Forensic Science & Pathology (Gill)
+ Journal of Quantitative Criminology (Bowers, Johnson)
+ Journal of Research in Crime and Delinquency (Johnson)
+ Journal of Trafficking, Organized Crime and Security (Cockbain)
+ Legal and Criminological Psychology (Bowers)
+ Perspectives on Terrorism (Gill)
+ Policing (Tilley)
+ Science Policy and Governance and Frontiers (Mauduit)
+ Security Journal (Wortley)
+ Socio-Environmental Systems Modelling (Petersen)
+ Terrorism and Political Violence (Gill)
+ UCL Open Environment (Washbourne)
+
+ 4.2.3 Conferences
+
+ Conference hosting
+
+ Since 2007, SCS has organised the International Crime Science conference in London. The
+ event showcases leading international research and responses to critical threats and brings
+ together ~175 security and law enforcement practitioners, policy-makers, researchers and
+ security industry professionals from around the world to promote interaction, and disseminate
+ research. In 2019, the event was hosted at the Royal Society in collaboration with the police-run
+ UK Society for Evidence-Based Policing.
+
+ Conference committees
+
+ Staff have served on organising committees for conferences including American Society of
+ Criminology (Johnson); IEEE European Symposium on Security and Privacy (Mariconti); IEEE
+ Radar Conference (Chetty); INGSA bi-annual global conference (Tyler).
+
+
+                                                                                           Page 21
+Unit-level environment template (REF5b)
+ Invited conference talks
+
+ Staff have delivered more than 600 invited keynote and plenary talks, including 300 at
+ international meetings in countries such as Abu Dhabi, Argentina, Australia, Belgium, Brazil,
+ Canada, Chile, China, Colombia, Denmark, Ecuador, Egypt, Estonia, France, Germany, Hong
+ Kong, Ireland, Italy, Japan, Latvia, Mexico, Netherlands, Norway, Russia, South Africa, Spain,
+ Sweden, Switzerland, Taiwan, USA, Zimbabwe.
+
+ 4.2.4 Service Activities
+
+ Reviews
+
+ Since REF2014, SCS staff have reviewed over 1,000 articles for over 80 journals, spanning the
+ fields of criminology, psychology, computer science, geography, political science, public policy,
+ management, and sustainable development. Since REF2014, STEaPP staff have reviewed
+ hundreds of papers for dozens of journals, across fields of health, futures, energy, climate
+ change, Science and Technology Studies, meteorology, citizen science, law, physics,
+ engineering, religion, philosophy, development, public administration, political science,
+ cybersecurity, internet of things, international relations.
+
+ External PhD examining
+
+ Staff have examined over 120 PhDs, 43 of which were from international institutions, including:
+ University of Twente; Ghent University; University of Melbourne; Queensland University of
+ Technology; National University of Ireland; Delft University of Technology; University of West
+ Indies; University of Delaware; University of Pretoria; University of Technology, Estonia;
+ University of Oslo; and United Nations University. UK PhDs examined were from institutions to
+ include the University of Cambridge, Kings College London, University of Leeds, University of
+ Manchester and the University of Oxford.
+
+ 4.3 Economic and societal impact
+
+ As real-world impact is central to both departments’ mission, staff actively engage with research
+ end users through expert advice and other knowledge transfer activities.
+
+ 4.3.1 Membership of expert boards and committees
+
+ Staff members are routinely invited to contribute expertise to high level committees in the role of
+ chair, member, or expert consultant/advisor, both in the UK and abroad. Examples include:
+
+      Staff                                      Role
+  Ashby             Member, EU-funded Pol-PRIMETT II expert panel on metal theft
+  Bouhana           Expert consultant, UK Independent Commission for Countering
+                    Extremism
+
+                    Expert advisor, International Consensus Guidelines Committee
+                    for the Prevention of Violent Radicalization and Extremist
+                    Violence (UNESCO)
+  Bradford          Research lead, London Policing Ethics Panel
+  Brass             Chair, IoT-1 Technical Committee at BSI
+
+                    Member, BSI Standards, Policy and Strategy Committee
+  Chainey           Member, Chile Millennium Science Initiative
+
+                    Member, Metropolitan Police Violent Crime Panel
+
+                                                                                             Page 22
+Unit-level environment template (REF5b)
+  Chataway         Member, GO Science’s Areas of Research Interest Oversight
+                   Board
+  Cockbain         Member, Government’s Modern Slavery Strategy and
+                   Implementation Prevent Sub-Group
+
+                   Member, Commonwealth Parliamentary Association’s Modern
+                   Slavery Expert Panel Global Initiative Against Transnational
+                   Organized Crime
+  Gill             Member, Europol’s European Counter Terrorism Centre,
+                   Advisory Group on Online Terrorist Propaganda
+  Johnson          Member, Home Office’s Scientific Advisory Council
+
+                   Member, GO Science’s Areas of Research Interest Crime
+                   Prevention Working group
+
+                   Consultative Member, Government Office for Science Pandemic
+                   Influenza Group on Behavioural Science Sub-group (Policing and
+                   Security)
+  Laycock          Member, Home Secretary’s Advisory Board on the Modern Crime
+                   Prevention Strategy
+
+                   Member, Home Affairs Select Committee; the UK Anti-Doping
+                   Innovation Commission
+
+                   Member, Board of the Women’s Security Society
+  Morgan           Specialist Advisor, House of Lords Science and Technology
+                   Committee inquiry into Forensic Science
+
+                   Member, Home Office Search Technologies Academic Research
+                   Team
+
+                   Member, Inns of Court College of Advocacy working group on
+                   expert evidence
+  Mulgan           Member, Science Technology Options Assessment international
+                   advisory board for the European Parliament
+  Mulugetta        Member, Scientific Advisory Group for the UN Secretary
+                   General’s Climate envoy
+
+                   Member, Scientific Advisory Committee of the Climate and Clean
+                   Air consortium
+
+                   Chair, World Economic Forum Council on Innovation and
+                   Entrepreneurship
+  Tanczer          Advisor, Open Rights Group
+  Wortley          Member, NPCC’s Child Abuse & Protection Academic Reference
+                   Group
+
+
+ 4.3.2 Consultancies and other engagement
+
+ Commercialisation of research and expertise is yet another way of achieving research impact,
+ and UCL Consultants help facilitate this. Staff have been paid consultants to organisations
+ including Facebook, various UK police forces, PSHE, CPNI, and the Home Office. Staff also
+ provide, on an ad hoc basis, pro bono advice and research expertise to government, civil
+ servants, industry, NGOs, and policy makers, both in the UK and internationally. Advice may be
+
+                                                                                         Page 23
+Unit-level environment template (REF5b)
+ delivered via personal meetings, formal presentations, and written submissions. The list of
+ recipients in the UK includes the Cabinet Office, the Parliamentary Office of Science and
+ Technology, the Home Office, the College of Policing, MOPAC; and internationally, government
+ agencies in Argentina, Colombia, Mexico, the UAE, and Uruguay.
+
+ 4.3.3 Media and public engagement
+
+ The Unit shares UCL’s commitment to ‘open education and knowledge to the world’ and to that
+ end we have undertaken a variety of public engagement activities.
+
+ Public seminars
+
+ Prior to the pandemic, the Institute for Global Cities Policing, Centre for Forensic Sciences and
+ STEaPP ran evening seminar series and other events (e.g. the launch of the London Ethics
+ Panel report on live facial recognition, the role of policy in reducing gender inequality in the
+ workplace), with 3-4 events per term attracting 50-150 attendees each time on topics such as
+ undercover policing, the investigation of rape, (mis)interpretation of forensic science evidence,
+ and public responses to armed police. A series of webinars has been launched in 2021, and a
+ “policing the pandemic” webinar held in November 2020 attracted 130 attendees.
+
+ Science Lates
+
+ In collaboration with the Home Office, SCS was invited to stage an exhibition entitled A Night of
+ Crime in the Sciences Lates series at the Science Museum 2016, an event attracting 3,800
+ visitors (http://bit.ly/3kJvSb2). In 2018, STEaPP contributed to the Science Museum Lates: Year
+ of Engineering, organising and running an interactive workshop on Guerrilla Urbanism to engage
+ the public on the work of the City Leadership Laboratory.
+
+ TED talk
+
+ Morgan delivered a TED talk on The Dangers of Misinterpreted Forensic Evidence, 2018
+ (https://bit.ly/3rjdFno).
+
+ Media engagement
+
+ Cosgrave is the co-presenter of the radio programme My Perfect City which explores urban
+ policy across the world and broadcast on the BBC world service which attracts a weekly
+ audience of 300million listeners. She is also co-presenter on BBC’s Tomorrow’s World podcast.
+ Most staff have been interviewed by/quoted in/written pieces for the media, some on a regular
+ basis. Media outlets have included: Asian Affairs; Associated Press: Australian: BBC (TV &
+ radio); CBS Radio; CNN; Daily Mail; De Volkskrant; Economist; Financial Times; France 24;
+ Globe; Guardian; Huffington Post; Irish Examiner; Irish Independent; Irish Times; Japan Today;
+ Mail; Nation; National Post; Newstalk; New Republic; New Scientist; New Statesman; New York
+ Daily News; New York Times; New Zealand Herald; PBS; Physics; Reuters; Scientific American;
+ Sri Lanka Guardian; Smithsonian Channel; Sunday Times; Telegraph; TV3; Vancouver Sun;
+ Vice Magazine; Virginia Quarterly Review; Washington Post; and Wired.
+
+ 4.4 Concluding remarks
+
+ Building deep and productive relationships across a diverse range of partners, stakeholders and
+ end users goes to the very heart of the mission of both departments. Collectively, these
+ engagements ensure that our research, and our approach to it, contributes to the wider research
+ base, policy making and practice both nationally and globally.
+
+
+
+
+                                                                                            Page 24
+

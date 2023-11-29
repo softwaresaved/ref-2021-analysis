@@ -1,0 +1,1031 @@
+Unit-level environment template (REF5b)
+ Institution: King’s College London
+
+ Unit of Assessment: 11
+
+ 1. Unit context and structure, research and impact strategy
+1.1 Unit’s context and developments in 2014-2020
+UoA11 at King’s College London (shortened to UoA11) is an international research centre with a
+wide scope of activities ranging from core areas of computer science to its intersections with other
+disciplines, such as engineering, mathematics, economics and finance, and biological sciences.
+UoA11 aims to advance the foundations of computer science, open new research directions, and
+achieve transformative impact on modern society.
+Building on the foundations laid in REF2014 and supported by the university’s strategic investment,
+during the REF2021 period, UoA11 has significantly strengthened and broadened its research,
+raising further its international status. With 22 new academic appointments since 2014, the unit has
+established two new research groups (Cybersecurity and Human Centred Computing), expanded
+the scope of the other groups with new research areas (including data science, web computing,
+game theory), and broadened its multidisciplinary research and engagement with external
+stakeholders.
+To instil a collaborative culture that ensures wider engagement, impact and connection to real
+world challenges, UoA11 strategically organised itself according to the orthogonal structure of
+research groups, formed around major specialism areas, and hubs, which focus on external
+challenges arising from the economic and public spheres and facilitate cross-disciplinarity and
+impact creation. This structure, established in 2017, is illustrated in Figure 1.
+
+
+
+
+   Figure 1: UoA11 research environment: eight research groups (horizontally) and five
+   cross-cutting hubs. The Finance, Health, Security and Urban Living hubs focus on sectors
+   of economic activity. The fifth hub has a socio-technical focus on Trusted Autonomous
+   Systems relevant to all.
+In 2014, UoA11 was fully aligned with the Department of Informatics (DoI). The long-term
+institutional-level King’s Startegic Vision 2029, launched in 2016, included major investment in
+science and engineering to capitalise on existing research strengths within the university and to
+ensure the right research capacity for addressing complex 21st century technological and societal
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+challenges. For UoA11, this strategy meant substantial growth of computer science, a move to the
+iconic Bush House building complex, which brought the whole unit into a single location, and the
+incubation of a new department of engineering. Supported by £52M university investment in
+necessary infrastructure, the new Department of Engineering was launched as a separate
+department in August 2019, initially comprising the Telecommunications (CTR) and Robotics
+(CORE) groups from DoI, together with further academic appointments. The two departments –
+Informatics and Engineering – maintain close collaborations facilitated by the aligned research
+strategies, shared hubs, and coordination and support provided by their parent Faculty of Natural,
+Mathematical and Engineering Sciences (NMES).
+Of the 46 academic staff submitted to REF2014 UoA11, 27 are submitted to REF2021 UoA11, 8 to
+other units (following transfers to other departments), and 11 have left King’s or retired. UoA11’s
+REF2021 submission includes 50 academic staff (all on open-ended contracts, 48.5 FTEs), 22 of
+whom (including 8 women) have been hired during 2014-2020. All eligible members of the six DoI
+research groups (in 2020) are included in this submission. The members of the
+Telecommunications and Robotics groups are submitted across UoA11 and UoA12 to highlight
+their contributions to the research environment of UoA11 in 2014-2019 and to outline their future
+plans in the context of King’s developments and growth in UoA12.
+As this document shows, UoA11 at King’s provides a vibrant environment with the structures to
+support and help all its staff, with particular focus on helping new starters develop and reach their
+potential.
+
+1.2 Highlights of unit’s achievements in 2014-2020
+The UoA11 vision set out in REF2014 was “to be at the centre of developments in designing and
+realising the future intelligent computer systems and machines that will supply the physical
+infrastructure supporting healthcare, energy, transport safety and security, and the virtual worlds of
+the cloud and the connected society”. Given King’s research strategy, the evolving funding
+landscape, the reorganisation into two distinct departments and changes in staffing, this 2014
+vision was subsequently refined and its ambition increased, resulting in overall achievements
+significantly exceeding the 2014 plans. The domain-based hubs have put greater emphasis on the
+societal impact of research and substantially expanded the range of targeted impact domains.
+
+                                                                           Increase
+                                                           REF2021
+                                                                             from
+                                                                           REF2014
+
+               Research income, including:                     £19.8M             35%
+                 UK research councils, charities,             £13.1M             68%
+                  govt                                          £2.0M            106%
+                 Industry, commerce, public corp.
+               Best paper awards                                    23             64%
+               Women                                             16/50             47%
+
+    Table 1: Main UoA11 REF2021 indicators (financial increases compare annual averages).
+
+Fundamental research on foundations of 5G telecommunication systems, including the 2018 5GUK
+project (King’s PI: Dohler, UK Govt DCMS, £3M), and extensive collaborations with the
+telecommunication industry established King’s as an international centre for advancement of 5G
+technologies, with a world-first 5G testbed, and surgery and art performances over 5G.
+The growing breadth and quality of UoA11 research in the areas of AI and cybersecurity have
+received significant external recognition. In 2018, NCSC and EPSRC awarded King’s the status of
+ACE-CSR – Academic Centre of Excellence in Cyber Security Research (Director: Such).
+Subsequently, UoA11 became a partner in REPHRAIN, the UKRI Research Centre of Excellence
+in Protecting Citizens Online (King’s CoI: Such, UKRI, £618K, announced in 2020).
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+The unit’s increased standing in AI research was crucial to the 2018 award of the UKRI Centre for
+Doctoral Training (CDT) in Safe and Trusted Artificial Intelligence (STAI), led by King’s in
+partnership with Imperial College London (Director: Luck, UKRI, £4.9M).
+The UKRI Trustworthy and Autonomous Systems Hub (UK-TAS-Hub) was awarded to a
+consortium consisting of the Universities of Southampton, Nottingham and King’s College London.
+The King’s side is a multidisciplinary team (lead: Moreau, UKRI, £2.2M) including researchers from
+DoI, Law and Business Schools, Policy Institute, Faculty of Life Sciences & Medicine and Digital
+Humanities. Subsequently, King’s became also a partner in the UKRI TAS Node on Governance
+and Regulation (King’s CoI: Chockler, UKRI, £397K, announced in autumn 2020).
+CUSP London – Centre for Urban Science and Progress – has won, as part of Westminster’s
+Urban Lab Team, the 2020 Geography in Government Award for Excellence in Local Government
+for developing data-driven solutions which save public money and improve Londoners’ lives. CUSP
+London is a joint King’s and Warwick centre, with significant involvement of King’s UoA11 staff,
+researching computational approaches to urban problems.
+5GUK, ACE-CSR, REPHRAIN, STAI CDT, UK-TAS-Hub and Node, and CUSP London are all
+high-profile activities, establishing King’s as a UK leader and coordinator of research in 5G
+Technologies, AI/Autonomous Systems, Safety & Trust, and Urban informatics.
+The unit’s success is further highlighted by excelling in achieving the following four targets set in
+REF2014: increasing (i) cross-cutting project-funding, (ii) engagement with non-academic partners
+and (iii) collaboration with other university departments, and (iv) improving facilities.
+Increasing cross-cutting research. UoA11’s research income has increased by 35% compared
+to the REF2014 period (from £2,095K to £2,826K p.a.). This upward funding trajectory will further
+accelerate with future contributions from the 12 recently hired early career lecturers. Many projects
+cut across UoA11, also often including investigators from other units at King’s and other academic
+institutions, e.g., the CONSULT, DADD, PLEAD, RESET and THuMP projects (see Section 3.1) as
+well as the above mentioned 5GUK, ACE-CSR, REPHRAIN, STAI CDT, UK-TAS-Hub and CUSP
+London. The development of funding bids for such initiatives is encouraged and facilitated by the
+unit’s hubs, which bring together potential research collaborators from across the university, and is
+further supported by the King’s Together scheme for multi-disciplinary research (see Section 4.2).
+Engagement with non-academic partners. A census of non-academic partners on the unit’s
+research projects exceeds 100 (see Section 3). Closer engagement with industry led to doubling
+the direct industrial funding from £138K per year (6.5% of income) in REF2014 to £284K per year
+(10% of income) in REF2021. The strong external relationships and the impact strategy (see
+Section 1.5) led to substantial impact activities, with the main success stories captured in the
+submitted Impact Case Studies (ICSs):
+ ICS1 Research on automated planning and plan-execution helped Schlumberger to become
+      the world leader in drilling automation, bringing improvements in efficiency, consistency
+      and safety, resulting in savings estimated at $150M p.a.
+ ICS2 Research on data provenance and collaborations with Imosphere Ltd (a software
+      company for the healthcare sector) and the ICO led to establishing provenance as an
+      essential function of IT systems, which provides a trusted account of data processing.
+ ICS3 Research on designing robot manipulators and control algorithms provided the basis for
+      two companies, Movendo and AiTreat, to commercialise robotic therapy devices, now
+      used in more than 100 clinics worldwide.
+ ICS4 Fundamental research on 5G telecommunication systems, in collaboration with major
+      companies (including Ericsson and Konica Minolta), contributed to development of 5G
+      standards.
+Further examples of UoA11 impactful research activities involving non-academic partners include:
+collaboration with the House of Commons Library on understanding and improving digital citizen
+engagement (Sastry); development of programming environments for pre-university computer
+science education, supported by £737K funding from Oracle and used by 3 million users annually
+(Kölling); and design of interventions for emotion regulation in children, with a US developer
+investing $800K to commercialise the prototype (Slovak).
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+UoA11 excelled in expanding the breadth of collaboration with other university departments,
+as highlighted in Table 2 (showing only the major projects and research initiatives). For
+comparison, the unit’s collaborations within King’s during the REF2014 period were confined to
+Digital Humanities, War Studies and Medical Schools.
+
+              Business     Digital                                                Policy      War
+                                    Geography   IOPPN       Law       FOLSM
+               School    Humanities                                              Institute   Studies
+ ACE-CSR                     x                                                                  x
+ CONSULT                     x                                           x                      x
+ CUSP L.                               x          x                                 x
+ DADD                        x
+ REPHRAIN                    x                                x                     x
+ RESET                                 x
+ THUMP           x                                            x
+ UK-TAS-Hub      x           x                                x          x          x           x
+
+Table 2. Key collaborations between UoA11 and other units at King’s (IOPPN: Institute of
+Psychiatry, Psychology & Neuroscience; FOLSM: Faculty of Life Sciences and Medicine).
+
+                                              The target of improving facilities was exceeded due
+                                              to two major developments.
+                                              (i) In 2017, the whole DoI moved to Bush House, a
+                                              historic building complex, pictured on left, acquired by
+                                              King’s in 2015 and modernised to state-of-the-art
+                                              academic accommodation at a cost of £8M for the
+                                              space occupied by Informatics. The move created a
+                                              strong sense of community within the unit and
+                                              facilitated closer links with other university units
+                                              relocated there.
+                                              (ii) With investment of £7M, new hardware and
+software labs were opened in 2019 for the CTR and CORE groups. The university invested a
+further £45M for larger engineering teaching and research labs (construction commenced in
+summer 2019), which will facilitate further research collaboration between engineering and
+informatics around and beyond telecommunications and robotics.
+
+1.3 Unit’s research structure and management
+UoA11 has structured its committees to coordinate research and impact activities, seek inputs from
+and provide information to its membership, oversee its PhD programme and link with the faculty
+and university management and support structures. Research activities are conducted within the
+framework of groups and hubs (Figure 1). Groups, based around common scientific areas, are
+core components of the formal management structure of the unit. Hubs provide a less formal,
+thematic virtual clustering of researchers from all parts of the unit and are open to researchers from
+other departments. Coordinated by Hub Champions, hubs focus on societal challenges, which
+often require expertise and ideas from multiple sub-disciplines. Hubs encourage and support
+exploration of new collaborations between research groups, across the university, and with
+external partners, with a view to developing a strong impact culture.
+Each group is allocated a budget (UoA11 total £74K in 2019-20) to support research activities
+outside funded projects, e.g. research networking or organisation of thematic workshops. Each hub
+has a budget for networking activities (total £20K in 2019-20).
+
+
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+
+
+
+
+                     Figure 2: DoI Research management and support structure.
+
+Figure 2 illustrates the structure of DoI research management and support. The Head of
+Department (Moreau) is assisted by deputies for Education and Research. The Informatics
+Strategy Group considers key departmental plans, such as directions for academic recruitment.
+The Departmental Research Committee coordinates support for, and monitoring of, research
+activities. The Hub Champions Group focusses on mapping out new initiatives and coordination
+between hubs. All matters related to PGR programmes and students are coordinated by the
+Departmental PGR Oversight Committee. The remit of the Departmental Diversity and Inclusion
+Committee includes coordination and oversight of the D&I agenda of the Research and PGR
+committees.
+
+1.4 Research groups
+UoA11 comprises 8 research groups, led by Heads of Groups, half of whom are women.
+Algorithms and Data Analysis (ADA, Head: Iliopoulos) has interests ranging from theoretical
+computational complexity to machine learning for computer vision and data-driven solutions for
+operational research, digital privacy and health.
+Cybersecurity (CYS, Head: Viganò) addresses problems of security and privacy breaches and
+loss of trust in computing processes through: (i) systems, (ii) formal verification and testing, (iii)
+provenance, ethics, trust, explainability and human factors.
+Distributed Artificial Intelligence (DAI, Head: Polukarov) explores social and technological contexts
+of interacting intelligent entities, including agent-based simulation, provenance, norms, trust and
+reputation.
+Human Centred Computing (HCC, Head: Borgo) is concerned with design and evaluation of
+computing systems for complex human interaction, focussing on computer graphics, data
+visualisation, human-computer interaction and natural language processing.
+
+
+
+
+                                                                                                   Page 5
+Unit-level environment template (REF5b)
+Reasoning and Planning (RAP, Head: Modgil) researches symbolic models for reasoning involving
+argumentation, knowledge representation and planning, and the combination of reasoning,
+planning and machine learning approaches.
+Software Systems (SSY, Head: Chockler) addresses modelling, design and engineering of
+software systems, automated reasoning about system properties, and mathematical foundations of
+modelling computing systems.
+Centre for Robotics Research (CORE, Coordinator: Dai) works on innovating robot-centric
+approaches to critical challenges faced by society, with high-fidelity sensing, high-dextrous
+manipulation, control and mechanism design.
+Centre for Telecommunications Research (CTR, Head: Mahmoodi) is a leader in
+telecommunications, data & information processing, and multimedia and device technologies,
+recognised particularly for research and innovation in 5G and increasingly 6G.
+
+1.5 Strategy and arrangements for enabling impact
+The main principle underlying King’s research strategy is to strive for the highest research quality
+as well as high external impact to address global challenges and meet societal needs. To enable
+high impact, a combination of unit, faculty and university level mechanisms are used to create an
+environment for discovering, developing and exploiting inter-disciplinary research opportunities.
+UoA11’s strategy defines a platform of research groups and hubs to enable development of, or
+connecting to, high-profile impactful activities (shown in Figure 3 as a third dimension to the unit’s
+research environment). This is further amplified by creating a culture of impact, promoted by the
+Research Committee and the Hub Champions Group through discussions of potential impact of
+possible major funding bids. Since its launch in 2017, this strategy has already led to four
+substantial activities with external national recognition (STAI CDT, UK-TAS-Hub, REPHRAIN and
+Cybersecurity ACE-CSR) and to effective integration with CUSP London.
+
+
+
+
+                        Figure 3: Impactful activities facilitated by the hubs.
+Part time appointments are used by UoA11 to strengthen links with industry and explore impact
+opportunities. CUSP London Deputy Director (Quercia, Nokia-Bell-Labs, part-time in UoA11)
+manages the centre’s relations with partners. RAEng Visiting Professor (Lees, IT consultant) links
+UoA11 with the software-development sector and also brings to the unit his expertise on software
+performance engineering.
+Faculty and university support for enabling impact. The EPSRC Impact Acceleration
+Account (IAA), managed by NMES (see Section 2.5) and the King’s Together scheme (see
+Section 4.2) provide internal competitive funding for impact generation activities. The NMES
+Research Impact Lead – a full-time administrative post within the Faculty Research Development
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+Team – provides support for impact activities, including recording, evaluating and reporting impact
+and assisting in preparation of impact-generation proposals.
+
+1.6 Research integrity and open research
+King’s has enhanced its approach to Research Integrity during the REF2021 period, updating,
+improving and clarifying procedures. A Research Integrity Champion within NMES and Research
+Integrity Advisors (RIAs) embedded in units promote research integrity values, provide a point of
+contact for researchers with queries or concerns and coordinate with the university Research
+Governance Office the preparation of information and training.
+The university, committed to high ethical standards in research, requires that its researchers
+consider and address issues such as management of risk, protection of confidentiality and the
+process of informed consent. Ethical clearance is required for all projects with primary data
+collection involving human participants (55 projects in UoA11 over the period), e.g. user studies in
+HCC and experimental evaluations of privacy protocols in CYS. The best practice on research
+ethics is spread by the RIAs and by UoA11 academics who sit on a university Research Ethics
+Subcommittee.
+UoA11 puts emphasis on making research outcomes accessible to other researchers. In addition
+to the REF accessibility requirements, managed through the institutional PURE repository,
+research data is managed through the Library, according to data management plans defined by the
+researchers. King’s is an institutional member of the UK Reproducibility Network.
+UoA11 participates in promoting open science, for example, through the coordination of the EC-
+funded ACTION project (Simperl), which develops digital infrastructure for helping citizen
+scientists set up and manage projects, share data openly and comply with Responsible Research
+and Innovation practices.
+
+1.7 Strategic aims and goals for research and impact for the next 5 years
+UoA11 aims to further raise its status as a leading international centre for research in
+computational systems that symbiotically integrate with society and are fit for purpose by design,
+influencing the advancement of the Informatics discipline nationally and internationally. As UoA11
+has developed a strong reputation in safe and trustworthy AI, it now seeks to broaden its expertise
+and recognition in complementary areas to support its ambitious multi-disciplinary agenda on
+human-centred and data-driven systems requiring contribution from all sub-disciplines of
+Informatics and beyond. Concrete targets have been identified.
+ 1. Developing critical mass in strategic and complementary areas
+    While ensuring a balanced growth across sub-disciplines, particular areas of expansion
+    include vision, natural language processing, systems fundamentals, and human-system
+    interaction. The unit’s co-developed research and education strategies will shape expansion
+    and recruitment in a financially sustainable way, with the ambition of substantially growing
+    headcount (up to 50%) over the period.
+ 2. Institution-wide coordination of AI research
+    UoA11 will contribute leadership and expertise to a new King’s-wide AI institute (to be
+    launched in 2021), aiming to coordinate AI research, enterprise and impact across the whole
+    institution. This includes developing synergies between the King’s £16M medical AI centre
+    and King’s CDTs in AI-related topics (EPSRC-funded Smart Medical Imaging, UKRI-funded
+    STAI and King’s-funded DRIVE-Health), and leveraging facilities such as the new Cambridge-
+    1 supercomputer based at Guy’s and St-Thomas’ Hospitals.
+
+ 3. Development of research leaders
+    Building on recent fellowship successes (2019 EPSRC Fellowship renewal for Tratt, 2020
+    UKRI Future Leader Fellowship for Slovak) and the NMES network of fellows, UoA11’s
+    ambition is to support 5-10 fellows. Likewise, the ambition is to develop research leaders able
+    to front significant national activities and to be in a position to lead 1-2 programme grants (or
+    equivalent).
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ 4. Promoting research with strong impact
+    UoA11 will increase the scope, reach and significance of the impact of its research, targeting
+    various types of impact, including impact on policy. A culture of “Informatics Stories”
+    publicising the unit’s research successes will be developed, with the appropriate resourcing
+    (both staff and processes) to support the tracking of evidence. The pedestrianisation of the
+    Strand, beginning in 2021, places Bush House at the centre of A Global Creative and Cultural
+    Quarter, which UoA11 will exploit to showcase its research.
+ 5. Increasing engagement with industry
+Building on its experience of working with industry gained in the STAI CDT, UK-TAS-Hub and
+REPHRAIN, strengthening its links with the Informatics Industry Advisory Board, and leveraging
+the new role of NMES Vice Dean for Enterprise and Engagement and the corresponding
+departmental role, UoA11 will seek to develop strategic relationships with 1 or 2 partners over the
+period.
+
+ 2. People
+2.1 Staffing strategy and academic recruitment
+King’s decision in 2016 to invest strategically in science and technology allowed UoA11 to draw up
+expansion plans and intensify recruitment of new academic staff. The principles of UoA11’s
+recruitment strategy are: (i) to appoint a diverse set of researchers with an excellent research
+record for the stage of their career and clear promise for further development; (ii) to support the
+growth of the unit in the identified research directions; and (iii) to ensure a balance between junior
+academics starting their career as independent researchers, and senior academics who can
+provide research leadership and mentor other staff.
+In 2014–2020, UoA11 made 22 appointments (including 8 women) to academic posts with
+teaching and research responsibilities: 13 lecturers, 4 senior lecturers/readers, and 5
+professors. Three were recruited internationally (2 USA, 1 France) and 60% have had past
+research positions in international institutions. The appointments were in the areas of AI
+(Cocarascu, Criado, Malizia, Moreau), web computing (Simperl), cybersecurity and data
+security (Cavallaro, Pierazzi, Suarez, Such), data science (Letsios, Loukides, Mallmann-
+Trenn, Shi), human centred computing (Abdul-Rahman, Borgo, Slovak, Yannakoudakis),
+game theory (de Keizer, Polukarov, Ventre), computational biology (Bentley) and software
+systems (Kölling). Symbol  indicates Early Career Lecturers at the time of appointment (less than
+4 years as independent researchers).
+
+2.2 Support for Early Career Lecturers (ECL)
+UoA11 aims to develop ECLs into successful academics. This begins with their appointment with
+appropriate start-up packages, a rigorous, fair and encouraging probation process, adjusted
+workloads and a supportive environment.
+Start-up. ECLs receive a start-up fund to support their research endeavours until external research
+funding is secured. Such funds are normally used for additional research equipment, attending
+conferences, visiting research collaborators, or setting up small exploratory research projects. The
+total of £364K start-up funds in UoA11 during the REF2021 period included £154K for ECLs. In
+addition to this, 18 PhD studentships were committed to new starters since 2017, including 9
+studentships for ECLs.
+Workload reduction. To help new starters bootstrap their research over their 3-year probation,
+their initial teaching and administrative loads are reduced to 50% of a normal load, gradually
+increasing to 100% by the end of probation. This creates extra time to build up independent
+research, prepare publications and develop initial research proposals.
+Mentoring and training. The unit and the university provide mentoring and training support for
+new lecturers. The mentoring scheme includes advice and assistance on developing publications
+and proposals, while the unit also offers internal review of draft proposals. The training includes
+grant-development sessions, normally taken within the first year of probation. The probation
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+process also offers a mechanism to periodically discuss, set and review objectives with a probation
+mentor, to ensure ECLs develop into successful academics.
+Support Network. ECLs in DoI form a support network with informal monthly meetings to share
+best practice, to learn from each other and to identify common issues for departmental
+consideration. This network, initially established by the Department, is now run by the ECLs
+themselves, who set the agenda and format of meetings.
+
+2.3 Workload
+DoI staff are typically involved in research, education and administration. To address both
+educational and research aspirations, the Department also employs staff on the Academic
+Education Pathway (AEP), reaching 8 AEP lecturers in post on 31/7/2020 with teaching and
+related administration as their main responsibilities.
+Transparent Workload. A workload allocation model capturing assigned duties is published in the
+Department and informs all discussions and decisions about load and duties. Explicit
+documentation sets load expectations for staff.
+Reduced Workload. Load is reduced not only for ECLs but also for staff returning from extended
+leave (e.g. parental leave or sickness). Load can also be reduced to support staff who have
+secured fellowships or are PIs of substantial grants.
+
+2.4 Staff development
+Whilst annual processes for performance development review (PDR), pay recognition, promotion
+and study leave are set by the university, UoA11 strives to encourage all staff to develop to their
+full potential and supports them through training, mentoring, reviews and promotion advice.
+PDR Process. UoA11 assigns each staff member a PDR reviewer who helps identify individual
+training needs, feeds into the recognition-pay process, and offers discussions of longer-term career
+plans and aspirations, including promotions. The PDR process includes setting annual research
+objectives, in terms of publications and grant submissions, and further feedback and
+encouragement from the Head of Department, who reviews all PDR documents.
+Promotions. As part of its Athena Swan Bronze award, UoA11 introduced an Informatics
+Promotions Panel to provide informal feedback on draft promotion applications, to assign a senior
+academic to each applicant to help prepare the final application, and to identify staff on the cusp of
+potential promotion. A particular strength of this process is to identify and support potential women
+and minority applicants, or other staff, who might lack confidence to apply. Internal promotions in
+UoA11 in the REF2021 period included 9 to Senior Lecturer (2 women), 6 to Reader (2 women)
+and 1 to Professor.
+Mentoring. UoA11 runs its own mentoring scheme through which staff can elect to be paired with
+an informal mentor. The nature of the mentoring process is determined by the individuals and can
+vary from casual discussions to career progression advice. An incentive scheme for mentors and
+mentees is provided and elements of training are available to mentors.
+Training. UoA11 supports staff by recommending them for university training programmes. The
+Emerging Leaders Programme provides PIs and team leaders with core leadership skills
+(participants: Miles 2016/17, Black 2017/18, Zschaler 2019/20). The Leading Researcher
+Programme provides professorial-level participants with targeted development, enabling
+accelerated career progression (participants: Cavallaro 2018/19, Such 2019/20). The recent
+Emerging Research Programme targets earlier stage researchers (participants: Abdul-Rahman
+2020/21). The Strategic Leadership Programme focuses on the development of staff in senior roles
+(participants: Vigano 2016/17, Kölling and Moreau 2017/18).
+NMES Network of Fellows (current and recent holders of advanced fellowships and major single
+investigator awards) develops activities to further the advance of network members as well as to
+inspire, support and advise other colleagues, creating a stronger, more vibrant research
+community within the Faculty, benefitting the UoA11 staff.
+
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+Study Leave. Every member of academic staff is entitled to apply for study leave after 6 years in
+post. UoA11 prioritises applications with strong research plans, includes considerations of equality
+and diversity and undertakes a post-leave review. In the REF2021 period, 18 academics, including
+5 women, were granted one-year study leave (6 professors, 4 readers, 7 senior lecturers, 1
+lecturer).
+
+2.5 Support for obtaining external research funding and developing impact
+UoA11 and NMES offer personalised support to prospective PIs in their grant proposal
+development endeavours.
+Internal peer review. UoA11’s Director of Research Quality leads internal peer-reviews of grant
+proposals for competitive external funding. A review panel of 3-5 academics and a member of
+research development staff provide the proposers with constructive feedback. Earlier versions of
+proposals, starting with 1-page outlines, are also reviewed, in particular to support ECLs.
+Proposers are also offered help with preparing rebuttals to reviewer comments, and mock
+interviews when interviews are part of the application process.
+Training programme. NMES has launched a 12-week training programme for developing grant
+proposals. By the end of the programme, each participant should have a completed proposal ready
+for submission. Eight UoA11 staff participate in this programme in 2020/21.
+Faculty support. Investing significantly over the past few years in professional services, NMES
+now provides a team of 8 full-time staff focussed on supporting research. New appointments
+include a Faculty Research Manager, Faculty Research Coordinator, Research Development
+Manager and a dedicated Departmental Research Officer in each NMES department. Further
+expansion of the faculty research support team is planned for 2020/21, with an additional full-time
+Senior Research Officer and a second Research Development Manager.
+The IAA scheme at King’s provides longer-term support for achieving research impact. Managed
+by NMES, IAA funding is awarded as ‘Advancing Impact’ grants (up to £60K) for supporting proof-
+of-concept work and knowledge transfer, or ‘Rapid Access’ grants (up to £10K) for shorter-term
+activities promising immediate impact. IAA funding has been used strategically to support the ICSs,
+but also to nurture impact broadly across NMES. UoA11 received £304K IAA funding in 2015-
+2020, including funding for projects: “Deployment of Expressive Continuous Numeric Planners in
+Large Scale Applications” (Amanda Coles) in collaboration with Schlumberger, which contributed
+to ICS1; and “Provenance based explanations” (Moreau) in collaboration with the ICO, which
+contributed to ICS2. The unit’s IAA grants supporting broader impact included “KCL planning
+technologies on board the international space station” (Magazzeni) in collaboration with NASA,
+and “Blockchains and nuclear non-proliferation” (McBurney), which involved confidential
+discussions with nuclear verification experts and led to McBurney’s invited seminar on the topic to
+the Directorate of Safeguards at the IAEA (Vienna, 4/2018).
+King’s Undergraduate Research Fellowships (6-9 each year in UoA11) provide funding for
+summer internships with the dual aim of integrating research and teaching, and helping academics
+explore new ideas for future proposals.
+Incentivisation. An important aspect of the promotion process is to recognise and reward staff for
+high quality research and achieving impact. Both aspects are closely reviewed at all stages of the
+process. UoA11 provides project investigators with funding (£47K in 2019-20) in proportion to
+overheads generated to enable exploration of new research possibilities beyond currently funded
+projects for subsequent grant proposals.
+2.6 Career development support for post-doctoral researchers
+UoA11 brings together its community of post-doctoral research assistants (PDRAs) – 30 to 40
+researchers at any given time during the REF period – by establishing a departmental PDRA Tutor
+to assist them in their ambition to become independent researchers. PDRAs are integrated within
+research groups and are represented on the departmental Research Committee.
+The PDRA Tutor provides advice and coordination for PDRAs, communicates the development
+opportunities available at faculty and university levels and considers any issues which may hinder
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+their work. The PDRA Tutor also reviews the PDRA’s PDR documents to identify emerging themes
+and agrees appropriate actions with the Informatics Strategy Group; an example of action is
+provision of teaching opportunities, in response to a desire by PDRAs to develop wider academic
+experience.
+Research Staff Development. The Centre for Research Staff Development (CRSD), launched in
+April 2016, is a crucial element of King’s commitment to delivering the principles of the Concordat
+to Support the Career Development of Researchers. CRSD provides university-level professional
+development support for research staff to achieve their potential before, during and after their time
+at King’s, with active support from the most senior staff in the university. The support includes
+career advice, relevant courses and workshops (e.g. leadership training workshops for research
+staff) and providing information about opportunities and general developments in the Higher
+Education sector. The Centre’s overarching objective is to facilitate and support an active and
+engaged research staff community where researchers can provide input into policies and initiatives
+at King’s and nationally.
+
+2.7 PGR students
+UoA11 complements the institutional regulatory setup with processes to (i) ensure that students
+are admitted with the right qualifications and experience, and matched to supervisors with similar
+expertise and enthusiasm; (ii) monitor student progress and ensure that remedial actions and
+adequate support are provided promptly to both students and supervisors, if necessary; (iii)
+oversee the departmental PhD programme in a way that is consistent, accountable, transparent
+and fair to all; (iv) provide personal support via a PGR Tutor; and (v) offer a thriving research
+environment for development of student skills and career plans.
+In 2019/20, DoI had 160 PGR students, of whom 30% were women. During the REF2021 period,
+125 doctoral degrees were awarded in UoA11.
+Supervision team. Each PGR student has at least two academic supervisors. All supervisors are
+required to complete supervisory training and take refresher training at least every five years to
+ensure that they provide high quality support.
+Progression. All students have their study progress and training needs reviewed every six
+months. Two major progress assessments are the UoA11-specific 9-month assessment and the
+university-wide 18-month (MPhil-to-PhD upgrade) assessments, both based on a technical report
+and viva with a panel including the supervisory team and an independent assessor.
+PGR Tutoring and SSLC. Research students are supported by the departmental PGR Tutor, who
+provides pastoral advice and helps resolve any challenges that may affect students’ work. Issues
+wider than individual concerns are discussed within the departmental Staff-Student Liaison
+Committee for PGR students, held once per term and chaired by the PGR Tutor.
+Oversight. UoA11 introduced the PGR Oversight Committee (PGR-OC) which coordinates all
+activities (admissions, progressions, funding) related to PGR students. The committee meets
+monthly to provide prompt feedback on students’ progress, consider offers for entry to the PhD
+programme and for studentships, and monitor departmental PGR processes.
+Environment. Each PGR student participates in research activities of the group of their main
+supervisor, including seminars and discussions with visitors. Research groups form the immediate
+communities for PGR students, where they learn from others and are encouraged to discuss and
+present their own work. PGR students in the same research group are normally co-located in the
+same open-plan office space to facilitate collaboration and peer support.
+Training. At the university level, the Centre for Doctoral Studies supports PGR students by
+offering training courses for developing transferable academic skills, providing networking
+opportunities and creating a community environment for all research students.
+Entrepreneurship. Innovative training, designed by King’s Entrepreneurship Institute, such as
+Entrepreneurial Mindset, is open to PGR students and research staff across King’s. The
+programme helps participants develop their skills as innovators, critical thinkers and collaborators,
+enhancing their future career prospects. The programme is compulsory for students from the STAI
+
+                                                                                             Page 11
+Unit-level environment template (REF5b)
+CDT and open to other UKRI funded students. The first cohort (2019-20) consisted of 12 UoA11
+students.
+RTSG funding. UoA11 PGR students are strongly encouraged to write research papers for
+presentation at external workshops and conferences. RTSG funding (Research Training Support
+Grant) is available for all students (irrespective of the source of their funding) to cover and support
+conference attendance and other research activities.
+Admissions. The departmental PhD admissions tutor coordinates the evaluation of applications
+and ensures that the admissions process is conducted according to university regulations,
+departmental guidelines and EDI best practice. Applicants considered for entry are interviewed by
+two academic staff (or three, if a studentship is considered). PGR-OC makes final decisions on
+admission and studentship offers.
+Funding. The main sources of funding for PGR students in UoA11 are departmental PhD
+studentships, funded by EPSRC DTP and NMES (8-12 studentships each year), and the STAI
+CDT. Other available PhD funding schemes include King’s-China Scholarship Council
+studentships, with 6 to 9 offers in UoA11 each year.
+
+2.8 STAI CDT
+Led by King’s College London (Luck – Director, Black, Criado, Rodrigues) in collaboration with
+Imperial College London, the UKRI Centre for Doctoral Training in Safe and Trusted AI focusses
+on the use of symbolic AI techniques for ensuring the safety and trustworthiness of AI systems.
+This CDT offers 8 studentships per year at King’s and the first cohort started in October 2019. A
+key aspect of the CDT is engagement with 20 non-academic partners offering a range of problems
+and data sets to drive the research and opportunities of placements for students.
+
+2.9 Equality, Diversity, Inclusion (EDI)
+Both King’s College London and DoI have Athena Swan (AS) Bronze Awards, with the
+departmental award obtained in 2017 (following a faculty-level award in 2014) and reconfirmed in
+2020 (after the creation of the new Department of Engineering). DoI is implementing its Athena
+Swan action plan and is now working towards an application for the silver award. The unit’s EDI
+agenda is embedded within the wider university framework of EDI policies and practices, as
+described in the REF5a document.
+UoA11 follows university staffing policies on equality, diversity, age, sexual orientation and
+disability, which aim to maintain an inclusive environment where all individuals are valued and able
+to succeed. These policies include EDI requirements and recommendations for the appointment
+processes, e.g. for the composition of interview panels. All UoA11 recruitment panels for academic
+positions during the REF period have included at least one woman, and panel members must first
+take unconscious bias training. Similar arrangements are required for interview panels for
+postdoctoral research positions and for applicants to PhD programmes.
+In accordance with its AS action plan, UoA11 has introduced a number of practices to promote a
+more inclusive and diverse research environment. Key examples are:
+  The departmental D&I committee, chaired by two D&I Champions, plays a central role in DoI
+     with membership including the Head of Department and the chairs of all main departmental
+     committees.
+  D&I Champions are recognised as major departmental roles and ex officio members of the
+     Informatics Strategy Group (ISG). EDI is a standing agenda item on the monthly meetings of
+     ISG.
+  The departmental Workload Allocation Model is based on equality, fairness and transparency
+     principles. During the REF period, 3 members of staff who were on maternity leaves
+     benefitted from workload reduction (see Section 2.3).
+  Equality, diversity and inclusion are considered in the process of allocating shared offices.
+     The unit also provides customised office furniture (e.g. specialty adjustable desks) for those
+     who require them for medical reasons.
+
+
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+    In consideration of staff well-being, the department discouraged sending work emails out-of-
+     hours and organising meetings on Fridays during the pandemic.
+The following table shows progress achieved during the REF2021 period in improving gender
+balance in UoA11.
+
+                                                                    Women (All)         %
+         REF2014                                                           10 (46) 21.7%
+         Academic recruitment in 2014-2020                                  8 (22) 36.4%
+         REF2021                                                           16 (50) 32.0%
+         Heads of Group and Hub Champions                                   5 (14) 35.7%
+         Sector national average (2019/20)                                           23.1%
+                                Table 3. Gender balance in UoA11.
+
+UoA11 staff engage in national and international EDI initiatives. Criado gave a talk about gender
+discrimination in AI at the 2018 EU Gender Summit and was a panellist at a meeting of the BCS
+Women in Technology network. Borgo has been involved in ‘Women in HPC’, which aims to
+improve equality, diversity and inclusion in High Performance Computing. Simperl gave a talk at a
+UK’s ACM-W professional chapter.
+NMES organises the annual Women in Science Week to celebrate women working in science,
+highlight the issues surrounding under-representation of women in STEM subjects and
+promote gender equality as a relevant and important topic for all. Ada Lovelace Day is the flagship
+event of the week and consists of inspirational talks from a wide variety of speakers. NMES also
+operates a system of flexible working arrangements for staff with caring commitments. In 2019/20,
+7 UoA11 staff (including 2 women) had formal flexible working arrangements.
+Various university-wide EDI initiatives are presented in the institutional-level environment
+statement. These include the Race Equality at King’s hub, ‘Proudly King’s’ LGBTQ+ staff network,
+the NEST network supporting staff with parental or caring responsibilities, ‘Access King’s’ disability
+inclusion network, and King’s Parents and Carers Fund.
+While preparing the REF submission, UoA11 followed the university’s REF2021 Code of Practice,
+further enhancing some of the EDI provisions. For example, all UoA11 staff were involved in
+reviewing potential REF outputs and their feedback was considered by the unit’s REF Output
+Selection Group. This 11-member group was selected to represent all research groups, various
+seniority levels and the UoA11 gender balance. At all phases of the output selection process, the
+outputs of those with 1 or 4-5 selected papers were particularly closely scrutinised to avoid under-
+or over-representation. A particular focus was also placed on the gender balance of the selection.
+Where decisions were needed between outputs evaluated as being of similar quality, the unit
+followed the principle of improving the gender balance of the overall selection. All UoA11 staff were
+regularly informed about REF processes and the outcomes of various phases of output selection.
+Looking beyond 2020, UoA11 will continue expanding its EDI agenda and activities. In particular,
+while the gender balance in UoA11 is now significantly better than the national average, the unit
+will continue with the actions set out in the 2017 Athena Swan application to achieve further
+improvements. In particular, through its promotions panel, the unit will aim to improve gender
+balance at more senior academic grades, where women remain more under-represented.
+
+2.10 Supporting staff, researchers and PGR students during COVID-19 pandemic
+UoA11 has shown resilience and resolve when facing the challenges of the COVID-19 pandemic.
+Most research projects continued with only minor adjustments of schedules, but some user
+evaluation studies had to be postponed or re-designed.
+The unit was very effective in switching all communication online. Regular staff meetings, research
+group meetings, and various interest group meetings provided support and a sense of community,
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+often surpassing the pre-COVID experience. PGR students were offered laptops on loan if needed,
+the university extended some PGR assessment deadlines, and the faculty funded extensions to
+studentships, if research progress was affected by lockdowns. The university also put in place
+special arrangements for online PhD vivas, and examiners were asked to consider the student’s
+Covid19 impact statement (if submitted with the thesis) whilst always upholding the academic
+requirements for a research degree award.
+The university has implemented detailed processes for returning to work on campus, which
+consider individual staff circumstances.
+
+ 3. Income, infrastructure and facilities
+3.1 Income
+For the REF2021 period, the unit’s research income was £19.8M in total (for 48.5 FTE), a yearly
+increase of 35% compared to REF2014, or a yearly increase of 28% per FTE. This total included
+industrial funding of £2.0M, which doubled, p.a., compared to REF2014. This performance should
+be understood in light of the high number (12) of ECLs appointed during the period.
+
+
+
+
+The charts above illustrate the distribution of research spend during the REF period according to
+funder and area of research. The highlights below (and throughout the document) refer to all
+funding secured during the REF2021 period, including new projects (where spend does not yet
+show in the charts) to indicate the upward trajectory and shift of the UoA11 research focus. Each
+quoted value (here and in Section 1) is the amount committed to King’s by the main funder.
+In Artificial Intelligence, funded projects have focused on three principal areas: fundamentals of AI,
+AI for business performance, and explainability discrimination and trust in AI. CONSULT (Modgil,
+EPSRC, £1,381K) won the best demo award at the Human Agent Interaction 2018 conference for
+its argumentation techniques to help patients suffering from chronic diseases self-manage their
+treatment. ERGO and ADE (Coles, EU, £487K) contributed, with GMV Aerospace and Defence, AI
+planning technologies for space robotics towards European capabilities for orbital maintenance
+and planetary exploration. DADD (Such, EPSRC, £654K) researches digital discrimination in
+collaboration with Google, while THuMP and PLEAD (Moreau, EPSRC, £1,361K) advance the
+state-of-the-art in explainable AI and provenance-based explainability with Schlumberger, Save the
+Children, Experian, Roke Manor and Southampton City Council. The STAI CDT and the UK-TAS-
+Hub (see Section 1.2) also contribute to this area.
+Funded projects in Programming Languages and Software Engineering have focused on language
+runtimes, software engineering methodologies and programming environments. A fellowship on
+tooling to support programming language compositions (LECTURE  Tratt, EPSRC, £953K) led to
+talks at Facebook and Oracle, which in turn were instrumental in supporting a follow-up fellowship
+extension on performance of virtual machines with Intel and Mozilla Foundation (HAMLET  Tratt,
+EPSRC, £923K). UoA11 leads a network to improve the state of the art in model-driven software
+engineering with the Institute of Coding (MDE-Net  Zschaler, EPSRC, £463K). Oracle funding
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+supports the development of Greenfoot and BlueJ object-oriented programming environments
+used by millions of learners (Kölling, Oracle, £737K).
+In the area of Security, funded projects have focused on system security, secure AI and online
+threats to individuals. Under the ACE-CSR umbrella, illustrative projects include: an investigation of
+the modularity of virtual machines to improve security, with ARM and Shopify (CapableVMs 
+Tratt, EPSRC, £837K); the use of machine learning to detect malware on mobile devices with
+McAfee Labs (MobSec  Cavallaro, EPSRC, £243K); and a study of attacks and protection of AI
+assistants with Microsoft, Humley, Hospify and Mycroft (new project SAIS  Such, EPSRC,
+£1,155K). Finally, REPHRAIN (Such, EPSRC, £618K) addresses tensions and imbalances
+between benefits of the digital economy and the potential for harm through loss of privacy,
+insecurity, and disinformation, with over 20 private and public partners.
+Projects in Foundations of Computing have focused on algorithmic foundations, distributed ledgers
+and computational models, and include development of algorithmic techniques for distributed
+graph processes (EP/M005038/1  Cooper, EPSRC, £312K), design of trusted and transparent
+voting systems using ledger technologies (VOLT  McBurney, EPSRC, £374K), and design of
+novel algorithms for sequencing of molecular data and other big-data challenges (Iliopoulos,
+Royal Society, £198K).
+In the area of Web computing, funded projects have focused on citizen science and data-driven
+innovation. ACTION (Simperl, EU, £420K) led by King’s with 10 partners develops a participatory
+science toolkit against pollution. MediaFutures (Simperl, EU, £249K) builds on a long-established
+collaboration with the Open Data Institute’s “Data-as-Culture” programme and addresses the
+responsible and innovative use of the Web, while EUhubs4data (Simperl, EU, £170K) investigates
+techniques to federate the data services of 12 hubs and 60 SMEs in Europe.
+Funded Telecommunications projects have focused on fundamentals and applications of 5G.
+Besides the world-first 5G testbed discussed in Section 1.2 (5GUK  Dohler, DCMS, £3M), other
+projects focus on designing advanced physical and upper layer techniques (SOLDER  Aghvami,
+EU, £320K), 5G applications to the automotive sector (5GCAR  Mahmoodi, EU, £392K),
+sustainable energy (VirtuWind  Mahmoodi, EU, £432K) and immersive video services for mobile
+objects (PriMO-5G  Mahmoodi, EU, £278K).
+In the area of Robotics, funded research has focused on manipulation, mechanism, control and
+planning, and included projects on control strategies for manufacturing processes (Q-PreMan 
+Dai, EPSRC, £312K), robotic mechanisms for innovative rehabilitation methods with AiTreat and
+DIH Technologies (REST  Dai, EPSRC, £413K), and integration of machine learning and
+automated planning for robot navigation (SQUIRREL  Dai, EU, £1,079K).
+Funding and collaboration from industry. UoA11 has secured research funding directly from
+industry, totalling £2.0M, and provided by: BT, Nominet UK, Ericsson, Bosch, Oracle, Vodafone,
+Cisco and BAE Systems. The unit has also secured two InnovateUK projects with industry (£83K).
+Further support from industry has come via collaborations within projects funded by UKRI, UK
+government bodies or the EU, with over 100 industry and public sector partners.
+UoA11 has actively supported part-time or secondment work in industry as a mechanism to
+forge deeper collaborative links and potentially strong research impact. In 2016, Fox and Long
+joined Schlumberger to oversee deployment of automated planning technology developed at
+King’s, which resulted in ICS1. McBurney was Head of Technology Consulting at the Norton Rose
+Fulbright law firm in 2018-2020, advising on AI technologies for the legal sector. Magazzeni, on
+leave of absence during 2020-2021, is Executive Director at J.P. Morgan (JPM) AI Research,
+exploring opportunities for impact in finance from his research on automated planning and
+strengthening the partnership between JPM and the unit, including JPM staff delivering talks to the
+unit’s PhD students, and one PhD student selected as a 2021 JPM PhD Fellow.
+While academics individually maintain portfolios of external collaborators, UoA11 is also supported
+by NMES roles of Vice-Dean for Enterprise and Engagement, programme manager for industry
+partnerships and manager for industry internships.
+
+
+
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+3.2 Infrastructure and facilities
+Institutional Provision. Since 2013, NMES has contributed to core research computing
+infrastructure – Rosalind – provided by King’s IT. This comprehensive research platform includes:
+a High Performance Computing (HPC) cluster, a private cloud for flexible, scalable development
+environments, and very large, highly resilient storage for long term curation of research data.
+To expand, modernise and increase flexibility of this platform, King’s has recently created a new
+university-wide e-Research function, underpinned by an investment of £800K for a research data
+storage platform and £1M for hardware refresh of Rosalind, and two new leadership roles, with
+more engineering and support posts to follow in 2021. UoA11 plays an important role in advising
+King’s IT on various aspects such as security (Such) and HPC (Rodrigues).
+King’s library services have been evolving to focus on providing comprehensive and easy online
+access to varied resources. All researchers have access to a broad range of journals and
+bibliographic services, including electronic access to all major resources particularly relevant for
+UoA11 (ACM, LNCS, IEEE, Science Direct). This access has been crucial during the pandemic.
+Local provision. UoA11 benefits from the Rosalind HPC cluster for research on image
+processing, systems security, NLP and AI technologies, allowing convenient integration of
+dedicated computing hardware within a larger infrastructure. The facilities are advertised to new
+starters through their offer letter, and routinely accessed by UoA11 researchers and PhD students.
+New starters with specialised computing needs but without their own research funding yet, are
+supported by further investment in a UoA11-dedicated facility with a mix of CPUs and GPUs, also
+complemented by Cloud access for peak usage.
+Resource sharing. The NMES Computing Support Team consists of 12 staff supporting research
+50% of their time. Placing the core computing infrastructure and IT support at the faculty level
+provides efficiency and flexibility. NMES increasingly operates multi-purpose laboratories wherever
+possible, for instance in the £45M Strand investment for Engineering, and encourages the sharing
+of resources as it promotes collaboration. This is routine for robotic-related research and 3-D
+printing. Likewise, the recent £40M Nvidia Cambridge-1 supercomputer is being used as a further
+mechanism for collaboration with the health faculties. Beyond King’s, examples of resource sharing
+include STAI CDT students having access to HPC facilities at King’s and Imperial, the UK-TAS-
+Hub deploying a cloud-based infrastructure to manage its research programmes across the UK,
+and system security researchers sharing computing resources between King’s and Royal
+Holloway.
+Bush House. As mentioned in Section 1, DoI moved in 2017 to Bush House (BH) – a complex of
+three Grade-II-listed buildings at Aldwych, London, which was acquired by King’s in 2015,
+substantially enlarging the historic Strand campus. Researchers and PhD students occupy large
+open-plan areas, typically co-located by research group. Dedicated social spaces were a key factor
+in bringing the department together, facilitating interactions between staff and students. Sharing
+the central BH building with the Business School and Entrepreneurship Institute helped with
+starting new multidisciplinary collaborations.
+To reflect the changing nature of its research with a large influx of new staff, UoA11 is setting up
+experimental spaces, allowing HCC researchers to conduct user studies, CYS researchers to
+safely experiment with malware detection and RAP researchers to investigate robot planning. With
+an investment of £100K, two rooms have been designed as multi-purpose facilities (to encourage
+cross-fertilisation between groups) including workstations to program robots such as the HSR
+Robot donated by Toyota, sensors to detect movement of users and devices, and visualisation
+equipment. (Work on the conversion of this space was postponed as premises were not accessible
+during the pandemic.) CUSP London space in BH was equipped with a visualisation suite which
+has been used to visualise data in collaboration with London partners.
+Specialised facilities. To support the Systems Security Research Lab, an investment of £200K, in
+the form of start-up grants, provided high-specification hardware (3 nodes x 2 CPUs x 26 cores,
+>100Tb storage) for program analysis using machine learning. To allow CTR to demonstrate 5G
+technology capabilities, an integrated system-level testbed platform was supported by institutional
+investment of £250K. Dedicated server room space was upgraded with installation of 5G and 4G
+
+                                                                                              Page 16
+Unit-level environment template (REF5b)
+Core networks servers, with a new cabling network in the Strand campus for an indoor testbed
+comprising Ericsson Radio Dots, and installation of outdoor antennas mounted using a new mast
+on the roof.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+4.1 Collaboration through Research hubs
+UoA11 comprises 5 research hubs, led by Hub Champions, two of whom are women. Hubs are
+intended to be agile, being terminated as activities dwindle, or spawned as new themes arise.
+Hubs were set up to promote thematic collaborations, and the Hub Champion Group provides
+lightweight coordination and oversight. Hubs’ actual organisation is left to their members, in order
+to encourage bottom-up initiatives and a sense of belonging. Thus, hubs have evolved in distinct
+ways, seizing opportunities in their respective area, as shown next.
+The Finance hub (Champion: Ventre) is at the intersection of finance and computation, a sector
+colloquially known as FinTech. The hub has established collaborations with the Department of
+Mathematics and King’s Business School, and also with key financial institutions, including the
+Financial Conduct Authority. It has a strong presence in the UK-TAS-Hub.
+The Health hub (Champions: Curcin, Tsoka) bridges UoA11 activities with those in King’s health
+faculties (Curcin is in the King’s School of Population Health and co-author of ICS2), as well the
+Francis Crick Institute and Health Data Research UK London. Of note, the King’s DRIVE-Health
+CDT (Co-Director: Curcin) was launched in 2020 with a first student supervised in UoA11 (Miles,
+Zschaler).
+The Security hub (Champion: Such) co-ordinates researchers from across the unit around
+security, with a focus on information and cybersecurity. In collaboration with King’s War Studies
+and Defence Studies departments, the hub led the successful EPSRC and NCSC ACE-CSR
+accreditation which facilitates engagement with external stakeholders, including government
+organisations, research funding agencies, and industry.
+The Urban Living hub (Champion: Borgo) is strategically aligned with CUSP London (see
+Section 4.3) and has developed partnerships with public and private stakeholders in London,
+including the Greater London Authority, London Ambulance Service, Transport for London and
+Westminster City Council.
+The Trusted Autonomous Systems hub (Champions: Andrew Coles, Magazzeni) has actively
+pursued major funding opportunities in this area, securing the UKRI STAI CDT and involvement in
+UK-TAS-Hub and the TAS Governance node. These bring together a pool of researchers, PhD
+students and many governmental and industry partners sharing interests in systems with
+autonomous behaviour.
+
+4.2 Multi-disciplinary Collaboration
+In addition to hub-driven collaborations, UoA11 takes advantage of King’s status as a partner in the
+Francis Crick Institute for Biomedical Research to create new opportunities for impactful
+research. Bentley, placed at the Crick for 2018-2022, leads research on computational biology
+(Crick investment of £2M) and builds collaborative bridges between UoA11 and the Crick. The first
+success here is a collaboration with Zschaler on domain-specific formal languages for cellular
+modelling, which contributed to the MDE-net (see Section 3) with the Crick as a network partner.
+Two UoA11 staff spent year-long study leave at the Crick to expand their multidisciplinary research
+(Steinhöfel, Tsoka).
+The university-wide King’s Together (KT) scheme supports the development of innovative multi-
+disciplinary collaborations. This key component of the King’s Research Strategy provides ‘seed
+awards’ (up to £20K) for adventurous initiatives, and ‘substantial awards’ (up to £100K) for
+innovative research in strategic areas with clear impact potential.
+Since the KT launch in 2016, UoA11 staff have been Co-PIs in 12 KT projects (approximately
+£300K: 11 seed awards, and 1 substantial award as junior partner). The unit’s Co-PIs included 4
+women and 2 ECLs. A KT project “Remote sensing and machine learning to detect global dams
+                                                                                             Page 17
+Unit-level environment template (REF5b)
+and associated reservoirs” (Shi) is a collaboration with the Department of Geography, which led to
+subsequent external funding (RESET, CoI: Shi, EU, £670K). “Establishing an interdisciplinary
+computing education research institute” (Kölling) helped initiate such an institute, promoting the
+unit’s research on pre-university computing education, funded by Oracle. “Improving hospital
+patient flow through performance modelling and agent-based simulation” (Zschaler, Miles), a
+collaboration with St-Thomas Hospital, has led to a studentship award. “Towards a King’s institute
+for artificial intelligence” (Luck) surveys King’s AI landscape, precursor of a planned AI Institute
+(see Section 1.7).
+
+4.3 Contribution to Economy and Society
+CUSP London is a research centre (Director: Miles) formed in 2015 in alignment with King’s
+London strategy as a joint initiative from King’s College London and the University of Warwick
+under franchise from CUSP at New York University. CUSP London at King’s consists of 16
+members from Informatics, Geography, Environmental Sciences and IOPPN (8 of whom are
+submitted in UoA11). It has developed a collaborative network with businesses, local authorities
+and government agencies to apply urban informatics and improve public health and wellbeing.
+Building on CUSP-led training, high profile hackathons (e.g., with the London Ambulance Service),
+MSc and PhD students projects, and tackling real city problems, CUSP has established itself as an
+authoritative source of advice and policy guidance, as illustrated by advice provided by UoA11 staff
+to the Greater London Authority’s City Data Analytics Board (Miles), Westminster City Council
+Parenting Strategy (Slovak), the Police and Crime Plan of the London Mayor’s Office Advisory
+Group (Miles), and Westminster and Kensington & Chelsea Councils’ data sharing (Simperl).
+Collaboration with Ericsson aims to improve quality of life and work in society. Ericsson has
+provided £100K p.a. to support UoA11 5G research spanning many fields including medicine,
+education, gaming and culture. Projects within the Tactile Internet Laboratory include the potential
+for remote superior-precision medical interventions. With the City of London, the world's first 5G
+connected theatre performance was hosted in June 2018. Musicians from the Guildhall School of
+Music and Drama performed in the old Roman Amphitheatre in tandem with pianist and UoA11
+professor (Dohler) who was physically located in Berlin. The collaboration led to significant media
+coverage, which Ericsson estimated as equivalent to marketing spend of approximately £120M
+(see ICS4).
+UoA11 contributed to articles and global-media programmes for a general audience, explaining
+topical science and research issues. Abdul-Rahman, Cavallaro, Dai and Yannakoudakis
+contributed to articles in Guardian, Daily Mail and New Scientist, while Dai, Dohler, Mahmoodi,
+Miles and Sastry were interviewed for BBC programmes. Modgil contributed to a Guardian
+podcast panel discussion on AI ethics and McBurney authored a series of articles on blockchain
+and cryptocurrencies for Accounting and Business Magazine.
+Opened in 2018, Science Gallery London connects art, science and health. Black advised for the
+2020 season on AI, ethics and health, while Such collaborated on AI gender bias. Likewise, Borgo
+sits on the advisory board for National Gallery X, a National Gallery organisation set out to create
+new technology-based museum experiences.
+UoA11 has contributed to the Royal Society scheme, Rapid Assistance in Modelling the Pandemic
+(RAMP), part of the national COVID-19 response. As part of the Scottish COVID-19 Response
+Consortium (SCRC), Borgo and Abdul-Rahman worked on a generic visualisation toolbox for
+addressing the need for rapid observation of huge amounts of data.
+Contributions from UoA11 staff to economy and society include the following engagements in
+advisory groups for public and private institutions.
+Aghvami: Expert Advisory Group for EU NetWorld-2020, Advisory Board of Advanced Wireless
+Technology Group. Borgo: roundtables for the All-Party Parliamentary Groups on AI and Data
+Analytics. Dohler: Cambridge Wireless Advisory Board 2018-2019, Ofcom Advisory Board.
+Kölling: Board of Computing in Schools, BCS Academy of Computing. Luck: Scientiﬁc Advisory
+Board at ContactEngine, scientiﬁc advisor to the Board of Aerogility Ltd. McBurney: Academic
+Advisory Council of Financial Conduct Authority. Miles: City Data Analytics Board, Greater London
+
+
+                                                                                            Page 18
+Unit-level environment template (REF5b)
+Authority. Simperl: scientific advisor for the European Data Spaces initiative and European Data
+Portal.
+International Partnerships
+The unit is involved in a significant number of EU projects, and in particular is leading ACTION, a
+consortium of 10 partners concerned with crowdsourcing techniques (Simperl). The unit is also
+active in the PLuS Alliance, a strategic partnership of King’s, Arizona State University and the
+University of New South Wales to tackle global challenges. One example of funded PLuS Alliance
+collaboration is a project on risk management for natural disasters such bush fires and flooding
+(Steinhöfel, Vigano). UoA11 has further strengthened international connections by hosting in
+2014-2020 almost 200 visitors, 70% of whom were international.
+
+4.4 Contribution to and recognition by the research base
+UoA11 academics actively contribute to the wider scientific community by reviewing grant
+proposals submitted to various funding organisations, holding editorial roles for many scientific
+journals, organising conferences and other major scientific meetings, and playing leading roles in
+international scientific associations and frameworks. Such leading roles include membership of the
+EPSRC Strategic Advisory Team (Dohler) and membership of the REF2021 Sub-panel 11
+(Fernandez). The table below summarises contributions to key activities.
+
+                        Journal editorial boards                    > 30
+                        Chairing conferences                        > 40
+                        Conference committees/organisation          > 600
+                        Best paper awards                           > 23
+                        Keynotes at conferences                     > 100
+
+                   Table 4. UoA11 indicators of wider influence and recognition.
+Journal editorship
+UoA11 staff are on the Editorial Boards of more than 30 international journals, including the
+following leading editorial roles.
+Chockler: Editor-in-Chief, IET Software Journal. Dohler: Editor-in-Chief, Transactions on
+Emerging Telecommunications Technologies; Editor-in-Chief, EAI Transactions on Internet of
+Things. Luck: Co-Editor-in-Chief, Journal of Autonomous Agents and Multi-Agent Systems.
+Mahmoodi: Executive Editor, Transactions on Emerging Telecommunications Technologies.
+McBurney: Co-Editor-in-Chief, Knowledge Engineering Review. Rodrigues: Executive Editor,
+Journal of Logic and Computation. Simperl: Co-Editor-in-Chief, Human Computation Journal;
+Managing Editor, International Journal on Semantic Web and Information Systems. Tratt: Editor-
+in-Chief, Journal of Object Technology (until 2016).
+Leading roles at major international conferences
+UoA11 staff have been involved in more than 600 programme, organising or steering committees
+of international conferences and workshops, including chairing the following conferences.
+Borgo: CGVC 2014, 2015. Cavallaro: ACM EuroSec 2020. Chockler: CAV 2018. Coles: ICAPS
+2016. Criado: EUMAS 2016. Dohler: IEEE WCNC 2018 and WiMob 2015 Fernandez: CSL 2020.
+Kurucz: AiML 2014. Mahmoodi: Network of the Future 2017. Modgil: COMMA 2018. Simperl:
+ODBASE 2018, ISWC 2016. Tratt: DLS 2014. Urban: ITP 2015. Vigano: POST 2016.
+UoA11 staff delivered more than 100 invited talks at international conferences and workshops,
+including the following major conferences.
+Aghvami: IEEE ISCC 2015, ICETE 2016. Dohler: IEEE IPCCC 2019, ICASSP 2019, PIMRC
+2018. Fernandez: CiE 2014. Kölling: Koli Calling 2018, ISSEP 2014. Kurucz: TALC 2019. Long:
+ICAPS 2019. Luck: AAMAS 2014, ICAIL 2015. Moreau: WEBIST 2020. Simperl: ODBASE 2019;
+EC 2015 Innovate, Connect, Transform. Ventre: ADT 2017.
+
+
+                                                                                           Page 19
+Unit-level environment template (REF5b)
+Leading roles in international scientific associations
+Black: Secretary of Board of Directors European Association for Multi-Agent Systems
+(EURAMAS). Criado, Modgil: Chair of Board of Directors EURAMAS (at different times).
+Fernandez: Executive Board member of the European Association for Computer Science Logic,
+General Secretary of the Board of the European Association for Programming Languages and
+Systems. Dohler: IEEE Communications Society’s ‘Strategic Planning’ and ‘Emerging
+Technologies’ Committees. Kölling: Committee on European Computing Education. Simperl:
+IEEE Special Technical Community on Human Computation. Yannakoudakis: Association for
+Computational Linguistics SIG on Building Educational Applications.
+Major honours and research distinction
+UoA11 staff have been recognised for their world-leading research contributions. Prominent
+examples include:
+Dai: 2015 ASME Mechanisms and Robotics Award (for lifelong contribution); 2020 ASME award in
+Machine Design. Fernandez: 2020 IEEE BigDataSecurity Award (for outstanding and sustained
+research contributions for over 10 years). Kölling: inaugural ACM-SIGCSE ‘Test of Time’ award.
+Simperl: in 2020 AMiner top 100 most influential scholars in knowledge engineering and in the
+2020 AMiner ‘Women in AI’ list.
+The unit includes fellows of major professional organisations and learned societies. RAEng:
+Aghvami, Dohler; IEEE: Aghvami, Dai, Dohler, IET: Aghvami, Dohler, Moreau; BCS: Kölling,
+Luck, Moreau, Simperl; IMechE: Dai; ASME: Dai; RSA: Dai, Dohler, McBurney; ATI:
+Simperl (2018-20); EurAI: Luck.
+Best paper awards
+UoA11staff were awarded at least 23 best paper awards, including the following. Abdul-Rahman:
+Vannevar Bush award JCDL 2017. Dai: IEEE ICAR 2018; Mechanism and Machine Theory 2018
+Crossley Award. Dohler: IEEE Globecom 2014. Iliopoulos: SPIRE 2018. Modgil: AIJ 2014
+Prominent Paper Award. Slovak: CHI 2017; CSCW 2018. Such: 2016 ACM Annual Best of
+Computing. Suarez: ACM Internet Measurement Conference 2018. Urban: Thoralf Skolem (ten-
+year test-of-time) award at CADE 2015. Zschaler: ICGT 2020.
+
+
+
+
+                                                                                      Page 20
+

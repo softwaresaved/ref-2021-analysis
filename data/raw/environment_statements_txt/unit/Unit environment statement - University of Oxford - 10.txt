@@ -1,0 +1,1840 @@
+Unit-level environment template (REF5b)
+
+ Institution: University of Oxford
+
+ Unit of Assessment: UoA10: Mathematical Sciences
+ 1. Unit context and structure, research, and impact strategy
+
+ Context:
+ The University of Oxford has one of the largest and most diverse cohorts of mathematical
+ scientists in the world. This UoA comprises the Mathematical Institute (MI) and the Department
+ of Statistics, which sit within the Mathematical, Physical, and Life Sciences Division (MPLS),
+ housing 175 Cat A Faculty and Research Fellows, 85 postdoctoral research assistants (PDRAs),
+ and 367 postgraduate research students (PGRs). Our physical infrastructure boasts generous
+ visitor space (almost 1,500 visits of a week or more in period), events facilities (over 25,000
+ participants in 2019 alone), and carefully configured interaction space, all of which play a key
+ role in attracting researchers at every career stage to come and work in Oxford.
+
+ Vision:
+ Our vision is to be a world-leading centre for mathematical sciences, with a diverse and dynamic
+ research portfolio, generating lasting impact both within and outwith academia. We strive to
+ recruit the very best researchers, regardless of origin or background, and promote an inclusive
+ culture in which they can thrive. The breadth and depth of our research enables an agile
+ response to challenges, and underpins the world-class training delivered to our postgraduate
+ research community.
+
+ Since REF 2014, the University has continued to prioritise investment in the mathematical
+ sciences. This includes:
+    •   Capital investment: £7.2M to renovate the St Giles Building, a four-minute walk from the
+        MI’s Andrew Wiles Building, creating a new home for Statistics enabling co-location of all
+        its researchers for the first time.
+    •   Investment in people: Appointment of 16 Statutory and Research Professors and a
+        further 34 permanent appointments, resulting in an increase of 22 ‘tenured’ staff since
+        REF 2014; and a total of 40 Hooke, Titchmarsh, and Florence Nightingale Research
+        Fellows (eight last time), and a five-year Sylvester Fellow.
+    •   Investment in national infrastructure: Joining the Alan Turing Institute (the Turing) as
+        a founder partner, catalysing new research and accelerating the impact of our
+        burgeoning activities in data science.
+
+ Research Groups:
+ Our research is loosely organised around a set of interconnected groups and centres: Algebra;
+ Combinatorics; Computational Statistics & Machine Learning (CSML); Data Science;
+ Econometrics; Functional Analysis; Geometry; History of Mathematics; Logic; Mathematical &
+ Computational Finance; Mathematical Physics; Number Theory; Numerical Analysis; the Oxford
+ Centre for Industrial & Applied Mathematics (OCIAM); the Oxford Centre for Nonlinear Partial
+ Differential Equations (OxPDE); Oxford Protein Informatics Group (OPIG); Probability; Statistical
+ Genetics & Epidemiology; Stochastic Analysis; Topology; and the Wolfson Centre for
+ Mathematical Biology (WCMB).
+
+ Development and implementation of strategy:
+ Our research committees develop a research vision and a strategy for enacting it. They
+ proactively seek out emerging areas and opportunities within and beyond the discipline.
+ Additional input comes from our External Advisory Panels (EAPs) and the Scientific Boards of
+ our six MScs and the seven CDTs which we lead, or in which we are partners. We believe that
+ interactions beyond academia enrich the mathematical sciences, and that research from right
+ across our portfolio has potential for impact. We aim to maintain breadth, target investment
+ where we see emerging synergies, and maintain the flexibility to respond to the unforeseen
+ developments intrinsic to research. The close working relationship between the two departments
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+ ensures agile and coherent responses to opportunities, as illustrated by developments in Data
+ Science.
+
+ 1.1. RESEARCH STRATEGY: REF2014 TO REF2021 AND FUTURE PLANS
+
+ •   In 2014, we anticipated appointing eight statutory chairs in this period and supporting them
+     through faculty appointments and targeted use of our fellowships.
+
+ We appointed eight statutory chairs: Cont, (Christl) Donnelly CBE FRS FMedSci, Doucet,
+ Holmes (to a new joint Chair with the Nuffield Department of Medicine), Hrushovski FRS, Kirwan
+ DBE FRS, Keating FRS, and Rousseau. We promoted four existing faculty to personal research
+ chairs (Alday, Deane, Reinert, Teh), and appointed four additional research chairs (Brown,
+ Markovic FRS, Maynard, Windmeijer). In 2016 we were awarded a Regius Professorship in
+ Mathematics, to which we appointed Wiles KBE FRS.
+
+ Details of other faculty appointments are presented by research theme below.
+
+ We expanded the Hooke and Titchmarsh Fellowships programme and created the Florence
+ Nightingale Bicentennial (FN) Fellowships (a total of 40 Fellows in period).
+
+ •   We highlighted our commitment to interdisciplinary work, predicting an expansion in energy
+     and with life sciences and the pharmaceutical industry. We anticipated significant growth in
+     big data and new collaborations with Computer Science.
+
+ Interdisciplinary work has burgeoned; 113 researchers in our submission produced an output
+ with a co-author from outside mathematical sciences in the period (64 last time).
+
+ Work on energy expanded from seven to 14 faculty, and ranges from generation to energy
+ markets. Our battery group plays a key role in the £11.5M Faraday Institution multiscale
+ modelling project (eight academic and 15 non-academic partners).
+
+ Collaborations with the life sciences are found across the UoA, with 57 of our Cat A staff writing
+ papers at the life sciences interface in the period, and we appointed two software engineers to
+ accelerate the impact of our work in the pharmaceutical industry.
+
+ Our first steps towards establishing a presence in data science, taken in the last REF period,
+ have accelerated massively with mathematical aspects of data science now forming a major part
+ of our activity. This benefits hugely from our involvement in the Turing. Grindrod was on the
+ Board of Trustees, Tanner is Oxford academic lead, Tillmann chaired the Programme
+ Committee, and Holmes is Programme Director for Health and Medical Sciences. Cartis is
+ Theme Lead in Optimisation for Machine Learning (ML), and Cohen for ML in Finance.
+ Cucuringu and Nanda, originally Turing Research Fellows, are now faculty. A further 14 faculty
+ across seven research groups have received support. The Turing funds nine of our PGRs; four
+ more are part of the enrichment programme.
+
+ Within Oxford, the Big Data Institute (BDI) opened in 2017; Donnelly and Holmes are affiliates. It
+ hosts the CDT in Health Data Science, in which we are partners.
+
+ Investment across the University has transformed the landscape in ML. Seven new permanent
+ faculty in CSML are supported by three FN Fellows. We partner with Oxford Engineering
+ Science and Computer Science as a unit of ELLIS, a grassroots ML initiative spanning 14
+ countries; 12 of our faculty are involved.
+
+ In a new collaboration with Computer Science and Physics, a £935k EPSRC grant supports a
+ centre for Quantum Mechanics and Computation, and we spun out PQShield, in post-quantum
+ cryptography, which has £5.5M in seed funding and 15 employees.
+
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ •        We planned new international alliances (Section 4.1); to further enhance graduate training
+          (Sections 1.2 and 2.2); and to capitalise on our new buildings to extend public engagement
+          with research (PER) and outreach (Sections 1.2 and 4.4), and to exploit the opportunities
+          provided by the move to Oxford of the Clay Mathematics Institute (CMI).
+
+ Bridson succeeded N Woodhouse as CMI President. We hosted four CMI-LMS Summer
+ Schools and (throughout the period) the annual Clay Research Conference (six Fields Medallists
+ spoke in 2018 alone). Maynard and Walsh held their Clay Research Fellowships, and
+ Voevodsky his Clay Senior Scholarship, in Oxford.
+
+ Future strategy:
+ Our highest priorities are to foster absolute excellence in research, to recruit and retain the best
+ researchers, and to provide them with an environment in which they can thrive. We will maintain
+ our investment in fundamental research across the spectrum of the mathematical sciences,
+ while driving forward interdisciplinary initiatives, and providing the culture and structures that
+ enable researchers to realise the impact of their work both within and beyond academia.
+
+ Appointments to the Rouse Ball Chair in Mathematical Physics (replacing Candelas) and the
+ chair of Pure Mathematics (replacing Heath-Brown) are underway, and we will support them with
+ targeted appointments.
+
+ The challenges presented by data science have catalysed exciting new collaborations across
+ our research themes. With significant renewal expected over the next decade (see the graph
+ below) – including the Regius Chair, the Wallis Chair (replacing Lyons), chairs in Mathematical
+ Biology, Numerical Analysis, and Statistical Science, and a planned new chair in Probability
+ Theory – we have a significant opportunity to recruit and support research leaders to drive
+ forwards a strategy for deep fundamental mathematics in symbiosis with applied areas.
+
+
+                              Cat A Staff Profile REF 2014 and REF 2021
+     70
+
+     60
+
+     50
+
+     40
+
+     30
+
+     20
+
+     10
+
+     0
+                25-34          35-44          45-54           55-64         65+            N/K
+
+                                               REF 2014   REF 2021
+
+
+ Our PGRs and Research Fellows are fundamental both to the vitality of our own research and to
+ the health of the discipline. In order to be able to support the very best PGRs, irrespective of
+ nationality, we shall continue to prioritise studentships in our fundraising, while maintaining our
+ investment in fellowships. Building on the success of initiatives started in this period, we will
+ provide a suite of bespoke career development and skills training for our Early Career
+ Researchers (ECRs) and PGRs.
+
+ We will continue to play a leading role in the Turing, and plan an expansion of our longstanding
+ relationship with GCHQ/the Heilbronn Institute for Mathematical Research (HIMR). Building on
+
+                                                                                                 Page 3
+Unit-level environment template (REF5b)
+ our approach in statistical genomics, we will explore secondments/joint appointments with
+ Oxford’s Medical Sciences Division (MSD) to cement emerging new connections with the
+ medical and life sciences.
+
+ We will make strategic investments to support our researchers in securing a diverse portfolio of
+ funding and sustaining engagement with industry.
+
+ Inevitably we will need to take stock post-COVID. During lockdown, online tools presented new
+ ways of working. We sustained (and grew) our international networks, and our rapid response to
+ the call for assistance in tackling the pandemic stimulated entirely new research directions. We
+ will endeavour to preserve the positive developments, and to support those researchers now
+ wishing to refocus their research programmes.
+
+ As always, we shall be opportunistic, nurturing excellence wherever we find it, and encouraging
+ broad and outward-facing research agendas.
+
+ Research themes:
+ Groups are gathered into seven themes. Cat A staff are only listed against their primary group
+ (new permanent staff in italics; Research Fellows and fixed-term appointments in square
+ brackets). Many staff belong to more than one research group.
+
+ Opportunities identified for individual research themes in 2014 are mapped onto our current
+ taxonomy.
+
+ Theme 1
+
+ Algebra: Ardakov, Ciubotaru, du Sautoy, Kremnitzer, McGerty, [Mason-Brown], Nikolov,
+ [Romano], Rössler, [Wade]
+
+ Geometry: [Bischoff], Dancer, [Gallauer], [Haiden], Joyce, Kirwan, Lotay, [Prince], Ritter,
+ Szendrői
+
+ Topology: [Barbensi], [Brantner], Bridson, Douglas, Drutu, Henriques, [Hume], Juhász, Kielak,
+ Lackenby, Markovic, Nanda, Papazoglou, Tillmann, [D Woodhouse], [Yazdi]
+
+ Mathematical Physics: Alday, Beem, Candelas, [Closset], de la Ossa, Keating, [Keir], [Kim],
+ Mason, [Panzer], Schafer-Nameki, Sparks
+
+ We anticipated new collaborations right along the interface with physics, from string theory to
+ discrete random structures.
+
+ Ever closer cooperation with Oxford Physics (including a new joint MSc) is reinforced by Beem
+ and Schafer-Nameki, who were central to a successful joint bid to STFC for partial support of
+ nine Faculty (five from the MI) and four postdocs. Keating provides a bridge to number theory
+ and probability.
+
+ We undertook to review algebra.
+
+ Based on the group’s demographic profile, we prioritised appointing outstanding researchers
+ early in their careers. To build links across the theme, we appointed Ciubotaru (algebra), Rössler
+ (arithmetic algebraic geometry) and Kielak (geometric group theory).
+
+ Other developments: Led by Tillmann, supported by the appointments of Harrington and Seigal
+ (data science) and Nanda, and with a newly established EPSRC-funded Centre, we have been
+ setting the agenda in topological data analysis (TDA); e.g. one 2017 paper has over 15,000
+ downloads. Lotay and Markovic bridge geometry, topology, analysis, and OxPDE.
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ Future plans: Under the successive leadership of Penrose and Candelas our mathematical
+ physics group has had dramatic impact on physics as well as mathematics, and our first priority
+ is to support the new Rouse Ball Chair. We anticipate significant activity in applied algebra,
+ geometry, and topology as our ECRs capitalise on the deep fundamental expertise of our most
+ senior researchers.
+
+ Theme 2
+
+ Number Theory: Brown, [Dogra], Flynn, Green, [Lang], Lauder, Maynard, [Pratt], Sanders,
+ [Teravainen], Wiles
+
+ Logic: Hamkins (Department of Philosophy, submitted to UoA10), Hrushovski, Koenigsmann,
+ Pila
+
+ Combinatorics: Balister, Keevash, Riordan, Scott
+
+ We anticipated new directions to result from filling the Chair of Mathematical Logic.
+
+ Hrushovski brings a broad and creative vision in model theory, while strengthening ties with
+ combinatorics.
+
+ Other developments: Balister further strengthens combinatorics and probability, while linking to
+ analysis. Hamkins brings expertise in set theory. Brown reinforces links with mathematical
+ physics, and Maynard applies formidable insight and technique in tackling longstanding
+ questions about prime numbers.
+
+ Future plans: We anticipate a growth in joint activities across the combinatorics and probability
+ groups. In number theory, we will target recruitment, e.g. seeking expertise in the Langlands
+ programme.
+
+ Theme 3
+
+ OCIAM: Breward, Chapman, [Dalwadi], Dellar, [Forrow], Fowler, Goriely, Griffiths, [Haas],
+ [Hennessy], Hewitt, Howell, Howison, [Moore], Moroz, Münch, Oliver, Please, [Subramanian],
+ Vella, Waters
+
+ Numerical Analysis: Cartis, Farrell, Giles, Hauser, Nakatsukasa, Süli, Trefethen, [Urzua-
+ Torres], Wathen
+
+ WCMB: Baker, Byrne, Erban, Gaffney, [Krause], Maini, Moulton, [Thompson]
+
+ We aimed to further broaden engagement with industry, build long-term partnerships with large
+ corporations, support our optimisation team in building up a cadre of PDRAs, and expand
+ applications to biology, medicine, and geoscience.
+
+ Our step-change in industrial activity, broadened to involve over 90 companies (Section 3), led
+ us to increase capacity by appointing Griffiths. We have developed long-term partnerships with
+ large corporations, including a £5.1M grant with Emirates. The MI optimisation team (led by
+ Cartis and Hauser) is now complemented by Rebeschini in CSML. They co-supervise
+ PGRs/PDRAs with organisations from Culham Centre for Fusion Energy (CCFE) to Adaptix Ltd,
+ medical imaging specialists. The WCMB has broadened its focus to include immunology,
+ integrated data-centric approaches into traditional areas, and developed significant new links
+ with companies ranging from AstraZeneca to Roche. We have grown the International Brain
+ Mechanics and Trauma Lab, a multidisciplinary initiative now involving 27 institutions. In
+ geoscience, Giles’ work on groundwater contamination from nuclear waste repositories reflects
+ the substantial increase in stochastic modelling across the theme.
+
+
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+ Other developments: Farrell and Nakatsukasa reinforce strengths in numerical solution of
+ PDEs and numerical linear algebra.
+
+ Future plans: We aim to maintain our collaborations with industry (by diversifying underpinning
+ funding sources), further develop interdisciplinary activities, enhance connections across the
+ theme (e.g. in homogenisation), and capitalise on synergies arising from appointments in
+ OxPDE and data science.
+
+ Theme 4
+
+ Functional Analysis: Batty, White
+
+ OxPDE: Carrillo, Chen, [Fehrman], Kristensen, Mondino, Nguyen, Rupflin, [Sbierski], Q Wang
+
+ We identified the opportunity to exploit fresh perspectives brought by our new appointments and
+ broaden OxPDE’s national role.
+
+ The 64 PGRs in the OxPDE CDT address the pressing need for broadly-trained researchers in
+ PDEs. They have undertaken projects across the UoA, in Oxford Computer Science,
+ Engineering, and Physics; and with 15 academic and non-academic partners outside Oxford.
+
+ Other developments: Rupflin brings expertise in geometric analysis. White (operator algebras)
+ and Mondino (optimal transport) create new synergies across our groups in topology, functional
+ analysis, and geometry. To maintain leadership following the retirement of Ball, we appointed
+ Carrillo (formerly a Chair at Imperial), strengthening links to WCMB and numerical analysis.
+
+ Future plans: OxPDE will actively seek out new ventures with numerical analysis, stochastic
+ analysis, and WCMB, dovetailing with broader initiatives in the mathematical foundations of data
+ science.
+
+ Theme 5
+
+ Stochastic Analysis: Belyaev, Hambly, Lyons, Oberhauser, Qian, [W Xu]
+
+ Probability: Berestycki, [Caraceni], Etheridge, Goldschmidt, Martin, Reinert, Steinsaltz, Winkel,
+ [Yeo]
+
+ Mathematical and Computational Finance: [Ananova], Cartea, Cohen, Cont, Jin, Kramkov,
+ Monoyios, Obloj, Reisinger, Sirignano, [R Xu]
+
+ We anticipated developing novel applications of sophisticated mathematical techniques, e.g. the
+ mathematics of ML via rough path theory.
+
+ The success of rough path methods in data science has exceeded all expectations, with Lyons’
+ team driving forward applications of signature methods from mental health to Chinese
+ handwriting recognition. Oberhauser’s work connects signature methods with TDA, creating a
+ new bridge to topology.
+
+ Other developments: Cont brings expertise in pathwise methods in stochastic analysis,
+ systemic risk, and complex networks, and many external collaborations. Combined with
+ Cucuringu and Windmeijer, this creates a new arc spanning econometrics and data science.
+ Sirignano builds research in data-driven modelling, and Berestycki reinforces links with OxPDE.
+
+ Future plans: We will capitalise on Cont’s arrival, and the role of stochastic analysis as a portal
+ to data science, to broaden applications and grow our engagement with industry. We will further
+ explore other interfaces, e.g. with the algorithms group in Computer Science.
+
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ Theme 6
+
+ Statistical Genetics and Epidemiology: Davies, C Donnelly, Hein, Myers, Palamara
+
+ OPIG: Deane, Morris, [Nissley]
+
+ We said we would cement our relationship with the Wellcome Trust Centre for Human Genetics
+ (WTCHG) through (joint) appointments in statistical genomics.
+
+ Myers has a 50% secondment to the WTCHG, and new appointees Davies and Palamara are
+ group leaders.
+
+ Other developments: The BDI provides an invaluable facility for this theme. Donnelly
+ establishes statistical epidemiology, strengthening links to MSD as theme lead for Emerging
+ Threats in the NIHR-funded Health Protection Research Unit. Protein informatics welcomes
+ Morris (from industry), whose research naturally links to CSML.
+
+ Future plans: We will support Donnelly in building epidemiology in Oxford, and explore
+ opportunities created by her arrival, for example in genetic epidemiology. We will seek ways to
+ expand OPIG, while ensuring synergies with other groups.
+
+ Theme 7
+
+ CSML: Caron, Cucuringu, Deligiannidis, Doucet, Evans, Holmes, [Mena], Nicholls, [Rainforth],
+ Rebeschini, Rousseau, Sejdinovic, Teh, [Yang]
+
+ Data Science: [Arora], Farmer, Grindrod, Harrington, [Lafond], Lambiotte, [Seigal], Tanner, [N
+ Wang]
+
+ We expected to grow core research in computational statistics, scalable methods, and statistical
+ ML.
+
+ Growth from five to 11 faculty in CSML underlines the importance of ML to our strategy. The
+ appointments of Rousseau, Caron (previously Marie-Curie Fellow), Cucuringu, Deligiannidis and
+ Evans (both previously on temporary contracts), Rebeschini, and Sejdinovic reinforce our
+ strength in both theoretical underpinnings and developing applications.
+
+ Other developments: The MI data science group, formally constituted in 2018 to help develop a
+ coherent strategy across the UoA, incorporates 20 faculty with research interests including
+ foundations of algorithms (including deep learning), optimisation, networks, and TDA, with
+ applications from medical imaging to finance. Lambiotte renews interdisciplinary work on
+ complex networks.
+
+ Future plans: We will build on recent growth by expanding our cadre of Fellows. Information
+ Sciences is a strategic priority for the University, with exciting plans for a new building. Working
+ with colleagues across the University, we will expand research and training, and grow further
+ relationships with industry.
+
+ Other groups
+
+ In History of Mathematics, Hollings’ research on Ada Lovelace underpins a Case Study.
+ Windmeijer seeds a group in Econometrics, with interests in causal inference (dovetailing with
+ Evans and Holmes) and reaching into ML and epidemiology. We will support him in forging new
+ connections with the Social Sciences Division.
+
+
+
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ 1.2. IMPACT STRATEGY
+
+ Impact stems from research spanning our entire portfolio and maintaining research strength right
+ across the mathematical sciences is central to our strategy. Our approach is to (i) cultivate an
+ environment conducive to realising impact, (ii) develop relationships with external organisations,
+ and (iii) stimulate an ambitious programme of PER activities. We encourage serendipitous
+ interactions and, above all, we remain flexible and responsive to opportunities.
+
+ We are supported by the MPLS Industrial Research Partnerships Team (IRPT), and, where
+ appropriate, we commercialise our research with the help of Oxford University Innovation (OUI).
+
+ (i) Cultivating an environment conducive to realising impact
+ Impact is particularly championed by Breward, Deane, Griffiths (OUI Innovation Champion),
+ Grindrod, Morris, Please, and Sejdinovic, but 63 submitted staff have written an output with a
+ non-academic co-author in period (31 last time). Staff are supported as they gain experience
+ (Section 2.1). The dramatic growth in our industrial activity (Section 3) has also been supported
+ by our Industry Facilitator (appointed in 2014), our Research Software Engineers (appointed
+ 2016, 2018, and 2020), and our Industry Ambassador (appointed from industry in 2019).
+ Interaction with external users is integral to our day-to-day activities, from developing and
+ delivering training to fortnightly industrial and interdisciplinary workshops.
+
+ All seven CDTs in which we are closely involved have non-academic partners who contribute to
+ course design and delivery and provide research challenges. The renewal of the Systems
+ Approaches to Biomedical Sciences (SABS) CDT (in 2014, and in 2019 as SABS:R3), and the
+ establishment of the Industrially Focused Mathematical Modelling (InFoMM) CDT in 2014 and
+ the Random Systems and StatML CDTs (in 2019) have been particularly important. For
+ example, InFoMM’s company partners have delivered 153 training days. Each student (68 in
+ period) undertakes two 10-week projects on focused company challenges; for at least one they
+ are embedded at a company premises for at least 80% of the time. For 14 established faculty
+ and 13 ECRs, InFoMM has provided their first experience of supervising a project with a
+ company, so this has created an entirely new cohort of academics with experience of working
+ with industry. Significant industrial funds and local resource have been invested to recruit an
+ additional cohort of InFoMM students. The SABS CDT (46 students in UoA in period, each with
+ an industrial co-supervisor), operates under its pioneering open innovation model: a signed
+ agreement guarantees that students, academics, and industrialists talk openly to one another
+ about their work in the CDT, even permitting students to work for more than one partner.
+
+ (ii) Developing and maintaining relationships with external organisations
+ Engagements with policymakers reflect both targeted approaches and our extensive networks.
+ In 2017, we sought advice from the MI EAP (including representatives from the Home Office and
+ GCHQ) on developing channels to Government for seeking, offering, and receiving advice. In
+ 2020, Claire Craig, formerly Director of the Government Office for Science, joined the Statistics
+ EAP. Government agencies (e.g. CCFE, NPL) are strategic partners in our CDTs. Faculty serve
+ on Science Advisory Councils for Government departments and repeatedly interact with
+ Government Chief Scientific Advisors, MPs, and Peers through their work for research councils
+ and learned societies. We use our influence to shape wider appreciation of mathematics and its
+ use in industry, society, and government.
+
+ Relationships with external organisations often begin with personal or institutional contacts,
+ referral by colleagues or partners (e.g. Iontas introduced us to Agenus Bio and Teva Biologics),
+ or through Oxford University Statistical Consulting (OUSC). We hold industrial events in Oxford
+ and at local Science Parks. Potential industrial collaborators are invited to scoping workshops
+ (93 events in period). Whatever the pathway (e.g. consultancy or sponsorship of MSc, doctoral,
+ or PDRA projects), we seek to sustain and broaden relationships. For example, OPIG’s
+ relationship with UCB developed from an initial collaborative discussion around membrane
+ proteins to a large body of work in immunoinformatics, linked to multiple company groups. UCB
+
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ has sponsored or co-sponsored 16 PGRs and had linked projects with four PDRAs in period.
+ Three OPIG members have gone on to work at UCB. The company provides financial support,
+ access to datasets, experimental validation of work, and inspiration for new research ideas.
+
+ Strategic single-company investments funding large multi-year projects can take research from
+ inception to impact. For example, building on a relationship initiated through the OxWaSP CDT,
+ jointly with the BDI, Statistics has entered into a five-year project with Novartis (c.$3M per
+ annum to Oxford). Drawing on clinical expertise within Novartis, our researchers will develop
+ innovative IT and AI technology to combine anonymised imaging, genomic, and biological data
+ from approximately five million patients with anonymised data from Novartis clinical trials, to
+ predict patient response to existing and new medicines.
+
+ Maintaining relationships with (multiple) companies requires significant effort, so academics are
+ supported. For example, our Industry Facilitator has been fundamental to sustaining InFoMM’s
+ partnerships.
+
+ The EPSRC Impact Acceleration Account (IAA) is a valuable tool, with ten projects in period
+ totalling £357k (and two analogous awards from ESRC and Wellcome). In 2016, IAA funding
+ pump-primed a new mechanism through which 17 companies (from major players like Roche to
+ start-ups like Tikcro) have engaged our Research Software Engineers to support deployment,
+ maintenance, and integration of OPIG’s software to in-house systems, and its development to
+ meet company needs.
+
+ (iii) Stimulating public engagement with research
+ Catalysed by our new buildings, PER activities have been taken to a new level. We have raised
+ their profile within the Departments, increased support to remove barriers to participation, and
+ embraced social media to extend the reach of our activities.
+
+ Initiatives have been championed by Goriely (Director of External Relations and PER), Cohen
+ (PER Champion), and du Sautoy (Professor of the Public Understanding of Science), and
+ supported by an External Relations Manager, PER leader, Outreach Events Coordinator, and
+ Events Officer. The Whitehead Lecturership was established in 2014 to expand academic
+ leadership in outreach and establish the CMI PROMYS Europe Summer Schools. We use the
+ interplay between mathematical research and music and art to draw in broader audiences. The
+ Oxford Mathematics YouTube Channel (210,000 subscribers) features a mix of Public Lectures,
+ research films, and undergraduate lectures. Twitter and Facebook channels (21,000 and 10,000
+ followers) are complemented by an Instagram page. We also engage with University initiatives;
+ e.g. creating an “Oxford Sparks” animation explaining ML, and developing a virtual reality exhibit
+ for the Ashmolean Museum. Crucially, our PER showcases the full breadth of our research. For
+ example, when Keevash’s work on combinatorial designs resolved a 150-year-old mathematical
+ conundrum, it featured in Wired.com and Quanta magazine. (Also see Section 4.4).
+
+ Our strategy of using social media meant that we were well placed when, in March 2020, we
+ moved all PER activities online. We chose to balance presenting work at the forefront of
+ understanding and modelling the crisis, with a clear message that all our work is important (and
+ continues). The audience for our first online Public Lecture topped 80,000.
+
+ Relationship to case studies
+ Our Rolls-Royce, Adjoints, Glass, and classified cases reflect our commitment to sustained
+ relationships with research users. The Filtration case demonstrates our use of personal
+ networks, scoping workshops. and study groups; and, through Griffiths, the pathway from PDRA
+ to impact champion. The Chinese handwriting recognition case reflects our 2014 research
+ strategy and engagement with the Turing. The reach and significance of our Antibodies case is
+ supported by our Research Software Engineers, and our Ada Lovelace case reflects our
+ ambition in reaching diverse audiences. Billmonitor, which arose from a serendipitous interaction
+ in the last REF period, has turned its sights to new markets in this one, and our COVID case
+ illustrates our researchers’ agile response.
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+ Future strategy
+ The central importance of mathematical sciences, combined with the Government’s “2.4%
+ agenda”, will lead to an unprecedented demand for postgraduate students trained to tackle
+ industrial and societal challenges. We will work with non-academic partners to design and
+ deliver a broad menu of collaborative training, from traditional industrial mathematics to
+ emerging areas like applied algebra and geometry, producing a pipeline of students and
+ supervisors comfortable moving between academic and non-academic environments.
+
+ Building on the successful approaches of InFoMM, we will make strategic investments to
+ maintain our current levels of engagement with industry.
+
+ We will exploit our involvement in the Turing, the Faraday Institution, and other networks to
+ develop impact in areas such as energy, emerging infectious disease, and health data science.
+
+ Recognising the value of embedding staff within companies, we anticipate further part-time
+ appointments/secondments. Equally, we will host more non-academic visitors in Oxford.
+
+ In an age of information and misinformation, we see PER as crucially important. Learning from
+ our experiences during the pandemic, we will enrich our online offering with more interactive
+ content, even as we look forward to welcoming the public back into our buildings.
+
+ 1.3. INTERDISCIPLINARITY
+
+ The vitality of research across the UoA is sustained by interactions with disciplines spanning
+ physical, biological and social science, medicine, and the humanities. During the period our
+ submitted researchers have collaborated with 30 other departments within Oxford alone; 65%
+ have a co-author in another academic area, and around 30% of our PGRs had a co-supervisor
+ outside the mathematical sciences. Interdisciplinary work is often intertwined with impact: 55% of
+ our researchers with a co-author outside mathematical sciences had a co-author outside
+ academia.
+
+ Our strategy is to (i) harness opportunities from participation in both national initiatives and
+ multidisciplinary centres in Oxford, (ii) create local networks, and (iii) support and scale up
+ successful interdisciplinary collaborations.
+
+ Within Oxford we are involved in numerous multidisciplinary initiatives including the BDI, the
+ WTCHG, the Oxford Martin School, and the Oxford Networks for the Environment. Oxford
+ colleges are intrinsically multidisciplinary and serendipitous mealtime conversations have grown
+ into numerous projects from historical linguistics to using plant radionucleotide analysis to
+ understand prehistoric farming methods.
+
+ Networks bring lasting benefits. For example, Morris’ Comp Chem Kitchen brings together
+ ‘molecular geeks and hackers’ to listen to industrial speakers, and share best practice, code
+ snippets, and software tools. Internal seed-funding has catalysed the newly-established
+ Probability for Machine Learning and Oxford Materials Design networks.
+
+ Initiatives that begin in Oxford are nurtured from their inception. For example, £20k seed funding
+ to Baker, Byrne, and Waters launched the QBIOX (Quantitative Biology Oxford) network. A
+ series of colloquia and sandpits established strong academic and non-academic collaborations
+ and links to the BBSRC/EPSRC/MRC UK Regenerative Medicine Platform. Through an EPSRC
+ Discipline Hopping award, Waters spent time embedded in the cell and tissue engineering group
+ of El Haj (now Birmingham). The activities resulted in a position paper, joint PGRs between
+ MPLS and MSD, and interdisciplinary grants, including Waters’ Oxford-led £609k MRC grant
+ with El Haj’s lab.
+
+
+
+
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+ 1.4. OPEN RESEARCH AND RESPONSIBLE RESEARCH AND INNOVATION
+
+ In our UoA, open research has three main elements: publications, data, and software.
+
+ Publications: All authors must deposit author accepted manuscripts in the Oxford Research
+ Archive (ORA); a software tool monitors academics’ publications and issues monthly alerts if
+ they have failed to do so. We make extensive use of preprint repositories, with 80% of our
+ submitted outputs on ArXiv alone.
+
+ Data: We believe strongly in making our research data available so that others can compare
+ their findings with our own. Researchers are encouraged to upload data to ORA alongside
+ publications. Where possible, a permanent DOI is used. Although biomedical data that we use is
+ (necessarily) largely confidential, we make extensive use of the open access UK Biobank, and
+ actively help others to interpret analyses; e.g. the website http://big.stats.ox.ac.uk supports
+ interpretation of genome-wide association studies results for brain imaging phenotypes.
+
+ Software: Our sustained commitment to open-source software is exemplified by Ripley’s
+ contribution to the R-project (from 2014-19, as measured by subversion commits, he was the
+ biggest contributor). Much of our research software is open source, including Farrell’s dolfin-
+ adjoint for adjoint PDE calculations, which won the 2015 J.H. Wilkinson Prize; Trefethen’s
+ chebfun, a MATLAB package for extremely accurate computations in 1D and 2D; and Davies’
+ genotype imputation software, STITCH (over 7,700 downloads since 2016).
+
+ Our OPIG software engineers are pioneering a model which simultaneously achieves the ideal
+ of fully open software while sustaining a revenue stream that directly benefits University
+ research.
+
+ Research integrity, and responsible research and innovation
+ Explicit consideration of responsible research and innovation is integral to our practices. For
+ PGRs, the University’s compulsory online research integrity training is supplemented by training
+ tailored to each programme; e.g. a session on industrial ethics for InFoMM. The ‘R3’ in SABS:R3
+ stands for Responsible and Reproducible Research; best practice in sustainable and
+ reproducible research is woven into all the training, and Ethics in Statistics is explicitly
+ addressed.
+
+ More widely, Grindrod established a corporate network, Professionalising Data Science, which
+ meets quarterly, and produces white papers and discussion papers. The 19 corporate members
+ range from BT to Unilever.
+
+ 2. People
+
+ Our greatest asset is the people who study and work in the UoA. We promote a supportive and
+ inclusive culture in which everyone can thrive, irrespective of their origin or background. We
+ recognise and reward contributions to all aspects of our mission, without giving the impression
+ that everyone will, or is expected to, excel at everything. This was especially important in 2020
+ when we wished to celebrate our researchers’ work on COVID-19, without compounding any
+ feelings of guilt of those unable to contribute to that research effort.
+
+ Alongside our independent Fellows, we employed 300 PDRAs over the period (with 85 in post in
+ July 2020, compared to 53 in Autumn 2013), and we enthusiastically embrace the Concordat to
+ support the career development of researchers. We supplement MPLS/University activities in
+ support of its implementation, as described across the sections below.
+
+
+
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+ 2.1. STAFF
+
+ Staffing and recruitment
+ We aim to recruit, motivate, and retain academics who will contribute at the highest level. Our
+ staffing strategy dovetails with our research strategy. Before making appointments, we consider
+ the demographic profile and succession planning in our research themes.
+
+ Of our 50 faculty appointments, 16 came directly from institutions overseas, including Harvard
+ and Yale. Nine progressed from early-career positions in Oxford, and we support those making
+ this transition; e.g. Cohen, a College Research Fellow when he arrived from Australia, was a
+ Department Lecturer (DL), mentored by Howison, before becoming an Associate Professor in
+ 2016. Of the 28 permanent academics who left in period (including three who came and left), 13
+ retired, 12 took up senior academic posts elsewhere (including named Chairs in Columbia and
+ Yale), and three moved to industry.
+
+ To ensure a thriving community of Research Fellows, expanding our Hooke and Titchmarsh
+ Fellowship scheme has been a strategic priority. Competition is intense (e.g. 274 applicants for
+ two Titchmarsh Fellowships in November 2019). One ex-Fellow is a mathematical consultant; all
+ others are pursuing academic careers, from Assistant Professors in Warwick and Milan to a
+ Royal Society URF (in Oxford). The scheme is mirrored by the FN Fellowships, and
+ supplemented by MPLS Glasstone Fellowships (four hosted in period), College Research
+ Fellowships (24 in period), and our (five-year) Sylvester Fellowship.
+
+ To address specific needs created by research buyouts and workload relief, we appoint fixed-
+ term DLs, career development positions with a reduced teaching load and the opportunity to co-
+ supervise PGRs. DLs in period have gone on to tenure-track positions in Australia, Germany,
+ Switzerland, and the UK.
+
+ Staff development strategy
+ Our overarching aim is to nurture and support all staff, regardless of career stage. All new staff
+ have mentors, offering confidential guidance and support. As a minimum, regular (informal)
+ meetings are held throughout probation (throughout the appointment if fixed term). A
+ comprehensive induction programme covers teaching, research, and applying for grants.
+ Faculty have a five-year probation. A mandatory review after two years is supplemented with
+ annual progress reviews with the Head of Department (HoD). During probation, staff have
+ reduced teaching, examining, and administrative loads.
+
+ Beyond probation, uptake of appraisals was historically very low. In 2016, Statistics rebranded
+ the annual meeting and uptake is now around 80%. The meeting provides an opportunity for
+ reflection, and discussion of how the department can support work/life balance (especially
+ important for those with extensive commitments outside the department). The MI’s previous
+ scheme is being replaced with biennial career development discussions.
+
+ Extensive training is available through the University’s Centre for Teaching and Learning.
+ Locally, we run sessions (compulsory for ECRs/PGRs) tailored to class teaching in the
+ mathematical sciences. During the COVID pandemic, we developed training to demonstrate a
+ variety of technical solutions and approaches to online presentations and discussions.
+
+ As part of succession planning, seven senior faculty have undertaken the University’s Heads of
+ Department Development Programme, and faculty have benefitted from Oxford’s Academic
+ Leadership Development programme. We also commission bespoke, in-person sessions (e.g.
+ Bystander Training and Supporting Postgraduate Students) to encourage informal discussion.
+ When taking on new roles, staff are reminded of training, good practice, and where to get help.
+
+ Key to researcher development is building professional networks. All staff have travel funds,
+ averaging around £2.5k per annum. Research incentive schemes provide additional funds to be
+
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ spent for the benefit of research groups; e.g. in Statistics, personal research accounts are
+ annually credited £600 per PGR and £1k per PDRA supervised. New faculty receive start-up
+ funds (£3k for our Fellows). In order to ensure inability to travel doesn’t impact on collaborations,
+ a further fund supports visits to Oxford. Competitively awarded Visiting Professorships support
+ longer visits; for example, McCullagh (Chicago) was 2015/16 George Eastman Professor, and
+ Gabai (Princeton) was Senior Research Visitor at Keble (Autumn 2019).
+
+ Policy for leave
+ Academic staff (including fixed-term or part-time) are entitled to (and encouraged to take) one
+ fully-funded term of sabbatical leave for every six terms worked. In this period, 79 faculty
+ members have collectively taken 170 terms of leave (with similar levels of uptake for men and
+ women).
+
+ We are responsive to changing needs as staff progress through their careers, alerting and
+ supporting them when opportunities arise. Additional workload relief, to offset particularly heavy
+ commitments elsewhere, is at the discretion of the HoD. For example, Etheridge has been
+ relieved of teaching while she serves on EPSRC Council.
+
+ Supporting and integrating those at the beginning of their careers
+ Recognising the continuum of experience between PGRs and established academics, activities
+ for PGRs and ECRs are open to all, including those on external fellowships (e.g. NSF postdocs,
+ Section 3.1), who also receive support from our ECR advisors.
+
+ Our ECRs, including 45 independent Research Fellows and 85 PDRAs in July 2020, are central
+ to the vitality of the UoA. ECR representatives sit on almost all department committees and
+ ‘Voice Reps’ represent the UoA at the Oxford Research Staff Society.
+
+ The newly-established Associate Head for Career Development manages Hooke and
+ Titchmarsh Fellows; the HoD manages FN Fellows. All ECRs have mentors. Three senior
+ academics are ECR Advisors: reporting to our Equality, Diversity and Inclusion (ED&I)
+ committees, they ensure that we fulfil our responsibilities under the Concordat. Each ECR meets
+ an Advisor on arrival, who checks they have good academic contacts and are aware of support,
+ helps identify a mentor, and explains annual career development reviews. Researchers are
+ signposted to the huge range of development opportunities.
+
+ The PI (for grant-funded positions) or another senior academic supports those on fixed-term
+ contracts through probation, helping set, monitor, and review objectives at the beginning, middle,
+ and end of the period.
+
+ Numerous events are organised by ECRs for ECRs. Bi-termly colloquia, each with two ECR
+ speakers, are part of the Fridays@4 project (Section 2.2), and Statistics ECRs run ‘the Network’;
+ e.g. in Autumn 2019 arranging sessions: The Advanced Research Computer (by a FN Fellow),
+ Grants and Fellowships (Research Facilitator), and Implementation of the New Concordat
+ (MPLS Researcher Training and Development Manager).
+
+ To broaden their experience, PDRAs give undergraduate classes and present at reading groups
+ and seminars, whereas Research Fellows might deliver a lecture course and co-supervise
+ PGRs.
+
+ ECRs are encouraged to write fellowship and grant applications. Research Facilitation teams
+ and senior colleagues support project planning, review the proposal and response to referees,
+ and organise mock interviews. Applying to the University’s John Fell Fund (JFF) develops grant
+ writing and management skills: nine ECRs won JFF grants totalling £218k in this period.
+
+ Support from the Careers Service is supplemented by a local programme of practice interviews
+ for academic and non-academic jobs, and annual careers events with alumni panels leading
+ discussion. A panellist from the 2020 online event praised us as ‘trailblazers’.
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+
+ COVID brought considerable challenges for our ECRs. We offered flexible end-dates to five in-
+ post Hooke and Titchmarsh Fellows facing uncertainty and significant delays in moving to new
+ academic positions abroad.
+
+ Stimulating and facilitating exchange with business, industry, and third sector bodies
+ We have three mechanisms for embedding those with experience outside academia in our
+ departments: (i) faculty recruitment (20 current faculty, ten appointed in period, have spent part
+ of their career outside academia); (ii) part-time appointments, enabling faculty to spend part of
+ their time in industry (e.g. Doucet and Teh at DeepMind), and industrial colleagues to work part-
+ time with us (e.g. through Royal Society Industrial Fellowships); (iii) visiting lecturerships/
+ fellowships for industrial partners making substantial contributions to our activities (around 20 in
+ post in 2020). The Chief Technical Officer of the mathematical consultancy the Smith Institute is
+ a member of the MI.
+
+ All academic and research staff may undertake up to 30 days paid consultancy work. In addition
+ to those arranged independently by staff, OUI has supported 118 consultancy agreements for
+ our staff in period (54 last time), not including those for OUSC or our software engineers.
+
+ Almost a quarter of the 614 PGRs in period have worked with a company as a formal part of
+ their training. We also support those wishing to pause their studies for internships (41 in period).
+ We use the IAA to co-fund secondments to user organisations; e.g. embedding a PDRA in
+ dunnhumby to apply her work on community detection to their business.
+
+ We encourage careers straddling academia and industry. For example, Gyurko (a PGR and then
+ Research Fellow, now at Citi) is an Alan Tayler Visiting Lecturer, regularly teaching for our MSc
+ in Mathematical and Computational Finance. Davies, previously a PGR at the BDI, worked for
+ Genomics PLC and the Toronto Hospital for Sick Children before joining Statistics.
+
+ Recognising, rewarding, and supporting staff in achieving research and impact
+ The main route to promotion in Oxford is through Recognition of Distinction (RoD), an annual
+ gathered-field exercise through which faculty apply for the title of full professor. Those with the
+ title can apply for Professorial Merit Awards in a biennial University-wide gathered-field.
+ Personal research chairs provide the mechanism for opportunistic recruitment/retention of
+ research leaders.
+
+ The MPLS review and reappointment procedures are explicit: ‘Research’ is to be understood as
+ original investigation undertaken to gain knowledge and understanding, including work of direct
+ relevance to the needs of commerce and industry, as well as to the public and voluntary sectors.
+ We include impactful activities in workload considerations and dedicated support relieves
+ administrative burdens such as contractual issues. Our OUI Innovation Champions provide initial
+ advice (including identifying OUI contacts) and experienced faculty mentors ensure that those
+ new to impact activities are not overwhelmed.
+
+ External Relations and Outreach teams have largely removed barriers to undertaking PER; in
+ period, 59 submitted researchers have been involved, 16 in delivering our Public Lectures.
+ We celebrate impact with news stories on our websites and in weekly bulletins and we are
+ proactive in nominating staff (including ECRs and professional services staff (PSS)) for MPLS
+ Impact Awards: Griffiths, Krawczyk (software engineer), and O’Kiely (PDRA) won awards for
+ non-commercial and commercial impact; Grady (PSS), Martin (Emeritus), and Rogers (now at
+ PHASTAR) for Outreach and PER. Griffiths received a Vice-Chancellor’s Innovation Award for
+ his work on mitigating arsenic mass poisoning.
+
+
+
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+ 2.2. POSTGRADUATE RESEARCH STUDENTS
+
+ We admitted 614 students (249 home, 183 EEA, 182 non-EEA) in period, including 82 who
+ transferred in (after Year 1) from interdisciplinary programmes (mostly CDTs) administered
+ elsewhere in Oxford.
+
+ Approach to recruitment
+ We aim to recruit those PGRs with the greatest potential for research, irrespective of origin or
+ background. We advertise widely, using social media to broaden our reach. Applications per
+ place have risen from six in 2013 to ten in 2019. We try to ensure that no offer-holder is
+ prevented from accepting by financial considerations. In 2013, 43 of the 76 PGRs joining us
+ (54%) were fully funded by Oxford-administered funds (including UKRI/industry funds awarded
+ to Oxford); by 2019 this had risen to 79 of 92 (86%).
+
+ Oxford’s highly-competitive Rhodes Scholarships (12 in period, including scholars from West
+ Africa, Zambia, and Hong Kong) and Clarendon Scholarships (46) are supplemented by
+ department-funded scholarships. In 2019, Oxford funds supported 23 full and seven partial
+ studentships (up from nine full and four partial awards in 2013). Students not in receipt of
+ Oxford-administered funds often receive bursaries from overseas governments or charities (e.g.
+ from Canada, China, Norway, Spain, and Switzerland in 2019). Graduate bursaries remain our
+ top fundraising priority.
+
+ Research placements help undergraduates make informed decisions about postgraduate study.
+ Since 2015, we have hosted an average of over 25 students each summer, funded by EPSRC,
+ the LMS, Wellcome, industry, and Oxford sources. Additionally, the UNIQ+ Programme,
+ originally an initiative of SABS:R3, enables UK undergraduates from areas and groups that
+ traditionally have low progression into postgraduate study to experience six weeks as a research
+ student (with free accommodation and a £2,500 stipend). Before attending UNIQ+, 64% of the
+ 2019 cohort (33 students) were considering postgraduate study, 36% were not. After attending,
+ 89% planned to apply, 11% were undecided. Of the eight 2019 students hosted in the UoA,
+ three are now postgraduate students in Oxford.
+
+ Studentships from major funding bodies
+ The quality of our graduate training is reflected in the external funds that we attract to support
+ our PGRs. There are five CDTs within the UoA: InFoMM, OxWaSP (with Warwick), and OxPDE
+ started in 2014; Random Systems and StatML (both with Imperial) started in 2019. This
+ represents UKRI investment in Oxford of £17.4M plus substantial direct industrial support (e.g.
+ over £3M secured by InFoMM). We are partners in the SABS(:R3) and Health Data Science
+ CDTs. Over 40% of PGRs in period have come through a CDT.
+
+ Of the 484 fully-funded PGRs in period, 245 were fully and 51 partially funded by EPSRC DTP
+ and CDTs. A further 45 were primarily funded by industry. There were three BBSRC, one CRUK,
+ two NERC, and two UKRI NPIF doctoral training awards; seven EPSRC, two BBSRC, and one
+ MRC iCASE. Nine PGRs were supported by Turing studentships, and 12 received ERC funding.
+
+ Integration, supervision, monitoring, and support
+ Once the offer is accepted, each PGR is assigned a current PGR ‘buddy’ as a point of contact
+ for practical questions. In 2020, groups wrapped offer-holders into online activities, from virtual
+ board games and pizza nights to reading groups and ‘watching groups’ for online lectures.
+
+ Induction days outline events, facilities, support, and opportunities to contribute, including
+ speaking at Open Days and organising social events. All PGRs have a second supervisor and a
+ College Advisor. Concerns can also be raised with the Directors of Graduate Studies. Graduate
+ liaison committees discuss postgraduate provision and PGR representatives sit on most other
+ department committees.
+
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+ PGRs are embedded within research groups in dedicated offices next door to faculty. Co-
+ location of researchers at all levels, an open door policy, daily coffee, and weekly social events
+ ensure that they are integrated both academically and socially.
+
+ Alongside quarterly written self-evaluations and supervisor reports (evaluated by Directors of
+ Graduate Studies, CDT Directors (where appropriate), and College Advisors), a series of
+ milestones mark progression through the doctorate. At the outset, PGRs and their supervisors
+ agree a programme of broadening training. After at most four terms of research PGRs must
+ transfer status. They submit a dissertation (25-50 pages) and a record of training. An oral
+ examination with two academics (neither being the supervisor) comprises a presentation by the
+ student and discussion of skills training, the dissertation, and future research. Before the end of
+ year three, PGRs confirm status. Another oral examination discusses submitted material (thesis
+ table of contents, sample chapters, and a timetable for completion) and training/support needs,
+ paving the way for successful submission.
+
+ Training, skills development, and preparation for future careers
+ A broad appreciation of the mathematical sciences (and beyond) is a central (and mandatory)
+ part of our PGR training. In addition to the training that is integrated into the first year of our
+ CDTs, there are well over 100 Masters-level and 40 third-year undergraduate lecture courses
+ available – complemented by around 20 courses in the Taught Course Centre (TCC) with Bath,
+ Bristol, Imperial, and Warwick; and four week-long residential courses from the Academy for
+ Postgraduate Training in Statistics (APTS). An average of 777 seminars per year across the
+ UoA is supplemented by graduate lectures, reading groups, and PGR/ECR seminars. Travel
+ funds are available to support attendance at residential graduate schools and conferences.
+
+ Of the PGRs enrolled in July 2020, 37 (including 22 SABS students) joined us after a year of
+ broad interdisciplinary training on programmes ranging from the EPSRC Cyber Security CDT to
+ the NERC Environmental Research DTP.
+
+ All PGRs undertake mentored teaching to hone skills in organising and presenting information,
+ and in gauging an audience. Starting with marking, and presentation of material under the
+ guidance of an experienced tutor, this builds to leading classes of 10-12 students.
+
+ The MPLS Graduate School offers comprehensive training starting with Making the most of
+ Oxford and Managing your Supervisor, through Time Management and Scientific Writing, to Viva
+ Preparation. Popular courses include Public Engagement and Making an Impact. The
+ Enterprising Women lunchtime talk attracted 20 participants from the UoA in 2018/19.
+
+ Our CDTs provide bespoke skills training. For example, InFoMM’s training day Asking the Right
+ Questions, delivered by Tessella, precedes the UK graduate modelling camp,
+
+ We support and encourage PGR participation in activities like STEM for Britain, 3 Minute Thesis,
+ and Soapbox Science. In 2016, we launched Oxford Maths Ambassadors, providing training and
+ regular PER and outreach opportunities. Volunteers assist with activities from writing blogs to
+ the Oxford Mathematics Escape Room (delivered by 15 PGRs).
+
+ Weekly Fridays@4 events – designed to help integrate PGRs, develop study skills, and enhance
+ long-term career development – began in 2015. Past events include Careers beyond academia,
+ Applying for EPSRC Fellowships (with an EPSRC Mathematical Sciences portfolio manager),
+ and Dealing with journals. In the 2018 MI survey, 69% of PGRs reported attending many or all of
+ these events. This initiative resulted in MPLS Teaching Awards for Cohen, Griffiths, and Kirwan.
+
+ Whilst 92% of PGRs who began their courses in 2010-13 successfully graduated, only 72%
+ completed within four years. With closer monitoring, and initiatives like Fridays@4, 86% of those
+ starting in 2014-15 completed within four years.
+
+
+
+                                                                                              Page 16
+Unit-level environment template (REF5b)
+ The quality of our training is reflected in the success of our PGRs. They go on to varied careers,
+ the most popular being academia (55%) or the technology (13%) and finance (12%) sectors.
+ Notable prizes include: IMA Lighthill-Thwaites Prize (O’Kiely 2017, Butler 2019); Gold Award in
+ Mathematical Sciences at STEM for Britain (Grogan 2017, Kiradjiev 2019); IMA Leslie Fox Prize
+ (Smears, Townsend 2015); Bar-Ilan Young Researcher Prize in Financial Mathematics (Sojmark
+ 2018); G-Research 1st Prize (Mariapragassam 2017, Wechsung 2018); Lee Segel Prize (Taylor-
+ King 2017); and the Gioacchine Lapichinio Prize of the Italian National Academy (de Filippos
+ 2020).
+
+ 2.3. EQUALITY, DIVERSITY, INCLUSION AND WELLBEING
+
+ Our pursuit of excellence is underpinned by commitment to equality of opportunity. Of our 175
+ Cat A researchers, 55% are non-UK nationals, representing 34 different nationalities; 17% are
+ women (14% last time), rising to 23% of ECRs. We have seven female Statutory and Research
+ Professors (two in 2014); four are FRS, with two elected in the period. In July 2020, 22% of
+ PDRAs (15% in 2013) and 23% of PGRs are female. 12% of Cat A researchers identify as
+ BAME (68% white, 20% undeclared). These numbers are too crude a way to measure
+ inequality, and we are very aware that there are further inequalities, particularly within the BAME
+ categorisation. Global events in June 2020 challenged us to recognise and address the
+ disadvantages and systemic racism faced by minority members of our own community, and we
+ created Race Equality Action Plans which will define our response in the next period.
+
+ For each permanent post a search panel explicitly considers diversity. All three female Statutory
+ Professors appointed in period applied after being approached by search panels. Combined with
+ two new female Research Professors (via promotions), this has transformed the gender profile
+ of our most senior faculty.
+
+ We advertise vacancies across a wide range of networks and media, highlighting options for
+ part-time/flexible working, and monitor how applicants hear of posts. The European Women in
+ Mathematics network seems especially effective. Unconscious bias training is recommended for
+ all members of selection panels (mandatory for panel chairs). A new dedicated Recruitment Co-
+ ordinator focuses on the quality of information provided to applicants and engages with them
+ throughout.
+
+ We are proactive in reaching out to underrepresented regions. For example, Szendrői’s work on
+ research development in Africa led to the recruitment of our first sub-Saharan African PGR and
+ visits (from a few days to a month) by eight African scientists in period.
+
+ Many of our retired faculty remain actively engaged in academic activities and they have office
+ space, access to facilities, secretarial support, and small research allowances.
+
+ Our ED&I Committees (membership includes faculty, ECRs, PGRs, and PSS) meet twice termly.
+ One member from each sits on the MPLS ED&I steering group. They drive our Athena SWAN
+ agenda (MI Silver Award 2016; Statistics Bronze 2014, 2017) and ED&I and wellbeing activities,
+ with particular emphasis on career development of underrepresented groups. Their budgets
+ contributed almost £100k to initiatives this period, including weekly Mathematrix events
+ (discussing challenges in academic life and being a minority in the mathematical sciences
+ community), and Mirzakhani Society events (providing a focus for women and non-binary
+ students). Senior female faculty have a twice-termly catch-up.
+
+ Diverse role models for staff with protected characteristics are highly visible in everyday life in
+ the UoA. For example, in 2016, Kirwan received the Suffrage Science award, and Bruna (now
+ Cambridge) won the Women of the Future Science Award and a L’Oréal UK and Ireland
+ Fellowship for Women in Science; the prize money funded flexible childcare and a workshop.
+ Female faculty host a welcome lunch for new ECRs/PGRs. Both departments have active
+ LGBT+ role models (trained through Stonewall) and publicity material and displays are vetted for
+ unintended messages. Seminar/event organisers are asked to consider diversity. The
+
+                                                                                             Page 17
+Unit-level environment template (REF5b)
+ percentage of female seminar speakers rose from 13% in 2013 to 23% in the first half of 2020. A
+ Distinguished Speaker Seminar is being named to create an annual event in honour of an
+ African-American statistician; it will coincide with Black History Month. We hosted the 2016
+ BAMC (over 375 participants) with 3/8 female plenary speakers.
+
+ Our new buildings invite ambitious events. During the LMS 150th Anniversary celebrations, an
+ expanded version of the Society’s Women in Mathematics Day brought 230 mathematical
+ scientists and 430 school students and teachers to Oxford; this is now the annual event It All
+ Adds Up. In 2020, the annual Florence Nightingale lecture was to be replaced by a major three-
+ day event celebrating the bicentenary of her birth but was postponed due to the pandemic.
+
+ We have been recognised in the MPLS Equality and Diversity Awards each year since 2017 with
+ lifetime achievement awards (Kirwan); best initiative for It All Adds Up; and a Student Choice
+ Award to Vella for “creating and fostering a diverse and inclusive research group, with people
+ from many different countries, socio-economic and educational backgrounds, and varying ethnic,
+ gender and age profile”.
+
+ Flexible and/or remote working
+ We encourage staff to adapt their working patterns (formally or informally) as their caring and
+ other responsibilities change. Nine faculty have moved to part-time contracts (not including
+ secondments) during this period, either for personal reasons or to take advantage of external
+ opportunities. Meetings and seminars take place in core hours, and we take childcare and other
+ constraints into account when scheduling teaching.
+
+ In March 2020, we provided (and delivered) specialised IT equipment and office furniture for
+ home workspaces, particularly for PGRs/ECRs. Since reopening our buildings, we have ensured
+ that nobody is disadvantaged by being unable to come in. Many staff and students wish to
+ maintain a mixture of office-based/home working for the foreseeable future.
+
+ Career pathways for part-time and fixed-term staff
+ Our part-time staff are predominantly late-career or exploring opportunities with industry; their
+ needs are considered on a case-by-case basis.
+
+ All our fixed-term staff are ECRs, the vast majority being PDRAs or Research Fellows. A typical
+ path is another postdoc, possibly a fixed-term lectureship, then a tenure track position. PDRA
+ career development benefits from broader experience, often in other institutions. For example,
+ Style went from PDRA in Oxford to postdoc in Yale, before returning to Oxford as a DL; he is
+ now a group leader at ETH Zürich. Farrell took a different route: joining us as a Research Fellow
+ after a PDRA in Imperial, with support from Research Facilitation he secured an EPSRC Early
+ Career Fellowship, from which he progressed to Associate Professor.
+
+ Supporting those with caring responsibilities or ill health
+ With guidance from the University’s Disability Advisory Service, Occupational Health, or
+ Counselling Service, we support those with serious or long-term health concerns through
+ adjusted working hours and practices, specialist equipment, and teaching relief. For example,
+ we provided a PGR with a voice recognition system and enabled a PDRA to bring their support
+ dog to work.
+
+ During the period, eight Cat A staff, two PDRAs, and two PGRs took maternity leave, and one
+ male academic shared parental leave. There is teaching relief in the first term after family leave,
+ and the University’s Returning Carers Fund (five awards totalling £22k) can be used to support
+ the cost (including additional childcare) of academic activities. The MI offers up to £500 towards
+ additional costs of care to support conference organisation/attendance (eight awards in the
+ period). One PGR reported being “able to catch up on… crucial developments in the field that
+ had happened in my absence”, attributing a key chapter in her thesis to attendance at this
+
+
+
+                                                                                              Page 18
+Unit-level environment template (REF5b)
+ meeting. We are proactive in offering assistance; additional support is at the discretion of
+ departmental leadership teams.
+
+ Promotion, funding, and research leadership roles
+ In this period 28 faculty (six female) have gained the title of full professor. For each RoD round,
+ we identify senior academics (at least one of each gender) who can be approached for
+ confidential advice and guidance. HoDs proactively encourage individuals to apply; for example,
+ a female member of Statistics was encouraged to apply and mentored through the process by a
+ senior (female) colleague.
+
+ Data on the gender of applicants for research funding is monitored and analysed. During the
+ period, the percentage of applications for funding from women has risen from 12.7% to 30.9%;
+ the percentage of awards to women rose from 13.3% to 31.4%. We assist with extra costs (such
+ as childcare) arising from attending interviews. For other protected characteristics, the numbers
+ are too small to report; but all members of the UoA, including emeriti, have access to research
+ support.
+
+ We actively promote diversity in leadership roles. Three of our female faculty have been
+ Associate Heads of MPLS (leading on Finance, Research and Innovation, and Equality &
+ Diversity), and two of these served as Deputy Head of Division. Two have been HoDs, one
+ deputy HoD, and three Associate HoDs. One Associate HoD is BAME. Beyond the University,
+ female faculty take on myriad leadership roles (Section 4.6).
+
+ Leadership is explicitly discussed in professional/career development reviews and staff have
+ engaged in University-wide courses. Staff are supported as they build experience. For faculty
+ this might begin with membership of departmental committees/working groups, followed by
+ appointment committees or MPLS committees, and chairing committees; while in parallel
+ mentoring students and postdocs, then managing grants/groups, and taking on professional
+ activities. Experienced female and BAME faculty mentors are available to those developing their
+ leadership skills.
+
+ Initiatives extend externally. For example, as part of an EPSRC-funded project with Oxford
+ Brookes, Byrne is developing practical solutions for institutions to create inclusive opportunities
+ and overcome the barriers for women following the entrepreneurial pathway from research to
+ leading a spinout.
+
+ Supporting wellbeing of staff and PGRs
+ We combine specific, targeted initiatives with fostering an inclusive, welcoming culture, in which
+ staff and students across all levels have informal opportunities to meet.
+
+ Support and networking opportunities across Oxford are collated on department web pages. In
+ the 2019 Statistics graduate student survey, 89% reported being aware of support available from
+ the University Counselling Service, compared to 45% in 2018. In the MI, trained peer supporters
+ hold drop-in sessions four times a term. We hold events such as Life in the Department, in which
+ PGRs share things they wish they’d known on arrival. We encourage discussion: e.g. at the
+ 2019 Statistics Away Day the Head of the University Counselling Services led Thriving and
+ Surviving: A conversation about stress, mental health, and resilience at University. We also
+ provide access to confidential support, e.g. through an external Employee Assistance
+ Programme.
+
+ Wellbeing is a particular challenge during the pandemic. Surveys monitor how our community is
+ coping, and regular updates include easily-accessible links to available support. Supervisors
+ hold at least weekly video calls with PDRAs/PGRs (even if just for a chat). PGRs and those on
+ probation have been granted (automatic) extensions. When we reopened our buildings, we
+ prioritised PGRs facing mental health challenges for return to on-site working.
+
+
+
+                                                                                                Page 19
+Unit-level environment template (REF5b)
+ ED&I in construction of the REF submission
+ The University Code of Practice provided a clear and comprehensive framework within which we
+ have operated throughout. All local decisions have been checked and, where necessary,
+ challenged in MPLS, with careful checks of contracts validating eligibility decisions. Our
+ researchers had informal meetings with the HoD and/or UoA coordinator to explain the REF and
+ discuss research and impact. Eligible staff nominated up to six outputs for consideration, which
+ were read and scored by two independent reviewers. Out of 175 Cat A staff, there are 29
+ women and 40 ECRs. The mean number of outputs submitted is 2.36 for all Cat A staff, 2.55 for
+ women, 2.32 for men, and 1.48 for ECRs. The breakdown by gender and age is shown in the
+ graph below. Interim figures from the University indicate an average of 2.19 for BAME staff (who
+ are more concentrated in earlier career stages). The research underpinning three of our ten
+ Impact Case Studies was led by women.
+
+
+             CAT A Submitted Staff: Mean Number of Outputs by Age and
+                                      Gender
+  4.00
+
+  3.50
+
+  3.00
+
+  2.50
+
+  2.00
+
+  1.50
+
+  1.00
+
+  0.50
+
+  0.00
+              25-34             35-44             45-54               55-64         65+
+
+                                        Female   Male     All Staff
+
+
+
+
+ 3. Income, infrastructure and facilities
+
+ 3.1. RESEARCH FUNDING
+
+ Research grants started in the period total £81.6M in value1: £37.9M from UKRI, £4.6M from UK
+ charities, £23.8M from the EC, £9M from industry, and £6.3M from other sources. These
+ numbers exclude studentships. A further £11.8M has been secured (not yet started). In addition,
+ donation income totalled £10.4M, including three donations of £1M or more, and a further four of
+ £500k or more.
+
+ As planned in 2014, a priority in this period has been to create a sustainable portfolio of funding
+ to replace our KAUST grant. Our strategy has been to (i) support faculty in securing longer,
+ larger ERC and UKRI grants and fellowships, (ii) increase involvement in multi-disciplinary /
+ multi-institution awards, (iii) actively engage small and medium-sized enterprises (SMEs), (iv)
+ nurture long-term industrial partnerships to complement the explosion of CASE-like studentship
+ contracts fuelled by our CDTs, and (v) pursue philanthropic funds to support our research.
+
+ During the period, faculty have held/been awarded 25 ERC grants: eight Advanced, five
+ Consolidator, and 12 Starter (compared to three, zero, six last time). 16 UKRI grants, totalling
+ over £20M, each brought over £500k into the UoA. Reflecting the expansion in interdisciplinary
+
+1 Total research income recognised in period (REF 4b) = £80.5M.
+
+
+                                                                                              Page 20
+Unit-level environment template (REF5b)
+ research, we are Co-Is on projects led by 25 other Oxford departments. Grants are often held as
+ part of larger consortia; e.g. a £495k EPSRC grant to Douglas, to build theoretical and practical
+ tools for higher-dimensional algebraic computations in geometry and quantum information
+ science, is part of a £1M consortium with Birmingham and Cambridge computer scientists.
+ Similarly, a £534k EPSRC grant to Doucet is part of a Multidisciplinary University Research
+ Initiative led by the US Department of Defense, with a total EPSRC contribution of £3.2M.
+
+ The significant scientific impact of larger grants is illustrated by Teh’s EUR1.9M Consolidator
+ grant, BigBayes. Outputs ranged from theoretical underpinnings of Bayesian non-parametrics to
+ applications in natural language processing and genetics. Crucially, it crystallised a large group
+ around Teh, and provided vital support as he shifted his research focus to reflect the rise of deep
+ learning and related methods in ML.
+
+ Central to our strategy is supporting researchers at every career stage in pursuing opportunities
+ to develop transformational research programmes. They have held four EPSRC Early Career
+ Fellowships, two EPSRC Established Career Fellowships, eight Royal Society URFs (with a
+ further two secured, not yet started, and four secured but transferred elsewhere), a Dorothy
+ Hodgkin Fellowship, and six Leverhulme Trust Research/Senior Research Fellowships. In
+ addition to around 80 locally-funded independent Research/Visiting Fellowships, we have hosted
+ around 140 independent personal fellowships funded from external sources including: five Royal
+ Society Newton Fellows, 13 EC Marie Curie Fellows, three NSF Postdoctoral Fellows, nine
+ SNSF Mobility Fellows, with the remainder supported by 39 funders from six continents.
+
+ There has been a step-change in our engagement with industry, with over 300 industry-funded
+ projects within the UoA compared with 63 in the last REF period. Around one third are ten-week
+ InFoMM student projects, with the remainder dominated by other PGR/PDRA projects. The
+ effectiveness of short projects is reflected in companies’ repeated engagement; 18 have funded
+ three or more projects. In order to build engagements with SMEs, we made a direct University
+ investment of £387k towards studentship costs. 24 SMEs have been InFoMM partners,
+ collectively funding 35 ten-week and 17 three-year research projects (total direct commitment:
+ £523k).
+
+ We have developed and nurtured long-term partnerships, producing a pipeline of PGRs/PDRAs
+ comfortable working with industry, vital for the sustainability of the discipline and for enabling
+ impact. For example, our blossoming six-year (so far) engagement with Elkem has involved ten
+ staff, supervising nine short projects and six thesis projects, and raised £286k for direct student
+ support and £238k in-kind.
+
+ The current five-year research programme of Farmer (Baillie Gifford Professor of Mathematics)
+ is supported by generous philanthropic funding from Baillie Gifford, and through the Institute for
+ New Economic Thinking (INET). Farmer is Director of Complexity Economics for INET-Oxford.
+ His research on financial instability in the wake of the 2008 global financial crisis has been
+ particularly influential, with Farmer providing advice to both the European Central Bank and the
+ Bank of England.
+
+ 3.2. ORGANISATIONAL INFRASTRUCTURE SUPPORTING LARGE-SCALE PROJECTS
+
+ As illustrated below, the infrastructure supporting large projects comes from a variety of sources:
+ (i) our involvement and investment in the Turing, (ii) our own strategic investments within Oxford,
+ (iii) business and research council investment in our research clusters, and (iv) the support
+ underpinning our interdisciplinary research programmes.
+
+ (i) The convening power of the Turing is invaluable in stimulating significant new collaborations.
+ For example, the Centre for Topological Data Analysis arose from a 2015 Turing-funded
+ workshop on TDA (organised by Grindrod, Harrington, Tillmann, and Wolfe, (UCL)). A £2.85M
+ Oxford-led EPSRC grant leveraged internal funding to create a permanent post (Nanda) and five
+
+
+                                                                                             Page 21
+Unit-level environment template (REF5b)
+ postdocs (two in Oxford) across Oxford, Swansea, and Liverpool. There are currently nine PGRs
+ in the Oxford centre; three more have graduated with theses in computational topology.
+
+ (ii) Strategic use of our own resources creates critical mass to support large collaborations. For
+ example, the targeted appointment of Grindrod in data science in 2013 made possible the £5.1M
+ Oxford-Emirates Data Science Lab, with which we supported ten postdoctoral researchers,
+ spanning data science, cryptography, and numerical analysis, who worked half-time on
+ collaborative Emirates’ proof-of-concept and translational data science projects and half-time on
+ their own research programmes. Emirates embedded employees in Oxford; one stayed for three
+ years, giving lectures and hosting workshops. The Oxford lab addressed Emirates requirements
+ from developing seat-pricing algorithms to social media analytics for assessing young peoples’
+ views on flying. Building on this investment, we recruited a researcher at the interface with the
+ United Nations Sustainable Development aims, following which we secured GCRF funds for two
+ further researchers.
+
+ (iii) Synergistic development of multiple facets of research problems can underpin substantial
+ portfolios of business/research council investments. For example, our fundamental filtration
+ research has been developed to deliver substantial humanitarian and business impact. Funding
+ for filtration and separation science over this period totalled £2.26M, through business
+ sponsorship (£474k: Beko, Dyson, Gore, Pall Corporation, Smart Separations) and others
+ (£1.79M: UKRI, Royal Society, KAUST GRP). This has supported one research fellow, ten
+ PDRAs, three PGRs, five short projects (by PGRs), a workshop, and two web developers.
+ Outputs include novel generalisations of homogenisation theory, with direct application to
+ modelling Dyson’s dust filters, and Gore’s Mercury Control System (which works to prevent acid
+ rain). The relationship with Dyson illustrates the value of IAA pump-priming support: the original
+ £34k project established a connection with Dyson, laying the groundwork for understanding their
+ filters; the collaboration has continued for over five years, described by Gareth Morris, Research
+ Manager, Dyson Technology Ltd, as “a shining example of how an industrial/academic
+ relationship should be undertaken to make it as relevant and impactful as possible”.
+
+ (iv) Our formal collaborative arrangements support seamless access to specialist infrastructure
+ elsewhere in Oxford. For example, Myers and collaborators revealed the importance of the gene
+ PRDM9 in recombination (a mechanism through which chromosomes pair and swap DNA during
+ reproduction). Errors in recombination are responsible for a wide range of human diseases. In
+ addition to two computational PDRAs, Myers’ £1.58M 2018 Wellcome Trust Investigator award
+ supports an experimental PDRA and research assistant, working in specialist laboratories in
+ MSD, to perform experiments to understand how chromosome pairing succeeds/fails depending
+ on how PRDM9 binds. In an early success, this combination of statistics and experiment has
+ revealed the essential role of the protein ZCWPW1 in meiotic double strand break repair,
+ pointing to a possible role in fertility.
+
+ 3.3. OPERATIONAL AND SCHOLARLY INFRASTRUCTURE SUPPORTING RESEARCH
+ AND IMPACT
+
+ Our physical estate, Oxford’s exceptional library holdings, and access to outstanding computing
+ facilities provide an exceptional backdrop for research. The new Statistics building has been
+ transformational, especially for PGRs. Cognate groups are accommodated in adjacent offices,
+ clustered around interaction areas, resulting in seamless peer-to-peer learning. The scale and
+ ambition of our PER activities is also underpinned by our new buildings; the Andrew Wiles
+ Building incorporates extensive purpose-built facilities, including a 360-seat lecture theatre and
+ adjacent breakout and exhibition space.
+
+ Support staff and events teams look after practical arrangements for incoming/outgoing visits
+ (Section 2.1) as well as the numerous seminars, conferences, workshops, and other events in
+ the buildings. Dedicated administrative support underpins CDT partnerships.
+
+
+
+                                                                                            Page 22
+Unit-level environment template (REF5b)
+ Research Facilitation teams (5 FTE) proactively seek out and promote opportunities for funding,
+ discuss proposals, help respond to reviewers, and organise mock interviews. Proposals over
+ £50k typically undergo internal peer review. Since 2014, we have appointed a dedicated
+ Research Facilitator in Statistics and an additional MI post has deepened support for ECRs. A
+ new MI Research Grants Manager and dedicated resource in Statistics strengthen post-award
+ support for large grants. The University Research Services Office (RSO) provides specialist
+ support for ERC grants. As part of their induction, new researchers meet with research
+ facilitators. Since 2013, there has been a dramatic increase in the numbers of awards to women
+ (Section 2.3); our target now is to increase the value of those awards.
+
+ Research and confidentiality contracts are negotiated through the RSO; they have negotiated 77
+ collaborative contracts (68 with industry) and a further 23 contracts for full research project
+ funding (11 from industry) in period. They have also completed over 200 individual studentship
+ contracts with external organisations.
+
+ OUI has supported members of the UoA with 38 new IP disclosures, filed 28 patent applications,
+ and issued 26 commercial licences in period.
+
+ A world-class, up-to-date computing environment is essential to much of the research in the
+ UoA. To support the growth in ML research, including two impact case studies, local resources
+ in July 2020 included 11 GPU servers comprising 31 of NVIDIA’s latest-generation GPUs and 40
+ previous-generation GPUs. These are supplemented by over 50 CPU compute servers, all with
+ high-bandwidth links to large filestores. A comprehensive range of software packages is
+ available, including COMSOL Multiphysics, Magma, Maple, Mathematica, Matlab, Python and R,
+ and the GPU systems have the latest ML packages such as TensorFlow, PyTorch, Theano and
+ Caffe. Departmental resources are managed by a team of 11 FTE specialist IT staff.
+
+ We also make extensive use of computational facilities across Oxford – at the BDI and WTCHG,
+ and the Advanced Research Computing Facility (ARC; Morris chairs the advisory board) – and
+ commercial cloud providers like AWS. In July 2020, our researchers had over 100 projects
+ running on the ARC, accounting for about 10% of the total. Uses range from a computer-aided
+ drug discovery project to numerical investigation of rank 2 attractor points on Calabi-Yau
+ manifolds.
+
+ The Mathematical Observatory is a small experimental facility within the Andrew Wiles Building
+ that supports and challenges modelling work through simple proof-of-concept experiments. For
+ example, experiments on cutting and wrinkling of thin elastic solids showed them changing their
+ ‘apparent’ Gaussian curvature and supported the development of new mathematical models of
+ wrinkling.
+
+ Collaborative use of major facilities
+ Our researchers make extensive use of UK Biobank, and we benefit from other cross-HEI
+ infrastructure such as the Diamond Light Source (DLS), which is a partner in SABS:R3. Two
+ OPIG students were funded and co-supervised by the DLS: one used DLS compute servers in
+ developing software that accelerates early-stage drug discovery; the other developed software
+ to perform automated chemical synthesis using robots at DLS. Lyons’ group uses the national
+ supercomputer JADE.
+
+ Benefits-in-kind and sponsorship
+ A very significant benefit-in-kind is the access to facilities, data, specialist software, training, and
+ supervision provided to our graduate students, almost a quarter of whom have an industrial
+ supervisor. For example, 86 partners have contributed over £4.9M of in-kind investment to the
+ InFoMM CDT, whilst the £4.69M of in-kind investment committed by 62 partners in the
+ Imperial/Oxford StatML CDT includes annual training camps at Amazon’s European Research
+ Headquarters.
+
+
+
+                                                                                                  Page 23
+Unit-level environment template (REF5b)
+ Data access agreements are crucial benefits-in-kind. For example, proprietary tick-by-tick
+ market data, data management expertise, and analysis hardware, storage, and licences from
+ LMAX underpins Cartea’s research on FX microstructure. Similarly, companies (currently
+ including AstraZeneca, Kymab and Alchemab) share multiple datasets and use of in-house
+ compute resources with OPIG.
+
+ Generous sponsorship from XTX Markets supports our Public Lectures and major events like the
+ Florence Nightingale Bicentennial celebrations.
+
+ 4. Collaboration and contribution to the research base, economy, and society
+
+ 4.1. COLLABORATIONS
+
+ The vast majority of our activity is collaborative, spanning institutional and/or disciplinary
+ boundaries: 96% of Cat A researchers have an international co-author (from a total of 85
+ countries) in period. They have presented their research in around 70 countries. We provide
+ support for incoming/outgoing visits (Section 2.1) and Research Facilitation (Section 3.3)
+ supports applications for larger scale networks/collaborations.
+
+ Visiting researchers at every career stage hugely enrich our research environment. Some visit
+ groups (e.g. Strang, MIT, visits our numerical analysts annually); others come for intensive
+ collaboration with individuals; e.g. annual visits of Seymour (Princeton) to work with Scott
+ resulted in 36 joint papers in period, and resolved well-known conjectures on graph colouring
+ from the 1980s.
+
+ In 2014, we planned further international alliances, building on the successful Oxford-Princeton
+ mathematical finance network. New partnerships include Oxford-ETH, funded by the Swiss
+ Science Foundation (postdoctoral exchanges and joint meetings); the CNRS-funded
+ International Network, ALEA; the Horizon 2020 funded COSTNET collaboration in Statistics of
+ Network Data Science; and we are an organising node of the new Horizon 2020-funded
+ European Network of AI Excellence Centres (ELISE).
+
+ Significant advances in mathematical sciences often result from large international networks
+ combining to offer insights from disparate parts of the field. For example, the 14-PI Simons
+ collaboration Special Holonomy in Geometry, Analysis, and Physics, led by Bryant (Duke),
+ capitalises on recent breakthroughs related to geometric structures associated with exceptional
+ holonomy spaces, while making use of powerful new tools for analysing singular spaces. The
+ two-stage project brings £1.3M to Oxford. For stage two (funding five postdocs and two students
+ in Oxford), Lotay and Schafer-Nameki join Joyce as PIs.
+
+ University initiatives provide the legal and financial structures required to operate at scale with
+ overseas partners. As part of OSCAR (Oxford Suzhou Centre for Advanced Research, the
+ University’s first overseas centre for physical sciences research), the OSCAR Institute for
+ Mathematical Modelling and Data Analytics, with initial funding of approximately £2M to support
+ 12 PDRAs and research costs, serves as an umbrella for collaboration with Chinese partners
+ including the Chinese Academy of Science, Fudan University, Shandong University, and the
+ Shanghai Futures Exchange.
+
+ Networks – like the UK-wide Applied Algebra and Geometry Research Network, initiated by
+ Harrington in 2017 – link researchers in emerging areas. Members secured a £170k EPSRC
+ GCRF grant (PI Szendrői), out of which grew the Abram Gannibal project, establishing
+ collaborations between UK mathematicians and emerging Sub-Saharan African scientists. This
+ dovetails with AfOx, a cross-University platform for collaborations between Oxford and African
+ researchers. Kremnitzer hosted inaugural AfOx visiting scholar Ssevviiri (coordinator of the
+ Eastern Africa Universities Mathematics Programme). In collaboration with Elsevier, our
+ researchers have demonstrated the value of research collaborations to developing economies.
+
+
+                                                                                              Page 24
+Unit-level environment template (REF5b)
+ The Turing has catalysed numerous multi-institution/multi-disciplinary collaborations. For
+ example, when Lyons’ ideas around applying rough paths to data science were very tentative,
+ the Turing facilitated an intensive workshop to test the viability of the methods, creating an
+ entirely new research direction. After just four years, Lyons’ team won the worldwide Physionet
+ 2019 competition to predict sepsis in intensive care patients, and in July 2020 has five postdocs
+ and two software engineers funded through Turing projects in Data-centric Engineering, Defence
+ and Security, Finance, and Mental Health. In 2019, they secured a £4.1M EPSRC programme
+ grant (Oxford-led, Imperial, UCL) to fund six further postdocs and a software engineer, to create
+ tools to merge this new mathematics with existing data science and apply them to exemplar
+ challenges.
+
+ 4.2. ENGAGEMENT WITH KEY RESEARCH USERS
+
+ More than 25 academics have helped inform government decision making and public policy
+ formulation through engagements with the Home Office, DCMS, BEIS, the Biometrics
+ Commissioner, DEFRA, the Bank of England, MoD, DSTL, GCHQ, and National Security
+ organisations. For example, C Donnelly co-authored a 2019 assessment of the impact of badger
+ culls on levels of tuberculosis in cattle for DEFRA; Windmeijer is on the Technical Advisory
+ Group to the Department of Health; and Farmer advised the Financial Conduct Authority and sat
+ on the expert panel for the 2015 Blackett review Fin Tech Futures. In the wake of the Salisbury
+ Novichok incident, we worked with DEFRA on modelling the treatment of chemical spills,
+ requiring us to develop novel theory for the motion of the sharp reactive interface between
+ chemical agent and cleanser.
+
+ Further afield, we have advised the World Health Organisation, and the governments of
+ Bermuda, Chile, Sweden, and Tanzania. Our decontamination work has also been presented to
+ government representatives from Canada, Norway, and the USA.
+
+ Our submitted researchers have written 166 journal papers with 76 corporate entities in period.
+ Company challenges often call for novel theory; and theory developed in completely different
+ contexts can have unexpected applications. For example, with Siemens Healthcare, Tanner
+ developed new variable density message passing algorithms to make compressed sensing
+ applicable to 3D dynamic multi-coil MRI scans with real time reconstructions, leading the way to
+ reduced patient scan times and on-the-fly rescanning, reducing the need for further
+ appointments. Conversely, motivated by the challenges of coarse-graining models of biological
+ cell motion, Chapman developed new techniques for the homogenisation of dynamical
+ processes on networks, which have since found applications in models of calciner furnaces (with
+ NORCE), and are being extended for oil recovery (with BP).
+
+ 4.3. WIDER CONTRIBUTIONS TO THE ECONOMY AND SOCIETY
+
+ We present a small sample of contributions not highlighted in our impact case studies.
+
+ Myers and co-authors developed new approaches to analysing genetic differences between
+ individuals from different geographical locations at extraordinarily fine scales, which they applied
+ to data from the People of the British Isles project, revealing many stories about our shared past.
+ The work featured in the eight-month exhibition Settlers at Oxford’s Museum of Natural
+ History (with over 150,000 in-person and online visitors), a specially-produced animation, an
+ interactive website, and in two bestselling popular science books. Christine Kenneally, author
+ of The Invisible History of the Human Race, wrote “…the work is truly one of the most
+ extraordinary studies I’ve had the privilege to write about.”
+
+ In healthcare, Holmes is working with researchers in Edinburgh and Durham to deliver a new
+ ML-enabled risk prediction algorithm to GP practices in Scotland. More broadly, he serves on
+ the AI Expert Evaluation Panel for the Accelerating Access Collaborative, established with
+ £140M under the NHS-X AI Lab to deliver technological innovation into the NHS.
+
+
+                                                                                             Page 25
+Unit-level environment template (REF5b)
+ P Donnelly (now emeritus) was among the co-founders of Genomics plc, a 2014 spin-out, whose
+ vision is to use genomic insights to transform drug discovery and deployment. It employs over
+ 100 people across three offices.
+
+ Since arrival in Oxford, with collaborators at the European Systemic Risk Board and the
+ International Monetary Fund (IMF), Cont has developed new approaches for monitoring and
+ quantifying systemic risk, which the IMF has applied in stress-testing financial institutions in the
+ USA and Switzerland. Most prominently, the methodology has been applied during the COVID-
+ 19 crisis to quantify interconnections between various European investors in corporate bonds,
+ and to assess the second round effects if bonds were downgraded by rating companies.
+
+ DNA evidence typically comprises a mixture of DNA from multiple individuals. Theoretical work
+ of Lauritzen (now emeritus), and the accompanying software DNAmixtures, allows interpretation
+ of DNA evidence based on complex mixture traces. It has been used to successfully prosecute
+ cases in Denmark and the UK, including four UK murder cases.
+
+ Rogers was commissioned by BBC Consumer Affairs programme Watchdog to investigate
+ Ryanair’s seating algorithm. Her work demonstrated that the ‘random’ seat allocation for those
+ who had not paid a surcharge to pre-book a seat was biased towards separating groups that
+ booked together. It was instrumental in persuading the CAA to develop a new framework for
+ assessing whether airlines were complying with legal and best practice.
+
+ An initiative led by Szendrői, in collaboration with a Kenyan NGO, incorporated a corruption risk
+ methodology into R-Instat to empower young African mathematicians to uncover evidence of
+ corruption in big datasets (e.g. procurement data). Workshops were held in Tanzania (2017),
+ Ghana (2018), and Uganda (2018). After the Ghana event, the UK Foreign Office reported “In
+ some countries this is adding considerably to states’ capacity to identify and reduce corruption
+ risks.” The Ghanaian media framed the event as part of a campaign for a ‘Right to information’
+ bill.
+
+ Amongst our ECRs, IAA funds supported a PDRA to develop a tool to estimate the number of
+ internally-displaced people across 95 countries. An NGO, The Internal Displacement Monitoring
+ Centre, has used this to challenge the assumption that disaster displacement is only short-term.
+ In a different direction, in collaboration with the US non-profit organisation Data for Black Lives
+ (of which he was co-founder), Titchmarsh Fellow Mason-Brown is working on projects
+ investigating bias against blacks by predictive policing or mortgage underwriting algorithms, and
+ the disproportionate impact of COVID on black minorities.
+
+ Through industrial engagements we give companies enhanced understanding of their processes
+ (e.g. our work “represents a significant step forward in a larger programme of modelling the
+ entire [coffee] roasting process”, Jacobs Douwe Egberts), new algorithms (e.g. our work on
+ derivative-free optimisation is now incorporated into NAG’s library), and performance
+ improvements (e.g. “A computational gain of ~8 was achieved for these simulations which
+ typically take a few months to complete”, CCFE).
+
+ 4.4. ENGAGING WITH DIVERSE COMMUNITIES
+
+ As described in Section 1.2, we engage through various media and channels.
+
+ Lectures
+ The Oxford Mathematics Public Lectures (59 in period, 33 by Oxford researchers) showcase the
+ beauty and breadth of research in the mathematical sciences. Lectures have an average of
+ 25,000 views on our social media channels. Stephen Hawking spoke in 2017. Since 2017 we
+ have held an annual London Lecture, followed by a Q&A moderated by Hannah Fry; the 2017
+ lecturer was Andrew Wiles (150,000 views), 2018 was Roger Penrose. In 2019 Marcus du
+ Sautoy went to the West Midlands, Tim Gowers to London, and Vicky Neale to Newcastle, to
+
+
+                                                                                               Page 26
+Unit-level environment template (REF5b)
+ reach areas under represented in our student population. Topics have ranged from Prime
+ Numbers to Machine Learning.
+
+ Music
+ Most models of perception of musical form are based on tonal music. In Bach and the Cosmos
+ (Oxford, Cambridge, London, Bristol, 2018), Sparks explained the explicit mathematical framing
+ of Bach’s work, and the City of London Sinfonia illustrated with excerpts from the Goldberg
+ Variations. Du Sautoy, in three concerts with the Oxford Philharmonic, focussed on pieces by
+ Bartok, Debussy, and Stravinsky, composers who were pushing the boundaries in their use of
+ mathematical ideas. In 2017, with composer Emily Howard, he founded the centre for Practice
+ and Research in Science and Music (PRiSM) at the Royal Northern College of Music. Their
+ recent research (published in Frontiers in Psychology) is a study using the interactive PRiSM
+ Perception App (developed in Oxford) of audience perception of segmentation in non-tonal
+ contemporary music.
+
+ Art
+ Mathematical art is an integral part of the Andrew Wiles Building, with visitors entering across a
+ Penrose tiling. A public café and gallery space provide an ideal venue for mathematically-
+ themed art exhibitions such as Illegitimate Objects, a 2015 exhibition inspired by mathematical
+ surfaces. In our first online exhibition, one exhibit, Chaos Cat (a demonstration of spatio-
+ temporal chaos), attracted 20,000 views on social media.
+
+ Books and theatre
+ Du Sautoy’s books What We Cannot Know (2016), How to Count to Infinity (2017), and The
+ Creativity Code (2019), in which he addresses what it is to be creative in mathematics, draw
+ directly on his mathematical research experiences. Numerous performances with Complicité of
+ his mathematical play I is a Strange Loop (co-authored with Victoria Gould) culminated in a sold-
+ out run at The Pit in the Barbican in 2019.
+
+ Online
+ Our 34 one-minute What’s On Your Mind? films (over 5,000 views each) provide insight into the
+ mind of an Oxford mathematical scientist. Our websites host 190 Research Case Studies and
+ our researchers contributed to eight podcasts and three videos/animations through the Oxford
+ Sparks online science portal.
+
+ 4.5. RESPONSIVENESS TO NATIONAL AND INTERNATIONAL PRIORITIES AND
+ INITIATIVES
+
+ The breadth of our research means that we bring multiple perspectives to national and
+ international priorities. We illustrate with four themes in which we have strategically grown
+ capacity and capability over the last decade:
+
+ Medicine and healthcare
+ Our statistical geneticists played central roles in some of the most important international
+ collaborative projects in human genetics, including the Haplotype Reference Consortium
+ (analysis co-led by Marchini, now at Regeneron), and UK Biobank (analysis led by Marchini and
+ P Donnelly). Analysis of Biobank data promises to improve understanding of prevention,
+ diagnosis, and treatment of a wide range of serious and life-threatening illnesses. Myers has
+ ongoing research into phasing the Genomic England dataset (GEL) as an imputation resource
+ for UK Biobank participants.
+
+ Addressing a major need within an ageing society, Holmes leads the Turing analytics team
+ targeting the early detection of neurodegeneration in dementia, while Goriely and collaborators
+ have developed the first full organ model of neurodegeneration spreading in the brain, which
+ predicts how the brain is systematically invaded and infected by diseases such as Alzheimer’s or
+ Parkinson’s, and how it atrophies during disease evolution. In cancer research, the identification
+
+                                                                                             Page 27
+Unit-level environment template (REF5b)
+ of a signalling chemical that has since been shown to slow down invading tumour cells is the
+ latest breakthrough by Baker, Maini, and experimental collaborators at the Stowers Institute for
+ Medical Research.
+
+ Energy
+ In response to the UK Government’s decision to establish the UK as a world-leader in battery
+ design and manufacture through the Faraday Institution, our battery modelling group – led by
+ Chapman and Please, in collaboration with Oxford Engineering, and supported early in the
+ period by a £450k EPSRC grant – was instrumental in bringing together a collaboration of eight
+ academic institutions to form the Multiscale Modelling Fast Start project. They have created and
+ developed PyBaMM, a versatile open-source software, with 60 active users/developers from 28
+ academic institutions and ten companies, which enables optimisation of battery performance
+ and reliability.
+
+ Solar cells offer a realistic method of generating energy sustainably. A collaboration between
+ Goriely and Snaith (Oxford Physics) on modelling and optimising the production process for
+ solar cells based on perovskite structures led to a US patent (filed in 2014, awarded in 2019)
+ with one joint paper cited over 1,850 times.
+
+ Climate
+ Climate change is one of the most pressing issues of the 21st century, and mathematical models
+ are key to assessing the scale of the problem. Novel optimisation algorithms that reduce the
+ number of computationally-expensive model evaluations underpin Cartis’ NERC-funded work
+ with Tett (Edinburgh Geosciences) on parameter estimation for atmosphere and coupled ocean-
+ atmosphere climate models. Related work with Khatiwala (Oxford Earth Sciences) develops new
+ derivative-free Gauss-Newton methods in order to handle the biogeochemical climate model.
+
+ To better understand the role of surface meltwater in ice dynamics, and simulate the Greenland
+ ice sheet’s response to changes in surface melting expected under IPCC climate-warming
+ scenarios, Hewitt and collaborators at the Lancaster Environment Centre are developing a new,
+ robust, coupled hydrology/ice-sheet model which is thoroughly constrained and tested against
+ new, and dedicated, observations.
+
+ Future cities
+ Sustainable development requires a significant shift in urban management practices. Grindrod is
+ Co-I in the £7.25M (ESRC GCRF) PEAK programme, led by Oxford Anthropology, which uses
+ complex systems framing to synthesise understanding of the development of future cities.
+ Leveraging expertise at Oxford and the Turing, and with partners from China, India, South
+ Africa, and Colombia, the project is growing research capacity and capability to meet the
+ challenges faced by developing countries and promote sustainable urban development.
+
+ COVID-19
+ Researchers at all career stages have been at the forefront of efforts to inform the COVID-19
+ planning and response decisions of the UK Government and the World Health Organisation. The
+ contribution of C Donnelly is the subject of a case study; Goriely and Maini head the RAMP
+ Rapid Review Group, which scrutinises policy-relevant research literature and routes it through
+ to SPI-M, SAGE, and other parts of Government; Teh is a member of the Royal Society DELVE
+ working group; and Holmes leads the DECOVID programme at the Turing. Our researchers
+ have also contributed to projects including understanding antibody response of individuals in
+ receipt of the Oxford vaccine; developing ML techniques to propose novel molecules for
+ treatments; developing new group testing algorithms; and predicting demand at the Oxford City
+ Food Banks.
+
+
+
+
+                                                                                           Page 28
+Unit-level environment template (REF5b)
+ 4.6. WIDER INFLUENCE, CONTRIBUTIONS, AND RECOGNITION
+
+ The prominence of our faculty and emeriti, both as researchers and in significant leadership
+ roles, brings considerable influence, which they use to benefit the whole discipline.
+
+ Additional Funding Programme for Mathematical Sciences
+ Bridson, Keating, and Martin were members of the Review Board for the independent review,
+ The era of mathematics, led by OCIAM Visiting Research Fellow Philip Bond. Deane, Giles, and
+ Keating were involved in a subsequent visit to Downing Street and the follow-up work that
+ preceded the Jan 2020 announcement of up to £300M of investment in Mathematical Sciences.
+ Etheridge chairs the EPSRC Advisory Group for the Additional Funding Programme.
+
+ Contributions
+ Contributions to supporting the discipline are taken into account in workload allocation, and,
+ where appropriate, we second staff to partner organisations. We are as flexible as possible.
+ Thus, when Deane took over as Director of the UKRI COVID-19 response, at the request of
+ UKRI we increased her secondment to EPSRC from 60% to 80%. Similarly, we have varied the
+ conditions of Holmes’ secondment as Programme Director for Health and Medical Sciences at
+ the Turing to reflect extra demands during the pandemic.
+
+ We present a sample of the contributions made by our faculty and emeriti through (i) taking on
+ significant external leadership roles, (ii) journal editorship, (iii) service to (inter)national research
+ councils, and (iv) as members of advisory boards and conference chairs.
+
+ (i) Significant external leadership positions
+ These include: Royal Society (Tillmann, Vice-President; C Donnelly, Kirwan, Tillmann, Council),
+ EPSRC (Deane, Deputy Executive Chair; Etheridge, Council), LMS (Lyons, Keating, President;
+ Tillmann, President Designate; Dancer, Howison, Council), IMA (Breward, Council), RSS
+ (Rogers, Vice-President External Affairs), UK Mathematics Trust (Kirwan, Chair), SIAM (Suli,
+ UKIE Section President), Institute of Mathematical Statistics (IMS) (Etheridge, President;
+ Goldschmidt, Reinert, Council), International Machine Learning Society (Teh, Board), European
+ Academy of Science (Suli, Carrillo, Division Heads Computational and Information Sciences,
+ Mathematics), European Mathematical Society (Carrillo, Applied Mathematics Committee Chair;
+ Bridson, Prize Committee Chair), Societé National de France (Rousseau, Council), CMI
+ (Bridson, President; Wiles, Board), HIMR (Keating, Chair), Fields Medal Committee (Kirwan).
+
+ (ii) Journal Editorship
+ Faculty and emeriti held the position of (co-)Editor-in-Chief for 19 journals: Acta Mathematica
+ Scientia (Chen), Applied Mathematical Finance (Cartea, Hambly), Archive for Rational
+ Mechanics and Analysis (Ball), Bulletin of Mathematical Biology (Maini), Electronic Journal of
+ Combinatorics (Conlon), European Journal of Applied Mathematics (Howison), IMA Journal of
+ Numerical Analysis (Süli), Information and Inference (Tanner), Journal of Computational Finance
+ (Reisinger), Journal of Nonlinear Science (Goriely), Journal of Topology (Tillmann, Lackenby),
+ Mathematical Finance (Cont), Mathematics and Financial Economics (Zhou), Mathematical
+ Proceedings of the Cambridge Philosophical Society (Green), Probability Surveys (Hambly),
+ Proceedings of the Royal Society of Edinburgh Section A (White), Quarterly Journal of
+ Mathematics (Dancer, Szendrői, Lauder), Springer Briefs in Probability and Mathematical
+ Statistics (Reinert), Statistics and Risk Modelling (Cont). In addition, Kim was editor of Springer
+ Monographs in Mathematics.
+
+ Our faculty collectively held over 250 other editorial board memberships.
+
+
+
+
+                                                                                                   Page 29
+Unit-level environment template (REF5b)
+ (iii) National/International Research Councils
+ Nationally, faculty have served on panels for BBSRC, EPSRC, MRC, STFC, and Wellcome,
+ including chairing EPSRC Fellowship, GCRF, International Partnership, Prioritisation, and
+ Programme Grant panels. For the Royal Society, they have served on the Research
+ Professorships, Research Appointment, Dorothy Hodgkin Fellowship, International Exchanges,
+ Wolfson Fellowship, and APEX Award panels.
+
+ Internationally, faculty served on panels for ERC (Advanced and Consolidator Grants, Horizon
+ 2020) and for research funders including ANR (France), CIFAR (Canada), DFG (Germany),
+ Fonds National de la Recherche (Luxembourg), Research grants Hong Kong, INRIA (France),
+ Narodowe Centrum Nauki (Poland), NSERC (Canada), and NSF (USA). They also served on
+ the International Evaluation Board for the Chinese Academy of Sciences, and the Hong Kong
+ REF.
+
+ (iv) Advisory boards and conference chairs
+ Faculty have served on Scientific Advisory Boards of 25 international research institutes,
+ including Aspen Center for Physics, the Fields Institute (Toronto), and Mathematisches
+ Forschungsinstitut Oberwolfach; and Szendrői is on the Council of AIMS South Africa.
+
+ They have served on numerous international Conference Programme Committees. For example,
+ Tillmann was a member of the Programme Committee for the 2018 ICM, and Etheridge chaired
+ the 2016 World Congress on Probability and Statistics’ Scientific Programme Committee.
+ They have been organisers of long research programmes at the INI (Chen, 2014; Cont, 2014;
+ Drutu, 2017; Tillmann, 2018), MSRI (Drutu, 2016; McGerty, 2014; Szendrői, 2018), and the
+ Mittag-Leffler Institute (Maini, 2018).
+
+ Recognition
+
+ Fellowships and elected memberships include:
+ Royal Society (FRS) (Etheridge, Maini, Pila, 2015; Bridson, C Donnelly, du Sautoy, Ekert, 2016;
+ Hrushovski, 2020), Academy of Medical Sciences (C Donnelly, 2015; Maini, 2017), Royal
+ Academy of Engineering (Martin, 2017), German National Academy of Sciences Leopoldina
+ (Tillmann, 2017), Indian National Science Academy (Maini, Foreign Fellow, 2018), European
+ Academy of Science (Ball, Carrillo, Kirwan, 2018; Chen, 2020), Academia Europaea (Pila, 2016;
+ Trefethen, 2019), SIAM (Süli, Zhou, 2016; Cont, 2017; Giles, Goriely, 2018; Carrillo, Chapman,
+ 2019), IMS (Hambly, Reinert, Rousseau, 2015; Etheridge, 2016; Doucet, 2017; Goldschmidt,
+ 2019), American Mathematical Society (Bridson, 2015; Chen, 2017), American Physical Society
+ (Waters, 2019), and Society of Mathematical Biology (Maini, Inaugural Fellow, 2017; Byrne,
+ 2020).
+
+ Honours and Prizes awarded to faculty and emeriti include:
+
+ State honours were awarded to Kirwan (Damehood 2014), P Donnelly (Knighthood 2019), C
+ Donnelly (CBE 2018), N Woodhouse (CBE 2019), and Etheridge (OBE 2017).
+
+ Honorary degrees were awarded to du Sautoy (University of South Wales), Etheridge
+ (Edinburgh), Grindrod (Strathclyde), Hitchin (Warwick), Kirwan (York), Lyons (Waterloo),
+ Neumann (Hull), Trefethen (Fribourg, Stellenbosch), and Wiles (Bristol).
+
+ Prizes include: the Abel Prize (Wiles 2016), International Prize in Statistics (Cox 2016), BBVA
+ Foundation Frontiers of Knowledge Award (Cox 2016), Shaw Prize (Hitchin 2016), European
+ Academy of Sciences, Leonardo da Vinci Award (Ball 2018), King Faisal International Prize for
+ Science (Ball 2018), European Mathematical Society Prize (Maynard 2016), SASTRA
+ Ramanujan Prize (Maynard 2014), ICTP Ramanujan Prize (Walsh 2014), Heinz Hopf Prize
+ (Hrushovski 2020), Royal Society Medals (Green, Sylvester Medal 2014; Wiles, Copley Medal
+ 2017), SIAM Prizes (Trefethen, George Polya Prize 2017, John von Neumann Prize 2020;
+
+                                                                                              Page 30
+Unit-level environment template (REF5b)
+ Martinsson, Germund Dahquist Prize 2017), LMS Whitehead Prizes (Baker 2014, Keevash,
+ Maynard, Porter, Vella 2015, Harrington 2018, Conlon 2019, Mondino 2020), LMS De Morgan
+ Medal (Wiles 2019), LMS Senior Whitehead Prize (Green 2019), LMS Polya Prize (Zilber 2015,
+ Wilkie 2017) LMS Senior Anne Bennett Prize (Etheridge 2017), LMS Naylor Prize (Chapman
+ 2015), LMS Fröhlich Prize (Joyce 2016), Royal Statistical Society Guy Medal in Silver (Doucet
+ 2020), Royal Society Francis Crick Prize Lecture (Myers 2017), Zoological Society of London
+ Frink Medal (C Donnelly 2020), LMS/IMA Christopher Zeeman Medal (du Sautoy 2014), AMS
+ prizes (Maynard, Cole Prize in Number Theory 2020; Bridson, Steele Prize for Exposition 2020),
+ Society for Mathematical Biology prizes (Byrne, Leah Edelstein-Keshet Prize 2019; Maini, Arthur
+ T Winfree Prize 2017), Bernoulli Society Ethel Newbold Prize (Rousseau 2015), University of
+ Cambridge Adams Prize (Harrington 2019; Ardakov 2020), and Philip Leverhulme Prize (Vella
+ 2017).
+
+ These noteworthy prizes are typically awarded to more established researchers. We are
+ extremely proud of the external recognition of, and prizes won by, our ECRs. For example,
+ Seigal (Hooke Fellow) won the 2020 SIAM Richard C DiPrima Prize; Panzer (Research Fellow)
+ won the 2020 Hermann Weyl Prize, Xiang (ex-Titchmarsh Fellow) won a 2020 Outstanding
+ Young Scholars Award from the Hong Kong Mathematical Society; and in 2014 while still a
+ Research Fellow, Maynard won the largest ever Erdös prize.
+
+ Notable invited lectures given by faculty include at the ICM (2014: Ardakov, Brown, Conlon,
+ Green (plenary), Lyons, Pila (plenary), Sanders; 2018: Giles, Haydon, Keevash, Koenigsmann,
+ Maynard, Walsh), and at the 2016 European Congress of Mathematics (Keevash, Maynard).
+
+ 4.7. COLLABORATIVE ARRANGEMENTS FOR PGR TRAINING
+
+ Within the UK, we collaborate with Warwick (OxWaSP CDT) and Imperial (Random Systems
+ and StatML CDTs), and the partners in the TCC and APTS (Section 2.2).
+
+ Internationally, the DFG funded Berlin-Oxford International Research Training Grant Stochastic
+ Analysis in Interaction funds six-month long reciprocal student research visits and annual
+ summer schools.
+
+ Our international presence in graduate education is reflected by the 80 short graduate courses
+ delivered in 22 countries across six continents by our faculty.
+
+
+
+
+                                                                                          Page 31
+

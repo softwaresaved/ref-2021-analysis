@@ -1,0 +1,1122 @@
+Unit-level environment template (REF5b)
+ Institution: University of Warwick
+
+ Unit of Assessment: B11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ This submission is led by the Department of Computer Science in the Faculty of Science,
+ Engineering and Medicine (FSEM), and includes two researchers from the Centre for
+ Interdisciplinary Methodologies (CIM) in the Faculty of Social Sciences, and one researcher from
+ the Institute for Global Sustainable Development (IGSD) in the School for Cross-Faculty Studies.
+ An overview of the Faculties and Departments of the University of Warwick is in REF5a-1.6. Our
+ staff base comprises 46 research and teaching academics, 38 postdoctoral researchers, 12
+ teaching-focused staff and two software engineers, supported by 16 administrators and five
+ technicians.
+
+ Our core strengths include: advancing knowledge in algorithms, logic, data science, high
+ performance computing and artificial intelligence; solving challenges in the areas of nuclear safety,
+ citizens’ participation in public life, intelligent vehicles, law enforcement, and personalised
+ healthcare; and contributing to the economic development and global competitiveness of the UK
+ in high tech industry. Our outputs and impact case studies illustrate these core strengths and
+ reflect the University’s overall vision of “Excellence with Purpose” (REF5a-2.1).
+
+ Computer Science at Warwick is renowned internationally for the quality of its research, and was
+ recognised nationally as 1st for outputs and 2nd for impact in the REF 2014 rankings. We compete
+ globally to recruit the best researchers and PhD students, creating an inclusive, outward-looking
+ and sustainable research environment. Research is central to our culture: our teaching is
+ research-led, and teaching-focused staff are members of research themes.
+
+ Research themes
+
+ Computer Science research at Warwick is organised into four themes: Theory and Foundations;
+ Data Science, Systems and Security; Artificial Intelligence and Human-Centred Computing; and
+ Applied Computing. Through this structure, we can ensure critical mass in key areas, and devolve
+ decision-making and resources in matters of research. This has proved beneficial in: mentoring
+ and developing PhD students, postdoctoral researchers and junior academics; identifying funding
+ opportunities and winning grants; and integrating with wider research taking place cross-campus,
+ via interdisciplinary research centres (REF5a-2.9.4), and Global Research Priorities (GRPs –
+ REF5a-2.9.1). The organisation is depicted in Figure 1, with further details in Table 1.
+
+ Theory and Foundations (ThFo) researchers work on hard problems in the fundamentals and
+ applications of algorithms, computational complexity, discrete mathematics, logic and game
+ theory, operating at the highest level of the international research community in theoretical
+ computer science. Led by Czumaj with deputy Lazić, this theme is staffed by three Professors,
+ five Readers and Associate Professors, five Assistant Professors, and one Senior Research
+ Fellow. Czumaj heads the interdisciplinary DIMAP centre (Table 1).
+
+
+
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+
+
+
+
+         Figure 1. Research themes, interdisciplinary research centres, and GRPs
+
+          DIMAP      Discrete Mathematics and Its Applications
+          WDSI       Warwick Data Science Institute
+          CIM        Centre for Interdisciplinary Methodologies
+          IGSD       Institute for Global Sustainable Development
+          SBIDER     Systems Biology and Infectious Disease Epidemiology Research
+          MathSys    Mathematics for Real-World Systems
+
+                       Table 1. Abbreviations occurring in Figure 1
+
+ During this REF period, the theme has been expanded by seven strategic appointments in
+ combinatorial optimisation and dynamic algorithms (Bhattacharya, Sridharan), complexity,
+ cryptography and quantum computing (Gur, Oliveira), and discrete mathematics and logic
+ (Chistikov, Efthymiou, Mütze). Members have brought in two ERC grants, a UKRI FLF, a Royal
+ Society URF and seven EPSRC grants; they have published 26 papers at the most prestigious
+ conferences in the field, FOCS and STOC, including a Best Paper Award at STOC 2019; and
+ have been elected President of the European Association for Theoretical Computer Science
+ (Czumaj) and Fellow of the American Mathematical Society (Kráľ). The theme contributed
+ 31 outputs to this REF.
+
+
+
+
+                                                                                     Page 2
+Unit-level environment template (REF5b)
+ Data Science, Systems and Security (DSSS) researchers develop new techniques for data
+ management and analytics, data mining, statistical machine learning, high performance
+ computing, networks and performance evaluation, and cyber security. They tackle practical
+ problems in areas including sustainable cities, aerospace engineering, nuclear safety, secure
+ communication, and electronic voting. Led by Triantafillou with deputy Hao, this theme is staffed
+ by four Professors, six Readers and Associate Professors, two Assistant Professors, and one
+ teaching-focused senior colleague. Cormode is Warwick’s ATI University Lead (page 5) and
+ coordinates WDSI (Table 1). Ferhatosmanoglu directs the EPSRC CDT in Urban Science.
+
+ The theme has been strengthened by seven strategic appointments in: data science and systems
+ (Ferhatosmanoglu, Triantafillou), data mining and statistical machine learning (Damoulas, Yu),
+ high performance computing and performance evaluation (Mudalige, Mukhopadhyay), and cyber
+ security (Hao). Members have won significant prestigious funding including two ERC grants, an
+ ERC Proof of Concept grant, a Royal Society Industry Fellowship, and ~£2M worth of high-profile
+ partnership projects with the Atomic Weapons Establishment (AWE), Huawei and Rolls Royce.
+ Cormode was awarded the 2017 Adams Prize by the Cambridge Faculty of Mathematics. The
+ theme contributed 22 outputs to this REF.
+
+ Artificial Intelligence and Human-Centred Computing (AIHCC) researchers focus on artificial
+ intelligence in the engineered and social worlds, using discoveries in multiagent systems,
+ ubiquitous computing, natural language processing and visualisation to solve real-life challenges
+ in areas such as intelligent vehicles, cyber-physical systems, mental health, rumour verification,
+ and geography and ecology. Led by Procter with deputy Griffiths, this theme is staffed by four
+ Professors, six Readers and Associate Professors, one Assistant Professor, and three teaching-
+ focused senior colleagues. Porto de Albuquerque heads IGSD (Table 1), co-heads the Warwick
+ Institute for the Science of Cities, and is the Warwick lead of the international Centre for Urban
+ Science and Progress (CUSP) in London. McInerny and Turkay are members of CIM (Table 1).
+
+ The theme has been strengthened by seven strategic appointments in game theory and
+ autonomous agents (Tran-Thanh, Turrini), ubiquitous computing (Wen), text mining and natural
+ language processing (Y He), digital geography and geographic information science (Porto de
+ Albuquerque), and data and information visualisation (McInerny, Turkay). Research has been
+ supported by a portfolio of funding including a Royal Society Industry Fellowship, a £2M EPSRC
+ partnership project with Jaguar Land Rover, a £1.2M Turing AI Fellowship, and ~£2.5M from UKRI
+ GCRF, ESRC and NIHR. The theme contributed 18 outputs to this REF.
+
+ Applied Computing (AppCo) researchers develop new methods in image and video analysis,
+ machine learning, bioinformatics and computational neuroscience, seeking alignment with
+ applications to people identification, early cancer detection, personalised healthcare, cell biology,
+ and psychiatric and neurological treatments. Led by Rajpoot with deputy Timofeeva, this theme
+ is staffed by six Professors, two Readers and Associate Professors, three Assistant Professors,
+ and one teaching-focused senior colleague. Members have leadership roles in the MathSys and
+ SBIDER centres (Table 1). Rajpoot also heads the newly formed interdisciplinary Tissue Image
+ Analytics centre, linked to the Health GRP.
+
+ The theme has been expanded by four strategic appointments in applied machine learning and
+ bioinformatics (Bretschneider, Minhas, Raza), and signal and information processing (Guha).
+ Members have brought in a £2.3M Innovate UK project on computational pathology, a £1.4M EU
+ H2020 project on multimedia forensics, and a number of BBSRC, MRC, NHS and NIHR grants.
+ The theme contributed 21 outputs to this REF.
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+
+
+ Strategy for research and impact
+
+ Early in this REF period, both the Department and the University underwent a strategy renewal,
+ initiating a period of investment and growth. Our refreshed strategy, from 2016, encompasses
+ and builds on the objectives set out in our submission to REF 2014, of (1) pursuing interdisciplinary
+ research in order to benefit society, (2) developing new computing science techniques and
+ methods of application, and (3) engaging in knowledge transfer with government and industry. It
+ expresses an increased ambition, following the rapid advances we made in the period 2014-16.
+ CIM (REF5a-2.9.4) and IGSD (REF5a-2.9.3) were created around the same time (in 2012 and
+ 2014 respectively), extending the reach of Computer Science across the University.
+
+ Research and impact in the Department are overseen by the Research Strategy Committee, which
+ is chaired by the Director of Research, and includes the Director of Impact, the Heads and Deputy
+ Heads of the research themes, a representative of Early Career Researchers (ECRs), Warwick’s
+ ATI University Lead (page 5), and senior members of Research and Impact Services (R&IS –
+ REF5a-1.7). Equality, Diversity and Inclusion is overseen by the Athena SWAN Working Group,
+ our postgraduate research by the Postgraduate Research Committee, and our links with industry
+ by the Industrial Advisory Board. All four committees report to the Departmental Steering
+ Committee. Integration and alignment with University strategy are ensured through the
+ participation of the Head of Department and the Director of Research in the FSEM Research and
+ Innovation Forum. This structure is depicted in Figure 2.
+
+
+
+
+                    Figure 2. Committees overseeing research and impact
+
+ Our strategy is articulated by and taken forward through the seven work strands below, which
+ align with the University research strategy (REF5a-2.2). By implementing it, we have won £15.8M
+ in research income during this REF period, compared with £6.1M during the previous one. Part
+ of this increase is linked to expansion (from 24.4 FTE staff submitted in REF 2014 to 41.6 FTE in
+ REF 2021), however our performance in measures such as annual research income and doctoral
+ and postdoctoral populations, has outstripped this growth in staff (Figure 3).
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+
+
+
+
+       Figure 3. Growth per FTE staff from REF 2014 to REF 2021: research income in
+     the last year of the period, and PhD students and postdocs in post on census date
+
+ Work Strand I. Support, foster and showcase the talent and ambition of all our researchers.
+
+ We attract, foster and retain academics by means of reduced workloads for ECRs, a sabbatical
+ policy, a transparent promotion scheme, and rewards for senior staff that are commensurate with
+ the Oxford-Cambridge-London triangle. We encourage and support staff, via our workload model,
+ to pursue fellowships, awards, and leadership roles. We also celebrate their achievements, which
+ in this REF period include: 14 fellowships from EPSRC, ERC, Leverhulme, Royal Society, Turing
+ AI Fellow, Turing Research Fellow and UKRI Future Leaders Fellow schemes; four Wolfson
+ Research Merit Awards; Presidency of the European Association for Theoretical Computer
+ Science (Czumaj); and Adams (Cormode), Shimon Even (Gur) and Philip Leverhulme (Kráľ)
+ prizes.
+
+ Work Strand II. Undertake world-leading research at the forefront of knowledge.
+
+ During this REF period, our Departmental and research theme seminar series, our workshops and
+ our visitors programme have featured talks by recipients of the Turing Award, the Nevanlinna Prize
+ and the Gödel Prize. The worldwide reach of such programmes, together with our support for
+ researchers to attend leading conferences, embeds an international perspective in the Unit.
+ Regular reading groups within the themes, where senior and junior members meet to discuss
+ latest international advances in their fields, further underpin our culture of excellence. Ten out of
+ 92 outputs in this REF submission won best paper awards, demonstrating the success of this
+ approach.
+
+ Work Strand III. Spearhead research with relevance for impact and innovation.
+
+ Our theme structure facilitates a pipeline from theoretical advances through to impact and
+ innovation. Key to this pipeline is our relationship with the Alan Turing Institute (ATI), of which
+ Warwick is one of five founding partners. The ATI links theoretical and applied researchers in all
+ four themes with real-world problems and data. We encourage and enable colleagues to serve
+ on its Board of Trustees (Jarvis), as ATI University Lead (Cormode), Deputy Programme Director
+
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ (Damoulas) and Interest Group Organisers (Liakata, Procter, Triantafillou).        Twelve of our
+ academics have held ATI Fellowships.
+
+ Work Strand IV. Cultivate world-class interdisciplinary research communities.
+
+ We foster interdisciplinarity because we recognise that global challenges cannot be tackled by
+ research in Computer Science alone. We facilitate joint academic appointments, and we
+ encourage and enable staff to lead in the University’s interdisciplinary research centres and GRPs,
+ e.g. DIMAP (Czumaj, Kráľ), MathSys (Bretschneider, Timofeeva), SBIDER (Bretschneider),
+ Tissue Image Analytics (Rajpoot), Cyber Security (Wen) and the Warwick Institute for the Science
+ of Cities (Jarvis, Porto de Albuquerque, Procter). This approach has helped ensure an impact
+ pipeline, including future case studies. Of these, the most advanced are based around the
+ recovery of high streets during and after the COVID-19 pandemic (Damoulas, ATI), electronic
+ voting (Hao, Cyber Security GRP), intelligent vehicles (Griffiths, with Psychology and Warwick
+ Business School), the management of flooding in Brazil (Porto de Albuquerque, IGSD), and the
+ deployment of computational pathology in the NHS (Rajpoot, Tissue Image Analytics centre).
+
+ Work Strand V. Pioneer state-of-the-art accessible research infrastructure.
+
+ We take pride in our technical and organisational research infrastructure, at the heart of which is
+ our specialist team of five technicians. We work with the University to develop the Technicians’
+ Commitment (REF5a-3.3), which provides transparent opportunities to progress to professorial-
+ grade roles, and supports professional registration and appropriate credit for authorship on
+ research outputs. In order to pool technical expertise, extend access to equipment, and maximise
+ the utilisation of facilities such as cooled server rooms, our senior technicians collaborate with
+ colleagues in the Scientific Computing Research Technology Platform (RTP – REF5a-4.3), central
+ IT Services, and other University departments.
+
+ Work Strand VI. Communicate our research to provide leadership and influence in the global
+ knowledge economy.
+
+ We work with the University Press Office in order to disseminate our research to global audiences.
+ Recent high-profile stories include the use of machine learning for the discovery of exoplanets
+ (Damoulas) and a breakthrough in understanding the spin states of quantum-entangled particles
+ (Chistikov and Paterson). The integration of teaching-focused colleagues into our research
+ environment has allowed us to engage with a wide range of audiences (page 22), including the
+ general public.
+
+ Work Strand VII. Build an income and partnership platform to sustain and grow our world-leading
+ activity.
+
+ Securing external funding is a key component of our research strategy. Research themes hold
+ termly meetings to identify funding opportunities, and run internal peer reviews of proposals. In
+ the period 2019-2020 alone, our Assistant Professors won £900k from the UKRI FLF scheme
+ (Gur), £620k in Royal Society URF funding (Oliveira), and ~£600k in EPSRC grants
+ (Bhattacharya, Oliveira, Sridharan). Our administrative staff work closely with central University
+ colleagues to ensure the successful delivery of projects and nurture relationships with funders.
+ Our technicians run secure laboratory and computing facilities which sustain research
+ programmes requiring high levels of confidentiality and security, including £560k of postdoc and
+
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+    PhD work with AWE (DSSS theme), and £3.8M for the Cooperative Car (page 20) and ASiMoV
+    (page 20) projects, during this REF period.
+
+    Impact case studies
+
+    Impact of high performance computing (HPC) research on the UK and international HPC
+    industry – This case study is centred on the growth and achievements of Allinea Software Ltd, a
+    spin-out based on and nurtured through HPC research by the DSSS theme.
+
+    High performance computing for national nuclear security – Resulting from partnerships
+    between the DSSS and the UK AWE and the US National Nuclear Security Administration, this
+    case study captures the economic and national security impact of HPC research.
+
+    Impact of image analysis research on fingerprint biometrics and multimedia device
+    fingerprinting – Underpinned by image analysis research in the AppCo theme, this case study
+    reports economic and societal impacts of the spin-out Warwick Warp Ltd and the company Biosite
+    Systems Ltd, the patented Forensic Image Analyser (sold by Forensic Pathways Ltd) and a
+    licensed Sensor Pattern Noise tool.
+
+    Impact of user-generated content analytics on national broadcast news and independent
+    fact checking – Centred on the BBC Radio “Five Live Hit List” and the Full Fact “Live” software,
+    this case study reports the impact on society, culture and public policy of novel user-generated
+    content analytics work by the AIHCC theme.
+
+    Impact described in the second case study was supported by a £10k Warwick Impact Leave
+    Scheme award (Jarvis), and in the fourth by a £46k Warwick EPSRC IAA award (Procter) – see
+    REF5a-2.7.
+
+    Openness and integrity
+
+    Our approach to integrity runs through all work strands, underpinning our research strategy. We
+    routinely invite scrutiny and collaboration by working openly. This also supports our impact
+    agenda, since we achieve significant uptake by non-academic users by engaging with open
+    source initiatives.
+
+    Research Dissemination – As well as depositing all research outputs in the Warwick Research
+    Archive Portal (WRAP – REF5a-2.10), we commonly release pre-prints in widely used external
+    public archives (e.g. arXiv, bioRxiv, Cryptology ePrint Archive). We also push for books to be
+    accessible openly, such as Hao’s CRC Press volume1 and Cormode’s CUP book2. We make data
+    open wherever possible, e.g. the Warwick-JLR Driver Monitoring Dataset and the Road
+    Classification Dataset3, the Gland Segmentation Challenge Contest at MICCAI 20154, and the
+    HER2 Scoring Contest in conjunction with Nottingham Pathology 20165. Hao’s open-source
+    implementation for the J-PAKE protocol formed the basis for the subsequent industrial
+    implementation of J-PAKE by ARM, Google, Mozilla, Openssl etc. We have initiated widely-read
+
+1
+  https://www.realworldevoting.com/
+2
+  http://dimacs.rutgers.edu/~graham/ssbd.html
+3
+  https://www.dcs.warwick.ac.uk/dmd
+4
+  https://warwick.ac.uk/fac/sci/dcs/research/tia/glascontest
+5
+  https://warwick.ac.uk/fac/sci/dcs/research/tia/her2contest
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ Wikipedia articles about our research results, e.g. av-net, ov-net, YAK, J-PAKE, and contributed
+ to open standards such as IETF RFCs, e.g. RRC 8235 and RFC 8236, based on our research
+ results. We participate in open competitions, for example the computational pathology Multi-organ
+ Nuclei Segmentation and Classiﬁcation Challenge 2020, which our Tissue Image Analytics centre
+ won (Rajpoot).
+
+ Reproducibility – Chairing the reproducibility committee of the Proceedings of Very Large
+ Databases since 2018, and contributing to the similar effort within the ACM SIG on Management
+ of Data since 2015, Triantafillou has instigated changes to international peer review processes to
+ make code and datasets available for scrutiny. As Program Co-Chair of EMNLP 2020, Y He
+ introduced a reproducibility checklist to the paper submission process, for the first time in the
+ history of NLP conferences. Damoulas won “Most Reproducible Paper of ACM SIGMOD 2016”,
+ and Damoulas and Liakata won two out of three “Turing Reproducible Research Champion”
+ awards in 2018.
+
+ Research integrity – The legal and ethical underpinning of our research is ensured through the
+ University’s ethics review processes and compliance mechanisms, and the training that all
+ researchers undergo as part of their induction such as the Epigeum research integrity training
+ (REF5a-2.11). Beyond these institutional requirements, Computer Science embeds a culture of
+ research integrity by including ethics experts as key members of our project teams wherever
+ relevant. For example, several colleagues in the Department work with Professor Tom Sorell,
+ Head of the Interdisciplinary Ethics Research Group in the Department of Politics and International
+ Studies. Sorell is a member of the Tissue Image Analytics centre (page 20) and chaired the ethics
+ review board for the IDENTITY project (page 20).
+
+ Vision towards 2030
+
+ We will continue pursuing the seven work strands presented above, inspired by the six strategic
+ priorities of the University (REF5a-2.1), which are highlighted in the following vision.
+
+ Computer Science at Warwick stands on the threshold of an exciting new era. Our trajectory since
+ the RAE 2008 is clear and consistent. Having always had a global outlook, we have now become
+ more integrated and collaborative across the University; we have increased the size and quality
+ of our research base according to a number of key measures; and we have built new partnerships
+ leading to significant impact. Other disciplines are rapidly recognising the value that Computer
+ Science can bring to their own areas of enquiry, e.g. using data science and artificial intelligence
+ to make transformative interdisciplinary advances. Indeed, Computer Science is regarded as
+ key to the University’s STEM Grand Challenge (REF5a-4.2).
+
+ Over the next ten years, we will seize the opportunity to open up innovative areas of discovery
+ such as quantum cryptography and computing, robots as experimental scientists, and smart
+ factories, working side by side with colleagues in Physics, Chemistry and Engineering in the new
+ £300M+ interdisciplinary Science Precinct. Building also on our established and emerging areas
+ of disciplinary and interdisciplinary excellence, we will enhance collaborations, especially with
+ Mathematics, Statistics, Life Sciences, Medicine, CIM and IGSD, strengthening research
+ directions in algorithms, explainable artificial intelligence, data science, cyber security, natural
+ language processing, computational social science, agent technology, image and video
+ processing, computational pathology and bioinformatics. Spearheading and supporting the
+ institutional strategies, we expect to grow further by at least 30% in this period.
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ We will nurture existing partnerships such as those with AWE and Rolls Royce, and we will
+ realise the benefits of activities that are currently at an earlier stage of development, leading to
+ impact of global reach and significance in urban analytics, flood management, electronic voting,
+ intelligent vehicles, and the diagnosis and personalised treatment of cancer.
+
+ By 2030, with our research embedded across the institution, we envisage Computer Science at
+ Warwick continuing to lead the way nationally, extending our world class reputation to new
+ fields. We will continue to foster our ethos of excellence with impact through an open,
+ egalitarian and supportive research environment, in which ideas flow bottom-up, resources are
+ devolved, and success is rewarded.
+
+ 2. People
+
+ Our research and impact strategy relies on supporting and rewarding people who make up
+ Computer Science at Warwick, and we are committed to implementing the principles of the revised
+ Concordat to Support the Career Development of Researchers, of which the University is a
+ signatory.
+
+ Equality, diversity and inclusion
+
+ The Department was re-awarded an Athena SWAN Bronze in 2019, and we are committed to an
+ ambitious action plan to take us to Silver in 2024. The Head of Department is a member of the
+ institutional Athena SWAN Self-Assessment Team. We embrace the Race Equality Charter,
+ which provides a framework for identifying and overcoming systemic and cultural barriers for
+ minority ethnic staff and students, and improving the representation, progression and success of
+ such staff and students. We promote the Dignity at Warwick policy to ensure that all members of
+ the Department are treated fairly and with dignity and respect, and that bullying and harassment
+ are not tolerated.
+
+ We strive to ensure equality of opportunity at all career stages, from student admissions and
+ outcomes, through to staff recruitment and promotion. Meetings and research seminars take
+ place in family-friendly hours, and support is offered for childcare at conference attendance. We
+ ensure full accessibility for disabled colleagues, including research students, for Departmental
+ activities. We support flexible retirement and provide office space for emeritus colleagues, who
+ are integrated into research themes and participate in externally-funded research.
+
+ Our embedding of ED&I is reflected in the composition of the committees overseeing research
+ and impact (Figure 2). Steering Committee consists of five men and four women, or seven
+ academic and two support staff; Research Strategy Committee is chaired by a woman, and
+ consists of nine senior and two junior staff; and Postgraduate Research Committee includes five
+ senior and three junior staff.
+
+ Supporting wellbeing
+
+ We promote wellbeing through University-wide provision such as The Big White Wall, a Digital
+ Mental Health Service, providing staff and students with support at all times. We publicise our
+ Employee Assistance Programme (EAP), which is free of charge to staff and PhD students.
+
+
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ During this REF period, the Department has invested in social facilities including refurbishing staff
+ and student common rooms, furnishing spaces for break-time activities, and purchasing board
+ games and a bean-to-cup coffee machine. Twice a week, we have coffee breaks with free
+ refreshments, which integrate academics, support staff, and PhD students. Every year, we
+ typically hold three all-staff meetings preceded by shared lunches, two away days focused on
+ strategic topics, a Christmas lunch, and a summer barbecue followed by outdoor games.
+
+ To maintain cohesion and provide support during the COVID-19 pandemic, we organised twice-
+ weekly online coffee and tea breaks, social gatherings using a virtual environment, and an online
+ team for communication and advice among staff and PhD students when working on campus. We
+ also assisted members in need with provision of office-standard furniture in their homes, and
+ equipment for effective remote working.
+
+ These efforts are bearing fruit: in the past three biannual staff engagement surveys, the
+ engagement score for Computer Science has been on average 5% higher than across the
+ University.
+
+ Staffing policy and recruitment approach
+
+ During this REF period, we have refreshed our staffing strategy and policies in order to address
+ the rapidly developing nature of our subject, including new interactions with other disciplines and
+ novel application domains, and a rapidly shifting funding landscape. Our approach takes into
+ account the ambitious growth plan articulated in our strategy renewal in 2016, and addresses the
+ fierce competition for excellent staff, both with other universities nationally and internationally, and
+ with other employers of highly skilled computer scientists. We recognise that, historically, our staff
+ base has been less diverse than sector benchmarks, and we have sought to redress this by
+ embedding ED&I in every aspect of our strategy.
+
+ Our staffing policy has two pillars, which together secure the vitality and sustainability of our
+ research environment. The first of these focuses directly on our researchers and ensures that
+ they are integrated into research themes which cover the discipline as broadly as possible while
+ preserving research excellence, and which provide fruitful platforms for engaging with emerging
+ interdisciplinary research agendas. The themes are nurtured so that they (1) facilitate sustainable
+ career pathways and effective mentoring schemes for their members, (2) are well resourced by
+ external income and internal investment, and (3) are sufficiently cohesive to support vibrant
+ programmes of reading groups, seminars, workshops and visitors. In doing so, we recruit early
+ career researchers who are building an international profile through fixed-term postdoctoral project
+ work, and research and teaching academics to whom we offer indefinite contracts in order to
+ provide security for the independent pursuit of excellence.
+
+ The second pillar focuses on support for our researchers. We ensure that staff who undertake
+ research are complemented by a smaller number of selected teaching-focused staff. In this REF
+ period, we have boosted the research themes by five senior and nine junior teaching-focused
+ colleagues, through a mixture of recruitment and internal promotion. This has helped us maintain
+ teaching excellence in the context of higher student numbers, while preserving research capacity.
+ We benefit from a team of specialised technicians on indefinite contracts, who have an appropriate
+ mix of hardware and systems expertise, and a team of skilled administrators with a range of
+ expertise from research finance to project management to doctoral training, who have indefinite
+ contracts unless directly employed on a project. The increased scale and complexity of operations
+ in the Department, including collaborative working with colleagues across the University and the
+
+                                                                                                 Page 10
+Unit-level environment template (REF5b)
+ sector, has been addressed by introducing more structure and capacity into professional support
+ teams, investing in training and development, and recognising the skills of senior staff through re-
+ grading.
+
+ The level and focus of new academic positions are decided by the Steering Committee, in line
+ with Departmental and University research strategies. Our recruitment processes for academic
+ staff, postdoctoral researchers and doctoral students are merit-based, with global reach. The
+ overarching criterion is excellence, with flexibility in how it is demonstrated over the research and
+ impact spectrum. All posts are widely advertised, taking advantage of social media and networks
+ such as Women in Machine Learning.                    Advertisements encourage candidates from
+ underrepresented groups to apply, using inclusive wording and highlighting our flexible and part-
+ time working policies. All Departmental researchers at the same grade or higher are invited to
+ participate in shortlisting. Training in Unconscious Bias and GDPR is a prerequisite for this, and
+ panel members are also trained in Effective Recruitment and Selection. Panel membership is
+ rotated across research themes, and the “all-male panel” is banned. The selection process has
+ been expanded in this REF period to include teaching and research presentations, and more one-
+ to-one meetings with a cross section of staff. Successful candidates are offered an internationally
+ competitive salary, plus family relocation expenses.
+
+ We facilitate joint appointments, of which we currently have two with the Department of Statistics
+ and one with Mathematics. Three colleagues submitted in this Unit are based in CIM and IGSD.
+
+ Outcomes of the staffing policy
+
+ We have increased the breadth and connectedness of our research themes by expanding the
+ three groupings with which we started this REF period into four themes. Specifically, “Systems
+ and Software” has been superseded by the DSSS and AIHCC research themes. This has been
+ achieved through a mixture of senior recruitment (Ferhatosmanoglu, Hao, Triantafillou – all DSSS,
+ and Y He – AIHCC) and the integration of a senior academic from IGSD (Porto de Albuquerque –
+ AIHCC). We have supported collaboration, and the pipeline from discovery to impact, by
+ expanding into cryptography through the appointment of Hao, and Gur (ThFo). This development
+ has resulted in a major grant and feeds into a future impact case study about electronic voting.
+ The appointments of Minhas and Raza (both AppCo) have boosted our interdisciplinary work with
+ Warwick Medical School and University Hospitals Coventry and Warwickshire, resulting in the
+ establishment of the Tissue Image Analytics centre and also leading to a future impact case study.
+ The appointment of Mudalige (DSSS) has been key in sustaining the nuclear security impact case
+ study.
+
+ During this REF period, 14 out of 25 appointments have been at Assistant Professor level, spread
+ across the themes, ensuring an excellent pool of junior staff for succession planning.
+ 24 appointments have been from outside Warwick and 11 from outside the UK, showing that we
+ are able to compete globally for the best candidates and attract them to Warwick – previous
+ affiliations include Berkeley, EPFL, Goethe Frankfurt, ICR London, IIT Kanpur, Imperial, NYU,
+ Oxford, TU Berlin, TU Vienna. During this REF period, we have increased the number of female
+ professors from zero to three (one of whom is teaching-focused), evidencing an approach to
+ staffing that encourages diversity and rewards excellence wherever it is found.
+
+
+
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ Support for junior academics and postdoctoral researchers
+
+ Junior academics receive a competitive package of support from the Department and their
+ research theme, for equipment, travel and hosting visitors. They have an academic mentor in the
+ Department, normally the head of their research theme, with whom they have termly meetings to
+ review progress and obtain advice. They benefit from reduced teaching and administrative loads,
+ starting at 50% of standard and increasing gradually over their period of probation, which is
+ normally for five years and during which they have annual probationary meetings with the Head
+ of Department. They have opportunities to supervise PhD students, and contribute to the life of
+ the Department through acting as deputies to leadership roles (e.g. Director of Student
+ Experience).
+
+ Postdocs have regular meetings with their PI. Where a researcher is recruited on a more junior
+ grade because they do not yet hold a PhD, they are upgraded automatically on conferral of the
+ PhD. They are eligible for further promotion based on merit. Postdocs benefit from tailored
+ development courses from Warwick’s staff development unit, Organisational Development, and
+ careers advice through a University forum for research-active staff. For those who are aiming for
+ an academic career, the Department optionally provides flexible teaching opportunities agreed
+ with their PI, where this is compatible with their funding. In this REF period, our postdocs have
+ progressed to academic positions at institutions including Universitat Autonoma de Barcelona,
+ Birmingham, Bristol, City, Derby, Goldsmiths, Krakow, Liverpool, Universidad Panamericana
+ Mexico City, New South Wales, Queen Mary, Ulm, Victoria, Warsaw, York, and to industrial
+ appointments at companies including Creavo Medical Technologies, Huawei, Majestic12, NATS,
+ Oxbotica, and Veridium.
+
+ Staff development and promotion
+
+ All new academics and postdocs receive a bespoke induction, covering key aspects of working at
+ Warwick such as local financial and IT regulations, with informal sessions on teaching and
+ personal tutoring in the Department. They are allocated a mentor within the Department (available
+ to all colleagues, including senior staff). We encourage uptake of the Warwick Leadership
+ Programme, and for female colleagues, the national Aurora programme run by Advance HE. We
+ work within the University’s Personal Development Review framework to offer structured career
+ development support annually for all colleagues.
+
+ Promotion for academics is on the basis of merit, via a transparent set of criteria, and is available
+ equally for part-time and full-time staff. Women and other underrepresented groups are
+ particularly encouraged to apply, and Assistant Professors are supported to apply for early
+ completion of probation and consequent promotion to Associate Professor.
+
+ Out of 46 research and teaching academics in this submission, eight have been promoted to
+ Associate Professor, five to Reader, and six to Professor during the past REF period. Together
+ with our successful recruitment and low attrition rate, the profile of our research and teaching staff
+ shows steady growth, alongside maintaining a balanced seniority profile (Figure 4).
+
+
+
+
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+
+
+
+
+               Figure 4. Composition of research and teaching academic staff
+
+ Workload, leave and flexible working
+
+ Our approach to workload is designed to ring-fence space for research and impact activities, while
+ ensuring that teaching and other activities that contribute to the life of our community are
+ appropriately resourced. We operate a flexible workload model which takes into account research,
+ teaching, impact/engagement, and collegiality/management. Colleagues receive credit for
+ interdisciplinary teaching and for supervision that crosses departmental boundaries. Staff on full
+ fellowships are relieved of all standard duties, apart from teaching approximately one half module
+ of advanced courses, in order to help disseminate their research and build their groups.
+
+ All academic staff are eligible for one year of sabbatical leave for every six years of service. We
+ also facilitate leave to accept a research award (e.g. Fijalkow at University of Bordeaux, Rajpoot
+ at Qatar University), part-time contracts to allow colleagues to take up appointments in industry
+ (e.g.: Feng, Institute of Science and Technology for Brain-Inspired Intelligence at Fudan; Wen,
+ Samsung AI Research Centre at Cambridge), and external consultancies and directorships
+ (working with 13 start-ups, corporations and government agencies in this REF period). We support
+ academics to apply for impact leave, and to bid for awards from the Higher Education Innovation
+ Fund and the Impact Acceleration Accounts (cf. page 7). We encourage academics returning
+ from parental leave to take up the Warwick Academic Returners Fellowship (REF5a-3.4), and we
+ support USS members to take up Flexible Retirement.
+
+ Research students
+
+ We attract world-leading PhD students to the Department, and have grown the PhD population in
+ Warwick Computer Science from 51 in 2012-13 to 130 in 2019-20 (Figure 5, left). The growth
+ has been encouraged by investment in studentships from Departmental and University funds
+ (current annual levels approximately £900k and £300k, respectively). We also offer externally-
+ funded opportunities, such as CDT positions (typically co-funded with industry), iCASE awards
+
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+ and other scholarships (e.g. the philanthropically funded Feuer International Scholarships in AI).
+ Industry-funded studentships have come from JLR (five), AWE (four), Intel (two), Rolls-Royce
+ (two), AT&T, GE Omnyx, IBM, Microsoft, and Philips Healthcare, among others. Promising taught
+ students can gain research experience through on-campus paid summer internships and the Data
+ Science for Social Good summer programme. We hold briefing events to demystify the PhD
+ process, with an emphasis on appealing to a diverse audience. Consequently, the quality of
+ applicants is high. In 2020, 10% of the University’s prestigious Chancellor’s International
+ Scholarships were awarded to students in Computer Science, even though this Unit contributes
+ only 3.5% of Warwick staff submitted to this REF.
+
+
+
+
+    Figure 5. PhD populations (left) and conferrals (right) during the assessment period
+
+ During this REF period, the postgraduate research (PGR) community has been brought together
+ organisationally and physically. Building on the success of the interdisciplinary Urban Science
+ CDT hosted in Computer Science, all PhD students are inducted into a Departmental CDT
+ structure. This ensures a uniform approach to excellent training and peer support for all members.
+ It is led by a Deputy Head of Department (Ferhatosmanoglu), and supported by a full-time
+ Postgraduate Research Manager. In addition to their supervisor, each PhD student has two
+ advisors who offer independent guidance. PhD students are frequently co-supervised with
+ different departments, most notably CIM, Engineering, Statistics and Warwick Manufacturing
+ Group (REF5a-1.6), enabling a diversity of disciplinary views. In such cases, the fractional
+ supervision contributions of our Unit are used when computing the PhD conferral numbers (Figure
+ 5, right). Every student in the Urban Science CDT collaborates with an external partner, and many
+ other PhD students have similar collaborations, leading to internships (e.g. Amazon, IBM, Palace
+ of Westminster, Tableau and Yahoo) and placements at top research centres (e.g. Berkeley,
+ INRIA, Loria). Eight PhD students have taken up enrichment years at the ATI. PhD students have
+ won four University teaching awards in 2014-20, and in 2019 the Department received the first UK
+ Facebook PhD Fellowship (supervisor Damoulas). Together with our postdocs, PhD students
+ benefit from dedicated laboratory and social spaces built in 2018, annual away days, annual
+ Faculty and Departmental research prizes, opportunities to teach (with appropriate training), our
+ annual PhD conference, extensive training addressing scholarship and impact, personal
+ development workshops on issues including imposter syndrome and self-sabotage, and full
+ maternity leave offered by the Department. PhD students receive competitive stipends and a
+
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+ personal budget of £2k per year for equipment and travel. Most Warwick PhDs progress to
+ postdoctoral careers in research-focused organisations (e.g. ARM, AWE, GCHQ, Google, Intel,
+ LANL, LLNL, MPI) and universities (e.g. Charles Prague, Harvard, ICR London, Imperial, IST
+ Austria, Oxford, York, WPI).
+
+ Construction of the REF submission
+
+ Our REF submission was developed in line with the University’s agreed Code of Practice (CoP –
+ REF5a-3.5) by a five-person gender-balanced working group (three male, two female) consisting
+ of the Head of Department, a senior professor, academic colleagues responsible for outputs and
+ impact, and the Head of Administration. The Head of Administration’s role was specifically to
+ ensure adherence to the CoP at all times. All members of the group undertook REF-specific ED&I
+ training to mitigate against unconscious bias (REF5a-3.7). The overarching criterion for selecting
+ research outputs and impact case studies was excellence. Candidate publications were
+ discussed in individual meetings of the working group with each eligible researcher, and assessed
+ in collaboration with the heads and deputy heads of the research themes and the head of CIM, as
+ well as through external reviews by 15 eminent UK academics. Before external review, all relevant
+ colleagues were invited to comment on potential conflicts of interest, further mitigating against the
+ possibility of bias.
+
+
+
+
+          Figure 6. Mean numbers of submitted outputs per researcher by category
+
+ This approach has resulted in a good balance of outputs being selected across research themes
+ and academics of different ethnicities and genders (Figure 6, which includes the leavers in this
+ submission, who are two staff in the ThFo theme).
+
+
+
+
+                                                                                              Page 15
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+
+ Research income strategy
+
+ Delivering on our research and impact plans entails an ambitious growth strategy for income. We
+ need resource in order to achieve the capacity required for larger projects, and to fund the
+ specialist infrastructure needed to move into new areas (such as those involving HPC and AI) and
+ maintain collaborations with industry. Funding for visits and exchanges, including for postdocs
+ and PhD students, is key to our ability to play a full part in the international research community.
+ The ability to employ a healthy population of postdocs and PhD students provides capacity and
+ underpins the future sustainability of our discipline. The vibrant environment that we have built
+ attracts excellent people, including those bringing prestigious independent fellowships to Warwick
+ (e.g. Gur, Hao, Kráľ, Oliveira), which allows us to further invest in our research environment. Our
+ resourcing strategy is based on maintaining a virtuous circle of investment, funding success, and
+ re-investment.
+
+ New opportunities are flagged by Research Strategy Committee and R&IS (REF5a-1.7), who
+ assist with bid development. Research themes play a key role in ensuring that the quality of bids
+ is excellent, by peer-reviewing applications and mentoring junior colleagues in funding strategy.
+ Within Computer Science, we run a research incentive scheme, whereby 50% of any surplus on
+ an award is allocated as discretionary funding for the PI’s theme, to be spent flexibly to support
+ the development of new research initiatives. This represents an investment of approximately
+ £450k per year in Departmental funds. Activities are further pump primed by engaging with
+ University schemes such as those operated by the Institute of Advanced Study (IAS – REF5a-
+ 2.9.2) and Warwick Ventures (WV – REF5a-2.8). Computer Science recently hosted an IAS-WV
+ Early Career Innovation Fellowship which has developed into a further funded impact-focused
+ post. The Department has helped secure major awards and ensure their success by contributing
+ studentships (e.g. ASiMoV – page 20), Assistant Professorships (e.g. PathLAKE – page 20),
+ equipment and facilities such as data storage (e.g. Y He’s newly awarded Turing AI Acceleration
+ Fellowship).
+
+ By implementing this strategy, we have succeeded in (1) securing £15.8M in research income
+ during this REF period, compared with £6.1M during the previous one, (2) continuing throughout
+ this REF period the monotonic pattern of growth in annual overall research income (Figure 7) that
+ we also had during the previous one, and (3) increasing research income per submitted FTE to
+ £79k in 2019-20 from £71k in 2012-13. A by-product of our strategy is resilience in the context of
+ the evolving funding landscape. In particular, through growing our engagement with the ATI over
+ the past four years we have benefitted from over £1M in research income within the “UK
+ government bodies and charities” category, and we have developed new relationships with
+ external funders of research, such as the Food Standards Agency.
+
+ Organisational infrastructure supporting research and impact
+
+ The theme discretionary funds provide flexibility to fund PhD students, bridge appointments of
+ postdocs, organise events, support visitors and interns, and cover equipment and travel expenses.
+ Supported by themes, our researchers (including PhD students) attended on average two
+ international conferences or workshops organised at Warwick annually over this REF period, and
+ collaborated with over 70 academic and industrial visitors from over 20 countries.
+
+
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+
+
+
+
+                 Figure 7. Research income totals by category of funder (£k)
+
+ At University level, we engage with WV to create commercial routes to impact for our research
+ outcomes where appropriate. For example, building on research of Hao, we filed a patent on
+ auctioneer-free e-auctions in 2019, and plan a spin-out to bring e-voting to market in 2021.
+ Working with WV, we secured £15k of iCure funding to support a 3-month training programme to
+ prepare one of our Research Fellows to become CTO of a forthcoming spin-out.
+
+ We are able to draw on institutional infrastructure such as R&IS (REF5a-1.7) to support the
+ development and delivery of large and complex collaborative projects, including dealing with
+ specialist IP, ethics and insurance issues, negotiating consortium agreements, and managing
+ post-award administration. We also encourage and facilitate the development of such projects
+ locally by providing suitable administrative leadership, for example, for the IDENTITY project
+ (page 20).
+
+ The EPSRC CDT in Urban Science, the EPSRC CDT in Mathematics for Real-World Systems,
+ and the Warwick CDT in Computer Science, through which most of our PhD students are
+ supported, have all promoted and facilitated collaborations with business, industry, and the public
+ and third sectors. Approximately one third of our population of 130 PhD students are fully or
+ partially funded by such organisations.
+
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+ Specialist research infrastructure and facilities
+
+ Our physical infrastructure is modern, bespoke and cohesive. Most researchers in our Unit are
+ housed either in our purpose-built four-storey Computer Science Building, adjacent to the Warwick
+ Mathematics Institute and the Department of Statistics, or in the new interconnected £27M,
+ 3,700m2 Mathematical Sciences Building. The new building opened in October 2018 and was part-
+ funded by a £2M donation from the Wolfson Foundation. It represents a significant investment by
+ the University, reflecting its vision of growth for its world-class mathematical sciences research.
+
+ The Computer Science Building has three air-conditioned server and communications rooms with
+ a total area of 85m2, containing a Slurm batch cluster with GPU nodes, over 20 high-power multi-
+ GPU workstations, and over 250 high-specification Linux workstations with solid-state home
+ storage. The Mathematical Sciences Building houses the Turing wing, where we accommodate
+ visiting researchers from the ATI; SBIDER, to which we contribute a suite of rooms used by
+ researchers and PhD students from Computer Science, Mathematics and Life Sciences; CDT
+ study and social spaces; a large PGT laboratory and seminar room; and state-of-the-art video
+ conferencing facilities.
+
+ In order to support our computational pathology impact pipeline (page 20), we led the specification
+ and procurement of a £400k 2-petaflops DGX-2 deep learning AI supercomputer featuring
+ 16 NVIDIA V100 Tensor Core GPUs, and a £280k IBM Elastic Storage System with initial capacity
+ of 1.2 petabytes and with a dedicated IBM Spectrum Discover data lake management system.
+ The Department also contributed financially to this equipment. This has enabled us to win a further
+ £1.7M in NHS capital funding for PathLAKE Plus: upscaling our supercomputing and storage
+ capabilities allowing us to build a unique global facility in computational pathology which will cover
+ 46% of the population of England and Wales.
+
+ We contribute to the Scientific Computing RTP, both financially and through technical
+ collaboration, in order to support our HPC impact pipeline. This facility hosts a hybrid system
+ containing 14,336 x86 compute cores which reach a combined performance of approximately
+ 0.5 petaflops, and an OpenPower component for large scale in-memory analytics. It represents
+ a £3.2M capital investment by EPSRC, with a further new award of £3M for a Tier 2 HPC machine
+ serving the Mid+ consortium and enabling massive ensemble computing.
+
+ ED&I is an important consideration in the design and evolution of our facilities. Our buildings
+ provide gender-neutral, single-sex, and accessible toilets. Mobility issues or other adjustments
+ are taken into account when allocating and fitting out offices, and we provide all equipment
+ necessary for working from home. Since working with COVID-19 restrictions, our technicians have
+ increased the number of CPU cores available for remote access from 80 to 280, and integrated
+ them into a new load balancing system. This has been particularly important in ensuring equality
+ of access for older colleagues and those in other high-risk groups.
+
+ Future plans
+
+ An important component of our research funding strategy is to encourage applications for longer
+ larger grants which include significant buy-out for PIs and funding for postdocs, providing stability
+ alongside capacity. Examples of recently awarded projects include two five-year Turing AI
+ Acceleration Fellowships (Damoulas, Y He), with a total value of £2.4M, starting early in 2021. In
+ our near-term pipeline are four UKRI FLF applications and two EPSRC fellowships.
+
+
+                                                                                               Page 18
+Unit-level environment template (REF5b)
+ A second component is to continue to bid for significant funding for collaboration with industry.
+ This will further develop our relationships with existing industrial partners and initiate new
+ relationships, ensuring that the potential impact of our work is fully realised. For example, we
+ expect to extend our research programme with Huawei (Triantafillou), and we have recently won
+ a grant from WM5G (Ferhatosmanoglu) with new commercial partners Blacc, Immense,
+ one.network and O2.
+
+ We will continue to support the Warwick CDT in Computer Science, funded jointly with industry,
+ in order to further nurture interdisciplinary collaborations and further develop PGR relationships
+ with external partners, in preparation for the next UKRI CDT call.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Effective research collaborations are central to our pursuit of excellence. We collaborate in order
+ to ensure that our research stays at the forefront of our discipline worldwide, that it remains fresh
+ and relevant, and that it can achieve the scale and reach needed to make a real difference to the
+ research base, economy and society. We lead in global academic networks, maintaining close
+ links with colleagues at top universities in the UK and overseas, through joint research projects,
+ shared supervision of PhD students and other collaborative activities such as the joint organisation
+ of conferences. We maintain a number of strategic partnerships with the users and beneficiaries
+ of our research and other stakeholders, which enrich our research environment by giving us
+ access to real-world problems and data, and which offer routes to impact. We develop these
+ partnerships partly through targeted engagement with external organisations, and partly through
+ public engagement. Research-led outreach ensures the future sustainability of our discipline. We
+ achieve this by inspiring young people and supporting computer science in schools, by recruiting
+ the best taught and research students, and by maintaining close links with our alumni working in
+ research-intensive organisations.
+
+ Arrangements and support for research collaborations
+
+ Our workload model ring-fences time for developing joint research proposals, and provides
+ flexibility to engage in critical collaborative research activities even when these coincide with
+ teaching or administrative duties. Our research incentive scheme (page 16) ensures that all
+ colleagues have funding to attend conferences and workshops, and to visit national and
+ international collaborators.
+
+ Exemplar: theoretical computer science – Collaboration is a defining characteristic of our
+ research in theoretical computer science, which is led by the ThFo theme and takes place within
+ the interdisciplinary DIMAP centre (Table 1). Established by a £3.8M EPSRC Science and
+ Innovation Award (2007-2014), and bringing together researchers from Computer Science,
+ Mathematics and Business, DIMAP has won over £10M of further funding, including prestigious
+ awards from ERC (six), UKRI FLF (two), RS URF (two), and Leverhulme RF schemes. During
+ this REF period, DIMAP has hosted over 20 conferences or workshops, featuring Nevanlinna Prize
+ and Turing Award speakers such as Goldwasser, Kleinberg, Shamir and Valiant. ThFo also
+ established the Highlights of Algorithms international conference series, held since 2016 in Paris,
+ Berlin, Amsterdam, Copenhagen, and (virtually) Zürich, through the Interest Group on Algorithmic
+ Foundations of Information Technology (IGAFIT) of which Czumaj is a founding member. The
+ outputs contributed by the ThFo theme to this REF are results of collaborations with co-authors
+ from 37 institutions in 15 countries, including Berkeley, CMU, École Polytechnique, Google
+
+
+                                                                                              Page 19
+Unit-level environment template (REF5b)
+ Research New York, IMSc Chennai, TU Munich, ENS Paris, MPI Saarbrücken, Technion, Vienna,
+ Warsaw and ETH Zürich.
+
+ Exemplar: digital forensics – Our digital forensics programme, led by the AppCo theme, is a
+ second exemplar of effective collaboration. During this REF period, our digital forensics
+ researchers attracted £3.2M of funding from the EC, EPSRC, DSTL and the Royal Society, with
+ an explicit focus on collaboration. In particular, the EU H2020 RISE project “IDENTITY” (Li, £1.4M)
+ enabled knowledge transfer among research institutions and private companies about
+ methodologies for identification in a forensic context. The research focused on imaging device
+ identification for multimedia forensics, and on people identification for biometric forensics, across
+ a network of 16 organisations from 14 countries in Europe, Asia, Australia, North America and
+ South America. Our dedicated project manager ensured that over 80 secondments took place
+ globally within a four-year period, involving early career and experienced researchers.
+
+ Development of impact and consequent enrichment of our research environment
+
+ Relationships with key users are nurtured, often starting with small-scale activities such as co-
+ funding a PhD student, and developing into large collaborative programmes funding multiple
+ students and postdocs and involving industrial, academic and third-sector partners.
+
+ Exemplar: intelligent vehicles – Developed from an iCASE studentship with JLR on detecting
+ and modelling the current cognitive workload of a driver, enabling personalisation of the driver
+ assistance and safety systems for the current driving conditions (2011-2015), the partnership with
+ JLR led by Griffiths (AIHCC theme) has led to another iCASE studentship, a RS Industry
+ Fellowship, and a £2M “The Cooperative Car” EPSRC-JLR TASCC five-year award. Involving
+ three PhD students and six postdocs in Computer Science, Psychology and Business
+ departments at Warwick, and working with Intelligent Systems and Human Factors groups at JLR
+ Research, the project is enabling vehicles to cooperate with each other, with centralised control
+ and data archival facilities, and with urban transport infrastructures. It has also developed
+ methods for assessing the human perception and acceptance of autonomous vehicle features,
+ such as highway self-driving, in different traffic and road conditions, which will enable
+ manufacturers to appropriately tune autonomy systems.
+
+ Exemplar: HPC work with Rolls Royce – Building on £550k of PhD and postdoc funding from
+ Rolls Royce, and two Royal Society Industry Fellowships with Rolls Royce, in 2018 Jarvis and
+ Mudalige (DSSS) secured £1.8M through the EPSRC and Rolls Royce Prosperity Partnership
+ “Computational Science for Advanced Simulation and Modelling of Virtual Systems (ASiMoV)”. A
+ collaboration with Bristol, Cambridge, Edinburgh and Oxford universities, it is the largest HPC
+ focused research project in the UK in recent times, worth £14.7M in total over five years, and aims
+ to achieve the world’s first high-fidelity simulation of a complete gas-turbine engine during
+ operation, simultaneously including the effects of thermo-mechanics, electromagnetics and
+ computational fluid dynamics.
+
+ Interdisciplinary research, and responding to national and global challenges
+
+ We address national and global challenges by undertaking interdisciplinary work with clear paths
+ to impact, engaging with the University’s GRP networks (REF5a-2.9.1).
+
+ Exemplar: computational pathology – Rajpoot’s research programme (AppCo), which has
+ grown into the Tissue Image Analytics (TIA) centre linked to the Health GRP, is associated with
+
+                                                                                              Page 20
+Unit-level environment template (REF5b)
+ University Hospitals Coventry and Warwickshire NHS Trust’s global leadership in digital and
+ computational pathology. The work was seeded by a PhD studentship with GE Omnyx on “IHC
+ Stained Slides of Serial Sections” (2013-2016) and a Warwick EPSRC IAA award “Computerised
+ Profiling for Improved Diagnosis and Stratification of Oral Cancers in the Indian Subcontinent”
+ (2016-2017). Rajpoot’s involvement in the Warwick team was instrumental in Omnyx’s decision
+ to locate their UK technology demonstrator site at UHCW. Subsequent PhD studentships from
+ Philips PathXL with MathSys (Table 1) and from Intel with ATI (page 5) increased the capacity of
+ Rajpoot’s group, gave access to further real-world problems and associated data, and extended
+ relationships with industrial and NHS partners, leading to a range of opportunities for impact. The
+ resulting outputs and developing impact led to the award of £570k of MRC grants, and £2.3M from
+ Innovate UK to lead the computational arm of the “Pathology image data Lake for Analytics,
+ Knowledge and Education (PathLAKE)” project (2018-2021), a national Centre of Excellence on
+ AI in pathology. The £15M project, conducted by a consortium involving our local UHCW trust as
+ the project lead as well as teaching hospitals and universities at Belfast, Oxford and Nottingham,
+ and also Philips, Nvidia and four SMEs, is meeting the UKRI ISCF challenge “Data to early
+ diagnosis and precision medicine”. Most recently, the work of the TIA centre on highly accurate
+ classification of cancers has been complemented by a new collaboration with GSK, currently
+ funding three PhD students, seeking to extend the application domain to personalised medicine.
+
+ Exemplar: management of flooding in Brazil – Porto de Albuquerque (AIHCC and IGSD –
+ Table 1) has developed a programme of research across three different grants: “UK-Brazil
+ Collaboration on Leveraging Crowdsourced and Sensor Data to Support Decision-Making towards
+ Urban Resilience” (PI, EPSRC GCRF, £50k, 2016-2017), “Global Health Unit on Improving Health
+ in Slums” (Co-I, NIHR, £6M, 2017-2021), and “Waterproofing Data: Engaging Stakeholders in
+ Sustainable Flood Risk Governance for Urban Resilience” (PI, ESRC GCRF, €1m, 2018-2021).
+ This has led to the development of: (1) a participatory design methodology to enable low-income
+ communities to co-design data collection tools and generate high-quality geospatial data, (2) a
+ novel conceptual modelling framework to support data-driven decision-making, and (3) an
+ innovative geocomputational data integration method which enables the incorporation of citizen-
+ generated data to support flood monitoring. These developments have been used by Brazil’s
+ National Centre for Monitoring and Alerts for Natural Disasters (CEMADEN) to improve the speed,
+ accuracy and operational effectiveness of the information it supplies to organisations throughout
+ the country. It also enabled flood-prone, low-income communities in Brazil to generate flood-
+ related data and gain access to early-warning systems. This research is being continued via a
+ Global Research Translation Award (co-PI, UKRI GCRF, £370k, 2019-2021) and project "URBE
+ Latam: Understanding Risks and Building Enhanced Capabilities in cities of Latin America" (PI,
+ UKRI GCRF, £900k, 2019-2022), expanding the geographical scope within Brazil and to
+ Colombia.
+
+ Wider contributions to economy and society
+
+ Further exemplars have been facilitated by our support for impact through engagement with the
+ ATI, as well as through schemes such as Knowledge Transfer Partnerships and IAS-WV (REF5a-
+ 2.8 and REF5a-2.9.2) Early Career Innovation Fellowships.
+
+ Exemplar: contributions through cyber security and human-centred computing – Based on
+ research funded by ERC and Innovate UK, Hao (DSSS) led the first successful trial of an end-to-
+ end verifiable e-voting system for polling station voting in Gateshead during the May 2019 local
+ elections, and is the PI of a follow-on Royal Society project (£210k, 2018-2021) whose goal is to
+ bring this technology to bear on voting systems in India. Another contribution to public life is from
+
+                                                                                              Page 21
+Unit-level environment template (REF5b)
+ Procter’s work (AIHCC) in collaboration with Cardiff, De Montfort and Oxford, and sponsored by
+ ESRC and Google, which has fed into the UK Government’s Online Harms White Paper. Procter’s
+ research with Oxford, funded by NIHR and TSB, has contributed to the development of the Non-
+ adoption, Abandonment, Scale-up, Spread, and Sustainability (NASSS) framework, which is being
+ delivered as a toolkit through the mHabitat co-design, digital innovation and inclusion team hosted
+ by Leeds and York Partnership NHS Foundation Trust, and has been used in teaching by the NHS
+ Digital Academy. A further contribution in the health domain is an ongoing study of Liakata
+ (AIHCC) in collaboration with the Warwick spin-out Clinvivo on NLP techniques for predicting the
+ progression of dementia by analysing patients’ speech or writing, which has been adopted by the
+ West Midlands Clinical Research Network.
+
+ Exemplar: societal impact with the ATI – Much of the Unit’s work in collaboration with the ATI
+ is directly socially beneficial. We pioneered bringing the Data Science for Social Good summer
+ programme to the UK in collaboration with the ATI, face-to-face in 2019 and online in 2020,
+ bringing together participants from around the world over three months to learn data science skills
+ and apply them to real world problems. This delivered actionable insights and tools for six socially-
+ minded organisations (Homeless Link, Ofsted, WMCA, Cochrane, Paraguay National Directorate
+ of Public Contracting, and the World Bank). The program spans departments, including Computer
+ Science (led by Cormode, DSSS and ATI University Lead), Mathematics, Statistics, Business and
+ CIM. A second ATI example is Project Odysseus (PI Damoulas, DSSS), which builds on
+ spatiotemporal statistics. The original focus was air quality monitoring in cities, funded by GLA,
+ but in March 2020, the team pivoted to address their efforts to the monitoring of human activity
+ during lockdown. Project outputs are now part of a package available to high street managers
+ that also includes anonymised and aggregated people counts from mobile phone providers and
+ spend data. In the short to medium term, the impact is that borough staff across London are able
+ to make better-informed decisions about how they reopen the high streets safely. In the longer
+ term, it feeds into the more strategic work to support high streets to adapt and recover post COVID-
+ 19. A third example is the “Advanced Analytics in the UK Food & Drink Sector” project (2019-
+ 2020, PI Procter, AIHCC), which has provided the Food Standards Agency with a state-of-the-art
+ summary of the latest developments and issues in the application of advanced data analytics to
+ food safety and authenticity for improved system trust.
+
+ Research-led outreach and engagement
+
+ Our schools outreach programme aims to increase the participation of underrepresented groups
+ in computer science. We develop sustained relationships with local schools, for example
+ PlayCodeShare enables primary and secondary schools to explore a new creative model of
+ teaching programming. Our researchers contribute to summer schools, such as Headstart (2014-
+ 2016) and Sutton Trust (2018-2020). We have been providing Continuing Professional
+ Development (CPD) to teachers on behalf of the National Centre for Computing Education
+ throughout this REF period. Leeke (DSSS) serves as a scrutineer and exam writer for AQA
+ Education.
+
+ We contribute to public outreach events (e.g. Festival of the Imagination 2015, Cheltenham
+ Science Festival 2015, British Science Festival 2019, IF Oxford 2020, A Slice of Science 2020),
+ and to Faculty and University research showcases (e.g. Industry Days, to which local and regional
+ companies are invited). We also support our research projects in their public engagement
+ activities, such as the PathLAKE (page 20) Masterclasses, CPD accredited by the Royal College
+ of Pathologists, and aimed at computer scientists, engineers, data scientists, and pathologists, to
+ gain familiarity with data science techniques for solving computational pathology problems.
+
+                                                                                              Page 22
+Unit-level environment template (REF5b)
+
+
+    Indicators of influence, contribution and recognition
+
+    Editorial Board memberships – In total 29, including: Editor-in-Chief of SIAM Journal on Discrete
+    Mathematics and Managing Editor of Advances in Combinatorics (Kráľ); Associate Editors of ACM
+    Transactions on Database Systems (Cormode), IEEE Security & Privacy (Hao), IEEE Transactions
+    on Learning Technologies (Joy), Information Processing Letters (Lazić); Editors of Performance
+    Evaluation (Ciucu), Psychological Medicine (Feng), Service Oriented Computing and Applications
+    (Griffiths), Health Informatics (Procter), Medical Image Analysis (Rajpoot), Computers and
+    Graphics (Turkay), Multimedia Tools and Applications (Yu).
+
+    Fellowships6, prizes and awards – Selected list: ACM Fellow (Cormode), EATCS Fellow and
+    President (Czumaj), AWE William Penney Fellow and TRL Academy Fellow (Jarvis), AMS Fellow
+    (Kráľ); Adams Prize (Cormode), Shimon Even Prize (Gur), Philip Leverhulme Prize (Kráľ), Roger
+    Cotton Prize (Rajpoot); Imre Simon Award (Cormode), Wolfson Research Merit Awards (Cormode,
+    Feng, Rajpoot, Sviridenko), IBM Faculty Award (Czumaj, Liakata), Georg Forster Research Award
+    (Ferhatosmanoglu), ITC Rising Scholar Award (Mukhopadhyay), EuroVis Young Researcher
+    Award (Turkay).
+
+    National and international committee memberships – Selected list: Chair of the Maestro
+    Advanced Grant panel at the Polish NCN, Chair of the LMS Computer Science Committee, UK
+    Computing Research Committee (CRC) (Czumaj); Advisory Committee for the National Science
+    and Technology Research Council of Turkey (Ferhatosmanoglu); Executive Committee of the
+    Association for the Advancement of Affective Computing (Guha); SafeToC (Gur); Computer
+    Science panel of the Czech Science Foundation and Dénes König Prize Selection Committee
+    (Kráľ); Natural England Science Advisory Committee (McInerny); UKRI GCRF Strategic Advisory
+    Group (Porto de Albuquerque); Board of Directors of the International Foundation for Autonomous
+    Agents and Multiagent Systems (Tran-Thanh); ADAPT Centre review panel of Science Foundation
+    Ireland (Procter); REF 2021 Sub-panel 11 and UK CRC (Triantafillou).
+
+    Conference leadership roles – These include: Steering Committee members of Annual
+    European Symposium on Algorithms, Highlights of Algorithms, and International Colloquium on
+    Automata, Languages and Programming (ICALP) (Czumaj), ACM-SIAM Symposium on Discrete
+    Algorithms (SODA) (Kráľ), Medical Image Understanding and Analysis (Rajpoot),
+    ACM/USENIX/IFIP International Middleware Conference (Triantafillou); Advisory Board members
+    of Proceedings of Very Large Databases (Cormode and Triantafillou); President of the European
+    Congress on Digital Pathology 2019 (Rajpoot); Programme Committee Chairs of SODA 2018 and
+    ICALP 2020 Track A (Czumaj), Highlights of Logic, Games and Automata 2018 (Jurdziński),
+    Canadian Discrete and Algorithmic Mathematics Conference 2019 (Kráľ); Programme Committee
+    Co-Chairs of International Conference on Cryptology in India 2019 (Hao), Conference on Empirical
+    Methods in Natural Language Processing 2020 (Y He), International Symposium on Mathematical
+    Foundations of Computer Science 2020 (Kráľ); Open Practices Chair for IEEE VIS 2019, 2020
+    (Turkay).
+
+    Invited keynotes – Over 120 conference and workshop invited talks, including: Highlights of Logic,
+    Games and Automata 2019 (Chistikov); International Conference on Analytical and Stochastic
+    Modelling Techniques and Applications 2016 (Ciucu); ACM SIGMOD-SIGACT-SIGAI Symposium
+
+6
+ Fellowships that are research grants are covered elsewhere in this template, see e.g. Work
+Strand I on page 4.
+                                                                                              Page 23
+Unit-level environment template (REF5b)
+ on Principles of Database Systems 2015 and ACM Symposium on Principles of Distributed
+ Computing 2018 (Cormode); IEEE International Conference on e-Business Engineering 2013
+ (Griffiths); SIAM Conference on Discrete Mathematics 2018 and International Conference on
+ Random Structures and Algorithms 2017 (Kráľ); IARCS Annual Conference on Foundations of
+ Software Technology and Theoretical Computer Science 2019 (Lazić); International Statistical
+ Ecology Conference 2014 (McInerny); SPIE Digital Pathology 2020 (Rajpoot); Eurasia Graphics
+ 2014 (Turkay).
+
+ Invited tutorials for doctoral students – These include: 14th Summer School on Modelling and
+ Verification of Parallel Processes (online), Grenoble, France, 2020 (Chistikov); German-Israeli
+ Workshop and Winter School on Algorithms for Big Data, Tel Aviv, Israel, 2017 (Czumaj);
+ Efficient algorithms in game theory, optimization and data science, Aachen, Germany, 2015
+ (Englert); IX Escuela de Verano en Matemáticas Discretas, Valparaíso, Chile, 2014, 9th PhD
+ Summer School in Discrete Mathematics, Rogla, Slovenia, 2019, AlgoMaNet School, Brno,
+ Czechia, 2020 (Kráľ); EPSRC Sustainable Approaches to Biomedical Science: Responsible and
+ Reproducible Research, Oxford, UK, 2019, Visualization Summer School, Beijing, China, 2019
+ (Turkay).
+
+
+
+
+                                                                                         Page 24
+

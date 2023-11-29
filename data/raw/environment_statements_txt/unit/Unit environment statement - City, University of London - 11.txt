@@ -1,0 +1,903 @@
+Unit-level environment template (REF5b)
+ Institution: City, University of London
+
+
+ Unit of Assessment: 11 Computer Science and Informatics
+
+
+
+ 1. Unit context and structure, research and impact strategy
+ 1.1 CONTEXT AND STRUCTURE
+ City’s Unit of Assessment B11 is based in the Computer Science (CS) Department, within the
+ School of Mathematics, Computer Science, and Engineering, one of the five Schools within the
+ University. From its origins as a mixture of loosely aligned Departments and Schools (dating back
+ to 1990), the CS Department is now made up of five research centres that provide focal points for
+ collaborative research, publications and funding applications. These are ACSML (Adaptive
+ Computer Systems and Machine Learning), CitAI (Artificial Intelligence Research Centre), CSR
+ (Centre for Software Reliability), giCentre (Data Visualisation) and HCID (Human-Computer
+ Interaction Design).
+ The Department currently comprises 42 academics (up from 36 in 2014). We are returning 40
+ staff under B11 for REF 2021 two under D34. In addition, we depend on a research, teaching and
+ student complement, with 13 post-doctoral research assistants (PDRAs), 48 PhD students, 3
+ teaching-only staff and over 1,000 taught-course students, 30% of whom are postgraduates
+ (2020-21). Critical to the success of our research are 5 administrative staff (dedicated to
+ research), consisting of 2 postgraduate research officers, a researcher manager to support grant
+ applications and a research officer whose remit is to target impact.
+ The Department’s strategic and practical planning of research is jointly managed by the Head of
+ Department and the Centre directors. Together, they set out the longer-term research agenda and
+ agree on initiatives such as prioritising areas of growth and staff to hire, encouraging
+ interdisciplinary research and fostering a healthy research environment. They also provide a
+ bridge to the broader School- and University-level strategies, the latter outlined in our REF5a
+ statement. Staff across the Department are involved in discussion and feedback on strategic and
+ practical planning during monthly staff meetings, and this widespread participation is further
+ encouraged at Centre level through regular meetings.
+ As a Department, we pride ourselves on our welcoming and collegial research culture and the
+ commitment of our staff, who invest considerable energy in growing and strengthening the
+ research environment. This energy and vitality have led to a wide range of successes in this
+ assessment period, including growth in research capacity (i.e., staff numbers and funding), the
+ expansion of our PhD programme, enlargement in strategically targeted areas, and increased
+ investment in partnerships across academia and industry. This exciting period of growth stems in
+ particular from the aims we formulated four ourselves in 2014 and a strategic plan we have given
+ shape to since then.
+
+ 1.2 RESEARCH STRATEGY
+ In REF 2014, we set out a research strategy aiming to build expertise and extend our impact
+ across four areas of research: cyber systems security, adaptive systems engineering, creative
+ system design, and data analysis and visualisation. We also set out two broad goals: (i) to
+ produce world-leading, problem-driven interdisciplinary research and, (ii) to use the outcomes of
+ our research to benefit society, enterprise and the public sector. We pursued these goals by:
+ aligning our research directions with new funding programmes and priorities (e.g. the EU Horizon
+ 2020 (H2020) and Research Councils UK’s Global Uncertainties, Healthcare and ICT
+
+Page 1
+Unit-level environment template (REF5b)
+ programmes); supporting joint research programmes and bids with user, industry and academic
+ partners; and channelling Departmental resources to seed high-priority research. This strategy led
+ to growth and numerous successes in this assessment period, including:
+    •    Growth in research staff: The number of Category A staff members has increased from 36
+         to 42, representing a 17% growth in independent, research-active staff. Reflecting
+         growth in funded research, the number of PDRA positions has also increased, from 3 new
+         posts in 2015 to 13 and 14 in 2018 and 2019 respectively.
+    •    Growth in funded research: Since REF 2014 we have achieved a 33% growth in
+         research income (£6.7m for REF 2014 to £9m in this period), with funding from UK
+         Government sources (i.e. research councils) growing by 80% (£1.5m to £2.7m).
+    •    Increased visibility and prominence of outputs: We have achieved measurable
+         improvements in visibility and prominence of outputs since REF 2014. Comparing our
+         outputs from 2014 to those submitted in this period, average citations per output rose from
+         7 to 26 (Scopus). A normalised field citation ratio (FCR) (a normalised value accounting for
+         subarea and year, used by Altmetric) shows that all but two of our outputs that have data
+         available (57 out of 59) are outperforming comparable work. The average h-index score,
+         indicating the prominence of journals and conferences in which our outputs were
+         published, increased from 97 to 129 (using the SCImago Journal Rank (SJR) indicator).
+    •    Growth in areas of increasing economic and societal significance: In 2018, we formed the
+         interdisciplinary Data Science Institute (with £500k internal investment) and, in 2019,
+         established a research centre in AI. Both respond to the burgeoning research and
+         development in data science and AI, and capitalise on our interdisciplinary strengths,
+         which are in high demand due to sector-wide growth in these areas.
+    •    Growth in doctoral training provision: In 2019, the Department launched two centres for
+         doctoral training supported by EIT-Digital, one in AI and one in Cyber Security, offering
+         an approximate total of £16m for potential PhD sponsorship until 2023.
+    •    Increased enterprise, third-sector and public investment: Over the period, we achieved a
+         balanced portfolio of public sector and industry-funded research, with industry and
+         charity funding growing from £0.9m to £1.1m and funding from UK Government, health
+         and local authorities growing from £0.87m to £1.5m. This amounted to almost a third of our
+         total income for the assessment period.
+ The Department’s strategy for research was developed alongside the work we did to meet our
+ aims from 2014. We now seek to be bolder in our long-term strategic planning. Thus, our strategic
+ plan is designed to guide us in where to concentrate investment and growth and how we build
+ connections across our five research centres. It has also been developed to respond to our
+ strengths and to reflect the wider research and industrial landscape in the UK and globally.
+ Specifically, it recognises and responds to the proliferation of data intensive systems across many
+ sectors and facets of society, and the sociotechnical challenges and risks that come with these.
+ The plan sets out goals under three areas:
+    (i) Focused research: Our plan establishes cross-subject themes of strategic importance at
+        the intersections of AI and machine learning (ML); reliable, safe and secure systems; and
+        intelligible and useable interfaces. We are prioritising work across these themes in
+        response to the rapid growth of and widespread investment in data-intensive systems.
+    (ii) Interdisciplinarity: We strongly promote interdisciplinary research. This has meant
+         targeting investments in new interdisciplinary units and prioritising funding applications that
+         depend on research across computing’s sub-disciplinary boundaries, as well as with other
+         departments (see below and section 4 for examples).
+
+Page 2
+Unit-level environment template (REF5b)
+    (iii) Collaborations and partnerships: Our research strategy prioritises building collaborations
+          and partnerships within the UK and internationally. This goal targets the nurturing of
+          networks that staff build in their areas of expertise, support for cross-institutional sharing of
+          research, and the pursuit of impactful projects that combine expertise across institutions.
+ We are achieving these objectives by:
+    •    Targeted hiring: We have made seven new appointments of staff who conduct research in
+         or related to ML and AI (Daviaud, Garcia-Ortiz, Jimenez Ruiz, Mondragon, Tarroni,
+         Taylor and Ter-Sarkisov). We also have a forthcoming appointment of a Professor in AI
+         (not formally returned for this period).
+    •    Seed and bridge funds: We use internal funding and resources so that research centres
+         incubate new research as well as extend and sustain important established research
+         areas. This, for example, includes a University-wide pump-priming fund (£80k per year)
+         and Higher Education Innovation Fund (HEIF) targeted funding (£75k per year). Centres
+         also use funds the University provides from grant overheads (currently the calculation is
+         8% of income from overhead bearing grants plus one third of principal investigator time
+         charged against projects).
+    •    New organisational initiatives: To enable work in our focused areas of research and
+         interdisciplinarity, we have launched an Interdisciplinary Research Centre in Data Science
+         (spanning six departments across the University), a new Research Centre in AI, and two
+         European Institute of Innovation & Technology (EIT)-Digital doctoral training centres (in AI
+         and Cyber Security).
+    •    Cross-institutional sharing of research: Encouraging collaboration and partnerships, we
+         commit funding to staff travel and research centre and Department seminars. During the
+         reporting period, £25k was committed to fund travel to other institutions and for visitors to
+         City. Through this support, we have attracted high-profile international speakers and
+         leaders from a range of CS areas (see Section 2.2).
+    •    Topically targeted funding: Aligned with our focused research, we have targeted grant
+         applications and had funding successes in, for example, work on explainability in AI
+         systems (Fujitsu, £86k), risk and self-driving cars (Intel, £200k), and visual analytics in
+         crime prevention (EU Seventh Framework Programme (FP7), £519k). We also received an
+         EPSRC new investigator award for applying ML techniques in verification algorithms
+         (£324k awarded in February 2020 but with the start date just outside the timeframe of this
+         assessment).
+    •    Sustained research combining expertise across areas and institutions: For example, the
+         Diversity and Defence in Depth for Security project (£560k) involved collaboration with the
+         Universities of Lisbon and Maryland to develop robust layers of defence against security
+         attacks on diverse systems. The work led to outstanding research outputs with the
+         collaborators (Distinguished Paper at the IEEE’s European Dependable Computing
+         Conference 2018) and subsequent involvement in a H2020 consortium project (DiSIEM,
+         overall funding, €4m), which involves collaboration between two of our CSR and the
+         giCentre.
+
+ 1.3 IMPACT STRATEGY
+ Our impact strategy aims to take full advantage of the pathways to impact offered by industry
+ collaboration and commercialisation, and public and policy engagement. Thinking strategically
+
+
+
+Page 3
+Unit-level environment template (REF5b)
+ across the lifespan of these pathways we target both short-term investments, with high impact
+ potential, and sustaining long-term commitments.
+ In the short-term, we prioritise applications for internal resources (e.g. pump-priming, HEIF
+ funding and UKRI block grants) on the basis of their potential for impact. We also target funded
+ partnerships that emphasise knowledge co-production. The latter, through Innovate UK and
+ knowledge-transfer partnerships (KTPs), has resulted in projects worth £720k over the
+ assessment period.
+ The DMINR (Digital Mining in News and Retrieval) project provides an example of how we
+ progressively build on industry collaborations and work towards commercialisation. The project,
+ funded by Google (£550k), is a collaboration between staff in CS, the University’s Journalism
+ Department and Google, and involves the design of a tool to help journalists work with
+ heterogeneous data sources to produce verifiable news. As well as research outputs, the project
+ has produced a demonstrator tool that uses data-driven ML models to filter news and visualise the
+ sources of information. Awarded HEIF funding (£10k), this tool is now set to trial in BBC and
+ London Times newsrooms, and has been given access to Dow Jones’s news sources.
+ A significant proportion of our projects for the period funded by UK Research and Innovation
+ (UKRI) and the EU projects also involved partnerships with industry and third-sector organisations
+ (54%). The EPSRC funded SCAMPI (Self-Care Advice, Monitoring, Planning and Intervention)
+ project (£1.2m) offers an example of the Department’s involvement in a consortium with non-
+ academic partners, targeting real-world healthcare planning and provision in the community. The
+ research has involved collaborations with charities, investors, practitioners and business owners
+ in the healthcare, social care and other sectors, and is culminating in a business proposition that
+ includes the computational modelling of quality of life.
+ It is through cultivating sustained engagements such as these that we seek longer-term,
+ established industry collaborations and opportunities for commercialisation. Examples of such
+ longer-term successes are captured in our four impact cases submitted for this assessment
+ period. The collaboration with BetBuddy, for instance, demonstrates how over a period of 6 years
+ our staff have sought to translate underpinning research in ML into a viable commercial product
+ for predicting gambling addition, leading eventually to an acquisition by Playtech, the world’s
+ largest provider of online gambling software.
+ Similarly, the successes and international recognition of staff in CSR (detailed in 4.3) show how
+ our longer-term commitments have built capacity for public and policy engagement. Here, staff
+ such as Bishop, Bloomfield and Littlewood show how expertise, based at City for over 20
+ years, can be both commercialised through consultancy and operationalised in ongoing
+ contributions to safety critical industries and governments, internationally.
+ Our commercial impact and public and policy engagements are more broadly aided through the
+ support of enterprise and professional services, including a dedicated Impact Officer and
+ academic enterprise staff (12 full-time equivalents (FTEs)), all of whom have expertise in
+ brokering connections with commercial and non-commercial partners (see REF5a). In addition,
+ Research Support Services (10 FTEs) and Press and Communication (5 FTEs) staff support
+ impact-focused engagement activities, marketing, publicity and communications.
+ Supported by these enterprise and professional-facing services, we have, for example, pursued a
+ number of initiatives aimed at building stronger relations with industry partners. In April 2019, we
+ held an Industry Engagement Event with a focus on grand challenges related to AI, an ageing
+ society, clean growth, and the future of mobility. We also held an event in May 2019 on
+ megacities in conjunction with Design Week hosted in the local area of Clerkenwell. These
+ activities have been closely linked to the University-funded interdisciplinary Data Science Institute.
+ Led by Garcez, the Institute has built partnerships with the BBC, the British Library, Delta Capita,
+
+Page 4
+Unit-level environment template (REF5b)
+ the NHS, Société Generale, etc. and is targeting solutions in business, finance, health, transport
+ and the creative industries. Annually, we also host an HCI Design Open Day to present City-
+ based Human-Computer Interaction research to a largely industry-based audience. Through our
+ relationships with technology- and design-based companies, particularly located around the
+ nearby ‘Silicon Roundabout’, the event has attracted up to 200 attendees from SMEs and larger
+ organisations, and also provided the opportunity for presentations from the Alzheimer’s Society,
+ BBC, BAE, Barclays, British Council, Government Digital Service, Pearson, Tesco and Thompson
+ Reuters.
+
+ 2. People
+
+ 2.1 STAFFING STRATEGY AND STAFF DEVELOPMENT
+ The Department’s staffing strategy has been shaped by our strategic plan and the University’s
+ institutional vision and Research and Enterprise Strategy 2016-2021 (see REF5a). Ongoing
+ improvements in response to our annual staff surveys are also being planned and implemented in
+ CS. Together these inputs set out a strategy for staffing and development that prioritises inclusive
+ recruitment, a welcoming and collegial research culture, transparency and fairness in workload,
+ and clear and transparent appraisal and promotion procedures.
+ Recruitment
+ During the assessment period, recruitment was designed to support incremental growth in the
+ Department, fulfilling the need for broad-based research and teaching across CS. Accordingly,
+ since 2014 we have hired 15 new staff and, with promotions, made a total of 27 new
+ appointments. Accounting for staff who have left, this represents an overall increase from 36 to 42
+ staff members (17%).
+ We have sought to strengthen the quality of our research by using a well-rounded approach to
+ recruitment, with staff hired across research areas. We have also ensured that the Department’s
+ staffing strategy is closely coupled with our strategic plan. Thus, hiring has been spread over our
+ three priority areas, AI and ML (6), reliable, safe and secures systems (4) and intelligible and
+ useable interfaces (5), but with an emphasis placed on research related to data intensive
+ systems. As well significantly growing our staff working directly in AI and ML, we have sought staff
+ with complimentary research in medical imaging (Reyes-Aldasoro), visual data analysis (Jianu)
+ and AI ethics (Taylor).
+ Research culture
+ We aim to support an inclusive research culture, paying attention to this in our strategic plans and
+ our support for early career researchers (ECRs) and research students (see Sections 2.2 and
+ 2.3).
+ With respect to staff development, an inclusive culture is built through both University and School
+ inductions, a mandated equality and diversity general awareness training, and a range of courses
+ and training programmes targeting inclusion and inclusive leadership and management practices
+ (see Sections 2.2 to 2.4).
+ The University-wide annual staff survey provides a valuable resource for assessing levels of
+ satisfaction. The results are used to run workshops on issues that have been given a high priority
+ and identified as challenging by staff. Crucial for the Department is that issues are addressed
+ transparently and through a participatory process (see workload and promotion examples below).
+ This process has worked particularly well around issues of diversity and inclusion in the current
+ REF period, enabling a broad base for consultation, strategic planning and achieving milestones
+
+
+
+Page 5
+Unit-level environment template (REF5b)
+ (such as the Athena SWAN Bronze award; see Section 2.4) and planning ongoing events and
+ activities led by our Diversity and Inclusion committee.
+ Workload
+ Our staff survey in 2018 showed CS staff wanted greater recognition of workload and more
+ transparency in the allocation of tasks around teaching, administration, research and attracting
+ funding. In response, a workload model was instituted in 2019 that now offers a uniform and
+ transparent measure of staff contribution, while being flexible enough to adapt to the demands of
+ different sub-fields and individual circumstances. The model contains a weighting scheme for
+ three types of activity: teaching, research and administration. An annual allocation exercise
+ ensures work is fairly distributed across staff and allows staff to declare preferences for
+ weightings across the three activity types.
+ In addition to managing day-to-day workloads, staff have a number of different options for
+ managing their time and taking leave, including long-term leave, parental and adoption leave,
+ flexible working and sabbaticals. Very few staff have taken up any option for extended leave in
+ this assessment period (11 staff, School-wide, took maternity, paternity or shared parental leave
+ in the period). Staff can take sabbaticals after six years of service on request to the Head of
+ Department and if approved by the School’s Board of Studies.
+ In CS, 11 staff took year-long sabbaticals in the assessment period. This proved effective in
+ supporting our research achievements, outputs, and networks with other research institutions. For
+ example, Child was awarded two Innovate UK KTPs (£652k); Howe held a visiting research
+ fellow position at the University of St Andrews; Spanoudakis applied for and won two H2020
+ grants (€818k for City); Stumpf established three separate industry partnerships with Microsoft,
+ Microsoft Research Cambridge and Fujitsu Labs (total £276k); and Wood released Elm-Vega, a
+ software tool that produces declarative visualisations using Elm.
+ Appraisals
+ Appraisals occur annually. These are held with the Head of Department for staff at a professorial
+ grade and with research centre directors or departmental professors for those at lower grades.
+ The appraisals take into account research achievements over the year set against agreed targets.
+ Staff outputs are incorporated into appraisals through an Annual Research Quality Monitoring
+ (ARQM) review. Each year, staff are asked to nominate up to four publications from the past four
+ years, which are then assessed using the same scoring system as REF (i.e. 1* to 4*). The number
+ of outputs required is reduced for staff who are part-time or early career, or who have had
+ maternity leave or other extended periods of absence. The ARQM review is managed by the
+ research centres, with some solely using external referees and others using internal assessment
+ and external referees for calibration of the results.
+ Training needs are also considered in appraisals. A new mechanism for mappings between
+ career paths and training is being developed to support this. This will help to identify which
+ training activities are of most use to staff at various stages of their career and what training is
+ required to undertake certain roles.
+ Promotions
+ There were 12 promotions in the Department during the assessment period (around 30% of the
+ total staff count), 8 from lecturer to senior lecturer, 3 from senior lecturer to reader, and 1 from
+ senior lecturer to professor.
+ From 2019/20, the promotions process for the Department has been refined to improve
+ transparency and set clearer criteria. Applications for promotion are initiated by staff and a panel
+ considers staff achievements, contributions to research, education, professional practice, and
+
+Page 6
+Unit-level environment template (REF5b)
+ service and/or leadership. In assessing promotion cases, the panel also takes into account the
+ internal ARQM review. Promotions from lecturer to senior lecturer are determined at School level.
+ Promotions to reader, associate professor and professor, as well as advancements within
+ professorial banding, are first considered at School level, but ultimately determined at University
+ level by the Academic Promotions Committee chaired by the President.
+
+ 2.2 SUPPORT FOR RESEARCHERS AND EARLY CAREER RESEARCHERS
+ As indicated in our REF5a statement, the University is signed up to the Concordat to Support the
+ Career Researcher Development of Researchers. Relatedly, our aim is to excel at the supporting
+ and managing researchers, and to prioritise their active control in career-related decision making.
+ This has meant, for example, that researchers’ contracts now have parity with academic staff
+ contracts at the University, and research staff are now automatically promoted to a higher salary
+ grade (5B to 6) upon successful completion of a PhD or equivalent doctoral award.
+ As a Department, we make use of the full range of internal funding opportunities to support our
+ staff and especially our ECRs. ECR-specific successes in funding include two awards in 2017
+ under the EPSRC’s “First Grant” scheme (Kalyvianaki, £100k; Turkay, £134k). To offer a current
+ example of how we support researchers, Neate, a grant-funded PDRA (hired in 2017) in HCID,
+ was awarded pump-priming funds (£5k) to conduct research into mid-air haptic technology and its
+ potential for gesture-based systems. Neate subsequently submitted an EPSRC Future Leaders
+ application (£1.43m), which has reached the final stage and is currently awaiting a decision. This
+ application has been supported by a commitment to fund a complementary PhD student and to
+ promote Neate to lecturer at the end of the project.
+ Support and scholarly development are encouraged in and across the centres. Numerous seminar
+ series (both centre-based and across the Department) provide opportunities for City staff to share
+ their work and for external academics to visit from national and international institutions. Internal
+ talks are seen as especially important for sharing expertise and serve as a catalyst for
+ collaboration. We have found our monthly short-talk seminars, that group staff presentations, are
+ especially effective in sharing the background to specific research areas and projects, and
+ providing a basis for collaboration. World leading in areas of computing, we are also proud to
+ attract internationally recognised speakers to present as part our seminars and departmental
+ events. Highlights include, Dr Carpendale (University of Calgary), Prof. Fitzpatrick (Vienna
+ University of Technology), Prof. Gaver (Goldsmiths), Prof. Hook (KTH, Sweden), Dr Fekete (Inria),
+ Dr Munzner (University of British Columbia), Dr Rosner (University of Washington), Prof.
+ Shneiderman (University of Maryland) and Dr Viegas (Google).
+ Complementing these seminars, the centres run a range of research activities. For example,
+ HCID holds weekly research groups, a biweekly reading group, and regular research-planning
+ and strategy meetings that include all staff and postgraduate research students. ECRs and
+ researchers routinely participate in all these activities to the extent that they have become core
+ contributors to the intellectual vibrancy of the Centre and have chosen to build on this collective
+ ethos by establishing a weekly writing group and, among the PhDs, daily commits (borrowing from
+ the Agile software development tradition).
+ 2.3 POSTGRADUATE RESEARCH
+ Postgraduate research (PGR) students are core to the energy and vitality of our Department. Two
+ significant achievements over the current REF period are especially noteworthy under PGR.
+ During the period, our department joined the EU’s European digital innovation and entrepreneurial
+ education organisation, EIT Digital. Through EIT Digital, we have received support for two
+ doctorial training centres (DTCs), one in AI and the other in Cyber Security. Both permit the intake
+ of ten PhD students per year over four years (2019/20-2020/23). With a commitment to promoting
+
+Page 7
+Unit-level environment template (REF5b)
+ industry impact, students must match their EIT Digital funding with funding from an industry
+ partner. In each DTC, the maximum award ceiling is £8m, yielding a total of £16m for potential
+ PhD sponsorship between 2019 and 2023.
+ In addition to these funds, the School makes EPSRC and block grant funds available for PhD
+ studentships across its three departments; CS received funds for 16 PhDs between 2014 and
+ 2020, and individual centres funded a smaller number of students (currently 9). We also continue
+ to apply and receive awards for individual student funding (this period having won 3 AHRC
+ doctoral training partnership awards and a Microsoft Research PhD scholarship).
+ Altogether, the significant increase in PhD funding over this period has set the stage for
+ considerable growth in postgraduate research in CS. Through the EIT Digital model, we are also
+ closely aligned with the University-wide strategic plan to extend international and enterprise
+ partnerships (as outlined in our REF 5a).
+ Recruitment and completions
+ Over this assessment period, we have maintained healthy enrolment and completion numbers
+ and diversity in our PGR programme (see 2.4). The annual intake of PGR students remained
+ stable between 2014 and 2018/19 (9-14 students) and began to grow with the inauguration of the
+ EIT Digital DTCs. In 2020 we had an intake of 16, and we expect this to increase significantly with
+ the potential for an additional 20 part-funded positions each year across AI and Cyber Security.
+ With respect to completions, we awarded 57 PhDs in the six years between August 2013 and
+ 2019/20 (approximately 9 per year), representing a 19% increase on the previous assessment
+ period.
+ To provide a snapshot of our PhD cohort, in July 2020 there were 43 PGR students, of whom 21
+ were studying full time and 22 part time. Most students were part of the ACSML (47%), CSR
+ (16%) or HCID (16%). Of these, 16 were ‘home’ students, 18 from the EU and 9 ‘overseas’. About
+ half were funded through University or Department funds and half through self-funding or external
+ grants.
+ Support and training
+ Research student supervision and progression monitoring are undertaken through a supervisory
+ procedure with all students having a primary and a secondary supervisor, and in some cases –
+ particularly industry collaborations—additional external supervisors.
+ Wider support for research students is provided by postgraduate student representatives (three in
+ CS), two research degree administrators and three departmental senior tutors for research
+ (STRs), all with oversight from the School’s Associate Dean for Research and Enterprise.
+ Quarterly Research Degree Committee meetings are held with student representatives and staff
+ representing academic, administrative, and research management and strategy roles. Outputs
+ from the Committee have included regular updates to the Department’s Guide to Research
+ Studies document, improvements to graduate teaching assistant contracts, and the design and
+ provision of our Postgraduate Research Experience Survey (PRES) and Survey of Research
+ Culture.
+ An inclusive culture is core to investing in our students and recognising their contribution to the
+ Department. The School holds an annual summer symposium to enable PGR students to present
+ their work through posters and papers and compete for prizes. The School also provides students
+ with a conference travel fund (£1k/student) and the Department’s centres supplement this with
+ fixed sums per year and responses to specific requests. This allows, for example, students to
+ attend top-ranked conferences in their area and to present their work to an international audience.
+ Across all areas of postgraduate training and support, we pride ourselves on enthusiastically
+ encouraging and promoting students’ contributions. Our PhD students have many impressive
+Page 8
+Unit-level environment template (REF5b)
+ achievements, including: Booth being awarded a National Science Foundation grant to attend
+ IEEE Symposium on Visual Languages and Human-Centric Computing 2015 (one of only two
+ awards to non-US students) and presenting a full-paper at the top-ranked ACM SIGCHI 2016
+ (USA); Koulman’s paper presentation at CogSci 2019 (Montreal); Liem’s Best Poster Award at
+ IEEE VIS 2018 (Berlin); Mereani’s two consecutive papers at the International Joint Conference
+ on Computational Intelligence (2018-2019, Bangladesh); and Reljan-Delaney winning the
+ Equality and Diversity Scholarship to fund attendance to IEEE VIS 2018 (Berlin) as well as acting
+ as Student Ambassador at IEEE VIS 2019 (Vancouver).
+ Under training, the University’s Doctoral College oversees a Researcher Development
+ Programme for PGRs (see REF5a statement). This provides training in qualitative and
+ quantitative methods, research ethics, thesis writing, and viva preparation. In CS, training for PGR
+ students begins with twice-yearly departmental inductions that cover library services, our
+ Research Manager software tool and FigShare (the latter, an institutional repository and
+ publishing platform for digital research outputs). In their first year, students also attend seminars
+ on writing literature reviews; research ethics; institutional procedures for data management,
+ research integrity and good practice; and thesis submissions and vivas. Like ECRs (see Section
+ 2.2), PGR students have access to much of the University’s professional development and
+ research training, with courses ranging from presentation skills and project management to
+ integrity and ethics in publishing and creating impact.
+ Progress monitoring
+ The Department’s PGR programme is evaluated each year. This is undertaken by the STR team
+ and submitted to the School’s Board of Studies for approval. It draws on the outcomes of
+ Research Degree Committee meetings, survey data, direct student and supervisor feedback, and
+ progression data. In addition to our annual evaluations, in 2018, we undertook a programme
+ periodic review (PPR) of postgraduate research degrees. The review was undertaken by a cross-
+ School committee of academic and management staff, and an external reviewer, Professor Helen
+ Petrie (York). One specific outcome from the PPR has been the formation of a Framework for
+ Doctoral Training for autumn 2019, which put in place a training programme for PGR students.
+
+ 2.4 EQUALITY AND DIVERSITY
+ Our strategic vision for the Department is led by a commitment to building and enriching a
+ collective and inclusive culture (see Section 1.2), and core to this is recognising the significance of
+ equality and diversity. At an institutional level, support for this area comes from City’s numerous
+ programmes and courses developed to promote and instil the values of equality and diversity, as
+ specified in our REF5a statement.
+ In 2018 the School received the Athena SWAN bronze award. A self-assessment team of
+ academics cutting across the Departments that make up MCSE (including two staff from CS) and
+ professional services staff assessed our teaching provision and academic staffing against the
+ principles of the Athena SWAN Charter. This resulted in a series of action items: supporting
+ students, academic staff recruitment, staff induction, promotion of academic staff, staff training,
+ appraisal, flexible working, support for staff and culture.
+ In accordance with the Athena SWAN Charter, we have been monitoring the gender diversity
+ across the CS Department’s total headcount. We currently meet Athena SWAN’s Equality
+ Challenge Unit 2017 CS benchmarks (78% men, 22% women). However, we recognise the
+ challenges of ensuring an inclusive culture; achieving fairness in assessment and promotion;
+ promoting flexible working and support for parental leave; and eliminating discrimination,
+ harassment, and bullying.
+
+
+Page 9
+Unit-level environment template (REF5b)
+ With issues such as these foremost in our minds, we are pursuing (alongside the School) a set of
+ initiatives to further improve equality and diversity. Our priority areas are:
+    •     Improving gender diversity and representation: In hiring over the assessment period, we
+          have done better in gender distribution than national metrics. Five (31%) of our newly hired
+          staff members are women, 8% higher than the average reported by HESA for “IT, systems
+          sciences & computer software engineering” (23% for 2018/19). Of the department’s 12
+          promotions, 3 were women, representing greater than the proportional number of women
+          to men in the unit (20%-80%). We have been especially strong in achieving a gender
+          balance in postgraduate research students. In 2019/20, 24 of our PhD students were male
+          and 20 female.
+    •     Supporting staff through a fair and transparent promotions process: By increasing the
+          transparency of promotion criteria for both full-time and part-time staff and tailoring support
+          for particular needs, the School targeted 75% satisfaction in assessing ‘fairness and
+          transparency of the promotion process’ by 2020 (yet to be assessed), and for women to
+          make up 20% of professors by 2022.
+    •     Tackling bullying and harassment: By making dignity at work, unconscious bias, and active
+          bystander training compulsory, and by improving communication of procedures for
+          reporting bullying and harassment, the School targeted a marked reduction in the reporting
+          of bullying and harassment by 2020 (yet to be assessed).
+    •     Ensuring equitable treatment of staff through a workload model: In 2019, we instituted a
+          fair workload model with a transparent responsibility allowance (which includes outreach
+          and engagement activities) (see Section 2.1).
+ The most recent data on ethnic identities for all staff (research and teaching) in the CS
+ Department are from 2017/18. The breakdown is as follows: Black, Asian or minority ethic: 9;
+ White: 48; Refused or not known: 1. With 15.5% of staff in CS identifying as Black, Asian or
+ minority ethic, we have a greater representation than the national measure for higher education
+ (13.7%) (HESA, 2018/19). The Department also has academic staff and research students
+ representing a broad range of nationalities, with 50% of staff from EU countries and 17% from
+ non-EU countries, representing 34 nationalities overall. Among research students who graduated
+ during the assessment period, 21% came from EU countries and 54% from non-EU countries,
+ representing 20 nationalities.
+ The Athena SWAN principles act as a key mechanism for shaping and promoting an inclusive
+ culture across the Department, and we have worked hard to arrange thought-provoking events
+ and discussions around diversity and inclusivity. For example, in April 2018 we organised our first
+ Athena SWAN lecture – ‘Bringing about Change’ given by Carolyn Griffiths, President of the
+ Institute of Mechanical Engineers – with 100 attendees. In December 2018, there was an Athena
+ SWAN and Ada Lovelace Celebration in which CS Department staff contributed to a School-wide
+ panel discussion, ‘Career Progression of Women in STEM: Challenges and Opportunities’
+ (approximately 60 attendees). In mid to late 2020, CS staff also contributed widely to a series of
+ talks and discussions on diversity and inclusion in response to the race protests in the US and
+ worldwide and the Black Lives Matter movement.
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 INCOME
+ The Department’s aim to foster a culture of generating grant applications and initiatives to attract
+ funding from diverse sources has seen an overall growth in our applications since REF 2014 (see
+ Figure 4). As an example, in 2013/14 we submitted 10 proposals (to EU government bodies and
+
+Page 10
+Unit-level environment template (REF5b)
+ UK research councils). In 2019/20 we submitted a total of 43 applications for external funding,
+ with an outstanding success rate of 44%.
+ The diversity of our research portfolio has been important to balance the risk to our income, as
+ well as ensure wider engagements with both the users of technology and related areas of
+ research and industry. In this period, we have achieved a greater diversity of income across UK
+ research councils, UK/international industry, charities, and EU government bodies. In REF 2014,
+ 22% of our income came from national public bodies, 50% from EU government bodies, and 10%
+ from industry and commerce. For this assessment period, the respective figures are 30%, 40%
+ and 29%.
+ Overall, the strategy to strengthen our research portfolio and diversify funding has resulted in
+ significant growth in income, rising from a total of £6.7m (REF 2014) to £9m for the current period.
+ This represents a 34% growth in funding. The growth in funding from Research Councils UK
+ funding and from other public sources has been marked, almost doubling from £1.5m (REF 2014)
+ to £2.7m. Funding from national and international industry sources and charities has also risen,
+ from £0.9m for REF 2014 to £1.1m for this period, indicative of our increased commitment to non-
+ academic as well as academic partnerships (see Section 4). We have also seen growth in EU
+ Government funding, from £3.4m in REF 2014 to £3.6m in REF 2021 (with a general trend of
+ fewer EU applications, possibly associated with Brexit).
+
+
+
+            £4              Funding awards compared between REF 2014 and 2021
+ Millions
+
+
+
+
+            £3
+
+
+                                                                 REF 2014         REF 2021
+            £2
+
+
+
+            £1                                                                                Figure 1. Funding
+                                                                                              awards compared
+                                                                                              between REF
+            £-                                                                                2014 and this
+                     UKRI       EU Gov     Charities   UK Gov, local   Industry       Other   assessment
+                                                        authorities,                          period.
+                                                        healthcare
+
+
+ Funding highlights include significant EU and EPSRC grants:
+            •    AQUAS (Aggregated Quality Assurance for Systems) (2017-2020): EU H2020 grant,
+                 €15,512,787 with City awarded £670k. Academic, public sector, and industry consortium.
+            •    Communicating and Evaluating Cyber Risk and Dependencies (2014-2017): EPSRC
+                 grant, City awarded £503k. Academic lead.
+            •    CyberSure (CYBER Security InSURancE – A Framework for Liability Based Trust) (2017-
+                 2020): EU H2020 grant, €1,647,000 with City awarded £250k. Academic and industry
+                 consortium.
+            •    D3S (Diversity and Defence in Depth for Security – A Probabilistic Approach) (2015-2018):
+                 EPSRC grant, City awarded £704k. Academic lead.
+            •    DiSIEM (Diversity Enhancements for Security Information and Event Management
+                 systems) (2016-2019): EU H2020 grant, €4,020,018 with City awarded £0.9m. Academic,
+                 non-profit and industry consortium.
+Page 11
+Unit-level environment template (REF5b)
+     •    EVOTION (Big Data Supporting Public Hearing Health Policies) (2016-2019): EU H2020
+          grant, €4,963,776 with City awarded £482k. Healthcare, academic and industry
+          consortium.
+     •    INCA (Inclusive Digital Content for People with Aphasia) (2017-2020): EPSRC grant, City
+          awarded £620k. City academic lead.
+     •    Learning, Approximating and Minimising Streaming Automata for Large-scale Optimisation
+          (2020-2023): EPSRC grant. £250k awarded to City’s new CS AI Centre. City academic
+          lead.
+     •    TOREADOR (TrustwOrthy model-awaRE Analytics Data platfORm) (2016-2018): EU
+          H2020 grant, €6,311,218 with City awarded £468k. Academic and industry consortium.
+     •    VALCRI (Visual AnaLytics for sense-making in CRiminal Intelligence) (2014-2018): EU
+          FP7 grant, €16,569,525 with City awarded £519k. Academic and industry partners
+          including Antwerp Federal Police, Linköping University, Middlesex University, West
+          Midlands Police Force, and University of Konstanz.
+ A range of initiatives are in place to sustain our strategy for attracting income and offering all staff
+ the resources to develop their research. We run a departmental pump-priming scheme and
+ provide significant funding for seminars and events (totalling £30k/year). These initiatives have
+ seen embryonic projects grow into funded research programmes and have successfully seeded
+ external partnerships. For example, work with Microsoft Research funded through pump-priming
+ in 2018 studied the role of AI in front-end systems. This work created the opportunity for a
+ Microsoft sponsored PhD scholarship focused on AI in team-based tools (£72k) and a two-year
+ Microsoft-funded project, ORBIT, to develop a dataset for AI-based assistive technologies (£91k).
+ Research centres also supplement departmental resources to encourage research in their
+ respective areas. Three of the five Centres pool their income from grant awards to provide
+ investment for all levels of FTE and research staff, and PhD students. For instance, the centres
+ have used these funds to provide bridge funding for PhDs transitioning to grant-funded research
+ or writing fellowship grants, or to cover minor research costs. To offer an example, the HCID
+ maintains a relatively healthy centrally pooled fund from grants (between £60K and £90K per
+ year). During this assessment period, this has allowed one of our PhD students to receive bridge
+ funding while preparing postdoctoral grant proposals; supplemented the pump-priming funds that
+ one of our PDRAs received from the School (£5k); funded two small projects in preparation for
+ larger grant applications (£10k); and provided conference fees and travel costs including for all
+ staff and students (with accepted papers or workshop papers) attending ACM SIGCHI 2019.
+ Overall, we will continue the strategy of prioritising interdisciplinary and collaborative initiatives
+ and placing an emphasis on building non-academic partnerships that have significant and far-
+ reaching impact (see Section 1.2). In Section 4, we capture how our efforts and successes with
+ collaborations and wider economic and social impact are targeting this strategy.
+
+ 3.2 INFRASTRUCTURE AND FACILITIES
+ Much of the Department’s support infrastructure and facilities are delivered through the School of
+ MCSE’s investment in world class buildings and labs, equipment and service provision, as well as
+ maintenance and repair. In total, this amounted to £19.4m over the assessment period.
+ The infrastructure and facilities provided to support the CS Department’s staff and students range
+ from equipment for research, to tools for the management, sharing and distribution of research
+ data and outputs.
+ Research
+
+
+Page 12
+Unit-level environment template (REF5b)
+ CS staff and research students receive support for computationally intensive research through the
+ provision of computing equipment and services, such as data storage, dedicated hardware,
+ software, networking and cloud computing. During the assessment period, almost £950k was
+ spent on new computing equipment for our labs. Notable is the new CitAI Robin Milner Lab, which
+ contains state-of-the-art high-performance GPU computers and software tools, and the
+ computational power needed for artificial general intelligence and deep learning. The Department
+ is also home to the Interaction Lab, which provides a dedicated space and professional-grade
+ facilities for user-testing, expert reviews and accessibility audits. The lab supports in-house
+ research by staff and postgraduate students, as well as offering a successful commercial user
+ experience consultancy (with an income of approximately £200k per year) run by a dedicated, full-
+ time lab manager.
+ Supporting research and research impact
+ To support research and research impact, the University offers a range of events and training
+ programmes. All Department staff receive support from the University’s Research and Enterprise
+ team on relevant grant initiatives and calls, developing grant proposals, costing grants, and
+ managing their administrative duties while they are running projects. In addition, all staff have
+ access to training on grant-related activities, including grant writing, interdisciplinary research,
+ research leadership, ethics and integrity, project management, inclusive hiring and assessment,
+ and creating impact. The University also regularly holds events hosting funders such as the UKRI
+ councils, the Leverhulme Trust and the Royal Academy of Engineering.
+ To facilitate impact and in particular expand the reach of their work, all staff are encouraged to
+ make use of third-party licensed tools and services. This includes provision for project
+ management (Worktribe), research management (Haplo’s Research Manager), data management
+ and sharing (FigShare), research profiles, publication management and sharing (Symplectic
+ Elements and ORCID – with all staff having ORCIDs).
+ To ensure best and ethical practices in data collection, and storage, the University offers training
+ on the EU’s General Data Protection Regulation (GDPR). We adhere to the GDPR in our
+ Framework for Good Practice in Research and our Research Ethics Framework.
+ Library Services
+ The University’s Library Services plays a central role in supporting the Department’s research.
+ Our staff have access to an extensive portfolio of 300 University-wide and specialist databases
+ including Scopus, Web of Science and ScienceDirect. These collections are maintained by a
+ current annual budget of approximately £254k for specialist resources and a £1.6m annual spend
+ on cross-School and cross-Department content. A dedicated Research Librarian and a Subject
+ Librarian serve the Department, offering staff and PhD students support and workshops on
+ literature searching, citing and referencing, and specialist database access.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 ACADEMIC COLLABORATIONS
+ Staff in our five research centres have strong ties with their respective communities. Indicative of
+ our diverse geographic and institutional collaborations are the number of cross-institutional
+ outputs (73% of total) submitted for this assessment period (with institutions in the UK, Asia,
+ Australia, Europe, and North America). Of these collaborations, over a quarter (29%) were with
+ institutions ranked in the top 100 of the Times Higher Education World University Rankings for
+ 2020 (e.g. the universities of Cambridge, Oxford, Southern California and Stanford, and Imperial
+ College London and LMU Munich).
+
+
+Page 13
+Unit-level environment template (REF5b)
+ To offer an example of our academic collaborations, Reyes-Aldasoro, from our giCentre, has
+ worked with life scientists from the Francis Crick Institute, King’s College London, the University of
+ Sheffield and Monash University to aid in the analysis of cells in in vivo environments and better
+ understand the characteristics of the immune system. This work has resulted in numerous
+ conference papers, 14 articles in top-ranked journals (e.g. Nature Methods, REF2_ID:241422,
+ and PLoS Medicine, REF2_ID:255870) and two grants from the Australian Research Council. The
+ work’s importance for cancer cell analysis has been covered in the press, including at Phys.org
+ (‘Academics develop algorithm to analyse HeLa cancer cells’, 2020).
+
+ 4.2 CONTRIBUTIONS TO THE RESEARCH BASE
+ The visibility and prominence of our outputs show we are having a marked impact on the research
+ base. Although we recognise their limitations in reflecting research quality, metrics suggest we
+ have achieved measurable improvements. Comparing this period’s output to REF 2014, the
+ average citations per output has risen from 9 to 26 (Scopus). Available normalised data indicate
+ the significance of this achievement. For the 59 publications submitted for this assessment period
+ that have data available, all but two have a field citation ratio (FCR, a normalised value accounting
+ for subarea and year) greater than 1, indicating a higher-than-average rank relative to comparable
+ articles (data from Altmetrics). The FCR is greater than 10 for 25 of this 59. For the 61 outputs
+ where journal ranks are available, 58 are in the top quartile of journals in their subareas, with the
+ remaining 3 in the second-to-top quartile (data from SJR). We have also seen a greater proportion
+ of our publications scoring higher in the SJR field-normalised rank (a measure of a journal’s
+ prestige derived from citations and the source of citations). On average, the SJR value rose from
+ 1.013 in 2014 to 1.974 for our outputs in REF 2021.
+ The strength and recognition of our outputs has been captured in numerous accolades, including
+ prestigious individual awards, high-profile research achievements, and recognition from external
+ agencies and organisations. These include:
+ •   First Prize, European Institute of Innovation and Technology, ICT Labs Idea Challenge on
+     Smart Energy Systems (2014): €40k awarded to Alonso for the project ‘Neural Networks for
+     the Smart Grid’.
+ •   Best Paper Award, European Conference on Mathematical and Theoretical Biology (2014):
+     Teichmann, Broom and Alonso, ‘The Application of Temporal Difference Learning in Optimal
+     Diet Models’ (in best 4 of 800 papers).
+ •   Best Paper Session, Quantitative Evaluation of Systems (2015): Salako, Stankovic
+     and Popov, ‘Stochastic Model for Performance Evaluation of Database Replication Protocols’
+     (in best 4 of 42 papers).
+ •   Best Paper Session, European Dependable Computing Conference (2016): Gashi,
+     Povyakalo and Strigini, ‘Diversity, Safety and Security in Embedded Systems: modelling
+     adversary effort and supply chain risks’ (in best 3 of 59 papers).
+ •   Best Paper, EuroVis (2017): Buchmüller, Janetzko, Andrienko, Andrienko, Fuchs and Keim,
+     ‘Visual Analytics for Exploring Local Impact of Air Traffic’.
+ •   10-Year Impact Award in Ubiquitous Computing (2017): Brown, Taylor, Izadi, Sellen and
+     Kaye, ‘Locating Family Values: A Field Trial of the Whereabouts Clock’ (awarded every ten
+     years to papers deemed most impactful in Pervasive and Ubiquitous Computing).
+ •   Test of Time Award, IEEE VIS (2018): Andrienko and Andrienko, ‘Spatio-temporal
+     Aggregation for Visual Analysis of Movements’ (recognises major impact and influence within
+     and beyond the visualisation community).
+
+
+Page 14
+Unit-level environment template (REF5b)
+ •   Contribution to House of Lords committee report, Regulating in the Digital World (2018):
+     contribution invited to materials on internet regulation to the Lords Select Communications and
+     Digital Committee (‘The Internet: To Regulate or Not to Regulate?’).
+ •   Best Paper, ACM SIGCHI (2018): Schlesinger, O’Hara and Taylor, ‘Let’s Talk About Race:
+     Identity, Chatbots, and AI’, REF2_ID:243935 (top 1% of accepted papers).
+ •   Best Paper Honorable Mention, IEEE VIS (2018): Wood, Kachkaev and Dykes, ‘Design
+     Exposition with Literate Visualization’, REF2_ID:246961 (in top 3 of 165 papers).
+ •   Three Best Paper Honorable Mentions, ACM SIGCHI (2019): Heitlinger, Bryan-Kinns and
+     Comber, ‘The Right to the Sustainable Smart City’, REF2_ID:255941; Neate, Bourazeri,
+     Roper, Stumpf and Wilson, ‘Co-Created Personas: Engaging and Empowering Users with
+     Diverse Needs Within the Design Process’, REF2_ID:255038; Neate, Roper, Wilson and
+     Marshall, ‘Empowering Expression for Users with Aphasia through Constrained Creativity’,
+     REF2_ID:255039 (top 4% of accepted papers).
+ •   Best Paper Session, IEEE Symposium on Software Reliability Engineering (2019): Zhao,
+     Robu, Flynn, Salako and Strigini, ‘Assessing the Safety and Reliability of Autonomous
+     Vehicles from Road Testing’ (best 3 of 134 papers).
+ •   Advisor on Ethereum Foundation: Krol invited advisor on service discovery protocol to be
+     implemented in Ethereum 2.0.
+ Our staff are frequently asked, through numerous service duties, to set research benchmarks and
+ contribute to their subareas. Such contributions include reviewing for and serving on UKRI panels,
+ membership of the EPSRC College, journal and conference reviewing, and examining PhDs.
+ Our Department has been represented on many conference committees (including ACM SIGCHI,
+ CSCW, IEEE VAST, IEEE VIS and IJCAI) and top-tier journal boards (including ACM Interactions,
+ IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Neural
+ Networks and Learning Systems, IEEE Security & Privacy and IEEE Transactions on Visualization
+ and Computer Graphics).
+ The research expertise we bring to these activities, and the regularity with which staff are asked to
+ undertake them, reflects core strengths embedded within the Department, which in turn feed back
+ into the research base internationally. External recognition of our contributions includes conferred
+ fellowships such as FBCS (Garcez), FREng (Bloomfield), FRSA (Taylor), and Fellow of the
+ Royal Statistical Society (Littlewood).
+ We are especially excited to see ECRs making significant contributions to their subareas and
+ attracting high-profile recognition. Denisova has had novel work on the ‘placebo effect in games’
+ (Denisova and Cairns, CHIPlay, 2015) promoted through outlets including the New Scientist and
+ tech-media outlet Gizmodo. In 2019, Turkay received the EuroVIS Young Researcher Award; the
+ committee recognising his highly innovative and influential contributions in the visual analysis of
+ high-dimensional data. Jimenez-Ruiz was ranked in the top three knowledge engineering
+ scholars the AI 2000 Most Influential Scholars annual list (2,000 of world’s top-cited research
+ scholars in AI). Tarroni was awarded a Marie Skłodowska-Curie European Fellowship (€183k,
+ H2020) and also led on work contributing to the UK Biobank Dataset (Tarroni et al., IEEE Trans.
+ on Medical Imaging, 2019).
+ Our giCentre presents an outstanding case of contributing to the research base in longer-lasting,
+ structural terms. Over 15 years, giCentre has become an influential leader in Visualisation by
+ publishing a body of high-quality research at IEEE VIS, the premiere visualisation conference.
+ This has amounted to more than 60 papers in the associated journal, IEEE Transactions on
+ Visualization and Computer Graphics (39 published in current REF period). Of these highly
+ collaborative papers, many with leading international colleagues, 4 have received honourable
+Page 15
+Unit-level environment template (REF5b)
+ mentions at IEEE VIS. This influence has been sustained through an equal commitment to
+ service. Dykes (2012/13), Wood (2018/19) and Gennady Andrienko (2015/16) have served as
+ Papers Chairs at IEEE VIS and IEEE VAST. Between 2014 and 2019, Dykes served on the
+ InfoVis Steering Committee, during which time he contributed to the reVISe process, which has
+ consolidated the conference, extended its formats, improved governance and increased
+ transparency. He now serves as Vice-Chair of the conference’s Executive Committee. In addition,
+ he and Natalia Andrienko have acted as Associate Editors of IEEE Transactions on Visualization
+ and Computer Graphics. The quality of the giCentre’s academic contributions and staff members’
+ sustained work and commitment to visualisation represent a long-lasting and transformative effect
+ on a significant area of CS.
+
+ 4.3 CONTRIBUTIONS TO THE ECONOMY AND SOCIETY
+ The Department aims to build partnerships that translate into wider impact. Our income data show
+ how we have succeeded in strengthening such partnerships, with combined industry and charity
+ funding totalling £1.2m and funding from government agencies (such as healthcare and local
+ authorities, GHCQ, Innovate UK and the National Cyber Security Centre) totalling £1.6m.
+ Together, this represents a 33% increase in income from non-research dedicated sources
+ (industry, charities, local health authorities, etc.) since REF 2014.
+ Our outputs also reflect the substantial number of industry and commercial collaborations we are
+ involved in. Over a quarter of our outputs were co-authored with non-academic partners including
+ AT&T Labs, BT, CSIRO, the Fraunhofer Institute, Google, IBM, Inria, the Max Planck Institute and
+ Microsoft Research. We have successfully developed such partnerships into funded research
+ projects. Funding for small- to mid-scale projects have come directly from industry such as
+ Telefonica Alpha (£20k), the Tavistock Trust for Aphasia (£50k), Intel (£200k), Microsoft Research
+ (£250k), the Stroke Association (£250k) and Google (£550k).
+ Stumpf’s involvement in the FREEDOM (Flexible Residential Energy Efficiency Demand
+ Optimisation and Management) project offers an exemplary case of industry collaborations and
+ our commitment to wider impact. The research aims to understand the effects of smart metering
+ technology in consumers’ homes and, specifically, what can be done to improve the presentation
+ and use of the data the meters produce. The project is conducted in collaboration with the home
+ energy service and device manufacturer Passiv Systems Ltd and funded by Western Power
+ Distribution and Wales & West Utilities (£94k).
+ Slingsby leads another project that will have long-term impact. The work stems from funding from
+ the Rail Safety and Standards Board (£118k), the rail industry’s applied research funder, which
+ only funds research that is likely to have impact. Thus far, the work has led to the design and
+ implementation of interactive visualisation tools that will help to interpret the modelling of delays
+ and alternative timelines. Currently, the project is undertaking case studies with Great Western
+ Railway, Greater Anglia and Railtrack. The target is for the work to become part of a commercial
+ service offered to train operating companies.
+ CSR’s longstanding and significant contribution to safety and risk control in computer-based
+ systems deserves special mention (see REF3 impact case ‘Risk Framework’). Notable is CSR's
+ research on assurance methods for critical systems in nuclear power plants. CSR
+ worked between 1997 and 2018 for the Control and Instrumentation Nuclear Industry Forum, that
+ represents the industry and regulators. With overall funding above £1m, this research delivered
+ advice on diversity and defence-in-depth (work central to a REF 2014 impact case, judged
+ especially noteworthy by the panel), and probabilistic assessment of safety. Much of this research
+ has been published in well-respected peer-reviewed forums such as IEEE TSE and TDSC,
+ Reliability Engineering and System Safety, and the ISSRE and DSN conferences. Published
+
+Page 16
+Unit-level environment template (REF5b)
+ research by Bishop and Povyakalo (REF2_ID:142285; REF2_ID:273212) is being used for a
+ multi-million-pound test programme that will be used for regulatory approval of a nuclear plant
+ protection system.
+ Dealing with the wider implications of sociotechnical systems, several members from CSR have
+ been involved in efforts to overturn the miscarriages of justice in the Post Office Horizon case.
+ Bishop contributed to a review that challenged the statistical basis of a key defence submission
+ made by the Post Office. Littlewood and Newby (Engineering) co-authored a paper used to
+ support the recent overturning of convictions of 39 sub postmasters at the Court of Appeal. The
+ same authors were invited by the Under-Secretary of State at the Ministry of Justice to provide a
+ case to support a referral to the Law Commission to replace the presumption in English Law of the
+ infallibility of computer systems. More recently, these authors have briefed the Shadow Minister
+ for Science, Research and Digital on legal and technical issues likely to arise as a result of
+ emerging technologies, such as ML and AI.
+ Our impact cases (REF3) present four examples of where we have achieved sustained impact. All
+ our impact cases are directed at the welfare of populations in the UK and internationally; they
+ target issues including gambling (‘BetBuddy’), equality and inclusion (‘GenderMag’), and forensic
+ analysis and criminal investigation (‘familial DNA searching’). A fourth impact case (‘Risk
+ Framework’), improves the safety and security of high-risk industries and the communities they
+ affect, internationally. The BetBuddy, GenderMag and the Risk Framework cases demonstrate
+ how wider social benefits can yield economic benefits for the stakeholders. These cases include
+ testimonials or evidence showing impact on and benefits to products and services from major
+ companies in the respective gambling (Playtech), software design and development (Bloomberg
+ and Microsoft), and safety critical industries (Intel and Radiy).
+ The wider societal relevance of the Department’s contributions is captured in press coverage and
+ plaudits we receive. Highlights include:
+    •     ‘Which Bits of London Are Most Photographed?’ (Londonist, 2104) – coverage of work by
+          Wood;
+    •     ‘Royal Institution Christmas Lecture‘ (BBC, 2014) – contribution from Weyde’s Music
+          Informatics Research Group;
+    •     ‘Early Warning System to Assist Gamblers’ (Bloomberg Businessweek, 2015) – coverage
+          of work by Garcez;
+    •     ‘EVA Park: a Virtual World to Help With Speech Recovery‘ (Huffington Post, 2015),
+          ‘Tech4Good People’s Award’ (2015), and ‘Braille smartwatches, bespoke wheelchairs...
+          technology that matters’ (The Guardian, 2016) – coverage of the Tech for Aphasia work,
+          led by Wilson;
+    •     ‘How science can help us make AI less creepy and more trustworthy’ (The Conversation
+          and Daily Mail, 2016) – authored by Stumpf;
+    •     ‘Musical Influence in Jazz Investigated with ‘Big Data’’ (myscience.org, 2017) – coverage
+          of research from Weyde;
+    •     ‘Microsoft Accessibility Grants Go Out to Companies Aiming to Improve Tech for People
+          with Disabilities’ (TechCrunch, HuffingtonGlobal and Wiredfocus, 2019; Techregister,
+          Scienmag and Finance.yahoo.com, 2020) – coverage of City’s lead in the AI and disability
+          project ORBIT, led by Stumpf;
+    •     ‘Record Number of People Ride ‘Boris Bikes’ after Lockdown Rental Slump’ (Evening
+          Standard, 2020) – coverage of data science and visualisation work by Wood;
+
+
+
+Page 17
+Unit-level environment template (REF5b)
+    •     ‘Five Ways Artificial Intelligence Can Change Online Gambling’ (Newswatch, 2020) –
+          coverage of BetBuddy work from Weyde and Garcez;
+    •     ‘Professors Bev Littlewood and Martin Newby to Improve Software for COVID-19 Models’
+          (ScienMag, 2020) – coverage of awarded funding from the Royal Academy of Engineering.
+ At home, we have leveraged our central London location and excellent facilities for the benefit of
+ the surrounding community. Situated alongside design and technology firms as well as long-time
+ residential neighbourhoods in London’s Clerkenwell, we are invested in building and sustaining
+ local relations, with both businesses and the community. Aiming to support the local economy, the
+ CS Department has been working with the Digital Catapult and the Connected Places Catapult to
+ establish mechanisms to transfer STEM knowledge to SMEs and start-ups; the HCID’s annual
+ Open Day attracts representation from local firms.; the Centre also supports and hosts activities
+ and events run by the UK chapter of the, not-for-profit, User Experience Professionals’
+ Association.
+ In surrounding communities, we engage with local schools. For example, as part of City’s
+ “Widening Participation” programme, Makri delivered a “masterclass” titled ‘Designing for
+ serendipity: An oxymoron?’ to sixth form and college students from the local area. Separately, six
+ research students and ECRs from the Department ran four- to six-week coding clubs for primary
+ schools in Central and East London. Key goals in designing and undertaking this project were to
+ introduce the concepts of coding to children with diverse ethnic backgrounds and to appeal to a
+ balance of boys and girls.
+ Our investment in the local community is also represented in our research portfolio. Building on
+ the EPSRC-funded Connected Seeds project (with an associated publication receiving an
+ Honourable Mention award at CHI 2019), Heitlinger is continuing to engage with the charity
+ Spitalfields City Farm. This research has had the objective of exploring inclusive technology
+ design with and for sustainable urban communities, cutting across the usual divisions of social
+ class and ethnicity. As part of this work, Heitlinger established the City Farm Lab, an academic–
+ community partnership building on her long-term collaboration with the Farm. This has meant
+ operating a user-centred, open-innovation Living Lab, which integrates research, teaching and
+ innovation processes. The engagement started with nine master’s students’ dissertation projects,
+ run in collaboration with the Farm. In recognition of her support and commitment to the Farm,
+ Heitlinger now holds a position on its Board of Trustees.
+
+
+
+
+Page 18
+

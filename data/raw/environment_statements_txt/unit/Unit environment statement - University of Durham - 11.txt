@@ -1,0 +1,906 @@
+Unit-level environment template (REF5b)
+
+ Institution: Durham University
+
+ Unit of assessment: 11. Computer Science and Informatics
+
+ Section 1. Unit context and structure, research and impact strategy
+
+ Context
+ Durham University’s Department of Computer Science (DurCS) is a small but rapidly growing
+ department whose importance, growth and well-being is strongly supported by the University
+ (see Institutional Environment Statement IES§1.1, IES§1.2), so much so that Computer
+ Science became an independent department in 2017, choosing to split from the School of
+ Engineering and Computing Sciences. The cohort of staff is in the process of an exciting
+ managed growth from 16 permanent teaching-and-research academic staff at the time of
+ REF2014 to a target of 43 staff by 2022 and 59 by 2027, with 27 staff submitted to REF2021*.
+ In December 2020, DurCS will move to a new purpose-built £42M building housing DurCS and
+ the Department of Mathematical Sciences (IES§4.2). The formation of DurCS and the
+ subsequent massive expansion and relocation has dominated the assessment period**.
+
+ * An additional 9 new teaching-and-research members of staff, 3 female, have been appointed
+ since July 2020. Whilst these appointments conform to the strategies detailed below, they are
+ outside the REF census period and so receive no further mention. Henceforth, all data and
+ discussion relate only to the REF assessment period.
+
+ ** COVID-19 has caused significant disruption to DurCS and the University. The plans outlined
+ in this document are accurate at the time of writing and are expected to be realised unless the
+ duration or effects of the pandemic exceed current assumptions. Further details are available
+ in the “Institutional-level statement on COVID-19”.
+
+ Research structure
+ Computer Science research is currently partitioned into “theory” and “applied”, reflected in the
+ two research groups ACiD and ICG (with all persons appointed prior to REF2014 unless
+ otherwise stated).
+     Algorithms and Complexity in Durham (ACiD; 11 members) works, broadly, on
+        algorithms, computational complexity and discrete mathematics at the interface
+        between pure mathematics and theoretical computer science. Members are Bordewich,
+        Dantchev, Friedetzky, Gadouleau, Ivrissimtzis, Johnson, Krokhin, Martin*, Mertzios,
+        Paulusma (Head of Group, HoG), Stewart. (Appointed in * 2016.)
+     Innovative Computing Group (ICG; 17 members) works on methods for data
+        understanding, Artificial Intelligence (AI), visualisation and efficient large-scale
+        computation spanning a range of data modalities, and the role of human interaction
+        within such methods and across a broad range of computing systems. Members are Al
+        Moubayed*, Black**, Breckon, Budgen, Cristea** (HoG), Hadžidedić†, Ivrissimtzis,
+        Koulieris**, Li, Long†, Love†† (HoD), Mitchell**, Obara, Shi†, Sturgeon†, Weinzierl,
+        Willcocks**. (Appointed in * 2017, ** 2018, † 2019; †† joined from Physics 2017.)
+
+ Achievement of strategic research and impact aims over the assessment period
+ Since 2014, the research strategy from REF2014 has been strongly enacted (and has evolved
+ since the split; see below). This strategy, taken from the REF2014 environment template and
+ interspersed with enacted exemplars, was as follows:
+     a) “to focus on and establish critical mass in our core areas of research so that there is an
+         encompassing relationship between these topics, the research and the researchers
+         involved, and so that our research in these core areas is internationally leading”
+          ACiD had critical mass at REF2014; moreover, there is strong research
+           coherence and mixed co-authorship on a large number of research outputs and
+           grant proposals within ACiD, e.g., ACiD has published 77 papers in the
+           following universally-acknowledged world-leading journals and conferences:
+            o Algorithmica, FOCS, ICALP, IEEETransInfTh, IEEETransParDistSys,
+                JourACM, JourCompSysSci, JourCombThSerB, JourParDistComp, LICS,
+                PODC, SIAMJourDiscMath, SIAMJourComp, SODA and STOC.
+         ICG has been significantly strengthened with 10 new appointments since 2017
+           (4 female) and broader in scope but now approaching critical mass in:
+            o imaging and vision (encompassing bioimage informatics, computer
+                graphics, computer vision, image processing and vision science via
+                Breckon, Ivrissimtzis, Koulieris, Li, Long, Love, Obara, Willcocks).
+            o artificial intelligence (encompassing machine learning, deep learning,
+                natural language processing, pattern recognition, human-AI interaction and
+                applications via AI Moubayed, Breckon, Cristea, Hadžidedić, Long, Obara,
+                Shi, Sturgeon, Willcocks).
+b) “to strengthen and further develop relationships between theoretical and practical
+   research”
+         There are new research partnerships between ACiD and ICG such as:
+           Bordewich/Breckon on anomaly detection in video; Mertzios/Weinzierl on graph-
+           theoretic data movement formalisations in computer simulations;
+           Gadouleau/Mitchell on post-quantum cryptography; Gadouleau/Weinzierl on
+           maximum surface-to-volume ratio of space-filling curve partitions; and
+           Stewart/Al Moubayed on applying evolutionary algorithms within deep learning.
+c) “to increasingly develop research collaborations both within the wider spectrum of
+   Computer Science and also of a multi-disciplinary and industrial nature so that not only
+   does the research undertaken impact significantly on other disciplines and on real-
+   world problems but also involves high-quality Computer Science research”
+         There is a wide range of ongoing research with academic partners in Durham,
+           e.g., Anthropology, Biosciences, Business School, Earth Sciences, Education,
+           Engineering, Geography, Mathematical Sciences, Psychology and Physics.
+         There are numerous inter-disciplinary research outputs involving authors from
+           Breckon, Cristea, Gadouleau, Hadžidedić, Ivrissimtzis, Johnson, Koulieris,
+           Krokhin, Long, Love, Mertzios, Obara, Paulusma, Sturgeon, Weinzierl and
+           Willcocks with researchers from departments of
+            o Agriculture and Food, Business, Earth Sciences, Economics, Electrical
+                Engineering, Engineering, Genetic Medicine, Linguistics, Mathematics,
+                Medical Sciences, Optics, Optometry, Pharmacology, Physics, Psychology,
+                Sports Science and Vision Science, and the NHS
+           and in topics including
+            o algebra and combinatorics, astrophysics, atmospheric modelling, BAME
+                equality, coastal ocean modelling, computational mechanics, display
+                engineering, economic games, education, epidemiology, healthcare,
+                marketing, modern languages, numerical analysis, robotics, partial
+                differential equations, protein biochemistry, seismology, sensing, sports
+                science, vision science and visual perception.
+         Industrial concerns involved in active research collaborations include
+            o Apt-Core, Astro Zeneca, Autonomous Devices, Blue Bear Systems
+                Research, Boeing, Boots, Bruker, Centre for the Protection of National
+                Infrastructure, Cosmonio, Createc, Cryptalabs, Cubica Technologies,
+                Department of Transport, Dyson, Geospacial Research, Gilardoni, Google,
+                Home Office Scientific Development Branch, IBEX Innovations, IBM,
+                Intogral, Jaguar Landrover, Kromek, Leica, Leonardo, Machines with
+                Vision, Micro-X, Microsoft, Metropolitan Police Service, MOD, MODUS,
+                NHS, Nikon, NM Group, Nvidia, Orsted, Petards, Pearson Engineering,
+                Procter & Gamble, QinetiQ, Rapiscan Systems, Renault, Schlumberger,
+                                                                                              2
+                   Selex Galileo, Smiths Detection, SQR Systems, Syngenta, UK’s Defence
+                   Science Technology Laboratory (DSTL), Unilever, US Department of
+                   Homeland Security, VisonMetric and ZF Race Technologies
+   d) “to provide the core scientific capability of iARC”
+           As part of our restructuring, iARC (Institute for Advanced Research Computing,
+              a university research institute) was redeveloped in 2017 as ARC (Advanced
+              Research Computing), a dedicated computing support unit within the Research
+              Division of the University whose aim is to leverage computational, data-
+              intensive and research computing practice across all disciplines (IES§4.3). Both
+              iARC and ARC have supported various Computer Science research projects.
+   e) “to build a vibrant and dynamic research environment: within which there are both
+      focussed and more general research activities; that engages with research and
+      researchers on both a national and an international level; and that is conducive to
+      collaborative activities”
+           The massive departmental expansion, in terms of staff numbers, wider and
+              more collaborative activities, impact creation and the new building, has strongly
+              contributed to this strategy.
+
+At REF2014, Computer Science's impact strategy was practically constrained, given its
+research portfolio at that time. The REF2014 impact strategy sought to amend this and has
+been enacted but the departmental expansion since 2017 has changed the situation
+dramatically and rendered this strategy somewhat obsolete. Nevertheless, the REF2014
+strategy (taken from the REF2014 impact template) was as follows:
+    a) "to use our expertise in systems and computer methodologies to enable impact via
+        collaborations with key industry players such as IBM"
+    b) "for iARC to be at the fulcrum of all computationally-relevant impact activities across
+        Durham University and for Computer Science to lie at the heart of all iARC activities"
+    c) "for ACiD to influence the impact of Durham Computer Science research through
+        collaborative activities with IC [now ICG] and other departments"
+    d) "to increase the engagement of Computer Science researchers with committees and
+        organisations having impact upon public policy".
+Obara and Breckon were appointed as part of our intention to strengthen the area of computer
+methodologies and its engagement with key industrial collaborators (and which has evolved
+into the current imaging and vision research cluster). This strategy has borne fruit, e.g.,
+Breckon's wide-ranging industrial research portfolio and engagement with governmental
+security policies (cf. our case studies) and Obara's involvement in the University's strategic
+partnership with Procter & Gamble (IES§1.1, IES§2.5.3) and development of the start-up
+Intogral (now Gliff.ai; Obara/Willcocks).
+
+Our impact strategy for post-2021 is detailed below but has been operational since 2017 and
+we highlight here a notable early success of this strategy. Our appointments since 2017
+together with our sustained focus on impact have resulted in an initial portfolio of over 30
+potential case studies for a post-2021 REF, with involvement from Al Moubayed, Black,
+Bordewich, Breckon, Cristea, Gadouleau, Hadžidedić, Ivrissimtzis, Koulieris, Li, Long, Obara,
+Paulusma, Weinzierl and Willcocks in areas including
+     anomaly detection, athletic performance, automotive sensing, autonomous devices,
+        drug design, fire detection, fraud detection, hardware security, healthcare data
+        anonymization, kidney exchange, medical informatics, mental health, natural language
+        processing, seismic data evaluation, technology training, tectonic plate movement,
+        underwater robotics and X-ray imaging.
+In short: the vitality of our impact landscape and our approach to sustain impact generation
+from DurCS research have been transformed.
+
+
+
+
+                                                                                                  3
+Research and impact strategies post-REF2021
+The post-2017 expansion has necessitated a re-evaluation of our research and impact
+strategies and these have already taken effect. A primary intention is to ensure that our
+research feeds into impact in an unencumbered fashion and that our impact is supported and
+strengthened by and feeds back into our research.
+
+Our strategic vision for Durham research is
+     “to have well-formed and sustainable groups of researchers working together and
+        producing excellent research so that these groups cover areas of research across the
+        Computer Science research spectrum, interact with researchers and/or application
+        domains within DurCS, the University and beyond, and produce research that helps to
+        shape the discipline of Computer Science and/or benefit wider society at both a
+        national and global level.”
+By securing critical mass in chosen areas and performing beyond the sum of our parts, we aim
+to engage (selectively) across the research spectrum. In order to facilitate our research vision,
+we have the following strategies, interspersed with brief exemplars of their enactment:
+    a) "retain critical mass in core areas of research, establish critical mass in emergent areas
+       of research, and build new areas of research so that researchers within a group can
+       work together to produce excellent research and also so that researchers within
+       different groups can collaborate on intra-group research"
+             With recent recruitment, we have developed cognate groups of researchers in
+               imaging and vision and in artificial intelligence; we intend to do likewise as
+               regards scientific computing and distributed/network computing, and we are
+               looking to establish a new research bridge to Mathematical Sciences (with
+               whom we will share a building).
+             ICG is in the process of strategically realigning into smaller research groups. In
+               order to facilitate this fragmentation, we are in the process of establishing four
+               sub-groups within ICG, namely VIViD (Vision, Imaging and Visualization in
+               Durham), AIHS (Artificial Intelligence and Human Systems), NESTiD (Network
+               Engineering, Science and Theory in Durham) and Scientific Computing that will
+               become new research groups post-REF2021.
+    b) "develop more research collaborations both within Computer Science and also of a
+       cross-disciplinary and industrial nature so that the research produces academic impact
+       within Computer Science and/or impact on societal and environmental challenges"
+             ACiD currently leads the EPSRC Network Grant "AlgoUK: A Network for
+               Algorithms and Complexity in the UK" (PI Stewart, with support from research
+               groups at KCL, Leicester, Liverpool, RHUL and Warwick) which caters for and
+               interacts with all of the UK algorithms and complexity community.
+             Within the assessment period, research funding has been awarded of over
+               £530K from Procter & Gamble (Obara); over £700K from Defence Science and
+               Technology Laboratory (Breckon, Obara); over £590K from the Department of
+               Transport (Breckon); over £350K from Renault (Breckon); and over £300K on
+               HPC involving a range of other universities and companies (Weinzierl).
+    c) "build a vibrant, dynamic, diverse and inclusive research community within which there
+       is a varied range of research activities, that engages with research and researchers on
+       both a national and an international level, and that is conducive to cross-discipline
+       collaborative activities, with research excellence pervasive throughout"
+             The new building and our expansion contribute significantly to this strategy.
+             ACiD hosted over 50 international visitors from 13 different countries within the
+               assessment period, almost all of whom gave research seminars, and also
+               organised and hosted the workshops and conferences: "Geometry and
+               Computation on Groups and Complexes" (jointly with Newcastle); "Algebraic,
+               Topological and Complexity Aspects of Graph Covers"; "British Colloquium for
+               Theoretical Computer Science BCTCS"; "Computability in Europe CiE"; and
+               "Mathematics of Constraint Satisfaction" (postponed due to COVID-19).
+
+                                                                                                    4
+Our impact strategy has been significantly enhanced and our strategic vision is now
+     to have impact creation embedded within all aspects of our research, the promotion of
+         a strong impact culture, a diverse portfolio of impact activities, and the involvement of
+         many staff in impact creation.
+We recognise that involvement in impact creation can occur at all points on the pathway from
+(prior to) the inception of the original research through to the point of impact and beyond, and
+come in many shapes and forms so that all staff have the potential to be stakeholders (this
+contributes to our stated intention for a "seamless" connection between research and impact).
+In order to facilitate our impact vision, we have the following strategies, interspersed with brief
+exemplars of their enactment:
+    a) "promote a strong impact culture and develop and enable impact appreciation and
+         awareness across the Department"
+              Impact features strongly in the University's new promotion and progression
+                 benchmarks (IES§2.5, IES§3.2).
+              Strong attention has been paid to the potential for impact creation in recent
+                 recruitment rounds, resulting in a significant increase in the vitality and
+                 sustainability of our potential impact generation portfolio (see above).
+              DurCS has fully supported members of staff as regards impact arising from
+                 research, e.g., Obara and Procter & Gamble, Breckon with his impact cases
+                 spanning the automotive, defence sensing and aviation security sectors (cf.
+                 DurCS impact cases).
+    b) "provide leadership and co-ordination for the Department's external engagement and
+         impact activities and strategically manage the development, dissemination, support and
+         sustainability of departmental impact"
+              We have a departmental Impact Officer (IO, Ivrissimtzis; IES§2.5) whose role is
+                 to support and assist staff in potential impact creation and to develop
+                 opportunities for DurCS impact across the University.
+              We have a departmental Research Committee on which sit: the Director of
+                 Research (DoR, Stewart); the IO; the HoGs; the Director of Postgraduate
+                 Studies (DPG, Friedetzky); and PGR and PDRA representatives. The DoR and
+                 the HoGs also sit on the Senior Management Group (SMG) within which all
+                 strategy is developed, as do the Director of Education (Johnson) and the
+                 Director of Equality, Diversity and Inclusion (EDI, Black).
+              Credit has been built into the departmental Workload Allocation Model to
+                 support staff who have substantial loads concerning impact activities.
+    c) "encourage and enhance the development of cross-disciplinary links with other
+         academic disciplines, knowledge transfer and public engagement so as to build
+         pathways to impact"
+              There is active staff engagement with a range of Durham's multi-disciplinary
+                 research institutes including Institute for Data Science (Breckon, Cristea, Shi,
+                 Sturgeon, Weinzierl), Biophysical Sciences Institute (Love, Obara), Durham
+                 Energy Institute (Breckon), Institute for Computational Cosmology (Weinzierl),
+                 Institute of Medieval and Early Modern Studies (Cristea) and Wolfson Research
+                 Institute for Health and Wellbeing (Breckon, Budgen, Love, Obara) (IES§2.2).
+                 Cristea leads the cross-departmental Digital Humanities Steering Group.
+              We currently have active or recent involvement in a number of Knowledge
+                 Transfer Partnerships (KTPs) including ones with Cievert (improve identification
+                 and treatment of radiotherapy side effects using AI; Al Moubayed, Long), The
+                 Footy Club (generate human-readable, search engine optimised product
+                 descriptions to automatically match product data; Al Moubayed, Long), Modus
+                 Seabed Intervention (develop enhanced Hybrid AUV capabilities using
+                 advanced AI; Breckon, Ivrissimtzis), NM Group (automated LiDAR classification
+                 and power line modelling; Breckon, Obara) and Distinctive Publishing (generate
+                 a publishing ecosystem that facilitates collaboration/co-creation of content by
+                 applying AI; Cristea, Obara).
+                                                                                                      5
+              Support from the University's Grant Seedcorn Fund (IES§4.1) for transitioning
+               from academic research outputs to impact has been given on 10 occasions in
+               the assessment period and on 4 occasions matched with departmental funding,
+               e.g., Breckon received £6K to support industrial liaison, and Weinzierl received
+               £5K to fund software development.
+
+Research integrity and open research
+Durham University leads the way in open access to published research, ranking 4th in the world
+for percentage of publications that are available through open access (IES§2.4). The University
+Library provides a central open access publication repository, Durham Research Online, and
+supports research data management and open data (IES§2.4). DurCS adheres to the
+University's research integrity and open research and data policies (IES§2.2). These policies
+are repeatedly emphasised by the DoR and IO, staff having benefitted from training by HR
+professionals in new data protection laws (GDPR), in Unconscious Bias and in effective
+collegiate research practices. DurCS also adheres to the University's policy that all research
+grant proposals should be internally peer-reviewed prior to submission. Each grant proposal is
+checked by the DoR in this regard and also in relation to protocols on ethics and financial
+management before being signed off.
+
+The following are exemplars of research integrity and open research. Cristea et al. built and
+made publicly available a gold Arabic corpus for Twitter-based Telecom data; all software
+developed by Mitchell is released under open licences with versions archived in perpetuity on
+Zenodo; and Breckon makes a notable amount of his software and datasets publicly available
+via Durham Collections.
+
+Section 2. People
+
+Staffing strategy
+Our staffing strategy has had two primary drivers since the formation of the new department,
+namely growth and diversity, and this will continue to be the case. Our intention is to reach 59
+permanent academic staff by 2027 and we are in the fortunate position of being able to appoint
+at all grades (our 27 REF2021 teaching-and-research staff comprise 11 Full Professors, 6
+Associate Professors and 10 Assistant Professors); though we will ensure sustainability,
+support and career progression (cf. critical mass within research groups). As regards staff
+recruitment, we follow an improved EDI-supporting University recruitment process (IES§3.1)
+and set up search committees and actively headhunt likely individuals (we have seen strong
+sets of applicants for all positions advertised).
+
+Staff development
+All but 2 of the 10 appointments we have made since 2017 are at the Assistant Professor level
+(the other 2 are Full Professors) and we view the staff development of these early-career
+researchers (ECRs) as being of the highest importance. In line with University policy, every
+member of staff (and not just ECRs) is assigned an experienced mentor (not their line
+manager) to support career and research development and provide individual assistance with
+all aspects of university life, e.g., grant proposal preparation, MSc/PhD supervision, teaching
+and administration (one-to-one meetings occur regularly). Preferential treatment is given to
+new ECRs as regards teaching/administration via 50% load in their first year and 75% in their
+second (DurCS has a transparent workload allocation model). The allocation of department-
+funded and university-funded PhD studentships is purposefully heavily biased towards ECRs,
+e.g., Koulieris, Willcocks and Al Moubayed have recently received university- and department-
+funded PhD studentships. Moreover, every staff member applying for an EPSRC New
+Investigator Award is promised matched funding for a PhD studentship. The Durham Centre
+for Academic Development (DCAD; IES§3.3) supports all researchers at all stages of their
+
+
+                                                                                                   6
+careers but in particular ECRs, e.g., through "Newton’s Apple" and the Leading Research
+Programme.
+
+PDRAs within DurCS have the opportunity to undertake undergraduate teaching, if they so
+wish, with appropriate training and support. Since REF2014, 25 PDRAs have been funded
+through research grants, with the majority who have left going on to academic positions or
+industrial research labs in the UK and abroad, e.g., to universities in Bergen, Birmingham,
+Cambridge, Darmstadt, Derby, Glasgow, Hertfordshire, Middlesex, Novosibirsk and
+Amsterdam, as well as to Beijing Aerospace UAV System Engineering Research Institute.
+PDRAs are supported with guidance and mock-panel events when they submit fellowship
+proposals and through the Careers and Enterprise Centre and DCAD as regards career
+planning and progression.
+
+The University has completely redeveloped its promotions and progressions process
+(IES§3.2). In short, all staff mandatorily submit CVs each year to ensure that everyone is
+considered fairly as regards promotions, with all staff receiving feedback from the promotions
+and progressions process via a confidential meeting with the HoD (the Department Promotions
+and Progression Committee is diverse and all those on it have undergone EDI training). Staff
+can apply for research leave on the basis of one-term-in-seven (IES§3.3). Research leave can
+also be allocated strategically in order to support impact development and be applied for by
+new parents returning from maternity, adoption or shared parental leave. Research leave also
+enables staff to undertake significant research visits to other institutions, e.g., Ivrissimtzis to
+Yale, Bordewich to Canterbury, New Zealand (twice), and Friedetzky to Hamburg.
+
+Every member of staff automatically receives £1,000 per annum (cumulatively) to support
+research activities such as conference travel, academic visits and small equipment purchases.
+Additional research support funds are awarded to the PIs of successful grant proposals
+(equivalent to 10% of the funded overheads), and the University also matches this 10% by
+contributing into a departmental research fund that is used strategically for all (IES§3.3).
+
+Research Students
+DurCS has two mechanisms to allocate internal funding to PhD studentships. The first is to
+invite all applications with no restriction on topic or field, which are judged on the academic
+strength of the candidate and project, equality and diversity, the fit to our research strategy,
+and the potential to support ECRs. The best candidates are put forward for Durham Doctoral
+Scholarships, but guaranteed funding from DurCS (if eligible) even if their applications are
+unsuccessful, or to the Chinese Scholarships Council (if eligible). This offers security to the
+candidate in accepting the position at Durham early and avoids losing strong PhD candidates
+to other institutions. The second mechanism for funding allocation is to call internally for staff to
+propose PhD projects that will support the research and impact strategies of DurCS. The best
+project proposals are then guaranteed funding, enabling staff to advertise fully-funded PhD
+positions widely (which can often draw a larger and stronger pool of candidates). DurCS is also
+heavily involved in MISCADA, an MSc in scientific computing and data analysis, which
+provides a feed for PhD student recruitment.
+
+All PhD students within DurCS receive 3.5 years of funding and have both a primary and
+secondary supervisor. In addition, DurCS funds conference attendance, research support
+activities and equipment for each student up to a total amount of £2,500 per annum. Each
+research student undertakes our Graduate Programme (monitored by the DPG) which includes
+a written report after nine months of study and an associated viva, and thereafter annual
+progress reports. It is obligatory within our Graduate Programme that research students give
+seminars on their research; we encourage and support students to reach as broad an
+audience as possible, e.g., a number of PhD students have given seminars within the
+University's Institute for Data Science. We operate a portfolio model of training whereby
+research students create a tailor-made training package by selecting from a menu of courses
+from within DCAD. There is also departmental involvement in CDTs with Breckon/Obara
+                                                                                                        7
+involved in the Leverhulme Centre for Visual Arts and Culture CDT and Breckon in the Aura
+CDT.
+
+DurCS holds an annual Research Day, organised by our PhD students, which allows students
+to present their research through talks and posters to the rest of DurCS and to industry visitors.
+PhD students and PDRAs also organise a regular Junior Seminar Series (at which they gain
+experience in presenting and receive feedback from their peers) and ad hoc research events,
+e.g., reading groups, and can nominate external speakers for research group seminar series.
+PhD students are also encouraged to play a role in the supervision of UG projects when
+appropriate.
+
+Since REF2014, we have had 46 PhD and 3 MRes students graduate and there are currently
+47 PhD and 2 MRes students who are enrolled and yet to graduate. Our current research
+student cohort comes from over 10 different countries with funding from a variety of sources
+including EPSRC, Durham University Scholarships, CONACyT, EU IIIP, various industrial
+concerns, and overseas governmental and institutional funders (there are also self-funded
+students). The quality of our students is testified by the fact that during their studies at Durham,
+our students have had joint publications with researchers from Alagoas, Athens, Beirut,
+Bergen, Bordeaux, Brussels, Canterbury, Glasgow, Grenoble, Helsinki, Leeds, Lyon, Mainz,
+Metz, Montpellier, Munich, Newcastle, Singapore, Oxford, Prague, QUB, RHUL, Rome,
+Roraima, Sao Paulo, Shenzhen, Shinshu, Toulouse, Trento, Utrecht, Vancouver, Warsaw,
+Warwick and Wellington.
+
+Equality and Diversity
+DurCS is fully committed to the University’s EDI principles and values (IES§3.6). DurCS has
+always been diverse in terms of staff nationality with current staff from Bosnia and
+Herzegovina, Bulgaria, China, France, Germany, Greece, Netherlands, Poland, Romania,
+Russia, Syria and the UK. However, we have not had a good gender balance and serious
+consideration of this weakness has been undertaken in recent years. At the time of REF2014,
+none of the 15 staff we returned were female. It has been a particular focus of the recent
+growth strategy to both make the application process fair and accessible and to make the
+department welcoming and attractive for all genders. This starts with reviewing the wording of
+advertised job descriptions to highlight inclusivity and to ensure they fully reflect the
+opportunities available in DurCS, regardless of gender, and persists throughout the process to
+final interviews, where female academic membership on interview panels is mandatory. In
+consequence, since 2017 we have appointed 4 female permanent academic staff, as well as a
+further female Assistant Professor (Teaching), including 2 female Full Professors, one of
+whom, Black, leads on improving equality and diversity within Durham.
+
+We have instigated additional management practices in order to facilitate inclusivity, e.g.: our
+departmental promotions and progression committee has two female senior staff members,
+Black and Cristea; equality and diversity are taken into consideration at all stages of
+departmental planning, such as in the development of the new building; and the Director of EDI
+has been constituted as a senior departmental role.
+
+As a department we are endeavouring to make female role models significantly more visible
+throughout our research environment and also to enable connectivity to other networks and
+activities aimed at providing a better gender balance.
+    a) We have recently formed the Durham University Women in Tech group, which forms
+         part of our department Computer Society; there are already over 30 members.
+    b) In 2018 we launched a prestigious scholarship for aspiring female computer scientists
+         to support them throughout their undergraduate studies: the Anne-Marie Imafidon
+         Women in Technology Scholarships.
+    c) In 2019 we took 5 of our female undergraduates to the Grace Hopper Conference in
+         the US where they had the opportunity to connect with many global tech employers and
+
+                                                                                                       8
+      other women in tech from around the world, as well as learn about research
+      opportunities from female experts in, e.g., AI, data science and cybersecurity.
+   d) A good gender balance is a strong focus when drawing up speakers for seminar series
+      and other research events, e.g., before her appointment at Durham, Black provided an
+      inspirational talk to DurCS on how she helped save Bletchley Park.
+   e) The female members of our External Advisory Board (see below) take a hands-on
+      approach in promoting Computer Science and its research interface with industry, and
+      specifically in recruiting women into the discipline.
+   f) We inaugurated the Durham Lovelace Lecture, a prestigious lecture held each year
+      during International Women’s week to celebrate the achievements of women, which is
+      now led by Engineering at Durham. Recent speakers have included Professors
+      Danielle George (Manchester), Carron Shankland (Stirling) and Joanna Haigh
+      (Imperial).
+   g) We are developing an annual Steve Shirley Lecture, building on a lecture (in
+      partnership with Google) by Dame Stephanie Shirley in DurCS in November 2019.
+
+DurCS was awarded funding of £500K from the Institute of Coding for "TechUPWomen", a
+programme to provide women from BAME and underrepresented communities in the Midlands
+and the North of England with an intensive six month course on topics including coding, data
+science, cyber security, machine learning and agile project management to transform or kick-
+start careers (the full grant is with researchers from the Universities of Edge Hill, Nottingham
+and York). Additional funding is being sought and the TechUPWomen grant could form an
+impact case of any post-2021 REF. DurCS has an Athena Swan Bronze Award and a Silver
+Award is in preparation. DurCS also has a Disabilities Support Officer.
+
+Section 3. Income, infrastructure and facilities
+
+Research income
+ACiD has a strong research funding record for a theoretical research group with the following
+EPSRC- and Leverhulme-funded research grants, totally over £3M (in FEC value), being active
+within the assessment period:
+     "Efficient Graph Colouring Algorithms via Input Restrictions" (Paulusma, Johnson,
+        £607K, 2016-19); "The Complexity of Promise Constraint Satisfaction" (Krokhin,
+        Paulusma, £555K, 2018-21); "Detecting Induced Graph Patterns" (Paulusma, Stewart,
+        £493K, 2013-16) "Interconnection Networks: Practice Unites with Theory (INPUT)"
+        (Stewart, £438K, 2013-16); "Algorithmic Aspects of Temporal Graphs" (Mertzios,
+        £407K, 2017-20); "Topology, Geometry and Laplacians of Simplicial Complexes"
+        (Dantchev, Ivrissimtzis, £395K, 2013-16); "AlgoUK - A Network for Algorithms and
+        Complexity in the UK" (Stewart, Paulusma, £134K, 2017-20); "Memoryless
+        Computation and Network Coding" (Gadouleau, £130K, 2013-15); "Algorithmic Aspects
+        of Intersection Graph Models" (Mertzios, £128K, 2013-15); "Robustly Tractable
+        Constraint Satisfaction Problems" (Krokhin, £102K, 2012-15).
+Prior to the merger in 2016 of the EPSRC's research themes of Maths of Computing and
+Theory of Computation within its ICT portfolio, ACiD was acknowledged by EPSRC as being
+one of four major EPSRC research investments in Maths of Computing. Some research
+highlights from the above grants (in collaboration with the PDRAs) follow.
+     Research outputs co-authored by Mertzios and the PDRA Zamaraev on "Algorithmic
+        Aspects of Temporal Graphs" were published in ICALP, AAAI and JourCompSysSci.
+     Research outputs co-authored by Krokhin and the PDRA Oprsal on "The Complexity of
+        Promise Constraint Satisfaction" were published in STOC and FOCS.
+     Research outputs co-authored by Paulusma and the PDRA Dabrowski on "Detecting
+        Induced Graph Patterns" and "Efficient Graph Colouring Algorithms via Input
+        Restrictions" were published in JourCompSysSci (x4), Algorithmica (x3) and
+        SIAMJourDiscMath.
+
+
+                                                                                                   9
+      Research outputs co-authored by Stewart and the PDRA Erickson on "Interconnection
+       Networks: Practice Unites with Theory (INPUT)" were published in
+       IEEETransParDisSys, JourParDistComp and JourCompSysSci.
+      As part of the "Interconnection Networks: Practice Unites with Theory (INPUT)" grant,
+       an open-source software tool INRFlow providing a flow-level simulation framework for
+       modelling large-scale networks and computing systems was developed, authored by
+       Stewart, the PDRA Erickson and also researchers from Manchester
+       (JourParDistComp).
+
+Since the start of the departmental expansion in 2017, ICG have secured research funding of
+over £3.9M whereas other ICG grants active within the assessment period amount to over
+£1.7M (in FEC value). Funding has come from a variety of non-industrial sources including:
+    EU, UK government (Centre for Defence Enterprise, Centre for the Protection of
+       National Infrastructure, DA-CMT Shrivenham, Department of Transport, DSTL, Home
+       Office, Innovate UK, Metropolitan Police Service, MoD, NHS), US government
+       (Department of Homeland Security), EPSRC, Royal Society, ESRC, AHRC, the Nuffield
+       Foundation and KTP and KTA schemes.
+Funding from industry includes funding from:
+    Cievert, Daykin and Storey, Clickso and Foster Findlay Associates (Al Moubayed)
+    Autonomous Devices, Cosmonio, Jaguar Land Rover, Leonardo, MODUS, NM Group,
+       Petards Joyce-Loebl, QineteQ, Rapiscan Systems Limited, Renault and ZF Race
+       Technologies - Conekt (Breckon)
+    IBEX Innovations Limited and Geospatial Research Limited (Ivrissimtzis)
+    Boots, Dyson, Intogral, Procter & Gamble and Unilever (Obara).
+Some research highlights from the above funded research follow.
+    Funding by the UK Home Office, Department for Transport, UK Centre for the
+       Protection of National Infrastructure and the Metropolitan Police Service resulted in
+       research outputs in IEEETransInfForensSec and JourXRaySciTech which underpin the
+       current case study "Advanced Algorithm Development for use in X-ray and Computed
+       Tomography Security Scanners used for Transport and Border Security" (Breckon).
+    Funding from Jaguar Landrover, ZF Race Technologies – Conekt and Renault resulted
+       in research outputs in ICIP, ECCV and ICMLA, which underpin the current case study
+       "Real-time Scene Understanding for On-Vehicle Automotive Sensing" (Breckon).
+    Funding from DSTL, Innovate UK, MOD and UK Technology Strategy Board resulted in
+       research outputs in SPIEOptPhotonics (x3) and SPIEGroundAirMultisensInterop which
+       underpin the current case study "Object Detection, Classification, Localization and
+       Tracking for Automated Wide-Area Surveillance" (Breckon).
+    Research outputs co-authored by Obara and the (then) PDRA Willcocks, who was
+       funded by Dyson and Procter & Gamble, were published in
+       IEEETransPattAnalMachineInt, IEEETransMedImaging and IEEETransInfForensSec.
+
+Our strategic vision as regards research income generation is that every member of staff's
+research should be supported by external funding, with collaborative proposals featuring
+strongly, and that our overall research income portfolio should be diverse and make use of all
+potential funding opportunities. There is a strong expectation signalled to staff that research
+funding should be secured. Receiving 10% of the overheads of a funded proposal provides
+another strong incentive.
+
+Our intention to build critical mass in specific research areas feeds into our strategic vision for
+research income generation as critical mass encourages and supports collaboration in
+securing research funding (cf. ACiD's research grant collaborations above). Having a high-
+quality research group of critical mass also means that the group attracts high-quality potential
+collaborators. Again, ACiD is a case in point: "Interconnection Networks: Practice Unites with
+Theory (INPUT)" was part of a joint proposal with Manchester whose PI was Professor Steve
+Furber FRS FRSE; and "Algorithmic Aspects of Temporal Graphs" is part of a joint proposal
+with Liverpool whose PI is Professor Paul Spirakis. Having a thriving seminar series (which
+                                                                                                      10
+both ACiD and ICG have) facilitates the development of collaborative grant proposals, e.g.,
+"Algorithmic Aspects of Temporal Graphs" (Paul Spirakis, Liverpool; seminar 2015) and
+"Efficient graph colouring algorithms via input restrictions" (Stéphane Vialette, Université Paris-
+Est Marne-la-Vallée; seminar 2014), and there are currently ongoing grant proposals involving:
+Al Moubayed and data scientists from Caspian (a Newcastle-based company); Gadouleau and
+researchers from Manchester; Li and researchers from Swansea; Paulusma and researchers
+from Glasgow; and Weinzierl and researchers from Columbia, all of which have arisen
+following seminar visits.
+
+Departmental infrastructure and facilities
+As regards departmental facilities and laboratories, extensive consultations with academic staff
+were held during the development of our new building (IES§1.1). As well as the usual office
+space, the building includes the following research facilities:
+     6 research breakout spaces, featuring informal furniture and whiteboards; dedicated
+       research space for PDRAs and PhD students; a high-specification meeting room for
+       video conferencing; and a 100-seat Scott Logic Lecture Theatre
+     a Visualisation Laboratory housing research equipment relating to computer vision and
+       visualisation so as to support on-site trials with industrial partners, including a range of
+       specialist surveillance cameras and permanently installed live thermal image feeds (this
+       replaces our current Visualisation Lab which underpinned much of the work for our
+       impact case studies)
+     a Heavy Duty Laboratory to support our research in autonomous vehicles and aviation
+       security and: to operate two fully electric vehicles with on-board sensor suite
+       comprising stereo vision, radar and LiDAR sensing for on-road/off-road vehicle
+       autonomy research; and to contain two airport security scanners (dual-energy multi-
+       view X-ray) coupled with extensive aviation-focussed test material
+     a Robotics Laboratory to support research in autonomous robotic guidance, human
+       robot interaction and robot sensor design, where there is space for indoor drone
+       experiments on a number of robotics platforms including six Nano humanoid robots, a
+       robotic human-interactive head, two open-rover all-terrain wheeled devices and a wide
+       range of both commercial and in-house drones
+     a SCENE Laboratory equipped with AR equipment (from mobile phone applications to
+       Microsoft HoloLens), 3D printers, 3D scanners and VR headsets, to enable the creation
+       of various human interaction "scenes" in relation to research in applied and
+       interdisciplinary fields
+     a Displays Laboratory equipped with specialist optics equipment to enable the design
+       and construction of experimental display prototypes, the development of innovative
+       imaging algorithms and performance evaluation through psychophysical experiments
+     a Learning Laboratory equipped with tablets, sensors, small robots, head-mounted
+       display devices and projectors to support research on human-AI interaction and
+       human-centred design
+     a research server room, hosting a Network Compute Cluster (NCC); a network of
+       cutting-edge NVIDIA CUDA GPUs for machine learning which was enhanced in 2019
+       with University funding of £150K that partially funded 96TB of high-speed data storage
+       and servers hosting 49 cutting edge NVIDIA GPUs) and a 16 node BlueField cluster
+       (from Mellanox)
+     a Hazan Venture Lab forming a dedicated workspace for young entrepreneurs
+       (individuals and teams), designed to facilitate formal and informal interactions with
+       other innovators and industry partners
+     additional laboratory space for future expansion.
+
+To aid our expansion, an External Advisory Board (EAB) was set up in 2016 consisting of 16
+distinguished individuals from the forefront of industry, academia and the public sector who are
+recognised as leading figures in their respective fields, with its remit being to provide advice
+
+
+                                                                                                      11
+and support to DurCS as regards industry-related aspects of teaching, research and impact.
+Members include:
+     Anne-Marie Imafidon MBE: cofounder and CEO of Stemettes, an award-winning social
+       enterprise inspiring females into STEM subjects (over 13,000 participants in its first 4
+       years)
+     Rashmi Misra: Head of Business Development of AI at Microsoft; she was formerly
+       Head of Artificial Intelligence Solutions at Hewlett Packard Enterprise and has held
+       senior positions at Motorola
+     Giselle Stewart OBE: Director of UK Corporate Affairs for Ubisoft; Director of TIGA, the
+       games developers' trade association; and Vice-Chair of Dynamo NE, a not-for-profit
+       group set up to grow the North East IT Economy
+     Lincoln Wallen: CTO of Improbable Worlds Limited, which develops distributed
+       simulation software, and former CTO of DreamWorks, a US animation company
+     Simon Meacham: Head of Information and Intelligence at Lyft; former CEO of the cyber
+       security firm Trust Networks Inc.; and who has recently worked in support of the White
+       House Office of Science and Technology Policy in the Executive Office of the President
+     Neil Hunt: Chief Strategy Officer for Curai who was previously Chief Product Officer at
+       Netflix where he led the product team on the Netflix experience.
+The EAB helps DurCS to better understand the complex interface between academic research
+and the real world, and its members actively support and assist in this regard. In addition, the
+EAB has enabled DurCS to secure £3M in philanthropic donations and the Anne-Marie
+Imafidon Scholarships to support Women in Technology and internships and industry
+placements for our students, in particular those from disadvantaged backgrounds.
+
+University facilities
+Durham University already has a significant computational infrastructure: it hosts one of the
+UK’s largest academic high-performance computing resources through its Hamilton and
+COSMA supercomputers (IES§4.3). Weinzierl and his collaborators use Hamilton mainly as a
+prototyping and performance analysis system to develop software that is later rolled out to
+large-scale production HPC machinery. Durham's HPC infrastructure enabled Weinzierl to
+secure the EU H2020 project ExaHYPE (2015-19, with collaborators in Italy, Germany and
+Russia and with a budget of almost €2.9M, over £666K of which came to Durham) and to
+subsequently develop the open-source engine (also called) ExaHYPE to solve hyperbolic
+partial differential equations in first order formulation on dynamically adaptive space-tree grids.
+Weinzierl has had collaborations with Durham's Institute of Computational Cosmology in
+Physics, involving a joint grant with Intel, two jointly supervised PhD students and EPSRC-
+funded grants, within which they used the COSMA supercomputer. In addition, two grant
+successes in this area have recently been announced: with colleagues from Physics, Weinzierl
+(CI) has been awarded an EPSRC grant "Massively Parallel SPH for Engineering and
+Astrophysics at the Exa-Scale" (£368K); and Weinzierl (PI) has been awarded an EPSRC
+grant "ExaClaw: Clawpack-enabled ExaHyPE for heterogeneous hardware" (£167K; the
+ExaClaw software forms an ExCALIBUR use case). Weinzierl is also a PI behind the DINE
+(Durham Intelligent NIC Environment) supercomputer which is installed in collaboration with
+DIRAC/COSMA (DIRAC provides HPC facilities for the national STFC theory community and is
+hosted at Cambridge, Leicester, Durham and Edinburgh). Furthermore, it was announced in
+February 2020 that Durham will host a new £3.1M Northern Intensive Computing Environment
+(NICE) supercomputer, Bede, to be used to address challenges in subjects ranging from
+artificial intelligence to advanced X-ray imaging by the N8 Research Partnership (IES§2.5.3) of
+leading universities in the North of England (this will be installed by ARC; IES§4.3). There is
+also some usage of national HPC facilities through the ARCHER national supercomputing
+service (Mitchell).
+
+NETPark (North East Technology Park; IES§2.5.3) is a specialist business park that provides a
+dynamic and supportive environment to accelerate the growth of ambitious, innovative, high
+tech companies into global markets, supported by Business Durham, the economic
+
+                                                                                                      12
+development organisation for County Durham. We have recently used facilities there to host
+large equipment items and experiments, e.g., full-scale airport security baggage scanners
+(Breckon) and our start-up company Intogral (Obara/Willcocks).
+
+University research support
+Research and Innovation Services (RIS) provide specialist support for all staff as regards
+research funding (IES§4.4). Within RIS, there is a Research Operations team member
+responsible for DurCS who meets with staff individually to advise on funding opportunities,
+assists staff with costing and preparing grant applications, and arranges award set-up and
+post-award support. DurCS is also supported by the Research Development Team and the
+Partnerships and Engagement Team who assist staff to engage in commercial research, e.g.,
+Obara’s ongoing research in collaboration with Procter & Gamble is part of a wider university
+relationship with Procter & Gamble managed by the Partnerships and Engagement Team
+(IES§1.1, IES§2.5.3). The University provides research support funds through mechanisms in
+addition to the Grant Seedcorn Funds mentioned above, including Strategic Research
+Equipment bids, e.g., DurCS received £150K for a GPU compute cluster for machine learning
+as well as seedcorn funding.
+
+DurCS is also supported in engaging in bids by ARC who provided support for: the successful
+TechUp bid (Black, Cristea); successful proposals with Renault, UK Home Office and the MOD
+(Breckon); Weinzierl's recently awarded EPSRC proposals (see above) where ARC injected
+0.3 FTE over 15 months as matched funding; securing 4 ERDF PhD studentships (Al
+Moubayed, Breckon, Ivrissimtzis); and an ongoing research proposal involving the North East
+Regional Special Operations Unit (NERSOU) on serious crime (Willcocks).
+
+
+Section 4. Collaboration and contribution to the research base, economy and society
+
+Research collaborations
+Engagement in the University's research institutes is strong (see above) and research
+collaborations thrive in DurCS, e.g., there are DurCS research outputs co-authored with
+researchers from over 35 UK universities and 40 non-UK universities. There are numerous
+funded collaborations with other researchers, many of which are inter-disciplinary, seek to
+address national priorities and sustain the discipline of Computer Science. Some examples
+follow:
+      Krokhin is PI on "The Complexity of Promise Constraint Satisfaction" (EPSRC, £441K)
+        with researchers from the Faculty of Mathematics and Physics at Charles University.
+      Stewart was PI on "Interconnection Networks: Practice unites with Theory (INPUT)"
+        (EPSRC, £353K, “Working Together” initiative) which was joint with Professor Steve
+        Furber FRS FRSE, Computer Science, Manchester
+      Mertzios is PI on "Algorithmic Aspects of Temporal Graphs" (EPSRC, £319K) which is
+        joint with Professor Paul Spirakis, Computer Science, Liverpool.
+      Obara is PI on "At Home Diagnostic Technologies to Enable Self-Care"
+        (GlaxoSmithKline, £245K) with researchers from Psychology and Biosciences at
+        Durham.
+      Long has a Fellowship "Intelligent Healthcare Systems for Large-scale Populations"
+        (MRC, £238K) with computer scientists and neuroscientists from the Chinese Academy
+        of Sciences, Nanjing University of Science and Technology and Newcastle University.
+      Weinzierl is PI on "ExaClaw - Clawpack-enabled ExaHyPE for heterogeneous
+        hardware" (EPSRC, £167K) with applied mathematicians, earth scientists and
+        computer scientists from Munich and Columbia Universities and Barcelona
+        Supercomputing Centre.
+      Breckon is CI on "A New Partnership in Offshore Wind" (EPSRC, £3.9M) with
+        engineers from Durham, Sheffield and Hull Universities.
+
+                                                                                                13
+      Obara is CI on "Preparedness and planning for the mountain hazard and risk chain in
+       Nepal" (NERC, £3.8M) with researchers from Geography at Durham, Newcastle,
+       Northumbria and Oxford.
+      Weinzierl is CI of the consortium behind "ExaHyPE - an Exascale Hyperbolic PDE
+       Engine" (EU, €3.5M) with computer scientists, engineers, physicists and earth scientists
+       at Durham, Frankfurt, Munich and Trento Universities.
+      Obara is CI on "LINC-NET: A Bio-image Data Driven Informatics Approach Quantifying
+       Nuclear Biomechanics That Predicts Metastasis" (Rosetrees Trust, £796K) with
+       researchers from Biosciences, Mathematics and Physics at Durham.
+      Obara is CI on "Church, State, and Nation: The Journals of Herbert Hensley Henson,
+       1900-1939" (AHRC, £705K) with researchers from the Government and International
+       Affairs at Durham and History at Durham and Leeds.
+      Love is CI on “How the eye focuses: Basic mechanisms and opportunities for advanced
+       displays” (NSF, US$537,554) with vision scientists from UC Berkeley.
+      Dantchev and Ivrissimtzis were CIs on "Topology, Geometry and Laplacians of
+       Simplicial Complexes" (EPSRC, £395,679) with mathematicians from Durham and
+       Newcastle Universities.
+      Bordewich is CI on "The Combinatorics of Reticulate Evolution" (New Zealand Marsden
+       Fund, NZ$655K) with mathematicians from the University of Canterbury and Sorbonne
+       Université.
+      Weinzierl is CI on "Massively Parallel Particle Hydrodynamics for Engineering and
+       Astrophysics" (EPSRC, £294K) with engineers, physicists and computer scientists at
+       Durham, Hertfordshire, Liverpool John Moores and Manchester Universities.
+      Obara is CI on "Automated 3D Measurement of Macular Holes" (Northern Accelerator
+       Research England, £100K) with researchers from Genetic Medicine at Newcastle
+       University.
+      Gadouleau was PI on "Cellular Automata and Boolean Networks" (Royal Society,
+       £11K) with mathematicians from Institut de Mathématiques de Marseille, CNRS and
+       Aix-Marseille University.
+
+Partnerships and networks
+The University has a strategic partnership with Procter & Gamble (IES§1.1, IES§2.5.3) and
+within this, Obara has developed a strong ongoing relationship. He has secured 6 grants from
+the company worth over £535K in total, he provides advice to the executive team in relation to
+data science and AI research and he has given invited specialised talks to P&G R&D teams
+globally. Obara is also AstraZeneca Visiting Professor in Image Processing and Artificial
+Intelligence at AstraZeneca, Cambridge. Breckon currently has: an agreement for IP
+exploitation in return for bespoke technical support for algorithm integration with Gilardoni (who
+also integrated and tested his algorithms in one of their products); and a rolling supply contract
+with Rapiscan (who have adopted one of his algorithms to support their global product-line).
+Breckon has had research consultancies with Autonomous Devices, Blue Bear Systems
+Research, Cosmonio, Kromek Group PLC, Micro-X, Pearson Engineering and VisionMetric,
+resulting in funding and an enhanced research relationship. Weinzierl has a close relationship
+with RSC group, a Russian supercomputer company: they are partners on two of Weinzierl's
+grants and there are RSC co-authors on some of his research outputs. RSC allow Weinzierl
+access to experimental machines. Willcocks has a partnership with NHS University Hospital of
+North Durham whereby large X-ray/CT datasets from the hospital are exclusive to Durham.
+
+Contributions to and engagement with industry and society
+DurCS has other occasions of impact that are not reflected within the case studies and some
+of which are initial steps towards additional impact development.
+
+Obara has contributed to the development and implementation of BisQue, a free web-based,
+cross-platform and open-source system for the exchange and exploration of 5D biological
+
+                                                                                                     14
+images which has been developed mainly at the University of California, Santa Barbara and
+which is used by many research and commercial institutions such as iPlant and Pfizer. He has
+also given talks at the following companies: GE Oil & Gas (Newcastle); Unilever (Port
+Sunlight); GlaxoSmithKline (London); and AstraZeneca (Cambridge). He contributed to a
+UNESCO meeting on data protection and security to fight against the illicit traffic of antiquities
+attended by agencies such as Interpol, International Council of Museums, and Office Central
+de Lutte contre le Trafic des Biens Culturels (Paris).
+
+Weinzierl's collaborations with IBEX Innovations have led to PhD co-funding under the ERDF
+umbrella and they have granted him access to novel hardware worth around £1M per year that
+is not yet on the market. He has also co-authored papers with researchers from Intel (USA)
+and this has led to in-kind grant proposal support. His links with Mellanox have resulted in free
+access to novel networking solutions, in-kind grant proposal support and the preferential
+purchase of a SmartNIC/Mellanox-enabled cluster. Weinzierl is the driving force behind two
+major open-source codes: Peano and ExaHyPE. These codes are used by an ERC Starting
+Grant and also the EU’s Centre of Excellence in Solid Earth (ChEESE). ChEESE actively
+supported Weinzierl's grant proposals in 2019 and committed to run his future codes on
+European supercomputers.
+
+Breckon is a permanent member of the Cabinet Office Cyber Security Expert Group as an
+academic expert advisor with responsibilities to advise on specific cyber-security risks to the
+UK under the National Risk Assessment. Breckon was appointed as an expert adviser to a UK
+government Blackett review (details classified). Breckon is currently a member of the scientific
+advisory board of Machines with Vision.
+
+As well as the start-up Intogral (Obara/Willcocks), Durham research has contributed to 3 other
+start-ups: Fjelltopp (integration, management and comprehension of public health data; 2
+DurCS PhDs); Cosmonio (AI systems that automate the process of extracting visual
+information from images; DurCS PhD); and Udara (specialist aerial computer vision
+consultancy; DurCS PhD).
+
+Breckon, Friedetzky and Weinzierl have all given Saturday Morning Science public lectures.
+
+Contributions to the research base
+A number of staff hold or have held editorial positions with journals.
+    Editor-in-Chief: Computer Journal (Section A) (Stewart).
+    Editorial Board: Computer Journal (Paulusma), Frontiers of Artificial Intelligence
+      (Cristea), Graphs and Combinatorics (Paulusma), IEEE Transactions on Learning
+      (Cristea), IET Computer Vision (Breckon), International Journal of Cyber Ethics in
+      Education (Li); International Journal of Distance Education Technologies JDET (Li);
+      International Transactions in Operational Research (Paulusma), Journal of Discrete
+      Algorithms (Stewart), Journal of Graph Theory (Paulusma), Networks (Paulusma),
+      Pattern Recognition (Breckon), Philosophical Transactions of the Royal Society A
+      (Stewart), SIAM Journal on Computing (Krokhin), Visual Computer (Koulieris).
+    Guest Editorships: Discrete Applied Mathematics (Paulusma).
+
+9 staff have attended events at invitation-only international research institutes within the
+assessment period such as Dagstuhl, Oberwolfach, Lorenz Center, Indian Institute of
+Mathematical Sciences and Centre International de Rencontres Mathématiques. Furthermore,
+Bordewich, Krokhin and Paulusma have organised 3 Dagstuhl seminars and Stewart was a
+Member of the Schloss Dagstuhl Review Board.
+
+There is a strong engagement with UKRI agencies (beyond the usual proposal reviewing).
+    EPSRC Panel Chair: Stewart (programme grants).
+
+
+                                                                                                     15
+      EPSRC Panel Membership: Breckon (x4), Budgen (x4), Krokhin, Paulusma, Stewart
+       (x4).
+      UKRI Panel Membership: FLFs (Krokhin, x2), STFC (Breckon), MRC (Stewart).
+
+As well as the usual proposal reviewing for over 20 international funders, DurCS staff have sat
+on various panels of funding agencies.
+    Panel Chairs: Academy of Finland Mathematics Review Panel (Stewart).
+    Panel Memberships: EUROGIGA Review Panel for EUROCORES (Stewart), FCT
+       Portuguese Funding Body (Cristea, x2), French National Research Agency (Breckon),
+       National Centre for Research and Development Poland (Obara), Norwegian Funding
+       Agency IKTPlus (Cristea, x3), Research Council of Norway Mathematics Expert Panel
+       FRINATEK (Stewart), Research Foundation of Flanders (Breckon, x4).
+
+Staff have received various keynote invitations to speak at national and international research
+events.
+     International: 100 Years of Matching Theory in Hungary (Paulusma), International
+        Workshop on Boolean Networks IWBN (Chile; Gadouleau), 33rd Computational
+        Complexity Conference CCC (USA; Krokhin), 29th Workshop on Cycles and Colourings
+        C&C (Slovakia; Paulusma), 41st International Workshop on Graph-Theoretic Concepts
+        in Computer Science WG (Germany; Paulusma), 14th Int. Symp. on Mathematical
+        Morphology ISMM (Germany; Obara), 13th Int. Conf. on Parallel Processing and
+        Applied Mathematics PPAM (Poland; Weinzierl), 10th Int. Joint Conf. on Software
+        Technologies ICSOFT (France; Budgen), SIAM Conference on Computational Science
+        and Engineering (USA; Mitchell).
+     National: Workshop on Algorithms in Networks, Graphs, Distributed Computing
+        (Stewart), Bristol Algorithms Day (Stewart), 27th British Combinatorial Conference BCC
+        (Paulusma), Combinatorics Colloquium (Johnson), 19th Annual UK Workshop on
+        Computational Intelligence UKCI (Cristea), 9th International Conference on Educational
+        and Information Technology ICEIT (Cristea), 4th International Conference on
+        Information and Education Innovations ICIEI (Cristea), London Algorithmic Workshop
+        (Stewart), Workshop on Network Sciences and Technologies (Mertzios, Stewart).
+
+As well as the usual reviewing for journals and conferences, DurCS staff have sat on program
+committees on over 90 occasions, chaired program committees and organised workshops and
+conferences:
+    PC Chair: CiE (Paulusma), ICIEI (Cristea), ICWL (Li), ITS (Cristea)
+    Conference and Workshop Organisation: 8ECM Minisymposium (Paulusma, COVID-
+       postponed), ACCV RGB-D Workshop (Breckon), ATCAGC (Johnson, Paulusma),
+       BCTCS/AlgoUK (Johnson, Martin, Mertzios, Paulusma), ICALP Satellite Workshop
+       (Mertzios, x3), Int. Conf. on Cyberinfrastructure for Historical China Studies (Sturgeon),
+       ISC (Weinzierl, x2), PASC (Weinzierl), SIAM CSE (Weinzierl, x2).
+
+Staff have received awards and been invited to contribute research papers and edit volumes
+for journals and other publishers, e.g., Krokhin co-edited a volume of surveys on constraint
+satisfaction published by Schloss Dagstuhl; Li received the best paper award at Conference on
+Innovation and Technology in Computer Science Education ITiCSE; Paulusma was invited to
+contribute a survey on graph colouring to Journal of Graph Theory; and Paulusma was invited
+to contribute to a special issue of Networks on past winners of the Glover-Klingman Prize.
+
+Staff have contributed to various learned societies and research organisations across
+Computer Science: ACMUKWomen (Al Moubayed); British Machine Vision Association
+(Breckon); LMS (Martin, Stewart); UKCRC (Paulusma, Stewart). ACiD is a partner in the
+Center for Discrete Mathematics, Theoretical Computer Science and Applications DIMATIA (a
+joint project of Charles University, the Czech Academy of Sciences and Institute of Chemical
+Technology, Prague; Stewart is a member of the Advisory Board of DIMATIA).
+
+                                                                                                    16
+

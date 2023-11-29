@@ -1,0 +1,922 @@
+Unit-level environment template (REF5b)
+ Institution: Kingston University
+
+ Unit of Assessment: 11 – Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+  1.1 Unit context and structure
+
+The Computer Science and Informatics Unit of Assessment submission for Kingston University
+(KU) consists of 22 staff (22 FTE), including 9 professors and 3 early career researchersECR, all
+from the School of Computer Science & Mathematics. Research is undertaken in the Digital
+Information Research Centre (DIRC), one of KU’s research centres of excellence.
+
+DIRC is organised around three non-exclusive research themes: Communications, Vision and
+Security. Across them, staff conduct research in the following areas:
+   • Communications (7 FTEs, 34% of outputs)
+       o 5G networks & mobile infrastructure
+       o Wireless & multimedia communications
+   • Vision (9 FTEs, 53% of outputs)
+       o Visual surveillance
+       o Medical imaging
+   • Security (6 FTEs, 12% of outputs)
+       o Cyber & network security
+       o Private & public place security
+
+DIRC is managed by its director, Professor Politis, and three theme leaders, Professors Martini,
+Nebel and Remagnino for Communications, Vision and Security, respectively. Supporting KU’s
+Strategic Plan, DIRC aims to offer a vibrant and active research environment where staff engage
+with the latest research and collaborate to produce impactful interdisciplinary quality research on
+culture, society, and industry. More specifically, to ensure a sustainable research culture, the
+Centre’s director and theme leaders (meeting on a monthly basis) define investment priorities,
+organise biweekly seminars (internal and external speakers present, and ~20 members attend),
+put in place mentoring activities supporting, in particular, ECR and research students (65 PhD, 3
+PhD wholly overseas & 13 MSc by Research completions since REF2014), and support the
+organisation of scientific conferences. They also coordinate the mandatory training of research
+supervisors and the dissemination of good research practice, in tandem with the central Research,
+Business and Innovation Directorate (RBI). Since DIRC’s leadership aims to increase and diversify
+funding sources (income over £5.6M in cycle) and increase collaborations with the public and
+private sectors, the Centre facilitates brainstorming events to respond to the latest funding calls
+and initiatives, and in order to anticipate the future needs of industry. Moreover, theme leaders
+facilitate cross-theme collaboration, joint publications, and research grant submissions.
+
+DIRC’s expertise in Computer Vision and Wireless & Network Technology was developed
+across two decades with applications focusing on health and security. With the rapidly changing
+and ubiquitous world of digital information, the Unit not only embraced and contributed to the latest
+technologies (e.g., Martini and N. BarmanECR work on standards), but also anticipated the latest
+trends (e.g., Politis’ and G.C.ECR ’s white papers). Consequently, these two areas of research have
+become increasingly entwined which has led to, for example, the creation of innovative solutions to
+facilitate the live video streaming revolution (ICSUoA11Martini1). In addition, the overarching topic
+of Security was developed into a research theme, supported by the development of new expertise
+in cybersecurity and collaboration with the Government Communications Headquarters (GCHQ).
+
+DIRC provides an inclusive and outward looking environment for research development,
+fostering interdisciplinary and multidisciplinary research to achieve maximum impact in
+real-world applications, as illustrated in the three submitted impact case studies (ICSs). It has
+developed a significant array of collaborators both internationally and across a range of
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+stakeholders to address the needs of society in its areas of excellence. DIRC’s thematic research
+is complemented by other KU centres of research excellence, in particular the Centre for
+Engineering, Environment & Society Research (UoA12), and the Interdisciplinary Hub for the Study
+of Health & Age-related conditions (UoA3), which promote interdisciplinary research and
+collaboration. Research is also supported through the continuous development of our Research
+Laboratories and Infrastructures that provide the required resources to undertake internationally
+leading research.
+
+   1.2 Unit research
+
+Following REF2014, the Unit - coordinated by the DIRC director, the head of the School of
+Computer Science & Mathematics, the School’s Director of Research & Enterprise, and the
+Associate Dean for Research & Enterprise from the Faculty of Science, Engineering & Computing -
+designed its research strategy for the next 6 years. This strategy guided the Unit during the
+assessed period, which resulted in a vigorous growth of research in terms of visibility, quality and
+quantity, e.g., 82% of submitted outputs were published in upper-quartile (Q1; Scimago tracked,
+2019) journals and average annual external research income increased by 24%. Following the
+description of the Unit’s strategy, which is organised around priority areas and key objectives, its
+achievements are briefly summarised. Finally, future research and its approach to open
+research and research integrity are described.
+
+Priority areas
+
+In this REF period, the Unit built on its existing research strengths, emerging trends, and
+challenges to define the four priority areas on which it focused and invested to produce
+internationally leading research (examples of such publications are provided in brackets):
+    • Machine learning-based computer vision, including deep learning, in domains such as
+        visual analytics in the context of security in public spaces, processing of images captured
+        by unmanned aerial vehicles, and quantitative medical imaging to aid diagnostics
+        (ICSUoA11Remagnino3). Relevant infrastructure investments include a GPU-farm and a
+        new High Performance Computing facility. (outputs 11-32-1364, 11-17-1842, 11-05-1339,
+        11-13-1347, 11-22-1355)
+    • Ambient intelligence and error resilient 2D/3D video transmission facilitated by the
+        synergy between the vision and communications themes, and interdisciplinarity embracing
+        health, life sciences, social sciences, and arts (ICSUoA11Martini1). Relevant infrastructure
+        investment includes a Centre for Augmented and Virtual Reality Environments that includes
+        a user experience laboratory equipped to industrial standards. (outputs 11-40-1372, 11-36-
+        1368, 11-11-1345, 11-29-1361, 11-12-1346)
+    • Next generation network standards and applications, including 5G architectures, and
+        creations of ad-hoc network in critical situations (ICSUoA11Politis2). Relevant infrastructure
+        investments include WiMAX/WiFi-Adhoc/LTE testbeds. (outputs 11-38-1370, 11-18-1351,
+        11-20-1354, 11-48-1376, 11-19-1352)
+    • Cyber security, including smart grid security. This has been underpinned by an £0.9M
+        investment in a new Centre of Cybersecurity Education and Culture to support academic
+        development and included the appointment of two new members of staff, and the purchase
+        of a Quantum Cryptography Analyser. (outputs 11-46-1375, 11-02-1336, 11-49-1377)
+
+Since REF2014, the University supported these identified priority areas by investing over £2.6M
+through competitively-awarded initiatives. These include the delivery of new infrastructure (see
+section 3.2), 15 PhD scholarships, funding to pump-prime innovative research and support impact
+activity, and research transformation funding to facilitate international collaborations.
+
+Key objectives
+
+During this period, the Unit identified capacity building and enhancement of international
+recognition as its key objectives in pursuing excellence in its research priority areas:
+
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+     • Capacity building through external collaborations
+To capitalise on its existing research strengths, increase its available resources and expand its
+research portfolio, the Unit instigated a set of measures to forge national and international
+partnerships and consortia:
+         o A sabbatical scheme was established, which resulted in two colleagues spending
+             extended periods in overseas institutions (32 months in total), which led to the
+             submission of three proposals to the Qatar National Research Fund (U$D1.6M total)
+             and the award of an MRC grant (£146k). Moreover, many Unit staff (38%) took the
+             opportunity to visit (from a few days to several weeks) overseas research institutions.
+         o To supplement externally funded travel grants, £10K was allocated by the faculty to
+             allow leading international academics to spend time (typically a week) within the Unit
+             (26 academic visitors were received during the period). It also hosted over 100 external
+             researchers for extended periods (several months). Finally, funding was made
+             available to invite external speakers to the Unit’s biweekly research seminar
+             programme. E.g., Prof. Murroni - IEEE distinguished lecturer - shared his expertise on
+             ‘Quality of experience models and methods for broadcasting’ (2019).
+         o Encouragement and financial support for staff to participate in events supported by
+             non-academic stakeholders such as government departments and agencies. E.g.,
+             participation at the Chatham House event - ‘Cyber 2015’ - led to a close collaboration
+             with GCHQ resulting in the accreditation of Cyber MSc courses and the funding of
+             several PhD studentships. Consequently, KU made a strategic investment of £0.9M in
+             its new Cybersecurity Centre (2018).
+         o Monthly meetings between the School’s Director of Research & Enterprise with KU’s
+             Research, Business and Innovation Directorate to identify research that is sufficiently
+             mature to be considered for future commercial exploitation, and to respond to direct
+             business enquiries. This pro-active and structured approach to knowledge transfer
+             proved particularly successful as exemplified by £2.0M of Knowledge Transfer
+             Partnership (KTP) awards.
+All those activities contributed not only to increased success in obtaining external research funding
+(see section 3.2), but, perhaps more importantly, to help broaden the base of researchers and
+collaborations with external partners, including foreign institutions, SMEs, and large companies.
+     • International recognition
+In parallel with building capacity, the Unit made a concerted effort to steadily enhance its reputation
+in its key areas of research, through international recognition and leadership activities:
+         o Staff support in terms of funding and teaching relief to organise international
+             conferences under the auspices of professional bodies such as IEEE. E.g., in 2017
+             Martini chaired the ‘Communications Software, Services & Multimedia Applications’
+             symposium at the IEEE International Conference on Communications (ICC'17).
+         o Travel and publication fund to increase visibility of research by supporting publication in
+             highest profile journals consistent with ‘most appropriate outlet’ e.g. targeting open-
+             access Q1 (Scimago) journals
+         o Increase the number of staff on editorial boards of journals. E.g., Remagnino became
+             Associate Editor of the journal ‘IEEE Transactions on Circuits & Systems for Video
+             Technology’ in 2016.
+         o Engagement with policy making and standards setting organisations. E.g., Martini has
+             been active in the IEEE P3333 group - Standard for the Quality Assessment of 3D
+             Displays, 3D Contents and 3D Devices based on Human Factors - making a key
+             contribution to the IEEE P3333.1 standard. She also chaired the IEEE P3333.4 group
+             and is currently chairing the IEEE P3333.1.4 standardization committee on quality
+             assessment of light-field imaging.
+
+Achievements
+
+The following research achievements aim to illustrate the success of the Unit’s strategy:
+   • Production of bodies of research in the identified priority areas
+        o Argyriou designed a novel end-to-end 3D face reconstruction approach from a
+            single 2D facial image based on a new CNN architecture. In 2017, it was presented at
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+             the prestigious International Conference on Computer Vision (output 11-05-1339).
+             Moreover, this work had an international reach outside academia (see Section 4.2).
+        o S. Barman produced a body of work focused on the automation of retinal vessels
+             morphology quantification. This was applied to the UK Biobank fundus image
+             dataset (over 100,000 retinal images) and contributed to diabetic retinopathy as
+             evidenced by a publication (output 11-22-1355) in the Q1 journal ‘Computerized
+             Medical Imaging & Graphics’ (2015).
+        o Makris and Nebel’s research on modelling sets of multivariate sequences using
+             nonlinear dimensionality reduction delivered a new approach addressing stylistic
+             variations in time series. Published in the Q1 journal ‘IEEE Transactions on
+             Cybernetics’ (2014), this work (output 11-32-1364) has applications beyond human
+             motion analysis such as autonomous transport and other self-organising areas.
+        o Martini’s research on multimedia Quality of Experience focused on medical video
+             streaming ensuring preservation of diagnostic quality. Her work is a main
+             reference in the European Network on Quality of Experience in Multimedia Systems
+             and Services (Qualinet) Working Group on medical imaging. Publications include
+             (output 11-40-1372) in the Q1 journal ‘IEEE Journal of Biomedical and Health
+             Informatics’ (2014).
+   •   Impactful research. The three submitted ICSs exemplify the significant impacts produced
+       by the Unit’s research.
+        o ‘Intelligent computer vision improving security in crowded public events and agricultural
+             practice on farms’ (ICSUoA11Remagnino3)
+        o ‘Industrial innovations through enhanced multimedia quality of experience’
+             (ICSUoA11Martini1)
+        o ‘Using ubiquitous networks to produce novel communication capabilities and to
+             improve quality of life’ (ICSUoA11Politis2)
+       They highlight the benefits of a strategy that builds on sustained and focused research
+       efforts in specific areas, a wide range of stakeholders, e.g., telecommunications industry
+       and Home Office ministerial department, using long lasting commercial relationships as the
+       initial step towards economic impact.
+   •   Publications in high-quality journals (82% of submitted outputs were published in upper-
+       quartile journals) including the following IEEE Transactions journals: Smart Grid,
+       Cybernetics, Image Processing, Services Computing, and Multimedia E.g., KhanECR and
+       Martini’s research on encoding dynamic vision sensor data was published in ‘IEEE Internet
+       of things journal.’
+   •   Significant increase in both external funding (+24%/year) and PhD completions
+       (+26%) in comparison with REF2014.
+   •   Capacity building through external collaborations:
+        o Funding awards from a wide variety of sources: EPSRC, MRC, TSB/Innovate UK,
+             EU, NATO, National Institute for Health Research and many foundations and charities,
+             i.e., Nesta, British Heart Foundation, Fight for Sight, and Lausanne Hospital.
+        o Collaborations with a range of UK (Buhler UK Ltd, Deltatre Ltd, Entryphone Ltd, Globe
+             Microsystems Ltd, VCA Technology Ltd.) and overseas (Airbus, Cubic Corporation,
+             Deutsche Telekom AG, Google, Instinet, Telecom Italia, and Alcatel-Lucent (now
+             Nokia)) companies.
+        o Publications with other research groups: among submitted 55 outputs, 82% include at
+             least one external collaborator (at 51 different institutions), and 45% include at least
+             one international collaborator.
+   •   National and international recognition:
+       - External examiners for 70 PhDs (38% overseas) and delivery of 18 keynote talks at
+            academic venues including the prestigious Royal Society (see Section 4.2)
+       - Membership of 10 national and 15 international grant review committees (see
+            Section 4.2)
+       - Membership of the editorial board of 25 international publications including 15 Q1
+            journals (see Section 4.2)
+   •   Engagement with policy makers and contribution to standards bodies: Nebel, having
+       spent a week at the UK Parliament as part of a Royal Society Pairing Scheme, provided
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+       written evidence to the House of Lords Select Committee on Artificial Intelligence (2017) to
+       inform national policies on the economic, ethical, and social implications of advances in
+       artificial intelligence. Martini contributes to international standards for the International
+       Telecommunication Union (ITU) - ITU standards on Quality of Experience (SG12) – and the
+       IEEE P3333 group. N. BarmanECR made 9 contributions to ITU resulting in the G.1072
+       Gaming Quality of Experience standard (01/2020). Politis was chief editor of a white paper
+       ‘A New Generation of e-Health Systems Powered by 5G’ published by the Wireless World
+       Research Forum (WWRF) in 2016. He also contributed to a white paper of the 5G
+       Infrastructure Public Private Partnership (5G PPP) - joint initiative between the European
+       Commission and European ICT industry - on ‘5G empowering vertical industries’ (2016).
+       G.C.ECR contributed to the white paper ‘Connected Vehicles’ published by WWRF (2019).
+
+Future research
+
+As cyber-attacks are becoming more and more sophisticated, usage of machine learning
+approaches has become an essential element of cyber security. Since the Unit developed
+significant research capacity in those two domains, machine learning for cyber security,
+especially in 5G/6G heterogeneous networks, will be included as a future research priority area.
+Similarly, as original research on multimedia quality of experience showed, machine learning is
+essential to ensure accurate dynamic response to changes in network conditions. Consequently, it
+will take an even more prominent role in Communications research, e.g., on smart mobile ad-hoc
+networks. Collaboration with various local authorities has clearly highlighted that the ‘smart cities’
+agenda is becoming both mainstream and a reality. Consequently, this agenda will be one of the
+key research topics the Unit will contribute to. Its existing strengths in both visual surveillance and
+mobile communications leaves it particularly well placed to substantially impact the field.
+The Unit has already amplified its efforts to diversify its research, impact and engagement
+funding sources: e.g., research proposals worth £1.6M were submitted to the Qatar National
+Research Fund and we collaborated with South London local authorities on a successful £6M bid
+(pending funding allocation) to the London Business rates strategic investment fund, where the
+Unit will develop an AI-based business intelligence platform to support over 1,000 local
+businesses. The Unit has also engaged in closer collaboration with industry (e.g., media, visual
+surveillance, finance, and pharmaceutical) to be able to target, in particular, the various Innovate
+UK programmes (e.g., £0.48M award for a double KTP with a FinTech company, 2019).
+
+Open research and research integrity
+
+The Unit complies with the University’s Open Access Policy, and therefore the REF2021 Open
+Access Policy and funding bodies’ requirements. Consequently, all its submitted research outputs
+are available in KU’s Research Repository (https://eprints.kingston.ac.uk/) to achieve a Green
+open access environment as a minimum. Moreover, thanks, in particular, to KU’s funds to
+support Gold open access, the percentage of submitted publications that are Gold open access
+increased significantly since REF2014 from 5% to 22%. The University supports fairness and
+transparency in research assessment, so does not support the use of unweighted impact factors.
+Nebel contributed to a recent project, translating this to a public-facing set of principles and
+signature of the Declaration on Research Assessment (DORA).
+
+The Unit also complies with KU’s policy on data sharing and management, which aligns with that
+of UKRI. Collectively, these mechanisms promote a culture which supports transparency of
+research and data sharing. This is exemplified by some of the datasets and source codes that the
+Unit makes available to the research community. Importantly, when they involve human
+participants, collection and management of those data adhere to research protocols agreed by the
+University Research Ethics Committee in accordance with the Data Protection Act 2018 and the
+General Data Protection Regulation (GDPR). Based on data captured by a motion sensing device
+(i.e., Microsoft Kinect), Makris and Argyriou created action datasets for both single player (G3D)
+and multiplayer gaming (G3Di) (http://dipersec.kingston.ac.uk/G3D/). The publications reporting
+those datasets were cited over 200 times during the REF period. S. Barman produced a dataset of
+retinal images of multi-ethnic children that allows for the scientific community to train, test and,
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+most importantly, benchmark computer vision algorithms
+(https://blogs.kingston.ac.uk/retinal/chasedb1/). The associated publications were cited over 300
+times since 2014. Argyriou made open source the code of his 3D face reconstruction app on
+GitHub, where it was in the world’s top 10 downloads for four weeks (2017). Those examples
+illustrate some of the impact that our data sharing culture has on the scientific community.
+
+Through ongoing training and a rigorous and integrity-driven research culture, the Unit fosters
+an environment whereby academic staff and other researchers are actively supported in the many
+aspects of research ethics, research integrity, and researcher supervision (see Section 2).
+
+   1.3 Unit impact strategy
+
+Approach to enabling impact
+
+The critical mass and longevity of the Unit’s research have resulted in the generation of positive
+impacts on economy, society, culture, quality of life, health and public policies as illustrated by the
+two ICSs submitted to REF2014 and the three included in this submission. These outcomes were
+made possible with the support of KU’s Research, Business, and Innovation team (and Impact and
+Business Development Managers assigned to faculty support) and a focused strategy aimed at
+ensuring engagement with industry, and national and international bodies by establishing long-term
+relationships with main stakeholders, participating at decision-making organisations, and exploiting
+intellectual property opportunities.
+
+The strategy to ensure the maximum impact of conducted research is organised around two
+main objectives:
+   1. to build trust and foster the establishment of long-term relationships with commercial
+       organisations and main stakeholders.
+   2. to participate actively in the work of professional organisations and decision-making
+       entities.
+
+Engagement with industry
+The strategy is focussed on building trust and fostering the establishment of long-term
+relationships with industry. This was achieved using various schemes which include KTPs,
+sponsored PhD scholarships, supply of trainees and job candidates, support of SMEs and
+organisation of industry relevant events such as the School’s annual industrial lectures, IP training,
+discussion forums and professional workshops. The Unit’s applied research, addressing practical
+problems, is particularly sought by SMEs, illustrated by involvement in 12 KTPs during the period,
+across a variety of industries including media, visual surveillance, food processing, finance,
+pharmaceutical, building, safety and security, manufacturing, and software engineering (see
+Section 3.1). The Unit was also a partner in 10 EU funded FP7 and HORIZON 2020 projects,
+where it collaborates with international companies including Airbus, Deutsche Telekom, Telecom
+Italia, and Alcatel-Lucent (now Nokia) (see Section 3.1).
+
+Engagement with governmental departments and policy makers
+In parallel with enterprise partnerships, the Unit recognises the importance of engaging with other
+types of stakeholders such as standards bodies, governmental departments, and policy makers
+(see Section 4.2). Police, security, and safety services have relied on the Unit’s expertise through
+being a collaborative partner in many funded projects involving security organisations, e.g., H2020
+MONICA (ICSUoA11Remagnino3). The Unit was also highly active in transferring the product of its
+research to standards bodies (ITU, WWRF, and IEEE Multimedia Interest Group).
+
+Unit impact
+
+The quality and variety of impacts generated by the Unit is illustrated by its ICSs; all of them relied
+on successful collaborations with industry and public/standard bodies, including the City of Bonn,
+the EU, IUT and IEEE:
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+   1. Research in computer vision and artificial intelligence (Remagnino) led to: safety and
+      security benefits in large public events through the deployment of the ‘MONICA’ platform in
+      5 European countries, with over 140,000 end-users; bringing industrial benefits and
+      strategic redirection to a UK SME; driving forward drone operations with a UK SME
+      specialised in unmanned systems; and harnessing 5G to provide welfare improvement
+      and cost savings in farming. (ICSUoA11Remagnino3).
+   2. Research in multimedia quality of service and experience (Martini & N. BarmanECR)
+      was adopted by both a UK SME and a multinational company. First, the creation of
+      innovative video door phone systems by Entryphone Ltd resulted in additional cumulative
+      sales of £0.4M and increased profit margins. Second, the integration of video streaming
+      quality monitoring in Deutsche Telekom’s networks enabled the company to offer cloud
+      gaming services. This is essential to its competitiveness since cloud gaming is predicted
+      to represent up to 50% of 5G data traffic by 2022. (ICSUoA11Martini1).
+   3. Research into methods for building ubiquitous Mobile Ad-Hoc Networks, machine
+      learning and quality of service in streaming (Politis, Argyriou & Martini) led to:
+      economic benefits to an international company through the development of an advanced
+      radio gateway supporting emergency responders; a network and software solutions SME;
+      the deployment of Ubitech’s (a network and software solutions SME) gaming platform in
+      nine institutions in five countries supporting children with cerebral palsy, leading to
+      significant health benefits for over 1,000 of them; and finally, contribution to new
+      technological standards and EU 5G policy. (ICSUoA11Politis2).
+
+In addition to these selected ICSs, the Unit’s research has consistently benefitted its industrial
+partners, e.g., Innovate UK assessed all its contribution to KTPs very positively. Besides
+generating economic impact, health and social care were areas of particularly impactful research.
+E.g., Philip’s body of work on mobile healthcare (m-health) brought positive health benefits to
+diabetes patients through interdisciplinary and international collaborations (e.g., with Pharmacy
+and Chemistry at KU, Chemistry and Forensics at Nottingham Trent University, Biochemistry at
+Basrah Medical College in Iraq, Applied Medical Sciences at Dammam University in Saudi Arabia,
+Royal College of Surgeons in Ireland, consultants at various NHS Trusts, and foreign hospitals in
+Germany, Greece, Ireland, and the Netherlands). It includes: a social robotic platform supporting
+behavioural change in children; a social network-based system contributing to both social
+behavioural change and better disease management; and, a telehealth solution, where a vest with
+wearable sensors and a patient hub capture physiological information for smarter management of
+diabetes as a comorbidity.
+
+ 2. People
+
+   2.1 Staff and promotion of equality, diversity and inclusion
+
+The staffing strategy of the Unit is guided by its commitment to Equality, Diversity, and
+Inclusion (ED&I). Kingston was one of the first 8 UK institutions to be awarded a Bronze Race
+Equality Charter in 2015 (renewed in 2019). Its ED&I work on academic career progression was
+recognised by The Guardian Award for Diversity Initiative in 2014. Moreover, members of the
+Unit were instrumental in the School of Computer Science & Maths achieving an Athena Swan
+Bronze Departmental Award in recognition of its commitment to advancement of gender equality
+in academia (2019). The School prides itself on a strong representation of female professors in the
+leadership – from Head of School to theme leader and Director of Research & Enterprise (2014-
+2019, now Professor of Computer Vision). The Unit’s submission adheres to KU’s REF 2021 Code
+of Practice, and to the underpinning principles of transparency, consistency, accountability, and
+inclusivity. The University’s staffing policy supports flexible working and study leave, promotes
+health and wellbeing and provides support for staff with caring responsibilities within the Unit.
+Among the Unit’s 22 FTE membership, there are 4 female staff (18%). While this figure is slightly
+lower than that of the HESA Benchmark 2014/15 for ITCS (IT, systems sciences & computer
+software engineering) academic staff (22%), they made a significant contribution, 35%, to the
+submitted outputs. In terms of BAMEs, the Unit returns 7 staff (32%), which compares very
+favourably to the HESA Benchmark of 12%.
+
+                                                                                            Page 7
+Unit-level environment template (REF5b)
+
+During this REF period, the staffing strategy focused on recruiting junior academic and
+postdoctoral staff offering original research in its research priority areas, supporting staff research
+activities and skill development, and rewarding the quality of their overall research output by
+promotion.
+    • Recruitment and induction
+         The Unit is committed to ensuring transparency within its recruitment process through
+         training its staff and offering, e.g., refresher opportunities every three years. All recruitment
+         panels comprise mixed gender. We also minimise any potential bias within the recruitment
+         process by ensuring all Chairs have undertaken Unconscious Bias and Fair Recruitment &
+         Selection training in the last three years. This process served particularly well our ED&I
+         commitments since among the four new Lecturers who joined the Unit, three are from
+         Black, Asian or minority ethnic backgrounds. To ensure that new staff feel welcome and
+         supported, in addition to the formal University’s induction process and introductions to their
+         new colleagues, each new staff is placed with more experienced colleague in shared offices
+         with this person acting as a “buddy” in the short-term helping with any day-to-day questions.
+         Moreover, they are assigned a research mentor for their first years and encouraged to join
+         research groups that align with their interests. Furthermore, BME and female staff are
+         offered to join the Beyond Barriers Mentoring Scheme which aims to maximise their
+         potential. Finally, to support early research activity of academic staff, new appointees have
+         a 30% reduction in their teaching hours during their first year.
+    • Research support
+         Supporting the career development of all staff and strengthening the Unit’s research is
+         addressed through several mechanisms:
+          o The annual appraisal process is organised around a flexible menu of personal research
+              objectives designed to both challenge and develop an individual’s activities according
+              to the Unit strategy. To support staff, all appraisers are required to attend appraisal
+              training before undertaking them and appraisees are also encouraged to participate in
+              training.
+          o The organisation of specific research and enterprise training seminars. The topics that
+              were covered during the period include KTP funding, Horizon 2020 briefing, the Global
+              Challenges Research Fund, fast track impact, GDPR & research data, legal contracts
+              & negotiations, Intellectual Property Rights protection, research management, and
+              publication masterclasses.
+          o A staff development fund provides resource to support research objectives by funding,
+              i.e., specialised equipment, conference/networking event attendance, and sabbaticals
+              (S. Barman - 8 months at the Institute of Neuroscience in Marseille, France, 2018; Al-
+              Fagih - 24 months at Hamad Bin Khalifa University in Qatar, 2018-2020).
+          o The work allocation system is a metric-based methodology used to ensure that
+              academic staff’s teaching commitment does not prevent development of their research.
+              This methodology explicitly rewards research success, i.e., publications in high-quality
+              journals, grant awards, and PhD completions, with teaching relief. The system also
+              recognises the time associated with research student supervision (2hrs/week) and FTE
+              contributions to funded projects.
+          o A research activity mentoring programme supports ECR and academic staff aiming to
+              increase their research activity. Based on frequent meetings, the scheme encourages
+              personal progress monitoring, esteem building and engagement with the research
+              community and research users. In particular, the scheme supports ECRs to apply for
+              KU’s First Grant Scheme that is intended to provide pump-priming grants to initiate
+              work on research projects that will, in-turn, result in a high-quality application for
+              external research funding. E.g., one female academic (Al-Fagih), ECR at the time, was
+              successful in achieving a First Grant in 2017/18, publishing two Q1 and five Q2 papers
+              and submitting two large external grants (2019 and 2020) since. A direct impact of this
+              programme was the sustained increase of the number of research awards (+24%
+              annual income compared with the REF2014 period).
+          o Support for research grant applications. All applications are internally peer-reviewed by
+              two senior colleagues (at least one from the Unit) before submission. The application is
+
+                                                                                                  Page 8
+Unit-level environment template (REF5b)
+            coordinated and supported by KU’s Research, Business, and Innovation service (RBI),
+            which deals with all pre- and post-award processes. They include identification of
+            appropriate funding opportunities through horizon scanning (issuing of a monthly
+            funding alert), support in finding suitable industry partners if necessary, budget
+            preparation, and application submission. Moreover, RBI works with funders to provide
+            necessary information for the applicants on Terms & Conditions of Grants/Awards
+            before submission. If applications are unsuccessful, RBI encourages applicants to
+            collect any official feedback from the funder and advise them on how to enhance
+            and/or change the focus of their application so that it becomes suitable to other funders
+            or schemes. Additional support is provided in sharing good practice events and grant
+            writing sessions, especially in response to calls fitting ongoing research.
+   •   Career progression and promotion
+       All staff are given equal career/promotion and internal funding opportunities, irrespective of
+       their contract. Moreover, they are permitted to work flexibly/remotely for at least one day
+       per week, and for longer durations by arrangement with their Head of Department. Staff are
+       encouraged to participate in leadership programmes (Stellar HE and Diversifying Academic
+       Leadership, Leadership Foundation) and a female leadership development programme
+       (Aurora). Three staff attended Leadership programmes and two female staff completed the
+       Aurora programme during this REF period. Moreover, all staff can access KU delivered
+       courses free of charge, e.g., Masters/MBA, and budget is available to support staff wishing
+       to study at a higher level and attend short courses, conferences, and travel to enhance their
+       career progression. Staff also apply externally for funding projects that strengthen their
+       international recognition, e.g., Martini received internal investment of £20k to develop an
+       international transmission standard by an international professional body
+       (ICSUoA11Martini1).
+       A significant portion of the Unit’s staff (45%) was promoted in recognition of their research
+       excellence during the current assessment period: N. Barman from Research Associate to
+       Lecturer, Al-Fagih to Senior Lecturer, Philip to Associate Professor, and Argyriou, S.
+       Barman, Khaddaj, Makris, Martini, Nebel and Politis to Professors. They all play a major
+       part in strengthening the research culture, developing valuable research collaboration,
+       producing research outputs, supervising PhD completions and attracting substantial
+       external research income. 40% of promotions in the period were women (including two to
+       Professor).
+
+Visiting Scholars contribute to both the vitality of the research culture and the Unit’s engagement
+with the international research community, industry, and national and international bodies. They
+regularly give research seminars, advise researchers, contribute to journal publications, serve on
+the committees of international events organised by the Unit, and facilitate collaborations with their
+organisations. Moreover, Visiting Professors - four are currently active, and constitute a diverse VP
+base – not only allow direct contact with decision makers in national and international bodies, but
+also act as role models for students and staff alike. Professor Monekosso (Leeds Beckett
+University) conducts research in sensor data analytics for human activity recognition, behaviour
+analysis and automated sensor failure detection. Professor Velastin (University Carlos III, Spain) is
+an expert in computer vision and video analytics (security, safety, traffic analysis, machine
+learning). Professor Hatton is Professor Emeritus of Forensic Software Engineering. Professor
+Qanadli (Head of the Cardio-Thoracic and Vascular Unit, Lausanne University, Switzerland) is a
+key partner in a large clinical trial (500 sample data set) currently conducted with Dehmeshki to
+achieve both European (CE) and Food & Drug Agency (FDA) certifications of his computer aided
+system for detection and monitoring of aortic abdominal aneurysm.
+
+   2.2 Postgraduate Researchers
+
+The Unit embraces the vision behind the UK Concordat to Support the Career Development of
+Researchers. Consequently, alongside the University, it has developed specific mechanisms to
+support its Postgraduate Researchers’ career development with a view to developing them as
+both independent researchers and attractive candidates for future posts.
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+The increasing quality of research has attracted more and higher quality PGRs. Moreover, to
+recruit the strongest students, the Unit invested around £1M during the REF period on PGR
+support. Consequently, there was a significant increase (33%) of doctoral completions compared
+to REF2014 (the annual average of 7.4 a year increased to 9.9). This growth and the improving
+completion rate were supported by additional supervisor and student training, annual monitoring of
+supervision teams, and the provision of additional computing resources. The opening of the £55M
+University’s Town House Project (2020), which incorporates extensive and state-of-the-art library
+and seminar facilities, provides further research-orientated space. Best practices in supervision are
+promoted and guide the development of individual training programmes. Most importantly, PGRs
+are embedded within a supportive research community which facilitates interdisciplinary
+exchanges via, for example, seminars, cross-faculty conferences, and science communication
+competitions. ED&I commitments naturally include PGRs; with a current female population of 24%,
+it is in line with the corresponding HESA Benchmark 2014/15 (26%).
+
+The Graduate Research School provides compulsory training in core
+multidisciplinary/transferable skills (e.g., research methods, ethics, intellectual property,
+personal development portfolio planning, and thesis writing skills) and acts as a centre for further
+support/guidance. PGRs are also encouraged to attend specialist MSc courses that are relevant to
+their research area. Among them, the MSc’s in Networking & Data Communications, Network &
+Information Security, and Game Development, with its Machine Learning & Artificial Intelligence
+component, support directly DIRC’s three research themes. Moreover, specialist training outside
+KU is offered if required. In addition to those subject-specific training opportunities, DIRC organises
+biweekly both a reading group and a seminar series including internal and external speakers.
+PGRs are also financially supported to present their research at international conferences and in
+open access journals. The Unit’s PGRs routinely publish their research in high quality
+international (Q1) venues.
+
+An explicit part of the PGR monitoring process is to ensure that supervision teams engage their
+students in these training programmes. Moreover, students are encouraged to become involved in
+organising events to develop leadership and research organisation skills. E.g., in 2014 a Unit PGR
+took the initiative to organise the first University-wide PhD conference. PGRs are now expected to
+present their work at that event and compete to represent KU at the UK-wide Vitae Three Minute
+Thesis® competition (in 2019, the representative was from the Unit). They are also encouraged to
+take part in competitions and events organised by learned societies and the industry. E.g., a
+PGR was awarded a prize in the Biochemical Society's Science Communication 2016 competition,
+and two PhD students won the first prize for their solution to the challenge 'classification of
+construction site images' (sponsored by Sir Robert McAlpine Ltd) at ProjectHack3.0 (2019). All
+those initiatives contributed to the significant increase of PhD degrees awarded during the
+period, i.e., 65, when compared to REF2014’s, i.e., 37.
+
+As part of their career planning, in discussion with supervisors, they may take on limited teaching
+duties to gain experience in delivering education and improving their communication skills. Indeed,
+PGRs and postdoctoral researchers are offered opportunities to engage in teaching alongside
+experienced academics, assisting in within-laboratory teaching and portions of classroom delivered
+materials. They are supported and encouraged to engage with the opportunities for HEA
+recognition and training appropriate to their roles. The success of those schemes can be
+exemplified by researchers moving on to take up academic positions and fellowships at
+competitive UK and international universities, such as Surrey, Oxford, Pennsylvania, and National
+University of Sciences & Technology in Pakistan.
+
+ 3. Income, infrastructure and facilities
+
+   3.1 Income
+
+Steady growth of research income and increasing success in raising both nationally and
+internationally competitive external research funds can be attributed to several factors. Most
+important is the maturity of the Unit – it produced 195 external research funding applications during
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+the period - and its engagement with the research community, users and industries across the UK,
+Europe, and the world. The total research income of £5.65M from new and continuing projects in
+the current period is substantially greater than that accrued over REF2014, corresponding to a
+growth of 24% in the annual average income. This is particularly significant in the current climate
+of reduced public research funding and unease regarding the participation of UK institutions in EU
+Programmes. 43% of Unit’s income is from 10 collaborative EU programmes, addressing
+visual surveillance, and wireless & multimedia communications for health and security (Table 1).
+
+Table 1. Research funding from EU programmes
+
+     Prog.    Project title [partners]                  Income       Period Unit’s theme
+ 1   FP7      ADDPRIV (Automatic Data relevancy         £178k        2011-  Vision &
+              Discrimination for a PRIVacy-sensitive     of €0.4M KU 2014   Security
+              video surveillance) [10]
+ 2   FP7      CONCERTO (Content and cOntext             £206k        2011-       Communications
+              aware delivery for iNteraCtive             of €0.4M KU 2015
+              multimEdia healthcaRe applicaTiOns)
+              [11]
+ 3   FP7      PROACTIVE (PRedictive reasOning           £196k        2012-       Communications
+              and multi-source fusion empowering         of €0.3M KU 2015        & Security
+              AntiCipation of attacks and Terrorist
+              actions In Urban EnVironmEnts) [10]
+ 4   FP7      PROTECTRAIL (The Railway-Industry         £30k         2010-       Vision &
+              Partnership for Integrated Security of     of €0.1M KU 2014        Security
+              Rail Transport) [31]
+ 5   FP7      SALUS (Security And InteroperabiLity      £199k        2013-       Communications
+              in Next Generation PPDR                    of €0.3M KU 2016        & Security
+              CommUnication InfrastructureS) [17]
+ 6   FP7      SIAM (Security Impact Assessment          £161k        2011-       Vision &
+              Measures - A decision support system       of €0.3M KU 2014        Security
+              for security technologies) [8]
+ 7   FP7      WELCOME (Wearable Sensing and             £265k.          2013-    Communications
+              Smart Cloud Computing for Integrated      New €8.3M       2017
+              Care to COPD Patients with Co-            award
+              morbidities) [13]                         (€0.6M KU
+                                                        shared with
+                                                        UoA3)
+ 8   H2020 AEGLE (An analytics framework for            £165k.          2015-    Communications
+           integrated and personalized healthcare       New €6.1M       2018
+           services in Europe) [14]                     award
+                                                        (€0.5M KU
+                                                        shared with
+                                                        UoA3)
+ 9  H2020 MONICA (Management Of Networked               £586k.          2017-    Vision &
+          IoT Wearables - Very Large Scale              New €17.6M      2019     Security
+          Demonstration of Cultural Societal            award
+          Applications) [30]                            (€0.9M KU)
+ 10 H2020 QoE-NET (innovative Quality Of                £414k.          2015-    Communications
+          Experience maNagement in Emerging             New €2.9M       2018
+          mulTimedia services) [7]                      award
+                                                        (€0.5M KU)
+
+Although historically there was an important reliance on EU Programmes, the Unit diversified its
+sources of incomes, resulting in new awards with headline value £4.52M during the period.
+Consequently, despite the award of a limited number of H2020 grants, its income grew during the
+REF period. Indeed, the last few years showed increasing success in attracting funding from UK
+Research Councils (Table 2). As a result, 18% of income is from 2 continuing and 4 new
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+EPSRC and MRC projects and Industrial Case Studentships (with BAE systems, Legion Ltd
+and Roke Manor Research Ltd).
+
+Table 2. Research awards from UK Research Councils
+
+       Prog. Project title                             New Award         Period Unit’s theme
+ 1     EPSRC DARE (Distributed Autonomous and          £1.2M (£363k      2017-  Communications
+             Resilient Emergency Management            KU)               2020   & Security
+             System)
+ 2     EPSRC IOSIRE (The Internet of Silicon           £561k (£280k      2017-    Vision
+             Retinas: Machine-to-machine               KU)               2020
+             communications for neuromorphic
+             vision sensing data)
+ 3     MRC   Classification of oral lesions using      £147k (£89k       2018-    Vision
+             deep learning for early detection of      KU)               2020
+             oral cancer
+ 4     MRC   Automated retinal microvascular           £149k (£83k       2014     Vision
+             quantification as a predictor of          KU)
+             cardiovascular disease risk in later
+             life
+
+In line with KU’s mission of supporting business innovation through knowledge transfer of its
+expertise, technology, and world-leading research (9% 4* in REF2014), the Unit applied for funding
+to Innovate UK schemes from which it was awarded 19% of its income:
+     • 10 Knowledge Transfer Partnerships - including 3 ‘double’ KTPs - with the following
+        companies: Cubic Defence UK Ltd (former Vocality) D, Deltatre Media Ltd, Factbook Ltd,
+        Globe Microsystems Ltd, VCA Technology Ltd, Entryphone LtdD, JPY Plc, Selectamark
+        Security Systems Plc, Lerch-Bates Ltd, and Instinet Global Services LtdD
+     • 5G Testbeds & Trials Innovate UK Programme
+        5GRIT - 5G Rural Integrated Testbed, £2.1M (£180k for KU), (2018-2019)
+     • Agri-tech catalyst round 9 scheme (IUK & the Department for International Development)
+        Bee Smart: Improving yields for cashew growers in Ghana with smart pollination
+        management, with Agsenze Ltd, £427k (£150k for KU), (2020-2023)
+
+The remaining income is derived from a variety of sources including:
+   • Overseas organisations:
+      - NATO (WITNESS - Wide InTegration of Sensor Networks to Enable Smart Surveillance
+          and MIDAS - Control of Team of Mini-UAVs to Support Counterterrorism)
+      - US Department of Homeland Security
+   • UK organisations: Home office Centre for Applied Science & Technology, SouthWest
+      London Academic Network, and National Institute for Health Research
+   • Private companies: Google, Siemens AG and DOCOMO Communications Laboratories
+      Europe GmbH, and Buhler UK Ltd plus 11% of income from KTP and RCUK partners
+   • UK and European Charities: Linde Real Fund, Fight for Sight, NESTA, Leverhulme Trust,
+      Council for Assisting Refugee Academics, British Heart Foundation, and Lausanne Hospital
+
+     3.2 Infrastructure and facilities
+
+During the period, research was supported by investment exceeding £2.6M by KU. It comprised
+£1.6M funding for the acquisition of new infrastructure and facilities all co-located in a single
+building to foster collaborations (described below), and in addition, a combination of research
+capital, pump-priming and faculty studentships over the period (£1M).
+
+Since 2009, the Unit has had access to a dedicated 20-node Linux High Performance
+Computing facility (200 processor cores & 20TB storage). It was essential to the development of
+machine learning-based classifiers in areas including protein bioinformatics, action recognition,
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+people tracking and big data processing. Since this important resource was becoming outdated,
+KU invested £0.52M in 2018/19 to replace the previous facility by a state-of-the-art one following
+the Unit’s specifications. Delivered in 2019, it offers significant improvements in terms of
+connectivity (10 Gbps Ethernet), processing units (Xeon® Scalable Processors at 2.1 GHz),
+number of cores (768), memory (8GB memory per CPU Core) and useable storage capacity
+(80TB). Moreover, to boost further research quality across the three themes (especially projects
+using Deep Learning), £50k was invested in 2017/19 to build a 24 GPU-farm based on NVIDIA
+Titan.
+
+The Unit also invested £53k in a customised facility to further its activities in advanced research in
+computer vision and digital communications to become a leading institution for Mobile Virtual
+Reality and Connected Living. The Centre for Augmented and Virtual Reality Environments
+(CAVE) opened in 2017, equipped with cameras, projectors, motion capture sensors and
+specialist workstations & software to facilitate research in the domain of real-time data integration
+and analytics – with applications ranging from medical diagnostics to smart cities, ambient assisted
+living – to gaming and user experience. It includes a high-performance display (Sony’s BVM-X300)
+as an essential part of the set-up for achieving an effective visual interface and High Dynamic
+Range workflow. As it complies with the next-generation ITU standards embracing 5G and ITU-R
+BT.2020 broadcast standard, it is essential in our contribution to relevant standards bodies.
+
+Furthermore, KU allocated £0.9M in support of a new Centre of Cybersecurity Education and
+Culture (2018/21). The centre specialises in providing intelligence for live threats using state-of-
+the-art technology and strategies to combat cybercrime. It offers research in physical, network &
+cybersecurity, a GCHQ Masters qualification, and partnerships with the Home Office, the security
+industry, and communities. An additional £100k was invested in a fully equipped Cyber Security
+lab, which promotes state-of-the-art research contributing directly to the Security theme (2019).
+
+The Unit also supports the Communications theme with LTE/WiFi-Adhoc testbeds to enable
+experimental evaluation. In addition, it invested £25k in 2019 in a Quantum Cryptography Analyser
+to pioneer Internet-of-Things data security using quantum key cryptography for post-5G and
+6G mobile Networks.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+   4.1 Collaborations and interdisciplinary research
+
+Over the last decade, the Unit enhanced networks of collaborators across the full range of
+stakeholders in their respective disciplines. There were 258 collaborations in the period (defined as
+a relationship with an external entity that led to a peer-reviewed co-authored paper submitted to
+REF2021 and/or a funded research project). They include partnerships with academic institutions
+in the UK, Europe, America and Asia (Cambridge, Oxford, UCL, Imperial College, EPFL, ETH,
+Bologna, New York, Pennsylvania, British Columbia, Nanjing, and Yonsei in Korea), research
+organisations (Francis Crick Institute, Fraunhofer-Gesellschaft, French National Centre for
+Scientific Research, and UK Biobank), multinational companies (Airbus, Cubic Corporation,
+Disney, Deutsche Telekom AG, NTT Docomo Inc, Dolby Laboratories Inc, Google, and Telecom
+Italia), and 33 SMEs (e.g., VCA Technology, Vocality, Ubitech, Entryphone, Blue Bear Systems
+Research Ltd, which are introduced in the ICSs).
+
+As impact in real-world applications often relies on interdisciplinary research, the Unit
+collaborates with academics from very different fields, especially in the areas of medical and
+biomedical sciences, to ensure real-world impact. Evidence of interdisciplinary leadership is
+provided by substantial investments from non-traditional computer science funders (e.g., £0.5M
+from MRC and medical charities) and publications in scientific journals in non-UoA11 disciplines
+(e.g., Nature, Physics, Developmental Cell, Ophthalmology, and Hypertension). In addition to
+Philip’s work already described in the ‘Unit Impact’ section, interdisciplinary research is
+exemplified by the activities of the following members.
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+S. Barman’s research in medical imaging analysis addresses the early detection of oral cancer
+and the association of retinal microvascular morphology with cardiovascular disease risk. Her MRC
+& British Heart Foundation funded retinal vasculometry work involved collaborations with various
+clinical UK research groups, i.e., Integrative Epidemiology at UCL Institute of Ophthalmology, the
+NIHR Biomedical Research Centre at Moorfields Eye Hospital and the Institute of Public Health at
+University of Cambridge, and the UK Biobank Eye and Vision Consortium. Her MRC funded project
+on classification of oral lesions for cancer detection, involves an international partnership with US
+and Asian institutions including department of Oral & Maxillofacial Pathology, Radiology &
+Medicine at New York University, Cancer Research Malaysia, Faculty of Dental Sciences at
+University of Peradeniya in Sri Lanka, and the department of Oral Medicine & Radiology at BP
+Koirala Institute of Health Science in Nepal.
+
+Hoppe conducts research in medical imaging in close collaboration with researchers from the
+MRC Laboratory for Molecular Cell Biology and Department of Physics & Astronomy at UCL, and
+the Francis Crick Institute. This leads him to design novel segmentation and tracking algorithms
+addressing the real-life challenge of processing wound time-lapse images. Their output permits
+quantitative analysis, providing important insight about the wound healing process (Nature Physics
+doi:10.1038/s41567-019-0618-1, 2019).
+
+Makris investigates the distinction of liver lesions by analysing images produced by contrast-
+enhanced ultrasound imaging. His research is performed in partnership with three other
+institutions, each providing their unique expertise to address this interdisciplinary challenge:
+Department of Radiology at King's College Hospital, Perelman School of Medicine at University of
+Pennsylvania (USA), and Radiology & Imaging Research Centre, Evgenidion Hospital, National
+and Kapodistrian University (Greece) (Ultrasound in Medicine & Biology, output 11-25-1386).
+
+Nebel’s collaborative research in bioinformatics led to 16 joint publications during the period. It was
+conducted with a variety of departments, including Pharmacology, Biochemistry, Plant Sciences,
+and Statistics at University of Oxford, Bioengineering at Nice Sophia Antipolis University (France),
+Pharmacy at University of Patras (Greece), Biological Sciences at University of Trieste (Italy),
+Computational Medicine at Autonomous University of Barcelona (Spain), and Pharmacology at
+University of Illinois (USA). That work was supported by grants from the British Council, the EU,
+the Royal Society, and the Polish National Centre for Science, and led to participation in
+international protein structure prediction contests (CASP11 & 12).
+
+Remagnino has been a Visiting Researcher at the Royal Botanic Gardens, Kew, since 2010. This
+collaboration led to the production of an interdisciplinary body of work in plant classification, e.g.,
+‘Multi-organ plant classification based on convolutional and recurrent neural networks’ was
+published in IEEE Transactions on Image Processing (2018).
+
+   4.2 Contribution to the research base, economy and society
+
+Contribution to research base
+
+Unit members contribute to their academic and research communities through a variety of
+activities including journal edition, membership of national and international grant review
+committees, membership of learned societies, advisory boards, chairing conferences and giving
+invited talks. Moreover, they serve as reviewers for hundreds of journals and conferences (due to
+space constraints, this is not detailed in this document).
+
+Funding committees: Unit members serve on relevant UK funding committees, including EPSRC,
+BBSRC, MRC, British Council, National Institute for Health Research, Cancer Research Wales,
+Newton Fund, UK National Commission for UNESCO, and UK Research & Innovation. Nebel and
+Remagnino are Full Members of the EPSRC Review College, S. Barman is a member of UKRI
+Future Leaders Fellowships Peer Review College, and Martini is a member of the EPSRC
+Prioritization panel. As evidence of international reputation, Unit members participate in
+international grant review committees of the EU, e.g., Mellor and Politis are expert reviewers for
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+H2020 programmes (INNOSUP and, 5G & Beyond 5G), and 15 non-UK national funding bodies
+from Europe (Belgium, Cyprus, Finland, France, Greece, Italy, the Netherlands, Portugal, &
+Switzerland), the Americas (Canada & Chile) and Asia (Qatar). Nebel is a member of the
+Computer Science Evaluation Group for the Discovery Grants Program of the Natural Sciences &
+Engineering Research Council of Canada (NSERC) (2019-22).
+
+Journal editorial boards: Unit members serve on the editorial boards of 25 different journals
+including 15 upper-quartile journals, including IEEE Transactions on Cybernetics, IEEE
+Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Human-
+Machine Systems, IEEE Transactions on Multimedia, IEEE Transactions on Systems, Man and
+Cybernetics, IEEE Journal of Biomedical and Health Informatics, IEEE Signal Processing
+Magazine, IEEE Vehicular Technology Magazine, IEEE Access, BMC Bioinformatics, PLOS One,
+and Neurocomputing.
+
+PhD examinations: Unit members examined 70 doctoral theses including for the universities of
+Oxford, Edinburgh, and Imperial College, and 26 overseas.
+
+Keynote speakers: Unit members delivered 17 keynotes at international conferences.
+Furthermore, S. Barman was invited to give a talk at the Royal Society on ‘The transformative
+potential of data and image analysis for eye care’, where she presented her retinal image analysis
+system (2018).
+
+Conference contributions: The Unit supports hundreds of conferences by joining their
+programme committees and chaired over 22 conference committees. Exploiting his multi-
+disciplinary research activities within computer vision and healthcare, Makris chaired the IET
+Human Motion Analysis for Healthcare Applications conferences (2016-2019). As an expert in e-
+Health and 3D Multimedia Technologies, Martini chaired the programme committees of 3DTV
+Conference (2014), and the International Conference on Mobile Medical Multimedia Technologies,
+Applications and Services (2016) and chaired 4 international workshops.
+
+Involvement in learned, national, international and industry-led societies: Unit members
+contribute to the research base, economy and society through their activity in over 20 different
+societies. They naturally include memberships of IEEE (and Senior IEEE) (Martini is chair of the
+IEEE P3333.1.4 standardization committee, was chair of the IEEE P3333.4 group and was Vice-
+chair of the Multimedia Communications Technical Committee of the IEEE Communications
+Society (2014-16); Philip is privacy sub-group chair for IEEE P2933 Standard Working Group on
+Clinical IoT Device and Data interoperability with TIPPSS (Trust, Identity, Protection, Privacy,
+Safety and Security)), British Machine Vision Association, IET (Makris is chair of the Vision &
+Imaging Network since 2017) and Fellows of both the Institutes of Physics, and Mathematics & its
+Application. Moreover, Hunter is a member of the British Standards Institute and International
+Electrotechnical Commission committees working on International Standards for Automatic Speech
+Recognition systems; other colleagues are involved in more specialised associations such as the
+Climate Vulnerable Forum, and National Institute for Health Research Central Commissioning
+Facility. Finally, some act as experts in industry-led societies. Politis is chair of two working groups
+of the WWRF and of the e-Health Vertical Industries Platform. G.C.ECR contributes to the
+‘Cybersecurity’ workgroup of the WWRF.
+
+Contribution to economy and society
+
+As detailed in section 3.1, over three-quarters of income involve collaborations with companies, a
+third of which directly benefiting UK SMEs (Innovate UK programmes). Moreover, Politis is the
+director and co-founder of Ubitech Limited; a 10-people R&D company in wireless communications
+and machine learning that exploits outcomes of his research.
+
+This demonstrates the Unit’s ability to apply its innovative research to practical problems,
+contributing to economy and society. This is further illustrated by its three ICSs. They detail not
+only the economic benefits provided to both SMEs and multinational companies (Deutsche
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+Telekom and Cubic Corporation), but also enhanced security at public events, ecological benefits,
+better welfare for livestock, and health benefits for disabled children. Moreover, research applied to
+health contributed to better treatments, especially to diabetes and cancer patients.
+
+Finally, the Unit is keen to engage with and inform the public through a variety of activities
+including talks at KU’s ‘Cafe Scientifique’, local scientific societies and schools, scientific advice to
+the national press (The Economist magazine, and The Sunday Star), science festivals and
+outreach using KU’s two state-of-the-art portable laboratories (‘Labs in a lorry’), which attended
+over 100 events (e.g., Big Bang Fair, Festival of Science, and New Scientist Live) reaching over
+10,000 individuals. Argyriou released a free app demonstrating his research on 3D face
+reconstruction from a single 2D facial image (ICCV17): it received over 1M uploads and the code
+was in the world’s top 10 downloads at GitHub for four weeks (2017). Nebel published popular
+science articles in The Conversation (UK, France & España) about his research: 'DNA techniques
+could transform facial recognition technology' (2017) attracted 23,000+ readers and was
+republished in Scientific American. In total, those articles attracted over 48,000 readers (86% from
+overseas).
+
+
+
+
+                                                                                                 Page 16
+

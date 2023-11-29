@@ -1,0 +1,872 @@
+Unit-level environment template (REF5b)
+ Institution: Keele University
+
+ Unit of Assessment: UoA10 Mathematical Sciences
+
+ 1. Unit context and structure, research and impact strategy
+
+ Research Groups
+ The Mathematics Unit at Keele is renowned for its world-leading research in the general area of
+ continuum mechanics and its interdisciplinary applications. It is also strengthened by its
+ complementary expertise in algebra, logic and statistics. The continuum mechanics research is
+ carried out by Solids and Fluids groups. The Solids group consists of six members: Prof
+ C.J.Chapman (CJC), Prof Y.Fu (YF), Prof J.Kaplunov (JK), Dr M.J.Nieves (MJN), Dr
+ D.Prikazchikov (DP), and Dr L.Prikazchikova (LP). The Fluids Group has five members: CJC, Prof
+ J.J.Healey (JJH), Dr D. Lucas (DL), Dr S. Naire (SN), and Prof V. Shrira (VS).
+
+ The Solids group, one of the largest in the UK, contributes to a broad range of challenging topics,
+ including multiscale modelling of advanced materials and structures, large elastic deformations
+ and structural acoustics. The group’s focus is on basic research addressing modern industry’s
+ needs in developing novel nano-, meta- and soft materials, and layered and multicomponent
+ structures. The Fluids group tackles a diverse range of fundamental problems of immense
+ practical importance, including laminar-turbulent transition, flow with phase transitions, flow in
+ porous media, geophysical flow, and aircraft and submarine noise. Areas of application of the
+ group’s research include most known fluid behaviour in nature and technology. The methodology
+ underpinning and uniting research in the Fluids and Solids groups is mainly based on asymptotic
+ approaches, and also involves numerical modelling and processing of experimental data. There
+ is also an important synergy in the interests of both groups related to biomedical applications and
+ wave propagation.
+
+ The Algebra & Logic and Statistics themes are represented by Dr P.Fletcher (PF), Dr P.Truman
+ (PT) and Dr J.Cheng (JC), specialising in intuitionistic analysis, algebraic number theory, and
+ financial statistics, respectively. The Unit is also involved in collaborative research on medical
+ statistics (Dr J.Belcher, JB) and mathematical education (Dr D.Bedford, DB). Although JB and DB
+ retired in 2019, they maintain strong links with the Unit, as does a renowned expert in Solid
+ Mechanics, Prof G.A.Rogerson (GAR), who also retired in 2019. Prof M.Heckl (MH), specialising
+ in structural and thermoacoustics, was affiliated with the Unit until 2016.
+
+ Review of 2014 plan
+ Since REF 2014, the unit has grown by 53% (from 8 to 12.25 FTE). The number of PhD students
+ with passed vivas has more than doubled (from 9 to 20). The number of international visitors has
+ risen dramatically, and now exceeds one hundred.
+
+ Developments in the key research areas prioritised in the REF2014 strategic plan resulted in
+ significant progress of the Solids group in the modelling of advanced materials, including the
+ derivation of a novel asymptotic formulation for flexural meta-surfaces (JK et al., Proc. Roy. Soc.
+ A 2019), and new insights into localisation phenomena in soft materials (YF et al, J. Mech. Phys.
+ Solids 2016, 2019, 2020). Other important achievements include development of a powerful
+ methodology for incorporating gyro effects into analysis of lattice and flexural structures (MJN et
+ al., Phil. Trans. Roy. Soc. A 2019), and crucial insight into the effect of boundary layers in non-
+ local elasticity (JK et al., Proc. Roy. Soc. A 2016). The Fluids group advanced research in remote
+ sensing of the ocean interior: a new class of sub-inertial internal waves extremely sensitive to the
+ upper ocean stratification has been found and employed for remote probing of the upper ocean
+ (VS with P.Forget, J. Phys. Ocean. 2015). Both groups produced important developments in
+ various aspects of bio-medical modelling (e.g. SN et al., J. Tissue Eng. 2019).
+
+ In parallel, building upon Unit’s historic strengths, ground-breaking work was continued in other
+ areas. A novel conceptual framework for nonlinear waves trapped by oceanic jet currents, and, in
+ particular, a new model of rogue waves, has been proposed (VS with A.Slunyaev, JFM 2014;
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+ Phys. Rev. E 2014). A century-old stability problem for a stratified boundary layer has received a
+ new and unexpected turn: it has been discovered that the neutral curves form a self-similar fractal
+ structure, which has not been found previously in hydrodynamics (JJH, JFM 2019). There has
+ been also a major advance in addressing the profound problem of how the instabilities of stratified
+ shear flows evolve first into coherent structures and then into turbulence, and how re-
+ laminarisation unfolds (DL et al., JFM 2017, 2019; DL with C.Caulfield, JFM 2017). Analysis of a
+ new class of stability problems concerned with the dynamics of a surfactant-laden drop resulted
+ in the discovery of an unexpected type of fingering instability at the drop’s leading edge (SN with
+ J.Goddard, JFM 2015).
+
+ A general multi-parametric approach for evaluating the lowest vibration modes typical of high-
+ contrast multi-layered and multi-component structures has been established (JK, DP and LP, Int.
+ J. Solids Struct. 2017; JK et al., J. Sound Vibr. 2019). Robust explicit formulations for surface,
+ interfacial and edge waves have been further developed (JK and DP, Adv. Appl. Mech. 2017). A
+ fresh analytic treatment of harmonic waves in curved elastic structures has been found, and new
+ analytic results for elastic waves in a layer have been obtained using a novel representation (CJC
+ with S.Sorokin, Proc. Roy. Soc. 2016, 2017). An analytical method for analysing period-doubling
+ secondary bifurcations has been proposed (Fu with Z.Cai, SIAM J. Appl Maths 2015). Novel
+ insight into dynamic failure phenomena in structured media has been put forward (e.g. MJN et al.,
+ Q. J. Mech. Appl. Math. 2019).
+
+ The achievements of the Unit are not confined to Mechanics. Within the Statistics theme a
+ theoretical framework based on extreme value theory has been proposed for managing default
+ exposure in futures markets (JC et al., Eur. J. Finance 2016). The Algebra & Logic theme produced
+ important results on the Hopf-Galois module structure of algebraic integers in non-normal
+ extensions of global fields (PT, J. Pure Appl. Algebra 2019), and Brouwer’s weak counterexamples
+ to classical theorems (PF, J. Phil. Logic 2020).
+
+ Interdisciplinary Research
+ From its inception Keele has pursued interdisciplinarity as one of its key guiding principles, with a
+ current focus on Sustainability and Health. A strategic Faculty of Natural Sciences (FNS) initiative
+ promoting materials aligns with the specialism of the Solids group. Most of the Unit’s research
+ maintains an explicit interdisciplinary spirit, built upon a solid mathematical core, with applications
+ in engineering, geophysics and biomedicine, through joint efforts with academic and non-
+ academic partners, in the UK and overseas. Examples include:
+ • Internal collaborations with the School of Geology, Geography and Environment (GGE) and
+     Institute for Science & Technology in Medicine (ISTM) have a long and successful history of
+     applying mathematical techniques to such diverse topics as tsunamis, lava flows, and
+     bioreactor and aneurism modelling. Collaboration with GGE resulted in a breakthrough in
+     developing a unique non-invasive technique of finding the run-up of palaeo-tsunamis,
+     applicable to tsunami mitigation (VS et al., Pure Appl. Geophys. 2015).
+ • A substantial research programme by Keele mathematicians and psychologists exploring
+     novel approaches of teaching STEM subjects has been carried out within the Stoke-on-Trent
+     Mathematics Excellence Partnership.
+ • Industrial collaborations include theoretical underpinning of lightweight design for “green” cars
+     (TPV) and modelling of dynamic forces in freight trains (Amsted).
+ • International collaborations with non-mathematical institutions involve academics from
+     Canada, China, Denmark, France, Germany, India, Israel, Italy, Russia, Slovenia, Turkey, and
+     US.
+
+ Research Strategy
+ Mathematics Research is embedded within the Faculty and contributes fully to the University's
+ research strategy. The Unit’s present and future strategy, ensuring its vitality and long-term
+ prosperity, is built upon its outstanding expertise in addressing fundamental problems in
+ continuum mechanics, grounded in real world challenges. The main objective is to produce world-
+ leading research that addresses a diverse range of important issues and challenges in the natural
+ sciences, engineering and medicine.
+
+                                                                                                 Page 2
+Unit-level environment template (REF5b)
+
+ Aligned to FNS priorities, the Solids group will continue to focus on multiscale mathematical
+ modelling of the static and dynamic behaviour of nano-, meta- and soft materials and structures.
+ The high-tech industry of such materials is currently growing at breakneck speed, continuously
+ posing challenging questions on their vibration and instability behaviour that can only be
+ understood by advanced and novel mathematical analysis. The Fluids group will concentrate on
+ flow instabilities and laminar-turbulent transition, where it has prepared the ground for major
+ breakthroughs; and, in aeroacoustics, on the noise generated by contra-rotating aeroengine
+ designs which is of great prospective importance because of their fuel efficiency.
+
+ In line with Keele’s focus on Health and Sustainability, the joint efforts of both groups will also
+ focus on biomedical modelling (soft biomaterials, bioreactors and blood vessels) and geophysical
+ applications. At the same time, in addition to the areas of established record, opportunities in other
+ fields will be pursued. Two recent key appointments (after the census date) in mathematical data
+ science provide excellent prospects for integrating machine learning and mechanics in growing
+ collaboration with computer scientists within the School.
+
+ The unit will continue to cultivate many local, national and international collaborative networks,
+ thus enhancing greatly its research and PGR training capability. It will also ensure that the current
+ healthy stream of UK and overseas PhD students is sustained. The proven flexible approach
+ (UKRI, EU, industry, etc.) to securing external funding supporting strategic priorities will be
+ retained. The unit will also remain proactive in organizing research events (e.g. Euromech
+ Colloquia), making use of Keele’s excellent infrastructure.
+
+ Facilitating Impact from Research
+ The unit is committed to achieving impact from its research. Its multidimensional strategy aims to
+ implement the unit’s achievements at the cutting edge of Applied Mathematics in research-
+ intensive areas of engineering, science and medicine. In consequence, our industrial partners are
+ those with powerful R&D departments. In accordance with Keele’s ethos, priority is also given to
+ addressing societal needs (e.g. in the areas of Primary Care and High School Education). In
+ selecting impact areas, financial gains, although important, are not the primary consideration;
+ instead the intrinsic logic of mathematical and technological development, and contribution to
+ addressing environmental and societal challenges, are the priority.
+
+ For example, a broader use of railway transport and lightweight cars would be a major step
+ towards a greener low carbon world. The perturbation approach developed at Keele has been
+ employed by Amsted to improve safety and efficiency of freight trains. The unit will continue the
+ strategy of collaborating with large multinational companies, for which impact can be facilitated by
+ company-supported PhD students and Post Docs at Keele, as in the case of Amsted. Another
+ important route for amplifying impact is through active participation in major EU networks, as was
+ achieved in the collaboration with TPV in designing greener lightweight cars within the
+ EVA4GREEN and EAGLE programs. These topics form the basis of the unit’s Impact Case
+ Studies (ICS).
+
+ Driven by Keele’s regional agenda, the unit also plans to build upon the success of its novel
+ approach to high-school mathematical education implemented by DB in deprived areas of Stoke-
+ on-Trent. The outcome was a 40% increase in student participation in Post-16 mathematics,
+ improvements in quality of the teacher workforce, and social mobility of students. Other
+ collaborative activities include helping a local company, Wade Ceramics, to reduce their crack rate
+ through improved mathematical modelling, which has potential for substantial impact in the longer
+ term.
+
+ Impact related activities are embedded in research plans, recognised in workload allocation and
+ through performance assessment & promotion. They also receive targeted funding where required
+ (e.g. impact acceleration funding, from University and Faculty sources).
+
+ Research Integrity & Open Science.
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+ Our Unit is at the forefront of developing an open research environment, and research outputs of
+ all types are made openly available, which began in advance of the current REF policy. The Unit
+ works with partners to seek external funding for open research, and where this has not been
+ possible, utilises Keele's research repository. In accordance with the principles of the Concordat
+ for Research Integrity the Unit strongly encourages the uptake of open research practices: for
+ example, a quarter of staff deposit preprints at https://arxiv.org/, and consolidated codes and data
+ complementing computation-intensive contributions are routinely shared via open-access
+ platforms      such     as    bitbucket.org,   github.com       and     zenodo.org    (e.g.   Lucas:
+ https://bitbucket.org/dan_lucas/psgpu/src/master/). In order to support a research environment
+ which has a culture of integrity and best practice, research mentors work with ECRs to instil open
+ science practices, regular workshops on open science are held for new staff and PGRs, and an
+ updated summary of topics covered is distributed to all staff to enhance awareness of open
+ science issues. To maintain and encourage the most rigorous research, all grant proposals
+ undergo internal peer-review processes and successful proposals are deposited in a shared drive
+ to facilitate best practice.
+
+ 2. People
+
+ Staffing Strategy
+ The unit consists of 13 academics: 5 Professors (CJC (0.25 FTE), JJH, YF, JK, VS), 3 Senior
+ Lecturers (SN, DP, PT) and 5 Lecturers (JC, DL, MJN, LP, PF), organised into 3 groups and 6
+ themes. In line with a new emphasis on data science, two lecturers, P. Ledger (PL) and P. Wootton
+ (PW), have been appointed after the census date. During the assessment period the unit also
+ hosted 5 Postdoctoral Research Fellows.
+
+ The unit’s staffing strategy, embedded within the University’s People Strategy, is guided by
+ principles of equality, diversity and transparency, and by the obligations of the Concordat to
+ Support Career Development of Researchers. Other key considerations informing the unit’s
+ staffing strategy are:
+ • Enhancement of areas of established research strength.
+ • Development of new research areas, while preserving cohesion.
+ • Support for interdisciplinary, collaborative research aiming to increase industrial and societal
+     impact.
+
+ On this basis four excellent appointments have been made:
+ • DL brought in unique expertise in Computational Fluid Mechanics, which complements the
+    Fluids group’s traditional strengths and enables it to open new research fields.
+ • The appointments of MJN and LP reflect the FNS focus on materials research and greatly
+    strengthen the whole range of activities of the Solids group.
+ • The appointment of JC aims at developing statistics research and establishing new industrial
+    links and international multidisciplinary collaborations.
+
+ These appointments demonstrate the University’s commitment to advance world-leading
+ mathematical research. Recruitment achieved 50/50 gender balance. This commitment has been
+ further emphasized by two after-census-date appointments in the area of Data Science. In
+ particular, PL has brought unique expertise in Computational Solid Mechanics that will facilitate
+ the Unit’s expansion into data-driven computational mechanics.
+
+ The promotions of DP and SN to senior lectureships are of particular significance for the long-term
+ sustainability of the Unit, fostering the next generation of academic leaders; SN also benefited
+ from the University Research Coaching Programme. PT, initially appointed as a teaching fellow,
+ on the strength of his achievements in algebraic number theory has been promoted first to a
+ lectureship, and then to a senior lectureship.
+
+ Support for Early Career Researchers (ECR)
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ The unit is committed to support of ECRs. All ECRs are mentored by senior colleagues and attend
+ a structured staff development programme, including mandatory training before undertaking PGR
+ supervision. They enjoy reduced teaching and administrative duties and during their first and
+ second year, they usually teach one and two modules a year, respectively.
+
+ ECRs can also participate in PhD supervision from the date of appointment, supported by
+ experienced second supervisors. Two recent PhD scholarships for newly appointed lecturers were
+ funded internally, and two relied on external support. The vibrant environment within the unit
+ supports ECRs to become engaged in collaborative and interdisciplinary research. During the
+ probation period their progress is regularly reviewed at specially organised meetings chaired by
+ the Head of School. ECRs are expected to submit a first grant application to UKRI within two years
+ of appointment; in doing so, they enjoy support and advice from their academic mentor and other
+ Unit members. DL is a recent recipient of such an EPSRC award.
+
+ Support for all Researchers
+ Keele adheres to the Concordat to Support Career Development of Researchers and has held HR
+ Excellence in Research award status since 2013. Staff within the unit are able to access a range
+ of training and development opportunities offered to researchers across the university, including
+ leadership training and coaching as detailed in REF5a.
+
+ The University Equality and Diversity Committee oversees EDI, through the University Research
+ and PGR Committees which have this agenda within their remit. Staff involved in recruitment and
+ assessment undergo mandatory training in unconscious bias and EDI.
+
+ Additional support for research-related activities (conference participation, invitation of overseas
+ visitors, etc.) comes from the Mathematics research account, annually allocated from the School
+ budget. Pilot grants (e.g. for preparing more substantial bids) are also available from the Faculty
+ Research & Development Fund (FRDF). This support is particularly important for newly appointed
+ staff (LP and JC have been awarded such grants in the first year of their appointment).
+
+ Development of researchers is Keele’s strategic aim at all levels, with formal support and
+ monitoring through Annual Appraisal procedures, tailored appropriately for the professorial staff
+ (PPRE) and other academics (SPRE). This includes development of a research plan for those
+ with a significant responsibility for research.
+
+ The Work-Load Allocation Policy within the unit aims at promoting world-leading research, based
+ on publication quality, grant income, impact, and Post Doc and PhD supervision. Most researchers
+ have one teaching-free semester annually, which is a core element of the Unit Policy for Research
+ Leave & Sabbaticals. This not only allows extra time for concentrating on publications and grant
+ proposals, and participation in scientific meetings, but crucially also enables staff to accept short-
+ term visiting positions overseas without formal sabbatical arrangements at a higher level (MJN
+ had a two-year secondment as a Marie Curie Fellow at the University of Cagliari, while YF, JK and
+ VS have held multiple visiting Professorships in China, France, Italy, Israel and Turkey).
+
+ Keele actively encourages industrial collaborations. FRDF support has been crucial for the Unit in
+ forging links with industry. For example, a joint effort with the US company Ilrima, focused on
+ lubrication modelling, was initially funded through this source. The development of ICS with
+ Amsted and TPV was also supported. The unit’s key collaborators from Amsted, and Tafe Motors
+ and Tractors Limited (India) are Honorary Research Fellows at Keele, while JK was seconded to
+ TPV for six months during 2016-2019. CJC also worked with Thales on underwater noise
+ modelling for the UK’s nuclear submarine programme.
+
+ To facilitate links with local industry, KRISP (Keele Research and Innovation Support Programme)
+ has been designed to support local SMEs. This programme is funded through the European
+ Regional Development Fund (ERDF). The unit has participated in this programme: for example,
+ CJC led a successful collaboration with the SME EMS, enabling the company to produce more
+ efficient heavy-duty pumps.
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+
+ The School actively supports the wellbeing of staff and research students. Staff or PGRs with
+ special circumstances are given generous leave periods, and those with special medical needs
+ are offered tailored arrangements (e.g. flexible work, extensive medical leave).
+
+ Support, Training and Supervision of PGRs
+ PGR students are recruited both nationally and internationally, and supported from diverse funding
+ sources, including EU, the Commonwealth, and directly by industry. Since 2014 there have been
+ 20 registered students (compared to 9 in REF2014 (+122%), all of whom completed successfully
+ within 4 years. They have produced high-quality research, resulting in publications in high profile
+ journals such as JFM, Proc. Roy. Soc., etc.
+
+ In keeping with Keele’s PGR Code of Practice, an excellent supervisory and training environment
+ is maintained. All PGRs develop a training plan as part of their Personal Development and
+ Learning Plan. Supervisors are approved by the Faculty PGR Committee, with mandatory training
+ provided by the Keele Doctoral Academy. Supervisory teams comprise at least two supervisors.
+ The supervision style in the unit is “open door policy”. All students enjoy modern research facilities
+ and infrastructure, including access to the School's GPU cluster, private cloud, and licensed
+ software.
+
+ The quality of PhD training at the Unit is also evidenced by the impressive destinations of PGRs.
+ Former PGRs have secured postdoctoral positions at Warwick and Essex, and lectureships at Hull
+ and Glasgow, as well as high-level jobs at EDTF and GHD London Offices. The 2019 National
+ Postgraduate Research Experience Survey elicited a 100% response rate, with 100% for `Overall
+ Experience and Satisfaction’ (vs 82% for the sector average), 100% satisfaction for `Supervision’,
+ and 92% satisfaction for `Resources’.
+
+ Progress and welfare are monitored in accordance with University guidelines overseen by the
+ School and Faculty PGR Director. During 2020, Keele established a Doctoral Academy which
+ aims to provide a unified platform for PGR support, governance, and training. The university also
+ has a thriving Postgraduate Association that specialises in representing the interests of
+ postgraduate students. An elected PGR representative liaises with the PGR community.
+
+ Numerous regular and ad hoc research seminars broaden students’ horizons. A well-established
+ element of the PGR training is the MAGIC consortium of 21 UK universities, offering video
+ conferencing access to over fifty advanced taught courses each year.
+
+ A generic training programme addresses the national agenda for key and transferable skills. In
+ addition to obligatory internal presentations, all PhD students are strongly encouraged (and
+ funded) to make regular conference presentations and attend advanced courses, in the UK and
+ overseas. These have included various specialised courses at CISM, Udine, and Summer Schools
+ in Cargese (Corsica) and Prague, where invited lectures/lecture series were delivered by the Unit’s
+ staff.
+
+ Training of PGR students has also been enhanced by collaborative activities within the framework
+ of the ERASMUS+ programme. The unit has greatly benefited from PGR student and staff
+ exchanges, with 16 universities from 9 countries supported by around £1M of ERASMUS+ funding
+ between 2015-2020. The unit has hosted around 30 PGR students and a PGR international
+ workshop with circa 40 participants. There have also been over 50 academic staff visits. This
+ ongoing cooperation is a significant component of a truly vibrant environment for the Unit’s PhD
+ students. They not only enjoy interactions with their overseas counterparts and attend lectures by
+ outstanding visiting scholars (e.g. Professors D.Natroshvili (Tbilisi), G.Mikhasev (Minsk) and
+ V.Mykhaskiv (Lviv)), but also have opportunities for informal discussions. To the benefit of PhD
+ students, several short, advanced courses have been supported by the School (e.g. Applied
+ Tensor Analysis by Prof M.Itskov (RWTH, Aachen), Structural Vibrations by Prof I.Elishakoff
+ (Florida Atlantic University, Boca Raton), and Spectral Theory by Dr A.Kiselev (St Petersburg)).
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ EDI
+ EDI is at the heart of Keele’s culture. The university currently holds an institutional Athena Swan
+ Bronze award, and the School was awarded the Athena Swan Bronze award in 2016 and 2020.
+ The unit has sought to improve its gender balance through an action plan to improve female
+ representation, which includes embedding of positive action statements in recruitment material.
+ The unit’s REF submission includes two female staff, which amounts to 17%. Over the REF period,
+ the average percentage of female PGRs is above 30%. The unit also has 25% BAME staff, and a
+ substantial number of BAME PGRs, as well as two professors above the standard retirement age.
+
+ The unit has a strong record of supporting flexible working. Over the REF period, instances of
+ parental leave have been properly supported. Most staff have informal flexibility arrangements to
+ handle their caring responsibilities. A convention of holding meetings between 10am and 4pm is
+ followed. Minutes are circulated within a week of a meeting, to the advantage of staff not able to
+ attend. The University maintains a fund for supporting return-to-research, from which staff within
+ the unit have benefited.
+
+ Strict adherence to EDI principles in handling applications for promotions and internal funding, as
+ well as workload allocation and appraisal, is ensured by the Head of School together with the unit
+ lead. Formal appraisal activities are supplemented by intermediate research reviews for each staff
+ member.
+
+ ECRs have individually tailored, protected allocations to address their training and research
+ development needs, beyond the research and scholarship allocation of 30% for all research-active
+ staff.
+
+ To promote diversity further, the School regularly reviews its EDI policies with the help of HR and
+ the School EDI Committee. All School meetings are prefaced with an EDI reminder and the School
+ Athena Swan/EDI Chair attends all School and Unit level events.
+
+ In addition to special welcome of applicants with protected characteristics in recruitment, recent
+ positive action includes provision for anonymous staff/PGR feedback and introduction of
+ guidelines for the support of any staff member, student, or visitor whose circumstances require
+ privacy and/or special care.
+
+ All staff involved in REF leadership, which includes BAME professors, have received EDI and
+ unconscious-bias training from the University. The institution’s code of practice for REF has been
+ followed and all deliverables have been thoroughly reviewed with acute attention given to EDI
+ issues.
+
+ 3. Income, infrastructure and facilities
+
+ Institutional framework
+ Keele research activities are supported by the Directorate of Research, Innovation and
+ Engagement (RIE), which manages the Research and Innovation Support Enhancement (RaISE)
+ team. RaISE works with academic staff within the Unit to identify and develop applications for
+ research and infrastructure funding:
+ • Interdisciplinary collaborations are encouraged and facilitated by identifying optimal partners
+     for leveraging Keele’s infrastructure; crucially, incentives for joining forces are identified and
+     flagged, with support from sources such as the Institute of Liberal Arts & Sciences.
+ • Industrial collaborations are supported by establishing local industrial links (e.g. Wade, EMS)
+     and by providing seed-corn funding.
+ • International networks are promoted, with comprehensive support provided by the Global
+     Opportunity Team at the International Office and the International Development Officer (RIE)
+     (e.g. Marie Curie ITN TANGO, ERASMUS+, etc.).
+ • Resources are focused on key themes, in accordance with the priorities of Sustainability and
+     Health, including the Materials theme promoted by FNS.
+
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ •   A healthy variety of pilot projects, viewed as stepping stones for major grants, is funded on a
+     competitive basis, primarily through the FNS vehicle FRDF.
+
+ The Unit is also supported through QR income, the distribution of which is devolved to Faculty and
+ School level. Keele has also invested significantly in facilitating research impact. This resource is
+ allocated on a competitive basis and focused on the potential to advance Keele’s Knowledge
+ Exchange Strategy. The unit is a clear beneficiary of this policy.
+
+ Unit’s strategy for generating research income
+ Most staff activities aimed at generating external income and developing impact are coordinated
+ by the Mathematics Research Lead, reporting to the Head of School and Dean for Research. The
+ Unit’s strategy is based on the following key elements:
+ • maximising the exceptional strengths of the two groups specialising in continuum mechanics,
+ • strong promotion of interdisciplinary research,
+ • industrial collaboration with R&D-intensive entities, primarily in the areas of engineering and
+     medicine,
+ • development of major international networks involving world-leading scientists.
+
+ This strategy exploits a range of funding opportunities, including UK and overseas research
+ councils, EU programmes, and industrial partnerships. Implementation of this strategy results in
+ securing funding through responsive mode grants, substantial international networks, and
+ fellowships, as well as small LMS conference and research project awards.
+
+ An important element of the unit strategy is the focus on bringing in outstanding PostDoc Fellows
+ and building the foundations for the follow-up funded research. For example, three consecutive
+ NERC grants awarded to VS funded PostDoc Fellows and prepared the ground for a substantial,
+ successful research funding application. Other PostDoc Fellows have been supported by EPSRC
+ (DL), EU (GAR), SERB-Royal Society (JK), Amsted (JK, GAR) and TUBITAK (DP). Continuous
+ support from ERASMUS+ brought in follow-up funding from the Kazakh Ministry of Education and
+ Science and RNF.
+
+ Early Career Researchers (ECRs)
+ A fundamental aspect of the unit’s long-term strategy is a multi-layered framework aimed at
+ enabling ECRs to grow and secure their own research funding. Reduced teaching allocation for
+ ECRs is a key component of this framework.
+
+ Within the unit, mentoring is taken very seriously, and through a constant dialogue with the mentor
+ the individual’s research agenda is developed. Specialised workshops with in-house and invited
+ experts provide help in coaching younger researchers on writing grant proposals. Early drafts of
+ proposals are thoroughly discussed with mentors and other staff members.
+
+ The effectiveness of this support infrastructure is evidenced by successes including a recent `New
+ Investigator’ grant (DL). Support for researchers in grant income generation is not confined to
+ ECRs, and a similar collaborative approach is adopted for staff at the next stage of their careers.
+ In particular, the awards obtained by MJN and DP also confirm the benefits of the stimulating
+ environment.
+
+ EU Opportunities
+ Regular formal and informal sessions with UKRO (UK Research Office), lectures on forthcoming
+ initiatives, and on anticipated changes in programmes and policies, provide Keele academics with
+ better orientation in the changing environment. At all stages of grant preparation, contract
+ negotiation, and reporting, the dedicated help of RaISE is crucial. At unit level, the strength of this
+ user-friendly infrastructure is demonstrated by a large number of EU grants (MH, MJN, GAR, VS).
+
+ Research income
+ A well thought-through agenda of income generation has resulted in a high success rate in grant
+ applications. Overall unit grant income has increased during the period, although the submitted
+
+                                                                                                 Page 8
+Unit-level environment template (REF5b)
+ data shows income comparable to that of the 2014 REF. This is because considerable funding is
+ not captured in the REF data (in particular, approximately £1M through Erasmus+).
+
+ Major awards
+ • £365K, 2019-2022, NERC, Modelling wind waves. What lies beyond the significant wave
+    height? (VS).
+ • £351K, 2014-2018, NERC, Towards modelling height probability distributions of "normal" and
+    "freak" wind waves from first principles (VS).
+ • £300K, 2011-2014, NERC, New kinetic equations and their modelling for wind- wave
+    forecasting (VS).
+ • £209K, 2019-2021, EPSRC New Investigator Award, Stabilisation of exact coherent structures
+    in fluid turbulence (DL).
+ • $980K, 2017-2021, US NSF-NERC, Toward a new picture of the multifaceted meteotsunami
+    (VS) (Keele’s proportion £63K).
+ • €129K, 2014-2018, EU FP7, EU network air-sea interaction under stormy and hurricane
+    conditions: physical models and applications to remote sensing (VS), (Keele’s proportion ~
+    £14K)
+ • £1M, 2015-2022, ERASMUS+ ICM KA107 (DP).
+ • £126K, 2015-2017, Marie Curie, Multi-scale modelling of waves in porous media with
+    applications to acoustic control and biomechanics (GAR).
+ • £91K, 2019, Royal Society-SERB, Newton International Fellowship (JK).
+ • £89K, 2014-2016, funding from Amsted to model longitudinal forces in freight cars (JK and
+    GAR).
+
+ Other funding
+ As noted above, the unit has received substantial funding from other sources for research and
+ engagement activities. MH during her affiliation with the unit within the assessment period (2014-
+ 2016) coordinated a major European Marie Curie ITN TANGO, Thermo-acoustic and aero-
+ acoustic nonlinearities in green combustors with orifice structures, with total funding of €3.73M.
+
+ The unit has also a visible income stream (totalling about ~£500K) from the fees of 12 overseas
+ PhD students, including a highly competitive Commonwealth Scholarship. An example of a small,
+ but still meaningful, grant is the LMS award to LP for supervising a research project involving a
+ disabled student.
+
+ Unit members have initiated several national and international projects, including the following
+ examples. VS secured funding through the EPSRC Maths Foresees Network for the pilot project
+ Experimental modelling of wave dynamics on jet currents, carried out at Hull in 2015-2017, jointly
+ with S.Lukaschuk. Since 2018, JK has led a three-year basic research grant Multiparametric
+ dynamic modelling of layered strongly inhomogeneous elastic structures funded by ARRS
+ (Slovenian Research Agency). A major prestigious RNF (Russian National Foundation) grant,
+ Analytical models of seismic metamaterials, was won in 2020 by JK (PI) and DP (CI). JK, DP and
+ LP also participated in the grant by the Kazakh Ministry of Education & Science, Development of
+ asymptotic models for surface waves in solids with advanced mechanical properties, taking into
+ account effects of coatings and embedded sources (2017-2020). YF has had two grants awarded
+ by NSFC (National Natural Science Foundation of China) that funded his collaborations with
+ Tianjin University: Analysis and experiments on localized bulging in inflated hyperelastic
+ membrane tubes (2014-2017, PI), and Analytical and numerical methods for the post buckling and
+ secondary bifurcation of film/substrate structures (2017-2020, CI). The above grants, although not
+ contributing directly to REF income, have added substantially to the long-term health of the unit.
+ They have broadened the scope of funding opportunities, led to strategic international
+ collaborations and high-quality publications, and further advanced the unit’s research activities.
+
+ The robustness of the unit’s strategy in grant income generation aimed at multiple sources is
+ further evidenced by the even greater momentum after the REF census date. In particular, post-
+ REF income has already reached 1.3 million over a six-month period, and includes:
+
+
+                                                                                            Page 9
+Unit-level environment template (REF5b)
+
+ •   €1.82M (Keele’s share €166K) EU, Effective factorisation techniques for matrix-functions:
+     Developing theory, numerical methods and impactful applications (MJN).
+ •   ~£100K, CONACyT (Mexico), Ciencia de Frontera programme, La evolución de zonas activas
+     entre placas tectónicas: un enfoquematemático basado en las vibraciones flexurales de baja
+     frecuencia (JK, DP).
+ •   ~£100K, Kazakh Ministry of Education & Science, Development of mathematical models and
+     methods for analysing mechanical deformable systems with complex nonlinear properties
+     and variable structure in machine dynamics (JK, DP).
+ •   ~£68K, NSFC, Theoretical and experimental studies of necking of dielectric membranes
+     subject to mechanical and electric loading (YF).
+ •   ~£321K, EPSRC, Reducing the threat to public Safety: Improved metallic object
+     characterisation, location and detection. Project partners: DSTL, Rapiscan Systems,
+     Safeline.https://magpoltensor.wordpress.com (PL).
+ •   ~342K, EPSRC, Generalised Magnetic Polarizability Tensors: Invariants and Symmetry
+     Groups (PL).
+ •   ~£423K, EPSRC, Object Detection, Location and Identification at Radio Frequencies in the
+     Near Field. (PL).
+ •   ~£120K, EPSRC CASE Award Studentship (4 year PhD ) with Siemens Healthineers, A new
+     in-factory machine learning surrogate model for the prediction of magnet quenching during
+     manufacturing of MRI scanners (Siemens Contribution ~£29) (PL)
+
+ Research impact
+ The unit’s strategy prioritises academic, environmental and societal considerations in selecting
+ sources of grant income, which has resulted in significant scientific, industrial and other impacts.
+ Regarding scientific impact, this has led to top-quality journal publications over a broad area of
+ Applied Mathematics. The best examples of industrial impacts with environmental implications
+ have come from collaborative research in the areas of railway and automotive transport funded by
+ grants from Amsted and EU, as detailed in the two ICS.
+
+ These efforts aimed at green transport modelling have resulted not only in industrial and ecological
+ impact, but also in new mathematics, such as an original `almost rigid body’ concept (JK et al.,
+ Mech. Time-depend. Mater. 2015), and a new multi-parametric approach for lightweight high-
+ contrast laminates (LP et al., Math. Mech. Solids 2018).
+
+ The collaboration with Kazakh scientists supported by ERASMUS+ and its follow-ups resulted in
+ a general dynamic analysis of drilling strings within the framework of structural mechanics (JK et
+ al., Int. J. Eng. Sci. 2020), with the potential for efficiency improvements in oil and gas technology.
+
+ The TANGO Network generated, inter alia, new insight into the nature of thermo-acoustic
+ phenomena in combustors, based on new exact solutions for the so-called intrinsic modes, and
+ the discovery of a new class of instabilities caused by interaction of intrinsic and acoustic modes
+ (VS & N.Mukherjee, Comb. & Flame 2017, Comb. Sci. Tech. 2019).
+
+ Organizational support and facilities
+ The unit continues to benefit from University strategic investment in research excellence, reflected
+ in sharply increased staffing levels. Support mechanisms include direct subvention to the School
+ budget based on REF 2014 performance, resulting in reduced teaching loads and increased
+ research time. All unit members hold Personal Research Accounts which, over and above other
+ internal support, are used to promote individual long-term research activities and add to academic
+ independence.
+
+ RaISE provides specialist technical assistance; it facilitates awareness of funding opportunities,
+ ensures support for grant applications, including costing/pricing and overhead recovery
+
+
+
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+ (sometimes at short notice), is indispensable in contract negotiations, and is instrumental in
+ patenting and licensing.
+
+ Computer facilities
+ The unit is part of the School of Computer Science and Mathematics, which ensures access to
+ significantly better high performance computer facilities and technical support than most other
+ mathematics departments of similar size. This excellent provision enables our world-leading
+ research in continuum mechanics and supports recent developments in statistics and data
+ science. The School maintains an HPC cluster comprising 512 virtual CPU cores and GPU
+ capacity of 256 teraflops, serviced by a School-based team of dedicated technicians, as well as a
+ Private VScaler cloud. The facility is open to all Unit staff and PGRs.
+
+ More advanced computational resources are also available when needed; for example, VS has a
+ long-standing arrangement through the Met. Office to access one of the world’s largest
+ supercomputers at the European Centre for Mid-Range Weather Forecasting.
+
+ DL has recently been awarded by Nvidia two Titan XP GPUs. These were crucial in the preparation
+ of his successful 2019 EPSRC proposal, which funded the purchase of a high-performance
+ workstation consisting of a 10 core Intel Xeon W-2255 and a 5120 CUDA core Nvidia Quadro
+ GV100 32GB GPU.
+
+ The unit’s current access to superb computational facilities, including those outside Keele, is
+ invaluable for the unique direct numerical simulations of nonlinear wind wave long-time evolution
+ carried out by VS and S.Annenkov, and crucial insight into emergence of turbulent patterns by DL.
+
+ Members of the unit are active in cross-HEI collaborative use of major research facilities (large
+ air-sea interaction tanks) at Heidelberg University, Hull University, Marseille University,
+ N.Novgorod Institute for Applied Physics and Tel-Aviv University.
+
+ In-kind contributions include access to vast databases of wave observations in the ocean (Scripps
+ Institute, US; Melbourne University, Australia; CNRS, France), as well as various contributions
+ from WADE and NHS institutions.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Contribution to the scientific community and health of the discipline
+ Through Keele’s flexible approach and strategic support for collaborative activities, the unit
+ continues to provide a significant contribution to the UK and international scientific community by
+ willingly providing its expertise:
+ • as members of various national/international panels (e.g. IMA Lighthill-Thwaites prize (YF),
+      Roy. Soc. London (GAR), MIUR, Italy (JK), ARRS Slovenia (JK));
+ • in assisting research funding agencies in the UK (EPSRC, NERC, Leverhulme) and worldwide
+      (e.g. China, Canada, Georgia, Germany, Ireland, Israel, Norway, Russia, US) by regularly
+      reviewing grant applications and sitting on grant panels;
+ • in PhD and DSs examinations and procedures (UK (CJC, YF, JJH, JK, SN, MJN, DP, GAR
+      and VS), Australia (CJC, VS), China (YF), Denmark (JK), France (JK, VS), India (JK), Ireland
+      (VS), Israel (VS), Italy (MJN), Norway(VS), Pakistan (JK), Turkey (JK)) and promotion panels
+      and procedures (China, India, Israel, Pakistan, Slovenia and US).
+
+ The contribution of Keele Mathematicians to the future health of the discipline goes well beyond
+ its core area of expertise. The unit supports the basic infrastructure of the discipline by being good
+ citizens in many invisible ways, including refereeing of papers and research proposals, and
+ extensive membership of committees. The unit’s contribution to the advancement of continuum
+ mechanics is enhanced by the exceptional coherence of the Fluids and Solids groups: many of
+ their activities (including conference organisation and industrial collaborations) have been made
+ possible by the intensity and diversity of the intergroup collaborations. Events such as the
+
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+ traditional UK Elasticity Days, where Keele is a key player, further illustrate the role of the
+ Mathematics Unit as a team.
+
+ Key editorships
+ • IMA Journal of Applied Mathematics (YF (till 2018) and JK)
+ • ZAMP (JJH)
+ • Nonlinear Processes in Geophysics (VS)
+ • Journal of Sound and Vibration (CJC)
+ • Mathematics and Mechanics of Solids (JK)
+ • Mechanics of Time-Dependent Materials (JK)
+ • PMM Journal of Applied Mathematics and Mechanics (JK)
+ • Journal of Mechanics of Materials and Structures (YF)
+ • Mechanics of Soft Materials (YF)
+ • Acta Mechanica Sinica (YF)
+ • Journal of Engineering Mathematics (YF)
+
+ Other editorial activities include: editorship of the Springer book Series on Nonlinear Science
+ (VS) and of special volumes and journal issues (e.g. the Proceedings of the Royal Society A
+ Special Issue in honour of Prof P.Chadwick, FRS, edited by YF and JK jointly with Prof
+ R.W.Ogden, FRS).
+
+ Meeting organisation/Scientific Committees (examples)
+ Staff within the unit have contributed to organisation of a number of major scientific events,
+ including:
+ • 2015 EUROMECH Colloquium No. 574 on Recent Trends in Modeling of Moving Loads on
+     Elastic Structures, Anadolu University, Eskisehir. Turkey (JK, co-chairman).
+ • 2015 International Workshop on Pattern Formation in Soft Materials, Tianjin University, China
+     (YF, co-chairman).
+ • 2015 12th International Conference on Vibration Problems, Scientific Committee and Steering
+     Committee, IIT Guwahati, India (JK).
+ • 2015 Elasticity Day, Keele, UK (YF, organiser).
+ • 2015 International Conference on Mathematical and Computer Modelling in Continuum
+     Mechanics (dedicated to 105th anniversary of V.V. Novozhilov), Organising Committee, Saint
+     Petersburg (DP).
+ • 2017-2020 European Geophysical Union General Assembly, Vienna (VS, convener).
+ • 2019 15th International Conference on Dynamical Systems – Theory and Applications (DSTA
+     2019), Scientific Committee, Lodz (JK).
+ • 2019 Workshop on Algebra, Keele (PT, organiser).
+ • 2020 Online conference, Hopf algebras and Galois module theory (PT, co-organizer).
+ • In 2021 the Unit will also host EUROMECH Colloquium No. 626 Mechanics of high-contrast
+     composites (DP, organizer).
+
+ Major presentations
+ All submitted staff have had numerous invited presentations at important national and international
+ events.
+ • 2015 4th International Conference on Topical Problems in Continuum Mechanics,
+      Tsakhkadzor, Armenia. Keynote Lecture (JK).
+ • 2016 7th Int. Conf. Continuum mechanics and related problems of analysis. (Dedicated to
+      125th birthday anniversary of N. I. Muskhelishvili), Batumi, Georgia. Keynote Lecture (DP).
+ • 2018 Mathematics and Mechanics: Natural Philosophy in the 21st Century, Oxford, Plenary
+      Lecture (YF).
+ • 2019 Isaac Newton Institute, Industry Day. Industrial Applications of Complex Analysis.
+      Plenary lecture (CJC).
+ • 2019 Distinguished Lecture Series, Florida Atlantic University, USA (JK).
+
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ •   2020 International Conference on Advanced Problems in Mechanics (APM-2020), Saint
+     Petersburg. Plenary lecture (JK, DP).
+
+ Advanced training courses
+ Staff from the unit have delivered a range of advanced training courses for early career
+ researchers, including:
+ • 2015 Programme for young scientists and PhD students Rogue and Shock Waves in Nonlinear
+    Dispersive Media, Cargèse, Corsica, Institut d’Études Scientifiques (VS).
+ • 2017 International Workshop for postgraduate students in Applied Mathematics, Keele (DP,
+    organiser).
+ • 2017 Festival de Théorie 2017: Avalanching & Self-Organization in Plasmas, Aix-en-
+    Provence, France (VS).
+ • 2019 Summer school Wave propagation in microstructured media, Cargèse, Corsica, Institut
+    d’Études Scientifiques (JK, MJN).
+ • 2019 INI Summer School Bringing pure and applied analysis together via the Wiener–Hopf
+    technique, Cambridge (CJC, MJN).
+
+ Indicators of Recognition
+ • Fellow of European Academy of Sciences (JK, since 2019).
+ • Sackler Fellowship (Sackler Institute for Advanced Studies, Tel-Aviv University), 2016-2017
+    (VS).
+
+ Visiting Professorships
+ • Anadolu University (JK)
+ • Modena University (JK)
+ • Bretagne-Sud University (JK)
+ • Tanjin University (YF)
+ • Toulon University (VS)
+
+ Interdisciplinarity and contribution to economy and society
+
+ Institutional Support
+ RaISE provides the crucial support underpinning engagement and partnership activities. For
+ example, industrial collaboration with Amsted and TPV was facilitated through an Impact
+ Acceleration pilot grant. Collaborative efforts with the lubrication industry, structural engineering,
+ and other activities with potentially substantial impact are also supported. The key users of the
+ Unit’s research are engineers, biomedical scientists and geoscientists (though the circle of
+ beneficiaries is much wider). The focus is on the following main research areas contributing to
+ economy and society.
+
+ Engineering
+ Collaboration with the engineering world is carried out through engagement at three structural
+ levels:
+ • At local level, the Unit collaborates through KRISP, engaging staff, students and SMEs. For
+     example, KRISP supported a project with EMS, a company which manufactures pumps for the
+     water-waste and biogas industries. The challenge faced by the company was that the pumps
+     they manufactured were not performing at the optimum energy efficiency demanded by
+     different field conditions. Keele mathematicians, led by CJC, developed a robust
+     mathematical model, which enabled the company to optimise the pumps to different
+     environments, making them more efficient.
+ • At national level, the Unit has worked with Thales UK. CJC played a key role in the
+     government-funded study of noise generation in the context of the `Successor Programme’ for
+     the next generation of nuclear submarines, which is fundamental to national defence.
+ • At international level, theoretical results obtained in the area of the dynamics of
+     inhomogeneous solids are being used in the railway and automotive industries for developing
+     modern trains and “green cars”. In addition, progress in modelling of “green combustors” at Keele
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+     and through the Keele-led ITN network resulted in safe and efficient designs of combustors emitting
+     reduced amounts of undesirable substances (MH and VS).
+ •   A recently established strategic Keele-Saint Petersburg network in the area of seismic
+     metamaterials (supported by a substantial grant from RNF, JK-PI, DP-CI) is centred on
+     earthquake protection of critical industrial infrastructure.
+ •   A collaborative activity with a group of Slovenian Universities and research institutions on
+     modelling of high-contrast laminates (supported by a major grant from ARRS, JK-PI, GAR-CI)
+     has developed a theoretical framework for acoustically engineered structural design.
+ •   Long-term collaboration with Al-Farabi Kazakh National University on surface wave modelling
+     (supported by a three-year grant from the Kazakh Ministry of Education and Science) has
+     resulted in findings with potential for seismic control (JK, DP and LP).
+
+ Biomedicine
+ • Mathematical modelling of aneurysm formation and rupture, jointly with Tianjin Medical
+    University (YF).
+ • Dynamic cell patterning through controllable and variable surface wrinkles, jointly with the
+    Institute of Science and Technology in Medicine (ISTM) at Keele (YF).
+ • Modelling of blood-clot removal after strokes, jointly with Royal Stoke Hospital and ISTM (SN).
+ • Modelling of bioreactors for growing of human tissues, jointly with ISTM and the Oswestry
+    Hospital (SN).
+ • Statistical modelling in primary care supported by Arthritis Research UK, North Staffordshire
+    Primary Care Consortium for NHS (JB).
+
+ Geosciences
+ • Reconstruction of palaeo-tsunamis based on their sediment footprint, jointly with Keele’s
+   applied geophysicists (VS).
+ • Modelling of lava flows with Keele volcanologists and Bristol School of Earth Sciences (SN).
+
+ Education & Society
+ The unit’s priorities also include providing support to local communities through a variety of joint
+ activities with local industry and high schools.
+ • A collaborative research programme by Keele mathematicians and psychologists led by DB
+     has been implemented within the Stoke-on-Trent Mathematics Excellence Partnership. Novel
+     approaches developed for teaching STEM subjects in deprived areas have resulted in
+     substantially improved educational outcomes and a palpable increase in social mobility. The
+     significance of these new pedagogical approaches, implemented regionally, is of national
+     importance.
+ • Collaboration with the local ceramic company Wade Ceramics (YF, SN, together with Liverpool
+     University) in a deprived area of Stoke-on-Trent aimed not only at improving existing
+     technology by using advanced modelling, but also at addressing societal needs by developing
+     research-based manufacturing.
+
+ Networks
+ Numerous national and international networks (ERASMUS+, INI, ICMS, EPSRC, EU, National
+ Institute for Healthcare etc.) were instrumental in producing quality and breadth of research far
+ exceeding what might be expected a priori from a unit of this size. Examples are:
+ • EPSRC Maths Foresees Network (2014-2018) (VS).
+ • A series of back-to-back three-year access arrangements to use the ECMWF (European
+     Centre for Medium-Range Weather Forecasting) supercomputer (500 kunits/year) from the
+     MetOfice/ECMWF to facilitate the existing collaboration with the ECMWF (VS).
+ • Regular participation in the Woods Hole Geophysical Fluid Dynamics summer program (DL).
+ • Primary Care Research Network at the National Institute for Healthcare (JB).
+ • A collaborative EU grant on air-sea interaction under hurricane conditions involving
+     researchers from France, Germany, Finland. Russia and UK (VS, coordinator).
+ • Numerous EPSRC-funded SIGs (Special Interest Groups).
+
+
+                                                                                                Page 14
+Unit-level environment template (REF5b)
+ INI
+ Another boost to the Unit’s networking is provided through strong interaction with the INI (Isaac
+ Newton Institute for Mathematical Sciences, which includes the Gateway and Knowledge Transfer
+ Network (KTN)), and ICMS (International Centre for Mathematical Sciences). The unit maintains
+ regular contact with INI & ICMS via its Keele representative (VS). Unit members have been
+ prominent in INI & ICMS events. For example, both CJC and VS have been fully-funded residential
+ participants in INI programmes: VS in the programme Water Waves (July-August 2014), and CJC
+ in the two programmes Bringing Pure and Applied Analysis together via the Wiener-Hopf
+ technique (August 2019) and Complex Analysis: Techniques, Applications and Computations
+ (September–December 2019); and VS participated in the 2016 ICMS programme Trapped Waves.
+ In addition, CJC gave plenary talks at shorter INI meetings, including Mathematics in the Spirit of
+ Joe Keller (2017), and a meeting dedicated to the work of I.D.Abrahams (2018). The unit also
+ benefits from visits from prominent overseas scientists who participate in INI’s programmes.
+
+ Collaborative arrangements for PGR training
+ • MAGIC Maths: a consortium of 21 research-intensive universities which share live video
+    broadcasts, and assessment, of a wide range of advanced PGR courses.
+ • ERASMUS+: this major EU-funded network has supported Keele’s collaboration with 16
+    universities from 9 countries. PGR-oriented lectures by eminent academics have been
+    organised along with conferences for young scientists and individually tailored training.
+
+ Further support of research visits
+ Inbound travel. During the REF period the Unit hosted well over 100 visitors from all over the
+ world. Most of these visits were funded through the aforementioned networks, in which the
+ combination of the School Research account and staff individual research accounts enabled great
+ flexibility.
+
+ Outbound travel. There is a healthy level of national and international travel funded primarily
+ through networks and grants and supplemented by Faculty, School and individual research
+ accounts.
+
+
+
+
+                                                                                            Page 15
+

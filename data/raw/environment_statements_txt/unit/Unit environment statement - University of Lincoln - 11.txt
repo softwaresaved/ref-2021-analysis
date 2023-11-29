@@ -1,0 +1,916 @@
+Unit-level environment template (REF5b)
+ Institution: University of Lincoln
+
+ Unit of Assessment: UOA11: Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Context and Structure
+
+ UoA11 includes the School of Computer Science (SoCS) and elements of the Lincoln Institute of
+ Agrifood Technology (LIAT). SoCS has the strategic aim to curate and advance the field of
+ computer science from both theoretical and application points of view, with a particular focus on
+ cutting-edge research on robotics and agri-food, medical imaging and computer vision, human-
+ centric interaction and interactive technologies, empowered by machine learning and artificial
+ intelligence. The Global Centre of Excellence in Agri-robotics research (Lincoln Agri-Robotics,
+ LAR) is a major new research Centre, funded by the UK Government's Expanding Excellence in
+ England (E3) Fund through Research England with £6.3m in 2019 for a three year period. It is a
+ joint centre that has been spun out of the complementary research excellence of the Lincoln
+ Centre for Autonomous Systems Research (L-CAS) of SoCS and LIAT.
+
+ UoA11 fully embraces the vision put forward in the University of Lincoln (UoL) Strategic Plan
+ 2016-21: “We will work closely with our communities to ensure valuable impact from our
+ research to make a meaningful contribution to our world”. Accordingly, our research is both
+ global-to-local (bringing worldwide significant topics into our research agenda), as well as local-
+ to-global (bringing local research issues to national and international levels), through
+ collaborations with relevant stakeholders. It primarily focuses on Grand Challenges identified by
+ the UKRI, including agri-robotics and smart agriculture, healthcare and precision medicine,
+ artificial intelligence, also keeping the human at the centre of human computer interaction and
+ design.
+
+ The University’s Strategic Plan emphasises the academic freedom of individual researchers to
+ choose their field of research but encourages the organisation of research into focused areas. In
+ SoCs, researchers are principally organized into four research groupings: Lincoln Centre for
+ Autonomous Systems (L-CAS), Laboratory of Vision Engineering (LoVE), Machine Learning
+ Group (mlearn) and Interactive Technologies Lab (intLab). Within LIAT, the LAR group pools the
+ UoA11-relevant expertise in agri-robotics.
+
+ L-CAS, a member of the UKRAS network of leading robotics labs and led by Duckett,
+ specialises in perception, learning, decision-making and control for autonomous systems, such
+ as robots, and the integration of these capabilities in applications including agri-food (Esfahani,
+ Cielniak, Fox, Millard, Hanheide, Duckett), healthcare and social interaction (Baxter, Cuayáhuitl),
+ intelligent transportation (Yue, Duckett), nuclear robotics (Esfahani, Hanheide) and service
+ robotics (Bellotto, Hanheide). It collaborates closely with LIAT, the National Centre for Food
+ Manufacturing (NCFM) and Lincoln Institute of Health, around interdisciplinary research in
+ applications of robotics and AI to the food industry and health, respectively. L-CAS builds
+ complete autonomous systems, including mobile robotics and robotic manipulation, particularly
+ focusing on long-term autonomy.
+
+ LoVE, led by Allinson (who is submitted under UoA09), has a unique capability within the UK
+ research landscape - namely the expertise and resources to develop new imaging modalities
+ and systems from sensor design and provision (Allinson) to medical image analysis/computer-
+ aided detection and quantification of abnormalities in different organs, including the eyes
+ (Hunter, Al-Diri), the brain/lungs/colon/esophagus (Ye, Lambrou, Bidaut who is submitted under
+ UoA3, Brown) and breast (Janan), to assist with the full clinical workflow and personal long-term
+ healthcare management (Ye, Lambrou), as well as the general computer vision area, e.g. agri-
+ food, animal tracking and behaviour analysis (Ye, Duan, AI-Diri, Zhang, Brown). LoVE
+ collaborates with major hospitals across the NHS and abroad, leading national and commercial
+ research facilities and industries.
+
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+ Mlearn, led by Kollias, in collaboration with Parsons, undertakes innovative research and
+ development in the field of machine learning and artificial intelligence. The aim is the creation of
+ machines with intelligent behavior (Cutsuridis), which are able to reason, predict and adapt to
+ changing environments, assisting humans in both their everyday and professional lives. The
+ related activities focus on big data and multimedia information analysis, abnormality detection in
+ industrial, agri-food, social environments and healthcare (Yu), optimization (Jiang), all relying on
+ and contributing to the University’s strengths in agri-food, computer vision, culture and creativity.
+
+ IntLab specializes in both theoretical and applied research around user engagement and social
+ impact with interactive, social and mobile digital systems. IntLab’s work is cross-disciplinary,
+ largely underpinned by experience-centred Human Computer Interaction (HCI) design
+ (Holopainen, Dickinson, Maior). IntLab focuses on applications (Bachour, Hicks) including
+ entertainment, games, cultural heritage and citizen engagement.
+
+ LAR brings together large expertise in robotics, artificial intelligence and agriculture (Sklar, who
+ is Research Director, Bosilj). Its research foci encompass both foundations and real-world
+ applications, including autonomous agri-robots that can efficiently tend, harvest and quality-
+ control high-value crops with reduced human intervention, improving agricultural productivity and
+ environmental sustainability, and addressing the demands of a growing population.
+
+ 1.2 Achievement of Research Strategy
+
+ The research strategy of UoA11 in REF 2014 was to pursue quality research spanning
+ theoretical studies to transformative applications in both scientific and commercial/social
+ domains, whilst remaining open to developments and needs across the existing disciplines and
+ beyond.
+
+ This strategy has been the basis for our developments in the current period. In addition, UoA11
+ has significantly expanded its research activity over the census period, reflecting growth and
+ recruitment. In particular, there are 28.8 FTE academic staff returned in REF 2021, compared to
+ 14.5 in REF2014 (98.6% increase). The research income of SoCS was £10.27m over the
+ census period, compared to £1.85 m in REF 2014 (455% increase). There were 27 Ph.D
+ completions, compared to 12 in REF 2014 (125% increase). In particular, UoA11 has kept
+ developing on all fronts since its submission to REF2014, being proactive to new Challenges
+ and emerging disciplines. A new area, Machine Learning and Data Science (with the mlean
+ Group), was added to existing School's portfolio, by recruiting five new academics at both
+ established and early career levels. In parallel, new staff were also appointed to supplement and
+ strengthen the other research areas (3 new academics in L-CAS, 3 in LoVE and 3 in intLab).
+
+ Since the economy of Greater Lincolnshire region is heavily weighted towards agri-food
+ production (primary agriculture and food manufacturing), support for the agri-food sector has
+ been a main UoA11 strategic priority. Since 2016 when LIAT was established, L-CAS has
+ provided LIAT with advanced and basic robotics expertise to handle key agri-food challenges,
+ which led to creation of LAR. L-CAS, in collaboration with Universities of Cambridge and East
+ Anglia created the world’s first Centre for Doctoral Training (CDT) in agri-food robotics which
+ provides training for 50 doctoral students, supported by major industry partners.
+ Moreover:
+
+ L-CAS evolved to gain 8 major EU-funded consortium awards (Horizon 2020 and FP7 projects),
+ as well as many EPSRC, BBSRC and Innovate UK projects in agri-robotics. It has expanded to
+ possess complementary expertise covering all major computer science components required to
+ build complete long-term autonomous systems, including mobile robotics and robotic
+ manipulation, in dynamic real-world environments.
+
+ LoVE managed to advance proton imaging and develop PRaVDA, which is one of the two
+ operational proton imaging systems in the world. It also produced the first direct comparison of
+ calibrated x-ray and proton CT in biological samples, and 5 published - 4 awarded patents on
+
+                                                                                                Page 2
+Unit-level environment template (REF5b)
+ system design concepts and CT reconstruction methods. LoVE coordinated the REVAMMAD
+ EU Marie Curie Initial Training Network program aiming at combatting chronic medical
+ conditions including diabetes and hypertension through retinal imaging, and also successfully
+ developed several novel applications related to healthcare (computer-aided diagnosis of
+ abnormalities using multimodality medical images) and computer vision (in the areas of agri-
+ food, animal tracking and behaviour analysis) from many funded projects, including EPSRC,
+ FP7, BBSRC, CRUK, NC3Rs.
+
+ IntLab focused its research on design, development and evaluation of interactive technologies
+ for human use in social contexts, engaging diverse stakeholders (students, citizens,
+ associations, public authorities and researchers). It established quality of life and democracy as
+ its central concerns, aiming to promote a more equitable society through, and with, technology.
+
+ Mlearn has produced outstanding research results, developing novel deep neural networks
+ architectures and applying them to significant sectors, including anomaly prediction in nuclear
+ power plants, as well as in gas turbines (Siemens), plant growth prediction (agricultural), food
+ supply chain safety and reduction of energy consumption, neurodegenerative disease diagnosis
+ through medical imaging, cultural content analysis and creative reuse. High quality papers
+ appeared in NeurIPS, AAAI, NCAA, IJCV, IEEE Transactions and other journals.
+
+ 1.3 Achievement of Impact Strategy
+
+ The impact strategy set up in REF 2014 by the existing Laboratories focused on: (i) expanding in
+ real-world applications and establishing stronger links to national and global industries in agri-
+ food technology; (ii) providing clinically-approved software platforms and contributing to disease
+ diagnosis and screening; (iii) addressing societal and personal good.
+
+ The achieved impact strategy has mainly focused on: autonomous solutions and AI-enabled
+ agri-food technology; long-term autonomy for robots in-the-wild; personalised healthcare and
+ people’s well-being. In particular:
+
+ L-CAS produced robotic solutions throughout the food supply chain “from farm to fork”,
+ underpinning the UoA11 Impact Case Study on “Autonomous Systems for Agriculture” through
+ its long-term autonomous navigation solutions. It created robotic facilities on three sites,
+ including a new robotics centre at UoL’s agriculture campus at Riseholme, the NCFM at
+ Holbeach and laboratories in the Isaac Newton Building. L-CAS is part of the National Centre for
+ Nuclear Robotics EPSRC RAI Hub and partners with industry partners through various innovate
+ UK and ISCF projects, delivering high-TRL solutions into the UK markets. It deployed systems in
+ real-world settings, including a specialist mobile robot at the Natural History Museum, and
+ fielded the highest ranked UK team in the RoboCup Worldcup competition 2017. It also
+ developed integrated Active Assisted Living solutions for the elderly people at home and in
+ institutional care in the UK and Europe.
+
+ LoVE installed, for the first time, a proton CT system in the NHS Christie Proton Beam Therapy
+ Centre, Manchester, to form part of the national research infrastructure, moving closer to
+ commercialisation and worldwide adoption for the benefit of cancer patients. It conducted a
+ major longitudinal study of hundreds of participants to provide a reference set to monitor the
+ earliest signs of retinal change as a disease indicator. It also set up quantification of focal breast
+ density as a reliable imaging risk biomarker, developed systems for ultrasound fetal
+ measurement, detection and quantification of brain tumour in MRI, and personalized health
+ monitoring systems.
+
+ IntLab collaborated with Royal Air Force, contributing to the RAF100 public engagement
+ campaign with a freely downloadable Augmented Reality app for Android and iOS devices; with
+ Frequency Digital Culture Festival, since 2017; with the Finnish Museum of Games, contributing
+ to game archival activities; with the UoL School of Psychology, in the development of the
+ ‘Eyelander’ game for children with homonymous visual field loss.
+
+                                                                                                 Page 3
+Unit-level environment template (REF5b)
+ Mlearn developed strong collaborations with industrial companies and end-users, testing
+ research developments in real-life environments. The UoA11 impact cases ‘AI-enabled safe and
+ efficient food supply chain’ is based on R&D produced by Mlearn and LoVE academics in
+ collaboration with LAR/LIAT, NCFM and industrial users, including Tesco, IMS, OAL.
+
+ 1.4 Research Strategy for the next 5 years
+
+ SoCS research has historically contributed to the fields of Computer Vision / Medical Informatics,
+ Robotics / Autonomous Systems and HCI / Games Computing. During the current REF period,
+ the School has also expanded its establishment in the field of Machine Learning, which spans
+ and assists the existing research fields. SoCS’ vision for the future builds upon current research,
+ bringing in new and exciting research, both at national and international level, through our close
+ collaborations with European and Chinese academia and industries. The research strategy
+ targets expansion of expertise in each of the four research groups, whilst monitoring and being
+ proactive towards future scientific and technological innovations.
+ The research strategy of LAR is based on the vision to become the UK HEI’s first significant and
+ coherent basic research group that secures the delivery of Robotics, Autonomy and Artificial
+ Intelligence (RAAI) across the agri-food sector. The aim is to provide the UK with a unique
+ research pipeline flowing from concept inception through to application, thus providing a base to
+ consolidate this new discipline. Expansion will be around three specific themes, i.e., Agri-food
+ Robotics, AI and Machine Learning for Agri-food systems and navigation and autonomy in field
+ environments.
+
+ Both SoCS and LAR plan the expansion and focus of their research efforts to meet the most
+ challenging problems in the respective fields, including:
+     • Advancement of autonomous robotic systems; generating robots and systems that move,
+         operate, or offer services in an autonomous way is an ongoing research challenge in the
+         robotics area. L-CAS will extend their innovative, theoretical and experimental research
+         in the area, and in collaboration with LAR and LIAT, they will fully exploit the potential of
+         RAAI in agri-food systems, by fusing robotics and AI expertise with that from agriculture,
+         food technology, engineering and supply chain analysis.
+     • Precision medicine & personalized healthcare monitoring and prescriptive systems; LoVE
+         targets the next generation instrument for installation on the treatment gantry in state-of-
+         the-art delivery systems. By further analysis and understanding of medical needs and
+         workflows, it targets to provide clinical-quality imagery in real time and assist in selecting
+         optimal adaptive treatments. LoVE will continue to focus on image reconstruction, AI-
+         empowered computer-aided abnormality early detection, segmentation and quantification
+         for trusted medical diagnosis and prognosis.
+     • Generation of intelligent human assistants; SoCS will contribute towards the new
+         generation of intelligent human assistants, based on robots and other physical or virtual
+         systems able to sense and adapt to specific environments, to understand human
+         behaviours and needs, to reason and effectively assist humans, including elderly and
+         other people in need in their homes, or other social environments.
+     • Interpretable deep learning and generation of AI-based industrial and social systems;
+         Mlearn, in collaboration with the recently appointed Global Professor (Parsons), will
+         extend high level research in machine and deep learning, reasoning, knowledge
+         adaptation and explainable AI, tackling the Challenge of 3rd Wave AI and its applications,
+         particularly linked to big data analysis, mobile robotics, RAAI, healthcare, social and
+         creative environments.
+ All of our key areas of research fit with UKRI and other major funders’ priority areas, aligning
+ especially well with current grand challenges.
+ Our approach will be to demonstrate excellence and inspire new generations of researchers into
+ the sectors, whilst expanding our human resources, attracting and supporting early career
+ researchers (ECRs), who are UoA11’s strength towards sustaining and contributing to emerging
+ and evolving disciplines.
+
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ In this framework we will target a variety of aims:
+     i.   To continue PGR expansion, by doubling our PGR and particularly our Ph.D. students;
+          this will provide a clear add-on to the richness and diversity of our research. Current
+          Ph.D. completions (27 vs 12 in former period) are expected to surpass 45 in the
+          forthcoming period.
+    ii.   To gain new CDTs in the above-mentioned fields. The acquired CDT is our first step
+          towards this goal.
+   iii.   To submit 45 FTE in the next period (an increase of about 150%), especially hiring
+          ECRs, who will be the driving force for novel research and impact generation.
+   iv.    To increase SoCS research income from £10.27m currently to more than £15m;
+          generating a similar income by LAR.
+
+ Furthermore, it is well known that ethical issues can be met in all these targets and require
+ careful and expert consideration. Both SoCS and LAR will devote specific manpower to consider
+ ethical and democratic issues related to development and use of new AI technologies
+ (transparency, trust, fairness, responsibility).
+
+ 1.5 Impact Strategy for the next 5 years
+
+ In line with UoL’s research strategy, UoA11 considers research with impact, as well as industrial
+ and public engagement with research, central points of its mission. Impact is viewed to include
+ measurable economic and health benefits, development of solutions to real world problems,
+ changing perceptions and attitudes in non-academic audiences.
+
+ There is a focus of UoA11 on RAAI applications that are prioritised in the Industrial Strategy
+ Grand Challenges (Artificial Intelligence and Data) and can have a transformational impact on
+ agri-food labour and non-labour productivity. RAAI technologies provide a novel and timely
+ opportunity to step change agricultural productivity, whilst reducing environmental impact. The
+ related agri-food industry is immense, both at national and international level, with an impact to
+ increase sector productivity, reduce food waste, optimise supply chains, increase consumer
+ safety via optimised supply chains, new skills and export market opportunities for RAAI
+ companies.
+
+ L-CAS prepared, in collaboration with EPSRC UK Robotics and Autonomous Systems Network,
+ a White Paper on the future of agricultural robotics, influencing research funders, especially
+ concerning the UK government’s recent £90m Industrial Challenge Fund Investment
+ (“Transforming Food Production: from Farm to Fork”). Generating similar contributions in all
+ related fields is a main target in UoA11 impact strategy. L-CAS and LAR joint impact strategy is
+ to have a leading role in the agri-robotics field and developments. This is expected to increase
+ the generated income and to improve sector’s productivity, by involving new processes and
+ technologies in agri-food prediction, management and production and by spreading them
+ through nationwide network of collaborators and companies, including spin-outs.
+
+ LoVE’s major focus is on providing complete solutions that fit with clinical workflows, cost
+ implications and regulatory needs, including various imaging modalities and protocols, in
+ collaboration with major hospitals across the NHS and abroad. The overall impact goal in the
+ healthcare research is to ultimately bring positive change and improvements to existing medical
+ practice; all studies will be driven by clinical needs, with very close involvement of clinical and
+ other professionals. Healthcare, especially early disease detection, diagnosis and treatment
+ selection, will be a main topic in LoVE’s strategy, involving the large network of collaborating
+ central and local NHS healthcare centres and units, so as to achieve high impact of developed
+ technologies.
+
+ Mlearn focuses on developing novel ML/AI technologies. It will extend its current developments
+ on agricultural data analysis; contribute to the Confederation of Laboratories for AI Research in
+ Europe (CLAIRE) Network on Trustworthy and Human-Centred AI; further extend its R&D
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ collaboration with the ‘Europeana’ Digital Library on semantic enrichment and creative re-use of
+ data by museums, libraries, archives, audiovisual archives and creative industries.
+
+ IntLab’s approach is theory-driven and practice-led, with main focus on the user, to design
+ interfaces to fit human requirements, needs and values at the micro-level (human-factor), the
+ meso-level (social actor) and the macro-level (political actor). It experiments with public activism,
+ active ageing, media analysis, education/training and gameplay; older and younger citizens with
+ different skills; various computational artefacts with a distinctive focus on Virtual and Augmented
+ Reality and game engines. Impact will be obtained through Lincoln Game Research Network
+ and Digital Game Research Association.
+
+ To achieve these goals, all Staff in UoA11 will be involved in public engagement and
+ participation activities, conferences, public events, exhibitions and festivals.
+
+ 1.6 Approach to Interdisciplinary Research
+
+ All Research Groups in SoCS perform inherently interdisciplinary research and generate many
+ conference and journal contributions from across Computer Science, Engineering, Healthcare,
+ Life Sciences, Arts, History and Culture, Neuroscience and Psychology. Almost all of our
+ external funded projects are collaborative and involve working together with a range of
+ disciplines and sectors. We promote collaboration within University groups and Schools through
+ provision of time for research co-investigators for funded research activity, as well as through
+ financial support for strategically important collaborations and networking activities.
+
+ We have created an internal procedure, through which we were able to provide 5 new Ph.D.
+ posts, especially to ECRs in SoCS, whilst requesting interdisciplinarity of supervising teams and
+ Ph.D. topics. This approach has achieved many goals, such as assisting the best ECR research
+ with Ph.D. students and prioritising interdisciplinary research between UoA11 and other Schools.
+ Moreover, the creation of the University of Lincoln Medical School, in collaboration with the
+ University of Nottingham, provides a great new opportunity for increasing the multidisciplinary
+ aspect of our research. Especially in the health diagnosis domain and in generation of novel
+ healthcare applications and services, targeting both the East Midlands and other nearby rural
+ areas, as well as global research developments.
+
+ UoA11 closely works with all UoL entities that are industry and sector facing, i.e., LIAT, NCFM,
+ LIH, and through them to external non-academic partners. Moreover, Mlearn and Intlab have
+ collaborated in co-organising with UoL’s Centre for Culture and Creativity, School of Arts &
+ History, and the Media Archive of Central England, the Heritage Dot Conference, bringing
+ together researchers and practitioners and involving cultural, creative and technology
+ disciplines. This collaboration resulted in a 3-year Creative Europe project which UoL
+ coordinates, in which mlearn provides metadata semantic analysis and enrichment. Moreover,
+ Kollias was selected member of European Commission Expert Group on Cultural Heritage in
+ 2019.
+
+ 1.7 Progress towards Open Research Environment
+
+ SoCS targets continuous interaction and dissemination of research results, possessing a
+ professional software development and research paper repositories.
+
+ We have a policy of putting our research code and datasets online for open access, for use by
+ other researchers, thus following the University of Lincoln’s central policy on open access. We
+ created https://lcas.lincoln.ac.uk/wp/research/data-sets-software/ as an open research
+ environment on robotics, also publishing several related datasets. We also created public
+ datasets of Proton imaging data (over 10 TBs) to the worldwide research community, together
+ with widely used retinal dataset (http://www.aldiri.info/Image%20Datasets/Review.aspx) and
+ other computer vision datasets (https://www.visioneng.org.uk/datasets/).
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ http://mlearn.lincoln.ac.uk/ provides a database on Parkinson’s, with thousands of MRIs and
+ DaT Scans.
+ In addition, both SoCS and LAR are promoting the use of open research for RAAI, actively
+ supporting the development of the Robot Operating System (ROS), the architecture adopted by
+ international academia for robotics research.
+
+ 1.8 Support for Research Integrity
+
+ Coherence of vision and interaction of academics across all groups is a key School strategic
+ target under oversight of the School's Research Steering Group (RSG). RSG naturally
+ encourages open and constructive dialogue across all academics in the School, supporting
+ research integrity. This strategy and strong multidisciplinary research culture also nurture junior
+ staff who receive personal support and mentoring towards producing high quality collaborative
+ research, whilst also contributing to all School educational and organizational targets. RSG
+ follows the University’s Code of Practice for Research, as well as the University’s Ethics Policy,
+ as the main instruments for the creation of a comprehensive framework for good research
+ conduct.
+
+ 2. People
+ 2.1 Staffing Strategy
+
+ The staffing strategy of UoA11 is in accordance with the targeted expansion described in
+ Section 1 of this Statement. This includes the increase by 98.7% of the staff FTEs submitted in
+ REF 2021 compared to REF 2014 (28.8 versus 14.5), as well as the expansion of the research
+ groups (from 3 to 4 in this submission) and the members of each research group (ranging from
+ 9-10 FTE for L-CAS and LoVE, and to 4-5 FTE for mlearn and intLab).
+
+ In SoCS, new research areas are determined by RSG, chaired by the School Director of
+ Research, involving the Head of School (HoS), Professors and Heads of the research groups.
+ For example, in 2016, we decided to create a fourth research group, to complement our existing
+ groups in robotics, vision and human-computer interaction, and concluded that a group in
+ Machine Learning (ML) would best complement our existing research portfolio. We proceeded
+ with recruiting the Head of the Group (at Professorial level), providing also a Ph.D. studentship,
+ and in the first semester of 2017 we recruited four Lecturers/Senior Lecturers in ML & related
+ fields, i.e., as data science, reasoning, signal/image analysis, brain-inspired AI. The Mlearn
+ Academics have attracted 3 RAs and & Ph.D. students, funded by projects that the Group has
+ managed to acquire.
+
+ In LAR, the three specified research themes are underpinned by new appointments, targeting a
+ critical mass of 18 members that has been defined as necessary, for performing research and
+ seeking collaborative projects with industry and other HEIs.
+
+ Our staffing strategy targets the strengthening of the research and impact creation capabilities of
+ UoA11, in the context of our overall research strategy and those of the specific Groups. As an
+ evidence of the effectiveness of our policy, it should be mentioned that in the referenced period,
+ 15 new members have been recruited and added to the academics of SoCS, including 4
+ Professors (Parsons, Kollias, Bidaut, Sklar), 5 Senior Lectures (Holopainen, Cutsuridis, Jiang,
+ Fox, Millard) and 7 Lecturers (Bachour, Yu, Esfahani, Brown, Hicks, Maior, and Zhang). The
+ average h-index (e.g., in Google Scholar) of the new Professors has been about 40; in the case
+ of Senior lecturers it was 16; in the case of Lecturers it was about 9. These have been added to
+ the existing Staff of the School of Computer Science, creating a Field Weighted Citation Impact
+ (FWCI) in the census period of 1.82, an International Collaboration Rate of 60.2% and a National
+ Collaboration Rate of 17.1%, which are higher than the respective sector means.
+
+
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ The following can be mentioned regarding the characteristics of the UoA11 staff:
+    • Our staff includes a rather high number of young academics: 20.8% are 25 - 34 years
+         old; this indicates the dynamic composition of our staff and our ability to attract young
+         ECRs for facing new challenges and evolving research directions.
+    • There is a large number of SoCS staff that have been for many years with us and
+         constitute the backbone of our R&D efforts: 39.9% of our staff are 45-54 years old.
+    • There is a high number of international staff members in SoCS, reaching 56.9% of the
+         total: this provides our UoA with a great extroversion, leading to many collaborations both
+         at national and at international level.
+    • There is large proportion of BAME staff members, in particular, 41.1% of our staff: this is
+         the reason of many collaborations with Asian countries.
+
+ Staff promotion is a continuous procedure supported by the University. During the assessment
+ period two of our Readers were promoted to the Professor level (Hanheide,Ye) and two Senior
+ Lecturers were promoted to Associate Professors (Bellotto, Cielniak, Al-Diri), following an
+ application and evaluation procedure at School and University level. It should be added that
+ senior BAME members have reached a 17.1% of the total staff.
+
+ 2.2 Staff Development
+
+ Staff development has been a main target of the School of Computer Science; LAR is sharing
+ the same target as well. We recognize that development is of key importance for our Early
+ Career Researchers (ECRs) to form and implement their own research and to participate in
+ International Conferences and fora. Support for ECRs includes:
+     • The appointment of ECR Leads for the School.
+     • Training for ECRs, study review meetings with more experienced staff members, or
+         among themselves in e-research seminars, to discuss journal articles and research bids
+         prior to submission.
+     • In SoCS, all new members of academic staff are provided with a mentor, who is a senior
+         member of staff, encouraging them to have regular meetings, so that they can surpass
+         any problem or difficulty they may face. Research Group leaders also provide mentoring
+         to staff, usually focusing on the research aspects of the role.
+     • Annual appraisals and individual research plan reviews with a senior member of staff, as
+         an opportunity to review progress, identify needs, discuss career plans, targeting career
+         progression and continuing professional development through the appraisal process;
+         these are part of ECR’s progress evaluation.
+     • Annual research planning meeting with SoCS research group leads, to discuss all
+         aspects of research, such as outputs, income and impact, as well as a three-year
+         research plan envisioning future goals and practices. We are using the Individual
+         Research Planning (IRP) process, which serves two purposes: Developmental – it
+         provides ECRs with a structured opportunity to annually review their research
+         attainments, to set research goals and plans with the advice and critique of an
+         experienced reviewer, and to set a strategy for attaining research objectives; IRP data
+         feed into UoL’s overall planning for research, development of REF profile and income
+         generation, and is used as part of the process to identify individual contributions to REF.
+     • Training and development, at Institutional and College of Science level, for personal and
+         professional development. UoL provides Continuing Personal and Professional
+         Development (CPPD) scheme which was designed as a holistic and inclusive framework
+         to enable all staff members to plan their careers.
+     • Reduced teaching load for ECRs, especially in their entry year(s) to the School, to
+         provide them with more time to focus on research.
+ ECRs are encouraged to participate, as Co-Is in submission of proposals together with more
+ experienced researchers, so as to obtain the necessary expertise and then submit their own
+ proposals; they are also active members of the research groups, acting first as second
+ supervisors of Ph.D. students and then as first supervisors. An example of ECR success in the
+ mlearn group is Jiang, who is a new ECR with an excellent publication record: 5 papers in IEEE
+ Transactions on Evolutionary Computation, 3 papers in IEEE Transactions on Cybernetics and 2
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ papers in Soft Computing; whilst being Co-I in the European ‘Smartgreen’ project, leading the
+ data prediction and optimization task, being 2nd supervisor of a Ph.D. student and collaborating
+ with Parsons and Kollias on blending ML and AI.
+
+ Recognition and reward of every staff member achieving excellent research results and impact
+ is provided by SoCS, in terms of: balancing other duties, providing some part of the indirect
+ costs back to PIs to use for equipment, or travel; providing resources, e.g., Ph.D. studentships to
+ boost research and impact. We assist all Academics to increase their networking and
+ research/impact potential, facilitate exchanges between academia and businesses, and provide
+ sabbatical leaves to Staff who bring such a request to Head of School. Cuayáhuitl spent a six
+ months period at Samsung, with a leave of absence from SoCS. Bellotto spent three weeks in
+ China, presenting research seminars on machine perception of human in robotics, collaborating
+ with Science University of Science and Technology, Guangzhou, Shenzhen and Tsinghua
+ Universities. We encourage close collaboration of UoA11 Academics with European and
+ International Academia (for example, Cielniak with Norwegian University, Yue with many
+ Chinese Universities).
+
+ UoA11 assists its academics with travelling, participating in international conferences, organising
+ workshop and publishing papers. Expenses are covered, either at individual level, through direct
+ requests to Head of School, or at research group level, providing the groups with budget for
+ covering such expenses. Consequently, UoA11 Academics are very active in participating and
+ presenting papers at national and international conferences, in organising workshops and
+ serving as conference program chairs and session organisers (as mentioned in Section 4).
+
+ 2.3 Support for PGR students
+
+ In UoA11 we are nurturing a research culture, which includes opportunities for training PGR
+ students, post-doctoral staff and fellows. Especially towards PGRs, we target to support them
+ by:
+     • Generating an inclusive, friendly, professional and supportive research environment that
+        encourages collaboration, engagement with stakeholders and nurtures ambition,
+        creativity and innovation in both fundamental and applied research; all PGRs, including
+        those of the CDT, get involved, as active members, in some projects and collaborations.
+        SoCS runs monthly seminar series and PGR meetings, to provide forums for PGRs to
+        network.
+     • Creating individual and collective minds that are open to new ideas, responsive and
+        flexible; all PGRs get involved in research tasks, seminars, collaboration-across-group
+        events and publications.
+     • inspiring them to become knowledgeable and enquiry-driven scientists; from their
+        entering UoA11 they are in close collaboration with their mentors, supervisors and
+        research colleagues.
+
+ UoA11 is committed to the development and support of PGRs. The success of our CDT
+ Programme will assist PGR linking with external bodies, industrial and social partners, by visiting
+ and working in their environments; this will help improving PGRs’ understanding of real-life
+ problems and related career prospects.
+
+ Moreover, and following UoL’s Institutional Environment Statement:
+    • UoA11 seeks funding from major funding bodies, obtained directly, or through project
+       development, at both national and international level. The CDT, together with the large
+       networking capabilities of LAR, provide further opportunities for engaging more PGR
+       students in R&D collaborations with industry. CDT students are treated as a cohort
+       getting support from a wide selection of supervisors. Also, UoL recently obtained EPSRC
+       Doctoral Training Partnership (DTP) award, through project proposal assessment, three
+       ECRs in SoCS have received studentships to become 1st supervisors of new Ph.D.
+       students on interdisciplinary topics.
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+    •    PGR students, both at M.Sc. and Ph.D. levels, participate in:
+ * weekly meetings and presentations at Group / Laboratory level
+ * monthly research presentations at School / Centre level
+ * monthly journal club at Group / Laboratory level
+ * seminars and open days across UoA11
+ * talks by Academics in events organised by Lincoln Institute of Advanced Studies
+ * combined meetings between different research groups (e.g., L-CAS and Mlearn).
+     • Progress of PGR students is discussed with their 1st and 2nd supervisors in monthly
+         meetings and respective reports are produced and monitored by SoCS / LAR. Yearly
+         progress reports are completed and evaluated and important dates, e.g., of viva, or
+         transfer to Ph.D. status, are respected, being considered necessary for successful
+         completion of postgraduate/Ph.D. degrees.
+     • Organisation of the research seminar series is rotated among UoA11 groups to ensure a
+         variety of invited external speakers (about 6 seminars per year), which, as we have
+         found, increases cross-fertilization of ideas and approaches to research.
+     • Organisation of meetings and events with industrial partners and other institutions
+         happens, where dissemination of achieved research results and investigation of possible
+         future collaborations, as well as discussion on opportunities for PGRs to work. We could
+         also mention the 'Life Beyond the PhD' event, which has run in conjunction with the
+         Doctoral School, for supporting postgrads in this framework.
+
+ 2.4 Equality, Diversity and Inclusion
+
+ UoA11 supports and encourages all under-represented groups, promotes an inclusive culture
+ and values diversity. Our approach to equality, diversity and inclusion (EDI) is informed by UoL’s
+ Policy. The Eleanor Glanville Centre leads the equality work, providing centralised support
+ around the Athena Swan Gender and race Equality Charters and disseminating best practice
+ (see Institutional Environment Statement). We also ensure that all our staff attend EDI training.
+
+ SoCS’s Athena SWAN Self-Assessment Team was set up in April 2014. After an open call for
+ expressions of interest, the team was put together ensuring that its membership represented a
+ range of career levels and different work-life experience. The team has held regular meetings
+ since then. Our Athena SWAN preparations have included staff-wide consultations and meetings
+ on gender diversity, developing our appreciation of the role of positive action in this regard. As a
+ result, the School achieved the Bronze Athena SWAN Award in 2015 and identified many areas
+ of good practice.
+
+ With reference to recruitment of Ph.D. students, UoA11 has adopted a transparent procedure,
+ according to which each potential student submits an application, describing their intended area
+ of research, which reaches all Academics; the ones who declare their interest can further
+ discuss with the student, who makes the final suggestion and then inserts the postgraduate
+ programme. The selection procedure does not pay attention to any protection characteristics of
+ the student. Our aim is to attract students of high quality that are able to work and produce
+ innovative research.
+
+ Our cohort of PGR students is rather young in age, with 64.0% being younger than 30 years of
+ age. This shows the dynamic nature of our PGR cohort. Moreover, 61.3% are international
+ students; this is a characteristic of our PGR cohort, which attracts our close attention, so as to
+ provide equality and inclusion to all our PGRs.
+
+ UoA11 supports broader attitudes and approaches to flexible ways of working, e.g., part time
+ working, compressed working hours, and working from home. We promote “core hours” of 10am
+ – 4pm in consideration of staff or research students who have caring responsibilities. Meetings
+ are always held within these hours, being arranged using ‘Doodlepoll’. Remote working has also
+ been adopted throughout UoA 11 during the Covid-19 pandemic.
+
+
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+ The wellbeing of our staff and students is considered of primary importance for UoA11
+ objectives’ achievement. We strongly believe that our organisational performance is linked to the
+ well-being of our members and that this is much more efficient when our members are satisfied,
+ participating, and contributing to a peaceful and participative working environment.
+
+ The Head of School, assisted by specific members of School’s Administration Unit, is
+ responsible for the smooth operation of SoCA activities. Our organizational approach turns away
+ from the usual hierarchy-based management to an agile network of interconnected Groups. The
+ Groups have been empowered to take decisions and actions without constant referral to higher
+ levels. This is only achieved by creating a UoA11 environment where members have the right
+ soft skills in communication and alignment towards our common goals.
+
+ The key variables that are considered to achieve this, at individual UoA11 level, are: i) personal
+ satisfaction; obtained when our collaboration is in line with everyone’s personal values, ii)
+ personal and working life well-being, iii) own motivation; each one acting to successfully achieve
+ their objectives in accordance with UoL’s ones, iv) trust; relying upon UoA11 management,
+ group leaders and colleagues.
+
+ 3. Income, infrastructure and facilities
+ 3.1 Research Income
+
+ UoA11 has facilitated and embedded an environment where creation of high-quality research
+ and recognition of research income sit at its very core. Recognising that generation of research
+ income requires strong research teams and dedicated support, we are driving this forward
+ centrally, so as to meet the needs of the growing cohort of researchers within SoCS and LAR.
+
+ Generation of research income is enabled by university structures and processes, strong
+ engagement with service users and companies. A specific focus on promoting outcomes to
+ society and industry. In particular, to enable income generation, SoCS and LAR work closely
+ with their diverse network of industrial partners, including end-users and technology providers.
+ There is also close collaboration with UoL’s Research & Enterprise Entity, which provides
+ support for research income generation activities, including research grants and contracts,
+ KTPs, IP and academic enterprises.
+
+ UoA11 research income has been £10,273.977 in the census period, with a 455% increase over
+ the respective research income, £1,854,987, reported in REF 2014. There have been 207 bids
+ submitted for funding, with a success rate of 33.0%.
+
+ Classified by funder type: 46.9% were funded in UK; 17.9% by Research Councils; 25.6% by
+ European Union; 9.2% were funded by Industry. It is noted that funding at European level has
+ been a significant proportion of the total funding; this shows our large collaboration and
+ networking with groups leading research at European level.
+
+ It should be further mentioned that 21.3% of the bids were in collaboration with one or more
+ different UoAs of UoL; indicating the significant interdisciplinary work done in UoA11.
+
+ In particular:
+ L-CAS has run a variety of projects, including: Advanced Robotic Breast Examination Intelligent
+ System (Cancer Research UK, 2020-21); Haptic-guided Mobile Manipulation (NCNR, 2020-21);
+ Co-manipulated Robotic Training and Skill Assistance for Telemanipulation in Nuclear Settings
+ (NCNR, 2020-21); Human-Guided Learning and Benchmarking of Robotic Heap Sorting (ERA-
+ NET CHIST-ERA, 2019-22); Intra-Logistics with Integrated Automatic Deployment: safe and
+ scalable fleets in shared spaces (Horizon 2020, 2017-20); Spatial-temporal information
+ processing for collision detection in dynamic environments (Horizon 2020, 2016-20), National
+ Centre for Nuclear Robotics (EPSRC, 2020-21); Synthesis of remote sensing and novel ground
+ truth sensors to develop high-resolution soil moisture forecasts in China and the UK (STFC,
+ 2016-19); Robotics and Autonomous Systems for Berry Production (IUK, 2017-19); 3D Vision-
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+ based Crop-Weed Discrimination for Automated Weeding Operations (BBSRC and IUK, 2016-
+ 18); Structured Deep Learning for Autonomous Driving (Toyota Europe, 2017-18); Application of
+ machine learning and high speed 3D vision algorithms for real time detection of fruit (BBSRC,
+ 2017-21); Autonomous Field Rover for Agricultural Research (BBSRC Seeding Catalyst, 2017-
+ 18); Autonomous Field Rover for Agricultural Research (Horizon 2020, 2015-18); Enable Robot
+ and Assisted Living Environment for Independent Care and Health Monitoring for the Elderly
+ (Horizon 2020, 2015-18); Spatio-temporal Representations and Activities for Cognitive Control in
+ Long-term Scenarios (EU FP7, 2014-17).
+
+ Focusing on agri-food robotics, RAAI and related technologies has been a major decision of
+ SoCS and UoL towards income generation. Creating LAR and obtaining the CDT for agri-food
+ robotics, in collaboration with the University of Cambridge and the University of East Anglia,
+ have been major pillars for generating income and for boosting research collaboration with all
+ participating companies, thus providing more future potential income. In total, this collaboration
+ led to winning 24m of collaborative funding (to all partners) in agri-food research.
+
+ LoVE research income mainly comes from the healthcare sector, i.e., early diagnosis,
+ quantification and prognosis of various diseases, proton imaging work, by engaging with
+ clinicians, entering into clinical trials, pursuing regulatory approval and cooperating with
+ healthcare industries. Related projects are: OPTIma: Optimising Proton Therapy through
+ Imaging (EPSRC, 2018-2022); Predicting the location of lung nodule occurrence from low-dose
+ CT using convolutional time-to-event networks (Cancer Research UK, 2019-2020); Computer-
+ aided detection (CAD) for Robotic Colonoscopy (Cancer Research UK, 2016-17); Assessment of
+ retinal vascular geometry in patients with age related macular degeneration (Fight for Sight,
+ 2015); Interoperability Hub for Aggregating Lifelogging Data from Heterogeneous Sensors and
+ its Applications in Ophthalmic Care (EPSRC, 2014-16); Proton Radiotherapy Verification and
+ Dosimetry Application (Wellcome Trust, 2013-16); Retinal Vascular Modelling, Measurement
+ and Diagnosis (EU FP7 Marie Curie, Coordinator, 2013-16); Demonstration of 4D Digital Avatar
+ Infrastructure for Access of Complete Patient Information (EU, FP7, 2013-16).
+
+ LoVE has also actively worked in intelligent vision, e.g., animal tracking/ behavior analysis and
+ agri-food projects: PIGSustain: Predicting the Impacts of Intensification and Future Changes on
+ UK Pig Industry Resilience (BBSRC, 2017-2021); Smart Systems Approaches for Climate
+ Resilient Livestock Production (NERC, 2019-2020); Towards an open-source, equipment-
+ agnostic framework for automated welfare monitoring in the home cage (National Centre for the
+ Replacement Refinement & Reduction of Animals in Research, 2020-23); Mushroom Robo- Pict-
+ Development of an autonomous mushroom picking robot (IUK, 2017-2019).
+
+ IntLab research income generation came through: the RAF 100 Ceremony project, where intLab
+ created and widely spread an App for young audiences, realistically recreating RAF100 flypast
+ using Augmented Reality; the Eylander project, coordinated by WESC Foundation (funded by
+ Comic Relief and Paul Hamlyn Foundation, 2015-18) for development of the ‘Eyelander’ game
+ for children with homonymous visual field loss; a project with Chordata to develop software for
+ their motion capture hardware; the H2020 PieNews project and the COST action Sharing and
+ Caring, in collaboration with the University of Trento in Italy; project in games for wheelchair
+ user, in collaboration with Back Up Trust and WheelPower UK.
+
+ Mlearn has run ML/AI projects: Nuclear Power Core Monitoring Techniques and Experimental
+ Validation and Demonstration (Horizon 2020, 2017-21); SmartGreen: Smart agri-food using
+ Machine & Deep Learning (EU Interreg North Sea, 2017-21); WeHope: Semantic Metadata
+ Interoperability for Cultural Content (Creative Europe, 2019-22); Deep Learning for Optical
+ Character Verification of Food Packaging Images (OAL/IUK, 2017-19); Intelligent Refrigeration
+ Systems (Tesco and IMS-Evolve, IUK, 2017-19) for optimising defrosting cycles that account for
+ thermal inertia pertaining to food, thus cutting energy costs down; Engineering Transformation
+ for Integration of Sensor Networks (CEH and Oxford University; NERC/UKRI, 2019-20) for soil
+ moisture monitoring, prediction and enhancement of environmental observations.
+
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ 3.2 Infrastructure and Facilities
+
+ UoA11 has achieved large support from UoL in infrastructure and facilities in the census period,
+ with which we supported staff and PGRs in their research and development activities.
+ In particular, a new building of £28m has been created for SoCS in 2017, under the name of
+ Isaac Newton Building (INB), bringing together all laboratories, staff and postgraduate students,
+ with co-located state-of-the-art facilities and research infrastructure. A variety of events have
+ been organized in INB to bring UoA11 developments closer to our industrial, societal and
+ educational audiences. Bellotto and Lambrou organised twice (2017, 2019) the BMVA
+ Computer Vision Summer School in INB, using rooms, laboratories and social interaction areas.
+ Many demonstrations of the L-CAS achievements, including sections with autonomous robots
+ and food manufacturing demonstrations were organized in INB L-CAS Laboratory and free
+ space areas.
+
+ L-CAS joint facilities include dedicated robotics research labs, demonstration farm, experimental
+ food factory, fleet of diverse mobile and social robots, advanced compliant robotic manipulators,
+ swarm of micro robots and state-of-the-art agricultural robots. The CDT for agri-food robotics
+ also constitutes a scholarly infrastructure supporting research and impact in UoA11. Moreover,
+ L-CAS and LIAT, through E3 award, set up the LAR infrastructure at UoL’s Riseholme Campus,
+ whilst UoL provided the LAR building, as in-kind contribution.
+
+ LoVE facilities provide a unique capability within UK universities, namely the design of custom
+ CMOS sensors, up to the level where out-sourced fabrication is possible; this boasts full CAD
+ platforms, both academic and commercial, and advanced characterisation systems for imagers.
+ IntLab has the capability to develop Virtual, Augmented and Mixed Reality environments; this
+ was used for development of Apps for games, education and entertainment environments.
+
+ Mlearn possesses a research and development infrastructure for state-of-the-art machine and
+ deep learning and big data analysis, including servers with GPUs and associated memory
+ availability, used for research and project development.
+
+ On top, SoCS provides research students and visiting research staff with required equipment,
+ whilst using, if necessary, major research facilities in nearby UK institutes. Everyday operation
+ and predictive maintenance is supported by SoCS technical and support staff.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+ 4.1 Research Collaborations, Networks and Partnerships
+
+ In the current census period, UoA11 academics have developed a large variety of research
+ collaborations, networking and partnerships with academic colleagues from other Universities
+ and Research institutes in UK and internationally. Almost all of our external funded projects are
+ collaborative and involve working together with different disciplines and sectors. Our research
+ collaborations are reflected both in the co-authorships in our research publications and in the
+ joint research projects with academic colleagues in other institutions.
+
+ Publications
+ It can, indicatively, be mentioned that in 87 publications of our staff in international journals and
+ conferences in 2018, 73 (84%) were co-authored with one, or more, academics from other
+ Institutions. In particular, 33 articles (34% of this category) had co-authors from other UK
+ Universities, 33 articles (34% of this category) had co-authors from European Universities and
+ 29 articles (32% of this category) had co-authors from international Universities (mostly from
+ China, USA, Australia). This is an evidence that SoCS has a strong presence in research both at
+ national and at European and international level. Many publications originate from participation
+ of our Academics in international projects. We are especially expanding to Asian markets,
+ working closely with UoL’s Department on International Collaborations.
+
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+ Networking
+ UoA11, through L-CAS is member of EPSRC Robotics and Autonomous System Network, and
+ euRobotics AISBL, a non-profit association for all stakeholders in European robotics. It has a
+ large network of collaborations, including: ABB, major UK-based robotic supplier; Stelram,
+ small specialist UK developer of robotic solutions; Saga Robotics, CBS Ltd.; National Centre for
+ Nuclear Robotics; University of Sydney’s Australian Centre for field Robotics; HMV Catapult.
+
+ L-CAS and LAR have a large collaboration network: Littleport Mushroom Farms, a major UK
+ mushroom supplier; Berry Gardens Growers and Ekeberg Myhrene; Collaborative Training
+ Partnership for Fruit Crop Research; NIAB EMR; NERC centre for Ecology and Hydrology;
+ Chinese Academy of Meteorological Sciences; Punjab Agricultural University; UK Agri-EPI
+ Centre; ASDA; Food and Drink Federation, OAL Group; National farmers Union; Environment
+ Agency. L-CAS leads the EPSRC network on Internet of Food Things
+
+ Through LoVE, UoA11 collaborates with major hospitals in NHS and abroad: Christie NHS
+ Foundation Trust, UCL Hospitals NHS Foundation Trust, Cambridge University Hospitals NHS
+ Foundation Trust, Moorfields Eye Hospital, London, St George's Hospital, Churchill Hospital
+ Oxford, Karolinska University Hospital, Sweden, Center for Proton Therapy, Paul Scherrer
+ Institute, Switzerland, Breast Cancer Screening and Prevention Center, Julies Bordet Institute,
+ Brussels, also with Cancer Research UK.
+
+ UoA11, through Mlearn, is a member of many European AI Initiatives: Confederation of
+ Laboratories for AI Research in Europe (Claire); ‘Europeana’ ecosystem on Digital Libraries; UK
+ Computational Statistics and Machine Learning Network.
+
+ IntLab is leading the Lincoln Game Research Network and is linked to the Digital Game
+ Research Association.
+
+ UoA11 has also developed strong collaborations with other UK Academia, e.g. Universities of
+ Cambridge, Cranfield, Surrey, Liverpool, Manchester, Leeds.
+
+ Partnerships
+ UoA11 groups and individuals have created key partnerships with Universities and Research
+ Centres at international level, such as: with Norway in the robotics and agricultural field; with
+ China in medical imaging and machine learning field; with Greece in machine learning and
+ medical image analysis. These have been the basis for collaborating in joint projects, for
+ developing common research outputs and for reaching greater impact.
+
+ We are also in partnership with the KDU Penang University College in Malaysia, which has led
+ to common publications, research exchanges and new research collaboration possibilities,
+ focusing on machine learning and robotics.
+
+ 4.2 Relationships with Users, Beneficiaries and Society
+
+ UoA11 consistently collaborates with organisations beyond Higher Education, including users
+ and beneficiaries of the developed research outcomes and the society.
+
+ Examples of implementation of this strategy include various robotics projects that L-CAS used to
+ engage children in STEM: for example, in the 2016 and 2017 EU-funded LiGHTS festivals,
+ brought hundreds of children onto UoL campus, to meet and interact with SOCS robots. One
+ specific initiative was a collaboration with the Johnson and Mukherjee Brothers Trust to run an
+ activity for about 200 primary school children across 14 schools in Lincolnshire specifically
+ focused on AI and Robotics, intended to widen participation and raise aspirations for
+ disadvantaged children.
+
+
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+ SoCS has strong links with the University’s Autism Research and Innovation Centre, where
+ there are specific efforts to employ autonomous robots and affective assistants in the support of
+ educational and therapeutic activities for both children and adults with autism.
+
+ LoVE has a long standing collaboration with NHS Trusts, Health Charities and patient groups.
+ There were presentations, e.g., in Royal Society Summer Science Exhibition, in Science
+ Festivals such as Gravity Fields, and others to leading manufacturers under NDAs, towards
+ translation of technologies into commercial and practical healthcare environments, and to
+ diverse groups such as charities and patient groups.
+
+ Mlearn has a close collaboration with Europeana, the European Digital Library and its network of
+ Cultural Institutions all over Europe, as well as with the Michael Culture Association. Through
+ these relationships the developments on cultural data enrichment and creative reuse reach
+ researchers in the educational, cultural and creative sectors.
+
+ LAR targets developing RAAI technologies for agri-food and boosting agricultural productivity,
+ with great impact on persons working in the agriculture or the food supply chain. LAR aims at
+ using existing networks of farms for validation and adoption of the developed technologies, as a
+ first step towards spreading the results towards the whole agricultural field.
+
+ 4.3 Wider Contributions to Research Base
+
+ The Academics of the School of Computer Science greatly contribute to the Computer Science
+ and Informatics discipline and the research fields of UoA11.
+ In particular:
+
+ Prof. T. Duckett is Fellow of the Royal Society of Arts and full EPSRC College member. He is
+ leading the EPSRC CDT and is Joint Director of LAR. He chaired the 7th European Conference
+ on Mobile Robots, Sept. 2-4, 2015 at Lincoln and the UKRAS conference, April 17, 2020.
+ Prof. M. Hanheide was the Lead of the STRANDS Project Summer School on “Long-Term
+ Autonomy for Mobile Robots”, Aug. 27 – 31, 2015.
+ Prof. S. Yue co-organized INNS-BigData Conference in San Francisco, Aug. 8-10, 2015, and
+ gave keynote speeches at i-Create, 14-18 July, Shanghai China and ICAMechS, 28 Aug. - 02
+ Sept 2018, Zhengzhou China.
+ Prof. E. Sklar, Research Director of LAR, has been Head of the Centre of Robotics research at
+ King’s College London 2017-19, having spent more than 10 years in industry in USA. She is
+ Founder Trustee of the RoboCup Federation. Her research was funded by US NSF, US
+ Department of Education, US Army Research Lab, EPSRC and ESRC.
+ Prof. X. Ye has been a panel member of EPSRC Peer Review full College, and received
+ recognition for an outstanding contribution to EPSRC Peer Review in 2018; she is also a panel
+ Member of British Council Peer Review and the UKRI Future Leaders Fellowships Peer Review
+ College.
+ Prof. S. Kollias is Fellow of the IEEE (since 2015) and has been a member of the Executive
+ Committee of the European Neural Network Society (2007-2016), General Co-Chair of 5
+ Conferences, Programme Committee Member in 40 Conferences and Associate Editor in 20
+ Journals. He is member of recent EU AI initiatives (AI Alliance, Claire NoE, Europeana Pro).
+ Prof. S. Parsons, Global Professor in Machine Learning, has held academic positions at Queen
+ Mary and Westfield College, Massachusets Institute of Technology, City University NY,
+ University of Liverpool and King’s College London. He has been leading application of AI in
+ agriculture and medicine, focusing on complex decision making and explainability.
+ Dr. T. Lambrou has many journal editorships and board memberships, e.g., in Informatics in
+ Medicine, Radiology of Infectious Diseases and Computers in Biology and Medicine. Together
+ with Dr. N. Bellotto, they organized the BMVA Computer Vision Summer School, in 2017 and
+ 2019. Dr T. Lambrou and Prof X. Ye collaboratively organized the 19th Medical Image
+ Understanding and Analysis Conference (MIUA) at the University of Lincoln in July 15-17, 2015.
+ They are both members of the Steering Committee of MIUA Conference.
+
+
+                                                                                           Page 15
+Unit-level environment template (REF5b)
+ Dr. P. Dickinson was General Co-chair of the 2015 British Human Computer Interaction
+ Conference. Dr. J. Holopainen was a member of the Executive Board of the Digital Games
+ Research Association (2014 – 2019), Program Chair of the 9th International Conference on
+ Intelligent Technologies for Interactive Entertainment (2017), and Associate Chair for CHIPLAY
+ Conference (2018-2019). Dr. J. Holopainen and Dr. C. Headleand are active in Higher Education
+ Videogame Alliance and Game Development Educator Network.
+ Dr. V. Cutsuridis has edited 5 books, including the ‘Hippocampal Microcircuits: A Computational
+ Modeler’s Resource Book and the Perception-Action Cycle: Models, Architectures and
+ Hardware’. He acts as an Associate Editor in several international journals including Cognitive
+ Computation and Frontiers in Cognitive Science.
+
+
+
+
+                                                                                        Page 16
+

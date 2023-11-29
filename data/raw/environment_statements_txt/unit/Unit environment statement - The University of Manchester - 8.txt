@@ -1,0 +1,1218 @@
+Unit-level environment template (REF5b)
+ Institution: University of Manchester
+
+ Unit of Assessment: 8 (Chemistry)
+
+ 1. Unit context and structure, research and impact strategy
+ Overview
+ The core mission of the Department of Chemistry is to advance chemical knowledge, and to use
+ that knowledge to overcome challenges facing society. Underpinning this mission is the strategic
+ aim to sustain world-class ability in fundamental chemical research, including: nurturing brilliant
+ early career researchers (ECRs); encouraging a culture of openness and diversity; provision of
+ cutting-edge infrastructure; reaching out to other disciplines, industry, public services, policy
+ makers and the general public.
+ The Unit is within the Faculty of Science and Engineering (FSE). Research is based in four
+ buildings: the Chemistry Building, Manchester Institute of Biotechnology (MIB), Dalton Cumbrian
+ Facility (DCF) and the Photon Science Institute (PSI). The Department is one of the largest in the
+ world with >70 permanent academic staff, >360 PhD students, >160 postdoctoral researchers,
+ >50 M.Sc. researchers and >120 M.Chem project students every year. We host >80 international
+ visitors every year at senior and ECR level.
+ Highlights since REF2014 include:
+   Open research awards from UKRI as PI >£76 million(M) on 31/07/2020.
+   A Royal Society Research Professorship to Leigh (2016-).
+   Seven ERC Advanced Grant Holders (Flitsch, Larrosa, Leigh, Leys, Schröder, N.Turner and
+    Winpenny); this is the largest accumulation of ERC AdGs in Europe.
+   Election of Morris, Scrutton and N.Turner as Fellows of the Royal Society (FRS), joining Leigh.
+   Queens Anniversary Prize award (2019) to MIB for pioneering expertise in industrial
+    biotechnology (IB).
+   Award of thirty-two RSC prizes, including nine in 2020.
+   Thirty-two appointments have been made, ten at professorial level. Eleven of these new
+    colleagues hold externally funded fellowships.
+   A £55M investment in refurbishing the Chemistry building, including a new Centre for
+    Radiochemistry Research (CRR) that will host a National Nuclear User Facility (NNUF2)
+    enabling synthetic transuranic chemistry in the UK.
+   Leadership of multiple multi-institute initiatives in engineering biology/biotechnology including
+    BBSRC/EPSRC SYNBIOCHEM Centre (£10.2M) and the EPSRC Future Biomanufacturing
+    Research Hub (FBRH, £10M from UKRI and £5.7M from industry).
+   Multiple UKRI equipment awards giving world-leading capability in X-ray diffraction, NMR and
+    EPR spectroscopy, mass spectrometry (MS), magnetic characterisation, and radiochemistry.
+    Industry has invested in new mass spectrometers and The University of Manchester (UoM)
+    has invested in a characterisation suite for porous materials.
+   Access to new multidisciplinary facilities within the National Graphene Institute (NGI, opened
+    2015), the Graphene Engineering Innovation Centre (GEIC, opened 2018) and the Henry
+    Royce Institute (Royce, operational since 2020).
+   >2200 outputs including >80 papers in Science or Nature group.
+ All statements in this document refer to the assessment period (01/08/2013 – 31/07/2020) unless
+ otherwise stated.
+ Research structure
+ The Head of Department (HoD) delegates research strategy to a Director of Research and line
+ management to six heads of research groupings: Analytical methods and physical chemistry
+ (AMP), Chemical biology and biological chemistry (CBBC), Computational and theoretical
+ chemistry (CAT), Inorganic chemistry (INO), Materials chemistry (MAT), and Organic chemistry
+ (ORG). Staff are encouraged to work across groupings. Colleagues who work closely together,
+ have on occasion, been placed in different groupings to increase cross-fertilisation of ideas.
+
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+ Research strategy
+ After REF2014 we reviewed and simplified our strategy under a new Head of Department. We:
+        adopted a new structure to integrate staff joining us from the Faculty of Life Science;
+        adopted a structure that maintains strengths in core chemistry (e.g. INO and ORG) while
+         growing activity at the interfaces (e.g. with CBBC and MAT) and that attracts new staff and
+         that enables all staff to develop their own disruptive ideas;
+        promoted a diverse portfolio of research grants ranging from fellowships to large
+         collaborative grants;
+        internally peer-reviewed submission of manuscripts to increase the quality of outputs;
+        embedded EDI (Equality, Diversity and Inclusion), e.g. strong participation in the FSE
+         Dame Kathleen OIlerenshaw Fellowships;
+        identified opportunities for impact and supported these through sabbaticals and targeted
+         funding;
+        used UKRI strategic equipment funds, industry and Royce to improve infrastructure.
+ We believe research leadership must let researchers flourish by letting them pursue their own
+ goals and develop their own collaborations. Where close collaborations build a powerful team we
+ encourage such teams to grow, for example in biotechnology, molecular magnetism, catalysis.
+ Implementation details are given in Section 3. We have moved out of some areas or transferred
+ elsewhere (e.g. environmental radiochemistry is now within the Department of Earth and
+ Environmental Sciences).
+ Our research strategy is not driven by statistics, which never capture the whole picture, however
+ the indicators in Table 1 reflect the success of our staff over the REF2021 period. On 31/07/2020
+ researchers in the Department of Chemistry held >£76M in open peer reviewed UKRI grants as
+ PIs (Table 1). These numbers place us first among UK Chemistry departments for EPSRC,
+ BBSRC and overall UKRI grants. At REF2014 we reported £43M in open grants, which included
+ European and industrial funding.
+  Table 1. Open UKRI research awards,a ERC awards and Nature index on 31/07/2020 for
+  the Unit
+  Institution      Value           Value            Total   UKRIb ERC awards        Nature Indexc
+                   EPSRC/£         BBSRC/£          /£
+  Manchester       52,838,994      22,219,003       76,577,522      12              3
+ a. Data from https://gtr.ukri.org on 24/02/21; the numbers exclude eleven EPSRC, five BBSRC
+ and one NERC awards totalling £5,839,100, £2,473,485 and £5,966 respectively with start-dates
+ post 31/07/20.
+ b. Also includes NERC and STFC.
+ Manchester was third in the UK in the 2020 Nature index for Chemistry, based on outputs in
+ leading journals (https://www.natureindex.com). For Unit papers assigned to the Chemistry
+ subject category by SciVal (1594 papers), 20.5% are in the top 10% most cited.
+ Progress since REF2014 and how our plans have been implemented
+ Shortly after REF2014 a university restructure added twelve colleagues in biological chemistry;
+ we restructured internally to bring together strengths in biological chemistry and revised our
+ strategy under a new Head of School. Refurbishment of the Chemistry Building was an objective
+ in REF2014. This is underway (completion 2024) and will provide expanded synthetic laboratory
+ space and a brand new CRR, able to handle trans-uranic elements; this will form a NNUF2.
+ We targeted increasing our involvement with industry and our success is noted below.
+  AMP: We have grown three strategic areas, where we are either unique or world-leading. We
+ have discontinued gas phase physical chemistry as we were no longer competitive.
+ In NMR, methodological developments include “pure shift”, which increases chemical resolution
+ by almost an order of magnitude, and further increases the power of DOSY for mixture analysis.
+ An open-source software package for data analysis has been downloaded >1000 times to date.
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ New methods have been developed for identifying low-level impurities in pharmaceuticals, and for
+ quantitation and for mixture analysis. NMR research in life processes has advanced understanding
+ in protein conformation changes, enzyme catalysis of phosphate and methyl group transfer, and
+ aggregation and amyloid formation. Biotherapeutics that remove amyloids have been studied. A
+ 700 MHz NMR spectrometer with unique reaction monitoring capabilities was obtained as EPSRC
+ strategic equipment.
+ Within MS, new methods have been developed for biology and medicine, including early-stage
+ diagnosis of Parkinson’s disease (PD). We have established facilities for massive data storage
+ and manipulation for synthetic biology. Use of TOF-MS for surface imaging is being developed
+ within the Royce, funded by the EPSRC Strategic Equipment Fund. WatersTM (www.waters.com)
+ fund our Chair of MS.
+ The DCF is a unique £28M facility for radiation chemistry research geographically near the nuclear
+ industry; this delivers impact within the UK’s nuclear programme. Researchers from >30
+ universities and >30 companies collaborate with DCF, with >100 international visitors in 2019.
+ DCF-based researchers have measured and modelled pressurisation of storage cans by
+ hydrogen. Other studies have examined radiolytic formation of hydrogen in storage ponds
+ containing sludges derived from Magnox cladding. Additional funding of £2.2M (largely from
+ Royce) has been obtained to upgrade the analytical facilities in DCF.
+ Published highlights: development of ultra-high-resolution pure shift NMR and its extension into
+ DOSY and TOCSY (Angew. Chem. Int. Ed. 2014, 53, 6990; J. Am. Chem. Soc. 2014, 136, 11867);
+ discovery of volatile biomarkers of PD (ACS Cent. Sci. 2019, 5, 599); enhanced ion yields from
+ TOF-MS (Anal. Chem. 2015, 87, 2367).
+  CAT: After retirements (Hillier, Connor) we are building around three areas: electronic structure,
+ especially of heavy elements; biological processes; advanced materials. We recruited:
+ Kaltsoyannis as a leader in electronic structure of heavy elements, linked to the nuclear industry
+ for example through the multi-disciplinary DISTINCTIVE and TRANSCEND consortia, both involve
+ universities and industry working on decommissioning and waste management; Skelton (UKRI
+ FLF) studies lattice dynamics in advanced materials, linking to Royce; Chilton (RS URF and ERC
+ StG) provides theoretical insight into molecular magnetism. These new appointments add to
+ existing strengths modelling biological processes and method development (Popelier).
+ CAT maximises impact by making software available: detection of key atoms governing chemical
+ processes (Popelier); <PHI> downloaded by ~9,000 users in 88 countries to model magnetic data
+ (Chilton); tools and workflows for studying heat transport (Skelton).
+ Published highlights: enzyme catalysis (Nature 2019, 574, 722; J. Am. Chem. Soc. 2020, 142,
+ 10240), understanding of U-M bonding (J. Am. Chem. Soc. 2016, 138, 3333), phonon mapping in
+ Bi2Sn2O7 (Chem. Sci. 2020, 11, 7904), high blocking temperatures in molecular magnets (Nature
+ 2017, 548, 439).
+  CBBC: This group integrates world-leading activity in biocatalysis, protein engineering,
+ synthetic biology and biomanufacturing, and fundamental interdisciplinary biosciences. The main
+ focus is on IB. We have uniquely established:
+    1) a fully integrated and operational foundry for microbial production of fine and speciality
+       chemicals through the SYNBIOCHEM Centre (£10.2M, Scrutton, Takano, N.Turner 2014-
+       21);
+    2) the EPSRC Future Biomanufacturing Research Hub (FBRH, £10M UKRI and £5.7M
+       industry, Scrutton, 2019-27) coordinating UK academic, High Value Manufacturing
+       catapult, and industrial capabilities to enable the complete biomanufacturing innovation
+       pipeline in pharmaceuticals, value-added chemicals, engineering materials, and advanced
+       biofuels;
+    3) four networks in the UK biotechnology and bioenergy sector through BioCatNet
+       (N.Turner), IBCarb (Flitsch and Field), NPRONET (Micklefield) and the EU-funded network
+       CarboMet (Flitsch) (BBSRC funded, 2014-19).
+ We have been awarded the Queen’s Anniversary Prize for Higher and Further Education (to MIB,
+ 2020) and three ERC Advanced Grants. Scrutton and N.Turner were elected FRS in 2020. Notable
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ recent grants include the Wellcome Director’s award (£10M total, £3.3M to Manchester, Cai) and
+ a Royce award for rapid protein evolution (£2.1M, Green and Scrutton). We network with 115
+ industrial partners (international pharmaceutical, chemical and energy companies), such as GSK,
+ AstraZeneca, BASF, DSM, Codexis, Dr Reddys, Merck, Syngenta, Shell, and Prozomix. From
+ these we have secured significant industrial investment, e.g. FBRH (£5.7M), CoEBio3 (£3.2M),
+ Shell partnership (£2.5M), and Prosperity Partnership (£3M). Since REF2014, our research has
+ also led to spin-out companies, including BioShape (Flitsch/Barran), C3 Biotech (Scrutton) and
+ Iceni Diagnostics (Field).
+ Published highlights: Enzyme catalysis (Nature 2015, 522, 497; Nature 2016, 539, 593; Nature
+ 2019, 574, 219; Nature Catalyst 2018, 1, 977); structural biology (Nature Chemical Biology 2017,
+ 13, 975); protein engineering (Nature 2019, 570, 219); and synthetic biology (Science 2017 355,
+ 1040; Science 2016 353, 126; Proc. Natl. Acad. Sci. 2017 114, 1470).
+  INO: Liddle was recruited to lead, and to strengthen f-block chemistry and molecular magnetism.
+ 2020 appointments (Mehta and Willcox) will build activity in homogenous catalysis, linking to ORG.
+ Yang was appointed, alongside Schröder (in MAT), to refresh activity in porous materials.
+ Research on radiochemistry led to an NNUF2 award (£4.2M) to establish a capability to make and
+ to study complexes of the trans-uranics. Research on porous materials has been highlighted in
+ the “UK Research and Development Roadmap” (1/7/2020, p47) as an example of UK ground-
+ breaking technology impact. The EPSRC National EPR Facility and Service was renewed in 2014
+ and has been used to study science from polysaccharide cleavage to actinide covalency. The
+ molecular magnetism group published reports of the highest blocking temperatures and energy
+ barriers in single-molecule magnets (SMMs).
+ Published highlights: a paradigm-challenging study of --back-bonding between uranium and a
+ poor -acceptor (Nature Chem. 2019, 11, 806); isolation of metallocene anions (Nature Chem.
+ 2020, doi.org/10.1038/s41557-020-00595-w); a direct measurement of covalency in actinides
+ (Nature Chem. 2017, 9, 578); new selective biomass conversions (Nature Mater. 2020, 19, 86);
+ new zeolites with active sites to purify ethylene (Science 2020, 368, 1002); metal-organic
+ frameworks (MOFs) that can uniquely and reversibly adsorb highly corrosive NO 2 (Nature Mater.
+ 2018, 17, 691).
+  MAT: We have refreshed the area in porous materials, appointing Schröder, and built on
+ strengths in 2D-materials (Keerthi, linked to NGI/GEIC). We are developing sustainable materials
+ linking to Royce. Collaborations are strong with the BP International Centre for Advanced
+ Materials (BP-ICAM). One BP-ICAM project helped reduce wear in automotive engine
+ components with a direct impact to BP of $1-10M (ICAM 2018 annual report). A collaborative
+ project (ICAM15 and ICAM24) with Cambridge, Imperial and Illinois universities contributed to the
+ development of a new fuel additive (Active Technology) for BP Ultimate Fuels.
+ A multi-user “energy lab” has been set-up within the NGI (Dryfe), capable of small-scale battery
+ and supercapacitor cell fabrication; this supports both internal and external industrial users. Dryfe
+ also designed a dry room and facilities for larger-scale device fabrication within the GEIC.
+ The Organic Materials Innovation Centre (OMIC, led by M.Turner) has built strong links in
+ sustainable materials to Shaver (new appointment, Materials) and new staff are being recruited in
+ organic electronics. New membrane science has been developed collaborating with Newcastle,
+ Imperial, Edinburgh and Bath. We have extensive industrial collaborations on: graphene-based
+ barrier materials with TWI Ltd; graphene-based coatings with Hempel; composites with Petronas.
+ Molymen (based in GEIC) has been spun out from Dryfe’s lab, to develop water filtration
+ membranes based on 2D-materials. Chromition and SciTron as spin-outs have arisen since 2014
+ and polymers of intrinsic microporosity (PIMs) have been licensed to 3M.
+ The materials activity at DCF has studied radiation effects in spent nuclear fuel recycling within
+ the ATLANTIC consortium (involving 12 UK universities), and the BEIS Advanced Fuel Cycle
+ Programme.
+ Published highlights include: ballistic transport through 2D-channels (Nature, 2018, 558, 420);
+ water-based biocompatible 2D-crystal inks for ink-jet printing (Nature Nanotech., 2017, 12, 343);
+ a unified kinetic three-dimensional partition model to predict crystal growth (Nature, 2017, 544,
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ 456); separation of hydrocarbons in a functionalised MOF (Nature Chem. 2015, 7, 121); sieving
+ hydrogen isotopes through 2D-crystals (Science, 2016, 351, 68).
+  ORG: has built on strengths in three areas: homogeneous catalysis (recruiting Larrosa, Leonori);
+ mechanistic study of reactions (Bures); supramolecular chemistry by developing
+ mechanochemistry (De Bo). Our excellence led in 2018 to an EPSRC Centre for Doctoral Training
+ (CDT) in Integrated Catalysis (https://www.icat.manchester.ac.uk, ca. £5.94M from EPSRC with
+ further support from Arcinova, AstraZeneca, Bayer, Bristol-Myers Squibb, Concept Life Sciences,
+ GSK, and others), and links to bio-catalysis within CBBC and chemical engineers from
+ Manchester.
+ Supramolecular chemistry and molecular robotics are led by Leigh (Royal Society Research
+ Professorship and EPSRC programme grant). Major progress has been made in designing
+ programmable machines, and using knots to interlock complex structures.
+ Published highlights include: a programmable molecular machine that can build molecules
+ stereoselectively (Nature 2017, 549, 374); the 2D weaving of polymer chains (Nature, 2020, 588,
+ 429); the use of visible light to drive sustainable catalytic processes (Science 2020, 367, 1021);
+ catalytic methods for late-stage modification of pharmaceuticals (Nature Chem. 2018,10, 724); the
+ taming of highly reactive free-radicals for complex molecule synthesis (Nature Chem. 2017, 9,
+ 1198); development of a new mathematical treatment for the analysis of reaction kinetics (Angew.
+ Chem. Int. Ed. 2016, 55, 2028).
+ Future strategy 2021 - 2026
+ Building on 2014 - 2020 our departmental strategic aims are:
+    1. Complete the Chemistry building renovation (cost £55M, delivery date 2024). This will
+       provide new synthetic space for our >200 synthetic researchers in addition to the CRR.
+    2. Achieve ever greater translation of our world-leading biotechnology into biomanufacturing;
+       the new EPSRC FBRH is core to this ambition.
+    3. Bring together research in catalysis, integrating bio- and small molecule catalysis within
+       the Department, and heterogenous catalysis (e.g. Hardacre, Chemical Engineering and
+       Analytical Science (CEAS); Haigh, Materials).
+    4. Establish the CRR and DCF as linked NNUFs contributing to our fundamental
+       understanding of trans-uranic chemistry and impacting the nuclear industry.
+    5. Demonstrate the potential of molecular robotics and molecular weaving to provide
+       revolutionary nanotechnologies and materials.
+ Plans for each of our research groupings are:
+  AMP: We will target ultraclean high-resolution NMR spectra at high dynamic range, with
+ applications in pharmaceuticals. This includes real-time reaction monitoring, including
+ heterogeneous reactions; improved tools for 19F NMR; new approaches to quantitation in
+ mixtures.
+ Novel MS instrumentation will be developed for monitoring reactions, mapping soft and hard
+ materials and determining the structure and dynamics of large molecules. We will increase the
+ throughput and sensitivity of multi-omics MS, incorporating microfluidics and machine learning.
+ We will establish a centre for MS diagnostics and prognostics focussing on neurodegenerative
+ and infectious disease, and work with the industry led Community of Analytical and Measurement
+ Science (CAMS) to train new mass spectrometrists.
+ Automation will increase at DCF, leading to greater sample throughput, and strengthening links to
+ nuclear industry partners, including reactor chemistry, spent fuel recycling and
+ synthesis/modification of materials by radiation. New capability in modelling radiation chemistry
+ will be developed for application in the nuclear and healthcare industries.
+  CAT: Further recruitment will target three areas: development of quantum methods; molecular
+ dynamics at larger scales (with CBBC and MAT); calculations of catalytic processes (with ORG,
+ CBBC and INO). CAT will expand The University of Manchester’s (UoM) flagship computer CSF3
+
+                                                                                            Page 5
+Unit-level environment template (REF5b)
+ and invest in cloud computing and in a new massively-accelerated GPU system (with the N8 HPC
+ Consortium). Scientific ambitions include multiscale structure-stability methods for solvated
+ macromolecular assemblies; a flexible, multipolar polarisable, fully quantum-based protein force
+ field; control of vibronic coupling in SMMs, qubits and phosphors; detailed understanding of
+ transuranic chemistry; study of enzymatic reaction mechanisms; predictions concerning
+ thermoelectric materials, polymorphism in molecular crystals, thermal control in battery electrodes
+ (with Faraday Institute).
+  CBBC: We aim to become the national centre for Biocatalytic Pharmaceutical Manufacturing
+ with further industrial collaborations. This strategy aligns with the government’s agenda to develop
+ and reshore pharmaceutical manufacturing, and to ‘build a Northern Powerhouse’. Our current
+ partnership with the Bill & Melinda Gates Foundation and our strong existing links with the national
+ Centre for Process Innovation and The Medicines Manufacturing Innovation Centre places us to
+ lead these initiatives.
+ In Synthetic Biology, we will diversify and scale-up biosynthetic methods and metabolic
+ engineering by connecting fundamental research in microbial genetics, directed evolution and
+ enzyme engineering through synthetic biology, engineering biology, robot-enabled genetic
+ manipulation, flow catalysis and industrial scale-up. This will link with the FBRH. Our overarching
+ ambition is to build partnerships across the energy, materials, personal and health care,
+ pharmaceuticals, and bulk chemicals sectors, to maximise the impact of biotechnology,
+ biocatalysis and synthetic biology.
+  INO: We will develop major transuranic capabilities in the new CRR using an integrated suite of
+ gloveboxes and characterisation equipment. We will target neptunium and plutonium analogues
+ of established thorium and uranium complexes, with two principal strands: (i) covalency of actinide
+ bonding using metal-ligand multiple bonds as exemplars; (ii) with the National Nuclear Laboratory
+ (NNL) study speciation of coordination complexes relevant to the nuclear fuel cycle and
+ environmental behaviour.
+ We aim to renew the EPSRC National Research Facility (NRF) for EPR Spectroscopy (ca. £5M
+ due 2021). EPR will be used to study actinide covalency. The molecular magnetism group will use
+ EPR to study potential qubits with European collaborations targeting performance of 2- and 3-
+ qubit gates and develop strategies using nuclear spin to perform error correction. We will also
+ study relaxation within SMMs and behaviour on surfaces using advanced X-ray spectroscopies
+ (with Baker, AMP). A major aim is to build SMM-based devices using established European
+ collaborations.
+ We will grow activity in catalysis, including: use of heterobimetallic complexes; main group cages;
+ low coordinate f-block complexes. This will involve strong collaboration with ORG.
+  MAT: We will recruit new staff to replace key staff (O’Brien, Yeates). The first, Romanov (RS
+ URF) with expertise in OLEDs arrived after 31/07/2020. Strong interactions will be built with
+ Royce; e.g. investment (£3.6M) in sustainable materials involves M.Turner, and further posts will
+ be recruited in 2021. Sustainable materials will also link to FBRH. Dryfe will occupy new tailored
+ “dry rooms” to develop energy storage technology in Royce.
+ New inks based on 2D-materials will be made (Casiraghi). New photoactive materials will be
+ developed (M.Turner, Romanov) and integrated with devices. New resist materials for
+ nanofabrication will be exploited (Winpenny). We will study the new chemistry that can emerge
+ from reactions in confined spaces (Keerthi).
+ The OLED and resist work will be translated through spin-outs, Chromition and Sci-Tron, both
+ supported by Innovate UK. The digital histopathology screen platform developed by the former,
+ offers the potential to detect cancer in a single biopsy and is being developed with the Greater
+ Manchester Academic Health Science Network. Resists licensed to Sci-Tron are being studied by
+ US industrial partners.
+  ORG: “Molecular robotics will be one of the next major scientific areas” was predicted in The
+ Scientific Report issued around the Nobel Prize in Chemistry in 2016. Through the Leigh group
+ we aim to remain at the forefront of this field, developing scientific tools and strategies to provide
+ revolutionary molecular nanotechnologies. Over the next decade we aim to: use molecular robots
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ to move and build things; programme the robots for specific tasks, including tasks impossible with
+ conventional technology. We plan to build on recent breakthroughs in molecular knotting and
+ weaving to lead a new area of woven molecular materials.
+ Within catalysis, we will become a centre of excellence for radical and photo-catalysis (Greaney,
+ Leonori, Procter) and aim to become world leaders in understanding of catalytic reaction
+ mechanism (Larrosa, Bures). We will use mechanical control to initiate catalytic processes (De
+ Bo). This activity underpins the CDT in Integrated Catalysis and involves strong collaboration with
+ CBBC and INO.
+ Enabling impact
+ Working towards impact is integral to our research, aligned with the University strategy given in
+ the Institutional Statement (IS) section 2.iv:
+      Research group leads are challenged to produce plans and show impact for their
+         groupings, and this challenge is passed down to individual academics.
+      PhD studentships with significant industrial co-funding are supported.
+      Knowledge transfer is one of four promotion criteria, with equal esteem to research (section
+         2.iv, IS).
+      Sabbaticals are awarded that allow spin-outs to develop.
+      Our Workload Allocation Model (WAM) recognises industrial engagement.
+      We encourage staff to bring industrial partners into grant applications.
+      Departmental services are available to local industries, especially SMEs, building links.
+      The Unit works with the University’s Knowledge Exchange team obtaining EPSRC Impact
+         Accelerator Awards, Impact Fellowships and Knowledge Transfer Partnerships; 10, 1 and
+         6 were awarded respectively between 2014 and 2020.
+      Visiting professorships from significant industrial partners are supported, e.g. Kai Baidenus
+         (BASF), Joe Adams (GSK).
+      Invention disclosures are discussed with the University of Manchester Innovation Factory
+         (UMIF), which provides proof-of-concept funding and supports patent applications.
+ In AMP all three major sub-groupings, NMR, MS and DCF interact with >60 industrial partners.
+ This ranges from supporting a Chair (Barran) and buying equipment (Allergan, MS) to fully funding
+ projects (typically in DCF) and PhD studentships (all). Analysis software is made available through
+ an industrial partner (NMR).
+ In CAT we have strong impact through freeware. Direct involvement with the nuclear industry
+ (NNL, NDA, Sellafield Ltd, Cavenish Nuclear, AWE, TÜV SÜD) is achieved by Kaltsoyannis’
+ involvement in major consortia.
+ In CBBC industrial involvement includes multiple large grants with substantial industrial
+ contributions, and networks with industrial partners. PhD studentships are funded by industry
+ through UKRI Case studentships, CDT programmes, CoEBio3 industry club. A Director of
+ Commercialisation drives industry engagement.
+ In INO there are major interactions with the nuclear industry (NNL, NDA). The EPR NRF supports
+ a range of industrial partners, ranging from brewers to bulk chemicals.
+ In MAT there are multiple spin-outs and licensing agreements. OMIC was founded specifically to
+ develop and translate novel organic materials in partnership with local industries.
+ In ORG our CDT in Integrated Catalysis is supported by multiple industrial partners. PhD
+ studentships are partly or wholly industry supported. Training courses are delivered to industry.
+ Our selected six impact case studies demonstrate the value of our approach:
+  C4X Discovery: generating market-leading drug candidates from cutting-edge technology –
+ Almond was granted a secondment (80% to C4XDiscovery, 2010-2015) and a reduced teaching
+ load to facilitate impact.
+  Enabling radioactive effluent treatment and high hazard reduction at Sellafield and the
+ management of plutonium (2 cases): the Unit hosts facilities for working with radioactive materials
+ that during the assessment period were unique in UK academia. These enabled experimental
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+ work in support of the effluents impact case, and preparatory work for experiments with gram
+ quantities of plutonium that were carried out in NNL’s Central Laboratory, and contribution to the
+ plutonium impact case. Both impact cases were supported by the provision of PhD studentships.
+  New paradigms for 3D materials analysis using polyatomic projectiles: changing capacity and
+ industrial practice. Lockyer was granted sabbaticals (2 x 6 months, 2014 and 2015) to visit groups
+ in Japan to drive impact. Two PhD studentships were awarded in support.
+  DOSY and Pure Shift NMR: changing practice and performance in the chemical industry. Use
+ of an EPSRC Impact Accelerator Award to support a fellowship (ca. £74k) was vital. Reduced
+ teaching loads enabled external training courses to facilitate impact: 2017 Pureshift workshop;
+ 2018 DOSY NMR workshop (Campinas, Brazil); 2018 Advanced Practical NMR Methods course
+ (Stockholm University).
+  Sustainable chemical manufacturing through enzyme discovery, biocatalyst engineering and
+ education in IB: N.Turner was granted a sabbatical (2017-18) and a reduced teaching load (2013-
+ 2020) to develop industrial partnerships. UMIF led negotiations on licensing, including a license
+ with Prozomix to make all CoEBio3 biocatalysts commercially available.
+ There are other strong examples of impact: e.g. the use of PIMS in respiratory masks, technology
+ that is now licensed to 3M; diagnosis of PD by MS; exploitation of quantum dots via Nanoco.
+ Interdisciplinary research
+ Much of our research spans boundaries, reflecting the research interests of our (see above). For
+ example, interdisciplinary collaborations with materials scientists (Nature 2020, 588, 429) or
+ biologists (Science 2017, 355, 1049) or physicists (Science 2016, 351, 68) have produced
+ exceptional publications. SciVal classifies our outputs as: chemistry, 1594(70%); chemical
+ engineering 757(33.5%); biochemistry, 700(30%); materials science, 520(23%). Many outputs are
+ included in >1 category.
+ Departmental staff lead one of the University’s interdisciplinary research institutes, the MIB, and
+ are strongly involved in the Dalton Nuclear Institute, NGI, the PSI and Royce. The unit’s
+ research in MIB inspired UoM to chose IB as one of only five research beacons. Staff in the MIB
+ have won the RSC interdisciplinary prize in two of the last six years.
+ Explicit calls for PhD studentships exist between the Department of Chemistry and CEAS to build
+ links. We consider multidisciplinary candidates for all posts (e.g. Cai, Casiraghi, Takano). We
+ support appointments of chemists to other departments, including: Hardacre, Lee and Sarkisov
+ (all CEAS), Shaver and Lewis (both Materials). We have offered advice, allowed access to facilities
+ and supported grant applications from these chemists. Our appointment strategy builds strong
+ interdisciplinary links.
+ Specific interdisciplinary research was discussed above, and more details are given in Section 4.
+ Open research environment
+ We have closely followed the University’s policy (section 2.v, IS). For Open Access (OA) we also
+ support submission to the ChemRxiv for pre-prints. The department encourages sharing of
+ downloadable freeware.
+ The Library seeks to improve the discoverability of chemistry research, tweeting about open
+ access papers via its @UoMOpenAccess account. The University’s OA Innovation Fund covers
+ article processing charges (e.g. £19k in 2018/2019 alone). The Library provides research data
+ management support to researchers, completing outline checks and full reviews of data
+ management plans (section 2.v, IS).
+ Research integrity
+ We have closely followed the University’s policy (section 2.v, IS). All staff and PDRAs in the
+ Department undertake mandatory ethics training and online courses organised by the University.
+ As part of our PhD training programme, all postgraduate students must complete a bespoke,
+ chemistry-specific 5-hour online course on Research Integrity as provided by Epigeum. This
+ ensures our ECRs understand their professional responsibilities and promotes principles of Good
+ Research Conduct.
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ 2. People
+ STAFFING STRATEGY AND STAFF DEVELOPMENT:
+ A commitment to equality, diversity and inclusion (EDI) underpins our strategy; we have held an
+ Athena Swan Silver Award since 2013. The EDI profile of the Unit is given in Table 2. Twenty-
+ one staff have left since REF2014, including three to other units. We have increased the gender
+ and ethnic diversity of the staff.
+  Table 2. Comparative EDI statistics between REF2014 and REF2021
+  Category (Number)                       Female/%         BAME/%                International/%
+  The Unit REF2021 (75.3)                     18             10                         36
+  The Unit REF2014 (54)                       13              4                         13
+  % change in period                          +5             +7                        +23
+  Senior appointments in period (10)          10             20                         40
+  ECR appointments in period (22)             32             18                         50
+
+ Recruitment: Recruitment has EDI at its core. The language of all adverts is checked to ensure
+ it is not subconsciously biasing applications. All shortlists are required to have male and female
+ candidates represented unless impossible. All interview panels have male and female members.
+ All new posts are considered carefully, taking into account recent departures of staff, and the need
+ to grow or maintain strategically important areas. Since REF2014, we have decided against
+ appointments in specific areas (see AMP above) and moved staff resource to shape research.
+ The success of our policy can be seen in staff recruited. Senior appointments: Breitling, Cai,
+ Currell, Field, Pitt, Kaltsoyannis, Larrosa, Liddle, Schröder, Takano. ECRs: Adams, Baidak,
+ Baker, Birmingham, Bowen, Bures, Castanar, Chilton, De Bo, Green, Keerthi, Leonori, Lovelock,
+ Mehta, Palmer, Riddell, Skelton, Tripedi, van Munster, Walton, Willcox, Yang.
+ Our recruitment strategy delivers excellence, e.g. new recruits hold 17 fellowships between them.
+ Currell, Field and Liddle were recruited to lead DCF, MIB and INO, respectively. Kaltsoyannis
+ replaced Hillier in CAT. Larrosa replaced Clayden within ORG. We are recruiting in MAT to replace
+ staff that have departed since REF2014.
+ The demographics of the department remain good. In strategic areas, proleptic appointments are
+ made, e.g. NMR (Castanar), EPR (Bowen), porous materials/MOFs (Yang).
+ Staff development: Newly appointed staff are set challenging probationary objectives by line
+ managers for the three year probation period; fairness of objectives across the Department is
+ ensured by a Senior Mentor and the HoD. Progress is monitored by an annual Probation
+ Committee chaired by the HoD. New staff have a mentor (not the line manager) who provides
+ informal advice and assistance. All attend a New Academics Programme (NAP) at Faculty level
+ that provides training and leads to membership of the Higher Education Academy (section 3.3,
+ IS).
+ Researchers on five-year fellowships are also set probationary objectives and are transferred to
+ long-term positions at the end of their fellowships, subject to meeting these objectives.
+ On the rare occasion (~8% of cases) a probationary staff member makes insufficient progress
+ against objectives, this is discussed with the individual, line manager and mentor and further
+ training and mentoring immediately put in place.
+ Training: Training is discussed at an annual Personal and Development Review (P&DR). Funds
+ are provided for external management training events including Entrepreneurship training. We use
+ BBSRC funded Future Talent Mobility accounts to develop international collaborations. Equal
+ percentages of female and male staff take such training.
+ Once through probation, staff are trained for leadership roles by acting as “deputies” to research
+ group leaders or other senior management roles. We find “training through doing” works better
+ than just training courses; this approach is supported by academic research (e.g. Evans, “Implicit
+ and informal professional development”, https://doi.org/10.1080/19415257.2018.1441172).
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ Support for ECRs
+ We build from the university policy (section 3.3, IS). The University has received the HR
+ Excellence in Research Award from the European Commission.
+ The Unit provides ECRs with mentors, PhD studentships (typically two each since 2014), start-up
+ for small equipment, and travel funds for conferences and to establish collaborations (70% of
+ travel fund awards made have gone to female ECRs). ECRs have free access to departmental
+ analytical services such as NMR, X-ray, MS.
+ ECRs have a reduced teaching load (typically 50%) during probation. The University’s New
+ Academics Programme (NAP) provides training on writing research proposals. The Department
+ provides access to a database of successful proposals. All proposals are internally peer-reviewed
+ and mock interviews are mandatory for all fellowship applicants: a policy that is particularly
+ pertinent to ECRs.
+ There is an excellent programme of courses available from the Faculty (see PGR section below),
+ and all PDRAs have annual P&DRs at which training needs are identified. The award-winning
+ website, “An Academic Career”, was developed by the University of Manchester Careers Service
+ and provides outstanding support to ECRs. The Department established a Postdoc Committee in
+ 2012, run by postdocs, with a budget and guidance from the Director of Research. The Postdoc
+ Committee is largely autonomous and organises activities, e.g. regular coffee mornings, events to
+ support PDRAs with fellowship applications.
+ The quality of support offered is evidenced by >100 PDRAs from the Unit moving to academic
+ positions world-wide since 2014.
+ Sabbatical leave and fellowships
+ We value opportunities for staff to spend a period of time concentrating on research and strongly
+ encourage applications for external fellowships.
+ Sabbatical leave is considered annually for all eligible staff; a detailed plan is required, which can
+ be developing new research or teaching ideas, or developing impact. A family-friendly approach
+ is adopted, and sabbaticals may be taken locally. The Department’s sabbatical policy has
+ contributed to impact case studies. During the REF period, we have had at all times an average 4
+ FTE permanent staff on external research fellowships and 1.8 FTE on sabbatical.
+ External roles
+ The Department encourages staff to take external roles in academia, industry, and the public
+ sector. Flexible working, reduced workloads, sabbatical leave, and the provision of administrative
+ support are used to support such roles. 29 staff have held visiting professorships and influential
+ external roles including: the REF2014 and REF2021 panels (Flitsch; sabbatical leave) and ERC
+ starting grant review panel (Takano/Barran).
+ The Department welcomes visitors from academia and industry. For example, the strategic
+ appointment of Joe Adams (GlaxoSmithKline; Visiting Professor) played a key role in the
+ Department’s CDT bid in Integrated Catalysis. Vernon Gibson FRS is a Visiting Professor building
+ links to BP-ICAM. Since REF2014, the Department has hosted >100 senior academics from all
+ over the world.
+ Recognition and reward for research and impact
+ Promotion: Line managers proactively encourage applications and consider all staff for
+ promotion. The Personnel Committee helps develop paperwork before forwarding to Faculty. If
+ applications fail, feedback is given, and actions planned. During the REF period, there were 7
+ promotions to Professor, 13 to Reader, and 13 to Senior Lecturer level. Since REF2014, two staff
+ (both female) were promoted directly from Research Fellow/Lecturer to Reader.
+ Promotion considers career-breaks and part-time working. The Personnel Committee monitors
+ sabbatical applications and cases for additional increments. Women are as likely to hold senior
+ roles as men in the Department: in our 2017 Athena Swan return, 55% of female academics, cf.
+ 52% of male, were Professors. All female staff employed prior to 2016 hold promoted positions.
+
+
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+ The University’s promotion criteria explicitly include ‘Academic Enterprise and Knowledge
+ Transfer’ with parity to research. Major impact is rewarded by accelerated promotion and the
+ provision of resource, including PhD studentships.
+ Workload: Research income and supervision are recognised in our WAM. For our leading
+ researchers this means a light teaching load. We balance this through teaching-focused staff on
+ open-ended contracts who are tasked with developing our teaching, not just delivering it. Our
+ teaching is highly rated (>90% satisfaction at NSS for >10 years to 2019).
+ Prizes: Senior members of each research grouping are tasked with nominating colleagues for
+ external prizes and this is discussed at P&DRs. This is particularly important for female and BAME
+ staff to redress under representation in prize-winning.
+ RESEARCH STUDENTS:
+ Our procedures follow the University policy (section 3.3, IS).
+ PGR recruitment and funding
+ Recruitment follows University admissions policy.
+ Programmes and positions are advertised making clear
+ that we welcome applicants regardless of gender,
+ ethnicity, disability, sexual orientation and transgender
+ status. PGRs mostly approach supervisors directly
+ based on the reputation of the researcher. All
+ appointments are made on merit. All applicants are
+ interviewed by at least two academic members of staff
+ before appointment.
+ President’s and Dean’s Scholarships provide
+ outstanding international and national UGs the chance
+ to pursue a PhD in Manchester. The Unit has hosted          Figure 1. Breakdown of funding for PGR
+ 19 of these Scholarships since REF2014.                                    students
+ The Unit was home to 344 PGRs on 31/07/2020.
+ Chemistry’s PGR students are funded from a variety of sources, including 41% supported by UKRI
+ funding (see Figure 1) including multiple CDTs (see Section 4). “Other” includes A*STAR, alumni,
+ Royal Society, and MRC funded. PGR students hail from 46 countries, with 50% UK, 18%
+ EU/Europe, 10% China, 7% Saudi Arabia, 11% other Asia, and 4% from the Americas, Australia
+ and Africa.
+ Our Director of Internationalisation works with the Faculty and University to design and implement
+ an internationalisation strategy. A Faculty Summer School (4 weeks, started in 2019) promotes
+ Manchester and the postgraduate opportunities to overseas students. The University has targeted
+ recruitment in China, India, Hong Kong, Saudi Arabia, Nigeria, Malaysia and Mexico. This has led
+ to funded links, for example 2+2 programmes such as the Singapore A*STAR (12 Chemistry PhDs
+ to date) and Tsinghua 2+2 launched in 2020.
+ Monitoring and support mechanisms
+ PGRs are assigned a supervisory team consisting of a main and second supervisor, and a mentor
+ to offer pastoral support. Annual progression reviews ensure students are making adequate
+ progress; personalised training packages are devised for all PGRs. Our rigorous progression
+ threshold after year 1, assessed by an academic outside the supervisory team, ensures that PGRs
+ unlikely to complete a PhD, withdraw at an early stage.
+ PGRs present their research at the Department’s Annual PGR Conference twice: posters in
+ second year and talks in third year. Every year students also present posters on their research
+ and take part in a ‘3-minute thesis talk’ competition during the University Postgraduate Summer
+ Research Showcase.
+ Our Director for Postgraduate Studies is assisted by 1.5 administrators and chairs our
+ Postgraduate Committee with PGR representation. A web-based system records progression
+ milestones for each PGR. Disabled students receive additional support through the Disability
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+ Advisory Support Service (DASS). Our Student Support Services give counselling, careers and
+ academic support. PGRs have access to the on-line PGRLife, that brings together all the
+ information a PGR needs.
+ Since REF2014, 271 PhD students have graduated (a 19% increase on REF2014) of which ca.
+ 92% have entered employment or further study within 6 months of graduating. Completion rates
+ (within 5 years) have risen from 84% (2010 cohort) to 88% (2014 cohort).
+ Skills development and preparation for future careers for PGRs
+ The Unit engages with the Faculty’s Researcher Development programme. In 2019 128 PGRs
+ attended, mainly first year, averaging 2.6 courses each. A Graduate Teaching Assistant training
+ course is compulsory and most attend the course on Research Essentials and engage in one or
+ more other courses, including in Impact and Engagement, Career Management, and Wellbeing
+ and Personal Effectiveness. Courses on research integrity and export control are given on-line
+ and are compulsory.
+ The Unit is involved in multiple CDTs (see section 4) which provide training in interdisciplinary
+ working and additional training in transferable skills.
+ The University Careers service provides specialist postgraduate support for Chemists and
+ Biological Scientists. This support continues after graduation.
+ Recognition
+ Outstanding Achievement Awards (OAAs) are presented during biannual staff symposia to PGRs
+ and PDRAs who have made a major contribution: winners give presentations to the whole
+ Department. For EDI we ensure at least 33% representation among OAA winners from each
+ gender per symposium; BAME researchers win more OAAs than might be expected given the
+ ethnic profile of the unit.
+ Chemistry PGRs have also received Manchester Doctoral College Excellence Awards: Recent
+ winners include ‘Best PGR Output 2019’ (Zhang) and ‘PGR of the Year 2018’ (Kassem). Fifteen
+ PGRs have been awarded EPSRC Doctoral Prizes to transition into independent research.
+ The Unit proactively supports its PGRs in applying for external awards. For example, since
+ REF2014, Reaxys International Prize 2019 Finalist (Zhang), Salter’s Award 2017 (Thomas),
+ Dalton Emerging Researcher 2015 (Chilton) and 2018 (Goodwin).
+ Equality, diversity and inclusion
+ A commitment to EDI is embedded in our culture with supporting structures and policies; all staff
+ and students are treated with respect and dignity to enable them to realise their potential. Training
+ courses “Unconscious Bias” and “Diversity in The Workplace” are compulsory for all staff and
+ attendance is monitored. The Unit holds an Athena SWAN silver award. The University has been
+ awarded the Race Equality Charter (section 3.2, IS).
+ The Department EDI Committee coordinates and monitors our progress on EDI. The Chair is a
+ member of the Departmental leadership team (where EDI is a standing agenda item). The
+ Committee includes academic and support staff, PDRAs, PG and UG students and is diverse in
+ terms of gender and ethnicity. We also use a biennial survey of staff to monitor attitudes and
+ awareness of EDI. An action plan for EDI initiatives arose from our Athena Swan renewal, which
+ is reviewed by both the EDI Committee and the Leadership Team regularly. We run regular events
+ to highlight the contributions of women and gender-diverse people to STEM.
+ The DASS assists staff and students in applications for Disabled Student Allowance and Access
+ to Work to fund specific equipment and/or reasonable adjustments required to conduct research.
+ DASS provides a personal plan for each individual, which the Department implements.
+ There are staff networks across the University, including the LGBT, BAME and Disabled Staff
+ Networks, which directly support staff with protected characteristics.
+ The main processes for sabbatical leave and secondment were described above. These are
+ monitored in terms of gender and, aggregated over several years, there is an indication that
+ women are less likely to apply. We are discussing with staff the barriers to applying for leave and
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+ are actively seeking applications from women for sabbaticals from 2020 onwards.
+ The Unit has a strong commitment to flexible working and opportunities for this, along with other
+ University policies, are advertised to staff annually. Many academics use informal flexible working
+ agreements, but formal commitments are increasing to ensure fairness and account for caring
+ responsibilities. Flexible working is advertised in new roles unless impossible. Engagement with
+ UoM peer support groups for new parents is encouraged. We have quiet rooms, where mothers
+ can express milk. We go beyond University policy and offer 12 months PDRA funding to staff on
+ parental leave to help them run their research groups.
+ Staff and research students returning from leave, including parental leave, review workload with
+ their line manager, to ensure they are supported in the transition back to work. We also support
+ “Keeping In Touch” days so staff do not feel isolated from work whilst they are on leave. We
+ consider and support any flexible arrangements that are necessary for returning staff, responding
+ if their situation changes. Where staff are managing ill health, an on-going review to make
+ necessary accommodations is undertaken with the line manager informed by expert advice from
+ the University’s occupational health service.
+ We monitor gender in promotion and progression; in the period 2014-2019, 12% of promotions
+ were women; this is disappointing but may be due to demographics: we had four female professors
+ at REF2014, as now, and in period we have appointed ECRs who will be promoted from 2021
+ onwards (see Table 2). This will be monitored closely. Promotion is available to full-time and part-
+ time staff. Circumstances such as maternity leave or illness can be shared by the applicant and
+ are taken into account by the promotion panels. The additional training course “Recruiting Staff at
+ Manchester” is mandatory for appointment/promotion panels. The HoD and Deputy (a gender-
+ mixed team over the past few years) review staff lists to identify candidates for promotion and pay
+ review to encourage those who might not put themselves forward.
+ In preparation of our REF submission we followed university procedures for selecting outputs
+ (section 3.4, IS). The submitted outputs have been reviewed through a Equality Impact
+ Assessment and no statistically significant discrepancies could be identified between the
+ submission and the gender and ethnicity profile of our staff.
+ Support for staff with protected characteristics: Support is embedded in our policies: we
+ employ a Disability Confident scheme in job advertising; have gender-neutral toilets; provide
+ overseas travel guidance; run promotion workshops targeted at underrepresented groups; run
+ Staff Network Groups (ethnicity, religion, ability, parental/caring, gender); have same-sex partner
+ leave for new parents; analyse student questionnaire returns for bias; involve Occupational
+ Health on work conditions; have zero-tolerance “Report & Support” procedures on harassment.
+
+
+ 3. Income, infrastructure and facilities
+ Research funding and strategies for generating research income:
+ Our strategy is to give creative researchers as much time and support as possible. We have not
+ favoured research that is core chemistry or interdisciplinary: our only consideration is quality. We
+ targeted a culture that is supportive and ambitious. We have minimized unproductive activity as
+ far as possible. Actions during the period include:
+   We hired outstanding ECRs and supported them with PhD studentships (two each), start-up
+    funds (typically £20k, but where needed up to £50k) and free access to departmental services.
+    In parallel we set ambitious probationary targets and mentored them to meet these targets.
+    Almost all ECRs (>70%) that started since 2014 have received significant external funding
+    and have published in world-leading journals. Six have won external prizes.
+   We made ten Chair appointments to lead in key areas.
+   We introduced a detailed WAM to free time for world-leading researchers; typically, they will
+    only offer one lecture course and take final year masters students for research projects. To
+    maintain excellent teaching, we hired outstanding teaching focused staff and we offer them
+    career progression, including promotion to chair.
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+   We share timely intelligence on external funding opportunities and pro-actively encourage
+    applications to prestigious schemes (e.g. ERC or UKRI Fellowships).
+   We support significant external proposals (>3 years PDRA funding) with matching funds or
+    posts (e.g. PhD studentships).
+   We have a rigorous internal peer review process.
+   We have upgraded all departmental facilities through EPSRC and BBSRC awards providing
+    state-of-the-art equipment for X-ray diffraction, MS, NMR and EPR spectroscopy, magnetic
+    characterisation and synthetic biology. Services are supported by dedicated research staff to
+    deliver the best possible experiments and training.
+   We share successful grant proposals across the Department.
+   We run in-house training for grant writing for ECRs.
+   We provide excellent administrative support for costing grant proposals and senior
+    administrators to support major funding bids.
+   Department studentships and equipment funding are used to generate preliminary results for
+    grant applications. We prioritise the support of ECRs.
+   We encourage staff to share manuscripts prior to submission, especially with colleagues with
+    a track record of publishing in high impact journals; high profile papers are a major factor in
+    obtaining external funding.
+   Annual P&DRs set ambitious objectives and monitor progress for all staff.
+   If a colleague is regularly unsuccessful with funding applications, we assign a mentor, and
+    encourage collaborative proposals to build confidence and expertise.
+  On 31/07/2020 the Department had the largest EPSRC grant portfolio (£52.8M) and the largest
+  portfolio of active BBSRC grants (£22.2M) of any UK Chemistry department. The Department
+  has also enjoyed a near 3-fold increase in European funding (£44.4M) since REF2014 (£16.5M).
+  This is associated with ERC fellowships. The Brexit agreement should allow high levels of
+  European funding to continue.
+ Major and prestigious grant awards and links to outputs
+ During the REF2021 period, the Unit has been awarded multiple prestigious fellowships and
+ grants. Given the high number, Table 3 illustrates one major award per PI in (many hold more
+ than one), and one output per award.
+ There is a strong link with research outputs. For example, SYNBIOCHEM has produced >460
+ outputs and Leigh’s programme grant “Molecular Robotics” has produced >40 research articles.
+
+
+  Table 3. Illustrative outputs for major and prestigious grants in REF2021 period
+  PI            Award             Example high quality research output
+  Flitsch      ERC Advanced       Real-time screening of biocatalysts in live bacterial colonies
+                                  J. Am. Chem. Soc. 2017, 139, 1408.
+  Larrosa      ERC Advanced       Cyclometalated Ruthenium Catalyst Enables Ortho-Selective
+                                  C-H Alkylation with Secondary Alkyl Bromides
+                                  Chem 2020, 6, 1459
+  Leigh        ERC Advanced       Rotary and linear molecular motors driven by pulses of a
+                                  chemical fuel. Science 2017, 358, 340.
+  Leys         ERC Advanced       Structures of carboxylic acid reductase reveal domain
+                                  dynamics underlying catalysis.
+                                  Nature Chem. Biol. 2017, 13, 975.
+  Schröder     ERC Advanced       Reversible coordinative binding and separation of sulphur
+                                  dioxide in a robust metal-organic framework with open copper
+                                  sites.
+                                  Nature Materials 2019, 18, 1358.
+  N.Turner     ERC Advanced       A reductive aminase from Aspergillus oryzae.
+                                  Nature Chem. 2017, 9, 961.
+  Winpenny     ERC Advanced       Conformational flexibility of hybrid [3]- and [4]-rotaxanes,
+                                  J. Am. Chem. Soc. 2020, 142, 15941.
+
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+  Casiraghi     ERC                 Water-based and Biocompatible 2D Crystal Inks for All-Inkjet
+                Consolidator        Printed Heterostructures.
+                                    Nature Nanotech. 2017, 12, 343.
+  Liddle        ERC                 Back-bonding between an electron-poor, high-oxidation-state
+                Consolidator        metal and poor π-acceptor ligand in a uranium(V)–dinitrogen
+                                    complex. Nature Chem. 2019, 11, 806.
+  Mills         ERC                 Isolation and electronic structures of derivatized
+                Consolidator        manganocene, ferrocene and cobaltocene anions.
+                                    Nature Chem. 2020, https://doi.org/10.1038/s41557-020-
+                                    00595-w
+  Green         ERC Starter         Design and evolution of an enzyme with a non-canonical
+                                    organocatalytic mechanism.
+                                    Nature 2019, 570, 219.
+  Leonori       ERC Starter         A Photochemical Dehydrogenative Strategy for Aniline
+                                    Synthesis
+                                    Nature 2020, 584, 75.
+  Procter       EPSRC ECF           Metal-Free CHCH-Type Cross-Coupling of Arenes and
+                                    Alkynes Directed by a Multifunctional Sulfoxide Group.
+                                    J. Am. Chem. Soc. 2016, 138, 790.
+  Scrutton      SYNBIOCHEM          Conversion of alcohols to enantiopure amines through dual-
+                                    enzyme hydrogen-borrowing cascades.
+                                    Science 2015, 349, 1525.
+
+ Organisational infrastructure supporting research and impact
+ A major refurbishment of the Chemistry building is underway (£55M, 2019-2024). Six floors will
+ have new laboratory layouts. An initial phase has provided a new nitrogen generation facility,
+ loading bay, solvent store and new electrical transformers for the building. The building will remain
+ fully operational throughout.
+ Support infrastructure
+ The NMR service runs >200,000 experiments p.a. on 15 high field spectrometers, supporting >50
+ research groups from across the University. NMR access is provided for external users including
+ local universities and SMEs (e.g. Nanoco, Synthite, BWA, Chromition, C4X, Sci-Tron).
+ The MS Facility provides an analytical service for >100 research groups and runs >30,000
+ samples per year. The facility has over 20 instruments to cover most requirements, including one
+ of the best accurate mass instruments available, and regularly analyses samples from other N8
+ Universities and industry (e.g. BP, Rolls-Royce, AstraZeneca, Allergan Biologics, Thermo
+ Scientific, and Waters).
+ The X-ray Facility is equipped with the highest performance single crystal diffractometer in the
+ world outside central facilities, in addition to 3 other high-quality single crystal diffractometers, 2
+ powder XRD instruments and 1 SAXS instrument. >1500 single crystal structures and >7000
+ powder samples are analysed p.a. XRD analysis is also provided to other universities and to
+ industry (e.g. C4X, Econic Technologies, Hexcel, Nanoco, AstraZeneca).
+ The facilities and expertise in the Organic Materials Innovation Centre are available to all SMEs,
+ helped by links to the Knowledge Centre for Materials Chemistry. OMIC is currently supported by
+ 18 grants from industry and boasts 162 interactions. Building on a foundation in polymer science,
+ OMIC now also embraces 2D materials.
+ The Department also maintains an Analytical and Separations Suite (Polarimetry, UV-VIS-NIR,
+ FTIR, HPLC, GC), Microanalysis Service (CHNS, ICP-OES, Halide, DSC, TGA), and
+ Glassblowing (two scientific glassblowers), Electronic and Mechanical Workshops. Nineteen
+ technical staff are associated with Analytical and Research activities, and eight work in the
+ Mechanical and Electronic Workshops. Staff in the MIB enjoy further support from a pool of 44
+ technical staff. The Unit is actively involved in a technician apprentice programme training ca. eight
+ apprentices p.a.
+
+
+                                                                                                Page 15
+Unit-level environment template (REF5b)
+ UoM has extensive High Performance Computing (HPC), which is extensively used by the CAT
+ research grouping. This includes the flagship, c. 14,000-core Computational Shared Facility, and
+ the c. 4,000-core HPC Pool. This hardware is well-supported by excellent Research IT staff, who
+ also provide chemistry-specific software support, Research Data Storage and Management,
+ Research Software Engineering, and Research IT training. Standard services such as email,
+ cybersecurity and IT purchasing are provided to all University staff and students
+ Chemistry researchers enjoy strong support from the UoM Library through sector-leading research
+ services, including research data management and research metrics (section 4.2, IS). The
+ Library’s ‘OA gateway’ has been instrumental in maximising compliance with the REF OA policy.
+ Metrics-driven reports enable benchmarking of chemistry research.
+ Equality and diversity
+ We follow university guidance on EDI in all training activities (section 4.1, IS). For example, we
+ offer targeted training and mentoring in fellowship and funding applications to under-represented
+ groups. We have a strong collaborative ethos, with collaborative grants accounting for 75% of
+ open grants by value. 32% of our grants have a female PI or Co-I.
+ All laboratories have disabled access.
+ Specialist research infrastructure
+ The EPSRC UK National Research Facility for EPR Spectroscopy (£4M, renewed in April 2016;
+ led by Collison and McInnes) offers state-of-the-art experimental techniques to >200 users p.a.
+ for multi-frequency continuous-wave and pulsed EPR spectroscopy, and associated data
+ modelling. We have a world-leading capability in handling sensitive and radioactive materials,
+ leading to many international collaborations (e.g. UC Irvine; EPFL; MIT).
+ The DCF (led by Currell) has capabilities in ion beam and gamma irradiation, material modification
+ and characterisation; these facilities are used by >60 academic and industrial users p.a. Dedicated
+ on-site expert experimentalists help users design, develop and deliver experiments and to
+ interpret data and outcomes. Funding (Royce, ~£2.2M), has provided new irradiation sources,
+ dissolved gas probes, a TOF-SIMS, a differential centrifuge, and an electron energy loss
+ spectrometer, and a new biolab to facilitate work at the biology interface.
+ The Michael Barber Centre for Collaborative MS (MBCCMS; led by Barran and Lockyer)
+ develops and uses MS, particularly ion mobility MS. The MBCCMS has two SEOs, an EO and
+ four technicians and supports >60 industrial and academic groups. We host 21 mass
+ spectrometers funded by BBSRC, EPSRC, the university and industry. Waters support the
+ MBCCMS Chair (£0.8M) six CASE students and makes in-kind contributions to instrument
+ development (>£1M). Allergan have donated two mass spectrometers to the MBCCMS (£0.7M)
+ as well as two other mass spectrometers to the MS Facility. Industrial users include AstraZeneca,
+ Covance, Allergan, Bristol Myers Squibb, UCB Pharma, Fujifilm: all have funded CASE
+ studentships.
+ The CRR recruited Kaltsoyannis and Liddle to lead, repositioning itself to focus on understanding
+ actinide chemistry rather than environmental radiochemistry. It is now being rebuilt (cost of £8.5M)
+ and will host a NNUF2. Since REF2014 the CRR has continued to train radiochemists and nuclear
+ scientists, repairing a key skills pipeline in a skills-shortage area.
+ Further specialist infrastructure funded with £3.5M from SYNBIOCHEM and £2.2M Royce
+ includes: liquid handling robots for high throughput directed evolution and synthetic biology
+ protocols; next generation sequencing; automated colony picking; and analytical instrumentation
+ (5 mass spectrometers and HPLC/SFC).
+ Collaborative use of research infrastructure including major facilities
+ For diffraction: macromolecular crystallography was allocated over 900 hours of beamtime at
+ Diamond Light Source (DLS). For small molecule crystallography, 42 days was allocated since
+ 2014, including 6 days for high pressure studies.
+ For X-ray spectroscopies at DLS: 116 days have been awarded to study MOFs, and a further 74
+ days to investigate actinide bonding and molecular magnetism. The MOF group also has
+
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+ beamtime at European Synchrotron Radiation Facility (ca. 8 days/year) Oakridge National
+ Laboratory (ca. 10 days/years) and Advanced Light Source (ca. 8 days/year).
+ Neutron spectroscopy from the MOF team: 30 days/years split roughly 50:30:20 at ISIS Neutron
+ and Muon source (on TOSCA, IRIS and WISH). For molecular magnetism around 20 days have
+ been awarded on ISIS and at the Institute Laue-Langevin.
+ Radiochemistry work has been supported at the U EXAFS beamline (at DLS), by one month at
+ the Helmzholz-Zentrum Dresden-Rossendorf for Np and Cm chemistry, and eight weeks at the
+ Central Laser Facility.
+ The CAT section makes extensive use of ARCHER, the UK’s National Supercomputer with >380M
+ allocation units (nominal value ~£200,000),
+ Benefits-in-kind
+ The Unit has had around 40 industrial funded studentships either in full, or in part as CASE or as
+ part of CDTs. In addition, industrial partners are involved in multiple research projects as listed
+ elsewhere. Allergan have formed a fruitful partnership with the MBCCMS, and have donated two
+ mass spectrometers including a Bruker Rapiflex and Waters Xevo QToF (worth ca. £0.7M) to the
+ unit.
+ Industry make extensive use of our research facilities (>20 companies in 2019-20), and these
+ contacts help build impact.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+ Research collaborations, networks and partnerships and how they deliver impact
+ The Unit has filed >50 patents and launched 7 spinouts since REF2014.
+ Within MIB there are over 80 funded cross-campus collaborations and ongoing national and
+ international collaborations with over 500 different research institutions worldwide. The MIB led 4
+ of the 13 National BBSRC networks in IB and bioenergy (NPRONET, IBCARB, BIOCATNET and
+ BIOPRONET). MIB leads the Biocatalysis & Biotransformation Theme for the UK Catalysis Hub
+ (£3.1M; N.Turner).
+ There is a major collaboration with Shell Global Solutions (Leys lead, £2.4M from Shell, 2016-
+ 2021) to develop new biocatalysts to derive novel green production routes to commodity
+ chemicals. Two patents have been filed by Shell (Leys co-inventor) with key papers in Nature,
+ Nature Chem. and Nature Chem. Biol. Several awards co-funded by DSTL and ONRG (over
+ £1.5M) are driving the emerging field of synthetic biological materials.
+ The research centre CoEBio3 uses an ‘industry club’ model to engage with research users and
+ beneficiaries. This model is in its 4th round of funding and typically raises £0.75-1M from 8-10
+ companies per phase (e.g. GSK, AZ, Merck, Pfizer, BAS, Novartis, Syngenta, Dr Reddy’s, from a
+ total of 20 over the four phases). This model allows beneficiaries to shape the Centre’s research
+ agenda and has led to the impact underpinning the CoEBio3 impact case, ‘Sustainable Chemical
+ Manufacturing Through Enzyme Discovery, Biocatalyst Engineering and Education in IB’.
+ The DCF and CRR together link the nuclear industry directly and via a CDT Nuclear Energy –
+ GREEN. DCF facilities are used by: NNL Sellafield Ltd; EDF Energy; Wood; UKAEA; Rolls-Royce;
+ Createc; Lein Applied Diagnostics; Canberra; Rovtech; Ionix Advanced Technologies; Forth
+ Engineering; ABSL Space Products; Ostara Biomedical; Royston Lead; Applied Photonics Ltd;
+ Croda International; MTA-Atomki; VFE; Precision Acoustics; Mirion Technologies; Christie
+ Hospital; Precision Polymer Engineering; CIEMAT; Monitran; Helix Technologies; 30 universities.
+ Kaltsoyannis has contributed as Co-I and management board member to two multi-disciplinary
+ nuclear consortia. DISTINCTIVE (2014-2018, total £8.3M with £4.9M from EPSRC) involved 10
+ universities and 3 industry partners; winner RSC Industry-Academia Collaboration Award 2020.
+ TRANSCEND (2018-2022, total £9.4M with £4.6M from EPSRC) involves 11 universities and 8
+ industry partners.
+
+
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+ These interactions are part of a long-term relationship with the nuclear industry.
+ OMIC had 162 funded interactions with industry in the period. Industrial collaborators include: BP;
+ ARM; Unilever; Pragmatic Printing; CPI; NeuDrive; Novalia; KDX Ltd; NTU; DataLase Ltd; BEKO
+ plc; International Paint; Solvay; Peptisyntha; 3M; Merck; Airbus; United Technologies; Petronas;
+ Pervatech; Green Biologics; Crown Packaging; Akzo-Nobel; ITM Power; C-Tech Innovation;
+ ACAL Energy; DSTL; Saudi-Aramco. Academic partners include 9 UK and 5 overseas institutions.
+ OMIC strongly contributes to the development of Advanced Materials in the Royce through the
+ Chemical Materials Discovery, 2D Materials and Nuclear Materials themes. Development of more
+ sustainable materials is supported by infrastructure investment (Royce, £3.6M). OMIC is involved
+ in the Knowledge Centre in Materials Chemistry (with Liverpool, Bristol, Southampton, Bolton,
+ STFC and CPI). KCMC has delivered £23.4M in collaborative grant income since 2014 with £5.0M
+ in Manchester.
+ SYNBIOCHEM (2014-21, £10M from BBSRC and EPSRC) involves >30 academic staff spanning
+ Manchester’s Chemistry and 5 further departments, and it involves 3 other UK Universities.
+ Industrial partners include: Syngenta; GSK; LifeTech; Agilent; Croda; BioFocus; Peakdale
+ Molecular; Key Organics; P&G; UCB; Dr Reddy’s; Firmenich; UCB; Shell; BioSyntha; Hypha
+ Discovery; Abolis Biotechnologies; Sphere Fluidics; Waters; Unilever; Prozomix/Twist, BDS
+ Biofuels, Waters, C3 Biotech Ltd; Aeirtec; Allergan; AkzoNobel; Bio-Shape; Demuris; DSTL;
+ Fujifilm Diosynth; Genentech; Industrial Biotechnology Innovation Centre (IBIOIC); Pfizer. 157
+ PhD students were trained in the Centre. 10 patents have been filed and 2 spin-out companies
+ (C3 Biotech Ltd and Manchester BioFactory) have resulted. The Centre is a founding member of
+ the Global BioFoundry Alliance uniting worldwide capabilities in synthetic biology.
+ The FBRH (established 2019, £10.3M, EPSRC and BBSRC; £5.7M, industry; £5M UoM) and
+ involves industrial partners including core members: Allergan, Almac, Arcinova, Biocatalysts, BDS
+ Fuels, Bio-propane producers, BP, Britest, C3Biotechnologies, Calysta, CoEBio3 consortium (8
+ companies), Croda, GSK, Ingenza, Johnson Matthey, Prozomix, Quorn, Shell, Singer, Sphere
+ Fluidics, Unilever, and Victrex; and associate members: BAE Systems, BPE, Cambridge
+ Consultants, Cogent Skills, DSTL, Dupont LGC, NML, Teijin Films, LabGenius, and Syngenta.
+ Spokes reach out to UCL, Imperial College, Nottingham, UK Catalysis Hub, ICBIOC, and the
+ Centre for Process Innovation.
+ International partnerships include a UK-Brazil (BBSRC-FAPESP) multi-centre five-year project
+ (2017-2022), total value of £3.2M with £1.1M UoM (Dixon, N.Turner). These connections have led
+ to ‘strategic global partnerships’ with LATAM research institutions through a cross-disciplinary
+ BEIS/UUKi award, supporting ECRs.
+ The EPSRC National Research Facility for EPR collaborates with scientists worldwide, including
+ EPSRC Programme Grant and Fellowship holders (Briggs, Cronin, Rosseinsky, Skabara), ERC
+ grant holders (Arnold, Bogani, Grey, Ingleson, Levitt, Lloyd-Jones, Manners, Morton, Nitschke,
+ Rosseinsky). This has led to ca. 250 collaborative publications since 2014, including papers in:
+ Science (with Raven, Bristol), Nature (with Gray, Cambridge), Nat. Chem. Biol. (with Walton,
+ York), J. Am. Chem. Soc. (with Parker, Durham; Timmel and Anderson, Oxford; Dincă, MIT).
+ The Molecular Magnetism Group is world-leading and collaborates with groups in the UK, Italy,
+ Spain, the USA, China, Japan, Denmark and Australia. These collaborations are supported by
+ EPSRC Quantera, COST and H2020 FET-FLAG funding.
+ The Unit is also involved in the EPSRC-funded Centre in Advanced Fluid Engineering for
+ Digital Manufacturing (£3.1M) led by Unilever, and also involving Manchester’s engineering
+ departments.
+ The CDT in Integrated Catalysis (iCAT, £5M, 2019) is funded by EPSRC and industry. Industry
+ partners include those in the UK (e.g. AstraZeneca, and GlaxoSmithKline) and abroad (Bayer,
+ Germany). iCAT unites experts in biocatalysis and chemocatalysis, and groups with chemical and
+ process engineering expertise.
+ We are strongly involved in two further CDTs (2019-27) based in Manchester. Growing Skills for
+ Reliable Economic Energy from Nuclear (£6.3M), which will train the next generation of
+ researchers for the nuclear industry, and Advanced Biomedical Materials (£6.7M), which has
+
+                                                                                            Page 18
+Unit-level environment template (REF5b)
+ strong links to biomedical industries. Both show our commitment to interdisciplinary training of
+ PhD students.
+ We partner in a CDT in BioDesign Engineering (£7M, 2019) led by Imperial with UCL and
+ industrial partners, which provides integrated training covering experimentation, automation,
+ coding, data science and entrepreneurship applied to the design, realisation, and optimisation of
+ novel biological systems for diverse synthetic biology/engineering biology applications.
+ BP-International Centre for Advanced Materials (BP-ICAM) with chemistry-led research
+ (Quayle, Yeates, O’Brien) delivered reduction of wear in automotive engine components. The
+ project was an IChemE Global Awards Oil and Gas Category Finalist, 2017. Another project with
+ Cambridge, Imperial and Illinois Universities contributed to the development of a new fuel additive
+ (Active Technology) for BP Ultimate Fuels.
+ EPSRC programme grants: ‘Molecular Robotics’ (£2.95M, led by Leigh; with Cambridge and
+ Bristol), ‘Heteroprint’ (£5.42M, led by Skabara, Glasgow; involving Yeates and Winpenny, with
+ Sheffield, Cambridge and Strathclyde), and ‘SynFabFun’ (£4.51M, led by Metcalfe, Newcastle;
+ involving Budd, with Imperial, Bath, Edinburgh, and 11 industrial project partners).
+ The International Synthetic Yeast 2.0 consortium (led by Cai) aims to build the world's first
+ synthetic eukaryotic genome. The consortium involving world-leading groups from Johns Hopkins
+ University, New York University, National University of Singapore, Tsinghua University.
+ The Department is involved in three EPSRC Manufacturing awards: ‘Engineering van der Waals
+ heterostructures’ (Co-Is: Yeates, Casiraghi) with seven industrial partners; ‘Manufacturing at the
+ 7 nm node and beyond enabled by novel resist technology’ (PI: Winpenny) with the California
+ Institute of Technology and an industrial partner; ‘Formulating and Manufacturing Low Profile
+ Integrated Batteries for Wireless Sensing Labels’, (Co-I: Yeates) involving four industrial partners.
+ Leigh is funded by a H2020-FETOPEN project (2017-2021) “Mechanics with Molecules”; this
+ collaborative project involves the Universities of Dresden (Germany), Graz (Austria), Liège
+ (Belgium) and research institutes CNRS (France) and CSIC (Spain) to develop single-molecule
+ machines and test their operation on surfaces.
+ Consultancies and training
+ In addition to major industrial collaborations listed above, staff have consulted across many
+ sectors, including pharmaceuticals (AstraZeneca, GlaxoSmithKline, Merck, Novartis, Boehringer
+ Ingelheim), crop protection (ADAMA), energy (BP), general science (DSM), fine chemicals and
+ custom synthesis (Syntor, MOF Technologies), biopharmaceuticals (Gilead Sciences, Lonza,
+ Antabio), genomics (BGI), and instrument developers (Oxford Instruments).
+ Staff have also provided training courses in industry, e.g. Leonori (Syngenta), Procter
+ (GlaxoSmithKline).
+ Contributions to economy and society and engagement with diverse communities and
+ publics
+ Our largest contribution is in IB (see impact case for greater detail). CoEBio3 researchers created
+ training courses in IB including ‘Biocatalytic Retrosynthesis’, delivered as continuous professional
+ development to chemists at AstraZeneca, GSK, Gilead, Novartis and Lonza. To accompany, they
+ produced a book, “Biocatalysis in Organic Synthesis: The Retrosynthesis Approach.” (2018, >500
+ sold) and a computational tool (RetroBioCat: www.retrobiocat.com) downloaded >550 and read
+ >1600 times on chemrxiv.org (on 23/10/20).
+ Researchers from CoEBio3 are members of the IB Leadership Forum and co-authored parts of
+ the report “Growing the UK Industrial Biotechnology Base” (2018), which is now the guiding
+ document for UK Bioeconomy policy – with a goal of the 2030 bioeconomy being double the size
+ from 2018.
+ An “Advanced Materials from Synthetic Biology” roadmap was commissioned from Scrutton by
+ the Office of Naval Research (Syst. Synth. Biotech. 2018, 3, 105) and is used in the USA.
+
+
+
+
+                                                                                              Page 19
+Unit-level environment template (REF5b)
+ We are founding members of CAMS an industry-led initiative to promote world-class analytical
+ science training, research and innovation by bringing together 12 industrial and 8 academic
+ partners.
+ Barran’s group detects biomarkers for PD, funded by Parkinson’s UK and the Michael J. Fox
+ Foundation. Their clinical trial is the largest metabolomics study of PD (>1800 samples). The first
+ results (ACS Cent. Sci. 2019, 5, 599) attracted great media attention (e.g. a Canadian and three
+ BBC documentaries, and future National Geographic film).
+ Since 2017 our MS facility has worked with the Department of Food and Environmental Protection
+ Section of International Atomic Energy Agency and the UN on implementation of the UN
+ programme of MS measurements of food samples from developing countries.
+ Since 2017 we have communicated our research directly via a YouTube channel:
+ https://www.youtube.com/channel/UCXf3CFkyGpa2eIeT5wz_Prw. The videos have been viewed
+ >148,000 times.
+ We have a strong culture of schools’ liaison, including hosting >20 Nuffield students. We created
+ outstanding MOOCs in Physical Chemistry (60,300 enrolled, winner RSC Higher Education Prize
+ 2015) and Molecular Spectroscopy (30,214 enrolled) and IB (>44,000 enrolled). >800 A level
+ students attended MIB Open days, whilst our multilingual science program provides interactive IB
+ science sessions to language schools in Manchester.
+ Presentations were made at the Royal Society Exhibition (Complex Life of Sugars, 2016, Flitsch
+ and Field) and New Scientist Live (2016-18) and at the European Open Science Forum
+ (Manchester 2016). Annual events collectively reaching >8,000 participants include: Great British
+ Bioscience Festival; National Science and Engineering week; Manchester Science Festival;
+ Birmingham Big Bang Fair (Micklefield); and #ScienceX (Trafford shopping centre). Casiraghi
+ worked with composer Sara Lowes to create “the Graphene Suite” and MIB has worked with artists
+ in residence (Karen Barber and Lynne Chapman 2016) to create science-based art works
+ displayed at outreach events nationally and in local exhibitions.
+ Contribution to sustainability of discipline
+ Significant roles in learned societies include leading contributions to the RSC:
+ RSC Council 2014-2019 (Flitsch), Faraday Division Council (McInnes, Dryfe), RSC Organic
+ Division Awards Committee (Leigh, Procter), RSC Faraday Division Awards Committee
+ (Casiraghi), Chair of RSC Organic Division Poster Symposium (Procter), RSC Chemical Biology
+ Bioorganic Group (Webb and Wong), Chair of RSC ESR Group (McInnes), Chair of RSC
+ Electrochemistry Group (Dryfe), RSC Radiochemistry Group (Natrajan), and the RSC Nucleic Acid
+ Group (Micklefield).
+ Members of Academia Europaea (Leigh, Schröder), Liddle (Vice-president of the European Rare
+ Earth and Actinide Society); Anderson (International Zeolite Structure Commission), Leigh
+ (Honorary Membership of the Israel Chemical Society).
+ Since REF2014 the Unit trained ca. 8% of the UK’s PhD chemists on average p.a., and >100 of
+ our PDRAs have moved into academic positions worldwide. This is a major contribution to the
+ discipline.
+ Influence, contribution and recognition
+ Fellowships:
+ Since REF2014, Unit staff have been awarded an RS Research Professorship (Leigh) and 33
+ Fellowships: ERC AdGs (Flitsch, Larrosa, Leigh x 2, Leys, Schroder, N.Turner, Winpenny), ERC
+ CoGs (Casiraghi, Ingleson, Layfield, Liddle, Mills), ERC StGs (Green, Leonori, Mutti), EPSRC
+ Established Career (Liddle, Popelier, Procter, Winpenny), EPSRC Early Career (Leonori), RS
+ University Research (Chilton, De Bo, Riddell), RS Dorothy Hodgkin (Bowen), BBSRC David
+ Phillips (Dixon, Green), EPSRC Foresight Fellowship in Manufacturing (Webb), Human Frontiers
+ Science Program Cross-Disciplinary (Baker), SCI Ramsay Memorial (Chilton, Keerthi), BBSRC
+ Future Leader (Van Munster), UKRI Innovation (Lovelock), and Leverhulme Trust Research
+ (Tuna).
+
+
+                                                                                            Page 20
+Unit-level environment template (REF5b)
+ Prizes
+ Since REF2014, we have received many accolades including election to FRS (Morris, 2014;
+ Scrutton 2020; N.Turner 2020) and FREng (O’Brien, 2016), and the award of a CBE (O’Brien,
+ 2016). Manchester Chemistry won more RSC prizes than any other institution in 2019 (6 prizes)
+ and 2020 (8 prizes); in addition, Kaltsoyannis was part of the DISTINCTIVE consortium, awarded
+ the RSC 2020 Industry-Academia Collaboration prize. Table 4 lists the 32 RSC awards won by 26
+ different academics since REF2014. Table 5 lists further prizes.
+  Table 4. Manchester Chemistry-based RSC Prize Winners
+                          2020                                            2017
+  Bures               Hickinbottom                    Greaney           Bader
+  Casiraghi           Gibson-Fawcett                  Leigh             Perkin
+  Flitsch             Bioorganic                      N.Turner          Stereochemistry
+  Green               Harrison-Meldola                                    2016
+  Liddle              Tilden                          Chilton           Dalton Young Researcher
+  Procter             Charles Rees                    Denecke           Becquerel
+  Schröder            Nyholm                          O’Brien           Longstaff
+  Yang                Harrison-Meldola                Winpenny          Ludwig Mond
+                          2019                        Yeates &          Emerging Technologies
+                                                      Winpenny
+  Barran              Theophilus Redwood                                  2015
+  Larrosa             Corday-Morgan                   Liddle            Corday-Morgan
+  McInnes             Tilden                          Natrajan          Bill Newton
+  Micklefield         Bader                           O’Malley          Higher Education
+  Mills               Bill Newton                     Procter           Bader
+  Scrutton            Interdisciplinary                                   2014
+                          2018                        Casiraghi         Marlow
+  Leonori             Harrison-Meldola                Flitsch           Interdisciplinary
+  Mills               Harrison-Meldola                Leigh             Pedler
+  Goodwin             Dalton Young Researcher
+
+
+  Table 5. Further major prizes
+                Cai                  Wellcome Trust, Frontier Innovator Award
+                Faulon               Scientific Excellence award from the French National University
+                                     Council
+
+    2015        Leys                 RS Wolfson Merit Award
+                McInnes              International EPR Society Medal for Chemistry
+                Morris               James N Shoolery Prize
+                Procter              Liebig Lectureship, German Chemical Society
+                Casiraghi            Philip Leverhulme Prize
+    2016
+                Leonori              European Young Chemist Award, Silver Medal
+
+
+                                                                                              Page 21
+Unit-level environment template (REF5b)
+              Leonori           UNESCO/IUPAC/ PhosAgro Green Chemistry Award
+              Schröder          Honorary Doctorate from the Nikolaev Institute of Inorganic
+    2017
+                                Chemistry, Russian Academy of Sciences
+              Adams             BRSG - NMR DG Annual Prize for Excellent Contribution to
+                                Magnetic Resonance by an ECR.
+    2018
+              Popelier          Inaugural Richard FW Bader International Prize for Excellence in
+                                Electron Density Research
+              Bures             Young Researcher Award from the Spanish RSC
+              Chilton           Olivier Kahn International Award, The European Institute of
+                                Molecular Magnetism
+              Larrosa           Blavatnik Award Finalist
+              Leigh             Nanoscience Prize, International Society for Nanoscale Science,
+                                Computation and Engineering
+    2019
+              Leonori           Philip Leverhulme Prize
+              Leonori           AstraZeneca Award for Outstanding Achievements in Organic
+                                Synthesis
+              Liddle            Alexander von Humboldt Friedrich Wilhelm Bessel Research
+                                Award
+              Yang              CCDC Chemical Crystallography Prize for Younger Scientists
+
+    2020      Collison          Bruker Prize for EPR Spectroscopy
+
+
+ 17 Unit staff have held Visiting Professorships at top overseas institutions.
+ Chemistry staff have delivered over 1200 lectures since REF2014 at universities (>660) and
+ conferences (>560). Staff have chaired the organising committees of >30 international
+ conferences and symposia.
+ 24 Unit staff are members of the EPSRC College, 5 have sat on BBSRC funding panels and 20
+ on EPSRC funding panels and have served as Panel Chair 4 times. Staff referee for funding
+ organisations in >30 countries, with 27 refereeing for the ERC.
+ Unit staff have served as Editors for journals including; Chemical Science (Leigh); FEBS J
+ (Scrutton); Progress in Nuclear Magnetic Resonance (Morris); Beilstein Journal of Organic
+ Chemistry (Flitsch); Natural Products Review (Takano); ACS Omega (Takano); Springer Nature’s
+ Cancer Nanotechnology (Currell); ACS Biomaterials Science and Engineering (Takano);
+ Metabolomics (Goodacre).
+ A further 24 staff have served on journal Editorial Advisory Boards or as Guest Editor of special
+ issues.
+ Co-operation and collaborative arrangements for PGR training
+ We lead a CDT in Integrated Catalysis and are involved in three further CDTs running on
+ 31/07/2020 (see p19). We were also involved in CDTs in Materials for Demanding
+ Environments, Next Generation Nuclear and Nanoscience in Manchester since REF2014.
+ We have an established 2+2 programme with Singapore and have established a Flagship 5-year
+ (2020-2029) 2+2 Programme with Tsinghua (see section 2).
+ Flitsch led the GlycoBioM consortium (finished 2015) and is Co-I on Chem21 within the Innovate
+ Medicines Initiative (2012-2017). Scrutton led a Marie Curie ECR ITN training Centre ‘MAGIC’
+ (2014-2018), training 12 PhD students. Membership of Marie Curie ITNs: PoliMer (Field); Sweet
+ Crosstalk (Field); GlycoVax (Flitsch); TINTIN (Flitsch); Immunoshape (Flitsch); PIPPI
+
+
+                                                                                          Page 22
+Unit-level environment template (REF5b)
+ (Golovanov); SASSYPOL (Leigh); EURO-SEQUENCES (Leigh); BIOMOLMACS (Leigh);
+ PhotoReact (Leonori); Masstrplan (Pitt).
+ Liddle chaired a COST Action (CM1006 – EUFEN, >120 groups from 22 countries) providing 4
+ training schools/conferences in f-element chemistry (2012-2015). Larrosa is a member of the
+ Management Committee of an EU COST Action on C-H activation in Organic Synthesis (CHAOS)
+ (2015 – 2020). We are members of COST actions in molecular magnetism (several groups) and
+ mechanochemistry (De Bo).
+ The EPSRC EPR NRF trains 30-50 PGRs per year, including week-long residential courses.
+ This has also been delivered in Brazil and Australia.
+
+
+
+
+                                                                                     Page 23
+

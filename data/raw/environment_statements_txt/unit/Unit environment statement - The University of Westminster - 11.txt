@@ -1,0 +1,886 @@
+Unit-level environment template (REF5b)
+ Institution: University of Westminster
+
+ Unit of Assessment: 11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Unit context and structure
+
+ The University of Westminster’s Computer Science and Informatics research is based within the
+ School of Computer Science and Engineering (SCSE), part of the College of Design, Creative
+ and Digital Industries (DCDI). DCDI was established in August 2018 with the aim of bringing
+ digital, creative and media studies closer together, and providing a stronger basis for collaboration
+ within these areas. SCSE merges two previous departments, Computer Science and Engineering,
+ both entered into UoA11 in REF2014. While researchers in Computer Science were primarily
+ focused on software-related research, the Department of Engineering’s focus was on hardware
+ and computer systems. Merging these two areas within one School provided a natural foundation
+ for collaboration, shared infrastructure, facilities, and interdisciplinary research. Planning and
+ monitoring of research within the subject area is now directly overseen by the School Research
+ Lead (Kiss), College Research Director (Kale) and Head of School, who are responsible for the
+ day-to-day management of all research within the Unit, including administration of QR funds, staff
+ research and impact time and postgraduate bursaries.
+
+ Organisationally, the research strengths of the UoA are concentrated in its research groups (RG),
+ representing cutting-edge research across a number of areas.
+
+ Parallel, distributed and intelligent systems are investigated at both lower fundamental levels,
+ and also at the level of industry, research and public sector utilisation. The Centre for Parallel
+ Computing (CPC) (Kiss, Terstyanszky, Pierantoni, Michalas, Dagdeviren and 6-8 research
+ associates) has a highly successful track record in investigating new models and developing novel
+ solutions for cloud computing applications and generating impact through industry and public
+ sector collaborations. The CPC has secured funding from ten EU projects within the REF period,
+ with an overall value of over £40 million, over £4 million for the group. Significant results were
+ produced in the areas of science gateways and cloud orchestration, with products (e.g. WS-
+ PGRADE science gateway framework, the CloudSME Simulation Platform or the MiCADO cloud
+ orchestrator) utilised by large industry and academic user communities. The Distributed and
+ Intelligent Systems RG (Getov) investigated smart extreme-scale platforms with a focus on
+ performance, energy and security, logic engineering for autonomy and management, and
+ advanced concurrent computation and communication models.
+
+ The Health and Social Care Modelling RG (Chaussalet, Chahed, He and 2-3 research fellows)
+ conducts state-of-the-art analytics and computing research assisting professionals in healthcare
+ services to rethink how they manage large and complex systems through a better use of big data.
+ The Research Group is also an integral part of the Health Innovation Ecosystem (HEI) that was
+ established (late 2018) with internal funding from the Quintin Hogg Trust (£427K), the Higher
+ Education Innovation Fund and the University itself (£850K). Led by Chaussalet, the HIE pursues
+ interdisciplinary innovation in national and international health research, integrating social and
+ health sciences with new areas of advanced analytics, data science, machine learning, imaging
+ technology and artificial intelligence. Since 2018, over £1M income has been generated, links
+ have been forged with over 20 external collaborating organisations, research networking events
+ were organised and attended by over 140 early career staff and students from across the
+ University.
+
+ Multimedia, image and video processing and computational games are important research areas
+ within the School. The Computational Vision and Imaging Technology (CVIT) RG
+ (Triantaphillidou, Psarrou, Villarini) focuses on image and video formation, processing,
+ analysis, visualization, interpretation and evaluation, while the Serious Games RG (Economou,
+ Mentzelopoulos) investigates factors and approaches that contribute to effective serious games
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+ design and adaptation of serious games in various domains. Triantaphillidou’s collaboration with
+ Transport for London resulted in determining optimum levels of image compression suitable for
+ face recognition in CCVT recordings, which were implemented through the ITT Bus Build
+ Specification as part of the requirements for all London bus route tenders.
+
+ Various cutting-edge topics in computer engineering are investigated by the Applied Digital
+ Signal Processing and VLSI (Kale, Reni, Coskun), and the Wireless Communications RGs
+ (Budimir, Kontogiannis, Tarczynsky). These groups conduct industry-facing applied research
+ and development for systems and sub-systems applied in novel commercial products (e.g. for the
+ European Space Agency and Airbus Defence and Space). Targeted application areas include
+ medical diagnosis systems, especially non-invasive methods for human health monitoring and
+ diagnosis and automated malaria diagnosis, cyber security enabled drone flight infrastructure and
+ positioning systems, real-time processing applications for the media and creative industries,
+ environmental monitoring, detection and intervention, and autonomous vehicles and transport
+ applications, among others.
+
+ Fundamental and applied computer science research is carried out in the areas of semantic
+ computing, pattern search and recognition, deep learning, question-answering systems and
+ conversational user interfaces by the Cognitive Computing RG (Kapetanios, Angelopolou).
+ Programming principles, modelling methods, architectures, infrastructures and tools for the design
+ and development of modern, medium to large scale, software systems are the focus for the
+ Software Systems Engineering RG (Bolotov).
+
+ 1.2 Research Strategy
+
+ The research vision of SCSE is to conduct high-quality, applied research with global impact
+ by harnessing and translating fundamental knowledge within the discipline into ‘real-world’
+ practice, through collaboration with end users from industry and the public sector. The aim is to
+ achieve research excellence and impact by transcending the usual boundaries between
+ science, engineering and medicine, as well as art, media and social sciences. Examples of such
+ interdisciplinary collaboration include the HIE (led by Chaussalet) that focuses on interdisciplinary
+ innovation in national and international health research and knowledge exchange, or the CPC’s
+ (led by Kiss) extensive work within the manufacturing sector, in collaboration with over 100
+ industry players. Computer scientists have also participated in the work of all four cross-
+ disciplinary Research Communities established by the University in 2019: Arts, Communication
+ and Culture, Diversity and Inclusion, Health Innovation and Wellbeing, and Sustainable Cities and
+ the Urban Environment. This has resulted in significant internal funding, e.g. Kapetanios’ review
+ on health professionals’ perspectives and engagement with Artificial Intelligence, focusing on
+ marginalised social communities (funded by the Diversity and Inclusion Research Community).
+
+ Following our submission to REF2014, it was recognised that the Unit needed to define a clearer
+ core research programme and establish a stronger organisational and operational structure for
+ the management of research. The main focus of the strategy resulting from this has been to
+ increase the volume and quality of research while also increasing research income and
+ ensuring long-term sustainability of research excellence. These goals have been delivered
+ through changes in our staff recruitment strategy, creation of a sabbatical scheme and new
+ mentoring / staff development activities, stronger support for funding application preparation and
+ management, and enhanced financial and administrative support for PhD students.
+
+ Research strategy, supported by the wider University restructuring of research management and
+ infrastructure (including the University-wide Graduate School and dedicated Research and
+ Knowledge Exchange Office [RKEO]), has focused, in particular, on the following key areas:
+
+ Quality of research: It was recognised post-REF2014 that there was a particular need to improve
+ the overall quality of research produced across the Unit. To achieve this, SCSE sought to
+ develop a strategy to support staff in producing high-quality research with impact according
+ to fair and transparent criteria, as well as to recruit new members of staff with significant
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ research profiles at all levels. All members of staff were encouraged to join one of the existing
+ research groups in the School. Research track record and potential became a criterion when
+ recruiting new members of staff. Readers, Professors and RG leaders were included in all
+ interview panels. Support for staff with a significant responsibility for research has been
+ considerably strengthened since 2014 through the strategic implementation of the University’s
+ newly adopted and transparent online Workload Allocation Model (WAM), in which research
+ hours are directly incorporated into staff timetables as a part of their overall workload and
+ evaluated by a panel. The evaluation is based on a set of criteria including the quality of their
+ research plan, quality of outputs, income generation, impact activities and research leadership.
+ Starting and early career researchers are specifically supported in this scheme by ringfencing
+ additional research hours. Through the WAM process, the School directly supports research,
+ setting each individual member of staff clear and transparent personalised objectives, such as the
+ production of internationally-recognised publications, awarded research projects and impact
+ activities, and allocating hours for research and impact activity at different levels on this basis.
+
+ Research income: Research income generation and post-award management are supported by
+ the central Research and Knowledge Exchange Office. SCSE receives specific support from
+ an assigned full-time Research Development Partner (RDP) with primary responsibility for
+ identifying funding opportunities and supporting preparation of research proposals. The RDP is in
+ regular contact with the UoA Lead, sharing information about selected and filtered upcoming
+ funding opportunities, providing statistics about submitted and successful/unsuccessful research
+ funding applications, and discussing ongoing practices and potential improvements. Such
+ structures and processes have helped to increase both the quantity and quality of applications,
+ and the Unit has consequently received awards and financial support from a diverse range of
+ sources, including the European Commission’s 7th Framework and H2020 programmes, Innovate
+ UK, the European Space Agency and EPSRC. Annual external research income increased by 5%
+ when compared to REF2014 (£626K on average per year, £4.4million overall, compared to
+ £3million in REF2014). Further details are provided in section 3.
+
+ Support for doctoral and early career researchers: The School currently has 24 doctoral
+ researchers. 40 completions were recorded in the current REF period, similar to the numbers
+ reported in REF2014 (42 completions). These numbers have been kept up by regularly submitting
+ strong bids for internal funding of doctoral programmes (e.g. Quintin Hogg Trust; see REF5a), and
+ proactively supporting individuals to include PhD opportunities when applying for research
+ funding. Quality of provision was also kept high. Based on the 2019 Postgraduate Research
+ Student Experience Survey, UoA11 PhD students indicated almost 95% overall satisfaction with
+ the course, putting it in the upper part of the highest quartile within the UK in Computer Science.
+ Doctoral students are specifically supported by the School’s PhD Coordinator (Tarczynszky)
+ who overviews admission processes and supports the students and their supervisors during the
+ programme. The School also works closely with the University-wide Graduate School
+ (established just prior to REF2014) to ensure PhD students and supervisors are supported and
+ informed of opportunities and resources available for improved completion success and
+ timeliness. The Graduate School also offers a range of developmental activities, including
+ seminars and networking events to facilitate sharing of best practice, which are supplemented by
+ more discipline-specific training at School-level. Further details are provided in Section 2.
+
+ Support for interdisciplinary research: All staff are encouraged to engage in interdisciplinary
+ research which combines theory- and practice-oriented approaches, leading to better and closer
+ links with business, industry and the public sector. The backbone of the School’s strategy is to go
+ beyond a conception of interdisciplinary research as merely concerning the use of computerised
+ tools, applications and platforms by other disciplines. Instead, the Unit looks to successfully
+ formulate research questions which cannot be answered by one discipline alone, for example
+ the development of more effective algorithms inspired by problem-solving in nature or solving
+ problems in nature by going beyond the state-of-art in algorithmic design and implementation.
+ SCSE researchers are expected to collaborate both internally within the College and the wider
+ University, and externally with academics at other institutions, nationally and internationally, as
+ well with those in business and industry. Specific drivers for interdisciplinary research are the
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ newly established Research Communities with strong participation from UoA11 researchers (see
+ above).
+
+ Open research environment: The essential UKRI and REF open access requirements are
+ achieved through the University’s Virtual Research Environment (VRE) and institutional
+ repository, WestminsterResearch, which is run by a dedicated Open Access team (see REF5a).
+ However, recognising the ongoing issues concerning lack of transparency and reproducibility of
+ experimental results within the discipline, SCSE has sought to go beyond this by extending
+ considerably the amount of its research being made open access via high-profile journals and
+ other media, as well as providing corroborating evidence by explicitly describing or providing links
+ to any data being used for experimental studies. The School supports the creation of open source
+ software that is managed and widely available in open source code repositories, such as GitHub.
+ A dedicated organisation for the University of Westminster has been set up on GitHub supporting
+ open source projects at the School, another GitHub organisation compiles the open source
+ projects of the CPC, and there are significant contributions to various large-scale open source
+ software developments, for example the MiCADOscale application-level cloud orchestrator, with
+ major contribution from the CPC, is also run as a GitHub project.
+
+ 1.3 Impact Strategy
+
+ The UoA’s Impact Strategy is an integral part of the overall Research Strategy. A key feature of
+ the latter is raising staff awareness of the impact agenda and ensuring, via objective-setting
+ processes (supported by WAM), that all research-active staff generate in-progress impact
+ statements, collected and recorded on an annual basis, which replicate the major headings in the
+ REF impact case study template. Monitoring of such statements allows the Unit to identify needs
+ and support required to realise, further develop or strengthen impact activities. After
+ collection, the quality of and potential synergies between these impact statements are analysed
+ and discussed at common forums within the School, for example Away Days, and are uploaded
+ to a common repository. Impact is also assessed as part of the yearly research hour allocation
+ process. Other external facing activities, such as maintaining a portfolio of external
+ engagements, including contributions to public lecture series or public-facing events and media
+ work, are also collected and analysed at School level. Impact activities are further supported at
+ University level by both a dedicated University Impact Officer who supports and advises staff
+ when formulating and building their impact case-studies, and the School’s Research
+ Development Partner, who has responsibility for horizon scanning and bid preparation for
+ external impact-related funding.
+
+ Impact projects are typically multidisciplinary, involving several research groups from the School
+ and beyond. For example, the Automated Body Composition Assessment in Population Studies
+ project, funded internally from QR money, targeted the reduction of obesity by applying novel
+ image processing and scalable and concurrent data processing mechanisms in a flexible cloud
+ computing environment. The project was a multidisciplinary collaboration between Prof. Jimmy
+ Bell from the School of Life Sciences conducting research on automated body composition
+ assessment, supported by image processing expertise from the CVIT (Triantaphillidou, Psarrou
+ and Villarini), and distributed computing research by the CPC (Kiss, Terstyanszky). Two UoA11
+ impact case studies (Triantaphillidou, Kiss) were significantly strengthened as a result.
+
+ Further facilitators for the success of this strategy have been the Unit’s success in establishing
+ significant and far-reaching cooperation with public sector organisations and industry, inside and
+ outside the UK, across multiple research domains. Examples include the CPC’s (Kiss,
+ Terstyanszky, Pierantoni) collaboration with European hospitals (e.g. Charité University
+ Medicine Berlin) within the ASCLEPIOS project, or the collaboration of Kapetanios and
+ Angelopoulou with the Great Ormond Street Hospital in the automated assessment of pain and
+ distress in children, both in the area of healthcare. Examples of successful industry collaboration
+ include Triantaphillidou’s work with Huawei, the long-standing collaboration between Kale and
+ Airbus, and the CPC’s (Kiss, Terstyanszky, Pierantoni, Michalas, Dagdeviren) collaboration
+ with over 100 SMEs from the manufacturing and technology sectors within the CloudSME,
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ CloudiFacturing and DIGITbrain projects. More details of these collaborations are provided in
+ Section 4.
+
+ The processes for collecting and monitoring potential impact case studies described above have
+ two key objectives in supporting the vitality and sustainability of impact activities across the
+ Unit. First, the process encourages all research active staff to think about potential impact at an
+ early stage of their research and to collect and analyse evidence related to this impact as the
+ research progresses. Second, the monitoring process also supports the fair and transparent
+ selection of impact case studies for REF2021.
+
+ 1.4 Future research strategy
+
+ The future research strategy of the School is based on further strengthening and developing the
+ above listed areas in order to increase both the volume and the quality of research outputs, and
+ to generate significant impact. The major pillars of this research strategy post-2021 are:
+ Enhanced quality of research based on the involvement of increased number of research-active
+ staff: Building on the existing WAM hour allocation process, a clear, transparent and inclusive
+ framework has already been defined (see details in Section 2) enabling early-career, currently not
+ research-active staff to receive a clear potential pathway towards taking on a significant
+ responsibility for research. Such formalised processes will define clear pathways for early/mid-
+ career researchers to achieve progression. The involvement of non-research-active staff in
+ research activities will be supported by staff development activities (e.g. the Researcher
+ Development Programme run by the RKEO, and focused, organised and transparent support for
+ participation in conferences and research events), the gradual and accountable allocation of
+ research hours in order to build and gain significant responsibility for research (e.g. formal
+ processes for the assessment of research outcomes and allocated hours for these purposes in
+ connection with the annual WAM meetings), and mentoring support provided to early/mid-career
+ researchers (a pilot programme of which has already started in 2019/2020 at University level in
+ the form of Mentoring Circles, with senior researchers offering group-based mentoring sessions).
+ Significant increase in external research income: We aim to double the average yearly income
+ from research grants by 2023. Significant future income is already secured (e.g. both Kale and
+ Pierantoni/Kiss won large EU grants starting in 2021). We also aim to increase the number of
+ researchers bringing in significant external funding. Current research income is primarily
+ generated by a smaller number of senior researchers (e.g. Kale, Kiss, Triantaphillidou). During
+ the next REF cycle, focus will be shifted to further extending income generation by involving and
+ supporting early-career researchers in such activities. This will be achieved by mentoring
+ support (e.g. inside successful research groups and also across groups), and specifically
+ supporting early-career researchers by assigned WAM hours for research proposal preparation.
+ Increased impact of conducted research: Building on the currently existing monitoring and impact
+ case study preparation activities, the School’s impact strategy aims to support increased impact
+ generation through activities to build new and strengthen existing industrial, business and public
+ sector collaborations. This will be encouraged via joint grant preparation activities, research
+ collaborations and jointly organised events (e.g. industry-focused research seminars and
+ information events).
+
+ 2. People
+
+ 2.1 Staffing strategy
+
+ Research profile and output quality as a selection criterion for new staff have been prioritised
+ throughout the assessment period. Consequently, a number of new researchers have been
+ appointed, covering areas such as image processing (Villarini), cyber security (Michalas),
+ distributed computing (Pierantoni), and data science (He). In addition, one member of staff
+ (Triantaphillidou) transferred to the unit from the Faculty of Media, Arts and Design in order to
+ further strengthen the subject area of image processing and facilitate collaboration.
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+
+ Wherever funding is available, early-career researchers are also employed on externally-funded
+ research projects (for example, in the CPC and the HIE). Both existing (Dagdeviren on the
+ CloudSME, CloudiFacturing and DIGITbrain projects) and new members of staff (Pierantoni on
+ the COLA and ASCLEPIOS projects) have joined already active or newly started externally-funded
+ research projects as co-investigators.
+
+ The introduction of a semester-long sabbatical scheme has benefited several staff members
+ since 2014, including Kapetanios, Angelopoulou, Bolotov and Triantaphillidou, by enabling
+ them to concentrate on a focused piece of research work and providing the opportunity to enhance
+ and extend their research profile. Sabbaticals were awarded based on a formal application
+ process and were evaluated and selected based on the quality of the proposed project and the
+ benefits provided for the unit. The outcome of the awards was assessed in the form of a final
+ report.
+
+ Research hours are allocated based on a transparent and consistent annual exercise. During
+ this process all research active staff can apply for research hours in two main categories. There
+ are a specific number of hours ringfenced for starting or early career researchers, without
+ significant responsibility for research in the past. Such researchers can apply for up to 150
+ research hours pro rata (out of 1504 hours of annual total workload) and are assessed based on
+ the quality of their research plan, relevant research background, proposed research activities, and
+ defined tangible expected outputs. More experienced researchers can apply for hours based on
+ the various research levels specified at University level, and can get up to 250, 350 or 425 hours,
+ based on the targeted and achieved level. The assessment criteria consist of quality of research
+ plan, income generation, publications, impact activities, and research leadership. Applications are
+ assessed by a panel including the Head of School, an Assistant Head of School and the School
+ Research Lead, with the College Research Director invited to observe the process to assure
+ consistency with other schools. Readers and Professors are assessed separately from this
+ process by the Head of School (Readers) and a University panel (Professors) and standardly
+ allocated up to 425 hours. Additionally, every member of staff receives 174 hours for scholarly
+ activity, that may also incorporate research.
+
+ Staff members can bid for additional ad-hoc support from the School research development
+ budget to assist their research-related activities, such as participation in conferences,
+ networking activities, and purchasing equipment or services. The application is through a
+ standard form and assessed and awarded by the Head of School. Such support is linked to
+ longer-term development plans to support the individual academic’s progression as a fully-
+ developed researcher and the return on this investment is monitored via the yearly research hour
+ allocation process, as described above.
+
+ At census date, there were 23 members of staff (21.3 FTE) with significant responsibility for
+ research. The vast majority of REF eligible staff are employed on a permanent contact, with only
+ two members of staff (a combined 0.8 FTE) on fixed-term research only contracts (employed on
+ externally-funded research projects). Most staff with significant responsibility for research are
+ employed full-time, with only three individuals in fractional positions. These ratios reflect the
+ strategy of the school to build a research profile for the long term relying on full-time research
+ active staff with permanent contracts. At the same time, those individuals employed on fixed-term
+ contracts lead well-defined work packages in externally-funded projects and therefore their
+ experience and contribution are crucial to maintain the high quality of these research outputs.
+
+ The current demographic profile of the UoA demonstrates a healthy balance between early/mid-
+ career and senior researchers. 11 out of the 23 members of staff with significant responsibility
+ for research are in the early stages of their research career, while the remaining 12 have significant
+ research background and experience. As staff with significant responsibility for research are
+ spread across the various research groups where more experienced colleagues can mentor and
+ support early/mid-career researchers, the current structure provides a good framework to train
+ and support the next generation of research leaders within the School.
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+
+ Staff development: Research in the School is fundamentally based on teamwork within research
+ groups. These teams contain early-career researchers who are guided by senior research staff as
+ part of their professional development. Visiting professors (e.g. Prof John Jarvis at the CVIT)
+ and researchers (Dr Pamela Greenwell at the CPC) from academia and industry also enhance
+ the activities of research groupings and contribute to mentoring of less experienced researchers.
+
+ Staff development related to research is supported both centrally by the University and also at
+ School level. The RKEO centrally organises the University-wide Researcher Development
+ Programme (see REF5a). The programme targets researchers at all stages of their career and
+ covers four thematic areas: (1) impact and engagement, (2) funding for research and knowledge
+ exchange, (3) publishing data, ethics and integrity, and (4) career development. The content is
+ delivered in the form of 1-2 hour long live sessions and short pre-recorded videos, made available
+ monthly. The RKEO also organises regular grant writing workshops where members of staff
+ can take their in-preparation grant proposals and discuss these with colleagues and with the
+ support team. The Graduate School organises various training and discussion events related
+ to PhD student supervision. At School level, regular (monthly) research seminars are
+ organised where internal (researchers, PhD students) or external speakers (research
+ collaborators, industry partners) present and discuss their work with an audience comprised of
+ academic staff and students. To support early career or doctoral researchers, internal preparatory
+ conference presentations are also organised within the School (e.g. Health and Social Care
+ Modelling RG).
+
+ Besides mentoring within Research Groups, the School also participates in the College Mentoring
+ Circles pilot that was run for the first time in the 2019/2020. The Mentoring Circles scheme is
+ open to early-career academics (grades below Reader) from the three Colleges, one circle group
+ per college. Each circle consists of 8-10 mentees and two mentors (typically Professors with
+ significant experience and background). From UoA11, one mentee and one mentor (Kiss)
+ contributed to the scheme in its first year. Based on its success (the feedback from both mentees
+ and mentors was overwhelmingly positive, e.g. 93% mentees reported that they would like to
+ continue to meet with their cohort for further peer discussions and 93% said they would be
+ interested in participating in the mentoring scheme again), the scheme is planned to continue
+ throughout the next REF cycle.
+
+ Early career researchers have been specifically supported by various College/School level
+ funding opportunities. For example, in 2019/2020 three ECRs (Reni, Villarini, Dagdeviren) were
+ awarded £4,000 seed funding each to establish their research and build the basis for further
+ funding and opportunities. These funds enabled significant further results, including external
+ funding (Villarini was awarded the Royal Academy of Engineering Leverhulme Trust Fellowship
+ with a value of £53.156), and high-quality research outputs.
+
+ 2.2 Doctoral researchers
+
+ Doctoral researchers play a vital role in the School’s research. Supervising doctoral researchers
+ regularly leads to high-quality outputs, significant impact and interesting new research directions,
+ often resulting in external funding. There were 40 PhD completions in the current REF period
+ and the school currently has 24 active doctoral researchers. The majority of these students are
+ self-funded, with seven of them being supported by various School (previously Faculty) or
+ University-based scholarships (e.g. Quintin Hogg Scholarship, FST Studentship, Cavendish
+ Research Scholarship) or external scholarships (e.g. JY Park PhD Studentship in Imaging
+ Science). The studentships are either fully-funded scholarships (fees and a stipend) or fee
+ waivers. The value of a fee waiver is £5,360 pa for home students and £13,700 pa for overseas,
+ while the stipend is £17,338 pa. Scholarship opportunities are openly advertised, with awards
+ going to candidates with the best academic credentials, who satisfy the conditions of the support.
+ Doctoral researchers’ expenses (e.g. publication or conference fees) are covered by various
+ university-wide sources (e.g. Globally Engaged Research Scholarship Scheme, Professor
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ Geoffrey Petts Memorial Fund, or the University of Westminster 125-Fund), as well as by the
+ School.
+
+ Doctoral researchers are located in dedicated research rooms in the School’s Central London
+ building, where they can work in close proximity to each other and their supervisory team. Doctoral
+ researchers have their own workstations and also get access to more specialised computing
+ resources on demand, for example the school’s high-performance computing cluster and its
+ private cloud computing resource, or specialised multimedia or wireless communication
+ laboratories (see Section 3). Doctoral researchers share the research rooms with Research
+ Associates/Fellows, typically working as part of a research group, and therefore have the
+ opportunity to interact with more experienced but typically recently graduated post-docs. In this
+ way, doctoral researchers are able to better engage with externally-funded projects and
+ become part of a research grouping within the School.
+
+ All doctoral researchers have a Director of Studies and at least one Second Supervisor.
+ Supervisors receive dedicated time in their WAM (60 hours for Director of Studies and 15 hours
+ for other supervisors) for supporting the students. There are several doctoral researchers whose
+ topic is cross-disciplinary, and they are supervised by corresponding cross-disciplinary teams
+ spanning multiple Schools. For example, Kiss and Terstyanszky have supervised doctoral
+ researchers in collaboration with the School of Life Sciences and Westminster Business School,
+ Tarczynsky with the Department of Social Sciences, and Economou and Mentzelopoulos with
+ Psychology.
+
+ Proactive and responsive support of our research degrees program is led by the School Research
+ Student Coordinator (Tarczynsky) and aligned with the wider University provision, which has
+ evolved considerably since 2014. The University-wide Graduate School provides a focal point for
+ doctoral researchers offering a range of developmental activities, including seminars and
+ networking events to facilitate sharing of best practices, and supports the personal and
+ professional development of doctoral and early career researchers.
+
+ Key stages of student progress are rigorously monitored as part of the Annual Progress Review
+ (APR) process at both School and Graduate School levels. An independent member of staff,
+ suitably trained, ensures examiners adhere to the University regulations, chairs MPhil-PhD
+ transfer and PhD vivas, and ensures that processes are rigorous, fair, reliable and consistent.
+
+ All doctoral researchers undertake the University’s Doctoral Research Development
+ Programme (DRDP), the local implementation of the Vitae Researcher Development Framework
+ (RDF). DRDP includes academic, research and transferable skills delivered through University-
+ wide and discipline-specific sessions. These are specifically geared towards the students’ needs
+ at each stage of their PhD. Doctoral researchers are also able to enrol on relevant
+ modules/sessions from MSc courses. Additional activities include the Graduate School Annual
+ Lecture, and networking events such as the Graduate School Assembly and Annual Fair (further
+ details in REF5a).
+
+ The SCSE annual research conference, primarily intended for research students, helps expose
+ students, their supervisors and other academics in the School to a wide spectrum and diversity of
+ research, well exceeding that of topic-based conferences. The conference also features high-
+ profile external presenters (e.g. Prof Simon Taylor from Brunel University London in 2019), as
+ invited speakers.
+
+ At an individual level, several of our PhD students achieved significant national and international
+ recognition. Examples include: Hykoush Asaturyan (supervisor: Villarini) was invited for a four-
+ month scholarly visit by the Harvard Medical School (USA) in 2019; Mohsen Mesgarpour
+ (supervisor: Chaussalet) was runner-up for the OR Society Doctoral Award in 2017; Oliver Van
+ Zwanenberg (supervisor: Triantaphillidou) won Best Conference Paper award during the 2020
+ IS&T International Symposium on Electronic Imaging (Burlingame, California, USA); Ed Fry
+ (supervisor: Triantaphillidou) won Best Student Paper award during the 2018 IS&T International
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ Symposium on Electronic Imaging (San Francisco, California, USA); Yaprak Eminaga
+ (Supervisor: Kale) won best written and presented paper award at the 11th Conference on PhD
+ Research in Microelectronics and Electronics (2015), and best presented paper at the 4th
+ International Conference on Frontiers of Signal Processing (2018).
+
+ 2.3 Equality and Diversity
+
+ The School of Computer Science and Engineering is strongly committed to equal opportunities,
+ with a diverse staff and student body drawn from a range of different social and national
+ backgrounds. We recognise that tackling unconscious bias requires a number of approaches.
+
+ At the institutional level we require all staff undertake an on-line ‘diversity training’ module. We
+ have a number of networks within the University, such as the LGBTQ+ staff network, BME staff
+ network and Women of Westminster, that support colleagues who are traditionally under-
+ represented in research. These networks feed into the newly formed University of Westminster
+ Equality Diversity and Inclusion Committee. The University are members of the Women in Science
+ and Engineering network. The University of Westminster was the first university to be awarded the
+ post May-2015 Athena Swan Bronze award (see REF5a). Two Royal Academy of Engineering
+ Visiting Professors, Prof Yewande Akinola and Prof Sarah Main, have also been appointed
+ who actively promote and address issues related to E&D through workshops and brainstorming
+ sessions.
+
+ At the School level, colleagues with caring responsibilities have been able to access part-
+ time/flexible working hours, as agreed with the Head of School. SCSE is committed to
+ implementing policies to ensure equal opportunities for researcher recruitment and
+ development with respect to gender, race, nationality and other forms of diversity. The University
+ requires all procedures to meet the standards of the Athena Swan charter, and all appointment
+ panels within the School are gender-balanced. All members of interview panels are required to
+ undertake recruitment training, which has a particular emphasis on E&D issues. This is the case,
+ too, for promotion procedures. A quarter of readers and professors are women, which is only
+ marginally fewer than the overall representation of women within the whole School (30%) and
+ within REF eligible staff (35%). The staff group is very diverse in terms of international background
+ and has 23% BME representation.
+
+ At the individual level, members of the UoA are involved in various organisations and initiatives
+ promoting and supporting diversity. For example, Angelopoulou carries out consultancy work
+ with the Equality Challenge Unit, an advisory body that monitors equality in higher education
+ and administers Athena SWAN and Race Equality charter marks. WAM is also used to ensure
+ transparency of and equal access to resources for research, including, for example, sabbaticals,
+ start-up funding, funded PhD students, conference attendance and training, and support for
+ submission of funding applications. Staff who have needed to take extended periods of leave due
+ to caring responsibilities, parental leave or ill health are contacted shortly before their return by
+ their Line Manager/Head of School and plans are implemented to enable them to pick up their
+ research effectively and with appropriate support.
+
+ Doctoral researchers with protected characteristics are encouraged and specifically
+ supported during application, admission and throughout their research studies. Both the University
+ and UoA11 make it very clear on all forums (website, advertisements and hard copy materials)
+ that we welcome applications from potential doctoral researchers with protected characteristics
+ and from diverse backgrounds who are currently under-represented. 42% of our current doctoral
+ researchers are female, and approximately 80% are from a black or ethnic minority
+ background. Many scholarship schemes, e.g. the Quintin Hogg Fund Studentship, specifically
+ list equality, diversity and inclusion as one of the selection criteria, and welcome BAME candidates
+ and proposals that engaged with the decolonising and diversifying of disciplines and/or the
+ university.
+
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ Equality and diversity considerations related to REF processes and submission: UoA Leads and
+ all internal readers involved in the evaluation process leading up to this submission received
+ training on all relevant aspects of equality and diversity related to REF2021. UoA Leads also
+ met regularly with staff to ensure as much transparency as possible throughout the process of
+ constructing the submission. In UoA11, both one-to-one meetings between the UoA lead (Kiss)
+ and eligible staff, and several group meetings took place to explain fully the REF eligibility and
+ output and impact case-study selection processes. Following University policy, outputs were
+ selected by taking the minimum one output per researcher selected on a quality basis, with the
+ remaining pieces comprising the highest-rated pieces in the available output pool, as graded by a
+ minimum of two (in most cases three) internal reviewers. Evaluation was also guided by suggested
+ grades and comments from an independent external advisor who is a former REF UoA11 panel
+ member. Where assessments resulted in the same grade, representation of staff with protected
+ characteristics and of research areas across the submission was taken into consideration in the
+ final decision.
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income
+
+ External research funding received by the unit (£626K per year on average, or £4.4 million overall)
+ showed an increase on the numbers reported in REF2014 (£600K per year on average, or £3
+ million overall), and a dramatic, almost 5 times increase when compared to RAE2008. The
+ numbers demonstrate that the significant increase reported in 2014 was part of a consistent
+ strategy promoting increased external income generation, and that this strategy was successfully
+ continued in the current REF cycle.
+
+ While the majority of the income is generated by some specific very successful research
+ groups/individuals (e.g. Kiss, Kale, Triantaphillidou), there is a growing trend of early and mid-
+ career researchers also successfully bidding for funding and building up their research profile (e.g.
+ Mentzelopoulos, Angelopoulou, Pierantoni, Villarini).
+
+ Overall, income has been derived from 56 projects and smaller contracts, contributing between
+ £5,000 and £700,000 each. The largest funding source, as in the previous REF period, was EU
+ funding. This incorporated some large collaborative projects which the UoA either coordinated or
+ played a very significant role in. The largest examples of income include COLA (coordinator Kiss,
+ £715K), Advanced Forest Fire Fighting (contributor: Kale, £670K), CloudiFacturing (contributor
+ Kiss, £645K), CloudSME (coordinator Kiss, £560K), ASCLEPIOS (coordinator Kiss, £486K),
+ DIGITbrain (contributor Kiss, £350K), SCI-BUS (contributor Terstyanszky, £290K). Consultancy
+ and industry/government funded applied research provided the second largest income source,
+ including KTPs. Examples include a KTP project with Switchfire Ltd. (Psarrou), SBRI Integrated
+ Care with Docobo Ltd. (Chaussalet), understanding human spatiotemporal visual sensitivity to
+ real scenes in the presence of noise sponsored by DSTL (Triantaphillidou), the development
+ of low-complexity, low-power processor and processing engines for the European Space Agency
+ (coordinator Kale, £300K), and mobile phone camera image quality sponsored by Huawei
+ (coordinator Triantaphillidou - £341K).
+
+ The Unit works closely with its dedicated Research Development Partner (RDP) who regularly
+ circulates funding opportunities and supports staff to target possible sources of funding, helping
+ to match our expertise to available opportunities and funding council priorities. The RDP also
+ supports the grant preparation process by providing and uncovering on-demand grant specific
+ information, assisting the costing of applications, and administering the internal peer-review and
+ approval process prior to submission.
+
+ In order to improve the quality and maximise the chances of proposals, each funding application
+ needs to go through an internal peer review process before submission and approval. This peer
+ review, conducted via the Virtual Research Environment (VRE), typically involves two members
+ of staff giving their independent opinion on the proposal. Written feedback from this review is
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ utilised by the team preparing the application to improve its quality. The review and approval
+ process are conducted and documented in a transparent way on the VRE that provides auditable
+ evidence regarding every step of the process.
+
+ 3.2 Infrastructure and facilities
+
+ SCSE provides a vibrant and supportive environment for a wide range of discipline-focused,
+ interdisciplinary and multidisciplinary research. The School has well-equipped, specialised
+ research laboratories available for use by staff and doctoral researchers. The technical and
+ material support for these facilities is coordinated at the level of the School. Their day-to-day
+ operation, championing their expansion and facilitating their use, is overseen by dedicated groups
+ of researchers who are the prime users of the laboratories.
+
+ The Parallel and Distributed Computing Laboratory (Kiss, Getov) comprises a high-
+ performance computing cluster (purchased in 2015 with investment of £214K) of 256 cores,
+ 10TB storage and Infiniband networking; a GPU cluster of 20 GPUs; and a cloud cluster
+ (OpenStack cloud resource of 20 nodes with 16 cores each). These facilities are complemented
+ with access to external resources, mainly as part of ongoing European collaborations. Such
+ external facilities include dedicated CloudBroker Platform installations enabling access to
+ heterogeneous public (Amazon and CloudSigma) and private (SZTAKI Hungary, Czech National
+ High-Performance Computing Center IT4I) cloud resources. The value of such resources from
+ external cloud providers was approximately £10K per year.
+
+ The Computational Vision and Imaging Technology RG laboratory led by Triantaphillidou is
+ equipped with state-of-the art equipment (estimated value £75K) that allows the evaluation of
+ imaging system performance and visual quality, focusing in particular on digital cameras (such as
+ CCTV, commercial, mobile), all types of image displays, colour and light measurement equipment,
+ specialised, very high-quality displays, high performance workstations, image quality testing
+ software and a large number of commercially calibrated test charts.
+
+ The Applied Digital Signal Processing and VLSI Research Group laboratory led by Kale
+ comprises equipment for Real-Time DSP (hardware and software), FPGAs, GPUs and
+ Microcontrollers, Digital Radio Communications, GNSS signal generators and tools, digitally
+ configurable analogue front-end FPGA platform for the GNSS and software defined radio
+ receivers, IoT and sensor networks and platforms, Biomedical instrumentation and diagnostic
+ systems and prototypes as well as Energy harvesting systems, with prototype build and test
+ stations and 3D printing facilities. The current value of the kit in the lab is estimated to be in excess
+ of £250K.
+
+ The Wireless Communications Research Group laboratory led by Budimir, with an estimated
+ value of £600K, comprises equipment for advanced design of wireless circuits and systems from
+ RF through Micro-/mm-wave to Terahertz frequencies for 4G, 5G (up to 20 Gbps), Beyond 5G (up
+ to 100 Gbps) and 6G (Peak rate: 1Tbs (50x of 5G), Latency: 100 μs (1/10 of 5G)) wireless
+ technologies, wireless power transmission, electromagnetic field exposure, wireless sensors,
+ Internet-of-Things (IoT), wireless Artificial Intelligence, M2M and biomedical applications. The lab
+ is equipped with the latest RF and mm-wave instrumentation including a 67 GHz Agilent PNA
+ (E8361A) vector network analyser for testing components for 4G and 5G mobile and ultra-
+ wideband communications, a 20 GHz Tektronix spectrum analyser, noise figure meter, and a 6
+ GHz Agilent MXG vector signal generator (N5182A).
+
+ The Serious Games at Westminster laboratory, led by Economou, makes use of equipment
+ and facilities provided by the XRLab that represents a £184K investment by the University
+ (University and School budgets and the Quintin Hogg Trust). Facilities in the lab include a range
+ of VR equipment, such as Head Mounted Displays, VR-accessories such as (HTC Vive Object
+ Tracker, VRGO Chair Controller), high quality VR 360 cameras, and Microsoft Kinects.
+ Specialised software, such as Articulate Storyline and Adobe Captivate, are used also by the
+ group to create game simulations.
+
+                                                                                                  Page 11
+Unit-level environment template (REF5b)
+
+ The Cognitive Computing Research Laboratory, led by Kapetanios, estimated value £7.4K,
+ owns equipment for conducting neurophysiological (motor and sensory evoked potentials, EEG
+ and GSR) research and prototyping on-board vision-based perception on two robotized cars.
+ The team also owns a high specification workstation, funded by the Dunhill Medical Trust, to
+ work on the computational demands of deep learning algorithms. In addition, the team has
+ access to a Motion analysis laboratory, including six marker-based IR motion cameras and the
+ supporting software provided by iMotions A/S, Copenhagen, Denmark.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Research collaborations at national and international levels
+
+ Strong collaborative links are built and maintained with universities, research institutions and
+ industry. These connections regularly lead to joint funding opportunities and collaborative projects
+ that are maintained on a long-term basis. Primary examples include:
+
+ The Centre for Parallel Computing (CPC) (Kiss, Terstyanszky, Pierantoni, Michalas,
+ Dagdeviren) has been involved in ten collaborative EU FP7 and H2020 projects since
+ REF2014 (leading and coordinating four of these projects). As a result, the CPC has built a very
+ large network of collaborators that spans over 20 European countries, more than 50
+ collaborating universities, and over 100 companies (primarily from the manufacturing and
+ technology sectors). Examples include: UK and European universities (e.g. University of
+ Nottingham, Cardiff University, University of Zaragoza (Spain), Lund University (Sweden)),
+ European research institutions (e.g. Fraunhofer and DFKI (Germany), INRIA (France)), and
+ companies (e.g. Saker Solutions Ltd. and the Audience Agency (UK), CloudSigma AG
+ (Switzerland), SimSoft Ltd. (Turkey), PodoActiva SL (Spain), CloudSME UG (Germany)). These
+ collaborations resulted in significant socio-economic impact with 86 SMEs (small and medium
+ sized enterprises) from over 20 European countries reporting an estimated cumulative turnover
+ increase of 100 million Euros, approximately 550 new products or services, 650 new jobs,
+ and 1,100 new business/commercial partners or customers, and public sector
+ organisations, such as the local government of the Aragon region of Spain reporting higher
+ satisfaction towards government services, within the current REF period. CPC is also a co-founder
+ of the International Science Gateway community, collaborating with universities from the USA (e.g.
+ Purdue University) and Australia (e.g. University of Melbourne) since 2009.
+
+ The Computational Vision and Imaging Technologies Research Group (Triantaphillidou,
+ Psarrou, Villarini) has joint projects with various academic institutions (e.g. University
+ College London, Royal Veterinary College (UK), University of Valencia (Spain)), large public and
+ commercial entities (e.g. Ministry of Defence, Home Office, Transport for London (UK), Huawei
+ Ltd (China)), and SMEs (e.g. SpectralEdge, Linguisticator, Utopia Ltd). Outcomes of such
+ research collaborations were incorporated into CCTV recording systems applied by TFL, and
+ utilised by Huawei for product picture quality verification, generating significant socio-economic
+ impact.
+
+ The Distributed and Intelligent Systems Research Group (Getov) has developed an extensive and
+ unique track record of international achievement and recognition in different parts of the world,
+ collaborating with around 20 research and industry partners. For example, within "The Innovation
+ and Foreign Experts Research Collaboration in High Confidence Software Technologies" project,
+ that also involved a Visiting Professor appointment at Peking University (Getov), they worked with
+ US (e.g. Iowa State University, Purdue University) and European (e.g. Polytechnic University of
+ Milan) universities. Their research also generated significant impact, including the inclusion of their
+ Message Passing for Java (MPJ) specification in the Open MPI (Message Passing Interface)
+ software environment, and the industry utilisation of their research results by IBM Research
+ Laboratory in Rueschlikon Switzerland, and ActiveEon and Atos in France.
+
+
+
+                                                                                                Page 12
+Unit-level environment template (REF5b)
+ The Cognitive Computing Research Group (Kapetanios, Angelopoulou) collaborated with the
+ Deafness Cognition and Language Research Centre of University College London (funded by the
+ Dunhill Trust). They have also been involved in collaboration initiated and led by the IEEE
+ Standardisation Association, working group P7003 on algorithmic bias, with partners such as
+ Georgia Tech and Columbia Law School (USA), Leiden Law School (Netherlands), Ernst & Young,
+ University of Mainz (Germany). Impact of their research included the development of an
+ automated screening toolkit to improve early screening for Dementia among British Sign
+ Language users, saving costs associated with the diagnosis and treatment.
+
+ The Health and Social Care Modelling Research Group (Chaussalet, Chahed, He) collaborates
+ with Universities in the UK and Internationally (e.g. University of Nottingham, Bulgarian
+ Academy of Sciences, George Mason University USA, Ecole des Mines de Saint Etienne (France),
+ Persian Gulf University (Iran)) in the area of modelling and analysing healthcare systems.
+ Additionally, HSCMG collaborates with NHS Trusts (e.g. King’s College Hospital, London North
+ West University Healthcare NHS Trust), Clinical Commissioning Groups (e.g. Surrey Downs,
+ Crawley), NHS Improvement, and SMEs (e.g. Docobo, Optimity Advisors).
+
+ The Serious Games at Westminster Research Group (Economou, Mentzelopoulos) has three
+ main areas of collaboration: educational technologies (e.g. Graz University of Technology
+ (Austria), RMIT University Melbourne (Australia), Friedrich-Alexander-University (Germany),
+ University of Thessaly (Greece)), advanced interfaces and cultural technology (e.g. University
+ of Brighton, University of the Aegean (Greece)), and serious games in healthcare (e.g. Aristotle
+ University of Thessaloniki (Greece)). The group also has extended industry collaborations
+ through Keep+ EU projects (e.g. PC Power Int. Ltd and Amplified Global Ltd).
+
+ The Wireless Communications Research Group (Budimir, Kontogiannis) collaborates with
+ several Universities in the UK (e.g. UCL, Imperial College, Queen Mary University London,
+ University of Manchester, University of Cambridge) and worldwide (e.g. University of Colorado
+ Boulder (USA), KTH Royal Institute of Technology (Sweden), University of Sydney (Australia),
+ City University of Hong Kong, IIT New Delhi (India)). WCRG's activities include strong industrial
+ collaboration with national and international companies (e.g. Keysight Technology UK Ltd.,
+ Filtronic Broadband Ltd., SONY Europe B. V. Ltd.). The team has a long track record of
+ involvement with industry and start-ups, and more than 1000 copies of one of Budimir’s filter
+ software was acquired by companies and educational establishments.
+
+ The Applied DSP and VLSI Research Group (ADVRG) (Kale, Reni, Coskun) is especially strong
+ in industrial collaboration and worked with and provided technology transfer for (among others)
+ Airbus Defence and Space, European Space Agency, Mitsubishi Electric VIL, Dialog
+ Semiconductor Ltd., Burr-Brown Europe Ltd., NOKIA Ltd., Ericsson Components AB.
+
+ Within the Software Systems Engineering Research Group, Bolotov leads international research
+ collaborations on automated reasoning, resulting in high-quality joint publications, including
+ researchers from the Moscow State University (Russia), University of San Sebastian (Chile),
+ University of Poznan (Poland), University of Liverpool (UK), Ecole Polytechnique Fédérale de
+ Lausanne (Switzerland).
+
+ Indicators of wider influence, contributions to and recognition by the wider research base
+
+ A list of selective contributions:
+
+ Journal Editorship:
+
+ Editor in Chief/major role: Editor in Chief Journal of Grid Computing (Springer) 2020- (Kiss),
+ Area Editor for High Performance Computing, IEEE Computer, IEEE, 2008- (Getov),
+
+ Member of Editorial Board: IEEE IT Professional 2016-2019 (Getov), International Journal of
+ Computational Science and Engineering 2005- (Getov), Future Internet (MDPI) 2020- (Kiss),
+
+                                                                                          Page 13
+Unit-level environment template (REF5b)
+ Health Care Management Science (Springer) 2006- (Chaussalet), World Medical Health Policy
+ (Wiley) 2010- (Chaussalet), BMC Health Services Research (Biomed Central) (Chaussalet,
+ Chahed), Imaging Science Journal (Taylor & Francis) 2011- (Triantaphillidou), IEEE
+ Transactions on Circuits and Systems (Kale); Journal of Navigation (Kale).
+
+ Special Issue Guest Editor: IEEE Computer (Getov); Concurrency and Computation, Practice
+ and Experience (Wiley) (Kiss, Pierantoni), Health Care Management Science (Springer)
+ (Chaussalet), Journal of Electronic Imaging (Triantaphillidou), Journal of Computational
+ Intelligence and Neuroscience (Kapetanios, Angelopoulou); Sensors (MDPI) (Kapetanios,
+ Psarrou, Angelopoulou), Expert Systems (Wiley) (Psarrou), Neural Computation and
+ Applications (Springer) (Psarrou), Neurocomputing (Elsevier) (Psarrou), Neural Processing
+ Letters (Springer) (Psarrou, Angelopoulou), Complexity (Wiley) (Angelopoulou), Journal of
+ Universal Computer Science (Mentzelopoulos), Personal Ubiquitous Computing (Springer)
+ (Mentzelopoulos, Economou), Energies (MDPI) (Kontogiannis).
+
+ Participation on Grants Committees: National Science Centre of Poland (member 2019, chair
+ 2020) (Tarczynski), Russian National Research University (2014-2020) (Bolotov), Fond de
+ recherché du Quebec, Nature et Technologies (2014 – 2015) (Chahed), Norway Research
+ Council (2019) (Triantaphillidou), Lifelong Learning for Intelligent Systems by CHIST-ERA (2016)
+ (Angelopoulou), National Institute of Health Research Peer Review Panel 2007- (Chaussalet),
+ EPSRC Peer Review College 2006-2016 (Chaussalet).
+
+ National/International Committees: IEEE Computer Society’s Board of Governors 2016-2018,
+ Secretary of Publications Board Executive Committee of IEEE Computer Society 2016-2018,
+ Technical & Conference Activities Board Executive Committee of IEEE Computer Society 2017,
+ IEEE CS Constitution and Bylaws Committee 2016, Executive Committee IEEE CS Technical
+ Consortium on High Performance Computing 2017-2020, Chair of IEEE CS TCHPC Early Career
+ Award of Excellence in HPC 2018-2020 (Getov); Member of the National Professors and Heads
+ of Electrical Engineering Committee, Vice Chair of the IEEE UK & Ireland Section, Member IEEE
+ Technical Committee on CAS Education and Outreach, Member of the IEEE waveform Digitization
+ ADC/DAC Standards Committee (Kale); Vice President and Executive Board Member of Society
+ of Imaging Science & Technology 2019-, Science Committee and Science Qualifications Board of
+ the Royal Photographic Society 2016- (Triantaphillidou); BSI (British Standards Institute) SG42
+ on Responsible Artificial Intelligence (Kapetanios).
+
+ Visiting Professor/Fellow: Visiting Professor at National Key Lab of High Confidence Software
+ Technologies Peking University China (2017-), Visiting Lab Fellow at Pacific Northwest National
+ Lab Richland USA 2014-2016, Honorary Professor at Technical University of Sofia, Bulgaria
+ (2012-) (Getov).
+
+ Prizes/Awards: State Order ‘Saints Cyril and Methodius’ (second ranked Bulgarian order) by the
+ President of the Republic of Bulgaria 2020; Golden Core Award of IEEE Computer Society 2017
+ (Getov). Service Award USA Society of Imaging Science & Technology 2016 (Triantaphillidou).
+ Best paper/presentation awards: International Symposium on Electronic Imaging 2020 (Psarrou)
+ International Symposium on Bioinformatics and Biomedicine 2020 (Chaussalet).
+
+ Invited keynotes: IEEE International Conference on Electronics Circuits and Systems 2020
+ (Kale), International Conference on Recent Advances in Space Technologies 2019 (Kale),
+ International Symposium on the Future of High-Performance Green Computing Tokyo Japan 2018
+ (Getov), TopHPC2017 Tehran Iran 2017 (Getov), 6th Sixth International Conference on Parallel,
+ Distributed and Grid Computing (IEEE) 2020 (Kiss), 10th European Conference on Computational
+ Chemistry Fulda, Germany 2015 (Terstyanszky), 6th EUChems Chemistry Sevilla Spain 2016
+ (Terstyanszky), 12th International Workshop on Science Gateways 2020 (Kiss), Operational
+ Research Society Annual Conference 2016 (Chaussalet), AMSDA Demographics Workshop
+ 2017 (Chaussalet), 41st International Spring Seminar on Electronics Technology, Zlatibor Serbia
+ 2018 (Budimir), 17th International Symposium INFOTEH-JAHORINA, Serbia, 2018 (Budimir),
+ High Performance Computing Conference Kyiv Ukraine 2018 (Pierantoni),
+
+                                                                                         Page 14
+Unit-level environment template (REF5b)
+
+ Conference chairs: IEEE Int. Computer Software and Applications Conference COMPSAC 2019
+ (Getov), IEEE CCGrid Conference Program Committee Vice-Chair 2014 (Getov), IntenetWare
+ Symposium 2016 (Getov), International Conference on Imaging for Crime Detection and
+ Prevention 2019 (Kale), Professors and Heads of Electrical Engineering Conference 2015-2020
+ (Kale), International Conference on Quantitative Modelling for the Management of Health and
+ Social Care 2016 (Chaussalet), Workshop on Metrification and Optimization of Input Image
+ Quality in Deep Networks (Psarrou), UK Automated Reasoning Workshop 2014-2020 (Bolotov);
+ Software Engineering Technologies & Applications symposium within COMPSAC 2017 (Bolotov),
+ International Workshop on Science Gateways 2014, 2017 (Kiss), SPIE/IS&T Electronic Imaging:
+ Image Quality and System Performance conference, 2012-2015 (Triantaphillidou), Academic
+ Program Chair, Local Chair, Special Track Chair on Annual International Conference of the
+ Immersive Learning Research Network 2015 – 2020 (Economou), Local co-chair: European
+ Microwave Week Conference 2016 (Budimir).
+
+ Refereeing academic publications or research proposals (examples):
+
+ Journals: IEEE Transactions on Signal Processing, IEEE Signal Processing Letters
+ (Tarczynski); Neural Processing Letters (Springer), Data & Knowledge Engineering (Elsevier)
+ (Kapetanios); IEEE Transactions on Power Systems, IEEE Transactions on Fuzzy Systems
+ (Kontogiannis); Journal of the OR Society, IEEE Journal of Biomedical and Health Informatics
+ (Chaussalet); IEEE Transactions Circuits and Systems (Kale); Neural Computing and
+ Applications (Springer), Imaging Science Journal (Psarrou); Journal of Applied Logic, Computer
+ (Bolotov); International Journal of Interactive Mobile Technologies (Mentzelopoulos); Future
+ Generation Computer Systems (Elsevier) (Kiss, Terstyanszky); Signal Processing (IEEE),
+ Communications (IEEE) (Coskun); Concurrency and Computation, Practice and Experience
+ (Wiley) (Kiss); Health Care Management Science (Springer), Supply Chain Forum (Chahed);
+ Applied Soft Computing (Elsevier); Neural Networks (Elsevier) (Angelopoulou).
+
+ Research proposals: EPSRC/ESRC (Kapetanios, Chaussalet, Kale, Bolotov, Angelopoulou,
+ Budimir); European Commission (Getov, Psarrou, Kiss); Innovate UK (Kapetanios); Newton
+ Funds (Kapetanios); NIHR, MRC (Chaussalet); Foundation for Polish Science (Tarczynski);
+ IWT Research Council in Belgium, MITA Research Council in Lithuania, Bulgarian National
+ Science Fund, Research Promotion Foundation in Cyprus (Getov); Dutch Research Council,
+ Austrian Agency for International Cooperation in Education and Research (Angelopoulou);
+ NSERC Canada, RGC Hong Kong, HiCi Kingdom of Saudi Arabia, MNRS Serbia (Budimir).
+
+ Public engagement: Kale was, for example, interviewed for the BBC Click Technology program
+ “How wireless sensors could help fight forest fires” (2017) and “Wireless sensors to fight wild
+ forest fires” (2018), appeared on the BBC World News, Click program, “Trailblazers: The Future
+ of Firefighting” (2019).
+
+
+
+
+                                                                                         Page 15
+

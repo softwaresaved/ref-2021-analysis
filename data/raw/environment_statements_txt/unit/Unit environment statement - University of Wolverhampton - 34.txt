@@ -1,0 +1,853 @@
+Unit-level environment template (REF5b)
+ Institution: The University of Wolverhampton
+
+ Unit of Assessment: 34 Communication, Cultural and Media Studies, Library and
+ Information Management
+
+ 1. Unit context and structure, research and impact strategy
+
+ a) How Research is Structured across the Unit
+
+ This submission is from the Statistical Cybermetrics Research Group (SCRG), which formed in
+ 2000. It contains 14 full-time and part-time members of staff and usually 4-8 PhD students. Staff
+ employed by the SCRG are on research-only contracts (6) and non-SCRG staff are on teaching
+ and research contracts in the School of Mathematics and Computing (6), or other schools (2).
+
+ The SCRG operates within the Research Institute for Information and Language Processing
+ (RIILP) alongside the Research Group in Computational Linguistics (RGCL). Both are well
+ known and highly regarded for their internationally leading research. For context, the SCRG was
+ submitted to the “Library and Information Management” Unit of Assessment in RAE2008, where
+ it ranked joint second. In REF2014, the SCRG obtained an average score of 3.37 out of 4 in the
+ “Communication, Cultural & Media Studies, Library and Information Management”, which was
+ joint 5th. Almost all its research was rated "world leading" or "internationally excellent", with the
+ second highest average score for research outputs in this subject area.
+
+ Within RIILP, RGCL and SCRG collaborate on small projects and PhD student supervision, and
+ share administration. They also share a student management board due to a common interest in
+ social-related quantitative research. RGCL and SCRG host a joint research seminar series of
+ invited speakers and PhD student talks. RGCL is in UoA26.
+
+ The SCRG is led by Thelwall but has no internal hierarchy. Members independently oversee
+ their own research in addition to teaching (8) or content analysis (4) responsibilities and
+ supervising PhD students. Four content analysts work half on joint content analysis tasks as a
+ team, normally with other researchers in the group, and half on their own independent research.
+ Members are free to choose their own research topics. Distinct research directions that overlap
+ with, but are not core to, the remaining SCRG scientometric (quantitative science studies)
+ research are from Bailey (academic writing), Fairclough (attainment and diversity in Higher
+ Education), Levitt (the underrepresentation of disabled people in academia), Makita (ageing and
+ social media), Stuart (academic image sharing), Thelwall (social science research methods),
+ and Wilson (statistics), with non-overlapping research from Tobin (freshwater ecology).
+
+ b) Research Objectives Past and Future and Performance
+
+ REF2014 strategy evaluation
+
+ The core submitted REF2014 strategy for 2014-2020 was:
+ “(a) to seek out new opportunities to research new methods for efficient and effective gathering
+ and analysis of web data for new sources and for new problems;”
+ This was highly successful, as evidenced by over 177 journal articles and three books published
+ 2014-2020, about half using altmetrics or social media data.
+ “(b) to extend our existing methods and software to increase their power and widen their scope
+ for applications;”
+ The success is evidenced by two new software tools: TensiStrength stress detection and
+ PeerJudge academic review assessment. Three existing tools have also received substantial
+ upgrades: Mozdeh social media analysis added language support, statistical data mining and
+ gender detection; Webometric Analyst added approximately fifty new scientometric analysis
+ options, such as Google Books citations; SentiStrength added Japanese and Early Modern
+ English support.
+ “(c) to develop an established base to supply contract-based policy-relevant indicators”.
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+ The case studies show that we have maintained commercial indicator work and supplemented it
+ with indicator consultancy and UK Higher Education advice.
+
+ REF2021 research strategy
+
+ The primary REF2021 research strategy was topic-based: to develop a series of research
+ strands that exploit the group’s methodological strengths and topic knowledge and address
+ important research questions. This was an intentionally flexible strategy with individual research
+ projects typically taking less than six months (except for PhD students and part-time
+ researchers). The following core research themes were developed as part of this strategy, each
+ supported by multiple papers during REF2021.
+
+       Statistical models for research assessment
+       Novel altmetric and other web indicators for research evaluation and consultancy
+       Traditional and web indicator robustness
+       Science of science
+       Open science
+       Social web image sharing
+       Disability and equality in academia
+       Gender in academia
+       Gender in the social web
+       Literature consumption
+       Sentiment analysis variations
+
+ Our primary evaluation method is external review through rigorous high-quality journal peer
+ review. We were highly successful with 177 journal articles (Table 1) passing review: 12.5 per
+ submitted staff or 16 per FTE. The core scientometrics journals were Journal of Informetrics, and
+ Scientometrics, with Journal of the Association for Information Science and Technology being
+ the undisputed core journal for library and information science (e.g.,
+ https://doi.org/10.1086/668574); Information Processing & Management, Journal of Information
+ Science and Journal of Documentation are also recognised high-quality journals, and El
+ Profesional de la Información and ASLIB journal of Information Management have excellent
+ editorial support and a growing reputation. These venues have predominated for our articles
+ (Table 1). In 2020 we switched from Journal of Informetrics to Quantitative Science Studies (per
+ discipline policy, discussed below), which we believe is already a core disciplinary journal.
+
+ Table 1. Journal publications from the group during REF2021.
+  Journal name                                                           Articles
+  Journal of Informetrics                                                31
+  Journal of the Association for Information Science and Technology      30
+  Scientometrics                                                         27
+  El Profesional de la Información                                       11
+  Quantitative Science Studies*                                          10
+  ASLIB Journal of Information Management                                8
+  Journal of Information Science                                         5
+  Online Information Review                                              5
+  Learned Publishing                                                     4
+  Information Processing & Management                                    3
+  Journal of Librarianship & Information Science                         3
+  PLOS ONE                                                               3
+  Research Evaluation                                                    3
+  Disability & Society                                                   2
+  Journal of Data and Information Science                                2
+  Journal of Documentation                                               2
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+  Journal of Altmetrics*                                               2
+  Others**                                                             26
+ *New journal not in Scopus or Web of Science (WoS); **All except 8 in Scopus and/or WoS
+
+ Beyond REF2021 research strategy
+
+ We plan to continue with our successful agenda-setting, agile, flexible topic-based research
+ strategy. This approach plays to our strengths and allows members to apply their skills
+ effectively. Our research thrives without project-based funding because we exploit free web data
+ and our own programming. This gives the freedom to publish early research, opening new
+ topics. We follow four stages for major topics.
+ 1. Initiation / agenda setting: Environment scanning for new research problems/opportunities and
+ publishing initial agenda-setting analyses.
+ 2. Investigation: Developing and evaluating mature methods and findings for the topic.
+ 3. Application: Exploiting the mature methods for problem solving in related areas or practical
+ applications.
+ 4. Maintenance: Updating methods in response to new developments, talking to users about
+ potential novel applications.
+ We additionally plan to (a) support Levitt’s disability research towards impact and (b) exploit our
+ social media analysis strengths to help open ethnicity-related research strands within a new
+ multidisciplinary digital humanities centre.
+
+ c) Impact from the research and the link to Impact Case Studies
+
+ The SCRG has a multi-pronged strategy to ensure that its research is as impactful as possible
+ (a) within its discipline, (b) within other disciplines, (c) in applied scientometrics (e.g., research
+ evaluations), and (d) outside of an academic research context. The underlying themes are open
+ sharing of papers, software and data to promote availability, training and online help information
+ to promote methods and software re-use, and consultancy to apply knowledge to practical
+ problems outside research contexts. The approach and outcomes are described in detail below.
+  Social media analysis software and methods in the wider social sciences: The Mozdeh
+     software to gather and analyse social media content from Twitter and YouTube has been
+     promoted to the wider social sciences. It incorporates search and filtering technology as well
+     as word-frequency based statistical association mining methods to support big data pattern
+     detection, including for gender (male, female, nonbinary), sentiment, country, time and
+     topics. Mozdeh existed in a more basic form before 2014. It is freely shared online for other
+     researchers (http://mozdeh.wlv.ac.uk) with instructions, examples, a free book (Social web
+     text analytics with Mozdeh), methods-based book chapters and methods-based and applied
+     journal articles. Throughout the current REF period, these methods were disseminated
+     through one-day social media data analysis training workshops at least twice every year
+     (except 2020 due to Covid-19) at the Cathie Marsh Institute for Social Research at The
+     University of Manchester. The social media data analysis course was also delivered in the
+     UK (Northern Ireland and North East Doctoral Training Partnership) and internationally
+     (University of Malaya, St Petersburg School of Social Sciences and Area Studies, Yonsei
+     University in South Korea), and in Wolverhampton courses and during invited lectures to MA
+     students at the Oxford Internet Institute (2014-2018). Online for Covid-19:
+     http://mozdeh.wlv.ac.uk/SocialMediaDataAnalysisCourse.html.
+  Alternative indicator software and methods within the discipline and for practitioners: Free
+     software and training was used to disseminate alternative indicator research within the
+     discipline and to end users of disciplinary research (typically research evaluators working for
+     funders or governments). The software Webometric Analyst incorporates all SCRG
+     alternative indicators and most SCRG scientometric methods and is shared free online with
+     examples and instructions (http://lexiurl.wlv.ac.uk; active throughout the REF period). It is
+     described in a related book, Web Indicators for Research Evaluation: A Practical Guide.
+     Webometric Analyst existed in a limited form (focusing on web search engines) before the
+     current REF period. This software allows academic indicator data gathering from
+     Altmetric.com, Mendeley (for readership data) and about 20 other academic-related sources.
+
+                                                                                                 Page 3
+Unit-level environment template (REF5b)
+     It also incorporates statistical analysis and reporting tools, with over 150 menu options and
+     buttons. To disseminate the software and associated impact assessment methods, the
+     SCRG has run a free two-day Alternative Indicators Summer School annually since 2016 to
+     an international audience of PhD students, researchers and research managers
+     (http://cybermetrics.wlv.ac.uk/SummerSchoolSeptember2020.html, moving online for Covid-
+     19). This course was also delivered at the University of Malaya in 2019. Thelwall also co-
+     taught a one-day Statistics for Responsible Bibliometrics course with the Lis-Bibliometrics
+     Forum in 2018 and 2019 for UK librarians and research managers. This impact has been on
+     academic research management and external consultancy, forming one impact case study
+     (Using Indicators).
+    Research evaluation expertise: Consultancy and expert advice have been used to
+     disseminate and apply expertise in research evaluation contexts. Consultancy has taken the
+     form of small contracts in conjunction with IDEA Consult (Belgium) on research evaluation
+     and for JISC in the UK and the UN. Expert advice has been given through membership of
+     the HEFCE Independent Review on the Role of Metrics in Research Assessment and
+     Management (2014-16) as one of its two scientometric specialists and co-authorship of its
+     influential report, The Metric Tide (2016). This was followed by membership of the UK Forum
+     for Responsible Research Metrics (Universities UK, 2016-) as the main scientometric
+     specialist, as well as numerous subcommittees and short-term indicator specialist roles (e.g.,
+     Procurement panel for the REF 2021 citation data; REF metrics user group). Online talks
+     have also been given for the commercial academic database Dimensions.ai, for
+     Altmetric.com, Digital Science and the Researcher app as part of this. This forms one impact
+     case study (Software and Consultancy).
+    Sentiment analysis software for computational linguistics, big data analysis and industry: The
+     sentiment analysis software, SentiStrength, developed in the previous REF period, has
+     continued to be shared free online (http://sentistrength.wlv.ac.uk) together with brief
+     instructions. The commercial version was given free to 2259 researchers/students (via email
+     request 2014-2020; its paper has 1750+ Google Scholar citations, evidencing widespread
+     academic uptake). Five sentiment analysis training courses (one to five days) have been
+     given based on SentiStrength in the UK and internationally (Spain x2; Russia; Greece) to
+     disseminate it to computational linguistics, computer science and complexity science
+     academic audiences, in addition to book chapters to encourage its use in an educational
+     context. This supports one impact case study (Software and Consultancy).
+    Protected characteristics and other public engagement: Findings about gender and disability
+     can benefit from wider dissemination. Press coverage has been sought for gender research
+     that would either help to promote a positive message or highlight an area of concern,
+     targeted at the university sector. For example, findings that female-led research had average
+     citation and educational impact that was higher than for male-led research in the UK (and
+     USA), contradicting previous research that found the opposite, was covered by Nature News
+     and Nature Blogs. An article about disciplinary differences in the extent of gendering
+     research fields in India received online science magazine coverage in India. Press coverage
+     has also been obtained for other studies of wider interest, such as the use of poetic language
+     in article titles (Times Higher Education). This is additional to the impact case studies.
+
+ Future strategic aims and goals for research and impact
+
+ Our post-REF2021 impact strategy will partly continue the REF2021 strategy, using our
+ innovative methods to support the information industry, social media researchers, and research
+ evaluators. Additionally, we aim to impact the lives of disabled academics through Levitt giving
+ talks and shaping policy via relevant committees. He has become expert and can make valuable
+ contributions on this important issue. We also expect to be part of a new collaborative digital
+ humanities research centre dealing with ethnic minority cultural issues, from which we plan to
+ make substantial cultural contributions to society and ethnic minority communities.
+
+ d) Supporting Interdisciplinary Research
+
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+ Members attend the joint seminar series with RGCL, exposing them to linguistic issues. SCRG
+ research is highly interdisciplinary (publishing in 18 of the 27 Scopus broad fields) and members
+ at its monthly doctoral forum hear about statistics, scientometrics, disability, gender, and social
+ web analyses.
+
+ The interdisciplinary collaboration strategy centres on identifying researchers from other fields
+ that might benefit from collaborations that exploit our methods. The strategy comprises: (a)
+ publicising methods in books, journal articles and software websites (sentistrength.wlv.ac.uk,
+ mozdeh.wlv.ac.uk, lexiurl.wlv.ac.uk, socscibot.wlv.ac.uk), (b) teaching methods and software
+ through training workshops at Wolverhampton and elsewhere (about three per year), (c)
+ responding positively to requests for advice or co-authorship collaboration requests with other
+ disciplines, (d) encouraging group members to pursue and develop their own interests in other
+ fields, and (e) reading into new fields when identified as methods-relevant. As an example of (e),
+ research for the paper, “Anthropomorphizing Atopy: Tweeting about Eczema” harnessed
+ Mozdeh-based methods but necessitated reading into eczema from a nursing perspective.
+
+ e) Progress towards an Open Research Environment
+
+ SCRG has had a policy since 2004 of publishing papers, software and data as openly and as
+ early as practically possible. All SCRG research outputs are published as openly as permitted by
+ publishers, in the University of Wolverhampton’s WIRE repository, and, when earlier open
+ access publishing is permitted by the publisher (Elsevier), in the disciplinary repository arXiv
+ (https://arxiv.org/search/cs?searchtype=author&query=Thelwall%2C+M). This is usually within a
+ week of final acceptance or the date first permitted by the publisher. For findability, publications
+ are linked by researchers’ CVs, usually accompanied by a brief explanatory text (e.g.,
+ www.scit.wlv.ac.uk/~cm1993/mycv.html). The SCRG prioritises, and almost always selects,
+ publishers that permit immediate sharing of the author accepted manuscript to avoid publishing
+ delays. Since the SCRG is a publication-intensive research group, it would be too expensive to
+ target Gold Open Access journals, so the group targets Green Open Access, by default, with
+ exceptions in special circumstances (PLOS ONE occasionally for its broader audience).
+
+ As introduced above, the SCRG freely shares all its research software through dedicated
+ websites. These include a web crawler (socscibot.wlv.ac.uk, 2004-), social media analytics
+ (mozdeh.wlv.ac.uk, 2006-), Webometric Analyst (lexiurl.wlv.ac.uk, 2006-; 7,554 downloads
+ 2014-2020), sentiment analysis (sentistrength.wlv.ac.uk, 2009-), stress analysis
+ (sentistrength.wlv.ac.uk/TensiStrength.html, 2016-) and academic peer review
+ (sentistrength.wlv.ac.uk/PeerJudge.html, 2019-).
+
+ Data and supporting research information is shared freely when permitted by copyright, usually
+ on FigShare. Whilst most raw data used by the group is proprietary (e.g., Scopus data owned by
+ Elsevier; tweets owned by Twitter), aggregate data associated with papers can be usefully
+ shared in many cases (e.g., numbers behind graphs). In addition, group papers often have
+ formal or informal online supplements with additional data or graphs. For example, the group
+ shared 81 datasets on FigShare since September 2013 (62 in 2014-2020), downloaded an
+ incredible 14,512 times (https://figshare.com/authors/Mike_Thelwall/452631). Examples of
+ general value datasets include: gender orientations of academic fields from three librarians and
+ datasets of peer review texts. This data is FAIR (DOIs, re-use licenced), including some
+ convertible Microsoft document types.
+
+ Members have supported disciplinary and trans-disciplinary initiatives for increasing
+ transparency in research. The current key scientometrics issue is that most citation analyses rely
+ on commercial Web of Science or Scopus data, blocking reproducibility. The SCRG has
+ supported efforts to overcome this, such as the initiative for open citations (i4oc.org) drive to put
+ all citation data in the public domain. For this, Thelwall participated in the mass resignation of the
+ Journal of Informetrics Editorial Board and creation of the new open access MIT Press
+ Quantitative Science Studies journal (www.mitpressjournals.org/loi/qss). Thelwall also
+ participated, as a metrics expert, in a funder-led international and transdisciplinary effort to
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+ create an open toolkit for assessing open science (https://gatesopenresearch.org/articles/3-
+ 1442). Thelwall was also a member of the Open Access Scholarly Publishers Association,
+ Article Metrics Committee 2014-2016, behind the Event Data initiative for open indicator/event
+ sharing between publishers. Our research and PhD student Khan have also addressed data
+ sharing for other research fields, including biodiversity, genomics and academia in general
+ (FigShare, Scholix).
+
+ f) Supporting a Culture of Research Integrity
+
+ SCRG studies are monitored by the ethics committee within the Faculty of Science and
+ Engineering. Most SCRG research uses public academic data or numerical data, such as
+ citation scores, that does not trigger ethical concerns, with two exceptions. Staff that perform
+ surveys or interviews must pass the Faculty ethics committee procedure to ensure that
+ respondents are fairly treated (e.g., informed consent). Also, researchers using public social web
+ data (e.g., tweets) are not permitted to identify individual users by username or with an exact
+ quote that could be Googled. This step is important to ensure that nobody has attention drawn to
+ them through the research of the group.
+
+ For research integrity, PhD students and staff are instructed by University of Wolverhampton
+ research integrity and ethics training, when first appointed. The SCRG abides by University-wide
+ policy and internally monitors its work for research integrity before being submitted for journal
+ refereeing. In addition, in 2020 the Research Institute student management board began to
+ conduct annual audits of research student ethics to report at University level. This will also serve
+ as a useful annual reminder of the importance of research integrity for PhD students.
+
+ 2. People
+
+ a) Staffing Strategy and Staff Development
+
+ The research group follows the University’s implementation of the Concordat to Support the
+ Career Development of Researchers by: (a) creating a supportive and inclusive environment to
+ allow members’ research to flourish, (b) recruiting based on fit within, and contribution to, the
+ SCRG’s research strengths but subsequently supporting members to be in charge of their own
+ research goals, and (c) embedding career development through mentoring, support for training
+ and annual progress reviews.
+
+ Recruitment strategy
+
+ Innovative supportive pathways for research careers: We have developed innovative methods to
+ recruit staff into research careers when they have personal circumstances, especially related to
+ gender, caring or disability, that affect their ability to maintain traditional jobs. We created four
+ part-time, remote working jobs in 2015 that were targeted at this group and specifically at people
+ with mobility impairments and part-time carer roles – the latter disproportionately affecting
+ women and blocking career paths for recent female, disabled and carer PhD awardees. These
+ jobs incorporated flexible deadline-free working so that staff could always prioritise other
+ commitments and accept the post in the knowledge that their work would never compromise
+ personal responsibilities and events. We also converted an existing part-time scientometrics
+ research position into a disability in academia position, also with flexible remote working, in
+ response to the changing requirements and interests of the incumbent staff member. Thus, all
+ new posts created during REF2021 incorporated remote working and time flexibility to be
+ suitable for people with carer responsibilities and/or disabilities. Partly due to this, the SCRG’s
+ employees and submitted REF staff are now majority female with two disabled researchers.
+
+ The SCRG does not control the recruitment of staff on combined academic/teaching contracts
+ but engages with relevant interested staff to help them become research active and pursue their
+ research goals. All staff are on permanent contracts, including the one full-time and five part-
+ time researchers directly employed by the SCRG.
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+
+ Early career researcher integration: All postdoctoral researchers are independent and control
+ their own research directions within very broad remits. New researchers are integrated into the
+ research culture of the SCRG through project-based mentoring and participation in the monthly
+ doctoral forums and/or RIILP seminars. Remote workers never attending the campus are
+ supported to build their own supportive culture through paid team meetings at EU locations of
+ their choice.
+
+ Sabbaticals: All staff can request sabbatical leave for up to one year and such applications will
+ be judged within RIILP, subject to the quality of the proposal and availability of funds for
+ replacement teachers or content analysts. No applications have been received, we think
+ because all research staff already have time for their own research (50% or 100%) and
+ teaching/research staff enjoy their teaching/research balance.
+
+ Exchanges with business, industry and public bodies. Our primary means of interaction with
+ non-academic bodies at the personnel level has been through part-time PhD students with non-
+ university jobs (NHS, Digital Science). Physical exchanges for most staff and researchers are
+ difficult due to carer responsibilities.
+
+ Support for impact. Achieving research impact is a priority for the group and staff are supported
+ with travel costs for visits that may achieve impact and to give talks that may generate impact.
+ For example, Thelwall was funded to visit a Digital Science event in Reading and to attend
+ satellite events related to the HEFCE Independent Review on the Role of Metrics in Research
+ Assessment and Management and the UK Forum for Responsible Research Metrics, when not
+ funded by HEFCE/Research England. The SCRG has regular meetings with University Impact
+ Officers and its bids are supported by the Project Support Office.
+
+ Staff development strategy
+
+ All junior staff are mentored by a senior researcher. Mentoring takes the form of discussions of
+ research projects and help with research design and paper writing, as well as wider career goals
+ discussions during annual reviews. The SCRG practices open mentoring, with all researchers
+ having free access to all senior staff for advice and guidance, whilst retaining full independence
+ in the choice of research topics and methods. The SCRG encourages postdoctoral researchers
+ to progress their own research so that they are in a better position to move to promoted roles or
+ other posts, if they prefer, than if they supported others’ research. The formal aspect of
+ mentoring is an annual progress review, during which staff are asked to make requests for staff
+ development activities, such as training, visits and conferences. There is a one-year probation
+ period for new staff, accompanied by university-level training, and an end-of-year progress
+ validation. In addition to individual mentoring, ongoing staff development is supported by
+ attendance at doctoral forums and research institute talks.
+
+ All SCRG members are funded to attend conferences where they have papers accepted. Staff
+ and students are also funded for relevant external training (e.g., statistics, software, research
+ methods). All requests for training or conferences were accepted in the REF2021 period. Makito
+ comments that two courses, “introduced me to practical methodologies that I apply to discourse
+ analysis and semiotic analysis”.
+
+ Members that are also teaching staff in schools within the University of Wolverhampton have
+ their promotion prospects controlled outside the SCRG but are supported by enabling them to
+ have a good research track record. During the current REF period, Fairclough became Head of
+ Mathematics (Principal Lecturer) with the aid of SCRG-related research evidence. Teaching-
+ focused staff are encouraged to focus on research publishing rather than research service.
+
+ A REF2014 personnel goal was to encourage postdoctoral researchers and PhD students to
+ visit other institutions. This has been unsuccessful, with only one PhD student visiting another
+ institution despite repeated offers to cover costs. The reason seems to be that most group
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ members have family or other ties that restrict their international mobility. A second personnel
+ goal, to help junior researchers become established within the discipline, has been successful in
+ the sense that all (non-retired) researchers have maintained a high-quality publication record.
+
+ Evidence of the quality of researchers’ development is in the submission doubling from 7 in
+ REF2014, replacing 3: a retirement and researchers that left for industry or moved to
+ Computing. Continued or new excellent publication track records form a second indicator of
+ success.
+
+ A new leader for the SCRG is anticipated after the next REF. During the next REF period we
+ plan to adapt the leadership post to be suitable for remote flexible working so that it is accessible
+ for a person with disabilities or substantial carer responsibilities. We also plan to separate the
+ current job from its teaching component so that it can be offered as a part-time professorship
+ role for a suitable candidate, if necessary.
+
+ b) Research Students
+
+ All PhD students during REF2021 have been funded by their employers, REF2014 income, or
+ the University’s Research Investment Fund. Funded studentships are advertised and promoted
+ internationally via disciplinary email lists and jobs.ac.uk. The UK produces few graduates with
+ scientometric competence, so advertising encompasses countries with a greater capacity (e.g.,
+ Iran, Spain). Funded posts are based around PhD projects designed to address suitable
+ emerging issues appropriate for the PhD duration. Adverts emphasise equality and diversity, and
+ that the SCRG will support remote working for those with disabilities or carer responsibilities that
+ prevent them from travelling. Self-funded PhD proposals are accepted on the basis of capacity
+ to supervise, project match with supervisory expertise, and student capability to undertake a
+ PhD, as evidenced (typically) by a good Master’s degree and the ability to formulate a good PhD
+ proposal, aided by supervisors. Out-of-field proposals, including unrelated areas of library
+ science, are rejected.
+
+ PhD students attend monthly three-hour doctoral forums (11 months per year throughout
+ REF2021) that are primarily for PhD students but open to all. Attendees talk for 15-30 minutes
+ about their own research and receive questions and comments. These are also social events
+ (free lunch) for informal team building and information sharing. The social aspect is important
+ since most PhD students live away from Wolverhampton. In March 2020 we switched to
+ videoconferencing due to Covid-19, with online chats every Friday to support isolated staff.
+ Members also attend the joint seminar series with the Research Group in Computational
+ Linguistics and PhD annual presentations. SCRG speakers included Nobel Laureate Michael
+ Levitt (Stanford) and Jane Tinkler (LSE/Sterling/Nine Dots Prize).
+
+ Progress and support mechanisms: PhD students have monthly meetings with their main
+ supervisor (every 2-3 months for part-time students), receive feedback at the monthly doctoral
+ forums and periodically meet other supervisors. Supervisory meetings also serve an informal
+ monitoring purpose. Formal annual progress reviews are held with two independent senior
+ researchers, assessing progress and plans. These include a short formal public presentation.
+
+ The SCRG has a vibrant, supportive and highly successful environment for PhD students,
+ supporting the University of Wolverhampton’s high PRES rankings. It has a close to 100%
+ success rate since its inception in 2000. Only one student has not completed (within 4 years or 7
+ for part-time) out of 23 starting a PhD (a first-year health-related withdrawal).
+
+ Skills development and future career preparation: PhD students attend the University of
+ Wolverhampton’s doctoral training courses covering generic research skills (e.g., library use,
+ statistics) and future career planning. PhD students are supported to attend relevant
+ conferences or workshops each year. They can also attend the annual Wolverhampton
+ Alternative Indicators Summer School for networking. They are offered networking visits at other
+ universities by paying for travel and accommodation. When appropriate, they are also invited to
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+ attend project meetings to build their networks and experience. Two PhD students have taken
+ opportunities for paid undergraduate teaching.
+
+ c) Equality and Diversity
+
+ Commitment to equality and diversity in the recruitment and support: The SCRG is committed to
+ equal opportunities in recruitment and working environment and actively seeks to recruit and
+ support excellent researchers, regardless of age, disability, ethnicity, gender, gender
+ reassignment, marital/civil partnership status, sexuality, religion and pregnancy/maternity needs.
+ As discussed above, support for researchers with carer commitments and disabilities (2 out of
+ 14 have a declared disability) is at the heart of our recruitment strategy, including supporting
+ female researchers (8 out of 14 submitted are women). The fully flexible part-time working
+ approach described above has meant that all five people newly recruited during REF2021 were
+ on part-time, permanent, fully flexible contracts, and all were female, with a disability and/or with
+ a substantial carer role.
+
+ We have successfully maintained an ethnically diverse set of staff (6 out of 14 are BAME) and
+ PhD students (8 out of 14 completed and ongoing are female, 8 out of 14 are BAME), by
+ creating a friendly and accommodating environment. For example, because of Muslim members,
+ we stopped having lunchtime meetings in places serving alcohol and because of disability issues
+ we now meet at places that can be reached from the campus without crossing a road. On a day-
+ to-day level we celebrate cultural differences to foster an atmosphere of mutual respect, for
+ example with previous doctoral forum lunches chatting about Persian Nowruz traditions and
+ Nigerian Christian Christmas customs.
+
+ In terms of other protected characteristics, the SCRG has recruited staff from a wide range of
+ ages from 30s to 50s, multiple religions (and none) and marital statuses. We are not aware of
+ LGBTQ+ staff applying for posts but have co-authored with LGBTQ+ staff and Makito has
+ helped organise public outreach activities for older LGBT adults and worked with LGBT
+ organisations.
+
+ The SCRG has engaged extensively with Access To Work to ensure that its disabled staff
+ receive appropriate specialist equipment for their role. This has included special laptops, speech
+ synthesis software and other devices. The SCRG has also worked with Access To Work to fully
+ fund an assistant for 10 hours per week for one of its disabled researchers.
+
+ Career pathways for part-time and fixed-term staff: We support part-time staff with guaranteed
+ time for personal research and support for funding applications, enabling them to build strong
+ research careers to move into full-time or promoted academic posts in the SCRG, a relevant
+ school at Wolverhampton or elsewhere if/when ready. The SCRG has no fixed-term staff.
+
+ Conference attendance and travel to support research for staff requiring aid: The SCRG
+ engages with Access To Work to provide a full-time note-taking assistant and support person at
+ all conferences attended by a staff member with a disability.
+
+ Support for staff returning from leave, with long-term illness or caring responsibilities: Many staff
+ and PhD students have carer responsibilities, either as the primary carer of children or of
+ vulnerable adults. Our policy of a combination of home-based working (if desired) and complete
+ time and day flexibility is designed so that staff and PhD students can always prioritise carer
+ commitments or illness management. This includes the right to schedule work throughout the
+ year to fit in with other commitments. The SCRG has had no staff returning from a period of
+ leave, but our policy allows staff to choose to take a period of formal leave or to subsume the
+ period within the normal flexible working arrangements. All staff so far have taken the flexible
+ option. PhD students are given the same options when they have gaps due to maternity or other
+ personal issues, and two have taken formal leave of absences. Those returning after an
+ extended period of leave are supported as necessary to re-engage with appropriate research
+ projects. Because of our flexible working arrangements this primarily entails a meeting with the
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+ group leader to plan re-engagement and support to manage their personal expectations for
+ progress in the initial stages.
+
+ Supporting staff and research student wellbeing: The SCRG supports staff wellbeing by
+ respecting work-life boundaries and never requiring work outside of normal office hours or during
+ holidays. Mental health is an important issue for researchers, especially those working remotely
+ or from home. The monthly face-to-face doctoral forums helps to fight isolation and the part-time
+ distant workers are funded to meet twice per year to build social contact for their wellbeing. A
+ postgraduate research tutor within RIILP supports the general welfare of students and
+ postgraduate reps at the RIILP student management board can bring forward any issues of
+ concern. PhD students are supported for distance working to allow them to live with partners or
+ family groups. For example, one fully funded PhD student was able to move abroad with her
+ husband’s job change and half of the PhD students live far from Wolverhampton for family
+ reasons.
+
+ Starting with the first week of the Covid-19 lockdown, the group held a videoconferencing social
+ call every Friday 3-4pm to support staff wellbeing with protection against feelings of isolation. All
+ staff were emailed weekly with University-level Covid-19 advice and support and SCRG-wide
+ emails were sent at the start to assure staff that their personal safety should always come first,
+ including the personal safety of those that they have carer-responsibilities for.
+
+ Equality and diversity in the REF submission: Submitted SCRG staff included 8 women out of 14
+ (57%), despite the historical male domination of maths-intensive subjects and our previous
+ REF/RAE submissions. Two researchers with declared disabilities were submitted (14%),
+ exceeding the sector for academic staff with disabilities (4%). Six submitted BAME researchers
+ (43%) exceeds the national percentage (15%). This evidences a successfully diverse
+ submission. Most or all submitted researchers are publicly educated; some are first generation
+ university-educated. The submitted outputs were selected following university strategy, which is
+ designed to safeguard equality and diversity considerations. This involved an independent
+ review by multiple researchers, which staff found to be inclusive. University-level statistical
+ analysis revealed no equality and diversity concerns with this approach.
+
+ 3. Income, infrastructure and facilities
+
+ a) Research Funding and Strategies for Generating Research Income
+
+ The funding strategy has been primarily impact-driven rather than resource-driven. In terms of
+ resources, the group does not require expensive equipment and therefore only needs funding for
+ personnel expansion. The primary impact-driven funding strategy is to apply for relevant
+ consultancy, in the form of projects that generate impact by applying our knowledge and
+ methods to others’ problems to generate useful solutions. This has led to numerous small
+ projects (see below) generating specific applied knowledge, often without an associated
+ academic publication.
+
+ The secondary strategy has been to generate income for research projects (personnel
+ expansion or collaboration) by (a) supporting interdisciplinary funding bids led by others to
+ promote interdisciplinarity and the uptake of its skills and methods in other fields, and (b) to
+ apply for relevant funding calls. This strategy has not been successful after 2014, with all bids
+ rejected. A contributory factor is that our primary research does not fall comfortably within the
+ remit of any funding council and we have not found a suitable niche.
+
+ Research projects
+
+ 2011-2014 EU FP7: Academic Careers Understood through Measurement and Norms
+ (ACUMEN, 266632): GBP150,000.
+ 2014-2016 ESRC: Picturing the social: transforming our understanding of images in social media
+ and Big Data research (ES/M000648/1): GBP10,000.
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+ 2015-2018 H2020 Optimum. Generating next generation transportation solutions. (636160-2,
+ unfunded partner, two publications: https://doi.org/10.1016/j.ipm.2016.06.009,
+ https://doi.org/10.1145/3184558.3191627).
+
+ Belgian government evaluations
+
+ 2014 Antwerp Management School: GBP1,500.
+ 2014 VLIZ: GBP1,500.
+ 2016 Management Research Centre: GBP1,500.
+ 2019 Belgian Space Agency: GBP3,000.
+
+ UN evaluations
+
+ 2015 UNDP gender empowerment: GBP1,000.
+ 2014 UNU-CRIS: GBP1,850.
+ 2014 UNFAO: GBP1,500.
+
+ EU commissions
+
+ 2015 G7 and EU energy strategy evaluations: GBP8,000.
+ 2016 MORE3: Survey sampling and network creation online: GBP10,000.
+ 2019-20 MORE4: Survey sampling online: GBP6,000.
+
+ Others
+
+ 2014 Metrics literature review for HEFCE: GBP20,000.
+ 2019 Open data project for JISC: GBP19,811.
+ 2019 Open peer review project for JISC: GBP22,040.
+
+ b) Organisational Infrastructure Supporting Research and Impact
+
+ Operational and scholarly infrastructure: The SCRG needs little research infrastructure other
+ than standard office PCs and laptops with internet connections. Its only specialist equipment is a
+ set of three server computers located in a server room in the University of Wolverhampton that
+ are used for long term data collection. The software used is all free and the citation data is either
+ free (Dimensions.ai) or licenced by Jisc (Scopus and Web of Science). IT support is provided by
+ university-wide services, which is sufficient for our modest needs. The server lab is supported by
+ a specialist technician shared with the School of Mathematics and Computing. The advanced
+ infrastructure component of our work is our in-house software (SentiStrength, Webometric
+ Analyst, Mozdeh, PeerJudge, TensiStrength, SocSciBot), which we upgrade ourselves as
+ necessary for new research and consultancy projects. Webometric Analyst is added to most
+ weeks and Mozdeh is upgraded multiple times each year, sometimes substantially.
+
+ c) Equality and Diversity
+
+ Equality and diversity issues and support for acquiring research funding infrastructure: All except
+ two staff members of the SCRG and almost all PhD students have protected characteristics
+ (female, disabled, BAME). In the current REF period, the SCRG has had adequate funding to
+ accede to all researchers’ requests and so there has been no occasion on which any kind of
+ prioritisation has been necessary.
+
+ All researchers are supported to apply for research funding with time, senior staff support, and
+ University-level support. Nevertheless, since all researchers in the REF2021 period are
+ independent and able to conduct unfunded research, no researcher’s ability to conduct research
+ is predicated on funding and we have not prioritised funding. Researchers are supported to
+ apply for funding to aid their careers, but are allowed to prioritise managing their own research
+ projects instead. Given the high current competition for research funding, junior researchers
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ have been encouraged to prioritise their own research as their primary goal. We view bidding for
+ funding as particularly onerous for part-time staff due to typical high failure rates and the loss of
+ research time associated with constructing a bid.
+
+ d) Research Infrastructure
+
+ The group’s main research infrastructure is a set of three servers for ongoing data collection.
+ These support both research and consultancy by allowing extended downloading or web
+ crawling to generate web datasets. This equipment is essential to ensure that data collection for
+ consultancy is fast and does not slow the other work of the researchers involved. For example,
+ the MORE3 and MORE4 projects involved web crawling for the universities of 16 countries to
+ identify a sample for the project to survey. With the three servers working 24/7, this was
+ completed within a month in parallel with ongoing research data collection.
+
+ e) Benefits in Kind
+
+ We have accessed the Dimensions.ai scholarly database and Altmetric.com’s academic data
+ sharing programme, which Digital Science grants to qualifying researchers.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ a) Arrangements and Support for, and Effectiveness of, Research Collaborations, Networks and
+ Partnerships
+
+ Members of the SCRG are supported (travel, accommodation) for networking activities to meet
+ researchers in other institutions and for conferences, workshops and training. No requests for
+ this support have been rejected in the current REF period and about 20 were accepted. For
+ example, a PhD student was funded to go on a visiting tour of European universities in the final
+ year of her PhD to make contacts for future job applications and collaborations and she gained
+ employment alongside a researcher that she met on one of these trips.
+
+ The SCRG is embedded in an international network of current and former collaborators and
+ former PhD students. SCRG researchers are encouraged to collaborate on research projects
+ with others outside Wolverhampton, including internationally. It participated in the ESRC-funded
+ collaborative project “Picturing the Social”. Thelwall is a Visiting Professor at the University of
+ Malaya, was a Research Associate at Oxford University, and was a member of the Ethical panel
+ for the EU project RENOIR.
+
+ Collaboration with other countries is encouraged. PhD students from other universities have
+ visited for 3-month periods (Spain [2], Mexico) and Thelwall has co-supervised PhD students
+ from other universities (Nanyang Technological University, Singapore, University of Murcia,
+ Spain).
+
+ All researchers have time for their own self-directed research and are free to collaborate with
+ whoever they prefer. Junior researchers are also sometimes encouraged to participate in
+ collaborative research led by senior researchers, but this is optional. Except for funded projects,
+ collaborations are typically article-based but sometimes long term. Although loose, these
+ arrangements are supported financially, when necessary, and are highly successful at
+ generating collaborative outputs. In the current REF period, all 14 submitted researchers
+ produced at least one collaborative journal article or book (excluding the mega-collaborative
+ Gates Open article) with another Wolverhampton researcher, 10 with non-Wolverhampton
+ researchers (e.g., Universities of Bath, Bristol, Lancaster, Manchester (both), Oxford, Sheffield,
+ Warwick, York; Wellcome Trust Sanger Institute), 8 with international collaborators (USA
+ [Stanford and 3 other universities], Spain [CSIC and 3 universities], Canada [2 universities],
+ Finland [2 universities], Belgium [2 universities], Australia, Germany, India, Iran, Israel, Libya,
+ Malaysia, Mauritius, Poland, Russia, Switzerland, The Netherlands) and 5 with non-academic
+ collaborators (AlterSpark [Canada], F1000Research, Jisc, Pulsar Platform, Wellcome).
+
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+
+ b) Relationships with Key Research Users, Beneficiaries or Audiences
+
+ HEFCE and now Research England (through the REF) and research funders are key potential
+ end users of the SCRG’s research. Relationships have been built with these through joint
+ memberships of national committees (e.g., Forum for Responsible Research Metrics) and
+ subgroups. Relationships have also been formed through responses for help with specific
+ issues. For example, a request by Wellcome for a method to detect the early impact of research
+ from one of their new funding streams led to a joint (unfunded) project with Wellcome that
+ produced a journal article co-authored with Wellcome as an output. A direct relationship has also
+ been built with Digital Science through their Head of Metrics Development taking a part-time
+ PhD with the SCRG. We also have long term collaborations with Idea Consult (Belgium) on a
+ series of research evaluation contracts for the EU and Belgian government and with AlterSpark
+ (Canada) for UN projects.
+
+ Another example of interaction with end users was participation in an international Open Science
+ initiative in collaboration with many funders, publishing a joint policy document on toolkits for
+ Open Science (https://gatesopenresearch.org/documents/2-54).
+
+ c) Wider Contributions to Economy and Society
+
+ The gender in academia strand of research has received press coverage that has given a
+ positive message about the role of females in academia (e.g., their research has higher average
+ scholarly impact) and identified problems (gender inequalities in some disciplines, in some
+ countries). We hope that the former has helped to contribute to a positive attitude to females in
+ academia and encouragement of girls to consider an academic career, and that the latter has
+ had an influence on policy.
+
+ d) Engaging with Diverse Communities and Publics
+
+ As mentioned above, the SCRG engages with the wider social sciences through free software
+ and numerous training events for its social media analysis software and methods. The SCRG’s
+ extensive research on gender has engaged with the debate about the causes of female
+ underrepresentation in most STEM subjects in academia (11 journal articles published since
+ 2018). The findings have reached a wider and sometimes younger audience of (hopefully) future
+ and training female scientists through press coverage of this research, such as in The Wire, two
+ Nature news articles and a Times Higher Education article. Levitt has investigated
+ disadvantages facing academics and others with disabilities, engaging directly with researchers
+ with disabilities at conferences (2 journal articles, 3 conference papers). Levitt has also engaged
+ as a Member and Befriender of the Macular Society and Member of Committee of a Macular
+ Society group, and as Engagements Lead Member of the Steering Committee of the National
+ Association of Disabled Staff Networks. Fairclough is also a high profile scientist with a disability,
+ promoting inclusivity in higher education (https://royalsociety.org/topics-policy/diversity-in-
+ science/scientists-with-disabilities/ruth-fairclough/). In 2020 the group also submitted an article
+ on racism during COVID-19. Mas-Bleda has been funded to present at UK-based Spanish
+ researchers conferences.
+
+ e) Contribution to the Sustainability of the Discipline, Interdisciplinarity, Responsiveness
+
+ Discipline sustainability: The group has helped to support the Scientometrics discipline through
+ attendance at the main conference series (ISSI), editorial board membership of the major
+ journals (Scientometrics, Journal of Informetrics, Quantitative Science Studies, Journal of
+ Altmetrics), through its free Alternative Indicators Summer School annual training, and
+ refereeing (over 750 journal articles or equivalent during REF2021). In other areas, Makita gave
+ talks at four international health/sociology-related conferences. Levitt initiated and chaired a
+ seminar at the Lancaster Disability Studies conference and was a disability advisor to The
+ Inclusion Group for Equity in Research in STEMM. Fairclough co-organised HODOMS
+
+                                                                                                Page 13
+Unit-level environment template (REF5b)
+ conferences, gave 7 papers at conferences, was a HODOMS member and SIGMA steering
+ group member. Tobin participated in a water-related ERASMUS+ project.
+ Interdisciplinarity: As a partly methods-based group, the SCRG’s main opportunity for
+ interdisciplinary research has been through providing methods to address problems relevant to
+ other research fields. Requests for interdisciplinary collaboration have led to an ESRC funded
+ project focused on image sharing in the social web, a project with Lancaster University analysing
+ sentiment in Shakespeare’s plays, investigations of modern reactions to Victorian English
+ literature led by a Victorian scholar at the University of Calgary, and international comparisons of
+ value concepts led by a communication Scholar at the Hebrew University of Jerusalem. For
+ example, the Shakespeare project involved developing a sentiment analysis algorithm for Early
+ Modern English and applying it to Shakespeare’s plays to help analyse the role of emotion in
+ them. In contrast, the Victorian project involved analysing the book choices of Victorian literature
+ group members on Goodreads. Both projects led to multiple journal articles.
+
+ As evidence of wide interdisciplinarity, during REF2021 the group published journal articles or
+ books in as many main areas as it has submitted staff: Library and Information Science (both
+ Information Science and Scientometrics), Disability Studies, Ecology, Economics, English
+ Language, English Literature, Geography, Microbiology, Nursing, Physics, Public Health
+ (Ageing), Psychology, Religion, Social Science (general), and Tourism.
+
+ Responsiveness to national and international priorities: The primary international priority
+ addressed by the group has been the emergence of altmetrics as a potential source of wider or
+ early impact evidence for academic research. About half of the group’s published research has
+ addressed this and on the strength of this research, Thelwall has provided expert contributions
+ to two UK committees and various working groups. The group has responded quickly to relevant
+ social issues through its unique social media analysis contributions. During March-June 2020 for
+ Covid-19 it submitted three related studies to journals (e.g., “Retweeting COVID-19 disability
+ issues: Risks, support and outrage”), two related scientometric studies (e.g., “Coronavirus
+ research before 2020 is more relevant than ever, especially when interpreted for COVID-19”),
+ and an analysis of social media responses to racism after the killing of George Floyd.
+
+ f) Indicators of Wider Influence and Senior Service Work
+
+ The group has received wide international recognition, extensively accepting invitations to
+ contribute to the discipline in expert roles.
+
+ Journal editorships: The group is represented on the editorial boards of many disciplinary
+ journals, primarily for Scientometrics. Thelwall is the editor of Journal of Altmetrics, an associate
+ editor of the historically top library and information science publication, Journal of the
+ Association for Information Science and Technology and sits on 5 other editorial boards. Kousha
+ is on the editorial board of Scientometrics and Levitt is on the board of Disability & Society.
+
+ Conference committee memberships: The group has participated in the programme committees
+ of multiple conferences from scientometrics, natural language processing and information
+ science. Thelwall was on 15 conference committees (usually multiple years). Kousha and Levitt
+ have participated in programme committees of the main scientometric conference, ISSI
+ (International Society for Scientometrics and Informetrics).
+
+ Prizes: Thelwall was awarded the Derek de Solla Price Award for “outstanding contributions to
+ the fields of quantitative studies of science” in 2015: the major lifetime achievement award in his
+ research area, and was a Web of Science Highly Cited Researcher in 2017, 2018, 2019, 2020.
+ Mas-Bleda won a Journal of Documentation 2015 Highly Commended Paper Award. Kousha
+ and Thelwall won the 3rd SCImago-EPI award for the best paper in El Profesional de la
+ Información during 2013-2017 (3000 Euro, paper from 2015).
+
+ Research councils: Levitt was a member of the ESRC Peer Review College in 2014.
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+ Invited talks: Thelwall gave ten international keynote speeches and invited talks, including a
+ keynote at the main scientometrics conference, ISSI, and Levitt gave an invited talk in the USA.
+
+ Academic refereeing: During REF2021, Thelwall reviewed 690 journal articles, conference
+ papers, grant proposals and tenure/promotion applications, plus 17 PhDs. Kousha evaluated a
+ PhD and reviewed 34 papers for seven journals and two conferences. Levitt assessed a PhD
+ and reviewed for 12 journals. Makita and Stuart both reviewed for four journals, Stuart also
+ reviewing 32 conference papers. Mas-Bleda reviewed least four articles. Maflahi reviewed for
+ two journals and evaluated a PhD. Fairclough refereed 6 papers.
+
+
+
+
+                                                                                           Page 15
+

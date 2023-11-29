@@ -1,0 +1,1010 @@
+Unit-level environment template (REF5b)
+ Institution: Cardiff University
+ Unit of Assessment 10: Mathematical Sciences
+ 1. Unit context and structure, research and impact strategy
+ 1.1       Overview
+ Cardiff University School of Mathematics is an established research-intensive unit focused on
+ advancing fundamental mathematical knowledge, facilitating application of mathematical
+ sciences in other disciplines, and providing societal benefit through engagement with
+ industry, charities, and the public sector. The School comprises 44 full-time teaching and
+ research faculty, organised into five research groups: Applied and Computational Mathematics,
+ led by Phillips; Geometry, Algebra, math-Physics and Topology (GAPT), led initially by D.E.
+ Evans, and now Lechner; Mathematical Analysis, led by Marletta; Operational Research, led
+ by Harper; and Statistics, led by Zhigljavsky.
+ Focusing on critical mass, international reach, collaboration and a strong commitment to equality,
+ diversity and inclusion, the School has developed considerably since REF2014. Major
+ achievements of the period include:
+       •   An increase of more than 50% in the total number of academic staff in the School, aligned
+           to supporting five research groups of broadly equivalent size.
+       •   Sustaining a fundamental ethos of academic freedom and pursuit of research for pure
+           interest, which supported appointments from across the world and led to prestigious
+           international prizes for five colleagues (Section 4.1).
+       •   Securing University strategic investment for a new purpose-designed facility (the £39m
+           Abacws building), now approaching completion, accelerating collaboration with Computer
+           Science and Informatics.
+       •   Sustaining healthy support for PhD research, with a revised University approach to
+           ESPRC-DTP studentship funding comparable to the very best we received under
+           direct allocation from EPSRC, additionally opening up new opportunities for cross-
+           disciplinary collaboration via Interdisciplinary Training Hubs (REF5a).
+       •   Improvements to PhD recruitment practices that successfully redressed gender imbalance,
+           reaching a 54%-46% female/male enrolment in 2019/20, consistent with our fundamental
+           commitment to equality, diversity and inclusion (Section 2.2, Fig. 1).
+       •   A vibrant and substantial programme of world-leading visitors and speakers. This
+           included five Fields Medalists and more than three dozen winners of international
+           prizes, including ICM keynote speakers (Table 4 in Section 4).
+       •   A new formal strategic partnership with the Office for National Statistics (ONS), including
+           a Senior Lectureship in Statistics jointly funded with ONS.
+       •   Societal benefits with significant international reach, including growing mathematical
+           communities (in Africa), increased business effectiveness (Crimtan plc) and improved
+           clinical services (for the NHS), as evidenced through our impact cases.
+       •   Major new interdisciplinary collaborations including joint research in mathematical biology
+           with the Wolfson Centre for Mathematical Biology in Oxford, and a €6.7M grant with the School
+           of Earth and Environmental Sciences, Cardiff to address climate change resistance.
+ 1.2       Progress since REF2014
+ Following REF2014, the School made a case to the University for a major expansion in
+ Mathematics, which was supported as a top priority through our College of Physical Sciences and
+ Engineering. Consequently, we appointed more than 20 new teaching and research staff (Table
+ 1) over the REF period. Allowing for turnover, our FTE count has increased from 28 to 44. Aided
+ by our External Advisory Board (Section 2.1) we drew up appointment strategies which balanced
+ the competing desires for more investment in pure mathematics, including analysis, algebra and
+ topology; expansion of the Operational Research Group beyond its healthcare focus; growth in
+
+                                                                                                 Page 1
+Unit-level environment template (REF5b)
+ applied mathematics oriented towards biosciences and engineering; support of strong demand
+ from across the University for collaboration with our statisticians; and the imperative to grow
+ engagement with research users.
+ Furthermore, given the importance of collaboration with computer scientists in areas involving
+ combinatorics, optimisation, data analysis and machine learning, we made a strategic decision to
+ formalise existing links with Computer Science, including academics from each School sitting on
+ appointment panels in the other. The two schools made a case to the University to invest £39m in
+ a new purpose-designed 9700m2 building, and will be co-located from autumn 2021 (Section 3.3).
+ These formal links have already resulted in enhanced collaboration with strategic partners such as
+ the ONS, which committed to funding a Senior Lectureship (Section 4.2.2). Further evidence of
+ collaboration includes the joint directorship of the University’s flagship Data Innovation Research
+ Institute, led by Harper (Mathematics) and Spasić (Computer Science). At the same time, we
+ expanded coverage of topics in algebra and geometry, in probability and in stochastic analysis, in
+ kinetic theory and PDEs, fundamental areas aligned to facilitating shared future research
+ directions across groups.
+  Group                       New people                                             Current FTE
+  Mathematical Analysis       Ben-Artzi, Scheuer, Strokorb (0.5)                         10.2
+  Computational & Applied Dong, Kadri, Kaouri, Woolley                                       8.5
+  GAPT                    Ros Camacho, Lechner, Naaijkens, Pennig, Wood                      8
+  Statistics                  Artemiou, Gauthier, Strokorb (0.5)                             6.5
+  OR                          Chen, Gagarin, Gartner, Jones, Liu, Oertel, Palmer             11
+                           Table 1: New Teaching and Research staff since 2014
+ We decided soon after REF2014 to further emphasise dissemination and international visibility.
+ We encouraged our researchers to propose and direct workshops at leading research institutes
+ throughout the world (Section 4.4), supported by study leave whenever possible. We also decided
+ to grow our visitor programme, see Table 4 in Section 4.1, with particular emphasis on research
+ excellence. We believe that hosting eminent visitors helped raise our global presence and support
+ our recruitment of new colleagues. Fifty-five of the 111 submitted outputs involve international
+ collaborations, with co-authors in 24 other countries; 75 outputs have co-authors outside Cardiff,
+ spread across 95 institutions (Table 2).
+ Central to our strategy and culture lies strong support for individuals in pursuit of excellence in
+ their personally chosen directions (Sections 2.1.2, 2.2). Consistent with this are the awards of
+ several fellowships to staff during the review period. Ben-Artzi (EPSRC Early Career Fellow) came
+ to Cardiff in 2017. In 2018, Zhang won a Marie Skłodowska-Curie Fellowship, ranked in first place
+ at the prioritisation panel. Behrend (2019 AMS Robbins prize-winner) held a Schrödinger Institute
+ Fellowship in 2017. Wood secured a Humboldt Fellowship in March 2020. Cherednichenko moved
+ to the University of Bath just after starting his EPSRC Early Career Fellowship; the post he vacated
+ was filled by Eswarathasan, who secured a Clay-LMS grant in his first year in post.
+
+          Institution             No. of outputs             Nation         No. of outputs
+          University of Oxford           6                   Germany              22
+          Imperial College London        5                   Italy                10
+          University of Bath             4                   Canada                8
+          University of Mannheim         4                   Australia             7
+          University of Padova           4                   France                6
+          Purdue University              3                   Austria               3
+          TU Munich                      3                   Belgium               3
+          University of Alberta          3                   Switzerland           3
+          University of Kent             3                   China                 2
+          University of Münster          3                   Croatia               2
+        Table 2: Top 10 collaborating institutions and nations by submitted outputs
+
+                                                                                                   Page 2
+Unit-level environment template (REF5b)
+ 1.3     Interdisciplinarity
+ Supported by fundamental research from across the School, our Applied and Computational
+ Mathematics, OR, and Statistics groups particularly thrive though interdisciplinary interaction.
+ Interdisciplinarity is sustained long-term by our recruitment strategy (Section 2.1.1) which
+ supported collaborations with Computer Science and Biosciences (Gagarin, Kaouri, Woolley) and
+ the ONS (Mitra). As evidenced throughout the statement, our collaborators include Computer
+ Science and Informatics (via Gagarin, Harper, Lewis), with whom we shall soon be co-located
+ (Section 3.3); Cardiff University Brain Research Imaging Centre (Balinsky); Cardiff Business
+ School (Chen, Liu); the ONS (Gillard, Mitra); Engineering (Kadri, Mihai, Pepelyshev, Phillips); and
+ the Cardiff University Water Research Institute (Jones, Strokorb). These collaborations were
+ supported by external research funding (Sections 3.2, 4.3.2), and by University investment
+ (REF5a). Our commitment to interdisciplinarity is further seen in delivery of our workshops and
+ conferences (Section 4.4) and in our SIAM-IMA Student Chapter, one of the first SIAM Student
+ Chapters in the UK.
+ 1.4     Impact and engagement
+ Cardiff’s reputation for working successfully with industry has been built up over forty years, with
+ an evolving strategy based on (i) engagement with users and identification of resulting impact; (ii)
+ an agile approach to opportunities; (iii) supporting staff to generate impact from their research, and
+ recognition and reward of the impact achieved.
+ (i) Engagement with users and maximisation of impact are achieved by close collaboration with
+ users and beneficiaries from the outset. Senior employees from our industrial partners serve on
+ our Industrial Advisory Board, including representatives of Admiral, BA, BT, Dyson, Ernst & Young,
+ Lloyds, McLaren, Nationwide, ONS, Tata Steel, Welsh Government and Welsh Water, and help
+ to guide our impact strategy and identify collaborative opportunities. The value placed in our
+ successful collaboration with external partners is demonstrated by the posts they have funded in
+ Mathematics. Eighteen years of postdoctoral research in the REF period were financed through
+ income from industry and the NHS. Table 5 in Section 4.2 illustrates the breadth of funding partners.
+ The lectureship of INFORMS prizewinner Gartner was 100% funded by NHS Wales for the first 44
+ months and is still 20% funded by them now, on a rolling annual basis.
+ (ii) Our agile approach to opportunities saw us establish a new collaborative relationship with
+ Crimtan, a global digital marketing technology and trading consultancy, and secured a new Senior
+ Lectureship in Data Science, created as part of a strategic partnership between the ONS, the
+ Cardiff Data Science Academy, and the Cardiff Data Innovation Research Institute, of which
+ Harper is joint director. The appointments of Jones to a Chair in OR and to the Board of Cardiff
+ University Water Research Institute, and other new staff into the Unit, including Chen and Liu in
+ mathematical finance (Table 1), substantially enhanced our impact-facing research themes,
+ diversifying our impact strategy.
+ The development of themes aligned to Computer Science was also strategically important for
+ impact generation. The School now has three Fellows of the Software Sustainability Institute:
+ Knight (impact case study author), Glynatsi and Palmer (2019 OR Society Doctoral Award winner).
+ Working with Cardiff computer scientists Corcoran and Spasić, and with psychologist Krzemiński
+ in the Cardiff University Brain Research Imaging Centre, allowed Balinsky (Mathematical Analysis
+ Group) to develop a machine learning approach to language processing for medical records, significantly
+ outperforming the best existing methods in identification of heart conditions. Balinsky’s work with HP Labs
+ also relies on machine learning, built on his expertise in operator theory.
+ (iii) There are several ways that we enable and reward impact generation. Since 2009 we have
+ had, as Director of Impact and Engagement, Harper, recently elected Companion of the OR
+ Society and winner of numerous other distinctions (see Section 4.1). Harper is supported by
+ Thomas, research manager for the College of Physical Sciences and Engineering, and the
+ University impact team (REF5a). In the School our full-time Knowledge Exchange Officer, Emery,
+ has expertise and contacts that have been vital for developing and organising impact workshops
+ and events (see Sections 4.2, 4.3 for examples). Clear strategic management ensures that impact
+ generation is supported, and colleagues are recognised, for instance through promotion (Section
+ 2.1.2) or nomination for Cardiff University `Celebrating Excellence’ or ‘Innovation and Impact’
+
+                                                                                                     Page 3
+Unit-level environment template (REF5b)
+ awards. Our monthly School newsletter usually features articles highlighting successful School
+ engagement and impact activities.
+ Our workload allocation model ensures, as mandated by the University, that colleagues involved in
+ innovation and engagement are given time for these valued activities. Colleagues are encouraged
+ to use the University’s Research Leave Fellowships both for fundamental inquiry and for
+ engagement and innovation (see REF5a). As part of our strategy for partnership with ONS, Gillard
+ was seconded there under our EPSRC Impact Acceleration Account, to work on problems in
+ anomaly detection, for one day per week over six months.
+ A final example of our impact strategy lies in our postgraduate programmes, including a new MSc
+ in Data Analytics for Government developed with ONS. In fact, all our MSc degrees are linked to
+ collaborations with external stakeholders, where students undertake placements and in which
+ many of our MSc and PhD students ultimately accept positions. Over the REF period, 70 of our
+ MSc students secured permanent positions with our Industrial Advisory Board partners alone.
+ Among our former PhD students, Vile, 2014 SET for Britain prizewinner, is now Senior
+ Implementation Facilitator at the National Institute for Health and Care Excellence; Dadachev
+ works for Google in Zurich; and N. Mohammed is employed at HP Labs. Table 3 in Section 2.3,
+ giving career destinations of PDRAs, contains further examples. These human relationships
+ cement the trust we enjoy with our partners, ensuring long-term vitality of our impact activities.
+ 1.5    Doctoral training
+ Following a new DTP Agreement between Cardiff University and EPSRC, in 2017 we implemented
+ a system whereby all potential PhD supervisors submit project descriptions to a selection panel
+ organised in partnership with the College of Physical Sciences and Engineering, which ranks them
+ and advertises the best. This system ensures that good interdisciplinary projects are also able to
+ access funding. Since 2017 we obtained approximately five DTP-funded students per year,
+ comparable to the very best we ever had under direct allocation from EPSRC to the School. A
+ small number of studentships are reserved for new supervisors. The School shortlists candidates
+ for interview, ranking by academic merit. During 2012-16, 26% of our DTP-funded intake had first
+ degrees from outside Cardiff; since the adoption of the new system in 2017, this has increased to
+ 61%. We recently negotiated memoranda of understanding with Beijing Normal University, Beijing
+ University of Technology and Xiamen University, including agreements on the provision of joint
+ supervision of doctoral students, involving at least one year in Cardiff. For further details of
+ doctoral training and evidence of success, see Sections 1.8, 2.2.
+ 1.6    Research integrity and research evaluation
+ All academics and PGR students receive research integrity training, as described in REF5a.
+ Research ethics fall under the School’s Research and Innovation Committee. The Director of
+ Research is responsible for monitoring compliance, and for the School’s engagement with
+ development of ethics policies at University level. Draft University-level documents are discussed
+ at the School Research and Innovation Committee and feedback provided.
+ In practice, few of our projects require ethics approvals. Those affected typically involve the
+ College of Biological and Life Sciences (BLS). Such proposals are first approved by the relevant
+ BLS ethics committees before passing to the School for review.
+ Consistent with Cardiff University’s adoption of the San Francisco DORA agreement, the School
+ has continued to evaluate work on scientific merit rather than by metrics or perceived journal
+ prestige. This applies when selecting publications for REF, when recruiting and mentoring staff,
+ and when evaluating cases for promotion. We value software as a research output and for its
+ impact (see Knight’s Python impact case study). The School followed the institutional REF Code
+ of Practice at every stage, including output and impact assessment, and determining
+ independence of researchers. Outputs were considered by two independent reviewers and a
+ moderation panel, with additional reviews in cases of disagreement.
+ 1.7    Open Access (OA)
+ The School supports OA compliance with an administrative team who deposit all accepted papers
+ in the institutional repository, along with software and data. Reminder emails are sent with
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+ sufficient frequency to ensure that deposit deadlines are met. New staff are informed of OA
+ requirements at induction. Our OA compliance rate is over 95% for all works during the period,
+ not only those submitted for review. Our web content management system automatically updates
+ staff pages with links to outputs in the institutional repository. The importance of accessible
+ research is emphasized at the School’s funding workshops (Section 3.1) and over 90% of
+ colleagues further enhance access to their research, including preprints and software, using global
+ platforms. Brown has been an arXiv moderator for twenty years.
+ 1.8       Covid-19 Response
+ Members of our OR, Statistics, and Applied and Computational Mathematics groups, including
+ Harper, Kaouri, Wooley and Zhigljavsky, have been extensively consulted by the Welsh
+ Government and its Technical Advisory Group during the pandemic. They were key to facilitating
+ a safe campus and optimising the design and deployment of our in-house asymptomatic testing
+ service. They also participate in the UK-wide OR response through the Royal Society’s RAMP
+ initiative. Three of our doctoral students (Henley, Moore and Ostler) won a £3,000 first prize in the
+ NERC Covid-19 Digital Sprint Hackathon 2 for their work on environmental sustainability of public
+ transport under social distancing. Kaouri received research funding from the Welsh Government
+ for her work on anti-viral coatings (Section 4.2.1); she is now a member of the Technical Advisory
+ Group Environmental Sciences subgroup.
+ The School quickly moved its research seminars online, allowing these vital activities to continue
+ and, indeed, double or triple their audiences. As part of the institutional response (see REF5a),
+ we surveyed researchers and identified two PhD students and one academic whose home
+ circumstances necessitated an early return to office working, as well as others for whom we
+ purchased vital remote working equipment. In the medium term we are working to address the
+ challenges faced by researchers wishing to work abroad, such as during study leave.
+ 1.9       Future Research and Impact Strategy
+ Our plans for the future are reviewed regularly by our Research and Innovation Committee
+ through formal consultations with colleagues and in light of national and global developments.
+ Excellence, equality, impact and internationalism are key elements in our plans for growth. In
+ particular:
+       •   We will continue to develop a new generation of research leaders through recruitment and
+           career progression of outstanding scholars, and aim to convert the Athena SWAN Bronze
+           Award which we have held since 2015 to a Silver Award at least.
+       •   Just as we have expanded OR beyond healthcare, we shall now enhance impact
+           opportunities by expanding applied and computational mathematics in user-facing
+           directions, building on our investments in mathematical biology, and ensuring that we are
+           well placed to take advantage of the Bond Review.
+       •   In analysis and in probability we now have more researchers using geometric methods,
+           raising exciting prospects for intradisciplinary collaborations with members of the GAPT
+           Group. We aim to expand GAPT by investing in geometry, and in areas of topology and
+           discrete mathematics with applications to problems of shared interest with Computer
+           Science and Informatics.
+       •   Increasing intradisciplinary and interdisciplinary collaborations are already building up
+           critical mass, enabling access to new opportunities for postdoctoral and postgraduate
+           funding. The University’s approach to ESPRC-DTP studentship funding has opened up
+           new opportunities for cross-disciplinary interactions, as seen through co-supervision with
+           Computer Science and Informatics.
+ Most importantly, we shall continue to ensure that our future plans are developed in a democratic
+ and inclusive environment in which all colleagues are encouraged to participate fully in decisions
+ about strategy and direction.
+
+
+
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+ 2. People
+ 2.1     Staffing strategy and staff development
+ 2.1.1   Staffing and recruitment strategy
+ A key element of the expansion strategy described in Section 1 has been to review our research
+ capabilities regularly and draw up priorities for recruitment. These are based on assessments of
+ the strengths of the research groups by Heads of Group and the School Board, and the
+ identification of opportunities for inter- and intradisciplinary collaboration, as presented in Section
+ 1.4. Our strategy also takes account of national priorities articulated by UKRI, EPSRC’s
+ Community Overview Documents, and strategic priorities of the University, alongside our
+ fundamental commitment to equality, diversity and inclusion (Section 2.4). The identification of
+ cross-cutting themes, which enable us to expand our research base while maintaining both
+ excellence and coherence, benefitted immensely from the advice of our External Advisory Panel,
+ whose members are currently Martin Bridson FRS (Oxford), Michael Grove (Birmingham), Boris
+ Khoruzhenko (QML), Robert Leese (Oxford), Sally McClean (Ulster), Alastair Spence (Bath) and
+ Henry Wynn (LSE).
+ The appointments made in each group have always met more than one strategic objective. For
+ instance, Jones expanded OR in environmental applications, establishing a new collaboration with
+ Earth and Environmental Sciences. Ekstrὅom (Earth and Environmental Sciences) and Strokorb,
+ a new probabilist shared between Analysis and Statistics, worked with Jones to win the 2018 RSS
+ Mardia Prize. Their work links three of our five groups in an interdisciplinary collaboration between
+ scientists who had not met before coming to Cardiff. Similarly, the appointment of applied
+ combinatorialist Andrei Gagarin (OR Group), an initiative to support collaboration with Corcoran
+ and Spasić (Computer Science), complements the theoretical work of our AMS prize winner
+ Behrend (GAPT Group). Corcoran and Gagarin are joint leaders of the Discrete Mathematics and
+ Data Science Research Team, a ‘research semigroup’ composed of researchers from both
+ schools. Kaouri and Woolley (Applied and Computational Mathematics) expanded our
+ collaborations with life sciences and organised major meetings such as the European Study
+ Groups with Industry.
+ Ensuring that each appointment meets multiple objectives enabled us to make strong cases for
+ additional University investment. The pure mathematics posts of Lechner, Pennig and Wood are
+ all the direct result of University investment in our critical mass, as are the posts of Chen
+ (mathematical finance  OR), Gauthier (statistics), Strokorb (analysis, statistics) and Liu
+ (mathematical finance  OR). Cardiff University also supported the School by ensuring that
+ vacancies are filled quickly, an important mechanism for ensuring optimistic staff morale and an
+ upbeat environment.
+ 2.1.2    Staff development and promotion
+ Most Teaching and Research staff recruited since 2014 commenced on contracts with three-year
+ probationary periods. The School and the University provide several support mechanisms, some
+ tailored to probationers and some available to all. In particular:
+ 1. Probationers receive a substantially increased allowance for research in their workload model,
+ to enhance development of their longer-term research career and the formulation of research
+ proposals. The Director of Research proactively collaborates with probationers, with ECRs and
+ with Heads of Group to identify funders, providing successful past applications, drawing in
+ colleagues with appropriate expertise, and giving practical advice on processes. The MSCA
+ Fellowships of Zhang (Section 4.1) and Rösler, and the Humboldt Fellowship of Wood, are three
+ examples of this system in action.
+ 2. The University has an intensive bespoke programme of support for Fellowship applicants (e.g.
+ UKRI, ERC and Marie Skłodowska-Curie): in particular, experienced scientific colleagues from
+ across the College help applicants to create accessible, engaging proposals, support is provided
+ for responses to reviewers, and with mock interviews.
+ 3. The School encourages staff to join the EPSRC Peer Review College and Associate Peer
+ Review College. Ten colleagues are College members; D.E. Evans sits on the EPSRC Strategic
+
+                                                                                                 Page 6
+Unit-level environment template (REF5b)
+ Advisory Team. Engagement with other funders is also important, with Leverhulme Trust and
+ London Mathematical Society being particularly valuable partners in fundamental research.
+ 4. New staff receive an enhanced personal development fund, typically totalling £7,000. Through
+ careful mentoring, they are encouraged to use these funds ambitiously. Many of our distinguished
+ visitors (Table 4 in Section 4.1) were funded in this way, or through the University’s International
+ Collaboration Seedcorn Fund (e.g. ICM speaker Masaki Izumi, AMS Fellow Murad Taqqu).
+ 5. All staff may request Study Leave after five years’ service; they may also apply to the University
+ Research Leave Fellowship Scheme for travel funds and to secure replacement teaching costs
+ for the School (REF5a). The success of the scheme is seen in research outputs and three of the
+ highlighted projects in Section 3.2 were developed during Study Leave (PlASMA, IVP-MAG,
+ LADS).
+ 6. We have a 100% completion rate for staff Performance Development Reviews since this new
+ system’s introduction in 2016. One indicator of its effectiveness is the success rate of colleagues
+ applying for promotion. During 2018-19 and 2019-20, all 19 colleagues who applied were
+ promoted (73% of eligible staff; 83% of female staff). The University’s Academic Promotions
+ Committee is independent of the School. Personal chairs for research excellence were awarded
+ to Behrend, Chen, Dirr and Schmidt during the REF period.
+ 2.2    Training and support of ECRs and doctoral students
+ The quality of our doctoral training is reflected in the career destinations of our PhD graduates: 15
+ out of 46 graduates continued to academic positions in institutions including Bath, Ben-Gurion
+ University, Bologna, Bristol, Lancaster, Max Planck Plön and Warwick, as well as Cardiff; industrial
+ employers include Fondazione Bruno Kessler, Google, HP Labs, Renishaw, the NHS and NICE.
+ Contacts made in our strategic research workshops (Section 4.4) and impact events (Section 4.2)
+ also enhance career prospects.
+ Equipping doctoral students with appropriate technical skills is vital to their success in research;
+ consequently, the School has provided taught courses for the MAGIC Consortium ever since
+ joining, principally in Functional Analysis, Spectral Theory and Numerical Solution of PDEs. With
+ the other mathematics departments in Wales, we direct an annual meeting at Gregynog Hall,
+ involving three eminent external speakers and parallel sessions in which PhD students are
+ encouraged to present their work. All our research students attend their group seminars and
+ produce annual written reports. A supportive annual viva voce assessment helps them target their
+ efforts on work whose importance they can fully articulate. Consequently, our students have won
+ prizes for their work and exposition: the 2017 Mike Crisfield prize of the UK Association for
+ Computational Mechanics for Safar, the best poster award for Aspland at OR60 (2018) and for
+ Williams at ORAHS (2019), and the OR society 2018 doctoral award for Palmer. Groves and
+ Morgan also presented their work at STEM for Britain in the Houses of Parliament. Our students
+ run an active SIAM-IMA student chapter.
+ Supported administratively and financially by the School, our PGR student body, on their own
+ initiative, established an internal seminar series, reading groups, and a special initiative in the
+ Work@1 Programme encouraging undergraduates to consider research careers. They also set
+ up a ‘Women in Mathematics’ forum, with a dozen regular attendees. Existing PGR students were
+ particularly helpful to us in increasing recruitment of female research students. Accordingly, we
+ greatly enhanced the visibility of our female staff and students in our online and printed course
+ materials. We give individual encouragement to potential applicants and highlight PhD study and
+ the funding available through the ‘Women in Mathematics’ forum and Work@1 sessions. This
+ resulted in substantial improvements in female representation since 2017/18, at each recruitment
+ stage (Fig. 1), further evidence of our commitment to equality, diversity and inclusion (Section
+ 2.4).
+
+
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+
+
+
+
+                            Figure 1: PhD applications by gender
+ The annual University Postgraduate Research Experience Surveys confirmed overall satisfaction
+ rates averaging 93% for Maths PGRs, with satisfaction rates for research supervision averaging
+ 95%. The increased EPSRC DTP and CASE allocations we received from the University (see
+ Section 1.5), combined with our strategies of collaboration between research groups and with
+ other Schools, encouraged colleagues to produce exciting collaborative PGR projects, such as
+ modelling for optimal electric vehicle recharging locations with Computer Science. By connecting
+ these, where appropriate, to proven non-UKRI funding opportunities (see Section 4.2) and by
+ securing new Horizon Europe Doctoral Training funds, we aim to continue expanding our future
+ PGR funding.
+ 2.3    Career development of postdoctoral research assistants and Fellows
+ Our former PDRAs and Fellows progressed to a variety of academic and industrial careers (Table
+ 3). PDRAs moving into industry are often employed by our partners, delivering ongoing impact
+ from the research they conducted in the School. For many PDRAs, the most important element of
+ preparation for future careers, beyond a strong portfolio of outputs, lies in research funding.
+ Section 3.1 describes how we support grant applications. Since teaching experience is valued by
+ academic employers, PDRAs also have the opportunity to deliver a small number of lectures,
+ typically not more than one 27-lecture module during a three-year appointment. Our Mathematics
+ Education Group, led by 2019 Advance HE Fellowship winner Wilson, provides maths-specific
+ support for teaching.
+    PDRA/Fellow           Current Employment
+    Sabine Bögli          Assistant Professor, Analysis of PDEs, University of Durham
+   Soheil Davari          Senior Lecturer, University of Hertfordshire Business School
+    Ermal Feleqi         Head of Mathematics Department, Universiteti i Vlöres, Albania
+   Penny Holborn          Senior Lecturer in Maths, Stats & OR, University of South Wales
+   Ahmed Kheiri           Lecturer in Operational Research, Lancaster University
+    Izabela Komenda       Mathematical Modelling Unit Lead, ABCi, Aneurin Bevan University
+                          Health Board
+   Rishot Minty           Analyst, Department for Work and Pensions, London.
+   Jennifer Morgan        Performance Analysis Manager, Delivery Unit, NHS Wales
+   Baptiste Morisse       Mathematical modelling consultant, Sivienn, Paris
+   Duc Vinh Nguyen        Lecturer-Researcher at Tonducthang University, Vietnam
+
+
+                                                                                            Page 8
+Unit-level environment template (REF5b)
+    Juan Reyes              Research Associate, Instituto de Estadistica de las Islas Baleares
+    Otogo Uuye              Director of the Institute of Mathematics, National University
+                            of Mongolia, Ulaanbaatar
+    Julie Vile              Implementation Facilitator (Wales), National Institute for Health & Care
+                            Excellence
+    Cheryl Voake-Jones Skills Development Manager at University of Bath
+    Hayley Wyatt            PDRA, Cardiff School of Engineering
+    Pre-2014
+                            Permanent position secured post-2014
+    PDRA/Fellow
+    Shane Cooper            Lecturer in Applied Mathematics, University College London
+    Paul de Medeiros        Associate Professor of Applied Mathematics, University of Stavanger
+
+  Table 3: Current employment of past PDRAs/Fellows in Cardiff School of Mathematics
+ 2.4    Promotion of equality, diversity and inclusion (EDI)
+ Promotion of EDI touches on every aspect of the School’s life and is central to our strategy of
+ ensuring all talent is supported by organisational processes and culture. We aim to achieve at
+ least a 1/3 female shortlist for every academic position. Job adverts contain contact details for
+ both a female and a male colleague. Since 2014, numbers of female teaching and research staff
+ increased significantly, from one to seven. Every appointment panel has at least one female
+ member. All panel members receive enhanced EDI and Unconscious Bias training.
+ The School established procedures to support colleagues returning after periods of absence,
+ ensured collegial timings of seminars and meetings (10:00-16:00), and provided enhanced help
+ for those with health and wellbeing needs. Several of the papers submitted to REF were written
+ by researchers we assisted through periods of difficulty, whose successful return is also
+ demonstrated by promotion.
+ Regardless of gender, colleagues are encouraged to take parental leave entitlements. The School
+ allows teaching-free periods for those returning from maternity leave. We promoted our Returner’s
+ Scheme, developed in 2014, to the University; it is now adopted across the institution. Staff meet
+ the School’s HR Officer for details of University support available before going on leave, and
+ additional School support available on their return, including protected study time and flexible
+ working. Our Head of School chairs the College of Physical Sciences and Engineering EDI
+ Committee, reflecting best practices and School achievements.
+ The School has a request procedure for staff requiring teaching adjustments due to caring
+ responsibilities, disability, religion etc. This allows planning and promotion of flexible working. The
+ numbers of teaching timetable adjustment applications each year since 2015 were 6, 14, 10, 9
+ and 12, respectively. One of the requests each year was from a female academic; the rest were
+ male. We adjust timetables at either the beginning or end of the day for all applicants. Colleagues
+ requesting adjustments at both ends of the day apply using the University’s flexible working
+ policies. Since 2015, two such requests were received from academics; both were approved.
+ We monitor the gender balance of all seminar series. There has been significant change since
+ 2014, with equal numbers of female and male speakers in 2016/17 for the most high-profile series,
+ the School Colloquium. There are differences between the other seminar series’ gender balance,
+ but most achieve at least 25% female speakers, reflecting the proportion of female researchers in
+ UK mathematical sciences.
+ Progression from our Athena SWAN bronze award to silver, and subsequently gold, is an
+ important future goal. The increase in the number of female researchers since our previous
+ application, promotions of female academics to senior positions, and our support of high-visibility
+ activities by female researchers (see Section 4.2) make us optimistic of successful outcomes.
+
+
+                                                                                                 Page 9
+Unit-level environment template (REF5b)
+ 2.5    International staffing
+ Approximately 2/3 of academics in the School are dual nationals or hold non-UK citizenship only.
+ Aware of the uncertainties facing colleagues who do not hold UK citizenship following the 2016
+ BREXIT referendum, the University established an International Staff Network and mechanisms
+ to support European colleagues seeking settled status.
+ The School was aware that international staff were under-represented in its management structure
+ and took steps to ensure that there are truly no barriers to contributing to the School’s leadership.
+ In particular, many key strategic roles are now held by international colleagues who came to
+ Cardiff within the last decade. These include Aliev, Director of Postgraduate Studies; Artemiou,
+ Deputy Director of the Data Science Academy; Chen, Director of International Partnerships;
+ Lechner, Head of the GAPT Research Group; Mihai, Deputy Director of Research. All colleagues
+ in these roles were promoted at least once during the assessment period, recognising research
+ and impact successes the School supported them to achieve. Such initiatives also emphasize our
+ commitment to equality and diversity in ethnicity.
+ 3. Income, infrastructure and facilities
+ 3.1    Research funding and strategies for generating income
+ The School was commended in REF2014 for its strong research income. In the current census
+ period, we surpassed the previous level of grants awarded, with £6,248,250 compared to awards
+ of £6,098,983 during the previous REF census period. We saw large increases in EU grant awards
+ (up from £769,813 to £1,434,942) and Welsh Government awards (up from £37,658 to £388,482).
+ PDRAs and postdoctoral Fellowships also increased from 31 person-years in the previous census
+ period to 40 person-years in the current period.
+ Though performance was initially driven by established colleagues, from 2018 there was
+ significant growth in awards to new appointees and ECRs, who also benefit from in-School and
+ University mentoring (e.g., for our MSCA Fellowships, Section 1.2). The funding awarded in the
+ two-year period July 2018 to July 2020, £4m, is almost 2/3 of the funding awarded during the
+ whole REF period, in part reflecting the momentum from sustaining new staff recruitment.
+ Funding from UKRI, the EU, the Leverhulme Trust and the London Mathematical Society is
+ important to the School (see the projects noted in Section 3.2). We have also, however, increased
+ revenue from impact activities. Although publicly available HESA data only provides staff numbers
+ to within five FTE, these data indicate that since REF2014 our per-capita income from UK central
+ government bodies/local authorities, health and hospital authorities has been in the top UK
+ quartile, reflecting our long-term partnerships with the NHS, the ONS, and the Welsh Government.
+ Of the 40 person-years of postdoctoral time secured during the review period, 18 years were
+ funded by industrial partners (Table 5 in Section 4.2) including over 150 months of PDRA time for
+ a Healthcare Modelling Unit in the School. As we grow our research funding, we shall maintain
+ this balanced portfolio of sources (see REF4a/b data), in line with our strategic commitment to
+ societal benefit.
+ Our strategy for income generation is based on (i) mentoring; (ii) fair workload allocation and
+ respect for EDI; (iii) internal peer review; (iv) funding workshops; and (v) impact events. We
+ already mentioned in Section 2.1 our mentoring systems for supporting new colleagues to
+ generate income. We describe the remaining mechanisms below.
+ Securing research funding depends on having the time to conduct outstanding research, so we
+ particularly ensure that the workload associated with activities which support EDI, such as Athena
+ SWAN applications, is fairly shared. Given our arrangements for special timetable requests
+ described in Section 2.4, colleagues with family commitments are able to engage fully in research
+ and in income generation. All colleagues are given the support they need regardless of gender,
+ ethnicity, disability or other protected characteristics. We celebrate the 100% success rate of our
+ female applicants in securing both First Grants/NIAs and second grants. The LADS project
+ (Section 3.2) arose from one such First Grant.
+ All proposals, from researchers at any career stage, pass through a supportive internal peer
+ review. Reviewers may submit reviews anonymously, through the Director of Research. We aim
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ for two reviewers on each proposal and often send proposals to ECRs for review, particularly
+ where they have valuable technical expertise or could learn, from the experience, what a good
+ proposal looks like. Our School Research Manager prepares financial information, checks
+ conformity with funder requirements and assists the Director of Research much as a Managing
+ Editor would assist the Editor-in-Chief of an academic journal.
+ Since 2016 the School has organised afternoon funding workshops at least annually, covering
+ different funders and application procedures. The topics discussed are decided by popular
+ demand. The Leverhulme awards to Behrend and Cherdantsev, both funding three-year PDRAs,
+ are recent examples which arose from a single grants workshop. We started to see a significant
+ increase in awards generally, approximately 18 months after the first workshop. Both the School,
+ and the University’s Research and Innovation Service (RIS), regularly invite funders to visit and
+ explain their strategic priorities. RIS colleagues have been seconded to UKRI for extended
+ periods, gaining in-depth knowledge of their working methods.
+ One outcome of our funding workshops, aligned to our global visibility strategy, was a decision to
+ propose and direct more research programmes at international institutes. These included
+ programmes at the Isaac Newton Institute, the ICMS in Edinburgh, MF Oberwolfach, Institut Mittag
+ Leffler in Stockholm, RIMS in Kyoto, the Simons Center in New York, and two LMS-Durham
+ Symposia (see Section 4.4).
+ Our impact events bring together researchers and practitioners. Industrial collaborative partners
+ include Admiral, BA, Crimtan, Ernst & Young, GE, Glaxo Smith Kline, Google, HP, NHS, Lloyds,
+ ONS, PA Consulting, Procter and Gamble, Roche, Tata Steel and the Welsh Government. We
+ secured long-term external sponsorship of open-ended academic posts, including Gartner’s
+ lectureship (NHS Wales) and a new Senior Lecturer in Data Science, helped by a strategic
+ partnership agreement between ONS and Cardiff University (with Harper as academic chair).
+ Dyfed-Powys Police part-funded two CASE PhD studentships on crime prediction. Two
+ KESS2/European Social Fund PhD studentships were part funded by Cellesce (a breast cancer
+ organoid research company, led through Cardiff Biosciences) and the London Women’s Clinic;
+ four further KESS2 studentships were part-funded by partners related to our impact case studies
+ (Table 5 in Section 4.2).
+ These developments show that Cardiff is already establishing many of the positive knowledge
+ exchange scenarios envisaged in Sir Philip Bond's `Era of Mathematics' report for UKRI. In fact,
+ Harper was a member of the Expert Review Committee contributing to this report, which has
+ persuaded UKRI to substantially increase mathematics funding.
+ 3.2    Highlighted projects
+ Research grant funding since REF2014 led to significant research outcomes that are enriching
+ our discipline and the School’s research environment. Here we present some examples with
+ lasting impact on our future research directions.
+ QUEST (Quantitative Estimates in Spectral Theory) is Ben-Artzi’s EPSRC Early Career
+ Fellowship project. It resulted in the appointment of four new members of the Mathematical
+ Analysis Group: Ben-Artzi himself, two PDRAs (Morisse and Rösler) and, following the award of
+ a Marie Skłodowska-Curie Fellowship, Zhang. With the skills acquired by working on this project,
+ Rösler secured an MSCA Fellowship on computational complexity in quantum mechanics, which
+ he holds in the School. QUEST funded key meetings in the School, attracted several of the
+ eminent visitors in Table 4 (Section 4.1) and was a key ingredient in the establishment of the
+ South Wales Analysis and Probability Seminar, and the UK-wide LMS Network on Challenges in
+ Non-Selfadjoint Spectral Theory.
+ PlASMa (Leverhulme Trust RPG-2019-083, PI: Behrend, 2019–2022) investigates the enigmatic
+ connection between plane partitions and alternating sign matrices. It has been known for several
+ decades that these two classes of discrete mathematical objects share remarkable enumerative
+ properties, but the link can only currently be confirmed indirectly. This fundamental problem is
+ being addressed by developing new techniques involving partially ordered sets and lattice paths,
+ which are expected to lead to a substantially enhanced understanding of the underlying
+ combinatorics. Saikia, a PlASMa PDRA, is an excellent example of Cardiff’s international
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+ connectivity. He completed his PhD at Universität Wien with Prof. Ilse Fischer, having been
+ awarded a Postgraduate Diploma from Abdus Salam ICTP Trieste and a master’s degree from
+ Tezpur University, India.
+ IVP-MAG (EP/K024078/1, PI: Brown, 2013-2015), a multidisciplinary collaboration between
+ Mathematics and Computer Science in Cardiff and Engineering in Swansea University (Swansea
+ PI: Ledger), studied inverse problems for MIT. This project emerged from the 2011 Isaac Newton
+ Institute programme on Inverse Problems, chaired by Brown, and was succeeded by MIVP
+ (EP/P005985/1, PI: Brown), a network encompassing nodes in Bath, Bristol, Cambridge, Cardiff,
+ Edinburgh, Kent, Leeds, Manchester, Nottingham, Southampton, Swansea and UCL. IVP-MAG
+ developed new Maxwell solvers for Free-FEM++, as well as fundamental publications on
+ solvability of inverse problems with boundary measurements on arbitrarily small open sets. Two
+ postdocs secured research careers in industry, one at strategic partner Renishaw; a third secured
+ a permanent lectureship in Computer Science in Cardiff.
+ MEMSI (Modelling Emergency Medical Services in Indonesia), an EPSRC GCRF funded project
+ (EP/T003197/1, PI: Harper) develops spatio-temporal forecasts of demand, with stochastic
+ optimisation and simulation decision support tools for emergency and disaster relief planning
+ across Indonesia. It builds both on novel underpinning research to uniquely capture the behaviour
+ of queueing systems with multiple priority classes and time-dependent arrivals (EP/F033214/1),
+ and on the development of an open-source discrete-event simulation shell (funded by NHS
+ Wales). This research created additional impact for the Welsh Ambulance Service by informing
+ them of optimal staffing levels and associated rosters.
+ LADS (Limit analysis of debonding states in multi-body systems of stochastic hyperelastic
+ material, EP/M011992/1, 2015-2017; PI: Mihai) combined knowledge from elasticity, statistics and
+ probability to develop sophisticated tools for modelling elastic material behaviour in diverse areas
+ of science, medical research and manufacturing. The project PDRA, Wyatt, now holds a University
+ lectureship in Engineering. The importance of this research was recognised by the award of a
+ second EPSRC grant (EP/S028870/1) allowing translational research to test the mathematical
+ results on a wide range of materials of practical interest. As important challenges are associated
+ with quantification of uncertainties in material responses, the long-term goal is to develop
+ stochastic elasticity methods as powerful tools for future applications.
+ 3.3    Infrastructure
+ We currently occupy a 3500m2 building, with a dedicated Mathematical Sciences Library,
+ numerous seminar and collaboration rooms, and lecture theatres accommodating between 30-
+ 190 people. In 2016 a business case was made with the School of Computer Science and
+ Informatics for co-location in a new building, based upon the identification of twenty researchers
+ with aligned interests and upon the strategic decision (see Section 1) to expand joint research in
+ areas including discrete mathematics, combinatorics, optimisation and applied probability, which
+ will also enhance collaboration with the ONS. The new £39m 9,700m2 facility, named Abacws,
+ was designed by Stride Treglown and Adjaye Associates, collaborating closely with academics
+ from both Schools. Currently nearing completion, its location is in immediate proximity of Cardiff
+ University’s Brain Research Imaging Centre (CUBRIC), a £44m flagship centre with whom
+ Balinsky and Spasić already collaborate.
+ Our co-location with Computer Science and Informatics will greatly benefit the University’s Data
+ Innovation Research Institute, that is jointly led by the two Schools. New hot-desking will support
+ researcher engagement across the University, directly benefitting our Unit. The new space will be
+ essential as we emerge from Covid-19 in supporting new interactions in Mathematics and in
+ growing our collaborations with Computer Science and Informatics (Gagarin, Harper, Lewis,
+ Balinsky), particularly at the interface with combinatorics, OR and machine learning. In the long
+ term, the Abacws Building will accommodate growing numbers of PDRAs and allow strategic
+ expansion of our international visitor programme, conferences, and impact events, all key
+ components of our environment (Section 4). The long-term presence of eminent visiting scientists,
+ who will have the opportunity to visit two dynamic Schools in one building, will be particularly
+
+
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ important for the personal development of our ECRs, whose scientific prospects will be further
+ enhanced in an intrinsically multidisciplinary environment (see Section 1.3).
+ The School already shares support for research and finance with Computer Science and
+ Informatics. This will extend to IT in the new building. For HPC we currently use the hardware and
+ support of Advanced Research Computing at ARCCA (REF5a), supported by the University and
+ European Structural funds via the Supercomputing Wales project, to conduct CPU-intensive
+ simulations in OR, for data-intensive work in collaboration with CUBRIC, and for CFD to support
+ our research on non-Newtonian flows.
+ 4. Collaboration and contribution to the research base, economy and society
+ 4.1     Cardiff and the global research base
+ 4.1.1   Distinctions and Prizes
+ The School celebrates the successes of colleagues whose contributions to the research base
+ and society have been recognised with distinctions and prizes.
+ Roger Behrend, a Cardiff mathematician for twenty years, won, with co-authors Ilse Fischer and
+ Matjaž Konvalinka, the 2019 American Mathematical Society Robbins Prize for the paper
+ Diagonally and antidiagonally symmetric alternating sign matrices of odd order (Advances in
+ Mathematics 315, 324-365 (2017)) in which they prove, after more than thirty years, a formula for
+ the number of odd-order diagonally and antidiagonally symmetric alternating sign matrices. This
+ was the last open conjecture of David Robbins on alternating sign matrices. Behrend has now
+ been awarded a Leverhulme grant funding a postdoctoral position for Saikia, to investigate topics
+ arising directly from the prize-winning work. Behrend was widely recognised before the award:
+ since 2014, he gave seven guest lectures on his research in Europe and Japan, including the two
+ talks in Table 6.
+ Paul Harper became, in 2019, the youngest ever recipient of the Companion of Operational
+ Research Award, for sustained support for the development of OR and outstanding service to The
+ OR Society and the wider OR community. This prize is the most prestigious in a series of
+ distinctions which include the 2015 Times Higher Education Award for Outstanding Contribution
+ to Innovation, two Cardiff University prizes for Innovation and Impact (2011 and 2015) recognising
+ Harper as one of the University’s top researchers for the societal benefit of his work, and the 2017
+ Cardiff University `Celebrating Excellence’ award for Innovation and Enterprise. Harper’s research
+ interests concern stochastic OR, including queueing theory, simulation methods, optimisation, and
+ game theory; mathematical modelling of healthcare systems; modelling for the prevention,
+ detection and treatment of diseases; machine learning and data mining. The author of more than
+ eighty peer-reviewed papers, he is a named investigator on over £11m of grants.
+ Owen Jones and Kirstin Strokorb, with co-author Marie Ekström (School of Earth and
+ Environmental Sciences), won the 2018 Royal Statistical Society Mardia Workshop Prize to
+ support their interdisciplinary work on extreme weather. Jones is an applied mathematician with a
+ background in data analytics, optimisation and simulation who has collaborated with the Australian
+ Department of Agriculture, Fisheries and Forestry, McLaren F1, and the UK’s National Air Traffic
+ Systems. Strokorb is a probabilist focusing on stochastic processes and dependence concepts in
+ extreme value theory, a branch of probability and statistics that provides theoretically sound
+ procedures for extrapolation beyond the range of data, including proper understanding of the
+ limitations of such procedures. Following her doctorate from Göttingen in 2013 and a three-year
+ assistantship in Mannheim, Strokorb was appointed to a University lectureship in 2017. She
+ delivered more than twenty invited presentations in Europe and North America since 2015.
+ Junyong Zhang was awarded a Marie Skłodowska-Curie Fellowship with a 100% score and
+ ranked top of all the mathematics applicants in 2018. He joined us from the Beijing Institute of
+ Technology, where he maintains his affiliation. Zhang’s interests include harmonic analysis,
+ spectral analysis and PDEs. He studies problems related to the long-time behaviour of nonlinear
+ dispersive equations, as well as Strichartz and restriction estimates, particularly for problems on
+ nontrivial underlying manifolds. He obtained his PhD in 2011 at the Institute of Applied Physics
+
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+ and Computational Mathematics in Beijing and has since spent a year at both the Australian
+ National University and Stanford University.
+ Anatoly Zhigljavsky won the 2019 Constantin Carathéodory Prize for his lifetime contributions
+ to global optimisation. Zhigljavsky obtained his Doctor of Science degree from Leningrad in 1987
+ and came to the University twenty years ago as Professor of Statistics. He is the Head of the
+ Statistics Group and was Director of the Centre for Optimisation and its Applications. His research
+ interests are time series analysis, multivariate statistical analysis, statistical modelling in market
+ research, and stochastic global optimisation. The author of more than 100 research articles, he
+ has long-term industrial collaborations with Procter and Gamble, GlaxoSmithKline and Crimtan.
+ 4.1.2   Outstanding visitors and collaborators
+ We host many eminent visitors, either as part of research projects in the School or as speakers in
+ our colloquia and conferences. Table 4 shows some of the distinguished scholars hosted since
+ 2014, including five Fields Medallists and several ICM invited speakers. Many are involved in
+ fundamental blue-skies research with members of the School, which is one of the strategic drivers
+ for inviting them. Jesus de Loera, Martin Henk, and Robert Weismantel work with Aliev and
+ Oertel; Valery Smyshlyaev works with Cherdantsev; Pennig made reciprocal visits to Constantin
+ Teleman and has joint work with Yasuyuki Kamahigashi; he has recently started a new research
+ project with Masaki Izumi; Dirr is a collaborator of Panagiotis Souganidis; Ben-Artzi is working
+ with Anders Hansen; Leonenko works with Murad Taqqu, and number theorist Lettington is
+ researching Bohemian matrices with Nick Higham. Mihai was invited speaker at the 70th birthday
+ meeting for Sir John Ball in Oxford. Maciej Zworski visited to collaboration with Eswarathasan.
+
+  Fields Medallists      Michael Atiyah FRS, Alain Connes, Simon Donaldson FRS, Vaughan
+                         Jones FRS, Martin Hairer FRS
+  Prize winners          John Ball FRS (von Karman prize), Jonathan Bennet (LMS Whitehead
+                         prize), Mike Carter (four Canadian OR Society prizes), Alessio Corti
+                         (Junior Whitehead prize), Allison Etheridge FRS (Senior Anne Bennet
+                         prize), Ivar Ekeland (D’Alembert prize), Isabelle Gallagher (Doistau-Blutet
+                         prize), Anders Hansen (Whitehead prize), Martin Henk (von Prechtl
+                         medal, Hlawka prize), Nicholas Higham FRS (Whitehead prize, Fröhlich
+                         prize), Jon Keating FRS (Fröhlich prize), Frances Kirwan FRS (Senior
+                         Whitehead prize), Heinz Langer (Nagy medal, Kreĭn prize), Jens Marklof
+                         (Philip Leverhulme prize, Whitehead prize), James Maynard (SASTRA
+                         Ramanujan prize, Whitehead prize), Clément Mouhot (Whitehead prize,
+                         Adams prize, Grand Prix Madame Victor Noury), Barbara Niethammer
+                         (Richard von Mises prize, Whitehead prize), Felix Otto (Leibniz prize),
+                         Alexander Pushnitski (Whitehead prize), Miles Reid FRS (Berwick prize,
+                         LMS Pólya prize), Carola-Bibiane Schönlieb (Whitehead prize, Philip
+                         Leverhulme Prize), Valery Smyshlyaev (Whitehead prize), Panagiotis
+                         Souganidis (College de France medal), Andrew Stuart FRS (Whitehead
+                         prize, Dahlquist prize), Nick Trefethen FRS (IMA gold medal, LMS Naylor
+                         prize, SIAM Pólya prize), Gunther Uhlmann (Böcher Memorial prize,
+                         Kleinmann prize), Stefaan Vaes (Royal Flemish Academy prize 2012,
+                         Francqui prize 2015) Dima Vassiliev (Whitehead prize), Andras Vasy
+                         (Böcher prize) Karen Vogtman (LMS Pólya prize), Trevor Wooley FRS
+                         (Salem prize, Fröhlich prize), Maciej Zworski FRSC (Coxeter-James
+                         prize)
+  ICM Speakers           Isabelle Gallagher, Mark Gross FRS, Colin Guillarmou, Masaki Izumi,
+                         Dmitri Kaledin, Yasu Kawahigashi, Frances Kirwan FRS, Clément Mouhot,
+                         Barbara Niethammer, Miles Reid FRS, Caroline Series FRS, Andrew
+                         Stuart FRS, Constantin Teleman, Nick Trefethen FRS, Gunther Uhlmann,
+                         Andras Vasy, Karen Vogtmann, Robert Weismantel, Trevor Wooley FRS,
+                         Maciej Zworski FRSC
+
+
+                                                                                               Page 14
+Unit-level environment template (REF5b)
+  Fellows of the AMS John Ball FRS, Andrew Granville, Frances Kirwan FRS, Jesus de Loera,
+                     Caroline Series FRS, Murad Taqqu, Stefaan Vaes, Andras Vasy, Karen
+                     Vogtmann, Trevor Wooley FRS
+
+                        Table 4: Distinguished visitors to the School.
+ 4.2     Collaboration and the economy
+ The economic beneficiaries of our research include commercial/industrial organisations with
+ global reach, such as HP and Google, together with public organisations which benefit from
+ savings through enhanced organisational practices. We helped global companies to optimize their
+ digital advertising (see impact case study with Crimtan) and benefitted educators, researchers
+ and industry through mathematical consultancy under-pinned by fundamental research, as well
+ as a range of open source software.
+ 4.2.1   Mechanisms for engagement with users
+ As mentioned in Section 1.4, our Innovation and Engagement Committee receives strategic
+ advice from our Industrial Advisory Board comprised of senior personnel from more than 15
+ organisations. External partners (see also Section 3.1) are further engaged through contributions
+ to research-led teaching. Many offer three-month projects on our MSc programmes, often leading
+ to deeper collaborations. After hosting MSc projects for some years, Public Health Wales (PHW)
+ funded a PDRA during 2018-2020 who worked closely with the Home Office and all police forces
+ and commissioners across Wales to help inform the national approach to policing vulnerability;
+ that is, how to optimally design and operationalise services to support those suffering domestic
+ violence and adverse childhood experiences. PHW is now a significant stakeholder in our
+ modelling work on public health delivery logistics. Airbus recently awarded £120,000 to fund
+ research in collaboration with Engineering and Mathematics in the University on the use of
+ acoustic sensors to monitor airframe damage. Led by Pullin (Engineering) with Gillard as
+ Mathematics co-I, this project was enabled by connections made by Gillard through the Data
+ Innovation Research Institute.
+ We also engage businesses through partnerships which allow both them and us to access
+ research funding. A topical recent example is Kaouri’s collaboration with Smart Separations on
+ antiviral coatings, funded by Business Wales, with £58,000 coming to the School. This is joint
+ research with Oxford University.
+ 4.2.2   Industry-academia funding
+ Since the last REF we secured in excess of £1.6m directly from industry and charities to fund
+ research amounting to 13 PhD studentships, 18 funded years of PDRA time, and eight years
+ towards a match-funded lectureship: see Table 5. This table does not include the 50% ONS
+ funding of Mitra’s Senior Lectureship, which commenced after the 31/07/2020 census date.
+  Income                                       Sponsors
+  Two EPSRC CASE PhD scholarships              ONS; Dyfed-Powys Police
+                                               Welsh Government, Welsh Blood Service,
+  Six KESS2/European Social Fund PhD           Velindre Cancer Centre, Cellesce (breast cancer
+  scholarships                                 organoid research), NHS Wales, London
+                                               Women’s Clinic
+  26-months PDRA                               Cancer Research UK
+  Nine-months PDRA                             The Health Foundation
+  12-months PDRA                               PHW / Home Office
+  17-months PDRA, two PhD scholarships         Cardiff and Vale University Health Board
+  One PhD scholarship                          Cwm Taf University Health Board
+
+
+
+
+                                                                                          Page 15
+Unit-level environment template (REF5b)
+  One joint lectureship, 153 months PDRA       Aneurin Bevan University Health Board
+  time and two PhD scholarships
+  Sponsorship of 146th European Study          ExxonMobil, KPMG Cyprus, Smart Separations
+  Group with Industry
+  £120,000(jointly with Engineering):          Airbus UK
+  acoustic airframe monitoring
+
+                                  Table 5: Industrial income
+ 4.2.3 Networks and industrial study groups
+ Several networks are of importance to our strategic objective of expanding impact beyond OR and
+ Statistics. The School belongs to the European Consortium for Mathematics in Industry, a pan-
+ European consortium of academic organisations and companies. Kaouri was a core member of
+ MI-NET (EU COST Action, May 2015-April 2019) which involved industrial mathematicians from
+ thirty-two countries. She is a core member of the SciShops.eu project (H2020, Science with and
+ for Society) where organisations in twelve countries work with social representatives to identify
+ and solve pressing societal challenges through collaborative research. Additionally, Harper is a
+ member of the Expert and Advisory Board of SciShops.eu.
+ In December 2018, Kaouri co-organised the 146th European Study Group with Industry, with the
+ EU-funded Mathematics for Industry Network MI-NET and the EU project SciShops.eu. This
+ industry-academia workshop took place at the University of Cyprus. Thirty-seven ECRs and
+ experienced researchers from ten countries worked on three business and societal challenges, in
+ collaboration with non-academic organisations: optimizing filter performance (Smart Separations
+ - UK start-up company), fuel reduction in tugboat operations (Vasilikos Terminal Services) and
+ modelling the barriers women in science face (non-profit AIPFE Cyprus-Women of Europe).
+ ESGIs started at Oxford University in 1968 and are now established in 25 countries. Participants
+ from the School included numerous ECRs from the Applied and Computational Mathematics
+ Group and the OR Group. We hosted an Innovate UK Artificial Intelligence in Health and Care
+ Study Group with Industry three-day workshop (May 2019) with 35 researchers from the UK,
+ strengthening academic awareness for potential research impact.
+ 4.3     Collaboration and society
+ The societal outreach from Cardiff’s mathematical research is extensive, yielding healthcare,
+ educational and environmental benefits, together with societal advancement through public
+ engagement. Formal activities include impact workshops with end users, development of
+ educational resources and delivery of school outreach activities, teacher-training and public
+ engagement events. In this short section we demonstrate outreach in (i) education and
+ popularisation; (ii) local and global improvements to health and quality of life.
+ 4.3.1   Education and popularization
+ Since REF2014 the School provided outreach events to over 5,000 secondary school pupils and
+ developed a range of multimedia materials. For example, Woolley co-presents, edits and
+ produces a biweekly podcast discussing mathematics and its representation in popular films. This
+ is accompanied by supporting online blog posts with further links and puzzles. The website has
+ had approximately 18,000 hits, with the podcasts consistently receiving 150 monthly listeners,
+ including USA, Israel and China.
+ Kaouri was an invited judge at the science communication competition Famelab (2019
+ Cheltenham Science Festival). The contestants are science communicators from 27 countries
+ who have won their national Famelab competitions. In July 2019 Kaouri was also a guest on a TV
+ show in Cyprus where she discussed diverse applications of Mathematics in our lives. The School
+ was involved in the organisation of the ‘co-creation event with society’ Breaking Barriers for
+ Women in Science where 38 stakeholders from academia, business and policy-making in Cyprus
+ came together and identified key issues hindering women’s progression in STEM-related
+ academia and business (October 2018).
+
+
+                                                                                          Page 16
+Unit-level environment template (REF5b)
+ Our researchers contributed to the OR Society’s Learn About OR and were active in public
+ engagement events including Soapbox Science, the cross-University STEM live event. Knight and
+ his students are very active in PyCon UK’s educational activities for children and teachers. Lewis
+ spoke at the 2017 Hay Literary Festival on `The Mathematics of Networks and Maps’. Woolley
+ was a Fellow of Modern Mathematics at the London Science Museum, where he helped redesign
+ the mathematics gallery; he has also worked on `Dara O’Briain’s School of Hard Sums’. Others
+ contributed to live national broadcasts, most prominently number theorist Lettington (BBC1 ‘The
+ One Show’, Radio 4 ‘Today’ Programme).
+ 4.3.2   Health and quality of life
+ Two of our impact case studies are based on collaborations with the NHS. We also, however,
+ conduct blue-skies research likely to yield significant future quality of life benefits.
+ One example is Leonenko’s work on stochastic models for electroencephalogram imaging data,
+ for children in a coma due to cerebral malaria. The development and calibration of these models
+ has driven new theoretical results on fractional calculus, anomalous diffusion, Ornstein-
+ Uhlenbeck-type and ambit processes, described in two very recent articles. The model parameters
+ have been related to subsequent neurodevelopmental outcomes to predict which children will
+ suffer the worst impairment. These predictions allow the prioritisation of cognitive rehabilitation for
+ those in most need. This is joint work with neurologist Michael J. Boivin (Oregon), a former
+ Fulbright scholar to DR Congo, who for two decades led major projects to address cognitive
+ impairment in children due to diseases including HIV and forms the basis of a new collaboration
+ (led by Leonenko) with statisticians at Imperial College London, supported by the DR Congo
+ Ministry of Health.
+ A second important example is the new Cardiff-led H2020 DOWN2EARTH project on food and
+ water insecurity in the Horn of Africa Drylands. Jones will apply his expertise in rainfall modelling
+ to construct a flexible simulation model capable of delivering spatial-temporal fields of rainfall at
+ high resolution (relevant to drylands); this will drive a hydrological model incorporating runoff,
+ recharge of groundwater, soil moisture, and evaporation. The models will be sufficiently
+ parsimonious to be fitted using reliably available data and will be implemented efficiently so that
+ simulations can be used to account for climatic stochasticity. Model outputs will allow predictions
+ of soil moisture and groundwater, yielding concise information that can be used by farmers and
+ pastoralists, NGOs and governments to mitigate the impacts of climate change on rural
+ livelihoods.
+ 4.4     Global communication and dissemination
+ Cardiff mathematicians are enthusiastic communicators and regularly feature as guest speakers
+ in the world’s top institutes and conferences (Table 6). Several colleagues also hold editorial board
+ positions (Table 7).
+ Beyond a substantial programme of events in Cardiff itself, of which the largest was the 2014
+ British Applied Mathematics Colloquium, the global reach of our collaborations is particularly
+ demonstrated by the extent to which we lead workshops throughout the world. Section 4.3 above
+ mentions some events notable for their impact and the high level of research-user participation.
+ Here, we highlight meetings we organised in some of the world’s most important research venues,
+ including the Isaac Newton Institute, Mathematisches Forschungsinstitut Oberwolfach and Institut
+ Mittag-Lefller, together with events recognised as world-leading in their area:
+ i.    The 2014 Mittag-Leffler Institute workshop Modern aspects of the Titchmarsh-Weyl m-
+       function and its multidimensional analogues and the 2015 Oberwolfach workshop Spectral
+       Theory and Weyl Functions, chaired by Brown.
+ ii.   The 2016 Isaac Newton Institute six-month Operator Algebras and Subfactors (OAS)
+       Programme, led by D.E. Evans.
+ iii. The 2016 Oberwolfach workshop on Quantum Field Theory, run by Lechner with Abdelmalek
+      Abdesselam (Charlottesville), Stefan Hollands (Leipzig) and Christoph Kopper (École
+      Polyechnique).
+
+
+
+                                                                                                Page 17
+Unit-level environment template (REF5b)
+ iv. The 2016 LMS-Durham symposium on Mathematical and Computational Aspects of
+     Maxwell’s Equations, organised by Brown, Yaroslav Kurylev (UCL), Marletta, Michael Plum
+     (Karlsruhe) and Ian Wood (Kent).
+ v.   The 2017 LMS-Clay Math Institute meeting on Microlocal Analysis and Applications, directed
+      by Eswarathasan, Colin Guillarmou (Paris Sud) and Roman Schubert (Bristol)
+ vi. The 2018 RIMS-Glasshuku-style Seminar run in Kyoto by Woods with Tomoyuki Arakawa,
+     Hiroki Shimakura and Hiroshi Yamauchi.
+ vii. The 2019 Isaac Newton Institute workshop Estimation of entropies and other functionals:
+      Statistics meets information theory, run by Leonenko with Tom Berrett (Cambridge), Richard
+      Lockart (Simon Fraser), Richard Samworth (Cambridge) and Yihong Wu (Yale).
+ viii. The 146th European Study Group with Industry in 2019, led by Kaouri.
+ ix. The 2019 Simons Center workshop on Operator Algebras and Quantum Physics, run by
+     Lechner, with Stefan Hollands (Leipzig), Vaughan Jones (Vanderbilt) and Roberto Longo
+     (Rome).
+ x.   The 2020 ICMS workshop Mathematical Sciences for Global Challenges Research Fund
+      initiatives, organised by a committee of 13 mathematicians including Harper.
+  Researcher              Major research presentations
+  Aliev                   Uniform Distribution Theory, CIRM, Marseille, October 2018
+  Behrend                 Galileo Galilei Institute for Theoretical Physics, Florence, 2015
+                          Oberwolfach, 2016
+  Ben-Artzi               Kinetic and Related Equations, BIRS-Oaxaca, 2015
+  Dirr                    Durham Symposium on Homogenisation in Disordered Media, 2018
+                          Oberwolfach, 2018
+  Evans                   BIRS-Banff, 2014
+                          Boole Centenary Meeting, Cork, 2015
+                          Oberwolfach, 2015
+                          60th Birthday Meeting of Fields Medallist Vaughan Jones, 2014
+  Kaouri                  OCIAM30 (30th birthday meeting of OCIAM, Oxford)
+  Kadri                   Ice-Fluid Interaction, Isaac Newton Institute, 2017
+                          Chinese Academy of Sciences, Beijing, 2018
+  Lechner                 Oberwolfach, 2014, 2015, 2017
+                          Isaac Newton Institute, 2017
+  Leonenko                Fractality and Fractionality, Lorentz Centre, 2016
+  Marletta                Institut Mittag-Leffler, 2014
+                          Oberwolfach, 2015
+                          BIRS-Oaxaca, 2016
+                          OTAMP, Euler Institute, 2016
+  Mihai                   70th Birthday Meeting for John Ball FRS, Oxford
+  Pennig                  Fields Institute, Toronto, 2014
+                          Oberwolfach, 2015
+                          Institut Mittag-Leffler, 2016
+                          Isaac Newton Institute, 2017
+  Schmidt                 Oberwolfach, 2015
+  Strokorb                Fields Institute, Toronto, 2016
+                          BIRS-Oaxaca, 2018
+
+
+                                                                                         Page 18
+Unit-level environment template (REF5b)
+  Wood                     Vertex Algebras and Quantum Groups, BIRS-Banff, 2016
+                           OAS Programme, Isaac Newton Institute, 2017
+                           Vertex Operator Algebras and Symmetries, RIMS, Japan, 2018
+                           CFT and Related Topics, Chern Institute, China, 2019
+
+                   Table 6: Examples of keynote talks delivered by staff
+
+        Researcher                Editorial Board
+        Aliev                     Moscow Journal of Combinatorics and Number Theory
+        Harper                    Founding editor-in-chief, Health Systems
+        Lewis                     International Journal of Metaheuristics
+        Marletta                  London Mathematical Society Editorial Board
+                                  Mathematisches Nachrichten
+                                  IMA Journal of Applied Mathematics; Journal of Elasticity;
+        Mihai                     International Journal of Nonlinear Mechanics; Mathematics
+                                  and Mechanics of Solids; Transactions of Mathematics and
+                                  its Applications
+        Phillips                  Journal of Non-Newtonian Fluid Mechanics
+                                  Theoretical and Computational Fluid Mechanics
+        Strokorb                  Journal of Extremes; Stochastic Models
+
+                                 Table 7: Editorial positions
+ Concluding remarks
+ The School expanded by more than 50% since REF2014, growing new international connections,
+ expanding its portfolio of funders and stakeholders, and graduating PhDs into careers which
+ reinforce its academic and industrial links. Our close collaborations with the School of Computer
+ Science and Informatics establish a triangulation of expertise between OR and statistics, computer
+ science, and pure mathematics, which will be rapidly enhanced when we move into our new
+ shared building. Combined with our new directions in mathematical biology and strong links to
+ engineering, this will leave us strategically placed to address the priorities set out in Section 1.9.
+ These all focus on progressing topics of interest to the world scientific community. Attracting the
+ world’s best, as visitors and colleagues, will continue to be the most important mechanism by
+ which we ensure success in fundamental enquiry, benefit to users, and globally connected
+ research training for the next generation.
+
+
+
+
+                                                                                               Page 19
+

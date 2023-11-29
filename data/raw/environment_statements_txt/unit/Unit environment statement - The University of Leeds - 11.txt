@@ -1,0 +1,999 @@
+Unit-level environment template (REF5b)
+ Institution: University of Leeds
+ Unit of Assessment: 11
+ 1. Unit context and structure, research and impact strategy
+  Our research ranges from fundamental advances in algorithms and models of computation,
+  through to highly applied research into new display technologies for clinical diagnosis, energy-
+  efficient data centres, and profound insight into data across domains. We collaborate
+  extensively with industry, have many joint projects with one of Europe’s largest teaching
+  hospitals(Leeds Teaching Hospitals Trust: LTHT), and have excellent connections with leading
+  researchers and institutions worldwide(Figures-2/3). Our vision is to deliver sustainable, high-
+  impact, long-term research excellence as demonstrated by outstanding outputs and the
+  benefits which accrue to our disciplines, partners, industry, the local and wider economy, and
+  society.
+  Our research continues to be organised using the five REF-2014 Themes which reflect our
+  distinctive approaches to computational thinking: Algorithms and Complexity(AC),
+  Distributed Systems and Services(DSS), Artificial Intelligence(AI), Computational
+  Science and Engineering(CSE) and a “cross-cutting” theme: Applied Computing in
+  Biology, Medicine and Health(BMH). Many staff are members of several themes(Figure-1).
+  We have strong interdisciplinary links across the University(UoL), including strategic
+  partnerships (e.g. LIDA(Leeds Institute for Data Analytics, lida.leeds.ac.uk, REF5a). The UoA
+  aligns with the School of Computing(SoC) within the newly merged Faculty of Engineering and
+  Physical Sciences. While finances are devolved to SoC, much of our administration and
+  support is at Faculty level.
+  Research-related highlights include:
+  [H1] £96M new building(§4), realising REF14 plans for new research facilities and
+  environment.
+  [H2] 30% journal articles in top 10% journal percentile(Scopus), greatly increased international
+  collaboration (Figure-2); 1181 publications in institutional repository(322,600 downloads from
+  196 countries, averaging 176/working-day).
+  [H3] 2.4 best/runner-up paper awards per-annum and IEEE SciVis Test-of-Time award(§4).
+  [H4] Major expansion of AI (planned in REF-14) with six new staff(Figure-1), including three
+  supporting growing robotics activity in SoC/across UoL.
+  [H5] CSE: commencement and subsequent renewal of EPSRC CDT (£8.34M,
+  director:Jimack) on Fluid Dynamics(FD). Petriva Ltd spinout based on visualisation software
+  for the petroleum industry. To support our vision, we have recruited in graphics (Kelly,
+  H.Wang,+two arriving after 31/7/20) and in numerical computation (Lassila, Ranner). New
+  international collaborations as subcontractor on US DOE/NNSA ECP Alpine Exascale
+  Computing Project. CSE/BMH: Leeds Virtual Microscope(LVM) research led to REF3-UOA11-
+  3. Qualdash software(NIHR-funded) deployed into five NHS hospitals’ paediatric intensive-
+  care/cardiology units.
+  [H6] DSS, appointment of two new Associate Professors(APs): Pournaras, Z.Wang). Two
+  spinouts with £2M external investment: Edgetic, resulting from award-winning research in
+  algorithms for efficient cloud computing; Slingshot-Simulations(digital-twin technologies), in
+  collaboration with Jaguar-LandRover(JLR), EP/K014226/1.
+  [H7] BMH/AI: major new focus on AI and Health/Medicine: celebrated our 60 th
+  anniversary(2017) appointing a Diamond Jubilee Chair, Frangi and two supporting lecturers,
+  creating a cross-faculty Centre for Computational Imaging and Simulation Technologies in
+  Biomedicine(CISTIB), enhanced by Frangi’s 10-year RAEng Chair in Emerging
+  Technologies(CiET)(£2.68M); £5.9M UKRI AI+Medical-Diagnosis CDT
+
+
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+  (Directors:Hogg/Dimitrova); lead partner with LTHT in Northern Pathology Imaging
+  Collaborative(£17M).
+  [H8] AC: two new lecturers appointed(Figure-1) +1 in 2020-Q4; successful industrial trials on
+  train-unit scheduling optimisation research(Kwan:EP/M007243/1), in collaboration with our
+  spinout Tracsis Plc; the results are embedded in a commercial system used by >50% of UK
+  train operating companies making significant savings from optimised schedules(REF3:UOA11-
+  1). Publication of series of seminal papers, e.g. on (theta-wheel)-free graphs[REF2:UOA11-
+  1133/4280], realising REF-14 plans to advance foundations of complexity and graph theory.
+  [H9] Active membership of the Alan Turing Institute(ATI): election of three SoC Fellows: Cohn,
+  Ruddle, Hogg(also on University Partners Board).
+
+
+
+
+  Figure-1. Theme members/overlaps.
+  Key: ECRs: underlined(6=17.5%)
+         Theme leaders: emboldened.
+         Professors(BULPITT & CARR promoted 10/ 2020): UPPERCASE.
+         Appointments since 2014(14=40.8%): Italic.
+         Text-colour indicates primary Theme membership(black=BMH).
+         BMH-Theme: Grey-highlighting.
+         Theme-subgroups: Dashed-ellipses.
+
+ We have implemented and surpassed our REF2014 plans (marked below(see [H4,5,7,8] and
+ Theme descriptions below), substantially enhancing our international standing, rising 37.5% from
+ 24.9 to 34.25FTE and increased research income(§3). Accordingly, we have produced more
+ higher-impact research within Theme, inter-Theme, and in collaboration with UoL/external
+ partners.
+ AC-Theme
+ Vision: We use techniques from graph theory, logic, and operations research to address the
+ theory/complexity of algorithms, including problems in scheduling and combinatorial
+
+
+                                                                                           Page 2
+Unit-level environment template (REF5b)
+ optimization. Our scope includes randomized and approximation algorithms, probabilistic
+ algorithm analysis.
+ Highlights/REF-14 plan achievement: We have embarked on exciting new directions linking
+ different domains within AC (e.g. Dyer/Muller:EP/S016562/1, bringing together two previously
+ distinct areas: algorithms for random generation and approximate counting, and structural graph
+ theory()[REF2:UOA11-96]) and across themes, e.g. AC/DSS: Shaklevich(EP/T01461X/1)
+ connected scheduling and cloud computing(and industry) building on her new exact world-
+ leading algorithm for the important problem of energy optimisation in distributed systems, while
+ Kwan has focussed on train scheduling[H8,REF2:UOA11-63]. Our 2020 appointment Hellmuth
+ brings powerful graph theoretic algorithms to bioinformatics with evolutionary insights[REF2:
+ UOA11-4115].
+ Vušković gained new insights into hereditary graph classes, producing new structural results
+ with important algorithmic consequences(EP/K016423/1, EP/N019660/1)[H8,REF2:UOA11-
+ 1131/1132/1133/4280]. Adler’s research combines logic and graph structure theory, e.g. to
+ find the fastest known parametrised algorithm on planar graphs for the classical Disjoint-Paths
+ Problem[REF2:UOA11-3343], and lower bounds for linkages, with applications in databases,
+ machine learning, and sublinear time algorithms for querying big-data. Adler also leads a
+ White-Rose funded collaboration with Sheffield/York “Foundations and Guarantees for
+ Algorithms and AI”, aiming to provide new algorithms for big data sets and networks that are
+ extremely fast and come with accuracy and performance guarantees. PDRA Salfelder won
+ Track-A(Tree-width) of the PACE-17(Parameterized Algorithms and Computational
+ Experiments) challenge.
+ AI-Theme
+ Vision: Six new staff[H4] support our broad vision to conduct fundamental and applied research
+ spanning and integrating the modalities of language, vision, reasoning, learning, and robotics.
+ Highlights/REF-14 plan achievement: We planned “to chart new territory integrating learning,
+ reasoning, language, and personalisation … with insights from animal behaviour to deliver
+ robust, adaptive autonomous systems”; we have made substantial progress on thise.g.:
+ REF2:UOA11-4643/699/159/158/331/698/4688]. As well as continuing our fundamental research
+ in and between AI modalities[e.g.:REF2:UOA11-4643], we continued to develop collaborations
+ across UoL: health[H7], infrastructure engineering, Financial Technologies(Fintech)(Omidvar),
+ science, environment/climate, humanities(further details below).
+ The growth of AI is strongly supported by two cross-University platforms: Robotics@Leeds(§3)
+ and LIDA. Our ATI membership[H9] links us into a national AI community that greatly benefits
+ our staff and PGRs alike.
+ Research on Decision Support Systems(D.S.S.)[REF2:UOA11-4644/4661] in the EU NetTUN
+ project on Tunnelling(joint with SNCF) led to a ESWC-15 “best in-use” paper[journal version:
+ REF2:UOA11-4644], and a keynote at the major tunnelling conference CTTU-20. The
+ interdisciplinary Assessing-the-Underworld Project(EP/K021699/1), with major stakeholders in
+ the sector (e.g. Balfour-Beatty/Costain) prototyped a D.S.S.[REF2:UOA11-4661] which has been
+ well received in industry (new funding from Highways England) and runner-up best ISWC-16
+ resources paper.
+ Our research on robotics has grown[H4,REF2:UOA11-3269/32673268/158/4088/4487/]:
+ many new grants including two Marie-Skłodowska-Curie Incoming-Fellowships(Dogar & PDRA
+ Figueredo), co-investigators(Cohen/Cohn) on the £4M EPSRC National Centre for Innovative
+ Robotics, and two interdisciplinary EPSRC Programme grants(£4.3M-EP/N010523/1,£7.29M-
+ EP/S016813/1) on infrastructure robotics; these build on Cohen’s EPSRC Leadership
+ Fellowship(EP/J004057/1) to study neural control behaviour[REF2:UOA11-1406]whose
+ models are now used on robots to find cracks in roads(BeCurious-2020:
+ https://youtu.be/2avPQxqMC58, attracting industrial interest) and follow-on robotics project for
+ pipe/sewer inspection(EP/S016813/1).
+
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+ Six of the awards/prizes summarised in §4 reflect the quality of our robotics work, including
+ those stemming from our involvement in the €8M STRANDS FP7-project focussing on long term
+ autonomy in robots, where our results in activity recognition and grounding language to vision
+ were an important part of this success[REF2:UOA11-4643]. We are the only UK partner in the
+ €20M AI4EU platform project, where we contribute to collaborative robotics research.
+ CSE-Theme
+ Vision: Our two-pronged mission is to advance the analysis/implementation of fast, efficient,
+ correct, and reliable numerical algorithms for physical problems, simulation, graphics, rendering,
+ animation and visualisation, while embedding fundamental developments in algorithms and
+ cutting-edge computational techniques within end-user driven frameworks. A key part of our
+ vision has been for our graphics group to take a leading position in the UK, underpinned by
+ growth[H5](and new degrees in High-Performance Graphics/Games-Engineering).
+ Highlights/REF-14 plan achievement: Key pillars of our REF-14 strategy remain: extreme-
+ scale computing (relying heavily on computational geometry/topology, Carr[H5,REF2:UOA11-
+ 2391/2390/2394/3603/3862/2392]); algorithms for modelling and simulation (especially
+ computational FD); and interdisciplinary collaboration(e.g., Ranner tackling free-boundary
+ problems in biologyUOA11-2951/2949,Leverhulme Fellowship(§4)]). New industry/external
+ collaborations(ECP-Alpine (LANL/LBNL; UPMC-6 Paris; Kyushu/Riken, six Chinese
+ Universities…) and applications within computer science and beyond, exemplified by
+ collaborations with 10 Schools in our FD-CDT alone. New directions include integrating deep
+ learning into computational frameworks in engineering(Jimack,doi.org/10.1007/978-3-030-
+ 50420-5_14, new monthly seminar-series), biology/medicine(Ranner/Cohen[EP/S01540X/1],
+ Frangi[RAEng:CiET £2.68M).
+ Strong recruitment in both sub-groups(Figure-1)[H5] including Lassila(CISTIB, with FD
+ expertise), Ranner(with fluid-structure interactions expertise), Kelly, H.Wang +2 appointments
+ arriving after 31/7/20)(graphics) is bringing new opportunities in scientific computation,
+ contributing to our interdisciplinary research in biology, medicine and surgical robotics (see
+ BMH), and to graphics (e.g. our leading role in the development of the new University Centre for
+ Immersive Technologies(CfIT; co-director:H.Wang ) as well as in the Virtuocity centre(§3). In
+ 2019, after 10 years as Faculty-Dean, Jimack brought renewed leadership. Ruddle was
+ appointed as an ATI-Fellow and his visualisation work has led to
+ commercialisation[H5,REF3:UOA11-3,REF2:UOA11-315/11-1185].
+ DSS-Theme
+ Vision: Our mission is to investigate large-scale systems spanning communities, organisations,
+ industries, and nations bringing together computational power, big data and human knowledge
+ and thus to play a leading role in designing the next generation of systems and tools for: evaluating
+ the performance of cloud services; flexible software abstractions; heterogeneous hardware
+ platforms; massive-scale simulation; virtual systems engineering; data centre scheduling and
+ analysis.
+ Highlights/REF-14 plan achievement: We achieved our 2014 plans to develop energy-efficient
+ cloud data-centresREF2:UOA11-1588/1586/729/1585/1587/729/4063]: one unused ICS
+ combines work in Djemame’s ASCETiC project (being exploited by ATOS Spain and HP Italy) and
+ Xu’s Edgetic spinout; the TANGO project(EU:€3.1M) has taken this research forward, with the
+ TANGO software toolkit, being exploited by Bull(France) and Deltatec(Belgium) and founding the
+ Heterogeneous Hardware & Software Alliance(http://heterogeneityalliance.eu/). Our research into
+ massive-scale distributed systems has broadened(EP/T01461X/1,£1M) with AC-
+ Theme(Shaklevich), Alibaba, and Edgetic.
+ We planned major innovation in advanced systems engineering, which, through partnership with
+ JLR(Xu-EP/K014226/1), has been realised in the Slingshot spinout[H6].
+ BMH-Theme
+ Vision: BMH is a cross-cutting(Figure-1) interdisciplinary theme. Advances in computing are
+ revolutionizing thinking, experimental set-ups and understanding across the life sciences as well
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+ as in medicine and in healthcare domains. Our vision is to position ourselves as leaders of this
+ revolution, across the BMH area.
+ Highlights/REF-14 plan achievement:
+ BMH has seen particular success[H7]. Our 2014 plans to (i) develop systems and tools for
+ biomedical data analysis[REF3:UOA11-3], (ii) deliver cutting edge computational models and
+ algorithms (e.g. REF2:UOA11-3861/4623/3871/3872/3874/3873), (iii) grow collaboration across
+ SoC, the NHS and industry (e.g. through CISTIB) have been dramatically exceeded: our long-
+ term strong LTHT collaborations have allowed us to position ourselves at the forefront of
+ computing applied to medicine/health[H7]. This investment in computational medicine, our
+ leadership in LIDA(Ruddle:Research-Technology Director), growing links and leadership in the
+ ATI and the new CDT[H7] will underpin our future growth.
+ SoC Research Plans
+ SoC's 5-year plans are to capitalize on our FTE growth, facilities/infrastructure and collaboration
+ opportunities afforded by the new building’s colocation with cognate schools(§3) to grow income
+ and tackle major open and societal problems in our areas of strength. We plan strategic
+ investment in staff across all Themes (with 1AC, two 2CSE, 2AI/BMH faculty already
+ advertised within the REF period). Through our new integrated robotics laboratory(§3) we will
+ consolidate/grow our research in manipulation, bio-robotics, infrastructure applications, and
+ learning. We will also embrace broader collaboration opportunities to address national/global
+ challenges (in smart-cities/infrastructure, biomedicine, energy and climate change, robotics and
+ fairness). We will work to deliver societal impact, e.g. through DSS research in energy efficiency,
+ internet-of-things and smart-cities, robotics and AI for the built environment. Biomedicine/health
+ will be a major focus, already supported by extensive funding[H7].
+ We aim to strengthen and broaden our existing external collaborations(Figure-3). A major focus
+ will be to build on and benefit from our membership both the ATI and LIDA. We will continue our
+ collaborations in infrastructure robotics, e.g. through a new Programme Grant(EP/S016813/1)
+ joint with national/international/industrial partners. Spearheading UoL’s internationalisation
+ focus, we will consolidate and grow our extensive international collaborations(§4,Figure-3) with
+ 11 live international grants(31/7/20).
+ Impact Strategy
+ SoC’s impact strategy is overseen by its Research and Innovation(R&I) Committee(CRIC), and
+ supported by the Faculty’s team. We have continued to build on our previous strategy and
+ success, using the Business Engagement Framework(REF5a) to support:
+       Partnership with end-users: Our success builds both on long-standing relationships (e.g.
+        LTHT) and on identifying and developing new relationships with industry (e.g. JLR), often
+        via our many CDT partners. Our engagement with end-users is very broad, ranging from:
+        hospitals (e.g. REF3:UOA11-3) and cardiac modelling, and in joint AI+Medical-Diagnosis
+        CDT PhD projects; the utility/street-works sectors in the Pipebots
+        project(EP/S016813/1,28 non-academic partners), Assessing-the-Underworld
+        project(EP/K021699/1,57 partners) and a follow-on Highways England project, while
+        REF3:UOA11-2 arose from the earlier EPSRC and InnovateUK Mapping-the-Underworld
+        projects); the cloud-computing sector (Flexiant, Atos, Edgetic); the transport
+        sector(REF3:UOA11-1), and an EU funded collaboration with French train operator
+        SNCF on a tunnel maintenance D.S.S; the defence sector (e.g. DSTL CASE
+        studentship). It ranges from start-ups, Vet-AI or pinpointdatascience.com (Hogg is on
+        Scientific AB), to international names(e.g.:Burberry).
+       Innovation driven research: We support staff in developing applied and translational
+        research through funding of professional activities, strategic appointments, and mentoring
+        for Fellowships (e.g. an RAEng Enterprise Fellowship for PDRA McKee(DSS), now
+        CEO/CTO of Slingshot spinout). We support an agile approach to opportunities by actively
+        seeking new partnerships and new application domains. These may arise from industrial
+        stakeholder engagement events, or via direct contacts from industry in particular via our
+
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+        commercialisation arm and the new Nexus facility(see §3/REF5a), e.g. VET-AI.
+       Spin-outs, licensing, other commercialisation: Our track record in developing successful
+        applications, from concept to product, is underpinned by cross-disciplinary collaborations
+        and end-user input and evaluation, e.g. demonstrated by three new spin-outs(Edgetic,
+        Slingshot, Petriva), whilst we continue innovation with our earlier spin-out, Tracsis
+        (REF3:UOA11-1). REF3:UOA11-3 arose from licensing of BMH/CSE research on the
+        LVM. REF3:UOA11-2 stems from EPSRC/TSB/InnovateUK funded spatial data integration
+        research leading to licensed adoption by the Scottish Road-Works Commissioner. We
+        support knowledge transfer through memberships in external advisory-boards (e.g.
+        Geospatial Commission NUAR: REF3:UOA11-2). We provide excellent training for a
+        career in industry, with many now leading labs (e.g. PGR Alomari: Rolls-Royce).
+       Impact through outreach/dissemination: We disseminate tools and research capabilities to
+        the public, potential end-users, industry/government organisations, through publications,
+        open-source software(§4) and licensing. See §4 for outreach activities.
+ Institutional facilities, expertise and resources support our impact strategy at every stage of the
+ above pipeline. UoL’s R&I Service provides a route for staff to undertake specific consultancy
+ projects, with a share of the income made available to staff for funding personal development.
+ UoL invested heavily in the Leeds Innovation Centre and its reincarnation as Nexus (£40M, see
+ REF5a/§3); our Tracsis and Slingshot spinouts have offices in Nexus, and we collaborate with two
+ other Nexus-companies: KTP with VET-AI exploiting our computer vision expertise; Scaled
+ Insights who employed PGR Piotrkowicz. A Faculty-wide Innovation Hub serves as the point of
+ contact for industry (offering business support, liaison services, knowledge transfer facilitation),
+ and provides internal enterprise and organisational support for staff to apply their research and
+ collaborate with industry. Successful applications to UoL’s EPSRC Impact Acceleration Account
+ have underpinned several of our impact activities(Petriva, REF3:UOA11-3, Edgetic, Slingshot,
+ D.S.S. for streetworks).
+ Developing our strategy for impact: a culture in which staff view outreach, translation, and
+ knowledge transfer as integral to research informs the strategic activities described above, our
+ research and our training of future researchers. Support for the translation of our research through
+ licensing and commercialisation activities involves a range of mechanisms and processes, from
+ preliminary proof-of-concept funds, to advanced seed-corn funds, specialist input, business advice
+ and more. We reward staff for their achievements through promotion(§2). Staff are encouraged to
+ take courses on impact generation offered by the Organisational Development and Professional
+ Learning(OD&PL) unit. Our Industrial Advisory Board helps inform and develop our strategy.
+ Promoting a culture of innovation and collaboration: We encourage staff/PGRs to take an active
+ part in activities/networks that focus efforts around real-world problems and grand challenges. To
+ grow the already substantial body of user-driven research, we run networking activities, including
+ joint workshops with users, and mentoring, e.g. through alumni, UoL designated Business-
+ Development Managers (one per priority area) provide dedicated support.
+ Focussed investment: We identified strategic priority areas – aligned with national/international
+ challenges and EPSRC priorities – in which we have invested (via sabbaticals, appointments, large
+ equipment(§3). These helped inform UoL priority areas for innovation (Stratified Medicine, Medical
+ Technologies, Digital Technologies, Robotics, AI) that are earmarked for strategic investment. We
+ will continue to incentivise impact generation (e.g. through reduced workload-allocation, seed-corn
+ funding).
+ Impact Case Studies: REF3:UOA11-1 extends a 2014-ICS, Tracsis, which featured in the
+ UKCRC/CPHC brochure on REF-2014 ICS, and is an AIM-listed spinout from the AC-theme,
+ including both a spinout and licensed software as delivery mechanisms. The other two ICS rely
+ primarily on software licensing:REF3:UOA11-3 arises out of BMH/CSE research, and
+ REF3:UOA11-2 from AI – thus our three ICS arise from four themes, demonstrating the breadth
+ of our approach to impact. Future ICS are already developing well in anticipation of the next REF,
+ e.g. based on our Edgetic, Slingshot(both DSS) and Petriva(BMH) spinouts.
+
+
+                                                                                              Page 6
+Unit-level environment template (REF5b)
+    Approach to Interdisciplinary Research
+    Support of interdisciplinary research is a central pillar of SoC’s strategy(~30% REF-2 flagged
+    interdisciplinary). We have already noted our commitment to LIDA and both of our CDTs are highly
+    interdisciplinary: all new students have a second supervisor (in Medicine for the AI+Medical-
+    Diagnosis CDT and across 10 other Schools for the FD-CDT). The Theme descriptions give
+    examples of interdisciplinary strengths. During the REF period 62% of our PhDs have been joint
+    with another School, actively directing studentships to facilitate this. We have encouraged and
+    targeted interdisciplinary funding sources, having received funding from all 10 UKRI councils as
+    well as the NIHR, Nuffield, Welcome, CRUK, Kidney Research UK, LTHT, MOD, British-Academy,
+    Royal-Society and RAEng. We appointed Frangi 60%-40% with Medicine to help grow our health
+    research, as well as seconding Dimitrova 50% for two years. Ruddle is 20% seconded to LIDA.
+    We have invested in facilities (e.g. “Wormery”(§3) which has facilitated interdisciplinary research
+    with biology/physics(e.g. https://doi.org/10.1007/s10404-020-02362-2). Our advertising for new
+    faculty explicitly states interdisciplinary research as a desirable attribute.
+    In Fintech, we are a key contributor to UoL’s strategic focus in this sector, bringing us together
+    with researchers in Business, Mathematics, Law and Applied Ethics. There is growing
+    collaboration with organisations such as Barclays and Ernst&Young, centred on the
+    transformative potential for AI within financial services, supported by Visiting Professors1. We
+    created a new 50%-50% UAF2 position with the Business School(Omidvar, winner of EEE CEC-
+    2019 large-scale global optimization competition) to help grow this area.
+    In Science, Engineering and Humanities research, we are exploring the potential for machine
+    learning across all disciplines. The momentum behind the adoption of AI across Leeds has
+    resulted in new research collaborations, projects, and proposals in many areas, including
+    Mechanical Engineering, Geophysics, Atmospheric Sciences, Psychology, Medicine,
+    Philosophy, Transport Studies and Geography. In the Digital Humanities, Stell co-led an AHRC
+    network(AH/R006482/1) Space and Narrative in the Digital Humanities, joint with History at
+    Lancaster and the POLIS centre(Indianapolis), exploring how Qualitative Spatial
+    Representations (a research area SoC co-founded), can be used to help analyse texts where
+    spatial information is vague/imprecise/missing/ambiguous.
+    There are regular joint seminars with other Schools/Centres/Institutes (e.g. LIDA, Maths,
+    Languages Cultures and Societies, robotics). SoC actively participates in/co-leads a variety of
+    joint Centres, e.g. Robotics@Leeds (robotics.leeds.ac.uk), Virtuocity
+    (https://lida.leeds.ac.uk/research-projects/virtuocity/), LIDA, CfIT. External interdisciplinary
+    collaborations are common, see examples above.
+    Progress towards an Open research environment
+    SoC adopted a robust approach to open research in 3/2014, following the REF-2021 Open-
+    Access(OA) policy announcement. Going beyond these requirements, from this date authors
+    were required to deposit all outcomes (not just anticipated “REF papers”), ahead of the
+    mandatory deadline. Quarterly monitoring facilitates compliance, with one-to-one support
+    available.
+    This approach has led to >90% of papers published since 3/2014 deposited in our Institutional
+    Repository(total:1161 up from 260 on 31/7/13), with >322,600 downloads(from 196 countries)
+    from the repository, i.e. >126/day. All REF-submitted outputs, and published while an author was
+    employed at Leeds, are available openly except where a publisher’s policy intervenes. We have
+    made 134 articles available via Gold-access, and 98 Bronze-access.
+    SoC had 219 PhD theses in the White Rose repository on 31/7/2020(81% increase
+    since1/1/2014) with >129,000 downloads(~1760/working-day).
+
+
+1
+  Chris Sier: Fintech Envoy for HM Treasury/Chairman of Fintech North. Adam Beaumont, CEO of
+telecommunications provider aql, Visiting Professor of cyber security@UoL. Matthew Gould: CEO
+for NHSX, Government Director-General for Digital and Media Policy until 2019.
+2
+  University Academic Fellow – see REF5a.
+                                                                                                 Page 7
+Unit-level environment template (REF5b)
+ UoL implemented its Research Data Management Policy in 2017 though many SoC researchers
+ had already been sharing data and code, thus complying with funder policies and ensuring it can
+ be shared, reused and cited beyond the project end. Data is archived either in the Institutional
+ Data Repository, with DOIs(26 datasets in period, with 2178 page-views and 1373 downloads
+ since analytics started on 1/1/2019) or elsewhere. Open repositories of code are the norm.
+ ORCiDs are required for all, ensuring our work is clearly identified by individual/organisation.
+ Research Integrity:
+ We uphold the principles in the concordat to support research integrity, which are embedded in
+ staff inductions, and reinforced/refreshed through staff meetings, CRIC, and in SRDS/AAM(§2).
+ Principles in the EPSRC’s Framework for Responsible Innovation are taught to PGRs and
+ embedded into training programmes associated with large projects. Our academics play a
+ leading role in promoting ethical innovation(e.g. Pournaras leads the White-Rose project Socially
+ Responsible AI for Distributed Autonomous Systems).
+ Staff with managerial responsibilities undertake appropriate training led by the OD&PL unit,
+ and must follow UoL’s leadership excellence behaviours(REF5a).
+ Our formal OA and Research Data Management policies support transparency in the open
+ sharing of research results and research data, which themselves comply with the requirements
+ of major research funders and best practice.
+ A Faculty ethics committee provides guidance, audits compliance, and appraises proposals with
+ significant ethical dimensions. Research grants/contracts make a risk review declaration before
+ submission, including ethics appraisal, safety, data management, anti-bribery, export control
+ legislation, and potential conflicts of interest. For PGRs this forms part of their annual review.
+ We uphold professional standards by encouraging (and financially supporting) obtaining and
+ maintaining professional membership and CEng/CITP/Fellow status(§4).
+ 2. People
+ Investment in individuals and supporting activities is an essential part of delivering our vision.
+ Early in the period we developed a plan for significant growth to encompass staff at all levels.
+ Of the staff returned, 14FTE are new(40.8%): 11 Lecturer/UAF, 2 AP, and the
+ Diamond Jubilee chair[H7](dowry £111.4K + 2xLecturer + 3PGR). Following our 2014 plans,
+ we identified key areas to bid for University-supported UAFs to: Robotics(Dogar, Huang),
+ DSS(Townend), and in 9/2019, FinTech/AI(Omidvar); Dogar and Townend’s research
+ progressed so well that Dogar passed probation 2 years early, while Townend became CTO
+ of our Edgetic spinout. We supported Leng in her successful bid for an EPSRC Research
+ Software Engineer(RSE) Fellowship, Ranner for his Leverhulme Fellowship and both Marie-
+ Skłodowska-Curie Fellows(§4). To protect our research (that helps draw students to Leeds),
+ we also made two strategic appointments of new lecturers to support our large educational
+ offer and growing class sizes.
+ Recruitment always aims to recruit the very best we can, from broad backgrounds, across
+ areas where possible, and re-advertising if necessary. Targeted recruitment (into specific
+ areas) takes into account critical mass and strategic objectives; e.g. following Lau’s
+ retirement and Townend’s move to Edgetic, we advertised specifically to recruit into DSS[H6].
+ Other strategic appointments during the REF period to strengthen our existing research
+ themes are: CSE in graphics (H.Wang, Kelly) scientific computation(Ranner); AC(Adler,
+ Hellmuth); AI(Leonetti, Dogar, Huang). All academic staff are appointed to open-ended
+ contracts.
+ We implement the Concordat to Support the Career Development of Researchers, in line with
+ UoL’s Employment Policy(REF5a). We support career development through: an Annual
+ Academic Meeting(AAM) and access to funded staff development. AAMs identify academic
+ and developmental needs, mechanisms for support and opportunities to adjust workload, e.g.
+ increasing buy-out to provide time to lead a substantial research/admin activity. In addition,
+ longer-term career plans, promotion and development are reviewed in individual annual Staff
+
+                                                                                                Page 8
+Unit-level environment template (REF5b)
+ Review and Development meetings(SRDS). Outside of annual meetings, regular reviews with
+ mentors and SoC’s Director of R&I(DoRI) allow staff to discuss research progress and plans.
+ Heads of Research Theme support staff both individually and in Theme meetings and “away
+ days”.
+ Promotions are by self-application, with no University-imposed financial constraints; all staff
+ are encouraged to apply for promotion and are mentored individually and at Faculty
+ workshops which include previously successful SoC applicants. Seven staff have achieved
+ professorial promotions(bringing our female professoriate to 21%, and two disabled), and four
+ to AP. Senior staff annually consider recommendations for accelerated and discretionary
+ increments as well as those from self-application.
+ Support for ECRs, including PDRAs
+ Themes aim to provide a critical mass of staff and shared research infrastructure that delivers
+ support that particularly benefits individuals at the start of their careers and helps them integrate
+ into the research culture. They provide: a forum for interaction between staff at different career
+ stages; researcher collaboration; support for grant and fellowship applications including peer
+ review. Seminar series, at Theme and School level, delivered by national and international
+ speakers (continued remotely during Covid-19), cover a wide range of contemporary topics and
+ help staff/PGRs develop contacts.
+ Individuals at the start of their careers are helped with reduced teaching/administration duties
+ (UAFs normally have no modules until year 4) and receive a customised start-up package
+ including travel & at least one studentship. The package may include capital support(§3). We
+ attract, support and retain researchers by providing: dedicated research labs with specialised
+ equipment, particularly for Robotics and Graphics/Visualisation; ongoing contributions to their
+ staff account coming from an allocated percentage of the gross amount of research income;
+ funding for attendance at conferences and visiting academic/industrial partners as required; and,
+ support/funding in patenting and commercialising research.
+ Every ECR (including PDRAs) has a probationary supervisor, and separate mentor. Theme
+ leaders take an active role in mentoring and supporting ECRs and PGRs. The annual
+ AAM/SRDS identify and agree needs, goals, support, and methods to achieve ambitions for all
+ staff, but are particularly valuable to ECRs, as are the probation meetings for new recruits. ECRs
+ particularly benefit from UoL’s training and development opportunities led by the OD&PL,
+ Research & Innovation Service (RIS) and the Library, and include targeted support for
+ grant/fellowship applications, interview practice, and research impact. ECR networks provide
+ opportunities to share experience/best practice, and to have a combined voice. We have had
+ continuous ECR representation on: Robotics@Leeds Executive Committee(Dogar, Leonetti);
+ CfIT(H.Wang); CRIC and the Faculty R&I Committee include an ECR. Two SoC PDRAs are on
+ the Faculty Equality and Inclusion(E&I) committee.
+ We develop individual career paths for our PDRAs through regular academic/pastoral
+ meetings, and via training/development activities. University, Faculty and School
+ international mobility funds, introduced in 2019, allow PDRAs/ECRs to apply
+ independently to attend conferences and for collaborative visits. They are encouraged
+ to take responsibility for various aspects of our research environment (e.g. helping to
+ manage lab facilities; organisation of seminars, student mentoring, helping to write
+ grant proposals, as well as teaching). We encourage and support PDRAs to obtain
+ their own grants/fellowships (e.g. McKee: RAEng Entrepreneurship Fellowship;
+ Figueredo: Marie-Skłodowska-Curie Fellowship). Our PDRAs predominantly go onto
+ further PDRA positions, Tenure-track academic positions, or industrial research
+ labs(e.g. Garraghan: Lecturer@Lancaster; Clement: Technical lead of Edgetic).
+ PDRAs are supported by their academic mentor/probation advisor and HoS to achieve their
+ academic targets and develop independence. Support in applying for, and securing, fellowships
+ is provided (see above), and we mentor PDRAs to be named as a researcher co-investigator on
+ applications(e.g. McInerney on NIHR129483). We organise specific events e.g. a 1-day White-
+
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+ Rose" Symposium for early career researchers", including discussion on how to shape your
+ research and 1-1 mentoring academic-PGR/PDRA.
+ A formal HR meeting six months before the end of each PDRA’s contract explores future
+ opportunities (including priority for positions in UoL via the redeployment register), and to give
+ the candidate good notice. Bridging funding is available when appropriate.
+ This support and integration is evidenced by ECR retention: only two tenure-track ECRs have
+ resigned since 1/1/14: Townend to co-found the Edgetic spinout, and Shao who returned to his
+ native country for personal reasons.
+ Sabbatical policy
+ Our sabbatical policy is intended to support research and provide the seed for larger,
+ longer-term collaborations with major impact. E.g. Carr's 2015 sabbatical at Los
+ Alamos(LANL) and Lawrence Berkeley National Laboratories (LBNL), which not only
+ supported an existing collaboration with LBNL, but also sparked Carr's involvement in the
+ US Exascale Computing Project(ECP-Alpine), including developing and delivering nearly
+ 10% of the next-generation vtk-m visualisation toolkit(REF2:UOA11-2391), and already
+ running on Summit (the world’s #2 supercomputer).
+ Applications can be flexible (e.g. whole year vs one semester; or specific teaching/admin
+ duties relief). Moreover, our workload model aims to keep teaching loads low for research
+ active staff, normally 2x10/15 credit modules per-annum, with relief for major administrative
+ duties, and 5% for service activities. All applications are considered equally, according to
+ the same criteria (benefit for the individual and SoC), irrespective of contract status. We try
+ to take account of staff preferences in the timetable regarding scheduling their teaching so
+ as to maximise effective research time (e.g. all teaching in one semester, or on particular
+ days of the week, or to teach our short block 2 week modules in our joint School in
+ China(REF5a)).
+ Stimulating and facilitating exchanges with industry etc.
+ SoC encourages links and an active dialogue between staff and third-party organisations,
+ including industry, and the health sector. We have Visiting Professors (e.g. Davies from
+ BAES and footnote-1) and RFs from industry who interact with staff and give seminars. We
+ supported PDRA McKee to gain an RAEng Entrepreneurship Fellowship who has
+ subsequently helped spin out a company (Slingshot Simulation, joint with Xu). We have
+ actively sought to recruit staff with industrial experience (e.g. H.Wang from Disney Labs in
+ Los Angles, Kelly(Strobee startup and ESRI). We aim to maintain contact with staff who
+ have moved on to the industrial sector, e.g. by inviting them back for one-off
+ events/appointing them to our industrial advisory board. Most of our research grants have
+ at least one industrial/third sector partner and these provide very useful two-way
+ exchanges. We actively seek to co-create research grant proposals with industry(e.g.
+ EP/N010523/1, EP/R031193/1, EP/S016813/1, EP/T01461X/1).
+ Supporting Impact generation and rewarding staff
+ We reward staff for their achievements: through promotion for innovation and impact(Ruddle,
+ Kwan promoted to Professor), allocated workload (e.g. Cohn, Kwan, Ruddle, Xu), sabbaticals
+ and salary increments. The Faculty’s R&I Service offers staff tailored advice and help with
+ impact, from initial proposals, through to negotiating contracts, NDAs and attracting VC: indeed
+ impact such as Petriva, Slingshot and Edgetic would not have come to fruition without this. The
+ AAM discusses opportunities for impact development and what School resources would help in
+ achieving this. SRDS meetings discuss aims in impact development and how they can be
+ supported.
+ PGRs
+ Our PGR numbers have nearly quadrupled: at 31/7/20 there were 210 PGRs(129.21FTE), up
+ from 45(32.95FTE) registered on 31/7/13, with 51.5% female registrations over the period). As
+ the CDT cohorts finish, this will yield greatly increased graduations.
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ PGR recruitment is administered by the Faculty Graduate Office, which ensures a consistent
+ process and fair assessment of applications. We host open-days and recruitment events staffed
+ by existing PGRs, and advertise on e.g. www.findaphd.com, subject specific email lists, and
+ through alumni networks. Prospective PGRs are invited to see facilities and discuss aspirations,
+ and candidates are interviewed by a panel including at least one independent.
+ For each of our CDTs, we offer places to those who demonstrate the strongest aptitude and
+ enthusiasm for the CDT approach: the desire to engage actively as part of the cohort, and a
+ commitment to the professional development components of the programme. Where applicants
+ are similar in terms of aptitude and enthusiasm, a secondary consideration comes is to ensure a
+ balanced cohort in terms of academic background and diversity. In the FD-CDT, a twin-track
+ process recruits 30% to work specifically with an external partner, with the rest on an open-track
+ will later choose their projects from those proposed by academics, or industry-sponsored.
+ Successful candidates are supported with the registration process, and for international
+ applicants, with visa procedures. Many PGRs are recruited from our undergraduate/MSc base,
+ encouraged by our policy to embed project work in research laboratories and to provide
+ competitive 8-week (or longer) summer laboratory placements (School funded, or via the
+ EPSRC vacation bursary), though most are externally recruited from around the world, based on
+ excellence.
+ Our students are supported by a number of funding sources: (i) CDTs (ii) EPSRC DTP/DTG
+ scholarships. (iii) other grants, e.g. EU projects. (iv) Case-Studentships(e.g. DSTL). (v)
+ Overseas governments(37 in period). (vi) A School Scholarship fund (24 full and 8 partial
+ studentships, £2.2M over the period). (vii) UoL scholarships(11). (viii) HDRUK MRes
+ Programme(6 studentships). (ix) Studentships from other funders (e.g. NERC, ESRC, MRC,
+ BBSRC, NC3R). SoC-controlled Studentships are used to: support PGR training in core
+ research areas and areas that we aim to grow, as well as: complementing EPSRC
+ Programme/Prosperity Partnership/Platform grants; supporting newly-appointed staff and in
+ particular ECRs and, co-funding studentships with industry and international scholarship
+ schemes. The availability of external funding does not affect our quality decisions on whether to
+ make an academic offer to a student or not. PGR recruitment is managed by a PGR recruitment
+ tutor, overseen by the DoRI. Students are supported to attend conferences, workshops and
+ summer-schools (£120.6k from SoC + funds from CDTs and research grants).
+ Monitoring and support mechanisms for PGRs
+ New PGRs have a second supervisor to provide extra support and stability. There is a
+ developmental review after four months, with formal transfer from provisional to full registration
+ by month 11. Developmental reviews follow in subsequent years. All supervisors check and
+ provide feedback on mandatory recording of supervision meetings on the GRAD system (also
+ checked by the PGR tutor/Graduate Office). Students agree a training plan within their first three
+ months, which is then monitored. For those PGRs only having three years of scholarship, SoC
+ will normally provide at least a further 6 months of funding, subject to satisfactory progress. We
+ encourage PGRs to contribute to our teaching programme (for payment) and to register for
+ Associate HEA Membership. Staff new to supervision attend a University training course and
+ receive mentorship from a senior co-supervisor.
+ A student having problems can see their supervisors, other Theme members, PGR tutor or DoRI
+ for help (with extra support/flexibility available since Covid-19). This may be supplemented by
+ procedural advice from the faculty administrative team. The Leeds Doctoral College brings
+ together the support services available, including Faculty graduate schools, training, the Library,
+ the Language Centre, IT, the Students' Union, research showcases, and talks on mental health,
+ well-being and career development.
+ PGRs are fully integrated into the life of the School and are treated as staff for most purposes.
+ PGRs are represented on CRIC, and play a leading role in the PGR forum which manages day-
+ to-day PGR matters. Monthly Forum meetings discuss PGR procedures, disseminate
+ information about changes in procedures or policies and identify problems. The forums are often
+ followed by SoC-sponsored social events. PGRs can ask for a subsidy for any other events that
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+ they want to organise among themselves.
+ Students are expected to attend the main seminars of their research group and to give
+ Theme/School seminars during their PhD, with feedback from peers/staff. An annual PGR
+ symposium is organised by the PGRs themselves with guidance from the PGR tutor. PGRs are
+ encouraged to participate in Faculty/University PGR events, and have won prizes at these.
+ UoL conducts biennial postgraduate experience surveys(PRES). SoC has averaged 91%
+ agreement to the question “Overall, I am satisfied with the experience of my research degree
+ programme” in the REF period. PGR destinations are principally further academic positions and
+ industrial research labs. PGR Chew, now PDRA at CMU) obtained an EPSRC prize Scholarship.
+ Equality and Inclusion/Diversity(E&I)
+ We follow and play a leading role in formulating UoL’s E&I framework (Dimitrova is Faculty E&I
+ lead) ensuring that colleagues are treated dignity and respect, opportunities are open to all, and
+ everyone enjoys a safe, supportive and welcoming environment. We use Athena SWAN as a
+ catalyst to develop and deliver a sustained E&I agenda targeting protected characteristics,
+ supported by a diverse E&I action group(PGR+6 staff). The Engineering Faculty (including SoC)
+ earned Silver (2015 and 2019, the latter led by Dimitrova). SoC’s E&I lead(Cohen) sits on the
+ School Management Team, and E&I is a standard item on SoC committees. We run regular
+ themed activities (Ada Lovelace, Black History Month, disability related to embed diversity and
+ E&I values into our culture and research (e.g. fairness in AI themed panel for the latest Black
+ History Month event), and participation in EPSRC Inclusion Matters
+ Project(https://northernpowerinclusion.org/). We consider E&I when nominating speakers for
+ seminars/colloquia, awards/prizes, internships, and fellowships.
+ We aim to ensure that our recruitment and promotion is unbiased, and special circumstances
+ are taking into consideration (e.g. career break, disability) with, e.g. compulsory E&I training for
+ interview and promotion panel members, and a gender balance on panels. Our staff originate
+ from 17 different countries/5 continents. Career breaks are explicitly accounted for in
+ promotions, and promotion criteria have been updated in this period to include recognition of
+ outreach, E&I activities, and mentoring/supporting colleagues. Promotion workshops were held
+ to encourage staff from diverse backgrounds, inviting role models who provide mentoring and
+ peer support. Our online Staff Footsteps booklet offers inspirational stories by people from
+ under-represented groups and different career stages.
+ We enable flexible working to support staff with caring responsibilities or ill health, including
+ ‘keeping in touch’ days, working from home (even before Covid-19), or via a longer-term
+ contractual change. We provide support to those returning from a significant period of leave
+ (maternity/parental, illness), and for those with caring responsibilities, including financial support
+ to attend conferences/training courses, priority for PhD studentships, and reduced teaching
+ workload. Our Faculty review on how Covid-19 could impact staff fed into UoL’s HR policies
+ review.
+ We work closely with OD&PL regarding the Researcher Concordat(REF5a) and helped pioneer
+ the establishment of an ECR Faculty forum. The Faculty developed the Career Architect scheme
+ to support PDRA career development into both academia and industry; this is now adopted
+ across UoL. The Women Rising programme (initially funded by EPSRC, now by the Faculty)
+ supports ECRs and covers a range of academic skills, e.g. grant/fellowship writing, networking,
+ presentation, and tackling lack of confidence and ‘imposter syndrome’; these programmes target
+ researchers who are most likely to be on fixed-term contracts. The Aurora scheme is an
+ important national leadership development vehicle for mid-career women in STEM. Our
+ redeployment scheme is equally effective for women and men.
+ We organise staff support groups around protected characteristics, offering opportunities for
+ networking and peer support, and our Breaking Boundaries in STEM events (e.g. our annual
+ LGBT+ Research Day, Ada Lovelace day, Black History Month, UK Disability History Month)
+ provide vehicles to promote, and discuss issues affecting such groups and include role models
+ from academia and industry. Our Mutual Respect campaign addresses harassment and
+
+
+                                                                                                Page 12
+Unit-level environment template (REF5b)
+ inappropriate behaviour. Wellbeing workshops on resilience and mindfulness, organised for our
+ faculties and open to all, are delivered by UoL’s counselling team.
+ The Faculty aspires to be a regional hub for inclusive R&I. As part of the EPSRC inclusion
+ project ‘Northern Power’, we lead activities to attract, grow and retain researchers from
+ underrepresented groups in the North. Our joint activities with industry, e.g. ‘Building Equality’
+ and Leeds LGBT+ Pride, panel on visibility and BAME with representatives from KPMG and
+ NAG, challenge societal perceptions of diversity in engineering and provide role models. A
+ strategic STEM outreach approach is developed, targeting of students from underrepresented
+ groups (e.g. BAME, LPN, GRT, BTEC, Care-leavers) from our partner schools and colleges. Our
+ research staff and students engage in school days, campus visits, summer schools, and public
+ outreach events (e.g. ‘Be Curious’, Leeds Digital Festival) to help encourage interest in STEM.
+ We are expanding geographical reach of STEM engagement with schools across the country via
+ digital activities and resources.
+ E&I with regard to the REF submission
+ The Unit’s REF preparations, and those involved in the preparation of this submission, have
+ been undertaken in accordance with UoL’s REF2021 Code of Practice. All staff undertake E&I
+ training, and all individuals involved in the REF2021 decision making process are required to
+ undertake additional training. Equality impact assessments were undertaken to ensure due
+ regard to equality issues occurred throughout the REF submission process and final decisions
+ were made with a multi-gender team including the E&I lead. These have allowed us to:
+ understand the representation of the eligible and submitted staff against our staff profile;
+ understand how the selection of outputs for submission represent the diversity of staff; and,
+ identify where progress on diversity issues is needed so that this can be strengthened in the
+ delivery of the Unit’s and UoL’s R&I strategy.
+ 3. Income, infrastructure and facilities
+ The School has increased its research income in the current REF period compared to the
+ previous period: 81.25% total increase, and 29.46% increase of the yearly average income. We
+ have obtained funding from all 10 UKRI councils as well as the NIHR, Nuffield, Welcome,
+ Leverhulme, NC3R, CRUK, Kidney Research UK, LTHT, MOD, British-Academy, Royal-Society
+ and RAEng.
+ Highlights of our income include:
+    - RAEng Chair in Emerging Technology £2.7m(Frangi)
+    - Co-investigators in new Programme/Grand-Challenge Grants totalling £11.5m
+    - Participation in 17 new EU grants totalling £6.34m for Leeds.
+    - Northern Pathology Imaging Collaborative(£17M) plus CDTs(£14.24M) [not REF-able
+        income]
+
+ Acquiring research funding is a key strategic objective and is supported and monitored by CRIC
+ and the Faculty’s R&I Committee. Staff are individually supported by peer mentoring, Theme
+ meetings/activities, and AAM/SRDS discussions. The DoRI and their deputy provide support and
+ advice, and flag up funding opportunities. Candidates for competitive research fellowships at all
+ levels are identified and mentored by SoC and Faculty. Practice interviews help prepare
+ candidates for formal interviews. SoC provides matched funding to support research grant
+ applications, from PGR studentships, teaching relief, equipment purchase/maintenance to
+ support posts and additional travel budgets. As a result, 93% of submitted staff have Leeds-
+ reported research income in Leeds (5 recent arrivals after June 2019, and two ECRs excepted).
+ Staff receive a percentage of the project budget into their staff fund to support their research
+ (total expenditure: £318.5k) giving freedom to undertake ad-hoc and seed-corn/proof-of-concept
+ activities easily.
+ Organisational infrastructure supporting research and impact
+ Within SoC, the Theme Leaders and DoRI facilitate, encourage and support research and
+ impact, strategically and day-to-day. SoC participates in, and helps lead a number of cross-
+ faculty/interdisciplinary structures which facilitate our research: (1) Robotics@Leeds
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+ (robotics.leeds.ac.uk) – which brings together all robotics research across UoL, has regular
+ seminars, and houses the EPSRC National Facility for Innovative Robotic Systems(Co-Is
+ Cohen/Cohn) with specialist machinery for constructing purpose-built robots. (2) Virtuocity
+ (uolds.leeds.ac.uk/facility/Virtuocity) which aims to help communities and businesses to design
+ the city of the future (see below), which is part of CfIT, an interdisciplinary collaboration which
+ works with partners from the public and private sectors to drive innovation, using virtual and
+ augmented reality. (3) The Leeds Institute for Fluid Dynamics. (4) LIDA through which are
+ membership and activities in the ATI are channelled. LIDA opened in 2015, occupies 1583m 2,
+ and provides Safe Rooms for research with identifiable personal data, NHS DSPT/ISO27001 IT
+ infrastructure for research with identifiable and pseudonymised personal data, and a
+ multidisciplinary research environment for 156 people. UoL has made ongoing investments
+ totalling £2.9m to make LIDA’s facilities free at the point of use, with SoC participating in £10.5M
+ externally funded interdisciplinary projects. SoC is LIDA’s third largest inhabitant, including our
+ AI+Medical-Diagnosis CDT students who benefit from the proximity to the many other LIDA
+ health researchers.
+ Operational and scholarly infrastructure supporting research and impact
+ A £96M investment to construct the Sir William Henry Bragg Building (delayed by Covid-19)
+ completed in 2021 Q1 to house SoC and Physics, as well as a faculty-wide Integrated Robotics
+ Lab which will help foster interdisciplinary robotics research; this will contain the School’s
+ existing robots (see below) as well as two Frank arms for Huang(£33k) and two Da-Vinci
+ surgical robots, and a number of rehabilitation robotic devices. It contains purpose designed and
+ built laboratories for each of our research activities. This facility will provide, for the first time in
+ SoC’s history, a building designed to meet all our needs, and will provide a step change in our
+ research environment and ability to conduct leading edge research. It will integrate us much
+ more closely into the newly constituted Faculty of Physical Sciences and Engineering (all eight
+ Schools except Maths now being co-located.
+ SoC has made substantial investments in infrastructure and equipment. A new robotics lab was
+ created(2015), now housing a Baxter(~£30k), a TiaGo(~£50k for Leonetti), a UR5 arm on a
+ Clearpath omnidirectional base, with motion-capture infrastructure(£129.3k for Dogar), a Scitos
+ A5, servers, as well as a fleet of Turtlebots for student research projects. A new AI research lab
+ has been created to house our growing community of AI PGRs and PDRAs. A motion capture
+ system lab(£178.4k) to support H.Wang’s research was constructed. The “Wormery” supporting
+ Cohen’s C.elegans research has seen >£40k new equipment. Laboratory refurbishment
+ (excluding the new building) has totalled £101,500.
+ Staff and PGRs have: modern twin display desktops, supported by servers in the lab and GPU
+ compute clusters as necessary; free access to UoL’s regularly updated HPC facilities, including
+ GPU clusters(arc.leeds.ac.uk). Support and training is available for use of these facilities,
+ including a team of RSEs, directed by UoL’s Research IT manager, with one (EPSRC-Fellow
+ Leng) embedded within SoC, as well as two further project-funded RSEs. Day-to-day IT support
+ is provided by central IT, usually by staff embedded within the building.
+ E&I Issues
+ RIS provide active support including training, networking, financial/contracts support, assistance
+ with impact plans and coordination of large proposals. Recent Faculty training workshops
+ involved 40% female attendees. Researchers are encouraged and supported in applying for
+ research grants. Unsuccessful applicants are offered additional mentoring. Positive impact of our
+ research grant application support is evidenced with female successes: similar % male and
+ female awarded grants, women associated with 24% of the total value of funding in Faculty
+ (despite the eligible pool of females who could be named on a grant application being between
+ 17.3%-20.1%); women are more likely to bring in funding as Principal Investigator.
+ Researchers are supported in preparing successful grant applications by their Themes, SoC, the
+ Faculty Research and Innovation Committee, and by RIS. We enable flexible working to support
+ staff with caring responsibilities or ill health, including working from home(even before Covid-19),
+ to enable research grant preparation inter alia. We support those returning from a significant
+ period of leave (maternity/parental/illness), and for those with caring responsibilities, via a
+
+                                                                                                  Page 14
+Unit-level environment template (REF5b)
+ reduced teaching workload and financial support to visit collaborators or attend
+ conferences/workshops, as well as funding for an accompanying partner, and via priority for PhD
+ studentships to help pump-prime research proposals. Offices and laboratories are adapted for
+ those using wheelchairs or with other specialist needs(£131k in period).
+ Use of infrastructure, facilities and expertise in relation to impact activities
+ SoC/LIDA/UoL computational and other facilities are available to staff to engage in impact
+ activities, and we may second staff out to industry (e.g. Kwan to Tracsis). PDRA McKee was
+ mentored for RAEng Entrepreneurship fellowship leading to the Slingshot spinout. PDRA
+ Garraghan developed new test cases for evaluating fault-tolerance of production computing
+ systems for Alibaba Group. RIS and Nexus provide ongoing support and facilities in this
+ regard(REF5a).
+ Specialist infrastructure
+ Already mentioned above is the extensive investment in LIDA (£2.9m); additionally UoL has
+ committed £1.2m to design and implement a new cloud-based NHS DSPT/ISO27001-accredited
+ platform for the coming decade. UoL has invested heavily in its ARC HPC mentioned above, in
+ accordance with a longstanding strategy of biennial hardware upgrades (most recently £2M in
+ 2019) and maintaining a specialist support team. Since 2019 this has been supplemented
+ through recruitment of a new RSE team. Together these support research throughout this Unit,
+ including FD, and in particular, AI. Since joining the ATI, we have been making use of their HPC
+ facilities and the N8 HPC facilities, based at Leeds until 2018. Hogg is also co-I on
+ Jade2(EP/T022205/1), providing another source of HPC.
+ We setup a cloud computing testbed (16-node cluster, £60k) to support our research on Quality
+ of Service in cloud virtualised infrastructures which has seen heavy use since then, including in
+ our research-led teaching in the area.
+ Virtuocity is a UoL unique, immersive, human-in-the-loop simulation and visualization
+ facility(£2M+) for city simulation and co-design powered by academic models and industry
+ software, comprising three simulation laboratories: Driving Simulator; Truck-SIM; HIKER(Highly
+ Immersive Kinematic Experimental Research laboratory), the world’s largest 4K resolution
+ ‘CAVE-based’ pedestrian simulation environment including the UK’s only Omnifinity Deck, one
+ of the most advanced omnidirectional treadmills in the world, to run experiments that allow
+ participants to explore large-scale virtual environments(EP/R008833/1, CoIs: Hogg, Ruddle).
+ Experiments can look at the impacts of a wide range of human factors including age, vision and
+ mobility, e.g. in https://vericav-project.co.uk(InnovateUK).
+ The EPSRC co-funded National Centre for Innovative Robotics based at Leeds(£4M,CoIs:
+ Cohen/Cohn) provides many specialist facilities, including advanced manufacturing/tooling
+ (https://robotics.leeds.ac.uk/facilities/manufacturing-assets/), e.g. an Objet1000 Multi-Material
+ 3D Printer (Stratasys) (0.4m3 build area) which can combine multiple build materials from soft
+ silicone-like elastomers to rigid nylon-like plastics. We have used these facilities in a range of
+ robotics projects in SoC, as well as in our C.elegans Wormery.
+ 4. Collaboration and contribution to the research base, economy and society
+ Arrangements and support for research collaborations,
+ SoC, Faculty and UoL strongly support collaborative research, both internally, and externally,
+ whether with other academic institutions, both at home and abroad. E.g. Frangi and Omidvar are
+ joint appointments (Medicine, Business respectively) and Taylor in Mechanical Engineering
+ joined UoL as part of Frangi’s team and has a SoC office. Most of our projects are collaborative.
+ We support large collaborative grants with SoC-funded studentships(e.g. EP/S016813/1).
+ Examples of international collaboration include Vuskovic’s with Princeton and ENS Lyon, Carr’s
+ with the OE/NNSA ECP Exascale project, along with 15 multisite-EU projects.
+ UoL strongly supports international collaborations, with a Deputy-VC(International), Faculty Pro-
+ Deans(International) and School Internationalisation co-ordinators, each with funds to help
+ colleagues initiate or maintain international collaborations; e.g. seed-corn funding for Gooya
+
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+ allowed him to successfully apply for a JSPS Invitational Fellowship for Research in Japan, while
+ seed-corn funding for Head facilitated a visit to Eindhoven resulting in Physical Review
+ Letters(2019) paper. RIS, the Deputy-VC(International) and Faculty Pro-Dean(International) help
+ develop new partnerships and maintain existing ones, and RIS provides logistical support in
+ collaborative research grant preparation. All staff can use their staff account to initiate/maintain
+ collaborations easily without needing to request travel funds. UoL’s European Office offers
+ matching funds for EU grant preparation. We have collaborated with many international
+ academic partners in EU and other funded projects, with a steadily rising percentage of papers
+ published with international co-authors(Figure-2). We have lead/co-lead research networks (e.g.
+ SandH, an interdisciplinary network joint with Lancaster and Indianapolis(AH/R006482/1,Stell)).
+ Figure-3 below demonstrates the breadth and extent of our University, national and international
+ collaborations.
+
+
+                                           Scopus bibliometrics
+                                      International collaboration %
+                          80
+
+                          60
+
+                          40
+
+                          20
+
+                           0
+                               2014     2015     2016   2017   2018    2019   2020
+
+                                                    Figure-2
+
+
+ Relationships with key research users, beneficiaries or audiences to develop impact and
+ how these collaborations have enriched the research environment
+ We have extensive collaborations with non-academic institutions across the UK and the
+ world(Figure-3), and >6% of our publications have an non-academic co-author(Scopus). Many of
+ these have led to research impact. E.g. our line of research in collaboration with utility
+ companies started in 2004 and has continued to flourish, broadening into the Built Environment
+ sector more generally; e.g. the Assessing-the-Underworld(ATU) EPSRC project(EP/K021699/1)
+ had 57 non-University partners, building on prior Mapping-the-Underworld(MTU)-project. Leeds
+ built a prototype D.S.S. as a major output from the project which was well received by our
+ partners, leading to an EPSRC IAA, and Highways England funding. As a result of our work in
+ interpreting Ground-Penetrating Radar data in MTU/ATU we were invited to join a successful
+ 20+ partner €10m EU project, NetTUN in which we built a D.S.S. to support operators of tunnel
+ boring machines(TBMs) by fusing data from multiple sensors looking ahead of the TBM,
+ cooperating with Universities and companies across Europe, also collaborating with SNCF in a
+ D.S.S. for Tunnel Maintenance(ESWC-15 best “in-use” paper).
+ Our collaborations with the health sector have had a profoundly beneficial effect on our research
+ activities, driving research in the BMH-Theme in particular, and generating an ICS and further
+ ongoing collaboration and innovation in patient care via the QualDash project deployed into five
+ hospitals(NIHR, Ruddle).
+
+                 UK            Europe          Americas   Asia          Other
+  Universities           42             70           37           34            19
+  Industry               73             35           12            2             5
+
+                                      Figure-3. SoC collaborations
+
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+ One of our ICS comes from our early MTU work and the other two ICS demonstrate interactions
+ across two other sectors: rail scheduling and medical imaging. In each ICS we have worked in
+ close collaboration with sector partners, taking inspiration from their needs to develop world
+ leading solutions to important problems. We have worked extensively with cloud computing
+ providers to build energy efficient solutions which have been deployed in industry and led to the
+ Edgetic spinout. Collaboration with VET-AI is ongoing and developing computer vision solutions
+ for pet care via a KTP.
+ Wider contributions to the economy/society
+ The AI Theme has developed a range of software tools and online resources for the analysis
+ and annotation of Arabic text, with particular application to the Quran and religious studies:
+ https://qurananalysis.com used daily by thousands from across the world.
+ SoC members have contributed to a variety of bodies across several sectors. E.g. Cohn sits on
+ the Geospatial Commission’s (part of the Cabinet Office) National Underground Assets Register
+ Advisory Group(REF3:UOA11-2). Djemame is co-founder of the Heterogeneous Hardware &
+ Software Alliance(HH&S) bringing 20 academic/10 industrial organisations together to advance
+ and exploit heterogeneous hardware(http://heterogeneityalliance.eu/contact).
+ Contribution to sustainability of the discipline, support for/exemplars of interdisciplinary
+ research; responsiveness to national/international priorities/initiatives
+ SoC’s wide ranging interdisciplinary research has already been discussed extensively(§1). We
+ contribute strongly to all of EPSRC’s Prosperity Outcomes (Healthy(AI/BMH),
+ Connected(AC/AI/DSS), Productive(AI/CSE/DSS/BMH), Resilient(AC/AI/DSS) Nations), as well
+ as to the UKRI Digital Economy Theme(DSS). Our research strongly aligns with inter/national
+ priorities in AI, including our contributions to the ATI, and in the EU, most recently with the €20M
+ AI4EU platform project. SoC staff have been involved in the organisation of many conferences,
+ workshops etc, as indicated immediately below. We have made released many software
+ codebases on open source platforms, e.g. ASCETiC mentioned above with >500 downloads,
+ http://openworm.org/downloads.html, and QSRlib(https://qsrlib.readthedocs.io) used in robotics
+ and vision projects. 26 datasets have been deposited in the Institutional Repository since its
+ inception in 2015(https://archive.researchdata.leeds.ac.uk/).
+ Indicators of wider influence, contributions to and recognition by the research base
+ Editorships(34) Editor-in-Chiefships(5): Artificial Intelligence(Cohn), Spatial Cognition and
+ Computation(Cohn), MICCAI-Elsevier Book Series(Frangi), Progress in Bioengineering(Frangi),
+ Presence(Ruddle). Associate-Editorships(12): Computer-Graphics Forum(Carr); International
+ Journal of AI in Education(Dimitrova); Frontiers of AI(Dimitrova), IEEE RAS-Letters(Dogar);
+ Formal Aspects of Computing Journal(Duke), IEEE TMI(Frangi);Medical Image
+ Analysis(Frangi);SIAM Journal of Imaging Sciences(Frangi); SIAM Journal of Scientific
+ Computing(Jimack); IEEE TPAMI(Hogg), Open Research Software(Leng), Peer-to-Peer
+ Networking and Applications(Xu). Editorial-Board-Memberships(14). Guest-Editorships(3).
+ Fellowships etc(10 new, 9 pre-existing): FREng(Cohn), FIAPR(Hogg), FBMVA(Hogg),
+ IEEE(Frangi), EAMBES(Frangi), SPIE(Frangi), Eurographics(Carr), UKCRC(Djemame, Frangi,
+ Hogg,Xu). Prior to 2014: FEurAI(Hogg,Cohn), FAAAI(Cohn), FAISB(Cohn), FIET(Cohn),
+ UKCRC(Cohn), FBCS(Ruddle, Cohn), Eurographics(Duke).
+ Funded Fellowships/Chairs(10): RAEng Chair in Emerging Technologies(Frangi, £2.68M),
+ Marie-Skłodowska-Curie Incoming Fellowship(Dogar; PDRA:Figueredo), EPSRC Leadership
+ Fellowship(Cohen), Leverhulme Early Career Fellowship(Ranner), RAEng Enterprise Fellowship
+ (PDRA:McKee), EPSRC Research Software Engineer Fellowship(Leng), ATI-
+ Fellows(Cohn,Hogg,Ruddle), ESPRC Prize-Fellowships(Ranner, Chew).
+ Visiting positions (19): Professorships: Cohn: University of Technology Sydney, Tongji
+ University(also High-End Foreign Expert), Qingdao University of Science and Technology,
+ Shandong University; Frangi: KU Leuven; Xu: Beihang University, SWJTU, NUDT, Chongqing
+ University; Atwell: SUSTECH Sudan; Adler: Paris Dauphine University. Visiting Scientists
+ Chinese Academy of Sciences(Frangi); Carr: STFC-Daresbury, Lawrence Berkeley(USA), Los
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+ Alamos(USA), STFC-Appleton; PDRA Bollada: Beihang University; Shakhlevich: Nantes
+ University; Leng: Harwell.
+ Prizes: ACM-THCI best paper(Ruddle). ACM Computing Surveys Best of Computing Award
+ (Carr), IEEE VIS-19 Test-of-time award(Carr). Donald E Walker Distinguished Service Award,
+ IJCAI-15(Cohn, “honors senior scientists in AI for contributions and service”). Honourable
+ Mention(Runner-up) EurAI Best AI Dissertation Award 2017(PGR:Alomari).10 best papers, 5
+ runner-up best papers, 1 best video, 1 best poster, 1 best technical implementation, 1 “top cited
+ impact factor”, 5 Competition/Challenge awards.
+ Innovation awards: RCUK Knowledge Base Impact Award 2014; Yorkshire & Humber NHS
+ Innovation Award for Medical Devices and Diagnostics 2014.
+ International Visitors(staying≥1 week): 33.
+ Keynotes/invited talks: >100.
+ Conference organisation:
+    - Conference/Workshop/Programme Chair positions: >60 + many programme committee
+       memberships.
+    - Co-organiser with Cai(Madison-Wisconsin) of a 5 month research programme at the
+       Simons Institute for the Theory of Computing (Berkeley) “Counting Complexity and
+       Phase Transitions”(Dyer). Follow up meeting(2017)
+    - Co-founder of the UK Robot Manipulation Workshop in 2016, hosted in
+       Leeds(2019,Dogar).
+    - Co-Founder of 3xIEEE Conferences: Cloud Engineering; Decentralised Infrastructures
+       and Applications; Joint Cloud Computing (Xu).
+    - Dagstuhls co-organised: 14081,16381,14421.
+    - Spatial Cognition Conference Steering Committee Chair(Cohn)
+    - UKPEW’2015&2019, GECON’2019 hosted at Leeds(Djemame)
+ Service to the community(~60):
+    - EPSRC IT SAT Chair(Hogg)
+    - EPSRCs e-Infrastructure SAT(Leng)
+    - UKCRC Executive Committee(Cohn, Xu)
+    - REF Sub-panellist(Cohn:2014, Hogg, Frangi:2021)
+    - President-elect International AI in Education Society, previously Finance
+       Chair(Dimitrova);
+    - Eurographics Executive Committee(Duke)
+    - Eurographics: International Corporate Secretary(Carr); UK Chapter Chair(Carr)
+    - ATI University Partners Board(Hogg)
+    - KR Inc. Director(Cohn)
+    - Executive Board of IEEE Technical Committee on Business Informatics Systems(Xu)
+    - IJCAI Executive Committee(Cohn)
+    - EEE-SRDS SC Member(Xu)
+    - IEEE-ISORC SC Member(Xu)
+    - IEEE-HASE SC Member(Xu)
+    - IEEE-SOSE SC Member (Xu)
+    - IEEE BigDataService SC Member(Xu)
+    - EPSRC Peer Review College members (12+1 Associate); AHRC Peer Review
+       College(1)
+    - Members of UKRI prioritisation panels(9 staff, some multiple)
+    - Reviewer of EU projects/panels(5 staff)
+    - Co-chair of IEEE-RAS Technical Committee on Mobile Manipulation(Dogar)
+    - Chair of BCS Awards Committee and on BCS Academy Board(Cohn)
+    - Advisory Boards: University of Technology Sydney AI AB(Cohn); NUAR AB(Cohn)
+    - Various RAEng Committees(Education; Policy; Emerging Technology Chairs: Cohn).
+    - Scientific Advisory Panel OpenWorm(Cohen)
+    - Trustee of the Society of Research Software Engineering(Leng)
+
+                                                                                            Page 18
+Unit-level environment template (REF5b)
+    -   Canada Research Council prize panel for two years running(https://www.nserc-
+        crsng.gc.ca/Prizes-Prix/Index_eng.asp, Hogg).
+
+ Public engagement:
+ Extensive outreach activity ranges from training for using facilities (e.g. White Rose & regional
+ N8 grids, the Leeds Powerwalls) to youth education (e.g. the Leeds Headstart summer school),
+ Ada Lovelace outreach events, Leeds’ Be Curious Festival of Science, Pint of Science, Leeds
+ City Museum Festival of Science, AITech North, Leeds Law Society conference, a robotics event
+ at the Natural History Museum. Cohn appeared in an Audible book (“Days that Changed the
+ World”).
+
+
+
+
+                                                                                          Page 19
+

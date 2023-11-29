@@ -1,0 +1,778 @@
+Unit-level environment template (REF5b)
+ Institution: Brunel University London
+
+ Unit of Assessment: 10 – Mathematical Sciences
+
+ 1. Unit context and structure, research and impact strategy
+
+ Brunel University London is a research-intensive university which emphasizes academically
+ rigorous research for addressing the challenges faced by a wide spectrum of end users,
+ including governments, industry and the not-for-profit sector. The research strategy of the
+ Department of Mathematics, and of the College of Engineering, Design and Physical Sciences
+ (CEDPS) within which it sits, are fully aligned with the organisational culture of prioritising
+ applicable and impactful research.
+
+ Research within the Department has evolved and grown over the REF period, with a research-
+ active headcount of 27 (26.4 FTE) compared to 26 (24.05 FTE) in 2014. Statistics and Data
+ Science is identified as an area of strategic growth for the Department. Compared to REF 2014,
+ 3.0 FTE additional staff are submitted for REF 2021 in this area.
+
+ The Department’s research is organized into four research groups, spanning a wide spectrum of
+ sub-disciplines within mathematical sciences. Each of the research groups undertakes high
+ quality research, embracing collaborations across disciplines and international boundaries and
+ keeping sight of the needs of end users.
+
+ The Applied and Numerical Analysis (ANA) group (Furter, Krasikov, Langdon, Maischak,
+ Mikhailov, Shaw, Whiteman, Winter) carries out research both in the theoretical analysis of
+ mathematical models of biological, chemical or physical processes described by differential,
+ integral and integro-differential equations, and in the development, analysis and implementation
+ of numerical methods for their approximate solution. The diverse applications considered by the
+ group include rigorous analysis and computational modelling of problems in acoustic, elastic and
+ electromagnetic wave propagation (Langdon, Maischak, Mikhailov, Shaw), modelling of fluid
+ flows (Mikhailov), biological processes (Winter), viscoelasticity (Mikhailov, Shaw, Whiteman) and
+ fracture in solids (Mikhailov). Novel finite element and boundary element methods have been
+ developed and analysed for these applications, leading to both robust algorithms and
+ specialised software. A related research topic is approximation of orthogonal polynomials and
+ special functions with explicit error terms (Krasikov). ANA group research also includes analysis
+ of nonlinear problems like the Navier-Stokes (Mikhailov) and Gierer-Meinhardt systems (Winter),
+ and abstract bifurcation problems (Furter). The ANA group is home of an international
+ collaboration on analytical and numerical methods for boundary-domain integral equations led
+ by Prof. Mikhailov. This research direction, aimed at creating a new method for analysis and
+ solution of variable-coefficient and nonlinear PDEs, was supported by several EPSRC and Royal
+ Society research grants in the last 15 years, most recently by the EPSRC grant “Mathematical
+ Analysis of Boundary-Domain Integral Equations for Nonlinear PDEs”, £181K for 2015-2018.
+ ANA group also hosts the triennial conference on Mathematics of Finite Elements and
+ Applications (MAFELAP), which is one of the largest international conferences on this topic; both
+ MAFELAP 2016 and MAFELAP 2019 during this REF period had over 350 delegates from more
+ than 25 countries.
+
+ The Mathematical Physics and Applied Mathematics (MPAM) group (Greenhow, Kaloghiros,
+ Lawrie, Nolde, Pichugin, Rodgers, Savin, Smolyarenko, Virmani) is engaged in the development
+ of innovative analytical methods for a broad range of problems arising from engineering and
+
+                                                                                            Page 1
+Unit-level environment template (REF5b)
+ physical sciences. A particular specialism is the study of complex quantum systems, including
+ quantum chaos, random matrix theory, quantum information and computing as well as research
+ on related fundamental questions in geometry and mathematical physics. Significant
+ contributions in the unit include the development of non-perturbative techniques for open wave
+ chaotic systems (Savin), quantum computing and entanglement (Virmani), modelling and
+ statistical analysis of complex networks (Rodgers, Smolyarenko), and geometry of (higher
+ dimensional) algebraic varieties (Kaloghiros). Our international reach is evidenced by the annual
+ series of Brunel-Bielefeld workshops on random matrix theory and applications, which is hosted
+ on a rotational basis between Brunel and Bielefeld University in Germany, with each event in this
+ REF period bringing together over 70 participants. The other strength of the group is physical
+ modelling of wave phenomena in acoustic and elastic media. The relevant contributions include
+ study of wave impacts on coastal structures (Greenhow), acoustic scattering in waveguides
+ (Lawrie), asymptotic theory of thin elastic structures (Nolde, Pichugin), and layout optimization of
+ structures (Pichugin). Dr Pichugin’s research on layout optimisation for long span bridges has
+ attracted a lot of media attention, including articles in the Times (22nd September 2018), New
+ Civil Engineer (19th September 2018) and The Engineer (20th September 2018).
+
+ The Financial Mathematics and Operational Research (FOR) group (Boguslavskaya, Date,
+ Lim, Lucas, Roman) develops and applies advanced mathematical, probabilistic and
+ optimisation approaches to problems in Financial Mathematics (FM) and operational research
+ (OR). Within FM, such problems include developing computationally efficient methods for pricing
+ financial derivatives (Date, Lim), theoretical investigation into probabilistic interpretation of
+ certain important financial models (Boguslavskaya, Lim) and optimisation of large financial
+ portfolios under downside risk constraints (Date, Roman, Lucas). The recruitment of Dr
+ Boguslavskaya and Dr Lim in 2018 has strengthened the Department’s capabilities in probability
+ and measure theory, which underpin financial mathematics. OR activities are driven by a range
+ of applications which typically include simulation or optimisation in modelling and solving a
+ complex decision-making problem. Contributions of the OR subgroup include modelling various
+ financial portfolio optimisation problems under novel risk/return paradigms as integer or mixed
+ integer programming problems, and development of metaheuristic solution methods for solving
+ such problems (Date, Roman, Lucas). Two doctoral students in OR have been funded by
+ industry partners in this REF period and several PhD alumni working in the UK finance industry
+ continue to provide valuable end user inputs to research related to optimisation in financial
+ applications and pricing of financial derivatives. More recently, research in the FOR group has
+ also evolved to exploit the availability of high-volume news data, with innovative models
+ developed to incorporate news analytics into prediction of prices and volatilities of financial
+ assets (Date). Dr Date’s paper on prediction of prices of crude oil futures contracts using
+ macroeconomic news data received the IMA Journal of Management Mathematics Best Paper
+ Prize in 2020. FOR group launched a revamped Financial Mathematics MSc programme in
+ 2019-20, including modules on state-of-the-art research on machine learning and
+ cryptocurrencies, offering a strong foundation for potential doctoral research candidates.
+
+ The Statistics and Data Science (SDS) group (Chakrabarty, Parker, Spire, Vinciotti, Yu)
+ evolved from the Department’s identification of data analytics and its applications as an area of
+ strategic growth since 2015. The subject areas of Financial Mathematics, Operational Research
+ and Statistics (FORS) formed a single research group in the 2007-2014 REF period. After the
+ strategic decision to focus on data science as a growth area, the FORS group was re-organized
+ into two distinct research groups in 2015: the FOR group mentioned above, and the SDS group,
+ each of which has been strengthened through targeted recruitment during this REF period. With
+ the recent appointments of Chakrabarty, Parker and Spire, the latter on a Royal Academy of
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+ Engineering UK Intelligence Community Postdoctoral Research Fellowship, the SDS group has
+ been able to place a particular emphasis on the strategic growth area of statistical methods and
+ models for data science, with contributions in the field of experiment design, high-dimensional
+ statistics and inference under censoring and missing data. The areas of applications of data
+ analytics investigated by the group include astrophysics (Chakrabarty, Spire), biology and
+ genomics (Parker, Yu, Vinciotti), financial econometrics (Vinciotti, Yu), health sciences and
+ wellbeing (Vinciotti, Yu), material science (Chakrabarty, Yu), and UK intelligence (Chakrabarty,
+ Spire). Funding for research and end user problems has come from industry (TWI, for analysis
+ of pipeline corrosion), the EU (COSTNET project on network science), and the Office of National
+ Statistics (for analyses of wellbeing data). There is also particular strength within the group in
+ quantile regression and its application in bioscience, finance and other areas. A Statistics with
+ Data Analytics MSc programme was started in 2017-18. The Department anticipates continued
+ growth in this area in coming years, as it is developing a new undergraduate programme in
+ Mathematics for Data Science, as part of a broader research and education collaboration with
+ North China University of Technology (NCUT), to be delivered simultaneously in Brunel and in
+ Beijing. This will further increase staff numbers and research strength in SDS in the coming
+ years, with a view to putting the Department in a strong position for major cross-disciplinary
+ funding applications where data science is a key enabling technology.
+
+ The departmental research strategy aims at facilitating and promoting world leading research,
+ with particular emphasis on the mathematical formulation of fundamental problems inspired by
+ real-world physical, engineering, financial and biological phenomena, and the development of
+ associated advanced solution methodologies. Whilst the Department is keen on supporting and
+ promoting high quality fundamental research, it actively encourages collaboration between its
+ research groups, interdisciplinary research and the establishment of strong links with industry.
+ These aims are closely aligned with College and University strategies which place a high value
+ on engaging in innovative and cross-disciplinary research activities in line with the national
+ agenda. As statistics and data science is identified as an area of strategic growth, the
+ Department particularly encourages cross-disciplinary research which employs mathematical
+ tools from data science to develop new theoretical, computational and methodological tools for
+ simulating and solving important real-world problems, some of which are intractable by existing
+ computational means. Examples include an ongoing collaboration between Dr Date (FOR) and
+ Dr Shaw (ANA) on a novel use of a machine learning technique (otherwise employed in financial
+ mathematics) for fast solutions of certain inverse problems in linear PDEs and a collaboration
+ between Dr Smolyarenko (MPAM) and Dr Vinciotti (SDS) on new statistical tests for testing
+ degree distributions in real-world networks.
+
+ The University also provides institutional support to cross-disciplinary research through the
+ mechanism of research institutes. Many members of the Department belong to one of the four
+ research institutes at Brunel: Dr Date belongs to the Institute of Energy Futures; Dr Maischak, Dr
+ Shaw and Prof. Whiteman belong to the Institute of Materials and Manufacturing; Prof. Yu
+ belongs to the Institute of Materials and Manufacturing, the Institute of Environment, Health and
+ Societies and the Institute of Digital Futures; Dr Chakrabarty and Dr Parker belong to the
+ Institute of Digital Futures. Research institutes facilitate collaboration across disciplinary
+ boundaries; as an example, Prof. Yu’s work on corrosion modelling in collaboration with Prof.
+ Gan and Dr Wang from the Institute of Materials and Manufacturing has yielded important
+ research contributions to corrosion defect assessment for the University’s industrial partner TWI.
+
+ In this REF period, the members of staff contributing to this UoA have published, or had
+ accepted for publication, 299 distinct refereed papers in over 140 leading journals. The 66
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ papers submitted for this UOA have a total (WoS) citation count of 410 (6.2 citations per paper).
+ While citation data should be treated with caution, our high citation rates provide evidence to
+ suggest that our research is setting the academic and intellectual agenda in relevant fields.
+
+ For effective global dissemination of our research Brunel has an Open Access mandate, and an
+ Open Access Publishing Fund exists for supporting publication in open access journals.
+ Members of staff thus have an excellent support network to draw upon for their research needs
+ and ample means of global dissemination for their outputs. BURA (Brunel University Research
+ Archive, http://bura.brunel.ac.uk), the University’s open-access repository, holds copies of
+ research outputs as well as doctoral theses and provides an effective means of dissemination.
+ Digital data, metadata and/or code used to generate data used in research publications is held
+ on the figshare repository (https://brunel.figshare.com).
+
+ In fact, the Department’s commitment to open science goes further back than this REF period. In
+ terms of the Department’s research contribution to pedagogy of online teaching, Dr Greenhow
+ from MPAM group made his maths e.g software for computer aided assessment in mathematics
+ available globally in June 2011. As of December 2020, the current version of this software
+ (http://www.mathcentre.ac.uk:8081/mathseg/) has more than 1100 unique teacher users across
+ the world, in addition to a significantly higher number of student users. In the SDS group, Prof.
+ Yu and his doctoral alumni have developed the R package brq
+ (https://cran.rproject.org/web/packages/Brq/Brq.pdf), employed globally by researchers in
+ Bayesian quantile regression. A software package, maiprogs, developed from research on
+ numerical simulation of differential equations by Dr Maischak from the ANA group, is similarly
+ freely available (http://people.brunel.ac.uk/~mastmmm/doku.pdf) and has been used by
+ researchers worldwide, including research groups in Austria (Graz and Salzburg), Colombia
+ (Medellin) and the U.K. (Edinburgh). The provision of accurate and reliable code and research
+ data to allow for replication of published research results is part of a broader emphasis on
+ research integrity in the Department. Brunel University London has adopted the Universities UK
+ Concordat to support research integrity and is committed to upholding the essential elements of
+ the concordat effectively and transparently. The Department adheres to the University’s
+ research integrity code and expects its staff and its research students to conduct their research
+ in a professional and accountable manner which is consistent with the agreed code.
+
+ The impact strategy of the Department is built around identifying key industry partners and
+ building long term research collaborations to solve a range of end user problems. As an
+ example, Brunel has an extensive ongoing collaboration with TWI, Cambridge, in which the SDS
+ group in the Department plays a very active role. A collaborative research project with TWI on
+ pipeline corrosion analysis using quantile regression forms the basis of one of the unit’s case
+ studies. TWI and Prof. Yu from the SDS group have been working on industry relevant problems
+ in reliability for several years and TWI has sponsored four PhD students in the Department
+ during this REF period. Another longstanding industry partner is a local SME (Optirisk Systems
+ UK) which has sponsored two doctoral research projects in the area of financial modelling and
+ portfolio optimization during this REF period. It has also provided commercial economic data for
+ some research projects. Previous research collaboration between Optirisk Systems and Dr
+ Roman on application of second order stochastic dominance in financial portfolio optimization
+ has resulted in development of software which is incorporated by Optirisk in a commercial
+ product; further, Optirisk conducts training for industry practitioners which includes these
+ research results. Optirisk is currently sponsoring one research student in the Department and is
+ also providing news analytics data for another doctoral project. The Department is looking to
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+ strengthen these ongoing collaborations and is seeking to build new industry partnerships in
+ emerging research areas.
+
+ During the next five years the Department aims to expand the reach of the high quality research
+ being undertaken by our existing research groups. Our ageing profile (25% of our academic staff
+ is over the age of 60) is likely to provide the opportunity for renewal and reinvigoration of our
+ research groups in the coming years, with an emphasis on ensuring a continued and increasing
+ contribution to cutting edge topics in science and engineering. Current departmental strategy
+ also includes plans to increase the population of doctoral students and the population of
+ research assistants, and to maintain the current level of international collaborative research
+ activity. The expansion in the number of RAs and doctoral students will be financed by an
+ anticipated increase in interdisciplinary funding, which will be driven by carefully targeted
+ applications to a range of funding bodies supporting the mathematical formulation and
+ investigation of real-world problems. The Department is also expanding its international reach
+ through collaborative agreements encompassing research and education, including NCUT
+ (mentioned earlier), Anqing Normal University, China, and Maharaja Sayajirao University
+ Baroda, India. These agreements will be used to build sustainable international research
+ collaborations and will also provide an opportunity to recruit well-qualified doctoral students from
+ partner universities.
+
+ The Department has a clear policy on balancing the workload between research and teaching
+ and there is strong support for seeking external funding, including internal peer review
+ arrangements. Staff who succeed in obtaining significant research funding are rewarded with a
+ generous allowance of research time. The University and the College is also committed to
+ supporting research in mathematics and the Department receives a share of EPSRC’s Doctoral
+ Training Partnership (DTP) grant from the University. In this REF period, five doctoral students
+ who completed their doctoral degrees were funded by the DTP grant. As of December 2020, two
+ students funded by DTP are continuing their doctoral studies in the Department. Further, a total
+ of seven new doctoral students have started their research in the Department in the academic
+ year 2020-21, with one more student expected to start in April 2021. This includes four highly
+ qualified applicants supported by EPSRC studentships, through additional EPSRC funding for
+ mathematics worth £107,000 and extra DTP funds made available by the University. In keeping
+ with the Department’s current strategy, one of these four studentships is funding a cross-
+ disciplinary project combining our traditional strength in the MPAM group with the emerging area
+ of data science, and addresses the use of machine learning for forecasting the behaviour of
+ chaotic dynamical systems. Another studentship is within the SDS group, on a classical topic of
+ Bayesian prediction problems in high dimensional data sets.
+
+ The departmental research strategy, which is in line with the University’s research strategy of
+ emphasizing academically rigorous and impactful research, is publicly accessible at
+ https://www.brunel.ac.uk/mathematics/research-and-phd-programmes. The departmental
+ research committee is responsible for monitoring its implementation and updating it annually.
+
+ 2. People
+
+ i. Staffing strategy and staff development
+ The Department seeks to sustain and enhance its national and international profile in existing
+ areas of strength, while responding to evolving end user demand by expanding into the strategic
+ area of data science. To this end, it recruits staff who demonstrate research excellence that
+ helps the Department to maintain its existing research strengths or strengthen the desired areas
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ of expansion, who have the potential to attract research funding and who can teach effectively at
+ both UG and PG levels. Appointments at professorial/readership level are expected to have a
+ strong track record in research leadership, obtaining research funding and supporting PhD
+ students. All candidates are expected to have a plan for developing their research, establishing
+ interdisciplinary collaborations and making funding applications. Every candidate for a faculty
+ position is expected to present an overview of their research, and an interview panel then
+ explores the candidate’s future plans for research in greater detail.
+
+ As mentioned earlier, the Department has identified data science as a strategic growth area.
+ Since 2019, two new members of staff have been recruited at senior lecturer level (Parker,
+ Chakrabarty). The latter’s appointment at Brunel has helped us to attract a Royal Academy of
+ Engineering UK Intelligence Community Research Fellow (Spire). The Department also seeks to
+ maintain its existing research strengths in FOR, ANA and MPAM research groups. It has
+ strengthened its research in probability and measure theory as applied to financial mathematics
+ by new recruitment at lecturer level (Boguslavskaya, Lim). In addition, Prof. Langdon joined as
+ the Head of Department in 2019 and his research complements the existing research strengths
+ of the ANA group.
+
+ More faculty recruitment is expected from 2021 onwards in the areas of mathematics that can
+ contribute to research and teaching in the broad area of mathematics for data science, including
+ statistics, data science, probability, operational research and numerical analysis. The
+ Department will use the opportunity offered by anticipated growth in overseas student numbers,
+ not least through our partnership with NCUT, to make strategic faculty recruitment, both to
+ replenish our research groups in view of anticipated retirements, and to strengthen existing
+ research activity across the department with a particular focus on growth of and interaction with
+ the SDS group. The planned research and education partnership with NCUT will involve visits by
+ faculty members to Beijing each year. This will be leveraged to enhance existing research
+ collaborations in China, to build new collaborations around our existing research strengths and
+ to attract high quality doctoral students. Other planned international collaborations in China
+ (Anqing Normal University) and India (Maharaja Sayajirao University) are expected to bring
+ similar benefits in terms of both deepening and broadening the Department’s collaborative
+ research activity, thereby strengthening its research capabilities and extending the reach of its
+ research.
+
+ Recruiting, selecting, retaining and developing excellent researchers is one of the University’s
+ priorities. Brunel achieved the EU HR Excellence in Research award in 2011 in recognition of its
+ alignment to the Researcher Development Concordat and its commitment to provide a
+ supportive research environment for researchers. This award has been successfully reviewed
+ every two years since, with the latest renewal being in 2020. The University has a publically
+ accessible Concordat Action Plan
+ (https://www.brunel.ac.uk/about/documents/pdf/BUL-Concordat-Action-Plan-2017-19-FINAL.pdf)
+ and a Concordat Working Group oversees its implementation.
+
+ Less experienced recruits, such as early career researchers, are assigned a senior academic as
+ a mentor, and care is taken to ensure that all new staff are well integrated into the Department.
+ A Staff Handbook detailing Departmental/University policies and procedures is provided and
+ induction courses are run centrally by the University. In addition, the Department has a friendly
+ and collegiate atmosphere which, coupled with the facilities offered by a departmental common
+ room, ensures that ample opportunities exist for informal interaction and integration. Core skills
+
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+ development and online research training is available to all contract research staff. In order to
+ help them establish their research, newly appointed staff are assigned lighter teaching and
+ administrative loads. Financial support for conferences/equipment is provided, and a wide range
+ of development courses covering various aspects of research, teaching and administration are
+ offered (attendance at some of these being obligatory). Less experienced recruits, such as early
+ career researchers can also apply to a competitive university-wide Brunel Research Initiative
+ and Enterprise Fund scheme for a centrally funded grant. Since 2014, two members of staff
+ have been awarded a total of £29,500 under this scheme.
+
+ Support for career development of more established staff is directed towards ensuring that there
+ are adequate resources available, in terms of research time, funding support, electronic
+ resources and hardware. To ensure the availability of adequate time to do research, use is made
+ of full- and part-time teaching-only staff in UG teaching roles. Research students are employed
+ as paid Graduate Teaching Assistants (GTAs) to provide tutorial support at the UG level. Staff
+ can also apply to the University-wide Research Leave Scheme and four members of staff have
+ taken such leave between 2014 and 2019. As an example, Dr Date used his research leave in
+ 2014-15 and an EPSRC overseas travel grant (EP/L019477/1) to visit an overseas collaborator,
+ Dr Shovan Bhaumik at the Indian Institute of Technology Patna. The collaboration initiated
+ during this period has been sustained through bilateral visits and it has led to several new results
+ in filtering theory. Apart from a series of refereed journal publications, a graduate level textbook
+ on filtering, co-authored by Dr Date and Dr Bhaumik, was published by CRC Press in 2019. Prof.
+ Yu’s research leave during this REF period was similarly productive, with several journal papers
+ and one of the unit’s impact case studies on pipeline corrosion resulting from his work during the
+ research leave.
+
+ Great importance is attached to both staff and research students attending conferences in order
+ to present their research and network with professional colleagues. All academic staff are
+ provided with funding to attend at least one international conference per year and research
+ contributions from the Department are presented at most major annual or biennial international
+ conferences in the research areas represented in the Department, such as the EURO2015 -
+ EURO2018 in FOR and CMStatistics 2015 - CMStatistics2019 in SDS.
+
+ As a part of its staff development strategy, the Department actively encourages exchange of
+ ideas and research collaboration with industry, through longstanding and impactful research
+ collaborations such as the one of Prof. Yu with TWI Cambridge mentioned earlier and also
+ through engagement with its industrial advisory board. This advisory board, comprising
+ experienced industry researchers and practitioners, offers advice both on end user priorities in
+ applied research and on state-of-the-art content in educational programmes.
+
+ All lecturers/senior lecturers in the Department are appraised annually by a senior colleague,
+ and Readers/Professors agree their research targets for the coming year with the Head of
+ Department. Both systems of appraisal work in parallel with the departmental research strategy
+ and yearly targets for individual staff are closely linked to the strategic aims. The annual
+ performance management and appraisal processes are regularly reviewed and revised.
+ Promotion procedures place a strong emphasis on international research excellence. In this REF
+ period, eight members of the Department have been promoted, of whom four were women.
+
+
+
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ ii. Research students
+ The Department graduated a total of 39 (see REF 4a) doctoral students over the REF period, an
+ average of 5.6 per year, which equates to 1.47 students per FTE staff member. Of these 39
+ students, 13 were women. The Department attracts a large number of national and international
+ applications from potential research students of diverse ethnicities. The application process
+ requires all prospective students to write a brief research plan which enables the Department to
+ match students to supervisors with appropriate research interests. Candidates of appropriate
+ academic calibre whose research interests align with the Department’s research strategy are
+ interviewed either in person or online by the prospective principal supervisor and one other
+ academic, usually from the same research group. Apart from the competitive studentships
+ facilitated by EPSRC funds as mentioned in Section 1, doctoral research is supported by our
+ industrial partners (such as TWI and Optirisk Systems) and by governments or overseas
+ educational institutions sponsoring their academic faculty for doctoral studies. Eight research
+ students during this REF period were sponsored by universities in Saudi Arabia, Oman, Iraq and
+ Malaysia. Research students from across the world, along with postdoctoral researchers and
+ international visitors, have sustained a thriving research community in the Department
+ throughout this REF period.
+
+ All PhD students are accommodated in shared offices, with a maximum of six students in each
+ shared office. Student feedback suggests that this is a preferred model of working space, as
+ compared to the alternative of having a single open plan space. The Department also has
+ dedicated office space for academic visitors. Each research student and academic visitor gets a
+ desk with a personal computer with essential software installed. Library and computing facilities
+ are excellent: some software essential for research in mathematics is purchased from
+ departmental funds and a wide range of relevant journals are available electronically, both on
+ and off campus.
+
+ Brunel has made significant investment in providing high quality training and careers advice to
+ research students and early career researchers. As mentioned earlier, the University’s
+ commitment to career development of researchers has been recognised by the EU HR
+ excellence in research award, which was first received in 2011 and was renewed in 2020. The
+ Department ensures that its PhD students and early career researchers get full benefit of the
+ university provision of career development activities. Students are strongly encouraged to take
+ advantage of the Researcher Development Programme which is organised on a university-wide
+ basis by the Brunel Graduate School (BGS) and offers a comprehensive suite of personal and
+ professional skills development (http://www.brunel.ac.uk/services/graduate-school/training-
+ development-and-support/researchstudents/researcher-development-programme). A wide range
+ of courses are offered including: new researcher induction (for all new PhD students);
+ intermediate/advanced researcher development; research integrity; presentation skills; viva
+ preparation; making the most of conferences and employability skills (covering entrepreneurship,
+ interview skills, personality assessment). All workshops/seminars are focused towards the
+ acquisition of the essential skills, attributes and behaviours highlighted in the Researcher
+ Development Framework. In addition, Brunel Educational Excellence Centre runs a mandatory
+ training course for research students who are expected to take up Graduate Teaching Assistant
+ duties, which leads to Associate Fellowship of the Higher Education Academy. The University
+ has a dedicated research careers advisor for PhD students and post-doctoral researchers. Apart
+ from the BGS, the library provides research engagement training for students covering topics
+ such as managing references and bibliographies.
+
+
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ In addition to the university-wide training outlined above, the Department offers a range of both
+ technical and professional skills training for its doctoral students. FOR research students are
+ normally required to attend National Taught Course Centre for Operational Research (NATCOR)
+ courses or relevant London Taught Course Centre (LTCC) courses and attendance is fully
+ funded from departmental resources. FOR and SDS students also attend appropriate modules
+ from our own MSc programmes in Financial Mathematics and Statistics with Data Analytics. All
+ other research students attend pertinent courses run by the LTCC and MMath modules in the
+ Department, as directed by their supervisors. All research students are also expected to
+ complete a postgraduate level module on Research Methods and Case Studies, run internally by
+ the Department. This module includes talks by industry experts which are designed to stimulate
+ end-user-oriented research. Further, the Department organises a number of research student
+ symposia per year. These offer students the opportunity to present their research, discuss ideas
+ and share best practice. Participation is strongly encouraged and doctoral students are required
+ to make presentations both to support the development of appropriate personal/professional
+ skills and in preparation for talks at conferences and other external fora.
+
+ All research students are allocated two supervisors and a research development advisor from
+ the full-time academic staff. This allows them to draw directly on complementary academic skills
+ and supports the spread of best practice. Students meet regularly with their supervisory team
+ and at least eight such meetings per annum are formally recorded. This enables a student’s
+ progress to be closely monitored. Progression is a formal process with four major reviews: one
+ after four weeks of enrolment and then after nine, 20 and 30 months from enrolment. The four-
+ week review is to ensure full engagement of the student in the doctoral programme. Each
+ subsequent review has clearly defined objectives and the student is guided towards completion
+ through a structured and documented process. For the nine, 20 and 30 month reviews, the
+ student submits thesis chapters and/or draft papers, which are appropriate for their expected
+ stage of research. These documents form the basis for a review at the progress panel consisting
+ of two independent members of staff, one of whom acts as a chair, and the student’s second
+ supervisor or research development advisor. The panel can also be attended by the first
+ supervisor as an observer. Outcomes and planned deliverables since the previous review are
+ assessed in each review and suitable new targets towards the next review (or the submission
+ timeline) are agreed, as appropriate. The process is fully documented and, should the progress
+ of any student provide a cause for concern, appropriate support mechanisms are put in place.
+
+ The programme of training as well as supervisory support provided for research students is
+ monitored through regular meetings of the PGR Student-Staff Liaison Committee at College
+ level and by the Director of Postgraduate Research. Feedback from doctoral students indicates
+ a high level of satisfaction with the Department’s support in their learning and progress in
+ research. The success of our PhD programme is evidenced by the high number of PhD
+ graduates attaining excellent careers in industry and academia. Recent examples include Dr
+ Mukhamedov (2018) who is Head of Software Development at Minimax Labs UK, Dr
+ Haselimashhadi (2017) who is Senior Data Scientist at European Bioinformatics Institute, U.K.,
+ Dr Islyaev (2015) who is a manager of Quantitative Advisory Service at EY UK, Dr Hakim (2014)
+ who is a Lecturer in Mathematics at the University of Exeter and Dr Portillo (2016) who was a
+ Senior Lecturer at Oxford Brookes University before recently moving to Loyola University in
+ Spain. Besides, several doctoral students were employed by and funded by overseas
+ universities and have secured career enhancement through their doctoral completion: Dr
+ Allahyani (2018), Dr Alwohaibi (2018) and Dr Kalkatawi (2017) are all members of academic
+ faculty at King Abdulla University in Saudi Arabia whereas Dr Alkenani (2013) is now a College
+
+
+                                                                                            Page 9
+Unit-level environment template (REF5b)
+ Dean at the University of Al-Qadisiyah, Iraq and Dr Hashem (2017) is a lecturer and Head of
+ Department at the University of Duhok, Iraq.
+
+ iii. Equality and Diversity
+ Brunel, as a research-intensive university, is submitting 100% of all eligible academic staff. We
+ followed the processes set out in our Code of Practice for the fair and transparent identification
+ of independent researchers and to ensure that the submitted outputs provided a balanced and
+ unbiased representation of the work of our diverse academic community, their characteristics
+ and contractual positions (age, disability, ethnicity, gender, part-time workers and fixed-term
+ employees). Output selection was monitored through regular Equality Impact Assessments.
+ In 2012 Brunel received an Athena SWAN Bronze award for its efforts towards promoting equal
+ opportunity for women in science-related subjects (of which Mathematics is a major part at
+ Brunel), and this award was successfully renewed in 2017. Brunel was also recognized as one
+ of the pioneering employers for shared parental leave by Working Families charity in 2015. The
+ University ethos, as recognised through the accolades mentioned above, is strongly evident
+ within the Department which is committed both to the development and support of staff in line
+ with the University’s Concordat and to equal opportunity for women. The Department’s
+ commitment to equality extends to all staff, from contract research staff, early career researchers
+ and newly recruited staff to more established faculty members. Brunel’s Equality Impact
+ Assessment for the Department indicates that the outputs submitted are a well-balanced
+ representation of the protected characteristics and contractual positions of staff. For example,
+ our submission has: 11% staff of Asian ethnicity contributing 17% of the outputs; 30% female
+ staff contributing 28% of the outputs and 11% staff aged 30-39 contributing 12% of the outputs.
+
+ The promotion process in the university is subjected to an annual Equality Impact Assessment,
+ and the University organises workshops, led by the University Equality and Diversity Champion,
+ to support all those intending to apply for promotion. The Department is a member of the LMS
+ Good Practice Scheme. Further, a number of new initiatives are implemented in the Department
+ to promote workplace equality and staff wellbeing:
+     1. A detailed workload allocation model is being employed which takes into account
+        individual staff circumstances. Early career academics are given lighter teaching and
+        administrative load to allow them to build a strong foundation for their careers as
+        independent researchers. Dr Kaloghiros used reduced teaching load during her
+        probationary years to invest more time in building a research reputation as well as
+        building a strong case for funding her research, leading to an EPSRC first grant award
+        (£91K, 2017-2019). With strong support from the Department, Dr Kaloghiros was also
+        successful in winning the prestigious Emmy Noether Fellowship award from the London
+        Mathematical Society in 2020, for supporting her research programme while dealing with
+        significant caring responsibilities.
+     2. Days and times of staff meetings are varied to enable participation from those on part
+        time contracts.
+     3. Flexible working arrangements are available for those with caring responsibilities. For
+        example, for a large part of this REF period Dr Vinciotti worked from home from 3pm
+        onwards on each working day due to childcare responsibilities.
+
+ The Department’s commitment to equality and diversity extends beyond its internal boundaries
+ and colleagues are encouraged to seek avenues for international outreach activity in research
+ where mathematics is in disadvantaged position. This is evidenced in the large number of
+ international visitors from the global south during this REF period, including 10 from China and
+ five from Ethiopia. Further, in 2020 Prof. Mikhailov secured a grant from the London
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+ Mathematical Society for mentoring research in mathematics in Ethiopia. Using this grant, Prof.
+ Mikhailov will co-supervise doctoral students and mentor a research group at Adama Science
+ and Technology University, Ethiopia.
+
+ 3. Income, infrastructure and facilities
+
+ Research in the Department broadly consists of two overlapping strands: disciplinary research
+ driven by intellectual curiosity and interdisciplinary research driven by end user needs, the latter
+ typically involving collaborators from industry and from other academic disciplines. Both these
+ strands underpin excellence in the quality of research outputs and in research impact.
+ Accordingly, the Department’s research income strategy focusses on securing appropriate
+ resources for supporting both strands of research. Sources targeted for research income
+ generation include initiating and nurturing research collaborations with industry, UKRI funding
+ (including area-specific calls) for disciplinary research and funding from charities such as the
+ London Mathematical Society and the Royal Society for international collaboration and
+ networking events. There is a process of internal peer review in place to enable high quality
+ applications. Research funding applications and success in income generation form an integral
+ part of annual review of performance. The Department had significant successes in terms of
+ funding for individual disciplinary research projects during this REF period, as evidenced by
+ EPSRC research grants for Dr Kaloghiros (£91K, 2017-2019), Prof. Mikhailov (£181K, 2015-
+ 2018) and Dr Virmani (£188K, 2013-14). In terms of industrial research, Prof. Yu has been
+ successful in winning industry funding for research on statistical tools for condition monitoring of
+ mechanical structures, and his work on pipeline corrosion forms the basis of one of the
+ Department’s impact case studies. Colleagues in the Department have also secured a steady
+ stream of grants for international collaborations and networking events such as workshops and
+ conferences; notable grants include support from the London Mathematical Society for holding
+ Random Matrix Theory workshops (2014, 2016, 2018 and 2020) and individual grants for
+ significant overseas collaboration by Dr Date (EPSRC) and Dr Winter (London Mathematical
+ Society). The total value of the research grants awarded (excluding the DTP grants) over this
+ REF period was £1.32 million.
+
+
+ The Department’s research is well supported by the University’s infrastructure, which
+ incorporates the graduate school (discussed earlier), the library and the Research Support and
+ Development Office (RSDO). The University library holds over 232,000 book titles and
+ subscribes to approximately 109,500 unique journal titles, of which over 97% are available in
+ electronic form. All major research journals relevant to the Department are freely available
+ electronically (both on and off campus). These are supplemented by a print collection of back
+ issues of journals. Within the entire University collection there are approximately 8600 books,
+ 13,000 e-books and 4000 journals of direct relevance to the Department.
+
+ The university library provides dedicated space for postgraduate students and academic
+ researchers including an IT room that is open 24 hours a day, 7 days a week. The library
+ provides access to an impressive range of specialised databases including financial and
+ statistical ones such as: Bankscope, Bloomberg, Datastream, FAME, IFS online and Reuters
+ 3000Xtra. More generally, it offers access to, for example, the Web of Science (WoS), Scopus,
+ BRAD and BURA. The university’s research database, BRAD (Brunel Research Database),
+ provides a comprehensive record of publications for all staff. BRAD automatically finds new
+ publications from databases such as WoS/Scopus and updates staff research profiles/web
+ pages on the University website.
+
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+
+
+ University-wide support in negotiating contracts and planning/preparing research proposals and
+ knowledge transfer partnerships is provided by RSDO. Further, through its e-Newsletters and tri-
+ annual internally published research magazine, RSDO promotes funding opportunities and
+ circulates Brunel research news and key achievements.
+
+ In addition to the university-wide facilities outlined above, all departmental staff and research
+ students have a dedicated PC each, with internet access and shared access to a number of
+ Laser printers. A range of appropriate software (e.g. C++, Latex, Microsoft Office) is provided as
+ standard. Specialised packages are provided either as an individual licence or via a shared
+ licensing system. The main statistical packages are S-PLUS and R whilst Mathematica and
+ MATLAB (for which the University holds a site-wide licence) are extensively used by the applied
+ mathematicians. Mathematical programming is facilitated by modelling languages AMPL and
+ MPL, solvers Cplex, FortMP, FortSP and development environment AMPLdev. For
+ computationally intensive applications, the Department also has a dedicated Nvidia GPU based
+ high performance computing cluster, with 20 nodes and 6 graphics cards. Additionally, the
+ College is investing a further £46,000 in enhancing the HPC capabilities in the Department,
+ which will gain 8 more nodes and 2 new GPU cards for the computing cluster in 2021. This
+ investment will assist the ongoing research in the Department on solving computationally
+ intensive inverse problems in PDEs and in the use of machine learning for risk measurement in
+ very high dimensional financial datasets. The Department also hosts the well-known OR-library
+ website (http://people.brunel.ac.uk/~mastjjb/jeb/info.html). This site holds test data for a wide
+ variety of OR problems and is used by researchers world-wide. The full-time Departmental
+ Computing Officer maintains the equipment and provides user support.
+
+ The research of each group is supported by the University’s seminar series funding, which
+ allows the Department to organize a series of seminars of outstanding researchers (from both
+ academia and industry; from the U.K. as well as from abroad) for each group, reflecting their
+ current research interests. In this REF period, the Department has been allocated £27,100 by
+ the University for holding seminars. In addition, the Department uses its own funds for
+ supporting occasional seminars throughout the year, e.g. for inviting eminent overseas
+ academics to Brunel while they are visiting the U.K.
+
+ The Department moved to its new premises in 2017 where most of the faculty are located in
+ individual offices on the same floor. The Department has a dedicated common room for informal
+ research meetings, a seminar room and a dedicated office space for academic visitors. More
+ than £50,000 has been spent on refurbishment of these premises.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ As mentioned in Section 1, the Department has nurtured key industry collaborations with TWI
+ and Optirisk Systems UK, through PGR student sponsorships for projects addressing end user
+ needs. These collaborations have brought multiple benefits to the U.K.’s research base, directly
+ leading to one of the unit’s impact case studies on pipeline corrosion and also providing several
+ highly trained researchers now working in industry. Among PhD graduates from this REF period
+ who were directly funded by industry, Dr Sadik (2018, funded by Optirisk Systems) works as a
+ quantitative researcher at Optirisk Systems whereas Dr Arteche (2017, funded by TWI) is Senior
+ Project Manager at Paraxel, Nottingham.
+
+
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ Apart from its direct collaboration with industry, the Department has made significant contribution
+ to the U.K.’s research base through its participation in multi-university doctoral training courses.
+ In keeping with its strategy to facilitate world leading research, the Department puts great
+ emphasis on high quality training for doctoral students, and encourages its faculty to contribute
+ to training for doctoral students both within Brunel and in the broader academic community.
+ Within the U.K., the Department has been an active partner in multi-university doctoral student
+ training centres such as NATCOR and the LTCC. Dr Date has contributed to a NATCOR course
+ on Convex Optimization in 2014 and 2016 whereas members of MPAM and ANA (Savin,
+ Smolyarenko, Furter, Maischak, Kaloghiros) have taught a total of 10 doctoral courses at the
+ LTCC in this REF period.
+
+ The Department also has a strong record of building sustained international collaborations,
+ especially with academics in developing countries. This collaborative activity is helped by the
+ Department’s truly international profile – the faculty represents 11 different nationalities including
+ the U.K. In this REF period, the Department welcomed 39 different academic research visitors
+ from all over the world. As mentioned earlier in section 2, a large proportion of visitors were from
+ the global south, including 10 visitors from various universities in China. Collaborative research
+ generated through these visits encompasses diverse topics, ranging from economic data
+ analysis of tourism in China (Yu) to study of problems in boundary-domain integral equations
+ (Mikhailov). Funding from these visits came from various sources, including the EU, the London
+ Mathematical Society and the Royal Society. The extent and depth of academic influence of the
+ Department is reflected in the authorship of publications; during this REF period, the members of
+ this Department have published refereed articles involving a total of 61 co-authors based in 20
+ different countries including the U.K.
+
+ Apart from collaboration with overseas scholars and groups, the Department’s international
+ profile offers scope for conference organisation which, in turn, ensures that the Department’s
+ contribution to the wider research base is recognised across the international audience. The
+ following major conferences have been hosted at Brunel in this REF period:
+      • The ANA group organizes the triennial international conference on Mathematics of Finite
+         Elements and its Applications (MAFELAP) at Brunel, as they have been doing for nearly
+         50 years now. This conference had over 350 delegates from more than 25 countries,
+         both in 2016 and 2019.
+      • The MPAM group co-organizes the annual Brunel-Bielefeld workshop on Random Matrix
+         Theory and Applications, which is hosted at Brunel and Bielefeld (Germany) in alternate
+         years. Each of the four workshops hosted at Brunel during this REF period (2014, 2016
+         2018 and 2020) were partially funded by the London Mathematical Society and attracted
+         around 70 participants from across the world.
+      • The FOR group organized an LMS funded invited lecture series on Functional Calculus
+         and Fractional Stochastic Calculus, including Rough-Paths, with Applications, in summer
+         2020.
+      • The SDS group organized three major international workshops during this REF period: a
+         workshop on Methods for Big Data in 2016, a workshop on Modern Statistical Methods
+         for Health and Environment in 2017 and a workshop on Statistical Network Science in
+         2018. Each of the three workshops attracted 50-60 participants.
+
+ Besides hosting conferences at Brunel, various members of faculty contribute to program
+ committees of significant academic conferences hosted elsewhere:
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+    •   Prof. Langdon is a co-organizer of a meeting on ‘Scattering and Propagation of Waves:
+        Theoretical and Computational Challenges’, to be held at the University of Reading as
+        soon as circumstances permit (originally scheduled for Summer 2020).
+    •   Dr Kaloghiros is on the steering committee of the algebraic geometry seminar series
+        since 2018. This series consists of two to three seminars per term across different
+        universities in England, with each seminar attracting between 25 and 40 academic
+        researchers. Dr Kaloghiros has won competitive funding from the London Mathematical
+        Society to host these seminars in 2020-21. In addition, Dr Kaloghiros was a co-organizer
+        of British Algebraic Geometry meeting at the University of Liverpool (2019). This meeting
+        had around 120 participants and had a Fields medallist (Prof. Birkar) as an invited
+        speaker. Dr Kaloghiros remains a co-organizer of the next meeting in September 2021 at
+        Imperial College London.
+    •   Prof. Mikhailov was a member of the steering committee for the International Conference
+        on Integral Methods in Science and Engineering (IMSE), St. Petersburg, Russia (2020);
+        Brighton, UK (2018); Padua, Italy (2016).
+    •   Dr Smolyarenko is on the program committee for the 9th International Conference on
+        Complex Networks and their Applications, Madrid, Spain (2020).
+    •   Dr Savin was a co-organizer of the International Conference on Random Matrices and
+        Determinantal Process, Center for International Research in Mathematics, Lumini,
+        France (2017).
+    •   Dr Date was a member of the program committee of the Symposium on Quantitative
+        Finance and Risk Analysis, Korfu, Greece (2017).
+    •   Dr Vinciotti was the program chair for IDA 2014 at Leuven, Belgium and was the
+        organizer of the workshop on Network Science and its Applications, Isaac Newton
+        Institute, Cambridge (2016).
+    •   Prof. Yu was a member of the program committee for the first International Conference
+        on Big Data and Applied Statistics, Beijing, China (2014).
+
+ The significance of research contributions of some of the colleagues in the Department have
+ also been recognised by invitations for keynote or plenary lectures at major international
+ conferences:
+     • Prof. Yu gave plenary lectures at the International Conference on Data Science, Machine
+        Learning and Statistics, Van, Turkey (2019) and at the First International Virtual
+        Conference on Statistics, University of Al Qadislyah, Iraq (2020).
+     • Dr Date gave an invited lecture at the International Webinar conference on Leading Your
+        Business through Economic Crisis, MS University Baroda, India (2020).
+     • Prof. Mikhailov gave a plenary lecture at EUROMECH Colloquium 577, Stuttgart,
+        Germany (2015).
+
+ The contribution of the Department to the international research base extends to assisting with
+ evaluation of research funding applications, both globally and in the U.K.:
+    • Dr Virmani and Prof. Yu are both on ESF College of Experts. Dr Virmani is also a
+        frequent member of Irish government outer board for research proposal evaluation.
+    • Dr Date is a proposal evaluator for the National Science and Engineering Research
+        Council (Canada).
+    • Prof. Yu is a proposal evaluator for the Medical Research Council as well as the
+        European Science Foundation.
+    • Dr Vinciotti is a member of the Swedish Research Council evaluation panel for
+        mathematics.
+
+                                                                                           Page 14
+Unit-level environment template (REF5b)
+    •   Prof. Langdon is a panel member for the Quarterly Journal of Mechanics and Applied
+        Mathematics (QJMAM) Fund for Applied Mathematics.
+
+ In addition, Prof. Mikhailov and Dr Virmani are full members of the EPSRC peer review college,
+ and Dr Boguslavskaya, Prof. Langdon, Dr Shaw and Prof. Yu are associate members of the
+ EPSRC peer review college.
+
+ The Department also features prominently in terms of contributing to editorial work for scholarly
+ international journals in mathematics.
+     • Prof. Yu and Dr Vinciotti are both Associate Editors of the Journal of the Royal Statistical
+         Society, series A. Prof. Yu is also an Associate Editor of Statistics and Its Interface.
+     • Dr Date is an Associate Editor of IMA Journal of Management Mathematics.
+     • Dr Winter is an Associate Editor of Abstract and Applied Analysis.
+     • Prof. Mikhailov is an advisory Editor of the journal Mathematical Methods in the Applied
+         Sciences.
+     • Prof. Whiteman has been joint Editor in Chief for Numerical Methods for Partial
+         Differential Equations until December 2019 and is currently Emeritus Editor of this
+         journal.
+     • Dr Shaw is a member of the editorial board for Differential Equations and Dynamical
+         Systems.
+
+ Many members of staff have high h-indices, reflecting their lifelong impact on and contribution to
+ the discipline. For the submitted faculty in this UoA, the average of WoS h-indices is 8.96, with 8
+ members of staff having h-indices of 13 or above. The international standing of some of the
+ colleagues in the Department is also reflected in various fellowships from esteemed institutions:
+     • Prof. Yu is a Fellow of the Royal Statistical Society.
+     • Dr Date and Dr Shaw are both Fellows of the Institute of Mathematics and its
+         Applications.
+
+
+
+
+                                                                                             Page 15
+

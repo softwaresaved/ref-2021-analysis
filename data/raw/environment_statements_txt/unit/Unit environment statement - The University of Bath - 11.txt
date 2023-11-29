@@ -1,0 +1,904 @@
+Unit-level environment template (REF5b)
+
+ Institution: University of Bath
+
+ Unit of Assessment: 11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ The Unit of Assessment (UoA) provides a vibrant, inclusive, supportive and effective
+ environment for a broad range of computer science research. Highlights during this REF period
+ include:
+ Recruitment of excellent staff in areas of strategic importance, with 38% growth in the staff
+ base and establishment of critical mass in Machine Learning and Artificial Intelligence since
+ 2014;
+ Capture of significant funding to support research, totalling over £25M in awards, including
+ a recently established UKRI Artificial Intelligence CDT, a further CDT in Digital Entertainment,
+ and an EPSRC/UKRI Digital Economy Centre;
+ Investment in physical and technical infrastructure, worth over £8M, providing a newly
+ refurbished building housing the UoA, new research labs, dedicated high performance
+ computation servers, and a new off-site space for engagement with industry; and
+ A collegiate and supportive environment that nurtures, recognizes and rewards the effort
+ of our staff to deliver high quality research with impact.
+
+
+ Structure
+ For this exercise, the Unit of Assessment coincides with the Department of Computer Science;
+ note that at previous exercises this UoA has returned staff from other departments at the
+ University.
+ The UoA is structured in four groups:
+        •   Artificial Intelligence (AI): classical and statistical approaches to the creation,
+            application and evaluation of intelligent machines and their integration into larger
+            systems and society;
+        •   Human-Computer Interaction (HCI): theoretical, empirical and practical aspects of the
+            design, development and evaluation of interactive systems to support activities of
+            individuals and groups;
+        •   Mathematical Foundations: using mathematics to understand programs,
+            programming languages, systems and their components, and developing systems to
+            do mathematics;
+        •   Visual Computing: automatic interpretation of photographs and videos and
+            recombination with graphic elements, with applications in graphics, films, games and
+            the entertainment and education industries.
+ We lead several funded research centres that enhance the cross-disciplinary and industry-facing
+ focus of work in the UoA:
+        •   CAMERA, the Centre for the Analysis of Motion, Entertainment Research and
+            Applications: an EPRSC-funded Digital Economy Research Centre, hosting work
+            combining visual computing with health and sports science research, funded in 2015,
+            renewed in 2020;
+        •   ART-AI, the UKRI Centre for Doctoral Training in Accountable, Responsible and
+            Transparent AI, funded in 2019;
+        •   CDE, the EPSRC Centre for Doctoral Training in Digital Entertainment, founded in
+            2009 and re-funded in 2014.
+
+
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+ Organisation
+ Research in the UoA is overseen by the Department of Computer Science Research Committee,
+ chaired by the Director of Research, who sits on the Department Executive. Each group is
+ represented by a group lead, appointed by the Head of Department. Current group leads are all
+ mid-career (Senior Lecturer or Reader) level. Impact is overseen by an Impact Director.
+ Research infrastructure development is managed by the Computing Liaison Committee,
+ including our technical team; the academic chair of this Committee sits on Executive.
+
+
+ Objectives and strategy
+ The development strategy indicated in REF2014 focused on the establishment of expertise in
+ Machine Learning, with the goal of delivering a coherent spectrum of research strength drawing
+ together all our groups and reflecting a significant refocusing of our research direction,
+ consistent with our achievements and strengths but looking towards future applications in both
+ fundamental research and impact delivery. Particular synergies between AI, HCI and Visual
+ Computing were envisaged. These goals have been achieved. We have built on preexisting
+ strengths in Computer Vision to recruit new staff in Machine Learning; we have grown the
+ department by 38%. This growth, guided by a proactive approach to equality, diversity and
+ inclusion, has increased the diversity of our academic staff as detailed in Section 2 below.
+ Sustainability is underpinned by income from strong MSc provision and buoyant undergraduate
+ recruitment.
+
+
+ Synergies between AI, Visual Computing and HCI are already coming to fruition, within the
+ University (where they are key in nurturing interdisciplinarity) and more widely, including
+ internationally. We have established two interdisciplinary research centres: REVEAL, the Real
+ and Virtual Environments Augmentation Labs centre, directed by Lutteroth, which hosts
+ collaboration between staff in the Departments of Computer Science and Psychology and the
+ Department for Health; and MAD, the Centre for Mathematics and Algorithms for Data, co-
+ directed by Campbell, supporting collaborations with staff from Mathematical Sciences. The
+ ART-AI CDT further expands this interdisciplinarity and international reach, with partners in
+ institutions in 10 countries. Submitted outputs include collaborations with researchers at
+ prestigious institutions across Europe (e.g. Paris 7, Max Planck Institute, TU Darmstadt, TU
+ Munich) and worldwide (e.g. Berkeley, Stanford, MIT, Princeton, Tsinghua, Auckland, IIT
+ Hyderabad).
+
+
+ UoA Research Groups
+ Artificial Intelligence (Chen, De Vos, Golbabaee, Haines, Isupova, Li, Padget, Şimşek)
+ The AI group has expanded significantly since REF2014 (from 2.3 to 8 FTE, with further
+ recruitment in progress), substantially increasing the capacity and breadth of AI research in the
+ Unit. From a primary focus on AI ethics, multi-agent systems, knowledge representation, and
+ reasoning, the staff additions to the group, mostly Early Career Researchers (ECRs), work in
+ machine learning and its intersection with fields such as robotics and natural language
+ processing. Our expertise in AI ethics and our increased research capacity underpinned Bath’s
+ successful bid for the UKRI Doctoral Training Centre for Accountable, Responsible, and
+ Transparent AI (ART-AI). The group is currently working towards enabling the establishment of
+ the research identities of its ECRs as well as developing strength and collaborations around
+ areas such as Bayesian machine learning (Haines, Chen, Isupova), reinforcement learning
+ (Simsek, Li, Namboodiri), and knowledge representation and reasoning (Padget, de Vos), with
+ questions around AI ethics, transparency, responsibility, and accountability deeply embedded in
+ all research.
+
+
+ Human-Computer Interaction (Alexander, Fraser, Jones, Lutteroth, O’Neill, Payne, Watts)
+ The HCI group’s research includes innovation in the areas of immersive, virtual and augmented
+ reality technology; mobile, wearable and ubiquitous computing; fabrication of functional devices;
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ and social computing. The group broadly studies the relationship between people and new
+ interfaces and technologies in order to generate theory for the field and positive user
+ experiences for the real world. Much of the work of Jones, Lutteroth, O’Neill and Watts is
+ directed towards digital healthcare monitoring, interventions and assistive tools, such as gaze-
+ based interactions and the use of VR in Exergaming and patient rehabilitation. Alexander and
+ Fraser bring a hardware-directed focus, including work on fabrication, wearable devices for
+ gesture detection, tangible interfaces, and shape-changing displays. A strong indicator of the
+ international excellence of the HCI group at Bath is its consistent presence at the largest and
+ most prestigious international conference, the ACM Conference on Human Factors in
+ Computing Systems (CHI). The group stands amongst the top 40 institutions worldwide by
+ number of publications at CHI, each year from 2017-2020. Fraser holds an EPSRC Fellowship
+ and Alexander holds an ERC Starting Grant.
+
+
+ Mathematical Foundations (Bradford, Davenport, Guglielmi, Heijltjes, Laird, McCusker, Powell,
+ Vorobjov)
+ The Mathematical Foundations (MathFound) research group has a dual focus on Logic and
+ Semantics (Guglielmi, Heijltjes, Laird, McCusker, Powell) and on Computer Algebra (Bradford,
+ Davenport, Vorobjov). The group prizes highly original and creative research and promotes the
+ ongoing UoA focus on excellence in fundamentals. The Logic and Semantics team are well
+ known for the Deep Inference project of Guglielmi, a broad and highly successful re-imagining of
+ the entire field of structural proof theory, and for work in proof nets (Heijltjes), denotational
+ semantics (McCusker, Laird) and applied proof theory (Powell). An emerging theme across
+ Logic and Semantics is the use of graphical reasoning techniques (proof nets, string diagrams.)
+ Work is regularly published in the top conferences in the field (LICS, CSL). In Computer Algebra,
+ a focus is the technique of Cylindrical Algebraic Decomposition, which can be used to tackle
+ quantifier elimination problems and satisfiability modulo theories, with many applications in
+ verification. Bath research has been incorporated in the Maple computer algebra tool, one of the
+ internationally most respected general-purpose computer algebra systems.
+
+
+ Visual Computing (Campbell, Cosker, Hall, Namboodiri, Richardt, Yang)
+ The visual computing group conducts research at the intersection of Computer Vision and
+ Computer Graphics, with overlapping interest in Machine Learning and Human-Computer
+ Interaction. The group’s high-quality research is regularly published in top venues, including 10
+ papers in the flagship ACM Transactions on Graphics in this assessment period as well as over
+ 20 papers in leading vision conferences CVPR, ECCV and ICCV. Illustrative achievements
+ include Campbell and Li’s Roto++ accelerated rotoscoping tool (SIGGRAPH 2018); Cosker and
+ Richardt’s advances in unsupervised image-to-image translation (NeurIPS 2018); and
+ Namboodiri’s work on speech-to-lip generation (CVPR 2020). Cosker is the director of the
+ CAMERA centre; Hall directs the Centre for Digital Entertainment; Cosker and Campbell
+ received Royal Society Industry Fellowships and Richardt holds a UKRI Innovation Fellowship.
+
+
+ This growth and focus within the UoA supports our broad strategic aims:
+
+
+        •   to conduct rigorous research in the theory and practice of computing, leading to the
+            advancement of knowledge, encompassing both deeper understanding and more
+            effective application of theories and techniques in computing;
+        •   to train and develop researchers in computing to ensure the continued advancement
+            of knowledge;
+        •   to disseminate the results of our research to stakeholders worldwide, including
+            academia, industry and government, and to engage with them to deliver impact and
+            develop insight.
+
+
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+ Strategic development over the next five years will assist the UoA in delivering on these aims.
+ Our significant growth has developed a cohort of early career academics centred around AI and
+ Machine Learning but spanning across all our research groups. The excellent work that this
+ cohort are contributing to this REF demonstrates the potential for an exciting new generation at
+ Bath. Our future strategy is to nurture a new departmental culture and identity from the shift of
+ focus brought by this cohort. We are excited to enable our ECRs to establish themselves both
+ individually and as contributors to the cohesive spectrum of work we do. As we embrace these
+ developments we will take steps to enhance our long-term aspirations, our multi-institutional and
+ multinational activities, and the impact of our research in tackling major societal challenges, as
+ follows.
+
+
+   •   Refining Research Culture. We have put in place a series of cohort-building and peer
+       mentoring schemes to enhance the culture we encourage in our ECRs: focus on research
+       that matters, prizing quality over quantity, leading to academic, societal and economic
+       impact. Our development activities provide an opportunity for mid-career and senior
+       faculty to mentor and lead. We emphasise long-term character, exemplified by existing
+       foundational activities such as Deep Inference, and sustained application through our
+       larger centres such as CAMERA.
+   •   Growing International Focus. Increasing emphasis on longer, larger collaborative
+       projects requires a more outward facing attitude within and beyond the UK, leading and
+       participating in teams between institutions where appropriate. It is a timely moment to
+       consolidate links to partners in North America, Europe, and emerging new regions of
+       strength in Computer Science. To support this goal, we will significantly enhance our
+       international outreach, by championing enhanced provision of sabbaticals, visitor
+       programmes and involvement in major conference organisation. A step change in our
+       social media presence will be enabled by employing a new designer, embedded in our
+       research team, to create online materials communicating our work and to prototype ways
+       of visualising and communicating research ideas as they develop. This will target this
+       work to online tech communities, instructables, industrial forums and showcases.
+   •   Joining Up Impact. To ensure our impact network can accommodate larger scale
+       planning and thinking, we will invest in making industrial opportunities greater than the
+       sum of the parts across our portfolio. Our successful network includes numerous CDT
+       partners, large-scale industrial work through centres such as CAMERA, student-facing
+       activities such as prominent industrial placements at Bath, our significant alumni
+       community, and the SetSquared spinout incubator and wider entrepreneurship networks.
+       The Impact Director’s role will be extended to take overall responsibility for all these
+       activities, supported by a new impact committee with dedicated budget. We will continue
+       to build infrastructure to support broader cross-disciplinary teams, with a second
+       materials-focused hackspace currently under construction to enhance collaboration
+       between computer science and engineering partners.
+
+
+ Approach to Impact: Activities, Case Studies and Future Opportunities
+ The approach to delivery of impact in the Unit centres around an increasing culture of co-
+ creation of research and impacts in partnership with industry and third sector organisations. We
+ recognize the enabling nature of computer science work, and during the REF period have been
+ increasingly creating the conditions for our refocused research growth and excellence to have
+ impact by:
+        •   developing close, long-term relationships with research users, exemplified in the
+            Impact Case Studies on Design and Evaluation of Digital Technologies and on
+            Artificial Intelligence & Ethics. Our staff and research students (notably our CDE
+            EngD students) undertake secondments and placements with industry partners; staff
+            from the Unit have been continuously on secondments throughout the assessment
+            period, building on a long history of such relationships with Vodafone, DSTL,
+            Foundry, DNEG, HP Labs and others; research student placements are detailed
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+            below. As an example, Campbell’s Royal Society Industrial Fellowship delivered a
+            Rotoscoping tool (Roto++), developed with partner The Foundry, that has been made
+            freely available for non-commercial use in post-production.
+        •   providing access to our research, its products, and our expertise. Perhaps the
+            highlight here during the REF period is the ready access to our visual computing
+            research provided via the CAMERA studio’s outward-facing activity, detailed below
+            and exemplified in the Facial Performance Capture and Animation Impact Case
+            Study. O’Neill’s work with the cultural heritage sector has included co-production of
+            interactive museum installations (National Trust, Ruhrmuseum) and running
+            workshops to educate curators in the use and value of digital interactions based on
+            the Unit’s research, while new gaze tracking methods (Lutteroth; actigaze) are
+            enabling users to control electronic devices using their eyes;
+        •   collaborating broadly with researchers in other disciplines. Advances in computer
+            science can lead to impact via incorporation in research led by other disciplines. As
+            detailed briefly above and in more detail in section 4, our UoA collaborates with every
+            Faculty and School at the University of Bath as well as extensively worldwide.
+            Impact-related activities in this area have included motion capture work in
+            rehabilitation (including with amputees) with our Department for Health, and with the
+            UK Skeleton Bob team, with colleagues in Sports & Exercise Science.
+        •   engendering future collaboration through public engagement activity, including
+            local, national and international events and collaborations with the creative industries
+            and arts sectors.
+        •   enhancing the regional digital economy. More recently, the Unit’s influential role in
+            the digital economy (spearheaded by the CAMERA Centre) has been deployed
+            increasingly in the regional context. CAMERA has expanded its facilities into the
+            Bottle Yard Studios in Bristol through a European Structural Infrastructure Fund
+            (ESIF) award, supporting the creative industries sector in the region in collaboration
+            with Bath Spa University, Radium Audio Ltd and Bristol Old Vic Theatre School. The
+            Unit is also a partner in the Bristol and Bath Creative R&D Cluster, a £6.8M regional
+            academic-industrial collaboration established in 2018. The UoA and its strong digital-
+            focused research is key in a number of strategic regional research opportunities
+            being pursued by the University, including the I-START initiative to be located in a
+            new development close to Bath City Centre.
+
+
+ This culture is underpinned by a number of formal, funded activities:
+        •   The Centre for Digital Entertainment (CDE) is an EPSRC Centre for Doctoral
+            Training, founded in 2009 and re-funded in 2014 in collaboration with the University
+            of Bournemouth. Since 2014 the Centre has received £4.6M in EPSRC funding plus
+            investments from industry partners of £700k, and University investment of nine four-
+            year doctoral studentships. Research engineers studying for an EngD in the CDE are
+            placed with industry partners for up to three years. The portfolio or thesis that they
+            submit must demonstrate the impact of their research. Such work underpins a
+            number of impact-generating activities from the Unit, including: O’Neill’s work with
+            Research Engineer and later PDRA De Angeli on digital cultural heritage noted
+            above; Bath research jointly patented with Disney (US2014267306); and a
+            collaboration with CDE partner DNEG, where underpinning Bath research was taken
+            forward by a CDE alumnus and delivered effects that were incorporated into high
+            grossing films including Ant Man and Tenet;
+        •   The CDE’s activities are further amplified by the Marie Skłodowska-Curie action
+            Fellows with Industrial Research Enhancement (FIRE) programme which provided
+            £800k funding to support 10 research fellows pursuing doctoral degrees who again
+            have industrial research engagement embedded in their programme of study. We
+            note that our long-standing culture of extended engagement with industry partners at
+
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+            the PGR and staff levels is complemented by similarly active placement programmes
+            for UG and PGT students, amplifying the reach and range of our partnerships;
+        •   The CAMERA Centre supports development activity to deploy the results of research
+            in industrial applications and engagement with industry to launch further development
+            projects e.g. via InnovateUK funding applications. CAMERA works alongside
+            ImmerseUK, the UK’s immersive technology network, to run workshops promoting
+            the co-creation approach to research and impact with a range of partners. CAMERA
+            is funded to provide consultation and access to technology and expertise free of
+            charge to local SMEs. The ICS on Facial Performance Capture and Animation
+            derives directly from work within CAMERA.
+
+
+ The impact culture in the Unit is supported by the academic role of Impact Director, established
+ during the REF period. The Impact Director has responsibility for nurturing impactful research to
+ delivery and for the documentation of impact. Impact is a standing item on staff and research
+ meetings within the Unit. The Impact Director holds a dedicated budget, devolved from the
+ departmental operating budget, to support activity that promises to lead to delivery, or
+ documentation, of impact. Funds were used, for example, to support interaction between
+ academics and museums and between the Unit and standards committees (Bryson; AI & Ethics
+ ICS).
+
+
+ University-level support is also provided for the delivery and documentation of impact. The
+ Research and Innovation Services (RIS), our research development and support department,
+ has worked closely with all the impact case study authors to elucidate the impact, as well as
+ supporting the project bids (CAMERA, InnovateUK bids, Royal Society Industry Fellowships, etc)
+ that underpin our impactful work. We have accessed the EPSRC-funded Impact Acceleration
+ Account to conduct work taking our research towards impact; in the case of Campbell’s work
+ with The Foundry this led directly to his Royal Society Industry Fellowship. RIS also provides
+ advice and guidance on appropriate protection of Intellectual Property rights, particularly
+ valuable when academics work in partnership with industry.
+
+
+ Approach to Interdisciplinary Research
+ The subject of Computer Science is inherently interdisciplinary. This is reflected in the
+ backgrounds of our academic staff which range across mathematics, engineering and
+ psychology as well as Computer Science. We see no barrier to interdisciplinary work and as a
+ result are leaders of several large cross-disciplinary efforts:
+        •   The CAMERA research centre involves members of the Departments of Computer
+            Science and Psychology and the Department for Health
+        •   REVEAL, the Real and Virtual Environments Augmentation Labs centre, is a Faculty
+            of Science Research Centre for interdisciplinary work on VR and AR led by our staff.
+            Its members include staff from Health, Psychology, Physics, and Engineering
+        •   MAD, the Centre for Mathematics and Algorithms for Data, is a Faculty of Science
+            Research Centre for fundamental and applied work aligned to data science, again led
+            by our staff and bringing together Computer Scientists and Mathematicians.
+        •   Our doctoral training centres in Digital Entertainment (CDE) and Artificial Intelligence
+            (ART-AI) are designed to be interdisciplinary; ART-AI’s leaders are drawn from
+            Engineering, Education and Social and Policy Sciences as well as Computer
+            Science.
+        •   The Institute for Mathematical Innovation (IMI) is one of the University’s flagship
+            Institutes, an outward-facing entity which uses the power of mathematics to address
+            challenges in other areas of activity. We participate in and lead IMI activity: Simsek
+            served as Deputy Director of the IMI; Bryson and Davenport led an IMI thematic
+            semester on AI Ethics; and Chen enjoys a funded IMI secondment,
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+
+        •  The Bristol and Bath Creative Industries cluster is an AHRC funded collaboration
+           between Bath, Bath Spa, Bristol and UWE involving the Computer Science
+           department plus Psychology and AHRC disciplines across the institutions.
+ Many exemplars of the extensive range of collaborative and interdisciplinary work arising from
+ these and other efforts are detailed in Section 4.
+
+
+ Open research environment
+ The Unit benefits from a strong cultural commitment to open research, including open access to
+ publications and open data. This is supported from the highest level in the University. The
+ University of Bath Library was one of the first to establish a permanent data management
+ service. This mature service supports Computer Science researchers in the planning, curation,
+ preservation, and publication of research data, software and data access statements. Our
+ expectations on researchers are aligned with the Concordat on Open Research Data and the
+ FAIR principles and set out in our internationally recognised Research Data Policy. To
+ implement this, we provide managed data storage to all research projects. These measures
+ have allowed us to publish experimental data as supplementary material to papers e.g. in HCI.
+ We also take advantage of external services such as GitHub to make source code available,
+ enabling reproducibility of our work. Within the unit, local code and data repositories are
+ maintained for sharing across our research community. Our Doctoral Skills training provision
+ includes courses on research data handling, analysis and management. Information Security
+ Awareness training is also provided by the University and is mandatory for all staff.
+
+
+ The Library’s Open Access Team supports researchers in ensuring their research can be made
+ available via open access. The University’s Open Access Publications Deposit Mandate,
+ published in 2011 and updated in 2017, requires full versions of all outputs to be made available
+ via our institutional research repository. The Director of Research receives monthly reports on
+ the open access status of publications; compliance in computer science is typically close to
+ 100%.
+
+
+ Research Integrity
+ Integrity and a proactive approach to research ethics are fundamental to our research culture.
+ The unit has been a national leader in promotion of the consideration of ethical issues around
+ Artificial Intelligence, including our establishment of the ART-AI Doctoral Training Centre. We
+ embed ethics and integrity throughout our work: there is mandatory research integrity training for
+ all staff and research students, and formal documentation of ethical considerations is required
+ for all research projects, including work undertaken by taught students. Scrutiny of these
+ documents is the responsibility of the Department Ethics Committee, with escalation available
+ through the University Ethics committee structures. The Departmental Research Ethics Officer
+ reports to the Research Committee and leads discussion on ethics and integrity at the
+ Departmental Staff meeting.
+
+
+ 2. People
+
+ Staff Development Strategy
+ Mentoring and training
+ Our recruitment and growth strategy rests on attracting and developing ECRs to become the
+ research leaders of the future. New recruits are supported with a bespoke package of funding on
+ arrival. Faculty-funded PhD studentships are also made available. New academic staff are
+ supported throughout a three-year probationary period. Workload is reduced in the first two
+ years and time allocated to a centrally provided development and training course introducing key
+ aspects of teaching, research development and career management, leading to FHEA status.
+ Successful completion is a formal requirement for all probationers. Mentoring is offered to all
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+ staff. Probationary staff have a mentor from the senior staff of the department, nominated by the
+ Head of Department and typically chosen to have related research expertise. Allocation of
+ mentors outside probation is handled by a Mentor Coordinator who works with staff to identify an
+ appropriate mentor for their needs. This has been especially popular with postdoctoral research
+ staff wishing to take an academic career to the next level.
+ An innovation within this unit is our Early Career Lunches, a monthly cohort-building exercise for
+ our early career staff, where issues related to career development are discussed. The sessions
+ are organised and run by the ECRs themselves, with funding from the department; senior staff
+ attend by invitation to provide insight.
+ Staff appraisal is via "Career Conversations", a novel approach centering on the individual
+ academic and their career horizons rather than the traditional annual performance lifecycle.
+ Career conversations focus on strengths and development rather than performance
+ management (handled separately where needed). Senior staff receive dedicated training to
+ conduct these coaching-like conversations.
+ The University offers a broad range of development and training opportunities for all staff; the
+ UoA funds training where the University offering does not cover needs, e.g. for our in-house
+ technical support team. Staff have taken advantage of almost 400 sessions of training during the
+ assessment period, including Project Management, Effective Meetings, Funding Opportunities
+ for Women, and Mental Health and Wellbeing. Within the Unit, annual awaydays provide
+ opportunities for cohort-building and sharing of best practice, including sessions dedicated to
+ development of collaborative research projects.
+ In 2015 the Faculty of Science introduced a series of development programmes for PDRAs,
+ aimed at assisting them to obtain Fellowships or Lectureships. Access to these programmes
+ was competitive across the Faculty. We proposed four candidates, all successful. All have gone
+ on to permanent academic positions: Jones is a member of this UoA; the others hold
+ Lectureships in Management at Bath and in Computer Science at Coventry and Middlesex. For
+ more senior staff, the University’s Academic Leaders Programme recruits 12 staff per year
+ across the University and develops strategic leadership skills over a series of workshops;
+ Cosker, De Vos and McCusker have all taken advantage of this training; De Vos also
+ participated in the Advance HE Aurora programme to develop female academic leaders.
+
+
+ Staffing and recruitment
+ This REF period has seen considerable change in our staffing profile. Of the 24 staff returned in
+ 2014, four retired (H. Johnson, P. Johnson, Power, Willis), two left the UK to take academic
+ posts overseas, and one moved to a commercial position (Brown, to Google). Three staff
+ entered in this UoA in 2014 were not members of the Department of Computer Science and will
+ be returned in other UoAs in this exercise. We have recruited very successfully: new staff are
+ Alexander, Campbell, Chen, Fraser, Golbabaee, Haines, Isupova, Jones, Kim (now at UNIST, S.
+ Korea), Li, Lutteroth, Namboodiri, Powell, Richardt, Simsek, and Yang. This represents net
+ growth of five FTE staff in the UoA since 2014, and an increase of eight staff in the Department
+ of Computer Science, growing from 21 to 29 staff: 38% growth in the Department. Our new
+ staff increase the diversity of the UoA, coming from China (3), Iran, Turkey, Germany (2), S.
+ Korea, India, New Zealand and Russia as well as the UK (5). All our category A staff are on
+ long-term, open-ended contracts.
+ 11 of the staff recruited in the assessment period are in Machine Learning or Visual Computing,
+ implementing our strategy of developing strength in these areas and their interface; a further four
+ are in HCI, again consistent with strategy. Two were recruited at Senior Lecturer level and two at
+ Professor; the remainder were appointed as Lecturer. Our commitment to development of ECRs
+ has led five of these to achieve promotion to Senior Lecturer or Reader in this period. Our
+ strategy has resulted in a more balanced demographic with a range of levels of seniority in all
+ areas. Our quickly-progressing early-career staff influence the running of the Unit: three of the
+ research group leads and the Computing Liaison Committee Chair are among the recent recruits
+ (Campbell, Jones, Richardt, Simsek) and sit on the Department Research Committee and
+ Executive. Further evidence of the quality of our recruitment is that four of the new recruits hold
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ prestigious individual research awards (EPSRC Fellowship, UKRI Innovation Fellowship, ERC
+ Starting Grant, Royal Society Industry Fellowship).
+
+
+ Research leave
+ The University’s sabbatical scheme supports leave of one semester per 3.5 years’ service for
+ staff out of the probationary period. Sabbaticals are awarded on a competitive basis: applicants
+ must demonstrate the value that research leave will bring, for example in developing
+ collaborations, delivering impact, or deepening research. All applications from the UoA have
+ been successful: Bryson - Princeton; McCusker - Paris VI; Guglielmi - Paris VII (12 months),
+ Lutteroth – Auckland; Willis – a number of locations in China and Australia. For opportunities
+ which did not fit this scheme, we have made local arrangements to facilitate extended research
+ visits by reducing teaching and administrative commitments: Laird held a visiting Professor
+ position at Marseille, Davenport a Fulbright Fellowship to NYU.
+
+
+ Industry/academic exchange
+ Secondment to industry is common in the Unit, from research student level up. Our EngD
+ research student cohorts spend significant time embedded with their industrial partners. Formal
+ relationships include P. Johnson’s long-term 0.4FTE secondment to the Defence Science and
+ Technology Laboratory, Campbell’s Royal Society Industry Fellowship which places him with
+ Foundry, a world-leading supplier of software tools to the Post-Production and Creative
+ Industries, and Cosker’s RS Industry Fellowship placing him at DNEG, an internationally
+ acclaimed post-production company that has won four academy awards.
+
+
+ Recognition and reward
+ The University operates a flexible workload model which recognizes the effort required to
+ conduct research and deliver impact. We provide full buy-out for all funded projects, and
+ allocated time for non-funded research and impact work including underlying scholarship and bid
+ development. Our approach to promotion is inclusive and based on transparent criteria. Explicit
+ research- and impact-related criteria reward impact, research recognition, public engagement
+ activity, and major grant capture. The department’s promotion committee actively encourages
+ and develops applications. All staff who have indicated interest in promotion have been
+ supported to develop their applications and all but one application in the period have succeeded.
+ Within the Unit, we actively publicize and recognize success in research outputs and funding
+ bids: staff are publicly congratulated via news bulletins and announcements at staff meetings.
+ The Faculty and University take time to congratulate winners of significant research funding at
+ Faculty Research Committee, at Senate, and via the website. We also recognize the value of
+ preliminary efforts to establish new activity, and make use of departmental funds to seed
+ research projects or investigation of possible avenues for impact.
+
+
+ Research Students
+ Recruitment
+ Our body of research students is growing, with a mean of 11.45 graduations per annum in this
+ REF period, compared to 9 per annum in the previous exercise. Recruitment of research
+ students is a robust process with at least two staff members involved in all decisions, and all
+ offers derived from interviews by a panel of at least two academic staff trained in diversity and
+ unconscious bias. The process is overseen by the University’s Doctoral College. All our
+ advertisements include a statement of our commitment to diversity and particularly encourage
+ female applicants as part of our work towards gender balance. We encourage a diverse range of
+ applications by engaging early with promising candidates and assisting them in preparing their
+ applications, rather than expecting a polished research proposal. Our efforts in respect of gender
+ equality have been successful: our PGR cohort is now 35% female, on a continual rising trend
+ from 23% in 2013/14; this should be contrasted with the UK-wide undergraduate figure of 17%.
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+ In our EngD cohort, 17% has a disclosed disability (vs UK population of adult of working age
+ 19%).
+
+
+ Studentships from major funding bodies
+ Significant studentship funding has been a feature of this UoA for over a decade. Since 2009 we
+ have hosted the EPSRC Centre for Digital Entertainment doctoral training centre, in
+ collaboration with the University of Bournemouth. In 2019 we won £7M funding for the UKRI
+ Centre for Doctoral Training in Accountable, Responsible and Transparent AI (ART-AI), directed
+ by O’Neill. We also hold £800k of funding from EU H2020 for the Marie Skłodowska-Curie action
+ Fellows with Industrial Research Enhancement; research fellows funded under this scheme
+ pursue PhDs in the Computer Science department. In addition to these major awards we hold
+ EPSRC Doctoral Training Partnership studentships.
+
+
+ Monitoring
+ Postgraduate research student progress is monitored via 6-monthly reporting which engages the
+ student, their supervisory team and the PGR director of studies, with scrutiny and
+ support/intervention from the University-level Doctoral College where required. Formal
+ milestones include PhD status confirmation at 12 months, to that ensure students have engaged
+ actively with an appropriate research project and are on course for timely completion. This also
+ requires the completion of our Academic Integrity Training and Test. Support for disabled
+ students is coordinated with the University’s Disability Services who help to produce bespoke
+ Disability access plans for each student in conjunction with supervisors and DoS. A feature of
+ our EngD programme is the placement of students in industry. Students on placement receive
+ pastoral visits to ensure the success of their placement.
+
+
+ Skills support for PGR students
+ The University implements the Vitae Researcher Development Framework, supporting PhD
+ students in areas including research governance, public engagement and impact. We provide a
+ wide range of skills training for PGR students, and encourage and monitor the uptake of training
+ via the regular monitoring reports, with an expectation that all students take 10 days’ training per
+ annum. Areas covered include management of time and career, teaching, communicating
+ research, academic writing, and public engagement. Our Masters level Entrepreneurship module
+ is available for all PGR students and compulsory for EngD students on the HCI route.
+ In the visual computing area, students receive practical training on imaging and motion capture
+ and analysis from the CAMERA team, including training on popular industry tools. CAMERA also
+ has a student technician team who are being trained to perform motion capture and will work on
+ commercial and research projects.
+ The embedding of EngD students in industry allows them to develop relevant skills while
+ conducting their research. Evidence shows that they become highly valuable: one third of EngD
+ graduates gain employment with their host companies.
+ Students are encouraged and enabled to develop organisational skills by running events for the
+ benefit of one another and the department. This includes specialist reading groups and seminar
+ series, and larger events such as the annual PGR student conference in Computer Science.
+ This typically includes events centred on preparation for a career, e.g. keynote talks from
+ graduated PGR students on their early career experience. Until 2020 the monthly department-
+ wide seminar was run by and for our PGR students. The Doctoral Training Centres coordinate
+ buddying and mentoring between research students, both to support newly arrived students and
+ to develop the leadership skills of the more established ones.
+
+
+ Equality and Diversity
+ We are working actively to increase equality and diversity throughout our research environment,
+ recognizing in particular a historic gender imbalance in the subject and our UoA. We have a
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+ departmental Equality, Diversity and Inclusivity committee, who also oversee our Athena SWAN
+ submission and monitoring; we were awarded Athena SWAN Bronze in 2015. The ART-AI CDT
+ has its own ED&I committee. Partner companies of ART-AI demonstrate their commitment to
+ diversity by signing up to the Tech Talent Charter. Our own commitments and initiatives include
+ the following.
+
+
+ In recruitment we ensure a gender balance on all recruitment panels and insist that members
+ are trained in recruitment policy and about unconscious bias. Should an all-male shortlist arise
+ from a selection process, this must be justified in writing by the panel. All job advertisements
+ contain wording describing our commitment to equality and encouraging female applicants. We
+ have engaged a professional copy-writing service to make our advertisements more accessible
+ and have positive (anecdotal) evidence from applicants that this is effective. Monitoring of the
+ diversity of our recruitment processes indicates that since January 2019, of the 30 positions in
+ Education and Research filled in the department (including teaching positions and PDRAs) the
+ gender balance is exactly 50-50. We support staff in taking parental leave including shared
+ parental leave. Staff are supported throughout their leave with “Keep in touch” days and on
+ return to work by considered management of their workload to ensure a smooth return to work
+ and to active research. We negotiate bespoke contracts and working arrangements for staff
+ wishing to work part-time or flexibly, for example enabling remote working (including teaching)
+ for a staff member whose family commitments moved them away from Bath (pre-Covid). To
+ accommodate the needs of staff with childcare or other caring responsibilities, it is our policy that
+ all formal meetings are scheduled within core hours 10am – 3pm. Staff may request particular
+ hours of the day or week to be blocked out of their timetables to accommodate caring
+ responsibilities. We have offered fully-funded short-term childcare to enable researchers with
+ care responsibilities to attend a research workshop held at Bath.
+ We actively support staff and research students with disabilities, including the installation of
+ a bespoke automatic door for a PDRA with reduced mobility and specialized office furniture and
+ IT hardware to accommodate physical needs for several staff; we develop personal evacuation
+ plans for disabled users of our building and provide training on how to approach assistance dogs
+ for all staff.
+ To address gender and generational barriers to career progression, we promote role models
+ including the award of an honorary degree to Gillian Arnold, former chair of BCSWomen and
+ now BCS Vice-president; and run transparency events to demystify the University’s promotion
+ and progression routes.
+ In preparing our REF submission we adopted consistent, transparent and accountable
+ processes, conducted in an inclusive manner in accordance with our institutional values and
+ policies, including Equality and Diversity policies and the University’s Code of Practice. Staff
+ involved in the output selection process undertook appropriate training including a full day
+ session on reviewing outputs for REF. Our process assessed outputs on research quality only.
+ We note that inclusion of an individual’s outputs in the REF submission plays no role in the
+ University’s probation and promotion processes.
+ We encourage a collegiate environment via social events including weekly staff coffee and cake,
+ a corresponding event for PGR students, and an annual (secular) Christmas event.
+
+
+ 3. Income, infrastructure and facilities
+
+ The UoA has benefitted from significant infrastructure investment and increased research
+ income in this assessment period. Since 2014 the Department of Computer Science has
+ occupied an entirely refurbished building in the centre of the University campus. Total
+ University investment in this building was £21M. The building houses individual offices for all
+ academics, shared office space for PGR students and PDRAs, dedicated labs for Visual
+ Computing and HCI work, the CAMERA studio, and labs for our taught students. The HCI lab
+ includes a high-frequency eye-gaze tracker, panoramic screen, and multi-channel video
+ recording system for remote monitoring and recording of user behaviour. The visual computing
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ lab offers a full 3D scanning facility and associated analysis hardware. The CAMERA studio is a
+ state of the art specialized motion-capture studio, with its own technical support manager, and
+ equipment valued around £500k. Facilities include marker-based, markerless, and inertial
+ motion capture, force-plates for kinetic measurement, VR/AR equipment, handheld 3D scanners,
+ face/body 3D capture, 4k video recording, and professional creative software. Beyond this
+ building, a further Maker Lab includes fabrication facilities (laser cutting, soldering, PCB etching,
+ 3D printing) enabling the construction of specialist devices for research including HCI and
+ robotics. From Spring 2021 this will be augmented with an additional 110m2 lab providing new
+ fabrication capabilities to support research projects that involve hardware development and
+ physical prototyping, with equipment investment of £60k from the University. A significant
+ addition to our physical space from Spring 2020 is the establishment of a 600m2 off-campus
+ studio dedicated to engagement with industry associated with the CAMERA project. This
+ new facility, located in the heart of the Bristol-Bath creative quarter at the Bottle Yard, is
+ supported by £900k from the European Structural and Investment Funds, leveraging a further
+ £900k investment from the University. The studio is fitted with equipment valued at £380k
+ including a state-of-the-art motion capture system and instrumented treadmill.
+
+
+ Our shift towards Machine Learning research has led to an increase in computation-intensive
+ work. To meet demand, we established in 2019 an in-house compute cluster, with 20 GPUs,
+ 14TB of solid-state storage and 24TB of magnetic storage. This facility is available to staff, PGR
+ students and appropriate taught students, and has already supported the computation needs of
+ research projects leading to outputs in Machine Learning and Visual Computing.
+
+
+ Fundamental to our strategy on the use of this infrastructure to support research is an inclusive
+ attitude that invites participation from people at all levels, from Professor to Undergraduate. Lab
+ spaces are not owned by particular groups but are available for all appropriate research use.
+ Opening our labs to UG and PGT project use amplifies the research value of University
+ investment and our success in attracting students. Students have contributed to several outputs
+ in this period, across multiple research groups.
+
+
+ Mean annual research income in this assessment period is 60% greater than in REF 2014.
+ Awards supporting research activity total more than £25M in this period. The CAMERA awards
+ are a centerpiece of our current portfolio: CAMERA was inaugurated with a £4M EPSRC award
+ in 2015 and has recently received a further £3.4M EPSRC award and an £880k Horizon 2020
+ award. Research throughout the department is supported by regular funding from a number of
+ sources including the Royal Society, InnovateUK, AHRC, EU H2020 and ERC as well as
+ EPSRC which is our principal funder, and industrial awards from Axa, Google and DSTL. Our
+ two Centres for Doctoral Training received awards of £11.5M in this period. ART-AI has
+ additional funding from industry partners of £380k with a further £438k pledged; CDE has
+ secured £708k of income from industry partners. Our research awards reflect and benefit from
+ the diversity of the UoA. For instance, the group of investigators on the CAMERA awards
+ exhibits diversity across nationality (UK, China, S. Korea, Europe), career stage (Professor to
+ ECR) and gender.
+
+
+ Support for grant proposals
+ We offer support for preparation of funding bids at all levels. Information and analysis of funding
+ opportunities is provided by the Director of Research and by the University-wide Research and
+ Innovation Services, including Department-wide awaydays devoted to analysis of the funding
+ landscape, University-level information days about access to particular funders, and online
+ resources. The Research Committee oversees development of grant proposals and assembly of
+ teams to address funding calls. We work closely with investigators, particularly ECRs on first
+ grants, conduct internal peer review to assure and increase the quality of bids, and organise
+ mock panels and interviews to prepare applicants. Successes include Richardt’s award of a
+ UKRI Innovation Fellowship early in his career with us. Additional support for industrial funding
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+ bids, including InnovateUK, is available from the CAMERA management team; InnovateUK
+ successes include the Rheumatoid Arthritis Flare Up Profiler, a project with the Royal United
+ Hospital, Bath; and the HMC for Augmented Reality Performance Capture with the Imaginarium
+ as well as projects reported in our Impact Case Studies. The increased research power arising
+ from our success in attracting funding in this period has led to a marked increase in research
+ outputs including publications in the prestigious SIGGRAPH and CHI conferences, with multiple
+ Best Paper awards.
+
+
+ Organisational infrastructure to support research
+ The research organisation of the Department of Computer Science is set out above. At Faculty
+ level, the Science Faculty Research Committee comprises an Associate Dean (Research) and
+ the Directors of Research from the departments in the Faculty. It oversees research across
+ Science, including establishing and monitoring the performance of research centres such as
+ REVEAL and MAD. At University level, Research and Innovation Services offer support for grant
+ management, accessing university funds e.g. studentships, equipment funding, and
+ commercialisation contracts including KTPs.
+
+
+ Technical infrastructure
+ Over the REF period the UoA has benefited from two dedicated systems support staff entirely
+ devoted to specialist computer science activity, as distinct from commoditised activity such as
+ email and standard software support. They specify, purchase, install and maintain all research
+ equipment, including the local cloud hardware and a diverse range of machines and devices. An
+ additional technical manager supports the CAMERA motion capture studio.
+ Further support for research is available from the CDE, ART-AI and CAMERA support teams
+ who handle, among other things, the annual Digital Entertainment conference, and support the
+ monthly departmental seminar.
+
+
+ Scholarly infrastructure
+ The University Library is a central part of the scholarly infrastructure supporting the UoA. It offers
+ 24-hour access to its collection of texts and journals, electronic access including IEEEXplore, the
+ ACM digital library and electronic journal subscriptions, and a wide range of support services. Its
+ work in supporting open access and open research has been described above. We make
+ regular use of its research analytics service, to obtain bibliometric and other quantitative
+ analyses of the research performance and behaviour of our UoA and comparators.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Our open and supportive research environment engenders a broad range of research
+ collaborations, engaging with and contributing to the scientific, economic and societal needs of a
+ diverse range of researchers, users, and publics. We routinely seed or revitalise collaborations
+ with in-house research funding. Budget for this is held by the research committee, regularly
+ advertised at departmental staff meetings, and has been sufficient to fund all requests to date.
+
+
+ Collaborations
+ Our staff engage in a wide range of collaborations, throughout the University, and with partners
+ nationally and internationally. This includes supervision of PhDs at Max Planck, TU Berlin, Cork,
+ Porto, Beijing Jiao Tong University, Tsinghua, and Hong Kong University; hosting extended
+ research visits from University of Hong Kong, CNRS Lyon, Xi’an university, Technische
+ Hochschule Köln, and TU Braunschweig; and made visits to Tsinghua, Aix-Marseille and
+ ongoing transfer arrangements with Cambridge and NII Tokyo.
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+ The change in working arrangements caused by the Covid-19 pandemic led to innovations
+ supporting collaboration. Moving research seminars online enabled broad participation from
+ outside the university; for example, our Mathematical Foundations seminar attracts audience
+ members from France, Italy, Luxembourg, Finland, and Lithuania.
+
+
+ Engagement with business and third sector
+ We have extensive engagement with partners in industry and the third sector as research
+ collaborators and users. Partnerships range from significant formal relationships with
+ commitment of funds and in-kind benefits, including those associated to our research grants and
+ doctoral training centres, to individual researcher-to-partner collaborations. Exemplars of
+ research detailed in our submitted outputs that was produced in collaboration with or has had
+ direct influence on industry includes Jones’s personal informatics work, which has informed the
+ exist.io platform, the main product of Melbourne start-up Hello Code, and Hall’s woven fabric
+ model, used by KiSP/Yulio in their VR products for architectural design. We have over 50
+ industry, public- and third-sector partners engaged in active, funded projects and initiatives.
+ These range from SMEs – e.g. FatPebble, Wonky – and local organisations and companies –
+ e.g. NHS trusts in Bath and Salisbury, Wessex Water – to national and multinational
+ corporations – e.g. BBC, Disney, DNEG, Sony Interactive, Samsung, Shell, PwC, DeepMind,
+ Aardman, Bank of England, National Trust and UNICEF. The CAMERA commercial team also
+ develops industry collaborations and enables the use of the CAMERA studio for them; the
+ number of partners involved in CAMERA work has grown from 8 at the founding of the Centre to
+ 22 at the time of the successful CAMERA 2.0 follow-up bid.
+
+
+ Interdisciplinary research and engagement with research users
+ Our staff maintain active collaborations with researchers from every Faculty and School in the
+ University and a wide range of industry and third sector partners as co-creators and users of
+ research. We support formal structures for interdisciplinary work, including the MAD and
+ REVEAL centres; Simsek was deputy director of Bath’s Institute for Mathematical Innovation; De
+ Vos is a core member of Bath’s Centre for Therapeutic Innovation.
+ We present examples of interdisciplinary work and engagement not detailed elsewhere. In
+ healthcare: Cosker and Campbell work with the NHS to develop an AI system to profile
+ Rheumatoid Arthritis; Campbell is developing computer vision and ML techniques for arthritis
+ and malaria detection; Jones works on personal informatics for healthcare, with NHS
+ collaborators from the Royal United Hospital; Lutteroth and Watts pursue multiple projects using
+ Virtual Reality techniques for healthcare interventions, including “exergaming” to encourage
+ patient engagement with therapeutic exercise regimens and VR interventions to support patients
+ recovering from brain injury, with collaborators from the NHS and associated charities
+ (Designability, Brain Injury Rehabilitation Trust). In sport: the CAMERA team works with British
+ Athletics, British Skeleton and the Lawn Tennis Association on analysis of elite sports
+ performance using computer vision and motion capture. In the performing arts and culture:
+ CAMERA has delivered workshops with Bristol Old Vic Theatre School training actors in using
+ motion capture; Watts works with Jean Abreu Dance Company on the place of robots in dance
+ production; O’Neill pursues collaboration with the National Trust on interaction design for cultural
+ heritage, developing interactive installations bringing cultural heritage to life. In finance:
+ Simsek’s Machine Learning work, drawing on and contributes to cognitive science, developed
+ psychological heuristics for portfolio decisions and methods for financial crisis prediction in
+ collaboration with the Bank of England and European Central Bank. In the environment: Padget
+ works on air quality monitoring with staff from Architecture and Civil Engineering, and via the
+ EPSRC Enliten project, with Psychology and Engineering on the effect of interventions on
+ energy-related social behaviour; Isupova works on detection of environmental factors from
+ satellite imagery, including identification of elephants, prediction of crop yield, and detection of
+ seismic faults, with zoologists and earth scientists at the University of Oxford; and Chen uses
+ machine learning approaches to produce seismograms and detect microseismic events in
+ collaboration with Shell and researchers at Cambridge. We note that these examples of
+
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+ collaborative activity include staff spanning the full range of career stage, nationality and gender,
+ working with partners from diverse sectors.
+
+
+ Our staff pursue public engagement activity, with diverse local, national and international
+ audiences. Exemplars include Richardt’s public talks at Bath’s Pint of Science events, at the
+ Bath Royal Literary and Scientific Institution 2019 and Royal Photographic Society 2018;
+ Cosker’s presentations at the Royal Society summer science exhibition 2016, Times Science
+ Festival Cheltenham 2015 and Bath Science Festival 2016; Isupova at British Science Week
+ 2015. Davenport and Bryson led a Thematic Semester on Artificial Intelligence Ethics in Feb-
+ May 2018, culminating in a public debate with over 100 people, mostly external to the University,
+ and before/after polling indicated a significant shift in attitudes. Haines used his data science
+ expertise to analyse the UK government’s approach to A-level grading for the Covid-19 affected
+ 2020 cohort; his analysis led to appearances on BBC News, in the Financial Times, and as a
+ panelist on Turkish television. His original tweet on the topic was viewed over 25,000 times.
+
+
+ Responsiveness to National Priorities and Initiatives
+ The UK’s Industrial Strategy placed Artificial Intelligence at the centre of UK development. We
+ responded to this by assembling the team and successful bid for the ART-AI Centre for Doctoral
+ Training, as well as a successful UKRI Innovation Fellowship (Richardt). Our pedagogical
+ expertise, including research in computer science pedagogy, underpinned our leadership of the
+ consortium that runs the national £40M Institute of Coding, headquartered in Bath and engaging
+ members of the UoA, notably Davenport on 0.5FTE.
+
+
+ Indicators of influence
+ Our staff serve on and chair assessment panels for the major funders including EPSRC, AHRC,
+ ESRC, EU and in the EPSRC peer-review college. At least ten of our staff hold editorial
+ positions on journals including Human-Computer Interaction, Journal of Experimental
+ Psychology, Computer Graphics Forum, Frontiers in Virtual Reality, Mathematical Structures in
+ Computer Science, IEEE Computer Graphics and Applications, and IEEE Pervasive Computing.
+ We routinely contribute to and lead international conference and workshop organisation with
+ programme committee and chair activity in over 50 events including SIGGRAPH, CVMP, CHI,
+ BMVC, AAAI, CVPR, IJCAI, AAMAS, ISSAC; our staff led two Dagstuhl seminars; De Vos is
+ treasurer for the Association of Logic Programming. Powell organises the international online
+ Proof Theory seminar.
+ We influence policy making via work with the Office for AI, The Department of Culture, Media
+ and Sport, the Cabinet Office, All-Party Parliamentary Group meetings on AI, the Office for
+ National Statistics, British and IEEE Standards organisations; we influence funders via the
+ Royal Society Science, Industry and Translation (SIT) Committee, ESPRC HCI Roundtable, the
+ EU ITN Scientific Evaluation Group, EPSRC Digital Economy Centre Directors group, AHRC
+ Creative Cluster Executive Committee, RS Industry Fellows College.
+
+
+ Fellowships
+ Several of our staff hold prestigious individual fellowships and awards, including: Richardt’s
+ UKRI Innovation Fellowship; Fraser’s EPSRC Established Career Fellowship; Alexander’s ERC
+ Starting Grant; Campbell and Cosker’s Royal Society Industry Fellowships; Lutteroth’s
+ Association of Commonwealth Universities Information Technology Fellowship; Davenport’s
+ Fulbright Cyber Security Scholarship.
+
+
+ Prizes and invitations
+ Research in every group in our department has won awards in this assessment period.
+ Highlights include two Best Papers and three Honourable Mentions at CHI in 2020 and 2019
+ (Alexander, Fraser, Lutteroth, Payne); an IEEE LICS Test of Time Award in 2018 (McCusker);
+
+                                                                                              Page 15
+Unit-level environment template (REF5b)
+ Best Paper at NeurIPS 2018 Workshop on Machine Learning for the Developing World
+ (Isupova); Best Short Paper at CVMP 2018 (Richardt). Lutteroth’s Actigaze technology won the
+ New Zealand HealthTech Award 2016 and 2020 Best Assistive Technology Developers award at
+ the APAC Business Awards
+ Our researchers are regularly invited to speak at local, national and international research and
+ industry events. Examples include Fraser at the EPSRC Connection Nation Showcase 2015, De
+ Vos at the ICLP Women in Logic Programming 2020, Chen at the Society of Petroleum
+ Engineers Abu Dhabi International Petroleum Exhibition & Conference 2017, Namboodiri at
+ Samsung’s Technology and Advanced Research (STAR) Labs, US, Cosker at Facebook Reality
+ Labs in 2020, and Powell at Logic Colloquium 2019.
+
+
+
+
+                                                                                         Page 16
+

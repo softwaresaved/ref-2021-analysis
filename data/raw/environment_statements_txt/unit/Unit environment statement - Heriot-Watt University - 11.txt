@@ -1,0 +1,1109 @@
+Unit-level environment template (REF5b)
+ Institution:
+
+ Heriot-Watt University
+
+ Unit of Assessment:
+ Sub-panel 11: Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+
+
+Research Unit Context & Structure
+Vision: To be a leading centre for research and development of transformative intelligent,
+interactive, and rigorous systems, especially in robotics and foundational AI techniques,
+while spearheading globally significant applications that exploit the potential of these areas
+of computer science.
+The School of Mathematical and Computer Sciences (MACS), one of five schools making up Heriot-
+Watt University, has considerable autonomy over its budget, appointments, research strategy and
+teaching. Our research groups in the Computer Science Department (HWCS) in MACS continue to
+be the same as those returned in REF14, namely Intelligent Systems, Interaction, and Rigorous
+Systems. Group staffing structure is shown below, with underline indicating main affiliation when a
+member is in multiple groups.
+ Intelligent Systems
+ Areas: biomedical informatics, intelligent systems, Aylett, Baillie, Broz, Burger, Corne,
+ pervasive and ubiquitous systems, robotics, Dondrup, Gray, Hastie, Lemon, Lones,
+ machine learning and semantic web                   Petrick, Rieser, Taylor, Vargas, Pang
+ Interaction
+ Areas: affective and autonomous agents, natural       Aylett, Baillie, Bartie, Broz, Chantler,
+ language processing, conversational artificial        Dondrup, Eshghi, Hastie, Just, Konstas,
+ intelligence, human-robot interaction, human          Lemon, Padilla, Petrick, Rieser, Taylor,
+ computer interaction and multimodal interaction       Vargas
+ Rigorous Systems
+ Areas: cyber security, dependable systems and Gabbay,    Georgieva,    Ireland, Just,
+ useful logic, types and re-writing            Kamareddine, Komendantskaya, Lindley,
+                                               Loidl, Maarek, McKinna, Radomirovic,
+                                               Stewart, Scholz, Pang, Wells
+Table 1: Research Groups in UoA.
+Our structure reflects a pattern of sustainable growth, with research active staff up by 10%. We aim
+to double that growth to 20% in the next 5 years through the University’s Bicentennial Research
+Leaders fund. Major post-2014 developments include the establishment of a ‘Human Robot
+Interaction’ lab (14 academics) which runs through and connects our three main groups. This was
+an organic development resulting from our growing research activity in this area. One example is
+our Robotics and Autonomous Systems EPSRC CDT awarded in 2014 (£5.74M), which we used to
+create the Edinburgh Centre for Robotics (ECR). Lane from Engineering was the PI but the Co-I in
+Computer Science was Taylor (EP/L016834/1). The CDT was awarded jointly with the University of
+
+                                                                                            Page 1
+Unit-level environment template (REF5b)
+Edinburgh and over 30 industrial partners. This CDT was subsequently renewed in 2019 (£7M)
+moving from having an Engineering lead to a HWCS lead, with Hastie as (PI) & Taylor (Co-I)
+(EP/S023208/1), and now involves 40 industrial partners. Our grant funding in this area has also
+grown through an EPSRC Industrial Strategy Challenge Fund for the Robotics Hub for Offshore
+Robotics for Certification of Assets (ORCA) EP/R026173/1, Hastie, Chantler (HWCS) and
+colleagues (Lane PI, HWU Engineering) worth £14.6M, which is one of the largest industrial strategy
+challenge funds awards. The Hub brings together leading experts from 5 universities with over 30
+industry partners including BP, Chevron, Schlumberger, Kawasaki, Lloyds, and Kuka
+Robotics. The goal of the hub is to use robotic systems and artificial intelligence to revolutionise
+asset integrity management for the offshore energy sector. We have been awarded several further
+large EU and EPSRC grants in this area, see Section 3. Regarding infrastructure investment we won
+a EPSRC capital award (£7.2Mm to HWU and Edinburgh University) in late 2013 which enabled us
+to spend £802K creating the Robotarium West at HWU, which was completed in 2016. The most
+recent of our robotics activities with the University of Edinburgh led to an Edinburgh City Deal funded
+by Scottish, UK and local governments, in which HWU was awarded £22.4M (HWU added £6.5M to
+this fund making the investment overall approx. £29M) to establish a UK National Robotarium. The
+National Roboatrium will act as a catalyst to work with industry translating HWCS research into
+practice. The infrastructure and awards outlined have helped underpin new collaborative ventures
+between all our groups as well as turbo-charge new external interactions (see Sections 3 & 4 for
+information).
+Growth in our Research Since 2014
+Our research income has increased by 38% overall since REF 2014. We have radically increased
+our funding base in areas that both support our vision and align with global priorities. Sustaining
+future developments, we have also grown external industry and academic collaboration (evidenced
+throughout Section 4 and REF3a) and have now an established profile in future global priorities that
+crosscut our research groups such as energy, AI, robotics and health.
+In REF 2014 we indicated the following goals:
+   1. investment in new opportunities and existing areas of strength;
+   2. broader industrial activity;
+   3. wider UK and international collaborations;
+   4. increasing research student numbers;
+   5. strong support of researchers at all career points, especially female members of staff.
+We have achieved all five of our goals. For example, we achieved: goal 1 by using the HWU
+Global Platform Appointment process to grow and enhance our research academic staff base and
+bolster our 3 groups (see Section 2) and grants to increase the number of RA’s by 15%; 2. As regards
+growing our industrial partnerships we have undertaken 107 projects with industrial partners (see
+Sections 3 & 4). 3. The national context saw the emergence of the AI and Robotics theme and the
+reshaping of EPSRC’s approach to ICT to increase their emphases on Robotics, AI and
+Cybersecurity. This resulted in several funding awards in robotics (see research groups and Section
+3) and foundations/verification of AI. Exploiting goals 1-3 and our own initiatives we achieved goal 4
+and increased PhD student numbers (39 to 103). As regards goal 5 46% of our Professors are
+female, this compares very favourably to the national average of 16%. Significant progress has
+been made on all strategy goals (evidenced here and in the relevant sections cited).
+
+
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+2014-20 Strategy, Achievements and Future Plans (2020-25)
+Intelligent systems
+We aim to transform the quality and potential for large scale optimization, robot control, decision-
+making, and pervasive computing, by drawing on inspiration from nature and via new synergies
+among machine learning, optimization and complexity science.
+Our Strategy 2014-20 was to widen both academic & industry collaborations around these threads,
+including bringing these ideas “to bear on major societal & environmental challenges”. This strategy
+was progressed via several new collaborations organized around the United Nations Sustainable
+Development Goals (SDG), with organizations including the World Business Council for Sustainable
+Development (WBCSD), the Chinese Society for Environmental Sciences (CSEC), and Scene Ltd
+(a social enterprise working in India). Our strategy then expanded towards exploiting these alliances
+to:
+   (i)     help us understand key research questions around the adoption of intelligent systems in
+           real-world settings, especially regarding SDGs, and then
+   (ii)    seeking to address these questions in collaboration with stakeholders.
+Evidence of impact of this work can be seen in one of our submitted Impact Case Studies. The case
+study (logistics) builds on existing and new partnerships with WBCSD and companies in the road
+transport sector to assist with decarbonisation of freight transport. Meanwhile, via support from two
+EPSRC Quantum Hub grants (£185k, shared with HWU Physics), we grew academic collaboration
+in this area to lay the groundwork for exciting future developments.
+Evidence of our strategy in operation and associated achievements: since 2014 we have won
+10 projects with industry collaborators (£1.56M), developing new, robust and deployable ideas for
+machine learning and large-scale optimization. We engaged with the WBCSD on a freight industry
+working group 2014-2016; this led to a 2018-20 Innovate UK award to investigate both business
+models and algorithms for asset sharing in road freight, the outcomes of which have now informed
+WBSCD global policy documents and have been implemented in leading commercial transport
+management software. Another focus is health monitoring, with Lones’ EPSRC First Grant
+(EP/M013677/1) exploring intelligent systems for new diagnostic approaches to Parkinson’s disease.
+Lones continued this work in a partnership with a diagnostics SME Clear Sky medical (clearskymd),
+they are now conducting clinical trials of their innovative diagnostics device. Pursuing our strategy
+in the area of robotics, Petrick’s research in automated planning in the context of robotic systems
+working safely and reliably with humans has resulted in a collaboration with PSA Peugeot-Citroen
+on factory automation (EU FP7 STAMINA, 2013-2017). He investigates questions in temporal
+planning for autonomous robotic inspection tasks (EPSRC ORCA Hub) and epistemic planning in
+robot/human interaction (EPSRC EP/R031045/1).
+Our top-level Objectives 2021—25:
+   (i)     sustain and grow stakeholder collaborations and impact around SDGs, especially climate
+           mitigation, energy and health;
+   (ii)    continue to address key research questions in optimisation and planning, especially
+           industry deployment and public acceptance of these technologies;
+   (iii)   build a new emphasis on understanding and designing intelligent systems that are robust
+           to significant change, and;
+   (iv)    grow our portfolio of emerging technologies including quantum computing.
+
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+This reflects adaptation of our 2014-20 objectives in the light of increasing urgency of the UN SDGs
+and the new challenges of mid- and post-pandemic society.
+Interaction
+We aim to enable future intelligent interactive systems that can collaborate effectively and adaptively
+with humans, covering human-robot interaction, multimodal interaction, human computer interaction,
+and natural language processing.
+The interaction grouping has focused on multimodal interaction, supported by advanced probabilistic
+techniques in modelling and planning, thus handling uncertainty in interactions and improving the
+effectiveness of human/machine interaction. We have developed and applied techniques for
+scenarios ranging from spoken dialogue systems (such as Alexa), to multimodal interfaces for
+autism, healthcare, and social robotics. Achievements include novel theory and applications of
+reinforcement learning to Natural Language Generation and robust spoken dialogue management,
+data-driven techniques enabling rapid generation of multimodal interfaces for new applications,
+virtual characters for communication skills learning in autism, and advances in socially intelligent
+robots. Strategy 2014-2020 was twofold:
+   (i)     to further develop and capitalise on this work in important social contexts;
+   (ii)    to extend the theory, models and platforms from individual towards social interaction, and
+           to focus on multimodal interaction, supported by advanced probabilistic techniques in
+           modelling and planning.
+Evidence of our strategy in operation and associated achievements from 2014-2020 include
+Lemon, Rieser, Konstas leading a group of PhD student finalists twice in the Amazon Alexa Prize
+2017 and 2018 (see Section 4). This group has been awarded £6.4M (from ESRC, EPSRC (e.g.
+Diligent, Madrigal, and Babble), EU-H2020 and Leverhulme) to develop spoken dialogue systems.
+Regarding modelling usable interaction for rehabilitation and security we have won 5 awards from
+EPSRC (Baillie, Broz, Vargas, Aylett, (EP/T013737/1, EP/N034546/1, EP/I032037/1, EP/T017511/1,
+EP/T021063/1)). We are currently working on advances in socially intelligent robots and how to
+ensure safer user interactions in hazardous environments (Orca Hub, Hastie). The group has
+collaborated with over 50 companies on real world projects which saw our ideas, concepts and
+solutions adopted into practice, some of these companies are world-leading e.g., Amazon, Softbank,
+Kawasaki, Total, Schlumberger, Honda, Lloyds and Ocado.
+Our top-level Objectives 2021—25 for Interaction are:
+   (i)     to further develop our core scientific work in the areas of conversational AI, NLP, machine
+           learning, multimodal interfaces, and Human-Robot Interaction, and
+   (ii)    to apply and evaluate these methods in ecologically-valid real-world settings in areas
+           such as healthcare, assistive living technology, under-water robotics and smart
+           workplaces.
+   (iii)   to further develop our industry collaborations (e.g. Softbank, Kawasaki, Total, Honda,
+           Ocado, Amazon, and PAL robotics) in order to perform both foundational and applied
+           research, in particular supported by the new National Robotarium research facility, for
+           which the group members have designed a suite of research labs (see Section 3)
+   (iv)    A further important objective here is to enhance the impact of our research via spin-out
+           companies such as the conversational AI spin out company Alana AI (Lemon & Rieser).
+
+
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+Rigorous Systems
+Our work focuses on the development of theories, techniques and tools to improve the dependability
+of systems. Key areas are the design and implementation of portable and parallel programming
+languages, formal verification and explainability of complex intelligent and autonomous systems, and
+formal verification and design of security protocols.
+Strategy 2014-20, was to expand and apply that research to enable the creation of trustworthy AI
+applications, and verify the reliability, safety, and security of complex software systems. Working
+towards this goal, we hired new staff with world-leading expertise in security (Maarek, Just,
+Radomirovich) and verification of AI (Komendantskaya). This resulted in new work on verifiable AI
+that investigated novel frameworks for developing and implementing security and regulatory policies
+for complex deep learning AI. For dependable computing we broadened the use of advanced type
+systems, develop modelling methods for secure systems and theorem proving technologies to
+design and validate new programming language foundations in domains such as symbolic
+computation. Examples of realising this vision are: (i) high-level language concepts and associated
+compilers (e.g. SaC) that enable solutions (e.g. costed parallel compilation) usable in arbitrary
+existing contexts (e.g. C, Java), with no need for users to adopt a new language; (ii) scaling scientific
+and symbolic computations on HPC architectures and computer vision languages (e.g. RIPL) for
+programmable hardware; (iii) using formal methods to verify AI techniques; (iv) formal modelling and
+verification of cryptographic protocols e.g. for 5G mobile communication; (v) advances to
+bidirectional programming in model-driven development, algebraic effects and handlers as well as
+extensible datatypes in functional programming.
+Evidence of our Strategy in Operation and Associated Achievements
+The group won £1.7M for type system approaches for verifying System on Chip design
+(EP/N028201/1 Scholz, Stewart); EPSRC Platform Grant £1.3M to enable the visualisation of
+reasoning processes (EP/N014758/1 Ireland); EPSRC £1.3M to develop type based novel
+framework for documenting, implementing and developing policies for complex AI systems
+(EP/T026952/1 Komendantskaya); EPSRC £283k UK Trustworthy Autonomous Systems (TAS)
+Node on Governance and Regulation (Ireland). Gabbay’s foundational work in nominal logics seeks
+to revolutionize how computer science handles names and won an Alonzo Church Award for
+Outstanding Contributions to Logic and Computation (2019). Ireland’s EPSRC Platform Grant is
+creating impact by providing the underpinning infrastructure for a unique blend of theoretical AI
+research spanning theory formation, evolution, visualisation of systems, learning and proof
+engineering. Applications are wide ranging and include ontology management, emergency
+response, healthcare workflows, industrial scale embedded formal methods, disaster recovery
+planning and privacy analysis. Project partners have applied the visualisations in aerospace (NASA)
+and improving modelling of healthcare pathways (NHS).
+Our top-level Objectives 2021—25 are to further solidify our impact and apply our work in the areas
+of:
+   (i)     verification of foundational AI techniques towards trustworthy AI for autonomous systems
+           and computational finance;
+   (ii)    systems and languages for high-performance machine learning;
+   (iii)   compiler guaranteed proofs for automatically generated programs;
+   (iv)    formal methods for cyber-security and their applications to emerging and evolving
+           systems and protocols. The group will capitalise on academic and industry collaboration
+           initiatives (e.g. NASA, NHS, BAE systems, Xilinx, DSTL, Codethink) and will perform
+
+                                                                                                 Page 5
+Unit-level environment template (REF5b)
+           foundational research to realise large-scale software verification and high-performance
+           architectures.
+
+Open Access
+We provide free, open online external access to our publications via our Research Portal to ensure
+that our research results are transparent and have wide reach. We also provide free and open online
+access to as much as possible of our raw data and experimental results. As regards our further
+commitment to open access one of our impact case studies (see our submitted REF3) reports on
+how we assisted publishers to make their Open Access Articles systematically discoverable. The
+ticTOCs and journalTOCS projects respectively developed the world’s first metadata schema for
+scholarly publications, and then built on that to produce the de facto standard for scholarly journal
+Table of Contents (TOC) and is being used by over 30,000 journals.
+
+Ethics
+We operate within the jurisdiction of the Schools’ Ethics Committee reporting to the University Ethics
+Committee. The School Director of Ethics also sits on the University Ethics committee. The
+University has recently (2019) adopted a University wide system for ethical approval to ensure
+consistency of approach. We train our staff to anticipate and understand the wider ethical and
+societal impacts of their work. Ethics approval is a compulsory aspect of our pre-submission internal
+grant review procedures and expected to be revisited throughout the lifetime of an award. We follow
+the principles of the UK Forum for Responsible Research Metrics, including robustness, humility,
+transparency, diversity and reflexivity. In HWCS we have a strong ethics culture, which permeates
+all our research project proposals as we believe strongly in the concepts of Explainable AI, user-
+centred design and privacy by design for all pertinent projects.
+
+COVID Impact Statement
+There have been two areas of impact.
+Section 2 Staff
+    Staff have had to continue with full time work whilst also doing full-time caring and childcare
+     (including home schooling), significantly reducing their productivity. It is anticipated that this
+     will have a medium-term effect on grant income, publications and impact.
+    in the area of staff development meetings, training and exchanges are only available online.
+     This has an especially large impact on ECRs as networking at this stage in their careers is
+     paramount.
+    The delay of all in person experiments has had a severe effect on our research associates and
+     PhD students’ development, especially regarding the Interaction grouping. It is anticipated that
+     this will have an impact on our publications and PhD completion times.
+Section 4 Collaboration and Contribution to the Research Base, Economy and Society
+We had an impressive collaboration and contribution track record as can be seen by our list of invited
+industrial talks e.g., Google, Vodaphone, Microsoft, Amazon and public exhibits e.g. Royal Society
+Summer Festival, Subsea Expo, Edinburgh International Science Festival, Chelsea and Westminster
+NHS Trust etc. We had over fifty events planned for 2020 which all had to be postponed, moved
+online or cancelled which had an impact on our ability to undertake as much outreach.
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ 2. People
+
+
+Staffing Strategy and Staff Development
+Academic staffing strategy
+Academic staffing strategy: Our broad strategy is to aim for sustainable growth and as a result our
+research staff number has grown by 10%. We have also created permanent teaching and
+scholarship posts to support our teaching and release more time for research. We have a healthy
+balance of senior and early-career staff, and a robust balance of theory-oriented and application-
+oriented groupings, since each of these directions maximises our agility in the face of shifting
+priorities, opportunities, and developments in computer science. Our recruitment strategy during
+2014-20 aimed to: (i) maintain and strengthen our three groups, (ii) increase the numbers of early
+and mid-career staff who straddle two or more of our groups, and hence underpin future larger-scale
+research programmes (e.g. Orca Hub which has as Co-Is, Chantler, Hastie and Petrick).
+ Group                   Joined
+ Intelligent Systems     Broz, Dondrup, Pang
+ Interaction             Baillie, Bartie, Eshghi, Just, Padilla
+ Rigorous Systems        Komendantskaya, Lindley, Maarek, McKinna, Radomirovic, Stewart
+Table 2: New academic staff and their primary research group.
+Hastie (2010) and Rieser both hired as early career (2012) were promoted to Professors (2017) and
+Baillie and Komendantskaya (2015 mid-career appointments) were also promoted to Professor
+(2018/2019); all are female. Hastie and Rieser bring unique approaches at the interfaces of machine
+learning, probabilistic reasoning, NLP, and dialogue. Hastie is Director of the EPSRC CDT-RAS, Co-
+I on the EPSRC ORCA HUB, PI for the EPSRC Trustworthy Autonomy Node on Trust, National
+Robotarium Academic co-lead, and awardee of an RAEng/Leverhulme Senior Research Fellowship.
+Rieser was PI on the EPSRC Diligent and Madrigal grants, academic lead on our Amazon Alexa
+Challenge finalists’ group in 2017 & 2018 and is an RSE Fellow. Baillie has strengthened our Human
+Robot Interaction area bringing expertise and concepts from Human Computer Interaction and
+adapting them for HRI, she has been PI on 5 grants from Digital Health Innovation Centre, Innovate
+UK, and EPSRC. Komendantskaya established the Research Lab for AI and Verification, that brings
+together researchers from Rigorous Systems, Intelligent Systems and Interaction. She has held 4
+grants from EPSRC, NCSC, DSTL.
+We have had some staff turnover with 6 staff leaving either due to promotion (Professor: Lohan,
+Robertson); Associate Professor (McGookin, Louchart), moving to senior management (de Wilde as
+Pro-VC of Research at University of Kent), or to research opportunities at distinguished institutions:
+Edinburgh University (McNeil), Norwegian Defence Research Institute (Grov). We have also had 3
+staff retire (Michaelson, Pooley, Taylor, H).
+People Support and Development
+We enable and support all staff and students’ research ambitions by maximising access to time,
+training, travel, equipment and facilities. This has especially benefited our early career staff, see
+Section 4 for some outcomes. We also operate a light-touch annual review process to emphasise
+personal development. We follow the recruitment principle of recruiting, selecting and retaining the
+best – in part by ensuring vacancies are advertised globally, and via personal approaches to high
+calibre staff in our strategic areas. In terms of valuing and supporting, we provide relief from teaching
+                                                                                                 Page 7
+Unit-level environment template (REF5b)
+for the first two years of a full-time academic post, accompanied by a PhD scholarship(s). We operate
+a mentoring scheme for new academics to ensure that senior staff connect with and support junior
+colleagues. We also have a MACS Early Career Academic Forum which meets every two weeks
+organises activities that can help early career academics to advance their careers, e.g. grant writing
+workshops. It also nominates an early career academic from HWCS to attend the monthly
+management meeting.
+High-level monitoring and review are achieved by regular staff surveys and data collection (e.g.
+registration data for career development courses). Regarding equality and diversity, we hold an
+institutional Athena SWAN Bronze award and the school of MACS holds an Athena SWAN Bronze
+award. We strongly support women, in terms of development and promotion. Our actions resulted in
+46% of our Professors being female, this compares very favourably to the national average
+of 16% (according to the latest HESA figures). This aids our efforts in making sure that selection
+panels, boards and committees are representative.
+Studentship Allocation
+We use EPSRC CTD and DTP funds to support early career researchers and people who have
+returned after a leave of absence. For example, Stewart, Konstas, Dondrup, Eshghi, Padilla, Broz
+who are all in the early stages of their careers were awarded students from our DTP or from our
+internal James Watt Scholarship scheme. We use James Watt Scholarships to attract international
+students who are linked to our three key research groupings. In total 73 studentships between 2014-
+20 have been sponsored by the School via a variety of means.
+Visiting / International staff
+Our strategy is to widen our engagement with world leaders in areas that overlap our interests, and/or
+help us better engage with global priorities, we use HWCS, Edinburgh Centre for Robotics (ECR)
+and Scottish Informatics and Computer Science Alliance (SICSA) funds to support this.
+Training
+The main mechanisms available since 2014, are through SICSA, ECR, HWCS and the research
+futures academy. Our academics lead three of the seven research themes of SICSA. Close
+engagement with SICSA themes enables our academics to create links with international leaders in
+their field who provide talks and workshops that benefit not just senior academics but also early
+career researchers and PhD students. This is further enhanced by us being able to bid to host SICSA
+Distinguished International Visiting Fellowship visits. These visits enable the creation of joint
+research proposals and knowledge exchange across an in-depth two-week period.
+ Provided by Scottish Informatics and Computer Science Alliance (SICSA)
+ SICSA has the following seven research themes (HWCS lead in brackets): HCI, Cybersecurity,
+ Networking & systems, Data Science (Chantler), Cyber-Physical Systems (Dondrup), AI
+ (Hastie), and Theory, Modelling and Computation.
+ Research Theme Workshops and Networking Events                                                 119
+ Distinguished International Visiting Fellow Programme (DVF)                                      39
+ (some visiting professors were: Elise Van De Hoven (U.Melbourne), Kia Hook, Royal
+ Institute of Technology (KTH), Tony Balpeame, U.Ghent. Stuart Shieber, Harvard
+ University, Mostafa Ammar, Georgia Tech, Daniel Sorin, Duke University)
+ Post Doc/Early Career researchers International Exchanges                                        27
+ Women in CS research days                                                                         6
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+Table 3: Academic events and exchanges provided by SICSA.
+Provided by HWCS: We have a research seminar programme which is funded by the department
+and it has welcomed over 130 distinguished international academic and industrial speakers: Georg
+Von-Wichart (Siemens), Roberto Pieraccini (Google Zurich), Jeremy Gibbons (U.Oxford), Salah
+Sukkarieh (U.Sydney) etc. We also run a series of talks led by HWCS academics in which they
+present their research on how they have won funding from a variety of different funders.
+Provided by HWU Research Futures Academy: The aim of the academy is to support doctoral
+students and early career researchers to develop skills and competencies to enhance their personal
+and professional capabilities and future employability.
+    Postgraduate Certificate in Academic Practice (PGCAP - focus on early-career staff)
+    Learning Enhancement and Development Skills (LEADS) courses for Approved Tutor and
+     Approved Teacher status (focus on research students)
+    Researcher Development: the academy offers an extensive programme of bespoke training
+     courses designed to increase research capability and success. Courses include, Research
+     Ethics, Advanced Research Methods and Statistics, Grant Writing and PhD supervision.
+
+Research Students
+During this REF period we have seen an increase in PhD scholarships (103 wholly or part-funded
+since 2014, of which 57 have now completed an increase of 46% on our completion rate from
+2014). The increase in scholarships was mainly due to our having industrially led PhDs through our
+partners in the CDT, Orca and DataLab. The numbers by year and totals can be seen in submission
+4a. We currently have 46 full time students, with a further 11 writing up. We had 39 completed
+students returned in 2014 therefore over this REF period we have increased our research student
+completion by 46%. This demonstrates an active and growing research student activity within
+HWCS.
+In terms of our robotics CDTs (see section one, first awarded in 2014 and renewed in 2019) in
+Robotics & Autonomous System we have been awarded £12.7M, the EPSRC investment in the most
+recent CDT is £6.5M, which when matched with the £11M pledged by industry partners will train 88
+PhD students. Many of which will have use of our unique world-class collection of robots and ancillary
+equipment and will soon be housed in the new National Robotarium. The PhD students also benefit
+from the training provided that spans two Universities (UoE and HWU) and each student has a
+budget of £5k for the duration of their studies that can be used for training, equipment and travel.
+Events, Talks & Training
+The PhD students also benefit from the training provided that spans two Universities (UoE and HWU)
+and each student has a budget of £5k for the duration of their studies that can be used for training,
+equipment and travel.
+Provided by HWU (see also Research Futures Academy)
+    Annual Postgraduate Conference (organised and run by HWU postgraduates)
+Provided by HWCS (these moved online during lockdown)
+    Annual Postgraduate welcome get together in the Autumn,
+    Annual school Conference Day
+    Research student seminar programme (organized and delivered by our PhD students)
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+    Weekly teatime get-together with biscuits and coffee/tea provided.
+ Provided by SICSA
+ Regular themed Summer Schools (that can be attended by any SICSA PhD                          75
+ student)                                                                        (28 run by HWCS)
+ Annual SICSA PhD conference                                                                       7
+ Annual Demofest (where PhD students get to showcase their work through                            6
+ demos and posters to industry, academia and the third sector)
+ Masterclasses delivered by DVFs                                                                  39
+ Early career industrial knowledge exchanges                                                       9
+Table 4: Events, Talks and Training Provided by SICSA.
+We use the above mechanisms to build on a backbone of monthly meetings of individual
+student/supervisor teams, aiming to ensure a stimulating and collaborative programme for all our
+students. High quality supervision is assured by the regular meetings being logged on a central
+online system that enables any student who appears to be falling behind, and/or not engaging
+sufficiently, to be easily identified and appropriate follow-up action taken by the school Director of
+PGRS. Formal progress monitoring takes the form of annual report and presentation both of which
+are assessed by an internal HWCS expert in the area. An interview takes place with the internal
+assessor and the student and a formal report is written by the internal assessor and the student’s
+primary and secondary supervisors regarding the report and progress of the student.
+The standard experience for an HWCS research student whose studies were within the 2014-20
+period included: 2 training-oriented conferences and workshops, 3 academic conference trips (incl.
+one overseas), 3 internal presentations, 3 internal progression vivas, 3 demofests (poster/demo
+sessions with industry and academic audiences), three summer schools (one international), 3 PhD
+SICSA conferences, 6 Masterclasses, and 4 short training courses.
+All PhD students have access to a budget of £750 per annum for research expenses, such as
+conference attendance or miscellaneous equipment. This budget can be used flexibly across a
+student’s period of study, meaning that unused funds can be carried forward to subsequent years
+as necessary.
+In addition our students have access to funds gifted by Amazon, Google, Adobe, and Microsoft which
+has funded 10 student conference trips, 5 internships (Amazon (Curry, Papaioannou), Adobe
+(Agarwal) and Microsoft (Watson, Shalyminov) as well as the purchase of 4 GPU machines (2
+Amazon, 1 each from Microsoft and Adobe).
+
+Equality and Diversity
+We were among the first in the UK to receive the HR Excellence in Research recognition from the
+European Commission in 2010 and have held this award for ten years. We hold an Athena Swan
+Bronze award (awarded 2016 and renewed 2020), however our commitment to equality and diversity
+goes beyond just achieving this. For example, University wide activities are overseen by the Equality
+and Diversity Advisory Group (EDAG), this group is made up from representatives from across the
+university community. A critical path to achieving the equality and diversity targets is to ensure
+everyone in the University community understands how they contribute to a culture of ‘Inclusion for
+All’. This requires all staff, researchers and PhD students to complete the basic ethics and diversity
+awareness training, but also provides the option to extend the training with other workshops,
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+covering various issues in diversity, equality and bias, offered through the University’s Research
+Futures Academy. An example of the effect this is having on gender balance is indicated by the
+number and variety of roles undertaken by women in HWCS. For example, our Director of Ethics is
+female Aylett, and Hastie is joint academic Director of the ECR and the new National Robotarium. It
+is notable that the Head of School, Pelloni, is female. We have a Women in HWCS social group that
+has invited talks with guest speakers on topics that are of wide interest (e.g., careers advice, writing
+research papers, managing large multidisciplinary grants etc) as well as organising a very active
+outreach events program. A successful MACS Athena SWAN Bronze application was led by the
+school-wide Self-Assessment Team (SAT) that included several HWCS women. In our Athena Swan
+Bronze Award, we focused on the following key principles: recruiting, valuing, supporting, and
+developing researchers. We also ensure that female and under-represented academics are involved
+in the short-listing and sit on interview panels. This along with our training on unconscious bias, that
+all interview panellists must attend, has resulted in fair and transparent recruitment.
+In terms of valuing and supporting we offer our academics a 6-month sabbatical/study leave that is
+aimed at supporting people, who have had a period(s) of maternity, familial leave, other unexpected
+leave or have taken on a substantial admin role. Admin burden is especially recognised as having
+had an unduly negative impact on female promotion prospects in the past. The study/sabbatical
+leave support covers all teaching and admin responsibilities leaving the academic to focus 100% on
+their research. We also support flexible working by having a policy in place regarding suitable timings
+for important and regular meetings that takes into consideration child and caring needs. We have
+also supported home working since 2014.
+Selection of Outputs
+We ensured full equality and diversity in the preparation of UoA REF2021 submission by:
+    Creating and maintaining a gender, race and age/experience balance of the internal review
+     team;
+    Ensuring all of our outputs were reviewed by external experts chosen by our internal review
+     team;
+    Creating a supportive working environment for the team (in person and latterly at distance)
+     that encourages freedom of expression, mutual respect and shared value/understanding of the
+     critical importance of the preparations and the REF process itself;
+    Ensuring that all members of the REF Team had completed equality in REF and unconscious
+     bias training;
+    Embodying career development and training as a reason for inclusion in the REF Team.
+We adhere to the principles of full equality and diversity in all aspects of our operation.
+
+
+
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+
+
+Income Portfolio 2014-20 and Future Plans
+Our funding portfolio by area is given below. Complementing data in REF4, we show totals for
+projects that started or were awarded between 08/2013 and 07/2020. Only the HWCS component is
+given. We show in parentheses the percentage increase compared to REF2014. Our overall
+income shows an increase from £9.36M - £12.93M we have therefore increased our income
+by 38% from 2014.
+             From                             Income                Percentage Change from 2014
+     Research Councils UK BIS                 £7.25M                                69%
+                    Charities All              £373K                               767%
+                Government all                 £778K                               813%
+                     Industry all              £838K                                84%
+                           other               £312K                               890%
+                              all            £12.93M                                38%
+Table 5: Income percentage change from 2014 REF.
+We have increased our funding across 14 of the 16 funding categories specified by REF2021. The
+charities rise is due to our success with Leverhulme Fellowships (Rieser and Hastie). Our work in
+robotics (Orca Hub, Alexa Prize etc) has seen our industry funding increase. The largest rise, in
+terms of amount, is with the Research Councils from £4.2M to £7.25M.
+Our future planning involves building on our current profile through developing exciting and
+substantial interdisciplinary proposals addressing real world issues. Some specific areas for such
+proposals will be:
+   (i)     to develop computational intelligence applications to enable intelligent forecasting to
+           improve the environment and our renewable energy future (Intelligent Systems);
+   (ii)    to develop further multi-modal, creative and robotic systems for a wide range of societal
+           applications in social robotics and health (Interaction);
+   (iii)   research advances and breakthroughs in artificial intelligence, verified and secure
+           software as it applies to large scale systems and to industry as a whole (Rigorous
+           Systems) and
+   (iv)    to continue our world leading research in conversational artificial intelligence (All groups).
+We plan to achieve some of these aims by broadening our funding sources to include more Innovate
+UK awards, and by developing more alliances with specific organizations and academic/industry
+consortia.
+
+
+
+
+                                                                                                Page 12
+Unit-level environment template (REF5b)
+Strategy 2021-2026
+       Strategically grow       research in Building on concepts and outcomes of recent
+       these areas:                         grants:
+  i    computational intelligence               Corne projects (KTP #9839 with Route Monkey Ltd,
+       applications to enable intelligent       10/2014—04/2018. KTP with FreightShare Lab
+       forecasting to improve the               (FSL) & Innovate UK #103890, Baillie & Corne
+       environment and our renewable            #11228.
+       energy future
+ ii    multi-modal, creative and robotic        Hastie, Chantler & Petrick, ORCA EPSRC Grant
+       systems for a wide range of societal     EP/R026173/1), Hastie (EP/R026173), Aylett
+       applications in social robotics and      (EP/N034546/1), Baillie (EP/T021063/1), Hastie
+       health                                   (EP/V026682/1)
+ iii   research advances and                    Ireland (EP/N014758/1), Baillie, EP/T017511/1,
+       breakthroughs in AI, verified and        Komendantskaya (EP/T026952/1, EP/K031864/1)
+       secure software as it applies to large   and VETSS grant CONVENER, NSCS grant
+       scale systems and to industry as a       SecCon-NN
+       whole
+ iv    our world leading research in            Rieser (EP/M005429, EP/T023767, EP/N0175361),
+       conversational artificial intelligence   Lemon (EP/M01553X/1) and EU projects JAMES,
+                                                MuMMER, and SPRING
+Table 6: Notable grants from which we will build the planned areas i-iv
+
+Infrastructure & Facilities
+In the area of robotics the initial investment of £802K from EPSRC in 2013 to create the Robotarium
+West (completed 2016) was a significant boost to our existing facilities and enabled us to create a
+dedicated Human Robot Interaction (HRI) Laboratory, Assistive Living Robot apartment, robotics
+seminar room, and field robotics lab. As a result we have received significant and distinguished
+visitors e.g. Roberto Pieraccini (Director of Engineering at Google), Dr Michael Gienger (Principal
+Research Scientist, Honda), Dr Elie Allouis (Senior Robotics Systems Engineer, Airbus). As well as
+key academic figures in the robotics area e.g., Cynthia Brazeal (MIT), Prof Belpaeme (Univ. Ghent).
+We anticipate that the new National Robotarium will only increase the interest in our world leading
+robotics and data driven research.
+The National Robotarium
+The Edinburgh and South East Scotland Science and Innovation Audit (SIA) detailed how the ability
+to collect, store and analyse data from an array of diverse sources will become increasingly important
+in driving economic growth, social change and public services and this led to the City deal (agreed
+and signed July 2017). HWU and UoE will jointly deliver the Data Driven innovation (DDI) strand of
+the deal. The DDI Programme will be delivered through a network of five DDI Innovation Hubs of
+which the National Robotarium is one, with the others being the Bayes centre, Edinburgh Futures
+Institute (EFI), Usher Institute, and Easter Bush.
+
+
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+
+
+
+
+  Figure 1: Artist's Impression of The National Robotarium due for delivery in Spring 2022
+The National Robotarium will provide state of the art facilities to co‐locate researchers, research and
+development engineers, entrepreneurs and educators to deliver the UK’s leading international centre
+for the translation of new robotics research into new products and facilities. We plan to widen our
+impact through our co-design activities and outreach to the wider community outside robotics e.g.
+health, construction etc. Through our Living Laboratories and engagement mechanisms, we will
+enable subject matter experts to understand the needs of major companies and end users. The
+National Robotarium will be located on the Heriot-Watt University campus and has a current spend
+of 2M for new robotics equipment. The activities proposed build on the established partnership of
+Heriot-Watt University and University of Edinburgh through the Edinburgh Centre for Robotics (ECR)
+and all researchers will have access to the resources and equipment of ECR.
+
+
+ Lab                                                                                        Size (m²)
+ RAS (Robotic Autonomous Systems)                                                                355
+ HRI (Human Robotics Interaction)                                                                346
+ ULTRA (Laser/Logic/Types/Rewriting/Automation)                                                  360
+ PARTNER & Seminar Space                                                                         250
+ Overall                                                                                        1414
+Table 7: Allocation of Space in National Robotarium
+
+
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+
+
+
+
+Figure 2: Architect’s Drawing of the ground floor of the National Robotarium in which all of
+the labs to the right will be used by our research groups and includes an Assistive Living
+Robotics Lab (front right).
+
+
+
+
+Figure 3: Planned 1st floor of the Robotarium, which contains a hot desking office, a further
+HRI research lab and a double vaulted space (see centre back) for our field robotics lab
+The National Robotarium will house internationally important research areas and labs and will
+include a field robotics laboratory (Vargas, Petrick), 7 HRI labs (Lemon, Hastie, Taylor, Baillie, Broz,
+Bartie, Aylett, Rieser, Chantler, Lones, Stewart), a meeting/seminar room, 2 hot desking offices with
+15 desk spaces for visiting researchers and PhD students, and a fully equipped kerb-to-kitchen
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+robotic assistive sensored living apartment, which has its own living room, kitchen, bedroom,
+bathroom, care giver bedroom, garden area, front door, and its own independent heating and lighting
+infrastructure (Baillie, Broz, Aylett, Lemon, Hastie). Three major awards will use this new facility: EU
+Project SPRING (Socially Pertinent Robots in Gerontological Healthcare, £1M, Lemon & Dondrup);
+COG-MHEAR: Towards cognitively-inspired 5G-IoT enabled multi-modal hearing Aids
+(EP/T021063/1, Baillie £3.25M) and EPSRC TAS Node on Trust (EP/V026682/1, £3M Hastie). The
+new National Robotarium will be a truly world leading facility. In addition, we benefit from facilities
+across Edinburgh Centre of Robotics including full use of the Bayes Centre sited at the University
+of Edinburgh. This is a new building housing a large number of hot desking labs/offices, a large
+seminar room for workshops and talks, and two robotics labs. The Bayes Centre along with the
+National Robotarium is one of the five hubs financed as part of the £1.3BN Data-Driven Innovation
+(DDI) Programme within the Edinburgh and South East Scotland City Region Deal.
+The Grid
+The National Robotarium is complemented by another significant investment in the GRID building,
+which is our new flagship facility to advance our global research and entrepreneurship. This open
+space collaboration facility allows broad cohesion between academic disciplines, industrial partners
+and our global community.
+
+
+
+
+              Figure 4: GRID Building adjacent to Loch at the Edinburgh Campus
+The GRID resides at the heart of our Edinburgh campus, and constitutes an investment of £19M by
+HWU. The facility has many joint networked spaces where staff can discover, tackle challenges and
+explore their intellectual passions. Of particular use to researchers in HWCS includes spaces to
+explore originality (Creative Studio), to quickly prototype hardware with the latest 3D and rapid
+prototyping technologies (Flex and Maker Studios), to develop industry-level algorithms and software
+(Digital Lab), to visualise and explore prototypes of their ideas (Immersion and Games Studio), and
+to engage with industrial partners (Enterprise Hub). The GRID also includes flexible and immersive
+learning and teaching areas complemented with the enterprise area to encourage interaction and
+design-led education. One of our main motivations for this facility was HWU’s interest in empowering
+its staff and students to develop ideas, from conception to launch in a global market.
+
+
+
+
+                                                                                               Page 16
+Unit-level environment template (REF5b)
+University Underpinning Support
+In terms of research support for academics the university has a centralised research and business
+development professional support team (RED) that provides the following:
+   Research Development - provides specialist support for academic staff seeking to win
+    research funding.
+   Global Challenge Research Fund - supports the implementation of the University’s GCRF
+    Strategy.
+   Business Development – works with academics to increase research income from industry and
+    business.
+   Research Grants Office – assists academics with their post-award management of their
+    externally funded research grants and contracts.
+   Public Engagement Team- assists academics in realising the potential of their research results
+    and work through supporting them in undertaking outreach events and disseminating to
+    audiences outside academia.
+Computing Resources to Support Research
+We have three dedicated computing technicians within HWCS who are there not just to support
+teaching delivery but also to support the specific needs of our research projects. We also have a
+graduate apprentice technician who supports the robotics work of our 3 groups.
+The University Information Services Research Support (ISRS) team works in partnership with the
+Research Engagement Directorate (RED) and other IS divisions to help facilitate research-related
+planning, and to meet the needs of both the individual researcher and the wider institution.
+The key objectives of ISRS related to the REF are:
+   Research Outputs Support: it is responsible for ensuring that all tangible research produced
+    within the University and subsequently published is recorded in a consistent manner and
+    compliant with open access and REF mandates.
+   Support for the use of High-Performance Computing facilities.
+   Capability to store, preserve and access increasingly large volumes of electronic research data
+    sets.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+
+Approach to Collaboration and Contribution
+We coach staff to be collaborative and entrepreneurial in contributing globally to our discipline. In
+total we have undertaken 491 collaborative projects over the REF period with external partners from
+academia, charities, government, NHS and other external bodies. As regards working with industry,
+107 of our projects were in collaboration with industry. We have organised our collaboration and
+contributions to the research base, economy and society into three main categories;
+   1. Collaboration and contribution to the research base;
+   2. Working with industry and Government to foster knowledge exchange and to have an impact
+      on the economy;
+
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+   3. Activities to disseminate and create impact from our research work and findings as regards
+      wider society.
+Please note that often an activity will embrace more than one of the categories.
+
+Collaboration and Contribution to Research Base
+Conference Keynotes & Chairing
+ Keynotes Conference & International Workshops                                        Academic
+     Artificial intelligence and Simulation of Behaviour Symposia, 2018           Aylett
+     Symposium on Multimodal Agents for Ageing and Multicultural
+      Societies, 2018
+     IEEE Spoken Language Technology Workshop (SLT 2021)                          Rieser
+     European Chatbot Summit (2021)
+     Workshop on Search-Oriented Conversational AI (SCAI at EMNLP
+      2020)
+     Re:WORK Conversational AI Summit (2020)
+     Intelligent Virtual Agents Conference (IVA-2019)
+     NSF Workshop on User-Oriented Agents, (2019)
+     2nd workshop on Vocal Interactivity in-and-between Humans, Animals
+      and Robots VIHAR-2019 (Turing Institute)
+     ReWORK AI Assistants Summit 2019, Amazon Research Day 2019
+     2nd SwissText Analytics Conference (SwissText-2017)
+     Data Conference 2020: Delivering better care                                 Baillie
+     SIGDIAL Conference 2017                                                      Lemon
+     Apple Siri conference 2019
+     Uphill Battles in Language Process. Workshop (EMNLP 2016)                    Konstas
+     Brazilian Conference on Intelligent Systems 2017                             Corne
+     Open PHACTS: The Data Today keynote at Open PHACTS Symposium Gray
+      (2016)
+     PPDP'20, International Symposium on Principles and Practice of Komendantskaya
+      Declarative Programming.
+     ICMS Big Proof workshop (Newton Institute (Cambridge), 2019.
+     Coalgebra, Now! – a FLOC 2018 workshop
+     Computer-Aided Mathematical Proof workshop, Isaac Newton Institute
+      for Mathematical Sciences, 2017.
+     Programming Languages and Compilers, 2017.
+     Algebra and Coalgebra meets Proof Theory (ALCOP), 2017
+
+
+
+
+                                                                                             Page 18
+Unit-level environment template (REF5b)
+ Chairing Conference / International Workshops Academic
+  Chair of the European Robotics Forum (ERF) 2017                            Vargas
+  Chair of IEEE Conference on           Robot   and   Human    Interactive
+   Communication (RO-MAN) 2014
+  Chair of Special Session on Social Robotics RO-MAN 2015
+  Senior Area chair for EACL’21                                              Rieser
+  Programme chair for Safety for Conversational AI (2020)
+  Area chair for ACL 2017 & 2018
+  Chair International Conference on Natural Language Generation (INLG'16)
+  Association for the Advance of Artificial Intelligence (AAAI) Symposium Petrick
+   Series
+  Chair of SIGCHI Mobile HCI, 2018.                                          Baillie
+  Sub-Committee Chair 2020 SIG CHI Conference.
+  Associate Chair SIG CHI Conference Series 2014-2019
+  International Steering Committee SIGCHI ACM from 2020
+  International Steering Committee Chair SIGCHI Mobile HCI
+  Chair of the International Real World Domain Specific Languages Stewart
+   Workshop (RWDSL) 2019
+  Track Chair of The Semantic Web–ISWC 2016 & 2014: International
+   Semantic Web Conference
+  Programme Chair for SIGDIAL (2014)                                         Hastie
+  Area Chair for ACL (2018, 2020), ICASSP (2020) and NAACL (2016)
+  Area Chair for COLING 2018 and EACL 2020                                   Eshghi
+  Co-Chair of AAAI Fall Symposium on Artificial Intelligence for Human- Broz
+   Robot Interaction 2016, 2017
+  Programme Chair IPCAT 2015                                                 Lones
+  Publicity Chair, IEEE Symposium on Computational Intelligence in
+   Bioinformatics and Computational Biology (CIBCB) 2015
+  Programme Chair for AAAI FSS 2020                                          Dondrup
+  EMNLP 2015 co-chair (Discourse and Dialogue)                               Lemon
+  Area Chair for ACL 2017
+  Area Chair for ACL 2018                                                    Konstas
+  EMNLP 2018
+  Chair SWAT4HCLS – Semantic Web Applications and Tools for the Life Burger
+   Sciences (www.swat4ls.org)
+  Chair 22nd Symposium on Practical Aspects of Declarative Languages Komendantskaya
+   (PADL'20)
+  Chair PPDP’19, 21st International Symposium on Principles and Practice
+   of Declarative Programming, 2019
+  Chair TEASE-LP 2020: Trends, Extensions, Applications and Semantics
+   of Logic Programming
+
+
+
+                                                                                        Page 19
+Unit-level environment template (REF5b)
+Invited Academic Talks
+Our academics have been invited to deliver over 100 research talks at Universities nationally and
+internationally, some key ones are listed in the table below.
+ University                                                                       Academic
+  Robots and Interactive Storytelling. U.Kyoto, U.Auckland, U.Wellington, Aylett
+   U.Lisbon, all 2018, U.Coimbra, Portugal, 2019.
+  Designing Health technologies: UCL, 2018, U.Glasgow, 2016, U.York          Baillie
+   2016, U.Bristol 2015 and U.Cardiff, 2019.
+  Assistive Robotics Technologies & AI: U.Edinburgh 2020 & U.Newcastle Broz
+   2017.
+  Dialogue Systems and NLP: U.Bielefeld 2016, Queen Mary University,         Eshghi
+   2016; U.Gothenburg, 2015; BCS, 2019
+  NLP & HRI: RAEng Research Forum, 2018                                      Hastie
+  Usable Security and Cybersecurity: U.Dalhousie, 2016, Masaryk Just
+   University 2015, and U.Glasgow, 2014.
+  Automated Reasoning and Machine Learning: Queen Mary University Komendantskaya
+   2019, U.Birmingham 2019, U.Cambridge 2019), U.Edinburgh 2016,
+   U.Bath 2016, U.Birmingham 2015, Oxford 2015, École Normale Supérior
+   de Lyon 2016, U.Swansea and U.Bath (by on-line conferencing, 2020),
+  Automation & Planning: RSE-CHINA Robotics and AI Workshop 2018, Petrick
+   U.Edinburgh, 2018.
+  User-Oriented Agents, Universities of Carnegie Mellon, U.Edinburgh, Rieser
+   U.Glasgow (2019); U.Pennsylvania (2017); U.Hamburg (2015); Karl-
+   Ruprecht University (2014); U.Cambridge 2014; TU-Munich 2013,
+   U.Berkeley (2013).
+  International Workshop on Neurobotics and Neural Disorders, 2019.          Broz
+  Using PL/Python functions in PostgreSQL. U.Edinburgh, 2015.                Bartie
+  Bioschemas: Improving Discoverability for Life Sciences Resources, Gray
+   ELIXIR IDP Community (2019).
+  Supporting Dataset Descriptions in the Life Sciences, European
+   Bioinformatic Institute (2017);
+  Integration in a Big Data Context, Seminar at the Urban Big Data Centre
+   (2015)
+  Scientific Lenses over Linked Data. Edinburgh (2015), U.Bozen-Bolzano
+   (2014) U.Brighton (2014)
+  Smart Sensor technologies: UFRN (2019), Universities of York (2018), Hull Lones
+   (2017), Stirling (2016) & Newcastle (2015), Royal Society of Chemistry
+   (2016).
+  NLP: Invited talk at U.Illinois, U.Sheffield, U.Athens, 2017               Konstas
+  U.Glasgow 2018
+  Cybersecurity: University of Applied Science Lucerne (2018 and 2019); Radomirovic
+   INRIA Rennes (2019), U.York (2019), U.Luxembourg (2017), U.Edinburgh
+   (2016).
+
+                                                                                        Page 20
+Unit-level environment template (REF5b)
+Editorships and Associate Editorships
+A significant percentage (40%) of our academics are editors or associate editors of high
+quality journals e.g. ACM transactions on intelligent interactive systems (ACM TiiS), Dialogue and
+Discourse 2019-present, Personal and Ubiquitous computing, International Journal of Mobile Human
+Computer Interaction, Advanced Robotics, Interacting with Computers, Genetic Programming and
+Evolvable Machines etc.
+Expert Reviewing
+Over 20 of our academics are sought by EU, UKRI (particularly EPSRC), Charities and Industry as
+expert reviewers. They review for funders nationally (e.g. EPSRC, BBSCR, Welcome Trust, Turning
+Institute, Royal Society, Parkinsons, UK, Carnegie) and internationally (e.g. EU Horizon 2020, FET,
+ERC, Netherlands Organisation for Scientific Research, NRC Canada, NSF USA, FFG Austria, SNF
+Switzerland). One of our academics (Taylor) was recognised for his outstanding contribution to
+the EPSRC Review College 2017/2018.
+
+
+ Papers / Academic Prizes                                                      Academic
+     Honourable Mention ACM DIS 2017 Research Papers for "Image- Chantler
+      based Emotion Feedback: How Does the Crowd Feel?
+     Honourable Mention ACM CHI 2017 Research Papers for Chantler & Padilla
+      "Understanding Concept Maps: A Closer Look at How People Organise
+      Ideas"
+     Best paper, ASME 2013 IDETC/CIE Conference 2013,"The Evaluation Chantler
+      of a Virtual-Aided Design Engineering Review. System for Automated
+      Knowledge Capture and Reuse"
+     Honourable Mention award (top 5% of papers) at Mobile HCI 2015. For Just & Baillie
+      why aren’t users using security protection?
+     SIGEVO Impact award ACM (2017). The award specifically indicates Corne
+      that a paper is now considered ‘seminal’ by this research community
+     Best study paper award at Human Robot Interaction Conference 2016        Dondrup
+     Runner-up for best paper award at SigDial 2017.                          Rieser
+     Winner of SemEval Shared Task 7: Sentiment Analysis for Arabic
+      Tweets (2016).
+     The Alonzo Church award (jointly with Andrew Pitts) 2019                 Gabbay
+     LICS test-of-time award 2019
+     Influential Paper Award by the 2018 International Conference on Petrick
+      Automated Planning and Scheduling (ICAPS 2018).
+     Best paper award at ACL 2017 (Robo-NLP workshop)                         Lemon & Eshghi
+     ACM “Humies” Human Competitive Awards 2018, Gold prize                   Lones
+     Winner of LSDSem Shared Task 2017                                        Konstas
+
+
+
+
+                                                                                          Page 21
+Unit-level environment template (REF5b)
+Industry, Government and Wider Economic Collaboration
+We are aware that to facilitate adoption of our work in policy areas and in industry, it is imperative to
+engage with industry and government to raise and maintain awareness of our scientific research.
+We have undertaken over one hundred projects with Industry, and we have also undertaken
+extensive activities to connect with government and government agencies.
+
+
+ Industry Talks & Knowledge Exchange                                                    Academic
+     Invited talk at the Dstl Accelerator collaboration event. London, 2018        Hastie
+     ORCA Open Day, Edinburgh, with industry VIPs, 2018
+     ORCA trials at ORE Catapult, Blyth with industry VIPs, 2019, Fort
+      William with industry VIPs, 2018
+     Invited talk at the Future of the North Sea Digital Transformation
+      Conference, Edinburgh, 2019
+     SPE Offshore Europe Exhibition, Aberdeen, 2019
+     Invited talk at Amazon Seattle and Microsoft Research Redmond, 2017 Konstas
+     Amazon Research Day Cambridge 2018
+     Invited talk at Google London
+     Invited speaker at Apple NLU workshop, Cambridge UK 2020                      Rieser
+     Royal Society of Edinburgh AI lectures series 2020
+     Invited keynote at Amazon Research Days, Edinburgh 2019
+     Invited talk at Google Workshop on Conversational Search 2019
+     Invited talk at Thomson Reuters 2017
+     Industry secondment with Nuance Communications, 2018
+     Microsoft Research designing rehabilitation technologies for the home, Baillie
+      2017
+     Vodafone, London 2018, designing better mobile human interaction
+      design models.
+     Virtual City Guides: how spatial models can help interfaces disappear, Bartie
+      Centre for Environment, Heritage and Policy, Stirling, Feb 2017.
+     Invited speaker Facebook AI summit 2017                                       Lemon
+     Invited speaker BBC voice + AI summit 2018
+     Invited keynote speaker Apple Siri conference, Cambridge 2019
+     Dataset Descriptions in Open PHACTS and W3C HCLS IG, NDEx Gray
+      Webinar (2014).
+
+
+
+
+                                                                                                Page 22
+Unit-level environment template (REF5b)
+ Industry Prizes                                                               Academic
+    Guardian Award for Business Collaboration for the ORCA HUB partner Hastie
+     consortium, 2018
+    Converge Challenge Pitch competition semi-finalist (2019, 2014)
+    Alexa Prize Challenge (Won 3rd Place in 2017 and 2018) total student   Rieser, Lemon
+     prize money $100,000 USD (+ $350K academic gift from Amazon)           and Konstas
+                                                                            (supervised the
+                                                                            student team)
+    Edinburgh Apps Challenge, Edinburgh Council, 2014                      Rieser
+    Adobe research gifts 2019 & 2020 ($16,000 USD)
+    Google Faculty Award ($40,000 USD)
+    Apple Faculty Award ($100,000 USD) with Kontas as Co-I
+    EPSRC SCORRES project (EP/P031145/1) Smart agriculture, Corne
+     precision irrigation for subsistence farmers in India. Corne led the
+     computer systems work that did the processing and decision-making:
+           o   2017/18 Rushlight Award for Resource Innovation
+           o   2017/18 Rushlight Award for Water Management
+           o   Official Innovate UK Success Story
+    Medipex NHS Innovation Awards 2015, Winner in Medical Devices and Lones
+     Diagnostics category
+
+
+Government & International Bodies and Professional Organisations
+
+
+
+
+               Figure 5: Academics presenting and discussing our Robotics
+                   work with the Deputy Secretary of State for Scotland
+Many of our academics have been asked to advise government ministers and committees. We have
+also been asked to be chairs of international bodies and associations e.g. IFIP, IEEE, ACM.
+
+
+
+
+                                                                                      Page 23
+Unit-level environment template (REF5b)
+ Expert Advisors/Scientific Leads                                              Academic
+    UKRI Global Expert Mission to the USA for Robotics for extreme            Hastie
+     environment in March 24-30th, 2019.
+    Advisor for the Scottish Government’s AI Strategy 2017-present.
+    Presentation on Robotics at the House of Commons, London, 2019
+    Board Member Scottish Research Partnership in Engineering (SRPe)
+     for Robotics and AI.
+    IEEE subcommittee member for Speech and Language Processing.
+    Board member for IEEE standard on Transparency for Autonomy
+     (P7001).
+    Invited expert to the Digital Catapult Pit Stop for Dstl, London.
+    Founder of the International Federation for Information Processing Ireland
+     (IFIP) Working Group 1.9/2.15 – Verified Software.
+    Chair IFIP WG14.5 2010-2018                                               Baillie
+    Scottish Parliament Health Committee expert speaker, 2016 work
+     related to building usable technologies for stroke rehabilitation
+    EPSRC ICT Strategic Advisory team for 5 years,                            Chantler
+    UKRI Digital Economy Programme Advisory board 5 years.
+    Innovate UK Panel Member.
+    Data Lab Innovation Centre, Advisory Board (3 years to date).
+    Software Sustainability Institute, Steering committee (5 years to date)
+    ScotlandIS Data Cluster, Industry Advisory Group (appointed 2020)
+    Advisory board of Dialogue Systems Technology Challenge (DSTC) Rieser
+     2017
+    Policy advisor: Member of the RSE Scoping Group on Artificial
+     Intelligence (2019- current),
+    UKRI Closed Roundtable on Next Generation AI (2019),
+    Contributor to the GOV.UK Centre for Data Ethics and Innovation's
+     report on Smart Speakers and Voice Assistants (2019),
+    Steering board of the Dialog System Technology Challenges (since
+     2017)
+    Panel member for formation of new research institute (Walton Institute), Taylor
+     Ireland
+    Chair of Bioschemas Steering Council (4 years to date)                    Gray
+    Scottish Informatics Linkage Centre Advisory Board (2013-2019)
+    ELIXIR UK Management Board (2016-2019)
+    ELIXIR UK Steering Committee (4 years to date)
+
+
+
+
+                                                                                          Page 24
+Unit-level environment template (REF5b)
+Contribution and Impact of our Research on Wider Society
+As many of our talks, demos and exhibits are group efforts involving our post-graduate researchers,
+PhD students, alongside our academics we have not put this section into tables. We believe taking
+part in such events support the training of our PGRs and also provides role models to a diverse
+audience as regards careers in STEM.
+Public Talks
+   Rieser public lecture on her groups work on the Alexa Challenge at the European Researcher's
+    Night, Edinburgh Zoo. RSE Curious programme (2020), Tea & Talk at the RSE Summer
+    programme (2020), Allen Institute for AI NLP Highlights Podcast #108 (2020)
+   Broz Art of Possible: Rise of the Robots. Glasgow, UK 2018.
+   Aylett, The Robots are Coming! Cabaret of Dangerous Ideas, Edinburgh Fringe Festival 2017.
+Public Engagement Prizes
+   Rieser, EPSRC Telling Tales of Engagement Award 2018 (£10,000)
+Public Exhibitions & Events
+   Rieser “Designing a Feminist Alexa" workshop with the Royal Society of Edinburgh (2020),
+    German School visit with ``Native scientist" (2016).
+   SoCoRo project exhibited at the Edinburgh International Science Festival in April 2019.
+
+
+
+
+       Figure 6: SoCoRo project demo at the Edinburgh International Science Festival
+The National Museum of Scotland hosted a major exhibition of robots in 2019 this was the most
+significant collection of humanoid robots ever assembled. The exhibition included early clockwork
+machines and a T-800 endo skeleton which featured in Terminator Salvation. Visitors learned about
+the latest innovations in robotics research at ECR. The exhibition attracted over 60,000 visitors.
+
+
+
+
+                                                                                          Page 25
+Unit-level environment template (REF5b)
+
+
+
+
+Figure 7: Demonstrating our HRI research using the Cosmo Robot at the National Museum of
+Scotland Robotics Exhibition 2019 (family day shown on left and an exhibition night event on
+the right)
+   Hastie appeared on BBC news (October 2019). Robotic inspectors developed to fix wind farms
+    - https://www.bbc.co.uk/news/uk-scotland-50030184
+   BBC TV: documentary "The Joy of AI" 2018; Tomorrow's World Live 2018 (Lemon)
+   BBC science editor, David Shukman, visited the ECR this resulted in the Centre’s robotics
+    research being on BBC News at Ten.
+   We undertook the ORCA Hub Exhibit at The Royal Society Summer Science Exhibition in
+    London, 2019.
+   The virtual Royal Society Summer Science 2020 Exhibition: What are they up to now? Robots
+    in the danger zone - YouTube https://www.youtube.com/watch?v=msdPYRUNMlM
+
+
+
+
+                  Figure 8: Royal Society Summer Science Exhibition 2019
+We also exhibited our assistive living robotics work at the Chelsea and Westminster Hospital Trust,
+Innovation Exhibition.
+
+
+
+
+                                                                                          Page 26
+Unit-level environment template (REF5b)
+
+
+
+
+     Figure 9: Exhibition at the Chelsea and Westminster Health Trust Innovation Event
+The ORCA Hub exhibit at the 2019 Babcock Festival of Engineering in Rosyth, running
+demonstrations for over 300 local school children. They also ran demonstrations for school pupils in
+Aberdeen as part of the ORCA Hub SubseaExpo 2019.
+
+
+
+
+      Figure 10: Orca Event demonstrations to school pupils as part of the ORCA Hub
+
+
+
+
+                                                                                           Page 27
+

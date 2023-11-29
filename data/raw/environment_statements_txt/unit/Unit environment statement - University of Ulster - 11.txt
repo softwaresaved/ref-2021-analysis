@@ -1,0 +1,1294 @@
+Unit-level environment template (REF5b)
+ Institution: Ulster University
+
+ Unit of Assessment: 11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Unit context and structure
+ Research in Computer Science and Informatics at Ulster, referred to as CS@Ulster/The Unit, has
+ seen measurable expansion since REF2014 as a result of our research and impact strategy,
+ achieving >75% increase (69.6 FTE) in the number of staff with significant responsibility for
+ research(SRR), with >216% increase in the number of ECRs, >17% increase in the number of
+ contracted researcher staff (CRS) totalling 248 person years, >45% increase in PhD researchers
+ registered and >54% increase in grant expenditure. CS@Ulster research is conducted within two
+ schools, the School of Computing, Engineering and Intelligent Systems (SCEIS, Magee Campus,
+ Derry/Londonderry) and the School of Computing (SoC, Jordanstown Campus), both within the
+ Faculty of Computing, Engineering and the Built Environment. The unit is directed by Prof Damien
+ Coyle (Professor of Neurotechnology) and co-directed by Professor Luke Chen (Professor of Data
+ Analytics) through three overarching research centres; the Intelligent Systems Research Centre
+ (ISRC 30.9 fte), the Artificial Intelligence Research Centre (AIRC 17.2 fte) and the Pervasive
+ Computing Research Centre (PCRC 21.5 fte). These centres operate cohesively and undertake
+ fundamental and applied interdisciplinary research and translational research, organised in
+ 11 interrelated research themes/teams (nine led by Professors) with a significant emphasis on
+ R&D and impact in life and medical sciences:-
+
+ The Intelligent Systems Research Centre vision is to develop a bio-inspired computational basis
+ for Artificial Intelligence.
+
+ Teams:
+    • Computational Neuroscience and Neuromorphic Engineering (Lead: McDaid, Prof of
+      Computational Neuroscience (5 fte): Modelling cellular and network level brain structure
+      and function to develop understanding of neural systems and to create biologically inspired
+      algorithms and hardware.
+    • Cognitive Neuroscience and Neurotechnology (Prasad, Prof of Intelligent Systems,
+      3.2     fte):   Intelligent   signal/image       analysis    of    electroencephalography;
+      magnetoencephalography, functional near-infrared spectroscopy, functional magnetic
+      resonance imagery and diffusion tensor imaging, to understand brain dynamics, structure
+      and function and to develop ways to restore, maintain and enhance physical and cognitive
+      function through brain-computer interfaces.
+    • Cognitive Robotics (Coleman, Prof of Vision Systems, 7.5 fte): Bioinspired algorithms
+      for sensory systems and robotic technologies with human-like sensing capabilities for
+      seamless interaction, with applications in vision systems, assistive devices, tactile sensing,
+      and industry 4.0.
+    • Intelligent Data Analytics (Coyle, Prof of Neurotechnology, 10.2 fte): Bio-inspired
+      paradigms for AI, machine learning and scalable computing for complex, challenging data
+      analytics problems, many of which are industry-led.
+    • Cyber Security and Web technologies (Curran, Prof of Cyber Security, 5 fte):
+      Developing secure, intelligent web technologies that can deliver context aware knowledge
+      and actions in real-time.
+
+ The Artificial Intelligence Research Centre vision is to develop AI technologies that underpin
+ an intelligent society, empower people and support a sustainable future.
+
+ Teams:
+    • Learning, Modelling and Optimisation (Glass, Senior Lecturer, 5 fte): fundamental
+      research in machine learning, mathematical modelling, (e.g., opinion dynamics, ecological
+      networks, pandemic modelling), mathematical optimisation (Bayesian optimisation, multi-
+      objective optimisation).
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+    •   Knowledge, Reasoning and Decision-making (Liu, Reader, 4.2 fte): fundamental
+        research in knowledge representation, reasoning, logic (including theorem proving, formal
+        verification) and decision making.
+    •   Informatics and Systems (Zheng, Professor of Computer Science, 8 fte): research
+        driven by specific real-world challenges in bio/geo-informatics, multimedia, swarm
+        systems, digital interventions, food authentication, virus detection, text/video/image
+        analytics.
+
+ The Pervasive Computing Research Centre vision is to realise ubiquitous environmental
+ monitoring and data analytics solutions with a focus on health and wellbeing.
+
+ Teams:
+    • Human Activity Recognition (Nugent, Prof of Biomedical Engineering, 7.5 fte):
+      research relating to sensor-based technologies with applications in activity recognition,
+      behaviour monitoring, assistive technologies for healthcare and independent living.
+    • Ubiquitous intelligence (Chen, Prof of Data Analytics, 7 fte): research in IoT and edge
+      computing, process analytics and automation, privacy and security, and user-centred
+      intelligent cyber-physical systems.
+    • Human-Computer Interaction (Cleland, Lecturer of Data Analytics, 7 fte): through the
+      centre’s Living Lab focus, research on the human factors associated with interactive
+      computing systems, multimodal interaction, and affective and wearable computing.
+
+ 1.2 Research and Impact strategy
+ Our research themes focus on fundamental and applied research – our fundamental research
+ enables and demands the development of new algorithms, many of which are inspired by gaining
+ knowledge of natural and biological systems, particularly the brain. Dealing with challenging data
+ (electrophysiological, biological, medical, and industrial data) at a fundamental level demands the
+ development of expertise in AI, machine learning, data analytics and engineering capability
+ therefore, these research topics transcend all our research themes and have enabled us to
+ develop a strategy that involves:
+
+    1. crossing disciplinary boundaries
+    2. diversifying our funding sources
+    3. enabling our researchers to contribute to the increasing demand for expertise and
+       capability in AI presented by industry with a major emphasis on life and medical sciences.
+
+ Our research strategy is developed as a team involving the individual centre directors, the unit
+ research directors (RDs), the faculty associate dean for research and impact and our faculty
+ executive dean (Maguire returned in CS@Ulster). The Faculty Leadership Team (FLT) meet
+ weekly, the faculty research executive meet monthly and the two schools (SCEIS and SoC) both
+ have School Research Executives that involve centre and team/theme leads and focus on
+ research operations, strategy, initiatives, and support mechanisms. Strategic options are
+ proposed and reviewed at all levels with yearly and five-year overarching research KPIs set by the
+ University Senior Leadership Team (SLT) and FLT. Focus is placed on aspects of these targets
+ each year with additional seed funding provided to stimulate, seed and drive new initiatives. Areas
+ of potential for research excellence, recognition, growth and impact are identified by staff and/or
+ teams and those of strategic importance for the unit are supported whilst alignment with existing
+ priorities are considered.
+
+         Overarching objectives and strategy summary
+ The unit’s strategy objectives and overarching strategy in this period, which were aligned with
+ Ulster Strategic Plan and Research and Impact plan, were: -
+
+    •   to enhance research quality and awareness - through active engagement with Ulster’s
+        research development programme (SOARING (see section 2.1.1)) and educating and
+        training staff on the importance of research planning, statistical evaluation and undertaking
+
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+        collaborative research (checklist in Fig. 1 highlights key aspects of our quality
+        enhancement awareness strategy).
+
+        Check list for staff submitting papers
+
+           Presubmission
+                                                             Post acceptance/publication
+               ✓ Originality, significance and rigour
+                                                                 ✓ Publicity plan
+               ✓ Thorough experiment design/review
+                                                                 ✓ Citation gathering plan
+               ✓ Ethical approval and statistical analysis
+                                                                 ✓ Impact follow up
+               ✓ Strategic (centre/team vision)
+                                                                 ✓ Relation to impact plan
+               ✓ Thorough review by co-authors/peers
+                                                                 ✓ 100 word summary
+               ✓ Journal choice : Scope and Impact factor
+               ✓ Aim high : get feedback
+               ✓ Relation to impact plan
+               ✓ Interdisciplinary
+               ✓ International collaboration
+               ✓ Industry collaboration
+
+
+  Fig. 1 Checklist for developing research plans and submitting papers as part of our strategy to
+                                     enhance research quality
+
+
+    •   to increase the number of staff returned in REF2021 by >50% (compared to REF2014)
+        - through new strategic appointments, ECR development and supporting increased
+        responsibility for research of existing staff, and supporting staff who were more aligned to
+        a teaching pathway to become research active. (see Fig. 2 showing a >75% in staff
+        returned has been achieved)
+    •   to increase investment in new research infrastructure and resources - the strategy
+        focuses on building on existing capital including brain imaging/interfacing technologies,
+        living labs, novel technologies for human-computer interaction and high-performance
+        computing infrastructure (we have established a number of new unique labs/facilities
+        (see sections 1.3 and 3.3))
+    •   to increase the number of PhD researchers by 30% - through external grant income
+        supported studentships and the creation of an excellent environment for PhD researchers
+        supported through Ulster’s Doctoral College. (see Fig. 2 showing a >30% increase in
+        PhDs registered)
+    •   to increase grant income by 50% - by targeting large research initiatives, diversification
+        of target funding sources, increased collaboration with international centres of excellence
+        and training staff in grant writing – supported through Ulster’s research development
+        programme (RIGOUR (see section 2.1.1)), mentorship by senior staff and staff research
+        profile development (see Fig. 2 showing >54% increase in expenditure)
+    •   to develop impact - through engagement with industry, generation and licensing of new
+        IP and commercialisation through the creation of spinout companies, focus on clinical
+        research and trialling technologies with end-users, improving patient care and quality of
+        life, re-enablement of people with disabilities as well as raising public awareness of
+        research science through public engagements and outreach activities (4 spinouts, >£3m
+        KTP funded, multiple research grants with international/industry collaborators and
+        over 70 hospital/clinical partnerships)
+    •   to excel in multidisciplinary and translational research - by developing enabling
+        technologies including AI, pervasive computing, software and capability, with a key focus
+        on life and medical sciences and researching the latest emerging technologies across our
+        research themes (interdisciplinary research is evidenced throughout this statement).
+    •   to ensure staff and PhD researchers are aware of and maintain the highest ethical
+        standards in research through compulsory training such as our Research Integrity
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+         course (100% completion by all staff returned and PhD researchers), with many
+         projects/studies involving human participants ethically reviewed by internal and external
+         research committees.
+
+
+
+                                        REF 2014 vs REF 2021
+              FTE staff                                             REF2021
+                                                                    REF2014
+                  ECRs
+
+  New Contract Res FTEs
+
+       PhDs Registered
+
+     R&D Inccome (£m)
+
+                          0   20   40    60     80    100    120    140    160   180
+
+
+ Fig. 2 Indicators of measurable expansion since REF2014 because of our research and impact
+                                           strategy.
+
+         Large initiatives supporting our growth, interdisciplinary research expansion and
+         impact strategy
+
+ Industry-led data analytics research strategy
+
+ The Cognitive Analytics Research Laboratory (CARL)
+    • With the growth in demand for AI and data analytics capability locally and globally, as
+       highlighted in the Northern Ireland Matrix Digital ICT Report 2016 and the Matrix report
+       on AI in Northern Ireland report, 2019, produced by the Alan Turing Institute, the unit
+       strategically operationalised to consolidate AI research capability across all centres and
+       maximise the exposure of our AI research capability through one virtual centre, CARL, in
+       2017. Ulster University invested £4m to create 11 new full-time academic posts for CARL
+       (McCreadie, Ding, Vance, Ramlan, Dora, Rankin, Cleland, Rafferty, Chen, Bai, Bond
+       (promotion)). CARL followed extensive engagement/consultations with industry and civic
+       stakeholders to develop strategy to support industry in their AI and data analytics needs
+       and to enable us to capitalise on the demand for skills and experience in AI.
+    • The launch of CARL was strengthened through a £5m endowment by the Dr George
+       Moore foundation to ISRC, to fund a Dr George Moore Chair in Data Analytics (Kasabov)
+       and research fellowship cum lecturer (Bucholc) along with 3 PhD research studentships in
+       data analytics.
+
+ BT Ireland Innovation Centre (BTIIC)
+    • CARL also coincided with the launch of the BTIIC (2017), a research and computer
+        science Centre of Excellence, through investment of £9m of funding from Invest
+        Northern Ireland (£6.3m to Ulster) plus a joint investment by BT and Ulster University
+        of £6,244,427m in a research programme creating 32 new research positions (5 fellows,
+        15 research associates and 12 PhD studentships) at Ulster and 50 new graduate roles in
+        the BT Belfast Global Development Centre. The BTIIC R&D partnership is the first in
+        the UK (beyond Cambridge) supported by BT and focuses on building on our unit’s
+        strengths in Internet of Things, Intelligent Systems, Cyber Security, Fixed and Mobile
+        Network and telecommunications. The partnership has impacted BT substantially as
+        recognised by the recent award TM Forum: Winner - Outstanding Catalyst – Business
+        Impact, 2020 (Rafferty, Nugent, Scotney).
+
+
+                                                                                            Page 4
+Unit-level environment template (REF5b)
+ The Legal Innovation Centre (LIC)
+    • The LIC, established in 2016, is another example of our strategy of impacting industry
+       through AI capability and interdisciplinary research involving a collaboration between the
+       ISRC, Ulster Law School, and law firms Allen&Overy and Baker McKensie (£250k
+       provided by the Allen&Overy Foundation). The interdisciplinary centre focuses on
+       automation of legal document analysis including extracting facts from prospectuses of
+       companies going public, Automated NDA Risk Analysis, Automation of Company Search
+       Process, and Semantic Fact Verification.
+
+ Capital Markets Engineering
+    • CARL, BTIIC and LIC followed on from a successful Capital Markets Engineering project,
+        launched in 2011, involving 10 PhD studentship supported by Invest Northern Ireland
+        (~£236K) and multiple fintech businesses in the region (£420K)
+    • including New York Stock Exchange Technologies, Citi, First Derivatives, Fidessa,
+        and Kofax.
+
+ Life and Medical Sciences based research strategy
+ One of Ulster’s 4 priority research themes is Healthy Communities and the unit’s strategy in
+ contributing to this theme is exemplified in a number of large, funded-initiatives:-
+
+ The Northern Ireland Connected Health Innovation Centre (NI-CHIC)
+    • NI-CHIC was established in 2011 as a competency centre (co-led by PCRC and Ulster’s
+       School of Engineering) with £4,627,807 in phase 1 and renewed in 2019 with £3,359,236
+       funding in phase 2 from Invest Northern Ireland (INI), to conduct business-led research
+       in the areas of sensors and diagnostics, smart living and analytics and IoT and has led to
+       a membership of over 40 companies and impactful delivery of robust business solutions
+       arising from our research (impacts highlighted in our REF2021 impact case studies
+       ICS3-6)
+
+    •   Northern Ireland Functional Brain Mapping (NIFBM) Building on the computational and
+        cognitive neuroscience, neurotechnology and rehabilitation research at the ISRC the
+        NIFBM was established in 2014 with a joint investment between Ulster and INI (£5.3m).
+        The facility houses the only magnetoencephalography (MEG) brain imaging system on the
+        island of Ireland. Impactful projects involving trials with patients are described in ICS1
+        and ICS2.
+
+ Centre for Personalised Medicine (CPM)
+    • The NIFBM aligns with the CPM, established in 2016, through £3.64m received from
+       the EU INTERREG VA Programme (led by Ulster Biomedical Science and the ISRC),
+       a cross-border collaboration involving 12 academic partners, public healthcare providers
+       clinical collaborators and healthcare services companies. The objective of the project is to
+       establish a research-led environment for personalised clinical decision-making with ISRC
+       providing neuroimaging, AI and Data Analytics expertise in the project.
+
+ Please see sections 2 and 3 for other research grant income that underpin these large initiatives.
+
+         Research quality, interdisciplinary research and international collaboration
+ Through the strategy of focused intensity on securing diversified funding and large industry related
+ engagements along with life and medical sciences and patient focused research, our research
+ quality in fundamental and interdisciplinary research has increased, as evidenced by publications
+ in some of the top journals across a range of research disciplines (see section 4 which shows the
+ distribution of outputs returned in journals across multiple disciplines). The interdisciplinary nature
+ and extent of our research collaborations is evidenced by co-authorship of 125 publications
+ (~72% of those returned in REF2021) with researchers and industrialists from 189 different
+ institutions/companies (150 international and 39 national) and from 33 different countries.
+ Research quality and interdisciplinarity are also exemplified by funding received from multiple
+ prestigious sources including 13 grants from five of the UK Research Councils (5 awards in
+
+                                                                                                 Page 5
+Unit-level environment template (REF5b)
+ 2020) involving interdisciplinary partnerships with other UK institutions (see section 3.1 for further
+ details).
+
+          Impact
+ In addition to realising impact through collaborative R&D with clinical partners (with many patient
+ trials (all 6 REF2021 ICSs involve patient and/or caregiver impacts) and industry across our
+ larger research initiatives (section 1.2.2) the unit has placed significant emphasis on developing
+ and licensing new intellectual property (e.g., 46 new invention disclosures in this REF cycle,
+ 6 patents and 4 licencing deals) and incubating research to spinout companies (4 companies
+ founded in this cycle). Our strategy is underpinned by the belief that pursuing product
+ development and start-ups arising from research within our core research themes will streamline
+ exploitation and impact of current and future R&D and help retain talent and skills within the region
+ to improve the startup culture, innovation ecosystem and knowledge economy. Our strategy
+ has been to raise awareness among, and to support, staff and PhD researchers in business
+ development processes and entrepreneurship through:
+
+ Business accelerator participation
+    • supporting staff to participate in top-class business accelerator programmes e.g.,
+       (CatalystNI co-founder programmes, NDRC FutureHealth; Ignite at the Judge Business
+       School, Cambridge; RAEng Enterprise Fellowship; IUK iCURE (Callaghan, Coyle, Harkin,
+       Coleman, Kerr).
+
+ Product development and startup funding
+    • supporting staff to bring research beyond published outputs, trialling with end-users and
+       developing prototypes at higher technology-readiness levels through securing INI proof of
+       concept (INIPoC) funding, commercial focused funding and equity investment for spinouts.
+       For example, following proof-of-principle Ulster funding (£10K, 2012), INIPoC funding
+       (£106k, 2013), a Royal Academy of Engineering Enterprise fellowship (£60k, 2016),
+       Ulster spinout NeuroCONCISE Ltd (neurotech company) was founded (2016) and
+       secured two Innovate UK Grants valued at £340K (Project Nos. 103607, 104959 and
+       seed investment of £210K from Techstart NI and Innovation Ulster Ltd) (linked with
+       ICS1). Another spinout Respiratory Analytics Ltd (previously SmartAir and Airbrio Ltd)
+       secured an IUK Smart Award (£310K Project No. 56551) and £180K equity investment.
+       Software emerging from research in the Total Energy Management for Production
+       Operations (TEMPO) project went on to secure INIPoC for smart energy analytics software
+       (iTEMPO) (2018) and subsequently, Innovate UK funds from the ICURe programme.
+       Research in gait analysis also secured INIPoC funding (eZiGait, 2019, Zheng). Research
+       in bioinspired computer vision (VISUALISE project) received INIPoC leading to spinout
+       company BIONICS.
+
+ Section 4 presents further information on impact through collaboration involving Knowledge
+ Transfer Partnership funding (>£3m this REF cycle) and partnerships with over 70
+ hospitals/healthcare providers.
+
+ 1.3 Future strategy
+ Our future strategy has four overarching themes that will enable us to grow our research capacity,
+ intensity and quality:
+     • People - Talent/skills;
+     • Infrastructure;
+     • Research Resources;
+     • Open Data
+
+        Future People - Talent and skills,
+ Building on the strengths of the unit and the significant growth of the unit in this REF cycle, we aim
+ to consolidate and strengthen our existing staff cohort in the next REF through a number of large,
+ targeted research initiatives that link with local and national strategies which are already in
+
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ development, industry-led challenges in AI and Data Analytics and Life and Medical Sciences to
+ build capacity including:
+
+ •   AI Collaboration Centre for Northern Ireland (AiCC-NI): building on the recommendations
+     from the Turing report on AI capability in Northern Ireland and the UK AI strategy, this
+     CS@Ulster-led collaboration with Queens University Belfast will develop AI capability and
+     awareness, enable industry upskilling and deployment of AI across a range of industry-led
+     data analytics challenges (outline business case to be submitted to the Department for
+     Economy March 2021). AiCC will build on a Seagate-led project, SmartNanoNI, which has
+     secured UKRI Strength in Places Funding (first stage), involving multiple partners including
+     the ISRC, Coyle’s Turing AI Acceleration Fellowship (EP/V025724/1) secured in 2020
+     which has a time allocation to translate AI developments from neurotechnology research to
+     other industry sectors and a further £500k invested in the Legal Innovation Centre by
+     Allen&Overy in 2020 for AI related research.
+ •   Operate Technology Innovation Centre (OpTIC): PCRC engaged with Price Waterhouse
+     Cooper (PwC) to as part of PwC’s longer-term strategy for R&D investments across the UK
+     and globally over a 10-year horizon, with a particular emphasis on Robotic Automation,
+     Workflow Automation, Data Analytics and Artificial Intelligence. £6.8M funding has been
+     approved by Invest Northern Ireland (March 2021) to establish OpTIC.
+ •   BBC Data Science Research Partnership (DSRP): Ulster University is one of eight UK
+     universities to form a major five-year (2017-2022) research partnership with BBC Research
+     and Development to unlock the potential of data analysis in the media. In 2020, AIRC (Wang,
+     PI) secured along with BBC NI, Cambridge University and Surrey University, £2.24m funding
+     from EPSRC (EP/V002740/1, £720K to Ulster) for Multimodal Video Search by Examples. A
+     number of other data analytics projects are being developed in BBC-DSRP.
+ •   Accelerating Ireland’s Neurotechnology Growth (ACING)-Institute: building on growing
+     strength in neurotechnology, computational neuroscience and neuroimaging R&D and
+     infrastructure in ISRC the ACING institute will capitalise on the UK push to become leader in
+     neurotechnology innovation through the KTN Neurotechnology Innovation Network (Coyle,
+     Advisory board member), addressing the UK EPSRC Healthcare Technologies Grand
+     Challenges and Ireland North-South Collaboration funding, with all major
+     neuroscience/neurotech research centres in the Rep of Ireland as well FutureNeuro and
+     NeuroNSIGHT. Appointments to support this development include Kelso, Bhattacharya,
+     Wade, Liu, Flanagan, and Kasabov. ACING will be supported by recent grants including the
+     UKRI Turing AI Acceleration Fellowship: AI for Intelligent Neurotechnology
+     (EP/V025724/1, ~£1.8m, Coyle, 2021-2025) and two US-Ireland R&D grants both part-funded
+     by UK MRC: MC_PC_20020 (£175k to Ulster, Wong-Lin, 2020-2025) with Columbia
+     University, New York and University College Dublin and MC_PC_20021 (£389,995K to Ulster,
+     McDaid, 2020-2023) with Kansas State University and NUI Galway.
+ •   COVID19 related research: We will continue to play our part in understanding and treating
+     COVID19 through funded projects including EPSRC project EP/V026488/1 Virus
+     Identification via Portable InfraRed Spectroscopy with Queen’s University Belfast,
+     Northern Ireland Regional Virus Lab, Technical University Dublin (£410K Wang, 2020-2022);
+     and the DfE-SFI-funded COVRES project (SFI Ref 20/Cov/8581, £354,637, Bucholc).
+     Bucholc has a public health agency (PHA) Research Placement Agreement (REF: 20200528)
+     to conduct analysis on the risk factors for mortality in patients with COVID19 and research into
+     COVID19 using the UK COVID-19 Symptom Tracker data to assist the work of the UK
+     Government Specialist Modelling Response Expert Group (REF-SAIL: 1131). Bucholc
+     also developed the COVID-19 Tracker app for Northern Ireland (https://nicovidtracker.org/).
+ •   Doctoral training: A major emphasis in the next REF cycle will be on expanding our PhD
+     research cohort targeting an EPSRC centre for doctoral training, industry supported
+     studentships and other doctoral funding initiatives such as European Training Networks e.g.,
+     H2020-MSCA-ITN-2015 project ACROSSING (Chen, Nugent, Cleland, McCullagh).
+ •   Researcher mobility: We will continue to work with the international centres of excellence
+     building on, for example, PRO-GAIT (Coyle), SenseCare (Zheng), MetaPlat (Wang) and
+     REMIND (Nugent), MENHIR (Bond), all staff mobility programmes supported by the H2020-
+     MSCA-RISE.
+
+                                                                                              Page 7
+Unit-level environment template (REF5b)
+ With the larger unit size (69.6fte) and these initiatives we will increase research intensity through
+ an increase in the number of PhDs completions/year by 30% (via additional studentships and
+ a route and branch analysis of processes to improve in PhD completion rates) and double the
+ number of contracted research staff hours in the next REF cycle.
+
+         Future Infrastructure
+ There is a substantial funding commitment for research facility expansion and capital through two
+ major regional development initiatives i.e., City Deals, which are a once in a generation
+ investment package to accelerate inclusive economic growth. CS@Ulster is in an excellent
+ position having a leading role in two separate City Deals. Key infrastructure projects led by or
+ associated with CS@Ulster include:
+
+ Derry/Londonderry and Strabane Region City Deal (Total investment package £250M)
+ • CARL (lead) – The Cognitive Analytics Research Laboratory (total value £16.5m) will
+    establish physical presence for a research and innovation centre dedicated to cognitive
+    analytics and AI and enable our growth plans for CARL virtual established in 2017 and the
+    proposed AiCC as well as expansion of the ISRC’s core research themes which underpin new
+    AI developments for industry-led data analytics challenges.
+ • CIDRA (lead) – The Centre for Industrial Digitisation and Robotics Automation (total value
+    £25.5M) will be a centre of excellence for Industry 4.0 enabling the manufacturing industry to
+    become more innovative, productive and competitive in their operations through the adoption
+    of emerging digital technologies and AI.
+
+ Belfast Region City Deal (Total investment package £850M)
+ • CDHT (partner): The Centre for Digital-Healthcare Technologies (total value £42.9M) will
+    bring together capabilities in Computing (AI, data analytics to IOT), Engineering (Health Tech.
+    to Connected Health) and Biotechnology (Molecular Diagnostics) to build additional capability,
+    a world class innovation accelerator and co-creation platform and technology cluster, for
+    academia, industry and clinicians to innovate and boost the healthcare technology sector.
+
+ All our City Deal project initiatives are associated with AiCC outlined above and focus on
+ new buildings and new state-of-the-art research equipment and future proof and drive our growth
+ strategy and will enable us to continue to develop world-class research infrastructure. Business
+ Cases have been approved and Heads of Terms have been signed off by government for
+ both City Deals.
+
+ The city deals will follow-on from a new Ulster Campus development (The Greater Belfast
+ Development) with an investment of £365M which is due to open in 2021. AIRC and PCRC
+ will be relocated to state-of-the-art research labs and facilities on the new campus.
+
+        Future Research Resources: to grow new research themes skills, talent and capability
+ To ensure we undertake interdisciplinary research at the cutting-edge we have established or
+ augmented research equipment in a number of novel areas in 2020. We aim to build capacity in
+ these areas in this next REF cycle including (see section 3 for additional detail):
+
+    •   The Spatial Computing and Neurotechnology Innovation Hub (SCANi-hub, 2020)
+        (£266,277 , Department of Economy): Establishing new research that involve
+        electrophysiological computer interfaces and virtual and augmented reality (linked with
+        Turing AI Fellowship EP/V025724/1 and Impact Case Study (ICS1).
+    •   Tier 2 Northern Ireland High Performance Computing Facility (NI-HPC,2020) (£2.1m,
+        EPSRC): A cross disciplinary resource and project with a core focus of increasing HPC
+        usage from the current ~30% of researchers within the unit to 90% of researchers in the
+        next REF cycle – part of our strategy to enhance research quality/productivity.
+    •   Northern Ireland Functional Brain Mapping Facility (NIFBM, 2016) (£5.3m, Invest
+        Northern Ireland): Having completing a 5 year programme (phase 1 (2014-2020)) to
+        establish the NIFBM, the next REF cycle will see our growth strategy engaging the 500+
+        neuroscience research across the island of Ireland (phase 2 (2020-2024)) to undertake
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+        research at the facility, followed by a self-sustainable growth plan for a clinical MEG and
+        neuroimaging centre of excellence (phase 3 (2024-2029))(ref ICS1 and ICS4)
+    •   Hyperspectral Imaging Facility (HIF, 2020) (£30k funding through Ulster/SoC
+        strategic investment): Spectroscopic data collection facilities that cover the full IR range
+        augmenting a state-of-the-art hyperspectral camera (Specim FX10) to support the
+        expansion of research in spectral pattern recognition and its applications e.g., food
+        authentication and more recently coronavirus detection (EPSRC project EP/V026488/1).
+    •   Connected Health Living Lab CH:LL: With University’s investment in The Greater Belfast
+        Development (see 1.3.2) CH:LL will be moving to the new campus facilities and will be
+        completely renewed and modernised.
+    •   Integrated-Diagnostics-Laboratory (IDL) (£339K, 2020) Department of Economy, NI.
+        Integrated-Diagnostics-Laboratory (IDL), a core part of CDHT (City Deal project above) will
+        integrate with the CH:LL and have an emphasis on clinically led, innovation in new medical
+        device development.
+
+ Our strategy is aligned with the Government UK R&D strategy ranging from investment in
+ research, entrepreneurship promotion and attracting, retaining and developing diverse and
+ talented teams, ensuring Northern Ireland participate fully in the UK levelling up agenda. We will
+ contribute to addressing the Government’s AI and Data Grand Challenge, accelerating
+ adoption of AI technologies and attracting inward investment in AI and to the UK AI Sector
+ Deal which aims to grow the UK’s AI sector with specific focus on supporting UK AI Council
+ mission and UK AI Roadmap (Maguire and Coyle as working group members) which has a focus
+ on AI for health, on the basis that making the UK great at AI in Health would benefit the wider
+ economy and society. The recommendations in the recent report on AI Research in Northern
+ Ireland produced by the Alan Turing Institute are being pursued through the initiatives outlined
+ above and we aim to be the key underpinning driver for the Northern Ireland Industrial Strategy.
+
+       Supporting Open research
+ CS@Ulster has developed an Open Research Working Group alongside a University wide Open
+ Research Working Group to embed open research practices in the research lifecycle focusing on
+    • Promoting openness across the research lifecycle
+    • Ensuring all PhD and funded projects have data curation plan to make data open and
+       accessible
+    • A University managed repository for open access to outputs e.g., PURE.
+    • Compliance with Concordat on Open Research Data.
+
+ ~26% of the 174 the units outputs returned are available in Gold Open Access. Paper preprints
+ are made available, for example, 10 outputs are available in bioRxiv. Our funding strategy for the
+ next REF cycle will enable us to increase Gold Open Access to 80%. We have a number popular
+ open datasets e.g., the Pratheepan Dataset (Pratheepan, Condell) and open code e.g., AutoAPI,
+ Moore) and aim to make >50% of all code and data open in the next REF cycle. Our PhD theses
+ are available in open access format in the institutional repository since 2017. Ulster has signed
+ the Plan S compliant transformative agreements where possible and recent ‘read and publish’
+ agreements have been signed by the library and several publishers.
+
+
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+ 2     People
+
+ 2.1    Staffing strategy
+
+ Our staffing strategy has been to develop strong and diverse leadership, reward staff through
+ supporting application for promotion and awards, develop contract research staff and increase the
+ intensity of research active staff. A major focus of the staffing strategy was to grow expertise in
+ AI/Data Analytics through the CARL initiative and target new appointments that complement
+ existing research themes to build capacity in priority areas.
+
+ The demographic profile across CS@Ulster is well-balanced, with 14.6 Professors, 6 Readers, 10
+ Senior Lecturers, 32 Lecturers and 2 Research Fellows in this submission (overall median age 47
+ years). This includes 19 ECRs (median age 34) (a >17% increase in ECRs since REF2014).
+ Whilst 10 staff returned in REF2014 have left through retirement, career change or to other
+ institutions, recruitment of new staff, including ECRs, has been a strategic priority, along with
+ increasing the research responsibility of 10 existing staff who were not returned in REF2014
+ (Wang, Sterritt, Nicholl, Wallace, McChesney, Santos, Moore, Uhomoibhi, Black, Mulvenna). This
+ strategy has resulted in a >75% increase in the size of the Unit to 69.6 fte : ISRC: 30.9 fte (21%
+ female); AIRC/PCRC: 38.7 fte (17% female).
+
+ A pervasive international culture
+ CS@Ulster has a diverse and international culture with 50% of our staff (37 fte) being non-
+ British including Irish (23%), Chinese (10%), Indian (4%), Italian (3%) and 9% Algerian,
+ Bangladeshi, Bulgarian, French, Malaysian, Polish, Singaporean, Spanish and Sri Lankan.
+ CS@Ulster sustains a programme of strategic appointments of international renowned professors
+ on 0.2fte contracts to enhance leadership and collaboration in strategic areas, Kelso
+ (computational neuroscience/complex systems, re-appointed), Kasabov (AI/ neurotechnology)
+ and Paggetti (digital health).
+
+ Leadership development
+ A supportive research environment has enabled staff to develop leadership in strategic areas and
+ obtain professorial promotions since REF2014 including: Coyle (Neurotechnology, Director
+ ISRC), Coleman (Cognitive Robotics Theme lead), Curran (Cyber Security and Web technologies
+ theme lead), Condell (Intelligent Devices) and Zheng (Bioinformatics) i.e., 60% of Professorial
+ promotions were female evidencing our EDI strategy to support female staff).
+
+ Staff promotions
+ Other academic staff promotions since REF2014 include: to Reader (Callaghan, Harkin, Wang,
+ Liu, Bi, Bond, Wonglin); and to Senior Lecturer (Gardiner). Ulster has a recently revised process
+ for recognising and rewarding academic excellence. Applicants for promotion can occur at any
+ point in the year. Staff on the research and impact pathway for promotion are assessed on their
+ outputs, income/grants, mentoring and research supervision, esteem, impact, and leadership.
+
+ Recognition of achievement
+ In addition to promotion staff are recognised through University research awards which include
+ financial support to awardees, e.g., early career excellence awards (Cleland, Bucholc,),
+ distinguished fellowship award (Bond, Wonglin) and senior awards (Prasad, Nugent). Ulster’s
+ sabbatical leave programme is available to support all staff (e.g., Wonglin).
+
+ Concordat to support the career development of contract researcher staff (CRS)
+ Increasing the number of CRS through targeting funds that support projects which enable longer
+ term CRS appointments has been a key mechanism to expand our strategic research focus. Since
+ 2014 a total of 175 fte new contract research posts have been created: 89 in ISRC; 86 in
+ AIRC/PCRC. The importance of recruitment, selection, retention and career development for CRS
+ are recognised via the Concordat, with annual opportunities for advancement, regular training and
+ development provision. Ulster received the HR Excellence in Research Award in 2012 and
+ retained the award following Vitae reviews (2014, 2017 and 2019). Our action plan ensures
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+ that we continually improve the career development of CRS and adhere to the 3 Concordat
+ principles , offering CRS up to 10 days of internal/external training programmes. CS@Ulster staff
+ member (Bond) is Ulster’s (University Level) Research Concordat Coordinator.
+
+         Induction and staff training
+ CS@Ulster leverages the training support provided by institutional schemes. Local Induction is
+ provided for new staff along with an interactive Online Welcome and Orientation Programme.
+ University wide support programmes include: RIGOUR (Research Income Grant Opportunities
+ for Ulster Researchers) – a programme to enable better understanding of funder requirements
+ and proposal writing/impact/costing, and access advice from successful grant awardees (staff
+ attended 101 RIGOUR events); SOARING (Significance and Originality in Academic
+ Research: Interpreting New Guidance) – a programme that helps academics/researchers
+ develop a better understanding of producing internationally excellent and world-leading outputs
+ (staff attended 45 SOARING events); and, IMPACT, a programme to enhance the impact of
+ research, impact evidence and/or define pathways to impact (staff attended 29 IMPACT events).
+ In summary, ~68% of our staff participated in 175 research training events and ~70% of our ECRs
+ participated in training events. Staff are offered programmes such as Leadership and
+ Management Development, Coaching and Mentoring, and Organisation Development.
+
+ Senior researchers support staff in developing grant applications by reviewing their draft proposals
+ and a mentorship scheme pairs senior staff with ECRs who assess the ECR profiles and co-
+ develop strategies to address profile areas in most need of development (~35% staff participated
+ in the research mentoring programme). For PhD supervision, ECRs are paired with staff who
+ have a record of successful supervision. A target is to ensure all new ECRs are supervising at
+ least one new PhD researcher in the first year of joining the unit.
+
+         Staff development
+ An annual budget (~£100K/annum) is devolved to the unit RDs, based on QR income and
+ overheads recovered from external funding. This is used to strategically support staff develop their
+ research profile by attending conferences/workshops, travelling to develop research partnerships,
+ hosting/organising events, and participating in scientific committees, open access publications
+ fees, and strategic think-tank days among other initiatives. These funds are supplemented by
+ additional funding (devolved from Faculty budgets) to address the faculty led targets and KPIs
+ e.g., assisting ECRs or initiatives to increase citations and raise awareness of research quality
+ e.g., Citations Increasing by Team Engagement (CITE) competition; and supporting research
+ that involves co-authoring with international centres of excellence and industry partners (see
+ section 3 and 4 for evidence).
+
+ The University provides additional strategic internal support funding through competitive initiatives,
+ funded in part, by DfE NI, INI and other bodies (see section 3).
+
+ Unit RDs, supported by Heads of School, hold individual meetings annually with staff to help
+ develop their personal development plan, which is reviewed by mentors, and objectives and
+ targets agreed. The data in Fig. 3 are presented yearly for each staff member to assess progress
+ and where their profiles can be improved. Teams (or groups) also work together to create
+ yearly research plans including specific plans for funding and growth strategy and sustainability of
+ research and each of the three research centres plan to target at least one multimillion pound
+ initiative yearly.
+
+
+
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+
+                     Prof
+                      Total Profile                                   ECR  Profile
+                                                                        Total
+                       Outputs                                           Outputs
+          Impact       1                                     Impact      1
+                                    H Index                                           H Index
+           Case…                                              Case…
+                     0.5                                               0.5
+                                        No. of                                            No. of
+    RG Score                                          RG Score
+                       0                Awards                           0                Awards
+
+                                        Award                                             Award
+     Citations                                          Citations
+                                        Value                                             Value
+                 PhD             Numbers                           PhD             Numbers
+               currentl…          of PhD…                        currentl…          of PhD…
+
+
+                       Fig. 3 Staff profile to identify areas of profile improvement
+
+ Externally facilitated design-thinking led workshops have been organised to review and renew
+ research centre vision/mission statements and develop strategies to realise vision/mission as
+ well as best practice on time management and prioritising research. Staff also participate in regular
+ seminars (e.g., in this REF cycle the Unit has held 58 invited speaker seminars involving
+ visiting researchers from 12 countries e.g., Viktor Jirsa, Head of CNRS Neuroscience in
+ Marseille 2019). Additionally, our Research & Impact Office provide a Researcher Development
+ Training Programme of events to support staff and ensure compliance with research governance
+ through a compulsory Research Integrity course (100% completion by all staff/PhD
+ researchers) and an Online Data Protection training programme.
+
+ 2.2 Supporting Equality, Diversity, and Inclusivity
+ CS@Ulster upholds Ulster University’s policies and procedures for equality, diversity and
+ inclusivity (EDI) as outlined in our institutional level environment statement. Ulster is a member of
+ the Athena Swan Charter to promote equality for women in STEM subjects, and both schools
+ in the unit hold Athena Swann Bronze awards. We have a strong EDI ethos, recognising, valuing
+ and capitalising on people’s differences and strengths. Diversity and inclusivity are valued, actively
+ promoted and embedded in all research processes and policies as outlined in our Code of
+ Practice, which places people at its centre and ensures barrier free processes to maximise
+ inclusivity and participation in REF and was used as our roadmap for identifying SRR staff and
+ selecting outputs for REF2021. We support equality of opportunity through open communications
+ to staff about strategic initiatives, funding opportunities and training, and via a maximum teaching
+ load policy of 180 hours per annum. We support e.g., Wo/men’s Network events which provides
+ a supportive and collegiate space to, build relationships, encourage personal and professional
+ learning; and recognise and celebrate the achievements of women. Female staff have also
+ engaged in Aurora, a leadership development programme for women, who demonstrate the
+ ambition to develop leadership responsibility (e.g., Rankin). With 9 new female appointments in
+ this REF cycle, ~19% of our staff are female (up ~27% since REF2014), ~48% of our current
+ PhD cohort are female (up 45% since REF2014). We aim to encourage female PhD
+ researchers to consider academic positions (e.g., Ding, Rankin, Bucholc, Flannagan). Our
+ interviewer panels are gender mixed. We ensure all staff are recognised as playing a central role
+ in achieving our ambitions through Supporting Performance, Strengthening Engagement,
+ Promoting Wellbeing, and Developing People with Positive Employee Relations within
+ research teams and when engaging with partners and collaborators. As part of Ulster’s
+ Athena SWAN Action Plan (2017-2021), a Returning Carers’ Scheme (RCS) was established to
+ financially support all academic/research staff on return from extended leave (normally 4 months
+ or more) for reasons connected to caring for dependents (Zhang, Condell, Brown). Ulster is a
+ member of Advance HE’s Race Equality Charter, which aims to improve the representation,
+ progression and success of minority ethnic staff. Ulster has signed the San Francisco
+ Declaration on Research Assessment, committing to the principles of fair, responsible and open
+ use of metrics in the assessment of research when recruiting/promoting staff and upholds the
+ principles of the Leiden Manifesto and the Metric Tide.
+
+                                                                                                   Page 12
+Unit-level environment template (REF5b)
+
+ >35% of funded projects our staff are involved in are female-led and >15% of funded
+ projects are led by international staff. We encourage project PIs to consider gender balance
+ on project management teams and steering committees.
+
+ 2.3 Unit research support structure
+ We have an excellent research support structure within the unit. Fig. 4 shows how each school in
+ the unit is organised with two RDs (Coyle, Chen), two Postgraduate Tutors (PGT) (McCreadie,
+ Cleland) and Two Academic Excellence Executive Assistants dedicated to research. Each
+ PGT works alongside each RD and exec assistant to ensure the PhD researcher experience is
+ top-class by being accessible and responsive to solve issues rapidly and to provide excellent
+ pastoral care. A dedicated research software engineer (RSE) (EPSRC funded see section
+ 3.3)) provides HPC training/support for all researchers. Each school’s Research Executive is
+ chaired by the RD and includes centre/teams leads. Meetings are held as required to develop
+ strategy and address research opportunities/challenges. RDs, Centre Directors and Theme leads
+ work collaboratively across the unit to ensure cohesion and complementarity between research
+ centres.
+
+
+
+
+             Fig. 4 – Schools Organisational Chart and Research Supports structures
+
+ 2.4   Research Students: Recruitment, Training and Support Mechanisms
+
+         PhD recruitment
+ During the REF cycle Ulster established a Doctoral College (DC) which supports all units and is
+ responsible for research student registration, maintaining records and monitoring PhD researcher
+ progress and training. RDs are responsible for recruitment, quality assurance and maintenance of
+ standards, within procedures established by the DC (see section 3.1 for PhD studentship
+ funding). PhD project proposals are presented by teams/staff with criteria applied to ensure
+ proposals are strategically aligned with research themes, ECRs supervise a PhD within 1 year of
+ joining, projects can be completed within 3 years and project descriptions are written to attract
+ candidates of the highest calibre. Up to 3 project proposals are advertised per available
+ studentship. A robust recruitment process is undertaken to allocate research studentships through
+ open competition and interview. Interview panels (one per school) are chaired by the RDs and
+ involve the PGT and centre/team leads.
+
+
+
+                                                                                          Page 13
+Unit-level environment template (REF5b)
+        PhD training and support mechanisms
+ All new PhD researchers undertake DC induction and local induction at unit/centre level which
+ covers training opportunities, the research process, research activities within research centres,
+ expectations, and REF among other topics. All PhD researchers can access Ulster’s Researcher
+ Development Programme which has >150 training courses designed for researchers and guided
+ by the Vitae Researcher Development Framework. All PhD Researchers are encouraged to
+ undertake the equivalent of 10days/year in researcher development activities.
+
+ All full-time PhD researchers have an allocated individual office desk and access to state-of the-
+ art research facilities (see section 3). A training budget of ~£900/annum is provided to purchase
+ networked PCs/laptops for each new researcher and for additional training/development,
+ attending conferences/workshops/courses and is often supplemented by ad-hoc training funds or
+ externally funded projects.
+
+ The Ulster PhD journey (and PhD Manager): the PhD journey was developed to ensure a
+ consistent, university-wide approach to postgraduate research education/training. Clearly
+ established milestones (see below), annual reviews and close monitoring by PGT within each
+ UoA have yielded improvements in PhD researcher satisfaction (see PRES results below). PhD
+ Manager software streamlines the paperless monitoring process.
+
+ The RDs/PGTs jointly review annual student and supervisor reports, assessing resource/ progress
+ issues. Annual assessment procedures include: Year 1, an initial assessment report/viva (within
+ 3 months of start) and a confirmation report/viva plus a paper drafted, to confirm PhD registration
+ within 12 months; Year 2, PhD researchers present posters at the annual Faculty Research
+ Dinner; Year 3, PhD researchers present at the Annual Festival of Research and receive
+ feedback from senior researchers from several disciplines as part of final assessment (prizes
+ awarded for the best). PhD researchers compete in the UK’s 3-minute thesis (3MT) competition
+ (Harrigan, Reid). PhD researchers are strongly encouraged to publish and use peer reviewed
+ feedback to achieve appropriate postgraduate standards and timely completion. At the Annual
+ Faculty Research Dinner (latterly University Research Dinner), the unit awards four PhD prizes:
+ Best thesis, paper, confirmation report and poster.
+
+ Supervisor Development: Our DC offers training on PhD researcher supervision through its
+ Supervision Development Programme covering e.g., supervisor-PhD researcher relationship
+ and ensuring the best PhD research experience.
+
+        PhD researcher experience
+ Our PhD cohort has grown 45% (REF2021 vs REF2014 census date). The Postgraduate
+ Researcher Experience Survey (PRES) 2019 highlights the quality of our PhD researcher
+ experience i.e., scoring in the top percentile on all scores (except research skills at the 2nd
+ percentile, although achieving 90%) out of 34 HEIs surveyed. Notable achievements by PhD
+ researchers in the Unit include the Convocation student of the Year Award in 2019 (Atiya); Best
+ Rapid Presentation at NSRF Virtual Seminar on Suicide, Self-harm and Mental Health
+ (Turkington); 2019 Paul Dudley White International Scholar (Torney), Christopher Mills Award
+ 2020 (ITP) (Rabbani), 2nd Prize AI Northern Ireland Datathon 2019 (Roy and Cichy supported by
+ CRS Sanchez-Bornot and Vibhakar), IEEE CIS Student Research Grant (Behera) and 3
+ Santander Mobility Awards (Korik, Flannagan, Shewell).
+
+
+
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+ 3     Income, infrastructure and facilities
+
+ 3.1    Research funding and strategies for generating research income
+
+ Our strategy for increasing research income has been to:
+    • diversify our target funding agencies
+    • emphasise impact and applied research funded through large grants and strategic
+        investments (as outlined in section 1)
+    • target prestigious rigorously reviewed initiatives for cutting-edge fundamental research
+    • develop key infrastructure/research resources to support cutting-edge research and our
+        growth strategy.
+
+ We have secured over 250 grants of varying values from over 130 different
+ sources/programmes. In this REF cycle CS@Ulster has secured £52m (ISRC ~£19m,
+ AIRC/PCRC ~£33m) grant income. Research expenditure has grown by 54%.
+
+ As evidence of our collaboration efforts and multidisciplinary research success we have secured
+ 13 grants from 5 of the UK research councils (5 secured in 2020 listed in future strategy
+ section 1.3.1), 10 of which involve collaborations with other disciplines and partnerships with 8
+ UK Universities and US and Irish Universities:
+
+ EPSRC:
+ • EP/M01214X/1 Feasibility of cognitive based Computer Aided Engineering Design, with
+   Strathclyde University (£147,142 Coyle, total ~£1.06m, 2015-2019).
+ • EP/N00714X/1 Self-repairing hardware paradigms based on astroYecyte-neuron
+   models, with York University (£375,835 McDaid, total ~£1.06m, 2015-2019).
+ • EP/P031668/1 Algorithms on rank aggregation for preference orderings, (£100,980 Lin,
+   2017-2019).
+ • EP/T022175/1 Tier 2 Northern Ireland High Performance Computing Facility Kelvin-2,
+   with Queens University Belfast (£494,698K, Coyle, total ~£2.1m, 2019-2024).
+
+ BBSRC
+ • BB/P003427/1 Large-scale recording and computational modelling of midbrain raphep
+   microcircuitry during emotional learning, with Oxford University (£192,572 Wonglin, total
+   ~£611,895, 2016-2020).
+
+ ESRC-BBSRC
+ • ES/N000323/1 EpiFASSTT: Epigenetic effects on children's psychosocial development
+   in a randomised trial of folic acid supplementation in second and third trimester, with
+   other units in Ulster (£400,337, Prasad, 2016-2019).
+
+ AHRC
+ • AH/S002855/1 Future Screens NI, with Queens University Belfast and other Ulster Units
+   (~£5.7m to Ulster, Charles, 2018-2023).
+
+ ESRC
+ • ES/T004983/1 Birth across the Borders – exploring contextual education as a catalyst
+   for improved maternal health, with other units in Ulster (£1.76m, Nugent, 2020-2023).
+
+ Other prestigious grants include two The Leverhulme Trust/Royal Academy of Engineering
+ Senior Research Fellowships (Coyle and Curran), a Royal Academy of Engineering
+ Enterprise Fellowship (Coyle) and grants from Royal Irish Academy (1), the Royal Society (2),
+ British Academy (2) the British Council (2), DSTL/MOD (3).
+
+
+
+
+                                                                                          Page 15
+Unit-level environment template (REF5b)
+ Our staff have secured 26 EU FP7/H2020 grants including MSCA Research Innovation Staff
+ Exchange, Innovation Training Network, ERASMUS and pre commercial procurement (PCP) (see
+ section 1.2.3 and 4.1) and 12 INTEEREG NPA/V/VB/ grants.
+
+ Other international collaborative grants include from the European Space Agency (2),
+ US/Ireland Programme (tripartite grant)(3), Human Frontiers Program (1), UK-India
+ Education and Research Initiative (2).
+
+ We have secured support from Health and Social Care Trusts Northern Ireland (13) and multiple
+ foundations/charities including Foundation for Research in Rheumatology, CME Group
+ Foundation, Dr George Moore Foundation, Macmillan Cancer Support, Samaritans
+ Enterprises Limited and The Templeton Foundation.
+
+ Pump-priming research grants
+ Staff have received 8 Global Challenge Research Funding (GCRF) pump-priming awards
+ from the Department for Economy, totalling £180k and 7 University-funded Civic/Commercial
+ Impact priming grants, to enable network building, pilot project targeting larger funding initiatives
+ and establishing proof of concept and product prototyping.
+
+ PhD funding
+ Most studentships are supported by the University’s Vice Chancellor’s Research Studentship
+ programme and the Department for Economy. (DfE awards are treated as equivalent to RCUK
+ awards; VCRS are open to overseas candidates). Studentships funded by industry
+ partnerships and foundations include BTIIC (12), Dr George Moore endowment (3), Digital
+ Natives, Jordan (1) Capital Markets Project (4), CME Group Foundation (1), and DfE/EPSRC
+ CAST/CASE awards with Clinisent, Treze Ltd, Seagate Technologies (1), ClickEnergy (1), CHIC
+ (2), DSTL (2), Datactics (1), Intel (1) and Scotland's Rural College (1).
+
+ Interdisciplinary PhD studentships: Ulster’s DC organises a competitive studentship allocation
+ process for interdisciplinary projects where supervisors from two or more UoAs (different
+ disciplines) propose cross-disciplinary research project. Since the programme began in 2016, 28
+ studentships have been awarded and CS@Ulster staff have been involved in 50% across 18
+ other UoAs (leading, ~29% or co-supervising, 21%), evidence of our commitment to and
+ capacity for interdisciplinary research and doctoral training.
+
+ Impact of research funding – team expansion and research quality
+ Diversified funding streams has enabled, through intense focus on collaborating broadly across
+ disciplines, our research centres/themes to grow substantially (see section 1 for growth). For
+ example, since REF 2014 ISRC research themes have evolved and now include an additional
+ dedicated Intelligent Data Analytics team (now the largest theme within ISRC with 10.2fte)
+ focusing on AI and agile capability to deal with industry-led challenges. Two new research
+ centres have been created, AIRC arising from the AI research group (REF2014) and PCRC
+ arising from the Smart Environment Research Group merger with Information &
+ Communication Engineering (ICE) since REF2014.
+
+ Taking a metric-informed view, our successful research and funding strategy has resulted in
+ improvement in research intensity and quality as evidenced by papers published in the top
+ 10% of journals (Fig. 5) across a range of disciplines (Fig. 6). The average citations per
+ output returned has increased by ~100% since REF2014.
+
+
+
+
+                                                                                              Page 16
+Unit-level environment template (REF5b)
+ (a)
+
+
+
+
+ (b)
+
+
+
+
+  Fig. 5. See legend for (a) and (b) – data is taken from Scopus 16th March 2021 and based on
+ outputs returned in REF2021. (NOTE: excludes 4 papers most recently published and not yet
+                                     in the Scopus database).
+
+
+
+
+ Fig. 6. the data is taken from Scopus and based on 170/174 outputs returned in REF2021 and
+                    reflect the diversity and interdisciplinarity of our research.
+
+
+
+                                                                                      Page 17
+Unit-level environment template (REF5b)
+ 3.2 Research support
+ Research project management is supported within each school through the structure highlighted
+ in section 2.3. This is supported through University Research Development team which is Faculty-
+ facing and includes dedicated Faculty Research Managers, Global Manager and a Strategic
+ Research Development Manager to help identify the most appropriate and prestigious funding
+ opportunities. Together with the Research Management team these teams provide a continuous
+ and effective pre- and post-award service to our unit. The Research Development team work
+ closely with Global Engagement and Development & Alumni Relations, faculties Associate Dean
+ for Research & Impact and RDs to identify partnerships to strengthen funding applications,
+ leverage financial support to promote and identify opportunities for interdisciplinary research
+ collaborations, PhD match funding is offered to support strategic grant applications.
+
+ 3.3     Specialist infrastructure and facilities
+
+         IT and High-Performance Computing (HPC)
+ Within the unit we provide all researchers with HPC resources including a cluster with 672 compute
+ cores and a NVIDIA GPU cluster containing 8 Tesla V100 compute notes. These Tier-3 services
+ enable onboarding of HPC users locally. A partnership between Ulster (Coyle) and QUB has
+ established a state-of the-art national EPSRC funded (£2.1m) Tier-2 HPC Facility for Northern
+ Ireland (Kelvin-2), one of only 7 Tier-2 UK national centres. The Northern Ireland HPC contains
+ 8000 AMD-based CPU cores, 32 GPU Tesla V100 nodes and 2 Petabyte of scratch storage
+ interconnected via a high-speed network. A research software engineer works alongside
+ researchers to develop complex code pipelines for optimisation, simulation and analytics with a
+ focus on bioinspired AI, neuroscience and neurotechnology research. We also have an
+ Embedded FPGA Hardware cluster and Design Resources for accelerating novel bioinspired
+ computing paradigms and hardware fault-tolerant and self-repairing systems (McDaid, Harkin).
+
+          Centres and their facilities
+
+ ISRC
+ The ISRC is located in a single 2000m2 building with >50% dedicated research lab space along
+ with a social dining area and 6 meeting rooms. Research labs/facilities include:
+
+ •     The Northern Ireland Functional Brain Mapping Facility housing Ireland’s only
+       Magnetoencephalography (MEG) facility (whole head 306 channels Elekta Neuromag MEG
+       TRIUX system and magnetic shielded room). It is one of 10 such facilities in the UK, one of
+       only 170 active MEG labs worldwide, and the only housed within a computing and informatics
+       unit globally (that we are aware of) - an indication of the interdisciplinary research drive and
+       intent of the unit.
+
+ •     Brain-Computer Interface (BCI) Lab is a dedicated facility for BCI research experiments and
+       includes an EMF shielded and acoustic noise-insulated room with a 64 channel EEG system
+       and multiple mobile EEG recording devices.
+
+ •     The Spatial Computing and Neurotechnology Innovation Hub (officially opened by
+       Princess Anne in January 2020) houses multiple technologies for electrophysiological
+       monitoring including multiple mobile wearable EEG headsets 1x64 channel and 2x32 channels
+       EEG devices, a functional near infrared spectroscopy (fNIRS) brain imaging headset, ECG,
+       HRV, pulse oximeter, GSR, and technologies for spatial computing including text, voice,
+       gesture, augmented reality/virtual reality, an advanced car/flight simulator and vibrotactile
+       stimulation suits, ultrasonic haptic interfaces and technologies that enable walking in a virtual
+       environments (virtual treadmills) as well as a state-of-the-art Smartglass façade to adapt the
+       room for various experimental situations and public engagement activities.
+
+ •     The Cognitive Robotics Laboratory is equipped with a wide range of advanced robotics
+       platforms, such as the PR2 robot, Shadow Dexterous Hand, 2 SUMMIT XL robots, 4 SCITOS
+       robots, Schunk manipulator arms, and 10 Pioneer P3-DX mobile robots with a powered floor
+
+                                                                                                Page 18
+Unit-level environment template (REF5b)
+     (100m2). The laboratory has various vision systems and motion capture systems, permitting
+     the capture of 2D/3D visual data, and a Vicon tracking system for sub-millimetre object
+     tracking.
+
+ AIRC and PCRC
+ Both AIRC and PCRC are located in a single building with over 1000m2 of dedicated research
+ space along with a social dining area and two meeting rooms. Research labs/facilities include:
+
+ •   The Connected Health Living Laboratory (CH:LL) enables assessment of usability and
+     interaction in real-life environments and recording user behaviours with connected health
+     solutions and includes a smart kitchen, smart living room and smart bedroom, supporting the
+     investigation of assistive technologies and activity recognition. A set of 400 sensing nodes is
+     available for deployment in a smart environment covering a footprint of over 600m2.
+
+ •   The Maker Lab supports the rapid prototyping of IoT endpoints and offers a large suite of
+     pervasive sensing technologies, image and video modelling tools, computing and software
+     resources.
+
+ •   BT Ireland Innovation Centre (BTIIC) includes labs which house testbeds for smart networks
+     and has access to a BTIIC research area with 15 desks in BT Belfast Riverside to enable co-
+     location of PCRC/AIRC researchers, embedding BTIIC researchers and PhD researchers with
+     BT engineering staff, enabling dissemination and down-streaming of their research results into
+     BT systems and services.
+
+ •   A Hyperspectral Imaging Facility is housed at the AIRC including state-or-the-art
+     hyperspectral imaging equipment, as well as additional spectrometers to cover the full IR
+     range. This supports the expansion of the research in spectral pattern recognition and its
+     applications e.g., food authentication and more recently coronavirus detection.
+
+ As outlined in section 1 funding has been secured for new facilities and major expansion
+ within the unit via the City Deals project and state-of-the-art facilities in the new Belfast
+ Campus development to future-proof our growth plans. CS@Ulster has a very strong
+ position in the UK, being involved in two separate City Deals, leading 2 innovation projects,
+ and partnered with two others.
+
+
+
+
+                                                                                            Page 19
+Unit-level environment template (REF5b)
+ 4     Collaboration and contribution to the research base, economy and society
+
+ 4.1     Nature and scope of research collaborations
+
+ Networks and partnerships
+ CS@Ulster provides academic leadership at the national and international level, influencing and
+ driving research agendas and strategy across a range of disciplines and domains. All of our main
+ research themes are underpinned by funded collaborations with major academic and industrial
+ research centres nationally and internationally.
+
+ Personal, funded research activities: examples include : research councils grants with Oxford
+ (Wonglin), Strathclyde (Coyle), York (McDaid, Harkin), and major national/international
+ programmes such as US-Ireland tripartite grants with NUI Galway and Kansas State University
+ (McDaid, Harkin, Gardiner), University College Dublin and Columbia University (Wonglin), and Uni
+ of California, Tyndall National Institute, University of Arizona, Columbia University, Uni of
+ California, Berkeley, Trinity College Dublin and Dublin City University (Morrow, McClean,
+ Scotney); Royal Society Newton Mobility Grant with University of Science and Technology
+ Beijing, China (Chen, Nugent, Zhang), Royal Society International Exchange Grant with
+ Tsinghua University, China (Wang, Scotney, Liu), EPSRC Tier 2 National Infrastructure grant
+ with Queens Belfast (Coyle)
+
+ Through our collaborative EU-funded projects (discussed in Section 1 and 3), formal
+ collaborations across Europe have been established. These collaborations are substantially
+ interdisciplinary, involving engineers, neuroscientists, clinicians, therapists and healthcare
+ professionals, and legal-ethical practitioners from medical, academia and industry. Examples
+ include PROGAIT (Coyle); SenseCare (Zheng); MetaPlat (Wang), REMIND (Nugent),
+ ACROSSING (Nugent, Chen), MENHIR (Bond), MIDAS (Black); Slandail (Scotney); SAVASA
+ (Wang); VISUALISE (Coleman), DESIREE (Wang), and ASGARD (Wang)
+
+ Fig. 7 shows the geographical spread of institutions/companies/hospital globally that have been
+ involved as co-authors in the papers returned in this REF cycle (33 different countries). Overall,
+ there was 189 different institutions involved in outputs returned in REF2021 which is evidence
+ of the extent of our collaborations. Further evidence of our collaborations is presented in sections
+ 1.1.1 and 3.1.
+
+
+
+
+       Fig.7. Number of institutions per country involved as co-authors in the outputs returned in
+         REF2021 (Data taken from Scopus and excludes 4 recent outputs not yet available).
+
+
+                                                                                              Page 20
+Unit-level environment template (REF5b)
+ Visiting professor/scholar appointments
+ Visiting fellow/scientist/lecturer/professors appointment examples include Columbia University,
+ USA (Kelso 2019); Honorary Professor of Teesside University (Kasabov, 2019); Robert Gordon
+ University (Kasabov 2017) Scottish Information/Comp. Society, Distinguished Visiting Fellowship
+ (Kasabov 2016); Shanghai Jiao-Tong University (Kasabov 2015 – 2020), Advisory Professor,
+ Northeastern University in Shenyang, China (Coleman, 2018-2023); Shanxi University, China
+ (Chen, 2018-present); Ecole Centrale de Lyon, France (Chen, 2014); Institute of Disaster
+ Prevention, China (Bi, 2018-2021); Fujian Normal University, China (Wang, 2017-2022); Keio
+ University, Japan (Scotney, 2017-); Lulea Technical University, Sweden (Nugent, 2011-present),
+ Halmstad University, Sweden (Nugent, 2016-2018), Kyung Hee University, South Korea
+ (Nugent, 2013-2014); Diakonhjemmet Sykehus AS, Norway, (Chen, 2013-2016), University of
+ Deusto, Spain, (Chen, 2017-2020)
+
+ Industrial research collaborations
+ Other examples of industry collaborations include James Leckey Design (Cleland) (associated
+ ICS3); Shearwater Systems Ltd, (Bai); I+ S.r.l, Italy (Nugent) (associated with ICS4); TNO,
+ Netherlands (Galway); Sandvik Ltd (Hawe); BT (McClean, Scotney, Nugent); Tech4Care, Italy;
+ MiThings, Sweden (Charles); Qianhan Technologies (Chen); Cirdan Imaging, CareCall/Inspire
+ Wellbeing, Verbal Arts (Mulvenna, Bond) (associated with ICS5 and ICS6); Guger technologies,
+ Eksobionics, Seagate Technologies, Allstate NI, Sonae Retail, Dell, NVDIA, NeuroCONCISE
+ (Coyle) (associated with ICS1 and ICS4); BBC R&D (Wang) as well as NI Screen, BBC NI,
+ Belfast City Council, Belfast Harbour, Causeway Enterprise Agency, Digital Catapult, Catalyst Inc.,
+ RTE, Games NI, Kainos, Invest NI, Techstart NI, Matrix and Tourism NI.
+
+ CS@Ulster lead/co-lead the majority of KTP projects at Ulster, with 23 new KTP projects
+ being awarded in this REF cycle, with an overall value of over £3M.
+
+ Clinical collaboration
+ Partnering with over 70 hospitals/clinical units/health care providers CS@Ulster research has
+ involved direct research (basic science, clinical trials) with over 15 patient groups involving over
+ 300 patients e.g., spinal injury, stroke, brain injury, motor neuron disease, mild cognitive
+ impairment, Alzheimer’s disease, children with disabilities, epilepsy, post-traumatic stress
+ disorder among others.
+
+ There are over 100 partnerships and international collaborations with other institutions globally
+ (many evidenced by co-author publications, grant writing collaborations, co-awarded grants and
+ research and innovation staff and student exchanges, co-organised events). Staff have hosted
+ visits from over 50 faculty from around the world.
+
+ 4.2   Key research users, beneficiaries and audiences
+
+        Awards
+ Examples of recognition for academic leadership by external bodies with prestigious
+ awards include:- 2018 INNS Ada Lovelace Award for Meritorious Service to the NN Community
+ and the 2015 The AUT Medal for outstanding achievement (Kasabov); BIONICS project – Most
+ innovative technology award, New Venture Competition, Carnegie Mellon (Coleman and Kerr);
+ Prize Lectures in 2018: The B.F. Skinner Lecture, ABAI, San Diego, California; The Tourtellotte
+ Lecture, Kalamazoo College, Michigan (Kelso); North-South Champion Coordinator in the Irish
+ Champions of EU Research Forum & Awards (Black, Rankin for MIDAS project); Royal Irish
+ Academy Charlemont Scholarship 2016 (Gardiner); Santandar Mobility Scholarship 2016
+ (Gardiner); Best overall game at the Fourth International Competition on Educational Games at
+ the 10th ECGBL 2016), (Callaghan); Winner 7th International Competition on Educational Games,
+ 13th ECGBL 2019, (Callaghan); IET Best startup 2018 and IET & E&T Innovation of Year Award
+ 2018 (Coyle); outstanding contribution to the success and achievements of MOST/ESA Dragon
+ programme 2012 to 2016 award (Bi); Invent competition finalist 2020 (Charles), Regional finalist
+ and Regional winner of the seedcorn investor readiness competition 2018 (Condell and Coyle).
+
+
+                                                                                             Page 21
+Unit-level environment template (REF5b)
+ Example of best paper awards include : REV2014 (Callaghan); ICIET 2018 (Siddique);
+ COGNITIVE 2016 (Vance); ICAR 2017 (Prasad); (HCI Track) at UCAmI 2016; WorldCIS-2015
+ (Hawe); Journal of Assistive Technologies, 2015; International Conference on Disability, Virtual
+ Reality & Associated Technologies 2016 (Mulvenna); IEEE SmartWorld 2019 (Cruciani, Nugent,
+ McCullagh, Chen); IMVIP2018 (Wang, Scotney); IMVIP2019 (Scotney, Zhang); IEEE
+ HealthCom2017 and Global Health 2016 (Chen); FLINS 2018 (Wang, Lin, Hawe); IWAAL 2014,
+ UCAMI 2015 and 2018 (Nugent, Rafferty); IMVIP 2018, IJCRS 2018 (Wang); Highly commended
+ paper, Emerald Literati Awards. (Chaurasia, McClean, Scotney, Nugent); best paper award IMVIP
+ 2016 (Gardiner); 2018 Neural Networks Journal Best paper, IEEE Intelligent Systems Best Paper
+ 2020 (Kasabov); CERC 2020 (Wang, Santos, Zheng).
+
+        Keynote and Conferences
+ Our staff gave over 30 invited keynotes at national and international events. Examples include:-
+ IEEE ICES (McDaid); International Conference on Social Cognition in Humans and Robots, 2018;
+ (Kelso); ICRAMTA2016; UK-China Robotics Forum, 2017 (Kerr); Infosecurity Europe, 2019
+ (Curran); ISSC2018, IDEAL2019; 8th Graz BCI Conference, 2019 (Coyle); International
+ Conference on Information and Communication Technologies for Ageing Well and e-Health, 2020
+ (Mulvenna); IEEE Cyber Science and Technology Congress 2019 (Chen); 33rd International BCS
+ Conference on HIC, 2020 (Bond); Third International Conference on Biological Information and
+ Biomedical Engineering, 2019 (Zheng); 10th International Conference on Intelligent Systems and
+ Knowledge Engineering, 2015 (Liu); International Conference in Data Science, 2019 (Wang); 2017
+ IEEE CPSCom-2017, 2017 (Chen), ICOST2014, UCAMI2015, IEEE 19th International Workshop
+ on Multimedia Signal Processing, 2017, The 7th Engineering, Science and Technology
+ Conference, Panama, 2019, Global Conference on Artificial Intelligence and Applications, 2020
+ (Nugent), 32nd Human Computer Interaction Conference (Mulvenna); ICONIP 2017, IEEE SMC
+ 2018, IJCNN 2019, IEEE Intelligent Systems 2020, Engineering Applications of Neural Networks
+ (EANN) 2020, ACIIDS 2020, APSIPA 2020 (Kasabov).
+
+ Additionally staff have given >100 invited talks at over 100 local, national and international
+ conferences/ workshops and been involved in conference committees, organisation of special
+ sessions, workshops and panels for many national and international conferences during this REF
+ cycle and have served as conference chair or co-chair for over 20 conferences: e.g.,
+ IJCNN2018, NCEI2015 (Kasabov); IMVIP2014 (Coleman); MEGUK18 (Prasad); 37th European
+ Cognitive Ergonomics Conference, 2019; (Bond, Maurice); IMVIP2018 (Scotney, Morrow);
+ IEEESmartWorld 2019; IEEEUIC2017, IEEEHealthCom2017, FTC2016, MoMM2014 (Chen);
+ IEEEIoP 2019, ICT4AWE-2021, British HCI 2018 (Mulvenna); UCAMI2014, SUT4Coaching2016,
+ SmarterAAL 2018, IEEESCI2019, IWAIH2020, (Nugent); CERC2020 (Wang, Zheng), ISKE2014,
+ FLINS2018 (Liu).
+
+ Conference organisation: PCRC organised the 32nd BCS HCI Conference, 2018 (Bond) and
+ IMPVIP, 2018 (Scotney) and AIRC organised IEEE BIBM 2014 (Zheng); FLINS 2018, ISKE 2018
+ (Liu) and ECCE2019 (Mulvenna) in Belfast. ISRC organised IMVIP2014 (Coleman), ISSC2017
+ (Curran) and MEGUK2018 (Prasad) and the ‘Big Data for Health Policy Symposium’ 2020 (Black)
+ in Derry. Discovery Day for public engagement in research is held at the ISRC each year as part
+ of the Northern Ireland Science Festival.
+
+        Editorship, peer review and board membership
+ Seven staff are members of the EPSRC peer review college (e.g., Coyle, Mulvenna, Sterritt,
+ Hawe, Wonglin, Harkin, McGinnity) and many staff review for a range of national (e.g., MRC,
+ BBSRC, Leverhulme Trust) and international research funding bodies (e.g., EU H2020, Danish
+ Agency for Science and Higher Education; Canada Foundation for Innovation (CFI); Chilean
+ National Science and Technology Commission, The Austrian Agency for the Promotion of
+ Research (FFG), The Netherlands Organisation for Health Research and Development).
+
+ Staff are guest editors/associate editors of range of Journal titles, examples include, IEEE
+ Trans on Neural Networks and Learning Systems (Coleman); IEEE Transaction on Games;
+ Frontier in Neuroscience (Coyle); Journal of Neuroscience Methods (Wonglin); Human Movement
+
+                                                                                         Page 22
+Unit-level environment template (REF5b)
+ Science; Motor Control; Chaos and Complexity Letters; Understanding Complex Systems (Kelso);
+ Nature Scientific Reports; Journal of Behavioural Robotics (Siddique); IET Computers and Digital
+ Techniques Journal (Harkin); Journal of Future Robot Life; The Journal of British Blockchain
+ Association (JBBA); Cryptography; Computer Science and Electrical Engineering (MDPI); IET
+ Networks; PLOS ONE (Cybersecurity & Blockchain); (Curran), J Technology and Health Care
+ editorial board (McCullagh); Journal of Electrocardiology (Bond); Neural Networks, Information
+ Sciences, Soft Computing Elsevier, Evolving Systems – Springer (Kasabov); IEEE Computer,
+ IEEE Transaction on Human and Machine Systems, Journal of Ambient Intelligence and
+ Humanized Computing, Personal and Ubiquitous Computing Journal, Pervasive and Mobile
+ Computing, International Journal of Distributed Sensor Networks (Chen); IEEE Computer, MDPI
+ Technologies, IEEE Journal of Biomedical and Health Informatics, Frontiers in Digital Health,
+ International Journal of Computational Intelligence Systems, BMC Medical Informatics and
+ Decision Making (Nugent); Communications in Statistics–Theory and Methods (McClean); Journal
+ of Informatics (Shuai, Nugent); International Journal of Data Mining, International Journal of
+ Computers in Healthcare, BMC bioinformatics, International Journal of e-Healthcare Information
+ Systems (Zheng); IEEE Transactions on Computational Biology and Bioinformatics, International
+ Journal of Machine Learning and Cybernetics (Wang); Journal of Fuzzy Mathematics,
+ International Journal of Computational Intelligence Systems, Information Science Journal, Journal
+ of Ambient Intelligence and Humanized Computing (Jun); The Journal of Engineering (IET),
+ Interacting with Computers, Behaviour & Information Technology (Mulvenna); ACM Transactions
+ on Autonomous and Adaptive Systems (TAAS) (Sterritt); Journal of Wireless Communications
+ and Mobile Computing Journal (Cleland); Behaviour in Information Technology Journal (Bond);
+ BMC bioinformatics (Zheng); IEEE Transactions on Computational Biology and Bioinformatics
+ (Wang); Information Science Journal (Liu); IEEE Transactions on Cybernetics, The Computer
+ Journal, IET Computer Vision on Video Analytics (Wang).
+
+ Staff have authored monographs, e.g., two published by Springer, 2019 (Chen, Nugent) and
+ (Kasabov) and guest edited a range of special issues/edited books, including Frontiers In
+ Neuroscience; Progress in Brain Research Edited book, Elsevier (2016) (Coyle); The Springer
+ Handbook of Bio- and Neuroinformatics, Springer (2014) (Kasabov); Cyber-enabled Intelligence,
+ CRC Press, Taylor & Francis (2019) (Chen); Smart Assisted Living: Toward An Open Smart-
+ Home Infrastructure, Springer (2020) (Chen, Nugent); Emerging Trends and Advanced
+ Technologies for Computational Intelligence, book series: Studies in Computational Intelligence,
+ Springer (2016) (Chen).
+
+ UoA11 staff also serve as member or chairs of or have provided advise to various advisory
+ panels/committees, including: KTN Neurotechnology Innovation Network advisory board
+ member, IEEEBrain Initiative Core Team, IEEE Brain Technical Community Steering Committee;
+ IEEE Computational Intelligence Society UKRI Chapter (chair), Member of the UK Traumatic Brain
+ Injury Network (Coyle); ECR rep for Demon Network; C-TRIC COVID-19 Task Force; Ulster rep
+ on the NI Department of Health Covid-19 Modelling Group (Bucholc), Chair, British Neuroscience
+ Association (BNA) Chapter for Northern Ireland (Wonglin); President of the Irish Pattern
+ Recognition and Machine Vision Society (Coleman), Chair Library Committee of the London
+ Mathematical Society; Chair of Council of the British Soc. for the History of Mathematics
+ (McCartney); Member for Professional Accreditation for the Operational Research Society
+ (McClean); Member of IEEE CIS Smart World Technical Committee (Chen); Member of the
+ EPSRC Image Guided Therapies UK Network+; Member of ESC Working Group on e-
+ Cardiology; Member of PDF-ECG Working Group; Directing Board Member for International
+ Society for Computerised Electrocardiology; Member of Working Group for IEEE 7003 Standard
+ on Algorithmic Bias; (Bond); Committee member of the International Scientists for the China
+ Seismo-Electromagnetic Satellite Mission (CSES) (Bi); Engineers Ireland - Accreditation Panel
+ (Davies); IET Policy Group for Northern Ireland (EPGNI); Member of Belfast Turing Lecture
+ Organising Committee; Deputy Chair of NI Science Festival; Chair of Belfast Turing Lecture
+ Organising Committee (Wallace); Global Future Council on Neurotechnologies and Brain Science
+ for the World Economic Forum; President of the International S.T.E.P.S (Science, Technology,
+ Economics & Politics for Society). Foundation & Chairman of The Olympiads of the Mind (Kelso);
+ IEEE public visibility committee, British Blockchain Association Advisory Board Member;
+
+                                                                                          Page 23
+Unit-level environment template (REF5b)
+ WebRoots Democracy Cratos project Advisory Group Member; Northern Ireland Civil Service
+ Cyber Leadership Board, UK Cyber Security Council (Curran); Council Board Member, European
+ Society for Engineering and Medicine (Donnelly); IEEE SMC Society Ireland Chapter chair (Wang)
+ and Senate of the Indian Institute of Information Technology, Pune (Prasad).
+
+         Fellowship and membership
+ Staff are affiliated with/have membership of a range of learned societies.
+ Example of prestigious fellowships/position held by staff include: Fellowship of International
+ Academy of Physical Sciences (IAPS) (Prasad); Fellow of The Society of Experimental
+ Psychologists (SEP); Honorary Member of the Royal Irish Academy (Kelso); Fellow of the British
+ Blockchain Association (Curran); Fellow of the IET (Chen, McGinnity, Maguire); Chartered Fellow
+ of the British Computer Society (BCS) (Mulvenna); Doctor Honoris Causa, Obuda University,
+ Fellow of the INNS College of Fellows, President of the Asia-Pacific Neural Network Society
+ (APNNS), 2019 (Kasabov); Royal Academy of Engineering/The Leverhulme Trust Senior
+ Research Fellow, 2013; Royal Academy of Engineering Enterprise Fellow, 2015; UKRI Turing AI
+ Fellow, 2021-2025 (Coyle).
+
+
+
+
+                                                                                        Page 24
+

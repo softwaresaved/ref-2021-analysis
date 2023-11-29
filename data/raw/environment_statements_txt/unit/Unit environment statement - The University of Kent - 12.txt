@@ -1,0 +1,820 @@
+Unit-level environment template (REF5b)
+ Institution: University of Kent
+
+ Unit of Assessment: 12: Engineering
+
+ 1. Unit context and structure, research and impact strategy
+
+ Context and Structure
+ The University of Kent’s School of Engineering and Digital Arts (EDA), located in the Division of
+ Computing, Engineering, and Mathematical Sciences (CEMS), comprises three well-established
+ and highly regarded research groups: Communications; Instrumentation and Control; and
+ Intelligent Interactions. In addition to these established groups, since 2019 the School took the
+ strategic decision to expand into the field of Mechanical Engineering, recruiting two new staff and
+ the development of new laboratory space costing over £3 million. The overarching strategic aim
+ of EDA over the REF2021 period has been to engage in research of the highest quality that will
+ have a beneficial impact on industry and society, through fulfilling the three core objectives set out
+ in our REF2014 submission: (1) growing core capability in our three established areas of research
+ excellence; (2) expanding multi-disciplinary research through external and internal collaborations;
+ and (3) impacting positively through our unique combination of technological and design expertise.
+
+ We are proud of our achievements since 2014 with respect to all three objectives. We have grown
+ core capability by increasing the number of Category A staff to 29 FTE (up from 24 FTE) across
+ our three established research groups, and we have doubled our externally funded research
+ awards from £1.5 million in REF2014 to £3.1 million in REF2021. We have also increased multi-
+ disciplinary research through enhanced collaborations with industry and the private sector, public
+ sector organisations, other universities nationally and internationally, as well as with Kent
+ researchers beyond EDA (see Section 4). The impact of our research has been demonstrated in
+ the areas of cyber security, process instrumentation, and mobile communications, as shown in
+ our impact case studies and the further examples provided below. Much of this impact has been
+ driven by our unique blend of design-informed technology.
+
+ Underpinning our three strategic objectives has been a strong commitment to sustainability and
+ the development of researchers at all career levels. This is reflected by the fact that four of the
+ eight new staff appointed in this REF period were former PhD students and researchers in the
+ School.
+
+ The activities of the three groups are overseen by the School Research and Innovation Committee,
+ chaired by the School Director of Research. Working closely with staff, this committee sets the
+ groups’ research priorities and identifies new opportunities.
+
+ Communications. This group comprises 10 staff: J. Wang (Chair), Assimakopoulos, Batchelor,
+ Gao, Gomes, Horne, Sanz-Izquierdo, C. Wang, Young, and Zhu. It explores the theory, design,
+ and manufacture of advanced communications technologies and systems for high-frequency
+ and/or high-data-rate wireless systems operating from radio frequency (RF) to Terahertz (THz)
+ frequencies to support new and emerging applications. The group has established collaborations
+ with industries and academic institutes globally (see Section 4), and plays a leading international
+ role in the fields of mobile communication systems, microwave photonics, RFID antennas, low-
+ cost smart antennas, and space antennas.
+
+ Since 2014, the Communications group has been actively involved in a number of national and
+ international projects, cementing its international reputation. Recent projects reflect the areas
+ stated in the group’s objectives in REF2014, involving work on high-data-rate, ‘fifth-generation
+ (5G) and beyond’ mobile communications; microwave photonics and fibre-wireless convergence;
+ RF/microwave/mm-wave circuit design; RF identification (RFID) antenna and frequency selective
+ surface (FSS); and smart antennas, microwave, millimetre-wave and sub-THz phased arrays and
+ space antennas. In the REF2021 period, the group’s achievements in the field of 5G (and beyond)
+ mobile communications have included:
+
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+
+    •   Proposing a novel beam allocation algorithm in massive multiuser MIMO systems to
+        achieve maximum throughput, (Zhu, Gomes, J. Wang, 2018).
+    •   For the first time, proposing a user-centric optimisation algorithm in cloud radio access
+        networks by dividing the optimisation problem into two stages (Zhu, Gomes, J. Wang,
+        2017).
+    •   Presenting a new performance evaluation method for emerging mobile multiuser device-
+        to-device (D2D) communications to mitigate interference between cellular and D2D users
+        (Zhu, J. Wang, 2019).
+    •   Leading a European project for the use of Ethernet optical fibre transport for the support
+        of future mobile/wireless networks (Gomes, Assimakopoulos, 2014-17).
+    •   Demonstrating the first millimetre-wave frequency distributed MIMO system using radio
+        over fibre transport (Gomes, 2017).
+    •   Proposing and demonstrating novel digital signal processing to support analogue radio
+        over fibre (Gomes, Assimakopoulos, 2018).
+    •   Proposing and demonstrating novel analogue all-optical signal processing for microwave
+        photonic systems that tackle bandwidth and data challenges (C. Wang, 2018).
+    •   Performing 5G harmonised research and trials for service evolution between EU and China
+        (Zhu, Gomes, Assimakopoulos, J. Wang, 2018-21).
+
+ In the field of antennas and RF devices for mobile and satellite communications, IoT,
+ biomonitoring, and space-borne remote sensing, the group’s achievements in this REF period
+ include:
+
+    •   Proposing new techniques for the design of ultra-wideband reflectarray antennas and
+        transmitarrays for satellite communications, demonstrating a printed reflectarray with the
+        widest bandwidth reported (Gao, 2017).
+    •   Pioneering the development of planar duplex filtering antennas (Gao, 2016).
+    •   Proposing and demonstrating a wide range of low-cost electronically beam-scanning smart
+        antennas using technology from our patent filing on active FSS (Sanz-Izquierdo, Gao,
+        Batchelor, 2017).
+    •   Proposing novel printed FSS for 5G and THz frequencies (Sanz-Izquierdo, Gao; 2020) and
+        developing 3D printed wearable antennas (Batchelor, 2019).
+    •   Developing nanowire transistor devices for beam-steerable antennas and, subsequently,
+        smart printable surfaces for the control of radio waves inside buildings, with application in
+        RF energy harvesting and signal strength improvement (Young, 2017).
+    •   Demonstrating skin mountable sensing technologies with battery-free communications
+        (Batchelor, 2020).
+
+ The group’s research over the next five years will focus on theory, techniques, and technologies
+ to underpin next-generation, high-data-rate wireless communication systems, which, owing to
+ spectral congestion, will increasingly be required to operate at higher frequencies with greater
+ spectral efficiency. The systems will also need to efficiently and dynamically adapt and support
+ end-user applications with vastly different service requirements and traffic characteristics. The
+ group’s strategic objectives in the forthcoming period include:
+
+    •   Enhancing our work in radio resource allocation, ultra-massive MIMO, and multiple access
+        for high-data-rate wireless communications by applying artificial intelligence technologies.
+        This work will be undertaken at a critical and opportune phase, with the emergence of new
+        international standards for 6G mobile communications.
+    •   Extending our work on the use of analogue and digital fronthaul transport by integrating
+        with software-defined networking, network slicing, and orchestration functions, important
+        for future networks, and with the use of distributed deep learning algorithms.
+    •   Developing further our microwave photonics research, particularly in on-chip photonic
+        signal processing, and exploring interdisciplinary applications of microwave photonics.
+
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+    •   Translating our flexible skin-mounted wireless sensing platforms to millimetre-wavebands
+        offering multiple channel access for sensors and monitored individuals.
+    •   Continuing our innovation of manufacturing processes for lifecycle engineering with the
+        development and incorporation of transient materials to our sensing platforms and
+        batteries.
+    •   Developing miniaturised wideband/multi-band beam-scanning intelligent antenna and
+        circuits at microwave, millimetre-wave and THz frequencies for terrestrial (5G/6G mobile
+        communications, smart sensors for self-driving cars) and space applications (satellite
+        communications, Internet of Space).
+
+ Instrumentation and Control (IC). This research group comprises nine staff: Y. Yan (Chair),
+ Hussain, Lu, Marcelli, Oven, Sakhaei, Shafiee, L. Wang, X. Yan. Formerly known as the
+ Instrumentation, Control, and Embedded Systems group, it changed its name in 2018 to reflect a
+ more concentrated focus on applied instrumentation and control. The group has had considerable
+ success in solving challenging measurement, monitoring, and control problems through applied
+ research programmes, with support from a range of funding bodies and industry. It has established
+ long-term partnerships with power generation and manufacturing industries such as EDF Energy,
+ RJM International, and KROHNE Ltd (see Section 4). The IC group’s expertise lies primarily in
+ industrial process sensors, intelligent instrumentation, smart condition monitoring, digital image
+ processing, data fusion, data modelling, and robust control and estimation. Since 2014, the group
+ has published more than 100 research papers in leading journals and over 130 refereed
+ conference papers in the field of instrumentation and control. In addition to a well-equipped
+ Instrumentation Laboratory on the University’s Canterbury campus, the group has regular access
+ to industrial-scale test facilities and full-scale power plants for demonstration trials.
+
+ The IC group has made significant advances in a number of externally funded projects with
+ industrial and international partners, sustaining its international reputation in its field. Its
+ achievements in this REF period include:
+
+    •   Flame imaging technology capable of providing the quantitative measurement of flame
+        characteristics such as temperature distribution, free radical concentration, and stability
+        under a diverse range of combustion conditions (biomass flame, coal flame, oxy-biomass
+        flames, gas turbine flames, etc.). This area of work (Y. Yan, Lu, 2014-20; Hossain, 2018-
+        20) has been supported by Doonsan Babcock, British Sugar, EDF Energy, RJM
+        International, Walsn Energy Limited, and the UK Carbon Capture and Storage Research
+        Centre (UKCCSRC).
+    •   New solutions to mass flow metering and online particle sizing of pulverised fuel (coal and
+        biomass) by combining piezoelectric sensing techniques and electrostatic sensor arrays.
+        On-plant demonstration trials have been conducted on three coal-fired power stations in
+        China in collaboration with Walsn Energy Limited and North China Electric Power
+        University (Y. Yan, 2017-20). The pulverised fuel flow metering technology has resulted in
+        the installation of full-scale systems in operation at over 20 power stations across China
+        (Y. Yan, 2014-20), as detailed in the impact case study (Y. Yan et al.) in this submission.
+    •   The development of Coriolis flow metering technology for the measurement of multiphase
+        flow. The Coriolis technology, though well established for single-phase flow measurement,
+        has been extended to measure gas-liquid flows by incorporating multi-modal sensing and
+        soft computing models (Y. Yan, L. Wang, 2018-20). It has been successfully deployed for
+        the measurement of CO2 under both static and dynamic CCS conditions. This area of
+        research is supported by KROHNE Ltd and North China Electric Power University.
+    •   Advances in fundamental theoretical research in relation to robust decentralised control
+        and fault diagnosis. A systematic methodology has been developed for robust control of
+        nonlinear systems using limited measurement information (X. Yan, 2014-17). Significant
+        achievements have been made in dealing with nonlinear interconnections under complex
+        surroundings. Sliding mode technique-based fault diagnosis has been developed to
+        enhance the system performance and safety (X. Yan, 2016-20). These methods have been
+        deployed in real systems such as robots, high-speed trains, and industrial processes in
+
+
+                                                                                            Page 3
+Unit-level environment template (REF5b)
+        collaboration with Nanjing University of Aeronautics and Astronautics and China University
+        of Petroleum.
+    •   Computational modelling applied to understand physical properties of biological cells to
+        identify differences between normal and diseased bloods. This area of work was funded
+        by an EPSRC grant and in collaboration with University of Exeter and King’s College
+        London (Marcelli, 2015-19).
+    •   Development of electronic devices to achieve diagnosis of medical conditions in speech-
+        swallowing therapy with support from RoseMedical (Marcelli, 2017-20).
+
+ Post-REF2021, a subset of the IC team will lead the future Mechanical Engineering group (see
+ Section 3). The remaining IC group members will continue to focus on Instrumentation and
+ Control, sustaining research that is beneficial to the power-generation, renewable-energy,
+ manufacturing, and healthcare industries. The IC group will continue with its applied research
+ programmes in sensing, instrumentation, imaging, robust control and estimation, and plans to
+ further develop its research in the following core areas:
+
+    •   Multiphase flow metering, in particular, coal/air and biomass/air two-phase and
+        coal/biomass/air three-phase flow metering and online sizing of coal and biomass particles.
+    •   Mass flow rate and gas fraction measurement and leak detection of carbon dioxide under
+        Carbon Capture and Storage (CCS) conditions.
+    •   Monitoring and characterisation of burner flames in the power-generation and other
+        industries.
+    •   Structural health monitoring of mechanical systems such as wind turbines.
+    •   Automated quality inspection of recycled plastic waste bales.
+    •   Fundamental nonlinear control paradigms with intelligence consideration applicable to
+        networked systems and multi-agent systems, with a focus on control mechanisms in
+        engineering applications.
+    •   Deep learning techniques to perform image-based cell profiling to enable the quantification
+        of phenotypic differences on large-scale biological systems, to automate the process of
+        discrimination between cell lines with the same genetic origin, and to perform functional
+        and mechanistic investigations.
+
+ Intelligent Interactions (II). This research group comprises 10 staff: Howells (Chair), Ang,
+ Covaci, Deravi, De Wilde, Efstratiou, Guest, Hoque, Sirlantzis, and Von Jungenfeld. The group’s
+ research focus encompasses all aspects of information engineering, digital media, and human-
+ machine interactions, and successfully blends these themes to address fundamental current
+ issues in how artificial intelligence, robotic systems, and digital media can be efficiently exploited
+ within the engineering and security domains. The group has an international reputation for its work
+ in a number of key application areas in pattern recognition, interaction design, social, ubiquitous
+ and mobile computing, device authentication, security and biometrics, healthcare, e-learning,
+ computer games, interactive media environments, digital film, and animation. The group’s principal
+ achievements in the REF2021 period have included:
+
+    •   Biometric verification technologies (Guest, Deravi, 2014-20; see impact case study), which
+        has impacted the algorithmic performance of biometric implementations, increasing rates
+        of accuracy in recognition and protection against attacks, thereby ultimately enhancing the
+        experience and convenience for end users. This work has also provided multiple worldwide
+        standards since 2007 for the interchange of data, directly used by implementers of systems
+        worldwide, and also contributed to understanding the use of these systems in novel
+        implementations, in particular on mobile devices, increasing the security of devices for the
+        general public and service providers.
+    •   Device authentication which has led to the development of ICMetrics (Howells 2014-20;
+        see impact case study), a highly novel technology for deriving secure, uniquely identifying
+        encryption keys from the properties of digital systems, which enables the establishment of
+        trust and provenance in the identity and integrity of electronic devices via their inherent
+
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+         physical and behavioural characteristics. This research has led to the creation of a spin-
+         out company, Metrarc Ltd.
+     •   Health-related robotics where the group developed and tested the UK’s first and only
+         (currently) fully actuated wheelchair-driving virtual-reality-enabled simulation platform. This
+         work focuses on the fusion of computer vision, pattern recognition, artificial intelligence,
+         and robotic control for assistive technology (AT) systems. The team also successfully
+         developed and trialled with wheelchair users technology for autonomous and semi-
+         autonomous navigation of wheelchairs able to provide environment contextual information
+         (e.g. avoiding obstacles, and semantically characterising objects in the environment such
+         as door-handle types and electric switches, as well as potholes in the road). This
+         represents a fundamental requirement for patients to practically employ such systems
+         (Sirlantzis, Hoque, Howells, 2014-20).
+     •   Human-centred healthcare innovations where the group has pioneered the design of virtual
+         reality (VR) in dementia care over the past seven years. This work has led to a pilot trial in
+         a psychiatric hospital (St Andrew’s Healthcare). The team has also designed the first multi-
+         user remote VR system for eating-disorder therapy.
+     •   The group also has a strong interest in the use of artificial intelligence for art creation, and
+         for this research it has received the BCS AI Award at the Lumen Prize (Von Jungenfeld,
+         2019).
+
+ Over the next five years, the II group plans to build on its strong knowledge base and the increasing
+ successes of our industrial collaborations, maximising the impact from existing research themes.
+ The focus of II will be to:
+
+     •   Extend its work linking the areas of biometrics and forensics, including interdisciplinary
+         studies of interpretation and use, connect work in the security domain to new analyses of
+         user interaction, and explore new applications in extended realities and social networks.
+     •   Extend its work on device authentication into the development of practical exploitable
+         systems.
+     •   Increase the reach and visibility of its work on assistive robotics and other healthcare
+         technologies, with a focus on usability and functionality, aiming to achieve large-scale
+         practical uptake of the technology. This work will be augmented via a collaboration with
+         the new Mechanical Engineering research group.
+     •   Link technologies that understand and generate new ‘art’ with healthcare-centred
+         applications, making use of sensors and machine learning.
+
+ Supporting Interdisciplinary Research
+ Our three research groups work flexibly together and with other Schools at Kent, with
+ interdisciplinary research strongly encouraged. There has been a strategic emphasis throughout
+ the REF2021 period at both School and institutional level on supporting a wider engineering
+ provision than the traditional electronic-based disciplines at Kent, and on nurturing increased
+ interdisciplinary activity by encouraging participation in University initiatives and joint studentships.
+ As well as fully integrating within the initiatives outlined in REF5a, our disciplinary base has been
+ enhanced throughout the REF period by involvement with a number of research centres operating
+ at both Faculty (now Divisional) and institutional level, including the Institute of Biotechnology and
+ Molecular Medicine (iBaMM), the Signature Research Themes ‘Future Human’ and ‘Migration and
+ Movement’, and the Kent Interdisciplinary Research Centre in Cyber Security (KirCCS), which has
+ been recognised by the EPSRC and NCSC as an Academic Centre of Excellence in Cyber
+ Security Research (ACE-CSR). Following on from the success of KirCCS, the School has played
+ a leading role in the University’s plan to establish an Institute of Cyber Security for Society (iCSS),
+ which is being launched in 2020-21. This Institute, one of only four at the University, involves
+ interdisciplinary research with disciplines such as Computing, Sociology, Law, Business, Politics,
+ and Psychology.
+
+ We have a strong research track record in new wireless communications sensing through
+ Manufacturing the Future, sensing and instrumentation technologies, and autonomous and robotic
+
+                                                                                                   Page 5
+Unit-level environment template (REF5b)
+ platforms, as exemplified by our wheelchair research. For further interdisciplinary collaboration,
+ we will strengthen research links with the Materials for Energy and Electronics group in the School
+ of Physical Sciences, and grow our longstanding activities in healthcare technologies in
+ collaboration with the new Kent and Medway Medical School (KMMS). The interdisciplinary growth
+ areas that we will be prioritising are all included in the UK Industrial Strategy and the Research
+ Council priority themes for a Prosperous Nation.
+
+ Impact Strategy
+ Impact has always been a core strand in EDA’s research and innovation strategy. Each of our
+ research groups has strong and well-established links with industry (see Section 4), and impact is
+ an essential part of the annual Individual Research Planning (IRP) meetings with our staff. We
+ actively involve industry and other stakeholders from the early stages of our research activities,
+ and the benefits of these close relations are demonstrated in our impact case studies and in the
+ project examples provided in Section 1 above. Collaborations with industries are exploited through
+ internationally funded projects, KTPs, and industry-funded studentships. Spin-out companies and
+ consultancy work are also actively encouraged and supported. Research planning in the School
+ is geared towards the translation of research outputs to achieve a strong impact across the
+ spectrum, in particular the generation of new industrial products and services, as evidenced in our
+ impact case studies.
+
+ Research Integrity
+ EDA nurtures a strong culture of research integrity. The fundamentals of research ethics are
+ reinforced annually through information sessions for all staff, together with dedicated training
+ sessions for PGR students. EDA’s Research Ethics and Governance Officer is responsible for
+ providing advice and guidance for academic staff as they develop research projects. The School
+ has a robust ethics approval process that guarantees rigorous and timely review. The School is a
+ member of the Research Ethics and Governance Committee. Alongside a formal reporting and
+ accountability function, this Committee is an important venue for sharing best practice and
+ addressing difficult cases, while also providing external ethics reviews for large grant applications.
+ The University’s Research Ethics and Governance Manager works within this framework to
+ provide advice and to share knowledge on emerging best practice. We have also developed a
+ legally compliant infrastructure for collecting and sharing research data, including data that
+ contains personal information as defined in GDPR. Together, these procedures drive a proactive
+ culture of research integrity that combines a strong knowledge base with a rigorous, timely, and
+ well-supported administrative process.
+
+ Open Research
+ EDA is fully committed to open research, and is supported by the University to achieve Gold rather
+ than Green Open Access (for further information, see REF5a). Through the University’s Research
+ and Innovation Services team, as well as the Office for Scholarly Communication, all members of
+ staff in EDA have benefited in the REF2021 period from dedicated training opportunities on Open
+ Access, research metrics, dissemination planning, and copyright.
+
+ 2. People
+
+ Staffing Strategy
+ Our staffing strategy is to recruit, develop, and retain high-quality researchers, focusing on areas
+ where we can build critical mass and increase visibility, and appointing early career researchers
+ (ECRs) whenever possible in order to support the next generation of research leaders in
+ Engineering. Over the REF2021 period, we have strengthened established areas of research
+ excellence and invested in emerging areas (in particular, Mechanical Engineering), while
+ maintaining strong succession planning. We have sought to: maintain appropriate growth and
+ balance in our staff numbers; focus on recruiting and nurturing highly skilled ECRs; support and
+ develop the potential and capabilities of all our staff; and ensure our environment is conducive to
+ international quality research. During the REF period, we have appointed six new staff to existing
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ groups and two additional staff to our new Mechanical Engineering research group. Additionally,
+ two new technical posts have been created to support Mechanical Engineering. We have focused
+ on building a strong network of talented ECRs in order to recognise new talent and ensure a
+ vibrant and sustainable research culture. Of the eight new staff appointed during the REF2021
+ period, six had not previously held established academic positions.
+
+ While our academic recruitment strategy focuses on building our strength in the School’s research
+ groups, we also seek to enable multidisciplinary connections. For example, the appointment of
+ Hossain (2018) and L. Wang (2018) aligned with our succession planning strategy for the IC group,
+ while their work on sensors, computer vision, and deep learning helped to strengthen connections
+ across all the research groups. The II group recruited Von Jungenfeld (2016) and Covaci (2018)
+ to build links between research on human-machine interaction, AI, and mechanical engineering.
+ The appointments of Assimakopoulos (2019) and Horne (2020) complemented the strengths of
+ the Communications group through their expertise on smart antenna technologies for wireless
+ communications.
+
+ Staff Development
+ The EDA staff development process is designed to create an open, inclusive, and supportive
+ working environment. We look to develop the potential and capabilities of all our staff through a
+ range of development opportunities, including:
+
+    •   A supportive and rigorous probation procedure.
+    •   One-to-one mentoring for new staff. Annual individual research planning (IRP) and
+        performance development (‘Reflect, Plan, Develop’) reviews.
+    •   Transparent and equitable time management through our work allocation model (WAM).
+    •   A supportive peer-review system.
+    •   Inclusive platforms and events for knowledge sharing.
+    •   Internal funding for travel and conference attendance.
+    •   Flexible and family-friendly working patterns.
+
+ The School is a vibrant and supportive workplace with a strong culture of celebrating successes.
+ We actively seek ‘good news’ stories about our staff and students, and we publicise achievements
+ through the School website, social media, and on public display screens within the School.
+
+ Probation and support for ECRs. All new staff are required to undertake a rigorous and supportive
+ three-year probation process. ECRs are assigned a mentor from among the senior staff for the
+ duration of their probationary period and are actively supported to plan their short- and long-term
+ career, with a view to achieving promotion within five years of appointment. New staff are given a
+ reduced teaching load (a 50% reduction in year 1; 25% in year 2), as well as significantly reduced
+ administrative duties. Additional support is provided to our ECRs through the integration of the
+ various training development mechanisms with opportunities to network and share best practice
+ across the institution. ECRs have priority for the allocation of internally and externally funded PhD
+ studentships, and at least one studentship has been allocated to each of our ECR in recent years.
+ ECRs who are new to PhD supervision are mentored by more experienced supervisors and are
+ encouraged to join PhD supervisory teams to help with their development as independent
+ research supervisors. The School also supports ECRs by funding six additional months of PDRA
+ time for New Investigator Award winners, attaching PhD studentships to most successful funding
+ proposals and providing additional travel support for attending conferences and other networking
+ activities.
+
+ Appraisal and career development. The School undertakes an annual appraisal process with each
+ staff member, conducted by a senior academic and complementing the School’s Individual
+ Research Planning (IRP) process (see below), and the University’s ‘Reflect, Plan, Develop’ (RPD)
+ process. The RPD serves the purpose of identifying the needs of each member of staff, including
+ training, pathways to promotion, and career development. For staff at an early stage of their
+ academic careers, the School has fully embraced the Concordat to Support the Career
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ Development of Researchers to ensure holistic support for our ECRs. The RPD and IRP
+ processes provide staff with mentoring and support to help disseminate research and maximise
+ impact, and ensure that resources are targeted appropriately and effectively. The career
+ development needs of more established academic staff are also identified through the annual
+ appraisal and IRP processes. These annual reviews are monitored by the Head of School and the
+ Heads of the research groups, to ensure that individual staff are supported and encouraged, and
+ that their research fits the strategic direction of the unit. Staff development needs, career guidance,
+ and training are also supported at University level through its Staff Development Policy (see
+ REF5a).
+
+ Promotion and reward. The School Promotions Committee takes a proactive approach to the
+ career development of our staff, identifying potential candidates early in the annual promotion
+ cycle and encouraging and assisting them in their applications. This has resulted in considerable
+ success in career development for our staff since REF2014, with five promotions to Senior
+ Lecturer, three to Reader, and four to Professor. Promotion to Reader and Professor requires
+ evidence of international research reputation, supported by objective criteria and external support.
+ Final decisions on promotions are made by the University Promotions Committee, chaired by the
+ Vice-Chancellor, with supportive written feedback provided to all applicants. Since 2014, a number
+ of our research students and Research Associates have secured academic positions, either within
+ the School (four) or elsewhere (eight). The School has also attracted a large number of highly
+ qualified overseas Visiting Scholars and research students over the REF period, and we will
+ continue to make use of the advice and input of our Visiting Scholars in the development of high-
+ quality outputs.
+
+ Supporting funding applications. In line with University policy, the School has a strongly supportive
+ internal peer-review process to help our staff produce high-quality grant proposals, with particular
+ mentoring and reviewing assigned to UKRI New Investigator awards. Additionally, frequent
+ internal workshops and staff forums are organised on the preparation of high-quality applications
+ by senior academics with extensive experience of success in funding applications. The
+ University’s Graduate and Researcher College also runs a regular Grants Factory programme for
+ staff applying for research funding, and this includes regular mock panels to provide feedback to
+ less-experienced staff on how to write strong applications. The University also provides funding to
+ pump-prime research and innovation projects on a competitive basis, the allocation of these funds
+ prioritising ECRs. In the REF2021 period, staff in EDA were successful in obtaining these funds
+ on several occations; for example, Von Jungenfeld’s work on interactive projections on the
+ Gulbenkian façade (£5,350) and Covaci’s work on multisensory stimulation for masking quality
+ degradation (£3,867).
+
+ Workload allocation. The School workload allocation model (WAM) is designed to provide support
+ for research, with an additional 10% of research time over and above the time allocated to the
+ project to any project investigator. This serves to both reward any successful proposal investigator
+ and to release time for them to devote to the preparation of further project proposals.
+
+ Equality, Diversity, and Inclusivity
+ EDA is committed to incorporating the principles of equality and diversity in every aspect of our
+ recruitment and promotion processes, working patterns, teaching, and research. All our staff are
+ required to undertake equality and diversity training on, for example, unconscious bias awareness
+ and diversity and inclusion in Higher Education. The School is actively engaged in the University’s
+ Equality Diversity and Inclusivity (EDI) Network, and is represented on the forum by our EDI
+ representative (Deravi). The School has established its own EDI Committee to ensure that EDI
+ principles are embedded in all of our activities. We were particularly proud to have won the
+ Workplace of the Year award at the Times Higher Education Leadership and Management Awards
+ (THELMAs) in 2018. The award recognised the creation of a bespoke EDI participatory calendar
+ focused on the theme of identity, culture, and celebration to recognise numerous important issues
+ and events such as International Women’s Day, LGBT History Month, Chinese New Year, and
+ Mental Health Awareness.
+
+
+                                                                                                 Page 8
+Unit-level environment template (REF5b)
+ Gender equality. In recognition of its achievements in working towards gender equality, EDA
+ secured an Athena SWAN Bronze Award in 2015, and this was renewed in 2018. We are now
+ preparing an application for a Silver Award. The School takes proactive steps to ensure that female
+ colleagues are represented in all areas of School governance, including appointment and
+ promotion panels.
+
+ Working patterns. The School prides itself on being an open, fair, and democratic workplace.
+ Workloads are allocated on a transparent basis, with a WAM that includes credit for a range of
+ activities, including leadership roles and PGR supervision. We very much appreciate that staff
+ need to balance often conflicting demands with regards to teaching, research, and personal lives,
+ and we look to ensure a good work/life balance for all our staff. We embrace family-friendly
+ policies, including flexible working and the potential for job sharing. We follow the University’s
+ policies concerning support for staff and research students returning from periods of leave
+ (including parental leave) or ill health, or with caring responsibilities.
+
+ In preparing our submission to REF2021, all staff directly involved in the submission, including the
+ Unit’s REF Working Group members and the REF Coordinator, were required to undertake
+ additional EDI training as part of Kent’s Code of Practice. Furthermore, we ensured that all staff
+ were able to participate in the process of output selection, encouraging staff to propose which
+ outputs they would like to have considered for submission and ensuring as fair a balance as
+ possible in the final selection.
+
+ Research Students
+ Recruitment. Our PhD programmes attract high-quality applicants that reflect and enhance the
+ School’s research environment. We have been successful in our strategy to grow our
+ postgraduate research student (PGR) population, with an increase in student numbers of 25%
+ over the REF2021 assessment period, our current cohort being 50 PGRs. To support more PGR
+ scholarships, our focus has been to work with industry in order to explore new partnerships and
+ funding (see Section 4). Academic staff are encouraged to apply for large external funding (e.g.,
+ EU/EPSRC), making it possible for the School to support PhD scholarships either as part of the
+ award or through School funds. Awards which have been supported by PhD studentships include
+ 5G-DRIVE, AMBER and PriMa (EU), and Multisense (EPSRC). To enable for the creation of more
+ studentships, external funds have, on occasion, been combined with internal match-funding
+ through University scholarships. School and University policy is to offer 50% funding for
+ studentships that are match-funded by industry, together with several fully funded industrial
+ studentships.
+
+ Training and supervision. The training and management of our PGRs is led by the School Director
+ of Graduate Studies and our School Graduate Studies Committee. Support for research students
+ is well resourced, and includes both personal direction and group support. The Graduate and
+ Researcher College (formerly the Graduate School) provides a formal Researcher Development
+ Programme for all PGRs and RAs. This is delivered partly at University level (transferable skills)
+ and partly through the School’s specialist training programme. Each PGR is supervised by a
+ supervisory panel consisting of first and second supervisors and a supervisory chair. Newly
+ appointed early career staff are trained in research supervision and associated student care. All
+ PGRs attend regular research seminars organised by each research group, give internal seminars
+ at least once a year, and attend the biennial School research conferences. Each student is
+ financially supported by the School to participate in at least one major international conference
+ over their registration period. Students benefit greatly from increasing numbers of international
+ visitors to the School, broadening their horizons and enhancing opportunities for cross-topic
+ discussion.
+
+ The University has implemented a robust progress monitoring system. Each student must have
+ an induction review at the end of the first month of their registration, a probation review by the end
+ of the tenth month of registration, and a review at the end of years two and three. In the writing-
+ up year, students may request an extension from a few months to one year. Only under
+ exceptional circumstances is an extension given for more than one year. Progress is monitored
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+ with assistance from the institutional Student Data System, which sends email reminders to
+ students and supervisors of deadlines for submission of reports and outcomes of assessments.
+ This high-quality support, combined with a rigorous first-year evaluation, helps to ensure excellent
+ progress for the great majority of our PGRs, and our completion rates are excellent.
+
+ 3. Income, infrastructure and facilities
+
+ Income
+ Since REF2014, the School has been very successful in increasing the income it has received
+ from its research activity, income having almost doubled: from £1,135,993 in 2013-14 to
+ £1,943,171 in 2019-20. This has been achieved through an increase in the cumulative value of
+ both grant applications and awards since 2013-14. In 2016-17, the value of the School’s share of
+ awards from externally funded competitive sources reached £3.1 million – the highest annual
+ figure on record for the School. The awards we received throughout the REF2021 period have
+ come from a varied portfolio of funding sources, ranging from standard research funders –
+ research councils (EPSRC, ESRC, AHRC), EU, Innovate UK, DSTL, and Newton Fund – to direct
+ industrial funding, including Huawei, Leonardo, and KROHNE Ltd. We have set ourselves new
+ and ambitious income targets for the next five years, with a view to achieving £3 million per annum
+ by 2023, with incremental increases thereafter. These targets will help to ensure the sustainability
+ of our research, as well as our standing in the field.
+
+ The School also has a good record of innovation grant applications and awards from a portfolio of
+ industrial and business contacts. Since 2014, we have worked with more than 50 regional,
+ national, and international industrial organisations in consultancy, postgraduate studentships,
+ KTPs, and other forms of collaborative projects (see Section 4). The School will continue to
+ actively engage with industry-linked high-impact funding streams such as KTPs via Innovate UK
+ and Keep+, as well as encouraging consultancy work.
+
+ Infrastructure and Facilities
+ EDA resources a well-founded laboratory infrastructure across its three established research
+ groups, concentrating investment in both its leading and its niche experimental areas. During the
+ REF2021 period, the Communications group significantly enhanced its experimental laboratories.
+ Benefiting from a combination of EU funding (5G-DRIVE) and University support, we have
+ invested £55k in a new SDR-based MIMO testbed to assist our theoretical work on massive, multi-
+ user, and distributed MIMO schemes. An Ethernet fronthaul testbed, with high-performance
+ FPGAs, switches, servers, precision time measurement, hardware and virtual probes, to a total
+ value of £100k, has been built using EU/UK funding (iCIRRUS, NIRVANA, 5G-DRIVE), University
+ funds, and in-kind support from VIAVI (£34k). Our microwave photonics work has benefited from
+ a new optical wireless transmission testbed, including new laser sources, spatial light modulator,
+ high-speed photodetector, and free-space optics, which has been supported by EU/UK funding
+ (Marie Curie CIG, Royal Society, Catapult RiR). In our antennas laboratory, in-house 3D printing
+ equipment for the manufacture of antennas and frequency selective surfaces has been developed
+ through Royal Society funding (£15k), and a £20k upgraded RFID system was developed in 2017.
+
+ For the Instrumentation and Control group, a state-of-the-art slurry flow test-rig was constructed
+ with support from industrial partners KROHNE Ltd. During the REF period, the instrumentation
+ laboratory has seen an investment of £22k in a high-speed camera and fibre-optic imaging for its
+ flame research activities, including a significant portion directly from the University. The IC group
+ also maintains a long-term working relationship with power-generation organisations, which
+ provide access to industrial-scale combustion test facilities and full-scale power plants. For the
+ Intelligent Interactions group, a new virtual reality laboratory funded by Santander (£10k) was
+ established in 2020. To support biometrics usability research, the group benefited from a flexible
+ image and data acquisition and processing facility, supported directly from University QR funds
+ (£10k) in 2018.
+
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ In the REF2021 period, the University committed to a £3 million modernisation programme to
+ develop a new Engineering and Design Hub, providing a multi-purpose design studio, heavy and
+ light machinery workshops, maker space/skills centre, and modern production facilities. State-of-
+ the-art facilities include material testing machines, CNC and 3D printing machines, wind tunnel,
+ collaborative robots, and a dedicated makerspace. The Hub provides extensive technical support
+ facilities and also enables complementary activities that will enhance research activity across all
+ of our research groups.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Research Collaborations, Networks, and Partnerships
+ EDA has a well-established track record of successfully collaborations with industrial partners
+ regionally, nationally, and internationally, as well as with a range of academic institutions
+ worldwide. We are well-connected to multiple European academic and industrial communities,
+ and we also maintain strong connections in China and the US, which will help to minimise the
+ impact of Brexit on our research income. There has been a significant increase in KTP awards
+ since 2017, and we are now collaborating in projects with Dyrhoff Ltd, KROHNE Ltd, PlanSnap
+ Ltd, and Shearwater Systems Ltd. Since 2014, our staff have undertaken consultancy work for a
+ range of companies, including Applied Nanodetectors Ltd, Centre for Process Innovation Ltd,
+ Cobham CTS Ltd, Doosan Babcock Ltd, Emmerich Ltd, Givaudan UK Ltd, Haag-Streit UK Ltd,
+ Megger Instruments Ltd, Smilepass Ltd, Vislink PLC, and Worldwide Fruit Ltd. The School is linked
+ to three active spin-out companies: Metrarc Ltd (Howells); GreenTech Automation Ltd (Y. Yan and
+ Lu); and Evidentia Ltd (Batchelor and Horne).
+
+ In the field of 5G and beyond mobile networks, the Communications group has collaborated with
+ a number of overseas universities, including Southeast University, Xidian University, and City
+ University of Hong Kong, producing four joint research projects funded by the Royal Society, EU
+ Horizon 2020, and the Chinese Government, and 36 joint papers, including four outputs included
+ in this REF submission. The group participated in the EU 5G-DRIVE project, which focused on
+ early 5G trials and the lessons that can be learnt, and is twinned with a China Mobile-led trials
+ project. This has resulted in joint publications with partners from both projects, including the
+ University of Surrey, VTT, OTE, Orange (PL), China Mobile, and Eurescom.
+
+ The group has pioneered the proposal for the use of Ethernet in the fronthaul of future mobile
+ networks in Europe, with Gomes leading two projects: iCIRRUS (Orange [France], ADVA, VIAVI,
+ Interdigital, Telekom Slovenije, Primetel, Wellness Telecom, IAF GmbH, Fraunhofer-HHI,
+ University of Essex); and NIRVANA (Kent/Essex, with industry support from BT, EE, VIAVI, NEC,
+ among others). The iCIRRUS project liaised with other EU projects, and one of the results was a
+ contribution on Ethernet fronthaul to the Wiley book on 5G, led by the EU 5G PPP projects.
+
+ The Communications group is heavily involved in the integrated microwave photonics COST
+ network, with Gomes being one of the two UK general committee members. Our participation in
+ the EU-Japan RAPID-5G project on radio over fibre for millimetre-wave 5G resulted in joint work
+ and publications with University Duisburg-Essen, Siklu, Exatel, Corning, and the Japan partners
+ Hitachi, ENRI, Koden, and Osaka University. New international collaborations with the Chinese
+ Academy of Sciences, Tianjin University (China), National Tsing Hua University (Taiwan), and
+ McGill University (USA) were supported by three Royal Society International Exchange grants,
+ leading to joint work and publications.
+
+ Antennas work concerning the integration into printed and scaled-up manufacturing processes is
+ carried out in collaboration with the High Value Manufacturing Catapult for Printed Electronics and
+ CPI, making available roll-to-roll integration tools to create batch and roll-to-roll scaled-up
+ demonstrators of wireless passive-sensing labels integrated with printable flexible polymer
+ batteries at UHF and mmWave bands. The work is in partnership with the University of
+ Manchester, Northwestern University Chicago, University Roma tor Vergata, Great Ormond Street
+ Children’s Hospital, AgeUK, PragmatIC printing, Givaudan Ltd, NeuDrive, and DSTL. In the areas
+ of space antennas and smart antennas, the group has collaborated with over 30 institutes and
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+ companies across Europe, including Airbus UK, Airbus France, German Aerospace Agency, IHP
+ Microelectronics, Germany, University of Calabria, Italy, Institute of Telecommunications,
+ Portugal, KU Leuven, Belgium, TU Graz Austria, University of Warwick, University of
+ Southampton, and University of Sheffield. The collaboration has been centred around several
+ multi-disciplinary projects funded by the EU and EPSRC (GaNSat, DIFFERENT, WISDOM, LN
+ Tunable, LPUWB). The projects led to many innovative concepts and the development of
+ antennas for applications in space and terrestrial mobile communications, partly summarised in
+ an invited paper in the Proceedings of the IEEE (March 2018). For example, the WISDOM project
+ led to the first 3D-printed high-gain wideband Fabry-Perot antenna at 140 GHz. The DIFFERENT
+ project led to the development of the first Ka/X dual-band digital beamforming synthetic aperture
+ radar for space-borne earth observation. Results of DIFFERENT have been exploited by DLR
+ Germany for the development of a new radar demonstrator for future missions, including NASA’s
+ NISAR Mission and ESA’s Rose-L Mission. The group has also collaborated with ESIGELEC,
+ GreenSysTech, Intrinsiq materials and the University of Surrey on two EU-funded Interreg projects
+ (HOMES and SURFAS), both on printed electronics for smart antennas and surfaces for future
+ mm-wave systems. This has resulted in a number of joint publications. A novel calibration
+ technique for mmWave and THz measurements has been developed and published with the UK’s
+ National Physical Laboratory. The group has recently been awarded funds from the Royal Society
+ International Exchanges cost share scheme to collaborate with the Beijing University of Post and
+ Telecommunications on the development of 3D printed dielectric resonator antennas (DRA) for
+ 5G millimetre wave applications and beyond.
+
+ The IC group has established strong partnerships with leading power-generation and associate
+ service organisations, including EDF Energy, British Sugar, Doosan Babcock, RJM International,
+ Moneypoint Power Station (Ireland), Enlanda Instrumentation, and Walsn Energy Ltd, through
+ projects funded by Innovate UK, BF2RA (Biomass and Fossil Fuel Research Alliance), and
+ UKCCSRC, as well as industrial consultancy and studentships. Close interactions with industrial
+ partners have influenced the IC group’s research direction and strategy, as evidenced in our
+ impact case study (Y. Yan et al.). Other examples of this include our collaboration with EDF Energy
+ and British Sugar to develop a smart technology for the flexible operation of biomass/fossil fuel-
+ fired power plants since 2015. We also work closely with industrial firms locally and nationally
+ through KTP programmes funded by Innovate UK. For example, as a result of a recently
+ completed KTP project with KROHNE Ltd, the IC group developed a new series of smart
+ multiphase flow meters, using Coriolis flow meters incorporating soft computing algorithms. In an
+ ongoing KTP project, the IC group is working with DYRHOFF Ltd to achieve smart condition
+ monitoring of large-scale inflatable rubber dams for hydraulic power and other industries. The IC
+ Group has also been working with RoseMedical in the development of electronic devices for
+ medical diagnosis in speech-swallowing therapy. Collaboration with Haag-Streit UK, a
+ manufacturer of medical instruments, has led to the development of a digital version of their
+ tonometer – an instrument that measures internal eye pressure.
+
+ The II group has developed excellent collaborative project teams with institutions nationally and
+ internationally. Ongoing contacts include BT, threeUK, GlobalSign, KeyTalk, Ericsson,
+ TrendMicro, BAEsystems, Chelmsford, Apurba Inc., and Ames Grid Services. There is also a
+ strong research relationship with the East Kent Hospitals University Foundation Trust (EKHUFT),
+ which has directly collaborated with us on several research projects. The group’s biometric privacy
+ work is carried out in partnership with the universities of Twente (Netherlands), Oslo (Norway),
+ Würzburg (Germany), and Leuven (Belgium), whilst our mobile biometric work is a direct
+ collaboration with UAM (Spain), UniRoma3 (Italy), University of Magdeburg (Germany), and WUT
+ (Poland). In the area of human/computer interaction, we continue to collaborate with the University
+ of Southampton and IBM. In the area of human/computer decision making, there has also been
+ significant work with collaborators in Georgia Tech to push the boundary of wearable technology.
+ New skin-like flexible sensors have been developed, powered by machine learning, for Dysphagia
+ therapy, brain–machine interaction for wheelchair control, and VR eye-tracking for ocular disorder
+ therapy. The group has benefited from PhD studentship funding from CallSign Ltd and
+ GCHQ/NCSC in the areas of novel swipe interaction authentication and performance evaluation,
+ respectively. We have also undertaken mobile device work on forensic knuckle identification with
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ Purdue (US) and Lancaster universities. Through our role in the European Association for
+ Biometrics, we have delivered training courses to over 70 organisations, including police forces,
+ border agencies, industry, and other academic organisations. We continue to work with Ingenium
+ Biometrics Labs (a team of consultants to the Cabinet Office), with whom we plan to develop
+ Europe’s first FIDO Alliance-certified biometrics testing facility with Ingenium biometrics by 2021.
+
+ The Mechanical Engineering team, which is currently in the process of being established, already
+ benefits from strong research collaboration with Rolls-Royce, London Array, Network Rail, EDF,
+ Babcock International, TWI, Siemens, and Vattenfall.
+
+ To build and support all of these relationships and networks over the REF2021 period, 18
+ members of the School have either chaired or been programme committee members for over 60
+ conferences or events, of which 32 were IEEE.
+
+ Contributions to, and Recognition by, the Research Base
+ EDA staff play an important international disciplinary leadership role, demonstrated by the range
+ of indicators of influence, contributions to, and recognition by, the research base. Over the
+ REF2021 period, our staff have either organised or served as session chairs at 106 events.
+ Nineteen members of staff have been invited to engage through 98 presentations and guest
+ lectures, 53 of which were overseas. Six members have served on national and international
+ committees (UK Government, EU, etc.), or given evidence as expert witnesses. For example,
+ Guest was appointed by the Home Secretary (through a competitive process) as a member of the
+ UK Home Office’s Biometric and Forensics Ethics Group (BFEG), an independent group of 10
+ leading multidisciplinary experts providing advice to Government on issues of biometric and
+ forensic data-use and systems implementation.
+
+ The following examples illustrate how members of the School have contributed to, and been
+ recognised by, their research base over the REF2021 period:
+
+ Expert panel member/witness. J. Wang: Selection Committee, Royal Academy of Engineering;
+ Gao: Panel member of Award Committee, IEEE Antennas and Propagation Society; Guest:
+ evidence given to UK Parliamentary Science and Technology Select Committee, and member of
+ UK Government Home Office Biometrics and Forensics Ethics Group; Deravi/Guest: Principal UK
+ Expert to ISO/IEC JTC1 SC37 WG2/WG3; Gomes: expert on British Standards Institute committee
+ EPL/103.
+
+ Learned societies or professional bodies. Y. Yan: Council Member of International Flame
+ Research Foundation (IFRF), and member of the Executive Committee of the Fuel and Energy
+ Research Forum (FERF); Guest: Chair of BSI IST/44 WG2; Shafiee: Institution of Mechanical
+ Engineers (IMechE), UK Manufacturing Advisory Committee (MAC), RenewableUK, EERA JP
+ Wind, and European Safety and Reliability Association (ESRA); Gao: UK Representative in
+ European Association on Antennas and Propagation.
+
+ Conference programme chairs. Ang: Co-Chair, INTERACT 2019; C. Wang: Co-Chair of OGC
+ 2019; Efstratiou: Chair of WristSense 2015, 2016, 2017; Batchelor: organiser, IET Symposium on
+ Wideband Antennas; J. Wang: Executive Chair, and Gomes, TPC Chair: IEEE ICC 2015;
+ Sirlantzis: Chair, CareTech, 2015; and Howells: Co-Chair, EST 2014, 2015, 2017.
+
+ Invited keynote lectures. Gao: ConTEL, 2019; Gomes: EEE MWP Topical Meeting workshop on
+ MWP for 5G, Optical Fiber Communications conference, 2016; X. Yan: TCCT Workshop on
+ Modelling, Control and Applications; Y. Yan: 3rd Clean Coal Technology (CCT), 2014, IEEE
+ SCOReD, 2016, IEEE CASS, 2017, IEEE ISCTE-IUL, 2018, 40th Annual Congress of China
+ Instrument and Control Society, 2019, ISTM, 2019.
+
+ Fellowships. FREng (J. Wang. Y Yan); FIEEE (Gao, J. Wang, Y. Yan); FIET (Batchelor, Deravi,
+ Gao, Gomes, Howells, J. Wang, Y. Yan); FInstP (Y. Yan); FInstMC (Y. Yan); FBCS (Guest).
+
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+ Journal editorships. Measurement, Measurement: Sensors, Flow Measurement and
+ Instrumentation, Industrial Combustion Journal, IEEE Transactions on Instrumentation and
+ Measurement (Y. Yan); IEEE Photonics Technology Letters (C. Wang); IEEE Access (Hossain);
+ IET Electronic Letters (Gao, Young); IEEE Transactions on Antennas and Propagation, Radio
+ Science, Chinese Journal of Electronics, Chinese Journal of Radio Science (Gao); SCIENCE
+ CHINA Information Sciences, IEEE Transactions on Vehicular Technology (Zhu); Research in
+ Applied Mathematics (X. Yan); Journal of Advanced Intelligence Paradigms (Sirlantzis); Journal
+ of Forensic Document Examination (Guest).
+
+ Awards, prizes, and other indications of recognition. Ang: Best Paper, Georgia Tech BioEnginering
+ 2020; Y. Yan: Gold Medal for the most published author of all time from the UK by IEEE
+ Transactions on Instrumentation and Measurement 2020, Best Application Award at IEEE
+ I2MTC2017, Best Paper Award at IEEE I2MTC 2016; Von Jungenfeld: Lumen Prize BCS in AI
+ 2019, Best Paper EvoMUSART 2015; Sans-Izquierdo: Best Contributions to the 4th IET Enterprise
+ Workshop; Marcelli: Best Paper, 5th International Conference of the Financial Engineering and
+ Banking Society, Banking, Financial Markets, Risk and Financial Vulnerability; Gao: Distinguished
+ Lecturer of IEEE Antennas and Propagation Society, 2016, IET Premium Award for Best Paper in
+ IET Microwave, Antennas and Propagation; Y. Yan: Distinguished Lecturer, IEEE Instrumentation
+ and Measurement Society.
+
+ Contribution to the Wider Economy and Society
+ Staff in EDA are outward-facing in approach and seek to engage the wider public in our research
+ wherever possible. For example, several members of staff have undertaken media activities,
+ including Batchelor, who has appeared on BBC Radio 4 Costing the Earth; Guest, who has been
+ interviewed for The Register, the Sunday Times, BBC News and CityAM; and Ang, who has
+ appeared on the BBC World Service and been interviewed in the Telegraph, together with
+ numerous interviews in specialised trade publications.
+
+ The School prides itself on its responsiveness to national and international priorities, and to
+ emerging engineering challenges. We seek to involve a variety of relevant stakeholders at the
+ heart of our research activities. Many projects involve collaboration with stakeholders in the public
+ sector, especially with the NHS, Government departments, and the European Commission, as
+ well as extensive ongoing partnerships with industry and the private sector. Examples of our
+ contributions to industry, society, and the economy, nationally and internationally, are
+ demonstrated in our impact case studies, and in the examples described in Section 1 and 4 above.
+ The significance and range of the impact of our research has been underpinned by a strong record
+ of interdisciplinarity and collaboration, and by our outward-facing, responsive approach. It is
+ demonstrated by our increasing success in grant applications and awards, and it reflects our
+ ongoing investment in resources, infrastructure, and development opportunities, and the high
+ international standing of our staff.
+
+
+
+
+                                                                                              Page 14
+

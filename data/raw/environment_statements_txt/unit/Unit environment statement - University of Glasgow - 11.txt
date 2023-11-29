@@ -1,0 +1,1050 @@
+Unit-level environment template (REF5b)
+ Institution: University of Glasgow
+ Unit of Assessment: 11, Computing Science
+ 1. Unit context and structure, research and impact strategy
+
+1.1. Context
+
+The Unit has 44.6 FTE R&T academic staff, 33 research staff (including 2.0 independent R-only
+FTEs) and we supervise 133 PhD students. We taught 678 undergraduate and 308 PGT FTEs in
+2019-2020. We have a strong, vibrant research and teaching culture, increasing our total research
+income by 47% since REF2014. Our research is making pioneering, world-leading contributions and
+delivering global impact across the breadth of the discipline. The Unit is structured around four core
+Research Sections (complemented by the Centre for Computing Science Education, devoted to
+learning, teaching and scholarship).
+ Formal Analysis,          Glasgow Interactive       GLAsgow SyStems           Information, Data
+ Theory and                SysTems                   (GLASS)                   and Analysis
+ Algorithms                (GIST)                                              (IDA)
+ (FATA)
+ Head: Manlove,            Head: Vinciarelli,        Head: Pezaros,            Head: Murray-Smith,
+ 10.6 Cat A staff          8 Cat A staff             10.8 Cat A staff          17.2 Cat A staff
+ Algorithms and            Multimodal Human-         Computer systems,         Information Retrieval
+ complexity,               Computer Interaction      parallel systems,         (IR), data systems,
+ programming               (HCI), social robotics    networked systems,        machine learning,
+ language foundations,     and social signal         safety critical systems   computer vision and
+ formal modelling,         processing, data          engineering               autonomous systems
+ model checking and        analytics and ethics
+ verification
+
+We have an international reputation for generating world-leading theory, and for informing cutting-
+edge practice, with particular strengths in the areas of Information Retrieval (IDA) and Human-
+Computer Interaction (GIST). Examples include:
+• IDA – our research is ranked first in the world by number of papers in the specialism’s premier
+   publication venue (ACM SIGIR1) while Ounis and MacDonald are both in the top ten of all SIGIR
+   authors in the world. The Section develops and maintains Terrier.org, a popular open-source IR
+   platform which has been downloaded over 100k times and has been cited over 3900 times
+   (Google Scholar). One of our Impact Case Studies (Macdonald and Ounis) comes from this
+   Section’s work with [text removed for publication];
+• GIST – Brewster has the largest number of publications of any author at the specialism’s premier
+   publication venue (ACM CHI2), and we have the second highest publication volume of any
+   university at the ACM MobileHCI3 conference. Brewster was a General Chair of the ACM
+   CHI2019 conference, the first time it had ever been in the UK and it was hosted in Glasgow
+   because of the Section’s world-class reputation. JR Williamson was chosen as one of the
+   founding members of the ACM Future of Computing Academy;
+• FATA – algorithms developed by our researchers have helped NHS Blood and Transplant
+   increase the number of kidney transplants in the UK from paired donation by 44% during the
+   REF2021 period. Manlove won the RSE Lord Kelvin Medal for this work. Norman has been one
+   of the principal developers for PRISM, a world-leading, award-winning (Haifa Verification Award)
+   open-source probabilistic verification tool that has had over 75,000 downloads while related
+   papers have received over 4,000 citations;
+• GLASS – the Section has a prominent position in parallelism research, e.g., leading the EPSRC
+   MaRIONet Network of Excellence and leading 3 of the 5 SADEA Manycore projects. Key
+   activities are around open-source and standards, leading to two ICS (Trinder, Perkins).
+
+   1
+     https://dl.acm.org/conference/ir/affiliations (as at 31/7/20)
+   2
+     https://dl.acm.org/conference/chi/authors (as at 31/7/20)
+   3
+     https://dl.acm.org/conference/mobilehci/affiliations (as at 31/7/20)
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+    Johnson’s research has had significant influence on the development of European and Global
+    policies in cyber security associated with Critical National Infrastructure security and the aviation
+    industry, in collaboration with, among others, GCHQ and the Cabinet Office.
+
+1.2. Structure of the Unit
+
+After REF2014, the Unit underwent a strategic reorganisation to combine expertise from our then
+seven groups into our current four research Sections, starting 2017. The Unit is run by the Head of
+School (HoS) and the School Executive (comprised of Professors, the Heads of the core committees
+and Section heads).
+
+Our restructuring strategy was to consolidate our expertise into a coherent and flexible structure,
+giving us bigger communities to tackle larger-scale, global research challenges, and be prepared for
+the increase in government investment in R&D to 2.4% GDP over the next decade. Capitalising on
+our increased student numbers, we have grown the Unit’s total academic FTE by 60% with 38.5%
+of that growth in R&T staff to build critical mass and bring expertise that allowed better synergies
+across our areas of research. Our recruitment strategy was to invest in long-term development
+through recruiting diverse young talent and provide leadership through competitive internal
+promotion. Early career colleagues now make up 29% of our staff. We have built strong connections
+with major industries with local presence (e.g., BBC, IBM and JP Morgan Chase) to develop
+capabilities in areas of national investment (e.g., healthcare, digital media).
+
+1.2.1. Early Successes of the New Structure
+Our restructuring strategy has enabled the new Sections to undertake novel, world-leading work by
+combining skills of multiple section members, bringing in significant funding to tackle new research
+problems. For example, the £3million EPSRC Closed-Loop Data Science project (led by Murray-
+Smith) demonstrated how the critical mass formed around the IDA Section was brought together for
+a unique approach to data science, also bringing in companies such as Amazon, JP Morgan and
+Skyscanner. Within FATA, Calder’s Science of Sensor Systems Software (S4) EPSRC Programme
+Grant also involves Miller and Sevegnani, with collaborators in St Andrews, Liverpool and Imperial
+College. Singer (parallel systems) in GLASS run the £900k EPSRC FRuIT project that also brought
+together Pezaros and Perkins (networked systems), to explore scale models for Cloud Computing
+leveraging clusters of hundreds of Raspberry Pi’s across the UK. Within GIST, the €3million H2020
+FETOpen LEVITATE project, coordinated by Brewster, includes JR Williamson and Freeman to
+work on highly novel forms of ultrasound-based interaction. There are also large cross-Section
+activities: the UKRI SOCIAL CDT (led by Vinciarelli, with Foster and Ounis as Co-Is) brings
+together academics from GIST, FATA and IDA, and is joint with the School of Psychology to train
+students to build the future of socially intelligent artificial agents.
+
+1.3. Strategy over the REF period
+
+•   Create a flexible and adaptive
+    research structure to solve the most
+    significant research problems and
+    ensure our work has the highest
+    relevance and impact: Our strategy
+    was to restructure, building on our
+    core strengths and expertise but be
+    agile and adaptive to new problems by
+    using dynamic cross-cutting themes
+    (initially identified by the Executive
+    and put before the Unit for
+    discussion). Three of these are currently running. Evidence of success of the new structure
+    includes our academics receiving >20 best paper awards from top international conferences and
+    journals, 4 EPSRC Programme Grants (S4, ABCD, Populations, and the recently announced
+    QUEST Healthcare 2050), one ERC Advanced Grant Fellowship (Brewster), and over 40
+
+                                                                                                 Page 2
+Unit-level environment template (REF5b)
+     academic prizes, showing our research is of the highest international quality. Our projects also
+     have strong industrial involvement with >135 companies across the Unit, giving our research
+     relevance and impact, and feeding into our ICS (companies involved in our ICS: Trinder:
+     Ericsson, EDF, Erlang Solutions; MacDonald and Ounis: [text removed for publication];
+     Perkins: Ericsson, CallStats; Manlove: NHS).
+
+•     Increase the number and diversity of academic staff to
+     achieve economies of scale and critical mass comparable to Year             R&T Staff FTE
+     the upper half of the Russell Group: Our strategy was to 2013 – 14              32.2
+     increase the size of the Unit to allow us to tackle larger    2014 – 15         33.2
+     problems, and bring in new blood to revitalise the Unit after 2015 – 16         34.2
+     many retirals at the end of REF2014. At the REF2021 2016 – 17                   36.6
+     census date, the Unit had 44.6 R&T FTE (with an additional 2017 – 18            36.4
+     2 fellows), having grown from 32.2 R&T FTE in 2014 and 2018 – 19                40.4
+     putting us in the upper quartile in the Russell Group (HESA 2019 – 20           44.6
+     2017-18 data). Our strategy has been to employ excellent
+     ECR’s to complement the established staff in each Section. Alongside this, we have recruited
+     new staff in cross-cutting strategic themes such as autonomous systems (Hesham, Michala),
+     healthcare (Deligianni), and media and data science (McDonald, Pugeault) as these are areas
+     with high societal need for research.
+
+     We have recruited excellent new ECRs energetically over recent years to build our strength for
+     the future and to maintain our teaching and research quality; 46% of our staff are new since
+     REF2014, 32% of our new recruits are female and we recruited from 12 different countries. Our
+     strategy is paying off with our ECR staff showing excellent trajectories, for example: of staff
+     appointed since August 2018, 7 already have grant funding as PI or Co-I; Foster has achieved
+     promotion to SL within 3 years; Khamis, within one year of his first academic appointment, has
+     produced 5 excellent full papers in ACM CHI, the top publication venue in HCI.
+
+•    Increase research funding commensurate with our larger size and position in research rankings:
+     Our strategy was to bring in more bigger grants, focusing on EPSRC and H2020, and recruit LTS
+     staff to reduce teaching load to give time for world class research. Our external research funding
+     has increased by 35%, to a total research income over the REF period of £21.9M, with 14 grants
+     of over £500k distributed across the Sections and academics. We have recruited 7 LTS staff
+     since 2018, giving a total of 9, to support teaching and scholarship. To support staff in their
+     research, the University recently provided £390k investment for new research infrastructure.
+
+•    Increase PGR numbers and recruit and nurture the best students: Our strategy was to extend
+     our PhD cohort and broaden our pool of excellent students to build research strength from the
+     ground up. Headcount of PGRs supervised by Unit staff has risen by 80% since 2014. 37% are
+     female and our PhD students come from 36 different countries. We competitively recruit the best
+     students from across the world, with funding from EPSRC DTA, Horizon 2020, industry
+     partnerships and EPSRC iCASE. We specifically aimed at gaining an EPSRC CDT to strengthen
+     our PGR numbers and the £5m SOCIAL CDT (socialcdt.org) will add a further 50 students in
+     collaboration with the School of Psychology, along with 16 companies and organisations
+     (including, Dyson, Flash Robotics, Microsoft, and Telefonica).
+
+1.4. Impact strategy
+
+To build on our REF2014 3.68 Impact GPA (ranked 12th), we further refined our strategy,
+concentrating on a small set of objectives to bring impact to the fore, which led to a cascade of
+favourable outcomes. Two main objectives were:
+
+1.      Develop long-term national and international partnerships to enhance our research, teaching,
+        and impact: We have developed strong relationships with world-leading companies: e.g.
+        Google, Facebook, [text removed for publication], Amazon (e.g. collaboration with [text
+        removed for publication] led to MacDonald and Ounis’ ICS). We have led international
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+        (COST Action CA15210) collaboration networks on kidney exchange programmes, delivering
+        impact on kidney transplantation across Europe (Manlove ICS). We used the University’s
+        Industrial PhD studentship programme taking advantage of College 50% matched funding;
+        the Social CDT; partnership with JP Morgan; the EPSRC Closed-Loop Data Science grant;
+        Google AI Faculty & Bloomberg Awards; and a partnership with Naver Labs in Grenoble;
+2.      Instil a culture of knowledge exchange, entrepreneurship and impact among staff and
+        students: We appointed a Unit Business Development Manager (BDM) in 2014 to ensure
+        entrepreneurship and impact were embedded in the Unit's culture. She explores mechanisms
+        to support greater impact through research and entrepreneurship, and to widen the current
+        pool of organisations that collaborate with the Unit. Successes include the integration of
+        engineers from local consultancies (e.g., OBASHI) alongside staff and PGRs, and industrially
+        funded PGR studentships (Craneware, JP Morgan). Our BDM also supports engagement in
+        entrepreneurship initiatives such as hosting of the StartupGrind initiative events during the
+        academic year, a multidisciplinary recent collaboration with Glasgow’s Adam Smith Business
+        School on a Startup Factory weekend, and the negotiation of space at the local Skyscanner
+        offices for the Unit’s spinouts. We have an Industrial Advisory Board (IAB) comprising 13
+        companies (including IBM, Tata, JP Morgan Chase, Skills Development Scotland, and BBC)
+        to support our impact, teaching and research activities.
+
+The strategy has led to one successful spinout (Scoop Analytics), 18 startups, and four RSE
+Enterprise Fellowships which provide business development, training and funding for academics.
+Two of these led to continuing, growing businesses (Opinew and Prodsight). Our staff have won 26
+EPSRC Impact Acceleration Account (IAA) awards for taking research to impact. To support our
+impact strategy, we have:
+
+•    Encouraged staff to embed impact from the start of grant preparation. All new projects include
+     time from our BDM to support impact and exploitation, while we share best practices in impact
+     in grant applications through a grant proposal repository. We regularly run workshops and events
+     dedicated to KE and Impact within the Unit (e.g., on KTP, InnovateUK schemes) and, over the
+     REF period, we have had 7 InnovateUK and 2 KTP awards;
+•    Hosted one of the hubs of the SFC Data Lab Innovation Centre (2014-2019): This led to 6
+     collaborative industry projects worth over £220k. The Data Lab also provided £348k to fund
+     masters students on our data science and data analytics MSc’s. 36 of the students were matched
+     to industry partners for their placements, including: Merkle Aquila, Simul8, NHS NSS, Scottish
+     Government, ScottishPower and Clydesdale Bank;
+•    Led Knowledge Exchange (KE) in the Scottish Informatics and Computing Science Alliance
+     (SICSA) research pool (sicsa.ac.uk), with activities including Demofest and industrial
+     participation (Ounis was former SICSA KE Director, Storer is the current SICSA Deputy Director
+     and Director of KE & Impact). SICSA is supported by the Scottish Funding Council and Scottish
+     HEIs to foster collaboration within the remit of UoA 11 across the sector, and engage with
+     industry and increase KE;
+•    Actively supported the development of REF Impact Case Studies (ICS). Academics leading
+     these are given incentivisation funding to support their time in developing their cases;
+•    Recruited academic staff in the media and data science theme (McDonald, Pugeault), to enable
+     a new MSc and build a strong relationship with BBC Scotland and other local media companies.
+
+Our ICSs come directly from our impact strategy: Trinder’s ICS is linked to encouraging open source
+initiatives; Manlove's ICS is a result of encouraging staff to embed impact in projects from the start;
+Ounis and Macdonald, and Perkins’ ICSs are the result of prioritising research that addresses the
+pressing challenges facing local and global society (i.e. energy consumption; network
+standardisation).
+
+1.5. Multi-disciplinary Research
+
+The Unit strongly supports multidisciplinary research and it is a key part of our strategy to ‘solve the
+most significant research problems’. The Unit fosters larger scale activities across and between the
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+Sections through our cross-cutting theme lectureships while the Unit’s Research Committee
+provides seed funding for building collaborations bottom-up. We have had a wide range of
+multidisciplinary research over the REF period. The Unit (Ounis, Triantafillou and Ntarmos) was a
+founding partner of the Urban Big Data Centre (in collaboration with social science). Murray-Smith
+is part of QuantIC, the UK quantum technology hub (quantic.ac.uk). Our UKRI Social CDT
+(Vinciarelli) supports significant multidisciplinary work involving 50 PhD students. Each has two
+supervisors from different disciplines, drawn from psychology, neuroscience, engineering, and
+management. Chalmers’ £1m Human-Data Interaction EPSRC Network+ project has a strongly
+multidisciplinary core, with Co-I’s from ethics, medical informatics, art and engineering. The most
+recently funded HDI projects combine sociology, digital media and community health. We have taken
+advantage of the University’s LKAS Fellowships scheme to promote multidisciplinary work, e.g. we
+currently have one fellow (Turpin) working in IDA, coming to us from Physics. There has been a
+significant increase in the demand for CS supervisors to co-supervise PGR students in other
+disciplines, increasing to 28 students in 2019-20 from just 6 in 2013-14.
+                                                                                        Year    % OA
+1.6. Open Access                                                                                Outputs
+                                                                                        2014     48.1
+The Unit strongly supports open access4, with the Research Committee in                 2015     64.5
+charge of the topic. Over the reporting period, the Unit’s Open Access outputs
+                                                                                        2016     75.3
+have almost doubled. All publications (and data from completed projects) are
+deposited on the Enlighten institutional repository. Projects within the Unit also      2017      85
+meet funder open access requirements, for example depositing data on services           2018     88.6
+such as Zenodo and OpenAire.                                                            2019     89.2
+
+1.7. Research Integrity
+
+We follow the approach laid out by the University5, promoting a culture of research integrity through
+the roles of Integrity Champions and Advisers, and the model is currently being used as a case study
+for both the UK Research Integrity Office and the Royal Society (see our Institutional template).
+Within the Unit, all staff undertake research integrity training. Integrity issues are handled initially by
+Section Heads giving information and advice. The Unit has an Ethics Champion (Gay) as does the
+College (Pearce) who staff can consult. We have yearly research away days for staff and integrity
+is a topic that is discussed. Research integrity training is mandatory for 1st year PGRs.
+
+1.8. The Future
+
+The Unit has grown strongly based on the strategy established after REF2014 and is now in an
+excellent position to undertake ground-breaking research and scholarship. Recruiting new ECRs
+means we are able to continuously revitalise the Unit, generating new research areas and
+collaborations, and has set us on the path for a robust future. A key element of our future planning
+is to align with the massive paradigm shifts in research culture and associated funding structures,
+e.g. as outlined in the UK R&D Roadmap, and in this we will be actively supported by the College
+and University. Given our success over the REF period, the University is continuing to invest
+strongly, with a further 11 new R&T posts guaranteed over the next 18 months.
+
+Following the outbreak of COVID-19, the Unit developed agile approaches for essential access to
+restart research and work on campus. Staff and PGR students have been encouraged to attend
+online conferences to keep engaged and disseminate work. The Unit has taken a lead in this area,
+setting up an instance of Mozilla hubs as a platform for the community to run virtual conferences (the
+first was ACM IMX2020 in June 2020) while staff have been involved in COVID-19-related research
+and awarded grant proposals (e.g., Enright, Yuan).
+
+Our strategy for the future builds on our strengths:
+
+   4
+       www.gla.ac.uk/myglasgow/openaccess
+   5
+       www.gla.ac.uk/myglasgow/ris/researchpolicies/researchintegrity/
+                                                                                                   Page 5
+Unit-level environment template (REF5b)
+   •     Adapt and grow our research structures to address emerging research challenges and
+         ensure our work is relevant and achieves high impact. Eight of the new academics to be
+         appointed will reinforce and renew the existing Sections, the other three will be used to
+         support a new cross-cutting theme, with potential topics around programming languages and
+         cybersecurity under discussion. We plan to add one new research Section over the next REF
+         period to grow our portfolio. We will do this dynamically: developing a prominent theme,
+         splitting a large section, or a nucleus may be recruited to address a specific research need;
+   •     Inspire and enable our research staff to achieve their ambitions. A key focus is to enable our
+         talented early career academics to become established, demonstrate strong leadership and
+         achieve eminence;
+   •     Continue to increase research funding, impact, and research ranking commensurate with our
+         growing size. We will increase the proportion of large grants, with a focus on both EPSRC
+         and industrial funding like Innovate UK. We will enhance research impact through our impact
+         strategy leading to a cultural change supported by our BDM.
+   •     Continue to increase PGR numbers and quality commensurate with our growing size. We
+         seek to broaden our pool of excellent students beyond the EU. We will pursue large scale
+         doctoral funding, like CDTs and doctoral programmes with strategic industrial partners.
+
+ 2. People
+
+2.1. Overview
+
+The Unit is a diverse community with 44% of Cat A and 42% of remaining research staff from the
+EU and overseas, bringing together 20 unique nationalities. 18.75% of REF eligible staff identified
+as belonging to ethnically diverse communities. We have begun to address the sector-wide
+challenge of gender balance, and have improved gender diversity of R&T staff by 7.8%, achieved
+proportionate representation in all our activities and processes, set diverse role models, and targeted
+outreach activities. We have modernised policies to improve inclusivity and Equality and Diversity
+(E&D) to support flexible working, parental leave and return, mentoring and career development
+support for all staff, while our paid study leave programme offers significant professional
+development opportunities. Research staff (PDRs) are an integral part of the Unit with established
+representation in the Unit’s Research Committee and Executive, and in quarterly postdoctoral forums
+with the HoS. The team of representatives organize a range of social and professional PDR-focused
+events to encourage networking and collaboration, and to promote a positive culture in alignment
+with the Concordat for the career development of researchers and the University’s action plan around
+collegiality, career development, recognition, open research, and integrity6,7.
+
+Following the outbreak of COVID-19, a suite of much more regular online interactions between
+academic staff, PDRs, and PGR students was organised with key staff including the HoS. This
+removed barriers resulting from the imposed lockdown and accommodated the needs for staff and
+PGR students to work effectively and safely from home, while enabling the monitoring the wellbeing
+of staff and students.
+
+2.2. Staffing Strategy and Staff Development
+
+2.2.1. Recruitment and Promotion Strategy
+Within the reporting period, the Unit has seen a growth of 39% in R&T FTEs to build our strength for
+the future and to maintain our teaching and research quality. 22 new Cat A staff have been recruited
+at Lecturer or equivalent level, with 11 achieving internal promotion from a variety of routes including
+fixed-term research contracts (Anagnostopoulos, Aragon Camarasa, Dardha, Freeman,
+McCreadie, McDonald, Sevegnani, JR Williamson) as well as the University’s Lord Kelvin and
+Adam Smith (LKAS) scheme (MacDonald, Ntarmos, JH Williamson) for emerging leaders, after
+following competitive and transparent appointment processes. This followed our strategy for
+
+   6
+       https://www.vitae.ac.uk/policy/concordat
+   7
+       https://www.gla.ac.uk/myglasgow/ris/researchculture/researchcultureactionplan/
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+employing excellent ECRs to enhance the sustainability of the Unit, and demonstrates the successful
+exploitation of all available support and career development mechanisms (discussed later in this
+section) to provide career pathways for part-time and fixed-term staff. A new scheme introduced in
+2018-19, aims at supporting ECR R&T staff further through the allocation of one PhD studentship
+within two years of appointment. Nine of these studentships at home/EU fees and full stipend have
+been awarded in the current REF period (recipients Yuan, Steuwer, Dardha, Cano Reyes, Dalton,
+McCreadie, Aragon Camarasa, McDonald, Sevegnani). R&T staff recruitment was complemented
+by the appointment of a further 7 Learning Teaching and Scholarship (LTS) FTEs for an overall 60%
+growth in the Unit’s staff over the REF period.
+
+Leadership throughout the REF period has mainly been through internal promotion (e.g. seven
+internal promotions to professor), demonstrating clear career pathways for ECR staff in alignment
+with the Concordat. This complemented previous external leadership appointments (Triantafillou,
+Trinder), and has been facilitated through identification of appropriate candidates by line managers
+at annual appraisals and via self-nomination. To strengthen applications, yearly promotion
+workshops are run in the Unit, and promotion is commonly discussed during mentoring sessions.
+Applications from females comprised 24% of overall applications, which is on par with the 21.5%
+female staff during the review period. In the current assessment period, 62% of all eligible Cat A staff
+have been promoted at least once.
+
+Alongside the Section-based restructuring of the line management of the Unit and the established
+roles of the deputy HoS (Norman) and the Executive, pathways to internal promotion constitute part
+of the long-term succession planning of the Unit which transitioned to a new HoS in June 2020 (Gay).
+
+2.2.2. Career Development
+Through cost subsidy, the Unit encourages staff to attend training opportunities offered by the
+University through Continuous Professional Development (CPD) courses, ranging from recruitment
+and personnel management, to E&D, to research integrity and General Data Protection Regulation
+(GDPR). Academic and Research staff in the Unit have attended 205 instances of training over the
+assessment period with 27% female engagement. In addition to centrally-provided courses, the Unit
+supports women to attend Advance HE’s female-only Leadership Foundation for Higher Education
+(LFHE) Aurora. Since the first year of Aurora participation in 2014-15, 80% of attendees have
+achieved promotion following completion of the programme.
+
+New Lecturers participate in the University’s Early Career Development Programme (ECDP) through
+which they create a long-term personal development plan and set annual objectives to develop the
+skills for promotion from Grade 7 to Grade 8 within 3 years, and then to Grade 9 (Senior
+Lecturer/Reader) within a further 5 years. The Unit has had 23 staff on ECDP during the assessment
+period (14 of whom under 3 years at the census date). From the 9 staff who have been on ECDP for
+3 years or more, 75% have already achieved promotion to the next grade within the target period.
+An additional staff member has been promoted within 2 years.
+
+2.2.3. Mentoring and Development Support
+As part of a strategic approach to inclusiveness and our commitment to the Concordat for the career
+development of researchers, the Unit extends the University-wide ECDP scheme through an internal
+mentoring scheme to provide personalised and subject-specific career development support to all
+members of staff at all levels upon request. PDR staff receive mentoring from their PIs, including
+advice on career progression, work-life balance, and technical feedback on job / fellowship / funding
+applications. In addition, the Job-Seekers Register gives guaranteed interviews for new jobs to
+internal candidates who are approaching the end of their funding.
+
+For academic staff, the Unit has moved from a flat line management model to Section-based line
+management in response to staff feedback to provide better support considering the Unit’s growth.
+The Head of each Section has formally taken over line management for all academic non-
+professorial staff in their Section. Full line management transitioning was preceded by the Head of
+each Section conducting the annual appraisal of staff since 2016. This move has enabled staff to
+have a closer relationship with their line manager, and to be able to receive timely and more focused
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+feedback and development support. Since these staged changes, average success rates for
+promotion applications for the Unit have increased to 89% (2017–2020) from 66% in the previous
+period (2014–2016).
+
+2.2.4. Appraisal/Development Review
+The Unit undertakes an annual Performance & Development Review (P&DR) which provides the
+opportunity for all staff to reflect upon performance and development over the past year and agree
+objectives and plans for the forthcoming year. The P&DR cycle includes regular review meetings
+scheduled throughout the year to capture progress on the objectives and to offer constructive
+feedback and recognition, and a final face-to-face review meeting which is a two-way discussion
+between staff and their line manager to reflect on achievements, objectives, challenges, and to set
+out future plans that will enable staff to fulfil their longer-term career aspirations.
+
+2.2.5. Networking and Grant Funding Support (Workshops and Training)
+The Unit contributed financially to the establishment of the University-wide Women in Research
+Network (WIRN) in 2016, which offers research staff across STEM subjects the opportunity to hear
+prominent women discuss their challenges and pathways to success.
+
+The Unit actively supports staff, especially ECRs, to identify independent and fellowship funding
+opportunities (e.g. Khamis, Omoronyia), and offers annual support and training workshops for staff
+to apply for such funding schemes. For example, there was a dedicated workshop organised in
+2016/17 to highlight opportunities and support applications for prestigious female-only fellowships.
+During the assessment period, 10 PDRs from the Unit have participated in ECR Fellowship
+Workshops, with 60% securing lectureship positions within 3 years of completion. The Scottish
+Crucible is an annual leadership and career development ECR event focused on creating future
+research leaders across Scotland. The Unit has had good representation at the Crucible over the
+reporting period (Females: Andrei, Foster, JR Williamson, Dardha, Meeks; males: Sevegnani,
+Nabi). A notable leadership success from Crucible attendees has been JR Williamson’s selection
+to the ACM Future of Computing Academy.
+
+2.2.6. Study Leave Programme
+The Unit has a paid study leave sabbatical programme in place (one semester every four years) to
+enable members of academic staff to further their research or to gain significant new professional
+experience. Over the reporting period, 12 members of staff were granted study leave, 10 for an entire
+academic year and 2 for a single semester. 33% of the paid study leaves were granted to female
+academics, a higher proportion than the current academic staff female representation,
+demonstrating strong engagement and desire for professional development. Examples of recent
+successes resulting from activities undertaken while staff were on paid study leave include the €3m
+EU FETOpen LEVITATE project (Brewster, includes JR Williamson and Freeman) and the £670K
+EPSRC project on Modelling and Optimisation with Graphs (Prosser).
+
+2.2.7. Engagement Facilitation with Industry/Public/Third Sector
+Engagement is a key part of our Impact Strategy. Long-term partnerships and a culture of KE are
+instilled though the Unit’s active IAB8. Academic staff are given opportunities to present current
+research projects and topics for feedback and engagement. Board membership is diverse and has
+traditionally comprised the local technology industry (JP Morgan, Morgan Stanley, SAS, Craneware),
+the Public Sector (Scottish Government, Skills Development Scotland), and international technology
+organisations (Tata, Google, IBM, Arm, Skyscanner). Examples of concrete collaborations from the
+IAB include: the partnership with Skyscanner and JP Morgan in the EPSRC-funded Closed Loop
+Data Science project (Murray-Smith); jointly funded PhD studentships with JP Morgan Chase
+(Storer); an MoD tender led by Thales to implement machine learning techniques for novel image
+analysis challenges (Johnson); the commercialisation of Privacy by Design technology
+(Omoronyia) in partnership with Morgan Stanley; and the appointment (0.1 FTE) of Mark Logan,
+former Skyscanner CEO and Board Member, to a visiting professorship funded by the Royal
+
+  8
+      www.gla.ac.uk/schools/computing/industry
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+Academy of Engineering to work on the development of courses in Growth Science and
+Entrepreneurship for staff and students.
+
+2.3. Equality and Diversity
+
+2.3.1. Overview
+The Unit is committed to Equality and Diversity (E&D) in its core policies and procedures, including
+a supportive and flexible working environment, with commitment from all levels of the organisation
+in promoting equality. We achieved Athena SWAN Bronze in 2015, currently pending renewal. The
+most recent staff survey in 2018 showed an increase by 7% in staff that find “the environment
+inclusive of all genders”, while the percentage of staff who think that “meetings in the School are
+scheduled flexibly to enable those with caring responsibilities to attend” more than doubled since
+2015 with the introduction of a 10:00-16:00 core hours policy to lower the barriers for those with
+diverse caring or other responsibilities.
+
+The Unit adheres to the University E&D policy which includes commitment to disability equality,
+ensuring that all staff, students, and visitors have a positive experience of the work, learning,
+teaching, and research environment. The Unit adds to the relevant University-wide policies through
+proactively attending to staff with protected characteristics on a case-by-case basis and considering
+additional measures, such as access to additional entrance lift and priority access to local space for
+teaching if centrally managed teaching rooms are not available in close proximity for staff with
+disabilities.
+
+2.3.2. Academic and Research Staff Gender Representation
+The Unit entered the reporting period with 12.5% female REF-eligible staff. After following our
+strategy to increase the number and diversity of academic staff, and taking decisive positive action
+to improve gender diversity, it ends the reporting period with 21.5% female Cat A staff (female
+academic R&T staff at 20%). From the 22 new Cat A staff appointed in the reporting period, 7 have
+been female – 31.8%. Among academic staff Grades, the majority of female Cat A staff are at Grade
+8, while two female Professors (Calder, Miller) represent 15.4% of academic staff at the highest
+Grade (Grade 10).
+
+Among research staff the percentage of female staff at Grade 7 – the main Grade for post-doctoral
+researchers – is higher than at Grade 6, showing a clear pathway to progression for women.
+
+2.3.3. E&D in Recruitment Processes
+Candidates for interview are selected using pre-determined essential and desirable criteria.
+Appointment panel members must undergo Recruitment and Selection training (a prerequisite of
+which is E&D and Unconscious Bias training). Panels have at least one member of each gender and,
+for posts at Grades 7 and above, at least 40% female members. Not to overburden female staff with
+this, appointing committees often have female staff from other cognate Schools such as Psychology.
+The Unit is committed to accommodating childcare arrangements of potential interviewees when
+scheduling interviews, while interviewees can claim carer expenses associated with them attending
+the interview.
+
+2.3.4. Visibility and Diverse Role Models (for students)
+The Unit is committed to providing role models especially for female students, early in their exposure
+to the discipline9. Funding and support is provided for the establishment of the Glasgow University
+Society for Women in Tech (GU SWiTCH), a network founded in July 2017 to tackle the lack of
+female role models and social networks for those students. The network helped hosting CyberFirst,
+a female-only, 5-day Summer School programme run by GCHQ for secondary school pupils. We
+host Ladies of Code, a monthly open meetup with technical talks from leaders in the field and expert
+workshops. Since January 2018, the Unit has hosted a weekly session of the codefirst:girls free
+coding course for students who are not enrolled in computing science.
+
+   9
+       www.gla.ac.uk/schools/computing/diversity/activities
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+
+We ensure that there is appropriate female staff representation at Open Days; that half of Level 1
+and Level 2 undergraduate courses are delivered by female colleagues. This has resulted in an
+increase of female students enrolled in undergraduate CS plans from 14.7% in 2014 to 19.4% in
+2019.
+
+2.3.5. Widening Participation
+The Unit participates in the University’s Widening Participation Pre-University Summer School10,
+targeted at 16-17-years-old school pupils from deprived backgrounds (measured on the Scottish
+Index of Multiple Deprivation). This is the largest summer school of its kind in Scotland and around
+half of the participants subsequently enrol as UG computing students at Glasgow, with 24% of these
+admissions from females (5-year, 2014-2018 average).
+
+2.3.6. Committee Representation
+Female representation on committees is either higher or on par with the overall gender balance of
+the Unit. We endeavour to ensure appropriate committee representation that balances gender and
+ethnically diverse communities. Responsibilities rotate naturally due to changing circumstances and
+personal development plans to ensure staff receive exposure to a range of admin roles and
+responsibilities in support of their career development ambitions.
+
+             Committee                                            Female representation
+             School Executive                                             22%
+             Research Committee                                           33%
+             Learning & Teaching Committee                                30%
+             Research Student Committee (staff)                           25%
+             Research Student Committee (students reps)                   50%
+
+2.3.7. REF2021 Submission
+The Unit’s REF-eligible staff male-female ratio is 79%-21%. All staff involved as Champions or
+reviewers in the Unit for REF2021 have completed E&D and Unconscious Bias training. Staff were
+made aware that they could voluntarily and confidentially declare any personal circumstances that
+may have affected research productivity without being individually identified or approached.
+
+Selection of outputs authored by current staff was made according to the institution’s Code of
+Practice (CoP) to maximise the GPA of the Unit’s outputs sub-profile even if outputs were unevenly
+allocated across staff, different career stages, or not allocating all outputs to their senior author. In
+addition, also according to the CoP and with the endorsement of UCU Glasgow, there has been
+clear separation between REF and performance assessment and hence output selection decisions
+have no bearing on the career progression of any individual colleague.
+
+2.3.8. Flexible Working
+The Unit supports a culture of informal flexible working and working from home. Such requests are
+made to the line manager, and managers are encouraged to be sensitive to individual needs. The
+Unit also observes the University policy on formal flexible working. Any member of staff can make a
+flexible working request, and all requests were approved in the reporting period. These rules
+changed significantly due to COVID-19, and now all staff are currently working from home by default.
+The University has procedures in place for managers to support their staff to return to working on
+campus as and when Units reopen.
+
+2.3.9. Parental Leave
+Staff are offered early support through their line manager in the case of pregnancy. Cover for
+research, teaching, and administrative duties is arranged with the HoS or the Head of School
+Administration, and may involve hiring additional staff. There have been five occurrences of paternity
+leave and 2 of maternity leave over the reporting period, taken by academic and research staff.
+
+   10
+        https://www.gla.ac.uk/study/wp/summerschool/
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+2.4. Research Students
+
+2.4.1. Overview
+The number of PGRs supervised by the Unit’s staff has risen to 133 (from 74 in 2013-14). Female
+PGR student ratio has risen from 19% (2013-14) to 37% (2019-20), improving significantly the Unit’s
+PGR gender gap, and in alignment with addressing one of the identified challenges of the sector.
+The Unit’s PGR population is increasingly international, with 73% coming from the EU and overseas
+in 2019-20 (from 60% in 2013-14), from 31 different countries (36% from ethnically diverse
+communities in 2019-20). 7% of the PGR students have declared a disability (2019-20).
+
+There has been increasing demand for academic co-supervision of PGRs on programme plans in a
+range of other scientific and medical disciplines (from 2.4 FTEs / 6 students in 2013 -14 to 7.8 FTEs
+/ 28 students in 2019-20). PGRs are an integral part of the Unit’s research culture and community,
+and our strategy over the REF period was to recruit and nurture the best talent. This is evidenced
+through the significant contributions PGRs have made to over 49% of the Unit’s total outputs over
+the REF period. PGRs are also involved in significant outreach and research culture activities
+facilitated by the Unit, such as the PGR-led (Olaosebikan) Programming Workshop for Scientists in
+Africa (PWSAfrica), the PGR-led contribution to the CoderDojo movement (Ryan) running
+community-based programming clubs for young people, and the Glasgow Women in Computing
+Science (GWiCS) group (Cooper).
+
+2.4.2. Approach to PGR Recruitment
+We competitively recruit the best students from a wide range of sources from across the world, with
+students funded by EPSRC DTA, Horizon 2020, LKAS, industry partnerships, EPSRC iCASE, and
+foreign governments (e.g., China, Saudi Arabia, Malaysia, Oman, Nigeria, Turkey, and Thailand).
+When applying for admission, applicants are asked to write a proposal which is a core part of their
+PhD application and is subsequently evaluated in terms of research potential, originality, and rigour,
+alongside the candidate’s track record. The Unit has developed an in-house, online supervisor
+search tool11 for potential PGRs to identify relevant members of staff based both on their (online)
+profile but also the topics they publish. Each application is reviewed by a minimum of two academic
+staff before a decision about admission is made.
+
+The Unit has also introduced international and home/EU excellence bursaries to attract talented
+PGRs who would not otherwise have considered Glasgow as a destination through fee discount.
+The scheme started in 2018–19 and shows significant promise through a 38% increase in
+international student headcount on CS plans, over the last year.
+
+2.4.3. Progress Monitoring and Support Mechanisms
+During the latest Postgraduate Research Experience Survey (PRES) 2019, PGRs reported very high
+satisfaction with their supervisor’s skills (93%) and availability (90%), and an 86% overall satisfaction
+(up 4% from 2016/17), showing positive evidence to the Unit’s strategy of nurturing our excellent
+PhD students. PGRs get close support through hour-long, in-person weekly meetings with their
+primary supervisor. Each is also assigned a second supervisor with complementary expertise who
+also has a pastoral role. The Unit operates a mentoring scheme where PDRs mentor PGRs and can
+share their knowledge, skills and reflection regarding postgraduate studies and beyond.
+
+The Unit has an established annual progress monitoring procedure where PGRs write a yearly
+progress report and are orally examined by two members of academic staff independent from their
+supervisory team who subsequently provide detailed feedback. This allows for impartial advice on
+ongoing thesis plans and further career progression.
+
+2.4.4. Skills Development and Training
+Students are also supported through an extensive PGR training programme offering mandatory E&D
+courses, research data management, GDPR, and research integrity. There are also numerous
+
+   11
+        https://www.gla.ac.uk/schools/computing/postgraduateresearch/supervisorsearch/
+                                                                                                Page 11
+Unit-level environment template (REF5b)
+elective activities and courses on transferable skills, ranging from technical to presentation and
+effective (scientific) writing.
+
+Support for participation in conferences and workshops for PGRs whose sponsorship does not
+cover travel is provided through a dedicated budget. On average, 20 students per year benefit from
+this. PGRs are encouraged to publish in the best conferences, with travel support prioritised for
+higher ranked venues. The Unit encourages and supports PGRs engaging with the organisation of
+social and research related activities. For example, PGRs organise and run a mental health
+student support group.
+
+ 3. Income, infrastructure and facilities
+
+3.1. Income
+
+The strategic consolidation of the Unit’s core strengths has resulted in an increased and diversified
+funding portfolio. During the assessment period, the Unit has attracted an average of £3.7M p.a.
+proportioned ownership of external award income, with £25.8M in new HESA-eligible awards through
+146 separate projects.
+Figure 1 depicts the distribution of awards among Cat A staff, demonstrating increase in the spread
+of award income as staff develop their careers.        Figure 2 shows significant (>20%) improvement
+in the gender distribution of award income over the assessment period, reinforcing the Unit’s
+approach to E&D. Τhe Unit has maintained diverse sources of research income, strengthening the
+vitality of our research portfolio, and has achieved an overall growth of 47% in competitively awarded
+research income (spend) over the assessment period.
+
+                                                          Proportioned Award Value by Gender
+
+
+                                                      2013 - 2014
+
+
+                                                      2019 - 2020
+
+                                                                    0%   20%   40%    60%   80% 100%
+
+                                                                         Female      Male
+
+
+
+Figure 1: Percentage award-holders by Grade          Figure 2: Percentage award value by Gender
+
+3.1.1. Research Portfolio
+Our strategy for increasing research income was to target bigger grants from EPSRC and H2020,
+focusing on the most significant research problems. Major prestigious grant awards made by external
+bodies during the assessment period include the £3M Closed-loop data science UKRI EPSRC grant
+led by Murray-Smith (IDA), the £1.9 M ViAjeRo ERC Advanced Grant Fellowship awarded to
+Brewster (GIST), the £4.2M UKRI/EPSRC Science of Sensor Systems Software (S4) Programme
+Grant led by Calder (FATA), the £1.8M EPSRC Border Patrol grant led by Vanderbauwhede
+(GLASS), and the £300k Royal Society of Edinburgh (RSE) Personal Research Fellowship awarded
+to Meeks (FATA). Murray-Smith leads the Unit’s participation in QuantIC, the £6.4M UKRI/EPSRC
+University of Glasgow led quantum imaging hub. Ounis was Co-PI of the UKRI/ESRC £6.9M Urban
+Big Data Centre with Triantafillou as Assistant Director, and Vinciarelli leads the £5m UKRI Social
+CDT. This research forms a significant part of the outputs returned for this assessment period. For
+example, Brewster (ca. 20k citations) and Murray-Smith’s (ca. 8.3k citations) published works are
+extremely well cited, with many best paper awards, and appear consistently in the flagship venues
+in HCI, (e.g., ACM CHI and ACM TOCHI); Ounis’s work includes outputs and best paper awards in
+top venues in Information Retrieval (e.g., ACM SIGIR, where the Glasgow group is the highest cited
+of any University in Europe).
+
+                                                                                                  Page 12
+Unit-level environment template (REF5b)
+
+Similarly, research funding played a crucial role in supporting the generation of the Unit’s Impact
+Case Studies for this assessment period. The authors of the submitted ICS were jointly awarded a
+funding portfolio of over £4M over the assessment period, averaging in £200K p.a. per investigator
+in award generation.
+
+3.1.2. Consultancies & Professional Services
+The Unit encourages staff to engage with industry and government, allowing up to 30 days a year
+within contract. Since 2014, staff have participated in 21 consultancies with 14 different
+companies/agencies, typically focused on giving specific advice, evaluating or improving products,
+with companies including: EDF Energy, US Air Force, Jabra, Mainetti, First Agenda A/S, Blue Bear
+Systems Group, Bridgeall Libraries, CCRS Borkers, Neurodata Lab LLC, Singapore Technologies
+Kinetics, and Qinetiq. Such activities contribute significantly to strengthening the impact of the Unit’s
+research. For example, Perkins’ partnerships with Ericsson and Huawei have contributed to the
+development of international standards for real-time multimedia communication which have
+subsequently been incorporated in all major web browsers. Murray-Smith’s collaboration with B&O
+led to their flagship product, the BeoSound Moment, in 2015.
+
+3.1.3. Industrial PhD Funding
+The Unit consistently capitalises on the College policy for 50% match funding on industrial PhD
+sponsorships to increase external income and ensure long-term engagement with industry. The Unit
+has attracted external funds for 23 such studentships from companies such as Evi, Google, B&O,
+Microsoft, Nokia, Obashi, Satalia, Toshiba and Widex, and studentships under the UKRI/EPSRC
+iCASE scheme (e.g., with ARUP, BT, DSTL, JLR, Schlumberger). This funding has contributed to
+highly impactful research such as the development of forensic tools to minimise the risk of safety-
+critical system malfunctions, now used by the UK civil nuclear industry to protect it from possible
+cyberattacks (Johnson).
+
+3.2. Infrastructure and Facilities
+
+3.2.1. Overview
+The Unit is based in the terraced Lilybank Gardens complex and the adjacent Sir Alwyn Williams
+Building. The University and the College have continued to invest in the Unit’s £6M building during
+the reporting period. A total of ca £2.5M has been invested in laboratory, office, meeting and social
+space, and other strategic research infrastructure. These investments included the conversion and
+extension of meeting room and office space (£997K), the refurbishment of student laboratories
+(£985K), and the investment in research infrastructure through strategic funding bids for, for
+example, file servers, multicore process servers and compute clusters, GPU and networking testbed
+equipment (£500K). This level of investment has resulted in a dramatic improvement of the research
+environment and reflects the regard that the Unit holds institutionally.
+
+3.2.2. Organisational Infrastructure
+The University has made significant investment in the Unit with the funding of 22 permanent
+academic (Cat A) staff in the reporting period (as discussed in Section 2), in response to the strategic
+objective of expanding the Unit’s size to be in line with the upper half of the Russell Group. New
+appointments have been strategically targeted on strengthening the Unit’s research expertise to be
+in a strong position to respond to global research challenges. For example, recent recruits in the
+areas of healthcare (Deligianni), machine learning (Jensen), and data science (Yuan) helped to
+create critical mass for the Unit’s role in the successful proposal of the recently awarded £5.5M
+UKRI/EPSRC Transformative Healthcare Technologies 2050 Programme Grant QUEST on
+Quantum Imaging for Monitoring of Wellbeing & Disease in Communities (Murray-Smith). Similarly,
+investment in growing the Robotics area with two appointments (Foster, Aragon Camarasa)
+resulted in ca £1m of research income across several projects funded by UKRI/EPSRC, EC, and
+industry.
+
+
+
+                                                                                                Page 13
+Unit-level environment template (REF5b)
+
+
+3.2.3. Operational and Scholarly Infrastructure
+The Unit’s Research Committee monitors the research environment, developing strategy, supporting
+grant application processes, publicising research results and opportunities, and pump-priming
+research (approx. £38K p.a. for the research committee and £8K p.a. for supporting research-related
+costs such as conference travel and hosting of external speakers). Together with 26 projects from
+the College’s Impact Acceleration Account, such small-scale yet strategic investment has resulted
+in highly impactful research such as the development of scalable programming language constructs,
+the focus of one of the Unit’s ICS (Trinder). The computing infrastructure within the Unit is supported
+by 2 Systems managers, 2 systems programmers and 2 senior technicians. The Unit has been
+represented (Macdonald) on the University's Steering Group ensuring effective engagement with
+The Technician Commitment and, in particular, how it relates to IT technicians. More recently,
+departure of a senior technician has allowed us to look at the demographics in the team and support
+replacement with a lower grade appointment to support succession planning and development.
+
+Following the outbreak of COVID-19, the Unit has conducted surveys among staff and PGR students
+to identify operational infrastructure needs and, as a result, ergonomic chairs and desks were
+delivered to the homes of PDR and academic staff. All requests for such equipment have been met
+from the Unit’s operational budget, while further equipping approaches for PGR students are being
+considered.
+
+3.2.4 Advanced Equipment and IT Resources
+The Unit has invested significantly in its everyday IT needs and also state-of-the-art research
+infrastructure. The overall related consumables spend throughout the reporting period totalled ca
+£1.6m to 31st July 2020, with an average spend of £226k p.a. In addition, the Sections have received
+significant investment in specialist research IT infrastructure:
+
+A 10-node, high-performance cluster is shared between FATA and GLASS. It is used to conduct
+large-scale experiments involving algorithms for NP-hard graph problems, algorithms for matching
+problems, reproducible parallel combinatorial search applied to computer algebra, and new decision
+diagram-based constraint solving systems. This is a unique resource designed for reproducible
+parallel symbolic computation (configured for consistency rather than throughput) that goes beyond
+what is provided through regional and nationally managed high-performance research
+infrastructures. It facilitated research at the intersection of GLASS and FATA, resulting in a recent
+£500k UKRI/EPSRC grant award on Session Types for Reliable Distributed Systems (Gay, Trinder).
+
+The IDA Section maintains dedicated compute and GPU clusters to support cutting-edge
+experimentation on Big Data search and recommender systems as well as leading research into
+artificial intelligence and deep learning systems, including conversational agents and smart robotics.
+Such infrastructure has facilitated research on search engine query efficiency prediction that resulted
+in increasing the efficiency of [text removed for publication] and underpins one of the Unit’s ICS
+(Macdonald, Ounis).
+
+GIST owns a prototype version of a Pepper robot used within the H2020 MuMMER Project (Foster)
+including new sensors and design modifications which are to be commercialised as a result of the
+project, as well as a PufferSphere and a dedicated VR workshop (JR Williamson). The Section also
+owns one NAO Robot for experiments on social human-robot interaction, and has three unique
+ultrasound haptics arrays used in Brewster’s FETOpen LEVITATE project, a six-camera Optitrak
+motion capture system for highly accurate hand and object tracking, and a Dexmo haptic glove for
+VR and haptics work.
+
+GLASS facilities include a distributed compute cluster for experimentation with cutting-edge software
+stacks and a large-scale Single-Board Computer cluster, emulating scale models for Cloud
+computing which was used as the basis for the £900k UKRI/EPSRC Federated RaspberryPi Micro-
+Infrastructure Testbed grant (Singer); a “processor zoo” that comprises a rich set of accelerators,
+including a range of GPGPUs and FPGAs for emulating heterogeneous compute environments
+which provided a platform for foundational work in the £1.5m UKRI/EPSRC Exploiting Parallelism
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+through Type Transformations for Hybrid Manycore Systems grant (Vanderbauwhede, Gay); an
+extensive networked systems laboratory for large-scale network simulation, emulation, and Internet
+traffic storage and analysis which has supported research that resulted in the award of the £750k
+EPSRC Situation-Aware Information Infrastructure grant (Pezaros). The Cyber Defence Lab
+(Johnson) is a unique facility that provides exclusive access to a set of safety-critical network
+infrastructures including both conventional technologies but also avionics and vetronics testbeds,
+hosting data from digital twins of several UK critical infrastructures and defence applications based
+on specialist equipment donated by partner organisations. The labs have facilitated highly impactful
+research in securing Industrial Control Systems which has shaped Scottish, UK-wide, European,
+and UN cyber security policies for the civil nuclear and aviation industries.
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+4.1. Leadership Examples
+
+The Unit has had a prominent role in leading UK Computing Science over many years, as well
+providing strong international leadership and strategic direction to the field. Sventek was Chair to
+the UK Computing Research Committee (UKCRC) at the start of the assessment period, Johnson
+is currently on its Executive Committee with another four academics (Brewster, Calder, Murray-
+Smith, Trinder) as members. Calder was Chief Scientific Adviser to the Scottish Government 2012–
+2015, and has been included in the Top 50 Women in Engineering in the UK (2016). She chairs the
+Science Advisory Committee for Dept of DCMS, sits on the Prime Minister’s Council for Science and
+Technology, and is a member of the Technical Advisory Panel to the Investigatory Powers
+Commissioner's Office (IPCO). Johnson co-chairs the GCHQ/NCSC steering committee on
+industrial cyber security, while he frequently consults and sits on committees of government
+departments (e.g., in 2018–2019, DCMS, DfT/BEIS, HMRC) and the Houses of Parliament (e.g., in
+2018–2019, House of Commons Science and Technology Committee, House of Lords Select
+Committee on Communications). Perkins is the chair of the Internet Research Task Force (IRTF)
+which focuses on research issues related to the long-term evolution of the Internet and, in close
+collaboration with the Internet Engineering Task Force (IETF), contribute to the development of
+international standards. His work in the IETF has led to his ICS on WebRTC protocol standards.
+
+The Unit has provided strong leadership and direction for SICSA as part of our Impact Strategy,
+chairing more of the research themes and directorships than any other University (e.g., Deputy and
+KE & Impact Director: Storer, 2019–; Graduate Academy Director: Singer, 2016–2018; Foster and
+Pezaros recent research theme leads). The Unit has had significant influence on the direction of
+SICSA, for example Murray-Smith initiated the Data Lab Innovation Centre (www.thedatalab.com)
+to create an interface between academia and industry in Scotland during his time as Director, which
+led to 104 collaborative projects and £590m of economic impact.
+
+Collaboration is at the core of the Unit’s ethos and is a key part of our strategy to ‘solve the most
+significant research problems’. Staff across the Sections lead sizeable multi-partner projects, such
+as the £4.2m S4 EPSRC Programme Grant with Imperial, Liverpool, and St. Andrews (Calder), the
+£1.2m AnyScale Applications EPSRC project with Edinburgh and Manchester (Singer) and the
+£5.3m MultiModal Mall Entertainment Robot (MuMMER) EC project with Heriot-Watt, Softbank
+Robotics, VTT, and Ideapack (Foster, Vinciarelli).
+
+Manlove chaired the European Network for Collaboration on Kidney Exchange Programmes COST
+Action CA15210, to develop a common framework for data and optimisation for kidney exchange.
+The cross-Scandinavian ScandiaTransplant kidney Exchange Programme was based on the results
+from the project, with its first successful matching run in 2019. Gay chaired COST Action IC1201 on
+Behavioural Types for Reliable Large-Scale Software Systems that developed new foundations,
+programming languages, and software development methods for communication-intensive
+distributed systems.
+
+
+
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+The Unit developed and hosts Terrier (developed by Macdonald and Ounis), an open source state-
+of-the-art search engine that provides a unique platform for development and evaluation of large-
+scale information retrieval applications. The platform is widely used, e.g. by Amazon Alexa Search,
+USA; Yahoo! Research, Argentina; Chinese Academy of Sciences; Italian National Research
+Council; University of Southampton; Almaviva SpA, Italy; FX Palo Alto Laboratory.
+
+4.2. Leadership in Academic Knowledge Exchange
+
+Members of the Unit have had more than 250 international conference roles, chairing, serving on
+technical, executive, and organisational committees, and reviewing during the assessment period,
+including: chairing 27 world-class conferences and workshops, including premier events such as
+ACM ICMI 2017, while 50 keynote, plenary and invited talks were given in international conferences,
+other academic institutions, and industrial summits.
+
+The Unit hosted ACM CHI 2019, the flagship human-computer Interaction conference with Brewster
+as a General co-chair (with JR Williamson and Freeman taking significant roles). The event
+attracted almost 4000 of the world’s top researchers to present the future of interactive technology.
+This was the first time the conference had ever been held in the UK and was brought to Glasgow
+due to the reputation of the Section. Brewster was also a founding member of the ACM CHI Steering
+Committee, which sets the strategy and direction for the entire conference series.
+
+4.2.1. International Degree Examination Panel Memberships
+Unit staff acted as external examiners outside the UK for PhD and habilitation degrees in >35
+defences, including: Australia, Austria, Czech Republic, Cyprus, Estonia, Finland, France, Germany,
+Greece, India, Italy, Netherlands, New Zealand, Norway, Portugal, Slovenia, Spain, Switzerland.
+
+4.2.2. National and International Board Membership and Advisory Roles
+Our staff play a significant role in advisory boards across the world. Anagnostopoulos is on the
+advisory board of Repado Ltd. Calder was the Chair of the EU Future and Emerging Technologies
+Scientific Advisory Group, setting the direction of fundamental research across Europe. She was a
+member of The Nurse Review (2015) which led directly to the formation of UKRI. Johnson is advisor
+to the board of Frequentis, a technical advisor on UK aviation cyber security strategy for the
+Department for Transport (DfT), advisor to the minister on cyber security of critical infrastructure for
+the Department for BEIS, and advisor to US Air Force on safety and cyber security. Pezaros is on
+the International Scientific Advisory Board for the National Centre for Scientific Research
+Demokritos, Greece. Rogers is on the board of the Machine Learning in Computational and Systems
+Biology (MLCSB) Community of Special Interest (COSI) of the International Society for
+Computational Biology (ISCB). Vinciarelli is on the scientific advisory board of the NeuroData Lab
+international AI Hub, and on the robotics advisory board of the French Agence Nationale de la
+Recherche (ANR).
+
+4.2.3. Research Collaborations with Research Users, including Industry Users
+The Unit has collaborated with >135 companies over the REF period. The Unit currently hosts a
+number of iCASE PhD studentships, collaborating with companies such as Jaguar Land Rover, Arup
+Group, BT, DSTL, and Schlumberger Cambridge Research Limited. We actively support the
+research community, e.g. Vinciarelli has a Feature Selection library on MATLAB File Exchange
+which has been downloaded ~18000 times since 2016.
+
+Through the Unit’s participation in QuantIC (Murray-Smith and Turpin), state-of-the-art machine
+learning techniques have transformed the capabilities of the Physics partners’ optical imaging
+systems, enabling applications at unprecedented levels of performance, including pushing the limits
+of fibre optic systems, single-pixel cameras and seeing around corners, as well as applications in
+the area of inverse problem solving, enabling imaging systems to see through highly dissipative
+materials.
+
+
+
+                                                                                               Page 16
+Unit-level environment template (REF5b)
+Omoronyia’s expertise in cybersecurity led him to gain funding from Innovate UK & the KTN
+Cybersecurity Startup Accelerator Programme to commercialise a research-based decision support
+tool for the verification of privacy/security in software design, working with 21 companies. He will
+strive to commercialise tools to help technology-based companies achieve provable regulatory
+compliance through security, privacy and transparency by design.
+
+Interdisciplinary collaboration is widespread. The overwhelming majority of papers are multi-
+author, with 42.7% of outputs involving international and a further 17.6% national collaborations.
+Over 40% of grants have been with other Units or Institutions. Ounis (with Macdonald and
+McDonald) is the only academic partner in the Cicero project with Archives and Security/Defence
+contractors, funded by the Foreign and Commonwealth Office, to develop tools to review sensitive
+documents. The Unit’s research work in identifying sensitive documents before archival was
+highlighted in Sir Alex Allen's reports to the Prime Minister on Digital Records (20141 & 20152). A
+KTP spin off in Glasgow is currently deploying solutions for the FCO.
+
+Pezaros’ £758k Situation-Aware Information Infrastructure project brought together computer
+networking and information retrieval at Glasgow and Lancaster to detect and mitigate the effects of
+adversarial events on critical networked infrastructures. The €5.9m EuroFIT project (Chalmers)
+combined scientists, community health and football clubs (including Arsenal, Manchester City, PSV,
+FC Porto) to target overweight men and support them to become more physically active. Long term
+trials showed significant improvements in physical activity, diet, wellbeing, and biomarkers of health.
+
+4.3. Prizes and Awards
+
+Over the REF period, the Unit’s staff have won ~40 prizes, awards, and distinctions demonstrating
+the high quality of our staff and research, including: Calder, OBE: DBE awarded in 2020; Royal
+Society Wolfson Research Merit Award (2011-2016); Suffrage Science Maths and Computing Award
+(2016). Brewster: elected Fellow of the Royal Society of Edinburgh (FRSE) in 2017, elected member
+of the ACM SIGCHI Academy in 2014 and an ACM Distinguished Speaker in 2015. Johnson:
+elected FRSE in 2019. Manlove: SICSA PhD supervisor of the year 2019, and distinguished paper
+award at CP 2016. Dalton: Google Faculty and Bloomberg Data Science Research Awards 2019.
+Aragon-Camarasa: EPSRC ECR Capital award 2019. Meeks: IPEC 2016 best paper award,
+Norman: Haifa Verification Conference (HVC) award. Pezaros: best paper awards from IEEE
+Cloudnet 2014 and IEEE HPSR 2015. Singer: best paper award ITiCSE 2019. Steuwer: best paper
+award ACM CGO 2018, and HiPEAC Paper Award for ASPLOS 2018 paper. Khamis: honourable
+mention award ACM MobileHCI 2018, MUM 2017. GIST Section members won 8 best paper and
+honourable mention awards at the ACM CHI conference over the REF period.
+
+4.4. Other Indicators of Wider Influence
+
+As well as senior colleagues, our ECRs have a strong influence across the wider community. For
+example, McCreadie works closely with Police Scotland and developed a new incident management
+system to link first responders to the command centre and is currently under deployment. JR
+Williamson is Vice President for publications on the ACM SIGCHI Executive Committee and is
+currently elected on ACM’s Europe Council. Through her work, new publication templates have been
+established to support accessibility for all ACM conferences; Dardha is a member of the Computer
+Science Committee of the London Mathematical Society (LMS). Meeks is member of the Royal
+Society of Edinburgh’s Young Academy of Scotland. It is highly competitive and members must show
+“outstanding professional achievement“ to be nominated.
+
+Members of staff have taken editorial board and guest editorship roles for 36 international journals
+(including, e.g., ACM Transactions on CHI, Elsevier Information Processing and Management,
+Elsevier Theoretical Computer Science, IEEE Transactions on Network and Service Management)
+during the assessment period. The Unit hosts twelve full and one associate member of the EPSRC
+College of Peer Review.
+
+
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+
+
+
+4.5. Further Contributions to Society
+
+The Unit has had a major influence in leading the transformation of the teaching of Computing
+Science in schools. Calder chairs the BCS School Curriculum and Assessment committee. Recent
+activities include recommendations to OfQual on the exceptional arrangements for Computer
+Science examinations due to COVID-19, and to DfE on the content of the GCSE. Cutts, MBE,
+launched the Centre for Computing Science Education (CCSE) in 2017, with a focus on curriculum
+and pedagogical research, and influencing policy and practice. Cutts worked with Education
+Scotland to design the new Scottish CS curriculum, launched in 2017 and adopted nationally for all
+3-15-year-olds. It is now delivered in all state primary and secondary schools by Scotland’s 650 CS-
+specialist and >23,000 non-CS-specialist teachers. Within the University, CCSE has pioneered the
+development of Graduate Apprenticeships, a new degree programme in partnership with 25
+employers. The programme will generate >£1m p.a. for the Unit when fully operational in 2020.
+
+The Unit supports several PGR-led services, e.g., HackyHour that provides free computing expertise
+to users across the University. The student-led Glasgow University Software Service (GUSS –
+managed by Storer) allows University colleagues to leverage student computing skills. Students
+benefit from gaining real-world experience while customers benefit from custom-designed solutions.
+One recent success is the development of ApplTree with the Institute of Mental Health and Wellbeing
+for supporting people with brain injury, now undergoing clinical trials.
+
+The Unit has actively championed the development of the Programming Workshop for Scientists in
+Africa (www.pwsafrica.org), a PGR-led initiative to empower young scientists in Africa to push the
+frontiers of knowledge in science and technology. Funded by the Unit, SICSA, and the University’s
+Global Challenges Research Fund, annual programming workshops have been delivered to over
+100 students in Nigeria and Rwanda.
+
+
+
+
+                                                                                           Page 18
+

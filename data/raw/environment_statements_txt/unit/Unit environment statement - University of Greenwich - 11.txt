@@ -1,0 +1,740 @@
+Unit-level environment template (REF5b)
+ Institution: University of Greenwich
+
+ Unit of Assessment: 11 - Computer Science & Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ a. Overview
+ Our UoA11 submission is hosted in the School of Computing and Mathematical Sciences, which
+ was formed in 2018 through a merger between the Departments of Computing and Information
+ Systems and the Department of Mathematical Sciences. Since our REF2014 submission the
+ School has seen a global restructuring in all its activities, and a redefinition of its research
+ strategy to better align with the evolution of the discipline and to refocus, as well as develop, its
+ research base.
+
+ In line with the overall University research strategy, UoA11 aims to develop sustainable research
+ on a selected number of topics, which can also inform other activities in the School, in particular
+ Teaching and Enterprise. The majority of the research activity can be categorised as applied
+ research, with some more fundamental work on basic Machine Learning techniques (e.g.
+ categorization and unsupervised learning). Underpinning this evolution has been the
+ appointment of 13 new staff, such that during the REF period, the unit has seen an increase in
+ FTE from 14 to 18.8. There is now little overlap with the previous submission.
+
+ The heart of the revised research strategy is now to focus on Computer Science rather than
+ Computational Engineering which has been consolidated into our UoA12 submission. Significant
+ investment has taken place to develop Computer Science research, primarily around
+ Cybersecurity, the Internet of Things and more recently, Artificial Intelligence and Data Science.
+ Therefore, since 2014:
+
+    •   two groups have been disbanded (eCentre and CCCS)
+    •   three new groups have been formed (ISEC, CSIG and AI & DS)
+    •   three groups operating in the field of Computational Engineering have been incorporated
+        into UoA12 (FSEG, CMRG, CSEG).
+
+ However, in view of the fact that several FTE from the FSEG group were submitted as part of
+ REF2014, one of our Impact Case Studies still originates from that group.
+
+ In addition to central university support from Greenwich Research and Enterprise (GRE) and the
+ Research and Enterprise Training Institute (RETI), the UoA is supported at faculty level through
+ the Faculty R&E Support Team (FRES), which has 9 FTE to support research and enterprise
+ across the faculty. This team includes a Research Development Officer (RDO) and Enterprise
+ Development Manager (EDM) and staff that provide research group support, PGR support,
+ event co-ordination, and project and budget management support.
+
+ b. Unit Composition and Changes since REF 2014
+ The Centre for Computer & Computational Science (CCCS), which was the largest group in our
+ REF2014 submission, included a broad mix of activities in Cybersecurity, optimisation and
+ Artificial Intelligence (AI) and spatial informatics. For the current reporting period, we have
+ realigned these activities into three specific groups which now constitute the structure of our
+ UoA11 submission: a cybersecurity group (ISEC), a spatial informatics group (CSIG), and most
+ recently (2020), an AI & Data Science group. These groups have received significant investment
+ in the form of new staff appointments, and have developed through the acquisition of external
+ funding.
+
+ Finally, the current submission has integrated colleagues previously returned under UoA10 (Alan
+ Soper, Vitaly Strusevitch) whose work in operations research and scheduling bears relevance to
+ UoA11 and is related to other AI work, e.g. Planning. In addition, two staff members (Neil
+ Saunders and Kayvan Nejabati Zenouz) are included in this submission with their outputs being
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+ cross-referred to UoA10. It should be noted however, that their background also includes Data
+ Science, computing applications and specific work undertaken as part of their main specialisms
+ (Algebra, Topology) applications in machine learning, as well as quantum computing.
+
+ c. Impact Strategy
+ Our pathway to impact is further informed by a mid-term strategy that was put in place to
+ translate the Unit’s research expertise to industry innovation in the form of technology and
+ knowledge transfer. As such, research results are integrated into Enterprise activity through the
+ participation of key grant-holder academics in KTP, KEEP+ and Innovate UK proposals.
+ Examples of recent activity are two KEEP+ projects (Mohammad Majid Al-Rifaie in 2019;
+ Muhammad Taimoor Khan in 2020) one of which has been extended to a KTP proposal to be
+ submitted with the industry collaborator (ReapSource). Along the same impact strategy, other
+ staff from this UoA (Hai Huang, Alan Soper, Kayvan Nejabati Zenouz) are incorporated in two
+ KTP proposals as co-investigators to develop advanced intelligent data analytics and
+ visualisation for the industry collaborator (Railsbank). Our Enterprise expansion strategy has
+ developed from our established core of KTP projects within UoA11, which also generates
+ substantial contribution to the potential Impact Case Studies related to them. In total, 10 staff are
+ PI or CI in KTP projects or other forms of Innovate UK funding.
+
+ This submission reflects a research strategy which has been substantially revised, with new
+ research areas being at different stages of their development and having reached various levels
+ of maturity. For instance, considerable progress has been achieved in the field of Cybersecurity
+ since REF2014, which in particular has attracted significant and sustained external funding over
+ the reporting period, totalling £2.3M (although some of these grants extend beyond the current
+ census date). Artificial Intelligence and Data Science activity being the latest addition, it is still in
+ its early stage of development, with a strong contingent of Early Career Researchers. However,
+ it rests on a very solid foundation of recent results and outputs in high-profile venues (IJCAI,
+ AAAI etc.), some even already highly cited (for example, the following paper has received in
+ excess of 500 citations on Google Scholar: Wang, X., Cui, P., Wang, J., Pei, J., Zhu, W. and
+ Yang, S., 2017, February. Community preserving network embedding. In AAAI (Vol. 17, No.
+ 10.5555, pp. 3298239-3298270).
+
+ d. Fraction of outputs submitted under portability rules
+ With the significant investment in research active staff over the past three years, a substantial
+ number of their recent research outputs have become available, which results in almost 50% of
+ our total outputs being submitted under portability rules. Despite the significant contribution of
+ portability to our submission, we are confident in the sustainability of this published research, in
+ particular if we consider the performance of recently appointed staff in publishing similar outputs
+ to those transferred under portability, since they have joined Greenwich. Over the past year
+ alone, 5 staff who have contributed outputs to the current submission under portability rules
+ have since published, with a Greenwich affiliation, in similar venues to their portable outputs:
+ IJCAI, AAAI, AAMAS, IEEE Internet of Things, IEEE Transactions on Industrial Informatics, and
+ the International Journal of Computer Vision (IJCV). Another consequence of the high level of
+ output portability is that a few additional topics that are peripheral to the above described
+ research strategy are represented through several outputs, primarily in Human-Computer
+ Interaction.
+
+ e. Research Groups
+
+ Internet of Things and Security Research Centre (ISEC)
+ The Internet of Things and Security Research Centre (ISEC) carries out research on security
+ and privacy technologies for distributed digital environments where a security breach in cyber
+ space can affect people and systems in physical space, from smart homes and smart buildings
+ to robotics and industry 4.0. It was founded in 2018 out of members of its predecessor, the
+ Centre for Security, Auditing and Forensics Education as well as other academic staff in
+
+
+
+                                                                                                    Page 2
+Unit-level environment template (REF5b)
+ computer science with a track record in cyber security and privacy. It was strengthened with new
+ academic staff recruited externally (Emmanouil Panaousis, Taimoor Khan and Ivana Tomic).
+
+ Since 2014, the University has invested in 6 new appointments related to Internet of Things (IoT)
+ and security, including Associate Professors, Senior Lecturers and Lecturers from top research
+ institutions. Out of the current 11 FTE members of ISEC, three have joined from Imperial
+ College, two from the University of Surrey, and one from UCL. These have been strategic
+ appointments with the purpose of enriching the theoretical grounding of the department’s cyber
+ security research, especially in formal methods, control theory and optimisation in IoT security.
+ In addition, there have been eight more postdoc research fellows (up from 1 in the previous REF
+ period), nine more PhD students (up from 4) and a total of four PhD completions (up from
+ 0). One more Senior Lecturer is currently being recruited.
+
+ ISEC membership brings expertise in embedded system security, mathematical modelling,
+ formal methods, optimisation and machine learning together with practitioner skills in penetration
+ testing and digital forensics. The Centre’s research strategy prioritises multidisciplinary research
+ and the validation of theoretical grounding with laboratory and in-the-wild experimentation with
+ end-users. The emphasis on real-world implementation has helped generate collaboration with
+ industrial partners (in total, 21 companies, including Fiat, Caixa Bank, HPE, IBM and others)
+ across eight of the Centre’s ten externally funded research projects. ISEC is taking measures to
+ ensure the sustainability of its research income post-Brexit through diversification of the funding
+ bodies targeted. For instance, ISEC will continue building on its existing track record with grants
+ from the EPSRC, NCSC, the MoD and the British Council.
+
+ ISEC’s impact strategy starts with the selection of research areas that have clear and increasing
+ potential for industrial and societal impact. Its research relates to tackling the cyber security and
+ privacy challenges introduced by the increasing dependence on internet-connected physical
+ devices as part of digital transformation in the industry, working from home, e-commerce and
+ communication over social media. These areas have now become even more important
+ because of the societal and work pattern changes accelerated by the Covid-19 pandemic. After
+ this impact-based selection of research areas, each project is monitored in terms of its potential
+ for exploitation. In support of this strategy, the Head of ISEC has the role of impact champion,
+ emphasising the importance of impact to its members, helping shape each project’s impact plan
+ and sign-posting impact opportunities for each project. In addition, the Centre has an enterprise
+ lead (Emmanouil Panaousis), who is promoting its research to companies in the sector through
+ attendance at industry cluster meetings and one-to-one meetings with key industry players.
+
+ Under this direction, ISEC has taken the first steps for deployment and evaluation of its
+ technologies by industrial partners within its research projects. Some first examples include the
+ evaluation of our proprietary cyber security investments software by healthcare organisations
+ (project CUREX), the integration of our cyber security computation offloading tool MEDICI in
+ FIAT’s smart manufacturing environment (project C4IIoT) and the deployment of our information
+ trustworthiness toolkit on the Blasting News digital news platform (project EUNOMIA). These will
+ be followed in project CHAI with a new security service for smart home AI company Gas Tag, a
+ cyber hygiene training programme with cyber security training provider Bob’s Business and a
+ cyber-physical security monitoring system for e-commerce multinational SONAE in project
+ ENSURESEC. Having built a robust base of research output with medium to high technology
+ readiness through pilot research projects, the impact activities planned include a cyber
+ investment decision support product for SMEs to be commercialised through a spin-off
+ company, as well as two new commercial training programmes, one in smart home privacy
+ powered by a mobile Augmented Reality (AR) application currently supported by the University’s
+ enterprise fund, and one in information hygiene for social media users in partnership with
+ Trilateral Research and SYNYO. In addition, a series of Innovate UK knowledge transfer
+ partnership bids are planned, with the first bid currently being submitted in collaboration with the
+ UK Government Cyber Essentials programme partner, IASME.
+
+
+
+                                                                                                Page 3
+Unit-level environment template (REF5b)
+ ISEC prioritises the opportunities for its members to grow their profile rapidly. All research grant
+ applications involve at least one junior member of the group as co-investigator, with the
+ expectation that the experience gained is then utilised by them leading their own grant
+ applications. This strategy was successful in submitting and being awarded projects H2020
+ C4IIoT and H2020 ENSURESEC. At the same time, it ensures continuity of each corresponding
+ research theme should a principal investigator leave the University. In addition, the group aims
+ to help its PhD students in progressing academically as independent researchers or to secure
+ strong positions in the industry. There have been four PhD completions in cyber security since
+ 2014. These PhD graduates have since moved to postdoctoral and lecturer positions at the
+ University, and one to a senior IoT Security position in industry (Splunk).
+
+ ISEC’s upward trajectory is evident in the volume of research publications in cyber security, with
+ an output of 51 journal articles, 49 conference publications, 4 book chapters and 2 books. This is
+ compared to 4 journal articles, 14 conference publications and 1 book chapter for research in
+ Cybersecurity submitted to REF2014. 53% of these publications were in collaboration with
+ external institutions. In addition, ISEC encourages interdisciplinary collaboration shown by 14%
+ of its publications being in collaboration with partners from different disciplines. Indicative
+ external examples include psychologists, neuroscientists and education theorists in EPSRC
+ projects Cocoon and CHAI; criminologists and law researchers in H2020 TRILLION;
+ computational social scientists and communication scientists in H2020 EUNOMIA; economists in
+ NCSC MERIT, as well as physicists in joint PhD supervision and publications. Where possible,
+ ISEC’s research is published in Gold open access journals (14 in the 2014-2020 period), its
+ code is provided in open-source format on GitHub, and its datasets are provided on OpenAIRE.
+
+ This upward trajectory also manifests itself through a significant increase in the acquisition of
+ research funding, which has seen a 13-fold increase in cyber security funded proposals since
+ REF2014 (£170K and 2 successful awards).
+
+ Centre for Spatial Informatics at Greenwich (CSIG)
+ The Centre for Spatial Informatics at Greenwich (CSIG) grew out of the Greenwich GIS
+ Research Group (g3) and focuses on the informatic aspects of geographic information science.
+ Aspects covered by the research include fundamental theory, modelling, and human spatial
+ cognition. The core members of the Centre are academic staff and students at Greenwich who
+ have expertise in the disciplines of computer science, mathematics and geographic information
+ science. The group also has links to the Ordnance Survey, and other geospatial-related
+ organisations and companies. Areas of particular focus include: computational and cognitive
+ aspects of pedestrian navigation particularly related to smart cities; theoretical studies of rich
+ spatial relations, collective behaviour and movement pattern analysis with applications in smart
+ cities, transportation, urban planning and the digital economy.
+
+ The Centre has been led by Professor Mike Worboys with Dr Zena Wood as his deputy (January
+ 2014 – April 2019). Prof. Worboys has 20 years of experience in leadership roles, being Head of
+ the Department of Computer Science at the University of Keele, and Director of the School of
+ Computing and Information Science, University of Maine, USA.
+
+ During the reporting period, the Centre hosted three academic staff and currently has two
+ research students and one early-career researcher.
+
+ Artificial Intelligence and Data Science
+ This newly established research group was formed towards the very end of the census period
+ (2020) and reflects new investment in a key area of computer science, which was insufficiently
+ represented in the School. It comprises of nine staff who have been appointed during the current
+ REF cycle, including three since 2019, and a further two after the census period. It has the
+ highest proportion of ECRs in the UoA, with two-thirds of its members qualifying, and will soon
+ host 50% of the School’s research-active staff relevant to UoA11.
+
+
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ These appointments have also been coordinated in terms of AI topics and respond to an overall
+ strategic aim to i) strengthen applied research in Machine Learning (ML); ii) retain an activity in
+ symbolic AI, primarily search, planning and semantic web; iii) develop capability in some
+ fundamental ML techniques, and iv) integrating work from Mathematics, in particular time series
+ analysis and Bayesian statistics.
+
+ Newly appointed members of the group have published, over the reporting period, a total of 13
+ papers in major venues such as IJCAI, AAAI, ECAI and the International Journal of Computer
+ Vision (IJCV), several of which are part of the Unit’s submission under portability rules. However,
+ since joining Greenwich, several new staff have had new outputs published at IJCAI, AAAI and
+ in IJCV.
+
+ The number of research topics is commensurate to the size of the group, and their distribution
+ demonstrates the balance between symbolic AI and ML, as well as between fundamental
+ techniques and applied AI work:
+     • Search and planning: non-admissible search, planning domains acquisition, route
+        planning for GIS and Unmanned Aerial Vehicle (UAV)
+     • Unsupervised learning techniques: Nonnegative Matrix Factorisation (NMF), subspace
+        clustering
+     • Deep Learning applications: computer vision for face expression recognition and
+        generation, autoencoders for plan-like sequence generation
+
+ Due to its recent establishment (2020), the Group has not yet acquired external research
+ funding. Its funding strategy will capitalise on the strategic importance of its subject and will
+ target Innovate UK initiatives, Horizon Europe and EPSRC, in particular through the new
+ investigator scheme. Target application areas include Health (imaging, neuroscience), AI Ethics,
+ UAV control, information access and eCommerce, and computer games. The group will also
+ investigate synergies with other subjects, including Cybersecurity and Geographical Information
+ Systems.
+
+ In terms of central investment from the University, the Group has already been supported
+ through the procurement of specialist hardware supporting Deep Learning research. Moreover,
+ the University intends to dedicate a significant fraction (up to 33%) of any future UoA11 QR
+ funding to sustaining the early stages of its development.
+
+ f. Five-Year Research Plan
+ The reporting period has seen a major transition in the nature and scope of the research
+ conducted, as well as the organisation in terms of research groupings. These have been driven
+ by a combination of factors, some external, such as recent developments of Computing as a
+ subject (at all levels: teaching, enterprise and research); the evolution of research topics at the
+ international level; and some internal, such as the School’s demographics and staff turnover.
+
+ Over the next 5 years, our strategy will be articulated around four core objectives, aiming at
+ maintaining excellence in a limited number of selected areas:
+
+    •   Consolidating the new research structure around the two main research groups -
+        We expect to consolidate this new organisation by fine-tuning group structure and
+        membership. The two main groups already have different levels of maturity. ISEC
+        already enjoys an appropriate hierarchical structure, with several staff operating as PI for
+        external funding, and being able to mentor or advise junior staff. One objective will
+        consist in ensuring that external funding is sustainable through a diversification of funding
+        sources. AI & Data Science is primarily staffed with ECRs, who will need to be developed
+        from independent researchers to PI’s on grants of increasing value, with support from
+        more senior staff and expansion in the number of PhD students supervised. Due to
+        commonality of topics (e.g. spatial data science and route planning), CSIG will likely be
+        reincorporated into AI & Data Science. This will lead to a re-examination of whether sub-
+        groups need to be defined on the basis of application areas. Another consideration for
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+        sub-groups is that a number of staff, including some appointed after the census date, are
+        active at the intersection of the main group’s topics of interactive systems or media.
+        Finally, synergies between the groups will be considered on a case-by-case basis, for
+        instance in the use of AI techniques for Cybersecurity.
+
+    •   Strengthening the pathway to impact - Impact case studies follow a lifecycle
+        dependent on the group’s years of operation and a specific effort will be dedicated to
+        ensure that our two new groups are in a position to generate significant impact by the
+        next REF cycle. Intended measures include: follow-up grants of a more applied nature
+        (including KTP and knowledge exchange mechanisms) improving take-up of research
+        results; considerations on patenting and licensing specific software, or release it as open
+        source where appropriate; and contribution to standards, in particular in the field of
+        cybersecurity. Impact based on societal contribution will be considered in the area of
+        health applications of AI, or AI ethics (for instance, in conjunction with affective
+        computing).
+
+    •   Developing and retaining the current staff base - Both Cybersecurity and AI & Data
+        Science are areas facing significant shortage of expertise in both academia and the
+        private sector and, as a consequence, staff retention and development will constitute an
+        essential component of our research strategy. In addition to existing mechanisms
+        supporting generic staff development, we aim to continue developing an attractive
+        environment in terms of opportunities for PhD supervision as well as infrastructure, in
+        particular the provision for HPC in relation to AI and Machine Learning, whether in the
+        School or through central University provision. In terms of bespoke staff development,
+        the strategy will capitalise on previous actions: the UoA has benefitted from a significant
+        staff development budget, which has proven essential in allowing researchers to extend
+        their practical skills in programming languages, specialist software such as graph
+        databases, Cybersecurity certifications, and deployment of AI techniques for the Internet
+        of Things.
+
+    •   Ensuring consistency of research topics within each area - The appointment of a
+        significant proportion of new staff from various national and international institutions has
+        revitalised research in the Unit, but inevitably raises issues on the number and
+        consistency of research interests. In the field of Cybersecurity, consolidation has taken
+        place through the acquisition of new externally-funded projects which have brought
+        together several new members, this has helped in focussing research topics even
+        beyond existing grants. Similar work will have to take place within the recently-formed AI
+        & Data Science group, in particular in terms of balance between the technical and the
+        applicative topics. In the first instance, this will be primed by the next enrolments of PhD
+        students
+
+ 2. People
+
+ a. Staffing and staff development strategy
+ There have been considerable staff changes beyond the creation of the School from the
+ previous Departments of Computer and Information Science and Mathematics. Some of these
+ changes have been dictated by a change in research focus and strategy, including significant
+ recruitment of new staff, and some by the School demographics, career evolution and personal
+ circumstances.
+
+ Of the nineteen staff included, only three were part of our REF2014 UoA11 submission and two
+ were part of our UoA10 submission. The number of senior researchers remains comparable (4
+ professors, 2 associate professors) however the submission contains a significant fraction of
+ Early Career Researchers, in particular in the newly formed Artificial Intelligence and Data
+ Science group.
+
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ The staffing strategy has been focussed on the recruitment of new staff, primarily in
+ Cybersecurity and Artificial Intelligence, with staff joining from INRIA (France), the University of
+ Tokyo (2), Imperial College (2) and the University of Surrey (2). Moreover, a number of staff
+ returned to REF2014 have opted for phased retirement or a change of career pathways and, as
+ a consequence have not met the test for Significant Responsibility for Research (SRR).
+
+ An essential part of our People Strategy consists in ensuring that significant responsibility for
+ research is properly supported in terms of workload, as reflected in the University’s workload
+ management model, or its equivalence in TRAC reporting. Workloading of Research activities
+ can be considered under two main categories of funded vs. internally funded (or “investment”),
+ research time allocations. The former corresponds to external funding via research grants as
+ well as Faculty or University funding (including via the use of QR funding), while the latter draws
+ from the hosting School’s internal budget. This is of particular significance for our UoA11
+ submission, as 100% of staff returned have standard academic contracts, none of which are
+ QR-funded.
+
+ The University operates a number of competitive funding schemes to support researchers at
+ various stages of their careers. A sabbatical scheme is managed at Faculty level, during which
+ staff are relieved from any teaching-related duty for a full academic term. Four staff returned to
+ UoA11 (20% of staff returned) have benefitted from this scheme over the reporting period.
+ Various schemes provide seedling funds for ECRs (funding equipment, staff time or research
+ assistants), equipment, or support for research exchanges (visiting researchers or research
+ stays).
+
+ The majority of grants awarded to the UoA (Research Councils, H2020) include provisions for PI
+ or Co-I to have their time charged to the project. The School ensures that staff who are awarded
+ external funding as PI see this appropriately reflected in their workload, for instance by
+ monitoring total workload and providing additional support where needed.
+
+ Moreover, whenever a PI charges for their time in grant applications, they receive a matching
+ workload allowance corresponding to 100% of the time charged. This additional research time
+ ensures that PI involvement is not limited to project management, or can also account for future
+ grant preparation and bidding. This allowance somehow bridges the gap between funded and
+ investment research allocations.
+
+ Newly appointed staff benefit from a reduced teaching load as part of our University workloading
+ model, which operates by capping frontline teaching to 40% during term times for their full first
+ twelve months: the policy explicitly mentioning “development of research” as a rationale and this
+ allowance is clearly distinct from other onboarding allowances or new material preparation ones,
+ which are subject to separate arrangements. This policy is of particular benefit to Early Career
+ Researchers (ECR): however, it applies to all staff irrespective of their career stage or academic
+ grade.
+
+ Staff on the research career pathway receive supplemental research allowances whose
+ magnitude can vary based on previous years’ performance, primarily measured through
+ research outputs. Research output quality is measured through a combination of peer review,
+ indicators (CORE ranking) and metrics (ScimagoJR and Google Scholar citations). This
+ measure of quality is designed to avoid excessively formulaic approaches, but to ensure that
+ publication in leading venues for which there is strong subject consensus is properly supported.
+
+ Finally, research group leaders also receive a research allowance corresponding to 10-15% of
+ their total workload.
+
+ In total, these additional (“investment”) allowances can be estimated to 3+ FTE per year over the
+ past three years.
+
+
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+ Early Career Researchers are supported through a variety of mechanisms which address
+ workload, training, and mentoring. In addition to the quantitative aspects of workload, which
+ limits teaching in their first year of employment; there is also a qualitative aspect, which consists
+ in the preferential allocation of teaching in their own area of expertise. ECRs are encouraged to
+ participate in research training activity, run centrally at University level via RETI as described in
+ the institutional narrative. This is particularly the case for PGR supervision, enabling them to join
+ supervision teams and gain supervision experience. ECRs enrolled on a research career
+ pathway are set probation objectives which give priority to research, and are allowed to
+ complete a mandatory teaching qualification over two years instead of the one year of their
+ probation. A number of University/Faculty funded initiatives specifically target ECRs, e.g. with
+ seedling funding of up to £5,000. Finally, the Faculty organises an ECR Network that provides a
+ forum for peer support, exchange of ideas and interdisciplinary initiatives.
+ All ECRs have been incorporated into one of the three Research groups: ISEC (2), AI & Data
+ Science (6), CSIG (1). Two ECRs have not been returned to the current exercise, having been
+ appointed after the census date.
+
+ b. EDI Strategy
+ The School promotes Equality, Diversity and Inclusivity (EDI) through the implementation of
+ various support strategies, in accordance with the University guidelines, for academic staff and
+ research students who return from leave, illness, management of long-term illness and/or care
+ responsibilities, as well as for staff with protected characteristics.
+
+ Research-related travel (e.g. Conferences, Short Courses, etc.), including for those who are
+ negatively affected (e.g. caring responsibilities, ill health, etc.), is supported by competitive funds
+ made available by the School, Faculty, and Research and Enterprise office.
+
+ Staff are actively encouraged to participate in EDI initiatives at all levels both within the
+ university and through external organisations (e.g. British Computer Society, Aurora Program of
+ the University, etc.).
+
+ Comparing the current EDI related categories (set out in the below table), for UoA11, two of the
+ four categories (BAME and ECR) outperform the equivalent figures at the School level, the Over
+ 55 UoA11 is on par with the figure at the School level, and the remaining category (gender
+ balance) has been highlighted as one that requires further enhancement, given that the for
+ UoA11, this category is lower than the equivalent figure at the School level.
+
+ The breakdown for various categories (Submission – School) is as follows:
+
+                                            Women ECR             BAME Over 55
+                     UoA11                  16%   47%             42%  26%
+                     School                 30%   27%             25%  29%
+                     (Computing Discipline)
+
+ There is evidence that current research activities (e.g., Machine Learning, Artificial Intelligence,
+ Cyber Security, etc.) has aided the School's recruitment policy. Furthermore, in areas where the
+ School has been identified as lagging behind (specifically, gender balance), the School has
+ initially addressed this by appointing 2 of the 3 current female staff returned for the UoA in the
+ last two years, It is also actively now seeking to address this further from its ongoing recruitment
+ programme. Additionally, there are three female members of staff who will become active for
+ future REF submissions.
+
+ c. Postgraduate Research Students Support and development
+
+ All Postgraduate Research (PGR) students must complete a period of induction at the start of
+ their studies, and a research skills programme/portfolio prior to completion. Each student is
+ assigned two or three supervisors. The University has a well-developed procedure for monitoring
+ PhD research programmes, administered by each Faculty Research Degrees Committees
+
+                                                                                                  Page 8
+Unit-level environment template (REF5b)
+ (FRDC) and RETI, and supported within the faculty by the Faculty R&E Support Team (FRES),
+ and the faculty PGR network. PhD students from all research groups are invited to speak about
+ their research in an informal way. In addition, students can bid to the Faculty funding to cover
+ conference attendance and fieldwork expenses. The faculty have also supported internal PGR
+ conferences, socials and the University 3-Minute Dissertation (3MT) event.
+
+ Most of the above-mentioned sources of funding have been used to support PhD students in the
+ Unit: iCase doctoral scholarships, H2020 projects (via fractional Research Assistantships), as
+ well as some KTP. For the latter, although the majority of these aim at Impact and technology
+ transfer, research contributions also include outgrowth of three PhDs with direct relevance to the
+ newly established AI & DS Research Group).
+ In addition, the University manages a number of PhD funding schemes centrally, in particular
+ through the competitive Vice-Chancellor scholarships. Over the reporting period, 5 such
+ scholarships have been awarded to the Unit.
+
+
+ 3. Income, infrastructure and facilities
+
+ a. Research Income
+ Research funding for the Unit has been provided primarily by competitive grants at national and
+ European level (H2020), with some participation in joint schemes such as CHIST-ERA. National
+ funding has been obtained mainly from EPSRC, with smaller grants from NCSC and the British
+ Council. Some additional research funding has been provided from KTPs, although the majority
+ of these aim for impact and technology transfer.
+
+ ISEC’s income strategy prioritises research funding in national and international consortia,
+ especially in H2020 and EPSRC grants. Since 2014, it has attracted in excess of £2.3 million in
+ research income, corresponding to 10 successful awards in the area of cyber security funded by
+ H2020, EPSRC and the British Council. 8 of these were secured since ISEC was founded in
+ 2018.
+
+ ISEC’s current and most recent projects include:
+
+    •   Co-ordination of the £2.4M EPSRC project CHAI (UoG £453K, 2020-2023), which
+        introduces cyber hygiene to AI-assisted domestic life
+    •   Co-ordination of the €2.9M H2020 project EUNOMIA (UoG €512K, 2018-21), which
+        tackles disinformation in social media
+    •   Co-ordination of the £60k NCSC project MERIT on cyber security investment
+    •   Participation in the H2020 project ENSURESEC (UOG €489K, 2020-22), which develops
+        cyber-physical security measures for e-commerce
+    •   Participation in the H2020 project CUREX (UOG €270K, 2018-21), which allows a
+        healthcare provider to assess the cybersecurity and privacy risks they are exposed to
+        with mathematically optimal strategies
+    •   Participation in the H2020 project C4IIoT (UoG €250K, 2019-22), which builds a unified
+        cyber security framework for detection and mitigation of malicious behaviour in Industrial
+        IoT
+    •   Participation in the H2020 SECONDO project (UoG €250K, 2019-22) on security
+        investment and cyber insurance decision support through game theory
+    •   Co-ordination of the British Council’s SecureHajj project (£42K, 2018-19) addressing
+        decentralised authentication for temporary large-scale IoT deployments
+    •   Participation in the EPSRC COCOON project (UoG £185K, 2016-19) leading the
+        development of user-centric intrusion detection in smart home environments
+    •   Participation in the H2020 TRILLION project (UoG €334K, 2015-18) building a secure
+        crime reporting tool for community policing.
+
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+ CSIG has been primarily funded through national funding initiatives, mostly supported via the
+ relevant Research Councils. Examples of projects undertaken by the Centre are listed below:
+    •   EP/R512278/1. NPIF EPSRC Doctoral (iCASE) award with Ordnance Survey (2017-
+        2021). Award total: £88,508.00. Zena Wood PI, Mike Worboys CoI.
+    •   EP/R044937/1. EPSRC Digital Economy: Digitally Enhanced Advanced Services (DEAS)
+        Network+ (2018-2021). Award total: £1,116,752. Roger Maull PI (University of Exeter).
+        Zena Wood (University of Greenwich), Robert Johns (University of Nottingham), Tim
+        Baines (Aston University) and Sarah Fletcher (Cranfield University) as CoIs.
+    •   The Uber Disruption. Assessing the Impact of Digitisation on Local Transport (2016).
+        Funded by the Research Council UK's NEMODE (New Economic Models in the Digital
+        Economy) Fund. Award total: £25,751. Zena Wood PI, Glenn Parry (University of West
+        England) CoI.
+    •   Using computational methods to produce a taxonomy of business models of the digital
+        economy (2016). Funded by the Research Council UK's NEMODE (New Economic
+        Models in the Digital Economy) Fund. Award total: £11,819.00. Zena Wood PI, Glenn
+        Parry (University of West England) CoI.
+    •   Boriana Koleva (PI), Richard Mortier, Steve Benford (University of Nottingham), John
+        Stell (University of Leeds), Mike Worboys, Anthony Quinn (Central Saint Martins),
+        Liberating Aestheticodes, Horizon, Digital Economy Research, 2014-2105, £170,000,
+        2014-15.
+
+ b. Equipment, infrastructure and facilities
+
+ Our IoT and cyber security research focus on impact in physical space requires extensive
+ experimentation with physical systems. The University has purchased two four-wheel-drive
+ Superdroid rovers, a NAO humanoid robot and Arducopter drones to support two PhD
+ completions in cyber intrusion detection and intrusion identification for robots. A smart office
+ living lab has been set up based on over 80 commercial IoT devices, Nvidia Jetsons, network
+ devices, display systems, data storage and processing servers to support two PhD students’
+ research in IoT activity recognition and indoor positioning resilience. In addition, the University
+ has invested in a 160-core Intel Xeon Openstack cloud testbed to support our research in
+ computational offloading of time-critical IoT and security tasks, used as part of two PhD projects.
+ We have also consolidated installations developed as part of externally-funded projects. Our
+ work in smart home cyber security is conducted on a cyber range previously developed as part
+ of EPSRC COCOON and now utilised by further PhD projects. It includes 15 commercial IoT
+ devices, laptops and specialist SDR HackRF and BladeRF boards for offensive IoT exploitation
+ and experimental evaluation of smart home intrusion detection (accepted in IEEE Trans. on
+ Information Forensics and Security).
+
+ The requirements of Data Science and Machine Learning research tend to exceed available
+ computing facilities, reinstating the need for specialist equipment and HPC. The University has
+ invested in long-term HPC central facilities with 48 compute nodes, each with 20 CPU cores (2.4
+ GHz) and 5 GPU nodes with the addition of 2 NVIDIA Tesla K80 per node. Pending a phase II
+ upgrade of the central HPC facilities, the School has procured specialist equipment to support its
+ Deep Learning work, first in the form of an 8 NVIDIA™ GTX 1080 Ti GPUs, 32 Intel™ Xeon
+ CPUs configuration and, more recently, one NVidia V100-powered DGX-1 workstation
+ benchmarked at 500 TFlops. Such specialist equipment has been used to support Deep
+ Learning research into auto-encoders for sequence processing (to appear at AAAI 2021).
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ a. International Collaborations
+ The School is involved in significant international collaborations through established
+ relationships between individual researchers at Greenwich and colleagues at partner institutions,
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+ as well as participation in international research projects (EU-funded, bilateral, or national
+ initiatives including an international collaboration element).
+
+ Key relationships include:
+
+    •   MIT CSAIL (USA). This is a long-term collaboration between TK and Howard Shrobe’s
+        team in MIT that has resulted in novel techniques and tools for the end-to-end protection
+        of cyber physical systems, and 9 publications. The collaboration has now expanded to
+        include the University of Patras in Greece and the AI Chip Design Centre in Japan, jointly
+        organising a special session in IEEE ETFA 2020 and 2021.
+
+    •   National Institute of Informatics (Tokyo, Japan). This collaboration is based on non-
+        admissible search and its application to multi-agent path finding for unmanned aerial
+        vehicles. MC visited the NII regularly during the reporting period, including the summer of
+        2018 and 2019. This collaboration has resulted in papers at AAMAS 2019, IEEE
+        Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular
+        Technology and the Journal of Artificial Intelligence in Education. This collaboration is
+        being extended through the formal appointment of MC as visiting professor in 2021.
+
+    •   RMIT University, Melbourne (Australia). MW has a long-term collaborative project with
+        Prof. Matt Duckham in the School of Mathematical and Geospatial Sciences at RMIT.
+        This has led to joint authorship of four papers on computational aspects of geographic
+        information systems in refereed international research journals. MC has an ongoing
+        collaboration with the School of Computing technologies on AI Planning, which led to
+        papers published at AAMAS 2020 and AAAI 2021.
+
+    •   The French Atomic Energy Agency (CEA, France). TK is collaborating with CEA on
+        the development of a specification language and corresponding run-time verification
+        framework for the protection of e-commerce applications in the context project
+        ENSURESEC.
+
+    •   Alpen-Adria University (Austria). TK is collaborating with AAU on developing program
+        analysis techniques to automatically detect and correct errors and security threats. This
+        has led to joint publications in IEEE Transactions on Software Engineering and Empirical
+        Software Engineering Journal. TK is now also serving on the board of international
+        experts in AAU’s project SEEROSE.
+
+    •   University of Houston (USA). This collaboration between Manos Panaousis and Aron
+        Laszka’s team (Houston) has resulted into a recent publication in IEEE Transactions of
+        Information Forensics and Security, as well as the ongoing preparation of an
+        EPSRC/NSF research bid.
+
+    •   Hainan University (China). This collaboration in AI and optimisation has been
+        supported locally through two joint projects by the National Nature Science Foundation of
+        China and the Scientific Research Fund of Hainan Provincial Education Department. A
+        number of mutual visits took place during the reporting period: Prof Wencai Du visited
+        University of Greenwich in June 2016; JM was formally invited and visited Hainan
+        University 2017; Dr Xiaoyi Zhou, the Head of the School of Information Science and
+        Technology at Hainan University, visited University of Greenwich from Dec 2019 to Jan
+        2020. This collaboration has produced a total of 19 papers since 2014.
+
+ Finally, staff were involved in the organisation of national and international conferences at
+ Greenwich. The CSIG Group organised and hosted GISRUK 2016 at the University of
+ Greenwich. The event saw 35 papers presented, 13 posters and three keynote speakers. Over
+ 100 delegates came from the UK and Europe. It was also in charge of READIE’s first annual
+ research conference hosted by the University in March 2016. READIE is a European digital
+ policy centre, set up by Nesta, as an alliance for research and policy into the digital economy in
+
+                                                                                                  Page 11
+Unit-level environment template (REF5b)
+ 2015. There were over 80 delegates from across Europe coming from both industry and
+ academia.
+
+
+
+ b. Indicators of Esteem
+ Staff from UoA11 take an active part in the national and international computer science
+ community, in their respective specialisms. As expected, they participate in journal editorial
+ boards and conference programme committees; are invited to give presentations and keynote
+ talks; participate in the peer reviewing of grants and funding applications nationally and
+ internationally.
+
+  Editorships     PC               PC and Track           Keynotes        International Grant
+                  Membership       Chair                                  Reviewing
+  7               70               9                      10              13
+
+ Professor Mike Worboys is Editor-in-chief of the Journal of Spatial Information Science and on
+ the editorial board of the International Journal of Geographical Information Science (Taylor and
+ Francis), and of Spatial Cognition and Computation. He was Program Chair of GIS Research UK
+ (GISRUK), Greenwich, UK; and a member of the following programme committees: International
+ Conference on Geographic Information Science (GIScience) 2016, 2014; AGILE Conference on
+ Geographic Information Science 2015, 2014, and the 22nd ACM SIGSPATIAL International
+ Conference on Advances in Geographic Information Systems. He gave the keynote address at
+ GISRUK (GIS Research UK) 2014, and was recognised as a Distinguished Scientist of the
+ Association of Computing Machinery
+
+ Professor George Loukas is on the editorial board of Elsevier's Simulation Modelling Practice
+ and Theory and the BCS's The Computer Journal and served on the programme committee of
+ several international conferences, including IEEE MASCOTS, IEEE HPCC, IEEE ISPA. He has
+ been a grants evaluator for EPSRC, ESRC, H2020-MSCA (EU), NWO (Netherlands), SNSF
+ (Switzerland), ISF (Israel), MBIE (New Zealand).
+
+ Professor Jixin Ma was an invited keynote speaker at the 3rd International Conference on
+ Computer and Communication Engineering Technology (IEEE CCET 2020), International
+ Conference on Computer Vision and Information Technology (CVIT 2020), the 6th ACM
+ International Conference on Applied Computing and Information Technology (ACIT 2018), the
+ 16th IEEE International Conference on Software Engineering Research, Management and
+ Applications (SERA2018), the 10th International Conference on Computational Intelligence and
+ Software Engineering (CiSE 2018), and the 5th Conference on Artificial Intelligence and Data
+ Mining (AIDM 2016), 28 – 30 Nov 2016. He was Program Chair of the 3rd International
+ Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020), of the 3rd
+ International Conference on Computer and Communication Engineering Technology (IEEE
+ CCET 2020), of International Conference on Computer Vision and Information Technology
+ (CVIT 2020), of the 15th ACIS International Conference on Software Engineering Research,
+ Management and Applications (2015); Deputy Track Chair (Application Stream) of the BCS
+ SIGAI International Conference on Artificial Intelligence, 2019-2014; and a Program Committee
+ member for ICCBR 2019,2020, BCS SGAI 2015-2020, AAAI2019, AI 2015-2019.
+
+ Professor Marc Cavazza was Senior Programme Committee member for IJCAI 2020, ECAI
+ 2020, ACM Intelligent User Interfaces (2016-2019); exhibition co-chair at AAAI 2015, track chair
+ at ACM multimedia 2014. He also served on the Programme Committee of ACM Multimedia
+ (2017-2020), AAMAS (2015-2019), ACM Virtual Reality Software and Technology (2017;2015),
+ and 20 other conferences over the reporting period (AIIDE, IVA, CASA, SeGAH, Healthinf…).
+ He is Associate Editor of Virtual Reality (Springer). He was keynote speaker at the BCS SGAI
+ Conference 2019, the Annual Benelux Conference on AI 2016, and the International Conference
+ on Principles and Practice of Multi-Agent Systems (PRIMA) 2015. He received the Best Paper
+ Award at the International Work-Conference on the Interplay Between Natural and Artificial
+
+                                                                                           Page 12
+Unit-level environment template (REF5b)
+ Computation (IWINAC 2015). He has been a grant evaluator for H2020 (Open FET), ARC
+ (Australia), the SNSF (Switzerland) and the French national research agency ANR (2016-2020),
+ for which he chaired the panel for national professorships in Artificial Intelligence (2019).
+
+ Dr Georgia Sakellari is on the editorial board of Elsevier’s Simulation Modelling Practice and
+ Theory, and on the programme committee of over 20 conferences, including IEEE MASCOTS
+ and IEEE HPCC. She has reviewed for over 20 journals, including IEEE Transactions on
+ Cognitive Communications and Networking, IEEE Transactions on Cloud Computing, Future
+ Generation Computer Systems and others. She has been an evaluator and project reviewer for
+ FET and H2020 EU projects.
+
+ Dr Emmanouil Panaousis is a Senior member of IEEE, a research fellow of the Research
+ Institute for Sociotechnical Cyber Security (RISCS) and a member of the EPSRC Associate Peer
+ Review College. He is on the editorial board of IET Information Security, and has previously
+ served as chair and TPC chair of the Conference on Decision and Game Theory for Security
+ (GameSec), as well as on the programme committee of the European Symposium on Research
+ in Computer Security (ESORICS).
+
+
+
+
+                                                                                         Page 13
+

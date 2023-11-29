@@ -1,0 +1,1292 @@
+Unit-level environment template (REF5b)
+Institution:
+University of Essex
+Unit of Assessment:
+11 – Computer Science and Informatics
+1. Unit context and structure, research and impact strategy
+
+a) Overview
+
+Significant University investment over the 2014-20 REF period has led to exciting transformative
+growth, with 73 Category-A FTEs submitted to REF2021 (up 110%, from 34.9 in REF2014),
+making the School of Computer Science and Electronic Engineering (CSEE) one of the largest
+UoA11 submissions in the UK.
+
+We have a dynamic and vibrant research community, with more than 45% of academics being
+Early Career Researchers (ECRs; 33 staff, up from 3 in REF2014), 57 fixed-term research staff (up
+from 36 in REF2014), and 106 PhD students. The growth in academic staff has been coupled with
+a 50% increase in the per annum value of external research awards compared to REF2014
+(Section 3.a; Figure 1). Note: throughout the document, financial figures refer to CSEE-only
+awards and/or the CSEE components of joint awards, unless clear from the context.
+
+
+
+
+           Cat-A FTEs
+
+
+
+           Cat-A ECRs
+
+
+
+           Fixed-
+        Research Staff
+
+                                                                                  REF2014
+        Annual Awards
+             [£100k]                                                              REF2021
+
+                         0     10       20       30       40        50       60       70
+
+                              Figure 1. CSEE’s growth at a glance.
+
+The strategic vision of CSEE is to play a distinct role in the development of the international
+research agenda in both computer science and electronic engineering. Key focus is on excellence
+in fundamental research and the translation of innovation to solve real-world problems, while
+reaching out to other disciplines. The continuing improvement in the quality of our research
+environment is evidenced by:
+
+      Prestigious Publications: The vast majority of our submitted REF outputs were published
+       in Top 10 journal percentiles (based on source-normalised impact, SNIP), including high
+       profile interdisciplinary research in Science and Nature.
+      Increased Research funding: Research funding per annum increased over the REF
+       period both in terms of income and awards (by over 50%) as evidenced in Section 3a.
+      Non-academic impact: Research within CSEE addresses key challenges faced by
+       industry and wider society (see Section 4c). Quantifiable evidence for the scale of our
+       research impact can be shown on our submitted impact cases. CSEE ranked 2nd
+       nationally in terms of number of active Innovate UK Knowledge Transfer Partnership
+       (KTP) projects. CSEE has established a multi-disciplinary Centre of Excellence in Artificial
+       Intelligence with TWI (https://www.twi-global.com), Cambridge and a strategic research
+       partnership with BT (https://www.bt.com).
+
+                                                                                            Page 1
+Unit-level environment template (REF5b)
+       Interdisciplinary Research centres: CSEE is a founding member of two major UKRI
+        research centres: the EPSRC National Centre for Nuclear Robotics (NCNR) and the
+        ESRC Business and Local Government Data Research Centre. We, also, established the
+        Institute for Analytics and Data Science (IADS), host the Centre for Computational Finance
+        and Economic Agents (CCFEA) and the Computational Intelligence centre (CIC), and are
+        part of the Essex Plant Innovation Centre (EPIC) and the Human Rights Centre (HRC).
+        These Centres and Institutes facilitate interdisciplinary collaborative research and
+        provide the means for engaging with stakeholders and user communities to promote
+        research impact.
+       Training the Next Generation of Researchers: We have expanded the number of
+        fixed-term research staff by 58% (57, up from 36 in REF2014). During the REF period,
+        145 PhDs have been completed, while 67 full studentships were offered within the School
+        from a number of sources (see Section 2b). Our PhD students organise CEEC, the only
+        IEEE-sponsored international conference organised by postgraduate students,
+        providing unique training for the research leaders of tomorrow.
+       Attracting and Developing Leaders: We are able to recruit and retain international
+        academics of the highest calibre who are regarded as world-class research leaders in their
+        domains (see Section 4d). A focus on recruiting and supporting ECRs also ensures
+        succession for future research leaders within the School.
+       Vibrant Research Environment: During the REF period, 231 national and international
+        academics and industrial research scientists from multiple disciplines visited CSEE and
+        actively contribute to our dynamic research atmosphere, as detailed in Section 2a. We have
+        world-class research facilities and have expanded our research space by nearly 70%
+        (Section 3b).
+
+b) History and Structure
+
+Essex has a long-standing tradition of research in Artificial Intelligence and Communications. It
+was one of the first UK universities to house a central research activity in Artificial Intelligence (AI),
+in the Department of Computer Science (CS), while the Department of Electronic Systems
+Engineering (ESE) pioneered a systems approach to telecommunications. The changing character
+and increasing pervasiveness of ICT led the University in 2007 to merge the CS and ESE
+departments into the School of Computer Science and Electronic Engineering. Since REF2014,
+CSEE has pursued an ambitious programme of development and expansion beyond its historic
+origins in Artificial Intelligence and Communications. As part of this expansion, long-standing
+research activities carried out within the AI group in the areas of Robotics, Embedded Systems as
+well as Brain Computer Interfaces and Neural Engineering gained critical mass and have branched
+out into separate newly formed groups. As a result, CSEE now has four Research Groups with
+members, in many cases, straddling more than one group. The groups are as follows (primary-
+group membership, underlined = group head, asterisk = emeritus professors):
+
+AI — Artificial Intelligence
+
+(Amorim, Andreu, Barakat, Bourazeri, Chamberlain, De Feo, Doctor, Doran*, Fairbank, Fasli, Fox,
+Garcia, Hagras, Jameel, Jindal, Kampouridis, Kanellopoulos, Kyropoulou, Lavington*, Long, Luo,
+O'Hara, Papanastasiou, Richerby, Samothrakis, Turner*, Voudouris)
+
+The AI group includes two professors, one reader, eight senior lecturers, and thirteen lecturers.
+The group’s mission is building systems and conducting theoretical research which model and
+support decision-making of autonomous entities. The group encompasses five special interest
+groups, each coordinated by a lead academic: Data Science; Computational Finance; Natural
+Language and Information Processing; Games & AI; and Health AI.
+
+BCI-NE — Brain Computer Interfaces & Neural Engineering
+
+(Ali, Chowdhury, Cinel, Citi, Daly, Gan, Halder, Li(Ju), Matran, Perdikis, Poli, Raza, Scherer,
+Sepulveda)
+
+                                                                                                  Page 2
+Unit-level environment template (REF5b)
+
+The BCI-NE group includes five professors and nine lecturers and is one of the largest groups of
+its kind in the world. BCI-NE’s mission is conducting theoretical research that expands
+understanding of the brain and neural systems. The group has produced internationally leading
+research and frequent media presence, with prestigious international and national collaborations
+(Section 4).
+
+COMNET — Communications & Networking
+
+(Abolgashemi, Adams*, Al-Naday, Barros, Bebbington, Bourtsoulatze, Ghanbari*, Hawksford*, He,
+Henning*, Liu, Loudon FRS*, Mirshekar, Musavian, Newton, Rassouli, Reed, Ridley FRS*,
+Sangwine, Thakur, Thomos, Varasteh, Walker, Yang, Zakleniuk, Zhang)
+
+The COMNET group includes five professors, three readers, three senior lecturers, and nine
+lecturers. The group’s mission is the design of next generation wireless communication, network
+architectures and systems. COMNET has a long history of collaborating with other research
+institutions and industries including almost all the Tier-1 operators in Europe such as BT and major
+telecom vendors such as Ericsson. Impactful patents and proposals to standardisation bodies have
+been generated out of these collaborations
+
+RES — Robotics & Embedded Systems
+
+(Anisi, Callaghan*, Clark, Ehsan, Gu, Hoshiar, Hu(H), Hu(L), Jarchi, Kolozali, Li(Ji), Massara*,
+McDonald-Maier, Mohan, Ognibene, Singh, Su, Zhai)
+
+The RES group includes three professors, one reader, one senior lecturer, ten lecturers, and one
+senior research fellow. The group’s mission is to solve fundamental problems in robotics and
+embedded systems particularly in the ‘perception-action, continuous learning, decision making,
+social intelligence’ loop, localisation as well as embedded systems and System-on-Chip design
+and processor architectures targeted for cyber physical systems, automotive/industrial systems,
+computer vision, data analytics, Internet of Things and real-time critical systems. The research
+outputs benefit and impact a range of end users and stakeholders in Agricultural robotics, Assistive
+robotics for Social Care, Manufacturing, Electronic Products, Automotive and Nuclear Robotics.
+
+Research within CSEE is supported through world-leading Research Facilities (see Section 3b),
+that provide the required infrastructure and testbeds to undertake our internationally leading
+experimental research.
+
+c) Strategy, Goals and Achievements (2014-2020)
+
+Our strategy, outlined in REF2014, included the following core research goals:
+
+G1)    maintain our leading position in foundational and applied research in the fields of Artificial
+       Intelligence and Communications Systems;
+G2)    expand and consolidate research in the thematic areas of intelligent infrastructures and
+       assisted living technologies that cut across current research themes;
+G3)    increase the level of external research income per FTE in the next period;
+G4)    increase the number of high-quality research outputs;
+G5)    increase the non-academic impact of our work.
+
+These strategic goals have been achieved, evidenced as follows:
+
+G1)     Fundamental and ground-breaking research continued to be produced in our key areas
+of existing strength (AI and Communications) and two further groups have emerged to
+strengthen our work in areas of Robotics and Embedded Systems as well as Brain Computer
+Interfaces and Neural Engineering. Our research is well aligned with UKRI priorities (connecting
+the nation, future intelligent technologies, innovation in health and social care, transforming food
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+production, etc.), whilst responding to emerging major research themes and societal challenges.
+
+Artificial Intelligence (AI)
+
+       The group attracted awards worth £12.8M in the REF period from EPSRC, ESRC, EU,
+        Innovate UK and has strategic partnerships with industry and international organisations
+        such as UNESCO, BT, BAE Systems, local governments and others
+       We are part of IGGI (Intelligent Games and Game Intelligence) EPSRC Centre for Doctoral
+        Training (CDT).
+       In the field of Explainable AI and applications, the work of Hagras with BT was awarded
+        the 2015 and 2017 Global Telecom Business Awards and best paper awards in major
+        international conferences.
+       In the field of Natural Language Processing (NLP), theoretical work on information retrieval
+        in large data spaces led to the development and success of London-based start-up Signal
+        AI, winning the 2015 National Best KTP Partnership Award, and enabling the company
+        to raise in excess of £50M venture capital funding and grow to 150 staff (see Impact
+        Case Study).
+       Fox and Chamberlain co-developed an NLP-based platform for monitoring civilian-led
+        human rights abuses which forms part of the evidence base of the United Nations and
+        other organisations including the Minority Rights Group and Ceasefire (see Impact
+        Case Study).
+       Chamberlain, Clark and Garcia developed a computer vision system for 3D marine
+        surveying that increased surveying speed 10-fold, revolutionising the UK’s capabilities in
+        precision habitat monitoring with Natural England and citizen science organisation
+        Seasearch. The project won Defra’s 2020 Breaking the Mould Award.
+       Theoretical work investigating disagreement and ambiguity in human language was given a
+        significant boost by the €2.5M DALI EU project (Chamberlain and Bartle, CoIs) to develop
+        novel algorithms for consolidating multiple interpretations of text.
+       The AI group is at the core of the ESRC Business and Local Government Data
+        Research Centre (ESRC BLG, £5M, CSEE £1.2M) and contributes via IADS to the ESRC
+        Research Centre on Micro-Social Change (MiSoC, £5M across 4 Essex departments).
+       A multi-disciplinary Centre of Excellence was launched in 2018 with TWI to expand
+        our applied AI research to heavy industries and construction.
+       Fasli was appointed the first UNESCO Chair in Analytics and Data Science.
+
+Brain Computer Interfaces & Neural Engineering (BCI-NE)
+
+       The group attracted awards worth £4.6M in the REF period, mainly from EPSRC, EU, and
+        MoD.
+       Perdikis presented the first BCI-based therapy for stroke rehabilitation shown to deliver
+        clinically significant and lasting outcome.
+       Scherer made significant contributions to gaining a deeper understanding of
+        mechanisms of brain rhythms and their interpretation in the context of motor
+        behaviour.
+       Within the areas of neuroergonomics and adaptive neuro-technologies, Scherer is among
+        the few researchers world-wide studying online man-machine co-adaptation.
+       Poli, Citi and Cinel developed novel approaches in the area of BCIs for assisting decision-
+        making (a form of cognitive augmentation). These integrate neural, physiological and
+        behavioural data to improve individual and group performance in decision-making, including
+        groups where one or more participants are machines. In this area, they obtained £2.35M
+        from the EPSRC and the UK Ministry of Defence including two US/UK ongoing
+        projects (MURI and BARI).
+       Matran-Fernandez and Sepulveda participated in the international Cybathlon 2016, the first
+        international BCI competition for people with disabilities, and attained third place.
+       The group has also done significant work in neuromuscular control of robotic
+        prostheses (Citi, Matran-Fernandez, Sepulveda, Poli) in collaboration with world-
+        leading partners within the DeTOP (£420k) and SenseBack (£220k) projects.
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+      Citi was part of the research team showing for the first time that an amputee could
+       touch and feel with a sensory-enhanced prosthetic hand surgically wired to nerves in
+       his upper arm. The pioneering experiment was published in Science Translational Medicine
+       and widely reported in the world media including the BBC, The Guardian, The Independent,
+       and New Scientist.
+
+Communications & Networks (COMNET)
+
+      The group attracted awards worth £4.1M in the REF period from the EPSRC, EU and
+       Innovate UK.
+      Reed and Al-Naday’s IP-over-ICN work has been included in the 5G standards (3GPP
+       Release 16, Technical Specification Group Services and System Aspects; 3GPP TS 23.501
+       V16.1.0 2019-06).
+      Walker’s pioneering research resulted in the world’s first 10GbE backbone link for
+       trains achieving bandwidth capacity previously considered impossible (see Impact
+       Case Study).
+      The group has rich testbeds which served within the networking hubs of many EU projects
+       including H2020 POINT (£380k), a collaborative project proposing a radically new IP-over-
+       ICN architecture to shape future Internet, and H2020 SerIoT (£300k), a collaborative
+       project proposing intelligent approaches to perform anomaly detection using SDN and
+       Blockchain technologies in IoT networks.
+      The IP-over-ICN testbed developed by the group was demonstrated at two Mobile World
+       Congresses (Barcelona), which is the premier showcase for the mobile industry.
+      COMNET’s network testbed, together with its cloud and edge computing facilities, are
+       also an essential part of a global testbed initiative IEEE InterCloud, where Yang was a
+       founding member and one of the six executive committee members.
+
+Robotics & Embedded Systems (RES)
+
+      The group has attracted awards worth £7.1M in the REF period, mostly from the EPSRC,
+       ESRC, EU and Innovate UK.
+      The group expanded its research in resilient embedded and intelligent systems in extreme
+       environments (nuclear and space robotics), led by McDonald-Maier as a part of the £42M
+       (£11.6M from EPSRC of which £1.4M to CSEE) EPSRC National Centre for Nuclear
+       Robotics (NCNR) in collaboration with NASA Jet Propulsion Lab, BAE Systems, Kuka,
+       Toshiba, Rolls-Royce and other world leaders.
+      Research on embedded systems and Systems-on-Chip diagnostics and analytics through
+       EPSRC and EU projects has contributed unique outputs and IP, where spin-out
+       company UltraSoC Technologies, co-founded by McDonald-Maier, attracted some £20M
+       investment, introduced disruptive technology into the market place and successfully exited
+       to Siemens in an acquisition that delivered high return for all the stakeholders (see Impact
+       Case Study).
+      McDonald-Maier and Ehsan’s computer vision work detecting human rights violation in
+       images, researched as part of the £4.75M (across 5 Essex departments) ESRC Human
+       Rights and Big Data Technology (HRBDT) project, has been adopted by the United
+       Nations (OHCHR – Office of the High Commissioner for Human Rights and UNHCR – High
+       Commissioner for Refugees).
+      Essex’s AgriRobotics research featured in the influential ‘Future of Food 2040’ report of
+       the National Farmers Union and plays an active role in further evolution of EPIC (see also
+       Section 4b).
+      Mohan and Woods lead an Innovate UK project (£231k) on adaptive motion control of
+       cutting machines and predictive maintenance with the UK's Leading CNC machine
+       manufacturers Blackman & White.
+
+G2)    Strategic investment in world leading research facilities for intelligent infrastructures and
+assisted living (Section 3b) has allowed expansion of the RES and BCI-NE research units into
+top-level research groups. We have further expanded our world-leading expertise in embedded
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+systems and robotics to deliver unique intelligent infrastructure as part of the EPSRC NCNR
+(McDonald-Maier and Ehsan). Our role in this national centre is to increase the resilience and
+robustness of embedded and robotic systems in extreme environments and contribute new
+computer vision-based localisation methods. This work is carried with our long-term collaborator
+NASA JPL.
+
+Walker has pioneered novel intelligent infrastructure enabling, for the first time, complete 10GbE
+backbone connectivity in railway trains, transforming on-train communications and internet
+connectivity used in the majority of new UK train rolling stock.
+
+Additional expansion has also been undertaken in intelligent systems for ambient assisted living
+and healthcare (Hagras and Clark) where our pioneering 3D intelligent vision systems (developed
+in cooperation with Leonardo, a global leader in Aerospace, Defence and Security) are due to be
+deployed in houses of the elderly and disabled. Mohan collaborates with Provide (reaching 4.5M
+people across Essex and Cambridge) to train robotic companions for a range of assistive services
+in their care homes. Furthermore, the BCI-NE group did realise various cutting-edge assisted living
+technologies as mentioned above
+
+G3)     Increased our external research funding: CSEE has been awarded grants worth £28.6M
+(up 50% from REF2014, after accounting for the longer duration of REF2021) with an average
+value per FTE per annum which is above the Russell Group median for UoA11 (see Section
+3a). This can be partly attributed to the long-term staffing and staff development strategy detailed
+in Section 2a.
+
+G4)     Increase the number of high-quality research outputs: Our strategy has been to
+encourage and support staff to perform high-calibre fundamental and experimental research. To
+achieve this goal, strategic investment in academic staff has maintained our leading position in
+long-standing research areas and allowed expansion into new areas by recruiting rising stars
+(ECRs) and established leaders. This has been further supported by investment in creating world-
+leading experimental facilities, mechanisms to cover publication fees of new academics and
+supporting staff in-between grants (see Section 2.c). This was made possible by our significant
+increase in external funding that further boosted collaborations with top-tier universities. As a
+result, CSEE staff have published in the internationally leading journals (Science, Nature, IEEE
+Transactions, and others) and in top international conferences (IJCAI, DAC, INFOCOM, NER and
+others). In the REF period, CSEE staff have deposited in the University Institutional Repository
+1074 journal papers (of which 51% as Green and 26% as Gold open access), 531 conference
+papers, 34 book chapters and co-edited 10 books. Of the REF outputs that our Category-A
+academics submitted, the vast majority were in Top 10 Journal Percentiles (SNIP).
+
+G5)     Increase the non-academic impact of our work (see also Section 4c): CSEE encourages
+research activities which result in high non-academic impact. Research income from UK
+Government and UK Industry had a spectacular continuous growth from 2013/14 to 2019/20 (Table
+REF4b). We are 2nd in UK in terms of number of active Innovate UK funded KTPs (Innovate
+UK statistics, 31/05/2020). Furthermore, we have established strategic partnerships with large
+industrial partners (BT, Microsoft, Dolby), borough councils, NHS and world-leading
+organisations like TWI. During the COVID-19 pandemic, the CSEE4COVID team of academics
+rapidly reprioritised workload to work with several regional NHS trusts to improve
+epidemiological models for predicting hospital needs and strategically allocating resources. CSEE
+(through IADS) has worked extensively with local governments and businesses (e.g. BAE
+Systems, BT, Leonardo, Microsoft, Oracle, Orbital Media and Preqin) and has helped them setup
+or expand their data science departments. Furthermore, the University and CSEE encourage
+members of staff to commercialise their research for example via spin-out companies as was the
+case with UltraSoC Technologies, which was successfully acquired by Siemens in 2020. All
+the above-mentioned activities allowed CSEE to transfer our research expertise to big sectors of
+major importance to the international, national or local economies and organisations like the
+United Nations (UN). Three impact cases stemmed from strategic relationships with industrial
+partners and world-leading organisation like BT, Dolby, Microsoft and the UN, while two case
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+studies resulted from our partnerships with SMEs through KTPs and a case study stemmed from
+commercialisation of research.
+
+d) Open Research and Integrity
+
+CSEE is committed to open research in its broadest sense. Opportunities to discuss the
+department research strategy and policies are available to all staff at quarterly departmental
+meetings, research away days, and at monthly Research Committee for those involved. Minutes
+and recommendations from these meetings are circulated freely to ensure an open research
+environment. Open access publishing (of both outputs and data) is promoted and encouraged
+leading to 26% of CSEE outputs deposited in the Institutional Repository in the REF2021 period
+being Gold Open Access and further 51% as Green Open Access. The department also follows the
+UKRI Concordat on Open Research Data; 18 datasets have been published alongside or in
+parallel to journal outputs over this REF period. Open publishing of software and code is also
+encouraged; within this REF period 27 pieces of software or code were published in open-source
+form in other external repositories.
+
+The University and School conform to the Concordat to Support Research Integrity, and has
+developed the University Code of Good Research Practice, which is provided to all staff as part of
+training and induction. This includes explicit reference to the Committee on Publication Ethics
+(COPE) recommendations on publication and authorship; the department is committed to ensuring
+all contributors, including PhD students, gain appropriate recognition and are included in research
+outputs. Overall oversight of research integrity is provided by REO’s Research Governance and
+Planning Manager, who ensures compliance with the code as well as other external legislation and
+funders’ requirements across all projects within the department. The department has a robust
+ethics procedure managed by the departmental Ethics Officer and by the University Ethics
+Committee and its three Ethics Sub-Committees (ESC).
+
+e) Strategy and Vision (2021 onwards)
+
+CSEE’s vision for 2021 onwards builds on the foundations and successes of the 2014-20 strategy
+and aspires to expand into new and currently emerging areas. Our core strategic research goals
+(SRG) are to:
+
+SRG1) Maintain our leading position in fundamental and applied research in the fields of Artificial
+      Intelligence, Brain Computer Interfaces, Neural Engineering, Embedded Systems,
+      Robotics, Communication and Networks.
+SRG2) Expand and consolidate research in thematic areas identified by the government as posing
+      societal challenges such as Healthcare Informatics, Bioengineering and Mechatronics. We
+      have begun recruiting in these areas in 2019 and the COVID-19 pandemic has accelerated
+      our plans for expansion.
+SRG3) Expand and consolidate research in interdisciplinary areas which align with the UKRI
+      priorities such as health and human sciences, agriculture and food manufacturing,
+      psychology, life sciences, social sciences, human rights and finance.
+SRG4) Further increase the number of high-quality research outputs.
+SRG5) Further increase the level of external research income per FTE.
+SRG6) Further increase the non-academic impact of our work.
+
+These strategic research goals will be achieved through the following means:
+
+      Monitor and shape the research of CSEE through its Research Advisory Group (RAG) in
+       order to maintain alignment and relevance to international scientific priorities as well
+       as user communities’ and societal needs (SRG1).
+      Maintain a strategic staffing policy that ensures we recruit high-calibre researchers who
+       can strengthen our existing and future research areas (SRG1/2/3).
+      Invest in healthcare informatics research and create strong links with NHS clinicians,
+       like GPs, specialists, mental health clinicians, and psychotherapists (SRG2/3). The
+
+                                                                                            Page 7
+Unit-level environment template (REF5b)
+       research will be focused on the application of electronic engineering, informatics, mixed
+       reality, robotics/mechatronics and AI to health.
+      Invest in maintaining and creating new world-class research testbeds (SRG1/4/5/6).
+      Continue to invest in PhD studentships which can strengthen new research areas,
+       especially those related to interdisciplinary areas across the faculty of sciences and
+       across the University (SRG2/3/4).
+      Foster cross-thematic, multi- and inter-disciplinary research and engagement with
+       industrial forums, local communities (SRG2/3).
+      Strengthen our existing system of incentives and mechanisms promoting the
+       submission of high calibre research outputs while holding firm to our full commitment
+       to research integrity and open research (SRG4).
+      Manage staff loads to ensure that sufficient time is provided to staff to conduct research
+       and in parallel maintain current research leave arrangements (SRG4/5).
+      Nurture innovation and provide strong support by senior academics and CSEE’s
+       Research Advisory Group (RAG) for individual researchers in writing proposals for external
+       funding agencies (SRG5).
+      Continue the proactive approach adopted for the dissemination of funding opportunities and
+       keep organising brainstorming sessions to incubate ideas and promote collaboration
+       (SRG3/4/5).
+      Support research generating high levels of non-academic impact through regular
+       engagement with companies at our annual joint workshop with industry, through our
+       industrial liaison committee and through strategic initiatives such as the new Artificial
+       Intelligence Innovation Centre with TWI, which aims to disseminate our AI expertise to
+       manufacturing industries (SRG6).
+      Support and mentor early career staff in their professional development through the
+       assignment of a senior mentor and through the annual appraisal and review process
+       (SRG4/5/6).
+      Reinforce our commitment to fostering a diverse and inclusive environment where
+       everyone has equal opportunity to develop their full potential (SRG1/2/3).
+      Sustain a vibrant multi-disciplinary research culture including research students
+       through weekly thematic seminars, interdisciplinary seminars, workshops, and the student-
+       led IEEE CEEC conference, which allows our students to grow their academic and
+       organisation skills (SRG3).
+
+2. People
+
+a) Staffing strategy and staff development
+
+Staffing strategy and its links to research strategy
+
+Our staffing strategy is guided by the needs and strategic direction of CSEE. We aim to appoint the
+best possible candidates internationally to ensure the continuity of our existing research in areas
+of excellence and to expand the scope of our research to new areas (as prioritised by RAG, see
+Section 3c), taking into account emerging research challenges, societal needs and opportunities.
+
+RAG oversees the research strategy and management within CSEE. It includes the Head of
+School, Directors of Research and Impact, Deputy Directors of Research, a representative of
+CSEE’s Athena SWAN committee, and the Research group heads, who represent their group
+within RAG and play a major part in the School’s research management. Group heads have a
+pivotal role in the definition of person specifications for new academic positions within each group
+and participate in the corresponding recruitment panels.
+
+Since 2014, we have appointed 60 early career researchers to their first Lectureships, as well as 4
+new Senior Lecturers / Readers and 2 Professors. The appointments made during this period
+directly align with CSEE’s strategy to support existing areas and expand in new areas in the
+themes of Communications and Networking (Abolghasemi, Al Naday, Barros, Bourtsoulatze, He,
+Li, Liu, Musavian, Rassouli, Thakur, Varasteh, Zhang); BCIs/Neural Engineering (Ali, Chowdhury,
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+Halder, Li, Matran-Fernandez, Perdikis, Raza, Scherer), Robotics and Embedded Systems (Anisi,
+Hoshiar, Hu, Jarchi, Li, Mohan, Ognibene, Singh, Su, Zhai) and Artificial Intelligence (Amorim,
+Andreu-Perez, Barakat, Bourazeri, Chamberlain, Doctor, Garcia, Jameel, Karapetyan, Kolozali,
+Samothrakis, Kyropoulou, Kanellopoulos, Kampouridis, Long, Papanastasiou, Voudouris). In
+recognition of their excellence in research, 8 members of staff were promoted to Senior Lecturer, 2
+to Reader and 6 to Professor since August 2013. Overall, CSEE’s research active academic staff
+now accounts for 73 FTEs (up 110% from RAE 2014) as a result of the strategic expansion
+outlined above. All of our Category-A staff are on open-ended (long-term) contracts or fixed-term
+contracts with a guarantee of a permanent standard academic contract in due course (for IADS
+and AI Industry Fellows).
+
+Career development support and the implementation of the Concordat
+
+Our policies aim to enable staff to maximise research potential, to reward and sustain high
+performance, and to instil high staff morale and promote a vibrant research environment. Career
+development support and advice is provided at all career stages and the Head of School, Director
+of Research and research group heads are responsible for overseeing the implementation and
+compliance with the Concordat to Support the Career Development of Researchers
+(https://www.vitae.ac.uk/policy/concordat). To develop leadership skills for academics at different
+levels, the School nominates promising academics to attend the ‘Future Leaders’ and ‘Strategic
+leaders’ University-run training programmes.
+
+Annual appraisals held with all staff ensure continuous monitoring of performance and the prompt
+identification of development needs. In addition to reviewing teaching and administration loads,
+these meetings consider the quality and volume of research outputs, research grant activity,
+knowledge transfer, and other achievements. In discussions with staff, quantifiable objectives for
+research, teaching and administration as well as further development for the coming year are set.
+These are also opportunities for the line manager to offer wider support and recognition of diverse
+needs, ideas and ambitions.
+
+Probationary lecturers have reduced teaching and administration loads and are assigned senior
+mentors who provide individual guidance on career planning, research profile development and
+effective grant proposal writing. Within 6 months from appointment, the new academic, their
+mentor and the Head of School, draw up and sign a ‘Pathway to Permanency’ agreement which
+sets the targets and performance expectations for successful completion of the probationary
+period. Essex has a standard three-year probation period but academic staff can apply for early
+permanency if the agreed targets are met earlier (ten of the current ECRs achieved it). We provide
+the following support to probationary colleagues:
+
+      £2,000 each year to support their research (conferences, equipment, consumables, etc);
+      Support and feedback for funding applications through internal peer review;
+      Priority when accessing PhD studentship schemes (for example departmental, industry or
+       faculty-funded cross-disciplinary studentships): our aim is that each probationary lecturer
+       will supervise at least one PhD student, ideally from their first year with us;
+      Teaching allocation is aligned to the academic’s research topic whenever possible;
+      40% more research time than permanent staff in the workload allocation model.
+
+In addition to an induction programme that all new staff must attend, the Organisation
+Development team and the Research and Enterprise Office (REO) offer a wide range of training
+courses, including PhD supervision, teaching and learning approaches, leadership, and writing
+grant proposals. These are also offered to senior staff who are encouraged to engage in
+continuous professional development. Established academics also receive support in writing
+proposals for external funding agencies and are encouraged to submit their drafts for internal peer
+review.
+
+Research leave (one term’s paid research leave for every six terms’ service) further supports
+CSEE members in their continuing development (including ECRs and part-time staff, pro-rated).
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+The leave is available to all staff including permanent research fellows with priority given to ECRs.
+
+Research officers also undergo an annual appraisal process to assist them in their career
+development. They work with their supervisor to identify suitable professional development;
+advanced subject-specific scientific training is provided via participation in specialist external
+courses funded by CSEE. Research officers are encouraged and supported to participate in all
+CSEE activities, from contributing to seminars and workshops to networking. They are also given
+the opportunity to engage with limited teaching duties (e.g. occasional lectures/seminars to UG/PG
+students) and they are encouraged to work towards becoming fellows of the Higher Education
+Academy, which improves their career prospects within academia.
+
+Stimulation of exchanges between academia and industry, public and third sector bodies
+
+      CSEE established strategic relationships with major organisations like BT, TWI, NHS, etc
+       as well as other SMEs which allowed secondment of staff (e.g. Walker is Essex/BT liaison,
+       Westcott from Filament Ltd is entrepreneur in residence with CSEE), funded research
+       projects and dissemination of research impact (as evidenced by 5 of the submitted impact
+       cases). The relationship with TWI allowed the exchanges of staff, 7 studentships, major
+       research funding and dissemination of our research to heavy industries and civil
+       engineering.
+      CSEE is 2nd nationally in the number of active KTP projects, which provides sustainable
+       opportunities for research and impact with industry and public/third bodies.
+      CSEE holds an annual workshop with industry and public/third sector bodies (attended by
+       80-100 delegates) which aims to disseminate our research achievements and stimulate and
+       facilitate exchanges and collaborations between academia and industry on projects with
+       impact on local economy and society.
+      CSEE has an industrial liaison committee which helps shape CSEE’s impact and applied
+       research strategies.
+
+Recognition/support for staff carrying out research and impact activities
+
+      CSEE has a Director of Impact who develops and oversees the strategy for supporting and
+       enabling staff to achieve impact from their research via the various mechanisms detailed in
+       the previous subsection.
+      CSEE implements a Work Allocation Model which rewards time for various research and
+       impact activities (e.g. research projects, PhD supervision, impact activities)
+      The University awards 20% grant indirect costs to research incentive accounts of grant
+       holders, which can be used for research purposes or salary enhancement.
+      CSEE awards £800 to the research incentive account of staff for each accepted paper in
+       prestigious research outlets.
+      The University holds annual awards to recognise the best internationally leading research
+       and impact activities.
+
+Mentoring and advice are also provided by Emeritus Professors (Adams, Callaghan, Doran,
+Ghanbari, Hawksford, Henning, Lavington, Loudon FRS, Massara, Ridley FRS, Turner) who
+continue to play an active role and contribute to enriching the research environment of the UoA.
+
+Vibrant Research Community: Seminars are organised in CSEE in collaboration with other
+departments to exchange ideas and facilitate collaborations across the University. These provide a
+forum for members of staff to present research ideas and findings while also bringing in leading
+external researchers and practitioners. The weekly seminar series, now in its 45th year of
+continuous existence, is aligned with CSEE’s research groups and is open for all staff and
+students. The seminar series is complemented by the IADS Seminar Series, the Health and Social
+Care Research Seminar Series, the monthly BCI-NE seminars, the Language and Computation
+weekly seminar and the Annual Language and Computation Research Day (now in its 19th year). In
+addition, a well-attended summer school in Analytics and Data Science has been organised on an
+annual basis for the past 4 years (attended by over 700 participants).
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+
+International staff, visiting scholars and research fellowships
+
+CSEE’s vibrant research community encompasses a wide network of visitors made up of visiting
+scholars, visiting students, research collaborators, industrial contacts, and ex-staff who still actively
+collaborate with the School. In the current census period, 231 visitors collaborated with members
+of CSEE through visits ranging from short stays to one or more years. In addition, to attracting
+world leading academics, we host the ‘Essex International Visiting Fellowships’, a generous
+programme that provides the recipients with return airfare, exclusive use of a University-owned
+house and a small weekly stipend for visits lasting between two weeks and four months. Since its
+inception in 2016, the programme has funded 8 Visiting Fellows hosted by CSEE. We have also
+established the Northwest University (NWU) China TTP program where staff from NWU visit with
+mentors from CSEE. CSEE is one of 10 research intensive UK universities participating in an
+agreement with the National Institute of Informatics (NII) Tokyo, one of the top research institutes
+in the world.
+
+This is complemented by our funded collaborative research projects that also enable regular long-
+term collaborative exchange visits to take place, e.g. with NASA JPL and the Australian Centre for
+Robotic Vision.
+
+b) Research students
+
+CSEE has a thriving research student community with 106 PhD students at the census date,
+and 145 PhDs awarded during the REF period. Students are funded from a variety of sources,
+including competitive scholarships from EPSRC (through the IGGI CDT), University
+postgraduate scholarships, Faculty of Science and Health interdisciplinary studentships
+and departmental studentships. Overall, these mechanisms funded 67 scholarships, of which 8
+were through the IGGI CDT. Students are also funded through research grants (e.g. H2020
+covering stipend and CSEE providing a fee waiver) or overseas national level government
+scholarships, such as the agreement with China Scholarship Council (CSC).
+
+Research students are an integral part of CSEE’s research culture and are treated as the
+colleagues and scholars we expect them to become. They are supported and mentored to become
+independent researchers and are funded to present their work at conferences through a dedicated
+research student fund. They are actively involved in CSEE’s activities such as contributing to and
+participating in seminars and workshops. PGR recruitment is overseen by the Graduate Director
+for Research Students and applications are handled by dedicated Research Admissions Tutors
+with responsibility for ensuring the quality and academic standards of the students
+recruited, safeguarding an open and transparent recruitment process which is not
+discriminating against individuals based on protected characteristics, and matching applicants’
+research interests with suitable supervisors. Research students need a first degree as a minimum
+in Computer Science, Electronic Engineering or related discipline or a Masters level qualification.
+We support applicants from ethnic and sexual/gender minorities and we have a strong commitment
+on diversity and inclusivity.
+
+Every student is provided with desk space and a state-of-the-art new personal computer whilst
+further specialist facilities and access to laboratories are provided based on the research topic.
+Each research student has a named individual supervisor, and often also a co-supervisor, who
+they meet on a weekly basis. Progress is formally assessed twice a year through Supervisory
+Board Meetings that involve the student, the supervisor(s), and two additional academics. The
+Research Students Progress and Monitoring Committee is responsible for overseeing progress
+and reporting on all students to the Graduate School (GS). All research students aiming for a PhD
+are admitted as MPhil/PhD students and their PhD status is only confirmed in the first (or second)
+Supervisory Board of Year 2.
+
+CSEE and University training provided for research students is extensive. Training needs are
+identified by the student and supervisor and then reviewed at each Supervisory Board meeting to
+
+                                                                                                Page 11
+Unit-level environment template (REF5b)
+monitor the training completed and what needs have emerged. The GS works with academic
+departments to set and monitor research student strategy and provide access to high-quality
+cohort skills training and career coaching. Training in discipline-specific skills is provided
+through advanced subject courses, while generic skills courses such as project management,
+effective communication and team working are offered through the University’s Proficio
+programme. All incoming doctoral students are given the equivalent of £2,000 each to spend
+on advanced training courses, conferences, or summer schools of their choice in consultation with
+supervisors. In addition, they are allocated £1,000 each to present a paper in a major international
+conference. Research students’ culture and networking are encouraged in a number of ways,
+including research group meetings, departmental seminars and GS-run events, such as the
+Doctoral Welcome Conference and the annual GradSchool. Students also have the opportunity to
+undertake limited teaching duties for their own career development (as graduate teaching
+assistants) and, through the University’s Cadenza program, they are encouraged to work
+towards Associate Fellowship of the HEA.
+
+REO offers additional distinct services to research students, including a postgraduate
+consultancy service allowing students to gain or extend engagement with employers, a business
+incubation hub and advice on securing start-up funding and patents.
+
+A major success of CSEE has been the Computer Science and Electronic Engineering
+Conference (CEEC) which has been led and organised annually since 2009 by CSEE research
+students with central support provided by the School. CEEC has grown from an internal event to
+an international conference being the only one of its kind in the UK that is run by research
+students with the proceedings published by IEEE. It attracts an increasing number of
+international submissions and presentations (in 2019, 100 delegates from 20 countries of 5
+continents with over 40% of the submitted papers from non-UK based authors). CSEE supports the
+conference by providing funding to each research group to invite world-leading researchers as
+keynote speakers. CEEC provides training and experience to future research leaders on how to
+review papers and how to organise an international conference (including writing the call for
+papers, organising tutorials, inviting keynote speakers, balancing a strong technical programme
+with a fun social programme and allowing for networking between students and established
+researchers).
+
+c) Equality and diversity
+
+The University and CSEE recognise the value of diversity and are committed to equality of
+opportunities. The University has a very clear policy supporting equality and diversity for all staff
+and students, which includes flexible working arrangements, a dedicated team of harassment
+advisers, and training for all staff in equality and diversity issues. The University’s commitment
+to equality and diversity is also seen in the long-established groups for protected
+characteristics (e.g. the LGBT+ Forum, the Access Forum for staff and students with disabilities,
+whose co-chair is a member of CSEE, etc.) and the high management profile of our University-
+wide inclusivity champions (e.g. the Registrar is our disability champion, the PVC-Research is
+our LGBT+ champion, etc.). Furthermore, the University leads the One-Essex Inclusivity
+Network involving members from the University as well as from various county-wide inclusivity
+bodies, both from local government and private institutions. Essex is a member of the Stonewall’s
+Diversity Champions programme, became a Disability Confident (formerly ‘Two ticks’)
+employer in 2008 and received its Athena SWAN Bronze Award in September 2013, which was
+successfully renewed in November 2017.
+
+We have a departmental Inclusivity and Disability (I&D) Officer supporting staff and students
+with protected characteristics to ensure everyone has equal opportunity to conduct research
+productively. The I&D Officer also gives inclusivity-centred talks at all induction events (for both
+staff and students) and liaises with the University on behalf of our students and staff with protected
+characteristics. Every new member of CSEE staff is required to complete training on equality and
+diversity within six months of starting their roles.
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+Within CSEE, staff come from diverse cultural backgrounds from over 19 countries (up from 12 in
+REF2014). Policies to improve gender equality have led to CSEE being awarded a Departmental
+Athena SWAN Bronze Award in 2019 and an increase in the number of research active
+female academics (from 3 in REF2014 to 12 in REF2021). CSEE’s commitment to equality is
+reinforced by the appointment of Fasli as UNESCO Chair in Analytics and Data Science to
+highlight the critical role data plays in promoting equality and sustainable development.
+
+Equal opportunities in career path and promotions, submission of funding applications, access to
+internal funds, recruitment for research-related leadership roles, conference attendance,
+sabbaticals and training are given to all staff including part-time and fixed term staff. We monitor
+gender and full- vs part-time distributions in different staff and student bodies, in staff
+committees and outreach activities, to ensure representativeness and equality of workload.
+During the REF period, female academics have held important roles within CSEE and beyond: as
+Head of School and then Dean of the Faculty of Science and Health (Fasli), and Deputy Pro-Vice-
+Chancellor Research and the incoming Head of School (effective August 2021) (Musavian). During
+recruitment of new staff, marketing materials always explicitly encourage people with protected
+characteristics to apply (especially from groups that are underrepresented in IT & engineering)
+and every effort is made to have diversity as one of the criteria for appointing interview and
+selection panels.
+
+CSEE offers £2,000 research budget for each staff in-between grants and staff returning from
+periods of leave (including parental leave) or ill health, managing long-term illness, or with
+caring responsibilities. We have an open and transparent workload allocation model which
+can be adjusted to support returning staff. Also, the unique needs of staff with disabilities, medical
+issues, and/or caring roles are taken into account throughout the process, e.g. by reducing
+administrative load where needed. We provide extra funding to support conference attendance or
+other research necessary travel for staff and research students with caring responsibilities, ill
+health etc.
+
+CSEE provides suitable computing and lab facilities as assessed by the I&D Officer to support staff
+with protected characteristics (e.g. disabilities) to enable them to research productively.
+
+RAG (which includes a representative of CSEE’s Athena SWAN committee) and the I&D Oofficer
+have scrutinised the preparation of REF submission to ensure that due regard to equality and
+diversity issues was paid at all stages. The selection of the output portfolio is balanced across all
+research groups and to ensure adherence to the equality and diversity policies as set out in the
+University Code of Practice.
+
+3. Income, infrastructure and facilities
+
+a) Income
+
+Following the research strategy detailed in REF2014 (G1-G3 above), CSEE increased its external
+research income (i.e. the amount of money received in respect of externally sponsored research),
+from £13.5M in REF2014 to £20.2M spend in this REF period. The increase is even more
+significant in terms of grants awarded (i.e. the value of competitive grants that have been won in
+the period and contribute to research spend during and after the census period). During the REF
+period, CSEE has been awarded grants worth £28.6M from a diverse range of funding agencies,
+including the EPSRC, ESRC, MoD, EU, ERDF, Innovate UK, as well as many industrial companies
+such as BT, Leonardo and others. Members of CSEE have also collaborated in projects based at
+other host institutions funded by Marie Skłodowska-Curie Actions-RISE, FP7-PEOPLE, national
+research councils-USA, Newton institutional links, Wellcome Trust and many others. This is an
+increase of 50% (after accounting for the longer duration of REF2021) on REF2014 when CSEE’s
+equivalent research awards amounted to £13.2M. These grants also provided opportunities for
+cross-fertilisation, change in culture, growth and expansion in new research areas.
+
+
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+
+
+                                                                                              50
+                 6
+                                                                                              40
+                 5
+
+                 4                                                                            30
+        [ £M]
+
+
+
+
+                                                                                                   FTE
+                 3
+                                                                                              20
+                 2
+                                                                       CSEE Incom e
+                                                                                              10
+                 1                                                     CSEE Awards
+                                                                       Cat egory-A FTEs
+                 0                                                                            0
+
+           140
+
+           120
+
+           100
+        [ £k]
+
+
+
+
+                80
+
+                60
+
+                40                       CSEE Awards per FTE
+                                         CSEE " Expect ed Incom e from Awards" per FTE
+                20
+                                         Median Russell Incom e per FTE CC 121
+                 0
+                     2013/14   2014/15   2015/16          2016/17     2017/18       2018/19
+                                                   Year
+
+     Figure 2. Top: Yearly trend of the research income, total value of the awards and FTEs;
+       Bottom: Yearly trend of the value of the awards per FTE won by CSEE academics.
+
+Figure 2 provides a more detailed analysis of our funding trajectory based on our financial data as
+well as HESA data (available for the period 2013/14 - 2018/19). More specifically, Figure 2-top
+shows how CSEE’s annual income has more than doubled over this period while the annual
+value of the awards is following an even steeper trajectory, which will likely translate into
+additional income in coming years (due to the delay between funds being awarded and spent).
+Figure 2-bottom shows the value of the awards per FTE won by CSEE academics as well as the
+expected income resulting from these awards, which takes into account the fact that some of these
+will be reimbursed at 80% FEC. For comparison, we also report the median income of Russell
+Group universities submitting to HESA cost centre 121 (which corresponds to UoA11). Over the
+period considered, CSEE’s academics were awarded £117.3k/year/FTE, with an expected
+resulting income of £109.6k/year/FTE, which is above the Russell Group median income of
+£99.8k/year/FTE.
+
+The equality and diversity policies in Section 2c extend to the support provided for acquiring
+research funding. As a result of these policies, our data show no significant gender differences
+(two-sample Kolmogorov-Smirnov test) in terms of value of awards obtained nor in terms of
+number and conversion rate of grant applications.
+
+b) Facilities
+
+CSEE has a diverse set of specialist laboratories featuring state-of-the-art equipment funded by
+strategic infrastructure investments, research grants and donations from industry. As research
+undertaken by CSEE requires extensive infrastructure, support for new activities as well as
+continuous support and periodic replacement of existing equipment, the University has specific
+provisions (Strategic University Infrastructure Funds) for the renewal and development of
+
+                                                                                                   Page 14
+Unit-level environment template (REF5b)
+infrastructure required to undertake research in the sciences. We have expanded our research
+space by nearly 70% and invested more than £6M in creating and maintaining
+internationally leading research facilities including the newly refurbished intelligent flat (iSpace)
+and the new BCI-NE, embedded and intelligent systems (EIS@Essex) and mechatronics labs.
+Continuous updates and additions to the Essex robotics arena and communications and networks
+labs retain them as world-leading testing facilities. This unique infrastructure also helped to
+develop systems which are close to market, facilitating our research dissemination and
+impact activities.
+
+The Robotics Laboratory offers dedicated space for indoor robots. The University has invested
+over £3M to equip this state-of-the-art laboratory for robotics research. The laboratory
+accommodates over 50 robotic systems, including wheeled, flying, humanoid, and wheelchair
+robots, as well as various robotic arms and hands. In addition, through a £80k Strategic equipment
+award (2018) a new agricultural robot has been built at Essex comprising a Husky UGV carrying
+two UR3 arms, customised cutter/gripper, soft multi-fingered hand, and vacuum gripper. The
+facilities have been deployed in research projects funded by the EPSRC, including the NCNR, the
+EPSRC Robust Remote Sensing project and the EPSRC RoBoSaS, as well as Innovate UK and
+Industry.
+
+The Embedded and Intelligent Systems Laboratory (EIS@Essex) has state-of-the-art design
+and prototyping facilities for advanced embedded systems design and system-processing
+architectures. Additionally, the EIS@Essex NCNR Lab has been expanded with dedicated
+embedded systems, FPGA/GPU units and sensors for extreme environments and autonomous
+systems (£120k investment by University and EPSRC/EU project funds). The Laboratory was
+crucial in conducting our research as part of the EPSRC funded RoBoSaS collaboration with NASA
+JPL, the Robust Remote Sensing, the NCNR, the ESPACENET, and RESIP EPSRC grants and
+the SYSIASS and COALAS EU ERDF grants. EIS@Essex encompasses the iSpace (intelligent
+flat) testbed for Internet of Things established from a University investment of £240k. EIS@Essex
+also includes £1.4M RCIF-funded facilities encompassing 3D projectors and high-resolution audio
+equipment which have been used in projects funded by DSTL and Innovate UK.
+
+The Essex Brain Computer Interfaces and Neural Engineering laboratory is one of the best in
+the world for non-invasive BCIs and cognitive augmentation. With funding from the University
+and CSEE, it has recently acquired a new home spanning 190m2, three large Faraday cages
+(£150k), a robotic transcranial magnetic stimulation system (£140k), three mobile EEG (£90K), and
+a mobile VR kit (£60k). These have complemented our existing state-of-the-art EEG systems, high-
+density sEMG, fNIRS systems, transcranial current/functional/magnetic stimulators, eye trackers,
+motorised wheelchairs, robotic arms, electrophysiological sensors, computer cluster and backup
+storage, bringing the total equipment value to over £1M. These have also been acquired via grants
+from UK Ministry of Defence (MoD), US Department of Defense (DoD), EPSRC, EU, etc. including
+one under the DoD/MoD Multidisciplinary University Research Initiative and one under the
+DoD/MoD Bilateral Academic Research Initiative.
+
+The RF & Microwave Research Laboratory houses modern equipment for developing devices
+and systems up to 67 GHz, including several scalar and vector network analysers, signal sources,
+spectrum analysers, an atomic-force microscope, mm-wave antenna radiation pattern
+measurement, as well as design workstations with ADS and CST software. The equipment (which
+cost in excess of £500k) was mainly obtained through EPSRC grants and SRIF funding and has
+been used in research projects such as the EPSRC grant on Liquid Crystal Based Beam Steerable
+Planar Antennas for 60 GHz Wireless Networks and Full duplex radios. The Laboratory has also a
+refurbished clean room and micro-fabrication facility through a £500k University investment.
+
+The Access Networks Laboratory (ANL) has state-of-the-art wireless and system measurement
+tools with approximate total value £500k. The equipment has been funded in part from EU grants
+and in part by University infrastructure funds and was used in several grants and consultancies,
+including two from the EU commission (iCIRRUS and CHARISMA), an EPSRC (NIRVANA) and six
+KTPs.
+
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+
+The Network Convergence Laboratory (NCL) maintains a well-equipped research network test
+bed that consists of electrical and optical core networking technologies and heterogeneous
+wireless access networking technologies across the University campus and surrounding areas. In
+addition to hosting several planetLab nodes, NCL is also connected to GENI in USA via openFlow
+switches, and is the host to an enterprise SAN, a blade cluster of 70+ CPUs. The testbed is also a
+home to an edge computing cluster. These facilities have been used in various EU and EPSRC
+projects, such as EPSRC NIRVANA and TANGO and EU H2020 POINT, iCIRRUS and SerIOT.
+
+The Natural Language and Information Processing (NLIP) Laboratory has two high
+performance servers (£60k) specifically for text and image processing and a number of large-scale
+multi-lingual commercial datasets.
+
+Staff also make use of other infrastructure available across the University such as the UK Data
+Archive, which houses the UK’s largest collection of datasets in social sciences and humanities.
+Such datasets are important for CSEE’s work in machine learning and data analysis as well as
+growing research in the area of big data and text analytics. IADS houses multiple research-
+focused desktops having direct access to GPUs, alongside two ESRC BLG associated high-
+performance GPU-focused machines (£20k each). CSEE academics also have access to the
+University’s High-Performance Computing cluster ‘CERES’, which has 1008 processing cores
+(1870 with hyperthreading) provided by servers with a mix of Intel E5-2698 and Intel Gold 5115
+processors, and between 512Gb & 1.5Tb RAM each. There are also 24 NVidia GTX & RTX Series
+GPU cards attached for research purposes.
+
+c) Operational and Organisational Infrastructure
+
+RAG formulates and implements CSEE’s research strategy and acts as a formal link between
+CSEE, the University’s Research Committee and the REO. RAG follows CSEE and University
+equality and diversity codes of practice. Its role is to:
+
+   (i) Decide CSEE’s overall short- and long-term research strategies;
+   (ii) Critically appraise the research undertaken within CSEE;
+   (iii) Track external drivers such as UKRI priorities, society needs, national and international
+         research agendas, long-term trends, emerging areas and challenges to steer and position
+         CSEE to respond to these changes;
+   (iv) Distribute resources and devise incentives to realise CSEE’s research strategy;
+   (v) Provide critical support in the preparation of research proposals and initiatives, e.g. by
+         providing seed money;
+   (vi) Allocate PhD studentships and funds to purchase or upgrade equipment on a competitive
+         basis according to CSEE’s research strategy.
+
+4. Collaboration and contribution to the research base, economy and society
+
+a) Cross-institutional collaboration
+
+The University and School have a wide range of mechanisms in place to support and encourage
+collaborative research, including the previously mentioned ‘Essex International Visiting
+Fellowships’, research leave, and financial support for research-related travel. Additional support
+includes a dedicated ‘Research Development Manager (EU/International)’ within REO to help
+CSEE academics develop Horizon 2020 proposals by organising training events, selecting and
+informing CSEE academics of H2020 calls in their areas, and providing feedback on draft
+applications. The University is also part of YERUN (Young European Research Universities
+Network), which aims to strengthen and develop cooperation among a cluster of highly-ranked,
+young research universities in Europe.
+
+During this period, members have engaged in extensive collaborative activities with national and
+international partners in academia, research institutions and industry. According to SciVal, 78%
+
+                                                                                             Page 16
+Unit-level environment template (REF5b)
+of all our papers (2014-2020) involved co-authors from another institution and 64% involved
+international co-authors.
+
+Using as a criterion individuals with whom papers were co-authored or grants worth over
+£50k were won during the period, staff in CSEE collaborated with 34 UK universities (including
+Cambridge, Imperial, Oxford, UCL, etc.) and 203 overseas universities and research institutes
+(including UC Berkley, Princeton, ETH, EPFL, Harvard, USC, MIT, NASA JPL, etc.).
+
+The diversity of our international dimension is exemplified by collaborations with top researchers in
+all our areas of research, including: Friston at UCL (Ognibene) and Thakor at NUS (Li(Ju)) in BCI
+and neural engineering; Nelson at ETH (Hoshiar), Milford at Queensland (McDonald-Maier and
+Ehsan), Sandini at IIT (Mohan) and Henkel at Karlsruhe (Singh) in robotics and embedded
+systems; Poor at Princeton (Musavian), Hanzo at Southampton (Zhang, Yang, Liu), Frossard at
+EPFL (Bourtsoulatze and Thomos) and Van der Schaar at Cambridge (Thomos) in
+communications; Mendel at UCLA (Hagras), Jordan at UCB (Citi), Xie at Microsoft Research
+(Jameel), Alon at Princeton (Kanellopoulos) and Tardos at Cornell (Kyropoulou) in AI.
+
+Exemplars of specific cross-institutional collaborations include the following:
+
+In 2014, the AI group was awarded EPSRC funding for a Centre for Doctoral Training (IGGI:
+Intelligent Games and Game Intelligence) together with York, Goldsmith and QMUL.
+
+CSEE joined forces with the Human Rights Centre of the University of Essex in the HRBDT
+Project with human rights researchers at Harvard and Cambridge University, as well as human
+rights organisations such as the WHO and the UN. Funded by a £4.75M large grant from the
+ESRC, the Essex-based project considers the challenges and opportunities presented by AI, big
+data and associated technology from a human rights perspective. In this project, AI group
+academics Fox, McDonald-Maier, Poesio and Kruschwitz collaborate with a multidisciplinary team
+of professionals in criminology, economy, law, philosophy, political science and sociology to tackle
+challenges like algorithmic accountability to protect human rights, understanding how AI can also
+threaten the right to equality and privacy, exploring the use of NLP to detect mis- and dis-
+information and investigate how these affect human rights and use modern computer-vision
+technology to empower human rights organisations and the UN.
+
+In the BCI-NE group, Poli is the Coordinator of a prestigious 3-year (2018-2022) $5M grant under
+the US DoD’s inaugural Bilateral Academic Research Initiative (BARI), for a project on the use of
+neural, physiological and behavioural data to improve hybrid human-machine group performance
+in decision-making, in partnership with the USC, UCB, Harvard, UMASS Medical School and
+Oxford. He is also UK coordinator of the prestigious 5-year (2016-2021) $11.5M grant under the
+US DoD Multidisciplinary University Research Initiative (MURI), for a project on the use of neural,
+physiological and behavioural data to improve performance in decision-making, in partnership with
+USC, UCB, Harvard, NYU, UCLA, Imperial, and UCL. Citi and Cinel are Co-Is in these projects.
+
+In the COMNET group, Walker and Yang were Essex PIs of the European commission funded
+iCIRRUS (overall budget €3.8M) in a project in partnership with ORANGE SA (France), PRIMETEL
+PLC (Cyprus), WELLNESS TELECOM SL (Spain), Fraunhoffer (Germany), Interdigital Ltd (UK),
+among others. Reed, Thomos, and Yang were Essex PIs of the EU-funded project POINT (overall
+budget €3.5M) in a project in partnership with Interdigital Ltd (UK), Primetel (Cyprus), RTWH
+Aachen (Germany), Aalto University (Finland), among others. Reed and Thomos were Essex PIs
+in another EU-funded project involving DT-sys (Germany), DT (Germany), ATOS (Spain),
+CERTH/ITI (Greece), among others. Academics from the group also participate in EU-funded
+actions aiming at building/strengthening collaborations between EU and Chinese research
+institutions such as CROWN (FP7-PEOPLE-2013-IRSES - Marie Curie Action) and CLIMBER
+(FP7-PEOPLE) and across Europe such as RECENT (H2020 MCSA-RISE), involving partners
+from UK, Portugal, Finland, and Turkey.
+
+
+
+                                                                                             Page 17
+Unit-level environment template (REF5b)
+In the RES group, McDonald-Maier and Ehsan are key Co-I in the NCNR, a £42M (EPSRC
+£11.6M) collaborative project involving international experts from 8 UK universities and 30+
+partners from the nuclear industry and the research base, including NASA JPL, BAE Systems,
+EDF Energy, Japan Atomic Energy Agency, National Nuclear and Physical Laboratories, Rolls-
+Royce, Thales and Toshiba. The project is researching and developing cutting-edge technology to
+solve the problem of nuclear waste. McDonald-Maier leads the research strand on the
+development of resilient electronic systems that can function in areas of high radioactivity where
+robots are prone to failure and using computer vision in such extreme environments for
+localisation.
+
+b) Major strands of interdisciplinary research
+
+Members of CSEE collaborate extensively with scholars from other disciplines both within and
+outside the University. CSEE plays a major role in interdisciplinary areas, mediated by its
+Research Centres and Institutes that often act as contact points for reaching potential collaborators
+and effectively facilitating cross- and interdisciplinary work.
+
+To foster collaborative and multidisciplinary work, the Faculty of Science and Health has
+introduced competitive Faculty-funded PhD studentships awarded to projects proposed and
+supervised by academics from different departments. So far, CSEE has been awarded 30 of these
+PhD studentships spanning a wide range of topics, from the application of AI to improve DNAzyme
+design to the study of social cognition development in infants and robots.
+
+Our research strategy is well aligned with UKRI priorities (e.g. future intelligent technologies,
+transforming food production, innovation in health and social care, among others) and emerging
+major research themes and societal challenges specifically after the COVID pandemic.
+Interdisciplinary work has enabled us to increase our research funding and well as publish
+in high-quality research outlets. Our major interdisciplinary research strands are:
+
+      Assisted Living Technologies, a focus area where many members of CSEE work with
+       staff from Life Sciences, Psychology, and Health and Human Sciences on a series of
+       challenges that are directed to improving assisted living technologies and care with the
+       users’ needs in mind. For example, Mohan collaborates with Provide (reaching 4.5M people
+       across Essex and Cambridge) to train robotic companions for a range of assistive services
+       in their care homes. Hagras and Clark are pioneering 3D intelligent vision systems
+       (developed in cooperation with Leonardo) that are due to be deployed in houses of the
+       elderly and disabled.
+      The Brain-Computer Interfaces and Neural Engineering research group is
+       interdisciplinary by definition as it explores systems integrating computer and electronic
+       devices with human central and peripheral nervous systems for the purpose of enhancing,
+       replacing or recovering function. The group is the UK lead for a $11.5M US/UK
+       Multidisciplinary University Research Initiative (on BCI-enhanced human decision-making,
+       as part of an international team whose diverse expertise spans from machine learning to
+       neural engineering to neuroscience), leading the first $5M US/UK Bilateral Academic
+       Research Initiative (on human-machine teaming, collaborating closely with experimental
+       psychology in Oxford and Harvard Medical School), and is a key partner in EU projects like
+       DeTOP (working closely with neurophysiologists, hand-surgeons and bioengineers),
+       NEVERMIND (with bioengineers, psychologists, psychiatrists and three clinical centres)
+       and POTION (with chemical engineers and clinical psychologists).
+      Trust in emerging AI, Systems and Robotics technologies addresses the need for such
+       systems to work as expected for their purpose, to be designed and tested to ensure that
+       they work consistently and safely, and that they are appropriately developed within a legal,
+       ethical and social context. This integrates and extends our technical research with social
+       sciences and humanities research in a multi-disciplinary approach as part of IADS, HRBDT
+       and the HRC.
+      Human Language Understanding and Technology sits at the intersection of Computer
+       Science, Language and Linguistics, Philosophy and Logic. CSEE academics work closely
+
+                                                                                            Page 18
+Unit-level environment template (REF5b)
+       with the UK Data Archive on information extraction, text mining to support visualisation and
+       automated analysis of query logs. Our research in this area resulted in the DALI and
+       HRBDT project and the impact cases with Signal and Minority Rights Group.
+      Computational Finance and Economic Agents, where AI group members work as part of
+       CCFEA, closely with members of other academic departments such as Mathematical
+       Sciences, the Essex Business School and Economics. Recently emerging work in complex
+       socio-cognitive systems and global systems science is done in collaboration with
+       Sociology, Economics and Government. For example, Samothrakis is a Co-I in the ESRC
+       Research Centre on Micro-Social Change (MiSoC), a multidisciplinary centre promoting
+       collaboration between economists, sociologists and other social scientists, and using
+       quantitative social science to provide evidence with which to address key societal
+       challenges.
+      Transforming Food Production: Our work with Life Sciences in the EPIC resulted in
+       agritech for plant imaging and soft fruit picking/packing using computer vision, soft
+       manipulation, mobile robotics, drones and human robot collaboration. This also resulted in
+       building the world’s first prototype of a mobile bimanual collaborative robot for
+       agricultural applications, with trials conducted in the country’s first vertical growing
+       system for soft fruit (NGS) located at one of the world’s leading jam producers (Wilkin
+       and Sons, Tiptree, Essex). This research paved the way for securing funds from the
+       Industrial Strategy Challenge Fund in the next REF period (overall budget £1.3M, CSEE-
+       led).
+      Marine technology brings together the work done in machine vision and robotics with
+       marine ecology and conservation and has resulted in award-winning (Defra’s 2020
+       Breaking the Mould Award) 3D visualisation systems which were used for monitoring
+       change in reef structures in Indonesia and the Caribbean. This research, in collaboration
+       with Natural England and the Eastern Inshore Fisheries and Conservation Authority
+       (EIFCA), has facilitated fisheries policy change through a co-produced investigation into
+       human impacts on the UK’s only chalk reef in East Anglia.
+      Policy and government. The ESRC Business and Local Government Data Research
+       Centre (ESRC BLG) (PI: Fasli, CoIs: Matran-Fernadez, Raza) at the heart of IADS,
+       collaborates with private sector, public sector and non-profit organisations who can wield
+       the transformative power of data to benefit their communities. By supporting them in
+       implementing best practice, we create real-world impact, influencing policy and
+       informing practice. BLG’s aim is to be the UK’s centre of choice for data research.
+
+c) Contribution to the economy and society.
+
+Research at CSEE addresses key challenges faced by industry, as well as those concerning
+wider society, such as ageing and assisted living, food production and environmental protection
+but also military and security. In order to realise the potential of our research, staff actively engage
+with a range of users and beneficiaries, including: companies in the computer hardware, software
+and engineering sectors; computing and telecoms network providers and operators; IT based
+services; computer games; international standardisation bodies for emerging technologies; patient
+groups and healthcare providers (through NHS trusts and Provide); the MoD; and utilities
+companies and public authorities.
+
+Staff in CSEE typically adopt three distinct approaches to generate and increase non-
+academic impact from research (see also G5 in Section 1c):
+
+      Interactive engagement: by forming relationships with key individuals in relevant
+       companies and standardisation bodies, staff develop a continuing dialogue about specific
+       research needs. For instance, CSEE partnership with BT’s main technical hub has led to
+       research on intelligent and pervasive systems to guide workforce planning, to provide a
+       mobile search engine, and to optimise protocols for network demand, scheduling and
+       access (this resulted in two of our impact case studies). This approach is complemented by
+       wide-ranging consultancy and advisory opportunities.
+
+
+                                                                                                Page 19
+Unit-level environment template (REF5b)
+      Collaboration: most of the School’s externally-funded research is inherently collaborative,
+       and often involves industry and policy/standardisation bodies. Such collaborative
+       relationships form a natural starting point for impact creation. For example, the spin-out
+       UltraSoC (one of our impact case studies) arose from collaborative EPSRC research
+       projects with Delphi and Infineon Technologies. In addition, collaboration within the ESRC-
+       funded HRBDT led to another impact case study. Collaborations are also used to leverage
+       significant in-kind support from industrial partners, for example, McDonald-Maier has
+       secured approximately £10M+ in this way from organisations including Thales, Motorola
+       and Rolls Royce. KTPs are used extensively in collaborating with industry. In the REF
+       period, 25 KTPs (worth approximately £4M in funding) have been successfully completed
+       (resulting in two impact case studies).
+      Dissemination: research findings are actively shared with key user groups to inform them
+       of developments of topical and strategic significance. This typically takes place at industry-
+       facing conferences (covered by popular media). Social networks are used to disseminate
+       new developments rapidly. CSEE organises an annual joint workshop with industry, which
+       has a strong track record of leading to new collaborations, also enabling both research and
+       industry to gain an insight into the latest priorities and capabilities within the sector.
+
+As shown in Section 3a, our research portfolio has a healthy mix of fundamental and high-impact
+applied research, with important contributions to the economy and society. Quantifiable evidence
+for the scale of our research impact on the local and national economy can be shown on
+our submitted impact cases. Intellectual property created as part of our research has been
+extensively licenced and commercialised in spin-outs, such as key-less cybersecurity company
+Metrarc working with BT and the UK MoD in addition to UltraSoC, acquired by Siemens. Other
+evidence comes from KTP final reports submitted to Innovate UK. Considering all KTPs for which
+the majority of the grant duration falls in this REF period and where CSEE was the leading
+academic partner, our industrial partners reported a combined expected change of £24M in annual
+sales turnover in the three years following the end of the projects. Their testimonies illustrate the
+transformational impact of the joint work with CSEE academics: ‘We are already seeing indications
+that the business value has increased from a few million, to somewhere in the many tens of
+millions. That is exciting and attributable to the KTP programme we have undertaken’ (Peter Brady,
+CEO of Orbital Media Ltd); ‘The impact of the KTP has been transformational for Mondaq’s
+business. […] We have brought new skills and people into the business in the form of data
+scientists which have impacted the entire corporate culture’ (Andrew Partridge, co-founder of
+Mondaq Ltd).
+
+d) Contribution to the research base, evidence of peer esteem and research leadership.
+
+CSEE members made a substantial contribution to our discipline and others by editing key
+journals, chairing major conferences, delivering prestigious keynotes, organising the IADS summer
+school (attended by 700 participants over 4 years, of which about one third were PGR students,
+mostly external), serving in research councils’ boards and producing landmark publications for
+which they won best paper awards.
+
+Selected examples of leadership roles (which evidence the success of strategic goal G1) fulfilled
+by CSEE staff during the REF period include:
+
+Journal Editorial Board Memberships. 61 in total, including: IEEE Trans AI (Hagras), IEEE
+Access (Anisi, Li, Liu, Yang, L.Hu), IEEE Trans. Cybern. (Gan), IEEE Trans. Antennas Propag.
+(Mirshekar), IEEE Trans. Wireless Commun. (Musavian), IEEE Trans. Network Sci. Eng. (Yang),
+IEEE Trans. Fuzzy Syst. (Hagras, Doctor), Front. Neurorob. (Gu), Front. Neurosci. (Scherer,
+Halder), Brain Sci. (Cinel), Sci. Rep. (Scherer), Human Computation (Chamberlain), Evol. Comput.
+(Poli).
+
+
+
+
+                                                                                             Page 20
+Unit-level environment template (REF5b)
+Guest Editorships. 39 in total.
+
+Organisation of Conferences. 167 roles in total, including. General Chair: IEEE Int. Conf. on
+Automation and Computing 2016 (Gu), NASA / ESA Conf. on Adaptive Hardware Systems 2019
+(McDonald-Maier), Int. Conf. on Smart Grid and Innovative Frontiers in Telecommunications 2016
+(Yang), IEEE Int. Conf. for Emerging Security Technologies 2017 and 2019 (McDonald-Maier)
+Program Chair: IEEE Int. Conf. on Automation and Computing 2015 (Gu), IEEE Int. Conf. on Fuzzy
+systems 2017 and 2021 (Hagras), IEEE Int. Symp. on Computer-Based Medical Systems 2020
+(Garcia), IEEE Int. Conf. on Mechatronics and Automation 2014 and 2017 (H.Hu), IEEE Int. Conf.
+on Computer and. Information Technology 2018 (Thomos), IEEE Int. Conf. on Advanced Robotics
+and Mechatronics 2018 (Gu)
+
+Special session/symposium/workshop Chair (selected): IEEE ICC 2021 Wireless Communications
+Symposium (Musavian), MECOMM workshop at ACM SIGCOM 2017 and 2018 (Reed), RTDPCC
+workshop at IEEE HPCC 2018 (Zhai), Games4NLP workshop at LREC 2020 (Chamberlain), CIFEr
+symposium IEEE SSCI 2020 (Kampouridis).
+
+Keynote/Invited Talks. (selected) Int. Conf. on Life System Modeling and Simulation LSMS &
+ICSEE 2014 (H.Hu), World Conf. on Complex Systems WCCS 2015 (Fasli), Int. Conf. on Cloud
+Computing and Artificial Intelligence CloudTech 2015,2020 (Fasli), Int. Conf. on the Theory and
+Practice of Natural Computing TPNC 2018 (Hagras), Int. Conf. on Intelligent Computing in Data
+Sciences ICDS 2018 (Hagras), Int. Conf. on Applied Human Factors and Ergonomics AHFE 2019
+(Poli), Int. Conf. on Data Management, Analytics & Innovation ICDMAI 2020 (McDonald-Maier), Int.
+Conf. On Image Analysis and Recognition ICIAR 2020 (Hagras), SmartHort2019 Agriculture and
+Horticulture Development Board (Mohan),
+
+Best Paper Awards. 25 in total, including: PhyCS 2014 (Gan), ICALP 2016 (Richerby), BCS SGAI
+Int. Conf. on AI 2016, FUZZ-IEEE 2014 (Hagras), KSEM 2017 (Long), Advances in Robotics 2017
+(Chowdhury), ICT Express 2018 (Jarchi), UKRAS 2019 (Gu).
+
+Personal awards, fellowships, distinctions from major organisations. IEEE Fellowship for
+contributions to electromagnetic modeling in 2014 (Mirshekar), Institute of Acoustics (IOA) Peter
+Barnett Memorial Award in 2014 (Hawksford), IEEE Computational Intelligence Society
+Distinguished Lecturer 2016-2018 (Hagras), U.S. National Library of Medicine Honour Award in
+2017 (Garcia), IACAP’s 2017 Covey Award (Turner), Gold Medal of the Audio Engineering Society
+in 2017 (Hawksford), IEEE Communication Society's Outstanding Young Researcher Award for the
+EMEA Region 2019 (Jindal), IEEE Communication Society Distinguished Lecturer 2020 (Yang),
+Fellowships of the BCS (McDonald-Maier and Yang).
+
+Membership of learned societies. 36 of our academics are members of the IEEE (of which 12
+Senior Members, 2 Fellows: Hagras and Mirshekar and 1 Life Fellow: Ghanbari); 11 of the IET (of
+which 8 Fellows: Adams, Hagras, Hawksford, Henning, H.Hu, McDonald-Maier, Vickers, Yang); 3
+of the ACM; 3 of the Brain-Computer Interface Society; 3 of the BCS (of which 2 Fellows:
+McDonald-Maier and Yang); 2 of the IOP (both Fellows: Henning, Zakhleniuk); and 1 of the IMA
+(Fellow: O’Hara).
+
+Membership of international standards committees and working groups: Andreu-Perez is
+Chair of the IEEE CIS Task Force on the Extension of Type-1 Fuzzy Sets (Since 2018) and Chair
+of the IEEE CIS Task Force on Uncertainty and Fuzzy Modelling for Brain Analysis and Interfaces
+(Since 2018); Kampouridis is Chair of the IEEE CIS Technical Committee on Computational
+Finance and Economics (since 2020), Musavian is co-founder and co-Chair of IEEE UK and
+Ireland Future Networks Local group. Poli is a member of the Task Force on Hyper-heuristics
+within the IEEE CIS's Technical Committee of Intelligent Systems and Applications and of the IEEE
+CIS Task Force on Evolutionary Computer Vision and Image Processing.
+
+
+
+
+                                                                                        Page 21
+Unit-level environment template (REF5b)
+Membership of Research Councils and Funding Boards: CSEE members have served in UK
+research funding bodies (including EPSRC, MRC, ESRC, NERC, UKIERI, Leverhulme Trust, the
+Royal Society) and served as chairs and members in Prioritisation Panels for the EPSRC (Clark,
+Musavian, Yang) and for the Royal Society (Cordero de Amorim). They have also served as
+reviewers for the European Research Council (McDonald-Maier, Mohan, Yang) and for national
+research councils from 22 countries, including DFG, DAAD, MIUR, NSF, NWO, IRCLA, SNSF,
+among others.
+
+
+
+
+                                                                                        Page 22
+

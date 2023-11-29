@@ -1,0 +1,799 @@
+Unit-level environment template (REF5b)
+ Institution: University of Hertfordshire
+
+ Unit of Assessment: 11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Computer Science research at the University of Hertfordshire is carried out within the Centre for
+ Computer Science and Informatics Research (CCSIR), which provides purpose-built research
+ laboratories and accommodation for the current 12 research fellows and 58 research students.
+ The CCSIR comprises three main research groups: Adaptive Systems, Algorithms and
+ Biocomputation. It has a substantial degree of funding and financial autonomy as QR research
+ income is, after modest top-slicing by the University, distributed across UOAs, against approved
+ research delivery plans and according to their REF 2014 outcome.
+
+ In addition to being affiliated with CCSIR, academic staff in Computer Science are based in the
+ newly founded School of Physics, Engineering and Computer Science (SPECS), with the aim to
+ encourage increased collaborations between these three disciplines. The Unit submission for
+ REF 2021 is 31.2 FTE, which constitutes a 14% increase in size compared to REF 2014 (27.4
+ FTE).
+
+ Notable improvements and successes for the Unit within the period in comparison with REF
+ 2014 are:
+    • The experiential balance of staff with 33% Professors and Readers, 43% lecturer staff
+        and 24% early career researchers.
+    • Doubling of the percentage of BAME staff to 44%.
+    • Research culture ranked as 3rd among 32 HEIs submitting in Computer Science in the
+        2019 Postgraduate Research Experience Survey with satisfaction levels of 92% for
+        research skills and 88% for supervision.
+    • Secured an EPSRC infrastructure grant in 2017 for upgrade to the Robot House 2.0 and
+        to operate it as a national specialist facility.
+    • Unit member elected as President of the international Organisation of Computational
+        Neurosciences from 2019-22 (Steuber).
+
+ Strategy
+ The four strategic aims identified in the REF 2014 submission have been pursued during this
+ cycle.
+
+ Strengthen areas of excellence. The main research concentrations remain Adaptive Systems
+ (including health robotics, human-robot interaction, information theory driven artificial
+ intelligence, artificial life) and Biocomputation (including computational neuroscience, machine
+ learning and algebraic biology), with Adaptive Systems providing significant research impact and
+ Biocomputation, in particular, producing research outputs in major journals. The Unit’s strategy
+ in the current REF cycle has involved reinforcing these two areas by making targeted staff
+ appointments and by securing external funding to stimulate further growth. Since 2014 two
+ lecturers and two senior lecturers in robotics (Koay, Wood, together with Foerster and Walters,
+ previously employed as research fellows), a principal lecturer in artificial intelligence (Kim,
+ previously senior bioinformatician at Kew Royal Botanic Gardens London), a senior lecturer in
+ neuromorphic computing / data science (Schmuker, from the University of Sussex) and a senior
+ lecturer in machine learning / computational neuroscience (Kadir, from Imperial College) have
+ been appointed. These staff members have already contributed more than 30 articles in journals
+ such as Nature Neuroscience, PNAS, elife, Scientific Reports, Neural Computation, IEEE
+ Transactions on Human-Machine Systems, etc., and they have been involved in successful
+ funding bids such as an EPSRC Robot House grant, the EU Flagship Human Brain Project and
+ MRC/NSF NeuroNex grants, thereby additionally strengthening research in the Unit’s priority
+ areas.
+
+
+
+                                                                                            Page 1
+Unit-level environment template (REF5b)
+ Expand interdisciplinary research. A growing collaboration between the Biocomputation
+ Research Group and the Centre for Astrophysics Research at the University has culminated in
+ the creation of the University-approved interdisciplinary Centre of Data Innovation Research
+ (CoDIR) that currently comprises six lead members: Steuber, Schmuker and Kadir from
+ Computer Science and Geach, Jones and Kaviraj from Astrophysics. The creation of CoDIR as
+ a research centre that combines expertise from biocomputation and astrophysics has been
+ inspired by the insight that many difficult problems in both fields can be tackled by the same
+ techniques of data analysis and machine learning. CoDIR intends to not only pioneer innovative
+ data science techniques – in particular, by exploiting expertise in machine learning and
+ computational neuroscience – to advance the field of survey astronomy, but also to develop a
+ strategy to translate these techniques to other disparate areas, with a particular focus on
+ medicine, neuroscience, defence and agritech. Data science, machine learning and
+ biocomputation are some of the main areas for the future expansion of interdisciplinary research,
+ both in terms of finding new application domains in collaboration with partners in industry and in
+ terms of developing and improving new techniques such as topological data analysis for
+ biological data (Kadir).
+
+ Several other new interdisciplinary initiatives have been facilitated by securing external funding,
+ such as a NeuroNex grant from the American NSF and the MRC (Schmuker), and through
+ internal investment from the University. For example, the University has created three 5-year
+ Vice Chancellor’s Research Fellow (VCRF) positions in Information-theoretic Artificial
+ Intelligence; Biocomputation, Mental Health and Wellbeing; and Neuromorphic Machine
+ Learning; together with three Early Career Research Fellow (ECRF) positions in Healthcare
+ Robotics; Systems Biology for Food and Disease; and Predicting the Impact of Airborne
+ Particles on Crops, to work on collaborative interdisciplinary research projects with other
+ universities (e.g. Department of Life Sciences, Kings College London) or other Schools in the
+ University.
+
+ Increase extra-academic impact. As described in the subsection on the Unit’s Impact Strategy
+ below, engagement with research users outside academia has been strengthened. The
+ industrial exploitation of the Unit’s research through new Knowledge Transfer Partnership (KTP)
+ projects and by bringing the Kaspar robot for children with autism spectrum disorder to the North
+ American and Japanese markets, supported by a recent license agreement with the Canadian
+ company Compusult, has been increased. Further public impact has been stimulated by work
+ with the NHS, and with hospitals and also schools in eight different countries, and through a
+ large number of exhibitions and art works by the Unit’s Artists in Residence Anna Dumitriu and
+ Alex May (see below).
+
+ Raise international profile through collaboration and leadership. In addition to further
+ developing international collaborations (see Section 4), Unit staff have continued to raise the
+ international profile of the Unit by taking on academic leadership roles. These have included
+ elected positions as President of the RoboCup Federation (Polani) and as President of the
+ international Organisation for Computational Neuroscience (Steuber), a Membership of the ACM
+ Distinguished Speakers Program (Dautenhahn) and Chair of IEEE/CIS Taskforce on Artificial
+ Life and Complex Adaptive Systems (Nehaniv).
+
+ Interdisciplinary Research
+ Much of the research in CCSIR is interdisciplinary and involves collaborations with partners
+ within and outside the University. Following REF 2014, research in the University of
+ Hertfordshire has been centrally restructured around six main Research Themes: (1) Information
+ and Security; (2) Health and Wellbeing; (3) Food; (4) Space; (5) Global Economy and (6)
+ Heritage, Cultures and Communities. These University-wide, global challenge focused Themes
+ were created in order to foster interdisciplinary research across different research centres and
+ UOAs. Each of the themes is led by a Theme Champion who interacts with the other Theme
+ Champions and Associate Deans (Research) to stimulate new collaborative initiatives with
+ partners within and outside the University, such as the joint projects between Computer Science
+ and the School of Life and Medical Sciences with Lister Hospital and Princess Alexandra
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ Hospital on robotic surgery, data science and gerontology. Computer Science research is
+ particularly associated with the Information and Security Research Theme which organises both
+ internal and external facing networking events to stimulate interdisciplinary research
+ partnerships.
+
+ Interdisciplinary collaborations are also facilitated by providing travel funding. Staff are
+ additionally encouraged to apply for external funding for interdisciplinary projects with
+ international partners. External visitors, such as Professor Jim Bower who has played an
+ important role in establishing Computational Neuroscience as a discipline and who is a Visiting
+ Professor and regular visitor in the Biocomputation Research Group, are welcomed on a regular
+ basis to the Unit for extended visits. More detail of interdisciplinary research collaborations with
+ partners outside the University is given in Section 4.
+
+ The CCSIR, which hosts all postgraduate research students and postdoctoral research fellows in
+ computer science, is located in direct vicinity to other research centres in physics, mathematics
+ and astronomy, and also engineering, with joint discussion rooms and kitchen facilities. It is not a
+ coincidence that a productive collaboration between computer science and astronomy has
+ developed (around the application of machine learning to the classification of galaxies), with a
+ publication in Monthly Notices of the Royal Astronomical Society and media exposure on BBC
+ Radio 4.
+
+ An important interdisciplinary initiative between Computer Science and Astronomy is the Centre
+ of Data Innovation Research (CoDIR) (see Expand interdisciplinary research above), which
+ has led a successful development of an internally funded new £300k Data Science and
+ Visualisation Lab to be utilised by a range of staff from computer science and astronomy as well
+ as creative arts, life and medical sciences and engineering. The three new VCRFs and three
+ new ECRFs noted above have been appointed to conduct interdisciplinary research in various
+ collaborative areas.
+
+ Impact Strategy
+ Industry engagement and commercialisation of research. Engagement with research users
+ outside academia is a central part of the Unit’s impact strategy. Staff work together with the
+ Information and Security Research Theme Champion and the University Enterprise and
+ Business Development Innovation Team to establish externally funded KTPs with industry; this
+ involves the establishment of contacts between companies and academics and the organisation
+ of workshops for representatives from industry that are interested in specific areas such as
+ machine learning. Recent KTPs with Manor Pharmacy Group, Heales, Intelligent Voice and
+ Advanced Collection Systems involve the application of machine learning to applications ranging
+ from voice recognition to occupational health and pharmacology (led by Helian, Sun and
+ Veneziano), and a KTP with Glinwell explores the application of robotics to agriculture
+ (Amirabdollahian and Koay). In addition, when research impact requiring further development
+ and evidencing was identified, successful applications were made to the central impact grant
+ fund held by the University Research Office for annual grants in the range £4k to £8k to take
+ forward the associated impact plans.
+
+ Further engagement with industry resulted from EU and UK grants, including partners from
+ industry in networks, and by commercially exploiting deliverables that result from funded
+ projects. For example, to meet the objective of making the Kaspar robot that provides therapy for
+ children with autism more widely available, a licensing agreement has been signed with the
+ Canadian company, Compusult, to bring Kaspar to market in North America and Asia (as
+ described in the case study Kaspar the social robot: supporting children with autism and
+ increasing public acceptance of robot-assisted therapy). Research in the Adaptive Systems
+ Research Group has also informed the development of novel AI algorithms by companies such
+ as Google DeepMind and inspired an international competition to create content for the popular
+ game Minecraft which forms part of the second Impact Case Study, Designing socially intelligent
+ adaptive systems to inform commercial AI development and engage the public in debates over
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ human-robot interaction. Tools resulting from research on automated differentiation have
+ benefitted the oil and gas sector (utility companies such as EDF) and Formula 1 (for optimising
+ aerodynamics), and also have been used in the World Solar Car challenge
+ (https://www.sonnenwagen.org/en/). The impacts are described in the third Impact Case Study,
+ Automatic Differentiation: faster, more accurate modelling to strengthen risk management in
+ financial services and optimise engineering performance.
+
+ Impact on healthcare and public wellbeing. The Adaptive Systems Research Group has a
+ substantial track record in human-robot interaction and healthcare robotics research, and one of
+ the Unit’s strategic priorities is to exploit this research to generate impact on public health and
+ well-being. As described in the impact case study, the Kaspar robot has been used in schools
+ and specialist centres in eight countries and in an NHS Trust, with clear benefits for children with
+ autism spectrum disorder (ASD). Kaspar’s effectiveness has also been shown in clinical
+ settings, including a hospital in Macedonia, and in the first feasibility study of the robot in the UK
+ NHS to treat children with ASD funded by a £250k grant from the NIHR. Staff continue to work
+ with the NHS and other partners in healthcare including Nuffield Health, Lister Hospital and
+ Princess Alexandra Hospital to document medical applications of the health care robots in real
+ world environments; joint projects with hospitals span areas such as robotic surgery (Lister),
+ data science and gerontology (Princess Alexandra). The Unit has also contributed to the
+ development of standards in the field of healthcare robotics such as BS EN ISO 13482:2014, the
+ first robot safety requirements for personal care robots, and BS 8611:2016 on the ethical design
+ and application of robotic systems (Amirabdollahian).
+
+ Public engagement and outreach. Another aspect of the impact strategy is increasing the
+ visibility of the Unit’s research through continued media exposure, and a particular focus is
+ provided by the activities of artists in residence ( Dumitriu and May) who generate cultural
+ impact through robotics and biocomputation art works and exhibitions such as Intelligent
+ Machinery at the Ugly Duck Gallery in London (2019). Other exhibitions include Robots at the
+ London Science Museum, which attracted more than 180,000 visitors in 2017 and received
+ extensive media coverage; for example, on BBC Radio 4 and in The Financial Times, The
+ Guardian and The Telegraph; and exhibitions at the Science and Industry Museum in
+ Manchester, the Life Science Centre in Newcastle, National Museums Scotland, the National
+ Museum of Science and Technology in Stockholm and Hong Kong Science Museum.
+
+ Strategic appointments and internal funding. The generation of impact is further supported
+ by staff appointments (such as Koay, Wood, Foerster, Walters) in research areas such as
+ healthcare robotics (including an internally funded Early Career Research Fellowship together
+ with the School of Life and Medical Sciences) and the investment in facilities and equipment
+ such as the Robot House, RoboCup and medical robots, EEG systems together with the cyber
+ security laboratories and equipment (approximately £400k of internal funding support since
+ 2014).
+
+ Open Research Environment and Integrity
+ An important aspect of the Unit’s interdisciplinary research is the sharing of research data and
+ tools. The Adaptive Systems and Biocomputation Research Groups make their software publicly
+ available by uploading it onto dedicated GitHub sites. Open access to data such as EMG data
+ (as part of recent publications in Journal of Neuroengineering and Rehabilitation and PLOS One)
+ is provided, and all the Unit’s computational models of neural systems on publicly accessible
+ databases such as ModelDB (curated at Yale University) are shared. The Unit is also a long-
+ standing contributor to the Open Source Brain (OSB) Initiative, which is coordinated by
+ collaborators at UCL and which provides access to a rapidly growing number of computational
+ models before publication. To facilitate the sharing and re-use of computational models, an
+ increasing number of the computational models are translated to (or developed in) the simulator
+ independent model representation language NeuroML and staff regularly attend meetings and
+ workshops on model sharing and collaborative model development. A computational model of a
+ cerebellar nucleus neuron that has been developed by the Biocomputation Research Group is
+ the first ever model that is available in NeuroML as well as the two specialist simulators
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ GENESIS and NEURON, which has led to its use by many laboratories in Europe, Japan and
+ the USA.
+
+ The Unit is fully committed to the University’s policy to make all research outputs at least Green
+ Open Access, by providing access to outputs through the University Research Archive. An
+ increasing number of outputs are published as Gold Open Access; staff are regular users of the
+ University’s Article Processing Fund that provides resources for Gold OA, and the Unit provides
+ additional support for open access publishing from Unit QR funding. The University’s Ethics
+ Committee and Intellectual Property and Contract Support team ensure that research follows
+ ethical and legal obligations and standards. The University is a signatory to the Concordat on
+ Research Integrity and there is centrally provided mandatory training on research integrity for all
+ researchers including workshops and an annual seminar in addition to bespoke training on the
+ Doctoral College’s Researcher Development Programme in which both staff and research
+ students engage.
+
+ Future Strategy
+ The Unit’s future strategy is:
+    • to focus on Adaptive Systems and Biocomputation as areas for major investment to
+        strengthen research through further strategic appointments of key staff to contribute to
+        both income generation and research impact, including impact on public health and well-
+        being;
+    • to build on existing strengths in Biocomputation and Adaptive Systems by combining
+        expertise in both areas. For example, combining computational neuroscience and
+        rehabilitation robotics in a project that involves the development of cerebellar models for
+        stroke rehabilitation (in collaboration with Stroke Association and partners at the
+        University of Southampton). This is a timely and important project as the current
+        pandemic increases the risk of stroke whilst at the same time access to stroke
+        rehabilitation in hospitals is more limited due to fears of acquiring COVID-19;
+    • to fully exploit the new innovation partnership with TWI Hellas to make collaborative
+        research grant applications in partnership with the TWI membership companies with a
+        particular focus on the future Horizon Europe calls to build both research income and
+        further increase economic and social impact (see Income, Section 3);
+    • to additionally raise the international profile of the Unit by strengthening existing, and
+        developing new, targeted, international collaborations, such as the recent dual award
+        PhD programme with Western Sydney University that currently funds four PhD students
+        on collaborative projects in robotics and neuromorphic computing;
+    • to further expand and develop interdisciplinary research utilising the University level
+        Research Theme activities and to develop new collaborations with partners from outside
+        computer science;
+    • to grow and deepen research in the Centre of Data Innovation Research (CoDIR),
+        seeking out new collaborations with partners in industry that involve the application of
+        machine learning and data science to a variety of real-world problems;
+    • to contribute to a new interdisciplinary Centre for Future Societies Research (CFSR)
+        brought together by the Information and Security Research Theme Champion who is
+        located in the Unit (Amirabdollahian) that combines expertise from computer science with
+        engineering, physics, psychology, law, art and digital media and others to better
+        understand the nature of different societies in the future;
+    • to take forward the research effort to understand aspects of COVID-19; for example, the
+        Unit has recently joined the Royal Society’s Rapid Assistance in Modelling the Pandemic
+        (RAMP) Initiative and the Global Consortium of Chemosensory Researchers (GCCR)
+        that aims to understand the link between COVID-19 and loss of smell.
+
+
+
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+ 2. People
+
+ The UOA consists of 33 staff (31.2 FTE): seven professors, four readers, 16 lecturers, senior
+ lecturers and principal lecturers together with six research fellows. Eight staff (24%) are Early
+ Career Researchers (ECRs) and the Unit FTE has increased by 14% since REF 2014. The
+ Unit’s strategy is to further strengthen areas of existing excellence by appointing talented staff,
+ typically at early or mid-career level, with a proven ability to publish high-quality research outputs
+ and secure research funding. The expectation is that these new staff members will eventually
+ become Readers/Associate Professors and Professors and as a result they have limited
+ teaching commitments in order to help them build their research career.
+
+ As well as recruiting new academic staff with leadership potential, postdoctoral research fellows
+ from leading institutions across the world are also recruited. The Unit currently hosts twelve
+ postdoctoral research fellows. Typically, these are supported by external funding, however, as
+ part of the strategy to expand interdisciplinary research (see Section 1) six internally funded
+ Research Fellows (ECRFs and VCRFs) were appointed to strengthen and sustain key research
+ into the future. These, together with the lecturer posts also contributed to a balanced staffing
+ profile, focused towards the sustainability of the Unit. Although the internally funded Research
+ Fellowships are 5-year appointments, the expectation is that they will all move into academic
+ posts within the Unit at the end of this period.
+
+ Staff Development
+ Each new staff member is assigned a senior member of academic staff as a mentor, who
+ provides guidance in terms of publication strategies and funding applications. New staff are also
+ engaged with internally funded PhD students and encouraged to join Research Groups and
+ develop collaborations in order to build up a critical mass. All research fellows and academic
+ staff undergo an annual appraisal and a review of their publication and grant application
+ strategies in order to further enhance their research careers. In addition, they are encouraged to
+ make use of the centrally provided Researcher Development Programme (RDP) and the
+ Doctoral College research student supervisor and examiner training. The RDP includes courses
+ in specialist research skills as well as career development, personal effectiveness, leadership
+ and management. The Unit also provides direct support to both research fellows and staff with
+ significant responsibility for research (as well as PhD students) to attend leading international
+ conferences and workshops using a dedicated £50k budget.
+
+ The School of Physics, Engineering and Computer Science provides an excellent support
+ structure for internal promotion facilitated by the University which has an annual academic
+ promotions round. Applications for promotion are prompted as part of the annual appraisal
+ process, and the promotion procedure is explained in regular workshops that are offered
+ centrally by the University. The success of the recruitment and promotions strategy is reflected
+ by four Professorships that have recently been awarded to Polani, Amirabdollahian (both in
+ Adaptive Systems), Schmuker and Steuber (both in Biocomputation) who were all originally
+ appointed as Senior Lecturers and subsequently promoted to Readerships.
+
+ Research Students
+ The 2019 Postgraduate Research Experience Survey (PRES) ranked the University 4th out of
+ 103 universities participating for research culture,15th for supervision and 21st out of 103 for
+ overall student satisfaction. The survey had a 42% participation with over 50,000 respondents
+ nationally, while 62% responded at the University of Hertfordshire, which was positioned in the
+ top quartile for seven out of the eight areas, the other being in the second quartile. At Unit level,
+ research culture was ranked 3rd from 32 computer science submissions and 88% of the
+ postgraduate research students indicated that their supervisors provided helpful feedback and
+ had the required skills and knowledge to support their research, with 92% responding positively
+ that their skills in applying research methodologies and analysing and evaluating results had
+ developed during their programme of studies.
+
+
+
+                                                                                                 Page 6
+Unit-level environment template (REF5b)
+ The CCSIR is currently home to 58 postgraduate research students. There is a yearly intake of
+ between 10 and15 students, composed of a mix of both externally funded and self-funded
+ students together with an average of 5 students per year who receive internal university
+ studentships typically supported by QR funding. Given the interdisciplinary character of much of
+ the research in the Unit, the students come from a range of disciplines, including (apart from
+ computer science) mathematics, physics, biology, engineering and medicine. Successful
+ applicants typically have the equivalent of a UK MSc degree with distinction. They are supported
+ by a team of at least two (often three) supervisors having at least two previous successful
+ doctoral supervisions between them.
+
+ The progress of the students, and their well-being, is monitored carefully throughout the duration
+ of their doctoral programme. Students have the opportunity to receive detailed feedback from an
+ external assessor during two formal progress assessments at 8 and 18 months (36 months for
+ part time students) after enrolment. These assessments involve the submission of a written
+ report about current progress and planned future work, followed by a viva voce examination,
+ which decides the progression of the students onto the next phase of the PhD programme. The
+ progress and satisfaction of the PhD students are evaluated annually through monitoring
+ feedback and by a dedicated Research Student Tutor. To support monitoring and progression
+ the University has invested in a Research Student Monitoring System (RSMS), an online
+ platform that facilitates the record keeping and interaction between students, supervisors and
+ the University’s Doctoral College. Detailed records of all supervision meetings and progression
+ assessments are entered on a regular basis by students and their supervisors into RSMS and
+ are accessible throughout the course of the doctoral study, enabling feedback between students,
+ supervisors and the Doctoral College and providing a robust mechanism to record the students’
+ meetings with supervisors, progress and achievements.
+
+ Research students can attend courses as part of the central Researcher Development
+ Programme (RDP) provided by the Doctoral College, which includes training on subjects such as
+ technical writing, statistics and other research methodologies and processes. In addition, they
+ are encouraged to increase their subject knowledge by attending specialist computer science
+ modules at MSc level.
+
+ Another important aspect of the education for the Unit’s doctoral students is their interaction with
+ leading international experts in their area of research; this is enabled by providing funding for
+ each student to attend several internationally leading conferences (and, when appropriate,
+ specialist international training courses and summer schools such as the EU, Latin American
+ and Okinawa Courses in Computational Neuroscience or the Capo Caccia Workshop towards
+ Neuromorphic Intelligence). The careful selection, training, supervision and positive
+ development of students in the Unit is reflected in their destinations when they leave the
+ University; PhD graduates hold positions at prominent universities, research institutes and
+ companies such as the University of California Los Angeles, the Okinawa Institute of Science
+ and Technology, Microsoft Research and Google.
+
+ Equality and Diversity
+ The School of Physics, Engineering and Computer Science fully supports the University’s
+ commitment to all equality and diversity principles. The School successfully obtained the Athena
+ SWAN Bronze award in 2019, is working towards Silver, and maintains an Equality and Diversity
+ (EDIT) working group with diverse members representing academic, professional and research
+ staff and research students. All staff receive mandatory equality and diversity training as part of
+ their general induction, including special training to recognise unconscious bias. The School
+ supports flexible working hours and has since 2014 provided the opportunity for staff to work
+ online from home, when appropriate.
+
+ The commitment to equality and diversity is reflected by the success of women at all levels, with
+ 31% of the computer science PhD students, 40% of the lecturers or senior/principal lecturers
+ and 50% of the Readers being women. Until very recently two of the professors were women;
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ however, one has recently retired and the other has taken up a post to lead a new AI research
+ centre at Waterloo University in Canada. It is planned that both posts will be replaced.
+
+ The Unit now has 13.8 FTE or 44% BAME staff compared with 22% in REF 2014. The University
+ is one of only 17 institutions nationally that holds the Race Equality Charter Mark bronze award
+ which it obtained in 2015.
+
+
+ 3. Income, infrastructure and facilities
+
+ Income
+ External income for research totalling £8.3M has been obtained by members of the Unit since
+ January 2014. In this period, externally funded research projects have included the Horizon
+ 2020 consortia socSMCs, WiMUST, InTERCoGAM, SECURE, BabyRobot, and more recently
+ projects supported by a variety of British, European and American funding agencies such as
+ Trustworthy Robot Assistants (EPSRC), HRI-BioPsy (US Air Force Office for Scientific
+ Research), a project on neuromorphic engineering (funded by the EU Flagship Human Brain
+ Project), EvoSN (funded by the Polish National Science Centre), a project on odour identification
+ in the mammalian olfactory system (funded by the German Research Organisation DFG) and a
+ NeuroNex award (funded by the MRC and the NSF, USA). Further details regarding these
+ research collaborations are given in Section 4. Other sources of income have included £240k of
+ targeted donations to support the Kaspar robot research project for children with autism from
+ charities and donors such as the Stavros Niarchos Foundation and the John Apthorp Charity.
+
+ As indicated in Section 1 under Future Strategy c) the Unit has successfully secured a significant
+ number of substantial EU collaborative grants in Horizon 2020 but these have reduced in
+ number over the last four years as a consequence of the Brexit vote with the growing reluctance
+ of EU partners to consider UK involvement. In order to improve opportunities to engage with the
+ EU in future programmes such as Horizon Europe in August 2020 the University established a
+ formal innovation partnership with TWI Hellas, a wholly owned subsidiary of TWI which has its
+ headquarters in Cambridge. The partnership agreement, that is for 5G Communications,
+ Engineering and Computer Science including all the areas of research in this Unit, facilitates
+ access to over 600 companies who are members of the TWI industrial network to partner in UK
+ and, in particular, EU collaborative funding applications coordinated through TWI Hellas, based
+ in Athens. Two collaborative funding applications to final calls within Horizon 2020 have already
+ been made and it is intended that this partnership will support many further collaborative grant
+ applications with EU partners in the forthcoming REF cycle.
+
+ Infrastructure and Facilities
+ Research in Computer Science is well supported by the University, including technical and
+ administrative support, business and development together with intellectual property support.
+ Individual academic staff and research fellows can apply for small internal grants (up to £10k per
+ person) to develop new interdisciplinary collaborations, explore new ideas and increase the
+ economic and social impact of their research. An annual Capital Expenditure (CAPEX) round
+ has resulted in the creation of several outstanding facilities; these include:
+
+ HPC Facility. The University has invested £1800k into a new high-performance computing
+ facility with 2048 cores, several GPUs and five high-memory SMTP machines with 32-48 cores
+ each. The HPC facility is overseen by a management group comprising senior academic staff
+ from computer science, physics and engineering.
+
+ Robot House (https://robothouse.herts.ac.uk/). In 2017, the Unit was awarded an EPSRC
+ infrastructure grant (£577k) to upgrade the Robot House (to Robot House 2.0) and designate it a
+ national specialist facility. The Robot House is a residential home that has been purchased by
+ the University and hosts several robots such as a Care-o-bot, a Pepper Robot, a Turtlebot 2 and
+ the telepresence Giraff robot, which are designed to care for people in their homes. It is
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ managed by a designated Research Coordinator (Holthaus) and a Scientific Manager (Koay)
+ and supported by an annual maintenance grant from the University (currently £20k per annum).
+ Over the last three years a substantial renovation and upgrade was conducted including the
+ installation of a super-fast optical fibre line, which facilitates the involvement of the Robot House
+ in projects such as Digital Twin. This development, which is part of a joint funding application
+ with the online grocer Ocado under the theme of Herts Living Lab, proposes a living lab that
+ supports the delivery of goods from the supplier to the distribution and placement in the Robot
+ House.
+
+ In 2020, the Robot House was associated with a successful EPSRC grant application entitled
+ ‘Adaptable manipulation skills for unstructured environment’ led by the University of Surrey
+ (Guerin) where the team (Amirabdollahian, Holthaus) received £390k. Also, a further EPSRC
+ Network+ application entitled, ‘Emergence, tracking fragility, facilitating emergence of healthcare
+ robotics from labs into service with Heriot Watt and Sheffield Hallam Universities’ has moved
+ past the outline stage. Other submitted partnered applications include two UKRI Trustworthy
+ Autonomous Systems (TAS) pump priming project applications including the Universities of
+ Southampton, Nottingham and Heriot Watt. These applications support the requirement of the
+ recently completed EPSRC infrastructure grant, that the Robot House be made available to
+ other universities and partners in industry. It has also been used by visitors from the University
+ of Oslo, which has resulted in joint publications in the 14th ACM/IEEE International Conference
+ on Human-Robot Interaction and the International Conference on Robot and Human Interactive
+ Communication (RO-MAN 2019), has inspired a joint grant application with the Japan Advanced
+ Institute of Technology (JAIST) in order to build similar facilities in Japan, and has been put
+ forward in the Horizon 2020 Gatekeeper programme to be adopted as a pilot infrastructure.
+ Finally, it featured on the ITV Tonight programme “Can Robots Save the NHS?” on 27 August
+ 2020, which explored the value of robots as care and assistive tools.
+
+ Robotics and Biocomputation Laboratories and Facilities for Research Students and
+ Fellows in the Centre for Computer Science and Informatics Research. All the 58 Computer
+ Science PhD students and 12 postdoctoral research fellows have their own desks and
+ computers in the Centre for Computer Science and Informatics Research (CCSIR), a dedicated
+ building that also hosts human-robot interaction and rehabilitation robotics laboratories. In
+ addition, the RoboCup laboratory, which is situated outside the CCSIR providing access to
+ undergraduate students, contains a robot football arena with Darwin robots, a workshop with 3D
+ printers and dedicated hardware. Achievements of the RoboCup football team include a second
+ place at the World Championships in Brazil (2014), a first place in the Iran Open (2016) and a
+ place in the quarter finals at the World Championships in Japan (2017). The activities of the
+ RoboCup football team, which form an element in the Adaptive Systems case study (see section
+ 1), have generated research impact by stimulating public engagement, for example through
+ exhibitions at the London Science Museum and Barbican Centre. The PhD students and
+ postdoctoral research fellows of the Biocomputation Research Group are housed in the
+ dedicated and well-equipped Royal Society Wolfson Foundation Biocomputation Laboratory,
+ having their own multi-processor machines for high performance simulations (in addition to
+ access to the HPC facility).
+
+ Cyber Security Laboratory. The Cyber Security Centre (CSC, founded in 2016) has a
+ dedicated laboratory containing the latest digital forensic toolkits (EnCase, FTK, DFF) and a 64-
+ processor server with 400GB primary memory and 140TB secondary memory to run virtualised
+ infrastructures and create customised testbeds in a dynamic manner. The CSC also has
+ specialised equipment for undertaking research in cyber-surveillance, threat intelligence
+ collection, primary and secondary memory analysis, data recovery, big-data analytics,
+ vulnerability identification and exploit development that includes a GPU server for cryptographic
+ research and a PC3000 kit for recovering data (funded by £350k of internal CAPEX grants from
+ the University). The CSC has performed four penetration tests with companies such as
+ Bulletproof and the Camelot Group and has been awarded the Innovate UK project ‘Threat
+ Assessment Model for Information Environments’ (TAME) together with the company, Secure
+ Technologies.
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Research Collaborations and User Partnerships
+ Research collaborations are strongly supported by the University Research Theme in
+ Information and Security and the CCSIR and CoDIR research centres. Over 60% of research in
+ the Unit involves collaborations with national and international partners in academia and
+ industry. Members of the Adaptive Systems Research Group and the Biocomputation Research
+ Group are involved in a large number of innovative interdisciplinary research collaborations and
+ continue to apply for new ones. Collaborative research projects in Adaptive Systems include:
+
+ •      SECURE: a collaboration with the University of Hamburg, the University of Plymouth,
+ Fondazione Istituto Italiane di Tecnologia (IIT), Fraunhofer Institut, Telerobot Labs KUKA
+ Roboter GmbH, Honda Research Institute Europe, Ecole Polytechnique Federale Lausanne,
+ Aldebaran Robotics, Cyberbotics that investigates robotic safety in uncertain environments (Unit
+ partners are Dautenhahn and Koay).
+
+ •        BabyRobot: a Horizon 2020 project that studies child-robot communication and
+ collaboration in typically developing and autistic spectrum children, in collaboration with the
+ Institute of Communication and Computer Systems Athens, Athena Research and Innovation
+ Center (Greece), University of Bielefeld (Germany), KTH Royal Institute of Technology
+ (Sweden), Blue Ocean Robotics (Denmark), Furhat Robotics (Sweden) and the University of
+ Lille (France) ( Unit partners Dautenhahn, Robins and Koay).
+
+ •       HRI-BioPsy: funded by the US Air Force Office of Scientific Research (AFSOR), this
+ project aims to bring together psychological (top-down) and biological (bottom-up) approaches
+ for enhancing human-robot interaction (Unit partners Dautenhahn and Nehaniv).
+
+ •      A joint EPSRC project with the University of Liverpool and the University of Bristol that
+ studies Trustworthy Robot Assistants (Unit partners Dautenhahn and Amirabdollahian).
+
+ •      socSMCs: a Horizon 2020 project that intends to develop measures for various levels of
+ multi-agent entrainment (together with KTH Royal Institute of Technology in Sweden, the
+ Universities of Osnabrück and Hannover and White Matter Labs in Germany, and University
+ Pompeu Fabre Barcelona and PAL Robotics in Spain, Unit partner is Polani).
+
+ •     WiMUST: a Horizon 2020 project that involves a collaboration with partners in Italy
+ (UNIGE-ISME, Graal Tech), Portugal (IST-ID, Geosurveys), Germany (Evologics), France
+ (CGG) and the Netherlands (Geomarine Survey) in order to study strategies for swarms of
+ autonomous underwater surveillance vehicles ( Unit partner Polani).
+
+ •      InTERCoGam: sponsored by an individual Horizon 2020 fellowship to Salge, this project
+ includes a research visit to New York University to investigate the use of information theory for
+ the evaluation of content generation in computer games.
+
+ •      A collaboration with BMW on multi-agent reinforcement learning (Unit partner Salge).
+
+ Members of the Biocomputation Group are also involved in many interdisciplinary projects with
+ partners around the world, for example:
+
+ •        NeuroNex From Odor to Action: Discovering Principles of Olfactory-Guided Natural
+ Behaviour: a collaborative project with UC Boulder, Caltech, Yale, Salk Institute, Scripps
+ Institute, Penn State University, Weill Cornell University, Duke University, NYU School of
+ Medicine, University of Pittsburgh, University of Utah, Arizona State University, Lehigh University
+ (all USA), McGill University (Canada) and the Francis Crick Institute (UK) that aims to
+ investigate how nervous systems sense and process olfactory stimuli (funded by the US NSF
+ and the MRC, Unit partner Schmuker).
+
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+ •       EvoSN: a joint project with Adam Mickiewics University (Poznan, Poland) that uses
+ evolutionary optimisation to develop spiking neural networks for different computational tasks
+ and robot control (funded by the Polish National Science Center, Unit partner Steuber).
+
+ •      A project that is funded by the German National Research Agency (DFG), with the aim to
+ understand neuronal mechanisms of complex odour identification in the mammalian olfactory
+ system (Unit partner Steuber).
+
+ •       A collaboration with Erasmus Medical Center Rotterdam that studies mechanisms
+ underlying the generation of epileptic absence seizures and develops techniques to terminate
+ the seizures (Unit partner Steuber).
+
+ •      Joint work with the Max Planck Institute for Chemical Ecology (Jena, Germany) and
+ Örebro University (Sweden) that involves data analysis, signal processing and computational
+ modelling in insect and robot olfaction (Unit partner Schmuker).
+
+ •       Work in neuromorphic computation that forms part of the EU Flagship Human Brain
+ Project (Schmuker). The University has recently joined the HBP (coordinated by the Ecole
+ Polytechnique Federal Lausanne Switzerland) as partner 118.
+
+ •     An ongoing collaboration with the University of California Berkeley, University of
+ Debrecen and Rényi Institute (Hungary), University of Passau (Germany) and University of
+ Dundee to disseminate and exploit the results of the recently finished BIOMICS project through
+ an open-source software framework (Unit partner Nehaniv).
+
+ •      A collaboration with University of St Andrews, University of Western Sydney (Australia)
+ and Akita University (Japan) on the application of Krohn-Rhodes theory and permutation groups,
+ with applications to systems biology, physics and artificial intelligence (Unit partner Nehaniv).
+
+ •       Work with the Institute of Psychiatry, Psychology and Neuroscience, Kings College
+ London to study applications of computational complexity measures to the analysis of EEG data
+ (Unit partner Nehaniv).
+
+ •      The Global Consortium of Chemosensory Researchers (GCCR), a collaboration to
+ understand the link between COVID-19 and olfaction/olfactory loss (Unit partner Schmuker).
+
+ Partnerships with industry include the contribution of the COMPAD programme to the
+ development of STCE software tools for computational engineering (with NAG Oxford and RTW
+ Aachen, Christianson) and KTP projects that involve a local company from the space industry
+ (Kirner, £170k), the application of machine learning and data mining to automated negotiation
+ (Helian, £226k), speech analysis (Sun, £224k), diagnostics for operational health (Sun, £171k)
+ and pharmacology (Helian, £131k) and the application of robotics in agriculture (Amirabdollahian
+ and Koay, £258k). Another project at the interface between computer science and agriculture is
+ funded by Rothamsted’s Agri-Tech Research Innovation Accelerator (AgRIA) programme and
+ involves data analysis for model-based decision support for farmers (Schmuker, £51k).
+
+ Contributions to Economy and Society
+ The Unit’s strategy is to increase the visibility of its research through continued outreach and
+ media exposure. Research is regularly presented at high-profile events such as the IBM Think
+ Summit London (Polani), Le Monde Festival Paris (Cañamero), the Festival Puerto de Ideas
+ Chile (Cañamero), the Times Cheltenham Science Festival (Dautenhahn), the Women in
+ Machine Intelligence Dinner (Dautenhahn), the Celebrating Women in Technology event for
+ sixth formers (Dautenhahn), the British Computer Society Ada Lovelace Day (Dautenhahn), the
+ Tabakalera Festival in San Sebastian (Cañamero), the Frankenstein Festival at the London
+ Science Museum (Cañamero), the “Evolution or Revolution” exhibition about the changing world
+ of work at the London Science Museum (Dautenhahn), the “Feeling Emotional” Friday Late
+ Event at the Wellcome Collection (Cañamero), the Re-work Workshop on The Future of
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+ Education (Cañamero) and the German Public Technology and Entertainment Conference
+ TEDxBodensee (Schmuker).
+
+ The Unit’s robotics research continues to provoke media interest and stimulate public
+ discussion, with recent interviews on BBC News, BBC Radio 3 and 4 (Dautenhahn, Cañamero,
+ Polani), in Le Monde (Cañamero) and in the New York Times (Cañamero). Work by Salge on
+ applying AI to the popular computer game Minecraft has featured in MIT Technology Review
+ and AI in Games (more than 50,000 views). Other means of communication include the
+ University’s research blog, articles in The Conversation (Polani, Nehaniv, Vidalis, Abouzakhar),
+ which in turn often lead to further interest from the media (for example BBC News Arabic,
+ Abouzakhar), and the publication of books about topics of general interest such as the use of
+ social media in China (Che). Unit research features regularly at events that are organised by the
+ University and open to the general public, for example the Innovation Showcase (Dautenhahn,
+ Cañamero, Jones, Steuber), the Public Engagement Conference (Cañamero), the Women in
+ STEMM Network Event (Cañamero) and the East of England Big Bang Fair that was hosted by
+ the University in July 2018 (Dautenhahn, Cañamero, Jones, Walters, Koay).
+
+ Another route to contribute to society is provided by the Unit’s Artists in Residence programme
+ that explores the relationship with digital technology from an artistic point of view, provoking
+ substantial public discussion; and further economic and societal contributions stem from the
+ Unit’s close collaboration with partners in industry and organisations such as the local Chamber
+ of Commerce, various police forces and the NHS.
+
+ Contributions to Sustainability of Discipline
+ Members of the CCSIR contribute to the Computer Science research base by providing services
+ to the discipline as follows.
+
+ Journal editing: members of the Unit act as founding editor in chief of the journal Interaction
+ Studies – Social Behaviour and Communication in Biological and Artificial Systems
+ (Dautenhahn), as topic editor in chief of the International Journal of Advanced Robotics Systems
+ (Nehaniv), and as editor, associate editor or guest editor of the following journals: Journal of
+ Autonomous Agents and Multi-agent Systems (Polani), PLOS Computational Biology (Polani,
+ Steuber), Cognitive Systems Research (Cañamero), Journal of Artificial Intelligence and
+ Consciousness (Polani), Electronics (Kirner), Adaptive Behaviour (Dautenhahn), Journal of
+ Rehabilitation and Assistive Technologies Engineering (Amirabdollahian), International Journal
+ of Social Robotics (Dautenhahn), IEEE Transactions on Cognitive and Developmental Systems
+ (Dautenhahn, Nehaniv), IEEE Transaction on Affective Computing (Dautenhahn), Biosystems
+ (Nehaniv), Interaction Studies (Cañamero), Frontiers in Neuroinformatics (Steuber), Frontiers in
+ Systems Neuroscience (Steuber), Frontiers in Neurorobotics (Cañamero), Frontiers in
+ Evolutionary Robotics (Cañamero), Interaction Studies (Cañamero), Paladyn Journal of
+ Behavioural Robotics (Amirabdollahian, Polani), Optimization Methods and Software
+ (Christianson), Research Ideas and Outcomes (Schmuker), Frontiers in Neuromorphic
+ Engineering (Schmuker), Frontiers in Artificial Intelligence and Robotics (Schmuker, Polani,
+ Cañamero), Computational Intelligence and Neuroscience (Schmuker), Advances in Complex
+ Systems (Polani), Scientific Programming (Kirner), Journal of Digital Forensics Security and Law
+ (Jones), Computers and Security (Jones), Information and Computer Security (Jones) and the
+ International Journal for Learning Technology (Jefferies). Other editorships include roles as
+ editor of the book series Advances in Interaction Studies (Dautenhahn) and section editor of the
+ Springer Encyclopedia of Computational Neuroscience (Steuber).
+
+ Conference convening: Unit staff have co-organised / are co-organising international
+ workshops and symposia such as the workshop on “Insights Gained From Detailed Dendritic
+ Modelling” at the Annual Computational Neuroscience Meeting CNS*2018 in Seattle, USA
+ (Steuber), the special track “IoT and Cyber-Physical Systems and Applications” at the 2nd IEEE
+ Conference on Societal Automation SAC 2020 (Kirner), the special track “Mixed Criticality
+ Systems” at the 1st International Conference on Event-Based Control, Communication and
+ Signal Processing EBCCSP 2015 (Kirner), the 11th International Conference on Social Robotics,
+
+                                                                                           Page 12
+Unit-level environment template (REF5b)
+ Madrid 2019 (Cañamero), the special session on “Emotion and Affective Technologies for
+ Inclusive Mental Health”, Cambridge 2019 (Cañamero), the 1st International Workshop on
+ Architectures and Evaluation for Generality, Autonomy and Progress in AI, Stockholm 2018
+ (Cañamero), the workshop “Empathic Human-Robot Interactions” at the European Robotics
+ Forum 2017, Edinburgh (Dautenhahn), the workshop “Towards reproducible HRI experiments:
+ scientific endeavors, benchmarking and standardization” at the HRI 2017 conference, Vienna
+ (Dautenhahn), the Third and Fourth international symposia on New Frontiers in Human-Robot
+ Interaction, London 2014 and Canterbury 2015 (Dautenhahn), the multi-disciplinary workshop
+ “Emotions as feedback signals” held in 2016 at the Lorentz Center in Leiden (Cañamero), the
+ TRUCE workshop on Information in Decision Making with invited participants at the University of
+ Hertfordshire in 2015 (Polani), a special session on Quantifying Embodiment at the European
+ Conference on Artificial Life 2015 (Polani), a workshop on Information-theoretic Incentives for
+ Artificial Life at Artificial Life 2014 New York (Polani), the annual International Workshop on
+ Security Protocols, Trinity College Cambridge (Christianson), workshops on Robotics for
+ Movement Rehabilitation and Natural Interaction with Social Robots at the European Robotics
+ Forum Rovereto 2014 (Polani, Dautenhahn). Other roles include programme chair of the IEEE
+ Symposium on Artificial Life 2015 and 2017 (Nehaniv), panel chair at the International
+ Conference on Availability, Reliability and Security 2016, Salzburg (Jones), proceedings chair at
+ EASE 2016-2018 (Bowes), co-chair at the ALT Conference 2015, Manchester and the 14th
+ European Conference on E-Learning 2015 at the University of Hertfordshire (Jefferies), co-chair
+ of the 9th workshop on Guided Self-Organisation 2018, Leipzig (Polani) and programme chair of
+ RO-MAN 2014 and ICORR 2017 (Amirabdollahian).
+
+ Keynote talks and invited presentations: members of the Unit regularly give keynote
+ presentations at conferences and workshops such as the Gordon Research Conference on the
+ cerebellum in Lewiston, Maine, USA 2021 (Steuber), the 15th Annual ACM/IEEE Conference on
+ Human-Robot Interaction, Cambridge 2020 (Cañamero), the 29th Annual Computational
+ Neuroscience Meeting CNS*2020 online (Polani), the 11th International Conference on Social
+ Robotics, Madrid 2019 (Cañamero), the 7th Cambridge Neuroscience Symposium 2019
+ (Cañamero), the Conference of the International Society for Research on Emotions, Amsterdam
+ 2019 (Cañamero), the Bernstein Workshop on Multi-level Modelling and Simulation, Göttingen
+ 2018 (Steuber), the workshop on Causation, Information and Autonomy, Madison 2019 (Polani),
+ the workshop on New Advances in Biocomplexity, Sydney 2019 (Polani), the NeurIPS workshop
+ on Machine Learning Challenges “in the Wild”, Montreal 2018 (Polani), the International
+ Conference on Promising Electronic Technology, Gaza City 2019 (Kirner), the International
+ Symposium on Accelerating Biology, Pune, India 2016 and 2017 (Kim), the Crop Modelling and
+ Precision Agriculture Workshop, Passo Fundo, Brazil 2015 (Kim), the First Latin American
+ Conference on Plant Phenotyping, Talca, Chile 2015 (Kim), the JSSR 2016 Symposium on
+ Social Robotics, Abu Dhabi (Robins), the Google Panel on Technology and Disabilities, London
+ 2016 (Robins), the 6th International Conference on Disabilities, Tel Aviv 2015 (Robins), the
+ interdisciplinary workshop “Connecting Minds”, Leiden 2016 (Cañamero), the IEEE/RSJ
+ International Conference on Intelligent Robots and Systems, Hamburg 2015 (Cañamero), the
+ Robo Philosophy Workshop “Artificial Empathy” Aarhus 2016 (Cañamero), the 3rd workshop on
+ Child-Robot Interaction, Vienna 2017 (Dautenhahn), the International Conference on Multimodal
+ Interaction, Seattle 2015 (Dautenhahn), the IEEE ICDL-EPIROB Conference, Brown University
+ 2015 (Dautenhahn), the Summer School on Neurorehabilitation, Greifswald 2014 (Dautenhahn),
+ the Latin American School on Computational Neuroscience, Natal 2014 and Sao Paulo 2016,
+ 2018 and 2020 (Steuber), the Workshop on Statistical Physics, Information Processing and
+ Biology, Santa Fe Institute 2016 (Polani), the conference on Information, Control and Learning,
+ Jerusalem 2016 (Polani), the Barcelona Cognition, Brain and Technology Summer School, 2016
+ (Polani), the NIPS 2014 workshop on Autonomously Learning Robots (Polani), the RO-MAN
+ workshop on Novel Patient-Robot Interfaces, Edinburgh 2014 (Amirabdollahian), the conference
+ “Delivering Housing Solutions for Older People: Ageing Well at Home, Stratford 2014
+ (Amirabdollahian), the Human Brain Project Summit, Heidelberg 2014 (Schmuker).
+
+ Elected international posts and other memberships: President of RoboCup Federation 2017-
+ 19 (Polani); President of the international Organisation for Computational Neurosciences OCNS,
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+ 2019-22 (Steuber); Membership of EPSRC Peer Review College (Polani, Dautenhahn);
+ Membership of the ACM Distinguished Speakers Program (Dautenhahn); Senior Membership of
+ IEEE (Shafarenko, Nehaniv, Dautenhahn)
+
+ Committees and taskforces: the following are highlighted among many programme committee
+ memberships: the NEUROTECH Consortium that coordinates and supports the European
+ neuromorphic computing technology community (Schmuker), the IEEE RO-MAN Standing
+ Steering Committee (Dautenhahn), the IEEE/CIS taskforce on artificial life and complex adaptive
+ systems (chaired by Nehaniv), UK taskforce for robotic standardisation (Amirabdollahian), Board
+ of Trustees of the RoboCup Federation (Polani), HiPEAC network of excellence in High
+ Performance Computing (Shafarenko), IFIP Working Group 10.3 ‘Concurrent Systems’
+ (Shafarenko), RESG Executive Committee of the BCS (Veneziano), Multi-scale Computational
+ Neuroscience Working Group of the National Institutes of Health USA (Steuber), Scientific
+ Committee of the Latin American School on Computational Neuroscience (Steuber), Executive
+ Committee of the Organization for Computational Neurosciences (Steuber), the Advanced
+ Programming Specialist Group of the British Computer Society (Kim) and the technical
+ committee of the International Society for Olfaction and Electronic Nose (Schmuker).
+
+
+
+
+                                                                                         Page 14
+

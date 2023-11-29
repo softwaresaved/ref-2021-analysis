@@ -1,0 +1,804 @@
+Unit-level environment template (REF5b)
+ 0B   Institution: University of Aberdeen
+
+ 1B   Unit of Assessment: 11 (Computer Science and Informatics)
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Context and structure
+
+ Computing Science is a vibrant, dynamic and outwardly looking Unit. It is staffed by international
+ researchers and enjoys a culture of cross- and interdisciplinary research and collaboration with
+ industry, government and the third sector. The Unit has a track record of projects from diverse
+ funding bodies. It is one of four disciplines in the School of Natural and Computing Sciences,
+ together with Physics, Mathematics and Chemistry. Research in Computing Science is
+ organised under two cross-disciplinary themes: “Trust, Identity, Privacy and Security” (TIPS)
+ and “Human Inspired and Understandable Computing” (HIUC). TIPS focuses on the
+ specification and verification of the features of autonomous systems and human-agent teams,
+ data sharing and core areas of cybersecurity. HIUC covers the theory and applications of
+ machine learning, automated reasoning and formal argumentation, explainable artificial
+ intelligence (XAI) and natural language generation (NLG).
+
+ In 2014, Computing Science research had three themes: “Agents, Reasoning and Knowledge”
+ (ARK), “Natural Language Generation” (NLG) and “Systems Modelling” (SM). The themes were
+ re-aligned strategically into the two themes, described earlier, pre-empting (but also fine-tuning
+ them to) international and national focus on cybersecurity and (explainable/accountable) AI. This
+ change was further motivated by: (a) the increased interdisciplinarity of our research (for
+ example, with the medical school, where we contribute to the GBP15M Innovate UK Industrial
+ Centre for AI Research in Digital Diagnostics, iCAIRD); (b) our successful involvement in funding
+ programmes like the Digital Economy TIPS programme; and (c) the need to capitalise on our
+ long-standing expertise in topics such as explainable AI using NLG, reasoning and formal
+ argumentation techniques. The themes have a fluid and flexible nature, enabling staff to
+ collaborate across and within them.
+
+ Oren (Head of Department) leads the Unit, representing Computing Science within the School
+ and University. Edwards (Head of School) is a researcher in Computing, overseeing school-wide
+ policies, budget, strategy and planning. The Director of Research (Vasconcelos) represents the
+ Unit in research-related issues and forums and is responsible for: disciplinary research training
+ and yearly research “away days”; the dissemination of calls-for-proposals and Unit-specific
+ research-related information; and the organisation of research seminars and other research
+ events (e.g., annual “research jamborees”, explained in section 2.3).
+
+ The 2014-2020 period saw a reduction in staffing. The University recruited seven new
+ lecturers/senior lecturers (four in HIUC and three in TIPS) and created a new research sub-
+ group with complementary specialisms within cybersecurity (four FTEs). The recruitment is part
+ of the University-wide strategy “Aberdeen 2040”, placing AI and Data as a central
+ interdisciplinary challenge for the next 20 years and includes plans for a further increase in staff
+ numbers (see REF5a). The 20-year strategy/vision for the discipline is to enhance academic
+ interdisciplinary collaborations (e.g., medicine, law, geography, biology, transport and arts), and
+ partnerships with industry, government and other stakeholders, as reflected in research grants
+ and publications (see items 3 and 4 of this document)
+
+ 1.2 Research strategy
+
+ Our two cross-disciplinary themes reflect core research strengths that are of international
+ importance. Cross-theme collaboration has been exploited in various recent calls-for-proposals.
+ We adapted the research vision laid out for REF2014, factoring in our staff changes and new
+ research challenges.
+
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+ Since REF2014, we strengthened our themes by recruiting staff with complementary research
+ foci to bring in new ideas and approaches; this is evidenced by the strengthening of our machine
+ learning and cybersecurity expertise, as we recognised these are essential to our research
+ vision. While we carry out theoretical and applied research within each theme, we have also built
+ successful cross-theme collaborations and interdisciplinary research; these have attracted
+ funding and generated impact (e.g., Supporting Security Policy with Effective Digital Intervention
+ (SSPEDI), EPSRC, “Human Dimensions of Cyber Security” call, EP/P011829/1, combining
+ Cybersecurity, Human-Computer Interaction and Policy-based Reasoning). We have engaged
+ with industry, government and other stakeholders; these include food (Food Sentiment
+ Observatory, ESRC, ES/P011004/1) and transport (PORTIS, “PORT-Cities: Integrating
+ Sustainability”, EU 690713,). Engagement with industry has taken place via consultancy
+ (Vasconcelos), secondment (Reiter, Sripada, Pan) and projects co-funded by companies and
+ industry sector funding bodies (e.g., Selex Galileo, IBM-UK, Microsoft Research, OGTC and Oil
+ and Gas Innovation Centre (OGIC)).
+
+ Computing Science is close to the Institute of Pure and Applied Mathematics, sharing resources
+ (e.g., joint seminar speakers, software licences, special hardware such as GPUs) and engaging
+ in collaboration (e.g., joint supervision of PhD students and joint grant applications). Staff are
+ encouraged to collaborate across themes. Computing has pathways in place for collaboration
+ with other disciplines and stakeholders ranging from informal (e.g., stakeholders are invited to
+ attend events where we showcase UG, MSc and PhD research projects), to more structured but
+ informal (e.g., an MSc summer research project co-supervised by colleagues from other
+ disciplines), to more formal (e.g., a summer internship or MSc research project exploring an AI
+ solution to a problem provided by a stakeholder, with intellectual property provisions and non-
+ disclosure agreements in place).
+
+ Our institution is part of the UK Reproducibility Network. Reflecting national and international
+ expectations, we adopt, with central support, an open and reproducible approach to research,
+ whereby data, software, experimental setups and results are made available to the scientific
+ community and the general public. We ensure research integrity (including ethical review,
+ management of data and supervision), supported centrally and in compliance with the UUK
+ Concordat (2019) (see REF5a). The institutional engagement with these initiatives has provided
+ clear internal processes to follow (for research integrity, the ethical review of experiments is a
+ well-defined and positive exercise, leading to improvements in process(es) and product(s)), and
+ we have access to tailored IT provisions for making research outcomes available to different
+ segments of the public (i.e., data “safe havens” to provide controlled access to datasets and a
+ trusted computational environment to support research using sensitive data sets, long-term
+ storage of documents and data and so on). We adhere to the “Code of Conduct” of the British
+ Computer Society (BCS) and the “Code of Ethics and Professional Conduct” of the Association
+ for Computing Machinery (ACM).
+
+ Our research strategy, aligned with our institutional 20-year vision Aberdeen 2040 (see REF5a),
+ enables us to exploit the funding landscape and create impact. Our themes (with their cross-
+ disciplinarity, fluidity and flexibility) align with “AI and Data”, a UK Industrial Strategy grand
+ challenge. Our themes align with the UKRI Industrial Strategy Challenge Fund’s “Digital Security
+ by Design” priority, especially in connection with the safe/secure adoption of AI and the Internet-
+ of-Things technologies. Additionally, our themes align with EPSRC’s Delivery Plan (i.e.,
+ “Trustworthy and accountable data, AI and autonomy for a successful society”) and EPSRC’s
+ Digital Economy “Trust, Identity, Privacy and Security” priority area. Our culture of collaboration
+ across machine learning, NLG and reasoning and cybersecurity gives us a differential reflected
+ in our rich portfolio of funding bodies and partners/collaborators. Social, economic and scientific
+ impact is a result of our fundamental and applied research and our strong culture of
+ interdisciplinary research and engagement with government bodies, companies, the general
+ public and other stakeholders, aiming at sustainable, co-designed research agendas.
+
+ Computing Science’s current/future research plans address our cross-disciplinary collaborations,
+ especially connecting AI/cybersecurity (motivated by initiatives such as UKRI’s “Digital Security
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+ by Design” and the rising importance of the Internet-of-Things) and reasoning/machine
+ learning/NLG (motivated by world-wide interest in “AI and Data” as well as explainable and
+ accountable AI). We plan to recruit another five FTEs with track records in complementary
+ specialisms, including data mining, symbolic AI (knowledge representation and reasoning) and
+ human-computer interaction, to diversify and strengthen the themes and consolidate cross-
+ discipline collaborations. We facilitate and encourage cross-discipline collaborations through
+ events (e.g., workshops, specialised research seminars and research “away days”) to develop
+ fundamental and applied research outputs and grant applications. Our recruitment will look for
+ candidates with clear evidence of interdisciplinary research and engagement with stakeholders
+ (industry, government or third sector).
+
+ 1.3 Impact strategy
+
+ Our impact strategy has three axes: i) cross-theme collaboration; ii) interdisciplinary research;
+ and iii) engaging with stakeholders. The cross-theme aspect gives us a differential (e.g.,
+ combining cybersecurity with persuasion techniques or NLG with formal argumentation), and the
+ combination of approaches resonates positively with different research communities (as
+ evidenced by our funded grants and research outputs). The second axis concerns
+ interdisciplinary research with a broad range of disciplines (e.g., Biology, Healthcare, Law, Music
+ and Physics), creating synergies and multiplying the impact. Finally, in our third axis, by working
+ with industry, government, the third sector and the public, we conduct and evaluate/validate our
+ research with real-life, high-impact/high-visibility problems and issues.
+
+ In addition, Computing Science encourages the exploitation of the commercial potential of our
+ research, supported by the University’s Impact and Knowledge Exchange team in the setup of
+ spin-out companies and protection of intellectual property. One of our impact case studies
+ highlights the journey of a spin-out company that grew to become one of the world leaders in
+ commercial automatic text generation, Arria NLG. Our second impact case study showcases the
+ commercial exploitation of fundamental computing science research on creating customised
+ reports based on medical data, combining the expertise of healthcare professionals and
+ computer scientists.
+
+ Our projects establish novel cross-disciplinary collaborations with stakeholders across multiple
+ segments of society. For example: “Trusted Things & Communities” (TrustLens, Digital
+ Economy, EP/N028074/1) combines fundamental research on trust, risk and the Internet-of-
+ Things with issues relating to governance and policy, engaging with Aberdeen City Council and
+ local communities to shape future technologies and their use by society; and Collaborative
+ Intelligent Spaces (CISpaces, U.S. Army Research Laboratory and the UK Ministry of Defence,
+ W911NF-06-3-0001) combines data analytics with formal argumentation techniques to support
+ the process of sensemaking, complementing human expertise in the generation of intelligence
+ products and engaging stakeholders including expert intelligence analysts from DSTL, ARL and
+ NATO experts.
+
+ We have developed and exploited approaches to increase impact and visibility. This includes the
+ co-design of research and early involvement with stakeholders, increasing their influence on and
+ interest in the outcomes and, ultimately, the impact, as evidenced by the EPSRC-funded
+ projects “Supporting Security Policy with Effective Digital Intervention” (SSPEDI, EP/P011829/1),
+ with the National Grid and Aberdeen City Council, and “Trusted Things & Communities”
+ (TrustLens, EP/N028074/1), with local communities.
+
+ We also engage with the general public while solving real-world problems, extending and
+ adapting fundamental research. These problems come from biology, oil and gas industries,
+ transport engineering and medical and health sciences, and staff share best practices and
+ personal contacts to engage with experts and professionals from these domains.
+
+ Our research exploiting NLG to engage the general public in “citizen/crowd science” to help in
+ (interdisciplinary) nature conservation projects illustrates this well. “BeeWatch” invited citizens to
+
+                                                                                                 Page 3
+Unit-level environment template (REF5b)
+ submit photographs of bumblebees and enabled the identification of species using an online
+ key. This research was a collaboration with the Bumblebee Conservation Trust (BBCT), funded
+ by the Digital Economy Hub (EP/G066051/1), featured on the BBC news website and in the
+ programme “Beechgrove Garden”. “Blogging Birds” is a collaboration between computing
+ science, environmental scientists and the Royal Society for the Protection of Birds (RSPB),
+ harnessing data mining and NLG to create personalised “blogs” of red kites being re-introduced
+ in England and Scotland and attracting attention from the general public and the media.
+
+ Impact is increased through adoption and championing of open-source software, open access
+ publications, open experimental data and data sharing solutions and documents explaining our
+ research to the general public. A report published by the Software Sustainability Institute in
+ 2017, analysing ResearchFish data, showed that Aberdeen was second in the UK in publishing
+ software outcomes from EPSRC-funded projects.
+
+ We encourage staff, PhD students and PDRAs to follow the Software Sustainability Institute best
+ practice guide; software is made openly available on web sites such as GitHub, Zenodo and
+ BitBucket (e.g., nu-BDI, SimpleNLG and CISpaces). Data sets (e.g., supporting research on
+ NLG, formal argumentation, the Internet-of-Things, machine learning and data provenance) are
+ made available in the University’s research repository (with over 30 datasets) and external web
+ sites (e.g., GitHub and GoogleDocs). Datasets are publicised through the institutional research
+ pages. Open Access publication of research papers is encouraged. In 2014 31% of all our
+ published outputs were open access and in 2020 the percentage was 59%. The University has a
+ Research Data Management policy requiring a data management plan that sets out resource
+ provisions for hosting data, software and documents on our servers, in addition to making
+ resources available on public Web sites. Many colleagues engage with the general public or
+ academic communities via “blogs” (e.g., Reiter and his “open source for NLG”) increasing the
+ reach and impact of our research.
+
+ The Unit continues to support the vitality and sustainability of our research impact by
+ encouraging best practice in science communication and stakeholder engagement. For
+ example, staff receive training in communication through media outlets supported by the
+ University’s Communication team and the Public Engagement with Research Unit (PERU)
+ (REF5a). Staff regularly present their research at events to the general public such as the
+ Edinburgh International Science Festival, British Science Festival and TechFest.
+
+ 2. People
+
+ 2.1 Staffing strategy
+
+ Our staffing strategy reflects major international research drives for AI, cybersecurity and trusted
+ systems.
+
+ Our Unit has experienced notable staff movement (from 18 FTEs in 2013 to 8.7 FTEs early in
+ 2020). However, we hired seven new staff members and at census date 15.5 FTEs are in post.
+ Within the REF period, ten colleagues were promoted (three to Chairs, four to Readers and four
+ to Senior Lecturers – see following section), evidencing investment in staff.
+
+ Our ongoing recruitment is part of a University-wide strategy, placing “AI and Data” as one of our
+ five interdisciplinary challenges for the next 20 years (as described in “Aberdeen 2040”, see
+ REF5a). In line with our strategy, we recruited four FTEs with complementary research portfolios
+ on AI and three FTEs on cybersecurity. The new recruits strengthen our HIUC (Leontidis, Yi,
+ Yun, Zhong) and TIPS (Akram, Li, Sharma) themes, bringing their expertise (both in
+ fundamental research and applications to real-world problems) as well as collaboration networks
+ (from academia and industry). The discipline, through both research themes, has strong
+ academic interdisciplinary collaborations (e.g., medicine, law, geography, biology, transport and
+ arts), as well as partnerships with industry, government and other stakeholders, as reflected by
+ several research grants and publications (see items 3 and 4 of this document).
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+
+ HIUC was boosted by the following appointments: Leontidis, Yi and Zhong contributing to
+ fundamental research on machine learning and its application to various important domains,
+ such as nuclear energy (Leontidis), smart farming and driving assistance (Yi) and energy grids
+ (Zhong). Yun contributes expertise on formal argumentation to support accountable and
+ explainable/scrutable AI.
+
+ TIPS benefits from: Akram’s research on core cybersecurity issues as well as “security for
+ machine learning” and “machine learning for cybersecurity” (also creating cross-theme
+ connections with HIUC); Sharma’s research on cybersecurity, with a focus on the Internet-of-
+ Things and smart cities (including 5G networks); and Li’s work on identity, authentication and
+ electronic signatures. Together with Collinson, TIPS has four FTEs with a solid track record in
+ complementary cybersecurity topics, forming a new cybersecurity research sub-group and
+ supported by GBP100K of institutional funding for a dedicated cybersecurity research and
+ teaching lab. The flexible nature of the research themes facilitates strategic and opportunistic
+ cross-collaborations, benefitting researchers through the exchange of ideas, approaches,
+ techniques, collaborators from other disciplines, use-case partners and contacts with industry.
+
+ We have attracted staff whose research is of international quality (evidenced by their
+ publications, collaborations and grants), both as early-career researchers (Li, Sharma, Yi, Yun,
+ Zhong) and mid-career researchers (with a track record of funded research and high-quality
+ outputs; Akram and Leontidis). Our strategy is to sustain an international team, with current staff
+ from the UK, USA, EU, China, Brazil, India, South Africa, Singapore and South Korea, providing
+ a rich network of world-wide contacts and collaborations. Hiring decisions explicitly consider the
+ interdisciplinary reach of candidates and how novel and relevant the application domains are.
+
+ Our organisation model for research is lean (staff interact directly with the team director of
+ research, head of Unit or head of School), flexible (with research themes allowing the easy flow
+ of staff among them) and agile (with the ability to create cross-theme and interdisciplinary teams
+ in response to research drives and target calls).
+
+ Our staffing strategy addresses diversity, equality and inclusion issues in Computer Science. All
+ interview panel members complete training on diversity and equality, including unconscious bias
+ training, and panels include a fair representation of the wider academic community (including
+ colleagues with protected characteristics). Many of our recent grants have more gender-
+ balanced teams of PDRAs (the numbers are for staff based in Aberdeen): TrustLens
+ (EP/N028074/1), 50% female; SSPEDI (EP/P011829/1), 40% female; RAInS (EP/R033846/1),
+ 50% female.
+
+ 2.2 Staff support and development
+
+ The Concordat to Support the Career Development of Researchers (see REF5a) shapes our
+ staff policies and procedures, enabling them to take advantage of workshops and training
+ sessions as part of our yearly 10-day training allocation to support impact development,
+ stakeholder involvement, grant finance management and so on. These skills contribute to staff
+ professional development and increase our research sustainability, relevance and impact. The
+ University of Aberdeen received the HR Excellence in Research Award in 2010 and successfully
+ retained it for its researcher development programme. All ECRs have reduced teaching and
+ administration loads to help accelerate their research and are assigned senior colleagues as
+ mentors, with progress being reviewed annually.
+
+ The Researcher Development Unit (see REF5a) offers many opportunities, including workshops
+ and training for ECRs, research staff and post-graduate research students. The induction
+ programme is attended by all new researchers, followed by longer-term support at the university
+ level and through School and Unit-based provisions. Units across Scotland collaborate through
+ the Scottish Computer Science and Informatics Alliance (SICSA) (a consortium of 14 Scottish
+ Universities, promoting excellence in University-led research, education and knowledge
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+ exchange in Informatics and Computer Science) in providing discipline-specific staff
+ development opportunities.
+
+ We have an annual staff development programme for all researchers aimed at progress and
+ future plans and wider career and professional development. The Unit shares indirect cost
+ contributions from successful research grants between a strategic fund and investigators’
+ discretionary accounts. The investigators’ fund incentivises grant applications, while the strategic
+ fund supports new staff and research students. These funds enable travel, general research
+ support (i.e., pilot studies, experiments and software development) and new collaborative
+ initiatives with other disciplines/institutions. ECRs receive an initial discretionary allowance for
+ each year of probation (to support academic visits, attendance at conferences, etc.) and 50% of
+ a PhD studentship (50% externally funded).
+
+ Staff retention is extremely important, especially in light of recent staff movement. The Unit
+ provides a mentoring program that pairs new staff with experienced colleagues acting as a “first
+ port of call” to help with teaching, research and administrative processes and to help new staff
+ manage their career path. Mentoring takes place in an informal and friendly fashion with regular
+ meetings. There is a healthy team spirit, where colleagues help and support one another. Some
+ of our recently appointed staff have had flexible work arrangements in place due to COVID-19
+ disruptions, working away from Aberdeen.
+
+ The Unit, in line with institutional policy, values a healthy work-life balance and encourages staff
+ to keep to core-working hours. The institution offers staff membership to a state-of-the-art sports
+ centre within walking distance of the Department. The institution also offers preferential rates for
+ private healthcare. Staff and research students are regularly reminded of our institutional on-line
+ resources on mental and physical well-being and training sessions on mindfulness and stress
+ management, among others.
+
+ Our annual review exercise enables staff to discuss their performance and achievements with an
+ experienced and trained colleague and to set goals for the following year. The review feeds into
+ the annual promotion exercise, for which we share best practice and offer structured meetings to
+ help with the preparation of promotion applications. Within the reported period the Unit had three
+ staff promoted to Professor (Oren, Masthoff, Vasconcelos), three to Reader (Pan, Lin,
+ Siddharthan) and four to Senior Lecturer (Pang, Guerin, Collinson, Sripada). Staff secondments
+ further our research sustainability; during the REF period, Sripada and Reiter were seconded to
+ Arria, and Pan was seconded to the Edinburgh Huawei Research Lab.
+
+ 2.3 Research students
+
+ One of the Unit’s strategic goals is to increase PGR student numbers while enhancing their
+ already high quality. PhD students are supported by the University “Elphinstone” PhD
+ scholarships, by EPSRC Doctoral Training Partnerships (EP/N509814/1 and EP/R512412/1)
+ and the various Scottish Funding Council (SFC) research pooling initiatives. More traditional
+ modes of studentship funding (Industrial CASE awards, DTA studentships) are available, and we
+ have had fully funded industrial studentships (e.g., by Arria NLG plc, Selex Galileo Ltd., IBM-UK)
+ and students supported by EU H2020 “Fostering new skills by means of excellent initial training
+ of researchers” (e.g., “Interactive Natural Language Technology for Explainable Artificial
+ Intelligence” – NL4XAI, 860621 and “Personal Health Interfaces Leveraging Human-Machine
+ Natural Interactions – PHILHUMANS, 812882). Some international students have received
+ governmental funding (e.g., China, Nigeria, Indonesia, Saudi Arabia and Turkey). A strategic
+ partnership with Curtin University (Australia) includes the funding of joint PhD studentships. We
+ have PhD students visiting us from other UK institutions (e.g., Edinburgh, Southampton,
+ Warwick), Europe (e.g., Spain, France, Netherlands) and the rest of the world (e.g., Brazil,
+ China).
+
+ The School encourages industrial collaborations by offering matching funds for studentships
+ when industrial funding is secured for the balance; successful examples of this model include
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ Arria NLG, Selex Galileo, and IBM-UK. All staff supervise research students. The recruitment of
+ PhD students is undertaken through the institution’s Postgraduate Research School, responsible
+ for recruitment, admission, progression and career development of all postgraduate research
+ students (see REF5a).
+
+ PhD students are allocated two supervisors. In exceptional cases, students may have three
+ supervisors, especially when the topic is interdisciplinary (colleagues from e.g., Biology,
+ Transport Engineering, Petroleum Engineering, Geography, Business, Medicine and Physics).
+ Supervisors are required to undertake mandatory supervision training.
+
+ Progression of PhD students is monitored through a system of six-monthly reviews, a progress
+ report and oral examination after nine months and 21 months conducted independently by two
+ members of staff not involved in the supervision, providing support to discuss all aspects of the
+ PhD programme. Training for postgraduate research students is provided by the Postgraduate
+ Research School, combining courses from the University’s generic skills programme with
+ discipline-specific courses. At the beginning of their PhD, all students complete an initial skills
+ audit to create their personalised Training and Development Roadmap. All students are required
+ to present their work at research group seminars. At the annual “research jamboree”, a poster is
+ presented by all PGR students in years one and two while final year PhD students give a
+ presentation. PhD students also benefit from the learning activities (lectures and tutorials) of
+ modules of the MSc in Artificial Intelligence programme, providing a structured way for those
+ who need to brush up their AI skills or learn about new topics. PhD students are expected to
+ attend Computing Science seminars, as these give opportunities for students to broaden their
+ knowledge and learn how to organise and present research. We encourage and financially
+ support PhD students to attend the annual PhD Conference organised by SICSA, the Scottish
+ Informatics and Computer Science Alliance; our PhD students helped organise the 2016-2019
+ editions of the event. We are also the Unit outside the Scottish central belt with the highest
+ number of participants in all years the event has taken place).
+
+ The Unit organises an annual “research jamboree” event where PGR students give short
+ presentations and/or present posters. We invite representatives from public and private sector
+ bodies, as well as colleagues from other Units, with a view to showcasing our research and
+ giving PhD students the opportunity to talk about their research to disparate audiences (offering
+ them a similar experience to that of a conference).The jamboree also provides opportunities to
+ build or expand networks of contacts. Computing has three reading groups on Computational
+ Linguistics, Machine Learning and Formal Argumentation, with regular meetings gathering staff
+ and research students interested in the topics (the reading group on Formal Argumentation also
+ attracts international staff and PGR students to their meetings, giving our PhD students access
+ to international leaders in the field).
+
+ Supervisors are trained to be aware of issues relating to protected characteristics (e.g.,
+ rearranging furniture, adjusting personal space for PhD students on the autistic spectrum and
+ rearranging times of meetings to accommodate religious holidays and observances). Ours is a
+ diverse and vibrant population of PhD students; of the 45 PhD students who graduated within
+ the reporting period, more than 80% came from outside the UK.
+
+ The Postgraduate Research School offers a portfolio of training and development activities. To
+ ensure sustainability, our Unit has “pathways” to support academic careers; one such pathway
+ sees UG and PGT (MSc) students working on projects with a substantial research element,
+ enabling a smooth transition to the PhD programme (at least seven of the PhD students who
+ graduated in the period followed this pathway). Another pathway (with support from supervisors
+ and careers services) sees PhD students becoming PDRAs with us (more than eight PhD
+ students followed this pathway) or in other institutions. A third pathway supports the transition of
+ PDRAs into academic careers in our own Unit (e.g., Pang, Kollingbaum) or at other institutions
+ (at least four PDRAs are now academic members of staff in other HEIs). Some of our PhD
+ students have now become established researchers in industry (e.g., IBM-UK Research, BT
+ Research, Amazon-Alexa, Google and Trivago). Our careers service team supports PhD
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ students in applying for jobs/positions, with the support of supervisors, in writing CVs and cover
+ letters and in practising for their interviews.
+
+ 2.4 Equality and diversity
+
+ Our School has an active Equality, Diversity and Inclusion Committee (EDIC), which received
+ the Athena SWAN Bronze in 2016. EDIC has introduced carer support for conferences, return to
+ work sabbaticals (for maternity or long-term illness) and active promotion support and
+ encouragement. The School’s EDIC has created a neutral language guide that supports female
+ and LGBT staff. It is also currently working towards creating more networks and increasing the
+ range of PGR bursaries and scholarships available for women and other under-represented
+ groups.
+
+ Equality and Diversity training is mandatory for all staff and provides fundamental awareness of
+ the legislative framework and its practical implementation. This training also highlights the
+ University’s Equality, Diversity and Inclusion Policy (see REF5a). Staff are encouraged to attend
+ unconscious bias training. Staff and PGR students can join a range of groups such as the senior
+ female network group, LGBT staff network group, the disability network group and the staff race
+ equality network.
+
+ Hiring committees must have gender representation and all members must have completed
+ equality and diversity training. Supervisors of PhD students are trained on protected
+ characteristics, and we share best practice (Unit-specific) on provisions to accommodate these
+ (see previous examples). As a Unit, we strongly support our institution’s zero-tolerance policy on
+ any form of discrimination. We provide our staff and students with additional communication
+ channels to raise their concerns in a supportive, constructive and positive environment. Staff and
+ research students are encouraged to report any disabilities or protected characteristics, which
+ are handled sensitively, but also with a duty of care. Where appropriate, other support units and
+ services are made aware of these, so that they can provide help or guidance.
+
+ We provide flexible working hours (as well as arrangements for working from home) for staff and
+ students who have to care for members of their families, who have health issues that might
+ prevent them from leaving home or that might impact their ability to work normal hours. Specific
+ past cases include: a researcher who became a carer and was able to work from home with
+ reduced/special hours some days of the week; another researcher who had to look after his
+ children was allowed to work flexible hours from home; and a research fellow who developed
+ mental health issues was able to work from home, with close support from his line manager. Our
+ Unit is child-friendly, and we accommodate the needs of our staff and students with young
+ families, for instance, by avoiding meetings outside the school day and by allowing PGR
+ students to work flexible hours (especially during School holidays).
+
+ Our institution’s policies underpin the institution’s Mental Health and Wellbeing Strategy by
+ setting out how the University will proactively support staff and students to maintain good mental
+ health and wellbeing. Our School has its own Wellbeing coordinator, who acts as a point-of-
+ contact between our staff and other University services/units that support physical, mental,
+ workplace and personal wellbeing, as well as wellbeing at home.
+
+ We provide extra support to our female students, pairing them with a mentor with a view towards
+ introducing them early on to our pathways for academic careers. Our post specifications use
+ gender-neutral language and include text explicitly inviting the application of individuals from
+ across all equality protected characteristics.
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income
+
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ Our Unit attracted a total of over GBP13M of research funding, averaging just over
+ GBP1.85M/year. We have a diverse portfolio of research grants funded by the EPSRC, EU,
+ ESRC, Innovate UK, Cancer Research, GCRF and NERC, among others. The success of the
+ Unit has had a strong influence on the institutional strategy, as our research themes align well
+ with priorities of governments, funding bodies and the general public, with immense potential for
+ societal and financial impact. Accordingly, a new director for the “Data and Artificial Intelligence
+ Interdisciplinary Challenge” has been appointed, reflecting the strategy “Aberdeen 2040” and
+ highlighting the institution’s commitment to the area (see REF5a).
+
+ Research income was negatively affected by staff turnover over the reporting period and
+ uncertainty associated with EU funding. However, there has since been a major recruitment
+ drive toward strategic staffing and staff development as reported in Section 2.1. The Unit has the
+ building blocks to regain its previous strength in terms of staff numbers and increased income.
+ The quality of our AI and data-related research has ensured that the Unit remains competitive,
+ as evidenced by our portfolio of awards and research outputs.
+
+ Some of the major awards in the period featuring cross-theme and/or interdisciplinary research
+ are (figures indicate the value to our Unit) RAINS (GBP789K, EPSRC EP/R033846/1,
+ Edwards), SSPEDI (GBP756K, EPSRC EP/P011829/1, Collinson, Oren, Vasconcelos),
+ Trusted Things & Communities (GBP783K, EPSRC, EP/N028074/1, Edwards), Social Media
+ Enhancement (GBP505K, ESRC ES/M001628/1, Edwards), NL4XAI (GBP239K, EU 860621,
+ Reiter), PORTIS (GBP330K, EU 690713, Kollingbaum), PHILHUMANS (GBP263K, EU
+ 812882, Reiter), and Smart Routing (GBP236K, Innovate UK 102615, Edwards). We also
+ secured funding for doctoral training (GBP488K, EPSRC EP/N509814/1; GBP105K, EPSRC
+ EP/R512412/1;GBP10K, NL4XAI, EU 860621; GBP65K, PHILHUMANS, EU 812882). These
+ and other grants showcase our cross-theme efforts (e.g., SSPEDI combines HCI and policy-
+ based reasoning) and interdisciplinary research with Engineering (PORTIS), Geography and
+ Environment (RAINS and Trusted Things & Communities), Psychology (SSPEDI) and Sociology
+ (Trusted Things & Communities). Other research is in partnership with and co-funded by
+ companies from the Oil & Gas sector (Asset Reliability, Innovate UK KTP11653, Sripada; Data
+ Quality for Oil & Gas E&P, The Data Lab and OGTC, Vasconcelos; Glycol Controlled Injection,
+ OGIC, Vasconcelos).
+
+ Strategically, Computing Science is well provisioned to exploit the funding landscape, as both
+ HIUC and TIPS themes align with “AI and Data”, one of the grand challenges of the Industrial
+ Strategy of the Department for Business, Energy and Industrial Strategy. Our TIPS theme aligns
+ well with the UKRI Industrial Strategy Challenge Fund’s “Digital Security by Design”, especially
+ in connection with the safe/secure adoption of AI and the Internet-of-Things. Finally, explainable,
+ ethical and accountable AI has attracted much interest and funding (e.g., Knowledge Transfer
+ Network’s recent CivTech Sprint Challenge on Explainable AI, with Police Scotland). By enabling
+ collaboration among our staff across machine learning, NLG and reasoning and cybersecurity,
+ we have a competitive differential.
+
+ Our research strategy harnesses our culture of collaboration with other disciplines, industrial and
+ use-case partners and other stakeholders. We will consolidate and expand our collaborations,
+ especially with medical and health sciences, engineering, biology and the arts, and our
+ engagement with different sectors of industry (e.g., energy, decommissioning, food distribution
+ and food security) and government bodies (e.g., Aberdeen City Council, NHS Scotland and the
+ British Office in Taipei through Edward’s participation in the recent Taiwan-UK AI Cooperation).
+ Our research strategy delivers impact, through the combination of strands of our research
+ themes, to provide solutions to problems from other disciplines, industry and governmental
+ bodies and by disseminating research results to scientific and professional communities and the
+ general public.
+
+ 3.2 Infrastructure
+
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ Our Unit shares best practice in attracting funding, with regular workshops and information
+ sessions on grant writing. The institution’s Research and Innovation (R&I) unit provides support
+ for business development, project finance planning and financial reporting and offers legal
+ services (including those related to intellectual property issues and non-disclosure agreements
+ when collaborating with companies), in addition to meeting the requirements for ethical, open
+ and reproducible research. A clear internal application process via a Web portal is also available
+ and all applications are reviewed internally by two independent assessors (see REF5a).
+
+ R&I provides advice on identifying and nurturing impact, facilitating interactions with external
+ organisations, identifying intellectual property opportunities and exploiting innovative ideas. The
+ Public Engagement with Research Unit (PERU) provides advice on public engagement activities
+ and on funding for them. The Researcher Development Unit (RDU) offers training on public
+ engagement and offers many online tools from the National Co-ordinating Centre for Public
+ Engagement to help develop ideas. Aberdeen Grants Academy (GA) supports our researchers
+ in all stages of the research grant cycle, from conception of ideas, through development of
+ funding applications to research delivery and realising the impact of our research. IT Services
+ provide support in costing, procuring, purchasing and installing special hardware and software
+ licences, as well as data storage solutions for research (including long-term archiving). The Unit
+ also offers training on IT security awareness and a range of other services such as networking
+ and bespoke research computing lab provision.
+
+ The institution offers technical support and computational resources to ensure our research is
+ open and reproduceable. The Aberdeen University Research Archive (AURA) provides access
+ to the full text of research outputs and theses are held in our Digital Resources collections.
+ Following our University policy for Research Data Management, IT Services provide technical
+ support and computational resources (e.g., secure storage space, web servers and remote data
+ bases) for staff.
+
+ Our centrally managed and recently upgraded High-Performance Computing (HPC) services are
+ remotely available to all research students and staff, offering access to a supercomputing cluster
+ and software suite. Additional resources (e.g., access to EPSRC’s Archer and EPCC’s Cirrus, as
+ well as a cloud computing infrastructure) can also be procured. Secure data storage services are
+ available for research, catering to very large data collections, offering different degrees of
+ security and privacy. Training and support are available for both HPC and data storage services.
+ The institution offers a suite of licenced software including MATLAB, SPSS, NVivo and SNAP,
+ among others. Our library services provide access to a wealth of computing-specific and
+ mathematics-specific digital resources, including books and papers, as well as data collections.
+ ABVenture Zone, our incubator for start-ups and spin-out companies, offers a range of support
+ services for staff and students who wish to exploit their research commercially.
+
+ The University of Aberdeen Research Governance Handbook provides a framework for research
+ ethics and governance at the University. The University of Aberdeen provides mandatory
+ Research Governance and Ethics training to all staff and PhD students involved in research.
+ Computing disseminates the handbook to staff so that researchers are well informed of the
+ ethical, legal, institutional and funder requirements. Staff use the UK Research Integrity Office's
+ Code of Practice for Research checklist, which incorporates the key points of good practice at all
+ stages of a research project.
+
+ 3.3 Facilities
+
+ Our academic staff have individual offices and PDRAs and PhD students share offices in groups
+ of four to six people. We are all on the same floor of our building. We have four dedicated
+ computing labs that can be used as seminar/meeting rooms and to host research experiments;
+ these labs have audio-visual resources (e.g., interactive white boards, high-definition screens
+ and loudspeakers or projectors). The space provisions encourage interaction and collaboration.
+
+
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+ Staff and PhD students are provided with a computer (desktop or laptop, with their choice of
+ operating system) and are allowed to manage their own software (subject to the institution’s
+ cybersecurity policies). The University of Aberdeen recently awarded a GBP100K investment
+ fund to establish a dedicated cybersecurity laboratory, consisting of specialised hardware and
+ software, with provisions for Internet-of-Things and industrial control systems. This lab helps
+ catalyse Aberdeen’s cybersecurity research.
+
+ 2B   4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Collaboration with the research base
+
+ Our Unit has developed and sustained a strong culture of collaboration and interdisciplinary
+ research with many disciplines. Some of our external academic collaborators in funded research
+ grants are the Universities of Trieste and Trento, University of Edinburgh, Eindhoven University,
+ Delft University of Technology, University of Utrecht, University of Utah, Monash University,
+ University of Santiago de Compostela and University of Malta. Exemplars of our government
+ and third sector grant collaborators are NHS Scotland, Aberdeen City Council, Aberdeenshire
+ Council, Birmingham City Council, National Railway Company of Belgium, Law Commission,
+ Transport Systems Catapult and National Grid. Some of our industrial partners are Arria NLG,
+ Orange (France), Accenture (Spain), IBM-UK, BAE Systems and Phillips Research North
+ America.
+
+ We collaborate with medical and health sciences, drawing from the critical mass and excellence
+ of our Institute of Applied Health Sciences. An example of an ongoing collaboration is the
+ GBP15M Industrial Centre for AI Research in Digital Diagnostics (iCAIRD), one of five
+ successful bids to the UK Government Industrial Strategy Challenge Fund (ISCF), focusing on
+ the application of artificial intelligence to digital diagnostics to enable clinicians, health planners
+ and industry to work together. Other projects use specific computing techniques to study and
+ address real-life medical issues: “Proving the Utility of Fast Field Cycling MRI in stroke and small
+ vessel disease” (PUFFINS, Scottish Government Chief Scientist Office, TCS/19/44), in which
+ machine learning is used to increase the benefit of MRI technologies; PAtient-centred Care for
+ Fibromyalgia: New pathway Design (PACFiND, Versus Arthritis, Ref. 21958), where data mining
+ is carried out to improve healthcare services for patients with fibromyalgia; “Graph-Based Data
+ Federation for Healthcare Data Science” (UKRI ISCF), which integrates healthcare data from
+ different sources; and “Early-life origins of brain resilience to mental illness and cognitive
+ impairment across the life-course” (Medical Research Council, Ref. MC-PC-MR/R019541/1),
+ which explores “big data” management, data analytics and machine learning to support
+ population studies.
+
+ We collaborate with Physics in the project “A Systems Approach to Sustainable Sanitation
+ Challenges in Urbanising China” (SASSI, NERC, Ref. NE/S012354/1), studying complex human-
+ environment interactions in sanitation systems, and in the pilot project “Provenance of Food
+ Delivery through IoT” (PROOFD IT, funded by the Internet of Food Things grant), investigating
+ Internet-of-Things techniques to track food delivery. We collaborate with Transport Engineering,
+ Geography and Environment Sciences in the project PORTIS, funded by the EU (Ref. 690713),
+ using AI techniques to simulate government policies and determining how these impact on travel
+ choices in port cities, in Smart Routing (Innovate UK, Ref. 102615), which aims to improve
+ public transport by enabling people to combine their journey data and preferences with real-time
+ transport information (privacy-preserving journey planning robust to network problems), in the
+ Transport Systems Catapult, as a member of the University Partner Programme, and in the
+ project Social Media Enhancement, funded by the ESRC (ES/P011004/1), developing tools
+ combining argument mining, qualitative modelling and dataset annotation to advance the state of
+ the art in social media analytics and data management. We collaborate with Biology through
+ projects like BeeWatch, funded by the Digital Economy Hub, in partnership with the Bumblebee
+ Conservation Trust (BBCT), exploiting NLG and “citizen/crowd science” to engage the general
+ public in nature conservation projects (specifically the monitoring of bumblebees in the UK), and
+ “Blogging Birds”, in partnership with the Royal Society for the Protection of Birds (RSPB),
+
+                                                                                                Page 11
+Unit-level environment template (REF5b)
+ harnessing data mining and NLG to create personalised “blogs” of red kites being re-introduced
+ in England and Scotland and reaching out to thousands of members of the public who were able
+ to follow the “daily lives” of birds.
+
+ Our Unit has strong ongoing collaborations with universities and research centres in the UK,
+ Europe and the rest of the world through informal collaborations such as co-authorship of
+ scientific papers, reciprocal visits and hosting of PhD students. These institutions include the
+ Universities of Warwick, Glasgow, Southampton, Oxford, Manchester, Bath, University College
+ London, the City University of New York (CUNY), the AI Research Centre in Spain (IIIA-CSIC),
+ Polytechnic of Warsaw, the University of Tokyo, Pontifical Catholic University in Rio Grande do
+ Sul (PUC-RS, Brazil), the University of São Paulo and the University of Otago.
+
+ 4.2 Contribution to the research base
+
+ Our research output has been presented and published at international conferences and in
+ journals, attesting to the quality of our research and its theoretical/scientific contributions and its
+ value when applied to solve real-life problems.
+
+ Our research outputs have contributed to conferences such as IJCAI, AAAI, NeurIPS (formerly
+ known as NIPS), AAMAS, ISWC and ICRA, among others and journals such as the AI Journal,
+ ACM Transactions, Springer’s Cognitive Computation, Autonomous Agents and Multi-Agent
+ Systems, and others. Our staff serve in various international communities in different ways. For
+ example, a number of staff contribute towards Journal Editorships – Vasconcelos (Associate
+ Editor, Knowledge and Information Systems, Springer), Akram (Guest Editor, Special Issue of
+ Future Generation Computer Systems, Elsevier; Associate Editor, Human-Centric Computing &
+ Information Sciences, Springer), Leontidis (Editorial Board, Computers in Biology and Medicine,
+ Elsevier, 2018-2019), Sharma (Associate Editor, Human-Centric and Inf. Sciences, Elsevier),
+ and Zhong (Associate Editor, Neural Processing Letters, Springer). The following staff are
+ members of (Senior) Programme Committees – Oren (IJCAI 2015-2021; AAMAS 2016-2021;
+ ECAI 2016-2020), Vasconcelos (IJCAI 2017-2020; AAMAS 2014-2020; AAAI 2018-2020; ECAI
+ 2018-2020) and Leontidis (NIPS, NeurIPS 2018-2020; AAAI 2019-2020; IJCAI 2020; ICML
+ 2018-2019). Membership in Professional Bodies is exemplified by the following: IFIP Working
+ Group on Pervasive Systems Security (Akram), ACL-SIGGEN (Reiter, Chair), IEEE (Leontidis,
+ Vasconcelos, Akram, Sharma), ACM (Oren, Vasconcelos, Akram, Sharma), AISB (Vasconcelos)
+ and BCS (Leontidis).
+
+ A portion of the staff are members of advisory boards of funding bodies: Leontidis (Full College
+ Member, EPSRC; Panel member of UKRI Future Leaders Fellowship Scheme), Oren (Full
+ College Member, EPSRC, 2016-ongoing) and Edwards (Member of ESRC Peer Review
+ College, 2015, 2017-ongoing; Member of Steering Committee for the Innovate UK – EPSRC –
+ KTN – Digital Catapult, 2014-2016). Our staff have been involved in the organisation of a
+ number of conferences including Digital Heritage Conference 2019 (Leontidis, Organiser), INLG
+ 2017 (Reiter, General Chair), 25th Int’l Conf. on Conceptual Structures (Yun, Programme Chair),
+ 9th Int’l Conf. on Information Security Theory & Practice (Akram, Chair), IEEE Conf. on Trust,
+ Security & Privacy in Computing and Communication (TrustCom 2018 & 2019, Akram, Track
+ Chair), AAMAS 2014 Doctoral Consortium (Vasconcelos, Co-organiser), COMMA 2014 (Oren,
+ Chair) and PRIMA-2018 (Oren, Co-Chair).
+
+ Over the REF cycle, staff members served in the External Examination of PhD Theses – Oren
+ (8), Vasconcelos (3), Edwards (2), Zhong (1) and Reiter (3). Staff also contributed to a number
+ of Keynote/Invited Presentations and Tutorials, including “Computational Argumentation in the
+ Context of Human-Agent Interaction” (Oren, Keynote, ECAI 2020 and AAMAS 2019),
+ “Introduction to Formal Argumentation Theory” (Oren, EASSS-18), “Normative Multi-Agent
+ Systems” (Vasconcelos, Tutorial, PUC-RS, Brazil, 2014), “Retinal Vascular Geometry: Novel
+ Biomarkers of Progression from Diabetes to Diabetic Retinopathy” (Leontidis, Keynote, British
+ Association of Retinal Screening Conference, 2016), “AI, Health & The Future of Accountable
+ Intelligent Systems” (Edwards, UK-Taiwan AI in Healthcare Workshop, 2019), “Making Trust
+
+                                                                                                 Page 12
+Unit-level environment template (REF5b)
+ Transparent: Realising a Citizen-Centred Internet of Things” (Edwards, UK-Japan IoT
+ Workshop, British Embassy, Japan, 2017), “Trusted Things & Communities: Understanding and
+ Enabling a Trusted IoT Ecosystem” (Edwards, Royal Society of Edinburgh-Taiwan Ministry of
+ Science & Technology Joint Workshop on Internet of Things, 2016), “Social Media, Linked Data
+ & The Context Question” (Edwards, UK-India Social Media Workshop, UK Science & Innovation
+ Network, 2014) and “Evaluating Natural Language Generation Systems” (Reiter, NAACL, 2016).
+
+ 4.3 Contribution to the economy and society
+
+ Our research has contributed to various segments of the economy and society. Research on
+ NLG yielded SimpleNLG, an open-source software system for natural language surface
+ realisation, which is a reference implementation with thousands of adopters/users world-wide.
+ The application of NLG (combined with data mining and process automation) to real-world
+ problems has been very successful, leading to the creation of the company Arria, initially a spin-
+ out SME that has grown significantly over the past six to seven years to become a world leader
+ in the commercialisation of NLG technologies, creating jobs and contributing to the high-tech
+ economy. NLG research has provided technologies to turn physiological data from vital sign
+ sensors into readable reports specifically designed to be handed over to emergency services,
+ which is now being exploited commercially by MIME Technologies to develop industry-leading
+ medical emergency solutions for high-altitude and offshore environments.
+
+ Our research in automated reasoning contributed to the open standard RuleML language used
+ to specify queries and inferences in Web ontologies, mappings between Web ontologies and the
+ dynamic Web behaviours of workflows, services and agents. Research on machine learning has
+ provided algorithms, datasets and reproducible experiments to address problems like improving
+ energy efficiency for food retailers, thus saving money and the environment. Research has also
+ addressed anomaly detection in nuclear reactors via deep learning, increasing EU security.
+
+ Our research has contributed to public engagement and understanding of research through
+ projects like BeeWatch, which – through citizen science – made the general public important
+ players/stakeholders in the monitoring of wildlife in the UK, and “Blogging Birds”, which asked
+ the general public to follow the “daily lives” of birds. The Achieving Self-directed Integrated
+ Cancer Aftercare (ASICA) project gathered computing staff and healthcare specialists to develop
+ software for the education of skin cancer survivors. The software instructed on how to carry out
+ self-examinations and enabled users to send images of skin abnormalities directly to specialists.
+ The solution benefitted patients (e.g., people from remote communities were no longer required
+ to travel to meet health workers, and patients become empowered as they initiate and control
+ the process), specialists (e.g., images can be assessed without the need of a face-to-face
+ consultation) and health services.
+
+ Our research projects, across our themes, have helped build human capacity for the UK, training
+ PDRAs to conduct ethical, open and reproducible research, while focusing on fundamental
+ research (e.g., algorithms, computational models or formalisms) or applied issues (applying
+ fundamental research to specific domains or to solve real-life problems, which includes learning
+ about different domains). They have been coached to disseminate results and engage with
+ stakeholders and the general public and have developed a valuable set of transferrable skills
+ such as communication, teamwork, critical analysis, experimental design and evidence-based
+ thinking, helping them to advance their careers in academia or in industry.
+
+ Our staff contribute to various governmental initiatives such as Opportunity North East Digital &
+ Entrepreneurship (Edwards) to grow a digital economy in the North East of Scotland, the
+ Aberdeen City Deal (Edwards, Coghill) to support various strategic projects (e.g., agri-food and
+ nutrition, bio-therapies and transport) and the Digital Catapult (Innovate UK, EPSRC and KTN;
+ Edwards). We also contribute to the National Decommissioning Centre (Leontidis, Vasconcelos,
+ Oren, Yi and Kollingbaum), a multi-disciplinary (Engineering, Geosciences, Physics and
+ Computing), GBP38m partnership between the OGTC and the University of Aberdeen and part
+
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+ of the Aberdeen City Region Deal, capitalising on our expertise in AI to devise technologies and
+ solutions for the decommissioning of offshore infrastructure.
+
+ Reiter is chief scientist with Arria NLG (global leader in natural language generation) and has
+ been seconded twice to the company in the reporting period; Reiter was also an advisor to
+ MIME Technologies (which seeks to provide inflight and off-shore first-aid support). Vasconcelos
+ works closely with local energy companies, adapting and extending AI techniques to solve real-
+ life problems (e.g., intelligent injection of glycol for BlueGentoo and improving data quality for
+ HyperDAP).
+
+ Our pathways (UG/MSc students to PhD students; PhD students to PDRAs; PDRAs to
+ academics and researchers) contribute to bridging the AI and digital research skills gap,
+ benefitting the economy and society. Additionally, we run a successful research-led MSc in AI
+ programme, providing essential skills to the UK economy. We also help deliver the MSc in Data
+ Science programme and the MSc in Health Data Science. We expect these programmes to have
+ a combined intake of 100-120 students, who will be trained on state-of-the-art and state-of-the-
+ practice AI research.
+
+
+
+
+                                                                                           Page 14
+

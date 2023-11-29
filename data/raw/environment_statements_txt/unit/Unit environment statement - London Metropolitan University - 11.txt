@@ -1,0 +1,763 @@
+Unit-level environment template (REF5b)
+ Institution: London Metropolitan University (LMU)
+
+ Unit of Assessment: 11 (Computer Science and Informatics)
+
+ 1. Unit context and structure, research and impact strategy
+ UoA-11 in the School of Computing and Digital Media (SCDM) at LMU comprises a unique
+ combination of strategic research in cyber threat intelligence modelling; predictive analytics;
+ intelligent security and safety planner; fraud detection using machine learning and Big data;
+ semiconductor device modelling; and wireless communication systems. These areas are brought
+ together to respond to emerging challenges in ICT and society, with the unit proactively engaging
+ with industry in knowledge exchange, to promote a culture of innovation, and by identifying
+ strategic approaches to research of scientific relevance and commercial significance. We enhance
+ our research by bringing together external and internal experts in running seminars and
+ brainstorming sessions, workshops, events, and exhibitions. Examples of these activities include:
+ (i) IEEE inaugural Conference on Blockchain, 2020; (ii) 5G seminar by Mike Short CBE, DIT Chief
+ Scientific Adviser, 2015; seminar on ‘Open Banking’ by William barker (Whitehall) (2019); seminar
+ on Cyber Security by Mark Brett (Programme Director of NLAWARP), 2019; (iii) Lloyds Innovation
+ Exhibition, 2018; (iv) International Workshop on Semiconductor Technology, 2014; Workshop on
+ ‘Big Data – Hadoop’ with Hortonworks Inc., 2017; and British Council supported Workshop on
+ ‘Cyber-Defence Strategies’ in collaboration with Mandi University (India), 2020. We actively create
+ interdisciplinary synergies with other disciplines within the university, e.g. with Psychology on
+ social science research related to online child abuse, and this was done in collaboration with the
+ London Metropolitan Police.
+
+ The primary ethos of our research is on real-world issues, systems-orientation, and
+ interdisciplinarity. We are motivated by solving problems involving stakeholders and data. Our
+ research is strongly characterised by working across conventional sub-field divisions, enabling us
+ to develop distinct areas of leadership that draw on cross-cutting and interdisciplinary expertise.
+ The Unit’s activities are consolidated by research output from our three research centres, namely:
+ (1) Cyber Security Research Centre (CSRC); (2) Intelligent Systems Research Centre (ISRC);
+ and (3) Centre for Communications Technology (CCT). Each research centre is led by a person
+ with experience of directing major research programmes. Head of CSRC is Vassilev, ISRC is
+ Kazemian, and CCT is Virdee. Although each Centre is a cohesive sub-unit, many important
+ research areas (e.g. IoT, cryptography, computer network security, and robotics) are
+ collaborations that cut across the groups. While the Centres provide focus, an important
+ characteristic of the Unit is supporting a collaborative culture in research, innovation and
+ knowledge exchange. Researchers in the Unit are proactive in exploiting the outcomes of their
+ research through consultancy projects that involve knowledge transfer to industry. The Centres
+ provide a supportive environment for the training postgraduate research students (PGRs), the
+ development of their Research Assistants (RAs), the preparation of research bids and working on
+ research and innovation projects. Researchers in the Unit actively contribute to national and
+ international conferences, seminars and workshops. The School’s Research and Knowledge
+ Exchange Committee (RKEC), led by Ouazzane, sets research policy across the School, with
+ cross-group representation comprising staff and PGRs. RKEC takes advice from the School’s
+ Industrial Liaison Group consisting of industry and public-sector advisors. The Research Students
+ Progress Board, led by Kazemian, monitors the progress of the research students. Contribution
+ to UoA-11 is put forward from members of CSRC, ISRC, and CCT.
+
+ With a new Vice Chancellor, who has transformed support for research, including appointing a
+ designated PVC and founding a new Research and Postgraduate Office (RPO), we are well-
+ placed to build on what has been a successful period for our Unit. We have appointed 6 new
+ research active staff in the REF period who have consolidated the research activities of the Unit.
+
+ Over the REF assessment period, the Unit has nurtured strategic aims to enable sustained
+ expansion, with focus on the applied research and innovation in Cyber Security, Intelligent
+ Systems, and Communications Technology to maximize the impactful research produced by our
+ experienced researchers and Early Career Researchers (ECR). Since 2008, the Unit has aimed
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+ to maintain a high research profile in all its main subject areas, and in pursuance of this aim has
+ supported applied research and innovation having clear relevance to the community and industry
+ (especially KTPs, innovation and commercial projects harnessing our research); to fund the
+ growth and maintenance of research centres and groups wherever they evidence excellence; to
+ encourage and mentor promising new areas of research and researchers; to actively pursue
+ sources of external research funding; to contribute essential underpinning for the undergraduate
+ and postgraduate learning experience by demonstrating the relationship between research and
+ learning; to support the professional and academic development of its staff by establishing a
+ research environment conducive to the pursuit of excellence. In the REF period 2014-2020 the
+ Unit’s generated external income of £1,551,718 of which £1,038,000 is recorded as research
+ income. The rest of the income is from research-based consultancies.
+
+ Our vision is to carry out rigorous world-leading applied research that focuses on high-quality
+ research that makes a difference. We have a strong PhD programme and invest heavily in the
+ training of research students and the provision of facilities for these students. Since REF 2014 our
+ research strategy for high quality and impactful research and building a strong and interdisciplinary
+ research community has been achieved by (i) reorganizing research groups for improved critical
+ mass and better alignment with major challenges in computer science and informatics; (ii)
+ investing in the best possible new academic appointments financed by expanding student
+ numbers, KTP, research and innovation grants and consultancy contracts; and (iii) encouraging,
+ rewarding and promoting subject leadership through a strong staffing strategy. Since 2014
+ research in the Unit has continued to thrive, with achievement of excellence in all areas, as
+ evidenced by significant improvement in key performance indicators:
+
+     •   PhDs awarded has risen by 70%.
+     •   Research income and consultancy led research income has increased 36%.
+     •   Research culture has enhanced with the appointment of 6 new academics and
+         contributions by 3 existing academic staff not entered in the last REF.
+     •   Sustained increase of journal outputs (112) in high impact factor outlets.
+     •   Publication of 90 papers at major international conferences.
+     •   External examination of 55 PhD students.
+     •   Peer-review of 72 journal and conference papers.
+     •   £229,766 in funding from prestigious EU collaborations (+£91K will be included in the
+         next REF).
+     •   Establishment of new research facility (Cyber Security Research Centre), with state-of-
+         the-art infrastructural investment of £500,000.
+     •   Investment of £100,000 in the establishment of new Computer Networking Centre
+         housing state-of-the-art Cisco Systems and Palo Alto equipment worth over £1M.
+     •   Engagement on 6 Innovate UK KTP projects.
+     •   Undertaken 13 research-based consultancies.
+     •   Delivered 11 public lectures and 6 keynote/plenary talks.
+     •   Organization of 20 external major research events.
+     •   Presentation at 37 international conferences.
+     •   Editorial work in 8 major journals.
+     •   FTEs submitted up by 67% from 2014.
+
+  Our strategic plan (2021-2026) is aligned with the University’s strategy for the delivery of
+  excellence in research, innovation and impact. The principal elements of our strategy is to
+  achieve the following goals: (i) Embark on larger research initiatives - Use growing critical
+  mass and emergent leadership within groups to build on our strengths and generate larger-
+  scale research programmes; (ii) Prioritize cross-discipline collaboration with other research
+  centres in the University to facilitate opportunities to generate new knowledge and impactful
+  research; (iii) Develop challenging research agendas through relationships with existing
+  network of strategic partners such as Lloyds Banking Group, Callsign, Palo Alto and Cisco
+  Systems. Seeking advice from the School’s Industrial Liaison Group to identify strategic
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+  priorities and create new opportunities for academic, industry, and public-sector research
+  collaboration; (iv) Recruit more research active staff; (v) Complete the recently started EU-
+  Horizon 2020 – SPIRIT (Scalable privacy preserving intelligence analysis for resolving
+  identities) project (Ref. No. 786993); (vi) Publish high-impact research papers; (vii) Increase
+  the number of research PhD research students; and (viii) Increase research studentship
+  funding at PhD and post-doctoral levels.
+
+ Our strategic plan for the Unit is to build on developments achieved during the REF 2021 period
+ to sustain and expand impactful research income, infrastructure and activities to 2026 and
+ beyond. This will be achieved by greatly enhancing our research culture in the next five-year
+ (2021-2026), which is aligned with the university’s strategic plan 2019-2025, and that they will
+ be supported as such. The plans include:
+     § To improve infrastructure to support high-quality, high-impact research.
+     § To increase research staff with workloads for research to at least 50%.
+     § To grow the volume of world-leading and internationally excellent research.
+     § To extend capacity for highly innovative and research-intensive work with industrial
+        partners.
+     § To improve the visibility of our research and the impact it has on some of the biggest
+        challenges facing society today.
+
+  Impact Strategy:
+  Our impact strategy brings together our blue skies research, our extensive industrial training
+  and consultancy, and thus connecting the research and knowledge exchange agendas
+  through a robust impact plan which will extend to all members of our team. This has been
+  achieved by (i) supporting researchers to plan for impact alongside conception of the research
+  project and to maximize impact as and when it occurs; (ii) promoting active engagement of
+  academic staff and researchers with external stakeholders; (iii) developing a common
+  understanding of different types and value of research impact that is independent of research
+  discipline; (iv) supporting PGR students to work closely with stakeholders at the early stages
+  of research planning to maximize the potential impact of the research; and (v) facilitating
+  discussions between PGR students and users of research, including, e.g., representatives of
+  our Industrial Liaison Group, Innovation and Knowledge Exchange Partners, thereby enabling
+  a research-engaged culture. Our leading researchers have developed and sustained
+  exceptional relationships with their external collaborators (e.g. Lloyds Banking Group,
+  Callsign, Cisco, Palo Alto, etc.) to achieve impacts from their research. We are keen to ensure
+  that our research impact culture extends beyond the REF and that as much of our research
+  as possible is focused on being of value to society, as well as informing our curriculum. Our
+  impact is underpinned by a track record of internationally excellent and world-leading
+  research. Most of our research activity has involved external stakeholders from identifying the
+  need for research and formulating research questions, to generate new knowledge,
+  evaluating and communicating the research findings, following and evidencing the uptake and
+  resultant benefits in society, and evaluating the outcomes. Beyond REF 2021 our approach
+  to impact will be:
+
+     §   Geared at strengthening the research capacity of the Unit and engage in high-quality
+         change-making activities that enable our researchers to most effectively amplify the
+         impact of their research in collaboration with and co-production of research with
+         diverse stakeholders, partners and organizations beyond higher education,
+     §   To maximize our engagement with our local enterprise partnerships, councils, and
+         business support organizations,
+     §   Establish and support relevant cross-disciplinary research and innovation,
+     §   Facilitate impactful research collaborations with existing and new partners, especially
+         where these can lead to funding opportunities and advance ambitions,
+     §   Invest in those areas of excellence research most likely to deliver world-leading
+         capacity, and to raise the international reputation of our institution,
+     §   To significantly increase in winning impact-related funding by developing skills for all
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+         researchers to be competitive in winning grants,
+     §   Strengthening existing and emergent areas of research and innovation excellence
+         through a targeted recruitment, retention and succession strategy, and
+     §   Support knowledge exchange activities that ensure our best innovations are readily
+         translated for the economic, cultural and social benefit of users worldwide.
+
+ 2. People
+
+  Staffing strategy and staff development:
+  School of Computing and Digital Media has a well-established and inclusive staffing strategy
+  and staff development in place. With regards to staffing strategy, since REF2014 the Unit
+  has recruited 6 new research orientated academic staff and we endeavor to recruit further
+  research active staff in the near future to consolidate our research activities. Although some
+  staff within the Unit have an established research track record, the unit is building the
+  research profiles of other staff to enhance impactful research. New appointments are
+  assigned established senior staff members with related research as mentors, quickly
+  incorporating the new staff into the department’s research culture. We have established
+  mechanism for promoting and monitoring staff development via our annual staff appraisal
+  system. In the REF period within UoA-11, Vassilev has been promoted to a Reader and
+  Salekzamankhani to Associate Professor. We have also appointed the following new
+  research staff: Li, Fernando, and Kikot. Heads of research centers appraise and line-manage
+  researchers. During the appraisal, staff development is identified, and appropriate tasks are
+  actioned as deliverable targets. Researchers are given sufficient time for staff development.
+
+  Professors in the Unit mentor ECRs to become quality researchers. Training is given to
+  ECRs on how to peer review research outputs and grant applications, apply for external
+  research grants, supervise PhD students, etc. ECR are given opportunity to build networks
+  with industry and academia experts through presentation at international conferences, and
+  are given opportunity for research leave in year 1, ahead of more experienced researchers
+  so that ECRs can travel to major research institutes at home or abroad to build their research
+  skills and expertise as well as partners for collaboration on impactful research. The School’s
+  Industrial Liaison Group is where industrial research and secondment to industry is identified
+  and brought to the attention of line managers and Heads of research centres for approval.
+  Members of staff with no PhD are encouraged to engage in research. One member of
+  academic staff has successfully completed her PhD in the current REF period (Dr Patel) and
+  three members of staff (Fernando, Onadim and Breen) are currently pursuing their PhD
+  research and expected to complete in 2020/2021. We fund some of our PhD students from
+  partnership with industry. We actively encourage ECRs to be part of the PhD supervisory
+  team. Participation at research conferences and seminars are funded by the School.
+
+  The Unit is supportive of the family and personal obligations of all members of staff, such as
+  parents of young children. We allow people with caring responsibilities flexible working
+  conditions, protecting them from teaching and other duties that require University attendance
+  in especially pressured times. This is partly enabled by a culture that supports and
+  encourages staff members to share work collaboratively with colleagues. Members of the
+  three centers in the Unit proactively collaborate with each other on research bids and on
+  research papers. Teams, typically made up of researchers at every stage of their careers,
+  interact energetically throughout the processes of planning, applying for, and undertaking
+  projects. All research bids and papers are read and critiqued by other research staff before
+  submission, allowing researchers to learn about each other’s research.
+
+  Support, training and supervision of PGR students:
+  The University’s Research and Postgraduate Office (RPO) provides support and training to
+  both research active staff and students. RPO is instrumental in bringing together PGR
+  students, academic staff, and others, across the University to make academic life as a
+  postgraduate research student as smooth as possible. This includes academic support for
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+  students at every stage, including advising prospective applicants, and giving PGR students
+  a platform to give feedback and contribute to the student journey. Research staff in the Unit
+  and across the university proactively contribute towards the delivery of training sessions to
+  PGR students on a periodic basis throughout the academic year which is organized by the
+  RPO. The training sessions are designed to help research students negotiate the different
+  phases of their study and the varying challenges each phase presents. In addition, the RPO
+  plays a key part in supporting PGR students and research staff in a variety of ways including
+  induction, drop-in sessions, training on research philosophy, critical review of the literature,
+  supervisory training, sessions on chairing a PhD viva, workshops on writing a successful
+  research bids, research ethics and research project management.
+
+  In the current REF period, the RPO has formed postgraduate research society whose
+  general aim is to build a research community thereby enabling research students from
+  different Schools/disciplines to work together. This promotes and facilitates research
+  students to: (i) Connect with like-minded people for mutual support and peer-support; (ii)
+  Socialize with others through social events, academic seminars and meet-ups outside
+  University; (iii) Promote and develop a research community from all backgrounds and
+  studies; (iv) Meet to develop research ideas among peers; (v) Create network opportunities;
+  (vi) Get support from their whole research journey; and (vii) Attend activities aiming at
+  developing research skills. All research active members of staff, whether experienced
+  researchers or ECR are also given opportunities for a sabbatical period on a regular basis.
+  Furthermore, research members of staff are encouraged to attend short courses to enhance
+  their research knowledge and skills.
+
+  PhD students are an integral part of our research strategy, playing an active part in research
+  activities from writing papers to presenting at our bi-monthly research seminars, as well
+  presenting papers at international conferences and symposia. The Unit’s researchers play
+  an active part in the annual London Met Student and Staff Research Conference. In addition,
+  some research students contribute to teaching undergraduate students and supervise final-
+  year projects. All students have 2 supervisors. Our investment in training and supporting
+  PhDs can be seen in the large number of PhD completions, i.e. 23 in the current REF period
+  as compared to just 11 in REF2014, which constitutes a growth of 109%.
+
+  As part of a strategy for transferable skills training, the Unit provides students with
+  opportunities to learn new skills that promote personal and career development goals.
+  Research students are expected to discuss their training needs with their supervisory team
+  and identify which activities are appropriate/necessary for their research and personal and
+  career development.
+
+  The University wide Researcher Development Programme provides a range of training and
+  development opportunities for PGR students delivered by experts and experienced
+  researchers on a regular basis throughout the academic year. These courses are designed
+  to support researchers in developing a full range of transferable, professional, personal,
+  research, and career skills. The Programme offers a range of courses in four areas:
+  Knowledge and Intellectual Abilities – the knowledge, intellectual abilities and techniques
+  needed to carry out research; Personal Effectiveness – the personal qualities, and career
+  and self-management skills needed to take ownership of and engage in professional
+  development; Research Governance and Organization – the knowledge of the standards,
+  requirements and professional conduct needed for the effective management of research;
+  and, Engagement, Influence and Impact – the knowledge, understanding and skills needed
+  to engage with, influence and impact on the academic, social, cultural, economic and
+  broader context.
+
+  Because the Unit receives numerous internship requests especially from overseas it gives
+  some of these PGR students opportunities for research training. In 2020 alone, several
+  students from France were given an opportunity to engage on research projects in the Cyber
+  Security Centre.
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+
+  Information on research students’ progress monitoring:
+  All research projects must be ethically approved. First year research students receive an
+  induction programme including general and specific taught courses available to PhD
+  students, and targeted Health and Safety training. Students are required to complete a post-
+  registration progress review form twice annually. This includes description of the progress
+  they have made on their research project since the last report to the Research Student
+  Progress Group (RSPG); identify any challenges or problems encountered for which
+  additional support, training or guidance might be required; and, an updated outline of their
+  anticipated timetable for completing the research.
+
+  SCDM operates a rigorous research student progress monitoring mechanism, involving
+  detailed 6-monthly progress reports and an annual review at the RSPG meetings in which a
+  panel consisting of Research Supervisors and Directors of Research Centres and Research
+  Groups assess the progress of the research and advise on the subsequent progression. As
+  part of this process the student supervisors are required to comment on their student's
+  progress in respect of their programme of research. An independent reader appointed by
+  the RSPG also comments on the student’s progress as well and the progress needs to be
+  approved by the RSPG. The university employs two-phase research progression scheme in
+  which the first phase leads to the intermediate degree of MPhil. On approval of MPhil to PhD
+  transfer report the student is only then allowed to progress with their research leading to
+  PhD degree.
+
+  As part of their training, research students are expected to present their research at
+  conferences and symposia. SCDM employs the policy to provide funds to enable all full-time
+  PGR students to attend national and international conferences during their studies on the
+  condition they have published an output at the event. Student are expected to present a
+  poster on their work at the annual Enterprise and Network Day of the School. Effective
+  interaction between PGR students and staff in the School is promoted through regular bi-
+  monthly seminars and social events. External speakers participate in the School’s Research
+  Seminar Series, which raises awareness of key research developments as well as facilitating
+  collaboration. PhD students are required to present their research at one of the research
+  seminars organized by the School to gain experience and confidence in public speaking.
+
+  Supporting Equality, Diversity and Inclusion:
+  The Unit operates within University policies and procedures for equality, diversity and
+  inclusion.
+
+  The Unit, and indeed the University, is committed to ensuring all students, staff and visitors
+  have a positive experience of the learning, teaching, research and work environment.
+  Majority of researchers (staff and students) in the Unit are from the BAME (Black, Asian and
+  Minority Ethnic) community. In fact, 66% of staff submitted in UoA-11 are BAME, which
+  means we profile similarly to our overall student community. The Unit recognizes that BAME
+  students may have different experiences, and therefore needs. Hence, Professors and
+  research staff in the Unit regularly make aware to such students of their availability to provide
+  appropriate support and mentoring should they need it. The University disseminates policy
+  and good practice in relation to both staff and students. We provide training and advice on
+  interpretation and implementation of policies and codes of practice. The University’s
+  Equality, Diversity and Inclusion addresses gender, marital status, age, race, religious belief,
+  political belief, disability, sexual orientation, and responsibility for dependents. The University
+  is preparing application for bronze status of the Athena Swan Charter to promote equality
+  for women in STEM subjects. The University has entered the Stonewall Diversity Champion
+  programme and joined Stonewall's Workplace Equality Index process, to assist us in
+  implementing LGBT+ inclusive policies and practices across the University. The University
+  is taking part in the government's Disability Confident scheme as a Disability Confident
+  Committed employer and have published information to help and support our staff. We
+  support equality of opportunity through open communications to staff about strategic
+
+                                                                                                   Page 6
+ Unit-level environment template (REF5b)
+   initiatives, funding opportunities and training.
+
+   Contributions to the Discipline
+1. Cyber Security Research Centre (Lead: Vassilev)
+2. This is a new Centre created in September 2018. The Centre’s research is critical in
+   addressing cyber security issues, in particular (i) responding to unanticipated cyberthreats;
+   (ii) ensuring the resilience of networked systems; (iii) coping with the fluid nature of identity;
+   and (iv) instilling a cyber-security culture across organizations. To achieve these goals the
+   Centre closely works with researchers in the other two Centers having expertise in
+   computing, intelligent systems, computer networks and electronics and communications.
+   This and the other Centers in the Unit are heavily involved in developing the research skills
+   of members including ECRs not entered in REF. These people are vital part of our research
+   community and it’s important they become world-class researchers through mentoring and
+   participating in workshops, seminars, and conferences. Research profile of some of the
+   Centre’s members is outlined below.
+3.      Ouazzane is full professor of computing and knowledge exchange. He is the research
+   lead at SCDM, the founder of the Cyber Security Research Centre (2018) and has acted as
+   the University’s KTP Director for the period 2014-2018. Since 2014, he has published 22
+   refereed research papers and 11 of which are journal papers (publications in IEEE
+   Transaction on Neural Network and Learning System, International Journal of Situation
+   Awareness, and IEEE Transaction Engineering Management). He has presented papers at
+   various international conferences (e.g. Conference on Applications and Systems of Visual
+   Paradigms 2016, IEEE Cyber Security 2019 Conference, Oxford June 3-4th 2019). He is a
+   peer reviewer for numerous conferences and journals (e.g. IEEE Geoscience and Remote
+   Sensing journal, and IEEE Transactions on Neural Networks and Learning system).
+   Ouazzane has examined over 21 PhD thesis and was a keynote speaker at four international
+   conferences including IEEE Cyber Security 2019 Conference, Oxford June 3-4th 2019, and
+   The Eighth International Conference on Business Intelligence and Technology in 2018.
+        Since 2014, Ouazzane has worked and acted as a consultant for several companies and
+   charities such as Lloyds Banking Group, Barclay cards, Callsign, LifelineIT, Ask outlets,
+   Disability Essex. He has played a major part in bringing businesses and policy makers into
+   the Unit, which has significantly contributed to enhancing the Unit’s infrastructure,
+   embedding the culture of innovation, and developing world-leading research and translating
+   its key aspects into areas of societal importance. Ouazzane was a recipient of two KTP
+   projects 2016-2018 whose outcomes were rated outstanding by InnovateUK. He has
+   organized a number of seminars, workshops and events inviting external speakers from
+   businesses and government bodies to enhance knowledge exchange within the
+   School/University; he organizes the Summer School Enterprise and Networking Day (SEND)
+   inviting businesses, academics and students; organized seminars such as Open Banking
+   delivered by a speaker from the Whitehall-2018; co-organized workshops such as ‘Hadoop
+   big data platform’ delivered by Hortonworks from the US-2017; co-organized the launch of
+   IEEE blockchain in the UK and Ireland hosted by London Metropolitan University in February
+   2020, the first one of its kind in the UK; co-organized and participated at the inaugural of
+   Lloyds Innovation Community exhibition, held on 20th November 2018 at the Royal
+   Horticultural Society, Westminster.
+        Ouazzane is a Fellow of British Computer Society, Senior Member of IEEE and a Senior
+   Member of American Society of Mechanical Engineering. He was appointed as non-
+   executive Director at LifelineIT Ltd. (2014-2017) overseeing the development of the
+   company Security policy framework. Ouazzane is currently the Chair of the European Cyber
+   Security Council at Brussels; overseeing discussion about the increasing range of
+   vulnerabilities created by the introduction of new technologies and business model like
+   BYOD. He is also working on EU Network and Information Security Directive and the reforms
+   to EU data protection legislation. Since 2015 he has been a guest member of InnovateUK
+   sitting on grants ‘panels such as proof of concept and proof of prototype. Since 2018,
+   Ouazzane has been a member of Parliament Internet Communication Forum at Westminster
+   debating strategic topics such as ‘Impact of AI on the UK economy’, 5G network technology
+
+                                                                                                   Page 7
+ Unit-level environment template (REF5b)
+   in the UK and cyber threat on the UK grid energy.
+
+   Since 2014, Vassilev has published 16 peer-reviewed papers, 5 of which are journal articles
+   published in refereed international journals. Vassilev is a member of British Computer
+   Society, Bulgarian Association of Artificial Intelligence and European Big Data Value
+   Association. Since 2014 he has peer reviewed articles for several IGI international journals
+   and examined 7 PhD students.
+        During the last 5 years Vassilev contributed in the organization of the Second and the
+   Third International Conference on Recent Trends and Challenges in Computational Models
+   (ICRTCCM) and has been keynote speaker at 3 international conferences: International
+   Conference on Recent Trends and Challenges in Computational Models (ICRTCCM2017,
+   Tindivanam, India; Keynote title “Programming vs. Component Development: Evolution of
+   Enterprise Computing and its Challenges to University Education”), IEEE Conference on
+   Cloud Computing, Data Science and Engineering (CONFLUENCE2020, Noida, India;
+   Keynote title “From Pages on the Fly to Workflows in the Cloud: Evolution of Web
+   Computing”), International Conference on Artificial Intelligence and Applications
+   (ICAIA2020), Janakpuri, India; Keynote title “AI on Demand through Hybridization and
+   Containerization”), International Summer School on Big Data Technologies (GATE Summer
+   School 2018, Sofia, Bulgaria; Keynote title “Introduction to Big Data Management using
+   Hadoop”) and UK Data Mining Society (Annual Meeting 2015, London, UK; Keynote title
+   “Enhancing online analytics tools with dynamic user profiling using intelligent methods for
+   classification”).
+        In the REF period, Vassilev has given 4 keynote talks and presented papers to the World
+   Congress in Computer Science in Las Vegas, USA (2016), 21st International Conference on
+   Metadata, Semantics and Ontologies in London, UK (2019), 10th IEEE Conference on Cloud
+   Computing, Data Science and Engineering in Noida, India (2020) and 2nd International
+   Conference on Artificial Intelligence and Applications in Janakpuri, India (2020). Over the
+   last five years Vassilev has been also a regular presenter of invited talks at the Royal Institute
+   in London (2017, Model-based Individual and Group Dynamic Behaviour Analysis; 2018,
+   How to Authenticate Yourself Online; 2019, How to make intelligent programs). He has led
+   4 projects under Knowledge Transfer Partnership and Cyber ASAP programmes of
+   InnovateUK, funded by UK DCMS, and 6 consultancy projects, funded by Lloyds banking
+   Group. Vassilev is also an external consultant for the biggest Horizon 2020 project for
+   establishing of a Centre of Excellence in Big Data Technologies in Sofia, Bulgaria. He is the
+   recipient of outstanding award for contribution to the National Programme of InnovateUK,
+   2014.
+
+   Intelligent Systems Research Centre (Lead: Kazemian)
+4. The Centre’s research is on application of artificial intelligence and machine learning to
+   improve a wide variety of IT-based systems, devices, and software in domestic, medical,
+   and industrial products. Research activities include data mining and data warehousing,
+   virtual learning environments (VLE), pattern recognition, natural language processing,
+   cognitive science, biometrics and GIS database performance, parallel distributed systems,
+   and agent-based approach for building data warehousing. Profile of a couple of the Centre’s
+   members is given below.
+        Kazemian leads Intelligent Systems Research Centre. Since 2014, he has published 11
+   refereed journal papers and 7 refereed international conference papers predominately in the
+   applications of Artificial Intelligence and Machine Learning to membrane protein, IT security,
+   identity resolution, steganography, cryptography, Neuro Linguistic Programming,
+   watermarking, remote sensing, WiFi and ZigBee. He is a member of the Editorial Board of
+   ICTACT Journal of Soft Computing and since 2014 he contributed to three international
+   conferences as program committee member, technical advisory committee and session
+   chair. He has obtained three grants and one KTP as principal investigator: (i) EU-Horizon
+   2020 – SPIRIT (Scalable privacy preserving intelligence analysis for resolving identities)
+   project in 2018. This EU funded research project has 17 European partners. The outcome
+   of the research project will be used by six police forces across Europe, Thames Valley
+   Police, West Midlands Police, European Centre of Psychology Investigation and
+
+                                                                                                   Page 8
+Unit-level environment template (REF5b)
+  Criminology, Antwerp Belgium Police, Hellenic Police Borders Unit in Greece, Polish Police
+  Academy and Ministry of internal affairs of the Republic of Serbia adding to the impact of
+  this research work; (ii) EPSRC on two occasion as a peer review college member activities;
+  (iii) KTP in 2015 with eConnect Cars and EV Technology. He is peer review college member
+  for EPSRC. Kazemian has eight PhD completions since 2014. He has supervised three
+  postdoctoral research fellow/assistants: Michael Phillips from Sept.2015-Sept.2017 for KTP
+  eConnect Cars, Amirhosseini for the EU-Horizon 2020 Spirit project from Nov.2018-
+  March2020, and M. Phillips for the EU-Horizon 2020 Spirit project from Dec.2019. He has
+  examined 12 MPhil/PhDs during this period. He is a Chartered Engineer (CEng), Fellow
+  British Computer Society (FBCS) and Fellow of Institute of Engineering and Technology
+  (FIET).
+        Kikot specializes in Artificial Intelligence. Previously he was a postdoctoral researcher
+  at the University of Oxford, where he worked on query planning in databases. Prior to this
+  he was a researcher at Birkbeck College included ontology-based data access. He has
+  contributed to the development of the Russian search engine Yandex, where he applied his
+  expertise on automated reasoning, natural language processing, web navigation and
+  information retrieval. Kikot has published eight research papers since 2014.
+
+  Centre for Communications Technology (Lead: Virdee)
+  Research in Communication Technology has a long tradition at London Met and is now
+  integrated in UoA-11. This is a natural development as the field has moved from roots in
+  electrical engineering to embrace computer networking, software modelling, IoT and
+  robotics. People in this Centre contribute to the research activities and consultancy projects
+  of the other two Centres in the Unit. Profile of some of the Centre’s members is given below.
+       Since 2014, Virdee has published over 200 research papers, 87 of them in journals
+  including Scientific Reports which is an open access journal from the publishers of Nature
+  and the 11th most cited journal in the world; IEEE Transactions on Antennas and
+  Propagation; IEEE Access; IEEE Antennas and Wireless Propagation Letters; IET
+  Microwaves, Antennas and Propagation; International Journal of Electronics and
+  Communications; Journal of RF and Microwave Computer-Aided Engineering; Microwave
+  and Optical Technology Letters; Journal of Electromagnetic Waves and Applications; IETE
+  Journal of Research; International Journal of Microwave and Wireless Technologies;
+  Electromagnetics; Optik; Electromagnetic Waves and Applications; Radio Science;
+  International Journal of Microelectronics and Computer Science; Electronics; Progress in
+  Electromagnetics Research Letters; Journal on Wireless Communications and Networking;
+  Wireless Personal Communications; and ICT Express. In addition, he has co-authored one
+  book and 6 book chapters.
+      Virdee is Fellow of the Institution of Engineers and Technology (IET), Senior Member of
+  IEEE and Senior Fellow of HEA. Virdee is Chair of IET Technical Professional Network on
+  RF and Microwave (since 2018) and Executive Member of the IET Technical Professional
+  Network (since 2011). He serves as Chair in the Technical Programme Committee of EuCAP
+  since 2018, and International Program Committees of (i) OPTICS (since 2015); and (ii)
+  ELECO (since 2011). He is Journal Editor for Cogent Engineering, Taylor and Francis Group
+  (since 2017), Editorial Boards of RFMiCAE, Wiley (2016-2018), Far East Journal of
+  Electronics and Communications (since 2012), Guest Editor Int. Journal of Antennas and
+  Propagation, Hindawi Publishing Corporation (2014), and Int. Journal of Antennas (since
+  2015).
+       Virdee is a peer reviewer for EPSRC research bids and has been a member of the
+  judging panel of IET’s Innovation Awards since 2014. Since 2014 Virdee has examined over
+  30 PhD thesis internationally and has organized and participated in the following research-
+  based events: IET International conference on “Towards 5G Mobile Technology – Vision to
+  Reality”, The Royal Society, London (19 Nov 2015); MOS-AK/GSA Workshop on
+  "Semiconductor Technology and Device Modelling” at London Met 28-29 March, 2014; The
+  2nd Annual Active and Passive RF Devices Seminar, IET Birmingham, 29 October 2014;
+  IET Conference on “5G Technology – The Future of Mobile and Wireless Communications
+  Technology” Savoy Place London, 30 Oct 2014; IET Conference on “The 5G revolution –
+  Movers and Shakers" Savoy Place London, 25 Jan 2017; IET Conference on “5G - State of
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+  Play", Savoy Place London, 24 Jan 2018; IET Conference on “5G - The Advent", Savoy
+  Place London, 30 Jan 2019; and IET Conference on “5G - Unleashed", Savoy Place London,
+  29 Jan 2020.
+     Virdee has been involved in the professorial promotion panels at Australian College of
+  Kuwait, 28 June 2018 and Leeds Metropolitan University, 12 March 2019.
+      He has presented research papers at various international conferences including IEEE
+  MTT-S International Microwave Symposium, San Francisco, USA, 22-27 May 2016; IEEE
+  MTT-S Int. Microwave Symposium, USA, 4-9 June 2017; IEEE Int. Conference on Advanced
+  Information and Communication Technologies, Lviv, Ukraine 2-6 July 2019; and IEEE Asia
+  Pacific Microwave Conference, Singapore, 10-13 December 2019. He has been a peer
+  reviewer for various journals and conferences including EuCAP, Applied Sciences, ELECO,
+  IETE Journal of Research, Frequenz, PIER Journal, IEEE Transactions on Antennas and
+  Propagation, IEEE Access, Int. Journal of Electronics and Communications, IEEE
+  Transactions on Antennas and Propagation, Royal Society Open Science, Sensors,
+  Electronics, Journal of Electromagnetic Waves and Applications, Int. Journal of Engineering
+  Science and Technology, Chinese Optics Letters, Int. Journal of Engineering Science and
+  Technology, Int. Journal of RF and Microwave Computer-Aided Engineering, IEEE
+  Microwave and Wireless Components Letters, EMERGING, Analog Integrated Circuits and
+  Signal Processing, Electronics Letters, Radio Science, and Results in Physics.
+
+  Since 1988, Brinson is a Fellow of The Institution of Electrical Engineers (FIET). He was
+  instrumental in organizing MOS-AK/GSA Workshop on "Semiconductor Technology and
+  Device Modelling” at London Met 28-29 March 2014. Since 2014, Brinson has given
+  numerous public lectures on his research activities including (i) IEEE EDS mini-colloquium,
+  24 June 2015, Torun Poland; (ii) IEEE EDS Distinguished Lecturer mini-Colloquium on GaN
+  HEMT Technology, 22 June 2016, Lodz, Poland; (iii) IEEE EDS Distinguished Lecturer Mini-
+  Colloquium, 21 June 2017, Bygoszcz, Poland; (iv) IEEE EDS Distinguished Lecturer Mini-
+  Colloquium, 21 June 2017, Bygoszcz, Poland; (v) IEEE EDS Distinguished Lecturer Mini-
+  Colloquium, 20 June 2018, Gdynia, Poland; (vi) IEEE EDS Distinguished Lecturer Mini-
+  Colloquium, 26 June 2019, Rzeszow, Poland; (vii) IEEE EDS Distinguished Lecturer Mini-
+  Colloquium, 25 June 2020, Wroclaw, Poland. Mike was chaired at several international
+  conference sessions including: (i) MIXDES 2015, Special session III (Part 1): Open Source
+  Compact/SPICE Modeling, 25 June 2015, Toruń, Poland; and (ii) MIXDES 2019, Special
+  session II (Part 2): Compact Modeling for Nanoelectronics, 27 June 2019, Rzeszów, Poland.
+       Brinson has presented research papers at international conferences and workshops
+  including (i) MOS-AK/GSA Workshop on "Semiconductor Technology and Device
+  Modelling,” 28-29 March, 2014; (ii) 7th International MOS-AK Workshop, Berkeley, USA,
+  December 12, 2014; (iii) 12th MOS-AK ESSDERC/ESSCIRC Workshop, September 26,
+  Venice, 2014; (iv) MOS-AK Workshop at DATE Conference, March 12, 2015, Grenoble,
+  France; (iv) 22nd International Conference Mixed Design of Integrated Circuits and Systems
+  (MIXDES). 25-27 June, Torun, Poland, pp. 192-197; (v) 8th International MOS-AK
+  Workshop, Washington DC, 9 December 2015; (vi) 13th MOS-AK ESSDERC/ESSCIRC
+  Workshop, 18 September 2015, Graz; (vii) 23rd International Conference Mixed Design of
+  Integrated Circuits and Systems (MIXDES), 23-25 June 2015, Lodz, Poland; (viii)
+  International Siberian Conference on Control and Communications (SIBCON), May 12-14,
+  2016, Moscow, Russia; (ix) 23rd International Conference on mixed design of integrated
+  circuits (MIXDES), ISBN: 978-83-63578-09-1; (x) 14th MOS-AK ESSDERC/ESSCIRC
+  Workshop, September 12, 2016, Lausanne; (xi) 24th International Conference Mixed Design
+  of Integrated Circuits and Systems, 22-24 June 2017, Bydgoszcz, Poland; (xii) MOS-AK
+  Workshop, 31 March 2017, Lausanne, Switzerland; (xiii) 25th International Conference-
+  MIXDES, 21-23 June 2018, Gdynia, Poland; (xiv) 26th International Conference Mixed
+  Design of Integrated Circuits and Systems (MIXDES), 27-29 June 2019, Rzeszow, Poland;
+  (xv) 49th European Solid-State Device Research Conference, 23-26 September 2019; (xvi)
+  12th International MOS-AK Workshop Silicon Valley, Santa Clara, California US, December
+  11, 2019; and (xvii) MOS-AK Workshop THM Giessen, Germany, March 17-18, 2020.
+      Since 2014, Brinson has peer-reviewed numerous journal and international conference
+  papers including (i) International Journal of Electronics; (ii) Journal of Numerical Modelling:
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+  Electronic Networks, Devices and Fields; (iii) IET Circuits, Devices and Systems; (iv) IEEE
+  International Conference on Modeling of Systems Circuits and Devices; and (v) Special
+  Issue of Solid-State Electronics covering MOS-AK compact modelling of devices from 2018
+  to 2020. Mike was a keynote speaker at the 27th International Conference Mixed Design of
+  Integrated Circuits and Systems, 25-27 June 2020, Wroclaw, Poland.
+
+ 3. Income, infrastructure and facilities
+
+  Research income:
+  The Unit encourages and supports research investigators to exploit a diversity of funding sources
+  to avoid overdependence on a small number of income sources. Sources of public and private
+  funding have included: EU-Horizon 2020, InnovateUK knowledge transfer and innovation
+  projects, UK and overseas industry consultancy projects. During the REF 2021 period up to
+  2019-20 as per HESA record the income generated by the Unit under various research funding
+  schemes is £1,038,000. The total income in the REF period from both research and consultancy-
+  led research projects is £1,551,718. Research and consultancy-led research projects undertaken
+  include:
+
+  §   £103,000: Lloyds Banking Group (User-centric testing of an authentication service for voice-
+      controlled devices)
+  §   £98,000: Lloyds Banking Group (Cross-channel security policy in digital banking)
+  §   £36,600: Lloyds Banking Group (Technological proof of concept for fraud analysis in digital
+      banking using big data tools and technologies)
+  §   £46,214: Lloyds Banking Group (Behavioural biometrics for customer authentication in online
+      banking)
+  §   £78,000: Lloyds Banking Group (Next generation fraud analytics on big data platform)
+  §   £108,000: Lloyds Banking Group (Building threat intelligence model for logical vulnerabilities
+      in cross channel transactional monitoring using machine learning techniques)
+  §   £95,000: Callsign (Cross channel fraud detection framework in financial services using
+      recurrent networks)
+  §   £107,000: InnovateUK KTP (Development of a forecasting solution which will help identify
+      trends and facilitate optimum stock management)
+  §   £108,000: InnovateUK KTP (To build a knowledge management system to support the
+      transformation of the traditional reactive production business into a modern productive and
+      profitable knowledge intensive and proactive business, including the company’s culture)
+  §   £103,000: InnovateUK KTP (Beacon–based authentication)
+  §   £8,000: Consultancy (Logical vulnerability analysis and security risk assessment)
+  §   £38,600: InnovateUK KTP (Strengthening the marketing and CRM capability of the
+      company)
+  §   £13,040: InnovateUK ASAP (Institutional trust, secure and scalable sharing of clinical data
+      in healthcare systems)
+  §   £11,1111: InnovateUK ASAP (Enhancing network intrusion protection systems with
+      predictive capability for stopping unknown malicious attacks)
+  §   £118,684: InnovateUK KTP (Bespoke software development for large scale use of electric
+      vehicles)
+  §   £185,000: EU Horizon 2020 project 'SPIRIT' No. 786993. (the remaining £91,000 will be
+      included in the next REF period)
+  §   £59,703: Research consultancies for LD Didactic GmbH, Agilent Technologies, EDA
+      Solutions.
+  §   £44,766: EU Horizon 2020 (Fricke und Mallah Microwave Technology GmbH)
+  §   £190,000 – Charities
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+
+
+ Infrastructure and facilities:
+ The University provides truly world-class library facilities, comprehensive information system and
+ computing services. In the REF 2021 period the School invested £500,000 to expand and establish
+ a new Cyber Security Research Centre, within which provides space for our external industry
+ partners Lloyds Bank, Cisco Systems and Callsign. During the first year of operation the Centre
+ established the first private cloud of the University, based on the industry leading Kubernetes
+ system and operated entirely by the staff of the Centre. The Cyber Security Research Centre has
+ an innovation hub where businesses, academics and research students work together for
+ embedding a culture of innovative. It is a well-equipped facility that includes a dedicated laboratory
+ for cyber security, digital forensics and data analytics. Facilities in the centre includes: 53x I7
+ Desktops; Collaboration desk; Audio-visual facilities; BT lease line (100MGB); 3 physical powerful
+ servers for Big Data and cyber security; a relished 4G Access point; Eduroam Access point;
+ Access point for virtual network; private cloud environment (Kubernetes); FTK toolkits and
+ Cellebrite for mobile forensics; 30 Raspberry pi and Arduino kits and 2 dedicated technicians for
+ the lab maintenance. The University also invested £100,000 in the establishment of a specialist
+ Computer Networking Lab housing state-of-the-art Cisco Systems and Palo Alto equipment worth
+ over £1M for research requiring set-up and dynamic automation of realistic network user
+ scenarios. This investment has substantially expanded the existing facilities and added dedicated
+ environment for research/development activities in computer networking. All our research students
+ have a dedicated office room. The Unit has a range of specialist computing facilities, e.g. mobile
+ platform development environments and personal computing devices. A large suite of software
+ products is available for doing research using state-of-art tools, including Labview, MATLAB, 3ds
+ Max and Adobe CS5, Opnet, Hadoop, Kubernetes, etc. and instrumentation equipment (e.g.
+ Vector Network Analyser, Spectrum Analyzer, Anechoic Chamber etc.) necessary to conduct
+ research in the Unit. We have dedicated labs that accommodate research in computer science
+ and informatics, cyber security, computer networking, wireless communications (5G, RFID, IoT),
+ Robotics, digital signal processing, games, and microprocessor systems. We have a PCB
+ production lab that enables research students to design and build electronic circuits and devices.
+ Specialist technicians based in the labs provide software and hardware support for all research
+ projects while university central services provide dedicated staff to support the general-purpose
+ computer science labs, networks and standard software builds for computers. Our researchers
+ have online access to top journal including IEEE Explore, IET, Wiley, Cambridge University Press,
+ etc. The Research Office and a Finance Officer provide administrative support for the School in
+ terms of preparing, costing and submitting bids.
+
+ 4. Collaboration and contribution to the research base, economy and society
+ Our research culture is to provide opportunities to industry and commerce with new ideas,
+ techniques and methods for the betterment of the economy and wider society. This enables us to
+ transfer computing know-how and rigor into other traditions thus expanding our research base
+ across a wide range of disciplines. Our research is highly collaborative, frequently involving
+ partner disciplines that are more public facing than computer science tends to be, giving us an
+ opportunity to strengthen the discipline of UoA-11 through engagement with a wider society.
+
+ Research collaboration and mechanisms to promote collaborative research:
+ The success of the Unit is because of our long-established culture of strategic collaboration with
+ our external partners. Over the REF period our staff have engaged in collaboration with numerous
+ national and international companies and institutions. We collaborate with companies through
+ KTPs, through consultancy, EU Framework grants, and through direct commercially funded
+ contract research. Collaborating companies and institutions include Lloyds Banking Group;
+ Callsign; Fricke und Mallah Microwave Technology GmbH; LD Didactic GmbH; Agilent
+ Technologies; EDA Solutions; Nydor Syskus Technologies Anonymosetairia, Greece; A E
+ Solutions (Bi) Limited; Fraunhofer Gesellschaft Zur Foerderung Der Angewandten Forschung
+ E.V., Germany; Universidad Autonoma De Barcelona, Spain; Singularlogic Anonymi Etaireia
+ Pliroforiakon Systimaton Kai Efarmogon Pliroforikis, Greece; Linkopings Universitet, Sweden;
+ Centro Europeo Di Psicologia Investigazione E Criminologia, Italy; Stad Antwerpen, Germany;
+
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+ Wyzsza Szkola Policji W Szczytnie, Poland; West Midlands Police Authority; Police And Crime
+ Commissioner For Thames Valley; Ministarstvo Unutrasnjih Poslova Republike Srbije, Serbia;
+ Hellenic Police,Greece; Live Srl, Italy, Swiss Federal Laboratories for Materials Testing and
+ Research; Leibniz Institute for Solid State and Materials Research Dresden, Germany; Research
+ Institute for Solid State Physics and Optics, Budapest, Hungary; Corrosion and Metals Research
+ Institute, Stockholm, Sweden; Imperial College London; Univ. of Antwerp, Belgium; Univ. of
+ Oviedo, Spain; St. Petersburg State Univ., Russia; Univ. of Belgrade, Serbia; Indiana Univ., USA;
+ AQura GmbH, Germany; LECO Instrumente Plzeň, spol., Czech Republic; Thyssen Krupp Steel
+ AG, Germany; Shiva Europe EAG, France; and TOFWERK AG, Switzerland. Our research
+ activities and strengths have been heavily informed and shaped by our collaborations.
+
+  Collaborating with users is a natural part of our research and impact strategies. Much of our work
+  is widely disseminated and the anticipation of that dissemination is fundamental to the thinking
+  in the research. For example, Kazemian is part of a €5 million EU-funded Horizon 2020 project
+  which is helping law enforcement agencies stop cybercriminals. Based across 17 organization in
+  Europe, the EU-funded ‘Scalable privacy-preserving intelligence analysis for resolving identities’
+  (SPIRIT 786993) project will help law enforcement agencies identify cybercriminals by
+  developing sophisticated artificial intelligence-based (AI) tools that can analyze millions of pieces
+  of data from a wide range of sources, including the so-called Dark Web. London Met is the only
+  university from the UK involved in this ground-breaking EU-Horizon 2020 project.
+
+  In terms of professional leadership activities, as is evident in Section 2, our research active staff
+  collectively hold editorships and editorial board memberships. In addition, some members are
+  Fellows of IET, senior members of IEEE, and the BCS; 2 have served as members of the EPSRC
+  Peer Review College during the period; 1 is Chair and Executive Member of IET Technical
+  Professional Network; 1 has served in judging panel of IET’s Innovation Awards since 2014. As
+  is evident in Section 2, during the REF period members of the School have given invited keynote
+  addresses at international conferences, workshops, research seminar and have organized or co-
+  organized conferences or workshops, examined PhD thesis nationally and internationally.
+
+  We also work with our specialist business incubator, Accelerator, in Shoreditch, the heart of
+  London’s ICT and digital media community (https://accelerator-london.com/), with our
+  researchers in the Unit providing expert help, advice and support. In 2019, the Accelerator
+  generated revenue of £24.3M, created 94 jobs and raised £10M of investments.
+
+  The Unit has several mechanisms to facilitate research collaboration with other institutions and
+  industry. To aid this, the Unit hosts bi-monthly research seminars where external guest speakers
+  are invited from other HEIs, industry and commerce. This informal forum allows research active
+  staff to network and seek opportunities for collaboration. We have Industry Liaison Group
+  comprising of industry members some of whom collaborate on research projects. Students and
+  staff exhibit their work through posters, demonstrations and talks at our annual Research and
+  Enterprise Day. We invite external guests to the event from industry and commerce. This is a
+  show case event that provides our staff to discuss with external people ideas for research,
+  funding opportunities, KTP ventures and consultancies. The external guests help us understand
+  professional practice and help us bring those ideas to computing as well as bringing computing
+  ideas to these practices. Research staff regularly attend conferences and external academic
+  institutions and industry to network for collaboration partners.
+
+
+
+
+                                                                                               Page 13
+

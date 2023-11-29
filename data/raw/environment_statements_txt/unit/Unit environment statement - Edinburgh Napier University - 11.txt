@@ -1,0 +1,1049 @@
+Unit-level environment template (REF5b)
+ Institution:
+ Edinburgh Napier University
+
+ Unit of Assessment:
+ Unit of Assessment 11 – Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Computing and Informatics at Edinburgh Napier University (ENU) comprises 62 Category A
+ staff. 41 (66.1%) are significantly responsible for research (SRR) according to our Code of
+ Practice, and therefore included in our REF submission. 61 of these staff are members of the
+ School of Computing (SoC).
+
+ The vision of the School is:
+
+        To deliver research and teaching in computer science that improves lives in the UK and
+        beyond. Improvements range from technology with impact in national, economic and
+        personal security; applying artificial intelligence to benefit the environment; bringing
+        technology into homes and spaces to improve wellbeing; the use of information for
+        societal development; and innovation in learning approaches to promote aspiration and
+        inclusion.
+
+ Structure
+ As noted in REF5a, in 2015 a University-wide decision was made to integrate research institutes
+ within School structures. This offered an opportunity to re-organise research within the School of
+ Computing in a way that reflected areas of strength and critical mass.
+
+ Four clusters were formed as detailed below, each led or co-led by a senior academic who
+ provides over-arching vision and strategic direction. Each cluster provides opportunity for cross-
+ collaboration on a broad range of topics, while specialism subgroups within each cluster meet on
+ a weekly basis. A School Head of Research (currently Prof. Paechter) provides overall strategic
+ direction for the School’s Research. The clusters are:
+
+       Cyber Security and Cryptography (eight staff SRR)
+       Internet of Things (IoT) and Smart Systems (nine staff SRR)
+       Applied Artificial Intelligence (AI) & Data Science (15 staff SRR)
+       Creative and Social Informatics (13 staff SRR – five submitted under UoA34)
+ The Cyber Security and Cryptography Cluster (Prof Buchanan) focuses on citizen-centric
+ systems such as digital health. The Cyber Systems and Cryptography subgroup undertakes
+ research around the creation, analysis and investigation of information systems which respect
+ ownership, privacy, consent and governance. There is considerable overlap with the Applied
+ AI/DS cluster in incorporating privacy-preserving and adversarial AI methods into these
+ domains.
+
+ The IoT and Smart Systems Cluster (Prof Al-Dubai and Prof Liu) focuses on the design of
+ cognitive and integrated solutions for smart connected spaces from interdisciplinary IoT and
+ software engineering perspectives. It comprises two interlinked groups: the IoT and Future
+ Networks Group (Al-Dubai), focusing on IoT and networking innovation across trusted
+ infrastructures, and the Intelligence-Driven Software Engineering Group (Liu), that develops
+ novel intelligent approaches, models and tools for new IoT-based smart systems.
+
+ Within the Artificial Intelligence and Data Science Cluster (Prof Hart and Prof Hussain),
+ there are two research groups. The Nature-Inspired Intelligent Systems group (Hart) applies
+ methods inspired by evolutionary and social systems in optimisation and robotics domains and
+ to build socio-technical systems. The Data-Science group (Hussain) aims to advance and
+ integrate cross-disciplinary, problem-driven research across Data Science and AI, combining
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+ theory and practice. Areas of particular focus are text analysis and natural language generation,
+ and visualisation, with an emphasis on explainability.
+
+ The Creative and Social Informatics Cluster (Prof Hall and Dr Smyth) has two groups. The
+ Interaction Design Group (Smyth) focuses on the design of technology to create novel products,
+ services and experiences. The Centre for Social Informatics (Hall) provides critical perspectives
+ on sociotechnical interactions across a range of subject areas. As this group conducts
+ interdisciplinary work connecting technology with social-science, the majority of its staff are
+ returned under UoA34, although many of the funded projects and PhD supervisions within the
+ group are collaborations with staff submitted under UoA11.
+
+ Additionally, the new research Centre for Computing Education (Prof Smith) was formed
+ during this period. This is a developing area that builds on teaching excellence in the school to
+ focus on student placements, work-based learning, digital skills development and educational
+ models in the context of widening participation and inclusion (one person is SRR).
+
+ A bi-weekly meeting of all Heads of Research groups, chaired by the Head of Research,
+ ensures a collegiate atmosphere, facilitating inter-group collaborations. This is complemented by
+ an annual School Research Conference, and an all-hands School Research meeting each
+ January.
+
+ Weekly research-group meetings bring together PhD students, post-doctoral researchers and
+ staff. We encourage cross-attendance of staff to promote inter-disciplinary work. The
+ effectiveness of these meetings in fostering a sense of belonging and collaborative approach to
+ working was clearly demonstrated during COVID-19, when meetings became virtual and
+ provided an important focal point during the week. We firmly believe that this enabled us to
+ continue to produce excellent research outputs and win funding throughout this period.
+
+ Strategy 2014-2020
+ Both the University Strategy 2020 (see REF5a) and our strategy in 2014 have set the agenda
+ during the REF period. In 2014, we stated that we aimed to:
+
+       increase the numbers of our PhD students
+       grow our research income by working with SMEs and obtaining commercial income
+       capitalise on key opportunities to grow research strengths
+
+ These aims have been achieved.
+
+ PhD students: we have successfully grown our PhD cohort. For REF 2014 we reported 20 PhD
+ completions. 42 are returned for REF2021, i.e. a 100% increase.
+
+ Research income: external income for the previous period was £4,735,835 over five years. We
+ have considerably exceeded this with a total income of £6,357,927 (an increase of 34.25%). We
+ highlight significant recent successes in winning significant (>£100K) funding. A total of £4.5M in
+ new project funding (including EPSRC/EU awards) has been won in 2020 and early 2021, but
+ does not have spend in the period (3 projects had delayed starts due to COVID-19).
+
+ The areas of research which we identified for expansion in 2014 were Digital Health, Urban
+ Interaction Design, Autonomous and Adaptive Computing and Data Analytics.
+
+ In Digital Health, the School has:
+
+       Obtained a £3.2 million EPSRC programme grant (Hussain) under the Transformative
+        Healthcare Technologies 2050 Call on cognitively-inspired 5G-IoT enabled, multi-modal
+        Hearing Aids (COG-MHEAR, start March 2021, £1.3M).
+       Led a Health Blockchain project (Buchanan), funded by Data Lab and Spiritus
+        Development Limited (2017-2019, £122K). The partnership which included NHS National
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+        Services Scotland successfully delivered trusted asset tracking using blockchain
+        methods.
+       Won a £86K DHI grant (Buchanan, 2018-21) “Next Generation Connectivity within
+        Health and Well-being”, to evaluate and demonstrate the potential of 5G connectivity
+        within health care.
+       Won a £215K DHI grant (Buchanan, 2018-20) to build a trust, governance and consent
+        framework for health and social care applications, and develop new licencing models for
+        companies to provide and consume health and social services.
+       Appointed 3 ECAs (Pitropakis, McKeown, Tan).
+ In Urban Interaction Design, the School has:
+
+       Led one and participated in two EU projects (UrbanIxD project (FET Open); MAZI project
+        (EU CAPSSI); SpeculativeEDU (Erasmus+)).
+       Won a Creative Informatics project (ENU, University of Edinburgh, CodeBase and
+        Creative Edinburgh) (£7.5M total, £1.3 million to Napier) through the AHRC Creative
+        Industries Cluster Programme.
+       Appointed 2 ECAs (Sobolewska, McGowan).
+ This research has been supported by the creation of two new labs. The Sensorium focuses on
+ biometric data for evaluation and the E11 Studio specialises in digital prototyping and the role of
+ data in the creative industries.
+
+ In Autonomous and Adaptive computing, the School has:
+
+       Invested in a swarm-robotics laboratory equipped with a swarm of 50 heterogeneous
+        robots, and two research assistants to run it. This investment was fundamental in later
+        securing a £366K 4-year EPSRC grant on robotics (Hart, 2019).
+       Invested in 2 NAO robots, boosting our work in human-robot interaction and instrumental
+        in an ECA (Gkatzia) securing a £280K EPSRC New-Investigator award.
+       Won a £380K EPSRC project called “Keep Learning” in December 2020 (Hart).
+       Appointed 1 ECA (Steyven).
+ In Data Analytics, the School has:
+
+       Appointed two senior professors bringing expertise in privacy-preserving and explainable
+        machine-learning, with a focus on health applications (Hussain, 2018) and theoretical
+        data-science (Liotta, 2019).
+       Appointed two ECAs; Methven (data-science and visualisation), and Giuffrida (machine
+        learning and computer-vision).
+       Won significant funding, including; £416K through the EPSRC Responsible NLP for
+        Intelligent Interfaces Call (Gkatzia, Hussian), ranked 1/19 at panel, £232K from a
+        Government funded project (Hussain) to develop a CovidDashboard through analysis of
+        social-media, and Methven (partnering with Heriot-Watt) on Graphical Explainable AI
+        (EPSRC, £49K). A further 3 KTP projects were awarded in the areas of data-analytics
+        and visualisation with Standard Life, Zonefox (Kennedy) and Verint (Hart).
+ In addition, in IoT and Smart Systems the School has:
+
+       Won a major EU award for a project named CAROUSEL (Mitchell, Koniaris, Kennedy)
+        (start March 2021), using Augmented Reality (AR) and Artificial Intelligence (AI)
+        technologies to improve experience and social interaction in live virtual/hybrid events.
+       Won a MSCA Horizon 2020 grant (2016-2018), CAR (Liu) to develop context-active,
+        resilient cyber-physical systems.
+       Established worldwide research networks through international exchange programmes
+        funded by the Royal Society of Edinburgh (Liu), by chairing and delivering keynotes at
+        international conferences, and through journal editorships.
+
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+       Appointed 5 ECAs (Ahmed, Chrysoulas, Koniaris, Jaroucheh, Ghaleb).
+ Enabling Impact
+ The majority of the research undertaken in the School is in areas where the route to impact can
+ be clearly articulated, although some of our work is at a foundational level, where impact will
+ only be achieved in a longer timeframe. All areas of research identify potential partners in the
+ private, public and third sectors, supported by RIE (see REF5a) through a dedicated Innovation
+ Manager and a School appointed Enterprise lead. This includes supporting staff to:
+
+       Use Scottish Funding Council (SFC) Innovation Vouchers to fund initial collaborations
+        with companies (58 in total), with these providing a route to additional funding (e.g. follow
+        up contract research with Deiseal Ltd).
+       Work with the SFC Innovation Centres (DataLab; Censis, DHI) in order to collaborate on
+        projects with local companies, ranging from SMEs to large providers (e.g. Datalab
+        (Lothian Buses); CENSIS (Key Technologies); DHI (Glimpse Ltd)).
+       Attend events such as the annual SICSA Demo-Fest/EiE in order to connect with
+        potential partners (e.g. this led to a KTP with Verint (Hart)).
+       Attend and run industry-focused events such as the Cyber Breakfasts hosted at ENU by
+        the Cyber Academy, which invite leaders from industry and academia.
+       Use the SFC internal GCRF funding scheme to support projects in low and middle-
+        income countries. Examples include research on anti-phishing architectures with the
+        Federal University of Agriculture, Abeokuta in Nigeria and a feasibility study to acquire
+        and analyse images of plants from crops in Ethiopia with the use of machine learning
+        algorithms (Giuffrida).
+       Develop Knowledge Transfer Partnerships. 10 were awarded during the REF period in
+        areas that include Data-Science, Visualisation, Cybersecurity and Interaction Design,
+        collaborating with companies that range from multi-nationals (e.g. Standard Life/Verint) to
+        local companies (e.g. DeltaDNA).
+       Host knowledge exchange focused conferences, e.g. the International Conference for
+        Big Data in Cybersecurity.
+
+ The effectiveness of our approach is further demonstrated by the success of the three spin-out
+ companies that have resulted from our research in Cybersecurity (ZoneFox, Symphonic and
+ CyanForensics), and the recent spin-out 3Finery from our research in augmented-reality. In
+ 2018, ZoneFox was acquired by Fortinet for £28 million, and in 2020, Symphonic was acquired
+ by Ping for $31 million, both delivering significant return to the institution. Cyan Forensics is
+ currently working with Police Forces across the UK in time-critical Child Sexual Exploitation and
+ Counter Terrorism cases, and has won several awards. 3Finery, arising from research
+ conducted via an EU project, has already attracted over £150K in investment funding.
+
+ We also continually build direct relationships with companies that can support and encourage
+ impact from our research:
+
+       We have provided physical space for companies to operate within the School in order to
+        build collaborative relationships (e.g. SatisNET).
+       Match-funding was provided by leading Blockchain company BlockPass to build an
+        Advanced Blockchain Identity Lab within the School. The company also funded 2 PhD
+        studentships.
+       Datalab/Condatis have matched-funded a PhD studentship.
+ We currently have one Professor (Buchanan) and two Associate Professors (Russell, Lawson)
+ who were promoted via the University’s Enterprise pathway, recognising their contribution to
+ working with industry and to knowledge transfer. We host a Royal Society Funded Entrepreneur
+ in Residence (EiR) from 2021, with a remit to turn leading research and ideas into commercial
+ impact and success. The EiR is Jamie Graves, who was once one of our PhD students, and for
+ six years was CEO of the very successful ENU spinout ZoneFox.
+
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+    Our success in delivering impact is recognised by considerable success in the Scottish
+    Knowledge Exchange Awards. Our staff have twice won the Innovation of the Year award for
+    their collaborations with external companies; in 2016 (Payfont, Buchanan/Lawson) and in 2019
+    (HAS Technology, Buchanan/Smales/Lawson). In 2018, Buchanan was awarded the
+    Outstanding Contribution to Knowledge Exchange award for engagements that contributed
+    greatly to growing a thriving Scottish cyber security community, drove improvements in business
+    resilience and incident response, and led to innovations in health and social care. Lawson was
+    appointed at the SICSA Director of Knowledge Exchange (2016-2019), recognising our
+    experience in engaging with companies.
+
+    The School provides the necessary investment to ensure impact can be realised. One aspect of
+    this is employing part-time Professors/Research Staff who hold significant posts in industry. For
+    example, Mitchell, an employee at Disney and now Roblox, has been employed on a 20% FTE
+    contract since 2013. This close collaboration has facilitated an impact case-study on pioneering
+    breakthroughs in visual media production. Mitchell also played a key role in a consortium that
+    was successful in obtaining a Marie-Curie-Sklodowska ITN (DISTRO), and a FET Proactive
+    project CAROUSEL awarded in late 2020. The work conducted via DISTRO led to proof-of-
+    concept funding (InnovateUK, Mitchell in collaboration with PhD student), resulting in a spin-out
+    company 3Finery, launched in 2020. This has since won significant investment and has been
+    widely reported in the media1. Mival’s research, which underpins a submitted impact case-study
+    on Blended Spaces, led to him obtaining employment as a consultant in the User Design
+    industry. The School facilitated Mival to move to a 0.2 FTE contract in order to continue to
+    bridge the role between our research and industry and further develop impact.
+
+    We support impact by covering the costs of patents arising from research. These patents have
+    contributed to the impact reported in three of the submitted case-studies, each of which has led
+    to the formation of a spin-out company: (1) Enabling Sensitive Personal Data to be Shared with
+    Trust using Novel Digital Security Methods (CyanForensics); (2) Protecting Employees, Children
+    and Sensitive Data using Innovative Approaches to Cyber Security (Symphonic); and (3) Visual
+    Media Production (3Finery). The School later enabled the spin-outs to buy back these patents in
+    order to progress their business. The same support is being provided to a new spin-out in 2021
+    (Memcrypt) (Buchanan). Profits returned from spin-outs are re-invested within the School to
+    facilitate further research (e.g. three new PhD studentships in Cyber-Security funded following
+    the acquisition of ZoneFox).
+
+    Our impact strategy includes physical space provided free of charge at the early stages of spin-
+    out development or host investor meetings. This approach facilitated the two impact-case
+    studies relating to trust and privacy. In relation to the Blended Spaces impact case-study,
+    School funds were used to build dedicated laboratory spaces. An initial investment of £60,000 in
+    hardware and software was provided in 2009 by the School for the creation of the ICE
+    (Interactive Collaborative Environment), which served as a foundational bedrock for practical
+    development work used to enable research and industry collaborations. A further investment of
+    £30,000 by the School in 2016 enabled an upgrade to the space providing additional
+    functionality. Joint investment from the University and School of £45,000 enabled the creation
+    and installation of Lions' Gate Garden within the campus, which also forms part of the case-
+    study.
+
+    Interdisciplinary research
+    To further interdisciplinary collaborations within the institution the School invests in an internship
+    programme, which enables recruitment from our undergraduate student-body to research
+    assistant positions to work on cross-school projects. Recent examples include collaborations
+    with:
+
+
+
+1
+ https://www.scotsman.com/business/edinburgh-napier-spin-out-makes-objects-come-life-
+augmented-reality-tech-3009297
+                                                                                                    Page 5
+Unit-level environment template (REF5b)
+       The School of Engineering and the Built Environment, using machine-learning to
+        determine the carbon-cost of buildings, integrated into a published plug-in on Google
+        Sketchup (Hart).
+       The School of Applied Sciences, where we developed a smart-phone app to support
+        citizen-science data-collection for crab fishing in Brazil (Hart, Wells, Urquhart), and a
+        tool to analyse the data. This work is submitted as an impact case-study in UoA3.
+       The School of Health and Social Science, taking advantage of their hospital simulation to
+        gather real-time sensor data in health-setting, integrated with a blockchain-
+        based infrastructure (Buchanan).
+ The Centre for Social Informatics is situated within our School and provides significant
+ opportunity for cross-disciplinary work. Staff returned under UoA11 (Smith, Gkatzia) co-
+ supervise PhDs funded by the Scottish Graduate School of Social Science, in conjunction with
+ staff returned under UoA34. Gkatzia has secured a further award under this scheme for a
+ studentship in 2021, co-supervised with the Business School. Hart is co-supervisor on a PhD
+ studentship awarded in via the NERC funded SUPER Doctoral Training Programme in the
+ School of Applied Sciences. Moradpoor jointly supervised a recently completed PhD student in
+ the School of Engineering and the Built Environment.
+
+ We are probably the only School of Computing in the UK to employ a glassmaker (Panneel) as
+ a Research Fellow as part Smyth’s project on Creative Informatics (focusing on creating tools to
+ monitor carbon impact in the craft sector). This project engages with the creative sector to
+ develop the data driven skills necessary to create the next generation of products, services and
+ experiences. Panneel is also working with British Council Nepal, Kathmandu University and
+ Applied Arts Scotland as part of the countdown to the UN Climate Change Conference (COP26).
+
+ We seek external opportunities to collaborate on interdisciplinary work, and outputs from these
+ projects are included in our submission. Powers (2019) was awarded an interdisciplinary
+ Fellowship from the Institute of Liberal Art and Sciences, Keele University to work on socio-
+ technical approaches to balancing energy consumption in smart energy networks. Giuffrida
+ conducts interdisciplinary research with plant biologists at the University of Edinburgh and
+ Scotland Rural College, focusing on image analysis of crops. Hart has an ongoing collaboration
+ with Forestry researchers from France and Japan, and represented the Computer Science field
+ at an international workshop on Mathematical Modelling of Wind Damage to Forests (France,
+ 2015).
+
+ Open Research
+ Computer Science is a fast-moving subject and hence we recognise that Open Research is
+ critical. All staff act in accordance with University Open Access policies described in Ref5a. In
+ addition, we encourage:
+
+       Open access to code through repositories such as GitHub. Staff are encouraged to
+        publish links to repositories for outputs or make use of journal specific repositories for
+        supplementary material.
+       Publication of datasets to promote open-research. Data is stored in the University
+        managed Data Repository with a DOI.
+       Use of research-focused platforms such as ResearchGate and Kudos to share
+        publications and data, given the fast publication of computer science papers in
+        conferences.
+       Public engagement activities to disseminate research results.
+ To support this, these policies are disseminated widely through School committees and research
+ groups. All proposals are peer-reviewed to ensure that a clear open-access strategy is
+ embedded from the outset.
+
+ We support a culture of research integrity, guided by the institution policies described in REF5a.
+ Responsibility is devolved to the School Research Integrity Committee (supported by a cross-
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ school group), and provides ethical approval for all project proposals/data-collection. The role
+ holder reports quarterly to the University Research and Innovation Committee. Research
+ Integrity is an integral part of the bespoke PhD training that we offer to our own PhD students in
+ addition to institutional training. A bespoke Research Integrity & Ethics website has been put in
+ place specifically targeted at SoC staff and Research Students.
+
+ Future Strategy over next 5 years
+ We start the new REF period in an excellent position having recently been successful in winning
+ a number of major grants due to start in 2021. In line with the new University Strategy launched
+ in 2021, and in particular the formalization of research entities (REF5a), we are currently in the
+ process of formalising our research groups into five Research Centres; Centre for AI and Data-
+ Science, Cyber-Security & Cryptography, Social and Creative Computing, IoT and Smart
+ Systems Centre, and Computing Education Research. These roughly correspond to existing
+ informal clusters and to the new education group outlined above. Centre proposals are currently
+ going through an approval process at University level. Each Centre will have agreed research
+ objectives regarding annual research deliverables. All staff, contract researchers and PhD
+ students will align with a Centre.
+
+ In line with the pillars described in REF5a that underpin the new strategy, our School Enterprise
+ Lead will focus on innovation, working in tandem with the Innovation Hub to understand where
+ research may lead to spin-out companies. The role-holder will work closely with the newly
+ appointed RSE Enterprise Fellow.
+
+ With regard to the people pillar of the new strategy (REF5a), we will benefit from University
+ investment in three areas: IoT, CyberSecurity, and Machine-learning. A Professor, ECA and two
+ studentships will be appointed in each area. Similar institutional investment in Health
+ Technologies will also benefit the Unit, building on our recently awarded Programme Grant
+ (EPSRC Transformative Healthcare Technologies for 2050). Further School investment in a new
+ Professor of Human-Computer-Interaction will provide new leadership in Creative and Social
+ Informatics in the area of design.
+
+ We expect to increasingly focus on interdisciplinary research, facilitated by the new cross-
+ university themes (REF5a). Across the five Centres, there is significant potential for collaborative
+ working across all themes, exploiting our existing portfolio. We are currently investing in new
+ infrastructure to create a Computational Sustainability Laboratory to act as a focal point for
+ interdisciplinary work in cyber-physical sustainability/ IoT research.
+
+ COVID-19 presented an opportunity to develop a new online seminar programme in which we
+ invited world-class researchers from a variety of disciplines to discuss their research throughout
+ the lockdown periods (with invitations extended to researchers from across Scotland). We intend
+ to continue to operate this scheme when we return to campus-based operations, as a way to
+ continue to engage with global cutting-edge research, enhancing both our culture and external
+ networks.
+
+ 2. People
+
+ Since 2014 our staffing strategy has been driven by our vision to increase the quality of
+ research, and to grow existing areas of excellence in which we have critical mass. All new staff
+ are expected to have a PhD and are recruited through a rigorous selection process that includes
+ a research presentation. We ensure that research interests of potential staff are aligned with
+ existing areas of strength, believing that research cannot be conducted in isolation. Since 2014,
+ we have recruited 24 new staff who are returned in this REF (two Professors, with the majority
+ initially appointed at lecturer level).
+
+ 95% of the 41 staff who are significantly responsible for research in UoA11 are on permanent
+ contracts. The two staff on non-permanent contracts at the census date are now employed on
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ permanent contracts as ECAs. 32% of staff are ECA (lecturer, grade 6), 27% are lecturers
+ (grade 6, non ECA at grade 7), 15% are Associate Professors, and 2% are research-staff. 24%
+ are Professors. This represents a healthy pipeline of research-active staff to sustain future
+ activity, particularly given that 32% of staff are ECA. Two of our staff initially appointed in the
+ REF period as ECAs were promoted to Associate Professor in 2020.
+
+ As noted in REF5a, staff wishing to pursue a research career are typically recruited onto the
+ Research Pathway of the University Promotions Framework and are guaranteed at least 0.2
+ FTE of protected research time in addition to time bought on funded projects. The School has a
+ local policy of allocating an additional 0.1 FTE research allowance to new staff in their first year.
+ Where external research work brings esteem and influence to the School (e.g. appointments to
+ the SICSA research pool/UKRI activity/journal editorships) staff are given additional protected
+ time. Where a person makes a specific request for additional research allocation to deliver
+ beyond normal expectations (e.g., to lead a bid for a major project), up to an additional half a
+ day a week of ENU funded research work is allocated on a temporary basis.
+
+ The vast majority of staff (83%) who are SRR align with the Research pathway in the promotion
+ framework. Three staff (7%) align with the Enterprise pathway in recognition of the significant
+ industry-focused slant of their research, while the remaining 9% (four staff) align with the
+ Learning and Teaching Pathway. Annual objectives and research-related development needs
+ are agreed through the MyContribution process outlined in REF5A.
+
+ The School is also committed to increasing the percentage of staff holding a PhD. Where
+ appropriate staff are encouraged to undertake a PhD part-time. Two submitted staff
+ (Sobolewska/McGowan) completed PhD’s by this route. Support for staff undertaking PhDs is
+ provided in line with the University Policy in this area.
+
+ All new researchers, whether postdoctoral or ECA, are allocated an experienced member of staff
+ (often a research professor) as a mentor and are encouraged to form new internal
+ collaborations. Mentoring in writing research proposals is provided through the mentor and the
+ School Research Quality panel. School-funded PhD studentships are targeted to all new
+ members of staff with directed adverts. Where possible, ECAs are appointed as additional
+ supervisors on PhD supervision teams (9 of the 13 ECAs returned are currently members of one
+ of more supervisory teams).
+
+ All ECAs are strongly encouraged to apply for external funding, and specifically to UKRI
+ new investigator schemes. Gkatzia (now Associate Professor) achieved this when appointed as
+ an ECA. Postdoctoral researchers are integral members of research groups and are encouraged
+ to supervise MSc dissertations. Methven obtained EPSRC funding in collaboration with Heriot-
+ Watt. ECAs and postdoctoral researchers are supported to apply for funding as research co-
+ investigators. Two ECAS have found success as Co-I's on EU Framework Programme grants
+ awarded in 2020; Koniaris (CAROUSEL, £812K) and Chrsyoulas (GLASS, £190K). They are
+ also encouraged to apply for centralised funding schemes discussed in REF5a. School-specific
+ schemes that have been set up to specifically support our researchers are weekly “Write-Now
+ workshops” and a series of “MasterClasses” organised by PhD students, bringing in external
+ speakers to focus on soft skills specific to Computing not covered by the University’s centralised
+ training programme.
+
+ The School supports, where possible, requests by staff (at any level or on any contract) for
+ periods of research leave where the member of staff presents a specific proposal with tangible
+ objectives, for example, by condensing teaching allocation into a single semester.
+
+ All overheads brought in from externally funded projects are allocated to the School budget to
+ supplement the SFC Research Excellence Grant, to support staff research activities. We set
+ aside funding to enable staff who have published papers in conferences but do not have external
+ funding to attend conferences as this facilitates networking and development. These funds also
+ enable purchasing of additional research equipment to support areas which are achieving
+
+                                                                                                 Page 8
+Unit-level environment template (REF5b)
+ impact/publishing excellent research. ECRs obtaining first-grant funding are guaranteed an
+ additional PhD student from school funds (e.g. Gkatzia), and where funding applications can be
+ enhanced by additional PhD students we guarantee to provide this (e.g. three PhD students
+ allocated to Hussain, Programme Grant starting 2021).
+
+ Research students
+ PhD students are recruited in line with existing areas of research. On average, we fully fund
+ three new students each year, representing a significant portion of funding. 42 students have
+ been awarded PhDs within the REF period, a significant increase on the 20 completions
+ reported in REF2014, with 19 different staff acting as Director of Studies.
+
+ We recognise the importance to research of the student body, and in the absence of being part
+ of any CDTs, make considerable effort to grow our student body in other ways. All research
+ active staff have the opportunity to have at least one permanent advert on FindAPhD to attract
+ self-funding students. Completing students were funded via a variety of sources, including
+ University 50th Anniversary scholarships (see REF5a), studentships via internal funding from
+ overheads, EU Marie-Curie International Training Networks, and self-funding. We have a formal
+ relationship with King Abdulaziz University in Saudi Arabia to jointly supervise students who are
+ awarded degrees by ENU. We allocate local supervisors in Saudi and ensure the students have
+ the required training while fees are reduced by 50%. Three students have graduated so far via
+ this programme. We also have a joint agreement with the Technische Hochschule Mittelhessen,
+ Germany. One student has completed and one is in progress.
+
+ Looking forward, we have signed an agreement Hashemite University, Jordan, starting in
+ 2020 on the same model as described with Saudi Arabia. A further agreement with China Guang
+ Xi University of Science and Technology, China, starting in 2020, is now in place, where
+ students spend 18 months at ENU and the rest of the period in China. Two studentships were
+ recently funded in the area of CyberSecurity by Blockpass.
+
+ Working with industry we successfully bid for a Doctoral Training Centre with EIT Digital, which
+ will start in April 2021 This has matched funding for up to 16 PhD studentships. Where industry
+ provides funding towards a studentship, the School matches that funding in the same research
+ area, e.g. we have matched funded a studentship in collaboration with the University of Oslo
+ (CyberHunt – part of the IKTPLUSS program funded by the Research Council of
+ Norway) around the sharing of threat hunting information within distributed ledgers, and a
+ second via Data Labs/Condatis, relating to privacy-preserving behavioural analysis.
+
+ We encourage KTP Associates to register for a research degree, providing a fee waiver (one
+ current PhD student, one student graduated with MRes). Recognising that a position in industry
+ is often more lucrative than a PhD scholarship for many Computer Science graduates, we
+ provide fee-waivers to students who wish to study part-time while working. This also attracts
+ those who have caring or similar responsibilities. We take advantage of being co-located with
+ researchers from the Centre for Social Informatics, which had membership of the ESRC Scottish
+ Doctoral Training Centre (DTC) from 2011-2017, and of the new Doctoral Training Partnership
+ (DTP) from 2018, enabling UoA11 staff to co-supervise projects. In this period, two staff
+ (Gkatzia, Smith) have taken advantage of this, with a further two projects awarded to start in
+ 2021 (Gkatzia, Smith, C., Smith, S.). Staff also collaborate in joint-supervision activity with
+ other universities. Mitchell has co-supervised two PhD students at UCL, and one PhD and one
+ MPhil thesis at Bath. Hart is currently jointly supervising a student at Imperial College London.
+
+ In order to be inclusive in our selection of students for funded studentships, we recently updated
+ our selection processes to move away from formal interviews towards a more collaborative
+ experience, that explores the candidates research ideas with relevant colleagues in an informal
+ and supportive setting. This moves the emphasis toward selecting based on what the students
+ will be required to do, rather than on their interview style, which might be influenced by culture or
+ neurodivergence.
+
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+ PhD supervision arrangements follow those outlined in the REF5a. 89% of students reported
+ they are happy with supervisor contact (PRES.) We ensure that the individual student
+ experience is an excellent one, monitored through panel chairs, student representatives, and our
+ action plan in response to PRES. 89% reported in PRES that they have developed the ability to
+ communicate to diverse audiences, 89% report they have established contacts and networks
+ outside of the university, and 94% report that they have increased their confidence in their
+ abilities to innovate and be creative.
+
+ All students undertake a core programme of training offered centrally by the University. In
+ addition, a series of Departmental Masterclasses with external speakers provides subject-
+ specific training. During the period, we ran a series of fully funded three-day residential retreats
+ with student organised activities, which we intend to reintroduce post-COVID-19. Two student-
+ representatives take part in the School Research and Innovation Committee, ensuring a smooth
+ working relationship between staff and students.
+
+ Students take on developmental roles, such as Seminar Coordinator. Our students have been
+ selected to participate in the organising committee of the annual SICSA PhD conference,
+ providing valuable skills in team-working and conference organisation. Students also have the
+ opportunity to undertake limited teaching duties for their own career development as graduate
+ teaching assistants, and all PhD students are offered a specifically designed Associate Lecturer
+ (PhD Student Experience) contract to facilitate this. Our students are also able to take
+ advantage of the SICSA PhD Peer Support Network, a network of Support Volunteers across all
+ Scottish Institutions, run by PhD students for PhD students, and supporting mental health.
+
+ An annual School PhD conference is organised by the students themselves to showcase student
+ work across all levels. The School has put in place mentoring and career support for students in
+ their final year to ensure that all avenues for continuing the research have been explored, for
+ example contributing to a funding application naming the student as the preferred researcher.
+
+ The strength of our training and support is reflected in students winning awards at major
+ conferences. Since 2014, our students have produced five Patents and received eight best
+ paper awards at leading international IEEE/ACM Conferences, including IEEE IUCC 2015, IEEE
+ SmartIoT 2019, IEEE FedCSIS and ACM MOMM 2014 and ACM GECCO 2019. Two of our
+ students working on routing protocols contributed to the International standardisation in Internet
+ of Things protocols (Ghaleb, Qasem) via the Internet Engineering Task Force (IETF). Our PhD
+ students work has directly contributed to the spin-out of companies (CyanForensics, 3Finery,
+ Memcrypt). They have also gone on to gain post-doctoral/academic positions in leading
+ research institutions such as the University of St Andrews, University of Exeter and Heriot-Watt.
+ Other students have gained employment with prestigious companies such as IBM, Dell Secure
+ Works and China Mobile.
+
+ Equality and diversity
+ The School obtained Athena Swan Bronze award in 2017 and will apply to renew this. The
+ School Inclusion Monitoring Committee (see REF5a) is responsible for monitoring E&D data,
+ ensuring processes are followed and reasonable adjustments are put in place.
+
+ In terms of gender profile of our submission, 15% of our total return (41 staff) is female which is
+ consistent with typical profiles for this subject. This represents 43% of the eligible pool,
+ compared to 73% of the eligible male pool being returned. This figure is slightly higher than the
+ 42% of eligible female staff returned at institution level, as reported in REF5a.
+
+ 67% of the six eligible staff identifying as Asian are returned, 100% (one person) of those
+ identifying as Mixed, and 100% (5 people) of those identifying as Other. No Category A staff
+ identify as Black. 100% of Category A staff who identify as bisexual/gay/lesbian are returned.
+ Three out of four Category A staff who have declared a disability are included in the submission
+ (75%). 78% of those identifying as Christian are returned; 82% of those with no-belief and 83%
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+ of those with other beliefs. 68% of Category A staff that are married are returned, with 80% of
+ single.
+
+ The age-profile of researchers within the School is as follows, reported as % of submitted staff.
+ Age range 25-35 (12%), 35-45 (32%), 45-55 (39%), 55-65 (17%). This reflects the new
+ emphasis on recruiting research-active staff in the earlier parts of the career over the period,
+ while recognising the overall shape of the School is still influenced at the older end by a more
+ teaching-centric focus prior to REF 2014. Close monitoring of diversity takes place at the
+ Inclusion Monitoring Group which gives confidence that we reflect our stated E&D values. The
+ data provides robust evidence that there is no discrimination against staff with protected
+ characteristics being deemed SRR.
+
+ SoC adopts the University maternity/paternity leave policies, and encourages flexible working
+ patterns, particularly for those with caring responsibilities. Three staff have taken maternity leave
+ during the REF Period, all returned as SRR. We support research staff returning to work after
+ leave, and they are offered the opportunity to attend a conference on return to work (without a
+ publication) to facilitate transition back to academic life. We offer child-care to support staff and
+ PhD students attending residential events. Meetings are organised between the hours of 10-4 to
+ facilitate those with caring responsibilities. Following agreement with a line-manager, staff are
+ supported to work flexibly and at home where required. E&D considerations are taken into
+ account during promotion panels and staff are supported by line-managers during annual
+ reviews to ensure additional support needs are met where possible and to accommodate flexible
+ working requests. Our female staff have a 50% success rate in promotion, comparable to the
+ success rate for male staff of 55%.
+
+ Our Code of Practice outlines the procedure for identification of staff who are SRR. It further
+ outlines the policy for output-selection for these staff which is based only on quality. In UoA11,
+ when considering outputs of equal quality, our selection process aimed to equalise the number
+ of output authorships per staff member as far as possible.
+
+ The School maintains an “Inclusion Station” within a social area. Inclusion stations make a
+ visible commitment to creating an inclusive environment. The Inclusion Station is a place to
+ celebrate achievements, promote events and share ideas. A range of texts on inclusion are
+ available to freely borrow.
+
+ 3. Income, infrastructure and facilities
+
+ Our income overall has grown substantially since our 2014 submission. External income for the
+ previous period was averaged at £0.95M per year over 5 years. This has grown to £1.27M per
+ year over this REF, an increase of £1.6M in total. COVID-19 has had some impact on income in
+ the final months of the REF period in that it has delayed the start date of three awarded EPSRC
+ grants until late 2020/early 2021.
+
+ The biggest sources of contribution are EU (27%), UK Government & Authorities (25%), UK
+ industry and commerce (21%), Research councils (17%). We have seen a significant rise in
+ EPSRC funding with four major new grants awarded or starting in late 2020 and early 2021
+ totalling £2.45 million pounds (1. Gkatzia, 2. Gkatzia (with Hussain), 3. Hussain (with Hart, Al-
+ Dubai, Buchanan), 4. Hart) and two new EU funded projects totalling £1.08 million (Carousel
+ £898,000 (Mitchell, Kennedy, Koniaris), Glass £190K, (Buchanan, Chrysoulas)). These
+ successes reflect our collaborative and inclusive approach to funding.
+
+ External funding is directly linked to many of high-quality outputs submitted. For example, the
+ EPSRC funded life-long learning project generated a number of articles in leading optimisation
+ journals, and DISTRO (EU) led to high-quality publications in leading graphics journals and a
+ spin-out. Work in the IoT/Smart Systems funded through EU or other international funding has
+ generated outputs that have underpinned recently won funding, e.g. the COG-MHEAR
+ programme grant.
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+
+ Our focus has been on developing and sustaining research areas which have attracted external
+ income, or have high potential to do so, while recognising the need to be bold in supporting new
+ ideas and researchers at an early stage in their careers. We specifically encourage partnership
+ with industry, reflected in ten KTP projects being awarded this period. The impact our research
+ has is reflected in £200K in Proof-of-Concept funding from Scottish Enterprise/Innovate UK and
+ in 64 collaborations with local companies via SFC funded Innovation Vouchers. The recent
+ successes reflect the increased emphasis placed on providing training for researchers through
+ the centralised RIE support (REF5a), combined with mentoring and support within the School.
+
+ Since REF2014, the School has made significant investment in research facilities in line with our
+ core areas of research that have been key to winning funding and supporting impact. The
+ School has invested in:
+
+    A Swarm Robotics laboratory, facilitating research on Evolutionary Robotics (including
+     investment of £183,000 from the University Capital Fund), providing state-of-the-art camera
+     monitoring, and 50 robots from multiple manufacturers. This underpinned a successful multi-
+     institution EPSRC application (Hart, 2018-2022) which continues to deliver high quality
+     research, and was pivotal in an RSE International Exchange award.
+    The Sensorium: (£30K new equipment). A state-of-the-art laboratory that facilitates User
+     Experience studies and research. The laboratory is equipped with sensors that measure
+     physical, psychological, and neurological real-time responses to interaction with systems and
+     services. These biometric data-streams are synchronised with audio and video data to
+     produce visualisations that inform user-centred design and underpins some of the work
+     reported in the Blended Spaces case-study.
+    The E11 Studio (£120K in-kind contribution by the School to the AHRC Creative Informatics
+     project) specialises in digital prototyping and the role of data in the creative industries and
+     provides a space for researchers from the creative arts and informatics to work together.
+     Provision of this support from the School was a key element of the submitted proposal that
+     led to this funding.
+    A Security Operation Centre (vSOC) (£50K). This enables research and training on
+     scenarios such as ransomware, Denial of Service and data loss, all within a safe
+     environment. This is a collaborative venture including leading companies involved in Cyber
+     Security analytics such as CheckPoint, RSA, HPE, IBM and F5. A key part of the building
+     this has been a partnership with an external company Satisnet, who build and run security
+     operation centres. This infrastructure has facilitated a number of research projects, including
+     an EU funded project on cyber-crime training (DFET, 2014-16).
+    An Advanced Blockchain Identity Lab co-funded over a three-year period by leading
+     Blockchain company BlockPass, which focuses on the rights of the citizen to privacy, while
+     enabling new methods to provide citizen-focused systems, using blockchain and advanced
+     cryptography methods. This led to securing a major EU funded project GLASS (2021-23).
+
+
+ The School also invested:
+     £72,000 in a state-of-the-art high-performance cluster to support research within
+       optimisation and data-science (2016) to support networking research.
+     £10,500 on components and equipment for the Internet of Things lab.
+     £9,000 on new equipment for the Auralisation research suite.
+
+
+ Companies who have provided the School with in kind investment to support our infrastructure
+ include:
+      £8,000 of GPU Equipment provided by Nvidia to support Games research.
+      $100,000 of CISCO Networking Equipment provided for the Internet of Things lab
+
+
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ 4. Collaboration and contribution to the research base, economy and society
+
+ We work collaboratively with a large number of institutions both nationally and internationally.
+ For example, joint UK-based research projects with other HEIs with spend reported in this REF
+ include: EPSRC funded ARE (Hart: U. of York, UWE), Rigorous Graphical Explainable AI for
+ Higher-Risk Applications (Methven: Heriot-Watt), and AHRC funded Creative-Informatics
+ (Smyth: University of Edinburgh). Additional collaborative projects awarded but without spend
+ during the period are COG-MHEAR (EPSRC; Glasgow, Manchester, Edinburgh), and Keep-
+ Learning (EPSRC; St Andrews).
+
+ We have participated in collaborative projects with multiple European partners funded via the EU
+ framework programs, e.g., DISTRO (Mitchell), MAZI (Smyth), CAR (Liu), FOCAS (Hart),
+ Speculative Design (Smyth), and Clustering Creativity (Morrisson). We have won two Royal
+ Society International Exchange Awards that fund international collaborations (Hart – South
+ Africa, Liu -China). The success of our collaborative approach is reflected in our submitted
+ outputs which include collaborators from across the globe, including UK, Europe, Middle East,
+ China, and Australia.
+
+ We also place considerable emphasis on collaboration with industry. We have worked on 10
+ KTP projects and won 64 SFC funded innovation vouchers which fund short projects with
+ Scottish industry. We have undertaken contract research with 8 companies (e.g. HAS
+ Technology, Payfont, BAE systems).
+
+ We further support collaboration through the appointment of Visiting Research Professors
+ (currently two; Pitt, Imperial College London, and Guckert, Technische Hochenschule
+ Mittelhessen). We hosted two visitors as part of the HPC-Europa3 Transnational Access
+ programme, which facilitates scientific collaboration with visiting researchers from Europe (two
+ further visits were postponed due to COVID-19). These have also resulted in joint publications.
+
+ At a national level, the School benefits from its membership of SICSA (the Scottish Informatics
+ and Computer Science Alliance), a government funded pooling initiative of Computer Science
+ departments across all Scottish Universities. Our staff play a significant role within SICSA. Hart
+ co-chaired the Artificial Intelligence theme from 2016 to 2020, and Gkatzia was appointed as
+ new co-lead in 2021. Lawson was the SISCA Director for Knowledge Exchange (2016-18).
+ Buchanan is heavily involved in the SICSA Cyber Nexus, linking academia, business,
+ government, the public sector and the third sector in the area of Cyber Security. Our staff are
+ regular exhibitors at the annual SISCA Demofest which provides a forum for industry to engage
+ with Scottish academics. A current KTP project (Hart) arose directly from a contact made at
+ Demofest. Gkatzia was awarded a SICSA Postdoctoral and Early Career Researcher
+ Exchanges (PECE) bursary to undertake a research visit to Germany (Bielefeld University). We
+ have collaborated on two SICSA Distinguished Visiting Fellow (DVF) applications, hosting
+ seminars from DVFs from the U.S and New Zealand.
+
+ Our involvement in the ORCA hub (part of the government’s £93m R&D funding on “Robotics
+ and AI for Extreme Environments” through the Industry Strategic Challenge Fund (ISCF)) led to
+ a project (Methven) with Heriot-Watt on Rigorous Graphical Explainable AI for Higher-Risk
+ Applications. Our involvement with the Scottish Innovation Centres has funded a number of
+ research projects in collaboration with Scottish companies, including Datalab (5 projects), Digital
+ Health Institute (6 projects) and CENSIS (1 project).
+
+ Engagement with diverse communities
+ We place considerable emphasis on Public Engagement, setting aside £20K plus staff time to
+ support this annually. Our staff have published 51 articles in The Conversation about their
+ research during the REF period, totalling 679,000 reads. This demonstrates a broad reach of our
+ research to the wider public.
+
+ We take an active part in Edinburgh International Science Festival, ranging from running robotics
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+ workshops (Davison) to appearing on panels in public discussions (Hart). We exhibited our
+ robotics work at the Scottish Parliament (Steyven). Smyth coordinated the City | Data | Future
+ exhibition created as part of the UrbanIxD project, exhibited in Venice, Aarhus, Pula, Split &
+ Ljubljana, and now a permanent piece at the Museum of Contemporary Art, Zagreb, Croatia.
+ Buchanan was co-creator and regular contributor to the Cyber Christmas Lectures, held every
+ year across 6 Scottish cities. Hart has taken part in the UK initiative Pint of Science, delivered
+ classes at the Canberra AI Summer School (open to the general public, undergraduates and
+ researchers) and was recently a panellist at Holyrood Magazine’s AI and Automation
+ Conference, the premier gathering of senior AI and Automation professionals from across the
+ Scottish public sector.
+
+ Our collaborations with sculpture park Jupiter Artland have both communicated and produced
+ new research. As a response to Flint and Turner’s work on appropriation, a Minecraft facsimile
+ of the park was constructed and used to explore remote engagement with the sculpture park
+ leading to; an online Easter Egg Hunt and Sculpture Competition during COVID-19, a bespoke
+ mixed-reality game release on the Android platform, and activities using the game at Edinburgh
+ International Science Festival 2016 & 2017. Our work with the Whale Arts Agency on digi-
+ mapping involved working with local children in an area of social deprivation to produce
+ interactive maps of their area and led to a conference publication.
+
+ Impact of research not captured in impact case studies
+ Collaborative research during the REF period at the IoT and Smart Systems Cluster and the
+ Applied AI and Data Science Cluster has pioneered innovations in partnership with industry,
+ standardisation bodies, policy makers, clinicians and academics, from across the UK, EU,
+ Australia, Canada, China, Middle East and the USA. Novel IoT communication protocols (Al-
+ Dubai, Romdhani) and multi-modal Deep Learning (DL) algorithms (Hussain) were developed
+ as part of interdisciplinary projects funded by industry and national and international funders
+ (including the UKRI, EPSRC, Innovate UK, King Abdulaziz City for Science and Technology and
+ NNSFC China). The work has directly informed development of international standards and
+ commercialisation of innovative smart city transportation and healthcare applications. End-users
+ include Neusoft, Nokia-Bell Labs, Phonak, Liaoning-Ruixiang General Aviation, ni2o, Nanjing
+ Pudao and the Scottish Government (SG) COVID-19 Advisory Group. Al-Dubai and Romdhani
+ have been instrumental in developing key protocol standards that addressed major limitations in
+ current IoT communication standards in terms of load balancing, mobility and energy efficiency.
+ Global impact on standards was realised by building prototypes and leading active participation
+ of team members in two international technical standards bodies for communications,
+ specifically the Internet-Engineering Task Force (IETF), the main international technical
+ standards body governing the Internet, and The Institute of Electrical and Electronics Engineers
+ (IEEE). Commercial impact was realised through adoption of our IoT and AI-based approaches
+ in smart city applications. This includes drone-based transportation (Al-Dubai), effective and
+ efficient spectrum management for ITS (Al-Dubai and Hussain) and optimised power
+ management for IoT-enabled electric vehicles (Liu).
+
+ Work combining machine-learning and optimisation (Sim, Hart) in predicting wind-damage in
+ Forestry was awarded an international Bronze “Humies” award at the International Conference
+ of Genetic and Evolutionary Computing, for achieving human-competitive results on a significant
+ problem. We continue to actively engage with the cyber business community in Scotland through
+ our spinouts (Symphonic, ZoneFox, CyanForensics), and with Scottish Companies through
+ engagement with Datalab funded projects (Hart, Lawson, Urquhart, Sim, Buchanan). Our
+ state-of-the-art Blockchain work in collaboration with has led to EU-funded collaboration re
+ privacy-preserving Internet searches.
+
+ We are agile in our response to funding opportunities and creating impact from our research.
+ Hussain won £135,104 to work on an Artificial Intelligence-powered dashboard for tracking
+ COVID-19-related public sentiment and opinion, mining in social media platforms from the
+ Scottish Government Rapid Research programme, with University of Edinburgh. This aids
+ policymakers, public health and clinical practitioners in understanding and mitigating the impacts
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+ of the COVID-19 pandemic. The findings will support decision-makers, informing the
+ development of appropriate interventions and aiding development of exit strategies from current
+ or future lockdowns. The delivered framework is currently being evaluated by the Scottish
+ Government to inform its vaccination policy.
+
+ Urquhart developed a free piece of software that scheduled food deliveries using his research
+ on optimisation and was made freely available to local companies during the first lockdown.
+ Example users included Untitled Oats, Edinburgh Community Food, Leaf & Bean Cafe
+ (Edinburgh), Breadshare Community Bakery (Edinburgh), and Edinburgh Food Social.
+
+ Contribution to discipline sustainability
+ Our staff play a role in contributing to the sustainability of the discipline in the UK and
+ internationally. Smith chaired the Council of Professors and Heads of Computing (2014-2016).
+ Hart is a member of the Research Committee of the UK Operation Research Society (with a
+ remit to grow the discipline and focus on interdisciplinary connections) and is a panel member
+ for UoA11 REF2021. Hussain was a member of UKCRC from September 2020. Membership of
+ IEEE/ACM Technical Committees is listed below. Buchanan was named by the UK Government
+ in Top UK Influencers in Blockchain, 2018.
+
+ Collectively we contribute to the discipline through acting as external examiners for PhD
+ students. 13 staff have examined PhDs at 37 institutions in the UK during this period, while
+ seven staff have examined 15 PhDs at international institutions across the globe, in Europe, in
+ Hong Kong, New Zealand, South Africa, Malaysia and the Middle East. Our contributions to the
+ discipline are further evidenced by our participation as Editors of journals, journal and
+ conference reviewing, roles as General Chairs/Programme Chairs and on organisational
+ committees of conferences, participating in grant awarding committees and in reviewing
+ proposals both nationally and internationally as listed below.
+
+    Membership of national policy committees
+     o Hart: Invited member of government Steering Group to oversee development of Scottish
+       Government AI Strategy (2020)
+     o Smith, S: Shadbolt Review (2016)
+     o Buchanan: Invited member of INTERPOL CYBER Experts Group
+     o Hussain: Invited Member, National Centre of Big Data & Cloud Computing (NCBC),
+       Higher Education Commission, Pakistan Government
+     o Hussain: Member, UK Computing Research Committee (CRC)
+
+
+    Membership of international committees
+     o Hussain: Vice-Chair, IEEE Computational Intelligence Society (CIS) Emergent
+       Technologies Technical Committee (2017-); Vice-Chair, IEEE CIS Task Force on
+       Intelligence Systems for Health, 2017-)
+     o Buchanan: IEEE Technical Committee Co-chair for Blockchain (2018-)
+     o Al-Dubai Member IEEE Technical Committee on Internet of Things (2015-); member
+       EEE Technical Committee on Smart Cities (2015-)
+     o Hart: Member IEEE Evolutionary Developmental Systems and Robotics Task Force
+       (2021-); Member ACM Special Interest Group on Evolutionary Computation (SIGEVO)
+       (2015-).
+
+    Journal editorship
+     o Three staff currently hold Editor in Chief positions of well-regarded journals: Hart
+        (Evolutionary Computing, MIT Press); Hussain (Cognitive Computation, Springer Nature;
+        Big Data Analytics, Bio-Med Central/Springer Nature); Buchanan (Journal for Cyber
+        Security Technology, Taylor & Francis, Journal of Blockchain in Health).
+     o Four members of staff also hold Editor positions of book series: Hussain (Book Series
+        on Socio-Affective Computing, Springer, Book Series on Cognitive Computation Trends,
+
+
+                                                                                          Page 15
+Unit-level environment template (REF5b)
+         Springer); Al-Dubai, Book Series on Internet of Things, Springer) Liu (Handbook on
+         Green Computing, IGI Global); Liotta; (Springer book series Internet of Things)
+     o   9 staff hold Associate Editor positions on 14 journals (including 4x IEEE Transactions, 1
+         ACM journal, 1 Elsevier, 2 x Springer. 6 staff have acted as guest editor on over 20
+         Special Issues in a wide range of journals).
+
+    Participation on grant awarding committees
+     o Kennedy participated on 5 BBSRC funding panels
+     o Hart: Carnegie Funding panel; Royal Society International Networks panel
+     o Al-Dubai: Omani Research Council funding panel.
+
+    Fellowships
+     o Senior Fellow IEEE (Al-Dubai, Mitchell, Liu, Ahmad, Hussain)
+     o Senior Member ACM (Hart)
+     o Fellow of BCS (Smith, Flint, Kennedy, Buchanan, Paechter):
+     o Liotta: Shanghai Thousand Talents Distinguished Professorship in AI
+     o Mitchell: BAFTA member; Pioneer Member ACM SIGRAPH
+     o Research Fellowships:
+           o Industry Fellowship for Taku Komura (Royal Society) [Mitchell]
+           o Leverhulme Fellowship [Hart]
+           o Keele Institute of Liberal Arts and Sciences Fellow [Powers]
+
+    Honours
+     o Kennedy: inducted into IEEE Vis Academy 2020
+     o Buchanan: OBE, 2018 for services to Cyber-Security
+
+    Awards
+     o Buchanan/Lawson: Winner, Innovation of the Year, Scottish Knowledge Exchange
+       Awards (2016,2019).
+     o Buchanan; Outstanding Contribution to Knowledge Exchange, Scottish Knowledge
+       Exchange Awards, 2018
+     o Buchanan: Cyber Evangelist of the Year, Scottish Cyber Awards, 2016.
+     o Buchanan: Winner, Cyber Security Innovation of the Year, Scottish Cyber Awards,
+       2016.
+     o Buchanan: Winner, Best Collaboration with Police Scotland, Scottish Cyber Awards,
+       2016.
+     o Al Dubai: Outstanding Service Award, IEEE Computer Society, 2016
+     o Smyth: Recognition of Service Award from the Association of Computing Machinery,
+       ACM, 2017
+     o Tan: Outstanding Service Award, IEEE Computer Society, 2017
+     o Tan: The National Research Award 2017 - The Research Council of the Sultanate of
+       Oman
+     o Moradpoor - Winner of Outstanding Woman in Cyber (Scottish Cyber Awards 2017)
+
+    Prizes
+     o Hussain: co-Leader of the Winning Team (jointly with Tsinghua University) at the 2nd
+         World Intelligent Driving Challenge (WIDC), held in Tianjin, China, 15-17 May 2018.
+     o Hussain: Best Performing Approach Award for 'Semantic Parsing' Task at the joint-
+         industry & academic-led 'Concept-Level Sentiment Analysis Challenge’, organized as
+         part of the 11th Extended Semantic Web Conference 2014
+     o Sim/Hart: Humies Bronze Award $1000, ACM GECCO 2018
+
+    Reviewing Awards
+     o Liu: Springer's IJAC Outstanding Reviewers Award
+     o Tan: Outstanding Contribution in Reviewing 2018 - Computers, Environment and Urban
+        Systems, ISSN: 0198-9715
+
+
+                                                                                            Page 16
+Unit-level environment template (REF5b)
+     o   Tan: Outstanding Contribution in Reviewing 2017 - Future Generation Computer
+         Systems, ISSN: 0167-739X
+     o   Tan: Outstanding Contribution in Reviewing 2016 - Journal of Network and Computer
+         Applications,
+     o   Gkatzia: Outstanding reviewer (ACL 2018, ACL 2020)
+     o   Ahmad: Outstanding Contribution in Reviewing 2018 – Journal of King Saud University –
+         Computer and Information Science, ISSN: 1319-1578
+     o   Ahmad: Outstanding Contribution in Reviewing 2018 – Signal Processing, ISSN: 0165-
+         1684
+     o   Ahmad: Outstanding Contribution in Reviewing 2018 – Journal of Information Security
+         and Applications, ISSN: 2214-2126
+
+    Reviewing of Funding Proposals
+     o Five staff are EPSRC College members(Al-Dubai, Hart, Liu, Hussain, Kennedy); staff
+        have also reviewed for EPSRC (Chapman, Tan); NERC(Liu), MRC (Gkatzia, Hussain,
+        Tan);PhenomUK (Giuffrida)
+     o Reviewing for Scottish Informatics and Computer Science Alliance (SICSA): PECE (Early
+        Career Exchanges) applications [Moradpoor; Hart; Lawson]; Distinguished Visiting
+        Fellows Applications [Hart]
+     o Internationally our staff provided support for the discipline by being part of the evaluation
+        process for proposals for:
+            o EU H2020 (Liu, Romdhani, Paechter, Hussain) ;
+            o Croatian Science Foundation (Hart); Canada Research Council [Hussain];
+               Omani Research Council (Al-Dubai); Research Council of Cyprus [Al-Dubai];
+               Natural Research Foundation of South Africa Liu]; Polish national Science Centre
+               (Wells); Netherlands Organisation for Scientific Research (NWO) [Tan, Wells]
+
+    Invited keynotes at International Conferences
+     o Al-Dubai: 5th International Symposium on Modelling and Implementation of Complex
+         Systems, 2018 Algeria; Reliable Intelligent Transportation Systems for Smart Cities,
+         2nd international Conference and Business Expo on Wireless & Telecommunication,
+         2016,Dubai, UAE.
+     o Buchanan: 5th International Conference on Information Systems, Security and Privacy,
+         Prague, 2019
+     o Hart: 28th European Conference on Operations Research (EURO) 2016, Poland; IEEE
+         Congress on Evolutionary Computing (CEC) 2019, New Zealand; 20TH Latin-Iberio
+         Conference on Operations Research: Euro Distinguished Lecturer, 2020; 9th International
+         Conference on Computational Intelligence, Maderia, 2018;
+     o Paechter: 10th International Conference on Practice and Theory in Automated
+         Timetabling, 2014
+     o Liu : International Conference on Information Science and Systems (ICISS) 2020; 3rd
+         International Conference on Algorithms, Computing and Artificial Intelligence (ACAI)
+         2020, Edinburgh; 7th International Conference on Geo-Spatial Knowledge and
+         Intelligence (2019), China
+     o Smyth: ACM CHITALY19, Padova, Italy, September 2019
+
+    International Conference General Chair:
+     o Hussain: General Chair IEEE WCCI 2020; IEEE SSCI CICARE 201
+     o Hart & Paechter: General Chairs, PPSN 2016
+     o Al-Dubai: General Chair IEEE IUCC 2019, IUCC 2020, CPSCom-2017
+     o Gkatzia: INLG 2016
+     o Chapman: Diagrams 2018, ICCS 2018
+     o Smith, S: Horizons in STEM Education 2017
+
+    International Conference Programme Chair:
+     o Al-Dubai: IEEE SutainCom 2020, PDCAT 2014
+     o Hart: IEEE SASO 2016
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+     o   Hussain: IEEE DSS 2018, IEEE SmartData-2017
+     o   Chapman: Diagrams 2020
+     o   Liu: ACAI 2020, ICAISE 2020, ICISS 2020, CNIOT 2020, ITIOT 2020, CENET 2020,
+         CENET 2019, SETA 2016
+     o   Flint BCS HCI 2017
+     o   Smyth, M. Technical Programme Chair, ACM Designing Interactive Systems (DIS),
+         Edinburgh, 2017.
+     o   Tan: iSCI 2020, DependSys 2019, CloudComp 2019, BD:TA 2018
+     o   Sim . EvoApplications Programme Chair 2018
+     o   Moradpoor, SIN 2018
+
+    Peer-Review Activities:
+     Staff have reviewed for over 120 different journals, including over 30 IEEE/ACM
+     Transactions, for example:
+         o ACM Transactions: including Transactions on: Graphics; Evolutionary Learning and
+             Optimization, Networking, and Internet Technology
+         o IEEE Transactions: including Neural Computing; Evolutionary Computing; Mobile
+             Computing; Cloud Computing; Visualisation and Computer Graphics; Information
+             Forensics & Security; Parallel and Distributed Systems
+         o Springer: includes Cognitive Computing; Neural Computing and Applications
+         o Elsevier: includes Neurocomputing; Information Fusion; Computer & Graphics;
+             European Journal on Operations Research; Computer Networks; Pattern Recognition
+             Letters; Computers & Security
+         o Royal Society: including Proceedings of the Royal Society B: Biological Sciences,
+             Interface, Philosophical Transactions of the Royal Society B
+
+    International Programme Committees
+     o Staff have been on programme committees for over 50 different international
+         conferences, including A-ranked conferences such as AAAI; AAMAS; GECCO;CHI;
+         SIGGRAPH
+
+
+
+
+                                                                                     Page 18
+

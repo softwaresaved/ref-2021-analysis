@@ -1,0 +1,938 @@
+Unit-level environment template (REF5b)
+ Institution: University of Plymouth
+
+ Unit of Assessment: UoA11 Computer Science and Informatics
+
+
+ 1. Unit context and structure, research and impact strategy
+
+ Highlights
+
+    •   We broadened research scope significantly with growing numbers of research
+        applications in health technology, sustainability, agritech, and offshore renewable
+        energy (ORE). These areas are central to the University of Plymouth’s long-term
+        strategy.
+    •   Staff increased from 11.2 FTEs to 14.62; refreshed by seven new ECRs (section 2).
+    •   Research income from UK, EU and international sources rose to £7.7M from £6.7M
+        (section 3).
+    •   A Cyber-SHIP lab was set up with over £3M of funding, a new and unique research
+        facility designed to address key cyber security challenges facing the shipping industry
+        (sections 3 and 4)
+    •   A Big Data group was set up and interdisciplinary collaborations were invigorated
+        through a new School structure (sections 3 and 4).
+
+ 1 Overview
+
+ Research in Computer Science and Informatics at the University of Plymouth (UoP) is mainly
+ carried out at two research centres, the Centre for Robotics and Neural Systems (CRNS)
+ and the Centre for Security, Communications and Networks (CSCAN). Both centres form
+ part of the School of Engineering, Computing and Mathematics (SECaM) within the Faculty
+ of Science and Engineering (FoSE). Several staff in UoA11 occupy leading roles in the
+ Faculty (Jones, Executive Dean; Ghita, Associate Dean for International and Postgraduate;
+ Clarke, Deputy Head of SECaM), which provides a strong position within the Faculty and
+ University and enables impact on strategic decisions, including on research and
+ postgraduate matters.
+
+ In REF2014 UoP submitted 12.4 category A staff to UoA11 in a submission that was focused
+ on Cognitive Robotics and Neural Computation. The present REF2021 submission contains
+ 17 category A (14.62 FTEs) and 7 category B staff representing 10% of the independent
+ researchers in FOSE. The submission has a much wider scope than previously due to growth
+ and major restructuring:
+
+ In 2019, the former School of Computing, Electronics and Mathematics (SoCEM) merged
+ with the School of Engineering to form the School of Engineering, Computing and
+ Mathematics. The School merger created a synergistic mix of academic disciplines,
+ strengthening research through new interdisciplinary collaborations within the three core
+ subject areas in the new School -- Engineering, Computing and Mathematics. This
+ interdisciplinary environment aligns with Government and EPSRC priority areas of clean
+ growth, digitalisation, autonomy, and health technology. It enhances sharing of good practice
+ and alignment of processes and initiatives to maximise research and teaching benefits and
+ effectiveness across the School. It also enables more effective interaction between research
+ groups and training of researchers for industrial and research needs aligned to the future
+ needs of the country, including the challenges of the fourth Industrial revolution and global
+
+                                                                                         Page 1
+Unit-level environment template (REF5b)
+ digital transformation. Therefore, CSCAN and CRNS sit together in a supportive environment
+ and form a natural unit submission.
+
+ Furthermore, in 2016 Cangelosi and Marocco initiated the formation of a new BigData
+ group. This responded to the enormous growth the field has seen in recent years reflected in
+ UK Government strategy, especially Industry 4.0, which puts Computer Science, Data
+ Science and AI at the core of developments across industries. In the reporting period, five
+ lecturers were recruited to strengthen AI and Big Data in UoA11. Compared to REF2014,
+ research now falls into four broad thematic areas: Robotics; Computational Neuroscience
+ (REF2014); Big Data & Artificial Intelligence; Cyber Security & Networks (new).
+
+ SciVal data confirm that the majority of outputs cover core Computer Science topics (39.2%),
+ Maths (including theoretical/data analyses, 11.3%) and Engineering (21.8 %). The remaining
+ 27.7% cover a broad range of interdisciplinary topics, prominently in Neuroscience and
+ Psychology (through research in Computational Neuroscience) and the Health/Medical area
+ (Social robotics, HCI, and BigData). Given the interdisciplinary nature of research, UoA11
+ contributes strongly to the objectives of the University’s three strategic research institutes
+ (https://www.plymouth.ac.uk/research/institutes):
+
+    •   Marine Institute via Marine Cyber Security; AI, Optimisation and Data Analysis;
+        Autonomous Robotics.
+    •   Plymouth Institute of Health and Care Research via Social and Healthcare Robotics
+        (impact case 1); Computational Neuroscience; BigData for e-health.
+    •   Sustainable Earth Institute via Agricultural robotics (impact case 2); Robotics and AI
+        for Renewable Energy, especially offshore.
+
+ Strategic Aims
+
+ Our mission is to promote innovative research in core and applied Computer Science
+ domains that reaches the widest national and international recognition and highest impact.
+
+ Figure 1 displays performance metrics of all UoA11 research outputs over the REF period.
+ The figure shows that 20.5% of outputs perform in the top 10% worldwide and 2 to 5 % in the
+ top 1%. More than a quarter of outputs appeared in the top 10% of journals and 2 to 7% in
+ the top 1% (as measured by ‘CiteScore’, the average citation count per document in a
+ journal). The plots confirm consistency of this outstanding performance over time.
+
+ Based on this data and wider achievements outlined in the subsequent sections, we have
+ met all strategic aims identified in the REF2014 submission (see especially the highlights at
+ the top of this section).
+
+
+
+
+                                                                                          Page 2
+Unit-level environment template (REF5b)
+
+
+
+
+ Figure 1: Performance metrics for all UoA11 outputs published during the reporting period.
+
+
+ CRNS and CSCAN developed over more than ten years and are now well consolidated in the
+ School with excellent visibility worldwide. Individuals have their main affiliation with one
+ centre, but are often associated with secondary units. Both centres have an excellent work
+ ethos, highly motivated members, international reputation, and impact that grew strongly
+ during the assessment period.
+
+
+ Centre for Robotic and Neural Systems (CRNS).
+
+ https://www.plymouth.ac.uk/research/robotics-neural-systems
+
+ [Category A: Belpaeme, Gaudl, Gianni, Howard, Kelefouras, Li, Palomino, Stoelen,
+ Stuart, Walker, Wennekers, Yang. Category B: Borisyuk, Cangelosi, Lemaignan,
+ Merrison-Hort. Other previous members: Bugmann, Culverhouse, Marocco, Masala,
+ Metta, Millard, Rahat, Rodrigues,Thill]
+
+ The strategic vision of the CRNS embraces world-class interdisciplinary research
+ investigating the physical and functional basis of perception, behaviour and cognition in both,
+ natural and artificial neural and autonomous systems (including humans, animals and
+ robots). The CRNS has established an international research hub in the integration of
+ cognitive robotics and computational neuroscience. We pursue our aims through publication
+ in leading journals, development of state of the art robotics labs, and research income from
+ leadership in large, EPSRC and EU international consortia.
+
+ With a strong track record and international reputation for leadership in cognitive robotics,
+ CRNS explores models of action and language learning, developmental and epigenetic
+ robotics, human-robot interaction for children and the elderly, or mathematical and
+ computational modelling of visual and auditory perception. We also study nonlinear dynamics
+ to model working memory, timing, and learning processes; explore motor learning and
+ embodiment, and the application of computational and robotics modelling to psychology,
+ neuroscience, and animal behaviour. Given the Centre’s highly interdisciplinary approach, it
+ collaborates with many researchers in the University and worldwide. For example, Belpaeme
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ cooperates with Luc Steeles (Universidad Pompeu Fabra) on the Evolution of Language or
+ Bram Vanderborght (Vrije Universiteit Brussel) on Human Computer Interaction;
+ Cangelosi works with Giorgio Metta (Scientific Director of the Istituto Italiano di Tecnologia)
+ on Cognitive Robotics or Steve Furber (Uni Manchester) on neuro-inspired hardware for
+ robots. Borisyuk develops models of tremor with Nada Yousif at Imperial and tadpole spinal
+ cord models with Alan Roberts from UWE Bristol; Howard published on limb control with
+ Dan Wolpert (Columbia) and Konrad Koerding (Upenn); Wennekers develops models of
+ brain-function with Palm (Universitaet Ulm) and language with Pulvermueller (Freie
+ Universitaet Berlin).
+
+ Strong research strands evidenced by our selected outputs include:
+
+    [Robotic Control; Sensors and Actuators:] Stoelen and Howard lead Impact case 1 on
+    agricultural robotics, where low-cost public domain harvesting robots are deployed in real
+    environments. Chen works on robot controllers for a wide range of applications. His
+    publications have attracted an immense level of scientific attention in terms of citations.
+
+    [Social and cognitive robotics:] Impact case 2 by Belpaeme, Cangelosi & Gaudl considers
+    robot applications in social, educational and health contexts. Their work on robot-
+    supported child learning has set new scientific agendas and attracted a wide press attention
+    including front page coverage by Science Robotics and Scientific American.
+
+    [Computational Neuroscience:] Borisyuk, Wennekers & Howard have a long-standing
+    publication record and international visibility in CNS topics such as dynamical modeling of
+    neural systems (Borisyuk), brain-inspired language and cognition models (Wennekers) or
+    movement control (Howard).
+
+ During the evaluation period additional staff were recruited to counteract staff turnover. Three
+ early career lecturers complement and extend our core competences in Robotics: Gianni is
+ an internationally recognised expert in search and rescue robotics and multi-robot systems.
+ He also has responsibility for our Nvidia Lab. Gaudl’s research is focused on AI, games,
+ animal behaviour and low-cost robotics, especially in the health sector. Li is an expert in
+ Machine Learning, Control Theory, Smart Materials and Soft Robotics. All three are highly
+ promising researchers with a quickly increasing international visibility evidenced by their
+ research outputs. Gianni and Gaudl secured grant income soon after hired. Gianni started
+ two projects about aerial robot swarms for offshore wind turbine inspection and
+ decommissioning nuclear submarines (with Babcock, UK); Gaudl has a significant role in
+ EPIC2, where robotic systems are explored in health care environments. This is a major
+ project headed at the University’s new strategic Centre for Health Technology
+ (https://www.plymouth.ac.uk/research/epic ).
+
+ As an important element of growth, the research scope of the unit has been significantly
+ broadened and extended beyond Robotics and Neural Computation into wider Artificial
+ Intelligence technologies. This new initiative focuses on statistical learning, machine learning
+ and big data as well as optimisation methods in various contexts. It responds to strong trends
+ in Computer Science research and Industry requirements, and is well aligned with UK
+ research strategies: For instance, the EPSRC intends to grow its “Artificial Intelligence”
+ theme, and the UK Government’s Industrial Strategy published in 2017 includes AI as one of
+ four grand challenges. Three ECRs joined since 2017, covering a variety of complementary
+ topics in these areas (Walker: AI and optimisation, Kelefouras: optimised computing
+ hardware; Palomino: sentiment analysis).
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+ The scope of this initiative is even wider: members of the Centre (Cangelosi, Masala)
+ initiated the implementation of a Big Data research group, which recruits members from
+ across the School (Computing, Maths, Engineering) and serves as a platform for projects
+ within SECaM as well as with other units (Palomino, Gianni and Kelefouras work with the
+ Centre for Health Technology; Wennekers and Howard with the School of Psychology).
+
+ Centre for Security, Communications and Networks (CSCAN).
+
+ https://www.plymouth.ac.uk/research/centre-for-security-communications-and-network-
+ research
+
+ [Category A: Clarke, Ghita, Jones, Papadaki, Sun, Tam. Category B: Furnell, Other:
+ Shiaeles, Stengel]
+
+ CSCAN dates back to the 1980s, with a proven long-term research pedigree, including both,
+ collaborative work with industry and participation in European research initiatives.
+
+ Work at the Centre focuses on Digital Forensics, Human Aspects of Cyber Security,
+ Networking and Communications, and Marine and Maritime Cyber Security. Some
+ highlights (see submitted outputs) are early studies for user authentication using bio-metrics
+ and behaviour profiles (Clarke, Furnell, Papadaki), information security compliance
+ modelling in organisations (Furnell), content-based video quality prediction (Sun), internet
+ traffic classification (Ghita), or Tam’s highly recognised work about Android malware
+ behaviour reconstruction.
+
+ CSCAN has recently set-up a new Maritime Cyber Threats research group (Jones, Tam)
+ which aligns with the University’s focus upon the marine sector. The group brings together
+ leading-edge multidisciplinary research and practical expertise from across the University
+ and beyond. It is uniquely placed to make significant contributions in maritime cyber-security.
+ The group is supported by grants from H2020 (CYBER-MAR) and Research England
+ (CYBER-SHIP, £3M). An ECR, Tam, has significantly contributed to setting up the Lab; she
+ has been appointed to a lecturer post in 2019. A second ECR (Asad, UoA12) was appointed
+ lecturer in 12/2019.
+
+ The work at CSCAN has led to many successful postgraduate projects and associated
+ publications. About half of UoA11’s PhD completions were located in CSCAN. In addition to
+ an active base of postgraduate and postdoctoral research, CSCAN’s research also underpins
+ MSc and MRes programmes at UoP.
+
+ The CSCAN Network of European Universities (established in 2004) continues to flourish and
+ facilitates research co-operation with academic institutions across Europe: the University of
+ Applied Sciences, Darmstadt, Furtwangen University of Applied Sciences and, since
+ February 2015, the Frankfurt University of Applied Sciences. This has created a community
+ of 17 doctoral students throughout the reporting period.
+
+ Future Strategy
+
+ The launch of SECaM in 2019 and the new UoP institutes - Marine, Health, and Sustainability
+ - provided an opportunity to revisit research and impact strategy for the next 5 years. We
+ installed a new research group on BigData and AI in CRNS, which now contains Robotics,
+
+
+                                                                                          Page 5
+Unit-level environment template (REF5b)
+ Computational Neuroscience (REF2014), Big Data and AI. We embrace new opportunities in
+ digitalisation, artificial intelligence and robotics emerging in the 4th Industrial Revolution and
+ identified in the UK Industrial Strategy. Our objectives are
+
+        •   Grow the staff base in Computing in the School to extend the range of
+            competences and operational power. Four new lecturers/senior lecturers have
+            already been hired after the staff cut-off date for this REF; a full professor post in
+            AI has been advertised to further strengthen leadership.
+        •   Prioritize excellent, impact-yielding research, aligned to UKRI strategies and
+            supported by enhanced international collaborations, increasing the number of
+            world-leading publications and grant income, and maintaining an outward focus
+            that informs international facilities and national policies.
+        •   Maximize sustainable research impact, by taking full advantage of our new School
+            and its state-of-the-art infrastructure, of growing SME networks and
+            multidisciplinary industrial projects.
+        •   Strengthen our CPD provision, and continue to expand our research-informed,
+            educational and public engagement programmes to increase awareness of the
+            importance of Computer Science in pupils and the public.
+        •   Sustain and consolidate our outstanding team of postdoctoral researchers, and
+            increase our complement of PGR students.
+
+
+ Open Access Policy
+
+ The UoA complies fully with REF Open Access policies and the School encourages
+ researchers to use this option. The University published its Research Data Management
+ policy in 2018 to ensure data integrity, discoverability and reuse throughout the lifecycle of
+ research projects. Publications are made available publicly online
+ (https://pearl.plymouth.ac.uk/), usually under OA licenses funded by grants. Members of
+ UoA11 contribute to OpenAccess software, notably YARP, a widely used robotics platform
+ developed under supervision of Metta, who held a 20% contract at UoP for 5 years during
+ the assessment period (https://en.wikipedia.org/wiki/YARP). Parts of YARP were developed
+ and tested in robotics projects in Plymouth (ITALK, Poeticon). Members of UoA11 edit for
+ Open Access journals: Wennekers (PLOS one, Frontiers in Computational Neuroscience,
+ Frontiers in Neuroinformatics, Digital), Belpaeme (Frontiers in Robotics and AI), Cangelosi
+ (Frontiers in Neurorobotics).
+
+ Covid 19
+
+ In response to the pandemic, staff were encouraged to work from home, but can access
+ research labs on demand where necessary, consistent with government regulations. Strict
+ hygienic and behavioural procedures are in place throughout University buildings. Online
+ meetings take place at increased frequency, with weekly subject group meetings, bi-weekly
+ School meetings and monthly research planning meetings of the Centres. A SECaM
+ research planning day took place online in 12/2020 and UoP conducted a survey of the
+ impact of Covid19 on staff work and wellbeing.
+
+
+
+
+                                                                                             Page 6
+Unit-level environment template (REF5b)
+ 2. People
+
+ Table 1 provides staffing data. All staff are on permanent contracts, ensuring strategic
+ continuity and job security. Three are on part-time contracts holding second appointments
+ abroad (Stoelen, Belpaeme) or for a focus on research (Papadaki). Three researchers are
+ professors, 6 associate professors, 7 grade 8 lecturers and one grade 7. This profile reflects
+ the recent refreshment of our staff base, also visible in the high numbers of younger staff.
+ Four colleagues are female (24%) and 13 male, slightly better than UK averages for females
+ in professional Computing jobs (ca 20%, various sources) or female students in Computer
+ Science (18%, https://www.stemwomen.co.uk/). Twelve of 17 staff have a non-British
+ background, 8 originate from EU countries, and 4 from Asia and Southern America; 3 are
+ from a non-Caucasian background. These numbers are indicative of a highly international
+ and inclusive workforce; on average only 13.8% of the UK population is from an ethnic
+ minority background. It is a stated strategic aim of SECaM to become a beacon for EDI in the
+ university
+ https://www.plymouth.ac.uk/about-us/university-structure/service-areas/equality-diversity-and-
+ inclusion.
+
+ Table 1: Staffing profiles within UoA11 (% per headcount; n=17 category A researchers)
+  Grade                  % (#)     Age group       %        Employment Basis         %
+  Professor              18 (3) 25-34              17.6     Full-Time               82.4
+  Ass. Professor         35 (6) 35-44              29.4     Part-Time               17.6
+  Lecturer               47 (8) 45-54              29.4     Employment Terms         %
+                                   55-64           23.5     Permanent               100
+                                   65+             0        Fixed-term               0
+
+  Ethnicity            %        Gender            %                Disability         %
+  BME                  23.5     m                 76.5             No                82.4
+  Not known             5.9     f                 23.5             Not known         11.8
+  White                70.6                                        Yes                5.9
+
+
+ i. Staffing strategy and staff development
+
+ Our staffing strategy aims to grow excellence at all levels and to attract the best researchers
+ in line with our objectives and needs. The international reputation of CRNS and CSCAN
+ helps with attracting high-quality applications from around the world.
+
+ Aligned with the University’s internationalisation strategy we advertise and hire internationally
+ and expect staff to collaborate at an international level.
+
+ We attempt to position the unit ideally for Industry 4.0 by interdisciplinary and international
+ collaboration and growth of research, especially through new investments into AI and
+ robotics. Four new lecturer/senior lecturer and one professor post have been allocated to the
+ unit focusing on AI, robotics and cyber security.
+
+ Research within the unit aligns with the University’s three strategic institute themes: Marine,
+ Health and Sustainability. Collaborations in these areas are actively encouraged and
+ growing. Impact is reached by working with end users and industry (Honda, Babcock, Bosch,
+ Derriford National Trust, and others). Potential for research impact is a key element of the
+ recruitment criteria for new staff.
+
+
+
+                                                                                            Page 7
+Unit-level environment template (REF5b)
+ All submitted staff are on balanced contracts. UoP aims at a workload giving equal weight
+ (40%) to research and teaching, and 20% to administrative responsibilities.
+
+ The unit saw a large throughput of researchers in the reporting period. The majority of
+ outward moves were due to career progression: seven junior lecturers / ECRs took offers for
+ permanent academic posts elsewhere (Yang, Rodrigues, Lemaignan, Masala, Rahat,
+ Shiaeles, Millard), one entered industry (Merrison-Hort). This demonstrates excellent
+ opportunities for career development at the unit. Furthermore, three senior staff took new
+ academic posts elsewhere (Borisyuk, Cangelosi, Furnell) and two retired (Bugmann,
+ Culverhouse) although they are still affiliated with the unit as visiting researchers.
+
+ Staff turnover allowed us to build a refreshed staff base with a wider range of skills than in
+ the 2014 submission. This applies specifically to new topics in AI, BigData, and Marine &
+ Cyber Security where we hired a significant number of new staff at lecturer level during the
+ assessment period. Key appointments were in the field of AI and Optimisation (Walker,
+ Kelefouras), Big Data (Palomino), Robotics (Gianni, Gaudl), and Cyber Security (Tam,
+ internally promoted). These researchers have strong records of accomplishment and clear
+ potential to generate research excellence and impact (cf. their submitted outputs; Walker and
+ Gaudl have attracted competitive UoA internal studentships; Gaudl, Gianni and Tam
+ brought in several research grants).
+
+ Career development
+
+ We have a strong commitment to developing scholars to provide leadership and
+ sustainability, endorsing the University’s commitment to the Concordat to Support the Career
+ Development of Researchers. The University has successfully retained the Excellence Award
+ (see Institutional environment statement).
+
+ Principles of career development apply across staff at all levels from research fellows to
+ senior staff, with additional measures in place for new and early career researchers. All
+ academic staff develop research plans and take part in a formal personal development
+ scheme (PDR) to gauge performance and set objectives. Staff are evaluated annually
+ against the previous year's objectives, their job descriptions and individual requirements.
+ Results are propagated upwards to the HoS and Dean for School and Faculty level oversight
+ and planning. The PDR is also a measure to communicate Faculty and School strategy
+ downwards. New staff are allocated a mentor for one year who advises on academic issues.
+
+ A wide range of training sessions is available for UoP researchers catering for people at all
+ career stages. This extends from REF strategy, impact and Open Access issues to research
+ and presentation skills. Sessions are delivered internally or by external trainers, in
+ collaboration with the Doctoral College and relevant UoP units. Compulsory online courses
+ must be undertaken and refreshed at prescribed intervals: Equality and Unconscious Bias,
+ Mental Health Awareness, Diversity in the workplace, GDPR and Information Security.
+ Training also takes place at School away days where identified topics are covered (eg
+ funding opportunities and procedures; REF; research strategy). Training is monitored as part
+ of the PDR process. The School further encourages the achievement of professional
+ academic accreditations.
+
+ UoP operates an annual promotion scheme with associated workshops to clarify processes.
+ Promotions are awarded according to merit in accordance with defined criteria. Since 2014
+ one person was promoted to professor (Clarke; m), one to associate professor (Papadaki; f)
+ and four to lecturer level (Stoelen, Tam, Lemaignan and Merrison-Hort; 3m, 1f). Clarke,
+
+                                                                                         Page 8
+Unit-level environment template (REF5b)
+ Papadaki, Stoelen, Lemaignan and Merrison-Hort had been with the University since their
+ PhD studies at the time of promotion, demonstrating ongoing long-time support of staff. Tam
+ (f) entered the University as a research fellow in 2017, secured a lecturer appointment 2019
+ and continues to contribute to the Cyber-SHIP lab.
+
+ The School also runs a scheme for semester-long sabbaticals (eg Dahl, Marroco).
+
+ New Researchers and Early Career Researchers
+
+ The School has a strong commitment to support young researchers and their career
+ development. At the census date, we had seven ECRs (Tam, Gianni, Gaudl, Kelefouras,
+ Walker, Palomino, Stoelen). Seven ECRs secured permanent academic posts elsewhere
+ during the reporting period (Lemaignan & Yang, UWE Bristol; Masala, Manchester
+ Metropolitan; Millard, University Lincoln; Rahat, Swansea University; Rodrigues, BCAM,
+ Spain; Shiaeles, Portsmouth).
+
+ We support research assistants and ECRs through:
+
+ - Mentoring. New members of staff are allocated a research-active mentor for specific
+ guidance on research, career development, and grant writing.
+ - Performance Development Review (PDR). Senior members of the School who review all
+ staff and give advice and support for development needs.
+ - ECR Research Forum: This is a school-wide group of ECRs who self-organise to provide
+ mutual support, with regular meetings, reading club, grant writing support, etc.
+ - Workload adjustments. New researchers have a reduced teaching load of 20% (instead of
+ typically 40%) and no major administrative responsibilities.
+ - Postgraduate Teaching Certificate. Primarily a teaching course, but includes procedures
+ and regulations relevant to research, eg PGR student supervision and Doctoral College (DC)
+ support.
+ - Internal courses: delivered through the DC covering a wide spectrum of skills including
+ project management, IPR, research and presentation skills, grant writing etc.
+ - PhD Studentships and Small Grant Competitions. In the past, more than 50% of internally
+ funded PhD studentships and small grants were priority-allocated to ECRs to kick-start their
+ research productivity and supervisory experience.
+ - External visitors: The research centres run seminar series supported by the School with
+ internal and external speakers, providing opportunities for junior staff to develop presentation
+ skills and foster networking.
+
+ Equality and Diversity
+
+ As one of its strategic objectives SECaM is committed to the advancement of equality,
+ diversity and inclusion in employment and career development. The University, the School of
+ Computing, Electronics and Mathematics, and the School of Engineering attained Athena
+ SWAN bronze awards in recognition of a commitment to improving gender equality in
+ October 2018. In November 2020 the new School, SECaM, also received an Athena SWAN
+ bronze award. https://www.plymouth.ac.uk/about-us/university-structure/service-areas/equality-
+ diversity-and-inclusion/athena-swan
+
+ EDI issues in relation to recruitment, promotion, and research are monitored through the
+ yearly PDR process and by research centre leads for reporting to the Faculty Research
+ Committee. The School carefully formulates recruitment and marketing documents not to
+ exclude under-represented groups, and aims to be able to shortlist at least one female
+
+
+                                                                                           Page 9
+Unit-level environment template (REF5b)
+ candidate for each externally advertised post. It is HR policy for recruitment panel members
+ to receive training in equality and diversity issues. All members of staff complete compulsory
+ online training on equality and diversity, and unconscious bias.
+
+ Output selection for this REF submission followed peer rankings of up to five best outputs of
+ each researcher by internal and external reviewers. The single best output for each
+ researcher was chosen and the remaining outputs selected according to the rankings. There
+ were no ambiguities of choice in the process that could have disadvantaged minorities.
+ Several of the best papers are from active female members of the unit. The UoA submits
+ ~24% females, slightly more than females among Computing students or in professional
+ Computer Science jobs. In December 2020 the School has offered two new posts in AI and
+ Cyber Security to females. In a wider context, the University provides wellbeing and
+ counselling services, access to on-campus nurseries for staff, and it supports
+ maternity/paternity leaves.
+
+ ii. Research Students
+
+ Postgraduate research students are key to our research environment. 104 PhD students
+ completed during the reporting period, roughly 15 completions per year or 1 per FTE per
+ year. The number of completions is stable over time. 20% of completions in the School were
+ by females; 48% had a BAME background. Recruitment was by a variety of sources, such as
+ four Marie Curie training networks (APRIL, SECURE, DCOMM, COGNOVO), the CSCAN
+ Network of European Universities, a range of EU grants and additional internal studentships
+ distributed within the School in a competitive process (~3 per year). The School secured an
+ EPSRC DTP with a focus on Offshore Renewable Energy (ORE) and provides further PhD
+ studentships in Health & Medical Technologies for which members of UoA11 have
+ successfully applied (Walker, Gianni). CSCAN also attracts self-funded students from Kuwait
+ and Saudi-Arabia (> 20 students).
+
+ The University considers educating the next generation of academics and researchers
+ central to its mission. It coordinates postgraduate studies through the University’s Doctoral
+ College (DC), such that all students receive excellent and extensive support at the same high
+ level of quality.
+
+ Recruitment follows strict procedures to guarantee equality, inclusivity and fairness, as well
+ as wide and international advertisements of posts. A trained recruitment team reviews
+ applications and interviews shortlisted candidates according to procedures very similar to
+ those for standard academic posts. Students are provided with dedicated office
+ accommodation and all necessary lab access and computing infrastructure. Depending on
+ the funding source, special-purpose equipment, travel or other resources are provided.
+ Where possible, students are collocated to support a lively student environment.
+
+ Training and Support
+
+ The DC offers a range of training courses in research and transferrable skills, such as project
+ management, networking, career management, presentation skills, etc. Students evaluate
+ with their supervisors which courses to take. Student members of Marie Curie training
+ networks did benefit from additional training as part of the network, eg sessions in science
+ communication, entrepreneurship, or the opportunity to organise a student-led conference.
+
+ Supervisory teams consist of a Director of Study and a second supervisor, but can have
+ more members if an interdisciplinary research topic requires this. A further independent UoP
+
+                                                                                         Page 10
+Unit-level environment template (REF5b)
+ academic ('expert commentator') reviews progress at several junctures (initial proposal,
+ transfer report, final thesis, viva). All supervisors are trained as required by the DC. Less
+ experienced supervisors are paired with an experienced colleague.
+
+ Students are fully integrated into their Centres and the School’s research environment. They
+ partake in regular lab meetings, internal and external seminars, and the general international
+ research culture. They benefit from interaction with national and international visitors to the
+ School and have a representative on the School's research committee.
+
+ Progress Monitoring
+
+ Comprehensive monitoring procedures are in place overseen by the DC. Frequent informal
+ meetings are complemented by formal three-monthly meetings, annual progress reports, and
+ crucial milestones recorded in an online monitoring system (gradbook). The expert
+ commentator provides critical scrutiny and guidance independent of the supervisory team. As
+ progress permits, students transfer after 12 months from an MPhil to a PhD route.
+
+ 3. Income, infrastructure and facilities
+
+ Our research environment is supported by state-of-the-art Infrastructure and facilities. Most
+ researchers and all PGR students have generous office space in a modern building erected
+ in 2002/03 that also features some of the Computing labs, lecture halls, large community
+ areas and a cafeteria. Robotics and additional Networking and Security Labs are in buildings
+ close-by (less than 5 minutes). The University is investing £50M into a new building that will
+ host major parts of the School of Engineering, Computing and Mathematics from the start of
+ the 2023/24 academic year. This will contain shared lab-spaces, teaching space, IT services
+ and other facilities, notably a high-tech virtual engineering suite to which all research groups
+ will have access. Our existing spaces in other buildings have been re-developed, with
+ generous new space for Computer Gaming and an AR/VR laboratory.
+
+ CRNS labs are supported by three technicians. Equipment has been purchased through a
+ combination of University infrastructure investments and project budgets. The Cognitive
+ Robotics and Human-Robot Interaction Lab hosts an iCub humanoid baby robot, one of the
+ most advanced platforms for research on cognitive robotics. Metta, who developed the iCub
+ platform and is now director of the Italian Institute of Technology, held a 20% Professor post
+ at UoP for 5 years in order to collaborate on joint projects (POETICON++, SECURE,
+ BABEL). We also have five Nao Aldebaran humanoid robots used in HRI experiments
+ (Cangelosi, Belpaeme), a MetraLab Scitos mobile platform for research on robot
+ companions for the elderly (Belpaeme, Gaudl, link to UoP’s Health and Care Research
+ Institute), two manipulandum set-ups for motor neuroscience research (Howard),
+ autonomous un-manned aerial and terrestrial vehicles for search and rescue (Gianni, linked
+ to UoP’s Marine Institute), and custom made low-cost robots for research into swarm robotics
+ (Millard, Gaudl). CRNS runs an Nvidia lab of powerful workstations with in total 54 Tesla
+ GPUs (Gianni) and in collaboration with Mathematics we have access to the School’s 1024
+ core HPC Computer cluster for extensive simulations in Robot Learning (Cangelosi,
+ Wennekers), Computational Neuroscience (Borisyuk, Wennekers) and BigData
+ applications (Walker, Palomino). CRNS hosts other specialised equipment such as a
+ Plankton Image Analyser system (Culverhouse) and an Information Visualisation Lab
+ (Stuart).
+
+
+
+
+                                                                                           Page 11
+Unit-level environment template (REF5b)
+ CSCAN also has an excellent modern technology infrastructure with several related
+ computing facilities. The Cyber Security lab (Clarke, Furnell, Papadaki) is a 42-seat Security
+ and Forensics laboratory, a custom-designed facility dedicated to activities relating to security
+ research, related undergraduate and postgraduate teaching, and Capture-the-Flag activities.
+ This facility represented an investment of over £200K when launched in October 2011; with
+ additional investments of £40K in 2015 and £50K in 2019 to upgrade the computers and
+ servers to a higher specification. All activities in the room are closely monitored utilising
+ CCTV, traffic monitoring, firewalling, and extensive logging. Desktop PCs are controlled and
+ audited with access to security toolkits provisioned through virtualisation (examples include
+ hacking toolkits like Kali Linux, Social Engineering Toolset, and forensics tools as FTK). In
+ addition, the School supports a separate Networks laboratory, which is used by the
+ Cybersecurity students for their network technology modules. This facility has 40 seats, is
+ equipped with £250K of Cisco and F5 networking and security equipment, and allows for a
+ wide range of networking topologies to be deployed (covering LAN, wireless, ISP-customer-
+ to-datacentre) as well as a lab cloud and datacentre infrastructure.
+
+ The Cyber-SHIP lab, linked with UoP’s Marine Institute, is a new and unique national
+ research facility designed to address key cyber security challenges facing the shipping
+ industry (Jones, Tam) established in November 2019 through £3million funding from
+ Research England and industry. Dedicated space in the Marine Building has been
+ repurposed for the lab in close proximity to the full bridge navigation simulator. The lab brings
+ together a host of connected maritime systems currently found on an actual ship’s bridge,
+ featuring cutting edge maritime technology including radar equipment, a voyage data
+ recorder (VDR), an Electronic Chart Display and Information System (ECDIS), an automatic
+ identification system (AIS) and communications devices. Experts in cyber security and
+ information systems can now assess them for weaknesses, and identify the human and
+ technological changes needed to make them secure for the future. The setup is unique
+ world-wide, it engages 18 commercial UK partners and sees strong interest from overseas.
+ https://www.plymouth.ac.uk/research/cyber-ship-lab
+
+ The University supports research through its administrative structures: The Research and
+ Innovation team supports the preparation of grant applications and manages grants; the
+ IP/commercialisation committee supports exploitation of IP rights up to part-funding start-up
+ companies (eg Stoelen’s spin-out company Fieldwork Robotics Ltd;
+ https://fieldworkrobotics.github.io/); a new R&D fund is designed to stimulate industrial
+ collaboration and knowledge transfer.
+
+ Research Income
+
+ During this REF period, the Unit has received significant income through new RCUK, EU
+ and international grants. Figure 4 details funds received per academic year by funding source
+ (A). Part B displays year totals and demonstrates a steady income of around £1.1M per year.
+ The data for the 19/20 financial year ends in June.
+
+
+
+
+                                                                                          Page 12
+Unit-level environment template (REF5b)
+
+
+
+
+ Figure 1: A) grant income per funding source and year, B) total grant income by year, and C) total grant income by
+ funding source.
+
+
+ First, we led new large, multi-national EPSRC and EU projects. An example in the
+ Networks and Security area is the EU H2020 ICT RIA project “CYBER-TRUST: Advanced
+ Cyber-Threat Intelligence, Detection, and Mitigation Platform for a Trusted Internet of Things”
+ (2018 – 2021, 398,395EUR of 2,998,182EUR to the University of Plymouth; Shiaeles as
+ technical lead, Clarke, Ghita, Papadaki, Furnell as Co-Is). Two large Robotics projects we
+ led are the H2020 L2TOR – “Second Language Tutoring using Social Robots” (2016-2018,
+ 544,013 EUR of 3.043 MEUR to UoP; Belpaeme, coordinator) and “MoveCare: Multiple-
+ actors Virtual Empathic Caregiver for the Elder” (2017-2019, 439kEUR to UoP; Cangelosi,
+ coordinator). The latter two projects underpin our Impact Case Study in Social Robotics.
+
+ Secondly, we contribute to large national and international research consortia. For
+ example, CSCAN participates in the H2020 FORESIGHT project “Advanced cyber-security
+ simulation platform for preparedness training in heterogeneous IoT, industrial and defense
+ ecosystems” (10/19-09/21, € 290k of € 7M to UoP) and the EPSRC funded project
+ “Identifying and Modelling Victim, Business, Regulatory and Malware Behaviours in a
+ Changing Cyberthreat Landscape” (2013-17, £173k of £1.0M; Clarke, Furnell, Stengel, co-
+ Is).
+
+ In Maritime Cybersecurity in addition to CYBER-SHIP (see above) we contribute to CYBER-
+ MAR. Both have established a new research direction within the School to address the key
+ cyber security challenges facing the shipping industry. CYBER-MAR - “Cyber preparedness
+ actions for a holistic approach and awareness raising in the MARitime logistics supply chain”
+ is an H2020 project with 11 partners (09/19-08/22; € 644k of € 7.1M to UoP) (Jones, Tam).
+
+ Three further large robotics projects fall in the area of health and social robotics: “DREAM:
+ Development of Robot-Enhanced therapy for children with AutisM spectrum disorders” an EU
+ FP7 Integrated Project (04/14-10/19; 955 kEUR of 6.432 MEUR for Plymouth; Belpaeme,
+ PI). “EPIC: E-health - Productivity and Innovation in Cornwall and the Isles of Scilly” (03/17-
+ 04/20, £1,7M of £3.4M to UoP), which is funded by the European Regional Development
+
+
+                                                                                                          Page 13
+Unit-level environment template (REF5b)
+ Fund (ERDF) (Cangelosi, Dahl, Belpaeme) and EPIC 2, a follow-up of the EPIC project also
+ funded by the ERDF (5/20-4/23, Gaudl, Palomino, Clarke, £4.1M to UoP).
+
+ Thirdly, we complement our income from large collaborative projects and postgraduate
+ training networks (see below), by standard grants from EPSRC, BBSRC and other sources.
+ Examples are the EPSRC BABEL project to study brain-inspired cognitive systems (to
+ Cangelosi and Wennekers; £1.2M to UoP); the THRIVE robotics project funded by the US
+ Air Force Office of Science and Research (AFSOR-EOARD, to Cangelosi $555k); or various
+ projects from the Newton Trust (UK) and the European Regional Development Fund to
+ Stoelen to develop agricultural robots (£338k). (The latter partly underpin our Impact Case
+ in Agricultural Robotics.)
+
+ Fourthly, we received significant funding for postgraduate training networks:
+
+ 2016-19 EU H2020 Marie Skłodowska-Curie EID European Industrial Doctorate, €1,345,614
+ (€819,863 to UoP) “APRIL: Applications of Personal Robotics for Interaction and Learning”.
+ (Cangelosi as Coordinator/PI; Belpaeme, Dahl co-Is).
+
+ 2016-19 EU H2020 Marie Skłodowska-Curie ETN, €546,573 “DCOMM: Deictic
+ Communication”. Cangelosi PI, With K Coventry (U. East Anglia) as ETN coordinator, and 8
+ other partners.)
+
+ 2015-18 EU H2020 Marie Skłodowska-Curie ETN, €546,573 “SECURE: Safety Enables
+ Cooperation in Uncertain Robotic Environments”. (Cangelosi, Metta (UoP & IIT)).
+
+ 2013-17 EU FP7 Marie Curie Innovative Doctoral Program, €4,077,315 (all to UoP)
+ “COGNOVO: Cognitive Innovation” (PI S. Denham, with Co-Is Cangelosi, Belpaeme,
+ Borisyuk, Wennekers et al.).
+
+ 2015-18 EU H2020 Marie Skłodowska-Curie ETN, €547K “QoE-NE: innovative Quality Of
+ Experience management in Emerging mulTimedia services” (Sun, co-I).
+
+ We further received several prestigious European postgraduate Fellowships.
+
+ 2016-18 EU FP7 Marie Curie Intra European Fellowship, €183k “CAREER-AID: Controlled
+ Autonomous Robot for Early diagnosis and Rehabilitation of Autism and Intellectual
+ Disability”. Cangelosi PI, Daniela Conti as Fellow (grant awarded but transferred to Sheffield
+ Hallam University).
+
+ 2015-17 EU FP7 Marie Curie Intra European Fellowship, €195k “DOROTHY: Donating
+ Robots a Theory of Mind”. Belpaeme PI, Lamaignan as Fellow.
+
+ 2014-16 EU FP7 Marie Curie Intra European Fellowship, €231k “DeCoRo: Developmental
+ Contextdriven Robot learning”. Cangelosi PI, Stoelen as Fellow.
+
+ 2013-15 EU FP7 Marie Curie Intra European Fellowship, €221k “ORATOR: Integrating
+ Object Recognition and ActiOn for action sentence production and comprehension in a
+ developmental humanoid Robot”. Cangelosi PI, Beata Grzyb as Fellow.
+
+ These fellowships were all highly successful: Stoelen and Lemaignan received lecturer
+ posts at UoP afterwards. Stoelen now shares his post in Plymouth with an Associate
+ Professor post in Norway. Lemaignan, Conti and Grzyb are currently research associates at
+ Bristol University, Sheffield Hallam University and UCL, respectively.
+
+
+
+                                                                                        Page 14
+Unit-level environment template (REF5b)
+ Finally, we use enterprise-focused grants for research development and proof-of-concept
+ innovative projects. These can be third-stream projects that generate applied research
+ funded by external, non-academic partners of the University of Plymouth Enterprise Limited.
+ Examples are a Honda European Graduate Network funded by Honda (Offenburg, Germany)
+ for £93,176, 2017-20, a UoP grant to set-up Fieldwork Robotics Ltd, 2017 a spin-out
+ company led by Stoelen (£50k), and proof-of-concept funding to Stoelen and Howard.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Our research strategy puts strong emphasis on national and international collaborations to
+ maximise impact. We contribute extensively to our research communities through the full
+ spectrum of available measures like conference organisation and chairing, editorial and
+ reviewing activity, or membership of learned societies and outreach activities.
+
+ Co-authorship is a direct measure of our intensive collaborations and their impact on visibility.
+ Table 2 shows that almost all our publications (98.1%) present collaborative work of which
+ almost two thirds (62%) are with international co-authors. The vast majority (96.5%) are
+ outputs from academic collaborations. With a field-weighted citation index (FCWI) of 1.71
+ they are cited more than 70% more frequently than an average paper in our field.
+
+ Table 2: Collaboration data derived from all publications of the unit (1121 publications)
+  Collaboration type                         %             Scholarly       Citations       FWCI
+  Data from Scopus (up to 10 Nov 20)         outputs       outputs
+  International collaboration                61.6          691             8207            1.91
+  National collaboration only                15.4          173             1064            1.34
+  Institutional collaboration only             21          236             2155            1.67
+  Single authorship (no collaboration)         1.9           21              30            0.32
+  Academic-corporate collaboration              3.5          39             324            2.25
+  No academic-corporate collaboration         96.5         1082            11132           1.73
+
+ International Collaboration
+
+ As the previous section details we have led major collaborative and agenda-setting
+ programmes in all our target areas of research. Cangelosi and Belpaeme attracted many
+ large international grants in robotics (APRIL, MoveCare, CAREER-AID, SECURE, THRIVE,
+ among others) that firmly established our world-leading role in humanoid cognitive robotics
+ and social and health-care robotics. Belpaeme and Gaudl will develop this line of research in
+ the future in collaboration with the Centre for Health Technology (Jones; EPIC, EPIC2
+ projects) (https://www.plymouth.ac.uk/research/centre-for-health-technology).
+
+ Members of CSCAN (Shiaeles, Furnell, Clarke, and Stengel) collaborated with national
+ experts on the EPSRC project “Identifying and Modelling Victim, Business, Regulatory and
+ Malware Behaviours in a Changing Cyberthreat Landscape” and also, internationally, on the
+ H2020 FORESIGHT project: “Advanced cyber-security simulation platform for preparedness
+ training in heterogeneous IoT, industrial and defense ecosystems”. These projects aim at
+ tackling the ever growing Cybercrime threat in the UK and worldwide.
+ The CYBER-Ship lab is a national capability that engages researchers from throughout the
+ University (Jones and Tam from the Maritime Cyberthreat Research group, members of
+ CSCAN, Psychology, Maritime Law and Economics, Navigation and Maritime Science) as
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+ well as 18 commercial partners. It is accessible by national and international experts and is
+ actively seeking further collaborations with academic and industry partners. Few locations
+ worldwide bring together a similarly broad infrastructure and expertise to explore maritime
+ cyber-security. We therefore expect this new group to flourish and gain extensive visibility
+ and strong impact quickly.
+
+ Much of our research is interdisciplinary, especially, in Computational Neuroscience
+ (Wennekers, Borisyuk, Howard, Merrison-Hort) or the growing fields of Health and Social
+ Robotics see EPIC/EPIC2 (Gaudl, Belpaeme); ORE (Walker, Gianni) as well as
+ autonomous systems (collaborations with Mechanical Engineering). Here we benefit from the
+ university’s institute structure: marine (ORE), health (health and social robotics) and
+ sustainability (agritech). Howard recently contributed to highly influential research on
+ Morality and Creativity with colleagues in the School of Psychology. These studies would not
+ have been possible without his expert input on haptic and 3D visualisation technologies, and
+ his expertise in human Psychophysics. Borisyuk further led high impact interdisciplinary
+ research on central pattern generators in collaboration with Roberts and Soffe (UWE Bristol).
+ This work is important for future bio-inspired embodied robots with small (tadpole) brains and
+ featured on the front page of the Journal of Neuroscience. Wennekers collaborated on large-
+ scale human-like neural models with Cangelosi (then UoP), Pulvermueller (Freie
+ Universitaet Berlin), Garagnani (Goldsmiths) and Furber (University of Manchester) to
+ understand language learning in humans. This work aimed at neural language models for
+ humanoid robots that make use of the SpiNNaker architecture to reach real-time
+ performance. This led to new spiking neuron algorithms and implementations on iCub, iCub
+ simulator and SpiNNaker boards. Belpaeme and Gaudl further collaborated locally with the
+ eHealth research group on robots in health care (EPIC and EPIC2 grants). This collaboration
+ is central to one of our impact cases.
+
+ A focus of high-impact activity are the Marie Curie international training networks we run
+ or contributed to: APRIL, DCOMM, SECURE and COGNOVO. These allowed us to dive into
+ research topics at the frontier of science and steer the respective research agendas. Many of
+ our postgraduate students and fellows on these projects have chosen a career in science,
+ where they can contribute to their fields further. In particular, COGNOVO
+ (https://cognovo.eu/) was a highly interdisciplinary, extremely successful EU Innovative
+ Training Network established at UoP that aimed at exploring Creativity and Behavioural
+ Change from the widest variety of perspectives. 13 EU fellows and 12 PhD students
+ (additionally funded by UoP) collectively engaged on this endeavour. Members form UoA11
+ (Borisyuk, Wennekers, Cangelosi, Wennekers, Howard, Bugmann) supervised 6
+ students on Robotics and Computational Neuroscience topics, and were on the supervisory
+ teams of 8 others. The ITN finished in 2017 and was exceptionally successful. Several of the
+ fellows have permanent academic posts already.
+
+ We have also developed strong interdisciplinary collaborations with colleagues in the Marine
+ and Health Institutes. Howard, Borisyuk, Wennekers, Cangelosi and Belpaeme work and
+ publish frequently with members of the School of Psychology. Belpaeme, Gaudl, Clarke and
+ Palomino cooperate closely with the research group for eHealth. Culverhouse, Jones and
+ Tam have strong links to the Marine Institute, and members of the Autonomous Marine
+ Systems Group (which are submitted to UoA12) are associated members of the CRNS. The
+ interdisciplinary nature of our research is visible in many of our submitted outputs.
+
+
+
+                                                                                         Page 16
+Unit-level environment template (REF5b)
+ Staff in UoA11 are actively engaged in Conference Organisation and Chairing.
+ Wennekers organised and chaired MSBDy17 (with Achermann, Zurich, and Olbrich, Leipzig)
+ “Brain dynamics on multiple scales, their dynamics, and integrated approaches (June 2017,
+ sponsored with 18kEUR by the Max Planck Institute for Complex Systems. Cangelosi and
+ Belpaeme acted as general and co-Chair of the IEEE ICDL-EPIROB conferences 2017 in
+ Lisbon and 2018 in Tokyo. They also co-directed the “APRIL Summer School”, 10-13 July
+ 2016, Cefalù, Italy. Belpaeme was further co-director (with Bram Vanderborght, Vrije
+ Universiteit Brussel) and Thill (University of Plymouth / Radboud University, Netherlands) of
+ the 2nd and 3rd International Summer Schools on Social Human-Robot Interaction, 2017, in
+ Portugal and 2015, in Finland. Furnell has co-chaired five instances of the International
+ Conference on Information Systems Security and Privacy (ICISSP) and Sun was symposium
+ co-chair for Communication Software, Services and Multimedia Applications (CSSMA) at
+ IEEE ICC 2019, Shanghai, China and at IEEE ICC 2014, Sidney, Australia. Walker has
+ chaired the annual Visualisation in Genetic and Evolutionary Computation workshop (held at
+ ACM’s GECCO) since 2012. In addition, staff were co-organising Chairs / PC chairs of over
+ 20 other conferences and workshops and served on the programme committees of another
+ 60+ workshops and conferences within the reporting period.
+ Members of the unit gave 10+ keynote lectures at international conferences. Examples
+ include Furnell: “Cybersecurity Illiteracy”, 18th Annual Security Conference, Las Vegas,
+ USA, 30 April 2019. Clarke: “Is Digital Forensics a Necessity for Organisations?”, University
+ of Nevada (Reno), May 2019. Belpaeme: Keynote at Joint IEEE International Conference on
+ Development and Learning and on Epigenetic Robotics 2018, Tokyo, Japan. Cangelosi:
+ Intrinsically Motivated Open-ended Learning Workshop. Rome, 2017. This is in addition to
+ more than 30 other invited presentations at conferences and 100+ further invited academic
+ talks.
+ Journal editorships: CRNS staff contribute as editors-in-chief and associate editors to more
+ than 20 journals, including major IEEE and open access journals. A selection of these are
+ Editor-in-Chief of “Interaction Studies“ (Cangelosi) and “IEEE Transactions in Autonomous
+ Mental Development” (Cangelosi), “Information and Computer Security” (Furnell), associate
+ editorship of “Neural Networks“ (Borisyuk), “PLOS one” (Wennekers), “Ecological
+ Informatics“ (Culverhouse), “Frontiers Neuroinformatics” (Wennekers), Frontiers
+ Computational Neuroscience (Wennekers), Entertainment Computing (Belpaeme),
+ International Journal of Advanced Robotic Systems (Belpaeme), Computers and Security
+ (Clarke, Furnell), The Computer Journal (Oxford)(Furnell). All staff engage in regular peer-
+ review of journal articles.
+ Our staff serve their communities by taking multiple roles in disciplinary associations and
+ learned societies: Jones serves as chair of UKCRC Membership Committee and BCS
+ Appeals Committee. He is also member of UKCRC Exec and the BCS Academy Board.
+ Furnell is member of the annual Wilkes Award Committee for The Computer Journal. He was
+ lead contributor to the design of academic degree certification programmes for the National
+ Cyber Security Centre, as well as a contributor to the international Cybersecurity Curricula
+ Guidelines from the ACM/IEEE Joint Task Force. As an Associate of the Oxford Martin
+ School, University of Oxford, Furnell contributed to two working groups (Building Cyber Skills
+ and Leadership and Controlling Risks Through Technology and Processes) within the Global
+ Cyber Security Capacity Centre. Sun served as Vice-Chair for the IEEE Communications
+ Society, Multimedia Communications Technical Committee; Walker on the IEEE Task force
+ on Many Objective Optimization; and Gaudl as general committee member and editor for the
+ Society for the Study of Artificial Intelligence and Simulation of Behaviour (AISB).
+
+
+                                                                                       Page 17
+Unit-level environment template (REF5b)
+
+ Several colleagues are IEEE Senior or Regular Members (Jones, Belpaeme, Clarke,
+ Cangelosi, Stoelen, Sun); Members of the ACM (Furnell, Jones, Stoelen); Fellows of the
+ British Computing Society (Jones, Clarke, Furnell, Cangelosi); a Fellow of the Institution of
+ Engineering and Technology (Jones) or members of more than ten other recognised
+ organisations. Four are members of the EPSRC peer review college (Jones, Belpaeme,
+ Cangelosi, Borisyuk), three review for the BBSRC (Howard, Borisyuk, Wennekers) and all
+ staff act as regular referees of other national, EU and overseas projects by international
+ funding agencies. Senior members served extensively as external PhD examiners
+ (Belpaeme, Borisyuk, Cangelosi, Clarke, Furnell, Sun, Wennekers). Wennekers was
+ external reviewer for the foundation of an MSc in Computational Cognitive Neuroscience at
+ Goldsmiths.
+
+ Community and Outreach
+
+ Examples of wider contributions to the economy and society includes Furnell’s contribution to
+ the development of the Chartered Institute of Information Security new skills framework for
+ information security professionals. The framework led to a change in work-based practice in the
+ public and private sector (eg BT, AXA, GSK). The National Technical Authority at GCHQ has
+ used it to underpin its Certified Cyber Professional Scheme.
+ Stoelen is collaborating closely with local groups in Devon and Cornwall to develop agri-
+ robotic harvesting systems. On a wider scale he provides open access to his low-cost Gummi
+ Arm technology (https://mstoelen.github.io/GummiArm/).
+ Stuart pushed forward a project with University hospitals Plymouth NHS Trust on data
+ visualisation in the clinical environment, and Wennekers worked with the Westcountry River
+ Trust to implement a data collection and visualisation system for their extended sensor
+ networks.
+
+ Members of the unit are active in outreach, with school visits and several activities brought
+ regularly to events such as open days, showcases and science festivals. For example,
+ Belpaeme, Cangelosi and Gaudl use nao-robots for social robotics and health-care
+ demonstrations and Gaudl evolved gaming, VR and multi-media applications to feature at
+ public events.
+
+ The School hosts the Computing at Schools Regional Centre for the South West, which
+ aims at establishing Computing firmly in all primary and secondary schools
+ (https://www.plymouth.ac.uk/about-us/university-structure/faculties/science-engineering/cas-
+ regional-centre-south-west)
+
+ We are also actively engaged in the British Computer Science Society where Palomino chairs
+ the South West branch (https://www.bcs.org/membership/member-communities/south-west-
+ branch/south-west-branch-committee/)
+ Finally, various research projects attracted a large amount of press interest, notably our
+ impact cases about social robotics and agritech (Stoelen & Howard; Cangelosi, Belpaeme
+ & Gaudl).
+
+
+
+
+                                                                                          Page 18
+

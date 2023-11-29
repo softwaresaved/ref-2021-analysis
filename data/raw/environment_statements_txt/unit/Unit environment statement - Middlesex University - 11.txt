@@ -1,0 +1,1140 @@
+Unit-level environment template (REF5b)
+ Institution: Middlesex University
+
+ Unit of Assessment: 11 - Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+ Computer Science and Informatics research at Middlesex enjoys a thriving and vibrant
+ environment undertaking internationally leading applied and foundational research across the
+ subject area. During the REF period, through cultivation of strong research leadership and
+ investment, the unit appointed talented computer science researchers and sustained the fostering
+ of an environment that encourages inter-disciplinary collaboration with international partners.
+ Implementing the strategic plan laid out in REF2014, where the unit was the 5th largest Computer
+ Science unit in the country with 53.1FTE staff submitted, makes this possible. That submission
+ was part of the sustained growth building upon REF2008 when 22.3FTE staff were submitted and
+ reflecting the history and tradition of computer science research at Middlesex. The unit has
+ participated in every research exercise since 1992.
+
+ Results of research at Middlesex in Computer Science and Informatics over this REF period
+ include: antibiotic resistant bacteria can now be studied biologically using information theory;
+ infants’ lungs are non-invasively and inexpensively measured and monitored; oesophageal cancer
+ can be inexpensively detected at an early stage using automated video recognition from
+ endoscopy; and visual analytics changes the approach police forces internationally adopt in the
+ prosecution of crime.
+
+ 1.1 Unit Structure
+ The unit is located in the Faculty of Science and Technology and comprises 69 category A staff-
+ 64.55 FTE. All staff in the Department of Computer Science (CS) are submitted and 14 from the
+ Department of Design Engineering and Mathematics (DEM), one colleague from the Department
+ of Natural Sciences (Tizzard), and one colleague (Comley the University's Director of Research)
+ outside of the Faculty structure. All staff eligible for the REF in CS are included in this unit, and
+ staff in DEM not included are submitted to UoAs 3 (Allied Health), 4 (Psychology), 14
+ (Environmental Studies) and 24 (Sport Sciences).
+
+ Research leadership within the unit is reflected in both organisational, management and academic
+ structures. Research is managed formally through a Deputy Dean for Research and Knowledge
+ Exchange and two Heads of Departments who are also professors all submitted here. Further
+ operationalisation is achieved through the unit professors. At Faculty level, the Research and
+ Knowledge Exchange Committee ensures research needs and outcomes are disseminated across
+ the Faculty.
+
+ Staff submitted are substantively located in one of five major areas of research but the nature of
+ the research submitted means that there is a creative and welcome overlap between the areas
+ that the unit exploits through inter-disciplinary work. These five areas are:
+
+ Interaction Design: This area evolved from the internationally recognised Interaction Design
+ Centre originally founded 27 years ago, to one that now conducts world leading visual analytics
+ research. Staff in this area conduct research in usability, visualisation and manipulation of complex
+ data as well as visual interface design for games and language interaction. Led by Prof Wong,
+ the group includes Prof Walker, Assoc Profs Attfield, Duncker, Fields, Ham, Springett, Whitney
+
+
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+ and Xu, and Drs Herd, Kolar, Passmore and Zhang. Expertise in user-interface design (Fields,
+ Passmore, Springett, and Zhang) covers games, bespoke interfaces, and language interaction.
+ 13 Colleagues – 11.2 FTE
+
+ Algorithms and Software Engineering: This area is primarily concerned with formal modes of
+ analysis, ranging from fundamentals such as logic and graph theory through to model-based
+ systems. The area includes activity that is concerned with meta-analysis such as applying theorem
+ proving to security cases, verifiably correct systems, model-checking and quantum algorithms.
+ The area enjoys outstanding industrial relationships such as with Facebook Research and
+ Amazon Research. The group consists of Profs Barn, Bornat, Nagarajan and Raimondi, Assoc
+ Profs Kammueller, Novak, and Tizzard, and Drs Androutsopoulos, Baskent, Elmer,
+ Gorogiannis, and Rahanu. Baskent is an early career researcher.
+ 12 Colleagues – 10.4 FTE
+
+ Intelligent Environments: Strategically strengthened after REF2014, this is aligned with Ubiquitous
+ Computing and investigates how to develop Context Aware systems supported by a Smart
+ Environment. User-centred system development processes are used to create these
+ environments, resulting in a physically deployed network of sensing and actuation, making
+ decisions supported by adaptive artificial intelligence algorithms. Challenges being addressed
+ include: spatio-temporal reasoning, conflict management, user identification, dynamic user priority
+ adaptation, and automated user habit learning. Other research covers mapping collaborative
+ strengths in cross national groups, and supporting the development of teams, particularly in
+ educational settings. The group is led by Prof Augusto and consists of Prof Dafoulas, Assoc
+ Profs Evans, Jones, and Smith, and Drs Daryanani, Loveday, Moseley, and Saleeb.
+ 9 Colleagues - 9 FTE
+
+ Networks and Distributed Systems: This area focuses on the technical and theoretical aspects of
+ distributed systems and underlying network technologies such as scheduling for network traffic
+ management. A particular emphasis is on wireless technologies, including areas such as cellular
+ handover algorithms, and emergent properties and trade-offs between energy consumption, and
+ performance. Also addressed are intelligent transportation systems (Mapp) and adaptive
+ mechanisms to support a range of applications such as Industry 4.0 and Digital Twins. The
+ networks group is led by Profs Nguyen and Zhou, and Assoc Prof Mapp. It includes Assoc Prof
+ Lasebae, and Drs Aiash, Colson, Hara, Le, Luo, Rahman, Shah, Sule, Trestian and Vien.
+ 14 Colleagues – 13.75 FTE
+
+ Artificial Intelligence: The AI research group concentrates on machine learning, computer vision,
+ robotics, computational neuropsychology and biological algorithms. Other areas include work on
+ ethics and AI, machine learning applied to social media analytics and research in machine
+ consciousness. This group has had a notable presence for over 20 years with research in neural
+ computing, categorisation and computer vision. The excellent facilities for robot development (see
+ section 3) make this area a centre-piece of our research. It consists of Profs Comley, Gao, Huyck
+ and Karamanoglu, Assoc Profs Belavkin, Currie, George, James-Reynolds, Mitchell,
+ Windridge, and X. Yang, and Drs Cheng, Chinellato, Gamez, Gandhi, Geng, Kotsia,
+ Menendez, Quattrone, Panagakis, and Z. Yang. Menendez and Quattrone are early career
+ researchers.
+  21 Colleagues - 20.2 FTE
+
+
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ For REF2014, our strategic goal was to improve our “power rankings” – i.e. demonstrate
+ substantive growth in high-quality computer science research at Middlesex so that our research
+ could be sustained into the future and reflect the vibrancy, range and scale of the discipline. Our
+ 141% increase in the size of the submission was one of the largest increases (of meaningful
+ numbers) in the unit.
+
+ Increasing size allows us, through a CS research management team, to proactively and flexibly
+ allocate funds and other resources, such as staff time, to accomplish our ongoing research
+ strategy of conducting excellent fundamental and applied research. Most importantly, by
+ developing inter-collaborative relationships that span computer science, engineering and
+ mathematics, we are submitting staff from two Departments, Computer Science and Design
+ Engineering and Mathematics. Inter-Department collaboration has allowed us to establish a
+ pioneering presence in two critical areas (Ageing Society, and Future of Mobility) relevant to the
+ UK Industrial Strategy published in 2017. The pipeline of research, its application to problems and
+ then onto societal impact is evidenced.
+
+ 1.2 Research and Impact During the Assessment Period
+ The aim of our strategy is to undertake both excellent fundamental research and applied research.
+ We recognise that the nature of our discipline requires interplay between both types of research.
+ Our decision to substantially grow computer science research allows us to open new avenues of
+ research, including several inter-disciplinary areas, adding vitality to the subject area at Middlesex.
+
+ For the REF2014 research strategy, we planned for a future where:
+ • all eligible staff would be submitted;
+ • our theoretical work in the Algorithms and Software Engineering area would be used to
+    underpin applied impact;
+ • we would develop inter-disciplinary opportunities at the intersections of mathematics and
+    engineering;
+ • continue to enhance our taught provision through research;
+ • and significantly strengthen our core areas.
+ We have made significant progress across all these objectives described below.
+
+ Growth and the synergies between research and teaching
+ Since that strategic plan, we have achieved 100% submission of all eligible staff, with no CS
+ Departmental staff on the “practice-based route” used by the institution to delineate non-research
+ staff. This allows us to ensure that all of our teaching is underpinned and enhanced by
+ systematically exploiting our research capability. For example, our MSc Data Science draws
+ significantly from our research strengths in machine learning, image processing, visual analytics
+ and legal and information ethics. Similarly, MSc Cyber Security and Pen Testing, which is among
+ the first in the UK to teach Penetration Testing, draws substantive benefit from the unit's research
+ expertise. These research-led Masters programmes provide experienced students for future post
+ graduate work, continuing a virtuous teaching research cycle. Example papers arising from these
+ collaborations with students include papers on preservation of digital evidence, On-the-Fly Image
+ Classification to Help Blind People, and evolutionary art.
+
+ Application of Theoretical Algorithms
+ Algorithms for fusing multi-parameter clinical measurements obtained from the data produced
+ from electrical impedance tomography have been developed and are used for data acquisition for
+ cardio-respiratory intensive therapy for neonates, and more recently Covid-19 patients. Our
+
+
+                                                                                                 Page 3
+Unit-level environment template (REF5b)
+ research in algorithms, correctness, and security of networking protocols has been applied. There
+ is ongoing success in a range of machine learning applications including medical imaging, societal
+ impact of Airbnb, malware detection, and optimisation.
+
+ Strengthen Adjoining Areas
+ The unit's 2014 REF environment statement set the goal of developing the adjoining areas of
+ mathematics and engineering. The case for doing this was further strengthened by the publication
+ of the UK Industrial Strategy in 2017. As a consequence, these areas have been extended with
+ considerable research in robotics (e.g. the fast walking neuromorphic robot); mathematics; and
+ computer systems engineering (e.g. network traffic management). The latter led to the formation
+ of the Vehicular Adhoc Network (VANET) group specifically addressing the Industrial Strategy
+ grand challenge around mobility.
+
+ Expand Three Core Research Areas
+ In 2014, the unit’s organisation was based around three core research areas (Algorithms and
+ Software Engineering, Networks and Distributed Systems, and Interaction Design). These areas
+ have continued to grow and expand in the breadth of research conducted. The Algorithms and
+ Software Engineering area developed provable systems (Raimondi, Popescu, and Kammueller)
+ (e.g., see Verified Systems in section 4). The research area is also the base for three impact case
+ studies: Digital Twins (Barn and Nguyen), EIT (Tizzard), and MAYOT (Barn).
+
+ In the 2014 REF, AI and machine learning were a part of the Algorithms and Software Engineering
+ group and have particularly flourished through receipt of several research awards (see sections 3
+ and 4) such that the research management team of the unit determined that AI and ML was a
+ critical component for our strategy for the next five years (see Future Research and Impact
+ Strategy below) and it now forms a research area of its own. Successes here include
+ neuromorphic embodied agents that learn (Huyck), fast walking neuromorphically controlled
+ robots (Geng), warehousing images (Gao), determining the effects of mutation rate plasticity
+ (Belavkin), dream like simulations to support self-driving cars (Windridge), the firefly and bat
+ machine learning algorithms (X. Yang), and applications of machine learning such as detection of
+ oesophageal cancers (Gao), classifying faces for emotion (Kotsia), detection of face spoofing
+ (Windridge), and analysing Airbnb use in London for societal impact (Quattrone). Many software
+ applications are evident in the outputs, and beyond.
+
+ There is continued growth in the Networks and Distributed Systems area with further development
+ of mobile communications, and the development of an important area of research and impact -
+ the Vehicular Adhoc Networks group. There are significant advances in quality of experience of
+ video communication on wireless networks (Trestian), real time detection of denial-of-service
+ attacks (Loo), and quality of service vs. power trade-offs (Nguyen and Vien).
+
+ Our strategy for the Interaction Design area resulted in similar actions, consolidating our strategy
+ of growing our research in core areas. The Interaction Design area continues to prosper. It is
+ enhanced through productive industrial collaboration (e.g. Wong with Genetec and Mitre, and
+ Attfield with BAE). The group is making significant advances in mHealth (Fields and Herd),
+ sensemaking (Attfield), visualising time (Wong and Xu), and human-centred machine learning
+ (Zhang). The area also contributes national and international impact though the VALCRI case
+ study.
+
+ A pleasing affirmation of the buoyant and focussed activity since 2014 is the successful incubation
+ of the Intelligent Environments group from within Interaction Design into a mature, sustained
+
+                                                                                              Page 4
+Unit-level environment template (REF5b)
+ component of the unit that will be important for our strategy for the next five years (see below).
+ Intelligent environments has had marked success through external funding, for example in the
+ internet of things, where systems have been deployed to help citizens with specific conditions in
+ meaningful daily life contexts. Examples include supporting people with asthma, cognitive decline,
+ or Down’s syndrome (Augusto), aiding cardiac rehabilitation, education (Smith), and gamification
+ for physical activity. Recognising the interplay between this area and our Networks and Distributed
+ Systems, notable advances have been made in secure sensor networks for smart living. Work in
+ haptics, robotics, networking, and vision have also contributed in this area. Further examples of
+ excellence include computer supported cooperative work (Dafoulas). Reflecting the rapid
+ development of this group, the area contributes the Intelligent Environments case study as a
+ contribution to the grand challenges of an ‘Aging Society’ as outlined in the UK Industrial Strategy.
+
+ Goals Developed and Achieved Since Last REF
+ While the aims and goals from the 2014 REF statement were an important starting point for this
+ REF cycle, strategy within the unit is evolving. The key driver of future sustainability and continued
+ expansion required positive action to enhance support and leadership from senior colleagues.
+ The CS research management team was developed to broaden the leadership of research within
+ the unit. The team was formed in 2018, is led by the CS unit professors (including the heads of
+ the CS and DEM Departments), and includes all colleagues submitted for the unit, and junior
+ colleagues not eligible for submission. The team meets regularly in different configurations to
+ reflect the priorities at that time. These meetings provide opportunities for meeting colleagues at
+ different levels of experience and seniority encouraging a collegial environment that is coaching
+ based while improving our research.
+
+ The planned interaction between computer science and engineering research is particularly
+ successful, for example the establishment of The London Digital Twins Centre. Digital Twin
+ research is identified as an important breakthrough technology and we are developing applications
+ across manufacturing, building design, supply chain management, sustainability and enterprise
+ decision making. As such, we have positioned our centre as one that can be used to spearhead
+ innovation and impact in multi-disciplinary settings that require data science, mathematics and
+ engineering. The research centre is uniquely positioned in the UK landscape and currently houses
+ several international projects across domains such as Manufacturing 4.0 and structural health
+ monitoring. Sponsors of the centre include Ericsson and Ansys. Formation of the centre reflects
+ our approach of flexible and agile deployment of resourcing to identify opportunities for innovation
+ and impact. Middlesex is a leading partner with Siemens in their “Connected Curriculum” strategy
+ of partnering with universities working at the forefront of Industry 4.0. Our research in Digital Twins
+ has had significant international impact through the Digital Twin impact case study reported in this
+ submission (Barn, Nguyen).
+
+ Open Source and Research Integrity
+ The enhanced research leadership for this unit is further underpinned by the commitment of the
+ unit to Open Source and Ethical Research. The unit has a strong open access ethos and has
+ contributed to and applies all policies specified in the Open Access and Open Data section of
+ Middlesex’s REF5a. We have strongly supported initiatives related to Open Science including
+ ORCID registration, with all submitted staff having registered. Our mechanism for green open
+ access publication is our Eprints repository, many of our publications are externally published
+ open source, and we are increasing the percentage of open source publications. Where
+ necessary, dependent upon the open access publication requirements of the publisher, resources
+ to support Gold access are made available. We deliberately take a flexible and agile approach to
+ supporting Gold open access publishing. The University also provides a Figshare repository to
+
+                                                                                                 Page 5
+Unit-level environment template (REF5b)
+ support open access to data. The unit develops large data sets, such as a database of face
+ images by age, and a database of hospital images that are publicly available. Artefacts and code
+ for simulations are made available on a variety of platforms with some description of how to use
+ the code, for example the MIRTO robot.
+
+ All staff work within a strong ethical framework. The University’s well-established and
+ comprehensive Code of Practice for Research, enshrines the highest standards of research
+ conduct and integrity. Its principles and practices are based on the Research Councils’ Statement
+ on Safeguarding Good Scientific Practice (2000) and the Concordat to Support Research Integrity
+ (2012). An independent University Research Ethics Committee ensures that high standards of
+ integrity are upheld through well-established approval processes and has oversight of our Faculty
+ based research ethics committee that includes Baskent, Hara, Menendez and Whitney, and is
+ chaired by George. All research projects conducted by students and staff must attain approval
+ from this committee before commencement of work. The CS Department and DEM Department
+ each have two Academic Integrity Tutors. This adherence to ethical research has been and will
+ continue to be a grounding principle within the unit.
+
+ Papers
+ The scale and quality of our research activity and outputs across our key thematic areas is
+ increasing. As a result, many of our papers are published in Core A* conferences like IJCAI, CHI,
+ CVPR, WWW, and POPL; and in journals such as IEEE Pattern Analysis and Machine
+ Intelligence, the Lancet, Parallel Distributed Systems, Information Fusion, and Nature
+ Communications.
+
+ Case Studies
+ The impact arising from our research has increased. In this submission, the unit submits five case
+ studies that are representative of our research. VALCRI develops visual analytics techniques,
+ integrated with machine learning, to aid criminal intelligence analysts; portions of the intellectual
+ property were purchased by Genetec and are widely used to support analysts. MAYOT, mobile
+ apps for youth offending teams, is focused on marginalised young people in conflict with the law;
+ it is being used by several Youth Offending Services in the UK. Intelligent Environments advances
+ and develops practical implementations; these help people with Down's syndrome, provide
+ ambient assisted living support for older people in their homes, and encourages citizens to be
+ more physically active. Digital Twins developed new agent programming technology for simulating
+ and analysing complex enterprise systems and twins for infrastructure maintenance; it is being
+ used and sold by Tata Consultancy Services as TwinX™ to develop complex enterprise systems.
+ Electrical Impedance Tomography (EIT) is a non-invasive imaging system that has been advanced
+ by the unit; it is used in neonate lung imaging, and other applications, including Covid-19 patient
+ monitoring; aspects of these developments have been patented and products are being developed
+ in collaboration with industry (for example Sentec).
+
+ 1.3 Future Research and Impact Strategy
+ After two REF cycles of strong growth and improvement, we are confident that our current
+ environment and operating strategy to undertake both excellent fundamental research and applied
+ research is appropriate and relevant for the future. Our ambition is that aspiring Early Career
+ Researchers will see Computer Science at Middlesex as a beacon for establishing a base for
+ excellent research and impact.
+
+
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ Under the leadership of our new Vice-Chancellor and British Academy of Management President,
+ Nic Beech, Middlesex University is currently formulating its ambitious 2030 research strategy with
+ the intention of becoming world leading in:
+     • Equity and improvements in health and well-being;
+     • Inclusive socio-economic development; and
+     • Sustainability of communities and the environment.
+ The research and impact in this unit will aim to contribute strongly to that mission.
+
+ In the next five years, the unit will build on recent achievements and current dynamism. We will
+ seek to consolidate and sustain our performance on our key objectives of further strengthening of
+ our five main research areas, developing stronger international collaboration, growing doctoral
+ student numbers, and strengthening our pathways to impact. A particular focus will be exploiting
+ our research that resides at the boundaries of our core discipline area using research centres such
+ as the London Digital Twin Centre.
+
+ Strengthen Five Existing Core Areas
+ The units' foremost goal is strengthening the existing core areas by continuing to increase the
+ amount of world class research. We will do this by providing leadership and advice on further
+ raising the quality of publication outputs, and ensuring that appointments are made that either
+ enhance these areas or allows us to exploit or increase inter-disciplinary working between these
+ areas. The London Digital Twin Research Centre is expected to spearhead such inter-disciplinary
+ work. The leadership is being further enhanced through an updated research strategy for the
+ University that has a focus on key global challenges. Through this renewed emphasis and
+ alignment, there will be increased provision of PhD studentships, specialist equipment, and
+ enhancing the pipeline of doctoral students from our flagship MSc Data Science programme.
+ Engagement through increased intensity of collaboration with industry and external stakeholders
+ is also planned.
+
+ Develop Stronger Internal and External Collaboration
+ The unit will extend its internal collaboration, both within the unit and across the broader University,
+ and improve its external collaboration, both with industry and other academics. The unit
+ collaborates internally, e.g. roboticists collaborate with AI practitioners and telecommunications
+ colleagues to develop cognitive robotics. Collaboration within the University is ongoing, e.g.
+ Chinellato recently received a £300K grant from the Dunhill Medical Trust with Franco
+ (Psychology) as the lead investigator. Fields collaborated with Psychology on Small Talk Saves
+ Lives. Colleagues collaborate with industry, e.g. Raimondi is currently on sabbatical at Amazon
+ and Gorogiannis at Facebook, and Barn collaborates closely with TCS research and Windridge
+ with FIAT; we will extend our collaboration with these and other companies. Colleagues will
+ continue to collaborate with other national and international universities, e.g. Mapp with
+ Cambridge, Wong with British Columbia, and Cheng with Hong Kong. In addition to the positive
+ influence on researchers of engagement, an important aspect of our strategy is to ensure that
+ collaboration, both internal and external, is promoted, supported and valued. So, colleagues
+ benefit both implicitly and explicitly from engagement. We will continue with outward facing events
+ such as the STEM festival and Eurobot and develop new events.
+
+ We will improve our collaboration by actively engaging, monitoring, and supporting best practice,
+ and actively seeking industrial collaboration. A new working group is extending our industrial
+ collaboration; the group leverages existing industrial partners, and supports unit colleagues to
+ develop industrial connections. To encourage collaboration, the CS research management team
+
+
+                                                                                                  Page 7
+Unit-level environment template (REF5b)
+ has a collaboration agenda item for each meeting. Middlesex also has overseas campuses in
+ Dubai, Malta, and Mauritius. Colleagues submitted to this unit collaborate with staff on these
+ campuses and they are integrated into our research environment, though overseas colleagues
+ are ineligible for submission to this exercise. For example, interactive technologies for education
+ are being developed cooperatively by colleagues in Malta and unit colleagues (Smith and
+ Windridge). Expanding productive relationships with colleagues at overseas campuses extends
+ the capacity and breadth of unit research.
+
+ Continue to Build Synergy between Teaching and Research
+ Taught programmes in the unit's research specialisms will continue to introduce cutting edge
+ research to students. Students who are interested and talented will be encouraged to return to
+ pursue post-graduate research degrees, or move to other universities or industry, thereby
+ fostering and growing a network of future collaborators. Programmes in our research specialisms
+ that generate synergies between research and teaching will continue to be developed. For
+ example, our MSc in Computational Neuroscience, a joint program between Computer Science,
+ Psychology and Neuroscience, is currently under development, and will extend our collaboration
+ within Middlesex. It and the MSc in Cooperative Intelligent Transport Systems will run for the first
+ time in 2021.
+
+ Impact
+ Our approach to impact is integral to and embedded in our overarching aim of producing
+ excellence in fundamental and applied research. It is informed by three objectives: (i) to produce
+ research relevant to policy makers and wider society; (ii) define and respond to practical grand
+ challenges as well as to debates driven by academic concerns and; (iii) routinely involve
+ stakeholders. We also recognise that impact is contingent on the nature and maturity of the
+ research.
+
+ Applied research, such as our case studies, other work on digital twins, and our work on verified
+ systems, can be exploited through industry, patents and application to society; further funding
+ opportunities will be explored, including contract research; sabbaticals will be used to support
+ application; and graduates trained for rolls in these now industrially applicable technologies will
+ continue to collaborate. We will work with our Research and Knowledge Transfer Office to exploit
+ avenues for research that is nearing application, such as our work in evolutionary information
+ theory, machine learning for optimisation, intelligent transportation systems and fast walking
+ robots. Such avenues could include patents, productization or open-source availability.
+
+ By continuing to position our research within the wider UK and international policy context, we will
+ endeavour to explore appropriate pathways to impact and have embedded in our ways of working
+ engagement as a primary tool. Central to the impact strategy is developing systematic use of
+ Innovate UK or DASA like funding streams to exploiting our more fundamental research such as
+ our work in computational neuropsychology and quantum computing. Intellectual support from
+ colleagues will be used to guide that approach.
+
+ The re-affirmed focus on research at University level following the appointment of our new vice-
+ chancellor, Prof Nic Beech and our own history of research excellence provides confidence and
+ assurance that our unit will continue to enjoy, attract and inspire world class academics to make
+ their home in this Computer Science unit.
+
+
+
+
+                                                                                              Page 8
+Unit-level environment template (REF5b)
+ 2. People
+ The vitality of our research environment arises from its dynamic lecturers, professors, and PhD
+ students. Research groups meet for focused discussion, and our collocated people are immersed
+ in an exciting ongoing research conversation.
+
+ 2.1 Staffing strategy and staff development
+ Staffing Strategy
+ Our people and staff development strategy is in close alignment with our research strategy. That
+ is, all staff hiring, promotion and mentoring focuses on well-rounded academics who are excellent
+ researchers in either applied or foundational areas and are excellent teachers.
+
+ Since 2014, we have sought to strengthen our research leadership, develop junior researchers,
+ reinforce existing areas of research and identify new opportunities. Our future strategic
+ development will match the University’s current formulation of its 2030 people strategy, entitled
+ “Changing lives – A world class community in a world class University”.
+
+ Adjustments to workloads and teaching are made for staff with substantial research grants.
+ Similarly, teaching will be reduced for less experienced staff to focus on grant application writing,
+ working with an industrial partner, or exploring a particularly thorny research problem. Newly
+ appointed colleagues always have a reduced teaching load.
+
+ Most unit colleagues are employed full-time. Some staff on sabbatical retain a fractional
+ appointment. These are particularly useful where staff on sabbatical in an industrial setting are
+ able to immediately transfer knowledge back into an education setting. Three colleagues are on
+ reduced work-load (Colson 0.75, Kolar 0.8 and Bornat 0.2), all recently full time and transitioning
+ to retirement. Ham (.2) is developing our partnerships in Korea, and Walker (.2) is helping with
+ public engagement in science through his media activities as part of our STEM development
+ agenda (see Thrills in section 4).
+
+ The unit has gone through a period of consolidation. Sadly, three professors (Albrecht and
+ Ghanem) and the head of the CS Department (Petridis) have died in post during this assessment
+ period. Several staff have left to take positions at other excellent research institutions (for example
+ Loureirio to UCL, Martin to Durham, and Popescu to Sheffield), and industry (Boender to
+ Hensoldt Cyber GmbH); though formally no longer part of our research community, many of these
+ former colleagues remain engaged. For example, Loureiro is currently involved in Middlesex
+ PhD supervision. Five lecturers (Baskent, Chinellato, Elmer, Le, and Menendez) have been
+ hired in this period, one has been promoted from associate lecturer, and the number of
+ researchers submitted to the unit has increased from 56 to 69 (53.1 FTE to 64.55 FTE). Our
+ retired colleagues contribute to the unit through mentoring and other “critical friend” activities
+ (Loomes).
+
+ Our current submission includes 5% lecturers, 42% senior lecturers, 34% associate professors,
+ and 19% professors.
+
+ As the University embarks on its 2030 strategy, approximately 10 lecturers and senior lecturers
+ will be recruited by the unit over the next three years as a core strategic aim to ensure a
+ sustainable research base. New colleagues recruited at the lecturer level and above will be in
+ areas aligned with our existing research areas of Interaction Design, Algorithms and Software
+ Engineering, Intelligent Environments, Networks and Distributed System, and Artificial Intelligence
+ whenever possible. New colleagues will be selected based on a research profile that is both
+
+                                                                                                 Page 9
+Unit-level environment template (REF5b)
+ evidenced and aspirational. Potential for internationally excellent future research will be required.
+ On arrival, new colleagues will be proactively integrated into our research environment and
+ appropriate groups. Past successes in first grant acquisition suggest that our mentoring
+ mechanisms are effective.
+
+ Staff Development
+ From 2014, the University undertook an institution-wide staff mapping exercise to ensure all staff
+ were correctly placed in terms of level and development pathway. Development pathways are
+ either “teaching & research”, for those with a significant responsibility for research (returned in our
+ REF submission), or “teaching & professional practice”. In this unit, the CS Department is
+ submitting 100% of their staff. That is, no one is mapped to the “teaching & professional practice”
+ route.
+
+ The unit is committed to an inclusive approach to supporting all colleagues’ development, ensuring
+ both vitality and sustainability in its research environment. Rather than seeing competition as the
+ route to improving academic performance, we have a strong ethos of mutual support, collaboration
+ and development. This coaching culture is now a central part of the Middlesex 2030 strategy.
+
+ Staff development needs are formally explored annually as part of the appraisal process. Staff
+ complete a Research Plan, reporting on outputs, research income, engagement with practice, and
+ other research activities and how they intend to build on them. Individuals are offered development
+ packages to meet needs identified in this process; for example, the unit funded Gamez gaining an
+ MSc in Data Science. The support emphasises high levels of assistance rather than monitoring
+ arrangements. We make the explicit assumption that all academics, even senior academics,
+ benefit from development, learn from their colleagues, and function best in a collegial environment.
+
+ New colleagues work with a named mentor. The mentor introduces the member to researchers
+ and groups both within and beyond the unit.
+
+ The unit’s collaborative environment and group structure naturally support mentoring of junior
+ colleagues by senior colleagues. Grant proposals from junior colleagues in particular, receive
+ extensive support and development from professors with one usually leading the support. Further
+ review and feedback is provided at the Faculty level. During this REF period, the highly competitive
+ EPSRC New Investigator Grant applications have been supported by senior staff and awarded to
+ Chen, Giannopolis, and Martin (see section 3). The collaborative environment also benefits
+ senior staff, PhD students, and the broader population.
+
+ All staff are able to benefit from the University’s sabbatical policy, entitling them to apply for 12
+ months away every seven years of service. This can be used to develop collaborations, write a
+ research related book, or another form of research development. For example, Raimondi is
+ currently on a 12-month sabbatical with Amazon (collaborating on verifiably correct systems) and
+ Wong spent 24 months with Genetec, working on the commercial rollout of the VALCRI project
+ (see section 1 Case Studies and the study itself). In practice, however, the Department and the
+ Faculty is usually able to facilitate breaks less formally through careful workload management and
+ the unit's collegial mode of operation.
+
+ Enabling staff time to teach and research requires careful management of workloads. All staff
+ have a balanced workload comprising teaching, research and administration. Teaching timetable
+ models ensure that most staff get either at least two clear days each week for research or blocks
+ of time, depending on their preferences and the courses being taught.
+
+                                                                                                Page 10
+Unit-level environment template (REF5b)
+
+
+ Colleagues are supported for travel to one research conference each year from the Departmental
+ budgets, and for developmental courses. Further ad hoc support is available from the Faculty
+ research budget. It is not unusual for the Faculty to fund an individual researcher to attend several
+ research conferences in one financial year. The Faculty systematically encourages grant
+ application submission by providing internal funding on external proposals for PhD studentships.
+ For example, Geng’s EPSRC fast walking robot grant had a unit funded PhD student for three
+ years to parallel the EPSRC grant. This provides a mechanism to fund PhD studentships and
+ stipends that increases the likelihood of receiving a grant, doubly rewards successful grant
+ proposals, and increases the impact of the grant.
+
+ There are four specialist seminar series: the Artificial Intelligence series, the Interaction Design
+ series, the Software Engineering series, and the Intelligent Environments series. Staff and PhD
+ students attending conferences are encouraged to present in these seminars with staff being
+ timetabled to attend their specialist choice. There is also a Computer Science Departmental
+ Colloquium that has enjoyed particular success during the COVID-19 pandemic due to its online
+ nature.
+
+ The unit hosts prestigious events, for example the Algorithms and Software Engineering area was
+ able to attract and hold the premier computer science conferences and workshops –BCTCS 2015,
+ TABLEAUX 2019, FroCoS 2019 and MAD (Middlesex Algorithms Day) 2014. In particular, BCTCS
+ 2015 included eminent international prize winning scholars Sir Tony Hoare, Sir Tim Gowers, Per
+ Martin-Löf, and Joseph Sifakis as invited speakers. Ed Awh (U. Chicago), and Tim Gowers
+ (Cambridge) also presented at unit events.
+
+ The effectiveness of our focus upon staff development is reflected in the strong advancement of
+ staff. One colleague (Gamez) has been promoted to lecturer from associate lecturer, five to senior
+ lecturer (Chinellato, Elmer, Gamez, Trestian, and Le), Windridge was promoted to associate
+ professor. Three colleagues were promoted to professor (Augusto, Dafoulas and Nguyen). All
+ professorial promotions have significantly added to the research leadership in the unit.
+
+ 2.2 Support for Postgraduate Research Students
+ Research students are integral to our research community. The number of students on the PhD
+ programmes fluctuated over the REF period but was 41 in 2019/20. The PhD student body is
+ highly diverse. 42% is female, and 74% come from Black, Asian, and Minority Ethnic (BAME)
+ ethnic groupings, of which the largest is Asian (43%). In terms of age, 63% of students are aged
+ 30 and over, 31% between 25 and 29, and 6% between 21 and 24.
+
+ 47 students have been awarded PhDs by the unit between 2013 and 2019. Each PhD student
+ has a Director of Studies (DoS), and one or more additional supervisors. Some students have a
+ supervisor from an external organisation. Research and student oversight is further provided by
+ two Research Degree Coordinators for the doctoral students submitted in this unit (Augusto,
+ Karamanoglu); they monitor the progress of Departmental students, keep their supervisory teams
+ under review (in liaison with the Deputy Dean for Research and KE) and actively promote their
+ participation in Departmental seminars and workshops. Staff are required to attend a structured
+ University level training programme before joining supervisory teams and at least one member of
+ a supervisory team must have previously supervised to completion. The student meets with their
+ DoS weekly.
+
+
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ All PhD students have a computer and desk space, most in our large open plan centre to facilitate
+ collaboration with their supervisory team, and between PhD students. The centre seats 70 and is
+ shared by unit PhD students, visiting researchers and relevant PhD students from across the
+ Faculty to facilitate inter-disciplinary collaboration. Research students have full access not only to
+ the well-resourced Sheppard Library on campus, including access to dedicated specialist
+ databases (e.g. SpringerLink, ACM and IEEE), but also other major London libraries, such as the
+ British Library.
+
+ Research students receive comprehensive research training through a three-year course, drawing
+ on a wide range of expertise from across the University. The training is designed to prepare
+ students for the milestones in their progression: registration, transfer and viva. The training is
+ aligned to the Vitae research framework, preparing students for both the academic and
+ professional world.
+
+ There are over 40 face to face and online PhD student training sessions available. Sessions cover
+ writing (e.g. Writing a Literature Review, and Preparing for your Transfer/Viva Panel(s)),
+ methodology (e.g. Quantitative Frameworks for Data Analysis, and Case Study: a mixed
+ approach), applications (e.g. SPSS, and R Programming in Data Science: Setup and Start), and
+ skills for career development (e.g. Developing a career in academia, and Intellectual Property).
+ The University also runs an annual PhD student conference and most PhD students in the unit
+ have presented posters or oral presentations here, many multiple times.
+
+ PhD students are also members of the research groups. They attend CS Departmental colloquia,
+ the four specialist research seminars series, and impromptu research meetings. They frequently
+ present their work in the specialist seminar series, extending communication with academics
+ beyond their supervisory team, and with student colleagues. Presentations include current state
+ of their research, early viva presentations, leading paper discussions, and early versions of
+ conference or workshop presentations.
+
+ PhD students are encouraged to publish and are funded from the Faculty research budget to
+ present a paper at a conference up to once a year. They are required to give a presentation at
+ one of the four specialist seminars on the work they present.
+
+ Data from the Post Graduate Research Experience Survey is at the Faculty level so includes data
+ from outside of the unit. The student feedback is positive about supervision, research skills,
+ professional development and environment particularly around specialist facilities and digital
+ resources.
+
+ Progress is monitored at the post graduate board of studies that takes place twice a year (since
+ 2020, it is once a year); research student representatives are able to present concerns for
+ discussion and resolution. This is further supported by the CS research management team, where
+ PhD students are a standing agenda item. If students are struggling, extra support is given from
+ outside the supervisory team. A member of the Registry is assigned to support research student
+ administration needs. A weekly newsletter goes out informing students of upcoming events. The
+ University runs an annual monitoring and evaluation process of research students at Faculty level.
+
+ 2.3 Equality and Diversity
+ Equality, diversity and inclusion are core Middlesex values and are reflected in the Middlesex
+ REF5a submission. The University appointed a pro-vice chancellor for equality, diversity and
+ inclusion. Middlesex was the first UK University to receive the Corporate Gold/Embedded Charter
+
+                                                                                               Page 12
+Unit-level environment template (REF5b)
+ Mark from UK Investor in Equality & Diversity. Middlesex has about three times as many BAME
+ staff as the typical British university. The unit benefits from a range of policies operating at
+ University level (such as parental leave, a University nursery, and flexible working to
+ accommodate family, health or other circumstances). The two Heads of Department contributing
+ staff to this unit submission are both from a BAME background.
+
+ The colleagues submitted are ethnically and culturally diverse. While 22 of the 69 submitted
+ colleagues are from Britain, the remaining colleagues come from over 16 different countries. It is
+ difficult to categorise ethnicity, but using the British Census Ethnic Group categories, no ethnic
+ group is in the majority. 45% of submitted colleagues are BAME.
+
+ The unit is making progress with respect to gender. In this submission. 14 of the 69 submitted
+ colleagues are female. Attracting women to computer science remains an ongoing challenge and
+ unit colleagues (Gao and Karamanoglu) participated in workshops organised by CPHC to
+ improve gender representation. There is an effective Women in Computing group in the unit led
+ by Androutsopoulos. In 2017, Rosie Hyde, a third year student, and member of our Women in
+ Computing group won the People’s Choice Award at the BCS Lovelace Colloquium for her poster
+ entitled Can Stress and Anxiety be Tracked Through Wearable Technology?
+
+ Age diversity across the submitted colleagues is relatively even across the range of 30 to 65. Two
+ colleagues are over 65.
+
+ The REF working group for the unit paid close attention to the University’s REF code of practice,
+ and was trained in equality, diversity and unconscious bias. Recognising that we all have
+ unconscious bias, we have taken particular care with issues of diversity and inclusion. All outputs
+ are marked with the same agreed mark sheet, and by at least two markers.
+
+ The unit supports the family and personal obligations of all members of staff, such as parents of
+ young children. People with caring responsibilities can have flexible working conditions, protecting
+ them from teaching and other duties that require University attendance in especially pressured
+ times. Breaks in activity for any reason, such as maternity or paternity, compassionate leave, or
+ illness, are managed sensitively. During the Covid-19 pandemic, the unit provides additional
+ flexible working support for staff with family commitments.
+
+ 3. Income, infrastructure and facilities
+ The major developments that have taken place in the period have been the result of strategic
+ planning and investment, supported by strong governance and quality processes at all levels. The
+ unit benefits from sustained investment but also a focused estate strategy. Income associated
+ with REF 2014 (£800K annually) was returned to the unit, either directly or through PhD
+ studentships managed centrally. The unit worked with the University to establish an additional,
+ planned, long term strategy for investment in staffing from existing core funds, with the additional
+ REF funding supporting growth in infrastructure, additional support for existing and new research
+ areas and, critically, investment in high-risk ventures.
+
+ The unit spent £6,824,178 in external research income awarded from a wide variety of funders
+ during the REF period (see Table 1). This supports the ongoing development of our excellent
+ infrastructure and facilities. Our strategy focuses on sources of income where we have expertise
+ and a track record. Funding is concentrated on UKRI and EU sources. Other avenues have been
+ identified where our research strengths allow us to make a credible and authentic bid. In particular,
+
+
+                                                                                              Page 13
+Unit-level environment template (REF5b)
+ we chose to identify Knowledge Transfer Partnerships as both an income stream and a concrete
+ pathway to impact.
+
+
+
+
+                    Table 1: Annual Research Spend from External Sources
+  2013-2014    2014-2015 2015-2016 2016-2017 2017-2018 2018-2019                     2019-2020
+  £410,431     £1,207,104 £834,554      £1,197,646 £1,270,092 £1,028,941             £875,410
+
+ 3.1 Income
+ Unit research income comes from many grant awarding bodies, industry, charities and other
+ sources. This amounts to an almost doubling since the REF 2014 (£3.6m). Particularly noteworthy
+ grants include:
+
+ EU Projects
+ An FP7 project (#608142), Visual Analytics for Sense-making in CRiminal Intelligence analysis
+ (VALCRI), for £10.04m was led by Wong, with the unit receiving £2.08m. Another FP7 funded
+ project, PersOnalized Smart Environments to increase Inclusion of people with DOwn's SyNdrome
+ (#610840), for £401k was led by Augusto. Both projects demonstrate our plans to increase impact
+ from our research and have led to two impact case studies in this submission.
+
+ Gao (AI group) led an FP7 (#269124) project entitled Warehousing Images in the Digital Hospital
+ (WIDTH): Interpretation, Infrastructure, and Integration, funded for £463K. The project catalysed
+ collaboration between Europe and China to explore medical imaging innovations and led to a large
+ open source medical database.
+
+ Huyck and Mitchell (AI group) won grants totalling £336K as part of the Human Brain Project
+ (#785907); this is described in section 4 under the NEAL grant.
+
+ Windridge (AI group) is part of an H2020 consortium awarded a grant for £3.87m entitled Dream-
+ like simulation abilities for automated cars - Dreams4Cars, (#731593). The unit received £467K.
+ Windridge and colleagues developed a general framework by which an agent can generate
+ simulated data to learn from to benefit the agent. This has led to, for example, Windridge’s
+ Adaptive Behaviour paper.
+
+ The unit won several Erasmus awards. Dafoulas (Intelligent Environments group) was awarded
+ a £93K grant for technologies to help Palestinian higher education institution (see section 4
+ computer-supported cooperative work). Springett and Whitney (Interaction Design group)
+ received a £384K Erasmus grant entitled Gameplay for Inspiring Digital Adoption.
+
+ EPSRC Projects
+ An EPSRC sponsored grant for £456K entitled A Neuromorphic Control System for Agile Biped
+ Locomotion EP/P00542X/1 (Geng, Huyck, and Z. Yang from the AI group) is developing a fast
+ walking bipedal robot.
+
+ An EPSRC sponsored grant for £281K (£31K to the unit) for Verification of Resource-Bounded
+ Multi-Agents Systems EP/K033905/1 included Raimondi (Algorithms and Software Engineering
+ group) as a co-investigator. A systematic framework for modelling resource requirements for
+ agents' actions that can be formally verified was developed.
+
+
+                                                                                          Page 14
+Unit-level environment template (REF5b)
+ Kammueller, Jones, and Augusto (Algorithms and Software Engineering and Intelligent
+ Environments groups) have led a £200K EPSRC funded grant entitled Secure Accessibility for the
+ internet of things (SUCCESS) EP/P016456/1. Two pilot systems were installed in our Smart
+ Spaces Lab and are used for experimentation and demonstration of the SUCCESS toolchain.
+
+ Three colleagues from the Algorithms and Software Engineering group (Chen, Giannopolis and
+ Martin) were awarded EPSRC sponsored first grants. Chen won a grant for £101K entitled
+ Perturbation Analysis for Probabilistic Verification EP/P00430X/2, leading to a closed-form
+ formulation of asymptotic perturbation bounds, and computational methods for two forms of those
+ bounds. Giannopolis was awarded a grant for £96k entitled Fixed Parameter Tractability for
+ Geometric Optimization Problems EP/N029143/1, which led to a proof that a disjoint union of
+ cycles is the complement of a disk graph if and only if at most one of those cycles is of odd length.
+                                                                              2
+ Giannopolis also derived a subexponential algorithm running in time 𝑂( 2𝑛3 )for Maximum Clique
+ detection on disk graphs. Martin won a grant for £125K entitled Infinite-domain Constraint
+ Satisfaction Problems (CSPs) EP/L005654/1. This work led to a proof that every discrete temporal
+ CSP is in Ptime or NP-complete, unless it can be formulated as a finite domain CSP in which case
+ the computational complexity is not known in general.
+
+ PNEUMACRIT EP/T001240/1 is a £1.8M EPSRC sponsored grant including Tizzard (Algorithms
+ and Software Engineering group), the unit receiving £77K. This is developing a multi sensor
+ wearable imaging system that will inform lung function diagnosis for infants and children with
+ conditions that can lead to respiratory problems.
+
+ Other Funded Projects
+ CoRLEIT EP/V044036/1 is a UKRI funded project (involving Tizzard from the Algorithms and
+ Software Engineering group) for £700K (£70K to the unit) to apply Electrical Impedance
+ Tomography to Covid-19 patients. A key challenge for the Covid-19 pandemic is the requirement
+ to monitor for deterioration and provide timely escalation interventions to an unprecedented
+ number of patients at risk of respiratory failure.
+
+ Attfield (Interaction Design group) was awarded £233K funding from BAE Systems. This work
+ explores Human Machine Interaction (see section 4 Industrial Collaboration).
+
+ Raimondi (Algorithms and Software Engineering group) was awarded a KTP for £160K to support
+ Caritas Anchor House in the development of a software application implementing a Global Notice
+ Board for charitable, humanitarian purposes. Petridis (AI group) was awarded a KTP for £210K
+ with the London and Southeastern Railway providing insights into real-time patterns of
+ passenger rail services run within the network.
+
+ Nguyen (Networks group) received a UKIERI grant for £162K entitled Digital Twin Modelling for
+ Automation, Maintenance and Monitoring in Industry 4.0 Smart Factory. A further grant for £133K
+ was awarded to Nguyen by the British council to examine the use of Digital Twins for early
+ detection of large infrastructure deterioration (see the case study).
+
+ 3.2 Infrastructure and Facilities
+ Research management infrastructure at the University level is provided through the well-
+ established Research and Knowledge Transfer Office (RKTO), providing support for research and
+ knowledge transfer work including doctoral teaching. Led by the University Director of Research
+ (Comley), the RKTO provides a ‘one-stop shop’ that delivers a highly visible, supportive and
+
+                                                                                              Page 15
+Unit-level environment template (REF5b)
+ authoritative resource for research active staff in relation to research funding, delivering impact,
+ managing research projects, knowledge transfer activities and doctoral student support.
+
+ Over the REF period, the unit extended our excellent research facilities within the Faculty to
+ support both this unit and research at the edges of discipline boundaries. These include the AI
+ lab, the HCI lab, and robotics development and engineering facilities. Our excellent library facilities
+ and other facilities are described in REF 5a. As part of the investment in new areas of research
+ following REF2014, the University provides the Smart Spaces Laboratory in the Farmside building
+ for the Intelligent Environments group. It won the 2019 edition of the Real AI competition
+ organized by the British Computer Society.
+
+ In 2016, Middlesex opened its new £18m Ritterman Building. This building includes extensive
+ robotics, digital electronics, and networking facilities for research and teaching. It features
+ adaptable space, which supports a range of research and collaborative activities.
+
+ The unit purchased a wide variety of new equipment. For example, in 2020, servers were
+ purchased for £190K to support data science research and teaching. These were targeted toward
+ the MSc in Data Science, and are used more broadly by unit colleagues.
+
+ The unit provided an initial £22K investment for VANET, a prototype Connected Vehicle Testbed
+ for the larger systems later developed (see section 4 Intelligent Transportation Systems). Unit
+ colleagues use several neuromorphic computing platforms; there are several SpiNNaker boards
+ available for research and development. These are used, for example, for fast walking robot
+ control.
+
+ Facilities in other units are available to UoA11 colleagues. Eye tracking equipment, EEG
+ equipment, and magnetic brain stimulation (TMS) equipment is shared with Psychology; for
+ example, Chinellato uses TMS to study kinematics and brain activity. While other units use
+ expertise and facilities from our unit, practical data can also be gathered from other units. For
+ example, the sports unit provides data from fencing, football and rugby games for analysis as yet
+ another example of the breadth of data science work at Middlesex.
+
+ The networking labs are locally designed state of the art labs. They are equipped with the latest
+ networking devices and tools to design, build and secure networks at access, distribution, and
+ core layers. They have all intermediate devices for networking, layers 2 and 3 switches, routers
+ and dedicated firewalls. In September 2020, the labs had a £50K upgrade to the latest available
+ equipment on the market. The labs have 4221 routers, ASA 5506 firewalls, 3960 layer 3 switches,
+ and WiFi routers.
+
+ The unit's robotics facilities are particularly formidable. We have even designed our own MIRTO
+ robot that is used for research and teaching, and the design is publicly available. The unit also has
+ a Rethink Robotics Baxter robot, two Alderban Pepper robots, and other robots. There are many
+ effectors and sensors including two ABB IR120 robot arms, two Universal Robots UR10 robot
+ arms, a Universal Robots UR5 robot arm, two Velodyne Lidar units and a Festo Industry 4.0 factory
+ system. Our 3D printers include an Object Connex 500 Polyjet printer, a Markforge Mark Two
+ Carbon fibre 3D printer, two FFormlab Form3 printers, and a Dimension D printer. These core
+ robotics resources support the development, evolution, and maintenance of robots for a range of
+ research activities. These facilities have supported several good publications, such as Gandhi’s
+ EEG-based mobile robot control through an adaptive brain–robot interface.
+
+
+                                                                                                Page 16
+Unit-level environment template (REF5b)
+ In 2020, the unit invested £35K in two ‘Digital Twin in a Box’ bespoke designs mimicking a small
+ production system purchased from Festo. Each unit contains three processes, mimicking a small
+ production system providing both analogue and digital data. The systems also exist digitally,
+ providing a realistic research workbench for creating digital twins for analysis of scenarios such
+ as preventative maintenance, process improvement and cyber security applications.
+
+ A team of 25 experienced technicians, managed through the Faculty, supports the unit’s research
+ equipment. The team has additional staffing resource through graduate assistants.
+
+ The facilities and infrastructure lend excellent research support for the students and for unit
+ colleagues. Moreover, new needs are readily supported through our flexible resource allocation
+ strategy and technical team. For example, Barn’s travel to India for collaboration with TCS in 2019
+ was funded from the research budget.
+
+ 4. Collaboration and contribution to the research base, economy and society
+ The unit contributes to the research base, including ground breaking research, in for example
+ visual analytics and machine learning, and a wide array of other leading research. It contributes
+ to the economy through contract research and industrial collaboration, and to society at large by
+ developing students, interacting with the public at large, and working with governmental and non-
+ governmental organisations.
+
+ 4.1 Contribution to the research base
+ Colleagues submitted in the unit collaborate broadly, both internally and externally. Most
+ colleagues review regularly for journals (for example Machine Learning Research (Belavkin),
+ IEEE Access (Cheng) and Information Fusion (Gao and Windridge)), conferences, and funding
+ proposals. Most have examined PhD students during the REF period. Many colleagues have
+ roles on editorial boards (editor in chief (Augusto) Ambient Intelligence and Smart Environments,
+ editor (Wong) Journal of Cognitive Engineering and Decision Making, and editor (Trestian) IEEE
+ Communications Surveys and Tutorial); have been involved in organising workshops, conferences
+ and other events; and have given keynote addresses and invited talks (AAAI Augusto,
+ Confluence 19 Mapp, and U. Tokyo Belavkin). Colleagues are involved on several standards
+ panels, e.g. Whitney (BSI Diversity and Inclusivity Advisory Panel, and security standard ISO/PC
+ 317). All colleagues have collaborated with other academic institutions. Middlesex hosts
+ conferences on campus, e.g., the workshop on Developments in ICT and Healthcare - Legal,
+ Ethical and Social Aspects, the 12th edition of the International Conference on Intelligent
+ Environments, and the Algorithms and Software Engineering group hosted the 31st British
+ Colloquium of Theoretical Computer Science.
+
+ 4.2 National and International Collaborations
+ The unit collaborates extensively with other academic researchers, industry, government, and
+ society at large. Many of these collaborations are long-standing and demonstrate a sustainable
+ network of collaborators.
+
+ The best illustration of our collaborations with industry and beyond are located in our five selected
+ impact cases studies: VALCRI, Young Offenders, Digital Twins, Intelligent Environments, and EIT
+ (see section 1 Case Studies, and the studies themselves). The VALCRI project with seven
+ academic, five commercial, and five governmental partners is an example of scale of collaboration.
+ The Digital Twins case study is an example of a research and knowledge collaboration that goes
+ back to 2012. Other areas of excellence include verified systems; mutation, biological nets, and
+
+
+                                                                                              Page 17
+Unit-level environment template (REF5b)
+ robotics; collaboration with Middlesex’s Malta campus; intelligent transportation systems;
+ computer-supported cooperative work and supporting universities outside the UK; and medical
+ imaging.
+
+ Verified Systems
+ Colleagues in the Algorithms and Software Engineering group have constructed, verified and
+ analysed software systems to achieve a high level of assurance in their correctness, in terms of
+ safety, confidentiality and integrity. This includes RacerD (Gorogiannis), a data race detector,
+ and several systems for verifying information flow properties. RacerD addresses data race
+ concurrency bugs that are hard to reason about and reproduce; it is used in the static analyser
+ suite developed at Facebook London. It detects data races statically, so there is no need to build
+ and execute the program; in addition, RacerD can perform without the whole program being
+ available and has been proven to have no false positive reports under certain assumptions.
+ RacerD verifies that systems do not have data race errors.
+
+ A scheme for the construction of web applications with formally verified confidentiality and integrity
+ has been developed by Raimondi and Popescu in collaboration with researchers from the
+ Technical University Munich, the University of Bremen and the Global Notice Board. The scheme
+ has been applied to produce CoCon, a feature-rich multi-user conference management system
+ with formally verified confidentiality. Other instances of this scheme are CoSMed, a prototype
+ social media platform with verified confidentiality, and CoSMeDis, a multi-node distributed
+ extension of CoSMed following a dispora* model. CoSMed and CoSMeDis have been developed
+ in partnership with a UK charity.
+
+ Mutation, Biological Nets, and Robotics
+ Belavkin (AI group) has a particularly successful interdisciplinary collaboration involving mutation.
+ The consortium, involving Manchester, Keele, and Cambridge, hypothesised that mutation rates
+ are influenced by fitness. Belavkin showed, information theoretically, that this was the case, and
+ included this assumption into a simulation reflecting mutation rate plasticity. Other members of
+ the consortium then used this to show how bacteria evolve antibiotic resistance, supporting the
+ theory with biological evidence. This work is supported by BBSRC grants for £621K (Adaptive
+ landscapes of antibiotic resistance: population size and `survival-of-the-flattest') and £465K (The
+ theory and practice of evolvability: Effects and mechanisms of mutation rate).
+
+ The AI group simulates biological neural nets (Huyck, Mitchell and Chinellato). The NEAL
+ project developed agents that function in virtual environments, and an agent component
+ architecture for the Human Brain Project (HBP), running in both simulation and on neuromorphic
+ hardware (e.g. SpiNNaker). As a member of the billion euro HBP, the unit collaborates extensively
+ with leading European labs (e.g. Heidelberg and Manchester). In related work, robotic forward
+ models and a neural cognitive architecture, both in spiking neurons, have been developed. The
+ group also decodes biological neural behaviour data, e.g. kinematics and hand pose configuration.
+
+ Members of the AI group (Chinellato and Karamanoglu) have done significant work including a
+ pilot project on the back of an existing project (Good Start, Great Start), using robots in a
+ classroom setting involving a consortium of primary schools in Birmingham. The aim was to see
+ how robots could assist the classroom teacher and how they can help children with specialist
+ needs, with field trials conducted in schools.
+
+ Collaboration with Middlesex’s Malta Campus
+
+
+                                                                                               Page 18
+Unit-level environment template (REF5b)
+ Colleagues in the Intelligent Environments group and the AI group (Smith and Windridge), in
+ collaboration with Middlesex's Malta campus, are working on collaborative interactive technologies
+ for education. Stemming from strong learning and teaching collaborations between the two
+ campuses, the group undertakes development and evaluates educational technologies and
+ methodologies. They have particular focus on tangible user interfaces; augmented, virtual, and
+ mixed reality; educational robotics; enhanced e-learning platforms; and AI recommender systems
+ for education.
+
+ Intelligent Transportation Systems
+ Mapp, Nguyen, and Shah (Networks Group) have worked on vehicular ad hoc networks,
+ developing analytical models and simulating and deploying Connected Vehicle Testbeds (CVTs).
+ This program of research is helping the Department for Transportation (DfT) understand how
+ intelligent transportation systems will work and has involved a large number of stakeholders
+ including the DfT, Transport for London, Kings College 5G Lab, City of York Council, Lear
+ Corporation, Cohda Wireless and Virgin Media. The underpinning research consists of the
+ development of new analytical models, the use of simulation, and the deployment of CVTs. It first
+ explored seamless connectivity in vehicular environments by looking at a vehicular simulation tool
+ using the unit’s previous research on the Y-Comm framework. Probabilistic models showed that
+ seamless connectivity depends on the frequency and length of the beacon from the Roadside
+ Units and the velocity of the vehicle. Next, several CVTs were built including a 4.2 kilometres CVT
+ in York, one of the longest public CVTs in the UK; these confirmed the models. The research
+ showed, e.g., that in order to build a national cooperative intelligent transportation network, a
+ secure Connected Vehicle Application Framework to build applications for vehicular networks and
+ a better understanding of the geographical nature and traffic characteristics of different regions
+ were needed. This work supports the unit’s development of the new MSc Cooperative Intelligent
+ Transport Systems, which will create a body of skilled engineers capable of developing and
+ managing intelligent transport infrastructure.
+
+ Computer-Supported Cooperative Work and Supporting Universities Outside the UK
+ Dafoulas (Intelligent Environments group) worked on many computer-supported cooperative work
+ projects. One project created infrastructure, ran pilot studies, and collected and analysed
+ communication and collaboration patterns in geographically dispersed teams of software
+ engineering and computing students. This supported the integration of 'virtuality' activities in a
+ postgraduate programme that is jointly delivered by six universities, three institutions in Egypt and
+ three in Palestine. Another project investigated how 2-3 week projects challenged participating
+ students and instructors, including universities from the US, Panama, Turkey and the UK; there
+ were approximately 30 pilot experiments. Another project identified the factors affecting the
+ performance of global software teams. Another enhanced the capacity of Palestinian higher
+ education institutions in promoting cross border employability of graduates, providing them with
+ the capabilities for effective cross border working.
+
+ Colleagues in the Intelligent Environments group (Dafoulas and Saleeb) support universities
+ outside the UK and beyond Middlesex. They have been critical for the training of four Georgian
+ institutions as part of the MAHATMA project focusing on management practices in Higher
+ Education, and are currently training staff at Akaki Tsereteli in e-learning practices. Colleagues
+ have also coordinated transformation of educational systems in more than 50 institutions as part
+ of ten capacity building projects training more than 1,500 academics, administrators and
+ executives. Dafoulas is also leading the QA work packages for seven EU capacity building
+ projects and coordinates an EU strategic partnership. The EQAC project involves 11 institutions
+ in Azerbaijan, introducing a dramatic change across the sector.
+
+                                                                                              Page 19
+Unit-level environment template (REF5b)
+
+
+ Medical Imaging
+ Gao and Windridge (AI group) are having profound impact on public healthcare. Drawing
+ extensively on developments in signal processing, machine learning, and computer vision in the
+ unit over the last 20 years, particularly in areas with heterogeneous, complex data sources.
+ Several systems have been developed that are in active use globally in medical procedures. Four
+ particular examples include providing research and practical tools to assist clinical decision-
+ making and to enhance further research development; for example, imaging methods developed
+ with Alder Hey Children’s Hospital were responsible for the first determination of the neural
+ correlates of post-operative cerebellar mutism syndrome. Second, training junior clinicians in
+ screening heart disease from electrocardiograms in use at Tsinghua First Affiliated hospital in
+ Beijing. Third, improving clinical outcome and reducing waiting lists for image-guided neurosurgery
+ currently in use at the Navy General Hospital in Beijing. Fourth, a real-time system to detect early
+ stages of oesophageal cancers has been evaluated in the Endoscopy Unit in collaboration with
+ Oxford John Radcliff Hospital.
+
+ Further Examples of Industrial Collaboration
+ During this REF period colleagues in Interaction Design (Attfield and Wong) have conducted a
+ number of funded research projects involving collaboration with industrial partners. Many of these
+ projects have been in the defence and security sector on a number of Ministry of Defence funded
+ programmes including DHCSTC, DASA, HSSRC and SERAPIS. Companies include: Thales,
+ Rina, BAE Systems, BMT, ARK, Mass Ltd and Trimetis Ltd. Colleagues have provided expertise
+ in visual analytics, user-research, machine learning and user-interface design. Attfield led on a
+ two-and-a-half-year BAE funded project for £236K collaborating with BMT, Trimetis Ltd, Thales,
+ ARK and RINA; colleagues investigated the use of emerging human machine interface
+ technologies in military scenarios with a focus on minimising cognitive demand, minimising training
+ requirements and developing User Experience Design techniques for emerging technology.
+
+ Attfield also led on a partnership with Mass Ltd. exploring human automation teaming for the early
+ recognition of kill-chains thus pre-empting attacks; a one year project in developing novel
+ interactive computer visualisations for defence analysts performing Patterns of Life analysis; an
+ eighteen-month project in collaboration with BAE Systems, Cranfield University and MASS Ltd.
+ on novel display methods to improve the assimilation of multiple source information by military
+ intelligence operators; and a two year project in collaboration with Trimetis Ltd. and Birmingham
+ conducting experimental research to derive and validate principles of distributed sensemaking.
+ Wong led a project and partnered with US-based MITRE Corp.; the project was based on how
+ tactile reasoning user interface could be used for monitoring and re-constructing incidents such
+ as accidents in ports.
+
+ Unit colleagues have collaborated with industry through KTPs (see section 3 Other Funded
+ Projects).   The AI group (Huyck) collaborated with Fountech to develop Prospex, a lead
+ generation system.
+
+ The London Digital Twin Centre (Barn and Nguyen) includes several industrial collaborators such
+ as Mallik Tatipamula the CTO of Ericsson Group Function Technologies & Architectures. The
+ Centre is supported by Siemens, Ansys and others. Middlesex is one of four universities in the UK
+ taking part in the 2-year pilot to use I4.0 technologies. Siemens and Festo provide a significant
+ amount of in kind support, much of it used by the Centre. Projects within the centre include
+ partnerships with universities from Vietnam and India. Automobile-based Digital-Twining using
+
+
+                                                                                             Page 20
+Unit-level environment template (REF5b)
+ perception-action hierarchies was a feature of the interaction with FIAT CRF (Windridge) in the
+ context of the DREAMS4CARS project.
+
+ Twenty-four pieces of VALCRI IP produced by the unit team were acquired by Genetec, Inc., a
+ Montreal-based, global security systems company, for an undisclosed but significant sum and an
+ annual royalty payment stream. Genetec created a new business unit to market the new Valcri™
+ product. To enable the knowledge transfer, Wong and four key researchers from the Interaction
+ Deisgn group were employed by Genetec in leading roles in the new Valcri™ Product Group. The
+ VALCRI acquisition catalysed the investment by Genetec to set up a new Genetec UK head office
+ in London in November 2019.
+
+ 4.3 Engagement with Stakeholders
+ Collaboration with Government
+ The unit collaborates with government both locally and nationally. A unit robot testifying before
+ parliament is described below in Robotics Engagement. Colleagues have participated in
+ parliamentary advisory debates, e.g. Huyck (AI) and Aiash (Cybercrime). The research on mobile
+ applications for youth offending teams has been presented to the Youth Justice Board and also
+ the UK Home Office.
+
+ The unit shares close links with the local council, Barnet, with most unit colleagues actually based
+ in the Hendon Town Hall, which Middlesex shares with the Barnet council. Colleagues in the unit
+ have acted as data analysis consultants on numerous projects across the Young Barnet
+ Foundation. Developed in response to the ongoing challenges facing the Children and Young
+ People's sector, the Young Barnet Foundation brings together the public, private and voluntary
+ sectors to effect positive change for young people. Colleagues have developed rigorous data
+ collection techniques, research design, and data collection methods for the Foundation. Augusto
+ received a grant for £120K, entitled Gamification for Healthier Lifestyles, in collaboration with
+ Greenwich Leisure Ltd. and London Borough of Barnet.
+
+ Engagement with the General Public
+ All researchers are encouraged to see public engagement as a key part of their research activities,
+ and the Faculty has systems in place to facilitate engagement with a long history of success. The
+ unit engages extensively with the local community, nationally, and internationally.
+
+ Middlesex's annual STEM festival has substantial input from the unit, and this festival is visited by
+ a large number of local citizens, and particularly by secondary students. The 2020 festival featured
+ a hand washing robot in the early days of the pandemic. The 2019 festival included a virtual reality
+ experience, interacting with data, and brain computer interfaces.
+
+ Kotsia presented an exhibit as part of a Live Science residency at the Science Museum that ran
+ from February - March 2020. The exhibit used wearable brain-scanning devices to record the
+ underlying neural activity to study the effects of music on the listener’s brain dynamics.
+
+ Each year, colleagues participate in New Scientist Live, the world’s greatest science festival. The
+ unit has presented dozens of features including a life-sized Super Mario game in 2018, robots
+ taking selfies in 2017, and conversational robots in 2019.
+
+ Thrills
+ Walker, our thrill engineer, has been seen on BBC2. Walker’s thrill laboratory makes extensive
+ use of virtual reality, and develops technology that entertains and enthuses people. E.g. Neurosis
+
+                                                                                              Page 21
+Unit-level environment template (REF5b)
+ is the first brain controlled thrill ride, featuring a six-degree-of-freedom motion simulator and virtual
+ reality headset to immerse the rider in a surreal environment, controlled not by a ride operator, but
+ by the rider’s own brain activity.
+
+ Robotics Engagement
+ Robots are broadly accessible to the public, and their use continues to grow rapidly. The unit
+ continues to interact with the public using robots to explain, teach, and excite. E.g. the unit is
+ heavily involved in the Eurobot cup hosting the UK national Eurobot cup
+ (https://www.eurobot.org/eurobot/eurobot-2019/national-contests), though the 2020 version was
+ cancelled due to Covid-19. Its students participate each year and have won prizes in the
+ competition.
+
+ A unit robot was the first robot to give evidence at the House of Commons. In 2018, a unit robot
+ was the first non-human to give evidence to parliament, showing the potential and limitations of
+ robotics and AI. The robot promoted discussion of the unit's current research using robots to help
+ care for the elderly and outreach programmes at the University encouraging STEM uptake among
+ would-be students.
+
+
+
+
+                                                                                                  Page 22
+

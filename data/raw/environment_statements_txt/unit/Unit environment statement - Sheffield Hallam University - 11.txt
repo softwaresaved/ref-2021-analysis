@@ -1,0 +1,886 @@
+Unit-level environment template (REF5b)
+ Institution:
+ Sheffield Hallam University
+ Unit of Assessment:
+ UOA11 - Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ Context and Structure
+ Research in this Unit addresses the University’s Transforming Lives strategy through the
+ development and application of computer science and informatics approaches to solve real world
+ issues and societal challenges. Research is undertaken in partnership with businesses, health
+ organisations and security organisations across the region, nationally and internationally, and falls
+ broadly within the ACM classification of Applied Computing.
+
+ This is Sheffield Hallam University’s first submission to Unit 11, with a staff base comprised of 27
+ (25.6 FTE) which has been developed through this period. In REF 2014, three staff in this
+ submission were submitted to Communication, Cultural and Media Studies, Library and
+ Information Management (Andrews, Dearden, Rodrigues) and one to Electrical and Electronic
+ Engineering, Metallurgy and Materials (Alboul). From this small research base, with targeted
+ investment and a strategy for growth through recruitment and staff development, the University’s
+ capacity and capability in computing research has grown significantly to underpin this new Unit.
+ Submitting to UoA11 has meant that a number of staff outside the core Department of Computing
+ have also found a more appropriate Unit for their research, with the inclusion of six staff from the
+ Department of Engineering and Mathematics (Faust, Pranggono, Rodrigues, Saatchi,
+ Shenfield, Sherkat), two from the Materials and Engineering Research Institute (Alboul, Conti),
+ and one from the Centre for Excellence in Terrorism, Resilience, Intelligence and Organised Crime
+ (Gibson).
+
+ Research Strategy
+ The strategy over the assessment period has been to establish, develop and grow the Unit as a
+ focus of support for staff across the University whose research specialisms coalesce around the
+ broad theme of Applied Computing.
+
+ Support for Computing researchers, and the development of a standalone Unit 11 was, for most
+ of the census period, located in the interdisciplinary Cultural, Communication and Computing
+ Research Institute (C3RI). 2020 saw a major restructuring at Sheffield Hallam, with the formation
+ of four new research institutes, including the Industry and Innovation Research Institute (I2RI), to
+ which the Department of Computing and Unit 11 is aligned.
+
+ Since 2014, the University has been committed to growing research in computer science as a
+ strategic priority. Investment has been targeted at developing staff and infrastructure through the
+ allocation of research time, new staff recruitment, funding of specialist facilities, pump-priming
+ project funding, and support for dissemination activities. This investment has advanced outputs,
+ external grant capture and the impact of our work.
+
+ As part of this strategy, a Computing Research Committee (CRC) was created in the Department
+ of Computing in 2016 and Andrews was appointed as a dedicated Department Research Lead.
+ The CRC initiated a process of supporting the development of individual staff research plans as
+ part of the annual work-planning and professional development process, and making
+ recommendations for the allocation of additional research time for each member of staff. Through
+ this approach, the CRC was able to identify and support core areas of excellence, such as:
+ conceptual structures, semantic technologies, pattern recognition, robotics and AI, sensors and
+ ad-hoc networks, IoT and VR games. Based on the strategic planning of the CRC, the Department
+ supported the formation and expansion of research groups in these areas to underpin the growth
+ of research across the broad theme of Applied Computing. The Department also targeted
+ additional research time to specifically support high impact research (Andrews, Dearden, Roast),
+ support the development of ECRs (Ajao, Davies, Enamamu, Otebolaku, Wang), and support
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+ staff to undertake PhDs. Over the period this resulted in the equivalent of 6 FTEs of additional
+ research time being allocated to staff in the in 2019/20 compared to less than 1 FTE in 2014/15.
+ During the period, the staff recruitment strategy of the Department also changed, with a much
+ greater emphasis being put on recruiting staff with strong research track-records aligned to the
+ research specialisms (e.g. Di Nuovo, Da Costa, and Marchang).
+
+ Engagement and Impact
+ Oversight of the strategy and its implementation to grow research with impact is predominantly
+ delivered the through the Departmental Research Lead and CRC, and via the dedicated research
+ groups and areas of specialism, as detailed below.
+
+ Research Groups
+ The Conceptual Structures Research Group (CSRG), led by Andrews and Polovina, is
+ innovating in semantic technologies and knowledge representation and reasoning. Andrews’
+ interest is in Formal Concept Analysis and new ways of computing formal concepts faster,
+ demonstrated in 10.1016/j.ins.2014.10.011 and 10.1007/978-3-319-59271-8_4. `In-Close’ was
+ adapted in the €3.5m EU ePOOLICE project (Grant ID: 312651, returned under UoA34) to provide
+ corroborated evidence of organised crime and in the €2.6m EU ATHENA project (313220, UoA34)
+ to cluster reports of incidents for crisis management. Polovina investigates how Conceptual
+ Graphs and ontologies can provide richer models of enterprise architecture to improve business
+ processes: 10.3233/ao-180198. Hirsch explores how genetic algorithms can be used for
+ document analysis to provide results that are semantically richer than existing approaches:
+ 10.1109/CEC.2017.7969447. Roast is interested in how visualisations can be used to assist users
+ in creating spreadsheet formulae, and Gibson has been exploring how adjacency matrices can
+ be used to visualise larger ‘small-world’ networks: 10.1016/j.asoc.2016.01.036.
+
+ Interdisciplinary research involving the CSRG increased significantly with the creation of the
+ Centre of Excellence for Terrorism, Resilience, Intelligence and Organised Crime Research
+ (CENTRIC). The Centre was founded in 2011 by Akhgar (Director of CENTRIC, UoA34), with
+ Andrews, and has provided a rich forum for combining research in social media, smart devices,
+ semantic technologies, visualisation and communication. This interdisciplinary activity has led to
+ two of the Unit’s Impact Case Studies (ICS1 and ICS2) and is evidenced in two key papers:
+ 10.1186/s13388-018-0032-8 and 10.1007/s10844-016-0404-9. These works had a significant
+ contribution in securing the €5.0m European TENSOR project (700024, returned against PI
+ Akhgar in UoA34), identifying and analysing terrorist generated content on the Internet and Dark
+ Web.
+
+ The Smart Interactive Technologies Research Group (SITRG), led by Di Nuovo, focuses on
+ identifying and applying novel computational models of systems that socially interact with and
+ empower human beings. Di Nuovo has explored theories of number learning in children and
+ developing a new mental neurorobotics model of number understanding, and Conti is interested
+ in improving the human acceptance of robots in education and social care settings. Their
+ pioneering work involves multidisciplinary teams with expertise in cognitive science, robotics and
+ neural systems, education and psychology, and has been supported by the EU H2020 MSCA-IF
+ CARER-AID project (€183k, 703489) and the EPSRC project NUMBERS (£101k, EP/P030033/1).
+ The work influenced the definition of the research priorities for the EU H2020 MSCA-ITN PERSEO
+ project (2021-24, €4.0m, 955778), which is coordinated by the PRISCA Lab, University of Naples,
+ and involves Sheffield Hallam as beneficiary. Also, within the SITRG, Davies has been exploring
+ behavioural learning in cognitive neuromorphic robots. His work in 10.1109/tnnls.2018.2816518 is
+ the key output of an EPSRC £1.2m project BABEL (EP/J004561/1) and presents the world-first
+ attempt to use the SpiNNaker neuromorphic system to control the iCub humanoid robot, solving
+ the real-world task of object-specific attention. Alboul has been combining virtual reality, robots
+ and social networks to create novel immersive experiences in Cultural Heritage. Her work in
+ 10.3390/su12020645 resulted in an invitation onto the Advisory Board of the CybSpeed project
+ (EU MSCA-RISE-2017 -21).
+
+
+
+                                                                                             Page 2
+Unit-level environment template (REF5b)
+ The Geometric Modelling and Pattern Recognition Group (GMPR), led by Rodrigues,
+ explores novel image processing and data compression methods and AI-based pattern
+ recognition, which has been awarded patents deriving from International Patent Application
+ PCT/GB2016/050512, leading to internal innovation funding of £150K to commercially exploit the
+ technologies. Shenfield specialises in AI-based pattern recognition methods, applying them to
+ fault-finding in industrial processes. His work in 10.3390/s20185112 was a result of his role in the
+ £544k BBSRC-funded “Next generation rice milling” project (BB/S020993/1, submitted under PI
+ in UoA12), where a novel method was proposed for detecting maintenance issues using vibration
+ data. This approach is now being used for condition monitoring of rice mill grinding plates.
+ Pranggono’s area of research as part of the group is pattern recognition techniques for security
+ and network applications 10.1109/TPWRD.2014.2300099.
+
+ The Games Software Development Research Group (GSDRG), led by Habgood, has been
+ exploring the possibilities afforded by Virtual Reality in serious games, including novel VR
+ locomotion techniques to reduce side effects of VR use (10.1109/VR.2018.8446130), and creating
+ a new type of narrative-driven, immersive experience for exploring Cultural Heritage sites, as the
+ co-ordinating partner of the €1m EU H2020 REVEAL project (732599).
+
+ The Medical Diagnostics Research Group (MDRG), led by Saatchi, has been investigating the
+ effectiveness of applying AI to high-resolution thermal imaging in evaluating respiratory rate,
+ vertebral fractures and juvenile idiopathic arthritis: 10.1159/000490546 and 10.1007/s11517-018-
+ 1806-3. The work, supported by MRC funding (£39k, SCH2397), in collaboration with Sheffield
+ Children's Hospital and Sheffield University, developed a non-contact method of monitoring
+ respiratory air flow and respiration rate. Faust and Enamamu specialise in the automated
+ detection of atrial fibrillation and heart rate variability, using nonlinear methods, long short-term
+ memory networks and wavelet transforms. Funded by Grow-MedTech with a proof of market grant,
+ the findings of the paper 10.1016/j.cmpb.2019.04.018 led to a successful application for a Grow-
+ MedTech proof of feasibility grant (£20k).
+
+ The Networks Research Group (NRG) is led by Marchang who is interested in protecting
+ interconnected devices and network systems from cyber-threats, through innovative security and
+ privacy solutions. The team, including Otebelaku, Wang and Zargari, explore the challenges of
+ overcoming the limited power, bandwidth and connectively of ad-hoc and sensor networks. Wang
+ specialises in applying fuzzy neural networks to large scale computations, e.g. 10.1007/s11633-
+ 018-1120-4, in collaboration with the University of Huddersfield.
+
+ Additional areas of research across applied computing are supported directly through the
+ Department and CRC, e.g.: Dearden’s work investigating sustainable and ethical ICT
+ development for rural economies in third world countries (which underpins ICS3); Ajao’s work on
+ how to harness social media for the dissemination of public health messages and novel methods
+ of detecting miss-information in social media; Bazli’s research investigating how bio-molecular
+ information can be used for data encryption; Da Costa’s use of evolutionary algorithms for letter
+ identification in tremulous medieval handwriting; Da Silva’s application of novel self-adaptive role-
+ based access controls to improve the security of business processes; Ho’s interest in the analysis
+ of timed automata and in proving solutions to the problems of cyclic routing of Unmanned Arial
+ Vehicles; and Samreen’s work on the use of transferable knowledge for low-cost decision making
+ in cloud environments, supported by an Amazon Web Services research grant.
+
+ Impact
+ The impact strategy of the Unit is consistent with the wider university's Transforming Lives
+ strategy, committing us to making positive contributions to the cultural, economic, social and
+ health challenges facing society. The annual round of individual research plans is used to identify
+ activities and projects that are specifically targeted at promoting impact from research, and which
+ receive QR funding support. Over the period, Andrews, Polovina, Roast, Dearden, Rodrigues,
+ Habgood and Saatchi were supported in this way.
+
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+ Through targeted support, and the oversight of Roast as the KT Champion, staff in the Unit have
+ proactively engaged in institutional innovation and knowledge exchange activities, funded through
+ ERDF awards and HEIF investment. This includes the Innovation Futures 2 scheme and the
+ Sheffield Innovation Programme (1 and 2), through which Unit staff have undertaken innovation
+ projects with 47 regional SMEs.
+
+ This has underpinned further developments and partnerships, leading to the funding of five
+ Knowledge Transfer Projects (KTPs) during the period (Guildhawk, Infraglo, Bloor & Co.,
+ Highlander IT, and Balmoral Tanks), with a total KTP award value of £851,552.
+
+ The emphasis on end-user engagement and collaboration in the Unit’s approach to research has
+ underpinned growth in the impact activity throughout the period, with major impact arising from
+ our more established work on security and humanitarian issues (CENTRIC) and digital innovations
+ for use in education and cultural heritage (Habgood). Impact is also arising from new data
+ compression methods (Rodrigues), novel approaches to HCI for working with spreadsheets
+ (Roast) and new methods for diagnosing medical conditions (osteogenesis imperfecta and
+ idiopathic arthritis) in children (Saatchi).
+
+ Open Research
+ University provision for open access (OA) for outputs and research data are detailed in the
+ Institutional Environment Statement; initiatives have led to good awareness of open research and
+ a high level of staff engagement. Staff and students are introduced to the principles of open
+ research, including the University’s Research archive (SHURA) and Research Data Archive
+ (SHURDA) as the principal means through which publications and data sets are stored and
+ shared. In line with policy, doctoral theses are available electronically via SHURA and made
+ available to the public under a Creative Commons licence (CC BY-NC-ND). The University
+ supports gold OA automatically when required by funders. It also funds gold OA of other papers,
+ assessed on the basis of research excellence, with priority also given to researchers returning
+ from parental leave and ECRs as a “career kick-start”. Staff are encouraged to share OA
+ publications through ResearchGate, Academia.edu and other academic networking sites, as well
+ as via our professional networks and social media.
+
+ Research Integrity
+ Research undertaken within the Unit is underpinned by a strong ethical framework and
+ commitment to research integrity, underpinned by the University’s commitment to the Concordat
+ to Support Research Integrity, as set out in the Institutional Statement. Collegiality is the central
+ pillar of these processes, with a peer review college providing a conduit for the ethical review of
+ research proposals. This system not only allows reviews to take place, but also strengthens links
+ between academics in terms of awareness and understanding of each other’s research activities.
+ The majority of staff in the Unit serve as ethics reviewers. University training is provided and new
+ reviewers are supervised by more experienced staff.
+
+ Interdisciplinary Research
+ Research in computer science and informatics has grown from its origins as part of the
+ interdisciplinary C3RI, which supported and developed the interfaces between computing, human
+ interaction, art and design and communications research. These links, co-location, and the wider,
+ external networks and collaborations continue through the new research institute environment at
+ Sheffield Hallam, with computer science and informatics now established as a Unit. This has
+ engendered an environment that provides a robust disciplinary and scholarly home, from which
+ contributions and collaborations are built that drive borderless research through interdisciplinarity.
+ Examples include work with social sciences and communications specialists across security and
+ law enforcement processes, and research with clinicians and practitioners in health and wellbeing.
+ Specific examples include:
+
+ (i) The Conceptual Structures Research Group - Andrews, Polovina and UoA34 researchers in
+ CENTRIC engaged with international collaborators in major interdisciplinary projects on
+ combatting organised crime (ePOOLICE) and safeguarding the public in crisis situations
+
+                                                                                                Page 4
+Unit-level environment template (REF5b)
+ (ATHENA). Working with practitioners, the CSRG used conceptual graphs and taxonomies to
+ model organised crime and crisis situations, innovated in novel sentiment analysis and natural
+ language processing technologies to identify relevant online information, and used formal concept
+ analysis to cluster and analyse the information. The research involved multiple collaborations with
+ project partners across industry, academia, law enforcement agencies and the United Nations
+ Interregional Crime and Justice Research Institute. The interdisciplinary nature and collaboration
+ of the research resulted in outputs that have had significant impact in combatting crime and
+ safeguarding humanitarian personnel (as detailed in ICS1 and ICS2).
+
+ (ii) The Smart Interactive Technologies Research Group has been involved in major
+ multidisciplinary research projects with their research investigating the learning of numbers in
+ children with special educational needs and the acceptance of robots to assist learning. As part
+ of the EU-H2020-MSCA-IF-CARER-AID project (703489), this involved collaboration with the
+ Department of Electrical Engineering and Information Technologies and the Department of
+ Physics at the University of Naples Federico II, and the Department of Psychology at the University
+ of Campania.
+
+ (iii) The Medical Diagnostics Research Group conducted interdisciplinary research through
+ Saatchi with Sheffield Children’s NHS Foundation Trust, supported by the Medical Research
+ Council, to develop a device for diagnosing breathing disorders. Faust’s research into nonlinear
+ methods to discriminate fractionated electrograms in paroxysmal atrial fibrillation has involved
+ collaboration with clinical researchers and mathematicians at the National Heart Centre of
+ Singapore; the Department of Medicine, Columbia University, New York; and the Faculty of
+ Medicine, University of Malaya.
+
+ Future Research Strategy
+ The future strategic orientation of the Unit builds on its establishment and growth during the
+ REF2021 period and will reflect a commitment to the wider University objectives, as outlined in
+ the Institutional Environment Statement. The Unit strategy is designed to ensure a strong research
+ and innovation culture that delivers excellent performance, sustainable growth of research income
+ and investment in research with economic, social and cultural impact.
+
+ Fundamental to the ambitions of the Unit from 2021 onwards is the plan to create a Computer
+ Science and Informatics Research Centre (CSIRC) as the university-wide home for Unit 11
+ research. The new centre will be aligned to I2RI, along with CENTRIC and engineering related
+ research centres.
+
+ The primary objectives of the CSIRC strategy will be to:
+
+ A. Consolidate and expand research and innovation culture and capacity. Widening the
+ inclusion of staff university-wide via the operation of the new centre, and through continued staff
+ recruitment that has an emphasis on proven track record of research and funding.
+
+ B. Continue development of ECRs. The Departments linked to the Unit will continue to invest
+ significantly in staff development and mentoring of new staff and ECRs. The Unit will participate
+ in the planned I2RI ECR forum, which will have an annual funded mechanism and a new ECR-led
+ online publishing strand. I2RI also plans to host the BAME ECR national conference with a
+ computer science strand.
+
+ C. Develop research excellence across the discipline by maintaining the vitality of research
+ groups through regular group meetings, and meetings between research group leaders and the
+ Head of the CSIRC; engaging with the I2RI strategic plan to build critical mass in fewer areas of
+ focus, with targeted funds to leverage industry and public involvement. As the Unit expands, a
+ focus will thus be to bring the groups together under broader thematic areas, aligned to critical
+ mass and areas of strength.
+
+
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+ D. Promote financial sustainability by expanding the primary sources of income generation
+ beyond the current mainstay areas. The Unit will participate in the plans of I2RI to develop a
+ framework for large scale funding schemes and the CSIRC will support proposal development and
+ mentoring for proposal writing.
+
+ E. Enrich student learning and maintain an exceptional experience for our doctoral
+ students by feeding PhD research into UG and PG taught teaching and projects, growing the
+ cohort of PGR students and studentships, and building a bigger pool of PhD supervisors by
+ supporting - through mentoring - the development of new staff and ECRs as PhD supervisors.
+
+ F. Enhance the current emphasis on undertaking applied research with economic, social
+ and cultural impact. The CSIRC will run a series of focus events designed to identify research
+ with high impact potential. Support via QR and local funding will be targeted at supporting impact
+ development activities in areas identified as having high potential.
+
+ G. Foster greater collaboration with external academic and KE partners, with a view to
+ securing greater income levels and research impact, by engaging with existing and new KE
+ funding opportunities, such as InnovateUK and SIP2. Creating a new role of KE Lead within the
+ CSIRC, thus expanding the current Computing Department activities in the Unit.
+
+ H. Enhance interdisciplinary research links with internal partners (notably CENTRIC) while
+ establishing greater collaboration with other university centres of excellence, such as the Materials
+ Engineering Research Institute, the National Centre for Excellence in Food Engineering, and the
+ Advanced Wellbeing Research Centre. Interdisciplinary research will be supported by engaging
+ with a series of Interdisciplinary Challenge events planned by I2RI.
+
+ The research strategy of the Unit aims to achieve the following outcomes in the next five years
+ (each aim references the relevant objectives, A-H, above):
+
+    •   Increase in staff profile of the Unit by 40% (A, B, C, H).
+    •   Increase in staff PhDs by 30% and increase in PhD completions by 50% (A, E).
+    •   Increase in external funding by 60% (A, D, G, H).
+    •   Maintain at least six vibrant and successful Research Groups within the Unit and further
+        develop areas of excellence, e.g. AI & robotics (Di Nuovo) and pattern recognition
+        (Pranggono, Shenfield), whilst fostering potential new areas with high potential, e.g.
+        detecting miss-information and ‘fake news’ (Ajao), and cybersecurity and edge system
+        protection (Marchang, Otebelaku, Wang, Zargari) (A, B, C).
+    •   Develop at least six areas of high impact, e.g. data compression (Rodrigues), AI for
+        medical diagnostics (Saatchi), EQUS spreadsheet visualisation (Roast) (A, C, D, F, G, H).
+    •   Increase interdisciplinary research activity, as evidenced by joint projects and co-
+        authorships (E, H).
+
+
+ 2. People
+
+ Staffing Strategy
+ Research capacity has been promoted through the increase of additional research time for staff
+ in the Department of Computing during the period, along with the strategic recruitment of research-
+ active staff. This strategy has resulted in the external recruitment of candidates into strategically
+ identified research areas, such as Marchang for his work in ad-hoc and sensor networks, Da
+ Costa for her work with evolutionary algorithms and Ajao for his work in analysis of information in
+ social media. Recruitment is undertaken in accordance with the University policies for equality,
+ diversity and inclusion, with all staff involved in the recruitment and selection process required to
+ have undertaken training, including on equal opportunities legislation and gender and diversity.
+
+
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+ Career Development and Early-Career Researchers (ECR)
+ Our strategy is to build an inclusive and collaborative research environment, providing the requisite
+ support and structures for researchers who are at different stages of their careers, as defined in
+ the University’s Academic Careers Framework (ACF) and Vitae Researcher Development
+ Framework. It has three central objectives:
+    • To support research active staff to grow in a manner that is demonstrable via indicators
+        such as high-quality outputs, external research income, research impact and career
+        progression.
+    • To support ECRs by fostering a culture of research excellence that values quality research
+        with impact and provides researchers with the resources, training and mentorship needed
+        to become independent researchers.
+    • To support staff who wish to re-engage with research or engage with research in addition
+        to professional practice.
+
+ These objectives are aligned with wider University objectives for researcher development and
+ underpinned by the Concordat to Support the Development of Researchers.
+
+ New academics receive a research induction and are invited to discuss their research plans with
+ the Department Research Lead. The University-wide Early-Career Researcher Network, launched
+ in 2018, promotes mentoring, collaboration and offers training opportunities. These approaches
+ help develop a critical mass of active ECRs in the Unit, promoting interdisciplinary collaboration
+ at an early career stage, as evidenced by inclusion of six ECRs in our submission (Ajao, Conti,
+ Davies, Enamamu, Otebolaku and Wang).
+
+ Unit researchers are signposted to research development activities offered by the Sheffield Hallam
+ Researcher Development (SHaRD) programme and the Library Research Support Team. These
+ programmes offer training on topics such as leadership and management skills, research
+ intelligence, grant writing, getting published, open access, research integrity and ethics,
+ commercialisation and Intellectual Property.
+
+ Careful mentoring and sensitivity to the career aspirations of the individuals concerned saw the
+ progression of Domdouzis, previously a Research Assistant, into a Senior Lectureship; Zargari
+ into a Senior Lectureship; and Gibson, formerly Research Assistant, to a Senior Lectureship in
+ the Department of Computing, then to Senior Research Fellow and more recently to Principal
+ Research Fellow in CENTRIC.
+
+ Growing research profiles and leadership at higher levels, stimulated by mentorship and
+ investment by the Unit, have contributed to the promotions of Andrews to Professor of Conceptual
+ Structures in Computer Science, Di Nuovo promoted to Reader and then to Professor of Machine
+ Intelligence, Saatchi to Professor of Medical Engineering, Habgood to Reader in Games Software
+ Development, and Polovina to Reader.
+
+ The awarding of Professorships at Sheffield Hallam is managed by a diverse professoriate and
+ individual mentoring is provided to aspiring applicants. The professoriate panel encourages draft
+ applications for individual face-to-face and written feedback. Female staff have automatic access
+ to the Aurora scheme, administered by AdvanceHE, and the internal Aspire scheme, developed
+ by the Women Professors' Group - with a view to redressing the gender imbalance in senior roles.
+ These structures have been beneficial in the case of Da Costa, who was recruited on the strength
+ of impressive research credentials from external institutions, was soon appointed to Postgraduate
+ Research Tutor for Computing, and is now being supported towards progression to Associate
+ Professorship.
+
+ Research Time Allocation
+ Since its formation in 2016, the Computing Research Committee has been responsible for
+ reviewing research plans and agreeing research time allocations for Computing staff. The CRC
+ recommends the allocation of research time in addition to standard time allocations from role
+ allowances, funded projects, and the universal Research and Scholarly Activity (RSA) allocation.
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ The Committee convenes annually to review individual research and innovation plans and
+ consider developmental needs. The CRC has driven the strategy of growth with the annual
+ investment in research time for the Unit ensuring that research active staff have between 20% and
+ 40+% time allocations to implement their research plans.
+
+ The University REF Code of Practice (from spring 2019) applied best practice from the CRC to
+ identify staff with Significant Responsibility for Research (SRfR). Hence, the identification of SRfR
+ is now an institution-wide process based on the allocation of research time against specific, agreed
+ research objectives.
+
+ Research Students
+ Postgraduate Research students are an integral part of our research community and environment,
+ and are supported through a coordinated programme of recruitment, training, supervision,
+ progression and support. From 2017, Sheffield Hallam has achieved sector-leading student
+ satisfaction scores in the national Postgraduate Research Experience Survey (PRES) for
+ computing students. The PRES results include high scores for satisfaction with supervision,
+ resources, research culture, understanding of progress and attainment, rights and responsibilities,
+ and opportunities for professional development.
+
+ In 2019, 94% of students said that overall, they are satisfied with their experience on the
+ programme, in comparison to a sector average of 81%. This outcome reflects the Unit’s strong
+ commitment to enhancing student experience, and the excellence of the PGR environment.
+
+ Management, Recruitment and Progression
+ The PhD programme is coordinated by a Head of Research Degrees, who leads a team of three
+ academic Postgraduate Research Tutors (PGRTs), working in partnership with professional
+ services staff and the central Doctoral School. UoA11 has a dedicated PGRT (Da Costa). The
+ University Research Degrees Committee has overall responsibility for establishing regulations,
+ policies and procedures, and includes representation from each institute and PGR team.
+ Research degree provision meets quality thresholds as stipulated by the QAA UK Quality Code
+ Advice and Guidance for Research Degrees and UKRI.
+
+ Recruitment
+ Policies and protocols are in place to ensure that admissions decisions are fair, consistent and
+ reliable. PGRTs have overall responsibility for ensuring that applicants are appropriately qualified
+ and ready to commence study at level 8. A standard PhD interview is used that covers subject
+ knowledge, previous research training, motivation for PhD, career plans and any potential barriers
+ or challenges in starting and completing a research degree. Applicants are advised by a PGRT
+ and a prospective supervisor about how to strengthen a research proposal, and unsuccessful
+ applicants following interview always receive constructive feedback to support any subsequent
+ applications.
+
+ Studentships
+ A Graduate Teaching Assistant (GTA) PhD Studentship scheme was launched in 2014 that places
+ independent, highly motivated researchers into the heart of academic departments, bringing with
+ them a fresh research-informed approach to LTA practice and a visible ECR presence. Since the
+ launch of the scheme, eight GTA studentships have been awarded to PGRs in UoA11, with a
+ further student awarded the prestigious Vice Chancellor’s Scholarship for her project with
+ Rodriguez and Shenfield on a Visual Early Warning System, in collaboration with North
+ Middlesex University Hospital (MRC funded project).
+
+ Progression and Support
+ PhD registration is formally completed at the Application for Approval of Research Programme
+ stage at 3 months (6 months PT). Academic progress is assessed at Application for Confirmation
+ of PhD stage at 15 months (27 months PT), when candidates submit a 6000-word report outlining
+ research aims, the context for the work, methodological framework, initial findings/conclusions and
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+ potential contribution to knowledge in their field. Candidates also present and defend their
+ emerging thesis at a Research Institute Symposium, before submission of their report.
+
+ Supervisors and students are required to record supervision discussions and targets as a basis
+ for monitoring progress against the agreed work plan and to support timely completion. Records
+ are collected and logged to provide assurance that regular supervision is occurring and so we can
+ intervene to offer support where there are concerns. The Head of Research Degrees employs
+ evidence-based approaches to define excellence in student and supervisor support and to lead
+ change. A key aspect of this is conducting a robust annual review of research degrees activity
+ and improvement action planning - deploying evidence from the University's Annual Feedback
+ and Monitoring Survey, the PRES, Staff Student Committee minutes, and sector indicators of
+ quality in doctoral provision. We ensure that the constituency of our PGR Staff/Student Committee
+ is representative of the diverse range of students on the programme, including differences in
+ modes of study, gender, ethnicity, disability and neurodiversity.
+
+ Completions over the Period
+ There were 40 completions over the period. Notable is an increase from eight completions in
+ 2013/14, to 15 completions in 2018/19, another testament to the ‘sea-change’ in research strategy
+ for the Unit over the period.
+
+ Research Training and Supervision
+ Sheffield Hallam uses the Vitae Researcher Development Framework Planner and PGRs receive
+ guidance on how to use this for Personal Development Planning and to identify training needs.
+ Generic training as indicated by the Vitae Researcher Development Framework is co-ordinated
+ by the central Doctoral School, whilst discipline-specific training is co-ordinated by the local
+ Institute PGR team.
+
+ Each student is allocated at least two supervisors, with a minimum of two completions amongst
+ the supervisory team. Regulations set a recommended minimum frequency for supervision
+ meetings at every three weeks (six-to-eight weeks for PT students). All supervisors are required
+ to attend regular update sessions organised by the Institute team and central Doctoral School.
+ Topics are selected in response to student feedback, changes in research degrees procedure and
+ with reference to the UKCGE Recognised Supervisor scheme.
+
+ In terms of the scholarly environment, the PGR team devised an alternating annual themed
+ conference format as part of an innovative and interdisciplinary approach to staging PGR/ECR
+ conferences. Our 'METHOD' themed conference provides a platform for discussions that focus
+ on research process, practice, decisions and ethical challenges (rather than results); and the
+ 'IMPACT' conference explores questions of research contribution, application, audience, value
+ and impact. These themes enable students from different disciplines to come together to discuss
+ their work and develop research culture skills, including practical experience of what a
+ conversation across disciplines is like. They also provide an opportunity to orient to wider debates
+ in the HE-sector and to rehearse arguments that are central to a thesis defence.
+
+ Equality and Diversity
+ The Unit is committed to embedding a culture of equality, diversity and inclusion for all staff and
+ students, in line with University policies and equality objectives, that enable all our colleagues to
+ contribute effectively to our research environment. Our approach to promoting inclusivity and the
+ development of all staff is evidenced by this submission of 26.6 FTE, of whom 20% are female
+ and 41% are of BAME backgrounds.
+
+ Working toward increased female and BAME representation among our staff is part of our action
+ plan. This includes measures to explicitly state in job advertisements that applicants from BAME
+ backgrounds and other underrepresented groups are encouraged, HR screening of
+ advertisements to ensure inclusive language, and encouraging staff to promote opportunities
+ through social media to increase the diversity of applicants.
+
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+ Flexibility in relation to hours and location of work is strongly supported. Home-based working has
+ been encouraged and supported, where appropriate, and colleagues can access University
+ laptops to facilitate remote working. Online meetings were common practice pre-pandemic and
+ are now widespread. Events are timed to ensure that a wide range of colleagues, including
+ fractional staff and those with caring responsibilities, can participate fully.
+
+ The institution is accredited by the Athena SWAN Charter and has a Bronze Award, recognising
+ its commitment to advancing and promoting women's careers in science, technology, engineering,
+ maths and medicine (STEMM). Da Costa was invited to deliver the 2020 Athena Swan Lecture
+ discussing the gender gap in science and has been invited to take part in the University’s Athena
+ Swan Team, where she is guiding department level initiatives, as well as organising and writing
+ the next University submission for the Athena SWAN awards.
+
+ The Unit supports staff and PGRs to participate in research and research communities via funding
+ for conferences, training, project expenses, open access, indexing, journal editing and other
+ research activities. These are equally available to all staff, including those on fractional contracts
+ and PhD students, regardless of mode of study. We are sensitive and supportive when staff and
+ student’s circumstances change and have a structured approach to returning to research or study
+ after absence. PhD students are able to take a Break in Study if they are unable to engage with
+ their studies. Staff and students are invited to a return to work or study meeting, to ensure the
+ necessary support is in place for a return to the research environment.
+
+
+ 3. Income, infrastructure and facilities
+
+ Research Funding Strategy and Income
+ Following the implementation of the strategy to support and grow UoA11 research, income has
+ risen from £1,072,000 in the first half of the assessment period to £2,030,000 in the second half
+ of the period, with a total of £3,102,000 income over the period. There has been a total of 42
+ funded projects with 16 different PIs.
+
+ Funding Strategies (Including Pathway to Outputs and Impact)
+ The funding strategy has sought to deliver collaborative relationships with partners inside and
+ outside of academia, generate high quality research outputs, and create pathways to the
+ achievement of high-level impact. This has been achieved by a combination of: (i) seed funding
+ of research projects leading to the generation of larger research grants, (ii) support to develop
+ relationships with academic and non-academic partners, and (iii) investment of QR and other
+ internal funding to support research time, and provide administrative and scholastic support and
+ mentoring for research projects.
+
+ This overall approach has borne fruit as detailed below:
+
+ Research Funding
+ Habgood secured internal investment to develop his collaboration in serious games and
+ education with the University of Nottingham, investigating the use of eye-tracking in attention
+ training games (£22.5k). He was subsequently supported in work planned time and mentorship
+ (by Andrews) to secure the EU H2020 REVEAL project (€1m, 732599), investigating the use of
+ VR and novel locomotion techniques for immersive, interactive games for cultural heritage.
+ Investment for Rodrigues and the GMPR Group has resulted in several successful externally
+ funded project proposals, including the Medical Research Council funded AFRICCA project
+ (Automatic Face Recognition in Critical Care) (£56k). Saatchi and the AI in Medical Diagnostics
+ Group have been supported through QR funding in the development of medical applications of AI
+ and thermal imaging, generating external support through the Medical Research Council funded
+ project Sleep Apnoea Diagnosis in Children (£48k) and the Research England funded project,
+ FractureScreen: Bone Fracture Screening Tool Utilising Artificial Intelligence and Thermal Imaging
+ (£19k).
+
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+ Di Nuovo, who was appointed in 2015 under the new research-oriented recruitment strategy, was
+ supported in forming The Smart Interactive Technologies Research Group and subsequently
+ securing several prestigious grants, including: the EU funded project Controlled Autonomous
+ Robot for Early Detection and Rehabilitation of Autism (CARER-AID) in 2016 (€183k, 703489);
+ the EPSRC funded Intellectual Disability Number Understanding Modelling in Behavioural
+ Embodied Robotic Systems project (NUMBERS) in 2017 (£101k, EP/P030033/1); and, most
+ recently, the EU funded Personalized Robotics as Service Oriented Applications (PERSEO)
+ project (€4.0m, 955778).
+
+ Dearden has secured five grants through this period for his research in ICTD. His work includes
+ improving the livelihoods and conditions of craft producers and farmers in developing economies
+ (e.g. the £24k AHRC funded project: Creating, Connecting and Sustaining Links with the
+ Indonesian Craft Economy) and embedding user centred design methodology into the informatics
+ design process (e.g. the £40k EMI User Centred Design project funded by the Sheffield Teaching
+ Hospitals NHS Foundation Trust).
+
+ Roast, as the KE Lead for Computing, has had continued success throughout the period, co-
+ ordinating the securing of 11 Innovate UK, industry and KTP projects with a total award value of
+ £1.49M.
+
+ Organisational and Scholarly Infrastructure
+ Developed from the interdisciplinary origins in C3RI, UoA11 has a core role in the new Industry
+ and Innovation Research Institute (I2RI), which facilitates enhanced disciplinary collaboration;
+ support for horizon scanning, pump-priming, collaboration and developing funding; and has a
+ focus on enhancing research quality through staff development and mentoring. The institute
+ coordinates scholarly activities such that researchers have access to regular interdisciplinary
+ events and dialogues, with panels which are inclusive of gender, race and research career stage.
+ Unit focused scholarly activities include workshops and a computing research seminar series,
+ offering talks from invited external speakers, UoA11 researchers and doctoral students.
+
+ Research activity within the Unit is supported by the University’s Research and Innovation
+ Services (RIS) via a hub and spoke model. The central team provides governance, policy, funding
+ KE and commercialisation support - with a dedicated operations team within the I2RI including
+ new investment posts (2020) to drive research income and operations (Institute Manager) and
+ knowledge exchange and innovation (Innovation Manager). The University’s Library integrates
+ high quality academic information resources with excellent IT facilities, enabling staff and student
+ access to a wide range of journals and other scholarly materials.
+
+ Supporting Funding Applications
+ All external funding bids go through a rigorous preparation and authorisation process, including a
+ triage and feedback stage overseen by I2RI. Staff are supported by research group leads early in
+ the conceptualisation and writing processes, and by the I2RI peer review college in later stages
+ of proposal development. RIS support the submission and approvals process, including costings
+ and compliance with funder rules. RIS has specialist advisors for EU and regulated funding, along
+ with innovation funding advisors. Successful proposals are supported by the institute team through
+ initial start-up and project monitoring meetings to establish administrative, financial, technical and
+ management assistance, and ensure project leaders are supported with project delivery.
+
+ Research Facilities
+ Dedicated research facilities available to the Unit include specialist facilities and workspaces
+ across the research groups. Two user laboratories are dedicated to the study of human interaction
+ regarding different technologies, media and environments. These include professional motion-
+ capture equipment, eye-tracking technology and data analysis tools. External collaborators (e.g.
+ SAS and Sony) have provided additional infrastructure, including data mining tools and
+ professional games development stations, as part of our strategic commitments to expanding the
+ presence and scope of the Steel Minions Games Studio and CENTRIC.
+
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+ The Steel Minions Games Studio is located within the Department of Computing and contains a
+ full suite of commercial-level games development stations on PC, Sony PlayStation and Sony
+ PlayStation VR platforms. Several games have been developed and published by the studio,
+ which is staffed by both academics and students, and directed by Habgood.
+
+ CENTRIC's office space contains a secure research working area to facilitate the security sensitive
+ research. The CENTRIC VR Lab is configured to support the development and testing of virtual
+ reality and augmented reality experiences for research and training, while the CENTRIC Open
+ Source Intelligence Hub (OSINT Hub) is a dedicated resource that provides a secure and safe
+ environment to explore the potential of OSINT.
+
+ The GMPR Group has a dedicated mini supercomputer used for research on data compression-
+ encryption and Artificial Intelligence deep learning, and a number of high-quality 3D and 2D
+ imaging cameras and associated specialist software.
+
+ For AI in medical diagnostics research there is a close collaboration with Sheffield Children's
+ Hospital, where Saatchi is a member of their Research Board. Facilities at the hospital have been
+ used extensively, including a dual-energy X-ray absorptiometry machine (to measure bone
+ density), an MRI scanner (for skeletal examination), a Computerised Tomography machine (also
+ for skeletal examination), an ultrasound machine and an X-ray radiograph machine (for bone
+ fracture examination). The team also have two highly accurate infrared thermal cameras, used for
+ thermography and a portable ultrasound machine.
+
+ The Centre for Automation and Robotics Research (CARR), where The Smart Interactive
+ Technologies Research Group is situated, has a wide range of state-of-the-art robotics equipment
+ including the Care-o-bot 4 (£190k), the Fetch Mobile Manipulator (£110k), various humanoid
+ robots (Softbank Pepper, several NAOs), and indoor and outdoor mobile robotic platforms
+ (Pioneer). The centre also manages a suite of advanced high-performance workstations for
+ accelerated artificial intelligence computation, also including donations (value £16k) from
+ semiconductor corporations like NVIDIA. Via the Sheffield Robotics collaboration, CARR also has
+ access to extensive robotics facilities at Sheffield University.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Collaborations, Networks and Partnerships
+ Robotics research at the University is part of the EPSRC-funded UK Robotics and Autonomous
+ Systems (UK-RAS) Network, and the University is a founding partner of Sheffield Robotics, a
+ collaboration between the University of Sheffield and Sheffield Hallam to share each other’s
+ facilities and equipment, as well as run joint research projects. In addition, Di Nuovo has been
+ appointed as Digital Technology Theme Lead for the new Advanced Wellbeing Research Centre
+ (AWRC), which was launched at Sheffield Hallam in 2019, supported by £14m funding from the
+ Department of Health and Social Care and European Regional Development Fund. The AWRC
+ focuses on interdisciplinary research linked to physical activity to improve health outcomes for
+ long term conditions.
+
+ The Games Software Development Group, led by Habgood, have collaborated in interdisciplinary
+ research with education researchers and schools in their work in serious games. The group has
+ worked with the Department of Education investigating the role of visual programming tools in the
+ development of young children’s computational thinking, and with researchers in education at the
+ University of Utrecht and the Sheffield UTC Academy Trust in investigating the educational
+ effectiveness of immersive, narrative-driven VR games.
+
+ The Medical Diagnostics Research Group is partnered with Sheffield Children's Hospital (where
+ Saatchi is a member of their Research Board). The team is now one of the leaders internationally
+ in developing infrared imaging for paediatric healthcare.
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ In 2016 and 2017 Rodrigues was awarded two Research Mobility Grants (£28k) by The Royal
+ Society, Royal Academy of Engineering and The UK Academy of Medical Sciences, in
+ collaboration with the Brazilian National Council for State Research, to allow technology transfer
+ of the high-performance computing of the GMPR Group’s compression-encryption algorithms.
+
+ Contributions to the Economy and Society
+ The contribution to the economy and society is exemplified by our three impact case studies,
+ summarised below:
+
+ ICS1 Building Technical Capability and Capacity in Law Enforcement Agencies for Combatting
+ Crime and Terrorism: CENTRIC’s open-source intelligence hub has improved access to digital
+ intelligence for police forces across the UK, leading to successful outcomes for a number of law
+ enforcement operations in counterterrorism, serious crime and child sexual exploitation. The
+ cryptocurrency-based training, developed jointly by Europol and CENTRIC, was made available
+ by Europol to law enforcement investigators across the world.
+
+ ICS2 Protecting Citizens in Crisis Situations and Safeguarding Humanitarian Personnel in High-
+ Risk Environments: Research from CENTRIC in the application of formal concept analysis, data
+ visualisation and user centred co-design has led to the development of the Security
+ Communications and Analysis Network (SCAAN), launched in June 2017 by the United Nations
+ International Organization for Migration (UN-IOM). SCAAN provides a security lifeline for frontline
+ United Nations staff at risk of kidnapping, violence, bombing and natural disasters. It has been
+ deployed by five UN agencies for its staff around the globe, in countries including Nigeria,
+ Colombia, Greece, Turkey and South Sudan. SCAAN has enabled UN-IOM to rapidly
+ communicate with and respond to staff in danger, increase security awareness within its
+ personnel, and monitor their staff in real-time across the globe. Over 13,000 IOM staff are using
+ SCAAN, operating in 158 different countries.
+
+ ICS3 People at the Heart of ICT for Socio-Economic Development: Research by Dearden has
+ generated new software engineering methods and approaches in ICT for Development (ICTD)
+ and ethical standards for research in ICTD. Collaborating with SAP, Dearden’s research has
+ informed the software engineering methodology, DRAMATICS. This methodology has been used
+ to develop SAP’s Rural Sourcing product, which has reached 500,000 small scale farmers across
+ Africa, increasing incomes and improving sustainability, and led to the adoption of new ICT
+ practices by an NGO working with marginal farmers in West Bengal.
+
+ Habgood’s REVEAL project has led to two VR games being published on the Sony PlayStation
+ Store, with profits going to the consortium partners. In particular, Dr Jenner’s House, Museum and
+ Garden (the location of the first game) was able to benefit, with the income playing an important
+ part in keeping the museum viable. The income is also assisting the National Research Council
+ of Italy to fund archaeology at the Imperial Forum of Augusta (the location of the second game).
+
+ Roast’s EQUS visualisation tool is licenced to VeryViz Ltd. for commercialisation. The company
+ has made a core version of the tool (EQUS V) available for user trialling and has a functionality
+ richer version (EQUS X) for professional use. Commercialisation plans are directed at the
+ education and training sectors.
+
+ The Geometric Modelling and Pattern Recognition Research Group under Rodrigues has
+ patented its data compression methods and the software is currently undergoing final trials before
+ being commercially published.
+
+ Engaging Research Users, Diverse Communities and Publics
+ Di Nuovo and Conti have engaged a variety of audiences with their robotics research with talks
+ as part of the British Computer Society lecture series, at an NVIDIA GPU Technology Conference,
+ an IBM Watson Partner Day and a HealthXL Global Gathering. At the national government level,
+ Andrews was invited to brief the UK Government on security innovations arising from the work of
+ CENTRIC, and Marchang was asked to inform the Indian Government about applications of
+
+                                                                                            Page 13
+Unit-level environment template (REF5b)
+ Blockchain technology. In the media, notable examples of public engagement include Di Nuovo’s
+ article for BSA Today’s Healthcare & Lifestyle Magazine, exploring the possibilities afforded by
+ robots in social care, an interview on “Robots for Old People” for the BBC World Service, and a
+ piece on robot carers for the Independent Newspaper. The Unit has also been active in promoting
+ equality and diversity in its discipline, with Da Costa highlighting the gender gap and providing
+ inspiration for girls and women via a number of outlets, including a Tech Week Keynote, an
+ appearance on the Brazilian Philosophy Coffee TV show, an interview on the Brazilian Talk Show
+ of COSERN, and an interview for the Brazilian Our Science show; while Conti gave an invited talk
+ on autism at the Italian Computer Science Without Borders Festival.
+
+ Indicators of Wider Influence, Contributions to and Recognition by the Research Base
+     A. Journal Editorship
+ Di Nuovo: Associate Editor: 2019-current, Applied Sciences (MDPI); 2018-current, Robotics
+ (MDPI); 2017-2020, Cognitive System Research (Elsevier). Guest Editor: 2017 IEEE Transactions
+ on Cognitive and Developmental Systems, Special Issue on "Cognitive Agents and Robots for
+ Human-Centred Systems" (IEEE); 2016 International Journal of Social Robotics, Special Issue on
+ “New Frontiers of Assistive Robotics for Elderly” (Springer). Andrews and Polovina were Editors-
+ in-Chief of the International Journal of Smart Applications and Conceptual Structures. Da Costa
+ is Associate Editor of IET Biometrics. Marchang was guest editor for a special issue of the
+ International Journal of Environmental Research and Public Health on the topic "Secure IoT
+ Adoption and Its Challenges in Health and Wellbeing Applications". Faust is on the Editorial Board
+ of MDPI Signals, MDPI IJERPH and the CTACT Journal on Communication Technology; and was
+ a special issue guest editor for Pattern Recognition Letters: Smart Pattern Recognition for Medical
+ Informatics, 2018, and Artificial Intelligence in Medicine: Deep Learning for Medical Applications,
+ 2019. Shenfield was guest editor for a Sustainability special issue on “Green ICT, Artificial
+ Intelligence and Smart Cities”. Conti is Topic Co-Editor for Frontiers in Psychology on "The impact
+ of COVID-19 pandemic on school, university, and education: Psychological experiences,
+ interventions, prevention, and future perspectives". Saatchi is a Topic Editor for Healthcare,
+ MPDI, and was a guest editor for The Mediterranean Journal of Computers and Networks special
+ issue on 'Wireless Networks'.
+
+     B. Participation on Grants Committees
+ Dearden was a UKRI panel member for GCRF proposals in 2018. He also reviewed grant
+ proposals for the Velux Foundation (Netherlands) in 2017, reviewed grant proposals and
+ promotion applications for the South African National Research Foundation, 2014-2020, and
+ reviewed a fellowship proposal for the Rockerfeller Foundation in 2016. Di Nuovo is an evaluator
+ for seven funding bodies: the European Commission H2020 - FET/MSCA programmes, the
+ National Council of Science and Technology of Chile, the Flanders Research Foundation, the
+ Czech Science Foundation, EPSRC (UK) and EU Public End-User Driven Technological
+ Innovation, ECHORD++. Rodrigues was a grant reviewer in 2015 for The Leverhulme Trust. Da
+ Costa is a Newton Fund reviewer. Conti was an evaluator for the European Commission for the
+ Marie Skłodowska-Curie Individual Fellowships call 2020. Da Silva is a reviewer for the Brazilian
+ Society for the Advancement of Science.
+
+     C. Prizes
+ Notable prizes awarded in the Unit include Best Application Paper 2018 awarded to Di Nuovo by
+ the International Federation for the Promotion of Mechanism and Machine Interaction, and the
+ Best Paper Award won by Di Nuovo at SISTEMI INTELLIGENTI 2015. Da Costa was awarded
+ the Best Paper Prize at the Computer Forensic Workshop at SBSeg, 2019. Dearden won the ACM
+ Special Interest Group on Computer-Human Interaction: Social Impact Award in 2021 (see ICS3),
+ and in 2019 Shenfield won the ICT Express Best Paper Award.
+
+    D. Membership of Research Council Committees/Evaluator
+ Dearden is a member of the EPSRC Peer Review College. Wang is a member of the British
+ Machine Vision Association. Rodrigues is a member of the Bulgarian committee on “Creation and
+ Development of Centres of Excellence”. Faust is an Advisor to the Estonian Research Council.
+ Da Silva is Member of the Technical Committee on Digital Identity Management of the Brazilian
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+ National Research and Education Network. Di Nuovo is an evaluator for the European
+ Commission, EPSRC (UK), the National Council of Science and Technology of Chile, the Czech
+ Science Foundation, and the Kazakhstan National Centre of Science and Technology Evaluation.
+
+     E. Conference Chair Roles
+ Staff in the Unit have played significant roles in the academic discourse of the discipline over the
+ period. Notable examples include Da Costa Chair of the 2018 Congress of the Brazilian Computer
+ Society, Di Nuovo Chair of the 2019 IEEE RO-MAN BioRobotics Workshop and General Chair of
+ the 2016 International Workshop on Hybrid Metaheuristics, Andrews Chair of the 5th Conceptual
+ Structures: Tools and Interoperability Workshop at ICCS 2016, and Dearden Co-Chair for AfriCHI
+ 2016.
+
+     F. Visiting Positions, Invited Keynotes and Lectures
+ Staff in the Unit have been recognised for their research and expertise throughout the period and
+ have been invited by more than 50 institutions, organisations and conferences to give keynotes
+ and lectures. Notable examples include Dearden in 2015 as Visiting Professor for the University
+ of Cape Town and for the International Institute for Information Technology, Bangalore. Conti is
+ Visiting Professor at the University of Catania, Italy. In 2015, Andrews was invited speaker on the
+ use of social media in crisis management at the European Commission Research Executive
+ Agency and has given invited talks at the National Research University, Moscow and at Sheffield
+ University. Di Nuovo has given 12 keynotes and eight invited lectures, including talks for the Alan
+ Turing Institute Workshop on Robotics and AI for Health and Social Care, the International
+ Psychogeriatric Association: Robots and Technology Symposium, and the British Computer
+ Society Lecture series. Rodrigues gave keynotes at the 2016 Kelaniya International Conference
+ on Advances in Computing and Technology and at the 2016 Brazilian Symposium on Information
+ Systems. Da Costa gave an invited lecture at Trinity College Dublin in 2018, and Faust gave a
+ keynote in 2019 at the University of South Florida Colleges of Business and Medicine. Shenfield
+ gave an invited lecture at De Montfort University, and Ho gave an invited talk at the Research
+ Institute of the Free State of Bavaria. Alboul was an invited plenary speaker at the 2018
+ International Conference on Robotics & Mechatronics and Social Implementations, and Conti
+ gave an invited talk at the 2018 Conference on Technologies for Learning and Communication in
+ Autism.
+
+     G. Journal Reviewing
+ Staff in the Unit are reviewers for over 80 international journals and conferences, including:
+ Information Sciences, IEEE Transactions on Vehicular Technology, IEEE Transactions on
+ Cybernetics, IEEE Transactions on Fuzzy Systems, ACM Computing Surveys, IEEE Robotics and
+ Automation Letters, Engineering Applications of Artificial Intelligence, Pattern Recognition Letters,
+ and Sensors (MDPI).
+
+
+
+
+                                                                                              Page 15
+

@@ -1,0 +1,1355 @@
+Unit-level environment template (REF5b)
+ Institution: University of Cambridge
+ Unit of Assessment: 11 - Computer Science and Informatics
+
+
+
+ 1. Unit context and structure, research and impact strategy
+
+1.1 Context
+This Unit of Assessment is essentially the Department of Computer Science and Technology – a
+world-class research facility combining theory with practical activities, and significantly advancing
+both the field and computing in the wider world. The Department sustains active research across the
+breadth of computer science and encourages the development of new technologies and applications.
+
+Key elements of the Department’s ethos are our focus on impact, and openness to working closely
+with both academic and non-academic organisations. Our activities are formally overseen by the
+Faculty Board and the Degree Committee (whose Chair and some members are external to the
+Department.)
+
+The Department occupies a single purpose-built facility. We strive to be a single coherent community
+with an open environment where all academics, research staff and students can contribute to
+discussion of topics affecting the Department. Over 260 people are engaged in research here. On
+the census date, the Department employed 54 permanent academic 1 staff – an increase of 13
+since the last REF – and 110 contract research staff (an increase of 26), and also accommodated 3
+research fellows funded by colleges and other agencies. Sixty of the research staff were employed
+on HESA Category A contracts, and 28 of these were identified as independent researchers.
+
+We’ve been able to attract a large pool of excellent candidates for new positions, even in highly
+competitive areas – e.g., receiving 128 applications for a Lecturer/Senior Lecturer position in
+Machine Learning and subsequently being able to appoint three new staff. Several new appointees
+have joined from industry (see section §1.4). The new permanent staff include seven women and
+gender balance in this period has improved at all levels (see §2.4).
+
+ PhD student numbers are at 100 and increasing rapidly, with over 50 new students in the academic
+year 2020-21 (see §2.3). These figures reflect a strong increase in research funding coming from
+more diverse sources (see §3.1). As discussed below, and in §1.3.3, an increasing proportion of
+our research is interdisciplinary.
+
+One notable strength is the Department’s range of highly impactful long-term research projects such
+as CHERI*2, a 10-year processor architecture security technology project that is now at the centre
+of the £187 million Digital Security by Design cybersecurity programme with investment from the UK
+government and major industrial players. Another is the diversity of pathways to impact (see §1.4.)
+from spin-outs (e.g., from the Unikernels* research) to online learning platforms (e.g., Isaac*) to Iris
+recognition* technology being incorporated into international standards and used by international
+government agencies during its global deployment.
+
+
+1.2 Structure
+We classify research undertaken here by themes – i.e., research specialisms – and application areas
+like ‘Education’ and ‘Health’, which involve collaborations between researchers from this Department
+and other disciplines and/or external organisations.
+
+1 Including Emily Shuckburgh who is a member of this Department but for the purposes of the REF is being
+
+returned by UoA 7.
+2 Starred Names* denote impact case studies.
+
+
+                                                                                                  Page 1
+Unit-level environment template (REF5b)
+
+Themes centre on the methodologies and technologies employed in research. They are:
+
+    •   Algorithms & Complexity: application of logic to computational complexity, the design and
+        analysis of algorithms.
+    •   Computer Architecture: CPUs, accelerators, interconnect, memory hierarchy, SW/HW co-
+        design.
+    •   Graphics, Vision & Imaging Science: interpreting, creating, and animating visual data.
+    •   Human-Centred Computing: affective computing, human factors, design, HCI.
+    •   Machine Learning (ML) & Artificial Intelligence (AI): foundational ML methods, data science.
+    •   Mobile Systems, Robotics & Automation: IoT, wearables, robotics, sensors and sensor
+        networks.
+    •   Natural Language Processing: computational linguistics, algorithms and machine learning
+        approaches adapted to language and text.
+    •   Programming Languages, Semantics and Verification: automated reasoning, compilers,
+        foundations, logic and programme analysis
+    •   Security: privacy, security, cryptography, cybercrime.
+    •   Systems & Networking: distributed systems, databases, wireless, operating systems,
+        virtualisation.
+
+The Department has significant strengths in all these, but is most notable for its consistent success
+in bringing researchers from different themes to work together – e.g., in the following application
+areas where we have large ongoing projects and activities:
+
+    •   Security by design. The REMS* and CHERI* projects involve world-leading expertise from
+        the Computer Architecture, Programming Languages and Security themes using full
+        hardware-software co-design, as well as formal modelling and proof.
+    •   Education. The ALTA Institute (part of the Text prediction and feedback* impact case study)
+        is a product of our work in Machine Learning and Natural Language Processing. In
+        collaboration with the Department of Engineering, Linguistics and Cambridge Assessment, it
+        is improving educational technology for English language learners.
+    •   Mathematics both underlies much of the Department’s research and is an important
+        application area. The Algorithms & Complexity and Programming Languages, Semantics and
+        Verification themes, in collaboration with the University’s Centre for Mathematical Sciences,
+        both use and create new results in mathematical logic and category theory, such as in Glynn
+        Winskel’s ERC ECSYM project. Lawrence Paulson’s3 ERC ALEXANDRIA project aims at
+        large-scale formal proof for the working mathematician via modern verification technology,
+        such as the Isabelle/HOL interactive theorem prover.
+
+Themes describe the Department’s activities externally. Internally, activities fall within research
+groups. These provide structure for postdoctoral staff and PhD students – e.g., by organising
+specialist seminars, and running feedback sessions for draft papers – and influence decisions such
+as space allocation.
+
+The main changes in research structure during this REF period arose from strategic decisions to
+build capacity in key areas where computer science has potential for huge societal impact. One is
+environmental science, long an important area here – as evidenced by ‘Computing for the Future of
+the Planet’, Andrew Hopper’s 2017 Royal Society Bakerian Prize-winning research initiative.
+
+We made two interdisciplinary appointments in 2019: Emily Shuckburgh from the British Antarctic
+Survey as Reader in Environmental Data Science and Srinivasan Keshav as Robert Sansom
+Professor of Computer Science, to work broadly on using computer science techniques and
+technologies to encourage the adoption of renewable energy and combat climate change.
+Shuckburgh is Director of Cambridge Zero, the University’s climate change initiative, and PI and Co-
+Director of AI4ER, the Cambridge UKRI Centre for Doctoral Training in the Application of Artificial
+3 Names in bold denote staff we are submitting. We also give their first name on initial mention.
+
+
+                                                                                                    Page 2
+Unit-level environment template (REF5b)
+Intelligence to the study of Environmental Risks. Keshav and Damon Wischik are Deputy Directors
+of AI4ER.
+
+There has also been concerted expansion in Machine Learning (ML) and Data Science (DS).
+Significant efforts by both Heads of Department (Hopper to May 2018, and then Ann Copestake)
+secured a donation from DeepMind to fund a Chair of Machine Learning. This enabled us to make a
+key appointment (Neil Lawrence), which helped us attract other new staff. Overall, we have recruited
+six people with expertise in these areas since 2016 (Wischik, Shuckburgh, Lawrence, Carl Henrik
+Ek, Ferenc Huszar, Nicholas Lane); five of these are new positions. The new expertise
+complements the work of existing staff already well established in this area (especially Sean Holden,
+Pietro Liò, Mateja Jamnik and others).
+
+A particularly strong emerging feature of the Department is the focus on ML/DS as an integral part
+of computer science, including systems (Lane, Lawrence), programming (Andrew Rice) and
+computer architecture (Robert Mullins). This complements the work of other research groups in the
+University, particularly the internationally-acclaimed Machine Learning and Machine Intelligence
+group in Information Engineering, with whom we have strengthened ties through joint involvement
+in projects.
+
+A major part of our strategy involves collaboration with other disciplines to enhance their research
+by using cutting-edge ML/DS techniques – as we are doing in a Mark Foundation Institute for
+Integrated Cancer Medicine initiative involving Liò and Jamnik, that uses advances in machine
+learning to integrate diverse breast cancer patient data and derive insights from it. (This is in
+collaboration with Cambridge University Hospitals Department of Oncology and the University
+Department of Radiology.)
+
+We recently obtained substantial funding from Schmidt Futures for our new ‘Accelerate Programme
+for Scientific Discovery’ to equip researchers with the skills they need to use ML in their research.
+Similarly, this Department is a hosting partner of AI4ER and eight of the ten inaugural students who
+started their PhD in 2019 are supervised or co-supervised by academic staff here. Such activities
+align with another of our strategic recruitment objectives, to increase our interdisciplinary work (see
+§1.3.3).
+
+
+1.3 Research Strategy
+The Head of Department (HoD), Deputy Heads and Research Strategy Manager have overall
+responsibility for the strategic development of research, in consultation with the University School of
+Technology. The process is highly consultative: relevant research-related matters are discussed at
+weekly term-time staff meetings, involving all REF Category A staff and the more senior professional
+services staff. There are occasional structured meetings to explore particular issues more widely,
+and an annual offsite meeting.
+
+1.3.1 Review of research plans described in REF 2014
+
+
+   1. Expand the academic staff by four over the period 2013-2018. In fact, we expanded from 41
+      to 54 staff by the end of the REF period (see §2) in order to maintain a broad range of
+      research and stay internationally competitive, supported by success in obtaining funds,
+      including via the ERC and the Alan Turing Institute.
+
+   2. Expand support functions, particularly the finance office. This plan was modified because we
+      saw the need to create a broader Research Strategy Team to support all aspects of research,
+      not just financial. (See §1.3.2.)
+
+
+
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+   3. Start planning towards a new building for 2020 onwards. This is the only plan not yet to have
+      succeeded, for reasons discussed in §1.3.4.
+
+   4. Smooth out the cluster of 2020 retirements by using reserves to recruit early to some of these
+      posts. We have increased staff numbers as well as recruiting early.
+
+   5. Further diversify funding and increase industrial engagement. Our successful diversification
+      and increase in funding is described in §3. Growth in industrial engagement is described in
+      §4.
+
+1.3.2 Strategic planning after REF 2014
+
+
+To supplement the usual planning processes described above, in September 2018 the Department
+underwent a Strategic Research Review (SRR) with an external panel, chaired by Marta
+Kwiatkowska (University of Oxford) and including panellists from Carnegie Mellon University, UCL,
+the University of Austin at Texas and Nokia Bell Labs. This was purposely timed to take place shortly
+after Copestake took over as HoD. The SRR identified several priorities, including:
+
+   •   Communication and Support. The panel recommended establishing a communications role
+       here – to highlight the Department’s successes to funders and society at large and raise the
+       profile of the quality and scope of research here – and recruiting more academic-related staff
+       “to lessen the administrative workload of academic and professional services staff”.
+   •   Culture. “Carefully manage the impact of any further growth on the Department’s internal
+       culture. Foster early collaboration and communication between faculty and PhD students and
+       reflect on the integration process… in order to ensure the satisfaction and well-being of its
+       graduate student population.”
+   •   PhD funding. The panel suggested we optimise the return from industrial links to fund
+       studentships.
+
+The Communication and Support priorities extended our existing plan 2 (see above) to expand the
+finance office. This led to the establishment of a Research Strategy Team, headed by the Research
+Strategy Manager, which currently has five staff (2.8 FTE) and is still growing. Internally the team
+supports many aspects of grant applications (see §3.3). Externally, its functions include
+communications, managing an association for industrial supporters – the Supporters’ Club – and
+another for alumni, the Cambridge Ring (see §4.4.). Generally, the SRR made positive comments
+about Departmental culture, including highlighting the collaboration between groups, and intellectual
+freedom. Their recommendations about the integration of postgraduate students led us to introduce
+more structure to student induction (see §2.3).
+
+1.3.3 Interdisciplinary Research
+
+
+Since the last REF period, we have focused on expanding interdisciplinary activities to help extend
+the impact of our research. We achieved this through appointing new academic staff who have strong
+interdisciplinary links or come from different disciplines.
+
+   •   Paula Buttery, a computational linguist, now leads the ALTA Institute, a key demonstration
+       of the importance of the multidisciplinary approach to language learning and assessment.
+   •   Alice Hutchings has a background in criminology and is Deputy Director of the Cambridge
+       Cybercrime Centre, which combines expertise from computer science, criminology and law.
+   •   Keshav’s conservation focus is discussed above.
+   •   Lawrence leads the Accelerate Programme for Scientific Discovery.
+   •   Shuckburgh, a mathematician, climate scientist and Director of Cambridge Zero, leads
+       AI4ER.
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+   •   Wischik is a mathematical statistician who, prior to joining us, was chief data scientist at
+       Silicon Valley start-up Urban Engines (now part of Google).
+
+The Department greatly benefits from the University’s support for interdisciplinary activities via its
+Strategic Research Initiatives and Networks (SRIs and SRNs) and Interdisciplinary Research
+Centres (IRCs). These groupings aim to address multidisciplinary research challenges, strengthen
+collaborations across disciplines, and influence research and policy agendas. Copestake co-directs
+the Cambridge Language Sciences IRC. The Cambridge Global Challenges SRI, co-led by Alan
+Blackwell, promotes research to advance sustainable development goals and works in collaboration
+with partners in low-income countries. Other SRNs and IRCs with substantial involvement from the
+Department include CamBridgeSens (sensors) and the Cambridge Centre for Data-Driven
+Discovery. Simon Moore and Jat Singh co-chair the Trust & Technology Initiative which was kick-
+started with University funding.
+
+1.3.4 Future strategic aims
+
+People. Our academic staff numbers have grown rapidly over the last seven years ( §2.1) but will
+not continue expanding at the same rate. As part of the SRR, it was decided we should keep to about
+50 academic staff for the next few years. (This still implies recruiting 1-2 academic staff per year as
+staff retire or leave.) Supported by the University’s Equality and Diversity section, we plan to continue
+increasing our proportion of female and BAME staff. We will also offer several five-year fellowships
+for postdoctoral researchers with about three years’ experience post-PhD. (This gap in current
+provision results in us losing some of our most promising researchers to industry.) We have already
+hired four Fellows through the Accelerate Programme for Scientific Discovery. We also aim to further
+increase the PhD student numbers. These objectives require funding: further philanthropic donations
+(from industry or foundations) are the most likely source.
+
+Building. Plans drawn up in 2016-17 to extend our current building showed a high cost for a
+relatively small space gain and so were ruled unfeasible. However, some pressures on space are
+being relieved by the expansion of the University’s West Cambridge site, especially the Shared
+Facilities Hub (SFH), expected to be completed in 2021-22. The pandemic has probably put a
+substantial extension/new building beyond financial reach in the near future but has encouraged us
+to re-examine our use of space. So we are reconfiguring existing spaces to meet needs, e.g.,
+repurposing our library space (since there will be a library in the SFH) as a flexible workshop/teaching
+area.
+
+Industrial and third-sector collaboration. Some of our most important current projects (e.g.,
+CHERI*) involve multiple companies collaborating with our researchers and each other; we hope to
+increase this style of interaction. We also wish to support the involvement of third-sector
+organisations and other disciplines in our research. The Isaac* online platforms and the ALTA
+Institute are examples of this and form a core for further collaborative research in applications of
+computer technology in education.
+
+Research areas. We expect further growth in all areas, especially digital security, mobile devices,
+data science and ML. Increasing the impact of our activities within the University is a strategic aim,
+particularly through supporting the growth of ML/AI across Cambridge in collaboration with
+Information Engineering. We see huge potential for further growth in collaborative research in both
+sciences and humanities – a specific objective is to collaborate with the University’s new Centre for
+Digital Humanities. This also links with our aim to increase our work in education.
+
+Research support. We will further grow our new Research Strategy Team and recruit more project
+managers and research software engineers.
+
+
+
+
+                                                                                                 Page 5
+Unit-level environment template (REF5b)
+
+
+
+1.4 Impact Strategy
+The 2018 Strategic Research Review noted that “members of the Department have established
+strong, long-lived links to industry to support and develop ongoing world-leading research and
+explore new and exciting areas”, and “the majority of research done in the Department reaches wider
+society through government policy, the health sector, industry and charities.”
+
+This variety and vitality of impact is facilitated by the University’s intellectual property policy – which
+gives researchers the right to make results public and the ownership of copyright (including copyright
+in software) – and by University employment contracts that place few restrictions on employees’
+activities outside the University. This offers researchers significant flexibility to engage in, among
+others, formal and informal collaborations with companies and third-sector organisations, spin-outs,
+start-ups, and non-profits.
+
+Our impact case studies reflect this range of paths to impact. Text prediction and feedback* led to a
+start-up and spin-out, both subsequently acquired by established companies; CHERI* and REMS*
+involve close collaboration and interchange of researchers with major industrial companies; non-
+profit company Raspberry Pi* has achieved impact through community-building; the Isaac* online
+learning platforms do so by public service to education.
+
+Our strategy for sustaining impact is to maintain and develop an impact culture. Our impacts are
+diverse and individual researchers/groups of researchers are usually best placed to decide how to
+pursue them – though our Research Strategy Team also supports them, e.g., by suggesting sources
+of impact/translational funding or through their links with Cambridge Enterprise, the University’s
+commercialisation arm. Impact often requires continued hands-on involvement of academics in
+translation of research: the University’s liberal IP policy facilitates this, as does the Department’s
+willingness to support unpaid leave and other forms of flexible working. Potential for impact is an
+important factor in hiring and promotion: when hiring researchers, we pay as much (if not more)
+attention to the impact/potential for impact of their work as we do to the volume of their publications.
+Interchange of staff and students between academia and industry is also essential and several
+recently-recruited academic staff have joined us from industry (Huszar, Twitter; Lawrence, Amazon;
+Cengiz Oztireli, Disney Research Switzerland; Wischik, Urban Engines). Researchers are
+generous in sharing their experience with colleagues, and entrepreneurship (among staff and
+alumni) is celebrated in the Cambridge Ring. ( §4.4).
+
+Since 2019, we have been seeking to amplify our impact successes to raise the Department’s profile
+with prospective funders and collaborators. Ensuring impact is communicated much more widely is
+part of the new communications role.
+
+The Department’s culture is an integral part of the local Cambridge tech environment. Staff and
+alumni of the Department have so far created 300 companies and the central role the Department
+played in the Cambridge Phenomenon is well known. This high degree of interrelationship persists
+and grows. Members of local companies and third-sector organisations interact frequently with
+members of the Department, collaborating on research and start-ups, co-supervising PhD students,
+proposing undergraduate/postgraduate projects, giving seminars, acting as members of our Faculty
+Board and informally advising and being advised. Because of its ubiquity, this is impossible to
+quantify: as the SRR highlighted, members of the Department experience it as a unique culture and
+it is a major factor in their choice to come to, and stay in, Cambridge.
+
+
+1.5 Open Research and Research Integrity
+We take full advantage of the University’s Open Access support (such as the Apollo repository,
+guidance on practice and training programmes for open research and open data management and
+
+                                                                                                   Page 6
+Unit-level environment template (REF5b)
+the Cambridge Open Access policy framework). However, we go well beyond these institutional
+measures: the right to release material as open source is strongly promoted by the Department
+through its long standing open culture, embodied in flexibility of collaboration, open source software
+and hardware outputs in many areas, open innovation practice evident in our impact strategy, and
+open research in sharing data and publications.
+
+Our open source release of the Xen hypervisor is a notable part of our history; it changed the
+discipline and flies the flag for the effectiveness of open research. Some more recent open source
+releases are described in §4.5. The Isaac* platforms are an example where an industry contract
+demands open source outputs and where the Departmental approach has enabled collaboration and
+impact. The Cambridge Cybercrime Centre pioneers practice around research data sharing for
+sensitive and illicit information. Department personnel have been involved with the CRASSH Open
+IP for Emerging Technologies research network, exploring the frontiers of open IP tech transfer.
+
+The Department supports a culture of research integrity via an ethical review model, informed by
+current best practice and the institutional Good Research Practice guidelines, and in consultation
+with other Schools within the University, and fellow universities. All research projects (including final
+year undergraduate and Masters’ projects) go through up to three stages of review:
+
+   •   Self-assessment, which may lead to
+   •   Departmental review, which may require guidance from a
+   •   Specialist panel.
+
+Our interdisciplinary interactions with humanities, law and social sciences broadens awareness of
+ethical issues around the Department. We support ethical review of projects from other disciplines
+when there is a computational angle. The Research Strategy Team plays a role in spotting potential
+issues at the early proposal stage. Review at proposal stage is encouraged to drive higher quality
+submissions. The Department works closely with the University’s Development, Research
+Operations and Research Strategy offices to ensure projects are appropriate.
+
+Discussion of methodological and ethical issues is also built into our teaching. Ensuring
+reproducibility is especially important in research that uses machine learning, and open sharing of
+datasets and software allows research results to be reproduced by others. More generally, our open
+research culture plays an important role in research integrity by ensuring that work can be informally,
+but critically reviewed by others before submission for publication.
+
+
+
+
+                                                                                                 Page 7
+Unit-level environment template (REF5b)
+
+
+
+ 2. People
+
+2.1 Staffing strategy
+Our strategy for recruiting permanent academic staff reflects our research strategy of sustaining
+active research across the breadth of computer science while also encouraging work in important
+new areas. We made 23 appointments between January 2014 and July 2020 (a marked increase on
+the five appointments in the previous REF period). The appointments were at all levels of seniority
+– two Professors, one Reader, 11 Senior Lecturers and nine Lecturers – and seven of the 23 new
+appointees were women. In recruiting, we looked (as we continue to do) for excellent researchers
+with both relatively broad interests/expertise and the flexibility to adapt, a factor we regard as
+important given the rapidity with which research in our field moves and the fact that many staff stay
+with us long-term.
+
+Four new appointees came from industry (see §1.4) and one from a research institute. The
+remainder came from universities in the US (two), Canada (one), Switzerland (one), other UK
+institutions (nine) and Cambridge (five). The Department's strong reputation and strategy of
+empowering academic staff to work on research topics as they see best allows us to recruit and
+retain exceptionally talented people even in areas of keen academic and commercial competition:
+our new staff came to us with PhDs from world-leading institutions.
+
+We have a strong record in staff retention: academic staff may choose their own research agendas,
+and we are also flexible around consultancy work, work outside academics’ University commitments
+and IP ownership, recognising this generates welcome additional income for research staff and aids
+staff retention.
+
+Contract research staff have increased from 81 to 110. We had five Research Fellows without an
+underlying permanent position at the census date. Seeking more Fellowships to help the best
+researchers build up their research profile before undertaking the full demands of a permanent
+position, we recently introduced Departmental Early-Career Fellowships (DECAFs). We obtained
+philanthropic funding for the first four as part of the Accelerate Programme.
+
+
+2.2 Staff development
+For all staff, we recognise the importance of training, mentoring, appraisals and promotions;
+opportunities to work flexibly; support for their wellbeing; and the need to continue improving equality
+and diversity in the Department.
+
+As the University is a signatory to the Researcher Development Concordat, all staff can access its
+comprehensive programme of training and professional development. Departmentally, new
+academic staff are assigned at least one and sometimes two mentors to help them settle in the short
+term and offer broader career mentoring longer term. The HoD and Departmental Secretary arrange
+mentors from outside new recruits’ research areas, whereas colleagues closer to their specialism
+monitor and advise them on their programme of research, both through routine informal contact and
+through the more formal biennial appraisals, which focus positively on support and academic career
+development. The mentors, alongside the HoD, provide support during the probation period. Other
+support for new academic staff includes the underwriting of PhD students and start-up funds
+(unrestricted, but normally used for travel, specialist equipment, etc) from Departmental reserves.
+New lecturers are given a reduced teaching load, usually joint-teaching one lecture course in their
+first year.
+
+
+
+                                                                                                Page 8
+Unit-level environment template (REF5b)
+The HoD annually and proactively identifies academic staff who are ready for promotion (often aided
+by appraisals and ensuring staff from underrepresented groups are considered). She encourages
+them to apply and supports them through the process, e.g., advising on the choice of referees. She
+or another member of staff with experience of the promotions process will review applicants’
+promotion paperwork before it is submitted. She discusses steps to improve CVs with those who are
+not yet ready for promotion and gives detailed feedback in the (rare) cases where an application is
+unsuccessful.
+
+Evidence of the career development support we offer academic staff is shown in their strong
+performance in the University’s rigorous and competitive annual Senior Academic Promotion
+process (as part of which, applications are considered by up to three committees: our Faculty
+Promotions Committee, the School of Technology Promotions Committee and the University’s
+General Board). During this REF period, out of 39 applications, 35 resulted in promotion /approval
+for promotion – 6 to Senior Lecturer, 15 to Reader (3 of them women) and 14 to Professor (4 of them
+women) – a success rate of 90%.
+
+Support for postdoctoral researchers
+
+There were 110 contract research staff employed at the census date. In addition to the 22 Research
+Assistants (most of them also registered for the PhD), there were 88 postdoctoral staff – 67
+Research Associates, 17 Senior Research Associates, 2 Principal Research Associates and 2
+Research Fellows as well as 3 Research Fellows funded by colleges.
+
+Institutionally, the University retained its HR Excellence in Research award in 2015 – a recognition
+of its commitment to improving the working conditions and career development of research staff. It
+offers additional institutional support for research staff through the Postdoc Academy, the lead
+organisation for the postdoctoral community, which offers personal and professional development,
+pastoral and information support. There are also dedicated support programmes for postdoctoral
+staff at the Careers Service and the Researcher Development Programme, and subsidised staff
+housing in Eddington (near to the Department) for which many postdocs are eligible.
+
+Departmentally, postdocs make a vital contribution to our research and we work hard to support their
+continuing development. Postdocs employed on grants are recruited by academic staff with the
+support of the HR team. Each is ‘housed’ in a research group (and some in more than one) providing
+both their academic and social activities. The Department also has a Research Staff Forum – which
+meets termly, as a platform to assist postdocs - where staff issues such as training, availability of
+teaching opportunities and improving career progression can be brought for discussion. All main
+research groups are represented; the Department Secretary, Deputy Director for Postgraduate
+Education (Researcher Development) and Research Strategy Manager also attend and liaise with
+the HoD over issues / suggestions that arise.
+
+Contract research staff can apply for promotion from Research Associate (RA) to Senior Research
+Associate (SRA), which recognises their status as an independent researcher. There were 22 such
+promotions in this REF period. The appraisal process is important in identifying RAs who could be
+promoted to SRA and in advising both roles on their career options, academic and
+otherwise. Promotions are assessed by the Faculty Board. The Department makes information
+about the promotion procedure available via our intranet, including case studies from previous
+successful applicants on how they put their case for promotion. SRAs and Research Fellows with
+independent status are invited to the Department’s weekly staff meetings and offsite meetings, along
+with permanent academic staff, allowing them to play a role in decision-making around research
+issues.
+
+Some postdoctoral staff are involved in University teaching, including lecturing and supervision of
+Masters’ projects. We aim to make this opportunity more evenly available so all postdoctoral staff
+wishing to develop their teaching skills – e.g., to help them pursue a career in academia – are
+supported in doing so.
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+
+Fellowships obtained by members of the Department are detailed in §3.1.
+
+Many postdoctoral staff and fellows leaving the Department have gone to permanent academic
+positions across the world, including at the Universities of Amsterdam, Bristol, Edinburgh, Otago and
+Oxford, Carnegie Mellon University, IIT Madras, Imperial College London and King’s College
+London. Four obtained permanent positions in the Department during the REF period. Others have
+gone into industry, including positions at Apple Research, Brit Insurance, Microsoft Research,
+Ocado, and to start-ups including Anvil and Navenio.
+
+Knowledge exchange and impact
+
+
+Academic staff are free to undertake consultancy: we recognise that it enhances their experience of
+industrial realities and problems, while also creating the links between academia and industry that
+are essential to knowledge exchange and impact. Some work is done pro bono; paid consultancy
+may be done through Cambridge University Technical Services (CUTS), or privately, as staff choose.
+Recently staff have consulted for, among others, Alcatel (Bell Labs), Apple, AOL, BBC, BT, CSR,
+France Telecom, Google, Intel, Juniper Networks, Microsoft, Netronome, and Orange.
+
+Academic staff are able – and indeed, expected – to take sabbatical leave one term in every seven.
+They may also take unpaid leave to work with companies. (Though this requires consideration of
+how to cover their teaching and supervision, it is important both for staff retention and, again, for
+impact.) Staff may also work for companies alongside their Department positions, as long as it
+enhances their academic work, for instance by allowing publishable research which would not be
+possible in an academic setting or by demonstrating impact.
+
+Mechanisms for recognising the impact of work by staff include the Department’s annual Hall of
+Fame awards They celebrate the success of companies founded by Department staff and graduates
+and successful products these companies create; the philanthropic or social impact of work by
+staff/graduates; and the most significant peer-reviewed paper by staff/graduates.
+
+
+2.3 Research students
+During the current REF period we admitted 223 PhD students, funded by a mix of Research Council
+(mainly EPSRC) grants, University resources (e.g., Cambridge Trust, Gates and college
+scholarships), industrial philanthropy and studentships, project grants, international scholarships and
+students’ self-funding. Thanks mainly to an increase in industrial philanthropy, and the Department’s
+increased involvement with CDTs, student numbers are rising – as shown below.
+
+
+
+
+                                                                                              Page 10
+Unit-level environment template (REF5b)
+
+
+
+
+Figure 1: PhD admissions by academic year.
+
+Reflecting our increased emphasis on interdisciplinarity, and our increased capacity in
+AI/ML/robotics, the Department is involved with the following CDTs:
+
+   •   Sensor Technologies for a Healthy and Sustainable Future (SensorCDT)
+   •   Application of Artificial Intelligence to the study of Environmental Risks (AI4ER).
+   •   AgriFood Robotics (AgriFoRwArdS)
+
+Admission to our PhD programme is highly competitive, our application process and training
+programme both support rigour; as a result, standards are very high. Students won British Computer
+Science Distinguished Dissertation Awards in 2015 and 2017; two more were runners-up in 2020.
+
+Recruitment
+
+The PhD application process is designed to combine rigour with support for unconventional
+backgrounds and diverse candidates – in the last five years, we have admitted students from
+Psychology, Earth Sciences and Land Economy as well as Mathematics, Engineering and Computer
+Science.
+
+Typically, about 40% of research students have taken either our one-year MPhil in Advanced
+Computer Science or the optional fourth year of the undergraduate Computer Science Tripos. These
+degrees are formally PGT but are intended to prepare students to start research, offering sessions
+on key skills from research publication to specific research methods, as well as modules on cutting-
+edge topics in Computer Science and Technology. The vast majority of the other PhD students
+admitted have undertaken Masters’ level training elsewhere, but we also admit students directly from
+industry, and a Masters’ is not a requirement for those with industry experience. Most such students
+have completed an undergraduate degree in Computer Science or Engineering before entering
+industry, but we have also admitted PhD students with incomplete undergraduate degrees who were
+recognised in industry as leading researchers. The students admitted in the last five years – 1 female,
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+2 male – took some study from our MPhil, or some Open University classes, in their first year to
+ensure they were up to the academic rigour of a PhD.
+
+Monitoring and support
+
+We implemented the 2018 Strategic Research Review recommendation to introduce more structure
+to postgraduate student induction. Spread over two weeks, this now includes mandatory completion
+of several core units on researcher development including soft skills (presentations, confidence
+building), and better integration into the research groups from the outset. There are also sessions
+on career development, the help available from the counselling services, and Departmental IT
+support.
+
+Each student works closely with a supervisor and contributes to the work of a research group,
+collaborating with others as appropriate. PhD students are assigned both a primary supervisor and
+a separate graduate advisor who, along with the postgraduate student administrator, is available to
+discuss problems. Institutionally, PhD students are supported by the wider University and their
+college (e.g., with financial aid, housing, counselling, etc). All research students have access to
+necessary online resources and extensive computing facilities, as well as social spaces (café and
+common room) and events. For female and non-binary students, the women@CL initiative offers a
+mentoring scheme and online forum for advice on topics ranging from the PhD journey and
+scholarship funding to ‘imposter’ syndrome.
+
+The PhD programme includes formal assessments at the end of each year. Students have a viva at
+the end of the first year, including a report on their progress and research proposal, to demonstrate
+they are likely to proceed successfully. The second-year report is expected to include detailed plans
+for completion of the PhD. A third-year progress statement – including either a draft of their
+dissertation or a plan for finishing it – is considered by the Director of Postgraduate Education.
+
+Skills development and career preparation
+
+Research groups offer students opportunities to develop their skills, e.g., by contributing to weekly
+seminars or practising their presentations of workshop/conference papers. PhD students are
+encouraged to submit papers to, and attend, international workshops to make contacts. The
+Department has funding to support this when other sources are unavailable.
+
+Researcher development is integrated into the first year of PhD study with a compulsory module on
+the underlying skills required for research, including designing experiments, analysing experimental
+results, and research ethics. In subsequent years, PhD students are offered a programme of further
+training, including a range of teaching and research-related courses from the University’s personal
+and professional development staff. Researcher development activity is evaluated and refined in
+consultation with students by way of the Postgraduate Students’ Forum (a Departmental committee
+formed of student representatives chaired by the Deputy Director of Postgraduate Education
+(Researcher Development)).
+
+
+2.4 Equality and Diversity
+Recruiting the best people and ensuring the department is a friendly and supportive place to work
+for everyone is central to our strategy. Our HoD, as she wrote in our 2018 Athena SWAN submission,
+has herself experienced “the insidious effects of being a woman in a male-dominated subject” and
+leads the Department in its commitment to addressing equality and diversity. Institutionally, the
+University supports diversity through a range of initiatives and offers networks for staff and students
+such as the LGBTQ+ Staff network, the BAME Staff Network and SPACE (for those with caring
+responsibilities). In recruitment, diversity is explicitly monitored by the University’s HR team.
+
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+The Department holds an Athena SWAN Bronze award (first received in 2015, renewed in 2018)
+and made great progress between those dates, including doubling the number of female
+academic staff. The Department’s Equality & Diversity Committee prepares the submission and
+implements the action plan. Its members represent all staff groups and roles, a range of
+circumstances (UK/international, different caring responsibilities, etc), and Departmental initiatives
+such as women@CL (see below). The Department has regularly surveyed staff and students to learn
+their views about the challenges they face. Actions include ensuring meetings are timed to be
+compatible with caring/childcare responsibilities and increasing mentoring for postdoctoral staff.
+
+All members of staff – and most PhD students – are required to take the University’s Equality &
+Diversity and Implicit Bias training. This is explicitly checked before they take part in any promotion,
+recruitment, or supervision activity.
+
+Women@CL exists to support women in computing science in their careers and help them aspire to
+leadership positions. It is directed by a committee of postdocs and students, with a member of
+academic staff as liaison; the Department provides administrative support and core funding.
+Women@CL runs networking events and raises the visibility of female role-models with talks where
+women academics discuss their research. It runs local career development workshops and (with
+Oxford University) the Oxbridge Women in Computer Science conference (open to everyone in
+STEM, regardless of gender identity).
+
+Hutchings founded a Departmental LGBTQ+@CL network in 2018, offering meetings and
+resources. One postdoc described it recently as “a really welcome link to the queer community at
+the Lab,” adding: “Cambridge lacks any dedicated LGBTQ bars or cafes, and much of the local
+community is concentrated around the colleges – so for postdocs who are not affiliated to colleges,
+this can lead to feeling cut off from potential community, support networks, etc. The LGBTQ+@CL
+initiative is really good, particularly as a resource for new starters to get to know people.”
+Institutionally, the University LGBT+ Staff Network provides information and support to staff, helps
+coordinate diversity events and helps the University to progress equality.
+
+Though we have further to go, the Department is steadily improving its gender balance. Chairs of
+selection panels have instituted proactive searches for female applicants. The proportion of female
+academic staff rose from 12% at the last REF to 20% now. There were only two female Professors
+at the time of the last REF (one of whom retired shortly afterwards); there are now five. At the current
+census date, 24% of the contract researchers were female and 40% of the Fellows. (This has since
+risen to 55% of Fellows, following the appointment of our Departmental Early Career Fellows.) The
+proportion of female PhD students during this period has fluctuated between 18% and 27%. As of
+the start of the year 2020-21, it is 27.2%.
+
+Following an initial gift in 2018-19 from DeepMind to fund three Masters’ students from
+underrepresented backgrounds (female, and/or BAME), a further gift is supporting three more MPhil
+and two PhD students who started in October 2020. Such philanthropic funding is very welcome: it
+aids our efforts to increase diversity in the Department, and we are actively investigating further
+opportunities with possible donors.
+
+Support for staff and students with disabilities is tailored to their particular needs, with advice from
+the University’s Occupational Health Service (for staff) and the Disability Resource Centre (mainly
+for students, although some resources are also helpful for staff).
+
+Leave, wellbeing and flexible working policies
+
+The Department allows academic staff to organise their own time, giving parents/carers freedom to
+organise their work around their caring responsibilities. We are also flexible in how formally-specified
+hours and days of work are handled. In practice, most computer scientists require little specialist
+equipment so remote working/working from home is commonplace. Where there is need, we will
+supply equipment for home working – including any equipment needed to support staff with
+disabilities, or problems such as RSI – some of which can be purchased with grant money. (During
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+the pandemic, we have supplied office chairs, standing desks and equipment for recording lectures
+to staff.) While most Departmental staff except those whose job requires them to be there at fixed
+hours (e.g., Reception staff) choose to work full-time, around 11% work part-time (16 female, 13
+male).
+
+The University has considerably more generous maternity/paternity/adoption leave provision than
+required by law. Its graduated return to work policy allows staff to return to work for a minimum of
+20% of full-time hours. To support that, we provide breastfeeding and milk refrigeration facilities.
+Additionally, we offer a range of flexible working options: part-time/term-time working, job share,
+compressed or annual hours, flexitime, or staggered hours. The Department also underwrites
+funding for contracts of research staff whose contracts would otherwise finish during their period of
+parental leave.
+
+The Department encourages researchers to use the Institutional Returning Carers’ Scheme, which
+funds and supports return to work and professional development following a career break or leave
+for caring responsibilities. Since 2013, four Department members have used this scheme (Laura
+Rimell, Mateja Jamnik, Noa Zilberman, Poonam Yadav). We are located near two University
+Workplace Nurseries (West Cambridge and Eddington) and benefit from institutional services such
+as a salary exchange scheme to support childcare costs.
+
+The University Counselling Service is available to staff and students: it is expected that counselling
+services will be available in the new West Cambridge Shared Facilities Hub which is very close to
+the Department.
+
+The Department provides a range of social/wellbeing opportunities to promote interactions between
+staff and students, e.g., weekly ‘Happy Hour’ gatherings run by postdocs and PhD students and
+open to all. We have two Wellbeing Advocates. In 2019, they established a committee to formalise
+their remit and more effectively promote wellbeing among staff and research students. The
+committee signposts University initiatives (e.g., its Festival of Wellbeing), promotes Departmental
+ones, and works with the Department’s HR Manager to improve staff processes.
+
+Equality and Diversity in the context of the REF submission
+
+
+The working methods document for the Unit of Assessment includes a section on how its committee
+handled Equality & Diversity (paragraph 13). This was checked by the University's REF secretariat
+and found to conform to the University's policies which themselves have been approved by the
+national REF authorities.
+
+All members of the committee handling the submission for the Unit of Assessment took the
+University's training course on Equality & Diversity Essentials and on Understanding
+Unconscious/Implicit Bias. A further course on Equality & Diversity for REF2021 was taken by the
+Chairman, the Lead for Equality & Diversity, and the Administrator.
+
+The Department's criteria for promotion to Senior Research Associate reflect the REF2021 indicators
+of research independence, so identifying staff with significant responsibility for research was
+straightforward. Discretion was only required for determining the independent status of Research
+Associates who would be eligible for promotion to Senior Research Associate were funding
+available. These were resolved in consultation with the Principal Investigators on whose projects
+they were employed. The affected staff were individually contacted to inform them of these decisions,
+and none of the decisions were challenged.
+
+All eligible staff were invited to nominate outputs for inclusion in the submission. These were
+independently assessed for their originality, rigour, and significance. Outputs were then selected for
+submission so as to best reflect research quality in the Department while complying with the REF
+requirements for the number of outputs from each member of staff and the overall number of outputs.
+
+
+                                                                                             Page 14
+Unit-level environment template (REF5b)
+Staff were notified of the selection, invited to comment and the selection refined in the light of their
+responses. Again, none of the decisions have been challenged.
+
+
+
+
+                                                                                               Page 15
+Unit-level environment template (REF5b)
+
+
+
+ 3. Income, infrastructure and facilities
+
+3.1 Research funding and strategies for generating income
+
+
+
+
+Figure 2: Charts showing comparison of funding sources in 2013-14 and 2019-20, by percentage of
+total value of awards received.
+
+The Department made the strategic decision in 2010 to diversify its portfolio of research funders and
+generate research income by combining public funding with industrial sponsorship and philanthropic
+gifts. Figure 2 (above) shows a comparison of funding sources in 2013-14 and 2019-20, illustrating
+how continuing that strategy has worked well; increasing proportions of our research income now
+derive from the third sector, industry and philanthropy.
+
+Philanthropic funding from industry is particularly valuable because it can be used to balance other
+sources. It has enabled us to admit 20 more PhD students in the last two years and allows us to
+bridge short gaps between research grants for contract researchers. Where research contracts may
+be shorter-term and focus on delivery of specific outcomes, philanthropic gifts free us to pursue
+higher-level goals and help us maintain longer-term academic vision and drive. Our success in
+obtaining substantial and sustained philanthropic donations (e.g., from Nokia Bell Labs and
+Qualcomm) is thanks to a combination of highly proactive engagement by successive HoDs and
+other staff, the excellence of the University’s Development Office, and our reputation for advancing
+the field.
+
+We obtain public funding through responsive-mode applications to UKRI and the ERC via responses
+to specific calls and through personal fellowships. Alongside public funding, we have obtained
+funding from UK government departments (e.g., Digital, Culture, Media, and Sport), charities (e.g.,
+The Leverhulme Trust) and industry (e.g., AstraZeneca, Cambridge Assessment, Facebook,
+Google, and GSK). This period has also seen a considerable increase in funding from overseas
+government sources. This Department is one of very few UK institutions to receive funding from
+DARPA, and this is due to the strong relationship between the Computer Architecture Group (Simon
+Moore, Robert Watson) and SRI International.
+
+
+
+
+                                                                                            Page 16
+Unit-level environment template (REF5b)
+We anticipate this heterogeneity of funding continuing as we proceed with projects across a large
+number of different disciplines. Beyond the constraint of ethical due diligence, academic staff are
+free to choose their research direction and the funding sources they approach.
+
+Our success in obtaining funding is additionally helped by our Departmental Research Strategy
+Team and Finance Office (as described in §3.3), and institutionally by the University’s Research
+Operations Office and Development Office, with whom we liaise closely. New funders in this period
+include Alcatel-Lucent Technologies, Autonomous Surface Vehicles, Cabinet Office, Cambridge
+Consultants, DeepMind Technologies, Hewlett Packard Enterprise Company, Input Output HK,
+Nokia UK, Orange, Raspberry Pi Foundation and Thales UK.
+
+During the current REF period we have obtained substantial industrial funding for major initiatives:
+
+   •   The ALTA Institute received £2.8M from Cambridge Assessment to conduct research into
+       improving the linguistic proficiency of learners and automated forms of assessment of
+       language performance. (Ted Briscoe, Paula Buttery)
+   •   The Centre for Mobile Wearable Systems and Augmented Intelligence is funded by a £1.75M
+       donation from Nokia Bell Labs over five years to explore how to augment and improve the
+       human experience in a digitally connected world. (Cecilia Mascolo, Alastair Beresford)
+   •   The work on OCaml Labs was funded during the period by Jane Street (£4.5M), with other
+       supplementary industry funding. It develops and promotes the OCaml functional
+       programming language as an open-source platform that can be used widely by both industry
+       and academia. (Anil Madhavapeddy, Jeremy Yallop).
+   •   Huawei has given a donation to support PhD students over five years.
+   •   The Accelerate Programme for Scientific Discovery includes funding from Schmidt Futures
+       for four new Departmental Early-Career Academic Fellows. Additionally, the funding will
+       support six PhD students and six postdoctoral research fellowships.
+   •   Donations from ARM and DeepMind Technologies support work in computer architecture
+       and trustworthy systems engineering.
+   •   Additional funds have come from Microsoft for the Cloud Computing Research Centre in
+       collaboration with Queen Mary University of London. (Jon Crowcroft).
+
+The Department is also proud of the number of academic staff who obtain grants from the European
+Research Council (ERC) via its internationally competitive process. In this period, nine ERC grants
+were awarded to staff. They were made at all three levels and across a wide range of research
+projects, underlining the breadth and excellence of the research being conducted here by academic
+staff at all career stages:
+
+   •   ERC Starting Grant (Thomas Sauerwald, 2015; Nic Lane, 2019; Alice Hutchings, 2020;
+       Amanda Prorok, 2020)
+   •   ERC Consolidator Grant (Rafal Mantiuk, 2017; Andreas Vlachos, 2019)
+   •   ERC Advanced Grant (Larry Paulson, 2016; Peter Sewell, 2017; Cecilia Mascolo, 2019)
+
+These grantees were in addition to four existing ERC grant recipients (Advanced Grant, Glynn
+Winskel, 2011; Starting Grants, Stephen Clark, Rob Mullins, Frank Stajano, 2012) whose work
+has enriched our research environment.
+
+Other significant grant awards made by external bodies on a competitive basis include the following
+EPSRC Fellowships:
+
+   •   Early Career Digital Economy Fellowship (Jat Singh, 2017)
+   •   Early Career Fellowship (Hatice Gunes, 2019)
+   •   Senior Turing AI Fellowship (Lawrence, 2019)
+
+
+
+
+                                                                                            Page 17
+Unit-level environment template (REF5b)
+Postdoctoral Fellowships
+
+
+We encourage postdoctoral researchers to apply for relevant fellowships. As a Department, we can
+offer some matched funding for these; the University supports postdocs applying for Leverhulme
+Fellowships – prestigious post-doctoral awards for researchers near the start of their career –
+through matched funding from the Isaac Newton Trust. The following fellowships were awarded:
+
+   •   The Royal Commission for the Exhibition of 1851 (KC Sivaramakrishnan, 2015)
+   •   Royal Society University Research Fellowship (Cristina David, 2017)
+   •   Leverhulme Early Career Fellowship (Noa Zilberman, 2016)
+   •   Leverhulme Early Career Fellowship (Ekaterina Shutova, 2015)
+   •   Leverhulme Early Career Fellowship (Franck Courbon, 2017)
+   •   Leverhulme Early Career Fellowship (Martin Kleppmann, 2019)
+
+The first four listed subsequently went on to faculty positions (IIT Madras, January 2019; Bristol,
+January 2020; Oxford, January 2020; Amsterdam, February 2018), the last two remain in the
+Department. Additionally, college stipendiary Junior Research Fellowships, which are highly
+competitive (generally over 100 applicants per place), were awarded to Heidi Howard, Guy
+Emerson and Marwa Mahmoud.
+
+
+3.2 Operational infrastructure
+As outlined in §1.3.2, we established a Research Strategy Team in this REF period to improve the
+way we support researchers at all levels through the research funding lifecycle – as shown here.
+
+
+
+
+Figure 3: Support offered to researchers throughout the research funding lifecycle.
+
+Working with our finance office, the Team leads on research funding and partnerships and liaises
+with colleagues in the University, industry and the third sector to support research, networking and
+collaborations.
+
+
+
+                                                                                           Page 18
+Unit-level environment template (REF5b)
+The Research Strategy Manager promotes prospective funders and collaborators to researchers
+considering a funding application. She recruits relevant panellists (often including researchers who
+have previously secured the same grant / fellowship) to run mock interviews. After the funding award,
+she and the Team assist with knowledge transfer and impact arising from the research, offering
+researchers support in accessing funding for impact. This has helped the Department achieve a high
+success rate for its applications to the University EPSRC Impact Accelerate Account. She also works
+with the Department’s Communications Coordinator to raise the profile of the research and its impact
+to draw the attention of other prospective funders, partners, and beneficiaries. She stays abreast of
+funding opportunities and policies by attending relevant research council meetings and through links
+with the University Research Strategy Office. She and the Research Strategy Team work closely
+with networks / affiliations across the University – in areas including knowledge exchange, funding
+operations and entrepreneurial support – and beyond, e.g., with sector specific networks such as
+Agri-techE.
+
+The Department has received funding for several Knowledge Transfer Fellowships to support
+postdoctoral researchers to spend a year working with an industrial partner to apply the results of an
+EPSRC-funded research project to that business. Examples include TranscenData (2014), ARM
+(three fellowships in total during 2016-17), Smart Cambridge (2017) and the Met Office (2018). The
+Department’s Entrepreneur in Residence is also part of the Research Strategy Team and can offer
+help and advice to researchers when they are looking to commercialise their ideas.
+
+
+3.3 Use of infrastructure for impact activities
+The Department is housed in the William Gates Building – a purpose-built facility providing quiet
+office space, small group offices for PhD students, workshop and lab facilities, lecture theatres and
+a networking area. It houses both researchers and visitors and enables us to host symposiums and
+outreach events, enhancing our external connections and furthering research interaction.
+
+Specialist computing support within the Department is provided by an IT team, in addition to the
+general support offered by the University Information Services. The team provides support for most
+aspects of our research provision ranging from purchase through to installation and maintenance of
+servers, storage, and networking.
+
+The Department’s data centre offers a number of specialist facilities for researchers, including a GPU
+cluster for development of machine learning systems, support for prototyping of novel hardware
+interconnected by high-speed optical networking, a flexible private cloud providing virtual servers,
+and a highly-reconfigurable and monitorable ‘model data centre’ for experimentation on distributed
+systems and novel network architectures.
+
+Individual groups have additional specialised research equipment pertinent to them, usually
+purchased through research grants. The University Information Services' High Performance
+Computing (HPC) clusters are also available to Department members, used in conjunction with
+Departmental GPU and CPU clusters. The HPC is funded partly (27%) by the Department with the
+rest (73%) coming from University funds.
+
+The considerable in-house computing and communication systems are enhanced by the extensive
+network infrastructure provided by the University Information Services; for example, the
+Department’s research has made extensive use of the University’s dark fibre network around the city
+centre.
+
+
+3.4 Benefits in kind
+Beyond our own research software and equipment, our sponsors and collaborators enable us to
+access unique datasets and industrial equipment and assets that greatly assist our research. These
+
+                                                                                             Page 19
+Unit-level environment template (REF5b)
+have included a network simulator from Microsoft, FPGA boards from Xilinx, GPUs from NVIDIA (to
+enable our network traffic research), specialist software from Broadcom and Xilinx, cloud computing
+credits from Microsoft and Google or anonymized service usage datasets (such as one from location
+service company Foursquare Inc, which enabled substantial and unique human urban mobility
+analysis studies).
+
+
+
+
+                                                                                          Page 20
+Unit-level environment template (REF5b)
+
+
+
+ 4. Collaboration and contribution to the research base,
+ economy and society
+
+4.1 Support for research collaborations
+Collaborating with others, and in doing so accelerating the impact of research for all partners
+involved, has been central to the Department’s ethos since Maurice Wilkes and his team built
+EDSAC in 1949 with the aim of creating a general use computer that could benefit as many
+researchers as possible. Today the Department collaborates widely: with academia (locally,
+nationally and internationally), industry, government and third sector organisations.
+
+This is facilitated, as outlined in §1.4, by the freedom academic staff have over the amount and type
+of collaborations they undertake. Additionally, their connections across the Cambridge research
+landscape, through the collegiate system and interdisciplinary networks, also aid collaboration.
+When staff seek to collaborate with external partners, we are deliberately flexible over the models of
+collaboration.
+
+As described in §3.3, our Research Strategy Manager and her Team play a key role in
+enabling/supporting collaborations. The Research Strategy Manager proactively seeks out
+collaborators, is first point of contact for potential industrial / third sector partners who approach the
+Department; and works to find the best alignment between academic research interests and issues
+prospective collaborators are looking to solve.
+
+Collaborations keep our research projects grounded and relevant. To facilitate them, we are flexible
+over allowing visitors from industry / academia to work in the Department for both short and long
+stays. In this REF period, more than 70 staff between them hosted over 700 visitors including
+scholars, investors, and industrial partners. The OCaml Labs project calculates that in 10 years it
+has welcomed over 100 visitors (including industry staff, developers, programmers and academics)
+to help its work on bringing an elegant and precise functional programming language out of obscurity
+and encourage its use in industry. This openness to visitors helped turn Cambridge into a hub for
+the OCaml developer community, which continues to work on the open-source language and further
+its development.
+
+Researchers from Nokia Bell Labs (which funds The Centre for Mobile Wearable Systems and
+Augmented Intelligence) have ‘Visiting Scholar’ status in the Department, giving the company flexible
+access to our teams, enabling them to discuss ideas with PIs here, and directly recruit interns and
+researchers from the Department – a valuable benefit to them.
+
+We use various models of collaboration to sustain longer-term research. For example, with one major
+industry partner we set up a framework agreement, running for five years from November 2019,
+through which they committed to fund research in this Department (plus a division of another
+University Department). Because the contract negotiation was carried out as part of the overall
+framework agreement, rather than on a project-by-project basis, academic staff can apply to the
+resulting pot of research funding through a lightweight application process that is much more
+streamlined than for individual industry grants.
+
+Institutionally, the University’s liberal approach to IP ( §1.4) makes Cambridge a very attractive
+environment for both researchers and collaborators. Additionally, we benefit from infrastructure
+provided by the University. About two-thirds of academic staff (and all students) belong to a
+Cambridge college: these provide extra facilities, including additional funding to support travel and
+other research costs, and accommodation for visiting academics. This helps us host workshops,
+visitors, and meetings with collaborators.
+
+                                                                                                 Page 21
+Unit-level environment template (REF5b)
+
+The Department also benefits significantly from the University’s world-class facilities, such as its
+copyright library. Several researchers collaborate with the Department of Engineering in photonics
+and display technology, with Engineering’s fabrication facilities vital to that research.
+
+
+4.2 Academic collaborations
+The Department engages in numerous academic collaborations locally, nationally and
+internationally, often involving partners in a range of disciplines.
+
+Nationally, this Department was a founding member of The Alan Turing Institute, the UK’s national
+institute for data science and artificial intelligence. Several academic staff spend time there (e.g.,
+Crowcroft as Chair of the Institute’s Programme Committee) and advise Turing PhD students and
+run Turing projects: Buttery has a project around understanding social media and unrest; Crowcroft
+has a project in collaboration with Imperial on providing confidential cloud machine learning
+platforms, and another with the Bill & Melinda Gates Foundation on Trustworthy Digital Identity. Anuj
+Dawar is contributing to foundational work in logic for data science. Wischik works in electrical
+vehicle charging networks.
+
+We continue to forge new national collaborations. In 2020 we teamed for the first time with the
+University of Lincoln on a Research England Ceres Agri-Tech project where Oztireli works with
+academic staff on using data science/AI to boost cereal yields.
+
+Internationally, the Department has had eight years’ joint funding from DARPA, with SRI as the prime
+contractor, to research fundamentally more secure computer systems. This work has been led here
+by Watson and Simon Moore, with a team of over 20 researchers with a broad range of computer
+science skills, enabling work on new processor architecture, hardware prototypes, compiler support,
+operating system porting, and benchmarking of applications. This level of funding has gone beyond
+anything available through standard EPSRC funding mechanisms and has been critical to enable
+hiring a team with the required breadth of skills to undertake the research and compete with top
+universities in the USA. The unusual skills of this team have driven effective industry engagement
+and unlocked significant government industrial funding, as evidenced in the CHERI* case study.
+
+Local collaborations include establishing with the Department of Engineering – supported by
+substantial University funding – ‘The Observatory for Human-Machine Collaboration’ in 2018 for the
+holistic study of the fundamentals of human-machine interaction by putting human and technological
+perspectives on an equal footing.
+
+Lio’s work on machine learning approaches for the analysis of bio-medical data sets has led to
+collaborations with the University Departments of Clinical Neurosciences, Haematology, Oncology,
+Psychiatry, Radiology, and Veterinary Medicine.
+
+Holden has been collaborating with researchers in the Department of Biochemistry since 2012,
+applying Bayesian inference, probabilistic programming and computational learning theory to drug
+design and proteomics.
+
+Mascolo, who works with different domains on the application of mobile sensor technology, is
+currently collaborating with the Department of Clinical Neuroscience on diagnostic methodologies
+for Alzheimer’s disease, and with Psychology on behavioural interventions delivered via mobile
+devices.
+
+
+4.3 Developing relationships with key research users
+We purposefully seek a diversity of partnerships and funding sources for research projects as this
+helps them develop and evolve through several funding cycles. We also involve collaborators from
+                                                                                             Page 22
+Unit-level environment template (REF5b)
+heterogeneous disciplines as bringing a range of perspectives to bear on the research helps keep it
+relevant. Projects that have built long-lasting platforms are detailed in the REMS*, Text prediction
+and feedback* and CHERI* case studies. Such long-term programmes mean we can see research
+through its lifecycle from initial idea, through trial and error, to success, knowledge transfer and
+impact via a spin-out (as from the Unikernels* research), or adoption by a national priority research
+programme (as with CHERI* and the UK Digital Security by Design Challenge), or via a government
+department, as with the Isaac* Learning project and the Department for Education.
+
+Since the last REF, we have demonstrated our ability to build on existing research relationships to
+develop long-term collaborative partnerships with industry. In several cases, by identifying ideas
+arising from initial collaborations, discussing them with partners and agreeing milestones and
+deliverables, we have negotiated larger research contracts with them. Examples include ARM
+(Timothy Jones, Simon Moore, Peter Sewell), Boeing (Beresford), Microsoft Research (Alan
+Blackwell), Google (Hopper) and Samsung (Mullins).
+
+We also have industrial collaborations with many of the technology spin-outs from this Department
+or cognate University departments. We have ongoing and productive engagements with (among
+others) the Raspberry Pi Foundation (Mullins, Alan Mycroft), Cambridge Assessment (Briscoe),
+SolarFlare (Hopper, Andrew Moore, Rice), and Ubisense (Hopper).
+
+Formal collaborations with smaller companies often consist of a joint application for funding to
+organisations such as Innovate UK. In the last three years, Briscoe has had two consecutive
+Innovate UK projects with All Street, who have just launched their first product, and the outputs of
+Gunes’ recent project with ‘Sensing Feeling’ are currently being commercialised.
+
+
+4.4 External engagement mechanisms
+We sustain engagement with our alumni and their businesses (key users of our research) through
+our graduate association, the Cambridge Ring. Members can network with us and each other – e.g.,
+to make new contacts in key sectors, share job opportunities and interact with our students by
+offering student projects. Members are also invited (as are the public) to our keynote research
+outreach event, the annual Wheeler Lecture. Held virtually for the first time in May 2020 due to the
+pandemic, it attracted 350 attendees. In 2019, the Research Strategy Team assumed management
+of the Cambridge Ring and put more membership management structure in place, increased
+communications with alumni and surveyed them to learn more about how the Ring can benefit them.
+Membership has since doubled and we anticipate increased engagement with our alumni.
+
+The Research Strategy Team also manages our Supporters Club – another mechanism for engaging
+with wider audiences. This mixed group of local, national and international businesses, ranging from
+very small to major multinationals, helps support Departmental research through their financial
+donations to the Department, and via networking and industrial opportunities. Supporters’ Club
+income is used for purposes including funding early stage research, as bridge funding for
+postdoctoral researchers, and for outreach activities such as our annual Open Days. Members
+welcome interaction with the Department, including at the annual dinner where they can network
+with academic staff and research students.
+
+We also engage with wider communities and publics through publications. Notable books in this
+period include Martin Kleppmann’s Designing Data-Intensive Applications, translated into six
+languages and selling over 100,000 copies. Java 8 In Action and Modern Java in Action, co-authored
+by Mycroft (with alumnus Raoul-Gabriel Urma and collaborator Mario Fusco), have sold over 30,000
+copies.
+
+
+
+
+                                                                                            Page 23
+Unit-level environment template (REF5b)
+
+4.5 Wider contributions to Economy, Society and Response to
+National and International Priorities
+We have a long history of working collaboratively with large open source and open (or licensed) data
+projects and demonstrating the value of doing so by advancing knowledge, generating academic
+papers and creating jobs. Examples include an open source silicon venture that was incubated in
+the Department before spinning out as a non-profit company. In November 2019 it announced
+OpenTitan, the first open source silicon root of trust, a collaborative engineering project with Google,
+ETH Zürich, Western Digital and other major corporate partners. Other examples include the Isabelle
+theorem prover; CamFort; Automerge; the COVID-19 Sounds App; the Cambridge Cybercrime
+Centre and DELPH-IN (one of the first organisations making open source computational linguistics
+code and data available). This interest in open code and data has extended to an interest in open
+models of academic publishing: Lawrence is Founder and Series Editor of Proceedings of Machine
+Learning Research, a highly active journal that now publishes the proceedings of three major ML
+conferences (UAI, ICML and AISTATS) while being completely free for submitters and with the
+authors retaining copyright.
+
+The Department is eager to see computer science more deeply integrated into society, and to
+promote computing for social good. Examples of work here range from Vlachos’s project on
+Automated Verification of Textual Claims to combat the proliferation of misinformation online, to the
+FEVER (Fact Extraction and VERification) dataset in collaboration with Amazon, and to Giving Voice
+to Digital Democracies (Copestake in collaboration with CRASSH, the University’s Centre for
+Research in the Arts, Social Sciences and Humanities and the Department of Engineering). This
+looks at ethical issues in speech and language technology such as virtual assistants and machine
+translation.
+
+The Department is closely involved with Cambridge Global Challenges (CGC); this University
+Strategic Research Initiative works with partners in developing countries to deliver projects to
+address challenges there. We have hosted CGC members for some years, Blackwell is its Co-
+Director, and from October 2020 CGC is formally ‘housed’ in the Department. Department members
+working on CGC projects include Eiko Yoneki on the BugAlert initiative to shift traditional, labour-
+intensive crop pest detection methods to smart crop monitoring technology. Through CGC, there has
+also been collaboration with Africa’s Voices Foundation, an interdisciplinary humanitarian charity.
+Department member Dr Luke Church is Senior Advisor there, working alongside social scientists on
+projects including (in 2020) supporting the Covid-19 public health response in Kenya.
+
+Many Department researchers (including Ross Anderson, Hutchings, Lawrence and Singh) are
+part of the University’s Centre for Science and Policy, which brings together public policy professionals
+and academics to learn from each other and improve the use of evidence and expertise in public
+policy. During this REF period, 37 members of the Department engaged with Policy Fellows at over
+100 meetings. These included workshops on transport and data policy organised by Mascolo, and
+Crowcroft’s involvement in the Cambridge University Press Data and Policy journal and a Data for
+Policy conference. Similarly, the Trust & Technology Initiative – a University-wide programme led by
+the Department – is a forum for interdisciplinary research exploring the dynamics of trust and distrust
+in relation to internet technologies, society and power.
+
+Along with Raspberry Pi, we pursue multidisciplinary public engagement. In addition to our
+successful collaboration with them on the Isaac* Computer Science platform, there is the
+development of Sonic Pi, the code-based music creation and performance tool. This non-profit spin-
+out from the Department has substantial international impact, attracting a community of 1.5M coders
+and being used in music education initiatives in the UK, Africa and Finland.
+
+Many academic staff work in advancing healthcare, e.g., Lio, Jamnik and Mascolo with clinical
+collaborators to advance the use of systems and machine learning to improve diagnosis and patient
+care in areas from breast cancer to Alzheimer’s disease. Meanwhile, many repurposed their
+research in 2020 to address the pandemic, including Crowcroft and Yoneki’s seminal work on digital
+
+                                                                                                Page 24
+Unit-level environment template (REF5b)
+contact tracing, Lio’s work on machine learning for intensive care patient stay prediction, Mascolo’s
+work on audio-based diagnostics for COVID-19 sounds.
+
+Also responding to the pandemic were academic staff at the interdisciplinary Cambridge Cybercrime
+Centre. Established in 2015 by Richard Clayton with EPSRC funding, it combines expertise from
+this Department and the University’s Institute of Criminology and Faculty of Law and has one of
+academia's largest data sets on cybercrime, used by over 100 researchers at over 30 universities.
+The Centre gathered a mass of data on the surge in pandemic- and lockdown-related cybercrime
+and from July onwards produced weekly briefing papers for policymakers, practitioners and
+academics.
+
+Establishing the Accelerate Programme for Scientific Discovery in 2020 to speed the use of machine
+learning by researchers in other disciplines was a key milestone for the Department and underlines
+our commitment to leverage further impact from research by delivering relevant skills training for
+researchers. In July 2020, we delivered the inaugural ‘Data for Science’ programme to PhD students
+and postdocs in disciplines outside Computer Science (including chemistry, engineering, medicine
+and psychology), helping them learn to apply data analysis to their own datasets.
+
+
+4.6 Indicators of wider Influence, contributions and recognition
+Several staff from the Department serve/have served as government advisors, including:
+
+   •   Hopper in the government’s Innovation Expert Group
+   •   Jamnik as Specialist Adviser to the House of Lords Select Committee on Artificial
+       Intelligence
+   •   Lawrence as member of the government’s AI Council, and on the Committee of the Royal
+       Society DELVE (Data Evaluation and Learning for Viral Epidemics) initiative
+   •   Richard Mortier as Advisor to the Department for Digital, Culture, Media & Sport on Internet
+       of Things, and Internet Protocols
+   •   Anderson as a member of the UK Cybersecurity Policy Working Group and working with the
+       EU Data Protection Board (EU Commission Data Regulator)
+
+Staff elected as Fellows of the Royal Society:
+
+   •   Crowcroft, 2013
+   •   Paulson, 2017
+
+Royal Society Medals:
+
+   •   Bakerian Medal (Hopper, 2017)
+
+Awards:
+
+   •   British Computer Society Lovelace Medal (Anderson, 2015)
+   •   N2 Women Stars in Computer Networking and Communications Award (Mascolo, 2016)
+   •   Herbrand Award for Distinguished Contributions to Automated Reasoning (Paulson, 2017)
+   •   Google Security and Privacy Research award (Beresford, 2018)
+   •   N2 Women Rising Stars in Computer Networking and Communications (Zilberman, 2018)
+   •   Alonzo Church Award (Andrew Pitts, 2019)
+   •   SIGMOBILE Rockstar Early Career Award (Lane, 2020)
+
+Distinguished/Best Paper Awards include:
+
+   •   Crowcroft, A Moore, Watson at NSDI 2015
+   •   A Moore at SIGCOMM 2017
+
+                                                                                            Page 25
+Unit-level environment template (REF5b)
+   •   Prorok at DARS 2018
+   •   Robert Harle at UbiComp 2018
+   •   Mascolo at Ubicomp 2014 and Ubicomp 2019
+   •   Rice at OOPSLA 2017 and ICSE 2019
+   •   Neel Krishnaswami, Yallop at PLDI 2019
+   •   S Moore, Sewell, Robert Watson at ASPLOS 2019
+   •   Hutchings at the Symposium of ECrime 2019
+   •   Krishnaswami at POPL 2020
+   •   Madhavapeddy at ICFP 2020.
+
+‘Test of Time’ Awards:
+
+   •   A Moore at SIGMETRICS 2015
+   •   Hopper at SIGMOBILE 2016
+   •   Mullins, S Moore at ASP-DAC 2016
+   •   Sewell at SIGPLAN 2017
+   •   Lane at SenSys 2018
+   •   Harle at UbiComp 2018
+   •   Marcelo Fiore and Pitts (separately) at LICS Symposium 2019
+   •   The NetFPGA project (led by A Moore) received the ACM SIGCOMM SOSR System Award
+       in 2019
+   •   Marcus Kuhn at IEEE Symposium on Security and Privacy 2020
+
+PhD Student Awards:
+
+The quality of research conducted by our PhD students has been recognised by these awards:
+
+   •   Bhatty, CPHC/BCS Distinguished Dissertation Award 2015
+   •   Bulat, Women Techmakers (formerly Google Anita Borg) Scholarship 2015
+   •   Dolan, CPHC/BCS Distinguished Dissertation Award 2017
+   •   Kumar, ACM SIGPLAN Doctoral Dissertation Award 2017
+   •   Brouwer, Homerton Santander Award for PhD Research 2017
+   •   D’Silva, N2Women Networking and Communications Rising Star Award 2019; VentureBeat
+       Women in AI Rising Star Award 2019; Royal Bank of Canada Top 25 Canadian Immigrants
+       Youth Award 2019
+   •   Grammenos, Distinguished Paper Award at UbiComp 2019
+   •   Emerson and Li, runners up, CPHC/BCS Distinguished Dissertation Competition 2020
+   •   Zhao, Apple Scholarship 2020
+   •   Tailor, Best Paper, WellComp 2020
+
+A number of PhD students/early career researchers have received ‘Top Reviewer’ awards:
+
+   •   Emerson at ACL18/20;
+   •   Cangea for ICML 2020
+
+Most academics serve on programme and organising committees for journals and conferences and
+are called upon as keynote speakers. Many are also visiting faculty at other institutions including in
+this period Lio at Padova, Jamnik at the Centre for the Future of Intelligence, Pitts to Aarhus
+University, Mycroft to IIT Bombay, Buttery as Principal Investigator, Computational Linguistic skills
+training at Makerere University, in collaboration with Andrew Caines and Marek Rei.
+
+Many Department members are fellows of learned societies and professional bodies, including in
+leadership roles, e.g., Hopper as Treasurer and Vice-President of the Royal Society. Fellowships
+include Paulson and Pitts at the ACM; S Moore at the BCS and IET; John Daugman at the US
+National Academy of Inventors. Crowcroft, Mascolo and Pitts have served as Advisory Board
+
+                                                                                             Page 26
+Unit-level environment template (REF5b)
+members for the Max Planck Software Systems Institute. Department members also contribute to
+the wider academic community through refereeing publications and acting as members of grant-
+awarding panels (e.g., Copestake, Crowcroft, Mascolo, Pitts, Robinson have served on ERC
+Research Grant panels).
+
+Copestake, Crowcroft, Hopper and Paulson have been on Royal Society University Fellowships
+and Award Committees. (Paulson is currently serving on the Milner Award Committee.)
+
+A number of Department academics are editors of journals, including Lawrence (Action Editor for
+the Journal of Machine Learning Research; Series Editor of the Proceedings of Machine Learning
+Research), Pitts (Area Editor for logic and computation for the Journal of the ACM, founding Editor
+of Forum of Mathematics, Pi and Sigma (CUP) until 2017), and Gem Stapleton, Co-Editor-in-Chief
+of the Journal of Visual Languages and Sentient Systems, and Editorial Board member for the
+Journal of Visual Languages and Computing.
+
+
+
+
+                                                                                          Page 27
+

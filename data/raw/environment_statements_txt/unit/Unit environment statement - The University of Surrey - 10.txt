@@ -1,0 +1,929 @@
+Unit-level environment template (REF5b)
+ Institution: University of Surrey
+
+ Unit of Assessment: UOA 10 Mathematical Sciences
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1. Organisation and structure of the Unit
+
+ The Department of Mathematics (DoM) is a thriving centre of expertise in dynamical systems,
+ partial differential equations, nonlinear waves, geometry, data science, and their applications. Its
+ backbone is an outstanding group of staff, who have excellent international profiles and publish in
+ top-ranking journals. The DoM has a strong track record in creating and sustaining research
+ partnerships, integrating PhD students and early career researchers into the department, and
+ driving staff development via University promotions.
+
+ Research programmes are invariably inspired and nurtured at the level of individuals, but broader
+ agendas, representing critical masses of activity, are embodied in the DoM’s five research groups;
+ Mathematics of Life and Social Sciences, Dynamical Systems and Partial Differential Equations,
+ Nonlinear Waves and Geometric Fluid Dynamics, Fields, Strings, and Geometry, and Data
+ Science and Dynamics. Some academics integrate their research across more than one group.
+
+ Mathematics of Life and Social Sciences (MoLSS)
+ Much of the research is interdisciplinary and group members typically collaborate closely with
+ researchers and practitioners in biology, ecology, sociology, and medicine from a range of
+ universities, research institutes and industries (see Section 4.2). MoLSS uses an exceptionally
+ broad range of mathematical techniques, encompassing the full range of current applied
+ mathematics, including dynamical systems and stochastic/statistical approaches in a combination
+ of life and social sciences settings, which has expanded considerably since REF2014. The work
+ spans a wide range of applications including developmental biology and tissue morphogenesis,
+ epidemiology and ecology, sleep and circadian rhythms, systems pharmacology, design of
+ experiments and data science. A notable development since REF2014 has been the interaction
+ with the new School of Veterinary Medicine, whose purpose-built facility was opened in 2015. The
+ activities of the MoLSS group are aligned with Lifelong Health, a university strategic research
+ theme established in August 2019, and with the university-wide Centre for Mathematical and
+ Computational Biology. A more recent development has been the creation of the Surrey Centre
+ for Criminology, which is a joint venture between the DoM and Sociology.
+
+ Dynamical Systems and Partial Differential Equations (DSPDE)
+ Research in this area spans topics in analysis from pure to applied. On the pure side, topics
+ include ergodic theory, functional and fractal analysis, and the rigorous analysis of ordinary and
+ partial differential equations (PDEs). On the applied side, methods are used to analyse PDEs in
+ various contexts such as nonlinear elastostatics, pattern formation, dispersive waves, Navier-
+ Stokes equations, delay equations and liquid crystal theory. Analysis on unbounded domains is of
+ particular interest. Among DSPDE's current research interests are:
+     • Quasiconvexity, elasticity and the calculus of variations
+     • Interaction of patterns
+     • Qualitative analysis of dissipative partial differential equations
+     • Interactions of fronts with localised inhomogeneities: existence and stability
+     • Hamiltonian systems with symmetry
+     • Time semidiscretizations of semilinear PDEs.
+
+ Nonlinear Waves and Geometric Fluid Dynamics (NWGFD)
+ The main themes are geometric mechanics, geophysical fluid dynamics, hydrodynamic stability,
+ water waves, wave fronts and nonlinear patterns. NWGFD focuses on large scale environmental
+ fluid flows such as atmospheric flows, oceanic flows, and plasma dynamics. Methodology includes
+
+                                                                                              Page 1
+Unit-level environment template (REF5b)
+ analysis, geometry, numerics and data analytics. A key area that is attracting attention
+ internationally is data assimilation and its application to weather, crime modelling (an overlap with
+ MoLSS), climate, and carbon budgeting. This area includes key links with both the National
+ Physical Laboratory (NPL) and UK Met Office. In water waves, the University is now a leading
+ centre for sloshing and its applications, and this area forms the basis for the analysis of wave
+ energy extraction devices, joint with industry (OWEL, ITPower Ltd). These examples (data
+ assimilation and sloshing) exemplify where both core mathematics and interdisciplinarity are
+ important. Other links include the Advanced Technology Institute, the Centre for Environment and
+ Sustainability, and EnFlo, all at Surrey; the NERC National Centre for Earth Observation (NCEO)
+ and the NERC DTP SCENARIO (SCience of the Environment: Natural and Anthropogenic
+ pRocesses, Impacts and Opportunities), with Reading.
+
+ Fields, Strings, and Geometry (FSG)
+ This group was formed in 2011-12 and has since expanded and flourished. Group members are
+ primarily interested in fundamental aspects of quantum field theory, string theory, general
+ relativity, and in the interplay between mathematics and physics. It is the synthesis between
+ theoretical physics and mathematics that forms the foundation of FSG's research. The key
+ strengths of this group are a high international profile and excellent outputs. The interests of the
+ FSG group encompass differential geometry, black holes, integrability, twistor theory, categorified
+ differential geometry and string theory phenomenology. Published papers number about 100, with
+ 1800 citations. FSG is part of a network of six mathematical physics groups (Cambridge, City,
+ Hertfordshire, Kent, Kings College and Surrey) running the LMS funded seminar series South-
+ East Mathematical Physics Seminar (SEMPS). Surrey has organised two events so far (2015 and
+ 2018). FSG and the Theoretical Physics group at the University of Milano- Bicocca (UNIMIB) have
+ strong collaborative ties, which created the stimulus for a new International Dual Doctorate
+ between the DoM and UNIMIB. A major ERC fellowship grant was awarded in 2014 to Pasquetti,
+ who moved to UNIMIB in 2016, but continues to collaborate with FSG via a Visiting Professorship.
+
+
+ Data Science and Dynamics (DSD)
+ This is a new group, formed in 2019. The DoM made strategic appointments (Brody (2018) and
+ Klus (2020)) to enhance both research and teaching activities in mathematical data science.
+ These appointments complement the existing expertise of Aston, Santitissadeekorn and
+ Roulstone. These additions will enhance research in mathematical data science, together with the
+ development of new taught courses (particularly at master’s level).
+
+ Among the new collaborations established during the REF period is a partnership with NPL. This
+ arose from the strategic alliance, established in 2015, between Surrey and Strathclyde, and what
+ is now the Department of Business, Energy and Industrial Strategy (BEIS). The DoM and NPL
+ agreed to establish a joint appointment, which is designed to enhance expertise in mathematical
+ modelling and data science, particularly methods of analysis of “big data”. NPL invests in data
+ science to enhance confidence in data and to address the scientific challenges that arise in all
+ areas of society -- manufacturing, energy and environment, life and social sciences, health and
+ wellbeing. In particular, NPL is expanding its research portfolio in data analytics to develop a
+ mathematical, statistical and computational capability to improve our understanding of the world
+ from measurement data. The role of the joint appointment (held by Aston) is to develop and lead
+ projects in these areas, and to foster new collaborations with industry and academia within the UK
+ and internationally.
+
+
+
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ 1.2. Research Objectives, Strategy and Impact
+
+ In 2017 the DoM conducted a five-year strategic review, and the leading mission statement
+ captured the over-arching objectives: “To exploit our expertise, as one of the UK’s long-
+ established research centres in nonlinear mathematics and dynamical systems, in the
+ advancement of fundamental mathematics and its applications to engineering, physical, life and
+ social sciences. To sustain our reputation for excellence in teaching through a lively, innovative
+ and stimulating learning environment, thereby preparing our graduates for a numerate career and
+ providing them with excellent employment prospects. To capitalise on our demonstrable and
+ fundamental achievements in mathematics for collaboration across all faculties by bringing added
+ value to the pursuit of the University of Surrey’s strategic goals”.
+
+ Since 2014, the DoM has pursued the following goals with regards to research strategy and
+ impact:
+    •   Enhance the portfolio of research projects via strategic collaborations across the
+        University, and with external partners, to create critical mass in key themes, thereby
+        bringing added value to strategic investment at university level.
+    •   Expand our interdisciplinary expertise to align the DoM with the priorities of the
+        University and allow members of the DoM to maximise opportunities to extend
+        collaborations within Surrey and beyond.
+    •   Increase research grant income to support core mathematics and collaboration within
+        research themes at the University of Surrey and with partners such as NPL.
+    •   Enhance PGR (postgraduate research) funding via new opportunities for partnerships in
+        doctoral training via activities in which we can contribute to critical mass, within the
+        University, nationally, and internationally.
+    •   Continue to focus on sustaining the excellence in our core areas (as demonstrated by
+        the examples in Section 4 below). To achieve this, we have recruited strategically into key
+        areas such as data science.
+    •   Nurture and recognise impact by working closely with the University via the Impact
+        Acceleration Account and via strategic partnerships.
+
+ Among the key targets of the 2017 plan, to achieve by 2022, were:
+    •   A significant portfolio of interdisciplinary research collaborations, acting as a source of
+        external funding (over and above EPSRC/NERC/STFC) and contributing to impact case
+        studies (status: several established and others ongoing)
+    •   New undergraduate and postgraduate programmes in data analytics and applications
+        (status: programmes developed and commencing 2022)
+    •   An elevated national and international profile evidenced by co-authorship of papers,
+        research partnerships, plenary talks at international conferences, and student exchanges
+        (status: positive progress made and activity rapidly increasing)
+    •   Establish three permanent teaching-only posts, thereby creating more research time for
+        lecturers (status: completed)
+
+ Since 2017, new partnerships have been established with NPL, Surrey Centre for Criminology,
+ School of Veterinary Medicine, Surrey Police, Public Health England, Transport for London, utility
+ companies (e.g. Scotia Gas Network), and SMEs in the University research park and beyond.
+ These collaborations are starting to lead to future impact and grant initiatives, and the joint
+ professorial position with NPL is part of this broad agenda. Meanwhile, existing partnerships
+ continue to thrive and underpin our current impact. Among these partners are the Surrey Sleep
+ Research Centre, the pharmaceutical industry (AstraZenica), and the Met Office.
+
+ A new MSc in data analytics and applications will commence in 2022, and our PGR programme
+ is enhanced by a new international dual doctorate with the University of Milano-Bicocca. The
+ SCENARIO (NERC DTP) run by Reading and Surrey, which includes the departments of
+
+
+
+                                                                                            Page 3
+Unit-level environment template (REF5b)
+ Mathematics, Civil and Environmental Engineering, and Centre for the Environment and
+ Sustainability at Surrey, was funded for its second five-year period.
+
+ Sustained RG&C income (£4.3M) and over 325 outputs, with in excess of 68% produced with a
+ national or international co-author, have resulted from the successful implementation of our
+ research strategy over the REF period.
+
+ 1.3. Faculty and University research support structures
+
+ The Head of Department (HoD), Director of Research (DoR), and Impact Champion, are
+ responsible for defining strategic aims and coordinating the research programmes within the DoM.
+ This activity is monitored and discussed at Faculty level by the Faculty Research Committee and
+ the Faculty Research Strategy Group, whose membership is drawn from HoDs and DoRs. These
+ groups are chaired by the Dean of Faculty, and provide a bridge between departments and the
+ University Executive Board. The Pro-VC for Research and Innovation makes regular visits to all
+ departments and developing the University’s research strategy is a collective effort.
+
+ The Innovation Strategy Directorate have teams that work with university departments to help
+ generate impact from research. As well as managing intellectual property matters (patents and
+ licences) and supporting University start-ups and spin-outs (the Technology Transfer team), there
+ is a Partnerships team that manages schemes such as the EPSRC Impact Acceleration Account
+ (IAA). During this REF period, the DoM has received 12 grants from the IAA, totalling £201k, with
+ matching funding from industrial partners worth £182k. Among our collaborators are the Surrey
+ Police, Papworth Hospital, CrossRail (TfL), Ford Motor Company, the US Army Medical Research
+ Institute, and the Royal College of General Practitioners.
+
+ 1.4. Strategic priorities
+
+ The research groupings will continue to act as key mechanisms for ensuring that strategic aims
+ are achieved (see above). The Head of Department (Derks) in collaboration with the Director of
+ Research (Skeldon) and Group Leads (Lloyd (MoLSS), Zelik/Bevan (DSPDE), Gutowski (FSG),
+ Bridges/Turner (NWGFD), Brody (DSD)) will ensure that these aims are reviewed and reflect on
+ internal and external factors, ultimately ensuring the DoM continues to provide a sustainable
+ environment producing world-leading research.
+
+ The key enablers include:
+    •   Targeting appointments to maintain a balance between core mathematics and
+        applications.
+    •   Supporting and encouraging staff to make use of funding opportunities for impact, e.g. IAA.
+    •   Targeting use of reduced teaching load/sabbatical (see Section 2) to give staff time to
+        develop new programmes and industrial contacts.
+    •   Emboldening staff to engage and develop new networks, creating critical masses of activity
+        in key disciplines, thereby gaining traction in terms of research funding (e.g. Centre for
+        Criminology, Surrey Sleep Research Centre, EPSRC Networks (see Section 4)).
+
+
+ 1.5. Open research culture and ethics
+
+ The Department culture emphasises transparency, open communication and making research
+ findings available to other researchers and the public. Since 2014, staff throughout the Department
+ have uploaded 402 items in the University’s repository, which have been accessed over 93,400
+ times. It also ensures research is undertaken within ethical and legal requirements, drawing on
+ support and guidance offered by the University Ethics Committee and Research Integrity and
+ Governance Office.
+
+
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+ 2. People
+
+ The Department’s current Category A eligible staff includes two Lecturers, four Senior Lecturers,
+ nine Readers, eight Professors, and one STFC Rutherford Research Fellow. All of these are
+ permanent posts.
+
+ Four Category A eligible staff have joined the Department since 2014, including two lecturers
+ (Klus, Santitissadeekorn), one Professor (Brody) and STFC Rutherford Fellow (Hanada). Further,
+ Gutowski held a STFC Rutherford Fellowship in the DoM from 2012 to 2016, whereupon he was
+ appointed to a permanent position as Reader.
+
+ 2.1. Staffing strategy
+
+ Since REF2014 the DoM has prioritised recruitment in key areas to support the research agenda,
+ while utilising strategic partnerships to augment collaborations. The professoriate recognises and
+ promotes leadership potential to ensure the long-term vitality of the Department. Over the REF
+ period mentoring, managing, training, promoting, and the provision of sabbaticals, have all been
+ instrumental to ensuring the DoM has a supportive staff environment. The academic staff comprise
+ 11 different nationalities. For line management, all academic staff and the administrator report to
+ the HoD. PDRAs report to a member of academic staff, normally the principal investigator or co-
+ investigator on the research project on which they are employed.
+
+ At department level, equality of opportunity is promoted effectively and applies to all research
+ activities including bidding, conference attendance, promotion, and flexible/remote working. For
+ example, all meetings are held between the core hours of 10am and 4pm and the University
+ flexible work policy considers a wide range of arrangements (including part-time working, term-
+ time working, job-sharing, annualised hours and additional planned unpaid leave).
+
+ The DoM was granted (summer 2020) an Athena Swan Bronze Award. An Implementation Team
+ has been formed and among the actions planned, we are aiming to:
+    •   increase the numbers of female students at all levels by improving the appeal of
+        recruitment and admissions processes to women applicants
+    •   maximize women’s promotion and career prospects by creating a supportive and
+        welcoming work environment, which better respects gender equality within the DoM
+    •   identify and support high-performing female undergraduates, raising their awareness of
+        opportunities for further study, including at PhD level.
+
+ In 2014 the DoM had only one member of staff on a permanent teaching-only contract, and now
+ has four (3.3FTE) posts with this type of contract, who play a crucial role in freeing research time
+ for other colleagues and ensuring top-quality research-led teaching. To ameliorate imbalances
+ between individual responsibilities, revised job descriptions of key managerial roles were agreed,
+ which resulted in a more equitable division of labour. Our female colleagues are well-represented
+ in these roles (including the current HoD and DoR), but without over-burdensome commitments.
+ Two members of REF eligible staff have taken maternity leave during the latest REF period. One
+ member of staff returned to full time working in January 2014, having previously been part-time
+ for many years; she has subsequently been promoted to Reader (2015) and Professor (2018).
+ Another member of staff took one period of maternity leave (Sept. 2015-April 2016); and has since
+ been promoted to Senior Lecturer.
+
+ The DoM paid full regard to equality, diversity and inclusion in the construction of the REF2021
+ submission. Output selection adhered to guidance set by the University’s REF2021 Team.
+ Membership of the output selection panels included suitable representation from across the areas
+ of speciality within the UOA and took account of the population characteristics of the UOA.
+ Membership was reviewed by the Equality, Diversity and Inclusion (ED&I) Working Group ahead
+ of scheduled meetings and all attendees completed REF2021 ED&I training. A member of the
+ REF2021 Team was present at all output selection meetings.
+
+                                                                                              Page 5
+Unit-level environment template (REF5b)
+
+ The Department remains committed to advancing equality and diversity. Members of the
+ Department have taken up leadership roles within Faculty and University equality initiatives, for
+ example Bridges sat on the REF 2021 Staff Circumstances Committee.
+
+ 2.2. Staff Development
+
+ The Department considers its collegial environment and approach to the development and support
+ of staff as crucial to sustaining a thriving research culture, and utilises institutional development
+ opportunities, such as dedicated research time and staff development courses.
+
+ A total of 23 staff promotions have occurred in the period, including five to Professor and nine to
+ Reader. Female staff have been promoted to Professor (2), Reader (3), and Senior Lecturer (1).
+ The gender balance of the department is broadly in line with the sector but as recruiting
+ opportunities present themselves, we will aim to augment the proportion of women.
+
+ Research time is built into a transparent workload allocation model (WAM). Where research time
+ is specified in funding applications, this is also built into the WAM irrespective of whether the funder
+ directly covers overheads or salary costs. The Department continues to operate an informal
+ sabbatical system and all academic staff (part-time and full-time) are eligible for one semester
+ of research leave every five years. All staff have an annual appraisal with their managers which
+ focuses on progress towards meeting targets and career development. Colleagues within the
+ Department are also invited to attend mid-year reviews to discuss progress against targets, and
+ to have one-to-one meetings with the DoR. As noted in the Concordat to Support the Career
+ Development of Researchers, promoting good mental health and wellbeing is a core component
+ of good research. During the assessment period the Department established the role of ‘wellbeing
+ officer’ who ensures that colleagues are aware of wider support mechanisms.
+
+ Mentoring is a key part of the staff development process for new appointments. New lecturers are
+ assigned a senior colleague as a mentor, and appraisals are conducted by the senior colleague
+ and the HoD. Annual targets will typically include a first grant application and recruitment of a PhD
+ student, and to support the pursuit of these targets, light teaching and administrative loads are
+ given to new staff. New professors are given a start-up fund (which will include discretionary
+ research and travel funds, computing facilities, and internally-funded PhD students).
+
+ The Department proactively supports staff in carrying out research and achieving impact. All new
+ bids have to be approved and logged at Faculty level, and signed off by the HoD. Depending on
+ the amount of resource requested, formal or informal peer reviews are carried out. Importantly,
+ detailed discussions take place at an early stage if a proposal includes extended leave from the
+ Department. To facilitate research networking, both within the UK and overseas, the DoM provides
+ a modest travel budget for all staff, supplemented by the Faculty Research Support Fund.
+
+ In addition to regular staff meetings to discuss routine departmental business, away days are held
+ on an annual basis to discuss strategy and policy for research and teaching. These events
+ facilitate the sharing of best practice and raise general awareness of challenges and opportunities
+ facing the department.
+
+ 2.3. Recruitment
+
+ As a strategic appointment to strengthen data assimilation, especially in meteorology and crime
+ modelling, Santitissadeekorn was appointed to a lectureship in August 2014. He came with a PhD
+ from Clarkson University and nearly six years of postdoctoral experience at universities in
+ Australia and the USA. He is co-author of the SIAM monograph Applied and Computational
+ Measureable Dynamics which establishes his reputation in bridging the gap between dynamical
+ systems, data analysis and machine learning.
+
+
+
+                                                                                                  Page 6
+Unit-level environment template (REF5b)
+ Brody (formerly Brunel) joined in April 2018. Brody’s wide-ranging interests include geometry,
+ information theory, quantum foundations, the Riemann hypothesis and mathematical finance.
+ Brody is a Visiting Professor at Imperial College London and at St Petersburg National Research
+ University of Information Technologies, Mechanics and Optics. He is a Fellow of the Institute of
+ Physics. Since joining Surrey, Brody has become a founding member of the newly created Centre
+ for Quantum Foundations. This is a joint venture between the Physics and Mathematics
+ Departments initiated by Al-Khalili OBE FRS in Physics, with Brody leading the Mathematics
+ contribution.
+
+ Gutowski held a STFC Ernest Rutherford Fellowship in the DoM from 2012-16, and was then
+ appointed to a permanent position as Reader.
+
+ Hanada, formerly Southampton University and a pioneer in the numerical study of gauge theories,
+ joined us in April 2020. Hanada holds a Rutherford Fellowship (10/2018 – 10/2023)
+ “Computational Approach to Quantum Gravity via Holography” (£447k). This post is destined to
+ become permanent at the end of the fellowship.
+
+ Klus (formerly FU, Berlin) joined as a lecturer in July 2020. This appointment strengthens the
+ department’s expertise in a number of areas including data driven model reduction, molecular
+ dynamics, tensor decompositions, graph theory and high-performance computing.
+
+ 2.4. Utilising strategic partnerships to expand collaboration
+
+ The Department encourages exchanges between academia, business and industry. Over the
+ assessment period we have increased the number of Visiting Professors and Visiting Researchers
+ in the Department and facilitated staff secondments (see Section 4). The Visiting Professors are
+ Gentile (Roma Tre), E Godolphin (formerly Royal Holloway), Lorenc (Met Office), Pasquetti and
+ Penati (Milano-Bicocca), Timokha (NTNU), and A White (formerly Met Office). Pasquetti and
+ Penati are key partners in the International Dual Doctorate that the DoM runs with Milano-Bicocca.
+ Lorenc, Timokha and White have contributed to research and impact in NWGFD; Gentile and
+ Godolphin have contributed to research in DSPDE and MoLSS, respectively.
+
+
+ 2.5. Early Career Researchers
+
+ Working within the framework of the HR Excellence in Research framework, all staff within the
+ Department are offered a mentor/senior colleague and encouraged to meet with them at least
+ twice a year. ECRs are encouraged to use their mentor for peer review of papers and research
+ proposals. Peer feedback is required of all grant applications prior to submission and many staff
+ act as peer reviewers, reinforcing the transfer of expertise between more experienced staff and
+ ECRs. Where a grant is unsuccessful, colleagues are invited to discuss this with senior colleagues
+ and the DoR (for both support and advice on where else to target). Evidencing the success of
+ these strategies, since REF2014 colleagues have had considerable success in securing fellowship
+ and development grants at an early career stage (see Section 3).
+
+ More informally, the Department continues to encourage more established staff to collaborate with
+ early career colleagues, including Research Fellows and PhD students, in submitting bids and
+ writing journal articles. Two former ECRs were recruited by Exeter and Hertfordshire as lecturers,
+ and another is now a scientist at NPL.
+
+ 2.6. PGRs
+
+ Currently the Department has 22 students registered for a doctoral degree (20 full-time and 2 part-
+ time), and co-supervision of students in other departments at the University is undertaken as part
+ of collaborative projects (e.g. Skeldon co-supervises two PhD students with the Surrey Sleep
+ Research Centre director Prof Dijk). Recruitment is governed by a postgraduate research
+ admissions policy which makes clear that the University is committed to equality of opportunity.
+
+                                                                                             Page 7
+Unit-level environment template (REF5b)
+
+ The PGR programme in the DoM is managed by the PGR Director (PGRD). The PGRD is
+ responsible for overseeing recruitment, admissions, research training, transferable skills training,
+ progress monitoring, PhD confirmation examination, fundraising, and the overall welfare of
+ students within the DoM. The Faculty PGR Committee reports to the University’s Doctoral College
+ (DC) Board, chaired by the Director of the DC. Awards are confirmed at Senate Progression and
+ Conferment Executive.
+
+ The DoM recruits PGRs through PGR Open Days, organised by the Department and the Faculty.
+ Project-specific adverts are placed on jobs.ac.uk, findaphd.com, and on the DoM’s website.
+ Internal targeting of excellent students and contacts at other institutions aid the recruitment drives.
+ Application and admission of research students are subject to the University's Equality and
+ Diversity Policy, the associated Code of Practice for Students and the University Student Disability
+ Policy. Prospective students are interviewed prior to admission, with the use of video-link
+ technology as appropriate.
+
+ All PGR students are members of the DC. The recruitment and progression monitoring of PhD
+ students is carried out via the Surrey Self-Service system (SITS). The students, along with their
+ supervisors and co-supervisors, complete progress reports on a six-monthly basis, and these are
+ checked and signed off by PGRD before being submitted for approval at Faculty level. All students
+ undergo a formal assessment within the first 12 to 15 months in order to have their status as a
+ PhD student confirmed. The DC also coordinates a range of training modules and runs an annual
+ flagship event for the University’s PGR and ECR community. Additionally, the DC also runs a
+ scholarship competition and an internal PGR conference.
+
+ Thirty PhD students have graduated during the REF period, and of these nine have proceeded to
+ postdoctoral positions. The supportive research environment at Surrey significantly benefits PGR
+ students, and has also assisted with the supervision of a graduate student with complex
+ neurodiversity requirements.
+ Several PhD students have been nominated and awarded prizes at Faculty and University level,
+ and beyond. In 2016 the Faculty PhD Student of the Year award went to DSPDE student
+ Kostianko. PhD student Ratliff (NWGFD) was awarded Faculty and University PhD student of the
+ year in 2017. Lyle (MoLSS) won the JRSM Cardiovascular Disease Young Investigator of the Year
+ Award. Hill (DSPDE/NWGFD) has been nominated for the 2021 IMA Lighthill-Thwaites Prize.
+ Recognition for our PGR students beyond the university is evident from the invited presentations
+ by Solowiej-Wedderburn and Lyle at STEM for Britain events in the Houses of Parliament.
+
+ SCENARIO (NERC DTP) students are hosted by the University of Reading, the University of
+ Surrey, the Centre for Ecology and Hydrology, the British Geological Survey and the Institute of
+ Zoology. Their projects involve a wide range of industry and public sector partners.
+ “SCENARIO@SURREY” students benefit from cohort-building events and programmes at both
+ Surrey and Reading.
+
+ Research students receive subject specific and generic training. For subject specific training,
+ students are sent on the intensive one-week courses organised by LMS & EPSRC, the MAGIC
+ consortium courses via video link, as well as internal training courses organised during the period.
+ The DoM runs an MSc in Mathematics, which provides further training for current PhD students,
+ and a forum for sharing staff expertise. A new MSc in Mathematics for Data Science will
+ commence in autumn 2022 and draws very naturally on the many Level 6 and 7 modules on
+ dynamical systems and applications, in addition to new bespoke modules being created for the
+ MMath and MSc.
+
+ The DoM has consistently performed well in PRES, scoring 100% satisfaction for a number of
+ years (and 91% running average over 5 years). The University ranked 7th in the first PRES league
+ table released in 2020.
+
+
+
+                                                                                                 Page 8
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+
+ Over £4.3M in income was generated over this REF period, with all Category A staff having had
+ successful bids.
+
+ 3.1. Income strategy and coordination
+
+ A key element of the DoM’s strategy to augment research income is to network with other groups
+ within the university, and with other institutions, in order to create programmes with critical masses
+ of activity. This increases leverage and facilitates bids for significant levels of funding. This has
+ been successful over the years and resulted in awards such as MILES, ERIE, NCEO, SCENARIO
+ DTP, and other grant awards listed below.
+
+ Since 2014, colleagues within the Department have received support from a Research Facilitation
+ Officer (RFO, employed by the University) keeping staff informed of opportunities as and when
+ they arise. Funding bids must undergo formal peer review, as part of institutional quality assurance
+ measures, if:
+ - The PI has not been awarded a successful grant as PI over the past 3 years
+ - It is an EPSRC New Investigator Grant
+ - The value of the proposal to Surrey is over £500k FEC
+ - The HoD/C requires that the proposal has a formal peer review.
+ Informal mechanisms are also in place to help staff as all colleagues are offered a mentor and are
+ encouraged to use this person for informal discussions and review prior to submitting their
+ proposal. This system has proved particularly useful for early career colleagues as evidenced by
+ successes – Dunlop: £96k EPSRC First Grant: Modelling the mechanics of epithelial sheets on
+ soft substrates: nonlinearity, feedback, and dissipation; Morris: £92k EPSRC First Grant:
+ Distributional analysis of GCD algorithms via the ergodic theory of random dynamical systems;
+ Santitissadeekorn: £101k EPSRC First Grant: Data assimilation and forecasting for urban crime
+ models.
+
+ A key component of our strategy for generating grant income has been encouraging and
+ supporting colleagues to build interdisciplinary research applications. Examples include Gourley:
+ £45k from Leverhulme Trust, Research Fellowship for 2014-15 providing teaching and
+ administration buy-out. Project: Larval competition and its intriguing role in malaria spread; Tronci:
+ £253k from Leverhulme. Project: From geometry to kinetic-fluid systems (and back); Gourley (Co-
+ I): £560k from Medical Research Council. Project: Zoonotic transmission of intestinal parasites:
+ implications for control and elimination. PI: Martha Betson (School of Veterinary Medicine, Surrey).
+
+ 3.2. Research income
+
+ Since 2014, colleagues have received competitive awards from the ERC, STFC and EPSRC,
+ amongst others.
+
+ Significant grants:
+
+ Consolidation grants of £296k from STFC to the Fields, Strings and Geometry Group. Project:
+ Fundamental Implications of Fields, Strings and Gravity. Grant, Gutowski, McOrist, Pasquetti,
+ Torrielli, Wolf. Two STFC Advanced Fellowships (£857k) for Gutowski and Hanada, and three
+ JSPS grants (£106k).
+
+ Pasquetti (left in 2016 for Milano-Bicocca): £1.03m from ERC, five-year starter grant: Holomorphic
+ Blocks in Quantum Field Theory: New Constructions of Exact Results.
+
+ Morris: £268k from Leverhulme: Lower bounds for Lyapunov exponents.
+
+ Zelik: £385k from EPSRC: Finite-dimensional reduction, inertial manifolds, and homoclinic
+ structures in dissipative PDEs (joint with ICL).
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+
+ Torrielli was awarded an EPSRC-SFI standard grant “Solving spins and strings”, jointly with De
+ Leeuw (Trinity College Dublin). The total value to Surrey is £488k, with a commensurate amount
+ from SFI to Trinity College.
+
+ The Leverhulme Trust awarded Cheng (PI) a four-year grant (£281k) in 2017 “Mathematical
+ analysis of near resonance in the physical world of finiteness”, with co-applicants Wingate
+ (Exeter), Mahalov (Arizona State), and Schochet (Tel Aviv). Cheng (co-I), with Wingate (PI) and
+ Cotter (co-I, ICL), were awarded £850k from EPSRC in 2018 for “On the way to the asymptotic
+ limit: mathematics of slow-fast coupling in PDEs”. These projects employ mathematical analysis
+ to explore finiteness of small physical parameters and its effects on resonances for systems of
+ nonlinear partial differential equations modelling multi-dimensional geophysical fluid dynamics.
+
+ NERC, via NCEO, have funded a PDRA in the Department (Co-I Roulstone) from 12/08 to 03/20.
+
+ Tronci: Fellowship from the Alexander von Humboldt Foundation in Germany, paying for salary
+ and expenses for a 10 month visit to the Max Planck Institut für Plasmaphysik.
+
+ In his capacity as a Visiting Professor, Brody applied (via St Petersburg National Research
+ University of Information Technologies, Mechanics and Optics) for two research grants from the
+ Russian Science Foundation (as sole PI), both of which were successful: (1) “Quantum Computing
+ and Non-Hermitian Quantum Theory” (Contract: 16-11-10218, Value: £157k, Duration: 2016-
+ 2018); (2) “Quantum Navigation for Open Systems” (May 2020; same value; but due to Covid-19
+ the awarding process is on hold).
+
+ The DSPDE group is to become part of an EPSRC network (£55k) grant ‘Generalised and Low-
+ Regularity Solutions of Nonlinear PDE’, which is led by Bath. Surrey is a part of the south-east
+ node (Reading, Sussex, Surrey). The application was made by Moser and Matthies (Bath), and
+ includes Heriot-Watt, Edinburgh, Warwick, Oxford, Cambridge, Cardiff and Swansea. The grant
+ runs for three years from July 2021.
+
+ Conference Contributions
+
+ 1 Galileo Galilei Institute, Florence, Conference Grant (£150k)
+ 1 EPSRC/LMS Durham Symposium Grant + 1 EU Cost Action Conference Grant (£9k + full board
+ for 50 participants), Durham.
+ 1 Clay Institute Conference Grant (£18k) in Oxford
+ 1 LMS Conference Grant (£4.4k) in Kings College London
+
+ Infrastructure and Facilities
+
+ The Department occupies the entire fourth floor of the Thomas Telford Building, which includes a
+ common room, with additional capacity (moveable partition) to accommodate informal seminars.
+ All Category A staff have their own offices, with a state-of-the-art computing environment and PC-
+ Linux machines on every desk for staff, RAs and postgraduates, supplemented by laptops or
+ tablets where appropriate. It also owns three multi-processor servers for CPU-intensive numerical
+ computations, and access is available to the Faculty High Performance Computing facilities.
+ Support is provided for all IT by a team of specialists (Faculty Computing Service). Smart
+ whiteboards are now mounted in the main mathematics seminar room and the main tutorial room,
+ and DoM has access to a range of shared video link setups, including a state-of-the-art, high
+ definition, screen videoconferencing system for hosting seminars and meetings. In 2019, a new
+ undergraduate common room/study room was created within the department, which provides a
+ valuable home base for our students.
+
+ A departmental intranet system was developed by a member of staff (Wolf) and this serves as a
+ focal point for all administrative matters from student records to research grants and recording
+
+
+                                                                                           Page 10
+Unit-level environment template (REF5b)
+ annual leave. It has proven to be a valuable time-saving resource, which has been implemented
+ in various forms in other departments within the University.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1. Academic Collaborations and Contributions
+
+ The DoM maintains a research blog, https://blogs.surrey.ac.uk/mathsresearch/ , which is used to
+ disseminate the most up-to-date news about the research activities of staff and PGR students.
+ Morris has been a major contributor to the recent flowering of research in fractal geometry,
+ particularly in the field of self-affine fractals. A fundamental problem in this area is the construction
+ of measures on self-affine sets which have maximal Hausdorff dimension. In the last five years
+ Morris has established himself as the world’s leading authority on Käenmäki measures, which
+ are the class of measures expected to typically have this property. Additional to his work in fractal
+ geometry, Morris has worked on applications of ergodic theory to diverse problems including the
+ joint spectral theory of sets of matrices, the combinatorial geometry of measurable subsets of the
+ plane, and the study of arithmetical algorithms; in the latter field Morris resolved a 40 year old
+ open problem posed by Richard Brent and Donald Knuth on the running time of the binary
+ Euclidean algorithm, resulting in an article published in Advances in Mathematics and which is
+ cited in current editions of Knuth’s celebrated textbook series The Art of Computer Programming.
+
+ Bevan’s research centres on the calculus of variations and its applications to problems arising
+ in nonlinear elasticity theory as well as on “purer” variational problems in which a change of
+ topology can exert an influence. His 2017 paper, published in the Archive for Rational Mechanics
+ and Analysis, on the Holder regularity of strong local minimizers in nonlinear elasticity in two
+ dimensions, makes definitive progress towards solving the 40-year-old problem of the regularity
+ of minimizers. Bevan collaborates with Kružík (UTIA, Prague) on novel variational problems which
+ explore concentration/oscillation effects in polyconvex functionals. This work is supported by a
+ Royal Society International Exchanges grant (IES/R3/193278). A separate strand of research
+ includes detailed modelling of physical phenomena, such as the Wirtz pump and the shape of a
+ flowing rope fountain, and is part of a long-running and productive collaboration with Deane, in
+ which analysis and innovative computing join forces. The most prominent work in this direction
+ appeared in SIMA, and has been presented at numerous international conferences and
+ workshops, including in the Czech Academy of Science, UTIA, Prague (October 2019). The work
+ builds on Bevan and Zeppieri (CVPDE 2016) and characterises, explicitly in terms of parameters
+ dictated by the elastic material being modelled, bounds on the class of radial, affine boundary
+ conditions at which the stored-energy function is quasiconvex. The results can be interpreted from
+ both analytical and materials science perspectives.
+
+ Lloyd’s paper, Invasion fronts outside the homoclinic snaking region in the planar Swift-Hohenberg
+ equation (SIAM J. Appl. Dyn. Sys. 18(4), 1892– 1933 (2019)), solves the open problem of how to
+ carry out a numerical bifurcation analysis of the depinning of fronts near but outside the
+ homoclinic snaking region. It involves a spatial stripe cellular pattern embedded in a quiescent
+ state, in two space dimensions. This problem was flagged by Knobloch as an open question at his
+ 2016 Lorentz Centre talk (Workshop on Analysis and Applications of Localized Structures in
+ Nonlinear Media). The idea was that invasion fronts cover most of parameter space in the bistable
+ region, but no one knew if there were any interesting instabilities or bifurcations associated with
+ them. Indeed, prior to Lloyd’s work, there was no numerical method available to compute multi-
+ space dimension localised patterns where the quiescent state was periodic with an unknown
+ wavenumber and frame speed that have to be selected as part of the solution. Joint work with
+ Scheel (Minnesota) provided a rigorous mathematical explanation of why localised patterns should
+ be seen in a ferrofluid experiment, together with an explanation for the existence of localised
+ hexagon patches seen in the ferrofluid experiment of Richter (Bayreuth).
+
+
+
+
+                                                                                                  Page 11
+Unit-level environment template (REF5b)
+ Interests of some NWGFD members overlap with those of FSG, especially in the areas of large
+ scale atmospheric flows, optimal transport and complex geometry. Wolf, McOrist and Roulstone
+ organised a Clay Mathematics Institute workshop on Geometry and Fluids in 2014 that focussed
+ on elliptic Monge-Ampere equations, hyper-Kahler geometry, optimal transport on manifolds and
+ applications to atmosphere/ocean flows.
+
+ In June 2020, Tronci was appointed Adjunct Professor at Tulane University (USA) within the
+ Department of Physics & Engineering Physics. As part of his Leverhulme grant (2014), Tronci led
+ an international collaboration composed of Tassi (Marseille), Lapenta (KU Leuven), and Philip J.
+ Morrison (UT Austin), which focussed on applications of geometry to kinetic-fluid systems. Further
+ collaborations with Bondar (Tulane, New Orelans), Gay-Balmaz (CNRS/ENS Paris), and
+ Rawlinson (Leeds) spawned new results on quantum-classical dynamical models in chemical
+ physics. Under a London Mathematical Society Scheme 3 award, Tronci is the coordinator of a
+ national Network in Applied Geometric Mechanics involving three groups working on core
+ topics in geometric mechanics: geometric quantum dynamics (Brunel), geometric imaging science
+ (Imperial College), and geometric fluid dynamics (Surrey).
+
+ Cheng is a co-I (EPSRC grant) with Wingate (Exeter) and Cotter (Imperial) studying oscillations
+ in fluid dynamics associated with large but finite restoring forces. This entails the less studied
+ notion of "near resonance" for which some exciting results have been discovered. PDRAs are
+ involved on all three sides, with the Surrey effort further supported by Cheng’s Leverhulme grant.
+ The Surrey team is the theoretical pillar focussing on rigorous analysis, informing and informed by
+ teams in Exeter (GFD and computing) and Imperial (computing). This interdisciplinary endeavour
+ really serves as an intellectual highway that links deep mathematical theory all the way to
+ applications such as numerical weather prediction. Results so far have also suggested new
+ fundamental understanding of the predictability of fluid motions in geophysics.
+
+ Continuing with the theme of geophysical flows, Turner collaborated with Norbury (Oxford) and
+ Cheng on problems relating to moist convection in the atmosphere. This is driven by the need to
+ better represent convective processes in numerical forecasting models. In collaboration with
+ Cullen and colleagues at the Met Office, and the EPSRC Network Maths Foresees (led by
+ Bokhove (Leeds)), a small team tackled fundamental issues in the modelling and analysis of moist
+ convection. The Department, under the auspices of Maths Foresees, organized and hosted a two-
+ day meeting on `Coupling convection and large-scale dynamics in numerical weather prediction
+ models’, held in March 2016.
+
+ The fluid mechanics theme is further continued as the DoM is part of the EPSRC UK Fluids
+ Network (led by Juniper and Linden (Cambridge)). This network comprises of 42 Special Interest
+ Groups (SIGs), spanning 66 institutions, which address industrial, scientific and societal
+ challenges as joint efforts. Turner is a member of the SIG `Boundary layers and complex rotating
+ flows’, while Turner and Bridges are members of `Surface and internal waves’. Under this latter
+ SIG the Department organised and hosted a two-day meeting on `Wave Structure Interaction’ held
+ in January 2020.
+
+ Hanada, working with Tezuka (Kyoto), Gharibyan (Stanford), and Swingle (Maryland) have
+ pioneered numerical study of supersymmetric gauge theories. The numerical precision
+ achieved enables testing the gauge/gravity duality, including the quantum gravitational
+ corrections, which has had significant impact in the field. Torrielli and collaborators have
+ established themselves as a leading group working on lower dimensional AdS/CFT integrability,
+ with application to the massless scattering of excitations in AdS2 and AdS3 backgrounds. They
+ have solidified collaboration with researchers in the UK (City, King’s College) and internationally
+ (Utrecht, Torino, Berlin, ETH), and attracted major funding (EPSRC-SFI and Galileo Galilei
+ Institute, Florence) to reinforce a program now in an intense phase.
+
+
+
+
+                                                                                            Page 12
+Unit-level environment template (REF5b)
+ Grant has a long-standing collaboration with Mathematics (Kunzinger, Steinbauer) and Physics
+ (Chrusciel) in the University of Vienna. Recently, papers with Kunzinger and collaborators have
+ resolved long-standing issues relating to low-regularity singularity theorems (Graf-Grant-
+ Kunzinger-Steinbauer 2018) and causality theory (Grant-Kunzinger-Saemann-Steinbauer 2020).
+ These papers were produced while Grant was an International Coworker on Kunzinger's 329k
+ Euro FWF research grant (P28770). Grant's collaborative projects with Vienna are ongoing, and
+ he is now involved in the 389k Euro FWF research grant (P33594) of Steinbauer, until 2025.
+
+ Brody’s work on the classical Zermelo navigation problem is concerned with finding the time-
+ optimal navigation under external, uncontrollable current. The quantum counterpart of the problem
+ concerns time-optimal control of quantum state under external field. This has an important
+ application in the implementation of quantum technologies. Brody obtained an exact solution to
+ the problem, published in four papers including one in PRL. He has also made substantial progress
+ in studying an operator for the nontrivial Riemann zeros. The Hilbert-Polya programme is
+ concerned with (a) finding an operator whose eigenvalues correspond to the “imaginary” parts of
+ the nontrivial zeros of the Riemann zeta function, and (b) establishing the self-adjointness of the
+ operator.
+
+ 4.2. Contributions outside academia
+
+ The MoLSS group has made significant contributions to projects that include partners outside
+ academia. The EPSRC and TfL (Transport for London) funded work on sleep and circadian
+ rhythms has contributed significantly to impact. As detailed in the case study, the work has been
+ widely reported in the media including the New York Times, Die Welt and The Times and was
+ referenced in the California Senate Bill 328 on pupil attendance and school start times and also
+ quoted in parliament by two MPs (documented in Hansard).
+
+ Skeldon is a Co-I on the Care and Technologies Centre, Dementia Research Institute, a £20M
+ Imperial/Surrey project which began in June 2019 and will run initially for six years. She has also
+ worked with TfL on an IAA funded project on biomathematical models of fatigue. Skeldon will
+ run the two-day workshop Multilevel dynamics of human and animal sleep: mathematical models
+ meet data (Surrey, 30-31 March 2020, but postponed to summer 2021), funded jointly by the
+ Surrey Institute of Advanced Studies, Surrey Sleep Research Centre and DoM. She also ran an
+ interdisciplinary seminar series called DREAMS (Data and Rhythms: Expertise, Analysis,
+ Modelling and Simulation) from 2015-2017, which involved 18 cross-disciplinary seminars.
+
+ Lloyd and his collaborators in the Surrey Centre of Criminology develop and apply continuum
+ and agent-based modelling techniques. Lloyd has been involved in the development of a novel
+ algorithm known as the Ensemble Poisson Kalman Filter (EnPKF). This improves our ability to
+ provide forecasts of crime rates, particularly for short-term crime hotspots. This information will be
+ valuable to the police in allocating resources. EnPKF also has the potential to monitor train delays,
+ earthquake aftershocks and insurance claims.
+
+ Aston and Godolphin, working in data science and statistical design, have focussed on
+ experimental design, data assimilation and the application of techniques of attractor
+ reconstruction and machine learning to time series analysis with applications in medical
+ diagnoses and cardiology.
+
+ Derks is co-investigator on the EPSRC/MRC funded Quantitative Systems Pharmacology network
+ (led by Reading, in collaboration with Warwick and AstraZenica, GSK and Pfizer), and is part of
+ the LMS-funded network Mathematics in Life Sciences (Nottingham, Southampton, Surrey).
+ Non-academic collaborators include Pfizer (CASE-like PhD studentship and MMath integrated
+ projects), APHA (CASE-like PhD studentship), McLaren (PhD studentship), Data Sciences
+ International and AD Instruments (partners in IAA project), AstraZenica (MMath integrated
+ projects) and Medimmune.
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+ Work in the areas of epidemiology, ecology and population genetics, includes the genetics of
+ rapidly growing populations, vector-borne diseases such as malaria and bluetongue and intestinal
+ helminths in association with the School of Veterinary Medicine. Future plans in this research
+ theme are likely to involve NPL, who have expressed an interest in issues relating to surveillance
+ data and remote sensing/climate monitoring which is important in modelling the spread of
+ infectious diseases.
+
+ Further evidence for the contribution that research in the DoM makes to society can be found in
+ our three impact case studies: Mathematical models for sleep, light and the body clock: influencing
+ school start times, permanent daylight saving and shiftworkers (led by Skeldon); Advancing the
+ development, public understanding and benefits of global weather forecasting (led by Roulstone);
+ and Symmetric Projection Attractor Reconstruction (SPAR) improves the quality and relevance of
+ respiration monitoring device data (led by Aston).
+
+ 4.3. Wider influence and contributions to the discipline
+
+ Members of the department have undertaken over 65 talks at International Conferences/Schools
+ and have been involved in organising a range of international events, notably;
+    •   Bridges was a plenary speaker at the SIAM Nonlinear Waves Conference in Cambridge in
+        August 2014.
+    •   The department hosted the British Applied Mathematics Colloquium at Surrey, 10-12
+        April 2017. Organisers were Lloyd, Roulstone and Skeldon and there were 335 attendees,
+        one of the largest outside Oxbridge.
+    •   Aston was on the organising committee for the workshop The Mathematics of Machine
+        Learning, University of Bath, 3-8 August 2020.
+    •   Bridges was the principal organiser of a Summer School for PhD students titled Theory of
+        Water Waves held at the INI, Cambridge in July 2014, and was co-organiser of the four-
+        week INI programme on water waves in Summer 2014.
+    •   Derks is on the organising committee of the QSP-UK (Qualitative Systems Pharmacology)
+        network, EPSRC funded from 2015-2018 and still ongoing, and was on the organising
+        committee of the LMS funded network Mathematics in Life Sciences (2015-2018). Derks
+        was on the programme committee of the 2018 SIAM Conference on Nonlinear Waves and
+        Coherent Structures, and co-organised the Mathematical Pharmacology workshop at the
+        Lorentz Centre,NL (December 2015).
+    •   Lloyd co-organised (with Short (Georgia Tech) and Kolokolnikov (Dalhousie University))
+        the workshop on Mathematical Criminology and Security at the Banff International
+        Research Station, Canada, March 2019. Lloyd co-organised the ICMS workshop on
+        Mathematical Criminology 2020. Lloyd was on the organising committee for Advanced
+        Mathematical and Computation Tools in Metrology and Testing (29-31 August, 2017),
+        University of Strathclyde.
+    •   Skeldon organised a multidisciplinary workshop at the Lorentz Centre on Human Circadian
+        Rhythms (co-organisers: Forger, Michigan, and Dijk, Surrey).
+    •   Torrielli has been a principal or key organiser of several international events, including the
+        Hamilton Institute workshop Integrability in Lower Dimensional AdS/CFT at Trinity College,
+        Dublin, May 18-22, 2020; with Gutowski and Roulstone (Surrey), Penati and Pasquetti
+        (Milan), the Bicocca-Surrey School on Prospects in Strings, Fields and Related Topics,
+        Milano, September 2018; scientific advisor (with Gutowski) for the String Geometry,
+        Supersymmetric Theories and Dualities conference, Summer 2017, Surrey; co-organiser
+        of the Galileo Galilei Institute - GGI programme New Developments in AdS3/CFT2
+        Holography, March 20 - May 12, 2017; co-organiser (with Prinsloo) of SEMPS at Surrey,
+        2015 and 2018 editions; co-organiser (with Pasquetti and former postdoc Regelskis) of the
+        conference New Trends in Quantum Integrability, 18-22 August 2014.
+    •   In addition, Torrielli was co-organiser of the Tomorrow’s Mathematicians Today National
+        Undergraduate Conference at Surrey. Torrielli also gave five lectures at the Durham YRIS
+        school on integrable systems in 2015 and received the best lecturer award.
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+    •   Tronci was on the organizing committee of the International Conference on New Trends in
+        Applied Geometric Mechanics, ICMAT Madrid, 3-7 July 2017, and was on the scientific
+        committee of the International Conference on Geometry, Mechanics and Dynamics at the
+        Bernoulli Center, Ecole Polytechnique Federale de Lausanne, Switzerland, 20-24 July
+        2020.
+     Wolf was principal organiser (with Jurco (Charles), Saemann (Heriot-Watt) and Schreiber
+     (Czech Academy of the Sciences)) of the 2018 LMS-EPSRC Durham Symposium Higher
+     Structures in M-Theory.
+
+ 4.4. Fellowships and other marks of esteem
+
+ Zelik was awarded the title “Thousand Talents Plan Distinguished Professor” by the Chinese
+ government’s Thousand Talents Program. The award includes 5 Million RMB for research
+ expenditure over three years, and Zelik spends six months each year at Lanzhou University.
+
+ For three years from August 2014 until his retirement, Roberts was seconded from the DoM to
+ the African Institute for Mathematical Sciences (AIMS), a network of six postgraduate training
+ and research centres across Africa that recruits students from the whole continent. As Rector of
+ AIMS Tanzania he had overall responsibility for establishing and leading a new centre established
+ in partnership with the Tanzanian government. Over the three years the centre graduated 140
+ masters’ students from 18 African countries, most of whom continued to further research training
+ in Africa or overseas. Roberts continues to support the development of mathematics through his
+ membership of the board for the London Mathematical Society’s Mentoring African Research in
+ Mathematics (MARM) scheme.
+
+ Derks has been awarded a Hedda Andersson Visiting Professorship at Lund (Sweden), from April
+ 2020 for three years.
+
+ Editorial representation
+    •   Bridges is an associate editor of Discrete and Continuous Dynamical Systems – Series S,
+        and Water Waves, an Interdisciplinary Journal.
+    •   Brody is an editor of the International Journal of Theoretical and Applied Finance, Journal
+        of Physics A, and Information Geometry.
+    •   Derks is an editor of the Journal of Geometric Mechanics.
+    •   Wulff is on the editorial board of SIAM Review’s Survey and Review section and was re-
+        appointed to a 3-year term of office (2016-2019) as Associate Editor of the SIAM Journal
+        of Applied Dynamical Systems, having served as an editor since 2013.
+    •   Zelik is on the editorial board of Proceedings of the Royal Society of Edinburgh, Section
+        A: Mathematics.
+
+ Peer review
+    •   Bridges is a member of the UKRI Future Leadership Fellowships Peer Review College
+        (2018-19).
+    •   Derks: LMS Research Grant Committee (2015 onwards) and EPSRC mathematics
+        prioritisation panels in Nov 2018, Feb 2018 (interviews for programme grants), Feb 2017,
+        June 2016 and March 2016. She also chaired the prioritisation panel for the Hubs for
+        Mathematical Sciences in Health Care in Dec 2019; chaired the interview panel in February
+        2020 and was due to chair the mathematics prioritisation panel in June 2020 (postponed
+        due to Covid).
+    •   Dunlop was a member of the EPSRC prioritisation panels in June 2015 and Nov 2017, and
+        interview panel for UKRI future leader fellowships (June 2019).
+    •   Skeldon has been a member of the EPSRC College since 1998 and was a member of the
+        EPSRC mathematics prioritisation panel Sep 2016, fellowship interview panel, Jul 2018
+        and DTC interview panel, Nov 2018.
+    •   Derks, Dunlop and Turner are also EPSRC Associate College members.
+
+
+                                                                                           Page 15
+Unit-level environment template (REF5b)
+    •    Roulstone remains a member of the NERC Peer Review College, and chaired the EPSRC
+         Fellowship panel in July 2017.
+    •    Wulff sat on the EPSRC mathematics prioritisation panel, Feb 2017.
+
+ Prize Committees
+ Aston was a member of the IMA Lighthill-Thwaites prize committee at BAMC 2017. Bridges was
+ Chair of the prize committee for the SIAM Kruskal Prize 2014. Derks Chaired the J.D. Crawford
+ Prize, awarded at the 2015 SIAM meeting May 17-21, Snowbird and was also a member of the
+ selection committee for the 2017 prize.
+
+ Roles in professional bodies or committees
+    •    Aston was Chair of HoDoMS (2017-20) and was a member of the Bond Committee
+         formed by EPSRC to support a “Review of Knowledge Exchange in the Mathematical
+         Sciences”.
+    •    Skeldon represented Surrey on the BAMC committee 2015-2019.
+    •    Roulstone is a member of the IMA’s Research Committee. Roulstone has also chaired the
+         Scientific Steering Committee, and the Strategic Advisory Committee, of Mathematics of
+         Planet Earth (EPSRC CDT, ICL and Reading).
+    •    Torrielli is the contact person for the Surrey node of the GATIS+ (Gauge Theory as an
+         Integrable System) network.
+    •    Bridges was Chair of the SIAM activity group on Nonlinear Waves and Coherent Structures
+         (NWCS) from 2014-16.
+
+ Books
+ Aston is an editor of UK Success Stories in Industrial Mathematics, which is based on impact case
+ studies submitted to REF2014. Santitissadeekorn is co-author of Applied and Computational
+ Measurable Dynamics (Mathematical Modeling and Computation) SIAM 2014. Symmetry, Phase
+ Modulation, and Nonlinear Waves by Bridges was published by Cambridge University Press in
+ 2017 and Hanada has recently published the Japanese edition of Foundations of Markov Chain
+ Monte Carlo with S. Matsuura, and an English edition will follow.
+ At an annual meeting of the American Meteorological Society, Roulstone was awarded the 2015
+ Louis J. Battan Award for his book Invisible in the storm: the role of mathematics in understanding
+ weather. The citation reads “For Invisible in the Storm, which illuminates the mathematical
+ foundation of weather prediction with lucid prose that provides a bridge between meteorologists
+ and the public.” German and Chinese translations are in production (see impact case study).
+
+
+
+
+                                                                                            Page 16
+

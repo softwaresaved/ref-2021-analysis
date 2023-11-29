@@ -1,0 +1,772 @@
+Unit-level environment template (REF5b)
+Institution: The University of Brighton
+Unit of assessment: B11 – Computer Science and Informatics
+1. Unit context and structure, research and impact strategy
+
+1.1. Context and structure
+Computer science researchers at the University of Brighton (UoB) have led a submission to the
+RAE/REF since 1992. This REF2021 submission builds on our expertise in diagrammatic
+reasoning and natural language generation with strategic expansion into software security and
+privacy. We have significantly advanced our mission to lead high-quality research with global
+partners (47% of outputs are co-authored with international collaborators, vs 34% in REF2014),
+whilst delivering impact to national and international business and NGOs. Since REF2014 the UoA
+has more than doubled research income, joined three Doctoral Training Programmes, and almost
+quadrupled PGR conferrals.
+
+Our expertise (15 FTE staff, 30 PGRs) is focussed on three research themes:
+   • Visual Computing (VC): diagrammatic reasoning, visual languages, and computer graphics
+      with cultural heritage applications (primary interest for 7 FTE, including Reader Fish, ECR
+      Baimagambetov; and 9 PGRs)
+   • Language and Data Processing (LDP): natural language generation and
+      mathematical/statistical methods for data analysis (5 FTE, including Professor Belz,
+      Reader Harris; 10 PGRs)
+   • Secure Systems Engineering (SSE): software systems security and privacy (3 FTE,
+      including Professor Mouratidis, ECR Polatidis; 11 PGRs).
+
+The UoA is based within the School of Computing, Engineering and Mathematics. The Centre for
+Secure, Intelligent and Usable Systems (CSIUS) was founded in 2017 (approved as a Centre of
+Research and Enterprise Excellence (CORE) – see REF5a), providing a hub for UoA B11
+researchers (12 staff, 16 PGRs, directed by Mouratidis) and acting as a vehicle for
+interdisciplinary links with health, humanities, media and education (section 4). CSIUS
+encompasses the SSE and VC themes and some of LDP; it is a European leader in SSE,
+evidenced by the award of EU projects (with total budget of over €20m; see section 3), and official
+recognition from the EU as a Cybersecurity Competence Centre.
+
+1.2. Research and impact strategy
+1.2.1. Achievement of strategic aims for research and impact since 2014
+Our strategic aims, revised from those set out in REF2014, and evidence of their achievement are
+outlined below:
+
+Aim 1: Grow talent and develop future research leaders. As a result of our cultural heritage
+expertise, we lead UoB’s contribution to the EPSRC Science and Engineering in Arts, Heritage,
+and Archaeology CDT (SEAHA), which together with ESRC-South Coast DTP membership and
+the EPSRC DTP formula allocation, provided 8 studentships. This, alongside strategic UoB
+investment of 21 studentships, enriched our PGR environment, and PGR conferrals increased by
+278% (39.7 vs 10.5 in REF2014). As a result of our strategic focus on supporting ECRs applying
+for EPSRC First Grants/New Investigator Awards (Section 2.16), we were successful with 4
+applications including 3 that were led by staff first entered as ECRs in REF2014. Ongoing
+developmental support has enabled 4 staff who were ECRs in 2014 (Burton, Fish, Kapetanakis,
+Rodriguez) to secure £1.12m from EPSRC and industry.
+
+Aim 2: Invest in existing and emerging areas, extending our international influence.
+Adjusting to a changing research landscape, we identified SSE as a strategic focus and invested in
+its growth. We recruited a professorial lead (Mouratidis), who led on a targeted recruitment
+strategy as part of succession planning. Establishment of the SSE area has resulted in securing 6
+EU Horizon 2020 grants with 15+ international partners. Internal initiatives (eg Sabbaticals; see
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+2.14), have led to international discipline hopping in VC (Burton, EPSRC, EP/R043949/1) and EU
+COST action (Belz, IC1307) leadership involving 28 countries in LDP (see 4.1).
+
+Aim 3: Enhance impact capacity through partnership. We established over 40 non-HEI
+collaborative partners (including Yahoo, Nokia, Fujitsu, The Pensions Regulator and GSK), and our
+income includes over 75% with industrial collaborators, charities or policy makers. Internal
+initiatives (Innovation funding; see 2.14), networking events, and our international outlook
+stimulated partnership growth, whilst strategic investment (£479k) in laboratories, equipment (see
+3.2), and CSIUS, provided essential infrastructure for collaborative impact-generating activity.
+
+Aim 4: Grow a balanced and diverse funding portfolio. By leveraging our national and
+international networks, and non-HEI partnerships, our research income has grown by 153% with
+£1.18m from the EU, whilst industrial engagement, aligned with impact generation strategies, led to
+an over 400% increase in income (to £1.64m) secured from industry and Innovate UK.
+Diversification strategies for interdisciplinary projects led to 2 new Leverhulme Trust projects to
+model cavities in the spinal column, and to guide the development of foundational approaches to
+reasoning.
+
+1.2.2. Intellectual achievements
+Our staff have built upon long-standing external collaborations, yielding intellectual achievements
+within the research themes (examples below), whilst developing new interdisciplinarity links and
+enabling impact.
+
+Visual Computing create theory, algorithms and software for diagrammatic visualisations, used
+for scientific data presentation, and undertake fundamental evaluations of human perception and
+their ability to interpret and reason with diagrams (Blake) in our bespoke laboratories (see 3.1).
+Visual interfaces are designed and developed for personal resource management (Fish, with Di
+Chiara, Poste Italiane – Software Factory Napoli, Italy), and to enhance the automotive
+engineering data set exploration and analysis capabilities of industrial partners (Fish, with
+Gargiulo, Fiat Chrysler Automobiles, involving multiple site evaluations with industrial analysts). We
+achieved major advances in Shape Understanding in computer graphics via mesh saliency
+detection (Song), that are used as benchmarks in the field. Our creation of innovative methods and
+tools for the design, development, fabrication and evaluation of interpretative experiences of 3D
+artefacts in cultural heritage collections has driven change in the sector, being deployed by major
+heritage institutions across the UK, Europe and Brazil (Rodriguez, [ICS_Heritage]).
+
+Language and Data Processing have produced new methods for 2D image descriptions capable
+for the first time of conveying 3D spatial relationships (Belz, with Malta University) as well as a
+framework for conceptualising, annotating and automatically extracting information about drug
+nonadherence from patient-generated text (Belz, with Brighton and Sussex Medical School and
+Sussex Partnership NHS Foundation Trust). A breakthrough achievement was the development of
+methods to estimate covariance matrices for big data applications (eg genomics, cancer research,
+signal processing, and financial mathematics) thereby reducing computational costs (Touloumis).
+
+Secure Software Engineering has, for the very first time in academia and industry, integrated
+privacy into DevOps practises by developing processes and software tools that automate crucial
+privacy-related processes (Mouratidis, Pavlidis). PGR students, and international collaborations,
+were integral in the development of novel frameworks that introduce essential security and privacy
+requirements in Cloud Computing, Business Processes and the Internet of Things (IoT) domains
+(Fish, Mouratidis), realised with open-source tools (see 1.4). The creation of next generation
+software platforms to support GDPR compliance, supported by novel privacy-by-design conceptual
+languages, data mapping views, and data breach analysis and response techniques, generated
+international interest (eg Greek/Latvian/Thailand Data Protection Authorities, Information
+Commissioner's Office) and acclaim, with the work being awarded EU cyberwatching Project of the
+Month for May 2019 (Mouratidis, Pavlidis).
+
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+1.2.3. Enabling interdisciplinary research and impact
+Underpinning our research and impact success is an ethos of interdisciplinary working. Supported
+by UoB’s strategic investment of Quality-Related research funding (QR), CSIUS has used £107k to
+develop interdisciplinary research agendas and collaborations by promoting multi-disciplinary
+membership (eg with Health Sciences), ‘application-led’ seminars, and start-up interdisciplinary
+projects (eg leading to securing H2020 AI4HealthSec 883273 - see 3.1). CSIUS activities have led
+to research outputs (eg new methods for the management of security-incidents in Healthcare
+Critical Information Infrastructure Environments) and projects at disciplinary interfaces (eg at
+Health and Security/Privacy). Moreover, interactions with other UoB Centres and Schools have
+enabled interdisciplinary advances (eg Harris, with Phillips from the School of Pharmacy and
+Biomolecular Sciences, created a new poroelastic model of the spinal cord and utilised video
+experiments to develop new cell migration models). The joint Brighton and Sussex Medical School
+(BSMS) enables collaborative interdisciplinary research, including through PGR co-operation (eg
+3D visualisation technologies for medical training, supervised by Rodriguez and Smith, returned in
+UoA A3). Our income diversification strategy of targeting funders specifically supportive of
+interdisciplinarity led to our 2 Leverhulme Trust projects (one in collaboration with University of
+Cambridge).
+
+Our philosophy of engaging non-HEI partners fully within the research lifecycle ensures outcome
+relevance and increases impact potential. We have supported staff to initiate and sustain partner
+engagement through a £479k strategic investment in laboratories and equipment (eg 3D scanners,
+HPCs required for cultural heritage and data processing applications; see 3.2), together with
+innovation funding (eg to build demonstrable privacy software; see 2.14). VC have leveraged
+longstanding partnerships to develop digital applications for cultural heritage that enabled
+practitioners and institutions to transform the way young people, visually impaired, online and
+visitor audiences experience and value cultural heritage collections (Rodriguez, [ICS_Heritage]).
+In SSE, via EU projects (see 3.1) and new consortia, we have empowered public and private
+sector organisations across Europe (eg PDMFC, a leading Portuguese company in ICT and
+Information Security) to adopt a privacy-by-design approach across software services to ensure
+compliance with privacy laws and regulations (Mouratidis, [ICS_PrivacySoftware]).
+
+To increase translation of our ideas into industry, we encourage staff to engage in knowledge
+exchange programmes through tailored sessions at development days delivered by our knowledge
+exchange managers; all our staff attended at least one such session. In this census period, we
+increased the number of Knowledge Transfer Partnerships (KTPs) from 3 in REF2014 to 10
+(£1.17m). This engagement ranked us 2nd in the UK for KTP income in the Information & Comms
+sector (for data released up to 2018). We widen awareness of our research and impact
+achievements by co-authoring with our non-HEI partners (21% of submitted outputs), together with
+dissemination via social media outlets and a quarterly business newsletter that reaches over 450
+SMEs.
+
+1.3. Research and impact strategy to 2026
+Our ambition is to yield academic, economic and societal gains through close connection with
+partner needs. Over the next five years we will:
+
+Aim 1: Advance the Artificial Intelligence agenda, exploiting synergies between themes.
+Focussing our specialised expertise in an AI context, we will support adoption in key areas such as
+health (eg linking with security and privacy via the AI4HealthSec project; see 3.1), whilst
+contributing to advancing the national agendas in accountability, ethics and transparency (eg via
+AI-explanations, visual interfaces for user-centred data analytics). Success measures will include
+securing funding from UKRI and Horizon Europe, and development of an AI Impact Case Study for
+the next REF.
+
+Aim 2: Grow and strengthen research partnerships and collaborations. Strategic investment
+in existing and emerging areas, together with Centre activities (eg interdisciplinary start-up
+projects, industrial knowledge exchange events), will facilitate an increase in numbers of
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+collaborative partnerships. Together with income diversification strategies (eg to MRC), and staff
+time for grant writing (internal funding, sabbaticals), we will double the number of external grant
+applications and income generated on collaborative projects.
+
+Aim 3: Extend the reach, significance and accessibility of our research. By leveraging
+established networks and partnerships, we will enhance our international reach and facilitate
+further impact generation (measured by numbers of collaborative international and industrial
+outputs, and industrial or societal effects). We will double the number of KTPs, with staff
+benefitting from an expanded UoB KTP professional support base. The generation of
+interdisciplinary projects across themes will enable exploitation of new routes to impact (eg data
+processing within humanities, ArtsDRIVA; see 4.3). We will increase the volume of openly
+available research-related artefacts, aiming to make all non-confidential research software, data
+and models freely accessible (eg via GitHub).
+
+Aim 4: Enlarge our UoA research base and develop new research and enterprise leaders.
+Leveraging collaborative project growth, we will increase post-doctoral researcher numbers. By
+supporting research independence and recruiting active researchers in response to natural staff
+turnover, we will increase the diversity and quality of our research expertise. We will support our
+Readers to share leadership roles and will increase the number of staff with UKCGE-
+recognised research supervisor awards to capitalise on our PGR growth in the international
+student market.
+
+1.4. Open research and research integrity
+We follow the Research Integrity and Ethics policies and procedures set at University level, and
+training provided through the UoB Researcher Development Programme. A three-tier ethics review
+system operates for all research projects, overseen by a University-level policy committee,
+ensuring data protection in all our research. We contribute to the development of international
+standards relating to GDPR (eg Mouratidis via membership of the BSI IOT/001 Privacy-by-Design
+standards committee).
+
+We share research findings and data in line with UoB policies and guidance (REF5a). UoA Open
+Access compliance is 95% for the 105 journal articles or conference proceedings with ISSN
+produced since 2018, and we make research-related artefacts freely available, instilling in PGR
+students an open research culture. For example, Kapetanakis, with Jorro-Aragoneses
+(Complutense University of Madrid), contributed to the creation of the open-source COLIBRI
+recommender system (over 36k downloads); the R package ShrinkCovMat (Touloumis), realising
+new covariance matrix methods, is freely available for reuse and has been downloaded more than
+26k times; and tools including those to support security analysis in IoT systems developed by PGR
+Mavropoulos (supervised by Fish, Mouratidis) are publicly available on GitHub. Belz organises
+international shared task competitions under the GenChal umbrella, including the Surface
+Realisation shared tasks (2018-2020), and the ReproGen shared task which aims to establish how
+reproducible past evaluations have been and how to design and report human evaluations to
+increase reproducibility.
+
+2. People
+
+2.1. Staffing strategy and staff development
+2.1.1. Staff Profile
+Our 15 FTE Category A staff comprises 13% Professors, 33% Readers/Principal Lecturers, 53%
+Senior Lecturers, with 13% being ECRs, and 20% female; the median age range is 41-50, 7% are
+reported as black, Asian, and minority ethnic (BAME), and 100% are on permanent contracts, work
+full-time and have no declared disabilities. This profile aligns with the Advance HE sector average
+for median age range (41-50) and gender balance (23% female), but includes a higher proportion
+of full-time staff (sector: 68%), and a lower proportion with disabilities (sector: 5%) and reported as
+BAME (sector: 27%). During the census period 47% of Category A staff were recruited, and 60%
+were promoted at least once.
+                                                                                                 Page 4
+Unit-level environment template (REF5b)
+
+
+2.1.2. Staffing strategy
+Our ambition is to provide an inspiring and inclusive environment for staff, students and visitors.
+Strategic goals for our staff are to: recruit outstanding researchers with potential to become future
+leaders, whilst expanding our collaborative networks; refocus expertise, adjusting to a changing
+research landscape, into areas of strategic growth that utilise close non-HEI partnerships to
+address essential societal and industrial needs. Appointed in 2014 to a new strategic professorial
+post, Mouratidis established our presence in Secure Software Engineering. We rejuvenated our
+staff base, accounting for staff turnover, shifting some visual computing expertise to support growth
+of SSE and data processing, with: Pavlidis, ECR Polatidis directly supporting SSE; Fallahkhair,
+ECR Baimagambetov bringing Human Computer Interaction in cultural heritage expertise and
+industrial Software Engineering experience; Chernov from Bedfordshire and Touloumis from
+Cambridge, recruited into his first lecturing post, bringing expertise in complex data processing
+methods and algorithms.
+
+2.1.3. Support mechanisms for staff development
+Annual Staff Development Reviews (SDRs) reflect on staff development, research achievements,
+and future goals. The Research Mentoring Framework, introduced in 2016, and School Mentoring
+Lead (Winter) encourage mentors and mentees to discuss and plan career development and
+progress. All new staff and ECRs are allocated a research mentor and senior staff participate in
+360-degree feedback. Mid-Career Researchers (MCRs) and senior staff are supported by
+university-level leadership programmes (eg Belz, Fish, Rodriguez participated in a research
+leadership scheme in 2014 and have subsequently held international leadership roles (eg steering
+committee membership for IEEE Symposium on Visual Languages & Human-Centric Computing;
+see 4.4)). We implement devolved leadership to develop future leaders, including Rodriguez as
+the CSIUS Associate Director for Research Strategy, and Touloumis for Researcher
+Development.
+
+2.1.4. Internal research and enterprise funding for staff development
+We support all staff, via mentoring, in applying for competitive University research funding
+schemes (REF5a), enabling the development of research leaders, collaboration, publication and
+grant applications. Rising Stars awards, which provide a first experience of leading a project,
+enabled grant submissions (Savostyanov’s EPSRC New Investigator grant), international
+collaboration and publication (Touloumis, with Cambridge and Columbia Universities). Innovation
+Funding (Mouratidis, £20k) to develop industrially focussed grant applications, returned £120k
+(Innovate UK) and led to a Privacy toolkit, presented to potential investors during the final round of
+the CyberASUP programme. We benefited from 2 semester-long sabbaticals delivering
+international collaboration and grant applications (eg Burton organised the Indian Winter School
+on Diagrams, in Kolkata, extending collaborations with semioticians and philosophers, leading to
+his EPSRC Discipline-hopping grant on the Applied Semiotics of Visual Modelling).
+
+We invest QR funds, allocated via Schools, for staff development. Three staff benefitted from time
+releases of up to 0.2 FTE for 1-2 years enabling publication and grant application development (eg
+Winter’s Royal Society Newton Mobility grant application to support collaborative research and
+development of long-term links with Universidade Federal Pelotas, Brazil). In addition to
+conference support funds, seedcorn funding further enabled international network development
+(Fish, ECR Polatidis with the University of Salerno, Italy), industrial collaboration investigating the
+use of machine learning for enriching visual collections with metadata (Rodriguez), building an IoT
+blockchain testbed (ECR Polatidis) and funding a series of task-oriented empirical studies
+(Blake).
+
+2.1.5. External developmental activities and leadership recognition
+We have placed a strategic focus on supporting staff exchanges and secondments, developing
+new expertise and partnerships. For example, Burton spent 9 months working alongside experts
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+in semiotics at the University of Bologna (via EP/R043949/1), leading to international collaborative
+workshop organisation (Philosophy of Notation, Bologna, ~30 participants from Europe, Japan and
+USA). Kapetanakis was seconded for 1 year to a London start-up (Gluru Ltd) to lead their
+research and development teams in natural language processing using deep neural networks. Two
+outputs from Kapetanakis helped drive inward-investment and the company subsequently doubled
+in size.
+
+We encourage staff engagement with international event leadership roles with our staff undertaking
+12 international workshops as Chairs (for conferences, see 4.4). External activities, internal
+schemes and mentoring help staff develop research leadership skills that are then rewarded
+through the promotion framework: 60% of staff have been promoted at least once (67% of females,
+58% of males), with staff obtaining permanent contracts following PGR (ECR Baimagambetov)
+and postdoctoral Research Fellow (PDRF) positions (ECR Polatidis); Baimagambetov, Chernov,
+Polatidis, Pavlidis have been promoted from Lecturer to Senior Lecturer; at Mid-Career
+Researcher (MCR) and senior staff level, Kapetanakis, Rodriguez, Touloumis have been
+promoted to Principal Lecturer (PL), Fish from Principal Research Fellow (PRF) to Reader, and
+Belz from Reader to Professor.
+
+2.1.6. Targeted support for ECRs
+All new staff are given workload relief to establish their research (0.1 FTE for 2 years). PDRFs are
+offered teaching opportunities to expand their professional portfolio, and gain experience via
+interaction with project partners, improving career prospects. Out of 10 EU-funded (Horizon 2020)
+fixed-term PDRFs supported in SSE: 6 have taken up lectureships in the UK (Brighton, Robert
+Gordon, York) and internationally (Jordan, Greece, Nigeria); 1 secured a position as a Software
+Engineer in a recognised industry leader for Metadata Management Solutions (Collibra, Belgium),
+1 works for the European Union Agency for Network and Information Security (ENISA); and 2 are
+active PDRFs (50% female) on current H2020 CyberSANE (833683) and AI4HealthSec projects.
+We employ a policy of co-supervision for PGR students, pairing ECRs with established supervisors
+to provide mentored supervisory experience (eg ECR Polatidis co-supervises 2 PGRs alongside
+Kapetanakis and Pavlidis). Coaching ECRs in developing applications for EPSRC New
+Investigator grants led to 4 new awards in the census period. Our approach in developing ECRs
+into research leaders has led to 13 out of 15 Category A staff originally being hired as ECRs at
+UoB. Other ECRs are prepared for subsequent successful academic or industrial careers, eg Ali
+(Senior Lecturer, Brunel), Zhou (Senior Lecturer, Loughborough), Delaney (Bloomberg LP, a global
+leader in business and financial data) and Nicholson (a solution architect at Hastings Direct, a
+digitally focused general insurance provider).
+
+2.2. Postgraduate Research students
+Development of the next generation of researchers is central to our approach, with expansion of
+our PGR base being central to this. We have 30 active PGRs and have achieved a 278% increase
+in PGR conferrals (to 39.7, with headcount 45). Growth is underpinned by diversifying funding
+sources, including staff fee waivers (Blake, Winter), industry and self-funded students (14
+conferrals) and international government studentships (14 conferrals from Middle East countries).
+Our success via the EPSRC DTP-algorithm, ESRC South Coast DTP, and EPSRC CDT SEAHA in
+collaboration with Oxford University and University College London (7 active out of 8 awarded),
+was augmented by UoB-funded investment via competitive studentships (8 active out of 21). UoB’s
+engagement in SEAHA (£4.7m, 2014-2022) is led by us through our expertise in cultural heritage
+(linked to Visual Computing). The programme has funded 4 of our PGRs, supported by 8 external
+industrial and heritage partners (eg Smithsonian Museum Conservation Institute, Victoria and
+Albert Museums) and world leading research groups (eg Fraunhofer IGD) under the CDT’s tri-
+partite (academic, industrial, heritage) supervision model.
+
+2.2.1. PGR recruitment and progression
+The Brighton Doctoral College (BDC) oversees PGR student recruitment and monitors all EDI-
+related aspects of selection. In 2019, intervention by the University’s BAME Student Ambassador
+                                                                                            Page 6
+Unit-level environment template (REF5b)
+led to a change in recruitment practices to ensure equity and inclusion (REF5a). Our PGRs are
+33% female, 20% have declared disability, and 23% reported as BAME. Enhanced visibility via
+online information about PhD research programmes, supervisors and research specialisms has
+improved PGR recruitment. We actively support applications from international PGR candidates
+from disadvantaged countries: of 21 UoB studentships received by us, 5 arose from competitive
+international scholarships (4 conferrals, 1 active) for PGRs from countries including Nigeria,
+Pakistan and Sudan. All PGR students have 2+ supervisors and a thesis panel to monitor
+progress, complemented by annual reviews to ensure progress. Since REF2014, 2 PGR
+Coordinators have been appointed by the School (Fallahkhair, Harris), coordinating the
+recruitment of PGR students with the BDC, and subsequently acting as first point of contact for
+PGRs and academics, aiming to enhance the PGR experience.
+
+2.2.2. PGR training and support
+New students receive a training-needs analysis, mapped against the Vitae Researcher
+Development Framework. Methods and impact training are provided by the BDC Postgraduate
+Researcher Development Programme. PGRs are encouraged to contribute to, and are supported
+to attend, at least 2 conferences during their studies including at least one overseas, and we use
+QR funds to supplement UoB’s Conference Support fund. This enables our PGRs to develop their
+skills and networks, and has led to best paper awards (eg by PGR Samaroudi, with Rodriguez, at
+the Immersive Learning Research Network Conference in London, and the Eurographics
+Workshop on Graphics and Cultural Heritage in Vienna in 2018).
+
+Networking opportunities are provided by DTP cohort events, an annual UoB-wide Festival of
+Postgraduate Research, and a School-based annual PGR Research Conference. SEAHA students
+spend the first year of their doctoral programme at UCL undertaking a Master’s degree, ensuring a
+common basis across the different institutions and facilitating PGR community development;
+SEAHA training events (4.4.1) also admit 2 of our PGRs, funded by other means, as SEAHA-
+aligned students. Training PGRs to become research leaders, we support leadership role
+engagement (eg the 3rd International Conference on Science and Engineering in Arts, Heritage,
+and Archaeology was chaired by our PGR Webb).
+
+2.2.3. PGR supervision and destinations
+We have experienced supervisors covering all themes (eg Mouratidis in SSE, Fish in VC, and
+Harris in LDP, all with 8+ completions), with Fish recently awarded UKCGE recognised research
+supervisor status, and external co-supervision further expands our supervisory capacity. Career
+destinations for our PGRs include lectureships and senior positions internationally (eg Abubakar,
+Rector at Katsina State Institute of Technology and Management, Nigeria), research posts and
+senior roles in the UK and international industrial sectors (eg Mavropoulos, Head of Engineering,
+CyberLens, Greece; Burlutskiy, AI Scientist, Early Oncology R&D, AstraZenica, Cambridge, UK).
+
+2.3. Ensuring equality, diversity and inclusivity
+We are a multinational community of staff, students and visitors from diverse backgrounds, and
+countries (eg Greece, Iran, Mexico, Nigeria, Russia and Turkey). At the heart of our commitment to
+an inclusive workplace is the wellbeing of our staff and PGRs, our culture expects issues to be
+discussed openly and staff undertake mandatory online training (EDI Essentials, Unconscious
+Bias, Interviewing & Recruitment, Managing Diversity, Dignity at Work). The University provides
+additional training (eg on LGBTQ, trans and disability awareness).
+
+UoB is one of only 17 HEIs to hold a Bronze Race Equality Charter, is a Disability Confident Level
+2 employer, holds Athena SWAN institutional Bronze, and is in the latest submission of the
+Stonewall Top 100. Fallahkhair, Fish and Rodriguez are on the School’s Athena SWAN
+committee, contributing towards the School’s bronze award in 2019. Our Athena SWAN action
+plan’s progress is overseen by the School Equality & Diversity Committee, comprising academic,
+administrative and technical staff and PGRs. All decision-making committees at School and Unit
+level are representative in terms of seniority and gender, with membership scrutinised by the
+committees. Equality impacts are assessed for policy documents developed by these committees
+                                                                                            Page 7
+Unit-level environment template (REF5b)
+and for all conference, training and research support allocations. Internal funding schemes are
+subject to an annual EIA (since 2017) that covers gender, disability and ethnicity.
+
+Measures are in place at University, School and UoA level to promote inclusion and deliver the
+University EDI Strategic Plan and Race Equality Charter Action Plan. We have established BAME
+mentoring and allyship programmes, offer bespoke promotion workshops, and leadership and
+management development programmes for BAME staff. EDI aspects of appointments, including for
+internal research leadership roles (eg Centre Directors), are overseen by Human Resources.
+Women hold key School leadership roles, including the Associate Dean for Research and
+Enterprise, and the Computing Research Lead (Belz). Computing researchers were represented
+by 5 members in the University’s Women of Impact celebration of International Women’s Day
+2018.
+
+Researcher development activities run during core hours and rotate between days so that part-time
+staff and those with caring responsibilities are not disadvantaged. Schools offer a Returning to
+Research Fund to support staff returning from an extended period of parental leave or ill health.
+We strive to minimise the use of fixed-term contracts to provide stability for career development:
+97.4% eligible staff and 100% of those with a significant responsibility for research are on
+permanent contracts, as are all lecturing staff appointed since 2014.
+
+Our REF Leadership Team comprised 6 staff with 33% female, and 50% of our Impact Case
+Studies were led by women. Output selection and attribution of outputs were agreed by the
+Leadership Team at a selection meeting, with the primary inclusion criteria being pre-agreed
+quality judgements following internal reviews. An equality impact assessment on selection and
+attribution of outputs demonstrated proportionality for mid-career stage researchers (53% outputs
+selected vs 52% staff) with slight variations for gender (14% outputs vs 20% female staff), early
+career stage (5% ECR vs 10% staff) and within the professoriate (16% vs 10% staff).
+
+3. Income, infrastructure and facilities
+
+3.1. Research funding, strategies and awards
+Our strategy for generating research income, to ensure sustainability and facilitate growth, is to
+provide financial and mentoring support for all new researchers so that they can obtain external
+grants, whilst encouraging staff to diversify income sources. Since 2014, we targeted (i) EU
+funding, extending our international influence; (ii) Innovate UK/industry funding, increasing
+alignment of research and impact activities; (iii) EPSRC, developing new researchers into future
+leaders; (iv) UK charities for diversification. We have used expertise in the CSIUS to support a
+widening of our base of funders (to include EU, EPSRC, Leverhulme Trust, and Innovate UK) and
+external research funding has increased by 153% since REF2014.
+
+Our EU income has grown (£1.18m vs £439k in 2014), with 7 projects, primarily aligned with the
+Digital Security and the Information and Communication Technologies topics of Horizon 2020. This
+stems from our income strategy of targeting these funding streams and developing large networks
+across academia, industry and public administration. By utilising our expertise and positioning, we
+address challenges from multiple perspectives. H2020 projects VisiOn (653642, £292k, 12
+partners, overall budget €3.16m)/MITIGATE (653212, £255k, 12 partners overall budget
+€3.55m)/DEFeND (787068, £311k, 10 partners, overall budget €3.33m), adopt
+citizens/industrial/software engineering perspectives, creating novel privacy-by-design
+methodologies that have financial, business and societal impact on organisations across the world
+[ICS_PrivacySoftware]. We develop state-of-the-art methods and techniques to deal with
+cybersecurity challenges in specific sectors including telecommunications (H2020 SESAME
+671596, £234k, 19 partners, overall budget €8.27m), critical infrastructures (ongoing H2020
+CyberSANE, 15 partners, overall budget €6.15m) and health care (ongoing H2020 AI4HealthSec,
+13 partners, overall budget €5m). These projects have enhanced our international reputation and
+influence through collaboration with 28 industrial partners (eg Atos, a global leader in digital
+transformation, and a European leader in Cybersecurity, Cloud and Supercomputing) in 13
+                                                                                            Page 8
+Unit-level environment template (REF5b)
+countries (eg Portugal, Spain, Austria, Italy, UK), 5 national research centres (Greece, Italy,
+Slovenia, France, Germany), 6 universities (in Belgium, Greece, Germany, Italy, UK), 15 end users
+including hospitals (eg Klinikum, one of the largest municipal hospitals in Europe), ports (eg
+Piraeus Port Authority in Athens), public authorities and critical infrastrucutures (in Spain,
+Germany, Greece, Bulgaria, France, Italy). Building on our earlier EPSRC Network on Vision &
+Language (EP/H018557/1, 250+ members), Belz led an international team of researchers from
+Greece, Ireland, Belgium, Spain and Italy in applying for a European COST Action (acceptance
+rate < 5%) for a European Network on Integrating Language & Vision (£520k overall budget);
+Action networking was reported to EU as underpinning 35 successful scientific missions, initiating
+new research collaborations and 7 new projects (including 3 H2020 projects).
+
+Our industrial-facing funding has grown (£1.64m vs £328k in REF2014), and we have broadened
+the number of Innovate UK grant holders (8 vs 3). This stems from our industry engagement
+strategy, utilising extensive networking (eg at Strata Data) and leveraging existing partnerships to
+enable co-application for Innovate UK grants. For example, a successful pilot project with Network
+Rail and South-eastern on Visual Data Mining on Big Data (2014-15, £99k) led to Kapetanakis’
+project for South-eastern, Govia, on Big Data Analytics on sub-threshold delays using fuzzy and
+probabilistic reasoning (2015-17, budget of £2.1m, with £378k to UoB), developing accurate
+models to reduce train delays and thereby reduce fines imposed. Impact generated from Innovate
+UK’s KTPs has included job creation (2 engineers) at BCMY (Knowledge management
+development for Enterprise Systems, £175k). Software developed for Graduate Recruitment
+Bureau’s tool (Autonomous user profile identification for social engines, £137k) contributed to the
+opening of a London site with a dedicated team (Expert Hire, 6 recruiters). Another Innovate UK
+project (Mouratidis, £120k) focused on the commercialisation of privacy engineering research and
+the development of a tool to support DevOps to incorporate privacy analysis and compliance. Data
+analysis from the ongoing Innovate UK project with Parafix Ltd (Belz, £72k, with UoB budget
+£243k) to automate planning and scheduling processes using artificial intelligence has uncovered
+insights about cutting tool pressure changes, leading to efficiency gains for the company.
+
+Training and investment in future leaders have grown our income generation capacity, with 6 staff
+(all ECRs in 2014) attracting funding (£1.35m) during the census period, accounting for 36% of our
+total. Our income diversification strategy yielded a new source of funding from UK charities
+(Leverhulme Trust, £295k) for interdisciplinary projects: A Mathematical Model of the Formation
+and Growth of Cavities in the Spinal Cord (Harris), where the results of biological experiments
+provided the model’s numerical values of parameters (eg density, Young’s modulus) of the tissues
+in the cord; and Accessible Reasoning with Diagrams (Stapleton), which used empirical studies to
+guide the development of foundational approaches to reasoning, building upon one of our four
+EPSRC new investigator projects (total £374k) on readability of proofs in diagrammatic logics
+(Burton, EP/M011763/1).
+
+3.2. Infrastructure supporting research and impact
+UoB Research Services play a pivotal role in assisting our staff to secure funding by providing
+support for bid-writing, identifying commercial opportunities, sourcing industry and community
+partners, administering projects, and facilitating training workshops. Research management is
+supported by the School’s Research & Enterprise Committee, which administer QR funds and
+manage research integrity, researcher development and local delivery of the Research Concordat
+Implementation Plan; membership is inclusive in terms of gender and career stage, and include
+research theme leads, Centre Directors, ECR, PDRF and PGR representatives. Mouratidis directs
+CSIUS, supported by Associate Directors Rodriguez for Research Strategy, Touloumis for
+Researcher Development, and Fotis (from UoA A3) for Outreach.
+
+The offices used by our staff and PGRs in the Cockcroft building, together with laboratories, were
+renovated through a £26m refurbishment in 2015, which won an Architects’ Journal Retrofit Award,
+providing a modern academic and learning environment.
+
+
+
+                                                                                             Page 9
+Unit-level environment template (REF5b)
+Visual Computing Facilities. The Digitisation Lab, led by Rodriguez, is used to underpin
+research for applications within industry, the creative sectors and cultural heritage institutions. It
+contains specialist processing equipment (£51k), fixed and hand-held 3D scanners (£73k), a
+Reflectance Transformation Imaging (RTI) acquisition dome, VR equipment, and a
+stereolithography 3D printer. The laboratory and equipment are essential for the digitisation of
+artefacts and environments, and the production of accurate digital images and 3D models. This
+supported 7 PGR projects, research training for postgraduates and heritage professionals on
+digitisation, facilitated research proposal development in collaboration with other institutions
+[ICS_Heritage]. The User Centred Design Laboratory, led by Fallahkhair, contains eye-tracking
+and EEG technologies to acquire perceptual, cognitive and behavioural knowledge of participants,
+with wide screen HD monitors to display visual stimuli, together with a noise-free, constant-
+temperature controlled room. It has been essential for conducting empirical experiments,
+deepening understanding of the efficacy of diagrams (Blake, Touloumis) and informing the design
+of smart environments for cultural heritage (Fallahkhair).
+
+Language and Data Processing Facilities. Investment in a dedicated high-performance
+computer cluster (£70k), hosted by our School, together with 0.4FTE technical support (supported
+by QR funds) for development and maintenance, enables fast parallel computations for
+uninterrupted in-house simulations. This complements our existing collections of high memory
+machines and servers. Together, these have been essential in applying deep learning techniques
+and visual computing capabilities, underpinning 5 PGR projects. Additionally, we use the Data
+Laboratory, which provides offices and computers for up to 20 businesses as well as meeting and
+event space, and computational facilities (service owner Belz) funded by a Local Growth Fund
+grant and linked to the £1.1m EDRF-funded Digital Research Innovation Value Accelerator project
+(DRIVA, returned in UoA34; see 4.3).
+
+Secure Systems Engineering Facilities. The Security & Privacy Laboratories, created in 2014,
+led by Mouratidis, contain high performance computers to support the design and analysis of
+security and privacy requirements, and network isolation capabilities for penetration testing and
+malware detection (isolated from the University network). Our research results (methodologies,
+tools) are installed in the labs, providing specialised capabilities for use in contract research and
+research projects. Internet of Things equipment support the development of innovative testbeds,
+enabling security and privacy experiments (eg a testbed was used to establish guidelines for
+potential attacks in IoT devices in the project SESAME).
+
+We share resources across HEIs in collaborative research for essential computations utilising in-
+house and external (eg Savastayanov, a Balena High Performance Computing Service at the
+University of Bath) machines. Close interactions with industry have led to Nvidia Inc contributing
+hardware, software and instructor time in delivering tutorials for a Summer School on Integrating
+Vision and Language with Deep Learning, which in 2016 trained approximately 100 EU students,
+academics and industry representatives (Belz). Google contribute 1 month of staff time and
+support including access to their internal evaluation services every year for the annual Multilingual
+Surface Realisation Shared Task (Belz), enabling benchmark development for evaluation. Gluru
+Ltd. provide access to several Terabytes of their datasets for Natural Language Processing
+research and access to their hardware, used in the creation of semi-automatic business knowledge
+acquisition mechanisms and domain feature decoding (Kapetanakis with Amin, German Research
+Center for Artificial Intelligence).
+
+4. Collaboration and contribution to the research base, economy and society
+
+4.1. Arrangements to support collaboration with academic colleagues at other HEIs
+Our researchers have collaborated with 55+ research institutes, drawn from 16 countries, including
+17 UK institutes (eg Cambridge, Liverpool, Oxford), and 38+ international (eg Sapienza, Stanford).
+Collaboration with academic partners is facilitated by: financial support, mentoring and annual
+SDRs, where staff are encouraged to develop their academic profile through research networks
+
+
+                                                                                               Page 10
+Unit-level environment template (REF5b)
+and consortia; solidifying partnerships and enlarging the reach of our networks via events and
+projects; and promoting PGR supervisory teams to include external members.
+
+Financial support (see 2.14) facilitates collaboration with existing networks (eg Touloumis’ Rising
+Stars award enabled collaboration with CRUK Cambridge Institute and EMBL-European
+Bioinformatics Institute on statistical analysis of multi-tissue gene expression data). Our
+participation in discipline-specific workshops, events and conferences, external HEI visits (eg Fish,
+ECR Polatidis to the University of Salerno), and invitations of national experts to deliver seminars
+are supported using QR funds. We also apply for external funding for international visitors (eg
+Royal Academy of Engineering funding for Prof. Mylopoulos with University of Toronto, Canada,
+which included workshop organisation, with attendance from 8 Universities); international research
+scholars and fellows (eg from Malta, China, France, Japan, and Brazil) visit for periods of up to
+several months.
+
+Collaborations with the University of Sussex have been enabled via a Brighton-Sussex
+Collaborative Research Fund (eg £10k to Rodriguez for community technologies). The joint
+Brighton and Sussex Medical School facilitates collaborative interdisciplinary research between
+Universities, benefitting us via: collaboration in knowledge extraction from patient-generated texts
+(Belz); co-supervision of PGR students (Rodriguez); diffusion tensor brain image method
+development identifying Multiple Sclerosis (Fish, with PGR Elsheikh, Zhou (Loughborough) and
+Cercignani (Sussex)).
+
+National and European funding has enabled joint research projects and collaborations with
+academic colleagues in other institutions. Notable examples of success include:
+    • 6 EU-funded projects with Mouratidis in Secure Software Engineering (with total value of
+       over €20m) have grown our collaborative networks with 15 HEIs worldwide.
+    • Leadership of international networks (chaired by Belz) integrating language and vision,
+       supported by an EU COST action, with 28 countries represented on the management
+       board. The COST action led to the organisation of 7 workshops (co-located with leading
+       conferences in various fields), 3 summer schools, 23 publications, around 30 datasets for
+       multi-lingual annotations for existing datasets, 7 funded collaborative projects, and 170
+       new researchers introduced to the field through training schools, involving leading
+       researchers from industry and academia.
+
+The successful outcome of these arrangements is evidenced by: 93% Category A staff have co-
+published with researchers from other HEIs; 74% of the outputs in this submission are co-authored
+with external academic partners, with 47% written with non-UK partners from 13 different countries;
+over 37% of our external research income has other HEI partners.
+
+4.2. Relationships with research users and how these enrich the research environment
+To develop interdisciplinary user-inspired research that contributes to addressing societal
+challenges we initiate and maintain long-term relationships with users and beneficiaries in areas
+such as Digital Health, Digital Humanities, Education and Critical Infrastructure. We engage
+stakeholders to elicit their requirements in practice, working with them throughout the research
+lifecycle to ensure relevance and increase societal impact potential. This has led to collaborations
+with over 40 different national and international companies, public sector organisations and
+charities, including Google, Nokia, The Pensions Regulator, as well as museums and heritage
+organisations (eg Royal Pavilion Museums); our submitted outputs include 21% with industrial co-
+authors, and external research income includes over 75% with industrial collaborators, charities or
+policy makers.
+
+Initial engagement with users and beneficiaries is facilitated by UoB Research Services, through
+networking (eg at our Industrial Advisory board, with companies such as East Sussex County
+Council, American Express and Gatwick Airport) and via past (eg 3D-COFORM project, see
+[ICS_Heritage]) and present consortium projects (eg DRIVA, making Gatwick’s data more
+accessible). Partnerships are developed and maintained via mechanisms such as: internal funding
+to pilot projects (eg Rodriguez’s Impact Award to co-develop research solutions that addressed
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+Brighton Museum and Art Gallery’s needs for development of the new Archaeology Gallery); direct
+engagement with partners via KTP projects (eg Family Law Partners), knowledge exchange with
+stakeholders through visits, as well as collaborative arrangements for PGR training (eg SEAHA
+PGRs with both heritage and industrial partners supervising). Successful partnerships and events
+generate further contracts (eg with The Pensions Regulator, on data analytics and AI to support
+the Automatic Enrolment directorate, that led to workshops with The Pensions Regulator’s security
+team). We also host visitors from commercial and third-sector organisations (eg BCMY Ltd, NHS
+trusts, Nokia) to facilitate opportunities for prolonged interactions, and staff take secondments in
+companies (eg Kapetanakis with Gluru Ltd).
+
+International stakeholder interaction enhances the reach of our researchers’ influence and impact.
+The European network on integrating vision and language (Belz) had over 400 members from 28
+countries, supporting links with over 30 institutions and companies around the world (with co-
+applicants including Yahoo Inc.). Rodriguez hosted a collaborative workshop Strategies for
+safeguarding and (re)building resilient cultural heritage (funded by the Accelerator Scheme for
+International Networks and Impacts), with users and stakeholders from Brazil, Egypt and Mexico
+co-designing a research agenda.
+
+4.3. Contributions to the sustainability of our disciplines and responsiveness to national
+and international priorities and initiatives
+Our staff provide intellectual leadership to national and international committees of professional
+associations and research networks. For example, Mouratidis’ participation in UK wide activities
+(eg Expert Fellow of the ESPRC NetworkPlus SPRITE+), membership of standards committees
+(eg BSI IOT/001 Privacy-by-Design, providing the UK contribution to the upcoming ISO 23485
+standard and IST/015 Software and Systems Engineering), and leadership of international working
+Groups (eg elected Vice-Chair of the International Federation for Information Processing WG11.14
+on Secure Engineering), enabled us to lead international strategy on Secure Engineering and
+international standards development on Privacy-by-Design. Standard evaluation methodology is
+essential in ensuring sustainability of a discipline; towards this goal, Belz has led an international
+effort in benchmarking and evaluation focused around Shared Task organisation since 2007
+(recently on Surface Realisation and Reproducibility of Human Evaluations in Natural Language
+Generation).
+
+Our research exploring user engagement and experience of ubiquitous computing technologies in
+heritage settings (Winter) has increased awareness, shared best-practice guidelines, and
+improved learning in the heritage sector by disseminating findings through trade shows, events
+and professional publications that have reached over 20,000 online, and over 8,000 in print.
+Kapetanakis’ proposal to the Rail Safety and Standards Board for changing the performance
+monitoring standards by National Train Operator Companies was accepted as a deliverable
+(considered to be a standard by 2025).
+
+We provide essential support for industry-facing data-processing needs, facilitating interdisciplinary
+research and increasing regional competitiveness. For example, the Digital Research & Innovation
+Value Accelerator (DRIVA) project (returned in UoA34) is a collaboration with Gatwick Airport Ltd,
+making their flight and commercial data accessible to SMEs to create new products and services
+for the open market. Belz, Touloumis, Song (with Sinah from Brighton Business School) co-
+developed AI/data solutions with SMEs, creating software to access live Gatwick Airport flight and
+commercial data; we provided data sets and training to over 100 SMEs via the Data Driven UXD
+programme that included Vodafone, IBM, Tesco and Booking.com. The linked ArtsDRIVA project
+introduced 13 artists to emerging technologies (immersive, interactive, 5G and quantum
+computing) to utilise in their practices.
+
+4.4. Wider influence, contributions to and recognition by our disciplines
+We advise nationally and internationally, with Rodriguez being a member of the Executive Board
+of the Eurographics Association, and Winter advising the Management Board of QueenSpark
+Books on digital strategy. Belz chaired the Management Board for the European COST Action on
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+Integrating Vision and Language (IC1307, 2014-2018), was a member of EPSRC Network RefNet
+(EP/J019615/1, 2012-2016), and served as lead reviewer for 4 European Commission reviews of
+FP7 and H2020 projects. Mouratidis has been chair/member of international funding body panels
+(eg EU, Norway, Belgium, and Australia), and served on advisory boards (eg EU-funded projects
+SHIELD/GUARD, the US Department of Energy), and a working group from the European
+CyberSecurity Agency tasked to define and propose a skills-and-competences framework for
+cybersecurity). Within the UK’s remit, Belz, Fish, Mouratidis, and Rodriguez are EPSRC Peer
+Review College members, and Belz regularly serves on EPSRC funding prioritisation panels.
+
+Fish, Mouratidis, Rodriguez have been members of 10 editorial boards (eg Mouratidis for the
+Requirements Engineering Journal; Rodriguez for the ACM Journal of Computing and Cultural
+Heritage) and 5 staff (Belz, Burton, Fish, Mouratidis, Pavlidis) have guest-edited 6 special
+issues (eg Belz for the Journal of Natural Language Engineering, Burton for the Journal of Logic,
+Language and Information, and Fish as managing guest editor for the Journal of Visual Languages
+and Computing).
+
+We have held leadership roles in major conferences and symposia, for example: Steering
+Committee membership (eg IEEE Symposium on Visual Languages & Human-Centric Computing
+(Fish), IEEE International Conference on Research Challenges in Information Science
+(Mouratidis), and Eurographics Working group of Computer Graphics and Cultural Heritage
+(Rodriguez)), and 11 general/program chair roles by 4 staff (Belz, Fish, Harris, Mouratidis) with
+Harris, Mouratidis organising international conferences in Brighton. We provide academic
+leadership via keynotes at International Conferences (eg on Natural Language Generation (Belz)
+and the Next Generation Enterprise Modelling in the Age of Internet of Things (Mouratidis)).
+Researchers have received recognition: best paper awards (eg Digital Heritage (Rodriguez),
+Diagrams (Burton)), and nomination (Belz) for the NAACL Test of Time Award 2018, which
+recognizes two papers each year for their lasting impact on the Computational Linguistics field.
+
+4.4.1. Cooperation and collaborative arrangements for PGR training
+Whilst participating in collaborative and interdisciplinary DTP/CDTs, we supported all 57 SEAHA
+PGRs across UoB, UCL and Oxford, through digital training on the SEAHA MRes, bespoke
+international training in collaboration with colleagues at CNR-ISTI (Pisa) and follow-up training on
+Heritage Enterprise and Digital Methods. The 3rd International Conference on Science and
+Engineering in Arts, Heritage, and Archaeology was held at the University of Brighton, 2017, run by
+SEAHA PGRs, and chaired by our PGR Webb, with around 140 participants and presenters from
+UK, Poland, Germany and Belgium. In 2018, we organised the largest of the annual SEAHA
+residential training events, at which 44 PGR students from Brighton/UCL/Oxford engaged in two
+days of PhD and career development events and student-led planning and support activities.
+Additionally, staff provide PGR training internationally (eg in 2017, Fish delivered an advanced
+interdisciplinary course at the European Summer School in Logic, Language and Information,
+which attracts around 400 participants every year).
+
+4.5. Engagement with diverse communities and publics through research
+We engage industry, public authorities and beneficiaries by organising seminars and knowledge
+exchange events (eg on Privacy and GDPR, attended by local companies and public authorities
+such as NHS and the Brighton and Hove City Council) and exhibitions (eg at the Museum and
+Heritage show). We raise awareness of our research and impact via engagement with wider
+public-facing events including school/college and public talks national and regional science/STEM
+fairs and festivals (eg Brighton Digital Festival, Universities Week, and the SEAHA Mobile Heritage
+Lab at British Science Festival). We target events at communities across age ranges (eg
+CoderDojo Brighton, a free coding club for young people encouraging creativity; Codefest (ECR
+Baimagambetov), a monthly term-time event with software engineering problem-solving activities,
+with mentors from local companies such as Brandwatch; presentations to Lewes University of the
+3rd age (Pavlidis, cyber security research to around 50 members), and organise events with
+community stakeholders (eg Belz, international AI research competitions with Google). Rodriguez
+
+                                                                                           Page 13
+Unit-level environment template (REF5b)
+undertook collaborative research with community partners and the University of Sussex to
+investigate technologies that connect communities to their urban landscape, leading to a best
+paper award at the Eurographics Workshop on Graphics and Cultural Heritage. PGRs and staff in
+the STEM ambassadors programme engage in community activities, complementing active
+research engagement, such as enabling school children, disadvantaged young people and
+visually-impaired audiences to interact with history and arts in more inclusive and engaging ways
+(Rodriguez) – eg via 3D-printed replicas that help (partially) blind audiences to experience works
+of art normally exhibited in glass cabinets, and creative ways to interact with local histories to
+support wellbeing and a sense of identity within members of the community (see [ICS_Heritage]).
+
+
+
+
+                                                                                           Page 14
+

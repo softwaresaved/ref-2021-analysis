@@ -1,0 +1,920 @@
+Unit-level environment template (REF5b)
+
+
+
+ Institution: University of East Anglia
+
+
+ Unit of Assessment: UoA 11 (Computer Science and Informatics)
+
+
+ 1. Unit context and structure, research and impact strategy
+
+ Overview of unit structure
+
+ The School of Computing Sciences (CMP) is one of six Schools in the Faculty of Science of the
+ University of East Anglia (UEA) in Norwich. This Unit encompasses 29 permanent academic
+ research staff, 27 from CMP and one from each of the School of Mathematics and Norwich Medical
+ School. Research activity is grouped into five “laboratories”: Colour and Imaging,
+ Computational Biology, Data Science and Statistics, Interactive Graphics and Audio, and
+ Smart Emerging Technologies, although of course there is considerable interaction across the
+ five labs.
+
+ Much of CMP’s research involves collaboration with national and international partners, ranging
+ from academia, industry and leading Research Institutes such as The Alan Turing Institute.
+ There is also close collaboration with other UEA Schools (notably the Schools of Biological
+ Sciences, Norwich Medical School and Environmental Sciences) and the Research Institutes
+ of the Norwich Research Park (NRP), one of Europe’s largest collaborative research sites. With
+ around 3,000 researchers and clinicians and an annual research spend of over £130 million, NRP
+ provides a thriving research environment for CMP, including joint initiatives, seminars, projects
+ and PhD students in areas such as Artificial Intelligence, High Performance Computing, Data
+ Science and Bioinformatics.
+
+ Progress against REF2014 plans
+
+ Over the REF period, our 2014 strategy of strengthening our links and partnerships nationally and
+ internationally and with industry has yielded a diverse research output (over 490 peer-reviewed
+ journal/conference outputs appearing in at least 220 different journals, with over 140 co-authors
+ from more than 27 countries listed in the UEA Digital Repository), impacting on digital critical
+ infrastructure, health, society and the environment, as well as local/international companies such
+ as BT, Aviva and Apple (see e.g. additional information provided for outputs). CMP has sustained
+ its income stream, with more than 80 research awards and a UEA value of over £17.9M in the REF
+ period (compared with £13.5M reported for REF2014), of which £6.2M income is reported in
+ REF4b (£7.5M for REF2014). Research awards were from a broad range of funders, including
+ EPSRC, BBSRC, NHS, NERC and the EU, and many of these awards involved multiple partners
+ (the total award value of UKRI grants involving CMP staff was in excess of £28M).
+
+ In 2015 CMP’s research underwent a root-and-branch review to strategically drive forward its
+ research led by the PVC Research & Innovation with an invited external expert reviewer. Two
+ major aims were identified: to broaden CMP’s research areas and to increase the number of
+ early career faculty. Over the REF period these aims have been addressed by investing in a new
+ professor Parr (Telecommunications), who is currently Head of School (HoS), and lecturers Aung
+ (Medical Sensors), Buckley (Cyber Security), Ren (5G), and Zebin/Zhao (Artificial Intelligence/IoT)
+ to create the new Smart Emerging Technologies research area. In addition, the School has
+ appointed new lecturers to strengthen the existing research areas of Machine Learning (Lines),
+ Image and Colour (Mackiewicz), Digital Humans (Taylor), and Computational Biology (Wu).
+ Further appointments, seeking a Chair in Smart Connected Environments in association with BT
+ Adastral Park, a Senior Lecturer in Cyber Security, and a Lecturer in Robotics and Autonomous
+
+
+                                                                                             Page 1
+Unit-level environment template (REF5b)
+ Systems jointly with the School of Engineering are planned (appointments delayed by COVID-19
+ pandemic).
+
+ Research objectives over the next 5 years
+
+ CMP’s vision is to deliver international research excellence with impact so as to address a
+ range of priority challenges identified by UKRI and the government linked to Sustainability,
+ Society, Economy and the Environment. CMP’s research is scientifically underpinned,
+ predominantly applied, and by its very nature genuinely interdisciplinary which lends vitality and
+ puts CMP in a strong position to deliver on this vision. Over the next five years our strategic
+ approach to research and impact will be driven by the following key goals:
+
+ (1) To further grow and strengthen our research excellence, including development of new
+ areas including Cyber-risk and Smart Environments. This will be underpinned by ongoing growth
+ in research and teaching income, and a strategic growth in research staff.
+
+ (2) Push our regional place-based agenda through ongoing and unique opportunities in the
+ East of England with regional stakeholders from ICT, Creative Industries, Health, Agritech,
+ Manufacturing, Supply Chain and Energy. To do this we are actively engaging with several
+ regional technology clusters named below, as well as the new Productivity East hub.
+
+ (3) Leverage collaborations with key partners both locally (e.g. the BBSRC Earlham and
+ Quadram Institutes and Norwich and Norfolk University Hospital) and at the national and
+ international level (e.g. BT, Aviva, IBM, Siemens, Anglian Water, Apple, Lotus Engineering,
+ Productivity East), taking advice from industry and business (e.g. via CMP’s industrial panel), to
+ both raise income and leverage new impact.
+
+ (4) Develop new partnerships in PhD training, building on the new EPSRC Centre for Doctoral
+ Training (CDT) in Agri-Food Robotics established in 2019 with Lincoln and Cambridge and the
+ NRP-based NERC, BBSRC and Leverhulme Doctoral Training Partnerships, so as to support
+ cutting-edge research and secure new PhD funding.
+
+ Research laboratories
+
+ We now present the five research labs and their plans (lab members listed with lead in bold).
+ Highlights for each lab’s income and additional achievements are given in Section 3.
+
+ Colour and Imaging (Finlayson, Mackiewicz): This lab’s research is wide ranging and during the
+ REF period it has pushed forward investigations into perception (how we see), colour image
+ processing pipelines (display and acquisition/camera) and physics-based computer vision. It
+ works with partners across the UK and beyond (e.g. through the EPSRC Network, “Vision in Image
+ Interpretation in Humans and Machines”, 2014-17, and conference/summer school organisation
+ e.g. British Machine Vision Association’s PGR summer school in computer vision). In addition,
+ it fosters close relationships with industrial collaborators (see e.g. Spectral Edge Ltd. impact case
+ study). This lab was the UEA lead for the “AgriForWards” EPSRC CDT, the world's first CDT in
+ agri-food robotics (https://agriforwards-cdt.blogs.lincoln.ac.uk/). Supported in part through
+ Finlayson’s ongoing EPSRC Established Career Fellowship, the lab’s growing portfolio of
+ research interests includes the deployment of “in the field” computer vision systems, e.g. jelly-
+ fish monitoring using deep-net based systems funded by Centre for Environment, Fisheries and
+ Aquaculture Science (Cefas) and other industrial collaborators.
+
+ Computational Biology (Brewer, Greenman, Hayward, Huber, Moulton, Wu): This lab produced
+ research spanning the biological hierarchy from genome (e.g. protein structure modelling)
+ through to organism (e.g. cancer bioinformatics) and ecosystem (e.g. phylogenetics and
+ metagenomics). A key driver continues to be the ongoing explosion in data production via high-
+ throughput sequencing technologies which can deliver vast numbers (109) of short sequences
+ (40–600 nucleotides) in a matter of hours, as exemplified by Moulton’s BBSRC-funded work on
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+ developing algorithms and open-source software for small RNA research. The lab will continue to
+ build on its NERC- and BBSRC-facing research in bioinformatics theory and software with partners
+ such as the Earlham Institute and the Norwich Medical School. Through involvement in initiatives
+ such as ELIXER, this will feed into ongoing national and international projects (e.g.
+ metagenomics of marine phytoplankton and phylogenetic approaches for the UK The Darwin
+ Tree of Life Project).
+
+ Data Science and Statistics (Cawley, Bagnall, De La Iglesia, Kulinskaya, Lines,
+ Nikoloulopoulos, Wang): The lab has developed analytical approaches that use a combination of
+ data science and statistical techniques to exploit big data. As exemplars, in EPSRC-funded
+ research, Bagnall and Lines have introduced and evaluated algorithms for time-series
+ classification in collaboration with the Alan Turing Institute, and, funded by the Institute and
+ Faculty of Actuaries (IFoA), Kulinskaya developed a methodology for modelling longevity and
+ morbidity risks. Going forward, the lab will continue methodology development in statistics and
+ machine learning such as copulas, time-series classification, ensemble methods, and deep
+ learning approaches for big data analysis. Focus applications include health data, seeking
+ funding via e.g. EPSRC’s Health Technologies Theme and MRC (in collaboration with e.g.
+ Norwich Medical School and the University Hospital), actuarial data through ongoing
+ collaboration with Aviva and IFoA, and industrial applications (e.g. ongoing collaboration with
+ Greater Anglia/Network Rail).
+
+ Interactive Graphics and Audio (Day, Harvey, Lapeer, Laycock, Milner, Taylor). The lab has
+ driven forward the analysis, processing and generation of audio and visual signals in machine
+ vision, computer graphics, and audio and speech processing, motivated by applications to
+ creative digital industries, robotics and healthcare technologies. For example, through her
+ ongoing EPSRC Innovation Fellowship, Taylor works on linking speech and face-and-body
+ gesture with the New Zealand company UneeQ, and, in AHRC-funded work within the Virtual Past
+ enterprise (http://www.virtualpast.co.uk/), Day collaborated with UEA’s School of History on the
+ Magna Carta reconstruction project (see Section 4). Moving forward, audio work will be largely
+ society and industry-focused (e.g. collaboration with the Gardline company to develop passive
+ acoustic monitoring systems to detect cetaceans from autonomous surface vehicles), 3D
+ modelling of urban environments has started to employ drones plus reconstruction software to
+ survey historical sites, and virtual reality research includes development of interactive haptic
+ tools for drug design and childbirth simulation software.
+
+ Smart Emerging Technologies (Aung, Buckley, Liu, Mayhew, Parr, Ren, Zebin, Zhao): This lab
+ was established in 2017, adding new diversity to CMP’s research base. Its members address
+ technology-based research challenges in areas such as cyber security, network resource
+ optimisation, data management in assistive living, cloud-edge computing/network
+ management/5G, and smart environments. It has a strong international agenda; e.g. through
+ Parr the lab is involved in a US-Ireland-NSF Project exploring the agility of high-bandwidth optical
+ connections that support high-capacity cloud applications, and it is a partner in the EPRSC-funded
+ Internet of Food Things network. Moving forward, the lab aims to develop more proactive,
+ intelligent, autonomous systems that can learn, adapt and make secure decisions without the need
+ for human control. It will grow its expertise in smart environments (e.g. through Zhao’s
+ InnovateUK-funded work to deliver smart local energy solutions) and cyber-risk (e.g. building on
+ Buckley’s EPSRC-funded work on using conversational agents in healthcare, defence and
+ security and technology). Supporting this will be the 2019 investment in a new Cyber Security
+ Lab and introduction of an MSc in Cyber Security, which will spin-out new research projects
+ together with partners including BT, Siemens, Intel, IBM, Aviva, and the Norfolk Constabulary.
+
+ Enabling and facilitating impact
+
+ During the REF period, over £1.8M was brought in via consultancy, enterprise and training through
+ over 80 awards and contracts in addition to the research awards reported above, almost doubling
+ the £1M reported in REF2014. Much of CMP's enterprise activity is enabled through
+
+
+                                                                                              Page 3
+Unit-level environment template (REF5b)
+ SysConsulting Ltd. (SYSCo) a consulting unit trading through UEA Consulting Ltd, a wholly
+ owned subsidiary company of UEA (http://www.sys-consulting.co.uk/web/).
+
+ Following our REF2014 strategy, we are engaging with a number of Regional Technology
+ Clusters, most notably Innovation Martlesham; SyncNorwich; AgriTechEast; TechEast; East of
+ England Energy Group; and the New Anglian Local Enterprise Partnership. These relationships
+ play a vital role in raising the research profile and innovation activities in CMP with key users. It
+ also ensures our research has opportunities to move up the technology readiness levels and
+ can feed into important sectors of the regional economy (e.g. Nuisance Call Detection with BT
+ through an EPSRC iCASE award, and Train Delay Prediction/Prevention with Network
+ Rail/Greater Anglia).
+
+ Impact is also driven forward through careful support and dedicated UEA funding. Potential
+ routes for Impact Case Studies (ICSs) and impact funding are identified and nurtured within CMP
+ led by the Director of Innovation (Hayward) who regularly meets with project leads to offer
+ guidance and signposting to resources. The range of UEA support covers financial, legal, IPR
+ management, marketing, commercialisation. These informal interactions feed-forward into a
+ formal annual research review cycle which involves in-school review, followed by Faculty-level
+ and then PVC reviews. Feedback and quality assessment provide a gateway to accessing UEA
+ impact funding which is allocated on a case-by-case basis that best aligns with CMP and UEA’s
+ impact development agenda. In the REF period, the School received 18 UEA grants totalling
+ £158K for impact development.
+
+ Our three submitted ICSs were selected from a portfolio of 16 active ICSs that exemplify CMP’s
+ wider contributions to the economy and society. The contacts and collaborations engaged
+ developing our ICSs, and nascent impact activities, substantially enrich CMP’s research
+ environment by providing funding for staff research programmes, stimulating new lines of
+ research, and enabling communication of our research with diverse communities. The ICS
+ “Spectral Edge” illustrates our support of a spin-out company by a member of staff, “Computer
+ Vision for Monitoring of Animal Populations” illustrates impact generation through
+ engagement with EU and local partners Cefas, and “Improved Evaluation of Longevity and
+ Mortality Risks within the Actuarial Profession and Insurance Industry” illustrates impact
+ generation through a close association with a UK professional body, IFoA, and a multi-national
+ company, Aviva plc.
+
+ Approach to interdisciplinary research
+
+ A key strength in CMP’s interdisciplinary research is its extensive involvement in the NRP and
+ the wide-ranging interdisciplinary collaborations and research vitality which this brings. In many
+ cases this is via our PhD student cohort, who have supervisors from across the NRP, but require
+ core Computer Science to solve research problems linked to areas including AI, HPC, Data
+ Science, Bioinformatics, Health & Disease, and the Environment. Key ongoing CMP interactions
+ are with the BBSRC-Earlham Institute (EI), the BBSRC-Quadram Institute (QI) and the Norfolk
+ and Norwich University Hospital (NNUH). Development of NRP projects is facilitated through:
+
+   Events such as Birds-of-a-Feather meetings with staff in other research institutes (e.g. EI
+    and QI), in which we meet to present our research and brain-storm new ideas to take forward.
+   Sharing Calls for Funding with UEA Schools and NRP institutes from UKRI and other
+    funding bodies such as charities (e.g. UKRI and Leverhulme Fellowships).
+   School membership of Institute Steering Boards (e.g. Parr sits on the QI Steering
+    Committee).
+   Engagement with clinicians and medical practitioners at NNUH (e.g. De La Iglesia
+    collaborates with clinicians working on prostate cancer).
+   Open research forums such as the School annual PGR-Day, UEA’s Vitae in Three
+    Minutes Thesis Competition and the UEA Researcher Summit where PGR students, RAs
+    and their supervisors can share and promote their research.
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+
+ Research integrity within an open environment
+
+ CMP’s ethics committee has been in place since 2011. Its members review all ethics applications
+ from the School taking into consideration UKRI policies for Responsible Research Innovation.
+ Straightforward applications are reviewed by the Chair or Deputy Chair, while more complex
+ applications are considered by the whole Committee. This ensures a flexible and proportionate
+ review is provided for activities covered by UEA’s research ethics policies (UEA is a signatory to
+ the UUK Concordat to Support Research Integrity). CMP also actively supports an open research
+ environment through making its research outputs - including publications, software and data -
+ available to a wider audience whenever possible. This includes making publications available
+ through the UEA Digital Repository and through Open Access Journals, in line with UEA’s
+ Institutional Open Access Policy. CMP also makes much of its software openly available (e.g.
+ through GitHub), as well as making data available for algorithm evaluation (e.g.
+ http://dyndom.cmp.uea.ac.uk/dyndom/ and http://www.timeseriesclassification.com/).
+
+
+ 2. People
+
+ Staffing strategy and staff development
+
+ CMP’s staffing strategy is to create a sustainable and thriving research environment through
+ recruitment of internationally excellent staff into core areas of Computing Science and careful
+ support of existing staff. In recent years, CMP has increased its new recruitment, with Academic
+ Teaching and Research (ATR) hires at the senior level (Parr, Buckley, Lee) and junior levels
+ (lecturers Aung, Mackiewicz, Lines, Ren, Taylor, Wu, Zebin, Zhao), as well as new ATS (Academic
+ Teaching and Scholarship) appointments (Blair, Bostrom, Chin, Mapp). Recruitment of a new ATR
+ Lecturer, Senior Lecturer and Chair is planned and, as student numbers in CMP remain buoyant,
+ strategic ATR appointments will be made across all of the School’s research groups. The School
+ has focussed on maximising the pool of female applicants and ensuring that Equality and Diversity
+ (E&D) is embedded in the recruitment processes.
+
+ Responsibility for staffing strategy rests with the HoS and the School’s Executive Team (including
+ six senior staff members, including the Directors for Research (Moulton), Innovation (Hayward),
+ Teaching and E&D (Kulinskaya). New ATR appointments are aligned with the School’s research
+ priorities, as determined by the School’s Research Committee (comprised of lab leaders and
+ Research, Innovation, PGR, E&D Directors). CMP’s Research and Innovation Directors sit on the
+ relevant Faculty of Science committees, facilitating the flow of information between CMP and the
+ University, as well as ensuring that the School’s overall strategy is informed and contributes to the
+ Faculty and University as a whole. CMP also strategically hires a small number of non-research
+ ATS faculty (currently roughly 20% of academic computing staff) who focus on teaching, freeing
+ up research time for ATR faculty.
+
+ CMP has a workload model which ensures faculty engaged in research activities (e.g. leading
+ grants, participating in national/international committees, chairing conferences, and Journal
+ Editorial membership) have lower teaching and administrative duties. All ATR staff have a base
+ research allowance of 30%. Additional credit can be given for innovation and engagement
+ activities such as developing technology, establishing spin-out companies and consultancy with
+ the agreement of the HoS and Research Director. New ATR staff members in their first lecturing
+ post receive an extra 15% reduction in their workload for each of their first two years. They also
+ receive a Faculty start-up package of £7.5K per year for the first two years and are assigned a
+ mentor who is generally a senior member of their research lab (all staff can request a mentor at
+ any career stage). The Faculty also ensures that every new member of staff is given priority in
+ the Faculty’s annual allocation of PhD studentships (e.g. Lines, Ren and Taylor received
+ studentships through faculty-wide competition).
+
+
+
+                                                                                               Page 5
+Unit-level environment template (REF5b)
+ All research staff have a formal annual research activity planning meeting. The aim is to
+ encourage self-reflection and strategic planning by individuals on their research activities, as
+ well as providing a sounding-board for future plans. Recently, after consultation with staff, CMP
+ has moved to holding this planning meeting jointly with an annual appraisal involving the HoS,
+ Research Director and Teaching Director. This provides a greater overview in planning of activities
+ for the following year. The overall approach is supportive: achievements and readiness for career
+ advancement are identified and celebrated, and opportunities for advice, further mentoring
+ support and training are identified. Data on outputs, grant activity, PhD supervision and research
+ impact activity for the last few years is provided centrally, and the individual describes their plans
+ on a simple form. We have found that these meetings encourage staff to plan more strategically
+ (e.g. deciding which UKRI funding calls to target) and provides knowledgeable feedback on future
+ aims and aspirations. An overview of the planning meetings, along with relevant data, informs the
+ School’s annual research review, which is led by the Director of Research and HoS, and
+ overseen by the Associate Dean for Research in Science and the Pro Vice Chancellor for
+ Research. This enhances and supports the strategic planning of the School’s research within the
+ University as a whole, and with government and industrial partners.
+
+ The School Promotion Committee considers all staff each year (whether or not they have
+ applied for promotion) to see whether they would be eligible for early confirmation in post or
+ promotion, and the HoS makes a recommendation to the Faculty Promotions Committee. CMP
+ has implemented a number of actions to encourage promotion applications (e.g. a prompt to
+ discuss promotion in the Appraiser checklist which all staff receive, and a workshop on
+ “Demystifying promotion”). During the REF period four staff were promoted to Senior Lecturer,
+ one to Reader and one to Professor. Faculty can apply for six months of study leave after every
+ three years, with applications assessed on their scientific merit and research ambitions. CMP
+ facilitates research and industrial collaborations by working with faculty to rearrange their
+ teaching or other duties around study leave or other lengthy events/visits. These periods are
+ important as they permit extended visits to globally leading universities, institutes and corporate
+ research labs of world-renown (e.g. Finlayson, Apple, Moulton, Isaac Newton Institute).
+
+ Contract research staff
+
+ The School’s Research Staff Co-ordinator (Moulton) is an important point-of-contact for
+ Research Associates (RAs) and early career researchers. They provide information and a two-
+ way dialogue between RAs and CMP’s executive team, as well as information and advice
+ regarding the support available to them (e.g. via the Researchers’ Working Group or UEA-wide
+ Researchers’ Fora). Research staff also have a representative on the School Board.
+
+ Delivering research excellence depends on attracting, developing and retaining high-achieving
+ research staff. CMP’s aim is to support the development of all research staff and to nurture
+ our early career researchers. Prompted by the 2015 School research review, CMP has
+ increased its focus on attracting research fellows and encourages Fellowship applications via
+ mentoring by experienced research leaders and proposal support from academic, professional
+ and technical staff. Opportunities, call deadlines and the comprehensive support that we can
+ provide are advertised via UEA’s Science Fellowships webpages. During the REF period we have
+ mentored fellowship applications to a variety of schemes, including those funded by EPSRC,
+ Leverhulme and UKRI, as exemplified by Taylor’s EPSRC UKRI Innovation Fellowship awarded
+ in 2018 and Finlayson’s EPRSC Established Career Fellowship in 2019. Fellowship schemes that
+ require a significant financial contribution, such as the UKRI’s Future Leaders Fellowships,
+ undergo an internal sift process organised by the Faculty, which helps direct applicants to the most
+ appropriate scheme.
+
+ CMP implements UEA’s Code of Practice for the Management of Research Staff which provides
+ guidance to research staff and research managers and is informed by the UK Concordat to
+ Support the Career Development of Researchers. The School uses indicative research job
+ descriptions to ensure that RA jobs are costed at the correct level on grant applications and that
+ appointments are made on an appropriate salary grade. From April 2019 the University introduced
+
+                                                                                                Page 6
+Unit-level environment template (REF5b)
+ relocation assistance for research staff, while from summer 2020 it introduced a merit-based
+ promotions process for RA staff which accords with expectations under the revised Concordat
+ for the Career Development of Research Staff. The Faculty funds any shortfall in funding for merit-
+ based promotions and salary progression awards, and also has a new bridging fund to cover
+ short-term funding gaps of up to three months’ employment.
+
+ Research students
+
+ Overseen by the School’s Postgraduate Research Director (Huber), research students play a vital
+ and underpinning role in our research. During the REF period the School awarded 74 doctoral
+ degrees (see REF4a), which is an increase from REF2014 (10.6 vs 9.2 degrees p.a.). This reflects
+ the School’s strategy in the 2015 review to increase PhD student numbers by diversifying its
+ income sources for studentships. In particular, students have been funded from sources such as
+ the Agriforwards EPSRC CDT; the BBSRC NRP DTP; NERC NEXUSS CDT and NERC ARIES
+ DTP (CMP was a partner applicant for the BBSRC and NERC DTPs); EPSRC iCASE-studentships
+ (e.g. BT, Scottish Whisky Research Institute); UEA Science Faculty scholarships; overseas
+ government scholarships; fully/partly industry/institute funded studentships/internships (e.g.
+ Apple, Google, nVidia Research, Turing Institute and IFoA), and self-funding. CMP is also involved
+ in a co-supervision agreement with Southern University of Science and Technology, China. A
+ commended feature of the EPSRC CDT project was the comprehensive approach to equality
+ and diversity.
+
+ CMP runs a rigorous post-graduate student (PGR) recruitment process, with potential
+ students identified initially by application to advertised projects or by scrutinising projects proposed
+ by students, followed by an interview. Interview panel members are independent of the supervisor
+ and in the case of CDT studentships are from across NRP. The student’s academic ability is
+ paramount. PGR studentship funding provided by the Science Faculty is used strategically
+ by CMP to (a) encourage research students into areas outside the CDT and DTP domains, (b) to
+ support early career faculty, and (c) to address specific initiatives (e.g. dictated by our industrial
+ strategy). The Faculty funded 21 CMP studentships in the REF period, representing a significant
+ strategic investment into the School.
+
+ All PGR supervisors are required to undertake training in ‘Best Practice in Research
+ Supervision’ every three years, as outlined in the UEA Code of Practice for Research Degrees.
+ This course is designed and run by the Associate Dean for Postgraduate Research (Science),
+ PGR service and PGR Skills co-ordinators. The course covers best practice in supervision and
+ PhD regulation, but also focuses strongly on the staff-student relationship and student wellbeing.
+ This provides opportunity for all staff to reflect on the role as a supervisor, and a forum to exchange
+ best practice.
+
+ All students are assigned a Training Pathway (TP) when they start their PhD (CDT/DTP’s have
+ specialised pathways; other students take the Science Faculty pathway). The TP has mandatory
+ training requirements as well as suggested professional and personal development which can
+ be tailored to the needs of individual students. Within eight weeks of starting, students complete
+ a training needs analysis. The student can select from a variety of courses, from specialist
+ advanced skills training (e.g. HPC and R), to broader academic and professional/life skills (e.g.
+ academic oral and poster presentation preparation, project management, viva/thesis preparation,
+ leadership skills and employability). The UEA Code of Practice for Research Degrees ensures a
+ commitment to the provision of skills and employability training in the TP for all research degree
+ candidates, bearing in mind national standards including Roberts’ ‘SET for Success’ report, the
+ Vitae Researcher Development Framework and the expectations of Research Councils.
+
+ As well as frequent informal meetings, students meet formally with their supervisory team eight
+ times per year, including an annual review meeting to update and plan TP targets. In addition,
+ after six-eight months they have a formal probationary review to allow progression. As part of the
+ annual review students are required to upload a “living thesis” to a purpose-built CMP database
+ to help ensure that they are on track for submitting their thesis on time. Outcomes of formal
+                                                                                                  Page 7
+Unit-level environment template (REF5b)
+ meetings are recorded by the School and are evaluated by the PGR Director with follow-up actions
+ if necessary.
+
+ All of CMP’s PhD-students are required by the School to participate in CMP’s Annual
+ Postgraduate Research Day. This is a lively forum which showcases their research via poster
+ presentations, and includes an external invited speaker who is involved in judging posters for the
+ best poster prizes. Feedback from students and past invited speakers has been very positive.
+ CMP also runs a research seminar series to which the PhD-students are invited either to speak
+ (e.g. to practice for their viva) or to be a member of the audience. In addition, students can
+ intercalate to undertake internships working in industry and institutes (e.g. placements include:
+ Google Washaw, 2015, Nvidia Research Helsinki, 2018, Google Research Amsterdam, 2019,
+ Alan Turing Institute, 2019).
+
+ Equality and diversity
+
+ CMP received the Bronze Athena SWAN (AS) Award in 2015 which was reconfirmed in 2019,
+ indicating our continued commitment to E&D and to acting inclusively and flexibly wherever
+ possible. We have embedded AS principles within our processes: The HoS is a member of E&D
+ Committee and the E&D Director (Kulinskaya) is a member of the School ET and Promotions
+ Committee. A Deputy E&D Director role was also established in 2017, recognising the breadth of
+ work to be undertaken. Awareness of E&D has been raised through, e.g.:
+
+       Bimonthly E&D committee meetings with rotating annual membership, regular updates
+        given at the School Executive Team and School Meetings. The committee has
+        representation of gender/BAME and early career researchers as well as technicians.
+       Online ‘Diversity in the Workplace’ training, which is compulsory for all staff, renewed
+        every two years (100% compliant).
+       Celebrating female role models through ‘Women in Computing’ posters, online female
+        staff and alumni case studies, and marking International Women’s Day through School
+        celebration events, pledge selfies and posters.
+       Networking opportunities, including daily coffee and lunch breaks in the D’Arcy
+        Thompson communal area are open to everyone in the School including RAs and PGR
+        students (for now moved online).
+       A commitment to E&D together with a positive action statement in job adverts, and
+        completion of UEA’s ‘Recruitment and Selection training’ for staff involved in recruitment,
+        which includes a component on unconscious bias.
+
+ The number of female academics in the School has increased to eight (22%) of ATR/ATS staff,
+ compared to three (10%) in 2009 and five (16%) in 2015. In particular, the gender gap in the staff
+ pipeline has narrowed at Senior Lecturer and Professor level since 2009 with the promotion of
+ two female Lecturers to Senior Lecturer in 2012 and the recruitment of a female Professor in 2010.
+ Recently, it has also narrowed at the Lecturer level with the recent recruitment of three female
+ Lecturers (Taylor, Chin (ATS), and Zebin). CMP robustly analyses recruitment data, and our
+ commitment to fostering an inclusive culture is evidenced by the number of BAME staff working in
+ the School.
+
+ All staff have access to ResNet, a UEA-supported network promoting equality and fairness across
+ the NRP. The School promotes wellbeing through highlighting University-provided support such
+ as the staff counselling service, Mental Health First Aiders, the Employee Assistance Programme,
+ the ‘Report and Support’ online tool and the on-campus medical centre. Flexible working, defined
+ core-working hours, and care leave policies are in place to support a healthy work-life balance and
+ family friendly working. Support packages were put in place for researchers having to work from
+ home due to the COVID-19 pandemic.
+
+ All pregnant/adopting employees are offered a meeting with HR to discuss entitlements and have
+ a meeting with their line manager to complete a H&S Risk Assessment, agree the level of contact
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ during leave, and discuss cover needed for their work. The line manager organises cover and can
+ apply for additional resources if required by submitting a post release to the Faculty. Since 2015,
+ the Faculty has allocated £10K p.a. to support career development and transition back to work
+ following six months’ leave or more. All staff can make a formal flexible working request for a
+ permanent change to their working hours after 26 weeks of continuous work at UEA. CMP has
+ approved all requests for maternity/paternity leave and flexible working requests during the REF
+ period (three staff maternity requests and one research associate flexible working request).
+
+ Selection of REF outputs and ICSs
+
+ Following the UEA REF Code of Practice, outputs from all ATR staff were considered for possible
+ selection. Staff were asked to put forward up to six of what they considered to be their best outputs
+ to help guide a thorough internal assessment of all of our outputs. Each of these outputs was
+ assessed and graded on a UEA 13-point scale, each by at least two independent ATR staff within
+ the School (staff were informed of the scores/comments for their outputs but assessors’ names
+ remained anonymous). A selection of outputs was also sent for external assessment by
+ recognised experts in computer science to provide a calibration for the internal scores. Based on
+ the scores, the outputs in the portfolio were ranked by the Director of Research, Head and Deputy
+ Head of School (Day), to inform a portfolio selection whilst ensuring adherence to the REF output
+ assignment rules and the Code of Practice. The gender profile of attributed authors’ outputs
+ (21%F) reflects that of the Unit as a whole (16%F).
+
+ ICS selection was on the basis of a series of annual review meetings conducted by the School
+ Directors and Faculty Associate Deans of Research and Innovation, the PVC Research and
+ Innovation, and the Impact managers (typically 3M:4F).
+
+
+ 3. Income, infrastructure and facilities
+
+ Income highlights over the REF period
+
+ The UEA value of CMP’s research awards over the REF period was £17.9M, the main funders
+ being EPSRC, BBSRC, NERC, UK central government bodies, EU and industry, and over £1.8M
+ was brought in via consultancy, enterprise and training. Key grants in each laboratory were:
+
+ Colour and Imaging: Finlayson won a five-year EPSRC Established Career Fellowship “Future
+ Colour Imaging” in 2019 (EP/S028730/1, £1.04M) in addition to securing EPSRC funding of over
+ £900K (EP/M001768/1, £434K; EP/J005223/1, £465K; EP/P007910/1, £29K) with industrial
+ partners such as Apple and THOUSLITE. The lab also led UEA’s part of the successful bid for the
+ “AgriForWards” EPSRC CDT (EP/S023917/1, £6.9M) in the area of agri-food robotics and
+ machine learning which was awarded to the Universities of Lincoln, Cambridge and UEA. Part
+ of the lab’s growing portfolio of research interests in deploying “in the field” computer vision
+ systems is being developed through Mackiewicz’s ongoing partnership in the SMARTFISH EU
+ Horizon 2020 international research project (€6.96M).
+
+ Computational Biology: Through two NERC grants totalling ~£1M (NE/K004530/1, £348K;
+ NE/R000883/1, £648K) and sequencing funded in part by the Joint Genome Institute and EI, Mock
+ and Moulton (Co-PI) are developing new bioinformatics techniques for marine phytoplankton
+ metagenomics, leading to new insights into phytoplankton diversity and adaptability, and their
+ potential effect on climate change. Research in RNA silencing benefits from sequencing
+ technologies, and through BBSRC funding in two grants totalling ~£600K (BB/L021269/1, £318K;
+ BB/L009307/1, £275K) Moulton pioneered new bioinformatics tools for small RNA next
+ generation sequencing data together with collaborators in the School of Biological Sciences
+ (BB/H008047/1, £497K; BB/H019979/1, £509K). This has resulted in new tools for small RNA
+ analysis (srna-workbench.cmp.uea.ac.uk). Additional funders for the lab include the Royal Society
+ and the London Mathematical Society.
+
+                                                                                               Page 9
+Unit-level environment template (REF5b)
+
+ Data Science and Statistics: Through an EPSRC grant (EP/M015807/1, £317K), Bagnall has
+ developed cutting-edge techniques for time series classification, which has generated new
+ collaboration with the Alan Turing Institute (recognized by two Institute grants totalling £72K).
+ Kulinskaya’s collaboration with IFoA has funded research on the use of big health and actuarial
+ data for understanding longevity and morbidity risks (£788K), and ESRC has funded the
+ development of smart data analytics for business and local government (£5.2M), to which
+ Kulinskaya contributes. In addition, after competition the Rail Research UK Association has
+ funded Wang’s development of an intelligence ensemble system for predicting and preventing
+ train reactionary delays (£112K). Additional funders include the NIHR, Orthopaedics Trust,
+ NERC, and The Scotch Whisky Research Institute.
+
+ Interactive Graphics and Audio: Taylor received an EPSRC Innovation fellowship for £577K
+ for her work in digital visual speech (EP/S001816/1), which builds on Milner’s £380K EPSRC
+ grant (EP/M014053/1, £380K) for speech animation using dynamic visemes. Harvey is Co-PI on
+ the Agri-ForWards EPSRC CDT and also held grants for £50K and £80K to develop vision
+ methods for lip reading (National Crime Agency) and X-ray imagery (Defence Science and
+ Technology Laboratory). Emeritus Professor Cox is Co-PI on the MRC grant (MR/P026265/1,
+ £699K) for continuous ambulatory vestibular assessment in collaboration with NNUH. Other
+ funding came from the Home Office (£212K) and various companies (e.g. Disney Research).
+
+ The Smart Emerging Technologies Lab: As part of influencing UK National Funding policy
+ and the wider research community Parr is Co-PI on EPSRC grants including the Internet of Food
+ Things Network Plus (EP/R045127/1, £1.1M) and the UK Research Strategy Community
+ Organisation in Communications (EP/N007824/1, £236K). Recently, Parr also acted as lead for
+ CMP’s EPRSC-funded Smart Environments Research Facility (EP/T024593/1, 100K, with
+ £40K additional support from UEA), which feeds into the School’s strategy to support its
+ researchers to further develop and leverage their research with organisations such as the Turing
+ Institute, BT and QI. Through two EPSRC grants, Buckley has been involved in establishing a
+ platform for responsive conversational agents to enhance engagement and disclosure
+ (EP/S027424/1, £407K) and in developing people powered algorithms for desirable social
+ outcomes (EP/R033382/1, £906K), which is pushing forward the lab’s cyber-risk agenda.
+
+ Funding through research consortia
+
+ To address national and international research challenges, CMP strategically seeks funding and
+ new collaborations through research consortia. Illustrative examples in the REF period include:
+
+       EPSRC network, “Vision in Image Interpretation in Humans and Machines”
+        (EP/L013932/1), which brought multidisciplinary researchers together from areas including
+        psychology and biology.
+       EPSRC network CommNet2 (EP/N007824/1), which developed a robust framework to
+        facilitate the academic innovation process to tackle 21st century ICT.
+       EPSRC network Internet of Food Things Plus (EP/R045127/1), an interdisciplinary
+        network that defragments and expands the UK's food digital economy.
+       EPSRC Next Stage Digital Economy Hub (EP/T022566/1, £3.7M for five years), a new
+        centre of excellence in digital innovation with University of Exeter.
+
+ Strategy and support for generating income and impact
+
+ Our strategy is to develop a sustainable income stream for research and impact activities by
+ mentoring and supporting staff to develop their research and impact agenda and to help identify
+ funding opportunities with UKRI and beyond. For those that are less established we facilitate strong
+ collaborations with leading peer research groups and make introductions to our industrial contacts
+ (e.g. members of our Industrial Advisory Board). We also actively encourage interdisciplinary and
+ collaborative proposals. Future strategy is to grow our funding from EPSRC (e.g. though our new
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+ ATR lecturers), UKRI consortia, and to continue to diversify our funding streams through e.g.
+ commerce/industry and central government sources. We will also look to UKRI cross-council and
+ InnovateUK initiatives ranging across all technology readiness levels.
+
+ Staff are supported through means such as grant planning, mentoring and workshops, and
+ targeted funding from CMP’s strategic research fund (during the REF period over £79K was made
+ available to staff from this fund). An ‘Effective Research Grant Applications’ course is run for
+ researchers by UEA, and in their annual research activity meeting ATR staff discuss
+ current/planned research activity and can seek advice on proposal writing. Research applications
+ are reviewed by senior research-active colleagues within the School, with feedback provided
+ before the application is submitted, advice is given on receipt of feedback from referees and the
+ outcomes for unsuccessful proposals are discussed. In some cases, feedback is given by a cross
+ faculty committee (e.g. BBSRC and NERC proposals). Junior staff are supported by senior staff to
+ apply for fellowships, e.g. Taylor was awarded an EPSRC UKRI Fellowship in 2018. Since 2015
+ the success rate of grant applications by female PIs was generally higher than for their male
+ counterparts.
+
+ To inform and encourage new applications CMP and the Science Faculty regularly host research
+ and funding workshops. These are often organised thematically for a particular research council
+ in conjunction with the Associate Dean for Research. For example, we had an EPSRC theme day
+ in June 2018 with an EPSRC-programme leader giving a keynote talk, several presentations on
+ ‘tips to wining funding’, a Q&A panel and a networking poster-event over lunch. These funder-
+ focused events and grant writing workshops are used to disseminate information, exchange
+ tips and thoughts on winning research grants and to allow for networking amongst our research
+ staff and students. They are an excellent way of developing a positive research culture: one that
+ is looking ahead strategically for future opportunities for success.
+
+ To support generation of impact, the School has strategically adjusted its workload model by
+ allocating staff time for this activity where appropriate. In addition, impact activities feature
+ alongside teaching and research in the probation and promotion criteria for staff. Part of the
+ overhead for consultancy using CMP facilities is returned to the School to support further activities.
+ CMP staff have also been celebrated for their impact through two high profile events: The Impact
+ and Innovation Awards and Gala Dinner, and the UEA Engagement Awards, which both provide
+ showcases of our innovation and research activities regionally and nationally (e.g. Finlayson has
+ been awarded one of only two UEA Innovation Fellowships). There are also programmes to
+ encourage entrepreneurship that are targeted to research assistants and PhD students, who are
+ ideally placed to take forward opportunities to maximise the impact of their work.
+
+ CMP also benefits from a culture of impact that is woven throughout UEA’s academic and
+ professional service structures. To drive forward new initiatives, CMP closely liaises with
+ Associate Dean for Innovation, who chairs the Science Faculty’s Innovation Executive on which
+ the CMP’ Director of Innovation sits. In addition, UEA’s Impact Team helps the School to develop
+ its impact portfolio, deliver impact training, co-ordinate workshops and assist staff with evidence
+ gathering. UEA also supports innovation in CMP by offering grants that provide support for all
+ stages in the development process. Awards range from small amounts (<£5K) for an Associate
+ Dean of Innovation grant, up to £75K for Innovation Development Fund or Proof of Concept grants.
+ In the REF period CMP received 18 UEA grants and five external grants to develop impact,
+ totalling £332K, e.g. to support the Spectral Edge ICS (£12.5K), automatic real-time speech
+ animation (£14K), and commercialising lip-reading (£16K), and improving seabed mapping
+ accuracy with AI (£37.5K).
+
+ Infrastructure and facilities
+
+ CMP has a team of four specialist support staff, all of whom are graduates in Computing
+ Science, whose duties include expert programming/debugging, support of specialist research
+ hardware and the planning and maintenance of CMP’s server infrastructure. This is an invaluable
+
+                                                                                               Page 11
+Unit-level environment template (REF5b)
+ resource as it enables staff to rapidly obtain assistance with research projects and to respond to
+ new initiatives. The following facilities and equipment are located within the School’s 340m2 of
+ accommodation dedicated to research, and are fundamental to our research and impact activities
+ (new investments in the REF period are noted):
+
+ 1. Motion capture Suite and Sound Room: Provides facilities used by the Interactive Graphics
+ and Audio lab, to drive forward research in areas such as avatar research and speech recognition.
+
+ 2. Advanced graphics Suite: 20 high end workstations with specific graphics cards for video and
+ graphics-related research. Investment of £30K in 2016.
+
+ 3. Colour Vision Room: A dark room containing an extensive suite of specialised equipment for
+ vision research including a spectraradiometer.
+
+ 4. Virtual Reality: A dedicated VR workstation with Oculus Rift VR headset, an Oculus Rift Go
+ Portable device and a 3D Scanner. Investment of £13K in 2017.
+
+ 5. UAVs: DJI Phantom Unmanned Aerial Vehicle capable of shooting stable high-definition video
+ for graphics research and M300 Drone with integrated SenSys Magnetometer. Investment of £6K
+ in 2017 and £40K in 2020, respectively.
+
+ 6. AI Server: Server with four high end GPUs, large memory capacity and fast storage for use
+ with AI and Data Mining research. Investment of £10K in 2017.
+
+ 7. Cyber Security Lab: A new lab running on a separate network and infrastructure dedicated for
+ Cyber Security. It has high-end workstations, servers, switches, and IoT devices for research.
+ Investment of £80K in 2019.
+
+ 8. Core Capital Research Equipment: Grant for HPC/Multicore and Medical Sensor equipment
+ to support research of established and early-career researchers/PhD students from across CMP,
+ and in support of projects linking with Norwich Medical School and School of Environmental
+ Sciences (EP/T024593/1, £100K, +£40K UEA, 2019).
+
+ 9. GPU farm: A new Nvidia GPU farm to support AI research in e.g. deep learning and
+ bioinformatics. Investment of £280K via a UKRI capital award to UEA in 2020.
+
+ 10. D’Arcy Thompson Suite: Situated in the heart of the School, a multifunctional room with
+ kitchen facility acting as a focal point for facilitating research interactions, holding events (e.g.
+ annual PGR day and seminars), and for informal PGR/RA lunch gatherings. £300K has been
+ allocated by UEA to refurbish it and the near-by Wolfson PhD lab to accommodate the EPSRC
+ CDT in Agri-food Robotics.
+
+ 11. Productivity East: CMP is actively involved in a new £7.4M regional hub for engineering,
+ technology and management, one of whose primary research themes is computing sciences and
+ which houses CMP 3D-printing (e.g. investment of £25K in 2015). Intelligent Digital Manufacturing
+ will be a core theme for collaboration bringing in CMP expertise in AI/IoT/5G/Cloud and Vision-
+ Imaging.
+
+ 12. High Performance Computing Cluster: A centrally provided cluster available to all
+ researchers across UEA and used extensively by CMP’s research labs. The HPC has seen a
+ year-on-year investment of £520K since 2014. It now consists of 425 computer nodes, 10 GPU
+ nodes and 6 huge memory nodes, providing 8312 CPU cores, all powered by Intel Xeon
+ processors.
+
+
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+
+
+ Collaborative use of research support and infrastructure
+
+ In a cross-NRP initiative, a COVID-19 mass testing Webapp was developed by a team of CMP
+ academic and support staff within the Norwich Testing Initiative in collaboration with EI (see
+ doi.org/10.1093/pubmed/fdaa194). A mass-testing scheme was subsequently launched at UEA to
+ support ongoing COVID-19 testing for new and returning students and staff, and extended to
+ provide testing for staff, visitors and students across NRP institutions, which uses CMP research
+ capital equipment to host the system.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Research collaborations, networks and partnerships
+
+ Collaborations with external academics, industry and stakeholders are promoted by our Research
+ Committee and our Industrial Advisory Board. They bring vitality to the School’s research and
+ advance its impact. Notable additional examples of research consortia to the ones listed in the
+ previous section include:
+
+      The Colour and Imaging lab has organised and taught at the BMVA Summer School in
+       Computer Vision, 2018/2019 and, with the support of the Society of Imaging Science and
+       Technology, established the new annual London Imaging Meeting conference in imaging
+       science.
+      Bagnall and Lines collaborate with a global network of researchers to develop novel
+       algorithms and open tools for time series classification and regression (e.g. Alan Turing
+       Institute, Dublin, California and Monash Universities). This includes sktime, a Python toolbox
+       for learning with time series data, initially funded through a UKRI Tools, Practices and
+       Systems grant.
+      Hayward collaborates with Professor Kitao at the Tokyo Institute of Technology, having
+       been awarded a number of grants to visit him including a “Research Abroad and Invitational
+       for International Collaboration” grant (2018) and a JSPS Bridge Fellowship (2015).
+      Parr is part of the BT Global Research & Innovation Programme which has assembled
+       international research institutions to explore the impact of COVID-19 on the future of work
+       and society and the role of ICT.
+
+ Interdisciplinary collaboration is a critical path for CMP’s research and impact. Illustrative examples
+ include:
+
+      Magnacarta, a project with historians to bring an 800-year-old document into the 21st
+       century. Primarily funded by AHRC and co-led by Day with colleagues in the School of
+       History, it tracked down lost originals of the Magna Carta and created an online database
+       about the document. It is available as part of an online resource for members of the public
+       (magnacarta.cmp.uea.ac.uk/).
+      De Iglesia has been part of The National Institute for Health Research (NIHR) Health
+       Protection Research Unit in Emergency Preparedness and Response, led by King’s
+       College London, in partnership with Public Health England (PHE), and Newcastle University.
+       Established in April 2014, it has received £3.6M over five years to support its research.
+      The Multi-Disciplinary drifting Observatory for the study of Arctic Climate programme
+       is the largest Arctic research expedition in history (Nature’s 10, 2020). Through Professor
+       Mock, School of Environmental Sciences and Moulton, UEA is leading the associated
+       metagenomics project which will provide critical new insights into the polar ecosystem and
+       climate change.
+
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+ To generate new links and collaborations, CMP maintains a strategic research fund that
+ provides ad hoc funding for consortium building, conference attendance and similar activities.
+ Staff can apply for funds by filling in a simple form which is reviewed by the Research Director,
+ Deputy Head and HoS. Over £78K was made available to staff from this fund in the REF period.
+ CMP also maintains an active research seminar programme, augmented by seminars held by
+ the individual labs. CMP contributes to funding of seminars and provides facilities for visitors to
+ stay and carry out research within the School. For staff who recently joined the School, a ‘Minute
+ of madness’ event was organised by Taylor in 2019, as well as inclusive social events (e.g. a
+ paella cooking afternoon organised by De La Iglesia), to kindle new collaborations and foster team-
+ work. CMP has also arranged bespoke meetings with key stakeholders (e.g. Birds of a Feather
+ meetings). New links and research/impact activities are also forged through CMP’s honorary
+ faculty/visiting researchers (37 during the REF period) and research visits (over 100
+ researchers formally visited the School in the same period).
+
+ Relationships with key research users
+
+ To strategically develop impact, CMP maintains strong links with industry at many levels,
+ from local SMEs to large multi-nationals. These links are built and overseen through the School’s
+ Industrial Advisory Board which includes leading figures from industry, including senior
+ representatives from BT, IBM, Siemens, Aviva, Thyngs, and Intel. Notable examples of our links
+ include:
+
+     Apple – Through his EPSRC Established Career Fellowship, Finlayson collaborates closely
+      with Apple who are ideally placed to evaluate and integrate his research.
+     Aviva – the School has a long-standing collaboration with Aviva which is a major player in
+      the UK economy, with its general insurance based in Norwich. Research on statistical
+      approaches for electronic health records in actuarial applications was funded by the IFoA
+      (£788K) in collaboration with Aviva and the Norwich Medical School.
+     BT Research - Parr was the lead co-author and is now chief scientific advisor of a major
+      project worth over £28M with the BT Research & Innovation Team which established the
+      BT Ireland Innovation Centre in collaboration with Ulster University.
+     Greater Anglia and Network Rail - Wang built up a consortium with some of their employees,
+      which won a Rail Standard and Safety Board (RSSB) big data sandbox competition in 2017
+      and was awarded a Rail Research UK Association grant (£112K) to study the feasibility of
+      using AI to predict and prevent train delays. Prototype software, presented at the RSSB’s
+      exhibition conference in London 2019, is under development.
+
+
+ Wider evidence of impact
+
+ Consultancy is carried out through SYSCo which gives industry, business and government direct
+ access to expertise in the School (see Section 1). Amongst over 58 consultancy contracts in the
+ REF period, illustrative examples include the Urban Modelling group, which supports a wide
+ range of projects from illustrating planning applications through to enhancing tourism and visitor
+ attractions (www.urbanmodellinggroup.co.uk/), and Lapeer’s work with Bombora to develop and
+ build immersive video-based applications for mixed reality (e.g. viewing properties in the UK
+ housing market, https://eira.ac.uk/case-study/driving-innovation-in-the-property-management-
+ industry-through-virtual-reality/).
+
+ Spin-out companies are based on technology developed by the School, and sometimes
+ incubated through UEA Consulting, e.g. Spectral Edge Ltd.
+
+ Software based directly on research undertaken in CMP is made freely available for professional
+ and public users. Notable examples include:
+
+
+
+                                                                                            Page 14
+Unit-level environment template (REF5b)
+     The BBSRC-funded UEA small RNA Workbench software (http://srna-
+      workbench.cmp.uea.ac.uk). Since its release in 2012, this has been downloaded more than
+      24,500 times.
+     The DynDom website (http://dyndom.cmp.uea.ac.uk/dyndom/) is the foremost site for
+      hosting databases on protein domain movements and tools for their analysis, and is now part
+      of an ELIXIR Implementation Study.
+     sktime is a toolbox for time series analysis developed with the Alan Turing Institute
+      (https://www.turing.ac.uk/research/research-projects/sktime-toolbox-data-science-time-
+      series).
+
+ Short courses are offered for business and industry, based on our research. These include
+ ‘Knowledge Discovery and Datamining’ (a five-day course, which was run in 2018 for members of
+ the Dubai Police) and ‘Dependence modelling using multivariate copulas with applications’ (annual
+ three-day course).
+
+ Engagement with local schools and teachers is made through providing academic “taster”
+ sessions, exposing students and teachers to our research interests e.g. digital animation. We host
+ the Norfolk Hub of Computing at School, an initiative to promote the uptake of computer science
+ at GCSE and A-level, as opposed to ICT. Mayhew has organised a Scratch-Off annual event
+ since 2012 for 7-14 year olds to compete in pairs on programming challenges, and we visit Schools
+ to spend a day with female Year 8 students to introduce them to computer programming. Aimed
+ at GCSE and A-Level/T-Level students, CMP has also participated in presenting its research by
+ invitation from BT in the British Science Week for last two years and is invited again in 2021.
+
+ Public engagement with our research is also made through meetings with other organisations
+ and within the national and international press, TV and radio. Notable examples:
+
+     Buckley: British Science Association 1-year Media Fellowship in 2018, plus a placement in
+      SkyNews London for a month (14 articles on science news on Sky News website).
+     Harvey: Awarded Worshipful Company of IT Professionals sponsored Professor of IT at
+      Gresham College in 2018 (www.gresham.ac.uk/professors-and-speakers/richard-harvey/).
+      Lectures are streamed live on YouTube and Facebook live (Harvey’s Gresham College
+      Youtube lectures have received over 38.8K visits).
+
+ Contributions to and recognition by the research base
+
+ CMP staff have contributed and been recognised through numerous activities covering the full
+ range of the discipline, including involvement in learned societies, journal refereeing and
+ editorship, invited lectures, participation in and organisation of conferences, and membership of
+ grant/influential committees. Notable examples include:
+
+ Leadership in the academic community
+
+     Harvey: Fellow British Computing Society.
+     Kulinskaya: Elected member of the International Statistical Institute.
+     Parr: MBE in the 2018 New Year Honours, for services to developing telecoms infrastructure
+      in Northern Ireland.
+     Parr: Leading the development of China-UK collaborations as part of the creation of the
+      China-UK Technology Innovation Centre.
+
+ Committee memberships
+
+     Finlayson, Lapeer, Parr: EPSRC Full Peer Review College Members (Lapeer received
+      recognition for outstanding contribution).
+
+                                                                                           Page 15
+Unit-level environment template (REF5b)
+     Hayward: External project member for the Ochanomizu University’s Program for Leading
+      Graduate Schools, Ochanomizu University, Tokyo, Japan 2013-2020.
+     Parr: Technical adviser to the EPSRC ICT Programme for the specification, evaluation and
+      review of the EPSRC National Dark Fibre Infrastructure Service (NDFIS) during 2018/2019.
+
+ Conference organization
+
+     Finlayson: Series Chair, The London Imaging Meeting, a new yearly, topic-based
+      conference in imaging science launched in 2020.
+     Huber: Program committee co-chair, ACM-BCB Workshop on Algorithms in
+      Bioinformatics, USA, 2019.
+     Moulton: Co-organiser of one-week phylogenetics conference, Banff International
+      Research Station, Canada, February 2018.
+
+ Keynote talks
+
+     Finlayson: International Conference on Digital Image Computing, Sydney, 2017.
+     Iglesia: The 2nd Information Systems Forum, Oman, 2018.
+     Parr: IEEE Globecom, Abu Dhabi, 2018.
+
+ Editorships
+     Bagnall: Ed. Board, Data Mining and Knowledge Discovery.
+     Milner: Assoc. Ed., EURASIP journal of Audio, Speech and Music Processing.
+     Parr: Assoc. Ed., IEEE Access Journal/The Computer Journal.
+
+
+
+
+                                                                                      Page 16
+

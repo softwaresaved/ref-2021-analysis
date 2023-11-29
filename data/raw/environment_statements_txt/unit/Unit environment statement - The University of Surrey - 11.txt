@@ -1,0 +1,763 @@
+Unit-level environment template (REF5b)
+ Institution: University of Surrey
+
+ Unit of Assessment: 11 Computer Science and Informatics
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1.   Organisation and Structure of the Unit
+ The Department of Computer Science (the “Unit”) has a world-class reputation for research in
+ Cyber Security, and in Computational Intelligence, as evidenced in this submission. After a strong
+ result in REF2014, the Department embarked on a strategic programme of growth, with the
+ objective of consolidating and strengthening these areas. The Department is now well-placed to
+ address vital challenges from both a formal and an empirical perspective, while making globally
+ important, impactful contributions to areas such as the theory and application of evolutionary
+ computing and optimisation techniques, and foundations and applications in cybersecurity and
+ privacy.
+ The research growth has also been strengthened by the Department’s placement within the newly
+ formed School of Computer Science and Electronic Engineering. This is enabling the Department
+ to exploit synergies with Electronic Engineering to further strengthen its research power. Key
+ external recognitions include its Centre for Cyber Security being recognised as one of 19
+ Academic Centres of Excellence for Cyber Security Research (ACE-CSR), and Professor Jin,
+ Head of the second research area, being recognised as a Clarivate Highly Cited Researcher in
+ 2019 and 2020.
+ The Department is home to 23.5 FTE research active academic staff, supported by 10 RAs and
+ 42 PhD students. The University is committed to the continuing growth of Computer Science at
+ Surrey. As part of our strategic growth plans two new Professors (Chockler and Sastry)
+ established a new Distributed and Networked Systems (DANS) Research Group. In addition,
+ the critical mass of our two other research groups, Nature Inspired Computing and Engineering
+ (NICE) and Secure Systems, was further consolidated with the recruitment of two Senior
+ Lecturers and four Lecturers in the first part of 2020. Further appointments will follow.
+ The NICE Group, led by Jin, has 9.5 FTE academic staff. The remaining academics (14) are
+ structured under the umbrella of the Surrey Centre for Cyber Security (SCCS) led by Schneider
+ and Manulis (Deputy). SCCS combines the Secure Systems Group, led by Schneider, with 12
+ academic staff, and the newly established DANS Group, with two professors and 5 affiliate
+ members from the other two groups. The DANS Group will be a focus for strategic appointments
+ over the next two years.
+ There is a welcome overlap of membership and exchange of ideas among the three research
+ groups, and with other research groups and centres across the University, assisting the
+ Department’s mission to serve as a collegiate home for all researchers. PhD students are an
+ integral part of our research activities.
+ All research-active staff teach in the Department with research-led teaching the norm.
+ Researchers may arrange to perform all teaching duties in one term only, allowing for dedicated
+ research projects to be pursued during the remainder of the academic year. Staff are supported
+ by Jin, the Department’s Director of Research, whose role is a supervisory one; encouraging an
+ inclusive research culture, promoting Departmental synergies, and facilitating the integration of
+ research within the School, Faculty, University and beyond. The Faculty of Engineering and
+ Physical Sciences (FEPS) assists the Department’s research initiatives and oversees REF
+ processes. FEPS also provides dedicated funding for impactful research, bidding activities, and
+ PhD scholarships, supplementing Departmental contributions.
+
+ 1.2.   Research Objectives and Strategy
+ The Department’s research objectives and strategy have remained consistent since 2014:
+    1. Sustainable growth via a supportive, balanced and coherent research environment.
+    2. Aim to be world leading in strategically identified core areas that build on existing strengths,
+       provide a balanced portfolio, and promote contributions to the discipline and wider societal
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+         questions.
+     3. Attain the critical mass necessary to develop new PhD and early career researcher (ECR)
+         training in line with discipline best practices.
+     4. Significant engagement with multidisciplinary initiatives across our Faculty and the
+         University.
+ In pursuit of objective 1, the Department made an investment in 3 additional academic posts (a
+ 15% growth) during this REF cycle alongside natural refreshing to re-energise and expand its
+ research capability. It has also recruited a cohort of Teaching Fellows on Teaching and
+ Scholarship contracts. These Teaching Fellows and Senior Teaching Fellows, new since 2014,
+ play a crucial role in freeing research time for other colleagues and ensuring the research active
+ staff are able to focus on more advanced courses with top-quality research-led teaching.
+ Progression is a key indicator of a productive research environment. Over this REF period 17
+ colleagues, including teaching staff, have achieved promotion.
+ To achieve objective 2, the Department’s continued expansion has focused exclusively on
+ excellent hires in our core areas (see Section 2 below) to achieve the goal of rebalancing our
+ research groups. This has ensured that the Department has the means to regularly attract sizeable
+ research grants and produce research with impact. The EPSRC £3.8M Next Stage Digital
+ Economy Centre in the Decentralised Digital Economy is one recent example; also illustrating
+ collaboration within the newly formed School of Computer Science and Electronic Engineering.
+ Objective 2 is further supported through our long-term strategy of hiring colleagues with research
+ agendas that deliver impact through networks outside academia. Impact is also supported by a
+ team of Visiting Researchers and Professors who have a strong commitment to mentoring our
+ research out into Government, Industry and the Third Sector. The heads of our Research Groups
+ all have strong and active programmes for delivering impact. For example, the work of Jin (Head
+ of NICE) on evolutionary optimisation is generating broad interest across a range of industries,
+ with a particularly strong engagement through Honda Research Institute Europe into their products
+ (see Impact Case Study). Jin was also appointed “Finland Distinguished Professor” by the Finnish
+ Funding Agency for Innovation for three years, working with companies on various industrial
+ optimisation problems. Schneider (Director of SCCS and Head of Secure Systems) has been at
+ the forefront of applying secure and verifiable e-voting in government and commerce since 2004
+ (see Impact Case Study). Of the joint heads of the newly established DANS Group, Sastry spent
+ a significant part of his career working in industry and industrial research labs (Cisco Systems and
+ IBM TJ Watson Research Centre). Chockler also has a background in industry (IBM Research),
+ and his research continues to be focused on solving real-world problems seeking to uncover deep
+ trade-offs and their implications for system engineering practices.
+ With regard to objective 3, our research capability was also greatly reinforced by our expanding
+ PhD programme that brought in 30 excellent doctoral students who have transformed the
+ Department’s research environment. Our engagement with industry and EIT Digital has led to the
+ establishment of an externally funded Centre for Doctoral Training (CDT) in Future Connected
+ Technologies during 2020, which will further strengthen our PhD training programme.
+ To achieve objective 4, the two main research groups have lead roles in virtual research networks
+ that engage with researchers throughout the University:
+    1. NICE plays a leading role in the Surrey Centre for Mathematical and Computational
+       Biology, which is a community of researchers across all three Faculties in the University
+       that has established a large number of productive cross-disciplinary funded research
+       projects on bioinformatics and computational biology.
+    2. SCCS is one of 19 Academic Centres of Excellence in Cyber Security Research
+       recognised by the UK Government's National Cyber Security Centre in partnership with
+       the EPSRC. SCCS has members from seven research groups/centres across two of the
+       three Faculties in the University. Members of the Centre also play an integral part in Surrey
+       Blockchain, an interdisciplinary research hub across the University of Surrey backed by
+       £3M UKRI/EPSRC investment, which focuses on fusing blockchain with artificial
+       intelligence technologies.
+ Central to the Department’s continued development is the growth of activity around three research
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+ groups and collaborations across the group boundaries. All our research includes a foundational
+ element developing understanding and theory, and an application element to specific problem
+ domains and to building practical solutions. The practical application of theory is an important
+ driver for the foundational research, providing a testing ground and a source of more fundamental
+ challenges.
+ We proceed with a brief overview of our research activities:
+ NICE Group, led by Jin, includes Bauer, Feng, Guerin, Krause, Li, Moschoyiannis, Tamaddoni
+ Nezhad, Tang, and Thorne.
+ The core research under this theme focuses on developing efficient algorithms for solving data-
+ driven and multi-objective optimisation problems in applications such as aerodynamic design
+ optimisation of turbine engines, optimisation of vehicle dynamics, hybrid electric car control, and
+ vaccine selection. Machine learning techniques such as semi-supervised learning, transfer
+ learning and Bayesian optimisation are used to assist evolutionary optimisation of complex
+ problems, and in turn the evolutionary optimisation theory is itself being used to develop innovative
+ machine learning algorithms, such as automated machine learning and multi-objective machine
+ learning.
+ As the group has expanded and evolved, the core competencies have developed to include
+ evolutionary computation, computational neuroscience (spiking neural networks and neural
+ plasticity), complex networks, autonomous/self-organising systems, reinforcement learning,
+ explainable & privacy-preserving AI, knowledge extraction, computer vision & image processing,
+ natural language processing, and computational biology. The aforementioned engagement with
+ the Surrey Centre for Mathematical and Computational Biology helps to retain focus on the NICE
+ theme, but also to build capacity through collaborations across the University. NICE has been
+ strengthened by the recent recruitment of Bauer (UKRI Research Fellow), with expertise on
+ computational modelling and the analysis of biological dynamics, and Thorne, with expertise in
+ statistical models in systems biology and bioinformatics.
+ Surrey Centre for Cyber Security (SCCS), led by Schneider and Manulis (Deputy) is formed of
+ two groups, with partly overlapping memberships and related topics:
+ •   Secure Systems Group, led by Schneider, includes Boureanu, L. Chen, T. Chen, Dash,
+     Dongol, Dragan, Gerault, Gillam, Granger, Manulis, and Treharne.
+     The group has strong expertise in trusted computing and trusted systems, privacy and
+     authentication, secure communications, blockchain & distributed ledger technologies, security
+     verification, and applied cryptography.
+     The group focuses on advanced techniques and applications such as high-function encryption
+     schemes & digital signatures, authentication & key exchange protocols, cryptographic
+     solutions for privacy-preserving identity management, secure data sharing, and information
+     exchange. The group is technical lead for H2020 FUTURE TPM (Future Proofing the
+     Connected World: A Quantum-Resistant Trusted Platform Module) a consortium of 15
+     academic and industry partners from across Europe who are researching a Quantum-
+     Resistant TPM - a hardware chip which is used as a ‘root of trust’ for a computing system.
+     Group members have also been involved in setting several world records in discrete logarithm
+     computations. For example, providing a rigorous algorithmic breakthrough which provably
+     solves the discrete logarithm problem (DLP) for finite fields of fixed characteristic in quasi-
+     polynomial time for infinitely many cases. Such proofs are exceptionally rare in mathematical
+     cryptology. The algorithm was used to solve a DLP in a field of bitlength 30750, smashing the
+     previous record of 9234 bits. Work on next-generation authentication mechanisms, including
+     passwordless authentication, is in cooperation with FIDO Alliance members (an open industry
+     alliance which promotes the development, use of, and compliance with, standards for
+     authentication and device attestation). Research on security of electronic payment protocols
+     is joint with leading payment providers, including CreditCall and Streeva.
+
+     Group members have also been building protection mechanisms into emerging technology in
+     the rail and automotive transport sectors. Group members also work on foundational and
+
+                                                                                               Page 3
+Unit-level environment template (REF5b)
+    applied aspects of formal verification for security and privacy involving a range of techniques
+    from model-checking to theorem proving. A variety of automated tools and domain languages
+    are used but with a focus on the use of non-classical logics and state-based symbolic
+    verification.
+•   DANS Group, jointly led by Chockler and Sastry, includes Bauer, Dongol, Li, Moschoyiannis,
+    and Treharne.
+    The group’s research spans both technical and socio-technical challenges in the context of
+    established and emerging technologies such as the Internet, World Wide Web, blockchains
+    and distributed ledgers, cloud computing, and social networks.
+    In particular, group members have been working on distributed coordination, development of
+    control policies, concurrency control, fault-tolerance, distributed trust, resource management,
+    complex network analysis, including controllability & criticality, and on formal verification
+    techniques and tools.
+    The group maintains a strong inter-disciplinary focus on socio-economic questions arising in
+    the context of user interaction with these systems and emergent behaviours that stem from
+    such interactions. The research covers both theoretical underpinnings of such systems as well
+    as large-scale data-driven empirical analyses.
+
+ 1.3.   Future Strategy - plans for 2021 to 2026
+ Our aim is to further establish the NICE Group and the SCCS as two internationally recognised
+ research centres. To do this, we will need to grow both the numbers and profile of our
+ internationally leading research staff. Strong teaching with support of a team of teaching fellows
+ will ensure the financial stability of the Department as it continues to grow its research base.
+ In order to be able to prepare more competitive research bids at the multi-million pound level, we
+ will need to grow our links with global players to add power and impact to the research of the NICE
+ group. The achievement of this will be facilitated by the University wide investment of £400k into
+ developing AI@Surrey, together with the recent formation of the School of Computer Science and
+ Electronic Engineering. Together, these will help establish NICE within a coherent AI and Data
+ Science presence at Surrey.
+ As further support towards achieving this objective, the launch of our very successful Data Science
+ MSc in October 2019 is also playing a significant role for the NICE group; continued staff
+ recruitment is supported by the need to service and continue to stimulate the demand for this
+ course. The appointments in the first part of 2020 of Bauer, Guerin, Feng and Thorne are
+ illustrative of the level of investment in the Department by the University. These new appointments
+ will help us achieve our ambitions of strengthening both academic excellence and industrial
+ impact.
+ The SCCS is further along the path to its establishment as a globally leading research centre. To
+ drive a broader research agenda including multidisciplinary cyber security research across the
+ University and promote the research and education activities of the University in relation to cyber
+ security, we are establishing a cross-disciplinary research and education network, Surrey
+ Security Network (SSN).
+ In the immediate term, recruitment will have a focus on building critical mass for the newly formed
+ DANS Group. This group is already providing an extra dimension to the research performed within
+ SCCS and will further enhance the reputation of the Department as a globally leading research
+ centre for cyber security.
+ We also have an objective of growing SCCS as a nexus of innovation with SMEs. In order to
+ achieve this objective, we will continue expanding our externally funded CDT in Future Connected
+ Technologies, established in 2020, with cross-disciplinary projects on the intersection of cyber
+ security, artificial intelligence and communications by working closely with EIT (the European
+ Institute of Innovation and Technology) Digital and industry sponsors.
+
+
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+
+ 1.4.   Impact
+
+    1.4.1.      Facilitation of impact
+ Approaches to realising impact include delivery of commissioned research (e.g., with the
+ Corporation of London on carbon sequestration assessment and HP Labs on quantum-resistant
+ cryptography) or collaborating with a start-up (e.g., a long-established work on security with
+ Consult Hyperion). Relationships with industry are often established for collaborative research.
+ We enjoy a strong and active engagement with the University’s Technology Transfer team.
+ Innovate UK SMART projects, and KTPs feature strongly in our portfolio; a recent KTP with AT
+ Medics on medical informatics received the highest grade of ‘Outstanding’ together with a
+ ‘Certificate of Excellence’.
+ To build collaborations that have a direct pathway to impact, we build long term strategic
+ partnerships. These are exemplified by the work of Schneider leading to the Impact Case Study
+ (ICS) on e-voting, and the work of Jin leading to the ICS with Honda. Regular seminars and
+ presentations are provided by the University’s Research and Innovation Support Team for new
+ and existing staff. The recent (September 2020) appointment of a Professor in Practice (Ryman-
+ Tubb), with 35 years’ experience of industrial innovation in Data Science and AI, will also provide
+ a significant enhancement to our future impact culture.
+ We also contribute to security reviews of existing as well as upcoming technical specifications as
+ part of our work with the LoRa Alliance Security Working Group and their Technical Committee.
+ The LoRa Alliance is one of the largest alliances in the technology sector, committed to enabling
+ large scale deployment of Low Power Wide Area Networks for the Internet of Things (IoT). We are
+ working with Surrey County Council on their IoT devices roll-out programme, which uses our cyber
+ security expertise.
+ Krause maintains an advisory role with the IoT infrastructure provider Balena, on his earlier work
+ on Digital Ecosystems (Impact Case Study). His more recent work has led to an engagement
+ through 2020 with the City of London on the assessment and optimisation of carbon sequestration
+ in their extensive land holding around the perimeter of Greater London. Tang shares her time
+ between the University and a major USA based healthcare provider. Chen maintains an active
+ research relationship with Hewlett Packard Laboratories.
+
+    1.4.2.      Future vitality / sustainability of impact
+ Researchers across the Department have achieved impact that is responsive to vital emerging
+ challenges. All of the ICSs that have been submitted have the potential to grow. The strategy to
+ support these ongoing projects includes the continued growth of e-voting as a central theme in the
+ Surrey Centre for Cyber Security, and the part-time appointment of Tang with a leading company
+ in the healthcare sector.
+
+    1.4.3.      Relationship of Selected Case Studies to Impact Strategy
+ The impact case study led by Jin with Honda is a key exemplar of the core research outputs of the
+ NICE group in many-criteria optimisation. Most of the underlying work is in the public domain and
+ demonstrates how the work of the NICE group can be applied to solving engineering problems
+ that may otherwise be intractable.
+ The impact case study led by Schneider on e-voting acts as a key demonstration of the work of
+ SCCS in secure and trusted voting. These two ICSs were deliberately selected as “flagships” for
+ their respective research groups.
+ The impact case study led by Krause on IoT infrastructure is illustrative of the domain of
+ applicability of the DANS group within SCCS.
+ All three ICSs are based on long-standing engagements with key stakeholders in their respective
+ domains, all three are founded in internationally leading foundational research, and all three
+ involve active long-term engagement of their associated researchers with the commercial or
+ governmental organisations facilitating the impact.
+
+
+                                                                                             Page 5
+Unit-level environment template (REF5b)
+
+ 1.5.   Interdisciplinary Research Enhancing the Vitality and Sustainability of the
+     Environment
+ The Department has had a tradition of engaging with and co-leading large-scale interdisciplinary
+ projects since 2003. This started with FP6 Digital Business Ecosystems (Grant agreement ID:
+ 507953), immediately followed by FP6 OPAALS (Grant agreement ID: 034824). OPAALS finished
+ in 2010, but we were then co-investigators in EPSRC ERIE (for Evolution and Resilience in
+ Industrial Ecosystems; EP/H021779/1) involving the Departments of Sociology, Mathematics, and
+ the Centre for Environment and Sustainability. An even broader level of interdisciplinarity was
+ achieved through the concurrently running MILES (Models and Mathematics in Life and Social
+ Sciences), funded under the EPSRC Bridging the Gaps call (EP/I000992/1).
+ Since then, inter-disciplinary research has remained central to the strategy of the Department.
+ Major foci for this are provided by Surrey Security Network, and the Surrey Centre for
+ Computational Biology, University wide networks co-led by the Secure Systems and NICE groups
+ respectively. Other particular exemplars of interdisciplinary research are found in on-going
+ collaborations across Faculties within the University. The recently established collaboration
+ between Krause and Giglio (School of Law), a leading expert on Roman Law, on formally
+ modelling the evolution of legal argument structures is a good example of one of the more
+ unexpected collaborations that has emerged from the open research culture within the University.
+
+ 1.6.   Open research culture and ethics
+ The Department is committed to transparency, open communication and making research findings
+ widely available to other researchers and the public. Researchers in the Department aim for the
+ highest standards of research ethics and openness. This is a requirement for publishing in the top
+ journals where refereeing is rigorous, and code must be deposited as a matter of course, as well
+ as data whenever permissions allow. The Surrey Research Insight (SRI) team supports and
+ advises on open access and enhancing research visibility. Data and publications are shared
+ through the SRI open access repository. Researchers deposit all outputs at the point of
+ acceptance, and this is a formal objective in the appraisal process. Upon completion, all PGRs
+ deposit an electronic copy of their thesis in the SRI repository. The Department works in close
+ collaboration with the Library, and experts from the Library have presented to the Department on
+ issues related to open access.
+ Formal processes ensure research is of the highest ethical standards. The University Research
+ Integrity and Governance Office (RIGO) provides guidance on proposals and ethical review
+ submissions. The Department works closely with the University’s legal department with aspects
+ including contractors, consultants and sub-contracts for research partners. Data is stored
+ securely, maintaining subject confidentiality where relevant, and preventing unauthorised access
+ or loss. The University Ethics Committee (UEC) has a diverse, interdisciplinary membership
+ including lay representation. It works closely with the Faculties and the Department has been
+ represented throughout the REF period.
+
+
+
+
+                                                                                            Page 6
+Unit-level environment template (REF5b)
+ 2. People
+
+ 2.1.   Staff Strategy
+ The key aims of our staffing strategy are: (1) to strengthen and grow the core research areas
+ through targeted appointments of talented staff; (2) to become more representative of diversity;
+ (3) to use opportunities for appointments to strengthen interdisciplinary collaborations; (4) to
+ achieve a balanced mixture of ECRs, mid-career and senior staff, to ensure vitality and
+ sustainability, as well as leadership; and, (5) to manage increasing student numbers through the
+ recruitment of career path Teaching and Senior Teaching Fellows.
+ The recruitment of new staff is led by the Department’s Senior Management Group which
+ includes the Head of Department, Director of Research and the leaders of the three research
+ centres. Following a major strategic review of the Department in 2016, we have appointed 16
+ new staff including two at professorial level. The majority of appointments have been at lecturer
+ and senior lecturer level to strengthen the strategic direction of the existing research groups. The
+ two professorial appointments were made to establish a new research area, as mentioned in the
+ research strategy. Building equality and diversity has been a key objective of our recruitment
+ strategy with more than half of our staff (13 out of 23.5) of non-white-European ethnicity.
+ Industrial engagement has been further strengthened with visiting appointments, Professorial
+ appointments and with fractional appointments. Jin has, for example, continued to build on the
+ relationship with his former employer Honda Research with the support of Markus Olhofer (Chief
+ Scientist, Honda Research Institute Europe GmbH) as a Visiting Professor. Tang was externally
+ funded for a 12-month sabbatical and then moved to a 50% appointment with the remainder of
+ her time working as a research team leader at the international company that funded her
+ sabbatical.
+
+ 2.2.   Staff Development and Support
+ We pair up new lecturers and ECRs with a Senior Colleague to offer advice on the development
+ of a research career. Lecturers and ECRs benefit from a well-developed probation process. They
+ attend training in teaching methods during this period. Teaching loads are gradually ramped up
+ over the probation period, typically starting with a shared module in the first year and increasing
+ to two modules by their third year.
+ Start-up funds are available to new staff to attend conferences while they establish their own
+ research funding.
+ Every staff member has a formal annual appraisal with their line manager in the Staff Development
+ Review process. Mentors are assigned to new members of staff, and any member of staff can
+ request mentor support for specific developmental activities.
+ Grant applications are supported by peer review and guidance provided by the University research
+ support office and senior academics within the Department. New Investigator Award (NIA)
+ applications, especially, are peer reviewed by at least two senior academics from the Faculty “Peer
+ Review College”. We have an Intention to Bid process to ensure that University support is provided
+ during bid development as needed.
+ During the last five years, the Department has taken a more proactive approach to supporting the
+ career development of ECRs. They actively engage in our teaching programme through tutorial
+ support, project supervision and occasional lecturing, and undergo training on proposal writing.
+ As an example of the success of this approach, a former PDRA Dragan was recently recruited
+ onto our Academic staff from a highly competitive international pool of applicants.
+ Further details of the University wide strategy for researcher development can be found in the
+ Institution Environment Statement.
+
+
+
+
+                                                                                                Page 7
+Unit-level environment template (REF5b)
+
+ 2.3.   Research students
+
+        2.3.1 Summary
+ The Department has seen a steady rise in successful PhD completions since the last REF,
+ averaging 9 per year compared with 6.8 per year in the REF2014 cycle.
+ This increase has been accompanied by both an increase in the levels of training and support
+ provided, and the quality of the students recruited, as measured by GPA.
+
+        2.3.2 Training, Supervision and Monitoring
+ The University’s Doctoral College provides a large number of courses, some compulsory, for
+ PGRs and ECRs. In addition, as an ACE-CSE our students supervised within SCCS are provided
+ with funds to attend events such as the 2019 Winter PhD Cyber School in Newcastle. Students in
+ the other two groups are supported by Department funds for conference attendance.
+ CDT in Future Connected Technologies: The Department is coordinating the CDT in Future
+ Connected Technologies, established in 2020, which offers opportunities for cross-disciplinary
+ industry-sponsored doctoral projects in the areas of Cyber Security, AI and Communications. This
+ CDT receives 50% funding from EIT Digital and 50% from Industry Sponsors and has the capacity
+ of up to 15 PhD studentships per year, with generous stipends of £20k per year. Recruitment is
+ already underway with the first PhD project sponsored by Saab started in October 2020. Five
+ further companies have committed to fund PhD projects so far, and their start is planned for 2021.
+ All students in the Department have a primary supervisor plus a second supervisor. At least one
+ of the supervisors must have previously supervised a PhD student through to successful
+ completion. After one year, PGRs must submit a formal Confirmation Report to summarise
+ achievements and to outline thesis plans. Two internal examiners interview the student. Problem
+ areas are identified, and an action plan is developed to ensure timely completion.
+ Since 2014 the examiners present at that formal assessment are also required to comment on
+ progress at the 24-month review.
+ PGR progress and training are overseen by the Faculty Research Degree Committee, which
+ meets monthly and is attended by our Director of Postgraduate Studies (Gillam).
+
+        2.3.3 Support for Part-time/Distance Doctoral Researchers
+ Over the current assessment period the Department has graduated 4 part-time PhD students. All
+ part-time students are provided the same office, equipment facilities and training opportunities as
+ full-time students, and attend the University on a regular basis for supervisions and review
+ meetings.
+ There is also a long-standing Joint Supervision Programme (JSP) with King Abdulaziz University,
+ Saudi Arabia, to provide joint supervision of married female faculty staff who are unable to study
+ in the UK due to family commitments. In total, 5 PhD students graduated from this programme
+ during the assessment period, with a further 2 joint PhD students currently registered. Each
+ student on the programme has a Surrey principal supervisor and a second supervisor. The
+ students are supported by regular video conference calls and by at least three on-site visits per
+ year either with the Surrey supervisor visiting Jeddah or the student travelling to Surrey.
+
+        2.3.4 Skills Development
+ PhD students contribute to, and benefit from, both the Department research culture and
+ membership of the Department and the wider University Doctoral College. Within the Department,
+ students participate in PGR workshops organised by the Department’s PGR Director. These
+ include a range of workshops on topics such as literature reviewing, referencing and networking,
+ conferences and social media.
+ Each research group runs a weekly reading group where students are expected to present on a
+ regular basis, which gives them an opportunity to practice presenting in a supportive environment.
+ PhD students are expected to attend at least one leading conference and present a paper during
+
+                                                                                             Page 8
+Unit-level environment template (REF5b)
+ their PhD. The Department provides each student with an allocated fund, as well as providing a
+ general fund for students requiring funding for further conferences and training.
+ We have also been able to offer some students fully funded short-term (1-2 week) exchange visits
+ to leading research institutes around the world. Examples include visits to: Federal University of
+ São Carlos, Brazil (2019; 2 students); Nanjing University of Posts and Telecommunications
+ (2019); University of Wollongong (2019); University of Jyvaskyla (2015). All students funded by
+ Honda have regularly visited the Honda Research Institute in Germany.
+ As well as benefitting from exchange visits, our own PhD students also benefit from an
+ environment in which over 20 visiting PhD students have been hosted from China, Singapore,
+ Brazil and Australia. These two-way exchange visits help us to offer a vibrant international
+ research experience to all our students.
+ Destinations: Our graduating PhDs go into a variety of careers. Most have progressed quickly
+ to senior management positions, but they also include PDRA positions in the UK and
+ internationally, often progressing to academic positions. International PhD students have returned
+ to academic positions in their home country, especially those from the Saudi Arabian JSP
+ Programme where former students have seen accelerated promotion to senior positions in their
+ respective institutions, providing a significant contribution to the career development of their
+ female members of staff.
+
+ 2.4.   Equality, Diversity and Inclusion (EDI)
+ The gender balance of the academic staff in the Department is reflective of the general situation
+ in academic computer science (12% female, 88% male). However, of the female staff, two are
+ Professors, one (0.5FTE) is a Reader and one is a Senior Lecturer. See also our support for
+ married female staff in Saudi Arabian Universities (Sub-section 2.3.3). Ethnicity is more
+ representative, with 36% white and 57% BAME.
+ We have 23% of research active staff being Research Fellows, 51% Senior/Lecturers, 2%
+ Readers and 24% Professors. Our recruitment at Senior/Lecturer level has seen the appointment
+ of high attainment researchers and we expect to see a series of promotions to Reader level as we
+ continue to feed into this pipeline.
+ Online Unconscious Bias training is mandatory for all staff, and face-to-face training on this topic
+ is mandatory for all staff involved in recruitment, disciplinary and promotion procedures. As a
+ consequence, EDI is always actively considered in all job-market decisions at the Department
+ level.
+ The good practices at the University level are fed back to the Department from the Faculty EDI
+ committees, but the Department also takes many initiatives to promote EDI through its Athena
+ Swan action plan. For example, all group meetings and seminars are held between the core hours
+ of 10am to 4pm. Policies also allow for a phased return to work following parental leave or periods
+ of illness, and the Department has been very flexible in these cases. Caring responsibilities and
+ health needs are also taken into account when organising conference attendance, participation in
+ the job-market activities, or other necessary travel to support research, with colleagues being
+ authorised to use more expensive modes of travel when that is more convenient and justified.
+ All staff have the opportunity to apply for flexible working arrangements with regards to the
+ timetabling of their teaching, and many do. Flexibility and work-life balance is greatly assisted by
+ the balanced teaching loads in the Department which allows colleagues to organise their research
+ and other commitments in a way that, for example, suits their caring responsibilities or health
+ needs. For these reasons, and others, the Department was Awarded Athena Swan Bronze status
+ in 2017.
+ These flexible practices allowing a good work-life balance gained a new impetus with the Covid-
+ 19 pandemic, with all members of staff being supported to work remotely while caring for their
+ families.
+
+
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+
+ 3.1.   Research Funding Strategy
+ Since the last REF period our focus on enhancing research quality within the Department,
+ has seen a steady increase in our research income, and in the diversity of funding sources.
+ The total research income in the REF2021 period was £6.5M, more than double that of the
+ REF2014 period (£2.5M).
+ As shown in REF4b, the Department has focused on steadily increasing the funding
+ contribution from UKRI Research Councils during the assessment period, increasing almost
+ four-fold from £130k in 2013/14 to £500k in 2019/20. For industry funding the Department
+ prefers to work with partners at a strategic level through KTPs, collaborative research, PhD
+ projects and long-term strategic consultancies. For example, L. Chen has a consultancy
+ relationship with HP Labs, Krause with the City of London and Tang with a major international
+ healthcare provider.
+ Funding for PhD students is available through an allocation to the Department.
+ The University Doctoral College also provides funding for PhD students through
+ scholarships. Applications for these are assessed on a competitive basis; given the limited
+ availability they are only available to students of the highest quality. We have been awarded
+ at least one of these for each year that this scheme has been running.
+ Over the past 6 years, Honda has funded five full PhD students (covering overseas tuition fee
+ and stipend, as well as travel to international conferences) for three years. Other industry
+ funded PhD studentships include:
+    •   one full PhD studentship funded by Ulucu, a company from China;
+    •   one home PhD student jointly funded by NPL (iCASE),
+    •   one jointly funded by the Pirbright Institute.
+    • two EngDs, respectively with Bosch UK and HR Wallingford.
+ Our CDT in Future Connected Technologies, 50% funded by EIT Digital and 50% funded by
+ industrial sources, is providing us with funding for up to 15 PhD studentships per year.
+
+ 3.2.   Facilities
+ Most offices for staff and PhD students are located on one floor, together with a dedicated
+ seminar room and video conference room. All permanent members of staff have individual
+ offices with appropriate IT equipment and software, and each full-time PhD student has a
+ dedicated desk in one of the shared spaces.
+ The Department has access to the AI@Surrey Compute Cluster to support the data intensive
+ evolutionary optimisation and machine learning of the NICE group. This is a cluster of 16
+ multi-GPU servers with over 120 high-performance GPUs for data intensive computation. The
+ cluster is connected to the University’s storage system via fibre channels for processing of
+ large datasets. Compute resources are managed by an HTCondor scheduling system for
+ GPU based machine learning using large dataset. The system uses HTCondor with Docker
+ containers so that researchers can specify the libraries and versions required, allowing both
+ a customisable experience and encouraging open and reproducible research. The facility
+ provides a local resource to support our research and provides a platform to develop
+ capabilities for using national GPU facilities such as JADE if even greater compute capacity
+ is required.
+ In 2019, the University of Surrey invested £1.7M in a new dedicated 200 seat computer
+ science laboratory which is also available for research. All these Linux machines are equipped
+ with high-end Nvidia Quadro P4000 Graphics Cards. These are set up as a pool of machines
+ that can be accessed remotely, if required. Queued jobs are run on the first available machine,
+ or a user could queue multiple machine learning jobs to be run in parallel on different
+ machines. Researchers in NICE can thus progressively scale their work from the computer
+ science laboratory cluster to the AI@Surrey cluster to a national facility as their work
+
+
+                                                                                        Page 10
+Unit-level environment template (REF5b)
+ advances.
+ The Department has a number of resources for supporting the research of SCCS on
+ networking, distributed systems and security.
+ An OpenNebula server provides an isolated cloud environment for supporting research on
+ edge and cloud computing, and on security.
+ Distributed Computing Testbed: To support our strategy of expanding the internationally
+ leading research profile in technical foundations of secure and trustworthy distributed
+ computing, the Department has recently invested in a state-of-the-art distributed computing
+ testbed. This comprises five Dell PowerEdge R340 servers equipped with SGX-capable
+ CPUs and RDMA-enabled Mellanox ConnectX-5 network interface cards connected via the
+ Dell EMC S5232F-ON Switch with 32 100 Gigabit Ethernet ports. The cluster will serve as a
+ first-of-a-kind distributed testbed supporting Remote Direct Memory Access (RDMA)
+ capabilities alongside Software Guard Extensions (SGX) technology to enable trusted
+ execution of critical code. To the best of our knowledge, this combination of capabilities is
+ unique and is not available from the existing academic hardware testbeds anywhere else in
+ the UK.
+ LoRa testbed: This is formed primarily of one LoRaWAN gateway, 4 LoRaWAN sensors and 15
+ LoRaWAN Pycom IoT devices. These sit alongside other LoRaWAN gateways present in the
+ University campus, forming a LoRa ecosystem to facilitate research in IoT security. The availability
+ of this test bed, together with the SCCS expertise on security and privacy, led to the University
+ being invited by the LoRA Alliance to become an institutional member, joining the LoRa Alliance
+ Security Working Group and their Technical Committee.
+
+ Surrey Blockchain: This is a university-wide testbed for distributed ledger technologies
+ (https://blockchain.surrey.ac.uk/) and is a shared resource to support collaboration on research
+ on the fusion of AI and Blockchain between the SCCS, the Centre for Vision, Speech and Signal
+ Processing (CVSSP), and the Centre of Digital Economy at Surrey (CoDE). Each project may
+ demand specific DLT attributes: a shared permissioned chain maintained across multiple archives;
+ a permissioned public ledger; and/or a fully unpermissioned public chain. We have
+ implementations running on the Multichain (open source), Guardtime (proprietary) and Ethereum
+ test networks. We participate in the public Rinkeby network and administer our own private
+ campus test network for development.
+
+ Testbed for Satellite Constellations: In collaboration with the Surrey Space Centre, we have
+ created a testbed to simulate communications in a constellation of small satellites using ODROID
+ XU4 Single Board Computers and LimeSDRs. This puts us in a unique position to conduct
+ research on networking and cyber security aspects of space systems and satellite
+ communications. At present the testbed can simulate 10 satellites and their communications with
+ the ground control station. This testbed is now being extended to address distributed, networked
+ clusters of satellites. Physically, the footprint will increase by 50%, adding heterogeneity and more
+ scalable processing (using Jetson Nano TX2/Xavier NX) along with reprogrammable capability
+ (using NetFPGAs) to enable experimentation with network and security protocols.
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1.   Collaborations, Networks and Partnerships
+ The Department maintains a close involvement with Industry to ensure specific research activities
+ are directed in a way that addresses long-term societal needs as well as being academically
+ sound. This collaboration is a two-way process, with research outputs transferred to industry and
+ then with research questions being fed back. We find this is a powerful way of stimulating research
+ programmes and directing them to maximise both societal and academic impact.
+ The most significant examples of research relationships are:
+ Jin with Honda Research Institute on evolutionary design (leading to an ICS);
+
+                                                                                              Page 11
+Unit-level environment template (REF5b)
+ Jin with the Multi-objective Optimization Group, Faculty of Information Technology, University of
+ Jyvaskyla, Finland;
+ Jin with State Key Laboratory of Synthetical Automation of Process Industry, Northeastern
+ University, China;
+ Tang with Moorfields Eye Hospital and Queen’s University, Belfast on diabetic retinopathy
+ diagnosis, and with a major multinational in the healthcare domain; work which has enabled us to
+ demonstrate the global generalizability of her research outputs;
+ Schneider with the Universities of Luxembourg and Melbourne, King’s College, London, Monax
+ industries and the Electoral Reform Services on electronic voting (leading to an ICS);
+ Manulis with the National Cyber Security Centre;
+ Chockler with IMDEA Software Institute, Technion, Tel-Aviv University, Emory University, Cornell,
+ KTH, and IBM Research;
+ Sastry with the Alan Turing Institute as Visiting Researcher and one of the co-leads of the Turing
+ Social Data Science Special Interest Group;
+ Sastry with BBC R&D, Vodafone R&D, Cisco Systems, the UK Parliament, Wikimedia Foundation
+ and the Samaritans.
+ The Department actively supports academic interaction with industry through its Industrial
+ Advisory Board and by funding opportunities for developing new collaborative links. Strategic
+ relationships are also developed with the companies mentioned above and others, building up
+ links through the placement of professional training year students, graduate recruitment, research-
+ related undergraduate and MSc projects, and scholarships for PhD projects. These relationships
+ are also firmed up through strategic visiting chairs, for example Markus Olhofer (Honda), Gloria
+ Benson (Consult Hyperion), George Saleh (Moorfields Eye Hospital), Spencer Thomas (NPL),
+ Adrian Waller (Thales Research and Technology).
+ Alan Woodward, a Visiting Professor in the Department, raises public awareness about our cyber
+ security research and helps to promote our Department in public media through frequent
+ commentaries in established media outlets such as BBC, The Times, Telegraph, and Daily Mail.
+ Many of his interviews have also been picked up by foreign media.
+
+
+ 4.2.   Wider contributions to economy and society and engagement with communities
+ A core part of the Department’s research strategy is to facilitate a full stack of technological
+ readiness from its foundational research through to direct engagement with product developers
+ and community stakeholders. Our contributions are very broad, from the globally significant ones
+ to local engagement with the third sector (long term relationships on IT innovation with the Surrey
+ Wildlife Trust and Royal Horticultural Society, for example) and local community (in areas with
+ high indices of social deprivation in North West Guildford, and other less privileged areas of
+ Surrey).
+ Beneficiaries of our research include, but are not limited to:
+    •   The general public, whether that be through simpler parental controls for electronic
+        devices, or improving the traveller experience for mobility impaired rail passengers, or in
+        detecting eye diseases;
+    •   Commercial organisations through developing IoT solutions, blocking predatory
+        behaviours for Network Providers or creating jobs associated with electronic voting;
+    •   The environment, through savings in CO2 emissions through optimisation models of energy
+        use in hybrid vehicles, systems level modelling of ecological networks and services, or the
+        application of AI to remote monitoring of carbon sequestration.
+
+ 4.3.   Contribution to sustainability of discipline
+ In order to maintain the vitality of its research and the discipline itself, the Department actively
+ participates in collaborative projects with partners outside the University, and in different
+ disciplines, in order to benefit from the resulting dialectic. The EPSRC funded VOLT (Voting over
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+ Ledger Technology) project is a strong example. Schneider’s trusted voting work benefitted from
+ partnership with King’s College London’s Department of Political Economy with its expertise in
+ game theory, rational choice theory and behavioural economics. In a different domain Krause is
+ building a community of interest on innovative applications of machine learning and IoT to
+ agroecology with a forthcoming book jointly edited with Prof. Xhafa of the Universitat Politècnica
+ de Catalunya and a webinar to over 600 students in India.
+
+ 4.4.   Responsiveness to national, international priorities
+ The Department actively responds to national and international priorities. For example, its role as
+ an ACE-CSR provides direct engagement with GCHQ on targeting its research to global
+ challenges in security and privacy. Opportunities for usage of IoT and Blockchain, respectively,
+ continues to expand and draw on the Department’s work on digital identity and trust. The work of
+ the NICE Group on evolutionary optimisation is having important application in energy reduction
+ problems, such as optimisation of the management of hybrid vehicle drivetrains (ICS), that feed
+ into the UKRI Sustainable Digital Society priority area.
+
+ 4.5.   Influence, contributions to and recognition by research base
+ Learned Societies/professional bodies: Membership of, and active engagement with,
+ professional bodies is actively encouraged within the Department. Support for progression to
+ Fellowship status of their respective societies is a component of career progression within the
+ Department with senior members expected to achieve this level. Jin is a Fellow of the IEEE.
+ Schneider, Gillam and Treharne are Fellows of the BCS. Schneider is also a Fellow of IET.
+ Krause is a Fellow of the Institute of Mathematics and its Application, and a Chartered
+ Mathematician.
+ Distinctions/prizes: Jin has been recognised by the University of Surrey as a Distinguished
+ Chair. He was named a Highly Cited Researcher in 2019 and 2020 by Clarivate, recognising him
+ as one of the most influential researchers across the globe. He was a "Finland Distinguished
+ Professor" at University of Jyvaskyla, Finland, "Changjiang Distinguished Professor" at
+ Northeastern University, China, and Visiting Professor at Donghua University, China.
+ In the newly formed DANS Group, Chockler received an ACM DEBS Most Influential Paper
+ Award, 2019, and a Best Paper AWARD at the 32nd International Symposium on Distributed
+ Computing (DISC’18). Sastry was nominated a Supervisory Excellence Award (175 nominations;
+ shortlisted to final 2 from Faculty), received the 2019-20 PLuS Alliance Fellowship, his PhD
+ students won awards for “Best Impact” and “Scientific Excellence” across the Faculty in 2019, he
+ received a Best Paper Honorable Mention in 2018 at The Web Conference (WWW), the PhD
+ project of a student was a finalist (top 4 in the creative computing for the digital economy category)
+ at the EPSRC Connected Nations Pioneers Competition, and obtained 2018 Best Paper Award at
+ ACM SIGCOMM Mobile Edge Communications Workshop.
+ Other Best Paper Awards for members of the Department include an IEEE Transactions on
+ Cognitive and Developmental Systems Outstanding Paper Award for Guerin in 2019. Tamaddoni
+ Nezhad is a Co-Investigator, Technical Director and Programme Committee member of the
+ EPSRC Human-Like Computing Network Plus (2018-2023).
+ Editorships: Jin is Editor in Chief of IEEE Transactions on Cognitive and Developmental
+ Systems, and of Complex & Intelligent Systems. Schneider is an Editorial Board Member of the
+ Journal of Cybersecurity and Privacy. Sastry is a member of the Inaugural Editorial Board of the
+ Journal of Social Computing and an Editor of Elsevier Online Social Networks and Media.
+ Treharne is an Associate Editor of ACM Computing Surveys. Gillam is Founding, and ongoing,
+ Editor-in-Chief of SpringerOpen Journal of Cloud Computing, Krause has been Editor (Computing
+ and Software) for the IET Journal of Engineering since its inception in 2013, and is Deputy Editor
+ for BMJ Healthcare Informatics. Manulis is an Editorial Board Member of the IEEE Transactions
+ on Information Security and Forensics and Springer’s International Journal of Information Security.
+ Eleven other members of the Department are also Editorial Board members or Guest Editors of
+ major journals in their respective areas of research.
+
+
+
+                                                                                               Page 13
+Unit-level environment template (REF5b)
+ Advisory/Reviewing:
+ Schneider and Krause have served on EPSRC funding panels and Treharne has been an EPSRC
+ TIPS network plus panel member.
+ Schneider, Jin, Gillam, Krause, Manulis and Treharne are members of the EPSRC Peer
+ Review College, and Sastry is a member of the Flanders Innovation & Entrepreneurship (VLAIO)
+ grants committee; Chockler acted as panel member for: the French National Research Agency
+ (ANR) in 2017 and 2019; the Economic and Social Research Council (ESRC), New and Emerging
+ Forms of Data - Policy Demonstrator Projects, Commissioning Panel Member, January 2017; the
+ Israel Science Foundation (ISF), 2015; the Flemish Agency for Innovation by Science and
+ Technology (IWT), ICON Call 2014; Computing in the Cloud action line of European Institute of
+ Innovation & Technology ICT Labs (EIT ICT Labs) Call 2014. Tamaddoni Nezhad, Tang and
+ Krause are also active as international grant proposal reviewers.
+ All members of the Department are regular PC members for conferences within their research
+ areas and reviewers for relevant Journals.
+ Conference/programme chairs:
+ Jin has been: General Chair, IEEE Congress on Evolutionary Computation, 2020; General Co-
+ Chair, 2016 IEEE Symposium Series on Computational Intelligence, 2016; Chair, 2015 IEEE
+ Symposium on Computational Intelligence in Multi-Criteria Decision-Making; Founding Co-Chair,
+ 2014 IEEE Symposium on Computational Intelligence in Big Data.
+ Schneider was General Chair of ESORICS (the 25th European Symposium on Research in
+ Computer Security, Surrey 2020). Prior to that he had been Programme Chair of ESORICS 2019,
+ and General Chair of the 21st International Information Security Conference (Surrey, 2018).
+ Manulis was Programme Chair of an Interdisciplinary Workshop on Trust, Identity, Privacy and
+ Security in the Digital Economy (DETIPS) 2020; Programme Chair of Information Security
+ Conference (ISC) 2018; Programme Chair of Applied Cryptography and Network Security (ACNS)
+ 2016. These last two were hosted at Surrey, demonstrating further the depth of engagement
+ between the Department and the security research community. Dongol was Conference Chair of
+ Integrated Formal Methods 2020. Sastry was a Technical Programme Committee member for
+ ACM Hypertext and Social Media 2018, and for IEEE COMSNETS 2017.
+ Keynote/plenary/invited talks:
+ Members of the Department have given at least 38 keynote, plenary and invited talks during the
+ assessment period. Highlights include invited keynotes: Plenary speech on “Evolutionary multi-
+ objective federated learning”, International Symposium on Neural Networks, 2019 (Jin); 11th
+ International Conference on Web Information Systems and Technology, 2015 (Sastry); 8th
+ International Conference on Cloud Computing and Services Science, 2018 (Gillam).
+
+
+
+
+                                                                                       Page 14
+

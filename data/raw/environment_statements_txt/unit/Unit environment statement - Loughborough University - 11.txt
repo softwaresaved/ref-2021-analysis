@@ -1,0 +1,966 @@
+Unit-level environment template (REF5b)
+
+ Institution: Loughborough University
+
+ Unit of Assessment: B11
+
+ 1. Unit context and structure, research and impact strategy
+
+ Investment in staff, including appointments on the new Loughborough University London
+ campus, has delivered almost 50% growth in the Unit to 26FTE. Our transformative research
+ has
+ • reached hundreds of millions of users of digital cameras and displays,
+ • contributed to the training of every radiologist in the NHS,
+ • contributed significantly to the economy through 34 collaborative R&D projects funded by
+     InnovateUK, EU, and industry.
+
+ 1.1 Research Structure
+
+ This Unit comprises 27 (headcount) staff including all staff (23.4FTE) from the Department of
+ Computer Science (CS), with computer science researchers from the Wolfson School of
+ Mechanical, Electrical and Manufacturing Engineering (WS) and the Institute for Digital
+ Technologies (IDT) at Loughborough University London (LUL). LUL, which opened in 2015 on
+ the Queen Elizabeth Olympic Park (QEOP), is the biggest strategic investment in the
+ University’s history.
+
+ Computer Science is a Department within the School of Science (SSci), which also includes
+ chemistry, maths, maths education and physics. The Institute for Digital Technologies is one of
+ seven Institutes at LUL, which has a multi-disciplinary faculty spanning entrepreneurship,
+ design, media, management, politics, sport and technology. SSci, LUL and WS are 3 of the
+ University’s 9 autonomous Schools. Each is led by a Dean with a Senior Management Team
+ (SMT) whose membership includes Associate Deans for Research (ADR) and Enterprise (ADE)
+ and, as appropriate, leads of constituent Departments and Institutes. For example, the Head of
+ Computer Science has vital responsibilities on the SSci SMT representing the interests of the
+ discipline and in facilitating opportunities for cross-disciplinary research within the School. The
+ ADE for SSci is a member of Unit staff, demonstrating how the Unit offers significant leadership
+ at institutional level.
+
+ The Unit has three Research Themes
+
+ •   Vision, AI, Autonomous and Human Centred Systems (VAAH) addresses both
+     fundamental and applied challenges that arise from real-world applications in AI, deep
+     learning, autonomous and robotic systems, human-machine interaction and computer vision.
+     Examples include significant achievements in bio-inspired learning and robotics supported by
+     EPSRC and DARPA.
+ •   Networks and Systems (NetSys) focuses on networking and communication systems
+     research, from the underlying theory to practical creation and operation of networked
+     systems. Examples include modelling of mobile networks and large scale edge computing
+     research funded by DSTL and EPSRC.
+ •   Theoretical Computer Science (TCS) investigates fundamental questions in the theory of
+     computing such as algorithms, cryptography, combinatorics on words and formal languages.
+     Recent research highlights include work on word equations and query languages, and deep
+     insights into cryptographic attacks.
+
+ Colleagues from LUL and WS work in VAAH (3D video quality assessment metrics and robotics)
+ and TCS (encryption).
+
+ Interdisciplinarity is critical to the real-world problem-solving nature of many of our activities.
+ The institutional ‘CALIBRE’ strategic research framework drives interdisciplinary activity across
+
+                                                                                                Page 1
+Unit-level environment template (REF5b)
+
+ all Schools. We engage with CALIBRE’s programmes, particularly in the Beacons for High Value
+ Manufacturing (embedded intelligence), Transport Technologies (driverless vehicles) and Sport
+ and Exercise. For example, Li has successfully applied deep learning approaches to human
+ motion analysis in football.
+
+ 1.2 Objectives and Research Plans described in REF2014
+
+ The implementation of our research plans and objectives plans was informed by feedback from
+ REF2014, guided by a new University strategy (2015) and supported by significant changes to
+ our staff base.
+
+ A fundamental element of the University’s “Building Excellence” strategy has been to focus on
+ strengths and refreshed priorities. We identified a critical mass of excellent researchers and
+ forward-looking agendas in applied digital imaging and artificial intelligence, in combinatorial
+ aspects of theoretical computer science, and in networks/systems. Building on the leadership of
+ existing staff with a large-scale, strategic investment in new staff - over 60% of Unit staff were
+ appointed since 2014 - we introduced our 3 Themes and have made significant achievements:
+
+ •   The VAAH Theme has made significant contributions in machine learning, robotics, and
+     computer vision. We developed novel image enhancement and quality assessment
+     algorithms inspired by human visual systems, leading to one ICS in §1.3; In an EPSRC
+     project on autonomy for unmanned vehicles, we developed unique distributed cooperation
+     methods for a team of networked heterogenous unmanned vehicles and applied the
+     developed approach to solve the challenges in a search and rescue scenario.
+ •   The NetSys Theme has grown significantly since REF2014 and the Unit has strengthened
+     capabilities in Cybersecurity, Cloud Data Centres, Edge Computing and Mobile Networks
+     such as Vehicular ad hoc networks (VANETS). Appointments have also strengthened links
+     between practical and theoretical research. The EPSRC Fruit project produced a large-scale
+     datacentre from Raspberry Pis that is underpinning future work in these areas.
+ •   The TCS Theme has built a very substantial group in formal language theory and
+     combinatorics on words, which, for example, has given fundamental insights into
+     combinatorial properties of monoid morphisms, with applications to long-standing open
+     problems for pattern languages and regular expressions with backreferences. The group was
+     invited to host the 12th International Conference on Words in 2019, demonstrating its
+     recognition within the international community.
+
+ REF2014 plans to deliver a research centre to support future mobile technologies and video
+ analytics were fulfilled in the form of the School’s new interdisciplinary Centre for Sensing and
+ Imaging Science. Some highlights of our extensive research in this field include applications of
+ AI in medical imaging such as a machine learning model for the detection of presence and stage
+ of prostate cancer using a simple blood test, and a unique transfer learning approach using a
+ multi-scale and multi-network ensemble for skin lesion classification.
+
+ Our analysis of feedback from REF2014 prompted us to place a stronger focus on theoretical
+ research, positioned in areas that have a clear counterpart in real-world applications. Examples
+ include combinatorial properties of bio-sequences, distributed computing and database theory.
+ This sharpened focus in our fundamental research is illustrated by numerous papers submitted
+ since 2014, such as Mercas’ “Pattern Matching with Variables: Efficient Algorithms and
+ Complexity Results” (ACM Transactions on Computation Theory), exploring the tractability of
+ important pattern matching problems, and Freydenberger’s “A logic for document spanners”
+ (Theory of Computing Systems), introducing a novel approach that revolutionises our
+ understanding of this information extraction concept.
+
+ Our final objective was to improve our ability to react to changes in the funding landscape. The
+ Unit improved communication across the Themes and particularly between the CS Research
+ Coordinator and SSci’s ADR. As a consequence, income streams have diversified since
+
+                                                                                              Page 2
+Unit-level environment template (REF5b)
+
+ REF2014 to include international funders (e.g., DARPA) complementing UK sources, and
+ research income increased by 172% from 2013/14 to 2019/20.
+
+ 1.3 Enabling and Facilitating the Achievement of Impact
+
+ Our REF2014 impact strategy delivered on the following objectives:
+
+ •   Bringing staff together to generate impact: Tailoring training at individual and group level
+     was found to be effective. Staff were advised on which courses to follow and senior staff with
+     impact generation experience provided mentoring.
+ •   Proactively involving industry in the Unit’s research: The School’s Partnership
+     Development Manager (PDM) and the ADE actively supported staff in establishing and
+     nurturing partnerships. This strategy resulted in award of InnovateUK and Newton Scheme
+     funded projects with more than 15 industry partners, e.g. UK SMEs (Surface Intelligence,
+     Statmetrix), large companies (ARM UK) and international industry (Nantong Guangyi
+     Mechanical & Electrical Co., China).
+ •   Working closely with LU’s professional services to facilitate impact generation: many
+     impact generating projects originate from research funded by bodies such as UKRI or EU.
+     These were supported by the Research Development Team. The PDM co-ordinated support
+     available further along the pathway to impact, from preparing industry-led R&D grant
+     applications to contracts and commercialisation teams support to impact generation via
+     consultancy projects with Public Health England, NHS Trusts of Scotland, Wales and
+     Northern Ireland.
+ •   Making research services available to external users: Through Loughborough’s EPSRC-
+     funded CDT in Embedded Intelligence (CDT-EI), the Unit received 9 industry-led PhD
+     studentships (£40k each from industry), since 2015. These studentships resource impact
+     generation in the long-term, by supporting underpinning research and initiating ideas and
+     opportunities for InnovateUK / KTP grants (e.g. ARM, Motion Robotics).
+ •   Actively supporting early-stage impact generation opportunities: Support available
+     includes funding for commercialisation and impact generation through the University’s
+     Enterprise Projects Group (EPG). For example, Li’s proof-of-concept project on using AI for
+     Football Match Analytics received £5,000 and subsequently won a Minority Supplier
+     Development UK (MSDUK) Innovation Challenge Award in 2019.
+
+ 1.3.1 How the Selected Impact Case Studies Relate to our Approach to Achieving Impact
+
+ The Unit identified potential REF2021 ICSs in 2016. All were actively monitored, supported and
+ progress recorded on an annual basis within ICS Action Plans. We selected those with the
+ greatest significance and reach.
+
+ The Computer Aided Safety-Engineering ICS originated from underpinning research funded
+ by EPSRC (2005-12) and EU (2005-10). Supported by the University’s commercialisation team
+ and funded by the local government, venture capitalists and LU (total investment £1.3M) we
+ formed the spin-out HAZID Technologies in 2002. Chung was awarded a 6-month study leave
+ (Gatsby Fellowship) in 2002 to focus on HAZID as its founding Technical Director. The
+ outcomes of the EU VIRTHUALIS project further supported this ICS through collaboration with
+ BP and Igloo Vision in 2014-15, funded by BP.
+
+ The Image Enhancement ICS originated from underpinning research conducted within two
+ industry funded PhD studentships, one EPSRC Engineering Doctorate studentship and research
+ conducted by three KTP projects and one InnovateUK project. All projects were in collaboration
+ with the SME Apical (since purchased by ARM), who benefitted from the Unit’s pro-active
+ strategy to facilitate impact generation from research. The Unit’s PDM coordinated support for
+ the submission of all InnovateUK grants. The success of the partnership with Apical was also
+ recognised by the LU Enterprise Awards for Knowledge Transfer in both 2013 and 2014.
+
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+
+ The PERFORMS ICS originated from an extensive programme of consultancy projects (£4.66M
+ since 2000) with NHS / Public Health England, with support from the contracts, consultancy and
+ partnership development teams. All staff of the PERFORMS team were provided with impact
+ related training. PERFORMS received a prestigious Loughborough University Enterprise Award
+ in 2010 and was shortlisted for a further award in 2015.
+
+ 1.4 Research and Impact Objectives and Plans for the Next Five Years
+
+ The Unit will now capitalise on the newly-created, focused structure and staff base. Our future
+ strategy has the following three research and impact priorities:
+
+ a) Growing research to tackle emerging challenges
+
+ VAAH will tackle real world challenges in AI, robotics and computer vision, aligning with the
+ Industrial Strategy. Research will be prioritised in robotics for service applications and
+ challenging environments, trustworthy AI (Cosma, Meng), cognition, human-machine
+ cooperative autonomy (Meng, Soltoggio, Lock, Chen), embedded and distributed intelligence
+ (Edirisinghe, Fatima), vision-based scene understanding and human behaviour analysis (Li,
+ Schaefer, Fang, Cai). Building on our recent developments in learning mechanisms inspired by
+ infants (Meng), lifelong learning (Soltoggio) and brain inspired embedded neural networks
+ (Edirisinghe, ESPRC, £965k, 2020-23), the Theme will address emerging challenges in
+ psychologically and biologically inspired learning, adaptation and self-organisation theories and
+ mechanisms in autonomous systems.
+
+ NetSys now has a strong track record in core internet, network edge computing and vehicular
+ networks. Future research will cover the spectrum from modelling (Nagal, Guan) and simulation
+ to testbed implementations (Adnane, Phillips, Tso). These areas include low-latency
+ computation using edge computing techniques and data plane programmability building an army
+ of highly composable network service functions that can flow data to computation; trust
+ management and the human factors of security for future smart cities’ applications and
+ connected vehicles; performance modelling and evaluation, optimisation and prediction in non-
+ continuous, heterogenous networks and systems. The Theme intends to build its network of
+ industrial and international contacts including, Cisco, DSTL (“Internet of Battlespace Things
+ (IoBT) Services”, DSTL/QinetiQ, £347k, from Jan 2021), MoD, Rolls Royce, and ATOS.
+
+ TCS has a strong track record in formal language theory and combinatorics on words (Day,
+ Freydenberger, Mercas, Reidenbach). The Theme will tackle fundamental open problems that
+ primarily arise in application-driven models of formal languages that currently impede the
+ practical use of these models. Future research will include new models of query languages
+ (EPSRC, “Foundations of the Finite Model Theory of Concatenation”, £397k, 2021-23) and
+ algorithms for biosequences, as well as topics where expertise is currently emerging and major
+ progress is expected, e.g., tractable classes of word equations. Cryptography is another strong
+ area of expertise in TCS (Adnane, Rahulamathavan, Salagean) where emerging problems in
+ that field will be addressed, e.g., cryptographic attacks, privacy-preservation mechanisms.
+
+ Loughborough’s Vehicle Safety Research Centre is academic lead for the Smart Mobility Living
+ Lab (SMLL, £19M InnovateUK funded, led by TRL) which is partly located on QEOP and which
+ unites CS and IDT. SMLL provides an excellent platform to support our future research on AI,
+ computer vision, networks, and encryption for driverless vehicles.
+
+ b) Increasing international visibility
+
+ All new staff appointed to the Unit have strong links to international collaborators evidenced, for
+ example, by collaborative grants and joint publications with leading international institutions
+ including Stanford University, Carnegie Mellon University and INRIA. It is planned to continue to
+ leverage these connections to increase our international visibility e.g. via international grants and
+
+
+                                                                                               Page 4
+Unit-level environment template (REF5b)
+
+ the hosting of international conferences. For example, a series of extensive mutual visits is
+ already planned between the Unit and the University of Turku (Finland), from 2022 to investigate
+ tractable classes of word equations. This will be coordinated by Unit ECR Day and funding is
+ being sought from the Academy of Finland. Plans are also in place to strengthen existing links to
+ the University of Göttingen, Germany, to cooperate at the intersection of combinatorial and
+ algorithmic properties of bio-sequences. ECR Mercas’ visit to Florin Manea’s group at Göttingen
+ in spring 2021 has been delayed due to the COVID-19 pandemic. In the meantime, Unit staff
+ have contributed to a number of virtual international seminars, hosted by the Universities of
+ Waterloo (Canada) and Göttingen. Further plans include collaborations on connected vehicles
+ (Austrian Institute Of Technology) and internet routing (Adelaide University).
+
+ c) Sustaining and enhancing impact creation
+
+ Building on the successful impact strategy currently in place, we will follow three refreshed
+ strategic impact objectives:
+
+ 1. Introduce Impact Champions (Li, Lock, Meng, Soltoggio) based on their research grant
+    profile, industry engagement and experience in delivering impact.
+ 2. Support early-stage impact projects and identify and support new opportunities. Two have
+    already been identified: embedded computer vision for sandwich making automation, and
+    deep learning-based handwriting pen path recovery.
+ 3. Build Impact Consortia bringing together R&D partners with complementary skills and to
+    focus on significant new impact development (e.g., AI for Free Roaming in Immersive TV
+    Content). The first has already formed comprising ARM, Sky TV and SMEs: TSC Simulation,
+    Imaging CV, and Your Tour.
+
+ 1.5 Open Research Environment
+
+ The University has been a pioneer of the ‘Open Agenda’, actively supporting Repositories for
+ text-based outputs (since 2005) and data (since 2015), working beyond funder (including
+ REF2021) open access requirements. Our landmark Open Research Position Statement,
+ supported by the Unit, committed to depositing the full-text of 100% of our primary research
+ outputs in our now unified (2019) Research Repository (including on closed access where
+ unavoidable) from 2020. From 2020, the Unit has deposited 100% of its journal papers in the
+ repository.
+
+ The Unit is active on open-source software, especially in the rapidly developing deep learning
+ area, and also contributes to the research community by maintaining outputs in repositories such
+ as Github, sharing research methods, data and code. For example, Tso maintains his open-
+ source Fruit Operating System (FruitOS) in Github. Tso is also a GitHub Campus Advisor
+ providing support and promotion of ‘open source’ through Github across the University.
+
+ 1.6 Culture of Research Integrity
+
+ The Unit commits to maintaining the highest standards of rigour and integrity in conducting
+ research as embodied in the Concordat to Support Research Integrity (2012). All those engaged
+ in research are responsible for observing the principles of the UK Research Integrity Office
+ (UKRIO) Code of Practice for Research (2009), from initial concepts through to final
+ dissemination. The UUK Concordat and the UKRIO Code of Practice are integral to the
+ University’s Ethical Policy Framework, which applies to all research activities. This is supported
+ by Loughborough’s Ethics Committee and follows the University’s Research Misconduct and
+ Whistle-Blowing policy to maintain a culture of research integrity without fear of recrimination. All
+ Unit staff attend the compulsory training on research integrity. The Unit checks all projects
+ involving human participants, military applications or animal testing. All potentially affected
+ projects have comprehensive ethical clearance documentation checked by the Research
+ Coordinator, ADR and, if needed, the Ethics Committee, e.g., the “Prostate Imaging Self-
+
+
+                                                                                                 Page 5
+Unit-level environment template (REF5b)
+
+ assessment and Mentoring” project, which involved recruitment of NHS staff, received ethical
+ approval as did the InnovateUK funded SnooZeal-Connect project for its MRI scan trial. The
+ process has recently been streamlined by introduction of a new ethics system (LEON).
+
+ 2. People
+
+ 2.1 Staffing and Recruitment Policy
+
+ All academic staff are active in to teaching, research and enterprise. We expect and incentivise
+ collegiality from the earliest career stages. Academic staff have open-ended contracts, while
+ research staff are on fixed-term contracts related to projects in line with sector norms. Part-time
+ working is welcomed and 3 Unit staff work part-time (2M/1F).
+
+ The Unit regularly assesses its succession needs and uses new appointments strategically to
+ ensure critical mass and leadership in the research Themes. All appointments, including
+ replacements, need to be justified by strategic planning. Since REF2014, the University
+ approach to recruiting excellent staff at all career stages, from postdoctoral and early career
+ researchers (ECRs) through mid-career and senior roles, has radically changed, driven by the
+ University Strategy. The University’s ‘Excellence100’ campaign was based on pilot campaigns to
+ recruit outstanding ECRs which were managed centrally and focussed unequivocally on
+ excellence. Building on this, recruitment to established posts is now conducted through biannual
+ recruitment rounds, managed centrally but with significant School input, rather than piecemeal
+ replacement hires. With excellence as the primary criterion, these rounds deliver better
+ international recruitment and improved diversity. All staff involved in recruitment undergo
+ rigorous EDI training and all panels are mixed gender. Of the 16 new appointments, 56% were
+ BAME. Of further note is Han’s appointment, on a 2-year partner fellowship scheme associated
+ with his female partner’s appointment to another School.
+
+ Since 2014, our main recruitment requirements have been to replace a large number of staff
+ members retiring from CS, recruit to the new Institute for Digital Technologies in LUL and to add
+ growth. Sixteen new staff have joined the Unit (12 Lecturers, 3 Senior Lecturers, 1 Research
+ Fellow), illustrating our main aim of recruiting early career staff with transformational potential.
+ The Fellow (Day) was recruited to a prestigious 2-year Doctoral Prize Fellowship scheme (under
+ Excellence100) for researchers within 2 years of PhD completion. Day was subsequently
+ recruited to a lectureship.
+
+ Notwithstanding how staff work across Themes, the distribution of primary affiliations confirms
+ how each has been strengthened: VAAH 8, NetSys 3 TCS 5. The Unit now has a significantly
+ different demographic in which very few retirements are expected in the next decade. Within
+ SSci, the management roles of the Departments, while also important in their own right, are
+ important for succession planning by helping to identify and develop future research leaders at
+ School and institutional level.
+
+ 2.2 Staff Development Strategy
+
+ The Unit is committed to developing academic staff into research leaders with international
+ influence.
+
+ Loughborough’s Organisational Development offers a wide spectrum of training opportunities
+ and support for Unit staff at all career stages. Courses range from earliest stages (Welcome to
+ Loughborough) through essential training (Information security training, Unconscious Bias) to
+ training for staff becoming senior managers (Coaching conversations for managers, Recruitment
+ and selection).
+
+ All academics are expected to obtain Fellowship of the Higher Education Academy (HEA). For
+ new lecturers, this is integral to their dedicated development programme. More experienced
+
+
+                                                                                               Page 6
+Unit-level environment template (REF5b)
+
+ colleagues are supported through our `Recognition of Experienced Practitioners' scheme which
+ requires preparation of a dossier of evidence to support their application.
+
+ Unit staff can access financial support for research visits, e.g. to prepare international grant
+ applications or develop industry collaborations for impact generation. For example, Soltoggio
+ attended meetings in the US to develop his Lifelong Learning Machines proposal, now funded by
+ DARPA. Furthermore, new staff receive a start-up grant (£2k per year for three years). Visits are
+ further facilitated by flexibilities such as adjustment of teaching timetables. Unit staff can apply
+ for research and impact leave, under University or School Fellowship schemes, which allow
+ focus on exceptional activities for a fixed term. Chung’s leave was critical at an early stage of his
+ Computer Aided Safety-Engineering ICS.
+
+ Following the principles of the Concordat to Support the Career Development of Researchers,
+ the University provides structured support to postdoctoral researchers (21 in this Unit in this
+ REF period) for career progression and development, including preparation of applications for
+ funding. Our influential Research Staff Association (LURSA) runs a mentoring programme and
+ introduced (2017) the Fellowship Inaugural Lectures to promote Research Fellows’ work. Unit
+ postdoctoral researchers are integrated into a support group through meetings and seminars,
+ and they provide mentoring support to PhD researchers, which is a development opportunity for
+ them too. They regularly secure academic posts e.g. Loughborough (Day, Cai), Oikonomou
+ (Bristol), Zhao (Manchester Metropolitan) and Wang (NEU, China).
+
+ Under the New Lecturers’ Programme (NLP), all new lecturers are guided by an experienced
+ and trained academic colleague from the Unit who acts as Adviser. NLP (formerly academic
+ probation) was substantially revised in 2017 and includes the full spectrum of research and
+ impact activity (publication, funding applications, collaboration, public engagement, non-
+ academic partnerships). New lecturers have a reduced workload in teaching and administration
+ (33, 50 and 67% of departmental norms in consecutive years), which enables the establishment
+ of a full academic profile in research, teaching and impact at a manageable pace. In addition to
+ an extensive training programme leading to FHEA, the New Lecturer meets four times annually
+ with their Adviser though many more informal meetings are the norm. New Lecturers are
+ allocated a University-funded PhD studentship within their first two years, for co-supervision with
+ an experienced colleague. Supervision is a requirement to pass the programme, alongside a
+ minimum expectation on research output production, and the submission of at least one
+ substantial grant application. During the assessment period, three Unit staff competed NLP and
+ one has subsequently been promoted. Six Unit staff are currently completing NLP.
+
+ Support for mid-career and senior staff is provided via a buddying scheme where more senior
+ staff mentor colleagues through the promotion process. As careers develop, we also expect
+ broader leadership contributions. For example, 2 Unit staff served on the University Senate, and
+ Edirisinghe and Phillips served on the SSci SMT as ADE and Director of Academic Staffing,
+ respectively. Workload model allocations ensure appropriate research activity is maintained.
+
+ All members of post-probationary staff in the Unit have an annual PDR. This University scheme
+ was totally updated in 2017. A supportive one-to-one discussion between the reviewee and a
+ trained reviewer reflects on achievements over the past year and agrees objectives across the
+ full range of activities including CALIBRE-aligned goals for research and impact activity. New
+ PDR is a transparent way to recognise performance exceeding expectations with additional
+ financial reward and allows much fairer identification of candidates for promotion. The new
+ scheme has particularly benefitted our research staff for whom a rigorous developmental
+ discussion was previously sporadic and consideration for reward a rarity. Institutional-level
+ analysis against protected characteristics has resulted in process revisions and improved
+ training arrangements e.g. ‘The Art of Inclusive Performance Conversations' programme.
+
+ The University has also revised the criteria for academic promotion (Senior Lecturer and
+ Reader / Professor), to ensure that the research components align with the University Strategy
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+
+ and CALIBRE. Evidence for cases can be based on research, teaching, enterprise (impact) or
+ any combination to encourage balanced portfolios of work. We judge ‘Excellence and
+ International Reputation’ and ‘Academic Leadership and Influence’ rather than traditional metrics
+ based on quantity and not quality. This focus allows panels to take into account statements from
+ promotion applicants describing how personal circumstances, such as caring responsibilities,
+ may have affected their profile. Several Unit staff have been promoted based on research
+ excellence and contribution to wider aspects of the Unit’s activities: Meng (Prof), Lock, Li, Tso,
+ Soltoggio (SL).
+
+ 2.3 Research Students
+
+ Research students are key to the research of the Unit. The average number of PhDs awarded
+ each year in this period has increased by 15% to 11.9 since REF2014. In the recent
+ Postgraduate Research Experience Surveys 2019, our PGR students (84.7%) are satisfied with
+ the experience of their research degree programme, which is well above the national average.
+
+ The Unit attracts funding to maintain its PGR population (c.40 students) via University
+ scholarships, industry funding, international scholarships, UKRI funding including Centres for
+ Doctoral Training (CDTs), and high-quality self-funded students. The funding mix is
+ approximately 30% from internal funding, 15% from CDT and industry, 35% from overseas
+ governments and 20% self-funding. University scholarships are also available to cover
+ international tuition fees. Unit members are encouraged to bring third-party funding for match to
+ internal or CDT funding. During the REF period, the Unit participated in the Loughborough-led
+ EPSRC Centre in Embedded Intelligence (CDT-EI) - 9 studentships with £40k industrial
+ contribution for each. Four more studentships were funded from industry such as DSTL, Rolls
+ Royce, while 31 studentships were funded by the government funding bodies (Saudi, Oman,
+ Brunei, Thailand, China CSC, DARPA) during this REF period.
+
+ We require all potential supervisors to have undertaken training on Bullying and Harassment,
+ Recruitment and Selection, Respecting Diversity, and Mental Health Awareness. Supervisors
+ are then required to develop PhD recruitment plans that include approaching underrepresented
+ groups (special mailing lists, diversity-related web-resources, conferences). All funded and non-
+ funded projects are posted on the School website and the highly visible e.g. FindAPhD website.
+ We arrange remote or in-person interviews of shortlisted candidates to ensure high quality
+ students are recruited. Decisions are taken by two members of staff.
+
+ The Doctoral College runs an induction event for new starters, complemented by School
+ specific inductions. All students have at least two supervisors with whom meet at least monthly
+ and usually more frequently, with minutes recorded in the University’s dedicated online Co-Tutor
+ tool. During the first year of PhD studies, there is an initial 6-month review followed by annual
+ reviews, based on a report and viva with an independent examiner, at which student progression
+ is decided.
+
+ Within Schools, quality assurance of research degree programmes is provided by the ADR.
+ Schools also have a Director of Doctoral Programmes (supported by a Deputy in CS) who
+ monitors progression and arranges subject specific training. Further specialist support is
+ available from the Mathematics Learning Support Centre, the English Language Support Unit,
+ the Student Advice Centre, the Careers Network, and the Student Wellbeing and Inclusivity
+ Service. Schools have elected PGR student representatives who are members of the Staff-
+ Student Liaison Committee.
+
+ The Doctoral College offers over 200 skills development events annually. Students attend
+ seminars in their Theme and more widely in the Department and the School, often being the
+ speakers. They are encouraged to publish and are also supported by grants to attend
+ conferences (£2k across their PhD). All students have an opportunity to gain teaching
+ experience (c.25% take it up) by assisting in labs and tutorials, after completing the University’s
+
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+
+ Teaching Skills course designed for PhD students. Doctoral College runs the Annual
+ Conference, Summer Showcase, Three Minute Thesis competition and the ‘Diversity in
+ Research’ workshops. In addition, SSci holds the annual “Science Matters” conference,
+ organised by PhD students as a professional development opportunity with popular lectures
+ from prominent external speakers, student talks and poster presentations, and awards for
+ outstanding contributions of doctoral students.
+
+ 2.4 Equality and diversity
+
+ EDI matters are led by Schools and all make strong commitments. For example, CS actively
+ participates in a range of School-level EDI activities, including Women in Science lecture series,
+ Pride in STEM research showcase (talks by LGBT+ scientists), Black Excellence in STEM events,
+ panel discussions about experiences of Black students and staff in STEM, and the Diversity Allies
+ Campaign (encouraging staff and students to be better allies to underrepresented groups).
+
+ All colleagues complete a Respecting Diversity mandatory course and pass an online
+ Unconscious Bias course. School SMTs receive bespoke Unconscious Bias training. SSci and
+ WS hold Bronze Athena SWAN (AS) Awards and LUL has an application in preparation. Unit
+ member Phillips is an experienced AS assessor.
+
+ Formal flexible working requests are submitted and approved by HR with support from the
+ School. One Unit member moved to 0.8FTE, another temporarily moved to a 0.6FTE, triggered
+ by requests relating to caring responsibilities. Staff teaching may request up to one hour each
+ day free from timetabled teaching to accommodate e.g. school runs. School meetings are
+ restricted to core hours of 10am-4pm. Academic staff may also work flexibly or remotely on an
+ informal basis so long as responsibilities are fulfilled. In other circumstances, such as caring for
+ a family member in poor health, staff can request caring leave for immediate issues or longer
+ term flexible working for ongoing responsibilities.
+
+ Remote working is facilitated via the VPN (with secure multifactor authentication) that provides
+ access to all University online resources, as well as through the choice that academic staff have
+ between a desktop computer or a laptop. During lockdown, a chat room was created for staff to
+ discuss issues and seek advice in a collegiate environment. These policies and supporting
+ infrastructure have eased the transition to effective home working during the COVID-19
+ pandemic from March 2020.
+
+ Funding applications are supported as described in 3.1. Annual equality audits are conducted
+ to ensure that support is provided to all colleagues, including those with protected
+ characteristics. EDI committees collect information about grant success rates and studentship
+ applications by protected characteristics and seek support from the research committees (both
+ at the School and the University levels) to promote a culture of equality and diversity in the
+ research resource distribution.
+
+ In addition to University-level support, the Unit supports staff returning from parental,
+ maternity, adoption, caring responsibility, sick or other long-term leave by giving them
+ phased workload reintroduction extending over 2 years. Staff are further supported by
+ Occupational Health to determine accommodations to allow them to continue in their role,
+ including staff with disabilities. Compassionate leave exists for circumstances, e.g., death of
+ close relative, which several staff have received.
+
+ Staff and research students with caring responsibilities are supported by a carer’s fund of up to
+ £200 each year to support additional costs associated with conference attendance. An annual
+ equality analysis of staff conference attendance is undertaken each year, and action plans
+ drawn up if required. The Schools fund female staff in leadership roles to attend the Aurora
+ Leadership Programme (Fatima) and SSci has a dedicated fund to support travel to UK
+ diversity-related events.
+
+
+                                                                                                Page 9
+Unit-level environment template (REF5b)
+
+ Wellbeing support: The Unit has two Mental Health First Aiders with externally accredited
+ training, who provide immediate support to staff and research students. The Wellbeing Advisor
+ provides support to research students. The University Counselling Service is available for
+ emergency meetings and long-term treatment. The University also subscribes to the Employee
+ Assistance Programme providing 24-hour telephone counselling and repeated sessions for
+ staff with complex issues.
+
+ 2.5 EDI in REF Submission Construction
+
+ Following the University's REF Code of Practice (CoP), the Unit created a REF Submission
+ Team (2 White, 2 BAME) covering all Themes. The submission team completed EDI and
+ unconscious bias training. All colleagues were asked to nominate and self-assess potential
+ outputs for inclusion. In line with our Responsible Metrics Policy, these were peer assessed for
+ originality, significance and rigour by a team of reviewers representing all research Themes and
+ covering different career stages, age, gender, race, and ethnicity. Output selection was based
+ solely on excellence as set out in the CoP, and did not set out to ensure even distribution across
+ individuals or Themes. Throughout our REF preparations, equality impact assessments (EIAs)
+ were carried out to assess both institutional processes and our draft return, including outputs
+ selected, against protected characteristics, and to monitor whether further action was required.
+ EIAs confirmed no issues required attention. 20% of outputs selected are attributed to staff
+ identifying as female (21% of Unit staff identify as female).
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Research Funding and Strategies for Generating Research Income
+
+ External funding is vital to the Unit’s ambitions in research and impact and all Unit staff are
+ expected to pursue external funding for research to obtain the necessary resources - research
+ staff, PhD students and equipment - to deliver projects across our Themes in areas such as AI
+ and robotics, IoT, cloud and edge computing, security and encryption.
+
+ In line with REF2014 strategy, we have obtained grants from a greater variety of funding
+ sources, e.g. EPSRC, NERC, Newton Fund, InnovateUK, KTP, EU, DARPA and industry. We
+ have achieved 172% growth to £670k/year income in 2019/2020 from 2013/2014. This upward
+ trend will continue into the next REF period based on new and ongoing grants, such as:
+ • “Foundations of the Finite Model Theory of Concatenation” (Freydenberger, EPSRC, £400k,
+      2021-23),
+ • “Neuromorphic memristive circuits” (Edirisinghe, EPSRC, £966k, 2020-23),
+ • Further active grants from AHRC, InnovateUK (7) and five KTP grants.
+
+ To secure funding, we monitored opportunities using tools provided by the University’s Research
+ and Enterprise Office (REO) (e.g., Research Professional) and created project teams, often
+ including academic and/or industrial partners. This led to awards such as: RegNet (Dogan,
+ InnovateUK, 2020, £104k) in collaboration with RegulAItion and UCL to develop privacy-
+ preserving data access network for regulated sectors; SnooZeal-Connect (Meng, InnovateUK,
+ 2019, £167k) in collaboration with Signifier Medical Technologies to develop an intelligent device
+ for personalised diagnostic, treatment and management of sleep breathing disorders. For KTP
+ projects, 7 over the REF period, Unit staff often collaborate with other Loughborough Units.
+
+ Our enduring commitment to interdisciplinary research has enabled us to win large research
+ grants to address fundamental research problems. For example, Meng collaborated with
+ Aeronautical and Automotive Engineering at Loughborough to win a £1M EPSRC grant (2012-
+ 16) developing biologically inspired approaches to decision making with uncertainties for
+ autonomous vehicles; Edirisinghe collaborated with Physics and Chemistry to secure the recent
+ £966k EPSRC grant exploring memristive neuromorphic mechanisms to analyse image-streams
+ and to make decisions and choices by mimicking neural process in a brain cortex.
+
+                                                                                            Page 10
+Unit-level environment template (REF5b)
+
+ The Unit’s strategic objective to diversify funding sources, particularly for international
+ collaborations, has secured important grants. YOBAN and Air Pollution (both Meng) are in
+ collaboration with Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of
+ Sciences, in addition to two industrial partners. YOBAN (Newton Fund, £380k, 2017-19) is
+ developing a companion robot to assist walking, sitting down and standing up for older people;
+ Air Pollution (Newton Fund, £131k, 2018-20) investigates triple-network based air quality
+ monitoring, prediction and carbon credit trading for sustainable urban environments.
+
+ From our strategy to address stakeholder priorities, we take proactive actions to develop
+ ideas. The NetSys Theme set up several PhD projects in promising research directions on IoT,
+ routing and caching mechanisms in future generation networks. This proactivity has been
+ rewarded by several related grants such as EU grant ISS-EWATUS (Yang, £115k, 2014-17)
+ developing integrated support system based on IoT sensory information for efficient water usage
+ and resources management. Results from PhD projects on network protocols attracted the
+ interest of DSTL, leading to a recently funded PhD studentship and a recent funded project
+ (DSTL/QinetiQ , £347k) to support fundamental research into novel wireless network protocols,
+ and how they would enable agile and dynamic services on Future Internet of Battlespace
+ Things.
+
+ Our supportive research environment has enabled our new lecturers to be successful in
+ funding applications through experience sharing, proposal peer review and support from senior
+ staff. For example, Fang recently secured a KTP project (£198k) and an InnovateUK project
+ (£56k) with the support from Meng as a project team member and proposal peer reviewer. Both
+ projects extend the Unit’s AI expertise to provide novel capabilities in strategic planning and
+ operational decision-making.
+
+ One of our research funding strategies is to join larger Research Consortia to address national
+ and international challenges. This strategy has led to research awards such as the two
+ examples here:
+
+ •   Tso worked with Glasgow, Southampton and Cambridge on the £909k EPSRC project FRuIT
+     developing a federated Raspberry Pi micro-infrastructure testbed.
+ •   Soltoggio collaborated with six international universities including Stanford University, UT
+     Austin, UC Irvine, INRIA, and IT University of Copenhagen, and secured the Lifelong
+     Learning Machines (L2M) project (DARPA and the US Air Force Research Laboratory,
+     £487k, 2017-21), aiming to advance the lifelong learning abilities of machine learning.
+
+ The Unit’s research funding enables us to collaborate with partners in industry, generating
+ impact beyond our current Impact Case Studies. For example, Li’s KTP project (2019-21) in
+ collaboration with Millitec Food Systems on food robots is now at the final trial stage with food
+ manufacturers and already attracts wide media reports (e.g. Engineering & Technology, January
+ 2020).
+
+ Our research grants have also achieved world leading results and generated high quality
+ outputs. Meng’s EPSRC grant on autonomous vehicles developed novel algorithms for
+ distributed task allocation for multi-robot systems with time constraints under uncertainties, and
+ the results were published in prestigious IEEE Transactions, and in the top robotics conferences
+ (IEEE International Conference on Robotics and Automation and the IEEE/RSJ International
+ Conference on Intelligent Robots and Systems). Tso's EPSRC grants resulted in novel
+ algorithms and systems for network management, which exploit heterogeneity among
+ networking devices and topologies for network function composition in data centre and edge
+ networks. The results have led to 6 journal publications in IEEE Transactions on Parallel and
+ Distributed Systems, IEEE Transactions on Network and Service Management and IEEE
+ GLOBECOM.
+
+
+
+
+                                                                                            Page 11
+Unit-level environment template (REF5b)
+
+ 3.2 Organisational Infrastructure Supporting Research and Impact
+
+ Staff benefit from Unit workshops where successful proposals are analysed so that strengths
+ and weaknesses can be better understood. Peer review by experienced academic colleagues is
+ normal and CS has an internal repository of grant applications to share successful practice.
+ Alongside Unit support, staff also access one to one support with their School’s Research
+ Development Manager (RDM) or Partnership Development Manager (PDM) from the REO. They
+ also attend regular drop-in sessions from REO to discuss topics such as grant application and
+ intellectual property. This support has been particularly important as the Unit has recruited so
+ many ECRs during this REF period. Freydenberger’s recent New Investigator Award is one
+ example of where support was provided by colleagues in his School, including peer review, and
+ from his School’s RDM.
+
+ The KTP Office within the REO provides full life cycle support for KTP projects from meeting with
+ industrial partners with the KTP advisor and writing proposals to supporting delivery of the
+ projects, including project finance data support and KTP associate training. All our InnovateUK,
+ KTP and consultancy projects, where there is close collaboration with industrial partners, require
+ contractual agreements, especially to cover how to share and commercialise IP after the project.
+ Some of our projects have international partners, making the agreements more complicated.
+ The University’s Contracts Team provides the required specialist legal service support,
+ negotiating with our partners, developing agreements and monitoring commercialisation
+ opportunities.
+
+ 3.3 Operational and Scholarly Infrastructure Supporting Research and Impact
+
+ Our specialist research laboratories are vital to project delivery and impact generation:
+
+ •   The Robotics, and AI Laboratory was enhanced by a number of new facilities including 35
+     Deep Learning computers (>£100k) with the latest Nvidia GPUs including Tesla P100, two
+     NAO robots and a Pepper humanoid robot, LiDAR, cameras and a number of deep learning
+     embedded boards. The lab has several new research robot prototypes developed from
+     research projects, including 30 intelligent mobile robots in the lab with the latest Intel
+     Realsense cameras, and Intel Nano boards. The lab also contains devices such as
+     programmable turtlebots, micro quad copters and 200 Arduino boards, eye tracker devices,
+     video/audio recording and large multi-touch screens. The Lab has provided essential support
+     for our research in AI, robotics, and computer vision under the VAAH and NetSys Themes.
+     For example, it supported delivery of the YOBAN and Agri-robot projects, and provided user
+     behaviour analysis facilities for the cancer screening project PERFORMS.
+ •   The Networks Laboratory has been upgraded with facilities for cloud and edge computing.
+     We have established a programmable network testbed, a cloud testbed, an edge testbed
+     and a micro data centre testbed. Specific equipment includes a Barefoot P4 programmable
+     network switch, programmable wireless access points, 200 Raspberry Pi computers and a
+     number of rack-mount cloud servers. The specialist equipment in the lab has successfully
+     supported the delivery of a number of projects from the NetSys Theme, for example, the
+     EPSRC projects FRuIT (Federated RaspberryPi Micro-Infrastructure Testbed) and SYNC
+     (Synergistic Network Policy Management for Cloud Data Centres)
+
+ The Unit also benefits from the HPC Midlands Plus (EPSRC, £3.2M, 2016), a 14,336 core
+ supercomputer hosted at Loughborough on behalf of the Midlands Innovation partnership,
+ particularly for deep learning and image processing tasks. We have used the HPC intensively to
+ support some of our research projects and PhD projects, and to support our collaborations with
+ industry. The Unit has access to shared research infrastructure in the form of the Tier 1
+ National level Archer supercomputer. The Unit has also recently joined a large facility grant
+ “JADE: Joint Academic Data science Endeavour 2” led by Oxford (EPSRC), allowing us to
+ access to a substantial number of GPU clusters to support our AI research.
+
+
+
+                                                                                             Page 12
+Unit-level environment template (REF5b)
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ Developing new and enhancing existing collaborations, networks and partnerships with
+ academia and industry are core to the Unit’s strategy for promoting our research and creating
+ real-world impact. Much of our research is interdisciplinary; collaborating with world-leading
+ researchers and industrial partners across application domains.
+
+ 4.1 Research Collaborations, Networks and Partnerships
+
+ Our most enduring partnerships are with 10 Chinese universities where we have expanded
+ relationships founded on taught degrees into research partnerships, e.g., our collaboration with
+ Northeastern University (NEU), China, in computer vision and AI has attracted three excellent
+ academic visitors (since 2014) leading to a number of high-quality IEEE journal papers. A Unit
+ postdoc also joined NEU (lectureship) and continues collaboration. The taught programmes
+ provide excellent students; 12 continued their studies to PhDs at Loughborough.
+
+ Unit researchers maintain a large number of individual collaborations with field leading experts.
+ Examples include:
+
+ •   Salagean with Ferruh Özbudak (Ankara/Turkey), funded by the Royal Society, has involved
+     a series of extensive mutual visits, leading to three publications on cryptography.
+ •   Reidenbach with Jeffrey Shallit (Waterloo/Canada), initiated during a London Mathematical
+     Society-funded visit from Shallit to Loughborough and has yielded two joint publications on
+     combinatorial properties of codes.
+ •   Mercas with Florin Manea (Göttingen/Germany), who have co-authored ten joint publications
+     on formal language theory and algorithms since 2014.
+ •   Schaefer collaborates with six academic partners (e.g. UCLM/Spain) and five companies
+     (e.g. AstraZeneca) supported by EU AIDPATH project, leading to eleven publications on
+     medical image analysis (e.g. on IEEE Transactions on Medical Imaging).
+
+ The Unit has also extended existing collaborations where additional synergies were identified:
+
+ •  Soltoggio extended his previous collaborations with IT University of Copenhagen (Dr
+    Sebastian Risi) through which he joined a consortium with new partners from HRL
+    Laboratories, Stanford University, and University of California Irvine, resulting in award of the
+    Lifelong Learning Machines DARPA grant.
+ • Meng was invited by Director Prof Guanglin Li of Chinese Academy of Sciences to visit
+   Shenzhen Institutes of Advanced Technology. In subsequent discussions, Meng developed a
+   relationship with Prof Peng Shang of SIAT with complementary expertise in assistive
+   technology and IoT which resulted in the forming of the consortium that won two Newton
+   Fund projects (service robots and air quality monitoring), enriching our robotics and AI
+   research.
+
+ CALIBRE’s Institute of Advanced Studies (IAS) now provides an additional platform for
+ collaboration with internationally leading researchers. Through the IAS, Mercas and Reidenbach
+ invited two world-leading experts in combinatorics on words: Prof. Antonio Restivo (Palermo)
+ and Prof. Gwenael Richomme (Montpellier) to initiate new collaborations for our TCS Theme to
+ be developed for the future.
+
+ 4.1.1 Interaction with Key Research Users, Beneficiaries or Audiences, wider
+ Contributions to the Economy and Society
+
+ Such interaction is core to our impact strategy and a strength of the Unit. We use funding
+ mechanisms such as KTP, InnovateUK and Newton to build substantial relationships, backed up
+ Masters / undergraduate projects and, in particular, PhD studentship sponsorship, to enrich
+ simultaneously our academic environment and our long-term relationships with the companies.
+
+                                                                                             Page 13
+Unit-level environment template (REF5b)
+
+ We specifically encourage staff to work with companies to create KTP projects allowing transfer
+ of our research knowledge to industry to generate real-world impact. This strategy is enhanced
+ by REO who have made introductions to new partners and by access to the business community
+ on Loughborough’s Science and Enterprise Park (LUSEP), housing 80+ companies and
+ organisations on our campus. This resulted in the award of seven KTP projects with Smartroof
+ (automating and optimising information flow in roof construction), Millitec (automation for food
+ processing), Satoshi (risk assessment in commodity supply chain), Xceptor (document
+ processing for financial services), Apical (adaptation of mobile phone display to changes in
+ environmental illumination; high dynamic range video delivery systems for ubiquitous devices)
+ and Ice Communication (rendering for augmented reality).
+
+ Unit staff also actively attend events (e.g. INNOVATE 2017, AI Summit 2019) and engage with
+ industrial partners to develop relationships, identify challenges and win funding. Ten
+ collaborative InnovateUK and Newton Fund projects exemplify the effectiveness of this
+ approach: Statmetrix (automated football action event detection), Motion Robotics (assistive
+ robots for elderly people), Signifier Medical Technologies (intelligent device for sleep breathing
+ disorders), Satoshi Systems and EEGSmart Intelligent Technology Co. (air pollution monitoring
+ and prediction), Nantong Guangyi Mechanical & Electrical Co. and Innova Integra (autonomous
+ agricultural robot system for precision spraying), Shelton Vision (automatic defect detection on
+ patterned textiles), Surface Intelligence (handwriting trajectory recovery), Intelligent Distributed
+ Controls Ltd (low cost wireless tracking systems), and RegulAItion (privacy-preserving data
+ access network).
+
+ Our partnerships with industry are also developed through sponsored PhD studentships. During
+ this period, the Unit has supervised thirteen such students. Examples include:
+
+ •   Guan has developed her partnership with Rolls Royce in the area of Model-Based Systems
+     Engineering with Quality-of-Service attributes in Embedded Real-time Systems. Rolls Royce
+     sponsored two PhD students in this area and another via the CDT-EI.
+ •   Edirisinghe provided his computer vision expertise to support the research of Apical’s new
+     business unit in Embedded Vision Systems in 2015, and the SpiritTM Computer Vision
+     System. This technology is now embedded within 10 million CCTV cameras and was
+     underpinned by the research projects of 3 sponsored PhD students.
+
+ 4.1.2 Engaging with Diverse Communities and Public
+
+ Unit staff actively engage with the popular media to disseminate their research to the wider
+ public, frequently supported by the University’s Marketing and Communications professional
+ service. Li was recently interviewed by New Scientist: “AI pollution monitor could forecast
+ harmful particles in the air” (March 2020). Her project on developing machine vision for the food
+ industry was reported by Engineering & Technology in the article “Robots could harness AI to
+ master sandwich making” (January 2020). Her InnovateUK funded project on football player
+ performance analysis using computer vision and deep learning has also attracted wide public
+ interest, as reported in AI Business: “Deep Learning can automate, enhance soccer analysis”
+ and Interesting Engineering: “Want to Know Who the Next Footballer May Be? This AI Will Tell
+ You”.
+
+ Unit research is also shared in online, print and radio news. For example, Soltoggio has been
+ invited to speak on BBC Radio Leicester eleven times since 2015. His work on machine learning
+ applications to medical breath analysis was reported in numerous news articles and media
+ websites including The Independent: “AI is acquiring a sense of smell that can detect illnesses in
+ human breath” (June 2018), and The World Economic Forum: “Open wide: this AI could soon
+ analyse your breath for disease”. Adnane’s work on cybersecurity and impact on working
+ remotely during Covid-19 lockdown appeared in several online newsfeeds including BBC News
+ (March 2020) and the Daily Mail.
+
+
+
+                                                                                              Page 14
+Unit-level environment template (REF5b)
+
+ 4.2 Contribution to the Sustainability of the Discipline
+
+ Unit staff are actively engaged in activities in the computer science research and governance
+ community and are members of professional bodies, shaping research agendas and roadmaps.
+ Examples include IEEE Senior Members/Members (Tso, Li, Meng, Cosma) and BCS Fellow
+ (Philips). Philips sits on the BCS Academy of Computing Board and on the Committee of the
+ Council of Professors and Heads of Computing exerting wider influence in the discipline.
+
+ The Unit has hosted national and international conferences at Loughborough to promote the
+ dissemination of recent research achievements and influence future research directions for our
+ research community. For example, the Unit hosted the second EPSRC UK-RAS (Robotics and
+ Autonomous Systems) conference (2019), where PhD students and ECRs exchanged their
+ research results and heard keynotes from academic and industry speakers, the 20th Annual
+ Conference in Medical Image Understanding and Analysis (2016), the 10th International
+ Symposium on Computer Science in Sport (2015), and the 12th International Conference on
+ Words (2019).
+
+ We respond to national priorities in the Government Industrial Strategy. We have
+ specifically targeted the grand challenges “artificial intelligence and big data” and “ageing
+ society”. For example, “Intelligent business decision making in retailer sector” (KTP, Hui)
+ investigates AI-based decision systems that learn from all relevant data to automate strategic
+ and operational decision simulations in real-time for fast-moving consumer goods companies
+ such as Unilever. The YOBAN project studies low-cost healthcare devices for elderly people with
+ mobility difficulties.
+
+ The Unit also responds to international priorities. Highlights include Meng’s Newton Fund Air
+ Pollution project which supports developing countries for environment protection by monitoring
+ and predicting air pollution, and also linking air pollution with carbon trading encouraging low
+ carbon emissions The ISS-EWATUS EU grant combines the interdisciplinary efforts of
+ specialists from water management and ICT research to develop an intelligent Integrated
+ Support System for efficient water usage and resources management.
+
+ 4.3 Indicators of Wider Influence
+
+ We encourage all staff to undertake roles that are important to shaping the future of the
+ discipline.
+
+ Unit staff review proposals for a wide range of international funding bodies such as EPSRC,
+ MRC, BBSRC, AHRC, STFC, Newton Fund, CRUK, Leverhulme Trust, Israel Science
+ Foundation (Personal Research Grants 2019), Action Medical Research, Swiss National
+ Science Foundation), National Agency for Scientific Evaluation in Spain, and Dutch Research
+ Council. Staff are EPSRC college members (Cosma, Lock, Phillips) and have served as funding
+ body panel members to contribute to proposal assessment and decision making. For example
+ EPSRC ICT prioritisation panels (Guan: 2016, 2019; Cosma: 2017, 2019), EPSRC Healthcare
+ Technologies prioritisation panel (Cosma), EPSRC prioritisation panel for CDT-AI call, outline
+ stage, (Li, 2018).
+
+ We play key roles in international conferences and exert influence on areas of focus. An
+ important example is our longstanding contribution to the world’s No.1 conference in Robotics
+ and Automation, IEEE International Conference on Robotics and Automation, for which Meng
+ has been an Associate Editor continuously from 2014-21. Reidenbach has been a member of
+ the Steering Committee of the leading International Conference on Words series since 2019.
+ Guan has been the Chair of IEEE International Symposium on Performance Modelling and
+ Evaluation of Communication and Telecommunication Networks in Adaptive Networks and The
+ Cloud from 2007-19, setting conference themes and organising the conference.
+
+
+
+                                                                                             Page 15
+Unit-level environment template (REF5b)
+
+ Unit staff have been invited to give keynotes and invited talks at international conferences.
+ Highlights include:
+
+ •   Li’s keynote at the International Conference on Artificial Intelligence and Robots (2020),
+     highlighting research on computer vision and AI for food robots and underwater robots
+ •   Schaefer’s keynotes for the 6th ECCOMAS Thematic Conference on Computational Vision
+     and Medical Image Processing (2017) provided insight on the state of the art on medical
+     imaging
+ •   Meng’s keynote for World Conference on Robotics and Artificial Intelligence (2018)
+     presented the progress and future direction on service robots and agriculture robots
+ •   Mercas’ keynote at Developments in Language Theory (2017), one of the main conferences
+     on automata and formal languages, provided an overview on challenges and new techniques
+     on proving lower bounds on repetition avoidability.
+
+ Unit staff have actively contributed to research communities through journal editorial roles.
+ New contributions are:
+
+ •   Meng: associate editor of IEEE Transactions on Cybernetics (from Sept 2017) and editorial
+     board member for Advances in Robotics & Automation (from Nov 2017) .
+ •   Guan: editorial board member of Journal of Systems and Software (from May 2017).
+ •   Reidenbach: editorial board member of the journal Discrete Mathematics and Theoretical
+     Computer Science (from Feb 2016).
+ •   Adnane: associate editor for Array (from June 2019)
+
+ The Unit also supports ECRs in such roles, e.g., Chen: Associate Editor for Services
+ Transactions on Internet of Things (STIOT).
+
+ Unit staff have also organised a number of special issues as Guest Editors. For example,
+
+ •   Adnane: “Recent Advances on the Emerging Technologies for Connected Vehicles in Smart
+     Cities” Transactions on Emerging Telecommunications Technologies. (Call for Papers,
+     March 2020)
+ •   Meng: “Visual Perception Enabled Industry Intelligence” IEEE Transactions on Industrial
+     Informatics (available online June 2020)
+ •   Meng: “Emerging Algorithms and Applications in Vision Sensors System based on Artificial
+     Intelligence” Sensors Journal (published 2019)
+ •   Meng: “Theory and applications of complex networks” Mathematical Problems in Engineering
+     (published 2015)
+ •   Mercas and Reidenbach: “Combinatorics on Words” Theoretical Computer Science (initiated
+     January 2020)
+ •   Tso: “End-to-End IoT Security and Privacy” International Journal of Distributed Sensor
+     Networks (published 2018)
+
+ These Special Issues cover areas of Computer Science where developments are particularly
+ rapid, such as deep learning and trustworthiness in AI and robotics (VAAH Theme), and edge
+ computing and IoT security (NetSys Theme). Our roles as Guest Editors underline the influential
+ part that Unt staff play in promoting the most promising new research directions to a wide
+ audience.
+
+
+
+
+                                                                                           Page 16
+

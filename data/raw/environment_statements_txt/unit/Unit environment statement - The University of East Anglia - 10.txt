@@ -1,0 +1,928 @@
+Unit-level environment template (REF5b)
+ Institution: University of East Anglia
+
+ Unit of Assessment: 10
+
+
+ 1. Unit context and structure, research and impact strategy
+
+ 1.1 Overview
+
+ The School of Mathematics is one of six schools in the Faculty of Science at the University of
+ East Anglia (UEA). The University lies at the heart of the Norwich Research Park (NRP), a unique
+ collaboration of over 3,000 scientists in six institutes that also includes the Quadram Institute for
+ food and health research, and the world-leading John Innes Centre (JIC) for plant science and
+ microbiology.
+
+ The Unit totals 20 permanent academic staff with 19 in the School of Mathematics and one in
+ Engineering, which currently exists as a subgroup within Mathematics and which will launch as a
+ School in 2021. Since REF2014 we have generated £4.2M in research income, hosted 21
+ Research Associates (including one Leverhulme Early Career Fellow, one Royal Society Newton
+ Fellow, and one UKRI Future Leaders Fellow), and graduated 36 PhD students. We have
+ published over 240 peer-reviewed research articles in leading international journals. Since 2014
+ we have made one new appointment and eight promotions (one to a Chair, and seven to Associate
+ Professor or Senior Lecturer).
+
+ Research in the Unit is organised into groups: Algebra, Fluid-Structure Interaction, Industrial
+ Mathematics, Logic, Mathematical Biology, and Quantum Fluids. A distinguishing feature of
+ the School is a strongly collegiate atmosphere that engenders a highly interactive research culture
+ with joint seminars, study groups, and co-supervision of PhD students often leading to joint
+ publications. Our research vision is outward-facing, and it encompasses numerous initiatives,
+ projects, and synergies across the NRP and with our many national and international partners.
+
+
+ 1.2 Research structure
+
+ Our research groups are listed in Box 1. The intersections between group members illustrate our
+ strong tradition of working together in a supportive research community.
+
+
+  Box 1. Research Groupings
+
+  Algebra (Grant, Gray, Lyle, Miemietz, Siemons, Stevens)
+
+  Representation Theory, Group/Semigroup Theory, Algebraic Combinatorics
+
+  We study the representation theory of algebras using combinatorial (Lyle, Siemons) and
+  homological techniques (Grant, Miemietz), and explore links to number theory (Stevens),
+  category theory (Grant, Miemietz) and beyond. We are world-leaders in higher representation
+  theory: Miemietz is co-creator of the burgeoning theory of 2-representations (EPSRC-funded);
+  and Grant is breaking new ground in the study of higher preprojective and cluster algebras (e.g.
+  Compos. Math., 2020). Stevens is a world-leading expert in the theory of types for p-adic
+  groups, and has used explicit representation-theoretic constructions to give a description of wild
+  functoriality in the local Langlands program (Inventiones Math., 2020). Gray works on co-growth
+  and amenability in semigroups: in ground-breaking EPSRC-funded work he has recently proved
+  the undecidability of the word problem for one-relator inverse monoids (Inventiones Math.,
+  2020).
+
+
+
+                                                                                               Page 1
+Unit-level environment template (REF5b)
+
+  Fluid-Structure Interaction (Blyth, Cooker, Korobkin, Părău, Purvis)
+
+  Hydroelasticity, impacts, sloshing
+
+  We work on a broad range of problems including violent wave impact on coastal defences
+  (Cooker), wave interactions with sea ice (Părău), deformable aerofoils (Blyth, Părău), and
+  droplet impact onto elastic surfaces or porous surfaces (Purvis). Korobkin is a world leader in
+  wave interaction with offshore structures, ship slamming, and sloshing in liquid natural gas tanks
+  (supported by EU funding and the Office for Naval Research). A research highlight is Korobkin’s
+  work developing an analytical coupled model of lifting an elastic body from a water surface (J.
+  Fluid Mechanics, 2019), and his confirmation of those predictions by experiments (Box 5).
+
+  Industrial Mathematics (Atkin, Blyth, Hammerton, Korobkin, Purvis, Whittaker)
+
+  Droplet impact and wing icing, sonic booms, boundary layers, multilayer flows.
+
+  Our work has applications in the aerospace industry and in the chemical and manufacturing
+  industries. We work on boundary-layer transition and low-order modelling for the design of fuel-
+  efficient aircraft (Atkin), and landmine detection by radar (Hammerton). Blyth mentored
+  Leverhulme Early Career Fellow Kalogirou’s work on surfactant dynamics in multilayer flows.
+  Purvis’ work with AWE and the Smith Institute demonstrated how the failure of numerical models
+  to predict detonation in reactive materials can result from small-scale localised shear banding
+  acting as a hot-spot mechanism (Proc. Roy. Soc. A, 2019).
+
+  Logic (Asperó, Džamonja, Gray, Karagila, Kirby)
+
+  Set Theory, Model Theory
+
+  We work on combinatorial aspects of set theory (Asperó, Džamonja) and on set theory without
+  the Axiom of Choice (UKRI Future Leaders Fellow Karagila). Asperó, Džamonja, and Karagila
+  are world experts in forcing techniques, including the development of a framework at the
+  successor of a singular cardinal (Džamonja, Trans. Amer. Math. Soc., 2017), symmetric forcing
+  with side conditions (Asperó, Trans. Amer. Math. Soc., 2015), and an iteration framework for
+  symmetric extensions (Karagila, J. Symb. Logic, 2019). Kirby studies the connections between
+  model theory and number theory and has shown that Zilber’s quasiminimality conjecture can in
+  principle be proved without first needing to prove the very difficult Schanuel conjecture (Algebra
+  and Number Theory, 2018). We also study other areas of model theory (Džamonja, Kirby), and
+  Gray’s work on decidability problems is at the interface between algebra and logic.
+
+  Mathematical Biology (Blyth, Cooker, Purvis, Whittaker)
+
+  Flow in collapsible tubes, digestion and plant biology
+
+  We work in close collaboration with NRP partners, notably the Quadram Institute and JIC.
+  Research includes digestion in the gut (Blyth, Cooker, Purvis), self-excited oscillations in blood
+  vessels (Whittaker), and problems in plant biology (Blyth). Highlights from this area of our
+  interdisciplinary work are given in Box 6.
+
+  Quantum fluids (Proment, Salman)
+
+  Vortex dynamics, turbulence in superfluids
+
+  We work on vortex dynamics, turbulence of ultracold Bose gases and far-from-equilibrium
+  phenomena in superfluid systems. Salman received a Leverhulme Research Fellowship to
+  focus on his work on the dynamics of electron bubbles on quantised vortices in superfluid
+  helium-4. Proment’s work on vortex reconnections in superfluids was recognised by the
+
+                                                                                               Page 2
+Unit-level environment template (REF5b)
+  35th APS François Frenkiel Award in 2018; and a cover page article in Physics Review Letters
+  in 2020. This group also includes researchers from a growing Physics presence at UEA, and
+  has benefitted from the recent appointments of Borgh (2016, submitted to UoA8) who works
+  in spinor Bose-Einstein condensates, and Lander (2020, submitted to UoA8) who works on
+  neutron stars and magnetohydrodynamics.
+
+
+
+ 1.3 Research strategy and progress against REF2014 plans
+
+ Our research strategy is developed by the School’s Executive Committee chaired by the Head of
+ School (HoS, Stevens) and including the Director of Research (DoR, Blyth), who is a member of
+ the Science Faculty Research Executive. The DoR assumes responsibility for implementing
+ strategic decisions, managing the internal peer review of research grant applications, and
+ conducting annual review meetings with staff (see section 2.1). They are responsible for two-way
+ communication on research matters with the Faculty of Science, who lead the development of the
+ Science-wide research strategy through its Pro-Vice Chancellor, its Associate Dean for Research
+ and its Executive and Research Committees.
+
+ Although the University has focused new appointments since 2014 within the Engineering
+ subgroup, Mathematics has benefitted from the new research synergies these have brought. A
+ Research Strategy Review in September 2015 initiated the implementation of a new strategic
+ plan. Recommendations included promoting new research fellowship applications, and planning
+ for a Centre for Doctoral Training grant application. These two aspirations have been achieved:
+ we’ve seen a step-change in our research fellowships; and we have initiated and contributed to
+ several CDT and DTP bids with varying outcomes (see section 2.2).
+
+ The principal aims that we outlined as part of our future strategy in our statement for REF2014 are
+ summarised in Box 2. Our main achievements since REF2014 are summarised in Box 3.
+
+  Box 2. Key goals from REF 2014
+
+     •   To maintain our strength in Fluid-Structure Interaction.
+     •   To support the development of Mathematical Physics.
+     •   To grow our relationship with the JIC.
+     •   To pursue our thriving international collaborations in Algebra.
+     •   To recruit another member of faculty in Number Theory.
+     •   To support staff to allow them to develop their research and careers.
+
+
+
+  Box 3. Achievements since REF2014
+
+     •   Fluid-Structure Interaction: A key strength identified in REF2014, we’ve generated over
+         45 outputs, £1.1M in grant income, £15K in consultancy income, nine completed PhDs,
+         and two Impact Case Studies (ICS).
+
+     •   Quantum Fluids: Our specialism in Mathematical Physics has been supported through
+         new appointments submitted to UoA8 and the vibrancy that has come with new
+         collaborations and research strands.
+
+     •   Research synergy with JIC: This has produced two joint outputs (Blyth & Morris,
+         Frontiers in Plant Sci, 2019; Morris & Blyth, J. Exp. Bot., 2019), a book chapter (in
+         `Mathematical Modelling in Plant Biology’, Springer, 2018) and a 3-month research
+         visit by Blyth to Morris’ group during study leave in 2019.
+
+
+                                                                                             Page 3
+Unit-level environment template (REF5b)
+     •   International collaborations in Algebra: We continue to strengthen our international
+         links, evidenced by the six group members producing 41 papers with 30 international
+         co-authors from 13 countries, the majority in leading journals in the field.
+
+     •   New appointment: The departure of a number of staff working in Number Theory led to
+         a change in our plans. The appointment of Grant in 2014 strengthened our
+         Representation Theory profile.
+
+     •   We have supported staff in achieving their research goals and career aspirations. This
+         is exemplified by promotions (Părău to a Chair; Kirby and Miemietz to Associate
+         Professor; Gray to Senior Lecturer and then to Associate Professor; and Asperó,
+         Proment and Salman to Senior Lecturer; Leverhulme Fellow Kalogirou was promoted
+         to grade 8) and by study leaves: 17 applications made by staff since 2014 for six-
+         month periods of leave were approved at Faculty level.
+
+
+
+ 1.4 Impact Strategy
+
+ The Director of Innovation (DoI, Proment) coordinates our impact strategy and ensures that impact
+ from our research is maximised. The DoI manages exchanges between the School and regional,
+ national, and international business partners. Staff are asked to comment on their impact activity
+ at the annual Research Activity Planning (RAP) meeting. In this way new impact streams are
+ identified and fostered: the DoI offers guidance and signposts resources (including dedicated UEA
+ funding) to ensure that strong ideas are given the support they need to develop.
+
+ Candidate Impact Case Studies (ICS) are considered at an early stage. A thorough annual review
+ process at School, Faculty and University-level provides a gateway to accessing dedicated
+ funding from UEA’s Higher Education Innovation Fund (HEIF) allocation. This is allocated to best
+ fit the School’s and UEA’s impact development agenda (our HEIF income is summarised in section
+ 3.1).
+
+ Our two ICS showcase our ability to deliver impact from research through a targeted funding
+ strategy. `Danger on the seas: assessing the risk to ships from wave slamming events’, led by
+ Korobkin, illustrates how HEIF funds were used to support impact creation. Together with `Making
+ a splash: the effect of droplet impacts on aircraft icing and air safety’, led by Purvis, we
+ demonstrate how our expertise in fluid-structure interaction has benefitted Bureau Veritas and
+ Aerotex, two companies with a combined annual turnover in excess of £5 billion. Our technical
+ advice has facilitated improved methodologies and predictive tools that are now used by these
+ companies on a daily basis. These form part of a larger portfolio (comprising 15 embryonic ICS)
+ that has been nurtured over the REF period, including, for example, Mathematical Modelling of
+ Scaling in Oscillating Water Column Wave Energy Devices (Cooker), Explosive Ignition Due to a
+ Pinch (Purvis), Ocean-Climate Modelling (D. Stevens, who is submitted to UoA7), Filtering for
+ Large Eddy Simulation (Ryan), and Teaching on Infinity (Džamonja).
+
+ We also mention the interactions of one of our members with the Heilbronn Institute. For the
+ calendar year 2018, Shaun Stevens was freed from his duties as HoS to go on secondment at the
+ Heilbronn Institute, spending half his time contributing to their work in London and Bristol.
+ Following on from this, he has continued with them as a consultant and, as the situation allows,
+ he plans to increase this involvement with them over the coming years.
+
+
+ 1.5 Future strategic goals for research and impact
+
+ Aligned with our mission to deliver world-leading research with a strong commitment to impact
+ generation, our five-year plan comprises the objectives laid out in Box 4.
+
+
+                                                                                             Page 4
+Unit-level environment template (REF5b)
+
+  Box 4. Objectives
+
+        •    To continue:
+                        o to support our staff in developing their research and careers, and to
+                           promote the best interests of our students.
+                        o grow our internationally excellent research activity and to seek new
+                           research collaborations.
+                        o to strongly promote interdisciplinary research.
+                        o to attract high calibre PhD students and Research Fellows.
+        •    To re-establish our historic core strength in Number Theory.
+        •    To target resource and support at key points of strength in our developing impact
+             portfolio.
+        •    To maintain our commitment to EDI and to apply for Athena Swan Silver status.
+
+
+ These objectives form part of a strategy that will enable us to continue to produce high impact
+ research, and to win external financial support from UKRI and other national and international
+ funding bodies and industry. To fulfil these goals, we will:
+
+    •       create a new Impact Working Group, to be led by the DoI and the DoR, with a remit to
+            identify and grow impact from our research and to leverage new opportunities with
+            business and industry. Study leave will be used strategically to support impact creation.
+    •       continue to seek and target PhD funding at the highest quality applicants. We will be
+            hosting the LMS Prospects in Mathematics meeting in September 2021 which will help us
+            to ensure that UEA is at the forefront of activity in national PhD recruitment. We will
+            continue to use and create national and international networks to support current PhD
+            students and to increase graduate training opportunities at UEA, through co-tutelles,
+            potential CDTs and increased EPSRC DTP allocation (e.g. we have been awarded three
+            studentships from the 2021 Additional Funding Programme for Mathematical Sciences).
+    •       continue with our successful strategy for encouraging strong fellowship applications to the
+            School.
+
+ We anticipate two future appointments from post releases frozen during the pandemic. Working
+ to grow our student numbers will put us into a strong position to seek a third new appointment.
+ Two posts will be targeted at Lecturer level in Number Theory: one to align with our Algebra and
+ Logic groups (e.g. Number Theory with connections to Model Theory); and one seeking a
+ researcher with interests in Cryptography and associated impacts (e.g. via GCHQ or private
+ industry such as Google). A further post will be targeted at Associate Professor level, specifically
+ at someone with a strong track record of impact-creation from applied mathematics, in order to
+ capitalise on our core strengths and diversify our impact activities.
+
+
+ 1.6 Approach to Interdisciplinary Research
+
+ Interdisciplinary research is strongly supported within the School and is aided by our proximity to
+ key partners on the NRP. For example, Părău and Korobkin were granted study leave in 2017 to
+ run an interdisciplinary programme on sea ice phenomena at the Isaac Newton Institute (section
+ 4.6); and Blyth was given financial support in 2020 to visit Prof. Ted Farmer in the Dept. Molecular
+ Biology, University of Lausanne, Switzerland. Financial support is provided through School funds.
+ We host interdisciplinary seminars and staff regularly participate in seminars across the NRP (e.g.
+ the Tensor Lab group seminars in the School of Medicine). Our Quantum Fluids group has an
+ interdisciplinary streak with outputs returned to the Mathematics, Physics and Chemistry panels.
+ Prof. Morris, Head of the Computational and Systems Biology group at JIC, is an Honorary
+ Professor in the School, is actively engaged in joint research with us, and contributes to our
+ teaching. Exemplars of our success in interdisciplinary research are shown in Box 6.
+
+                                                                                                Page 5
+Unit-level environment template (REF5b)
+
+ 1.7 Research integrity and an open research environment
+
+ We promote the open and free exchange of advice, expertise and ideas. Our UKRI Future Leaders
+ Fellow Karagila has posted over 6100 answers to technical questions on the Mathematics Stack
+ Exchange website. Staff conduct research according to the University’s principles and Guidelines
+ on Good Practice in Research (UEA is a signatory to the Concordat to Support Research Integrity).
+ Our research outputs are all made widely accessible via the UEA Open Digital Repository and
+ through Open Access Journals in line with UEA’s institutional Open Access Policy.
+
+
+ 2. People
+
+ The 20 staff included in the Unit make up 19.27 FTE and are all on indefinite contracts. The
+ fractional FTE results from three members of staff having chosen to benefit from the University’s
+ part-time and flexible working package.
+
+ 2.1 Staffing strategy and staff development
+
+ Our staffing strategy aims to sustain our thriving research environment through staff development
+ and by recruiting internationally excellent new staff. Responsibility for the strategy rests with the
+ School’s Executive Committee, chaired by the HoS (Head of School), and includes the DoR
+ (Director of Research) and DoI (Director of Innovation), who also sit on Faculty-level research
+ committees. New appointments with research and teaching responsibilities (known as ATR posts)
+ are aligned with the School’s research priorities set by the Executive Committee.
+
+ Recruitment processes conform to the University’s Equality, Diversity and Inclusion (EDI)
+ regulations. Job adverts display the Athena SWAN logo, have an EDI page in the further
+ particulars, and a positive action statement to encourage those with protected characteristics to
+ apply. Recruitment panels must complete UEA’s ‘Recruitment and Selection training’ which
+ includes unconscious bias training. We benefit from the University’s relocation assistance
+ package for academic staff (and, since April 2019, for research staff) which covers removal costs
+ up to the equivalent of one month's gross salary.
+
+ New staff appointments are made to maintain, broaden and strengthen our research profile.
+ Successful applicants must have an internationally excellent research profile and have
+ potential to undertake future senior leadership roles. New ATR appointments are made to
+ indefinite contracts with a five-year probationary period. To free up research time for ATR staff,
+ we strategically hire a small number of staff on teaching-only (ATS) contracts (currently roughly
+ 8% of staff by FTE).
+
+ Since at least 1998 we have operated a workload model to balance staff time and to ringfence
+ research time. We are moving across to a new Science Faculty model that allocates 30% of staff
+ time to core research activities (e.g. proposal writing, grant and output writing, and impact
+ development) and that protects grant success by including all awarded Investigator time as
+ workload. New early-career staff have a reduced load: teaching and administration occupy at most
+ 0.3 FTE in year 1, 0.4 FTE in year 2, 0.55 in year 3, and 0.65 FTE in year 4. All new faculty receive
+ £7.5K/year start-up funding for the first two years. School funds of roughly £18.5K/year for
+ research travel are available for all staff to bid to: this is used strategically to support speculative
+ research visits to/from UEA, dissemination via conferences, and attendance at workshops.
+
+ All new early-career staff have a School-based mentor. The mentor helps with the transition to
+ UEA and offers research support: helping with grant proposals, potentially collaborating, and
+ advising on research student supervision. The mentor also advises on career progression and
+ promotion. Annual Research Activity Planning (RAP) meetings with the DoR and the HoS
+ encourage self-reflection and planning and are compulsory for all ATR staff (optional for other
+ researchers). Advice is offered and resources for research and impact activities are signposted.
+
+                                                                                                  Page 6
+Unit-level environment template (REF5b)
+ Achievements and readiness for career advancement are praised. RAP data on outputs, grant
+ activity and PhD supervision informs the School’s annual research review, which feeds into
+ Faculty-level strategy and maintains focus on research as a priority against other commitments.
+ In addition there is an annual appraisal, compulsory for all staff, that covers all aspects of the
+ academic role.
+
+ We reward staff for research and impact activity through the promotions process including via
+ applications for salary increments. All staff are considered for promotion by the School Promotion
+ Committee (whether they have applied or not) and the HoS makes appropriate recommendations
+ to the Faculty Promotions Committee. We have implemented a number of actions to stimulate
+ promotion applications, including a prompt in the annual appraisal checklist, and a Demystifying
+ Promotion workshop.
+
+ The School encourages researchers to apply for study leave to give time to focus on research.
+ ATR staff can apply for a six-month study leave every three years. Leave has been granted for 14
+ of our UoA members during this REF period (some more than once), with a total of 17 leave
+ periods, representing a comparatively high uptake for UEA.
+
+
+ 2.1.1 Contract Research Staff
+
+ We are committed to recruiting excellent research staff. We support the development of all
+ research staff and nurture our early career researchers (ECRs). UEA’s Code of Practice for the
+ Management of Research Staff provides guidance to research staff and research managers and
+ is informed by the UK Concordat to Support the Career Development of Researchers. We
+ use indicative research job descriptions to ensure that Research Associate (RA) jobs are costed
+ at the correct level on grant applications and that appointments are made on an appropriate salary
+ grade to reflect the level of knowledge and expertise required in the role. With effect from April
+ 2019 the University introduced relocation assistance for research staff as well as (from summer
+ 2020) a merit-based promotions process for RA staff which accords with expectations under
+ the revised Concordat for the Career Development of Research Staff. The Faculty funds any
+ shortfall in funding for merit-based promotions and salary progression awards.
+
+ The DoR acts as the Research Staff Coordinator and is a direct point of contact between the
+ research staff and the Faculty. The DoR offers advice and facilitates a dialogue between the
+ research staff and the School’s Executive Team, and signposts available advice and support from
+ the University (e.g. the Researchers’ Working Group) and the School. The DoR also offers
+ individual advice on grant proposals (e.g. fellowship applications) and completes the final sign-off.
+ A representative of the research staff sits on the School Board, which convenes once a semester.
+
+ Research staff must complete an annual appraisal with their line manager (they can request an
+ alternative appraiser if they wish), are offered the opportunity for a RAP, and have the same
+ opportunities for training as permanent staff.
+
+ We recognise that delivering research excellence depends on attracting and supporting high-
+ achieving research staff. We welcome new research fellows and we encourage and support
+ fellowship applications through mentoring from senior research leaders and help from
+ administrative staff. Opportunities are advertised on the Science Faculty’s Fellowships webpages
+ and colleagues are encouraged to help identify strong candidates. School and Faculty-level sift
+ processes are used for schemes demanding significant financial input (e.g. Leverhulme Early
+ Career and UKRI’s Future Leaders Fellowships). Successful fellows are carefully integrated into
+ the School, assigned a mentor, and offered training and personal development. They can access
+ further funding opportunities such as our early-career PhD studentship competition. Long-term
+ (five year) fellows are considered for transition to a permanent contract at the end of their
+ fellowship.
+
+
+
+                                                                                               Page 7
+Unit-level environment template (REF5b)
+ Since 2014 the unit has mentored four successful fellowship applications (a significant number
+ given the size of the School) including Kalogirou (Leverhulme Early Career Researcher 2017-
+ 2019) and Soukup (Marie Curie Fellowship; he ultimately accepted a position outside of
+ Mathematics). Karagila held a Newton International Fellowship with us (2018-2020) and was
+ subsequently awarded a highly prestigious UKRI Future Leaders Fellowship (July 2020-). We
+ have been successful with the EPSRC Doctoral Prize: in a Faculty-wide competition this was won
+ by Mathematics candidates both times the scheme was run (in 2014, 2016), and both of these
+ achieved further success, gaining a UKRI Future Leaders Fellowship and a Nottingham Research
+ Fellowship respectively.
+
+
+ 2.2 Research Students
+
+ A flourishing cohort of postgraduate research (PGR) students is fundamental to our research
+ vitality. During this REF period we awarded 36 doctoral degrees compared with 33 in REF 2014.
+ These students subsequently accepted posts in industry or other professional positions, or else
+ continued in academia (18 took up postdoctoral posts in Mathematics or closely related areas,
+ and seven accepted junior university positions).
+
+ Our students were supported by funding from EPSRC and NERC, including via an iCASE award
+ and co-tutelle arrangements with overseas institutions. We attracted seven self-funded students.
+ The Science Faculty funded nine studentships demonstrating its continued commitment to
+ Mathematics. Science Faculty funding is also used strategically to help support new faculty in
+ supervising PGR students
+
+ A rigorous annual student recruitment drive is overseen by our PGR Director (Miemietz).
+ Successful applicants are selected for their strong research potential and academic record, and
+ their relevant skills/knowledge. The recruitment panels undergo EDI training to ensure a fair and
+ transparent process, and are independent of the project supervisor.
+
+ New students attend an induction session, complete a Training Needs Analysis (TNA) and have
+ a formal supervisory meeting to map out a Training Pathway (TP) and Personal Development
+ Plan, and all of these are updated annually. Available training includes specialist skills (e.g. High
+ Performance Computing), broader research skills (e.g. oral presentation), and life skills (e.g.
+ leadership). All training adheres to national standards including the Roberts ‘SET for Success’
+ report, the Vitae Researcher Development Framework, and the expectations of RCUK.
+
+ A formal progress meeting takes place every four months and progress is further evaluated at an
+ annual review meeting. A formal probationary review takes place after 8-10 months and we have
+ a near perfect record of students meeting the progression requirements. This careful scrutiny of
+ students’ progression has led to a 100% completion rate for most of our cohorts (and never less
+ than 80%) over the past decade. PGR students nearing the end of their PhD are encouraged to
+ discuss their career options with their supervisors and to join careers workshops (run by Careers
+ Central and the School) offering interview practice, advice on fellowship applications and
+ academic careers, as well as training and advice targeted to non-academic careers. Some of this
+ training is aimed specifically at female PGRs.
+
+ We follow UEA’s Code of Practice for Research Degrees in ensuring that all supervisors undertake
+ Best Practice in Research Supervision training every three years. New faculty are helped by
+ their mentors to achieve success as PGR supervisors. Supervisors usually meet with their
+ students at least once a week, but they also keep in regular informal contact on a day-to-day basis
+ as the need arises.
+
+ All PGR students have allocated funds to support conference travel (e.g. £1000/year for those
+ funded by EPSRC or the Science Faculty), and additional money is available if necessary (overall
+ around £3000 additional funds are available per year). An annual budget is dedicated to
+ postgraduate cohort-building activities, and this is typically used to fund external speakers for
+
+                                                                                               Page 8
+Unit-level environment template (REF5b)
+ the PGR seminar series and for social events. Students have access to the remote taught course
+ MAGIC network, and are expected to complete 100 hours of advanced mathematics courses by
+ the end of their second year.
+
+ The PGR Director manages postgraduate student wellbeing and support. PGR representatives sit
+ on the School Board and on the Faculty-level Science Postgraduate Research Committee, which
+ informs higher committees, giving our PGR students direct influence over policy. We record strong
+ scores in the Postgraduate Research Experience Survey (PRES), beating the sector average
+ for overall satisfaction in 2017 and 2019, with 100% overall satisfaction in 2017.
+
+ Following our strategic research review in 2015 we made several drives to secure large-scale
+ funding for PhD research via CDTs or ITNs, and contributed to successful UEA-wide bids to
+ NERC (the EnvEast and ARIES DTPs awarded in 2013 and 2019) and BBSRC (DTP2 and DTP3
+ awarded in 2019). We spearheaded networked collaborations with other institutions over a number
+ of years to steer EPSRC CDT bids: with three other institutes in Pure Mathematics and with two
+ others in Applied Mathematics. Ultimately, strategic realignments foreclosed the Applied bid, while
+ the Pure bid made it to the outline stage but was not funded (only one CDT in Pure was funded,
+ illustrating the low success rates). We led a bid for a Leverhulme Doctoral Training Centre in
+ Mathematical Logic, and for a Horizon 2020 Innovative Training Network. While both were
+ unsuccessful, we recognise the value gained from establishing new connections and
+ collaborations.
+
+
+ 2.3 Equality, Diversity and Inclusion (EDI)
+
+ We promote an inclusive, flexible and supportive working environment with core hours, informal
+ and formal flexible working, and study leave, to accommodate personal need. EDI is fully
+ considered when assessing promotion and study leave applications, appointment to leadership
+ roles, and providing funding for conference attendance. We are well known at UEA for our
+ supportive community atmosphere. A large contingent of faculty, postdocs and PGR students
+ have lunch and coffee together daily. During the pandemic these morphed into daily online `coffee
+ and chats’ and social gatherings online.
+
+ All staff must complete Diversity in the Workplace training every two years, and reminders are
+ sent out to maintain 100% compliance. Our Director of EDI (Purvis) sits on the School
+ Promotions Committee and chairs our EDI committee (attended by the HoS) that meets twice a
+ semester, is informed by a range of data and feedback from students and staff, and reports to the
+ School Executive Committee. One meeting per semester is open to all. This committee has made
+ a positive difference: on its recommendation, to raise awareness of flexible working
+ opportunities, an anonymised spreadsheet showing active arrangements in the School was
+ publicised to all staff. Several staff have adopted flexible working arrangements during the current
+ REF period. We have three staff working part-time at 0.8FTE, 0.8FTE and 0.67FTE.
+
+                     We were awarded a Bronze Athena SWAN (AS) Award in October 2015,
+                     and this was renewed in May 2019. In particular the AS Panel noted our
+                     sound processes for flexible working and the management of career
+                     breaks; the increasing number of senior positions held by women on
+ committees; and examples of good practice in our evaluation of outreach and in offering
+ shadowing opportunities. The panel rated our action plan strong with realistic goals and success
+ metrics, including:
+
+     •   production of role-model male/female career-path posters,
+     •   promoting `Women in Mathematics’ day,
+     •   emphasising available support prior to the annual promotions cycle,
+     •   appraisal checklists,
+     •   reviewing the wording used in adverts for new posts/PhDs to promote inclusivity.
+
+
+                                                                                              Page 9
+Unit-level environment template (REF5b)
+ We use plasma screens and hard copy to publicise inclusivity support (e.g. the Ofsted-rated
+ `Outstanding’ on-site Nursery, parental and flexible leave, and baby-change facilities). We use our
+ social media accounts to promote EDI events and campaigns (e.g. #womeninscience). Staff in the
+ School have benefitted from the Science Faculty’s £10K/year fund for career development
+ and/or to aid transition back to work and have used it to support conference attendance and
+ accompanying person costs. The School’s Research Travel Fund has also been used to
+ provide financial support for caring responsibilities. Our UKRI fellow Asaf Karagila used the
+ Faculty’s Bridging Fund to manage the gap between his fellowships.
+
+ We continually monitor gender balance in the School, for example in our research seminar series.
+ Before Ryan’s departure in 2019 the staff gender balance was 19% female to 81% male. Since
+ REF2014 the School’s proportion of female postdoctoral researchers has risen from 11% to 29%,
+ and the proportion of female PhD students has remained at around 20%. We also have an
+ internationally diverse staff profile with 12 different nationalities among the 21 RAs in the School
+ since 2014, and eight different nationalities among our permanent staff.
+
+
+ 2.4 Selection of REF outputs
+
+ Following the UEA REF Code of Practice, outputs from all ATR staff were considered for possible
+ selection. Staff ranked their best (up to five) outputs and internal reviews were conducted by a
+ School panel who scored outputs on a 13-point scale and provided detailed comments. The panel
+ included male and female members, all of whom underwent unconscious bias training. To help
+ calibrate the scores, and to help in cases of uncertainty or divergence of opinion, reviews on a
+ subset of outputs were sought from external expert evaluators. All scores were carefully analysed
+ by the DoR and the HoS (both of whom had served on the review panel) to inform a portfolio
+ selection that showcases the best research from the Unit. Our 48 outputs include 14.6% attributed
+ to women authors compared to a fraction of 14.5% women FTE for the Unit.
+
+
+ 3. Income, infrastructure and facilities
+
+ 3.1 Income
+
+ A supportive and inclusive culture underpins our strategy for generating research income. We
+ mentor and support staff to develop their individual research agenda. We promote funding
+ opportunities via weekly email bulletins, and staff can create personalised funding alerts using the
+ University’s subscription to Research Professional. The annual RAP meetings offer further support
+ for planning, and study leave is used to give time for the preparation of major grant applications
+ (e.g. fellowships). Changes to the workload model made since REF2014 have recognised time
+ spent in grant writing and impact development and these will be carried forward in the new Science
+ Workload Model. All proposals undergo a rigorous internal review process involving detailed
+ feedback and comment from at least two colleagues as well as from the DoR with technical support
+ provided by the University’s Research & Innovation Services. Early career staff are closely
+ mentored and are encouraged and helped with proposal drafting. We are mindful of avoiding
+ unconscious bias in all decision-making for resource allocation and strive to achieve a fair system
+ for research grant support that conforms with our EDI principles.
+
+ This strategy maintains a steady stream of applications, many with partner institutions, ranging
+ from responsive mode and targeted calls to fellowship opportunities. It has yielded £4.2M in
+ research grant funding for new projects starting during the current REF period (and £2.96M
+ research income spent during the REF period). New large grants total £3.5M from UK sources
+ (including UKRI, the Royal Society, the Leverhulme Trust, GCHQ and AWE), £0.4M from the EU
+ (Framework 7), and £0.4M from non-EU sources (including the US Office of Naval Research and
+ the US Air Force). Small grant (<£50K) income totals £354.5K from sources including EPSRC, the
+ London Mathematical Society, the QJMAM fund, and the Royal Society. Grant-funded research
+ produces outputs in internationally leading journals (e.g. Gray’s 2020 work on the word problem
+
+                                                                                             Page 10
+Unit-level environment template (REF5b)
+ in Inventiones Mathematicae was supported by an EPSRC New Investigator Award) and
+ underpins our impact activity (e.g., Korobkin’s ICS was partly supported by a grant from the US
+ Office of Naval Research).
+
+ To inform and encourage new applications, the Faculty regularly host research and funding
+ workshops. For example, we had an EPSRC theme day in 2018 with a programme leader giving
+ a keynote talk, presentations giving tips to winning funding, a Q&A panel and a networking poster
+ event. Such events provide an excellent way of developing a positive research culture: one that
+ is looking ahead strategically for future opportunities for success.
+
+ We have leveraged funds from the Higher Education Innovation Fund (HEIF) to support and
+ underpin our ongoing impact-generating activities. This includes: Cooker, £600; Džamonja,
+ £12,092; Korobkin, £12,990; and Ryan (who left in 2019) £36,300. Ryan also received around
+ £3.3K from the Associate Dean for Innovation Fund (which supports innovation activities at an
+ early stage) to visit Edwards Air Force Base in California.
+
+ We recognise the value of consultancy work for building relationships with business to develop
+ impact opportunities. The DoI spearheads our consultancy activity. Changes made to the internal
+ workload model that we reported for REF2014 have facilitated undertaking consultancy work, and
+ we have leveraged a steady consultancy income amounting to around £8500/year over the last
+ seven years.
+
+ UEA has strongly supported postgraduate research in the School by providing nine Faculty
+ PhD studentships. The Science Faculty has been recently awarded an EPSRC Doctoral Training
+ Grant to fund six PhD studentships (three/year for two years), and two dedicated Mathematics
+ studentships supported by the 2020 Additional Funding Programme for Mathematical Sciences
+ with UEA top-up funds provided as part of its commitment to support training in Mathematics. We
+ have also been successful in attracting external funding for PhD studentships, usually with 50%
+ UEA matched funding (e.g. co-tutelle partnerships with the University of Adelaide and the
+ Université Panthéon-Sorbonne).
+
+
+ 3.2 Infrastructure and facilities
+
+ The DoI is responsible for enabling and driving forward our impact agenda. He is supported
+ by UEA’s Engineering and Applied Mathematics Relationship Manager, who helps to identify new
+ business contacts and consultancy opportunities (for example, this recently led to a new working
+ relationship with Anglian Water including a co-funded student project in summer 2019). Our drive
+ toward impact generation is supported by UEA’s Impact Team, who oversee portfolio
+ development, offer training, coordinate workshops, and assist with evidence gathering.
+
+ Achievements in impact are rewarded by invigorated promotion opportunities and by recognition
+ in the workload model. Study leave applications are encouraged to give time and space to develop
+ impact potential. Relevant resources are signposted, including promotional events (e.g. UEA’s
+ Innovation Capacity Workshops and the NRP Translation and Innovation event), and internal and
+ external funding streams.
+
+ We update IT equipment in the School (e.g. Wi-Fi, software and hardware) on a three/four year
+ cycle. Laptop provision enables staff to work effectively off campus. We are among the most
+ regular users of the University’s state-of-the-art High Performance Computing (HPC) facilities,
+ e.g. for quantum fluids simulations. The HPC has seen a £520K investment year-on-year since
+ 2014. It has 425 computer nodes, 10 GPU nodes and six huge memory nodes, providing 8312
+ CPU cores all powered by Intel Xeon processors, all supported by several dedicated staff. A new
+ Nvidia GPU farm has been funded from a UKRI capital award (£276K) in 2020.
+
+ All research-active staff have their own private office in the School. RAs and PGR students share
+ open-plan office spaces with individual desks and computers. We have made continual investment
+
+                                                                                          Page 11
+Unit-level environment template (REF5b)
+ in office infrastructure with workplace ergonomics and staff welfare a priority (e.g. height-
+ adjustable desks and ergonomic mice are provided according to need).
+
+ A large common space in the School that allows staff, RAs, PGR students, and Masters-level
+ undergraduates to interact is crucial to the vitality of our research culture. It has state-of-the-
+ art audio-visual equipment, two computers, a well-stocked Mathematics library, and coffee/kitchen
+ facilities. It is regularly used for research seminars, graduate-level teaching (via the MAGIC
+ network) and formal meetings, as well as informal chats about research problems – whiteboards
+ and glass tables are used to discuss ideas.
+
+ Staff have collaborated with international partners to leverage experimental expertise and
+ laboratory infrastructure that is not available on the NRP. Examples are given in Box 5.
+
+  Box 5. Use of laboratory facilities beyond the NRP
+
+      •   Korobkin: lifting-discs with the Fluid Mechanics Group at Universidad Carlos III de
+          Madrid funded by the Spanish Ministry of Economy and Competitiveness, 2016-2019.
+      •   Korobkin and Purvis: splashing on flexible substrates funded by the Royal Society and
+          the National Science Council of Taiwan, 2016.
+      •   Părău: sea ice dynamics at HSVA, Hamburg funded by the Horizon 2020 Research and
+          Innovation Programme Hydralab+, 2018.
+      •   Salman and Proment: rogue waves at Dipartimento di Fisica, University of Turin, Italy,
+          funded by the FP7 program European High Performance Infrastructures in Turbulence
+          (EuHIT), 2014.
+
+  These all involved visits by the UEA collaborator to the host institution where the experiments
+  were carried out in the year stated. All led to outputs, including in Chemical Engineering
+  Science, Experiments in Fluids, Geophysical Research Letters, Journal of Fluid Mechanics, and
+  Physical Review Letters.
+
+
+
+
+ 4. Collaboration and contribution to the research base, economy and society
+
+ 4.1 Collaborative research
+
+ We collaborate widely with national and international partners in academia and in industry, and
+ the School strongly encourages interdisciplinary research. Collaborative research is supported via
+ funds for travel (about £18.5K/year is available), via study leave provision, and via external funds,
+ where we have a strong record of success (see section 3.1).
+
+ International collaborations
+
+ In this REF period we have worked with collaborators in 26 different countries. We have hosted
+ 85 international visitors from 16 countries, including 29 visits of longer than one month. We have
+ made numerous extended visits to international collaborators including, for example, in Australia,
+ China, Finland, France, Germany, Sweden, and the USA. This activity has produced many outputs
+ in leading journals (e.g. Dinvay [Norway], Kalisch [Norway] & Părău, J. Fluid Mech., 2019; Dolinka
+ [Serbia], Gray & Ruskuc, Proc. London Math. Soc., 2017), and collaborative research grants (e.g.
+ Korobkin, Office of Naval Research Global, £187,641, with partner Maki, University of Michigan,
+ USA; Părău, Royal Society, £11,780, with partner Wang, Chinese Academy of Sciences, China;
+ Proment, Royal Society, £9,140, with partner Krstulovic, Observatoire de la Côte d’Azur, France).
+
+ We hold/have held visiting professorship/fellowship positions including Džamonja (Associate
+ Member of IHOST and a member of the Ecole Doctorale at the Université Panthéon-Sorbonne,
+
+
+                                                                                              Page 12
+Unit-level environment template (REF5b)
+ Paris, France), Gray (visiting Professor in Algebra and Mathematical Logic, University of Novi Sad,
+ Serbia), Korobkin (Chair in Excellence, Universidad Carlos III de Madrid, Spain; visiting Professor,
+ Harbin Engineering University, China), and Korobkin and Părău (Simons Fellowship, Isaac
+ Newton Institute).
+
+ Examples of longer-term visits by international collaborators include a one-year visit by Fenjin Liu
+ (Chang’An University, China) funded by the China Scholarship Foundation, and a two-year visit
+ by Yannis Chatzigeorgiou (National Technical University of Athens, Greece) funded by an FP7
+ Marie Curie Actions grant.
+
+ 4.2 Exemplars of interdisciplinary research and contribution to the research culture
+
+ Interdisciplinarity is central to our research vision. We make a strong contribution to the research
+ base on the NRP and have established numerous long-term partnerships with collaborators in
+ other UEA Schools, notably Biology, Environmental Sciences, Medicine, and Pharmacy, and the
+ other NRP institutes, e.g. Quadram Institute and the John Innes Centre (JIC). Box 6 showcases
+ the range of our interdisciplinary work since 2014.
+
+  Box 6. Interdisciplinary collaborations
+
+    UoA           Partner                          Example Output            Details
+    member
+    Atkin         City University, University of   Veerasamy & Atkin         Drag reduction;
+                  Toulouse, France                 (2020) Exp. Fluids, 61.   boundary-layer
+                                                                             transition.
+    Blyth         JIC                              Blyth & Morris            Wound
+                                                   (2019), Frontiers Plant   signalling in
+                                                   Sci., 10:1393.            plants.
+    Blyth         School of Pharmacy, UEA          Hamdallah et al. (2020)   Nanoparticle
+                                                   Int. J. Pharma., 584,     fabrication.
+                                                   119408
+    Blyth,        Quadram Institute, NRP           Rickett et al. (2015)     Digestion
+    Cooker,                                        IMA J. Appl. Math., 80,   modelling in the
+    Purvis                                         1582-1618.                gut.
+    Cooker        School of Environmental          Alexander & Cooker        Boulder motion
+                  Sciences, UEA                    (2016) Sedimentology,     in flash floods.
+                                                   63, 1582–1595.
+    Džamonja      Dept. of Philosophy,             In Reflections on the     Philosophy of
+                  University of Konstanz,          Foundations of            set theory.
+                  Germany; Paris-Sorbonne          Mathematics, Springer,
+                  University, France;              2019; and in
+                  Chapman University, USA.         Contradictions, from
+                                                   Consistency to
+                                                   Inconsistency,
+                                                   Springer, 2018.
+
+    Părău         Newcastle University,            Carr et al. (2019),       Solitary waves
+                  HSVA, Hamburg                    Geophys. Res. Lett.,      in ice-covered
+                                                   46, 12230-12238.          water.
+
+
+
+
+                                                                                                Page 13
+Unit-level environment template (REF5b)
+
+ 4.3 Engagement with research beneficiaries and wider impact activities
+
+ Our research portfolio encompasses numerous impact-generating activities including engagement
+ with academics, industry and stakeholders, and delivery of graduate-level teaching. Džamonja
+ has sought to accelerate impact from her research in mathematical logic through the delivery of
+ graduate-level courses in Africa, Bosnia and Herzegovina, and Iran. Hammerton’s work on
+ landmine detection with Cobham Technical Services yielded an output in IEEE Transactions on
+ Geoscience and Remote Sensing. Korobkin’s project with the aerospace, defence and security
+ specialist company Leonardo on high speed liquid impact modelling employed two research
+ assistants in the School. Purvis’s connections with AWE and the Smith Institute led to a
+ successful PhD completion on shear banding in reactive materials via an EPSRC iCASE award.
+ With her PhD student Docampo, Ryan acted as a developer of the spectral/hp element package
+ Nektar++ suitable for industrial end-users (e.g. Formula 1). Ryan engaged with workers at
+ Edwards Air Force Base, California, including delivery of a short course on wave propagation.
+ D. Stevens’ (submitted to UoA7) ocean/climate work (included in our portfolio of potential ICS,
+ section 1.4) involved direct engagement with the UK Meteorological Office and the Centre for
+ Environment, Fisheries and Aquaculture Science (CEFAS), the latter via a NERC CASE
+ studentship. D. Stevens co-authored two 2019 Marine Climate Change Impacts Partnerships
+ (MCCIP) report cards, concise summaries for policy advisors, decision makers, Ministers,
+ Parliament and the devolved administrations. A figure from one of four referenced co-authored
+ papers was reproduced in the chapter `Evaluation of Climate Models’ in the IPCC 5th Assessment
+ Report.
+
+
+ 4.4 Editorial positions
+
+ Members of the UoA are, or have been, on editorial boards of prestigious journals including
+
+ •   Atkin: The Aeronautical Journal (2011-).
+ •   Džamonja: Proceedings of AMS (2013-2016).
+ •   Gray: International Journal of Algebra and Computation (2020-).
+ •   Kirby: London Mathematical Society Journal, Bulletin and Transactions (2020-).
+ •   Korobkin: J. Engineering Mathematics (2004-), J. Fluids and Structures (2011-).
+ •   Părău: Water Waves (2019-).
+ •   Siemons: J. Design Theory (1998-2018).
+
+
+ 4.5 Plenary lectures and keynote talks
+
+ We routinely give research seminars at universities in the UK and abroad, and present talks at
+ national and international conferences. Plenary and keynote talks include:
+
+ •   Asperó: KNAW Colloquium on Generalised Baire spaces, Holland (2018).
+ •   Korobkin: Lavrentyev Readings on Mathematics International Conference, Russia (2015).
+ •   Grant: Hausdorff Research Institute, Germany (2017).
+ •   Gray: AAA90, 90th Workshop on General Algebra, Serbia (2015).
+ •   Părău: International Symposium of High-Fidelity Computational Methods and Applications,
+     China (2019).
+
+ We have been invited to participate at meetings at international research stations, for example
+ Oberwolfach Research Institute for Mathematics, Germany, Schloss Dagstuhl – Leibniz Center
+ for Informatics, Germany, Centre International De Rencontres Mathematiques, Luminy, France,
+ and Mathematical Sciences Research Institute, Berkeley.
+
+
+
+
+                                                                                          Page 14
+Unit-level environment template (REF5b)
+
+ 4.6 Conference/meeting organisation and research network activities
+
+ We regularly organise national and international research programmes, conferences and
+ meetings. We have taken leading roles in promoting nonlinear waves, sea-ice dynamics, set
+ theory, and representation theory. Examples are:
+
+ •   Asperó: Workshop on `Methods in Higher Forcing Axioms’, UEA, (2019).
+ •   Džamonja: Isaac Newton Institute programme `Mathematical, Foundational and
+     Computational Aspects of the Higher Infinite’ (19/08 - 18/12/2015).
+ •   Korobkin, Părău: Isaac Newton Institute programme `Mathematics of Sea Ice Phenomena’
+     (21/08 - 20/12/2017).
+ •   Gray: Winter One-relator Workshop, UEA (2018).
+ •   Lyle: `Representations of p-adic groups and finite groups of Lie type’, Centre International De
+     Rencontres Mathématiques (CIRM), France (2016).
+ •   Miemietz, Stevens: `Categorification and p-adic groups’, UEA (2016).
+ •   Părău: `Nonlinear Waves: Theory, Computations and Real-World Applications’, Tsinghua
+     Sanya International Mathematics Forum (TSIMF), China (2019).
+
+ We proactively devise and lead specialist research networks including a number of UK Fluids
+ Network Special Interest Groups (`Evolving Interfaces in Complex Fluids’ led by Blyth;
+ `Quantum Fluids’ led by Salman; `Wave Turbulence’ co-led by Proment). In 2015 Proment created
+ the Eastern Arc Conference on Topological Solitons and Quantum Fluids, a partnership
+ between UEA, University of Essex, and University of Kent; and Kirby founded the network
+ SEEMOD (South and East of England Model Theory) involving UEA, Oxford, QMUL, Imperial, and
+ Cambridge.
+
+
+ 4.7 Examples of engagement with national and international funding bodies
+
+ We regularly engage with funding bodies through proposal reviews and panel meeting
+ participation. Nine of us are members of the EPSRC Peer Review College (Atkin and Kirby are
+ associate members; and Blyth, Džamonja, Gray, Părău, Proment, Salman, and Stevens are full
+ members). Proment is a member of the UKRI Future Leaders Fellowships Peer Review College,
+ and Whittaker is on the Royal Society Newton International Fellowships review panel. We regularly
+ review research proposals for funding bodies in numerous countries, including Austria, Chile,
+ France, Japan, and The Netherlands. Blyth sat on the interview panel for the La Caixa-Marie-
+ Curie-Horizon2020 InPhiNit International PhD Fellowships in 2017. Džamonja and Proment are
+ European Commission H2020 experts.
+
+ 4.8 Awards
+
+ In 2018 Proment (with PhD student Villois) received the prestigious 35th François Naftali
+ Frenkiel Award for Fluid Mechanics. Proment also received the Euromech Young Scientist
+ Award at the European Turbulence conference 2019.
+
+
+ 4.9 Public engagement
+
+ We regularly give talks in schools and colleges (regionally and nationwide) to promote our
+ research, and Mathematics generally, and we frequently contribute talks and presentations to local
+ STEM events, as well as hosting numerous outreach events. Our annual `Explore Maths Day’ and
+ `Discover Maths Day’ events for school students are highlights. Since 2014 Proment (part-funded
+ by EPSRC) has had stands explaining vortex dynamics and Chladni patterns at the annual
+ Norwich Science Festival. Proment also received publicity (articles in SciNews and Atlas of
+
+
+                                                                                            Page 15
+Unit-level environment template (REF5b)
+ Science, and a local newspaper) for his work on the Fermi-Pasta-Ulam-Tsingou problem (PNAS,
+ 2015).
+
+
+ 4.10 Wider contributions to the discipline
+
+ We serve on numerous research and conference committees and councils including:
+
+ •   Atkin: Fellow of the Royal Academy of Engineering (2018-); President (2016-17) of the Royal
+     Aeronautical Society.
+ •   Kirby: British Logic Colloquium committee (2017-).
+ •   Korobkin: Russian Committee on Theoretical and Applied Mechanics (2001-).
+ •   Siemons: Scientific Board of the Shanghai Conference on Combinatorics (2011-).
+ •   Stevens: London School of Geometry and Number Theory (LSGNT) Strategic Advisory Board
+     (2019-).
+ •   Whittaker: European Study Group with Industry UK Standing Committee (2014-2018).
+
+ We have written/edited four books with an emphasis on highlighting recent research:
+
+ •   Džamonja: Fast Track to Forcing (Cambridge University Press, October 2020), Théorie des
+     Ensembles pour les Philosophes (Europe. Univ., 2017).
+ •   Kirby: An invitation to Model Theory (Springer, 2019).
+ •   Părău: (co-editor) Nonlinear water waves (Springer, 2019).
+
+ We have taught numerous graduate level courses, including (in the UK) 13 courses for the MAGIC
+ Consortium, and five courses at LMS Undergraduate Summer Schools; (and abroad) numerous
+ taught courses including `Nordic Logic Summer School’ (Džamonja, Sweden), `XXIV Brazilian
+ Algebra Meeting’ (Gray, Brazil), and a course on hydroelasticity at Harbin Engineering University
+ (Korobkin, China).
+
+
+
+
+                                                                                          Page 16
+
