@@ -13,7 +13,7 @@ Local copy of the download page: [Submission_system_data_requirements-REF2021.pd
 
 ## Data explorer
 
-Streamlit data explorer hosted on Azure is available at [https://ref2021explorer.azurewebsites.net/Research_Groups].
+Streamlit data explorer hosted on Azure is available at [https://ref2021explorer.azurewebsites.net].
 
 ## Setting up the environment
 
