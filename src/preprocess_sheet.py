@@ -29,7 +29,7 @@ def preprocess_inst_name(dset):
     return dset
 
 
-def preprocess_outputs(dset, sname="Outputs"):
+def preprocess_outputs(dset, sname="Outputs", replace_na=False):
     """ Preprocess the data from the Outputs sheet
     """
 
@@ -43,26 +43,26 @@ def preprocess_outputs(dset, sname="Outputs"):
     # ---------------------------
     dset = preprocess_inst_name(dset)
 
-    # replace na in selected columns with "No"
-    # ----------------------------------------
-    columns = [cb.COL_OUTPUT_CITATIONS,
-               cb.COL_OUTPUT_INTERDISCIPLINARY,
-               cb.COL_OUTPUT_NON_ENGLISH,
-               cb.COL_OUTPUT_FORENSIC_SCIENCE,
-               cb.COL_OUTPUT_CRIMINOLOGY,
-               cb.COL_OUTPUT_DOUBLE_WEIGHTING,
-               cb.COL_OUTPUT_RESERVE_OUTPUT,
-               cb.COL_OUTPUT_DELAYED]
-    text_to_replace = "No"
-    for column in columns:
-        dset[column] = dset[column].fillna(text_to_replace)
-    lg.print_tstamp(f"- PPROC: replace NaN with '{text_to_replace}' in '{columns}'")
+    if replace_na:
+        # replace na in selected columns with VALUE_ADDED_NO
+        # --------------------------------------------------
+        columns = [cb.COL_OUTPUT_CITATIONS,
+                   cb.COL_OUTPUT_INTERDISCIPLINARY,
+                   cb.COL_OUTPUT_NON_ENGLISH,
+                   cb.COL_OUTPUT_FORENSIC_SCIENCE,
+                   cb.COL_OUTPUT_CRIMINOLOGY,
+                   cb.COL_OUTPUT_DOUBLE_WEIGHTING,
+                   cb.COL_OUTPUT_RESERVE_OUTPUT,
+                   cb.COL_OUTPUT_DELAYED]
+        for column in columns:
+            dset[column] = dset[column].fillna(cb.VALUE_ADDED_NO)
+        lg.print_tstamp(f"- PPROC: replace NaN with '{cb.VALUE_ADDED_NO}' in '{columns}'")
 
-    # replace missing values in object columns
-    # ----------------------------------------
-    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+        # replace missing values in object columns
+        # ----------------------------------------
+        columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+        dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+        lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # replace various styling characters selected columns
     # ---------------------------------------------------
@@ -104,7 +104,7 @@ def preprocess_outputs(dset, sname="Outputs"):
     return dset
 
 
-def preprocess_impacts(dset, sname="ImpactCaseStudies"):
+def preprocess_impacts(dset, sname="ImpactCaseStudies", replace_na=False):
     """ Preprocess the data from the ImpactCaseStudies sheet
     """
 
@@ -117,11 +117,12 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     # ---------------------------
     dset = preprocess_inst_name(dset)
 
-    # replace missing values in object columns
-    # ----------------------------------------
-    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    if replace_na:
+        # replace missing values in object columns
+        # ----------------------------------------
+        columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+        dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+        lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # shift columns from title to the left
     # ------------------------------------
@@ -181,7 +182,7 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     return dset
 
 
-def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
+def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded", replace_na=False):
     """ Preprocess the data from the ResearchDoctoralDegreesAwarded sheet
     """
 
@@ -194,11 +195,12 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     # ---------------------------
     dset = preprocess_inst_name(dset)
 
-    # replace missing values in object columns
-    # ----------------------------------------
-    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    if replace_na:
+        # replace missing values in object columns
+        # ----------------------------------------
+        columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+        dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+        lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
@@ -237,7 +239,7 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded"):
     return dset
 
 
-def preprocess_income(dset, sname="ResearchIncome"):
+def preprocess_income(dset, sname="ResearchIncome", replace_na=False):
     """ Preprocess the data from the ResearchIncome sheet
     """
 
@@ -250,11 +252,12 @@ def preprocess_income(dset, sname="ResearchIncome"):
     # ---------------------------
     dset = preprocess_inst_name(dset)
 
-    # replace missing values in object columns
-    # ----------------------------------------
-    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    if replace_na:
+        # replace missing values in object columns
+        # ----------------------------------------
+        columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+        dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+        lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
@@ -285,7 +288,7 @@ def preprocess_income(dset, sname="ResearchIncome"):
     return dset
 
 
-def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
+def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind", replace_na=False):
     """ Preprocess the data from the ResearchIncomeInKind sheet
     """
 
@@ -299,11 +302,12 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
     # ---------------------------
     dset = preprocess_inst_name(dset)
 
-    # replace missing values in object columns
-    # ----------------------------------------
-    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    if replace_na:
+        # replace missing values in object columns
+        # ----------------------------------------
+        columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+        dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+        lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
@@ -334,7 +338,7 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind"):
     return dset
 
 
-def preprocess_rgroups(dset, sname="ResearchGroups"):
+def preprocess_rgroups(dset, sname="ResearchGroups", replace_na=False):
     """ Preprocess the data from the ResearchGroups sheet
     """
 
@@ -349,11 +353,12 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     # ---------------------------
     dset = preprocess_inst_name(dset)
 
-    # replace missing values in object columns
-    # ----------------------------------------
-    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    if replace_na:
+        # replace missing values in object columns
+        # ----------------------------------------
+        columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+        dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+        lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # assign names where we only have codes
     # -------------------------------------
@@ -384,7 +389,7 @@ def preprocess_rgroups(dset, sname="ResearchGroups"):
     return dset
 
 
-def preprocess_results(dset, sname="Results"):
+def preprocess_results(dset, sname="Results", replace_na=False):
     """ Preprocess the data from the Results sheet
     """
 
@@ -413,11 +418,12 @@ def preprocess_results(dset, sname="Results"):
     lg.print_tstamp(f"- PPROC: replace '{text_to_replace}' with NaN in the following columns")
     lg.print_tstamp(f"- {columns}")
 
-    # replace missing values in object columns
-    # ----------------------------------------
-    columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-    dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-    lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
+    if replace_na:
+        # replace missing values in object columns
+        # ----------------------------------------
+        columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
+        dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+        lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
 
     # bin percentages
     # ---------------

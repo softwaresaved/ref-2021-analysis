@@ -6,7 +6,7 @@ Team members can access [the running notes for meetings](https://docs.google.com
 
 Data source: https://results2021.ref.ac.uk/ (accessed 2023-08-10)
 
-Information on submission system data requirements: https://ref.ac.uk/guidance-and-criteria-on-submissions/guidance/submission-system-data-requirements/ (accesed 2023-08-30). 
+Information on submission system data requirements: https://ref.ac.uk/guidance-and-criteria-on-submissions/guidance/submission-system-data-requirements/ (accessed 2023-08-30). 
 
 Local copy of the download page: [Submission_system_data_requirements-REF2021.pdf](info/Submission_system_data_requirements-REF2021.pdf) (accessed 2023-08-10)
 

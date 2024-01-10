@@ -71,6 +71,7 @@ COL_RESULTS_UNCLASSIFIED_BINNED = f"{COL_RESULTS_UNCLASSIFIED} (binned)"
 
 # value to add if no entry in the data
 VALUE_ADDED_NOT_SPECIFIED = 'Not specified'
+VALUE_ADDED_NO = 'No'
 
 # source: website
 PANEL_NAMES = {
