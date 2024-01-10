@@ -1,20 +1,20 @@
-[2024-01-10 14:40:50] READ 'data/processed/sheets/ImpactCaseStudies.csv.gz': 6361 records
-[2024-01-10 14:40:50] PPROC actions for 'ImpactCaseStudies' sheet
-[2024-01-10 14:40:50] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-10 14:40:50] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2024-01-10 14:40:50] - PPROC: rename 'Institution name' to 'Institution'
-[2024-01-10 14:40:50] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2024-01-10 14:40:50] - PPROC: shift columns from title to the left to fix raw data issue 
-[2024-01-10 14:40:53] - PPROC: replace styling characters in the following columns
-[2024-01-10 14:40:53] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
-[2024-01-10 14:40:53] - PPROC: add column for panels names
-[2024-01-10 14:40:53] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-10 14:40:53] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 16:08:25] READ 'data/processed/sheets/ImpactCaseStudies.csv.gz': 6361 records
+[2024-01-10 16:08:25] PPROC actions for 'ImpactCaseStudies' sheet
+[2024-01-10 16:08:25] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 16:08:25] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 16:08:25] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 16:08:25] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 16:08:25] - PPROC: shift columns from title to the left to fix raw data issue 
+[2024-01-10 16:08:28] - PPROC: replace styling characters in the following columns
+[2024-01-10 16:08:28] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
+[2024-01-10 16:08:28] - PPROC: add column for panels names
+[2024-01-10 16:08:28] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-10 16:08:28] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 A                              59
 B                              53
-[2024-01-10 14:40:53] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 16:08:28] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 26A - Modern Languages                                 12
@@ -53,7 +53,7 @@ Institute of Creative and Cultural Entrepreneur...      2
 Linguistics                                             2
 UoA32A UCL History of Art Department                    2
 Typography and Graphic Communication                    2
-[2024-01-10 14:40:53] - PPROC: drop column 'Joint submission'
+[2024-01-10 16:08:28] - PPROC: drop column 'Joint submission'
                                                     count
 Joint submission                                         
 (joint submission with Heriot-Watt University)         24
@@ -63,7 +63,7 @@ Joint submission
 (joint submission with University of Edinburgh)         6
 (joint submission with Birkbeck College)                3
 (joint submission with University of Greenwich)         3
-[2024-01-10 14:40:53] - PPROC: drop column 'Researcher ORCIDs'
+[2024-01-10 16:08:28] - PPROC: drop column 'Researcher ORCIDs'
                                                     count
 Researcher ORCIDs                                        
 [0000-0003-1666-7590]                                   3
@@ -79,7 +79,7 @@ Researcher ORCIDs
 [0000-0001-5578-359X];[0000-0002-0113-5770];[00...      1
 
 [4622 rows x 1 columns]
-[2024-01-10 14:40:53] - PPROC: drop column 'Grant funding'
+[2024-01-10 16:08:28] - PPROC: drop column 'Grant funding'
                                                     count
 Grant funding                                            
 [n/a: 20000]                                            4
@@ -95,7 +95,7 @@ Grant funding
 [AH/L007010/1: 1572192];[872859: 1624212];[2129...      1
 
 [4634 rows x 1 columns]
-[2024-01-10 14:40:53] - PPROC: drop column '3. References to the research'
+[2024-01-10 16:08:28] - PPROC: drop column '3. References to the research'
                                                     count
 3. References to the research                            
       3.1. Hill JC, Whitehurst DG, Lewis M, Bry...      2
@@ -111,7 +111,7 @@ Grant funding
   (articles in peer-reviewed journals; Oxford a...      1
 
 [6346 rows x 1 columns]
-[2024-01-10 14:40:53] - PPROC: drop column '5. Sources to corroborate the impact'
+[2024-01-10 16:08:28] - PPROC: drop column '5. Sources to corroborate the impact'
                                                     count
 5. Sources to corroborate the impact                     
      1. Corroborating statement from CEO of MGB...      2
@@ -127,12 +127,12 @@ Sources to corroborate the impact (indicative m...      1
      [A] Email and report from Rescue Global, O...      1
 
 [6346 rows x 1 columns]
-[2024-01-10 14:40:53] - PPROC: drop column 'Is continued from 2014'
+[2024-01-10 16:08:28] - PPROC: drop column 'Is continued from 2014'
                         count
 Is continued from 2014       
 0                        6039
 1                         322
-[2024-01-10 14:40:53] - PPROC: drop column 'Countries'
+[2024-01-10 16:08:28] - PPROC: drop column 'Countries'
                                                     count
 Countries                                                
 [UK]                                                  378
@@ -148,7 +148,7 @@ Countries
 [UK];[Global];[France];[Dominica];[Turks and Ca...      1
 
 [2706 rows x 1 columns]
-[2024-01-10 14:40:53] - PPROC: drop column 'Formal partners'
+[2024-01-10 16:08:28] - PPROC: drop column 'Formal partners'
                                                     count
 Formal partners                                          
 [N/A]                                                  24
@@ -164,7 +164,7 @@ Formal partners
 [Rescue Global]                                         1
 
 [3005 rows x 1 columns]
-[2024-01-10 14:40:53] - PPROC: drop column 'Global research identifiers'
+[2024-01-10 16:08:28] - PPROC: drop column 'Global research identifiers'
                                                     count
 Global research identifiers                              
 [grid.434257.3]                                       153
@@ -180,7 +180,7 @@ Global research identifiers
 [426413.6];[52788.30];[.270680.b];[453268.e];[4...      1
 
 [2471 rows x 1 columns]
-[2024-01-10 14:40:53] - PPROC: drop column '2. Underpinning research'
+[2024-01-10 16:08:28] - PPROC: drop column '2. Underpinning research'
                                                     count
 2. Underpinning research                                 
       Climate-vulnerable developing countries a...      2
@@ -196,5 +196,5 @@ Global research identifiers
       Zooniverse has its origins in the Galaxy ...      1
 
 [6349 rows x 1 columns]
-[2024-01-10 14:40:56] SAVED pre-processed dataset to 'data/processed/sheets/ImpactCaseStudies_ppreprocessed.csv.gz'
-[2024-01-10 14:40:56] DELETED 'data/processed/sheets/ImpactCaseStudies.csv.gz'
+[2024-01-10 16:08:31] SAVED pre-processed dataset to 'data/processed/sheets/ImpactCaseStudies_ppreprocessed.csv.gz'
+[2024-01-10 16:08:31] DELETED 'data/processed/sheets/ImpactCaseStudies.csv.gz'

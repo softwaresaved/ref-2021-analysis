@@ -482,7 +482,7 @@ def preprocess_sheet(sname):
 
     # read data
     # ---------
-    infname = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_EXT}")
+    infname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_EXT}")
     dset = pd.read_csv(os.path.join(rw.PROJECT_PATH, infname),
                        index_col=None,
                        dtype={0: str},
@@ -512,14 +512,14 @@ def preprocess_sheet(sname):
     # save the pre-processed data
     # ---------------------------
     dset.index.name = "Record"
-    fname = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_PPROCESS}{rw.DATA_EXT}")
+    fname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_PPROCESS}{rw.DATA_EXT}")
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
                 index=True,
                 compression='gzip')
     lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
     # provision for saving as parquet, not used right now
-    # fname = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_PPROCESS}.parquet")
+    # fname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_PPROCESS}.parquet")
     # dset.to_parquet(os.path.join(rw.PROJECT_PATH, fname),
     #                 index=True,
     #                 compression='gzip')

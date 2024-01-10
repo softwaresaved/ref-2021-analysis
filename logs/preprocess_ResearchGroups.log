@@ -1,18 +1,18 @@
-[2024-01-10 14:40:43] READ 'data/processed/sheets/ResearchGroups.csv.gz': 2036 records
-[2024-01-10 14:40:43] PPROC actions for 'ResearchGroups' sheet
-[2024-01-10 14:40:43] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-10 14:40:43] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2024-01-10 14:40:43] - PPROC: rename 'Institution name' to 'Institution'
-[2024-01-10 14:40:43] - PPROC: rename 'Research group name' to 'Research group'
-[2024-01-10 14:40:43] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2024-01-10 14:40:43] - PPROC: add columns for panel names
-[2024-01-10 14:40:43] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-10 14:40:43] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 16:08:17] READ 'data/processed/sheets/ResearchGroups.csv.gz': 2036 records
+[2024-01-10 16:08:17] PPROC actions for 'ResearchGroups' sheet
+[2024-01-10 16:08:17] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 16:08:17] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 16:08:17] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 16:08:17] - PPROC: rename 'Research group name' to 'Research group'
+[2024-01-10 16:08:17] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 16:08:17] - PPROC: add columns for panel names
+[2024-01-10 16:08:17] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-10 16:08:17] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 B                              11
 A                               9
-[2024-01-10 14:40:43] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 16:08:17] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 UoG Submission in Allied Health Professions & N...      7
@@ -21,12 +21,12 @@ A – Faculty of Creative Industries, University ...      3
 Social Anthropology                                     2
 Drama, Dance, Performing Arts, Film and Screen ...      2
 Music                                                   2
-[2024-01-10 14:40:43] - PPROC: drop column 'Joint submission'
+[2024-01-10 16:08:17] - PPROC: drop column 'Joint submission'
                                                  count
 Joint submission                                      
 (joint submission with Heriot-Watt University)       9
 (joint submission with University of Sussex)         4
 (joint submission with University of Greenwich)      3
 (joint submission with SRUC)                         2
-[2024-01-10 14:40:43] SAVED pre-processed dataset to 'data/processed/sheets/ResearchGroups_ppreprocessed.csv.gz'
-[2024-01-10 14:40:43] DELETED 'data/processed/sheets/ResearchGroups.csv.gz'
+[2024-01-10 16:08:17] SAVED pre-processed dataset to 'data/processed/sheets/ResearchGroups_ppreprocessed.csv.gz'
+[2024-01-10 16:08:17] DELETED 'data/processed/sheets/ResearchGroups.csv.gz'

@@ -1,17 +1,17 @@
-[2024-01-10 14:40:43] READ 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
-[2024-01-10 14:40:43] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
-[2024-01-10 14:40:43] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-10 14:40:43] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2024-01-10 14:40:43] - PPROC: rename 'Institution name' to 'Institution'
-[2024-01-10 14:40:43] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2024-01-10 14:40:43] - PPROC: add columns for panel names
-[2024-01-10 14:40:43] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-10 14:40:43] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 16:08:17] READ 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
+[2024-01-10 16:08:17] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
+[2024-01-10 16:08:17] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 16:08:17] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 16:08:17] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 16:08:17] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 16:08:17] - PPROC: add columns for panel names
+[2024-01-10 16:08:17] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-10 16:08:17] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 A                              21
 B                              21
-[2024-01-10 14:40:43] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 16:08:17] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 Music                                                   3
@@ -51,7 +51,7 @@ Development Studies                                     1
 Social Anthropology                                     1
 Drama, Dance, Performing Arts, Film and Screen ...      1
 B – Theatre, Film, Television and Interactive M...      1
-[2024-01-10 14:40:43] - PPROC: drop column 'Joint submission'
+[2024-01-10 16:08:17] - PPROC: drop column 'Joint submission'
                                                     count
 Joint submission                                         
 (joint submission with University of Edinburgh)         5
@@ -67,6 +67,6 @@ Joint submission
 (joint submission with University of Brighton)          1
 (joint submission with Birkbeck College and Ins...      1
 (joint submission with Birkbeck College)                1
-[2024-01-10 14:40:43] - PPROC: calculate total number of degrees awarded
-[2024-01-10 14:40:43] SAVED pre-processed dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
-[2024-01-10 14:40:43] DELETED 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz'
+[2024-01-10 16:08:17] - PPROC: calculate total number of degrees awarded
+[2024-01-10 16:08:17] SAVED pre-processed dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
+[2024-01-10 16:08:17] DELETED 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz'

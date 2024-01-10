@@ -1,20 +1,20 @@
-[2024-01-10 14:41:06] READ 'data/processed/sheets/Outputs.csv.gz': 185353 records
-[2024-01-10 14:41:06] PPROC actions for 'Outputs' sheet
-[2024-01-10 14:41:06] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-10 14:41:06] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2024-01-10 14:41:06] - PPROC: rename 'Institution name' to 'Institution'
-[2024-01-10 14:41:06] - PPROC: rename 'Output type' to 'Output type code'
-[2024-01-10 14:41:06] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2024-01-10 14:41:07] - PPROC: replace styling characters in the following columns
-[2024-01-10 14:41:07] - ['Title']
-[2024-01-10 14:41:07] - PPROC: add columns for panel and output types names
-[2024-01-10 14:41:07] - PPROC: drop columns '['Main panel code', 'Unit of assessment number', 'Output type code']'
-[2024-01-10 14:41:07] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 16:08:40] READ 'data/processed/sheets/Outputs.csv.gz': 185353 records
+[2024-01-10 16:08:40] PPROC actions for 'Outputs' sheet
+[2024-01-10 16:08:40] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 16:08:40] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 16:08:40] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 16:08:40] - PPROC: rename 'Output type' to 'Output type code'
+[2024-01-10 16:08:40] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 16:08:41] - PPROC: replace styling characters in the following columns
+[2024-01-10 16:08:41] - ['Title']
+[2024-01-10 16:08:41] - PPROC: add columns for panel and output types names
+[2024-01-10 16:08:41] - PPROC: drop columns '['Main panel code', 'Unit of assessment number', 'Output type code']'
+[2024-01-10 16:08:41] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 A                            1391
 B                            1161
-[2024-01-10 14:41:07] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 16:08:41] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 26A - Modern Languages                                347
@@ -54,7 +54,7 @@ Typography and Graphic Communication                   25
 26B - Celtic and Gaelic                                23
 Art                                                    23
 Joint Submission - University of Kent-Medway Sc...      1
-[2024-01-10 14:41:07] - PPROC: drop column 'Joint submission'
+[2024-01-10 16:08:42] - PPROC: drop column 'Joint submission'
                                                     count
 Joint submission                                         
 (joint submission with University of Edinburgh)       915
@@ -70,5 +70,5 @@ Joint submission
 (joint submission with Birkbeck College and Uni...     42
 (joint submission with University College London)      21
 (joint submission with The University of Kent)          1
-[2024-01-10 14:41:11] SAVED pre-processed dataset to 'data/processed/sheets/Outputs_ppreprocessed.csv.gz'
-[2024-01-10 14:41:11] DELETED 'data/processed/sheets/Outputs.csv.gz'
+[2024-01-10 16:08:45] SAVED pre-processed dataset to 'data/processed/sheets/Outputs_ppreprocessed.csv.gz'
+[2024-01-10 16:08:45] DELETED 'data/processed/sheets/Outputs.csv.gz'

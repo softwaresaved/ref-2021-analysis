@@ -38,7 +38,7 @@ def extract_sheet(fname, sname, header, index_col=None):
 
     # save dset to compressed csv
     # ---------------------------
-    fpath = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_EXT}")
+    fpath = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_EXT}")
     dset.to_csv(os.path.join(rw.PROJECT_PATH, fpath),
                 index=False,
                 compression='gzip')

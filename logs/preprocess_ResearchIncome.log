@@ -1,17 +1,17 @@
-[2024-01-10 14:40:44] READ 'data/processed/sheets/ResearchIncome.csv.gz': 28637 records
-[2024-01-10 14:40:44] PPROC actions for 'ResearchIncome' sheet
-[2024-01-10 14:40:44] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-10 14:40:44] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2024-01-10 14:40:44] - PPROC: rename 'Institution name' to 'Institution'
-[2024-01-10 14:40:44] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2024-01-10 14:40:44] - PPROC: add columns for panel names
-[2024-01-10 14:40:44] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-10 14:40:44] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 16:08:19] READ 'data/processed/sheets/ResearchIncome.csv.gz': 28637 records
+[2024-01-10 16:08:19] PPROC actions for 'ResearchIncome' sheet
+[2024-01-10 16:08:19] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 16:08:19] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 16:08:19] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 16:08:19] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 16:08:19] - PPROC: add columns for panel names
+[2024-01-10 16:08:19] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-10 16:08:19] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 A                             316
 B                             316
-[2024-01-10 14:40:44] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 16:08:19] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 Music                                                  45
@@ -51,7 +51,7 @@ Performance and Cultural Industries                    15
 Institute of Creative and Cultural Entrepreneur...     15
 Media, Communications and Cultural Studies (MCCS)      15
 B – Theatre, Film, Television and Interactive M...     15
-[2024-01-10 14:40:44] - PPROC: drop column 'Joint submission'
+[2024-01-10 16:08:19] - PPROC: drop column 'Joint submission'
                                                     count
 Joint submission                                         
 (joint submission with University of Edinburgh)        76
@@ -67,5 +67,5 @@ Joint submission
 (joint submission with University College London)      15
 (joint submission with University of St Andrews)       15
 (joint submission with Birkbeck College)               15
-[2024-01-10 14:40:44] SAVED pre-processed dataset to 'data/processed/sheets/ResearchIncome_ppreprocessed.csv.gz'
-[2024-01-10 14:40:44] DELETED 'data/processed/sheets/ResearchIncome.csv.gz'
+[2024-01-10 16:08:19] SAVED pre-processed dataset to 'data/processed/sheets/ResearchIncome_ppreprocessed.csv.gz'
+[2024-01-10 16:08:19] DELETED 'data/processed/sheets/ResearchIncome.csv.gz'
