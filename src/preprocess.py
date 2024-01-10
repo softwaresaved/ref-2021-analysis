@@ -15,21 +15,45 @@ TO_RENAME = {
 
 def clean_styling(dset, column):
 
-    TEXT_INSTRUCTIONS = ["\(indicative maximum 100 words\)",
-                         "\(indicative maximum 500 words\)",
-                         "\(indicative maximum 750 words\)",
-                         " \(indicative maximum of six references\)"
+    TEXT_INSTRUCTIONS = ["(indicative maximum 100 words)",
+                         "(indicative maximum 500 words)",
+                         "(indicative maximum 750 words)",
+                         " (indicative maximum of six references)"
                          ]
+    TO_REPLACE = {
+        "  ": " ",
+        "‚Äò": "",  # misread left single quote
+        "‚Äô": "’",  # misread right single quote or apostrophe
+        "#": "",
+        "*": "",
+        "\(": "(",
+        "\)": ")",
+        "\[": "[",
+        "\]": "]",
+        "\-": "-",
+        "<ins>": "",  # html tag for underline
+        "</ins>": "",   # html tag for underline
+        "<sup>": "",  # html tag for superscript
+        "</sup>": "",   # html tag for superscript
+        "<sub>": "",  # html tag for subscript
+        "</sub>": "",   # html tag for subscript
+        "\n": " ",
+        "\t": " ",
+    }
 
-    dset[column] = dset[column].str.replace("  ", " ", regex=False)
-    dset[column] = dset[column].str.replace("‚Äò", "", regex=False)
-    dset[column] = dset[column].str.replace("‚Äô", "", regex=False)
+    for key, value in TO_REPLACE.items():
+        dset[column] = dset[column].str.replace(key, value, regex=False)
+
+    # dset[column] = dset[column].str.replace("  ", " ", regex=False)
+    # dset[column] = dset[column].str.replace("‚Äò", "", regex=False)
+    # dset[column] = dset[column].str.replace("‚Äô", "", regex=False)
+    # dset[column] = dset[column].str.replace("#", "", regex=False)
+    # dset[column] = dset[column].str.replace("*", "", regex=False)
+    # dset[column] = dset[column].str.replace("\n", " ", regex=False)
+    # dset[column] = dset[column].str.replace("\t", " ", regex=False)
+
     dset[column] = dset[column].str.replace(column, " ", regex=False)
     dset[column] = dset[column].str.replace(column[2:], " ", regex=False)
-    dset[column] = dset[column].str.replace("#", "", regex=False)
-    dset[column] = dset[column].str.replace("*", "", regex=False)
-    dset[column] = dset[column].str.replace("\n", " ", regex=False)
-    dset[column] = dset[column].str.replace("\t", " ", regex=False)
 
     for text in TEXT_INSTRUCTIONS:
         dset[column] = dset[column].str.replace(text, "", regex=False)

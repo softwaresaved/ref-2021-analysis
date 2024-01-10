@@ -1,23 +1,23 @@
-[2023-08-29 17:25:46] READ 'data/processed/Outputs.csv.gz': 185353 records
-[2023-08-29 17:25:46] PPROC actions for 'Outputs' sheet
-[2023-08-29 17:25:46] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-29 17:25:46] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-29 17:25:46] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-29 17:25:46] - PPROC: rename 'Output type' to 'Output type code'
-[2023-08-29 17:25:47] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-29 17:25:47] - PPROC: replace NaN with 'No' in '['Citations applicable', 'Interdisciplinary', 'Non-English', 'Forensic science', 'Criminology', 'Propose double weighting', 'Is reserve output', 'Delayed by COVID19']'
-[2023-08-29 17:25:48] - PPROC: replace missing values with 'Not specified'
-[2023-08-29 17:25:50] - PPROC: replace styling characters in the following columns
-[2023-08-29 17:25:50] - ['Title']
-[2023-08-29 17:25:51] - PPROC: add columns for panel and output types names
-[2023-08-29 17:25:51] - PPROC: drop columns '['Main panel code', 'Unit of assessment number', 'Output type code']'
-[2023-08-29 17:25:51] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 12:30:39] READ 'data/processed/sheets/Outputs.csv.gz': 185353 records
+[2024-01-10 12:30:39] PPROC actions for 'Outputs' sheet
+[2024-01-10 12:30:39] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 12:30:39] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 12:30:39] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 12:30:39] - PPROC: rename 'Output type' to 'Output type code'
+[2024-01-10 12:30:39] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 12:30:39] - PPROC: replace NaN with 'No' in '['Citations applicable', 'Interdisciplinary', 'Non-English', 'Forensic science', 'Criminology', 'Propose double weighting', 'Is reserve output', 'Delayed by COVID19']'
+[2024-01-10 12:30:40] - PPROC: replace missing values with 'Not specified'
+[2024-01-10 12:30:40] - PPROC: replace styling characters in the following columns
+[2024-01-10 12:30:40] - ['Title']
+[2024-01-10 12:30:41] - PPROC: add columns for panel and output types names
+[2024-01-10 12:30:41] - PPROC: drop columns '['Main panel code', 'Unit of assessment number', 'Output type code']'
+[2024-01-10 12:30:41] - PPROC: drop column 'Multiple submission letter'
                              count
 Multiple submission letter        
 Not specified               182801
 A                             1391
 B                             1161
-[2023-08-29 17:25:51] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 12:30:41] - PPROC: drop column 'Multiple submission name'
                                                      count
 Multiple submission name                                  
 Not specified                                       182801
@@ -58,7 +58,7 @@ Typography and Graphic Communication                    25
 26B - Celtic and Gaelic                                 23
 Art                                                     23
 Joint Submission - University of Kent-Medway Sc...       1
-[2023-08-29 17:25:52] - PPROC: drop column 'Joint submission'
+[2024-01-10 12:30:41] - PPROC: drop column 'Joint submission'
                                                      count
 Joint submission                                          
 Not specified                                       182216
@@ -75,5 +75,5 @@ Not specified                                       182216
 (joint submission with Birkbeck College and Uni...      42
 (joint submission with University College London)       21
 (joint submission with The University of Kent)           1
-[2023-08-29 17:26:10] SAVED pre-processed dataset to 'data/processed/Outputs_ppreprocessed.csv.gz'
-[2023-08-29 17:26:10] DELETED 'data/processed/Outputs.csv.gz'
+[2024-01-10 12:30:45] SAVED pre-processed dataset to 'data/processed/sheets/Outputs_ppreprocessed.csv.gz'
+[2024-01-10 12:30:45] DELETED 'data/processed/sheets/Outputs.csv.gz'

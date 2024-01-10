@@ -1,22 +1,22 @@
-[2023-08-29 16:23:20] READ 'data/processed/ImpactCaseStudies.csv.gz': 6361 records
-[2023-08-29 16:23:20] PPROC actions for 'ImpactCaseStudies' sheet
-[2023-08-29 16:23:20] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-29 16:23:20] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-29 16:23:20] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-29 16:23:20] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-29 16:23:20] - PPROC: replace missing values with 'Not specified'
-[2023-08-29 16:23:20] - PPROC: shift columns from title to the left to fix raw data issue 
-[2023-08-29 16:23:24] - PPROC: replace styling characters in the following columns
-[2023-08-29 16:23:24] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
-[2023-08-29 16:23:24] - PPROC: add column for panels names
-[2023-08-29 16:23:24] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2023-08-29 16:23:24] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 12:30:23] READ 'data/processed/sheets/ImpactCaseStudies.csv.gz': 6361 records
+[2024-01-10 12:30:23] PPROC actions for 'ImpactCaseStudies' sheet
+[2024-01-10 12:30:23] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 12:30:23] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 12:30:23] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 12:30:23] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 12:30:23] - PPROC: replace missing values with 'Not specified'
+[2024-01-10 12:30:23] - PPROC: shift columns from title to the left to fix raw data issue 
+[2024-01-10 12:30:27] - PPROC: replace styling characters in the following columns
+[2024-01-10 12:30:27] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
+[2024-01-10 12:30:27] - PPROC: add column for panels names
+[2024-01-10 12:30:27] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-10 12:30:27] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 Not specified                6249
 A                              59
 B                              53
-[2023-08-29 16:23:24] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 12:30:27] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 Not specified                                        6249
@@ -56,7 +56,7 @@ Institute of Creative and Cultural Entrepreneur...      2
 Linguistics                                             2
 UoA32A UCL History of Art Department                    2
 Typography and Graphic Communication                    2
-[2023-08-29 16:23:24] - PPROC: drop column 'Joint submission'
+[2024-01-10 12:30:27] - PPROC: drop column 'Joint submission'
                                                     count
 Joint submission                                         
 Not specified                                        6294
@@ -67,5 +67,138 @@ Not specified                                        6294
 (joint submission with University of Edinburgh)         6
 (joint submission with Birkbeck College)                3
 (joint submission with University of Greenwich)         3
-[2023-08-29 16:23:45] SAVED pre-processed dataset to 'data/processed/ImpactCaseStudies_ppreprocessed.csv.gz'
-[2023-08-29 16:23:45] DELETED 'data/processed/ImpactCaseStudies.csv.gz'
+[2024-01-10 12:30:27] - PPROC: drop column 'Researcher ORCIDs'
+                                                    count
+Researcher ORCIDs                                        
+Not specified                                        1659
+[0000-0003-1666-7590]                                   3
+[0000-0001-7991-6350]                                   3
+[0000-0001-6353-0170];[0000-0003-3954-5174]             3
+[0000-0001-9174-1987]                                   2
+...                                                   ...
+[0000-0002-3726-5892];[0000-0002-0422-4007];[00...      1
+[0000-0002-9726-8921]                                   1
+[0000-0003-4740-9068];[0000-0001-7686-425X];[00...      1
+[0000-0001-6117-5208];[0000-0002-1802-0128]             1
+[0000-0001-5578-359X];[0000-0002-0113-5770];[00...      1
+
+[4623 rows x 1 columns]
+[2024-01-10 12:30:27] - PPROC: drop column 'Grant funding'
+                                                    count
+Grant funding                                            
+Not specified                                        1686
+[n/a: 20000]                                            4
+[N/A: 5000]                                             3
+[1: 26000];[2: 157440];[RP-PG-0707-10012: 117576]       2
+[AH/M004937/1: 80000];[AH/M004430/1: 1750000];[...      2
+...                                                   ...
+[EP/P009417/1: 80215];[0: 402535];[EP/S020330/1...      1
+[11519: 19999];[MOZ-19016: 19981];[41412: 16805...      1
+[NE/H011773/1: 59268];[NE/F005806/1: 461890];[N...      1
+[CF10: 55000];[CF17: 2605];[CF13: 7855];[TRP49:...      1
+[AH/L007010/1: 1572192];[872859: 1624212];[2129...      1
+
+[4635 rows x 1 columns]
+[2024-01-10 12:30:27] - PPROC: drop column '3. References to the research'
+                                                    count
+3. References to the research                            
+      3.1. Hill JC, Whitehurst DG, Lewis M, Bry...      2
+     1. Du Toit G, Katz Y, Sasieni P, Mesher D,...      2
+     [1] Brunnermeier, M., Garicano, L., Lane, ...      2
+      1. Adams, J. and Owens, A. (2015) Creativ...      2
+      3.1 Kuo CF, Grainge MJ, Mallen C, Zhang W...      2
+...                                                   ...
+     [3.1] Wyn Jones, R. & Scully, R., Wales Sa...      1
+     1. Foulkes, P. & French, P. (2012). Forens...      1
+      Research underpinning this impact case st...      1
+   [can be supplied by HEI on request]    Publi...      1
+  (articles in peer-reviewed journals; Oxford a...      1
+
+[6346 rows x 1 columns]
+[2024-01-10 12:30:27] - PPROC: drop column '5. Sources to corroborate the impact'
+                                                    count
+5. Sources to corroborate the impact                     
+     1. Corroborating statement from CEO of MGB...      2
+   (indicative maximum of 10 references)    [ A...      2
+   (indicative maximum of 10 references)    5.1...      2
+   (indicative maximum of 10 references)    5.1...      2
+  (indicative maximum of 10 references)    [A] ...      2
+...                                                   ...
+      A. Modern Classicisms project website: [w...      1
+  (indicative maximum of 10 references)    [5.1...      1
+Sources to corroborate the impact (indicative m...      1
+   (indicative maximum of 10 references)   1. T...      1
+     [A] Email and report from Rescue Global, O...      1
+
+[6346 rows x 1 columns]
+[2024-01-10 12:30:27] - PPROC: drop column 'Is continued from 2014'
+                        count
+Is continued from 2014       
+0                        6039
+1                         322
+[2024-01-10 12:30:27] - PPROC: drop column 'Countries'
+                                                    count
+Countries                                                
+Not specified                                        1642
+[UK]                                                  378
+[United Kingdom]                                      337
+[England]                                             159
+[Worldwide]                                            91
+...                                                   ...
+[UK];[USA];[Germany]                                    1
+[United Kingdom; Germany; United States; Democr...      1
+[United Kingdom];[Brazil];[India]                       1
+[United Kingdom];[Scotland];[The Netherlands];[...      1
+[UK];[Global];[France];[Dominica];[Turks and Ca...      1
+
+[2707 rows x 1 columns]
+[2024-01-10 12:30:27] - PPROC: drop column 'Formal partners'
+                                                    count
+Formal partners                                          
+Not specified                                        3213
+[N/A]                                                  24
+[Open University]                                       7
+[University of Manchester]                              6
+[Imperial College London]                               5
+...                                                   ...
+[Mellon Centre for Migration Studies];[Gael Lin...      1
+[The National Civil War Centre, University of N...      1
+[Sport Wales Institute / Mind Medial (NL)];[Spo...      1
+[Faction North Ltd]                                     1
+[Rescue Global]                                         1
+
+[3006 rows x 1 columns]
+[2024-01-10 12:30:27] - PPROC: drop column 'Global research identifiers'
+                                                    count
+Global research identifiers                              
+Not specified                                        2446
+[grid.434257.3]                                       153
+[grid.426413.6]                                       144
+[grid.270680.b]                                        90
+[grid.421091.f]                                        84
+...                                                   ...
+[AH/N006704/1]                                          1
+[grid.453486.8];[grid.453486.8];[grid.425266.1]...      1
+[Grid.168010.e];[Grid.452966.a]                         1
+[grid.420736.4];[grid.450815.d];[grid.498346.4]...      1
+[426413.6];[52788.30];[.270680.b];[453268.e];[4...      1
+
+[2472 rows x 1 columns]
+[2024-01-10 12:30:27] - PPROC: drop column '2. Underpinning research'
+                                                    count
+2. Underpinning research                                 
+      Climate-vulnerable developing countries a...      2
+       The research underpinning this impact ca...      2
+       Osteoarthritis is a leading cause of dis...      2
+       Gout is the most common inflammatory art...      2
+      What is EIT? : EIT provides impedance cha...      2
+...                                                   ...
+      Underpinning King’s research, led by Mich...      1
+      Christianity is the largest religion in t...      1
+      The result of the Welsh referendum in 201...      1
+       York is a world-leading research centre ...      1
+      Zooniverse has its origins in the Galaxy ...      1
+
+[6349 rows x 1 columns]
+[2024-01-10 12:30:30] SAVED pre-processed dataset to 'data/processed/sheets/ImpactCaseStudies_ppreprocessed.csv.gz'
+[2024-01-10 12:30:30] DELETED 'data/processed/sheets/ImpactCaseStudies.csv.gz'

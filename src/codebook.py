@@ -47,6 +47,13 @@ COL_IMPACT_UNDERPIN_RESEARCH = '2. Underpinning research'
 COL_IMPACT_REFERENCES_RESEARCH = '3. References to the research'
 COL_IMPACT_DETAILS = '4. Details of the impact'
 COL_IMPACT_CORROBORATE = '5. Sources to corroborate the impact'
+COL_IMPACT_ORCID = 'Researcher ORCIDs'
+COL_IMPACT_GRANT_FUNDING = 'Grant funding'
+COL_IMPACT_IS_CONTINUED = "Is continued from 2014"
+COL_IMPACT_COUNTRIES = "Countries"
+COL_IMPACT_FORMAL_PARTNERS = "Formal partners"
+COL_IMPACT_GLOBAL_ID = "Global research identifiers"
+
 # about results
 COL_RESULTS_FTE_STAFF = 'FTE of submitted staff'
 COL_RESULTS_PERC_STAFF_SUBMITTED = '% of eligible staff submitted'

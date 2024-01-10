@@ -20,12 +20,10 @@ RAW_PATH = os.path.join(DATA_PATH, "raw/")
 ENV_PATH = os.path.join(RAW_PATH, "environment_statements/")
 ENV_INST_PATH = os.path.join(ENV_PATH, "institution/")
 ENV_UNIT_PATH = os.path.join(ENV_PATH, "unit/")
-PROCESSED_PATH = os.path.join(DATA_PATH, "processed/")
-SUBSETS_PATH = os.path.join(PROCESSED_PATH, "subsets/")
+PROCESSED_PATH = os.path.join(DATA_PATH, "processed/sheets/")
 
 REQUIRED_FOLDERS = [LOG_PATH,
                     PROCESSED_PATH,
-                    SUBSETS_PATH
                     ]
 
 # data files

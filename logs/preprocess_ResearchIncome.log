@@ -1,19 +1,19 @@
-[2023-08-29 16:23:16] READ 'data/processed/ResearchIncome.csv.gz': 28637 records
-[2023-08-29 16:23:16] PPROC actions for 'ResearchIncome' sheet
-[2023-08-29 16:23:16] - PPROC: rename 'Main panel' to 'Main panel code'
-[2023-08-29 16:23:16] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2023-08-29 16:23:16] - PPROC: rename 'Institution name' to 'Institution'
-[2023-08-29 16:23:16] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2023-08-29 16:23:16] - PPROC: replace missing values with 'Not specified'
-[2023-08-29 16:23:16] - PPROC: add columns for panel names
-[2023-08-29 16:23:16] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2023-08-29 16:23:16] - PPROC: drop column 'Multiple submission letter'
+[2024-01-10 12:30:18] READ 'data/processed/sheets/ResearchIncome.csv.gz': 28637 records
+[2024-01-10 12:30:18] PPROC actions for 'ResearchIncome' sheet
+[2024-01-10 12:30:18] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-10 12:30:18] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-10 12:30:18] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-10 12:30:18] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-10 12:30:18] - PPROC: replace missing values with 'Not specified'
+[2024-01-10 12:30:18] - PPROC: add columns for panel names
+[2024-01-10 12:30:18] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-10 12:30:18] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 Not specified               28005
 A                             316
 B                             316
-[2023-08-29 16:23:16] - PPROC: drop column 'Multiple submission name'
+[2024-01-10 12:30:18] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 Not specified                                       28005
@@ -54,7 +54,7 @@ Institute of Creative and Cultural Entrepreneur...     15
 Media, Communications and Cultural Studies (MCCS)      15
 26B - Celtic and Gaelic                                15
 B – Theatre, Film, Television and Interactive M...     15
-[2023-08-29 16:23:16] - PPROC: drop column 'Joint submission'
+[2024-01-10 12:30:18] - PPROC: drop column 'Joint submission'
                                                     count
 Joint submission                                         
 Not specified                                       28343
@@ -71,5 +71,5 @@ Not specified                                       28343
 (joint submission with University College London)      15
 (joint submission with University of St Andrews)       15
 (joint submission with Birkbeck College)               15
-[2023-08-29 16:23:17] SAVED pre-processed dataset to 'data/processed/ResearchIncome_ppreprocessed.csv.gz'
-[2023-08-29 16:23:17] DELETED 'data/processed/ResearchIncome.csv.gz'
+[2024-01-10 12:30:18] SAVED pre-processed dataset to 'data/processed/sheets/ResearchIncome_ppreprocessed.csv.gz'
+[2024-01-10 12:30:18] DELETED 'data/processed/sheets/ResearchIncome.csv.gz'

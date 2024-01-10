@@ -157,11 +157,20 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies"):
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
 
-    # drop the columns not relevant for current visualisations
-    # --------------------------------------------------------
+    # drop the columns not relevant for current visualisations and/or to minimize file size
+    # -------------------------------------------------------------------------------------
     columns_to_drop = [cb.COL_MULT_SUB_LETTER,
                        cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB]
+                       cb.COL_JOINT_SUB,
+                       cb.COL_IMPACT_ORCID,
+                       cb.COL_IMPACT_GRANT_FUNDING,
+                       cb.COL_IMPACT_REFERENCES_RESEARCH,
+                       cb.COL_IMPACT_CORROBORATE,
+                       cb.COL_IMPACT_IS_CONTINUED,
+                       cb.COL_IMPACT_COUNTRIES,
+                       cb.COL_IMPACT_FORMAL_PARTNERS,
+                       cb.COL_IMPACT_GLOBAL_ID,
+                       cb.COL_IMPACT_UNDERPIN_RESEARCH]
     for column in columns_to_drop:
         dset_stats = dset[column].value_counts().to_frame(name="count")
         dset_stats.index.name = column
@@ -502,6 +511,13 @@ def preprocess_sheet(sname):
                 index=True,
                 compression='gzip')
     lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
+
+    # provision for saving as parquet, not used right now
+    # fname = os.path.join(rw.PROCESSED_PATH, f"{sname}{rw.DATA_PPROCESS}.parquet")
+    # dset.to_parquet(os.path.join(rw.PROJECT_PATH, fname),
+    #                 index=True,
+    #                 compression='gzip')
+    # lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
     # delete infname
     # --------------
