@@ -30,9 +30,9 @@ rule unzip_environment:
     output:
         rw.LOG_UNZIP
     shell:
-        "unzip {rw.ENV_FNAME} -O GB18030 -d {rw.ENV_PATH} 1> {rw.LOG_UNZIP}"
-        "mv {rw.ENV_PATH}/Institution* {rw.ENV_INST_PATH}"
-        "mv {rw.ENV_PATH}/Unit* {rw.ENV_UNIT_PATH}"
+        "unzip {rw.ENV_FNAME} -O GB18030 -d {rw.RAW_ENV_PATH} 1> {rw.LOG_UNZIP}"
+        "mv {rw.RAW_ENV_PATH}/Institution* {rw.ENV_INST_PATH}"
+        "mv {rw.RAW_ENV_PATH}/Unit* {rw.ENV_UNIT_PATH}"
 
 # extract & preprocess OUTPUTS
 # ----------------------------

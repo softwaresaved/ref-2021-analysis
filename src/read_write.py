@@ -17,9 +17,9 @@ LOG_PPREPROCESS = os.path.join(LOG_PATH, "preprocess_")
 PROJECT_PATH = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
 DATA_PATH = "data/"
 RAW_PATH = os.path.join(DATA_PATH, "raw/")
-ENV_PATH = os.path.join(RAW_PATH, "environment_statements/")
-ENV_INST_PATH = os.path.join(ENV_PATH, "institution/")
-ENV_UNIT_PATH = os.path.join(ENV_PATH, "unit/")
+RAW_ENV_PATH = os.path.join(RAW_PATH, "environment_statements/")
+RAW_ENV_INST_PATH = os.path.join(RAW_ENV_PATH, "institution/")
+RAW_ENV_UNIT_PATH = os.path.join(RAW_ENV_PATH, "unit/")
 PROCESSED_PATH = os.path.join(DATA_PATH, "processed/sheets/")
 
 REQUIRED_FOLDERS = [LOG_PATH,
