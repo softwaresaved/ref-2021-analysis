@@ -51,7 +51,7 @@ def prepare_institution_statements(prefix="Institution environment statement - "
                                        )],
                          ignore_index=True)   
     lg.print_tstamp(f"- aggregated {dset.shape[0]} statements")
-    fname = os.path.join(rw.PROJECT_PATH, outputpath, "environment_institution.csv.gz")
+    fname = os.path.join(rw.PROJECT_PATH, outputpath, "institutions.csv.gz")
     lg.print_tstamp(f"- write to '{fname}'")
     dset.to_csv(fname, index=False,
                 compression='gzip')
