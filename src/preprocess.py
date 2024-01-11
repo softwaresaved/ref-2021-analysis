@@ -44,14 +44,6 @@ def clean_styling(dset, column):
     for key, value in TO_REPLACE.items():
         dset[column] = dset[column].str.replace(key, value, regex=False)
 
-    # dset[column] = dset[column].str.replace("  ", " ", regex=False)
-    # dset[column] = dset[column].str.replace("‚Äò", "", regex=False)
-    # dset[column] = dset[column].str.replace("‚Äô", "", regex=False)
-    # dset[column] = dset[column].str.replace("#", "", regex=False)
-    # dset[column] = dset[column].str.replace("*", "", regex=False)
-    # dset[column] = dset[column].str.replace("\n", " ", regex=False)
-    # dset[column] = dset[column].str.replace("\t", " ", regex=False)
-
     dset[column] = dset[column].str.replace(column, " ", regex=False)
     dset[column] = dset[column].str.replace(column[2:], " ", regex=False)
 
