@@ -14,7 +14,9 @@ rule all:
         rw.LOG_PPROC_INCOME,
         rw.LOG_PPROC_INCOMEINKIND,
         rw.LOG_PPROC_RGROUPS,
-        rw.LOG_PPROC_RESULTS
+        rw.LOG_PPROC_RESULTS,
+        rw.LOG_PREPARE_ENV_ORGANIZATION,
+        rw.LOG_PREPARE_ENV_UNIT
         
 rule setup:
     output:
@@ -166,3 +168,21 @@ rule preprocess_results:
         rw.LOG_PPROC_RESULTS
     shell:
         "python src/preprocess_sheet.py -s {rw.SHEET_RESULTS}"    
+
+# prepare the environment statements
+# ----------------------------------
+rule prepare_environments_organization:
+    input:
+        rules.setup.output
+    output:
+        rw.LOG_PREPARE_ENV_ORGANIZATION
+    shell:
+        "python src/prepare_envstatements.py -e {rw.ENV_ORGANIZATION}"
+
+rule prepare_environments_unit:
+    input:
+        rules.setup.output
+    output:
+        rw.LOG_PREPARE_ENV_UNIT
+    shell:
+        "python src/prepare_envstatements.py -e {rw.ENV_UNIT}"

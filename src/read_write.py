@@ -12,6 +12,7 @@ LOG_SETUP = os.path.join(LOG_PATH, f"setup{LOG_EXT}")
 LOG_UNZIP = os.path.join(LOG_PATH, f"unzip_environment_statements{LOG_EXT}")
 LOG_EXTRACT = os.path.join(LOG_PATH, "extract_")
 LOG_PPREPROCESS = os.path.join(LOG_PATH, "preprocess_")
+LOG_PREPARE = os.path.join(LOG_PATH, "prepare_")
 
 # data paths
 PROJECT_PATH = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
@@ -21,9 +22,12 @@ RAW_ENV_PATH = os.path.join(RAW_PATH, "environment_statements/")
 RAW_ENV_INST_PATH = os.path.join(RAW_ENV_PATH, "institution/")
 RAW_ENV_UNIT_PATH = os.path.join(RAW_ENV_PATH, "unit/")
 PROCESSED_SHEETS_PATH = os.path.join(DATA_PATH, "processed/sheets/")
+PROCESSED_ENV_EXTRACTED_PATH = os.path.join(DATA_PATH, "processed/environment_statements/extracted/")
+PROCESSED_ENV_PREPARED_PATH = os.path.join(DATA_PATH, "processed/environment_statements/prepared/")
 
 REQUIRED_FOLDERS = [LOG_PATH,
                     PROCESSED_SHEETS_PATH,
+                    PROCESSED_ENV_PREPARED_PATH
                     ]
 
 # data files
@@ -89,6 +93,13 @@ LOG_EXTRACT_RESULTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
 LOG_PPROC_RESULTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
 DATA_EXTRACT_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
 DATA_PPROC_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
+
+# environment statements
+# ----------------------
+ENV_ORGANIZATION = "organization"
+ENV_UNIT = "unit"
+LOG_PREPARE_ENV_ORGANIZATION = f"{LOG_PREPARE}environment_organization{LOG_EXT}"
+LOG_PREPARE_ENV_UNIT = f"{LOG_PREPARE}environment_unit{LOG_EXT}"
 
 
 def clean_folders():
