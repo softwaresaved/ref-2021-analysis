@@ -1,21 +1,21 @@
-[2024-01-10 16:08:14] READ 'data/processed/sheets/Results.csv.gz': 7552 records
-[2024-01-10 16:08:14] PPROC actions for 'Results' sheet
-[2024-01-10 16:08:14] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-10 16:08:14] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
-[2024-01-10 16:08:14] - PPROC: rename 'Institution name' to 'Institution'
-[2024-01-10 16:08:14] - PPROC: replace '['/', ':']' with '_' in 'Institution'
-[2024-01-10 16:08:14] - PPROC: replace '-' with NaN in the following columns
-[2024-01-10 16:08:14] - ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
-[2024-01-10 16:08:14] - PPROC: bin percentages in the following columns
-[2024-01-10 16:08:14] - ['% of eligible staff submitted', '4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
-[2024-01-10 16:08:14] - PPROC: add columns for panel names
-[2024-01-10 16:08:14] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-10 16:08:14] - PPROC: drop column 'Multiple submission letter'
+[2024-01-11 19:04:33] READ 'data/processed/sheets/Results.csv.gz': 7552 records
+[2024-01-11 19:04:33] PPROC actions for 'Results' sheet
+[2024-01-11 19:04:33] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-11 19:04:33] - PPROC: rename 'Unit of assessment name' to 'Unit of assessment'
+[2024-01-11 19:04:33] - PPROC: rename 'Institution name' to 'Institution'
+[2024-01-11 19:04:33] - PPROC: replace '['/', ':']' with '_' in 'Institution'
+[2024-01-11 19:04:33] - PPROC: replace '-' with NaN in the following columns
+[2024-01-11 19:04:33] - ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+[2024-01-11 19:04:33] - PPROC: bin percentages in the following columns
+[2024-01-11 19:04:33] - ['% of eligible staff submitted', '4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+[2024-01-11 19:04:33] - PPROC: add columns for panel names
+[2024-01-11 19:04:33] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-11 19:04:33] - PPROC: drop column 'Multiple submission letter'
                             count
 Multiple submission letter       
 A                              84
 B                              84
-[2024-01-10 16:08:14] - PPROC: drop column 'Multiple submission name'
+[2024-01-11 19:04:33] - PPROC: drop column 'Multiple submission name'
                                                     count
 Multiple submission name                                 
 Music                                                  12
@@ -55,7 +55,7 @@ Development Studies                                     4
 Social Anthropology                                     4
 Drama, Dance, Performing Arts, Film and Screen ...      4
 B – Theatre, Film, Television and Interactive M...      4
-[2024-01-10 16:08:14] - PPROC: drop column 'Joint submission'
+[2024-01-11 19:04:33] - PPROC: drop column 'Joint submission'
                                                     count
 Joint submission                                         
 (joint submission with University of Edinburgh)        20
@@ -71,5 +71,5 @@ Joint submission
 (joint submission with University of Brighton)          4
 (joint submission with Birkbeck College and Ins...      4
 (joint submission with Birkbeck College)                4
-[2024-01-10 16:08:14] SAVED pre-processed dataset to 'data/processed/sheets/Results_ppreprocessed.csv.gz'
-[2024-01-10 16:08:14] DELETED 'data/processed/sheets/Results.csv.gz'
+[2024-01-11 19:04:34] SAVED pre-processed dataset to 'data/processed/sheets/Results_ppreprocessed.csv.gz'
+[2024-01-11 19:04:34] DELETED 'data/processed/sheets/Results.csv.gz'

@@ -96,9 +96,9 @@ DATA_PPROC_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
 
 # environment statements
 # ----------------------
-ENV_ORGANIZATION = "organization"
+ENV_INSTITUTION = "institution"
 ENV_UNIT = "unit"
-LOG_PREPARE_ENV_ORGANIZATION = f"{LOG_PREPARE}environment_organization{LOG_EXT}"
+LOG_PREPARE_ENV_INSTITUTION = f"{LOG_PREPARE}environment_institution{LOG_EXT}"
 LOG_PREPARE_ENV_UNIT = f"{LOG_PREPARE}environment_unit{LOG_EXT}"
 
 

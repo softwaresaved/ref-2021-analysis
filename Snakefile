@@ -15,7 +15,7 @@ rule all:
         rw.LOG_PPROC_INCOMEINKIND,
         rw.LOG_PPROC_RGROUPS,
         rw.LOG_PPROC_RESULTS,
-        rw.LOG_PREPARE_ENV_ORGANIZATION,
+        rw.LOG_PREPARE_ENV_INSTITUTION,
         rw.LOG_PREPARE_ENV_UNIT
         
 rule setup:
@@ -171,13 +171,13 @@ rule preprocess_results:
 
 # prepare the environment statements
 # ----------------------------------
-rule prepare_environments_organization:
+rule prepare_environments_institution:
     input:
         rules.setup.output
     output:
-        rw.LOG_PREPARE_ENV_ORGANIZATION
+        rw.LOG_PREPARE_ENV_INSTITUTION
     shell:
-        "python src/prepare_envstatements.py -e {rw.ENV_ORGANIZATION}"
+        "python src/prepare_envstatements.py -e {rw.ENV_INSTITUTION}"
 
 rule prepare_environments_unit:
     input:
