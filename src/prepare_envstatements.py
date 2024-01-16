@@ -111,25 +111,37 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             content = clean_content(content)
         dset = pd.concat([dset,
                           pd.DataFrame({"Institution": [institution_name],
-                                        "Unit code": [cb.UOA_NAMES[int(unit_code)]],
+                                        "Unit of assessment": [cb.UOA_NAMES[int(unit_code)]],
                                         "Environment statement": [content]}
                                        )],
                          ignore_index=True)
     lg.print_tstamp(f"- aggregated {dset.shape[0]} statements")
 
-    # split the DataFrame in two halves and save them to separate CSV files
-    middle_index = len(dset) // 2
+    # split the DataFrame in four and save them to separate CSV files
+    quarter_index = len(dset) // 4
     fname = os.path.join(rw.PROJECT_PATH, outputpath,
                             "environment_statements_unit_level_1.csv.gz")
     lg.print_tstamp(f"- write to '{fname}'")
-    dset.iloc[:middle_index].to_csv(fname, index=False,
-                                    compression='gzip')
+    dset.iloc[:quarter_index].to_csv(fname, index=False,
+                                     compression='gzip')
 
     fname = os.path.join(rw.PROJECT_PATH, outputpath,
                          "environment_statements_unit_level_2.csv.gz")
     lg.print_tstamp(f"- write to '{fname}'")
-    dset.iloc[middle_index:].to_csv(fname, index=False,
-                                    compression='gzip')
+    dset.iloc[quarter_index:2*quarter_index].to_csv(fname, index=False,
+                                                    compression='gzip')
+
+    fname = os.path.join(rw.PROJECT_PATH, outputpath,
+                         "environment_statements_unit_level_3.csv.gz")
+    lg.print_tstamp(f"- write to '{fname}'")
+    dset.iloc[2*quarter_index:3*quarter_index].to_csv(fname, index=False,
+                                                      compression='gzip')
+
+    fname = os.path.join(rw.PROJECT_PATH, outputpath,
+                         "environment_statements_unit_level_4.csv.gz")
+    lg.print_tstamp(f"- write to '{fname}'")
+    dset.iloc[3*quarter_index:].to_csv(fname, index=False,
+                                       compression='gzip')
 
 
 if __name__ == "__main__":
