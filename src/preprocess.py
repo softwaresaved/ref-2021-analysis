@@ -6,9 +6,9 @@ PERCENTAGE_BINS = range(0, 101, 10)
 
 TO_RENAME = {
     "Main panel": "Main panel code",
-    "Unit of assessment name": "Unit of assessment",
-    "Institution name": "Institution",
-    "Research group name": "Research group",
+    # "Unit of assessment name": "Unit of assessment",
+    # "Institution name": "Institution",
+    # "Research group name": "Research group",
     "Output type": "Output type code",
 }
 

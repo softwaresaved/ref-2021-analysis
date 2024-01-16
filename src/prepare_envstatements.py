@@ -77,8 +77,8 @@ def prepare_institution_statements(prefix="Institution environment statement - "
             content = file.read()
             content = clean_content(content)
         dset = pd.concat([dset,
-                          pd.DataFrame({"Institution": [institution_name],
-                                        "Environment statement": [content]}
+                          pd.DataFrame({cb.COL_INST_NAME: [institution_name],
+                                        cb.COL_ENV_STATEMENT: [content]}
                                        )],
                          ignore_index=True)
     lg.print_tstamp(f"- aggregated {dset.shape[0]} statements")
@@ -110,9 +110,9 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             content = file.read()
             content = clean_content(content)
         dset = pd.concat([dset,
-                          pd.DataFrame({"Institution": [institution_name],
-                                        "Unit of assessment": [cb.UOA_NAMES[int(unit_code)]],
-                                        "Environment statement": [content]}
+                          pd.DataFrame({cb.COL_INST_NAME: [institution_name],
+                                        cb.COL_UOA_NAME: [cb.UOA_NAMES[int(unit_code)]],
+                                        cb.COL_ENV_STATEMENT: [content]}
                                        )],
                          ignore_index=True)
     lg.print_tstamp(f"- aggregated {dset.shape[0]} statements")

@@ -1,7 +1,7 @@
-[2024-01-16 11:34:57] PPROC actions for unit envinroment statements
-[2024-01-16 11:34:57] - 'data/processed/environment_statements/extracted/unit' statements: 1874
-[2024-01-16 11:35:12] - aggregated 1874 statements
-[2024-01-16 11:35:12] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_1.csv.gz'
-[2024-01-16 11:35:13] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_2.csv.gz'
-[2024-01-16 11:35:15] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_3.csv.gz'
-[2024-01-16 11:35:17] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_4.csv.gz'
+[2024-01-16 15:22:32] PPROC actions for unit envinroment statements
+[2024-01-16 15:22:32] - 'data/processed/environment_statements/extracted/unit' statements: 1874
+[2024-01-16 15:22:46] - aggregated 1874 statements
+[2024-01-16 15:22:46] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_1.csv.gz'
+[2024-01-16 15:22:48] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_2.csv.gz'
+[2024-01-16 15:22:50] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_3.csv.gz'
+[2024-01-16 15:22:52] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/environment_statements_unit_level_4.csv.gz'

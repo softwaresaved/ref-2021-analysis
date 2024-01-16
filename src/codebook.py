@@ -2,14 +2,16 @@
 
 # about the ref process
 COL_PANEL_CODE = 'Main panel code'
-COL_PANEL_NAME = 'Main panel'
+COL_PANEL_NAME = 'Main panel name'
 COL_UOA_NUMBER = 'Unit of assessment number'
-COL_UOA_NAME = 'Unit of assessment'
+COL_UOA_NAME = 'Unit of assessment name'
 # about the institution etc
 COL_INST_CODE = 'Institution UKPRN code'
-COL_INST_NAME = 'Institution'
+COL_INST_NAME = 'Institution name'
 COL_RG_CODE = 'Research group code'
-COL_RG_NAME = 'Research group'
+COL_RG_NAME = 'Research group name'
+# about the environment statements
+COL_ENV_STATEMENT = 'Environment statement'
 # about the submissions
 COL_MULT_SUB_LETTER = 'Multiple submission letter'
 COL_MULT_SUB_NAME = 'Multiple submission name'
