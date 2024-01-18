@@ -108,7 +108,7 @@ SECTIONS_UNIT = {
         '1. Unit context, structure, research, open research environment, strategic aims and',  # two lines
         '• Unit context and structure, research and impact strategy'
     ],
-    "People": [
+    'People': [
         '2. People',
         '2. 2. People',
         '2. People, including:',
@@ -126,19 +126,45 @@ SECTIONS_UNIT = {
         '3B 2. People',
         'Section 2: People – Note: All staff-related data in this section refer to Cat. A submitted staff',
     ],
-    "Income, infrastructure and facilities": [
-        "3. Income, infrastructure and facilities",
-        "Section 3. Income, infrastructure and facilities",
-        "Section 3 (S3). Income, infrastructure and facilities",
-        "Section 3. Income and infrastructure",
-        "Income, infrastructure and facilities",
-        "Section 3.",
-        "4B 3. Income, infrastructure and facilities",
-        "3.0 Income, infrastructure and facilities",
-        "2. 3.0 Income, infrastructure and facilities",
-        "3B   3. Income, infrastructure and facilities",
-        "Section 3. Research Income, Infrastructure and Facilities"
-        ]
+    'Income, infrastructure and facilities': [
+        '3. Income, infrastructure and facilities',
+        'Section 3. Income, infrastructure and facilities',
+        'Section 3 (S3). Income, infrastructure and facilities',
+        'Section 3. Income and infrastructure',
+        'Income, infrastructure and facilities',
+        'Section 3.',
+        '4B 3. Income, infrastructure and facilities,
+        '3.0 Income, infrastructure and facilities',
+        '2. 3.0 Income, infrastructure and facilities',
+        '3B 3. Income, infrastructure and facilities',
+        'Section 3. Research Income, Infrastructure and Facilities',
+        ],
+    'Collaboration and contribution to the research base, economy and society': [
+        '4. Collaboration and contribution to the research base, economy and society',
+        '4. Collaboration and contribution to research base, economy and society',
+        '4 Collaboration and contribution to the research base, economy',
+        '4. Collaboration and contribution to the discipline or research base',
+        '4. Collaboration and contribution to the research base, alumni, economy and society',
+        '4. Collaboration and Contributions to the Research Base, Economy and Society',
+        '4. Collaboration and contribution to the research base,',  # two lines
+        '4. Section 4: Collaboration and contribution to the research base, economy and society',
+        '4. Collaboration with and contribution to the research base, economy and society',
+        '4. Collaborations and contributions to the research base, economy and society',
+        '4. Collaboration, impact, engagement, responsiveness to emerging priorities and',  # two lines
+        '4. Collaboration and contribution to the research base, the economy and to society',
+        '4.0 Collaboration and contribution to the research base, economy and society',
+        '2B 4. Collaboration and contribution to the research base, economy and society',
+        'Collaboration and contribution to the research base, economy and society',
+        'Section 4. Collaboration and contribution to the research base, economy and society',
+        'Section 4. Collaboration and contribution to the discipline or research base',
+        'Section 4. Collaboration and contribution to the research base, economy and',  # two lines
+        'SECTION 4. Collaboration and contribution to the research base,',  # two lines
+        'Section 4: Collaboration or contribution to the research base, economy and society',
+        'Section 4 (S4). Collaboration and contribution to the research base, economy and society',
+        'Section D. Collaboration and contribution to the research base, economy, and society',
+        '4.4 Contributions to, and recognition by, the research base',
+        '5B 4. Collaboration and contribution to the research base, economy and society',
+    ]
 }
 
 
@@ -222,9 +248,9 @@ def prepare_institution_statements(prefix="Institution environment statement - "
             if indices[isection] is not None:
                 counts[isection] += 1
                 if isection == len(SECTIONS_INSTITUTION) - 1:
-                    section_lines = lines[(indices[isection]+1):]
+                    section_lines = lines[indices[isection]:]
                 else:
-                    section_lines = lines[indices[isection]+1:indices[isection+1]]
+                    section_lines = lines[indices[isection]:indices[isection+1]]
                 section_content = ' '.join(section_lines)
             else:
                 section_content = None
@@ -279,9 +305,9 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             if indices[isection] is not None:
                 counts[isection] += 1
                 if isection == len(SECTIONS_UNIT) - 1:
-                    section_lines = lines[(indices[isection]+1):]
+                    section_lines = lines[indices[isection]:]
                 else:
-                    section_lines = lines[indices[isection]+1:indices[isection+1]]
+                    section_lines = lines[indices[isection]:indices[isection+1]]
                 section_content = ' '.join(section_lines)
             else:
                 section_content = None
