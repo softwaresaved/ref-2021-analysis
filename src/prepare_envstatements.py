@@ -72,68 +72,93 @@ SECTIONS_INSTITUTION = {
 }
 
 SECTIONS_UNIT = {
-    'Unit context and structure, research and impact strategy': [
-        '1. Unit context and structure, research and impact strategy',
-        '1 Unit context and structure, research and impact strategy',
-        'Section 1. Unit context and structure, research and impact strategy',
-        '1.1 Unit context and structure, research and impact strategy',
-        'Section 1: Unit context and structure, research and impact strategy',
-        '1. Unit context and structure, research, and impact strategy',
-        'Unit context and structure, research and impact strategy',
-        'A. Unit context and structure, research and impact strategy',
-        '1: UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT STRATEGY',
-        'Section 1. Unit context and structure',
-        '1 Unit context and structure, research, and impact strategy',
-        'Section 1. Unit context and structure, research, and impact strategy',
-        '1. Unit Context and structure:',
-        'Section 1: Unit context and structure, research, and impact strategy',
-        '2B 1. Unit context and structure, research and impact strategy',
-        '1. Unit context, research and impact strategy',
-        '• Unit context and structure, research and impact strategy',
-        'Section 1. Unit context and structure; research and impact strategy',
-        'Unit Context',
-        'Section 1: Unit context, research and impact strategy',
-        'Section 1.',
-        'Section 1 (S1). Unit context and structure, research and impact strategy',
-        '1.0 Unit context and structure, research and impact strategy:',
-        '1. 1. Unit context and structure, research and impact strategy',
-        '1. Unit Context and Structure, Research and Impact Strategies',
-        '1.0 Unit Context and structure',
-        '1.1: Institutional Context and Structure',  # The Glasgow School of Art
-        '1: Context, structure, research and impact strategy',
-        '1.Unit context and structure, research and impact strategy',
-        '1. Unit context and structure',
-        'Section 1 Unit context and structure, research and impact strategy',
-        'Section 1: Context and Structure',
-        'Section 1. Unit context and structure, research and impact strategy.',
-        '1B 1. Unit context and structure, research and impact strategy',
-        '1. Unit context and structure research and impact strategy',
-        '1. Context and mission',
-        'Unit context and structure, research, and impact strategy',
-        '1. UNIT CONTEXT & STRUCTURE, RESEARCH AND IMPACT',
-        '1. Context, Strategy, and Structure: Overview',
-        '1.1. Context and structure',
-        '1. Unit context',
-        '1.Unit Context, Structure, Research And Impact Strategy',
-        'Section 1. UNIT STRUCTURE, RESEARCH AND IMPACT STRATEGY',
-        '1. Unit context, structure, research, open research environment, strategic aims and',
-        '1.1. Overview',
-        '1. Unit Context and Structure; Research and Impact strategy',
-        '1. UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT',
-        '1. Context, structure and strategy',
-        'SECTION 1. UNIT CONTEXT, RESEARCH AND IMPACT STRATEGY',
-        '1. Unit context and structure, research and impact strategy.',
-        'Section 1. Unit context, structure, and research and impact strategy',
-        '1. Unit context, structure, research, and impact strategy',
-        '1. Unit context and structure, research strategy',
-        '1. Context, Structure, and Strategy',
-        '1: Context and structure, research and impact strategy',
-        '1. Overview and mission',
-        '1 Unit context and structure, research and impact',
-        '1. Unit context, structure, research and impact strategy',
-        'Section 1: Unit Context',
-        '1. Unit overview',
-        'Section 1: Unit Context and Structure'
+    # 'Unit context and structure, research and impact strategy': [
+    #     '1. Unit context and structure, research and impact strategy',
+    #     '1 Unit context and structure, research and impact strategy',
+    #     'Section 1. Unit context and structure, research and impact strategy',
+    #     '1.1 Unit context and structure, research and impact strategy',
+    #     'Section 1: Unit context and structure, research and impact strategy',
+    #     '1. Unit context and structure, research, and impact strategy',
+    #     'Unit context and structure, research and impact strategy',
+    #     'A. Unit context and structure, research and impact strategy',
+    #     '1: UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT STRATEGY',
+    #     'Section 1. Unit context and structure',
+    #     '1 Unit context and structure, research, and impact strategy',
+    #     'Section 1. Unit context and structure, research, and impact strategy',
+    #     '1. Unit Context and structure:',
+    #     'Section 1: Unit context and structure, research, and impact strategy',
+    #     '2B 1. Unit context and structure, research and impact strategy',
+    #     '1. Unit context, research and impact strategy',
+    #     '• Unit context and structure, research and impact strategy',
+    #     'Section 1. Unit context and structure; research and impact strategy',
+    #     'Unit Context',
+    #     'Section 1: Unit context, research and impact strategy',
+    #     'Section 1.',
+    #     'Section 1 (S1). Unit context and structure, research and impact strategy',
+    #     '1.0 Unit context and structure, research and impact strategy:',
+    #     '1. 1. Unit context and structure, research and impact strategy',
+    #     '1. Unit Context and Structure, Research and Impact Strategies',
+    #     '1.0 Unit Context and structure',
+    #     '1.1: Institutional Context and Structure',  # The Glasgow School of Art
+    #     '1: Context, structure, research and impact strategy',
+    #     '1.Unit context and structure, research and impact strategy',
+    #     '1. Unit context and structure',
+    #     'Section 1 Unit context and structure, research and impact strategy',
+    #     'Section 1: Context and Structure',
+    #     'Section 1. Unit context and structure, research and impact strategy.',
+    #     '1B 1. Unit context and structure, research and impact strategy',
+    #     '1. Unit context and structure research and impact strategy',
+    #     '1. Context and mission',
+    #     'Unit context and structure, research, and impact strategy',
+    #     '1. UNIT CONTEXT & STRUCTURE, RESEARCH AND IMPACT',
+    #     '1. Context, Strategy, and Structure: Overview',
+    #     '1.1. Context and structure',
+    #     '1. Unit context',
+    #     '1.Unit Context, Structure, Research And Impact Strategy',
+    #     'Section 1. UNIT STRUCTURE, RESEARCH AND IMPACT STRATEGY',
+    #     '1. Unit context, structure, research, open research environment, strategic aims and',
+    #     '1.1. Overview',
+    #     '1. Unit Context and Structure; Research and Impact strategy',
+    #     '1. UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT',
+    #     '1. Context, structure and strategy',
+    #     'SECTION 1. UNIT CONTEXT, RESEARCH AND IMPACT STRATEGY',
+    #     '1. Unit context and structure, research and impact strategy.',
+    #     'Section 1. Unit context, structure, and research and impact strategy',
+    #     '1. Unit context, structure, research, and impact strategy',
+    #     '1. Unit context and structure, research strategy',
+    #     '1. Context, Structure, and Strategy',
+    #     '1: Context and structure, research and impact strategy',
+    #     '1. Overview and mission',
+    #     '1 Unit context and structure, research and impact',
+    #     '1. Unit context, structure, research and impact strategy',
+    #     'Section 1: Unit Context',
+    #     '1. Unit overview',
+    #     'Section 1: Unit Context and Structure',
+    #     'Overview',
+    # ]
+    "People": [
+        '2. People',
+        "2 People",
+        "2: People",
+        "2. People.",
+        '2. 2. People',
+        '2.People',
+        "Section 2. People",
+        "Section 2: People",
+        "2.0 People",
+        "People",
+        '3B 2. People',
+        '2. People, including:',
+        'Section 2 (S2). People',
+        '2. Staffing strategy and staff development',
+        '2. People Staffing strategy',
+        'Section 2 - People',
+        '2B 2. People',
+        'Section 2.',
+        '2. People: Staffing strategy and staff development',
+        'Section 2: People – Note: All staff-related data in this section refer to Cat. A submitted staff',
+        'c. People, including:',
+        'Section 2: Staffing'
     ]
 }
 
@@ -271,7 +296,7 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             data[section] = section_content
             if section_content is None:
                 lg.print_tstamp(f"- WARNING: no content for '{section}' in '{institution_name}' - '{unit_code}'")
-                print(lines[:8])
+                print(infname)
                 break
 
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
@@ -288,67 +313,67 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
     #             compression='gzip')
 
 
-def prepare_unit_statements_old(prefix="Unit environment statement - ", extension=".txt"):
+# def prepare_unit_statements_old(prefix="Unit environment statement - ", extension=".txt"):
 
-    lg.print_tstamp("PPROC actions for unit envinroment statements")
-    inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "unit")
-    outputpath = rw.PROCESSED_ENV_PREPARED_PATH
-    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, inputpath))
-    lg.print_tstamp(f"- '{inputpath}' statements: {len(fnames)}")
-    fnames = [fname.replace(prefix, "").replace(extension, "") for fname in fnames]
+#     lg.print_tstamp("PPROC actions for unit envinroment statements")
+#     inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "unit")
+#     outputpath = rw.PROCESSED_ENV_PREPARED_PATH
+#     fnames = os.listdir(os.path.join(rw.PROJECT_PATH, inputpath))
+#     lg.print_tstamp(f"- '{inputpath}' statements: {len(fnames)}")
+#     fnames = [fname.replace(prefix, "").replace(extension, "") for fname in fnames]
 
-    dset = pd.DataFrame()
-    for fname in fnames:
-        institution_name, unit_code = fname.split(" - ")
-        # strip any alphabetical characters from the unit code
-        unit_code = ''.join([i for i in unit_code if not i.isalpha()])
-        unit_name = cb.UOA_NAMES[int(unit_code)]
+#     dset = pd.DataFrame()
+#     for fname in fnames:
+#         institution_name, unit_code = fname.split(" - ")
+#         # strip any alphabetical characters from the unit code
+#         unit_code = ''.join([i for i in unit_code if not i.isalpha()])
+#         unit_name = cb.UOA_NAMES[int(unit_code)]
 
-        infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
+#         infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
 
-        with open(infname, 'r+') as file:
-            content = file.read()
-            content = clean_content(content)
-        dset = pd.concat([dset,
-                          pd.DataFrame({cb.COL_INST_NAME: [institution_name],
-                                        cb.COL_UOA_NAME: [unit_name],
-                                        cb.COL_ENV_STATEMENT: [content]}
-                                       )],
-                         ignore_index=True)
-    lg.print_tstamp(f"- aggregated {dset.shape[0]} statements")
+#         with open(infname, 'r+') as file:
+#             content = file.read()
+#             content = clean_content(content)
+#         dset = pd.concat([dset,
+#                           pd.DataFrame({cb.COL_INST_NAME: [institution_name],
+#                                         cb.COL_UOA_NAME: [unit_name],
+#                                         cb.COL_ENV_STATEMENT: [content]}
+#                                        )],
+#                          ignore_index=True)
+#     lg.print_tstamp(f"- aggregated {dset.shape[0]} statements")
 
-    fname_root = "EnvStatementsUnitLevel"
-    # save all the statements to a single csv file
-    fname = os.path.join(rw.PROJECT_PATH, outputpath,
-                         f"{fname_root}.csv.gz")
-    lg.print_tstamp(f"- write to '{fname}'")
-    dset.to_csv(fname, index=False, compression='gzip')
+#     fname_root = "EnvStatementsUnitLevel"
+#     # save all the statements to a single csv file
+#     fname = os.path.join(rw.PROJECT_PATH, outputpath,
+#                          f"{fname_root}.csv.gz")
+#     lg.print_tstamp(f"- write to '{fname}'")
+#     dset.to_csv(fname, index=False, compression='gzip')
 
-    # split the DataFrame in four and save them to separate CSV files
-    quarter_index = len(dset) // 4
-    fname = os.path.join(rw.PROJECT_PATH, outputpath,
-                         f"{fname_root}_1.csv.gz")
-    lg.print_tstamp(f"- write to '{fname}'")
-    dset.iloc[:quarter_index].to_csv(fname, index=False,
-                                     compression='gzip')
+#     # split the DataFrame in four and save them to separate CSV files
+#     quarter_index = len(dset) // 4
+#     fname = os.path.join(rw.PROJECT_PATH, outputpath,
+#                          f"{fname_root}_1.csv.gz")
+#     lg.print_tstamp(f"- write to '{fname}'")
+#     dset.iloc[:quarter_index].to_csv(fname, index=False,
+#                                      compression='gzip')
 
-    fname = os.path.join(rw.PROJECT_PATH, outputpath,
-                         f"{fname_root}_2.csv.gz")
-    lg.print_tstamp(f"- write to '{fname}'")
-    dset.iloc[quarter_index:2*quarter_index].to_csv(fname, index=False,
-                                                    compression='gzip')
+#     fname = os.path.join(rw.PROJECT_PATH, outputpath,
+#                          f"{fname_root}_2.csv.gz")
+#     lg.print_tstamp(f"- write to '{fname}'")
+#     dset.iloc[quarter_index:2*quarter_index].to_csv(fname, index=False,
+#                                                     compression='gzip')
 
-    fname = os.path.join(rw.PROJECT_PATH, outputpath,
-                         f"{fname_root}_3.csv.gz")
-    lg.print_tstamp(f"- write to '{fname}'")
-    dset.iloc[2*quarter_index:3*quarter_index].to_csv(fname, index=False,
-                                                      compression='gzip')
+#     fname = os.path.join(rw.PROJECT_PATH, outputpath,
+#                          f"{fname_root}_3.csv.gz")
+#     lg.print_tstamp(f"- write to '{fname}'")
+#     dset.iloc[2*quarter_index:3*quarter_index].to_csv(fname, index=False,
+#                                                       compression='gzip')
 
-    fname = os.path.join(rw.PROJECT_PATH, outputpath,
-                         f"{fname_root}_4.csv.gz")
-    lg.print_tstamp(f"- write to '{fname}'")
-    dset.iloc[3*quarter_index:].to_csv(fname, index=False,
-                                       compression='gzip')
+#     fname = os.path.join(rw.PROJECT_PATH, outputpath,
+#                          f"{fname_root}_4.csv.gz")
+#     lg.print_tstamp(f"- write to '{fname}'")
+#     dset.iloc[3*quarter_index:].to_csv(fname, index=False,
+#                                        compression='gzip')
 
 
 if __name__ == "__main__":
