@@ -133,7 +133,7 @@ SECTIONS_UNIT = {
         'Section 3. Income and infrastructure',
         'Income, infrastructure and facilities',
         'Section 3.',
-        '4B 3. Income, infrastructure and facilities,
+        '4B 3. Income, infrastructure and facilities',
         '3.0 Income, infrastructure and facilities',
         '2. 3.0 Income, infrastructure and facilities',
         '3B 3. Income, infrastructure and facilities',
