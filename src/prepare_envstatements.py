@@ -3,29 +3,23 @@ import argparse
 from io import StringIO
 import sys
 import os
-from operator import add
 import pandas as pd
 
 import read_write as rw
 import codebook as cb
-import preprocess as pp
 import logs as lg
 
 # include all that was noticed in the actual statements
-TO_DELETE_HEADERS = [item.lower()
+TO_DELETE_HEADERS = [item.replace(" ", "").lower()
                      for item in [
                                 "Institutional level environment template (REF5a)",
                                 "Institutional level environment template (REF5b)",
                                 "Unit-level environment template (REF5a)",
                                 "Unit-level environment template (REF5b)",
                                 "REF5a - Institution Environment Statement",
-                                'Institutional-Level Environment Statement (REF5a)']
-                    ]
+                                'Institutional-Level Environment Statement (REF5a)']]
 
-TO_DELETE_PAGES = [f"Page {i}" for i in range(1, 100)]
-
-
-TO_DELETE_CHARS = ['\n', '\t']
+TO_DELETE_PAGES = [f"Page{i}".lower() for i in range(1, 100)]
 
 SECTIONS = {
     'Context and mission': [
@@ -52,7 +46,8 @@ SECTIONS = {
         'Strategy',
         '2. Strategy and Achievements',
         '2. Institutional Research and Impact Strategy',
-        '2. Research and Knowledge Exchange Strategy'],
+        '2. Research and Knowledge Exchange Strategy',
+        'Research at Cambridge'],
     'People': [
         '3. People',
         '3 People',
@@ -77,40 +72,7 @@ SECTIONS = {
 }
 
 
-def clean_content(content):
-    """ Cleans the content of the environment statement.
-
-    Args:
-
-        content (str): the content of the environment statement
-
-    Returns:
-
-            str: the cleaned content
-    """
-
-    # delete headers
-    for item in TO_DELETE_HEADERS:
-        content = '\n'.join(line for line in content.splitlines() if item not in line)
-
-    # delete the page numbers
-    for item in TO_DELETE_PAGES:
-        content = '\n'.join(line for line in content.splitlines() if line.strip() != item)
-
-    # delete the empty lines
-    content = '\n'.join(line for line in content.split('\n') if line.strip())
-
-    # specified characters to delete
-    for item in TO_DELETE_CHARS:
-        content = content.replace(item, " ")
-
-    return content
-
-
-def institution_sections(statement, fname):
-
-    counts = [0 for section in SECTIONS]
-    content = ['' for section in SECTIONS]
+def get_and_clean_lines(statement):
 
     # split the statement into lines
     lines = statement.splitlines()
@@ -125,21 +87,34 @@ def institution_sections(statement, fname):
     lines = [' '.join(line.split()) for line in lines]
 
     # delete lines with specified content
-    lines = [line for line in lines if line.lower() not in TO_DELETE_PAGES]
+    lines = [line for line in lines
+             if line.replace(" ", "").replace("\t", "").lower() not in TO_DELETE_PAGES]
     lines = [line for line in lines if line.lower() not in TO_DELETE_HEADERS]
+
+    return lines
+
+
+def section_indices(statement):
+
+    indices = [None for section in SECTIONS]
+
+    lines = get_and_clean_lines(statement)
 
     for isection, (section, headers) in enumerate(SECTIONS.items()):
         for header in headers:
-            if header.lower() in [line.lower() for line in lines]:
-                counts[isection] += 1
+            for iline, line in enumerate(lines):
+                if header.lower() == line.lower():
+                    indices[isection] = iline
+                    break
+            if indices[isection] is not None:
                 break
 
-    return (counts, content)
+    return (indices, lines)
 
 
 def prepare_institution_statements(prefix="Institution environment statement - ", extension=".txt"):
 
-    lg.print_tstamp("PPROC actions for organization envinroment statements")
+    lg.print_tstamp("PPROC actions for institution environment statements")
     inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "institution")
     outputpath = rw.PROCESSED_ENV_PREPARED_PATH
     # get the file names
@@ -157,16 +132,30 @@ def prepare_institution_statements(prefix="Institution environment statement - "
 
         with open(infname, 'r+') as file:
             statement = file.read()
+            (indices, lines) = section_indices(statement)
 
-            (fcounts, fcontent) = institution_sections(statement, fname)
-            counts = list(map(add, counts, fcounts))
+        data = {cb.COL_INST_NAME: [institution_name]}
+        for isection, section in enumerate(SECTIONS):
+            if indices[isection] is not None:
+                counts[isection] += 1
+                if isection == len(SECTIONS) - 1:
+                    section_lines = lines[(indices[isection]+1):]
+                else:
+                    section_lines = lines[indices[isection]+1:indices[isection+1]]
+                section_content = ' '.join(section_lines)
+            else:
+                section_content = None
+            data[section] = section_content
+            if section_content is None:
+                lg.print_tstamp(f"- WARNING: no content for '{section}' in '{institution_name}'")
 
-        dset = pd.concat([dset,
-                          pd.DataFrame({cb.COL_INST_NAME: [institution_name],
-                                        cb.COL_ENV_STATEMENT: [statement]}
-                                       )],
-                         ignore_index=True)
-    lg.print_tstamp(f"- aggregated {dset.shape[0]} statements")
+        dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
+
+    lg.print_tstamp(f"- prepared institution statements: {dset.shape[0]}")
+    if dset.shape[0] != statement_count:
+        lg.print_tstamp(f"- WARNING: prepared institution statements "
+                        f"{dset.shape[0]}/{statement_count}")
+
     fname = os.path.join(rw.PROJECT_PATH, outputpath,
                          "EnvStatementsInstitutionLevel.csv.gz")
     lg.print_tstamp(f"- write to '{fname}'")
