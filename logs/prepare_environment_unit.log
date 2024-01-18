@@ -1,8 +1,3 @@
-[2024-01-16 16:01:52] PPROC actions for unit envinroment statements
-[2024-01-16 16:01:52] - 'data/processed/environment_statements/extracted/unit' statements: 1874
-[2024-01-16 16:02:06] - aggregated 1874 statements
-[2024-01-16 16:02:06] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsUnitLevel.csv.gz'
-[2024-01-16 16:02:13] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsUnitLevel_1.csv.gz'
-[2024-01-16 16:02:15] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsUnitLevel_2.csv.gz'
-[2024-01-16 16:02:16] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsUnitLevel_3.csv.gz'
-[2024-01-16 16:02:18] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsUnitLevel_4.csv.gz'
+[2024-01-18 14:10:30] PPROC actions for unit environment statements
+[2024-01-18 14:10:30] - 'data/processed/environment_statements/extracted/unit' statements: 1874
+[1874] 1874

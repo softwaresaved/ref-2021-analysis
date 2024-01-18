@@ -17,11 +17,11 @@ TO_DELETE_HEADERS = [item.replace(" ", "").lower()
                                 "Unit-level environment template (REF5a)",
                                 "Unit-level environment template (REF5b)",
                                 "REF5a - Institution Environment Statement",
-                                'Institutional-Level Environment Statement (REF5a)']]
+                                'Institutional-Level Environment Statement (REF5a)',]]
 
 TO_DELETE_PAGES = [f"Page{i}".lower() for i in range(1, 100)]
 
-SECTIONS = {
+SECTIONS_INSTITUTION = {
     'Context and mission': [
         '1. Institutional context and mission',
         '1. Context and mission',
@@ -71,6 +71,72 @@ SECTIONS = {
         ]
 }
 
+SECTIONS_UNIT = {
+    'Unit context and structure, research and impact strategy': [
+        '1. Unit context and structure, research and impact strategy',
+        '1 Unit context and structure, research and impact strategy',
+        'Section 1. Unit context and structure, research and impact strategy',
+        '1.1 Unit context and structure, research and impact strategy',
+        'Section 1: Unit context and structure, research and impact strategy',
+        '1. Unit context and structure, research, and impact strategy',
+        'Unit context and structure, research and impact strategy',
+        'A. Unit context and structure, research and impact strategy',
+        '1: UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT STRATEGY',
+        'Section 1. Unit context and structure',
+        '1 Unit context and structure, research, and impact strategy',
+        'Section 1. Unit context and structure, research, and impact strategy',
+        '1. Unit Context and structure:',
+        'Section 1: Unit context and structure, research, and impact strategy',
+        '2B 1. Unit context and structure, research and impact strategy',
+        '1. Unit context, research and impact strategy',
+        '• Unit context and structure, research and impact strategy',
+        'Section 1. Unit context and structure; research and impact strategy',
+        'Unit Context',
+        'Section 1: Unit context, research and impact strategy',
+        'Section 1.',
+        'Section 1 (S1). Unit context and structure, research and impact strategy',
+        '1.0 Unit context and structure, research and impact strategy:',
+        '1. 1. Unit context and structure, research and impact strategy',
+        '1. Unit Context and Structure, Research and Impact Strategies',
+        '1.0 Unit Context and structure',
+        '1.1: Institutional Context and Structure',  # The Glasgow School of Art
+        '1: Context, structure, research and impact strategy',
+        '1.Unit context and structure, research and impact strategy',
+        '1. Unit context and structure',
+        'Section 1 Unit context and structure, research and impact strategy',
+        'Section 1: Context and Structure',
+        'Section 1. Unit context and structure, research and impact strategy.',
+        '1B 1. Unit context and structure, research and impact strategy',
+        '1. Unit context and structure research and impact strategy',
+        '1. Context and mission',
+        'Unit context and structure, research, and impact strategy',
+        '1. UNIT CONTEXT & STRUCTURE, RESEARCH AND IMPACT',
+        '1. Context, Strategy, and Structure: Overview',
+        '1.1. Context and structure',
+        '1. Unit context',
+        '1.Unit Context, Structure, Research And Impact Strategy',
+        'Section 1. UNIT STRUCTURE, RESEARCH AND IMPACT STRATEGY',
+        '1. Unit context, structure, research, open research environment, strategic aims and',
+        '1.1. Overview',
+        '1. Unit Context and Structure; Research and Impact strategy',
+        '1. UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT',
+        '1. Context, structure and strategy',
+        'SECTION 1. UNIT CONTEXT, RESEARCH AND IMPACT STRATEGY',
+        '1. Unit context and structure, research and impact strategy.',
+        'Section 1. Unit context, structure, and research and impact strategy',
+        '1. Unit context, structure, research, and impact strategy',
+        '1. Unit context and structure, research strategy',
+        '1. Context, Structure, and Strategy',
+        '1: Context and structure, research and impact strategy',
+        '1. Overview and mission',
+        '1 Unit context and structure, research and impact',
+        '1. Unit context, structure, research and impact strategy',
+        'Section 1: Unit Context',
+        '1. Unit overview',
+        'Section 1: Unit Context and Structure'
+    ]
+}
+
 
 def get_and_clean_lines(statement):
 
@@ -94,13 +160,13 @@ def get_and_clean_lines(statement):
     return lines
 
 
-def section_indices(statement):
+def section_indices(statement, sections):
 
-    indices = [None for section in SECTIONS]
+    indices = [None for section in sections]
 
     lines = get_and_clean_lines(statement)
 
-    for isection, (section, headers) in enumerate(SECTIONS.items()):
+    for isection, (section, headers) in enumerate(sections.items()):
         for header in headers:
             for iline, line in enumerate(lines):
                 if header.lower() == line.lower():
@@ -125,20 +191,20 @@ def prepare_institution_statements(prefix="Institution environment statement - "
     lg.print_tstamp(f"- '{inputpath}' statements: {statement_count}")
 
     dset = pd.DataFrame()
-    counts = [0 for section in SECTIONS]
+    counts = [0 for section in SECTIONS_INSTITUTION]
     for fname in fnames:
         institution_name = fname
         infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
 
         with open(infname, 'r+') as file:
             statement = file.read()
-            (indices, lines) = section_indices(statement)
+            (indices, lines) = section_indices(statement, SECTIONS_INSTITUTION)
 
         data = {cb.COL_INST_NAME: [institution_name]}
-        for isection, section in enumerate(SECTIONS):
+        for isection, section in enumerate(SECTIONS_INSTITUTION):
             if indices[isection] is not None:
                 counts[isection] += 1
-                if isection == len(SECTIONS) - 1:
+                if isection == len(SECTIONS_INSTITUTION) - 1:
                     section_lines = lines[(indices[isection]+1):]
                 else:
                     section_lines = lines[indices[isection]+1:indices[isection+1]]
@@ -165,6 +231,65 @@ def prepare_institution_statements(prefix="Institution environment statement - "
 
 def prepare_unit_statements(prefix="Unit environment statement - ", extension=".txt"):
 
+    lg.print_tstamp("PPROC actions for unit environment statements")
+    inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "unit")
+    outputpath = rw.PROCESSED_ENV_PREPARED_PATH
+    # get the file names
+    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, inputpath))
+    statement_count = len(fnames)
+    fnames = [fname.replace(prefix, "").replace(extension, "") for fname in fnames]
+
+    lg.print_tstamp(f"- '{inputpath}' statements: {statement_count}")
+
+    dset = pd.DataFrame()
+    counts = [0 for section in SECTIONS_UNIT]
+    for fname in fnames:
+        institution_name, unit_code = fname.split(" - ")
+        # strip any alphabetical characters from the unit code
+        unit_code = ''.join([i for i in unit_code if not i.isalpha()])
+        unit_name = cb.UOA_NAMES[int(unit_code)]
+        infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
+
+        with open(infname, 'r+') as file:
+            statement = file.read()
+            
+            (indices, lines) = section_indices(statement, SECTIONS_UNIT)
+
+        data = {cb.COL_INST_NAME: [institution_name],
+                cb.COL_UOA_NAME: [unit_name]
+                }
+        for isection, section in enumerate(SECTIONS_UNIT):
+            if indices[isection] is not None:
+                counts[isection] += 1
+                if isection == len(SECTIONS_UNIT) - 1:
+                    section_lines = lines[(indices[isection]+1):]
+                else:
+                    section_lines = lines[indices[isection]+1:indices[isection+1]]
+                section_content = ' '.join(section_lines)
+            else:
+                section_content = None
+            data[section] = section_content
+            if section_content is None:
+                lg.print_tstamp(f"- WARNING: no content for '{section}' in '{institution_name}' - '{unit_code}'")
+                print(lines[:8])
+                break
+
+        dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
+    print(counts, statement_count)
+    # lg.print_tstamp(f"- prepared institution statements: {dset.shape[0]}")
+    # if dset.shape[0] != statement_count:
+    #     lg.print_tstamp(f"- WARNING: prepared institution statements "
+    #                     f"{dset.shape[0]}/{statement_count}")
+
+    # fname = os.path.join(rw.PROJECT_PATH, outputpath,
+    #                      "EnvStatementsInstitutionLevel.csv.gz")
+    # lg.print_tstamp(f"- write to '{fname}'")
+    # dset.to_csv(fname, index=False,
+    #             compression='gzip')
+
+
+def prepare_unit_statements_old(prefix="Unit environment statement - ", extension=".txt"):
+
     lg.print_tstamp("PPROC actions for unit envinroment statements")
     inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "unit")
     outputpath = rw.PROCESSED_ENV_PREPARED_PATH
@@ -177,6 +302,7 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
         institution_name, unit_code = fname.split(" - ")
         # strip any alphabetical characters from the unit code
         unit_code = ''.join([i for i in unit_code if not i.isalpha()])
+        unit_name = cb.UOA_NAMES[int(unit_code)]
 
         infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
 
@@ -185,7 +311,7 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             content = clean_content(content)
         dset = pd.concat([dset,
                           pd.DataFrame({cb.COL_INST_NAME: [institution_name],
-                                        cb.COL_UOA_NAME: [cb.UOA_NAMES[int(unit_code)]],
+                                        cb.COL_UOA_NAME: [unit_name],
                                         cb.COL_ENV_STATEMENT: [content]}
                                        )],
                          ignore_index=True)
