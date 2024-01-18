@@ -72,94 +72,60 @@ SECTIONS_INSTITUTION = {
 }
 
 SECTIONS_UNIT = {
-    # 'Unit context and structure, research and impact strategy': [
-    #     '1. Unit context and structure, research and impact strategy',
-    #     '1 Unit context and structure, research and impact strategy',
-    #     'Section 1. Unit context and structure, research and impact strategy',
-    #     '1.1 Unit context and structure, research and impact strategy',
-    #     'Section 1: Unit context and structure, research and impact strategy',
-    #     '1. Unit context and structure, research, and impact strategy',
-    #     'Unit context and structure, research and impact strategy',
-    #     'A. Unit context and structure, research and impact strategy',
-    #     '1: UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT STRATEGY',
-    #     'Section 1. Unit context and structure',
-    #     '1 Unit context and structure, research, and impact strategy',
-    #     'Section 1. Unit context and structure, research, and impact strategy',
-    #     '1. Unit Context and structure:',
-    #     'Section 1: Unit context and structure, research, and impact strategy',
-    #     '2B 1. Unit context and structure, research and impact strategy',
-    #     '1. Unit context, research and impact strategy',
-    #     '• Unit context and structure, research and impact strategy',
-    #     'Section 1. Unit context and structure; research and impact strategy',
-    #     'Unit Context',
-    #     'Section 1: Unit context, research and impact strategy',
-    #     'Section 1.',
-    #     'Section 1 (S1). Unit context and structure, research and impact strategy',
-    #     '1.0 Unit context and structure, research and impact strategy:',
-    #     '1. 1. Unit context and structure, research and impact strategy',
-    #     '1. Unit Context and Structure, Research and Impact Strategies',
-    #     '1.0 Unit Context and structure',
-    #     '1.1: Institutional Context and Structure',  # The Glasgow School of Art
-    #     '1: Context, structure, research and impact strategy',
-    #     '1.Unit context and structure, research and impact strategy',
-    #     '1. Unit context and structure',
-    #     'Section 1 Unit context and structure, research and impact strategy',
-    #     'Section 1: Context and Structure',
-    #     'Section 1. Unit context and structure, research and impact strategy.',
-    #     '1B 1. Unit context and structure, research and impact strategy',
-    #     '1. Unit context and structure research and impact strategy',
-    #     '1. Context and mission',
-    #     'Unit context and structure, research, and impact strategy',
-    #     '1. UNIT CONTEXT & STRUCTURE, RESEARCH AND IMPACT',
-    #     '1. Context, Strategy, and Structure: Overview',
-    #     '1.1. Context and structure',
-    #     '1. Unit context',
-    #     '1.Unit Context, Structure, Research And Impact Strategy',
-    #     'Section 1. UNIT STRUCTURE, RESEARCH AND IMPACT STRATEGY',
-    #     '1. Unit context, structure, research, open research environment, strategic aims and',
-    #     '1.1. Overview',
-    #     '1. Unit Context and Structure; Research and Impact strategy',
-    #     '1. UNIT CONTEXT AND STRUCTURE, RESEARCH AND IMPACT',
-    #     '1. Context, structure and strategy',
-    #     'SECTION 1. UNIT CONTEXT, RESEARCH AND IMPACT STRATEGY',
-    #     '1. Unit context and structure, research and impact strategy.',
-    #     'Section 1. Unit context, structure, and research and impact strategy',
-    #     '1. Unit context, structure, research, and impact strategy',
-    #     '1. Unit context and structure, research strategy',
-    #     '1. Context, Structure, and Strategy',
-    #     '1: Context and structure, research and impact strategy',
-    #     '1. Overview and mission',
-    #     '1 Unit context and structure, research and impact',
-    #     '1. Unit context, structure, research and impact strategy',
-    #     'Section 1: Unit Context',
-    #     '1. Unit overview',
-    #     'Section 1: Unit Context and Structure',
-    #     'Overview',
-    # ]
-    # "People": [
-    #     '2. People',
-    #     "2 People",
-    #     "2: People",
-    #     "2. People.",
-    #     '2. 2. People',
-    #     '2.People',
-    #     "Section 2. People",
-    #     "Section 2: People",
-    #     "2.0 People",
-    #     "People",
-    #     '3B 2. People',
-    #     '2. People, including:',
-    #     'Section 2 (S2). People',
-    #     '2. Staffing strategy and staff development',
-    #     '2. People Staffing strategy',
-    #     'Section 2 - People',
-    #     '2B 2. People',
-    #     'Section 2.',
-    #     '2. People: Staffing strategy and staff development',
-    #     'Section 2: People – Note: All staff-related data in this section refer to Cat. A submitted staff',
-    #     'c. People, including:',
-    #     'Section 2: Staffing'
-    # ],
+    'Unit context and structure, research and impact strategy': [
+        '1. Unit context and structure, research and impact strategy',
+        '1. Unit Context and Structure, Research and Impact Strategies',
+        '1. Context and structure, research and impact strategy',
+        '1. Unit Context, Research and Impact Strategy',
+        '1. Unit Context & Structure, Research and impact',
+        '1. Unit overview',
+        '1. Unit context',
+        '1. Overview and mission',
+        '1. Context, Structure, and Strategy',
+        '1. Unit Context and structure:',
+        '1. Context, Strategy, and Structure: Overview',
+        '1.0 Unit Context and structure',
+        '1.0 Unit context and structure, research and impact strategy:',
+        '1.1. Context and structure',
+        '1.1 Unit context and structure, research and impact strategy',
+        '1.1: Institutional Context and Structure',  # The Glasgow School of Art
+        '1. Unit Context and Structure; Research and Impact strategy',
+        '1 Unit context and structure, research and impact',
+        '1B 1. Unit context and structure, research and impact strategy',
+        '2B 1. Unit context and structure, research and impact strategy',
+        'Section 1. Unit context and structure, research and impact strategy',
+        'Section 1. Unit structure, research and impact strategy',
+        'Section 1: Unit Context, Research and Impact Strategy',
+        'Section 1: Unit Context',
+        'Section 1: Context and Structure',
+        'Section 1: Unit Context and Structure',
+        'Section 1 (S1). Unit context and structure, research and impact strategy',
+        '1.1. Overview',
+        'Overview',
+        'Unit Context',
+        'Unit context and structure',
+        'Unit context and structure, research and impact strategy',
+        '1. Unit context, structure, research, open research environment, strategic aims and',  # two lines
+        '• Unit context and structure, research and impact strategy'
+    ],
+    "People": [
+        '2. People',
+        '2. 2. People',
+        '2. People, including:',
+        'c. People, including:',
+        '2. People Staffing strategy',
+        '2. Staffing strategy and staff development',
+        '2. People: Staffing strategy and staff development',
+        "People",
+        'Section 2.',
+        'Section 2. People',
+        'Section 2: Staffing',
+        'Section 2 (S2). People',
+        "2.0 People",
+        '2B 2. People',
+        '3B 2. People',
+        'Section 2: People – Note: All staff-related data in this section refer to Cat. A submitted staff',
+    ],
     "Income, infrastructure and facilities": [
         "3. Income, infrastructure and facilities",
         "Section 3. Income, infrastructure and facilities",
@@ -174,7 +140,6 @@ SECTIONS_UNIT = {
         "Section 3. Research Income, Infrastructure and Facilities"
         ]
 }
-
 
 
 def get_and_clean_lines(statement):
@@ -201,12 +166,12 @@ def get_and_clean_lines(statement):
 
 def clean_header(header):
 
-    CHARS_TO_DELETE = [" ", "\t", ".", ",", ":", "-", "and"]
+    CHARS_TO_DELETE = [" ", "\t", ".", ",", ":", ";", "-", "and", "&"]
 
     header = header.lower()
     for chars in CHARS_TO_DELETE:
         header = header.replace(chars, "")
-    
+
     return header
 
 
@@ -324,7 +289,7 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             if section_content is None:
                 lg.print_tstamp(f"- WARNING: no content for '{section}' in '{institution_name}' - '{unit_code}'")
                 print(infname)
-                break
+                
 
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
     print(counts, statement_count)
