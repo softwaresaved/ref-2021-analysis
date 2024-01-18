@@ -136,31 +136,45 @@ SECTIONS_UNIT = {
     #     'Section 1: Unit Context and Structure',
     #     'Overview',
     # ]
-    "People": [
-        '2. People',
-        "2 People",
-        "2: People",
-        "2. People.",
-        '2. 2. People',
-        '2.People',
-        "Section 2. People",
-        "Section 2: People",
-        "2.0 People",
-        "People",
-        '3B 2. People',
-        '2. People, including:',
-        'Section 2 (S2). People',
-        '2. Staffing strategy and staff development',
-        '2. People Staffing strategy',
-        'Section 2 - People',
-        '2B 2. People',
-        'Section 2.',
-        '2. People: Staffing strategy and staff development',
-        'Section 2: People – Note: All staff-related data in this section refer to Cat. A submitted staff',
-        'c. People, including:',
-        'Section 2: Staffing'
-    ]
+    # "People": [
+    #     '2. People',
+    #     "2 People",
+    #     "2: People",
+    #     "2. People.",
+    #     '2. 2. People',
+    #     '2.People',
+    #     "Section 2. People",
+    #     "Section 2: People",
+    #     "2.0 People",
+    #     "People",
+    #     '3B 2. People',
+    #     '2. People, including:',
+    #     'Section 2 (S2). People',
+    #     '2. Staffing strategy and staff development',
+    #     '2. People Staffing strategy',
+    #     'Section 2 - People',
+    #     '2B 2. People',
+    #     'Section 2.',
+    #     '2. People: Staffing strategy and staff development',
+    #     'Section 2: People – Note: All staff-related data in this section refer to Cat. A submitted staff',
+    #     'c. People, including:',
+    #     'Section 2: Staffing'
+    # ],
+    "Income, infrastructure and facilities": [
+        "3. Income, infrastructure and facilities",
+        "Section 3. Income, infrastructure and facilities",
+        "Section 3 (S3). Income, infrastructure and facilities",
+        "Section 3. Income and infrastructure",
+        "Income, infrastructure and facilities",
+        "Section 3.",
+        "4B 3. Income, infrastructure and facilities",
+        "3.0 Income, infrastructure and facilities",
+        "2. 3.0 Income, infrastructure and facilities",
+        "3B   3. Income, infrastructure and facilities",
+        "Section 3. Research Income, Infrastructure and Facilities"
+        ]
 }
+
 
 
 def get_and_clean_lines(statement):
@@ -185,6 +199,17 @@ def get_and_clean_lines(statement):
     return lines
 
 
+def clean_header(header):
+
+    CHARS_TO_DELETE = [" ", "\t", ".", ",", ":", "-", "and"]
+
+    header = header.lower()
+    for chars in CHARS_TO_DELETE:
+        header = header.replace(chars, "")
+    
+    return header
+
+
 def section_indices(statement, sections):
 
     indices = [None for section in sections]
@@ -192,9 +217,11 @@ def section_indices(statement, sections):
     lines = get_and_clean_lines(statement)
 
     for isection, (section, headers) in enumerate(sections.items()):
-        for header in headers:
+        headers_to_compare = [clean_header(header) for header in headers]
+        
+        for header in headers_to_compare:
             for iline, line in enumerate(lines):
-                if header.lower() == line.lower():
+                if header == clean_header(line):
                     indices[isection] = iline
                     break
             if indices[isection] is not None:
@@ -277,8 +304,8 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
 
         with open(infname, 'r+') as file:
             statement = file.read()
-            
             (indices, lines) = section_indices(statement, SECTIONS_UNIT)
+            
 
         data = {cb.COL_INST_NAME: [institution_name],
                 cb.COL_UOA_NAME: [unit_name]
