@@ -163,6 +163,14 @@ SECTIONS_UNIT = {
 
 
 def get_and_clean_lines(statement):
+    """ Splits the statement into lines and cleans them. 
+    
+    Args:
+        statement (str): the statement to be cleaned
+
+    Returns:
+        list: the cleaned lines
+    """
 
     # split the statement into lines
     lines = statement.splitlines()
@@ -185,6 +193,14 @@ def get_and_clean_lines(statement):
 
 
 def clean_header(header):
+    """ Cleans the header.
+
+    Args:
+        header (str): the header to be cleaned
+
+    Returns:
+        str: the cleaned header
+    """
 
     header = header.lower()
     for chars in CHARS_TO_DELETE_FROM_HEADER:
@@ -194,6 +210,15 @@ def clean_header(header):
 
 
 def section_indices(statement, sections):
+    """ Finds the indices of the sections in the statement.
+
+    Args:
+        statement (str): the statement to be searched
+        sections (dict): the sections to be searched for
+
+    Returns:
+        tuple: the indices of the sections in the statement and the lines of the statement
+    """
 
     indices = [None for section in sections]
 
@@ -214,6 +239,12 @@ def section_indices(statement, sections):
 
 
 def prepare_institution_statements(prefix="Institution environment statement - ", extension=".txt"):
+    """ Prepares the institution statements.
+
+    Args:
+        prefix (str, optional): the prefix of the file names. Defaults to "Institution environment statement - ".
+        extension (str, optional): the extension of the file names. Defaults to ".txt".
+    """
 
     lg.print_tstamp("PPROC actions for institution environment statements")
     inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "institution")
@@ -268,6 +299,12 @@ def prepare_institution_statements(prefix="Institution environment statement - "
 
 
 def prepare_unit_statements(prefix="Unit environment statement - ", extension=".txt"):
+    """ Prepares the unit statements.
+
+    Args:
+        prefix (str, optional): the prefix of the file names. Defaults to "Unit environment statement - ".
+        extension (str, optional): the extension of the file names. Defaults to ".txt".
+    """
 
     lg.print_tstamp("PPROC actions for unit environment statements")
     inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "unit")
