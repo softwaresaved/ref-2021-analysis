@@ -320,9 +320,12 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_UNIT]
     for fname in fnames:
-        institution_name, unit_code = fname.split(" - ")
+        institution_name, unit_code_original = fname.split(" - ")
         # strip any alphabetical characters from the unit code
-        unit_code = ''.join([i for i in unit_code if not i.isalpha()])
+        unit_code = ''.join([i for i in unit_code_original if not i.isalpha()])
+        if len(unit_code) != len(unit_code_original):
+            lg.print_tstamp(f"- WARNING: {institution_name} unit code '{unit_code_original}' "
+                            f"replaced with {unit_code}")
         unit_name = cb.UOA_NAMES[int(unit_code)]
         infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
 
