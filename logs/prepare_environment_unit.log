@@ -1,46 +1,5 @@
-[2024-01-23 16:31:34] PPROC actions for unit environment statements
-[2024-01-23 16:31:34] - read data from 'data/processed/environment_statements/extracted/unit' 
-[2024-01-23 16:31:34] - statements: 1874, sections: 4
-[2024-01-23 16:31:34] - WARNING: The University of Reading unit code '32A' replaced with 32
-[2024-01-23 16:31:35] - WARNING: University of Oxford unit code '26B' replaced with 26
-[2024-01-23 16:31:35] - WARNING: The University of Reading unit code '32B' replaced with 32
-[2024-01-23 16:31:36] - WARNING: University of Oxford unit code '26A' replaced with 26
-[2024-01-23 16:31:37] - WARNING: The University of Leeds unit code '33A' replaced with 33
-[2024-01-23 16:31:38] - WARNING: The University of Leeds unit code '33B' replaced with 33
-[2024-01-23 16:31:40] - WARNING: University of York unit code '33A' replaced with 33
-[2024-01-23 16:31:40] - WARNING: University College London unit code '25A' replaced with 25
-[2024-01-23 16:31:41] - WARNING: The University of Huddersfield unit code '33B' replaced with 33
-[2024-01-23 16:31:41] - WARNING: Roehampton University unit code '33B' replaced with 33
-[2024-01-23 16:31:42] - WARNING: University of York unit code '33B' replaced with 33
-[2024-01-23 16:31:42] - WARNING: University College London unit code '25B' replaced with 25
-[2024-01-23 16:31:42] - WARNING: The University of Huddersfield unit code '33A' replaced with 33
-[2024-01-23 16:31:42] - WARNING: Roehampton University unit code '33A' replaced with 33
-[2024-01-23 16:31:43] - WARNING: University College London unit code '32B' replaced with 32
-[2024-01-23 16:31:43] - WARNING: Queen Mary University of London unit code '26B' replaced with 26
-[2024-01-23 16:31:43] - WARNING: University of Greenwich unit code '3B' replaced with 3
-[2024-01-23 16:31:44] - WARNING: University College London unit code '32A' replaced with 32
-[2024-01-23 16:31:44] - WARNING: Queen Mary University of London unit code '26A' replaced with 26
-[2024-01-23 16:31:45] - WARNING: Queen Mary University of London unit code '33A' replaced with 33
-[2024-01-23 16:31:45] - WARNING: School of Oriental and African Studies unit code '22A' replaced with 22
-[2024-01-23 16:31:45] - WARNING: The University of Manchester unit code '33B' replaced with 33
-[2024-01-23 16:31:46] - WARNING: Goldsmiths' College unit code '34B' replaced with 34
-[2024-01-23 16:31:46] - WARNING: The London School of Economics and Political Science unit code '28A' replaced with 28
-[2024-01-23 16:31:46] - WARNING: University of Oxford unit code '22A' replaced with 22
-[2024-01-23 16:31:46] - WARNING: Queen Mary University of London unit code '33B' replaced with 33
-[2024-01-23 16:31:47] - WARNING: School of Oriental and African Studies unit code '22B' replaced with 22
-[2024-01-23 16:31:47] - WARNING: The University of Manchester unit code '33A' replaced with 33
-[2024-01-23 16:31:47] - WARNING: Goldsmiths' College unit code '34A' replaced with 34
-[2024-01-23 16:31:47] - WARNING: The London School of Economics and Political Science unit code '28B' replaced with 28
-[2024-01-23 16:31:47] - WARNING: University of Oxford unit code '22B' replaced with 22
-[2024-01-23 16:31:49] - WARNING: University of South Wales _ Prifysgol De Cymru unit code '33B' replaced with 33
-[2024-01-23 16:31:51] - WARNING: University of South Wales _ Prifysgol De Cymru unit code '33A' replaced with 33
-[2024-01-23 16:31:52] - WARNING: The London School of Economics and Political Science unit code '22A' replaced with 22
-[2024-01-23 16:31:53] - WARNING: The London School of Economics and Political Science unit code '22B' replaced with 22
-[2024-01-23 16:31:53] - WARNING: University of Glasgow unit code '26B' replaced with 26
-[2024-01-23 16:31:54] - WARNING: The University of Leicester unit code '34B' replaced with 34
-[2024-01-23 16:31:54] - WARNING: The University of Manchester unit code '22B' replaced with 22
-[2024-01-23 16:31:54] - WARNING: University of Glasgow unit code '26A' replaced with 26
-[2024-01-23 16:31:54] - WARNING: The University of Leicester unit code '34A' replaced with 34
-[2024-01-23 16:31:55] - WARNING: The University of Manchester unit code '22A' replaced with 22
-[2024-01-23 16:31:55] - prepared institution statements: 1874
-[2024-01-23 16:31:55] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsUnitLevel.csv.gz'
+[2024-01-23 17:20:20] PPROC actions for unit environment statements
+[2024-01-23 17:20:20] - read data from 'data/processed/environment_statements/extracted/unit' 
+[2024-01-23 17:20:20] - statements: 1874, sections: 4
+[2024-01-23 17:20:40] - prepared institution statements: 1874
+[2024-01-23 17:20:40] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsUnitLevel.csv.gz'

@@ -323,9 +323,11 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
         institution_name, unit_code_original = fname.split(" - ")
         # strip any alphabetical characters from the unit code
         unit_code = ''.join([i for i in unit_code_original if not i.isalpha()])
+        multiple_submission_letter = None
         if len(unit_code) != len(unit_code_original):
-            lg.print_tstamp(f"- WARNING: {institution_name} unit code '{unit_code_original}' "
-                            f"replaced with {unit_code}")
+            multiple_submission_letter = unit_code_original[-1]
+            # lg.print_tstamp(f"- WARNING: {institution_name} unit code '{unit_code_original}' "
+            #                 f"replaced with {unit_code}")
         unit_name = cb.UOA_NAMES[int(unit_code)]
         infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
 
@@ -334,7 +336,8 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             (indices, lines) = section_indices(statement, SECTIONS_UNIT)
 
         data = {cb.COL_INST_NAME: [institution_name],
-                cb.COL_UOA_NAME: [unit_name]
+                cb.COL_UOA_NAME: [unit_name],
+                cb.COL_MULT_SUB_LETTER: [multiple_submission_letter]
                 }
         for isection, section in enumerate(SECTIONS_UNIT):
             if indices[isection] is not None:
