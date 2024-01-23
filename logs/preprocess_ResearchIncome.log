@@ -1,69 +1,8 @@
-[2024-01-16 15:22:38] READ 'data/processed/sheets/ResearchIncome.csv.gz': 28637 records
-[2024-01-16 15:22:38] PPROC actions for 'ResearchIncome' sheet
-[2024-01-16 15:22:38] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-16 15:22:38] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2024-01-16 15:22:38] - PPROC: add columns for panel names
-[2024-01-16 15:22:38] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-16 15:22:38] - PPROC: drop column 'Multiple submission letter'
-                            count
-Multiple submission letter       
-A                             316
-B                             316
-[2024-01-16 15:22:38] - PPROC: drop column 'Multiple submission name'
-                                                    count
-Multiple submission name                                 
-Music                                                  45
-Drama                                                  45
-26A - Modern Languages                                 30
-Joint Submission - University of Kent-Medway Sc...     16
-UoG Submission in Allied Health Professions & N...     16
-A – Faculty of Creative Industries, University ...     15
-Film                                                   15
-Art                                                    15
-Typography and Graphic Communication                   15
-Dance                                                  15
-22A Anthropology                                       15
-22B Development Studies                                15
-UoA25A UCL School of Slavonic & East European S...     15
-B – Royal Welsh College of Music and Drama             15
-Linguistics                                            15
-UoA25B Institute of the Americas (UCL-IA)              15
-UoA32A UCL History of Art Department                   15
-UoA32B The Slade School of Fine Art                    15
-A - Music                                              15
-Modern Languages                                       15
-22A - Anthropology                                     15
-26B - Linguistics                                      15
-22B - Development Studies                              15
-26B - Celtic and Gaelic                                15
-Drama, Dance, Performing Arts, Film and Screen ...     15
-Social Anthropology                                    15
-Development Studies                                    15
-28B: International History                             15
-28A: Economic History                                  15
-22B: International Development                         15
-22A: Anthropology                                      15
-Museum Studies                                         15
-Media and Communication                                15
-Performance and Cultural Industries                    15
-Institute of Creative and Cultural Entrepreneur...     15
-Media, Communications and Cultural Studies (MCCS)      15
-B – Theatre, Film, Television and Interactive M...     15
-[2024-01-16 15:22:38] - PPROC: drop column 'Joint submission'
-                                                    count
-Joint submission                                         
-(joint submission with University of Edinburgh)        76
-(joint submission with Heriot-Watt University)         45
-(joint submission with Institute of Zoology and...     16
-(joint submission with University of Sussex)           16
-(joint submission with SRUC)                           16
-(joint submission with The University of Kent)         16
-(joint submission with Birkbeck College and Uni...     16
-(joint submission with University of Greenwich)        16
-(joint submission with University of Brighton)         16
-(joint submission with Birkbeck College and Ins...     16
-(joint submission with University College London)      15
-(joint submission with University of St Andrews)       15
-(joint submission with Birkbeck College)               15
-[2024-01-16 15:22:38] SAVED pre-processed dataset to 'data/processed/sheets/ResearchIncome_ppreprocessed.csv.gz'
-[2024-01-16 15:22:38] DELETED 'data/processed/sheets/ResearchIncome.csv.gz'
+[2024-01-23 16:31:40] READ 'data/processed/sheets/ResearchIncome.csv.gz': 28637 records
+[2024-01-23 16:31:40] PPROC actions for 'ResearchIncome' sheet
+[2024-01-23 16:31:40] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-23 16:31:40] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2024-01-23 16:31:40] - PPROC: add columns for panel names
+[2024-01-23 16:31:40] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-23 16:31:40] SAVED pre-processed dataset to 'data/processed/sheets/ResearchIncome_ppreprocessed.csv.gz'
+[2024-01-23 16:31:40] DELETED 'data/processed/sheets/ResearchIncome.csv.gz'

@@ -1,70 +1,9 @@
-[2024-01-16 15:22:36] READ 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
-[2024-01-16 15:22:36] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
-[2024-01-16 15:22:36] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-16 15:22:36] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2024-01-16 15:22:36] - PPROC: add columns for panel names
-[2024-01-16 15:22:36] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-16 15:22:36] - PPROC: drop column 'Multiple submission letter'
-                            count
-Multiple submission letter       
-A                              21
-B                              21
-[2024-01-16 15:22:36] - PPROC: drop column 'Multiple submission name'
-                                                    count
-Multiple submission name                                 
-Music                                                   3
-Drama                                                   3
-26A - Modern Languages                                  2
-22B Development Studies                                 1
-Modern Languages                                        1
-Film                                                    1
-Art                                                     1
-Typography and Graphic Communication                    1
-Dance                                                   1
-22A Anthropology                                        1
-B – Royal Welsh College of Music and Drama              1
-A – Faculty of Creative Industries, University ...      1
-26B - Linguistics                                       1
-UoA25A UCL School of Slavonic & East European S...      1
-UoA25B Institute of the Americas (UCL-IA)               1
-UoA32A UCL History of Art Department                    1
-UoA32B The Slade School of Fine Art                     1
-A - Music                                               1
-Linguistics                                             1
-22A - Anthropology                                      1
-22B - Development Studies                               1
-Museum Studies                                          1
-Media, Communications and Cultural Studies (MCCS)       1
-Institute of Creative and Cultural Entrepreneur...      1
-Joint Submission - University of Kent-Medway Sc...      1
-UoG Submission in Allied Health Professions & N...      1
-Performance and Cultural Industries                     1
-Media and Communication                                 1
-22A: Anthropology                                       1
-26B - Celtic and Gaelic                                 1
-22B: International Development                          1
-28A: Economic History                                   1
-28B: International History                              1
-Development Studies                                     1
-Social Anthropology                                     1
-Drama, Dance, Performing Arts, Film and Screen ...      1
-B – Theatre, Film, Television and Interactive M...      1
-[2024-01-16 15:22:36] - PPROC: drop column 'Joint submission'
-                                                    count
-Joint submission                                         
-(joint submission with University of Edinburgh)         5
-(joint submission with Heriot-Watt University)          3
-(joint submission with Institute of Zoology and...      1
-(joint submission with University College London)       1
-(joint submission with University of Sussex)            1
-(joint submission with SRUC)                            1
-(joint submission with University of St Andrews)        1
-(joint submission with The University of Kent)          1
-(joint submission with Birkbeck College and Uni...      1
-(joint submission with University of Greenwich)         1
-(joint submission with University of Brighton)          1
-(joint submission with Birkbeck College and Ins...      1
-(joint submission with Birkbeck College)                1
-[2024-01-16 15:22:36] - PPROC: calculate total number of degrees awarded
-[2024-01-16 15:22:36] SAVED pre-processed dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
-[2024-01-16 15:22:36] DELETED 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz'
+[2024-01-23 16:31:39] READ 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz': 1888 records
+[2024-01-23 16:31:39] PPROC actions for 'ResearchDoctoralDegreesAwarded' sheet
+[2024-01-23 16:31:39] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-23 16:31:39] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2024-01-23 16:31:39] - PPROC: add columns for panel names
+[2024-01-23 16:31:39] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-23 16:31:39] - PPROC: calculate total number of degrees awarded
+[2024-01-23 16:31:39] SAVED pre-processed dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded_ppreprocessed.csv.gz'
+[2024-01-23 16:31:39] DELETED 'data/processed/sheets/ResearchDoctoralDegreesAwarded.csv.gz'

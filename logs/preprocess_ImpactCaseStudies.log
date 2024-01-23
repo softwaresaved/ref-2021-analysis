@@ -1,67 +1,13 @@
-[2024-01-16 15:22:43] READ 'data/processed/sheets/ImpactCaseStudies.csv.gz': 6361 records
-[2024-01-16 15:22:43] PPROC actions for 'ImpactCaseStudies' sheet
-[2024-01-16 15:22:43] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-16 15:22:43] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2024-01-16 15:22:43] - PPROC: shift columns from title to the left to fix raw data issue 
-[2024-01-16 15:22:47] - PPROC: replace styling characters in the following columns
-[2024-01-16 15:22:47] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
-[2024-01-16 15:22:47] - PPROC: add column for panels names
-[2024-01-16 15:22:47] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-16 15:22:47] - PPROC: drop column 'Multiple submission letter'
-                            count
-Multiple submission letter       
-A                              59
-B                              53
-[2024-01-16 15:22:47] - PPROC: drop column 'Multiple submission name'
-                                                    count
-Multiple submission name                                 
-26A - Modern Languages                                 12
-Music                                                   7
-Drama                                                   6
-Development Studies                                     4
-22A - Anthropology                                      4
-22B Development Studies                                 4
-UoA25A UCL School of Slavonic & East European S...      4
-22B - Development Studies                               4
-UoG Submission in Allied Health Professions & N...      4
-Performance and Cultural Industries                     3
-Social Anthropology                                     3
-A – Faculty of Creative Industries, University ...      3
-22B: International Development                          3
-UoA32B The Slade School of Fine Art                     3
-Media, Communications and Cultural Studies (MCCS)       3
-Modern Languages                                        3
-22A: Anthropology                                       3
-Media and Communication                                 3
-28A: Economic History                                   2
-22A Anthropology                                        2
-Art                                                     2
-Museum Studies                                          2
-B – Theatre, Film, Television and Interactive M...      2
-A - Music                                               2
-26B - Linguistics                                       2
-B – Royal Welsh College of Music and Drama              2
-Film                                                    2
-Dance                                                   2
-Drama, Dance, Performing Arts, Film and Screen ...      2
-UoA25B Institute of the Americas (UCL-IA)               2
-Institute of Creative and Cultural Entrepreneur...      2
-28B: International History                              2
-26B - Celtic and Gaelic                                 2
-Linguistics                                             2
-UoA32A UCL History of Art Department                    2
-Typography and Graphic Communication                    2
-[2024-01-16 15:22:47] - PPROC: drop column 'Joint submission'
-                                                    count
-Joint submission                                         
-(joint submission with Heriot-Watt University)         24
-(joint submission with SRUC)                           11
-(joint submission with Birkbeck College and Ins...     11
-(joint submission with University of Sussex)            9
-(joint submission with University of Edinburgh)         6
-(joint submission with Birkbeck College)                3
-(joint submission with University of Greenwich)         3
-[2024-01-16 15:22:47] - PPROC: drop column 'Researcher ORCIDs'
+[2024-01-23 16:31:46] READ 'data/processed/sheets/ImpactCaseStudies.csv.gz': 6361 records
+[2024-01-23 16:31:46] PPROC actions for 'ImpactCaseStudies' sheet
+[2024-01-23 16:31:46] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-23 16:31:46] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2024-01-23 16:31:46] - PPROC: shift columns from title to the left to fix raw data issue 
+[2024-01-23 16:31:49] - PPROC: replace styling characters in the following columns
+[2024-01-23 16:31:49] - ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
+[2024-01-23 16:31:49] - PPROC: add column for panels names
+[2024-01-23 16:31:49] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
+[2024-01-23 16:31:49] - PPROC: drop column 'Researcher ORCIDs'
                                                     count
 Researcher ORCIDs                                        
 [0000-0003-1666-7590]                                   3
@@ -77,7 +23,7 @@ Researcher ORCIDs
 [0000-0001-5578-359X];[0000-0002-0113-5770];[00...      1
 
 [4622 rows x 1 columns]
-[2024-01-16 15:22:47] - PPROC: drop column 'Grant funding'
+[2024-01-23 16:31:49] - PPROC: drop column 'Grant funding'
                                                     count
 Grant funding                                            
 [n/a: 20000]                                            4
@@ -93,7 +39,7 @@ Grant funding
 [AH/L007010/1: 1572192];[872859: 1624212];[2129...      1
 
 [4634 rows x 1 columns]
-[2024-01-16 15:22:47] - PPROC: drop column '3. References to the research'
+[2024-01-23 16:31:49] - PPROC: drop column '3. References to the research'
                                                     count
 3. References to the research                            
       3.1. Hill JC, Whitehurst DG, Lewis M, Bry...      2
@@ -109,7 +55,7 @@ Grant funding
   (articles in peer-reviewed journals; Oxford a...      1
 
 [6346 rows x 1 columns]
-[2024-01-16 15:22:47] - PPROC: drop column '5. Sources to corroborate the impact'
+[2024-01-23 16:31:49] - PPROC: drop column '5. Sources to corroborate the impact'
                                                     count
 5. Sources to corroborate the impact                     
      1. Corroborating statement from CEO of MGB...      2
@@ -125,12 +71,12 @@ Sources to corroborate the impact (indicative m...      1
      [A] Email and report from Rescue Global, O...      1
 
 [6346 rows x 1 columns]
-[2024-01-16 15:22:47] - PPROC: drop column 'Is continued from 2014'
+[2024-01-23 16:31:49] - PPROC: drop column 'Is continued from 2014'
                         count
 Is continued from 2014       
 0                        6039
 1                         322
-[2024-01-16 15:22:47] - PPROC: drop column 'Countries'
+[2024-01-23 16:31:49] - PPROC: drop column 'Countries'
                                                     count
 Countries                                                
 [UK]                                                  378
@@ -146,7 +92,7 @@ Countries
 [UK];[Global];[France];[Dominica];[Turks and Ca...      1
 
 [2706 rows x 1 columns]
-[2024-01-16 15:22:47] - PPROC: drop column 'Formal partners'
+[2024-01-23 16:31:49] - PPROC: drop column 'Formal partners'
                                                     count
 Formal partners                                          
 [N/A]                                                  24
@@ -162,7 +108,7 @@ Formal partners
 [Rescue Global]                                         1
 
 [3005 rows x 1 columns]
-[2024-01-16 15:22:47] - PPROC: drop column 'Global research identifiers'
+[2024-01-23 16:31:49] - PPROC: drop column 'Global research identifiers'
                                                     count
 Global research identifiers                              
 [grid.434257.3]                                       153
@@ -178,7 +124,7 @@ Global research identifiers
 [426413.6];[52788.30];[.270680.b];[453268.e];[4...      1
 
 [2471 rows x 1 columns]
-[2024-01-16 15:22:47] - PPROC: drop column '2. Underpinning research'
+[2024-01-23 16:31:49] - PPROC: drop column '2. Underpinning research'
                                                     count
 2. Underpinning research                                 
       Climate-vulnerable developing countries a...      2
@@ -194,5 +140,5 @@ Global research identifiers
       Zooniverse has its origins in the Galaxy ...      1
 
 [6349 rows x 1 columns]
-[2024-01-16 15:22:50] SAVED pre-processed dataset to 'data/processed/sheets/ImpactCaseStudies_ppreprocessed.csv.gz'
-[2024-01-16 15:22:50] DELETED 'data/processed/sheets/ImpactCaseStudies.csv.gz'
+[2024-01-23 16:31:53] SAVED pre-processed dataset to 'data/processed/sheets/ImpactCaseStudies_ppreprocessed.csv.gz'
+[2024-01-23 16:31:53] DELETED 'data/processed/sheets/ImpactCaseStudies.csv.gz'

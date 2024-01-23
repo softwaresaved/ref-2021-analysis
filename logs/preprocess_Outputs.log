@@ -1,72 +1,11 @@
-[2024-01-16 15:22:59] READ 'data/processed/sheets/Outputs.csv.gz': 185353 records
-[2024-01-16 15:22:59] PPROC actions for 'Outputs' sheet
-[2024-01-16 15:22:59] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-16 15:22:59] - PPROC: rename 'Output type' to 'Output type code'
-[2024-01-16 15:22:59] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2024-01-16 15:23:00] - PPROC: replace styling characters in the following columns
-[2024-01-16 15:23:00] - ['Title']
-[2024-01-16 15:23:00] - PPROC: add columns for panel and output types names
-[2024-01-16 15:23:00] - PPROC: drop columns '['Main panel code', 'Unit of assessment number', 'Output type code']'
-[2024-01-16 15:23:00] - PPROC: drop column 'Multiple submission letter'
-                            count
-Multiple submission letter       
-A                            1391
-B                            1161
-[2024-01-16 15:23:00] - PPROC: drop column 'Multiple submission name'
-                                                    count
-Multiple submission name                                 
-26A - Modern Languages                                347
-Music                                                 163
-UoG Submission in Allied Health Professions & N...    134
-22B - Development Studies                             123
-22A - Anthropology                                    121
-UoA25A UCL School of Slavonic & East European S...    110
-22B Development Studies                               106
-Drama                                                  97
-Development Studies                                    97
-26B - Linguistics                                      85
-Media, Communications and Cultural Studies (MCCS)      73
-22B: International Development                         73
-A – Faculty of Creative Industries, University ...     64
-28B: International History                             62
-Media and Communication                                61
-B – Theatre, Film, Television and Interactive M...     61
-Modern Languages                                       61
-UoA32B The Slade School of Fine Art                    51
-Social Anthropology                                    50
-22A: Anthropology                                      48
-Performance and Cultural Industries                    47
-UoA32A UCL History of Art Department                   46
-22A Anthropology                                       45
-28A: Economic History                                  44
-A - Music                                              42
-Institute of Creative and Cultural Entrepreneur...     39
-B – Royal Welsh College of Music and Drama             38
-Drama, Dance, Performing Arts, Film and Screen ...     38
-Dance                                                  34
-UoA25B Institute of the Americas (UCL-IA)              31
-Linguistics                                            31
-Film                                                   30
-Museum Studies                                         28
-Typography and Graphic Communication                   25
-26B - Celtic and Gaelic                                23
-Art                                                    23
-Joint Submission - University of Kent-Medway Sc...      1
-[2024-01-16 15:23:00] - PPROC: drop column 'Joint submission'
-                                                    count
-Joint submission                                         
-(joint submission with University of Edinburgh)       915
-(joint submission with Heriot-Watt University)        714
-(joint submission with Birkbeck College and Ins...    458
-(joint submission with SRUC)                          365
-(joint submission with University of Sussex)          163
-(joint submission with University of Brighton)        136
-(joint submission with University of St Andrews)      112
-(joint submission with Birkbeck College)              105
-(joint submission with University of Greenwich)        57
-(joint submission with Institute of Zoology and...     48
-(joint submission with Birkbeck College and Uni...     42
-(joint submission with University College London)      21
-(joint submission with The University of Kent)          1
-[2024-01-16 15:23:04] SAVED pre-processed dataset to 'data/processed/sheets/Outputs_ppreprocessed.csv.gz'
-[2024-01-16 15:23:04] DELETED 'data/processed/sheets/Outputs.csv.gz'
+[2024-01-23 16:32:02] READ 'data/processed/sheets/Outputs.csv.gz': 185353 records
+[2024-01-23 16:32:02] PPROC actions for 'Outputs' sheet
+[2024-01-23 16:32:02] - PPROC: rename 'Main panel' to 'Main panel code'
+[2024-01-23 16:32:02] - PPROC: rename 'Output type' to 'Output type code'
+[2024-01-23 16:32:02] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
+[2024-01-23 16:32:03] - PPROC: replace styling characters in the following columns
+[2024-01-23 16:32:03] - ['Title']
+[2024-01-23 16:32:03] - PPROC: add columns for panel and output types names
+[2024-01-23 16:32:03] - PPROC: drop columns '['Main panel code', 'Unit of assessment number', 'Output type code']'
+[2024-01-23 16:32:06] SAVED pre-processed dataset to 'data/processed/sheets/Outputs_ppreprocessed.csv.gz'
+[2024-01-23 16:32:06] DELETED 'data/processed/sheets/Outputs.csv.gz'

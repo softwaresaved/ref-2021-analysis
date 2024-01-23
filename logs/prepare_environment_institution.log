@@ -1,5 +1,5 @@
-[2024-01-19 11:43:16] PPROC actions for institution environment statements
-[2024-01-19 11:43:16] - read data from 'data/processed/environment_statements/extracted/institution' 
-[2024-01-19 11:43:16] - statements: 143, sections: 4
-[2024-01-19 11:43:16] - prepared institution statements: 143 records, 5 columns
-[2024-01-19 11:43:16] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsInstitutionLevel.csv.gz'
+[2024-01-23 16:31:34] PPROC actions for institution environment statements
+[2024-01-23 16:31:34] - read data from 'data/processed/environment_statements/extracted/institution' 
+[2024-01-23 16:31:34] - statements: 143, sections: 4
+[2024-01-23 16:31:35] - prepared institution statements: 143 records, 5 columns
+[2024-01-23 16:31:35] - write to '/Users/mihaela/Documents/work/ssi_work/ref-2021-analysis/data/processed/environment_statements/prepared/EnvStatementsInstitutionLevel.csv.gz'

@@ -7,6 +7,7 @@ COL_UOA_NUMBER = 'Unit of assessment number'
 COL_UOA_NAME = 'Unit of assessment name'
 # about the institution etc
 COL_INST_CODE = 'Institution UKPRN code'
+COL_INST_CODE_BRACKETS = 'Institution code (UKPRN)'
 COL_INST_NAME = 'Institution name'
 COL_RG_CODE = 'Research group code'
 COL_RG_NAME = 'Research group name'
@@ -57,8 +58,10 @@ COL_IMPACT_FORMAL_PARTNERS = "Formal partners"
 COL_IMPACT_GLOBAL_ID = "Global research identifiers"
 
 # about results
+COL_RESULTS_SORT_ORDER = 'Institution sort order'
 COL_RESULTS_FTE_STAFF = 'FTE of submitted staff'
 COL_RESULTS_PERC_STAFF_SUBMITTED = '% of eligible staff submitted'
+COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT = 'Total FTE of submitted staff for joint submission'
 COL_RESULTS_PERC_STAFF_SUBMITTED_BINNED = f"{COL_RESULTS_PERC_STAFF_SUBMITTED} (binned)"
 COL_RESULTS_4star = '4 stars'
 COL_RESULTS_3star = '3 stars'

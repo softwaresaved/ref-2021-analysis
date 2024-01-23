@@ -89,18 +89,6 @@ def preprocess_outputs(dset, sname="Outputs", replace_na=False):
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
 
-    # drop the columns not relevant for current visualisations
-    # --------------------------------------------------------
-    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
-                       cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB]
-    for column in columns_to_drop:
-        dset_stats = dset[column].value_counts().to_frame(name="count")
-        dset_stats.index.name = column
-        dset = dset.drop(column, axis=1)
-        lg.print_tstamp(f"- PPROC: drop column '{column}'")
-        print(f"{dset_stats}")
-
     return dset
 
 
@@ -160,10 +148,7 @@ def preprocess_impacts(dset, sname="ImpactCaseStudies", replace_na=False):
 
     # drop the columns not relevant for current visualisations and/or to minimize file size
     # -------------------------------------------------------------------------------------
-    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
-                       cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB,
-                       cb.COL_IMPACT_ORCID,
+    columns_to_drop = [cb.COL_IMPACT_ORCID,
                        cb.COL_IMPACT_GRANT_FUNDING,
                        cb.COL_IMPACT_REFERENCES_RESEARCH,
                        cb.COL_IMPACT_CORROBORATE,
@@ -216,18 +201,6 @@ def preprocess_degrees(dset, sname="ResearchDoctoralDegreesAwarded", replace_na=
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
 
-    # drop the columns not relevant for current visualisations
-    # --------------------------------------------------------
-    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
-                       cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB]
-    for column in columns_to_drop:
-        dset_stats = dset[column].value_counts().to_frame(name="count")
-        dset_stats.index.name = column
-        dset = dset.drop(column, axis=1)
-        lg.print_tstamp(f"- PPROC: drop column '{column}'")
-        print(f"{dset_stats}")
-
     # calculate the total number of degrees awarded
     # ---------------------------------------------
     column_to_sum = [cb.COL_DEGREES_2013, cb.COL_DEGREES_2014, cb.COL_DEGREES_2015,
@@ -273,18 +246,6 @@ def preprocess_income(dset, sname="ResearchIncome", replace_na=False):
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
 
-    # drop the columns not relevant for current visualisations
-    # --------------------------------------------------------
-    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
-                       cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB]
-    for column in columns_to_drop:
-        dset_stats = dset[column].value_counts().to_frame(name="count")
-        dset_stats.index.name = column
-        dset = dset.drop(column, axis=1)
-        lg.print_tstamp(f"- PPROC: drop column '{column}'")
-        print(f"{dset_stats}")
-
     return dset
 
 
@@ -322,18 +283,6 @@ def preprocess_incomeinkind(dset, sname="ResearchIncomeInKind", replace_na=False
                        ]
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
-
-    # drop the columns not relevant for current visualisations
-    # --------------------------------------------------------
-    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
-                       cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB]
-    for column in columns_to_drop:
-        dset_stats = dset[column].value_counts().to_frame(name="count")
-        dset_stats.index.name = column
-        dset = dset.drop(column, axis=1)
-        lg.print_tstamp(f"- PPROC: drop column '{column}'")
-        print(f"{dset_stats}")
 
     return dset
 
@@ -373,18 +322,6 @@ def preprocess_rgroups(dset, sname="ResearchGroups", replace_na=False):
                        ]
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
-
-    # drop the columns not relevant for current visualisations
-    # --------------------------------------------------------
-    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
-                       cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB]
-    for column in columns_to_drop:
-        dset_stats = dset[column].value_counts().to_frame(name="count")
-        dset_stats.index.name = column
-        dset = dset.drop(column, axis=1)
-        lg.print_tstamp(f"- PPROC: drop column '{column}'")
-        print(f"{dset_stats}")
 
     return dset
 
@@ -455,15 +392,14 @@ def preprocess_results(dset, sname="Results", replace_na=False):
 
     # drop the columns not relevant for current visualisations
     # --------------------------------------------------------
-    columns_to_drop = [cb.COL_MULT_SUB_LETTER,
-                       cb.COL_MULT_SUB_NAME,
-                       cb.COL_JOINT_SUB]
+    columns_to_drop = [cb.COL_INST_CODE_BRACKETS,
+                       cb.COL_RESULTS_SORT_ORDER]
     for column in columns_to_drop:
         dset_stats = dset[column].value_counts().to_frame(name="count")
         dset_stats.index.name = column
         dset = dset.drop(column, axis=1)
         lg.print_tstamp(f"- PPROC: drop column '{column}'")
-        print(f"{dset_stats}")
+        # print(f"{dset_stats}")
 
     return dset
 
@@ -524,6 +460,7 @@ def preprocess_sheet(sname):
     #                 index=True,
     #                 compression='gzip')
     # lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
+
 
     # delete infname
     # --------------
