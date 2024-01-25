@@ -364,9 +364,8 @@ def preprocess_results(dset, sname="Results", replace_na=False):
 
     # bin percentages
     # ---------------
-    columns = [cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
-               cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
-               cb.COL_RESULTS_4star,
+    # COL_RESULTS_PERC_STAFF_SUBMITTED, COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT not binned, not < 100%
+    columns = [cb.COL_RESULTS_4star,
                cb.COL_RESULTS_3star,
                cb.COL_RESULTS_2star,
                cb.COL_RESULTS_1star,
@@ -421,21 +420,23 @@ def preprocess_results(dset, sname="Results", replace_na=False):
                       cb.COL_RESULTS_2star,
                       cb.COL_RESULTS_1star,
                       cb.COL_RESULTS_UNCLASSIFIED]
-    columns_values.extend([f"{column} (binned)" for column in columns_values])
+    columns_values.extend([f"{column} (binned)" for column in columns_values[2:]])
     suffix = "evaluation"
 
     # columns to drop from the wide format because they are duplicates
     columns_to_drop = [f"{pivot_value} {suffix} - {column_value}"
                        for pivot_value in column_pivot_values[1:]
                        for column_value in columns_values[:2]]
-    columns_to_drop.extend([f"{column} (binned)" for column in columns_to_drop])
+    # these are not binned as not < 100%
+    # columns_to_drop.extend([f"{column} (binned)" for column in columns_to_drop])
+
     # columms to rename in the wide format after dropping the duplicates
     columns_to_rename = {}
     for column_value in columns_values[:2]:
         label = f"{column_pivot_values[0]} {suffix} - {column_value}"
         columns_to_rename[label] = f"{column_value}"
-        label = f"{column_pivot_values[0]} {suffix} - {column_value} (binned)"
-        columns_to_rename[label] = f"{column_value} (binned)"
+        # label = f"{column_pivot_values[0]} {suffix} - {column_value} (binned)"
+        # columns_to_rename[label] = f"{column_value} (binned)"
 
     # pivot and drop duplcate columns
     dset = dset.pivot(index=columns_index, columns=column_pivot, values=columns_values)
