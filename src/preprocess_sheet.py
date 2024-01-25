@@ -425,18 +425,18 @@ def preprocess_results(dset, sname="Results", replace_na=False):
     suffix = "evaluation"
 
     # columns to drop from the wide format because they are duplicates
-    columns_to_drop = [f"{pivot_value} {suffix}: {column_value}"
+    columns_to_drop = [f"{pivot_value} {suffix} - {column_value}"
                        for pivot_value in column_pivot_values[1:]
                        for column_value in columns_values[:2]]
     # columms to rename in the wide format after dropping the duplicates
     columns_to_rename = {}
     for column_value in columns_values[:2]:
-        label = f"{column_pivot_values[0]} {suffix}: {column_value}"
+        label = f"{column_pivot_values[0]} {suffix} - {column_value}"
         columns_to_rename[label] = f"{column_value}"
 
     # pivot and drop duplcate columns
     dset = dset.pivot(index=columns_index, columns=column_pivot, values=columns_values)
-    columns = [f'{column[1]} {suffix}: {column[0]}' for column in dset.columns]
+    columns = [f'{column[1]} {suffix} - {column[0]}' for column in dset.columns]
     dset.columns = columns
     dset = dset[sorted(columns)]
     dset.drop(columns=columns_to_drop, inplace=True)
@@ -512,11 +512,11 @@ def preprocess_sheet(sname):
     #                 compression='gzip')
     # lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
-    # REVERT THIS
-    # delete infname
-    # --------------
-    os.remove(os.path.join(rw.PROJECT_PATH, infname))
-    lg.print_tstamp(f"DELETED '{infname}'")
+    # # REVERT THIS
+    # # delete infname
+    # # --------------
+    # os.remove(os.path.join(rw.PROJECT_PATH, infname))
+    # lg.print_tstamp(f"DELETED '{infname}'")
 
     # restore stdout
     # --------------
