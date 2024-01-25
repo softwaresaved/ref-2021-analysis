@@ -93,13 +93,14 @@ LOG_EXTRACT_RESULTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
 LOG_PPROC_RESULTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
 DATA_EXTRACT_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
 DATA_PPROC_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
-
-# environment statements
-# ----------------------
+# environment statements: institution
 ENV_INSTITUTION = "institution"
-ENV_UNIT = "unit"
 LOG_PREPARE_ENV_INSTITUTION = f"{LOG_PREPARE}environment_institution{LOG_EXT}"
+DATA_PREPARE_ENV_INSTITUTION = f"{PROCESSED_ENV_PREPARED_PATH}EnvStatementsInstitutionLevel{DATA_EXT}"
+# environment statements: unit
+ENV_UNIT = "unit"
 LOG_PREPARE_ENV_UNIT = f"{LOG_PREPARE}environment_unit{LOG_EXT}"
+DATA_PREPARE_ENV_UNIT = f"{PROCESSED_ENV_PREPARED_PATH}EnvStatementsUnitLevel{DATA_EXT}"
 
 
 def clean_folders():

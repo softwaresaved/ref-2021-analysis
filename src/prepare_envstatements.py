@@ -291,8 +291,7 @@ def prepare_institution_statements(prefix="Institution environment statement - "
         lg.print_tstamp(f"- WARNING: prepared institution statements "
                         f"{dset.shape[0]}/{statement_count}")
 
-    fname = os.path.join(rw.PROJECT_PATH, outputpath,
-                         "EnvStatementsInstitutionLevel.csv.gz")
+    fname = rw.DATA_PREPARE_ENV_INSTITUTION   
     lg.print_tstamp(f"- write to '{fname}'")
     dset.to_csv(fname, index=False,
                 compression='gzip')
@@ -361,8 +360,7 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
         lg.print_tstamp(f"- WARNING: prepared institution statements "
                         f"{dset.shape[0]}/{statement_count}")
 
-    fname = os.path.join(rw.PROJECT_PATH, outputpath,
-                         "EnvStatementsUnitLevel.csv.gz")
+    fname = rw.DATA_PREPARE_ENV_Unit
     lg.print_tstamp(f"- write to '{fname}'")
     dset.to_csv(fname, index=False,
                 compression='gzip')

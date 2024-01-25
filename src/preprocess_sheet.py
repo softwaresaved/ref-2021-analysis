@@ -509,6 +509,27 @@ def preprocess_sheet(sname):
                 compression='gzip')
     lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
+    if sname == "Results":
+        lg.print_tstamp(f"PPROC merge with unit environment statements for '{sname}' sheet")
+        # read unit environment statements, merge and save
+        # -----------------------------------------------
+        infname = rw.DATA_PREPARE_ENV_UNIT
+        dset_uenv = pd.read_csv(infname, compression='gzip')
+        lg.print_tstamp(f"- READ '{infname}': {dset_uenv.shape[0]} records")
+
+        columns_to_merge_on = [cb.COL_INST_NAME,
+                               cb.COL_UOA_NAME,
+                                cb.COL_MULT_SUB_LETTER]
+        dset = pd.merge(dset, dset_uenv, how='left', on=columns_to_merge_on)
+        lg.print_tstamp(f"- MERGED {sname} with unit environment statements': {dset.shape[0]} records")
+
+        fname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_PPROCESS}_uenv{rw.DATA_EXT}")
+        dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
+                    index=True,
+                    compression='gzip')
+        lg.print_tstamp(f"SAVED merged dataset to '{fname}'")
+
+
     # provision for saving as parquet, not used right now
     # fname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_PPROCESS}.parquet")
     # dset.to_parquet(os.path.join(rw.PROJECT_PATH, fname),
