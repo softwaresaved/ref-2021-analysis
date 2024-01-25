@@ -36,6 +36,24 @@ rule unzip_environment:
         "mv {rw.RAW_ENV_PATH}/Institution* {rw.ENV_INST_PATH}"
         "mv {rw.RAW_ENV_PATH}/Unit* {rw.ENV_UNIT_PATH}"
 
+# prepare the environment statements
+# ----------------------------------
+rule prepare_environments_institution:
+    input:
+        rules.setup.output
+    output:
+        rw.LOG_PREPARE_ENV_INSTITUTION
+    shell:
+        "python src/prepare_envstatements.py -e {rw.ENV_INSTITUTION}"
+
+rule prepare_environments_unit:
+    input:
+        rules.setup.output
+    output:
+        rw.LOG_PREPARE_ENV_UNIT
+    shell:
+        "python src/prepare_envstatements.py -e {rw.ENV_UNIT}"
+
 # extract & preprocess OUTPUTS
 # ----------------------------
 rule extract_outputs:
@@ -163,27 +181,9 @@ rule extract_results:
 
 rule preprocess_results:
     input:
-        rules.extract_results.output
+        rules.extract_results.output,
         rules.prepare_environments_unit.output
     output:
         rw.LOG_PPROC_RESULTS
     shell:
         "python src/preprocess_sheet.py -s {rw.SHEET_RESULTS}"    
-
-# prepare the environment statements
-# ----------------------------------
-rule prepare_environments_institution:
-    input:
-        rules.setup.output
-    output:
-        rw.LOG_PREPARE_ENV_INSTITUTION
-    shell:
-        "python src/prepare_envstatements.py -e {rw.ENV_INSTITUTION}"
-
-rule prepare_environments_unit:
-    input:
-        rules.setup.output
-    output:
-        rw.LOG_PREPARE_ENV_UNIT
-    shell:
-        "python src/prepare_envstatements.py -e {rw.ENV_UNIT}"
