@@ -164,6 +164,7 @@ rule extract_results:
 rule preprocess_results:
     input:
         rules.extract_results.output
+        rules.prepare_environments_unit.output
     output:
         rw.LOG_PPROC_RESULTS
     shell:
