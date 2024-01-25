@@ -463,7 +463,7 @@ def preprocess_sheet(sname):
     # redirect stdout to a buffer
     # ---------------------------
     buffer = StringIO()
-    # sys.stdout = buffer
+    sys.stdout = buffer
 
     # read data
     # ---------
@@ -511,10 +511,10 @@ def preprocess_sheet(sname):
     # lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
     # REVERT THIS
-    # # delete infname
-    # # --------------
-    # os.remove(os.path.join(rw.PROJECT_PATH, infname))
-    # lg.print_tstamp(f"DELETED '{infname}'")
+    # delete infname
+    # --------------
+    os.remove(os.path.join(rw.PROJECT_PATH, infname))
+    lg.print_tstamp(f"DELETED '{infname}'")
 
     # restore stdout
     # --------------
