@@ -365,6 +365,7 @@ def preprocess_results(dset, sname="Results", replace_na=False):
     # bin percentages
     # ---------------
     columns = [cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
+               cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
                cb.COL_RESULTS_4star,
                cb.COL_RESULTS_3star,
                cb.COL_RESULTS_2star,
@@ -420,6 +421,7 @@ def preprocess_results(dset, sname="Results", replace_na=False):
                       cb.COL_RESULTS_2star,
                       cb.COL_RESULTS_1star,
                       cb.COL_RESULTS_UNCLASSIFIED]
+    columns_values.extend([f"{column} (binned)" for column in columns_values])
     suffix = "evaluation"
 
     # columns to drop from the wide format because they are duplicates
@@ -463,7 +465,7 @@ def preprocess_sheet(sname):
     # redirect stdout to a buffer
     # ---------------------------
     buffer = StringIO()
-    sys.stdout = buffer
+    # sys.stdout = buffer
 
     # read data
     # ---------
