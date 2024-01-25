@@ -8,15 +8,15 @@ rule all:
     input:
         rw.RAW_SUBMISSIONS_FNAME,
         rw.LOG_SETUP,
-        rw.LOG_PREPARE_ENV_INSTITUTION,
-        rw.LOG_PREPARE_ENV_UNIT,
         rw.LOG_PPROC_OUTPUTS,
         rw.LOG_PPROC_IMPACTS,
         rw.LOG_PPROC_DEGREES,
         rw.LOG_PPROC_INCOME,
         rw.LOG_PPROC_INCOMEINKIND,
         rw.LOG_PPROC_RGROUPS,
-        rw.LOG_PPROC_RESULTS
+        rw.LOG_PPROC_RESULTS,
+        rw.LOG_PREPARE_ENV_INSTITUTION,
+        rw.LOG_PREPARE_ENV_UNIT
         
 rule setup:
     output:
@@ -35,24 +35,6 @@ rule unzip_environment:
         "unzip {rw.ENV_FNAME} -O GB18030 -d {rw.RAW_ENV_PATH} 1> {rw.LOG_UNZIP}"
         "mv {rw.RAW_ENV_PATH}/Institution* {rw.ENV_INST_PATH}"
         "mv {rw.RAW_ENV_PATH}/Unit* {rw.ENV_UNIT_PATH}"
-
-# prepare the environment statements
-# ----------------------------------
-rule prepare_environments_institution:
-    input:
-        rules.setup.output
-    output:
-        rw.LOG_PREPARE_ENV_INSTITUTION
-    shell:
-        "python src/prepare_envstatements.py -e {rw.ENV_INSTITUTION}"
-
-rule prepare_environments_unit:
-    input:
-        rules.setup.output
-    output:
-        rw.LOG_PREPARE_ENV_UNIT
-    shell:
-        "python src/prepare_envstatements.py -e {rw.ENV_UNIT}"
 
 # extract & preprocess OUTPUTS
 # ----------------------------
@@ -186,3 +168,21 @@ rule preprocess_results:
         rw.LOG_PPROC_RESULTS
     shell:
         "python src/preprocess_sheet.py -s {rw.SHEET_RESULTS}"    
+
+# prepare the environment statements
+# ----------------------------------
+rule prepare_environments_institution:
+    input:
+        rules.setup.output
+    output:
+        rw.LOG_PREPARE_ENV_INSTITUTION
+    shell:
+        "python src/prepare_envstatements.py -e {rw.ENV_INSTITUTION}"
+
+rule prepare_environments_unit:
+    input:
+        rules.setup.output
+    output:
+        rw.LOG_PREPARE_ENV_UNIT
+    shell:
+        "python src/prepare_envstatements.py -e {rw.ENV_UNIT}"
