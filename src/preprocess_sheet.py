@@ -455,6 +455,31 @@ def preprocess_results(dset, sname="Results", replace_na=False):
     # flatten index
     dset.reset_index(inplace=True)
 
+    # replace na in cb.COL_MULT_SUB_LETTER with VALUE_ADDED_NOT_SPECIFIED to enable merge
+    dset[cb.COL_MULT_SUB_LETTER] = dset[cb.COL_MULT_SUB_LETTER].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+
+    # read and merge information from research groups
+    # -----------------------------------------------
+    infname = rw.DATA_PPROC_RGROUPS
+    dset_rgroups = pd.read_csv(infname, compression='gzip')
+    
+    # replace na in cb.COL_MULT_SUB_LETTER with VALUE_ADDED_NOT_SPECIFIED
+    dset_rgroups[cb.COL_MULT_SUB_LETTER] = \
+        dset_rgroups[cb.COL_MULT_SUB_LETTER].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+
+    columns_index = [cb.COL_INST_NAME,
+                     cb.COL_UOA_NAME,
+                     cb.COL_MULT_SUB_LETTER]
+    dset_stats = dset_rgroups[columns_index].value_counts()\
+                                            .to_frame(name="Research group submissions")\
+                                            .reset_index()
+    dset = pd.merge(dset, dset_stats, how='left', on=columns_index)
+    
+    # replace VALUE_ADDED_NOT_SPECIFIED in cb.COL_MULT_SUB_LETTER with empty string
+    dset[cb.COL_MULT_SUB_LETTER] = \
+        dset[cb.COL_MULT_SUB_LETTER].replace(cb.VALUE_ADDED_NOT_SPECIFIED, "")
+
+
     return dset
 
 
@@ -509,6 +534,7 @@ def preprocess_sheet(sname):
                 compression='gzip')
     lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
+    # REVERT THIS
     if sname == "Results":
         lg.print_tstamp(f"PPROC merge with unit environment statements for '{sname}' sheet")
         # read unit environment statements, merge and save
@@ -528,7 +554,6 @@ def preprocess_sheet(sname):
                     index=True,
                     compression='gzip')
         lg.print_tstamp(f"SAVED merged dataset to '{fname}'")
-
 
     # provision for saving as parquet, not used right now
     # fname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_PPROCESS}.parquet")
