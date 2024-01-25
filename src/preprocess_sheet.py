@@ -401,6 +401,54 @@ def preprocess_results(dset, sname="Results", replace_na=False):
         lg.print_tstamp(f"- PPROC: drop column '{column}'")
         # print(f"{dset_stats}")
 
+    # setup the pivoting action
+    columns_index = [cb.COL_INST_NAME,
+                     cb.COL_PANEL_NAME,
+                     cb.COL_UOA_NAME,
+                     cb.COL_MULT_SUB_LETTER,
+                     cb.COL_MULT_SUB_NAME,
+                     cb.COL_JOINT_SUB]
+    column_pivot = cb.COL_RESULTS_PROFILE
+    column_pivot_values = sorted(dset[column_pivot].unique())
+
+    # first two are assumed to the perc staff submitted that have the same value for all profiles
+    # for which duplicates are dropped and the column name is changed
+    columns_values = [cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
+                      cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
+                      cb.COL_RESULTS_4star,
+                      cb.COL_RESULTS_3star,
+                      cb.COL_RESULTS_2star,
+                      cb.COL_RESULTS_1star,
+                      cb.COL_RESULTS_UNCLASSIFIED]
+    suffix = "evaluation"
+
+    # columns to drop from the wide format because they are duplicates
+    columns_to_drop = [f"{pivot_value} {suffix}: {column_value}"
+                       for pivot_value in column_pivot_values[1:]
+                       for column_value in columns_values[:2]]
+    # columms to rename in the wide format after dropping the duplicates
+    columns_to_rename = {}
+    for column_value in columns_values[:2]:
+        label = f"{column_pivot_values[0]} {suffix}: {column_value}"
+        columns_to_rename[label] = f"{column_value}"
+
+    # pivot and drop duplcate columns
+    dset = dset.pivot(index=columns_index, columns=column_pivot, values=columns_values)
+    columns = [f'{column[1]} {suffix}: {column[0]}' for column in dset.columns]
+    dset.columns = columns
+    dset = dset[sorted(columns)]
+    dset.drop(columns=columns_to_drop, inplace=True)
+
+    # rename columns and move the re-named columns to the front
+    dset.rename(columns=columns_to_rename, inplace=True)
+    columns = [column for column in columns_to_rename.values()]
+    columns.extend([column for column in dset.columns.tolist() 
+                    if column not in columns_to_rename.values()])
+    dset = dset[columns]
+
+    # flatten index
+    dset.reset_index(inplace=True)
+
     return dset
 
 
@@ -411,10 +459,11 @@ def preprocess_sheet(sname):
         sname (str): Name of the sheet to preprocess.
     """
 
+    # REVERT THIS
     # redirect stdout to a buffer
     # ---------------------------
     buffer = StringIO()
-    sys.stdout = buffer
+    # sys.stdout = buffer
 
     # read data
     # ---------
@@ -461,11 +510,11 @@ def preprocess_sheet(sname):
     #                 compression='gzip')
     # lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
-
-    # delete infname
-    # --------------
-    os.remove(os.path.join(rw.PROJECT_PATH, infname))
-    lg.print_tstamp(f"DELETED '{infname}'")
+    # REVERT THIS
+    # # delete infname
+    # # --------------
+    # os.remove(os.path.join(rw.PROJECT_PATH, infname))
+    # lg.print_tstamp(f"DELETED '{infname}'")
 
     # restore stdout
     # --------------

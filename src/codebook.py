@@ -59,6 +59,7 @@ COL_IMPACT_GLOBAL_ID = "Global research identifiers"
 
 # about results
 COL_RESULTS_SORT_ORDER = 'Institution sort order'
+COL_RESULTS_PROFILE = 'Profile'
 COL_RESULTS_FTE_STAFF = 'FTE of submitted staff'
 COL_RESULTS_PERC_STAFF_SUBMITTED = '% of eligible staff submitted'
 COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT = 'Total FTE of submitted staff for joint submission'
