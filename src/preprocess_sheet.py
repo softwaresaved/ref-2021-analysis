@@ -626,6 +626,10 @@ def preprocess_sheet(sname, mode="production"):
         dset_uenv = pd.read_csv(infname, compression='gzip')
         lg.print_tstamp(f"- READ '{infname}': {dset_uenv.shape[0]} records")
 
+        # replace na in cb.COL_MULT_SUB_LETTER with "" for merging
+        dset_uenv[cb.COL_MULT_SUB_LETTER] = \
+            dset_uenv[cb.COL_MULT_SUB_LETTER].fillna("")
+
         columns_index = [cb.COL_INST_NAME,
                          cb.COL_UOA_NAME,
                          cb.COL_MULT_SUB_LETTER]
