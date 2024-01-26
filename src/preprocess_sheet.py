@@ -323,6 +323,9 @@ def preprocess_rgroups(dset, sname="ResearchGroups", replace_na=False):
     dset = dset.drop(columns_to_drop, axis=1)
     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
 
+    dset[cb.COL_MULT_SUB_LETTER] = \
+        dset[cb.COL_MULT_SUB_LETTER].fillna("")
+
     return dset
 
 
@@ -448,53 +451,77 @@ def preprocess_results(dset, sname="Results", replace_na=False):
     # rename columns and move the re-named columns to the front
     dset.rename(columns=columns_to_rename, inplace=True)
     columns = [column for column in columns_to_rename.values()]
-    columns.extend([column for column in dset.columns.tolist() 
+    columns.extend([column for column in dset.columns.tolist()
                     if column not in columns_to_rename.values()])
     dset = dset[columns]
 
     # flatten index
     dset.reset_index(inplace=True)
 
-    # replace na in cb.COL_MULT_SUB_LETTER with VALUE_ADDED_NOT_SPECIFIED to enable merge
-    dset[cb.COL_MULT_SUB_LETTER] = dset[cb.COL_MULT_SUB_LETTER].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    # replace na in COL_MULT_SUB_LETTER with VALUE_ADDED_NOT_SPECIFIED to enable merge
+    dset[cb.COL_MULT_SUB_LETTER] = dset[cb.COL_MULT_SUB_LETTER].fillna("")
+
+    # prepare to merge with extra information
+    # ---------------------------------------
+    # columns for merging the extra information
+    columns_index = [cb.COL_INST_NAME,
+                     cb.COL_UOA_NAME,
+                     cb.COL_MULT_SUB_LETTER]
 
     # read and merge information from research groups
     # -----------------------------------------------
     infname = rw.DATA_PPROC_RGROUPS
-    dset_rgroups = pd.read_csv(infname, compression='gzip')
-    
-    # replace na in cb.COL_MULT_SUB_LETTER with VALUE_ADDED_NOT_SPECIFIED
-    dset_rgroups[cb.COL_MULT_SUB_LETTER] = \
-        dset_rgroups[cb.COL_MULT_SUB_LETTER].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
+    dset_extra = pd.read_csv(infname, compression='gzip')
 
-    columns_index = [cb.COL_INST_NAME,
-                     cb.COL_UOA_NAME,
-                     cb.COL_MULT_SUB_LETTER]
-    dset_stats = dset_rgroups[columns_index].value_counts()\
-                                            .to_frame(name="Research group submissions")\
-                                            .reset_index()
+    # replace na in cb.COL_MULT_SUB_LETTER with "" for merging
+    dset_extra[cb.COL_MULT_SUB_LETTER] = \
+        dset_extra[cb.COL_MULT_SUB_LETTER].fillna("")
+    column_name = "Research group submissions"
+    dset_stats = dset_extra[columns_index].value_counts()\
+                                          .to_frame(name=column_name)\
+                                          .reset_index()
     dset = pd.merge(dset, dset_stats, how='left', on=columns_index)
-    
-    # replace VALUE_ADDED_NOT_SPECIFIED in cb.COL_MULT_SUB_LETTER with empty string
-    dset[cb.COL_MULT_SUB_LETTER] = \
-        dset[cb.COL_MULT_SUB_LETTER].replace(cb.VALUE_ADDED_NOT_SPECIFIED, "")
+    dset[column_name] = dset[column_name].fillna(0)
 
+    lg.print_tstamp(f"- PPROC: added column '{column_name}'")
+    if dset_extra.shape[0] != dset[column_name].sum():
+        lg.print_tstamp(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
+
+
+    # read and merge the information from outputs
+    infname = rw.DATA_PPROC_OUTPUTS
+    dset_extra = pd.read_csv(infname, compression='gzip')
+
+    # replace na in cb.COL_MULT_SUB_LETTER with "" for merging
+    dset_extra[cb.COL_MULT_SUB_LETTER] = \
+        dset_extra[cb.COL_MULT_SUB_LETTER].fillna("")
+
+    column_name = "Output submissions"
+    dset_stats = dset_extra[columns_index].value_counts()\
+                                          .to_frame(name=column_name)\
+                                          .reset_index()
+    dset = pd.merge(dset, dset_stats, how='left', on=columns_index)
+    dset[column_name] = dset[column_name].fillna(0)
+
+    lg.print_tstamp(f"- PPROC: added column '{column_name}'")
+    if dset_extra.shape[0] != dset[column_name].sum():
+        lg.print_tstamp(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
 
     return dset
 
 
-def preprocess_sheet(sname):
+def preprocess_sheet(sname, mode="production"):
     """ Preprocess a sheet from the raw data.
 
     Args:
         sname (str): Name of the sheet to preprocess.
     """
 
-    # REVERT THIS
     # redirect stdout to a buffer
     # ---------------------------
     buffer = StringIO()
-    sys.stdout = buffer
+    if mode == "production":
+        sys.stdout = buffer
 
     # read data
     # ---------
@@ -534,26 +561,28 @@ def preprocess_sheet(sname):
                 compression='gzip')
     lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
-    # REVERT THIS
-    if sname == "Results":
-        lg.print_tstamp(f"PPROC merge with unit environment statements for '{sname}' sheet")
-        # read unit environment statements, merge and save
-        # -----------------------------------------------
-        infname = rw.DATA_PREPARE_ENV_UNIT
-        dset_uenv = pd.read_csv(infname, compression='gzip')
-        lg.print_tstamp(f"- READ '{infname}': {dset_uenv.shape[0]} records")
+    # # REVERT THIS
+    # if sname == "Results":
+    #     lg.print_tstamp(f"PPROC merge with unit environment statements for '{sname}' sheet")
+    #     # read unit environment statements, merge and save
+    #     # -----------------------------------------------
+    #     infname = rw.DATA_PREPARE_ENV_UNIT
+    #     dset_uenv = pd.read_csv(infname, compression='gzip')
+    #     lg.print_tstamp(f"- READ '{infname}': {dset_uenv.shape[0]} records")
 
-        columns_to_merge_on = [cb.COL_INST_NAME,
-                               cb.COL_UOA_NAME,
-                                cb.COL_MULT_SUB_LETTER]
-        dset = pd.merge(dset, dset_uenv, how='left', on=columns_to_merge_on)
-        lg.print_tstamp(f"- MERGED {sname} with unit environment statements': {dset.shape[0]} records")
+    #     columns_index = [cb.COL_INST_NAME,
+    #                      cb.COL_UOA_NAME,
+    #                      cb.COL_MULT_SUB_LETTER]
+    #     dset = pd.merge(dset, dset_uenv, how='left', on=columns_index)
+    #     lg.print_tstamp(f"- MERGED {sname} with unit environment statements': "
+    #                     f"{dset.shape[0]} records")
 
-        fname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_PPROCESS}_uenv{rw.DATA_EXT}")
-        dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
-                    index=True,
-                    compression='gzip')
-        lg.print_tstamp(f"SAVED merged dataset to '{fname}'")
+    #     fname = os.path.join(rw.PROCESSED_SHEETS_PATH,
+    #                          f"{sname}{rw.DATA_PPROCESS}_uenv{rw.DATA_EXT}")
+    #     dset.to_csv(os.path.join(rw.PROJECT_PATH, fname),
+    #                 index=True,
+    #                 compression='gzip')
+    #     lg.print_tstamp(f"SAVED merged dataset to '{fname}'")
 
     # provision for saving as parquet, not used right now
     # fname = os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.DATA_PPROCESS}.parquet")
@@ -562,11 +591,11 @@ def preprocess_sheet(sname):
     #                 compression='gzip')
     # lg.print_tstamp(f"SAVED pre-processed dataset to '{fname}'")
 
-    # REVERT THIS
     # delete infname
     # --------------
-    os.remove(os.path.join(rw.PROJECT_PATH, infname))
-    lg.print_tstamp(f"DELETED '{infname}'")
+    if mode == "production":
+        os.remove(os.path.join(rw.PROJECT_PATH, infname))
+        lg.print_tstamp(f"DELETED '{infname}'")
 
     # restore stdout
     # --------------
@@ -588,6 +617,12 @@ if __name__ == "__main__":
                         required=True,
                         help="name of the sheet to preprocess")
 
+    # add a mode argument with a default value
+    parser.add_argument("-m", "--mode",
+                        required=False,
+                        default="production",
+                        help="mode of operation: production, develop")
+
     args = parser.parse_args()
     sname = args.sheetname
-    preprocess_sheet(sname)
+    preprocess_sheet(sname, args.mode)
