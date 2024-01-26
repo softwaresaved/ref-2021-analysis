@@ -484,9 +484,10 @@ def preprocess_results(dset, sname="Results", replace_na=False):
     dset[column_name] = dset[column_name].fillna(0)
 
     lg.print_tstamp(f"- PPROC: added column '{column_name}'")
-    if dset_extra.shape[0] != dset[column_name].sum():
-        lg.print_tstamp(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
-
+    nrecords = dset_extra.shape[0]
+    entries_count = dset[column_name].sum()
+    if nrecords != entries_count:
+        lg.print_tstamp(f"WARNING: {nrecords} != {entries_count}")
 
     # read and merge the information from outputs
     infname = rw.DATA_PPROC_OUTPUTS
@@ -504,23 +505,63 @@ def preprocess_results(dset, sname="Results", replace_na=False):
     dset[column_name] = dset[column_name].fillna(0)
 
     lg.print_tstamp(f"- PPROC: added column '{column_name}'")
-    if dset_extra.shape[0] != dset[column_name].sum():
-        lg.print_tstamp(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
+    nrecords = dset_extra.shape[0]
+    entries_count = dset[column_name].sum()
+    if nrecords != entries_count:
+        lg.print_tstamp(f"WARNING: {nrecords} != {entries_count}")
 
     column_to_count = "Output type"
     for value in dset_extra[column_to_count].unique():
         selected_indices = dset_extra[column_to_count] == value
         column_selected = f"{column_name} - {value}"
         dset_stats = dset_extra.loc[selected_indices, columns_index].value_counts()\
-                                          .to_frame(name=column_selected)\
-                                          .reset_index()
+                               .to_frame(name=column_selected)\
+                               .reset_index()
         dset = pd.merge(dset, dset_stats, how='left', on=columns_index)
         dset[column_selected] = dset[column_selected].fillna(0)
         lg.print_tstamp(f"- PPROC: added column '{column_selected}'")
-        nrecords =  dset_extra.loc[selected_indices, column_to_count].shape[0]
+        nrecords = dset_extra.loc[selected_indices, column_to_count].shape[0]
         entries_count = dset[column_selected].sum()
         if nrecords != entries_count:
             lg.print_tstamp(f"WARNING: {nrecords} != {entries_count}")
+
+    # read and merge the information from outputs
+    infname = rw.DATA_PPROC_IMPACTS
+    dset_extra = pd.read_csv(infname, compression='gzip')
+
+    # replace na in cb.COL_MULT_SUB_LETTER with "" for merging
+    dset_extra[cb.COL_MULT_SUB_LETTER] = \
+        dset_extra[cb.COL_MULT_SUB_LETTER].fillna("")
+
+    column_name = "Impact case study submissions"
+    dset_stats = dset_extra[columns_index].value_counts()\
+                                          .to_frame(name=column_name)\
+                                          .reset_index()
+    dset = pd.merge(dset, dset_stats, how='left', on=columns_index)
+    dset[column_name] = dset[column_name].fillna(0)
+
+    lg.print_tstamp(f"- PPROC: added column '{column_name}'")
+    if dset_extra.shape[0] != dset[column_name].sum():
+        lg.print_tstamp(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
+
+    # read and merge the information from outputs
+    infname = rw.DATA_PPROC_DEGREES
+    dset_extra = pd.read_csv(infname, compression='gzip')
+
+    # replace na in cb.COL_MULT_SUB_LETTER with "" for merging
+    dset_extra[cb.COL_MULT_SUB_LETTER] = \
+        dset_extra[cb.COL_MULT_SUB_LETTER].fillna("")
+
+    columns_to_merge = [cb.COL_DEGREES_TOTAL]
+    columns_all = columns_index.copy()
+    columns_all.extend(columns_to_merge)
+    dset = pd.merge(dset, dset_extra[columns_all], how='left', on=columns_index)
+
+    lg.print_tstamp(f"- PPROC: added columns '{columns_to_merge}'")
+    extra_sum = dset_extra[columns_to_merge[0]].sum()
+    dset_sum = dset[columns_to_merge[0]].sum()
+    if extra_sum != dset_sum:
+        lg.print_tstamp(f"WARNING: {extra_sum} != {dset_sum}")
 
     return dset
 

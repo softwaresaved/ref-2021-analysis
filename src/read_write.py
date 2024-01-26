@@ -22,8 +22,10 @@ RAW_ENV_PATH = os.path.join(RAW_PATH, "environment_statements/")
 RAW_ENV_INST_PATH = os.path.join(RAW_ENV_PATH, "institution/")
 RAW_ENV_UNIT_PATH = os.path.join(RAW_ENV_PATH, "unit/")
 PROCESSED_SHEETS_PATH = os.path.join(DATA_PATH, "processed/sheets/")
-PROCESSED_ENV_EXTRACTED_PATH = os.path.join(DATA_PATH, "processed/environment_statements/extracted/")
-PROCESSED_ENV_PREPARED_PATH = os.path.join(DATA_PATH, "processed/environment_statements/prepared/")
+PROCESSED_ENV_EXTRACTED_PATH = os.path.join(DATA_PATH,
+                                            "processed/environment_statements/extracted/")
+PROCESSED_ENV_PREPARED_PATH = os.path.join(DATA_PATH,
+                                           "processed/environment_statements/prepared/")
 
 REQUIRED_FOLDERS = [LOG_PATH,
                     PROCESSED_SHEETS_PATH,
@@ -67,6 +69,7 @@ SHEET_DEGREES = sheet
 LOG_EXTRACT_DEGREES = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
 LOG_PPROC_DEGREES = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
 DATA_EXTRACT_DEGREES = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
+DATA_PPROC_DEGREES = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
 # ResearchIncome
 sheet = SHEETS[3]
 SHEET_INCOME = sheet
@@ -96,7 +99,8 @@ DATA_PPROC_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
 # environment statements: institution
 ENV_INSTITUTION = "institution"
 LOG_PREPARE_ENV_INSTITUTION = f"{LOG_PREPARE}environment_institution{LOG_EXT}"
-DATA_PREPARE_ENV_INSTITUTION = f"{PROCESSED_ENV_PREPARED_PATH}EnvStatementsInstitutionLevel{DATA_EXT}"
+DATA_PREPARE_ENV_INSTITUTION = f"{PROCESSED_ENV_PREPARED_PATH}"\
+                               f"EnvStatementsInstitutionLevel{DATA_EXT}"
 # environment statements: unit
 ENV_UNIT = "unit"
 LOG_PREPARE_ENV_UNIT = f"{LOG_PREPARE}environment_unit{LOG_EXT}"
