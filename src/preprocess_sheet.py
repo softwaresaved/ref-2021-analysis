@@ -507,6 +507,21 @@ def preprocess_results(dset, sname="Results", replace_na=False):
     if dset_extra.shape[0] != dset[column_name].sum():
         lg.print_tstamp(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
 
+    column_to_count = "Output type"
+    for value in dset_extra[column_to_count].unique():
+        selected_indices = dset_extra[column_to_count] == value
+        column_selected = f"{column_name} - {value}"
+        dset_stats = dset_extra.loc[selected_indices, columns_index].value_counts()\
+                                          .to_frame(name=column_selected)\
+                                          .reset_index()
+        dset = pd.merge(dset, dset_stats, how='left', on=columns_index)
+        dset[column_selected] = dset[column_selected].fillna(0)
+        lg.print_tstamp(f"- PPROC: added column '{column_selected}'")
+        nrecords =  dset_extra.loc[selected_indices, column_to_count].shape[0]
+        entries_count = dset[column_selected].sum()
+        if nrecords != entries_count:
+            lg.print_tstamp(f"WARNING: {nrecords} != {entries_count}")
+
     return dset
 
 
