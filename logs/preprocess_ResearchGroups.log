@@ -1,8 +1,0 @@
-[2024-01-23 16:31:39] READ 'data/processed/sheets/ResearchGroups.csv.gz': 2036 records
-[2024-01-23 16:31:39] PPROC actions for 'ResearchGroups' sheet
-[2024-01-23 16:31:39] - PPROC: rename 'Main panel' to 'Main panel code'
-[2024-01-23 16:31:39] - PPROC: replace '['/', ':']' with '_' in 'Institution name'
-[2024-01-23 16:31:39] - PPROC: add columns for panel names
-[2024-01-23 16:31:39] - PPROC: drop columns '['Main panel code', 'Unit of assessment number']'
-[2024-01-23 16:31:39] SAVED pre-processed dataset to 'data/processed/sheets/ResearchGroups_ppreprocessed.csv.gz'
-[2024-01-23 16:31:39] DELETED 'data/processed/sheets/ResearchGroups.csv.gz'
