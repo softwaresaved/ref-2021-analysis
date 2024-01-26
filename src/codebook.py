@@ -17,6 +17,8 @@ COL_ENV_STATEMENT = 'Environment statement'
 COL_MULT_SUB_LETTER = 'Multiple submission letter'
 COL_MULT_SUB_NAME = 'Multiple submission name'
 COL_JOINT_SUB = 'Joint submission'
+# abount the research income
+COL_INCOME_TOTAL = 'Total income for academic years 2013-14 to 2019-20'
 # about the degrees awarded
 COL_DEGREES_2013 = 'Number of doctoral degrees awarded in academic year 2013'
 COL_DEGREES_2014 = 'Number of doctoral degrees awarded in academic year 2014'
