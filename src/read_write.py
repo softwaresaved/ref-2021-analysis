@@ -1,12 +1,14 @@
 import os
-import shutil
+# import shutil
 import pandas as pd
+import logging
+
 import codebook as cb
 import preprocess as pp
-import logs as lg
 
 # logs
 LOG_PATH = "logs/"
+LOG_INTERIM_PATH = f"{LOG_PATH}interim/"
 LOG_EXT = ".log"
 LOG_SETUP = os.path.join(LOG_PATH, f"setup{LOG_EXT}")
 LOG_UNZIP = os.path.join(LOG_PATH, f"unzip_environment_statements{LOG_EXT}")
@@ -28,6 +30,7 @@ PROCESSED_ENV_PREPARED_PATH = os.path.join(DATA_PATH,
                                            "processed/environment_statements/prepared/")
 
 REQUIRED_FOLDERS = [LOG_PATH,
+                    f"{LOG_PATH}interim/",
                     PROCESSED_SHEETS_PATH,
                     PROCESSED_ENV_PREPARED_PATH
                     ]
@@ -44,97 +47,94 @@ SHEETS = ["Outputs",
           "ResearchIncome",
           "ResearchIncomeInKind",
           "ResearchGroups"]
-DATA_EXT = ".csv.gz"
+DATA_EXTS = [".csv.gz", ".parquet"]
 DATA_PPROCESS = "_ppreprocessed"
 
 # logs and output files
 # ---------------------
-# Outputs
-sheet = SHEETS[0]
-SHEET_OUTPUTS = sheet
-LOG_EXTRACT_OUTPUTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
-LOG_PPROC_OUTPUTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
-DATA_EXTRACT_OUTPUTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
-DATA_PPROC_OUTPUTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
-# ImpactCaseStudies
-sheet = SHEETS[1]
-SHEET_IMPACTS = sheet
-LOG_EXTRACT_IMPACTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
-LOG_PPROC_IMPACTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
-DATA_EXTRACT_IMPACTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
-DATA_PPROC_IMPACTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
-# ResearchDoctoralDegreesAwarded
-sheet = SHEETS[2]
-SHEET_DEGREES = sheet
-LOG_EXTRACT_DEGREES = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
-LOG_PPROC_DEGREES = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
-DATA_EXTRACT_DEGREES = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
-DATA_PPROC_DEGREES = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
-# ResearchIncome
-sheet = SHEETS[3]
-SHEET_INCOME = sheet
-LOG_EXTRACT_INCOME = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
-LOG_PPROC_INCOME = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
-DATA_EXTRACT_INCOME = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
-DATA_PPROC_INCOME = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
-# ResearchIncomeInKind
-sheet = SHEETS[4]
-SHEET_INCOMEINKIND = sheet
-LOG_EXTRACT_INCOMEINKIND = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
-LOG_PPROC_INCOMEINKIND = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
-DATA_EXTRACT_INCOMEINKIND = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
-DATA_PPROC_INCOMEINKIND = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
 # ResearchGroups
 sheet = SHEETS[5]
 SHEET_RGROUPS = sheet
-LOG_EXTRACT_RGROUPS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
-LOG_PPROC_RGROUPS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
-DATA_EXTRACT_RGROUPS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
-DATA_PPROC_RGROUPS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
+LOG_PPROC_RGROUPS = f"{sheet}{DATA_PPROCESS}{LOG_EXT}"
+
+# ResearchDoctoralDegreesAwarded
+sheet = SHEETS[2]
+SHEET_DEGREES = sheet
+LOG_PPROC_DEGREES = f"{sheet}{DATA_PPROCESS}{LOG_EXT}"
+
+# ResearchIncome
+sheet = SHEETS[3]
+SHEET_INCOME = sheet
+LOG_PPROC_INCOME = f"{sheet}{DATA_PPROCESS}{LOG_EXT}"
+
+# ResearchIncomeInKind
+sheet = SHEETS[4]
+SHEET_INCOMEINKIND = sheet
+LOG_PPROC_INCOMEINKIND = f"{sheet}{DATA_PPROCESS}{LOG_EXT}"
+
+# Outputs
+sheet = SHEETS[0]
+SHEET_OUTPUTS = sheet
+LOG_PPROC_OUTPUTS = f"{sheet}{DATA_PPROCESS}{LOG_EXT}"
+
+# ImpactCaseStudies
+sheet = SHEETS[1]
+SHEET_IMPACTS = sheet
+LOG_PPROC_IMPACTS = f"{sheet}{DATA_PPROCESS}{LOG_EXT}"
+
 # Results
 sheet = "Results"
 SHEET_RESULTS = sheet
-LOG_EXTRACT_RESULTS = f"{LOG_EXTRACT}{sheet}{LOG_EXT}"
-LOG_PPROC_RESULTS = f"{LOG_PPREPROCESS}{sheet}{LOG_EXT}"
-DATA_EXTRACT_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_EXT}"
-DATA_PPROC_RESULTS = f"{PROCESSED_SHEETS_PATH}{sheet}{DATA_PPROCESS}{DATA_EXT}"
+LOG_PPROC_RESULTS = f"{sheet}{DATA_PPROCESS}{LOG_EXT}"
+
 # environment statements: institution
 ENV_INSTITUTION = "institution"
 LOG_PREPARE_ENV_INSTITUTION = f"{LOG_PREPARE}environment_institution{LOG_EXT}"
-DATA_PREPARE_ENV_INSTITUTION = f"{PROCESSED_ENV_PREPARED_PATH}"\
-                               f"EnvStatementsInstitutionLevel{DATA_EXT}"
+# DATA_PREPARE_ENV_INSTITUTION = f"{PROCESSED_ENV_PREPARED_PATH}"\
+#                                f"EnvStatementsInstitutionLevel{DATA_EXT}"
+
 # environment statements: unit
 ENV_UNIT = "unit"
 LOG_PREPARE_ENV_UNIT = f"{LOG_PREPARE}environment_unit{LOG_EXT}"
-DATA_PREPARE_ENV_UNIT = f"{PROCESSED_ENV_PREPARED_PATH}EnvStatementsUnitLevel{DATA_EXT}"
+# DATA_PREPARE_ENV_UNIT = f"{PROCESSED_ENV_PREPARED_PATH}EnvStatementsUnitLevel{DATA_EXT}"
 
 
-def clean_folders():
-    """ Clean the data folders if they exist.
+def extract_sheet(fpath, sname, header, index_col=None):
+    """ Extract a sheet from an excel file and save it as csv file.
+
+    Args:
+        fpath (str): Filename of the Excel file.
+        sname (str): Name of the sheet to extract from the Excel file.
+        header (int): Row number to use as the column names.
+        index_col (int): Column number to use as the row labels.
     """
-    cleaned_folder = False
-    for path in REQUIRED_FOLDERS:
-        if os.path.exists(path):
-            shutil.rmtree(os.path.join(PROJECT_PATH, path))
-            cleaned_folder = True
-            lg.print_tstamp(f"DELETED '{path}'")
 
-    if not cleaned_folder:
-        lg.print_tstamp("None of the required folders need cleaning")
+    # read the excel file
+    dobj = pd.ExcelFile(os.path.join(PROJECT_PATH, fpath))
+    logging.info(f"{sname} - read sheet from '{fpath}'")
+
+    # parse sheet
+    dset = dobj.parse(sname,
+                      header=header,
+                      index_col=index_col
+                      )
+    logging.info(f"{sname} - parsed sheet: {dset.shape[0]} records")
+
+    return dset
 
 
-def create_folders():
-    """ Create the data folders if they do not exist.
-    """
-    created_folder = False
-    for path in REQUIRED_FOLDERS:
-        if not os.path.exists(path):
-            os.makedirs(os.path.join(PROJECT_PATH, path))
-            created_folder = True
-            lg.print_tstamp(f"CREATED '{path}'")
+def export_sheet(dset, sname):
 
-    if not created_folder:
-        lg.print_tstamp("All required folders already exist")
+    for ext in DATA_EXTS:
+        fname = os.path.join(PROCESSED_SHEETS_PATH, f"{sname}{DATA_PPROCESS}{ext}")
+        if ext == ".csv.gz":
+            dset.to_csv(os.path.join(PROJECT_PATH, fname),
+                        index=True,
+                        compression='gzip')
+        elif ext == ".parquet":
+            dset.to_parquet(os.path.join(PROJECT_PATH, fname),
+                            index=True)
+        logging.info(f"{sname} - write dataset to '{fname}'")
 
 
 def get_data(fname, do_sort=True):

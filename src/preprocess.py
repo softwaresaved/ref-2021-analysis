@@ -1,6 +1,8 @@
 """ This module contains functions for preprocessing the data """
 import pandas as pd
-import logs as lg
+import logging
+
+import codebook as cb
 
 PERCENTAGE_BINS = range(0, 101, 10)
 
@@ -8,6 +10,8 @@ TO_RENAME = {
     "Main panel": "Main panel code",
     "Output type": "Output type code",
 }
+
+TO_REPLACE = ["/", ":"]
 
 
 def clean_styling(dset, column):
@@ -70,19 +74,39 @@ def clean_fnames(fnames, template="", extension="", do_sort=True):
     return cleaned_fnames
 
 
-def rename_columns(dset):
+def rename_columns(dset, sname):
     """ Rename columns in a dataset.
 
     Args:
-        dset (pandas.DataFrame): Dataset.
+        dset (pandas.DataFrame): dataset to process
+        sname (str): label for the dataset
 
     Returns:
         pandas.DataFrame: Dataset with renamed columns.
     """
+
     for key, value in TO_RENAME.items():
         if key in dset.columns:
             dset = dset.rename(columns={key: value})
-            lg.print_tstamp(f"- PPROC: rename '{key}' to '{value}'")
+            logging.info(f"{sname} - rename '{key}' to '{value}'")
+
+    return dset
+
+
+def preprocess_inst_name(dset, sname):
+    """ Preprocess the institution name column
+        to replace characters that are not allowed in filenames.
+
+    Args:
+        dset (pd.DataFrame): Dataset to preprocess
+
+    Returns:
+        pd.DataFrame:  Dataset with cb.COL_INST_NAME column processed.
+    """
+
+    for char_to_replace in TO_REPLACE:
+        dset[cb.COL_INST_NAME] = dset[cb.COL_INST_NAME].str.replace(char_to_replace, "_")
+    logging.info(f"{sname} - replace '{TO_REPLACE}' with '_' in '{cb.COL_INST_NAME}'")
 
     return dset
 

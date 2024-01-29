@@ -31,6 +31,7 @@ COL_DEGREES_TOTAL = 'Total number of doctoral degrees awarded'
 # about the output
 COL_OUTPUT_TYPE_CODE = 'Output type code'
 COL_OUTPUT_TYPE_NAME = 'Output type'
+COL_OUTPUT_RESEARCH_GROUP = 'Research group'
 COL_OPEN_ACCESS = 'Open access status'
 COL_OUTPUT_TITLE = 'Title'
 COL_OUTPUT_SUPP = 'Supplementary information'
