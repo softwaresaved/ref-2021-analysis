@@ -12,10 +12,10 @@ rule all:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_INCOME}",
         f"{rw.LOG_PATH}{rw.LOG_PPROC_INCOMEINKIND}",
         f"{rw.LOG_PATH}{rw.LOG_PPROC_OUTPUTS}",
-        # f"{rw.LOG_PATH}{rw.LOG_PPROC_IMPACTS}",
-        # f"{rw.LOG_PATH}{rw.LOG_PREPARE_ENV_INSTITUTION}",
-        # f"{rw.LOG_PATH}{rw.LOG_PREPARE_ENV_UNIT}",
-        # f"{rw.LOG_PATH}{rw.LOG_PPROC_RESULTS}"
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_IMPACTS}",
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_INSTITUTION}",
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_UNIT}",
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_RESULTS}"
 
 # this rule is defined for completeness
 # but it is not run because the unzipping fails due to the encoding
@@ -80,14 +80,18 @@ rule preprocess_impacts:
 # prepare the environment statements
 # ----------------------------------
 rule prepare_environments_institution:
+    input:
+        rw.RAW_SUBMISSIONS_FNAME
     output:
-        rw.LOG_PREPARE_ENV_INSTITUTION
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_INSTITUTION}"
     shell:
         "python src/prepare_envstatements.py -e {rw.ENV_INSTITUTION}"
 
 rule prepare_environments_unit:
+    input:
+        rw.RAW_SUBMISSIONS_FNAME
     output:
-        rw.LOG_PREPARE_ENV_UNIT
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_UNIT}"
     shell:
         "python src/prepare_envstatements.py -e {rw.ENV_UNIT}"
 
@@ -102,8 +106,8 @@ rule preprocess_results:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_INCOMEINKIND}",
         f"{rw.LOG_PATH}{rw.LOG_PPROC_OUTPUTS}",
         f"{rw.LOG_PATH}{rw.LOG_PPROC_IMPACTS}",
-        f"{rw.LOG_PATH}{rw.LOG_PREPARE_ENV_INSTITUTION}",
-        f"{rw.LOG_PATH}{rw.LOG_PREPARE_ENV_UNIT}"
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_INSTITUTION}",
+        f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_UNIT}"
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_RESULTS}"
     shell:

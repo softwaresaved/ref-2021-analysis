@@ -99,6 +99,7 @@ def preprocess_inst_name(dset, sname):
 
     Args:
         dset (pd.DataFrame): Dataset to preprocess
+        sname (str): label for the dataset
 
     Returns:
         pd.DataFrame:  Dataset with cb.COL_INST_NAME column processed.

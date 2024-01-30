@@ -8,6 +8,12 @@ LOGGING_FORMAT = "%(asctime)s [%(levelname)s] %(message)s"
 
 
 def setup_logger(prefix, verbose=True):
+    """Setup logger.
+
+    Args:
+        prefix (str): Prefix for the log file name.
+        verbose (bool): Print log messages to console.
+    """
 
     try:
         fname = f"{prefix}.log"
