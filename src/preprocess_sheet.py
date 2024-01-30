@@ -14,7 +14,16 @@ TO_DROP = [cb.COL_INST_CODE,
            cb.COL_RESULTS_SORT_ORDER,
            cb.COL_PANEL_CODE,
            cb.COL_UOA_NUMBER,
-           cb.COL_OUTPUT_TYPE_CODE]
+           cb.COL_OUTPUT_TYPE_CODE,
+           cb.COL_IMPACT_ORCID,
+           cb.COL_IMPACT_GRANT_FUNDING,
+           cb.COL_IMPACT_REFERENCES_RESEARCH,
+           cb.COL_IMPACT_CORROBORATE,
+           cb.COL_IMPACT_IS_CONTINUED,
+           cb.COL_IMPACT_COUNTRIES,
+           cb.COL_IMPACT_FORMAL_PARTNERS,
+           cb.COL_IMPACT_GLOBAL_ID,
+           cb.COL_IMPACT_UNDERPIN_RESEARCH]
 
 TO_CATEGORY = [cb.COL_INST_NAME,
                cb.COL_PANEL_NAME,
@@ -34,81 +43,8 @@ TO_CATEGORY = [cb.COL_INST_NAME,
                cb.COL_OUTPUT_CRIMINOLOGY,
                cb.COL_OUTPUT_DOUBLE_WEIGHTING,
                cb.COL_OUTPUT_RESERVE_OUTPUT,
-               cb.COL_OUTPUT_DELAYED]
-
-# def preprocess_impacts(dset, sname="ImpactCaseStudies", replace_na=False):
-#     """ Preprocess the data from the ImpactCaseStudies sheet
-#     """
-
-#     lg.print_tstamp(f"PPROC actions for '{sname}' sheet")
-#     # rename columns for clarity
-#     # ---------------------------
-#     dset = pp.rename_columns(dset)
-
-#     # preprocess institution name
-#     # ---------------------------
-#     dset = preprocess_inst_name(dset)
-
-#     if replace_na:
-#         # replace missing values in object columns
-#         # ----------------------------------------
-#         columns_to_fill = dset.select_dtypes(include=['object']).columns.to_list()
-#         dset[columns_to_fill] = dset[columns_to_fill].fillna(cb.VALUE_ADDED_NOT_SPECIFIED)
-#         lg.print_tstamp(f"- PPROC: replace missing values with '{cb.VALUE_ADDED_NOT_SPECIFIED}'")
-
-#     # shift columns from title to the left
-#     # ------------------------------------
-#     columns = dset.columns.tolist()
-#     dset = dset.drop(cb.COL_IMPACT_TITLE, axis=1)
-#     dset.columns = columns[:-1]
-#     lg.print_tstamp("- PPROC: shift columns from title to the left to fix raw data issue ")
-
-#     # replace various styling characters selected columns
-#     # ---------------------------------------------------
-#     columns = [cb.COL_IMPACT_SUMMARY,
-#                cb.COL_IMPACT_UNDERPIN_RESEARCH,
-#                cb.COL_IMPACT_REFERENCES_RESEARCH,
-#                cb.COL_IMPACT_DETAILS,
-#                cb.COL_IMPACT_CORROBORATE
-#                ]
-#     for column in columns:
-#         dset = pp.clean_styling(dset, column)
-#     lg.print_tstamp("- PPROC: replace styling characters in the following columns")
-#     lg.print_tstamp(f"- {columns}")
-
-#     # assign names where we only have codes
-#     # -------------------------------------
-#     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-#     dset = pp.move_last_column(dset, cb.COL_INST_NAME)
-#     lg.print_tstamp("- PPROC: add column for panels names")
-
-#     # drop the code columns
-#     # ---------------------
-#     columns_to_drop = [cb.COL_PANEL_CODE,
-#                        cb.COL_UOA_NUMBER
-#                        ]
-#     dset = dset.drop(columns_to_drop, axis=1)
-#     lg.print_tstamp(f"- PPROC: drop columns '{columns_to_drop}'")
-
-#     # drop the columns not relevant for current visualisations and/or to minimize file size
-#     # -------------------------------------------------------------------------------------
-#     columns_to_drop = [cb.COL_IMPACT_ORCID,
-#                        cb.COL_IMPACT_GRANT_FUNDING,
-#                        cb.COL_IMPACT_REFERENCES_RESEARCH,
-#                        cb.COL_IMPACT_CORROBORATE,
-#                        cb.COL_IMPACT_IS_CONTINUED,
-#                        cb.COL_IMPACT_COUNTRIES,
-#                        cb.COL_IMPACT_FORMAL_PARTNERS,
-#                        cb.COL_IMPACT_GLOBAL_ID,
-#                        cb.COL_IMPACT_UNDERPIN_RESEARCH]
-#     for column in columns_to_drop:
-#         dset_stats = dset[column].value_counts().to_frame(name="count")
-#         dset_stats.index.name = column
-#         dset = dset.drop(column, axis=1)
-#         lg.print_tstamp(f"- PPROC: drop column '{column}'")
-#         print(f"{dset_stats}")
-
-#     return dset
+               cb.COL_OUTPUT_DELAYED,
+               cb.COL_IMPACT_IS_CONTINUED]
 
 
 # def preprocess_results(dset, sname="Results", replace_na=False):
@@ -374,6 +310,7 @@ TO_CATEGORY = [cb.COL_INST_NAME,
 
 #     return dset
 
+
 def preprocess_rgroups(dset):
     """ Preprocess the data from the ResearchGroups sheet
 
@@ -430,6 +367,32 @@ def preprocess_outputs(dset):
     return dset
 
 
+def preprocess_impacts(dset, sname="ImpactCaseStudies", replace_na=False):
+    """ Preprocess the data from the ImpactCaseStudies sheet
+    """
+
+    # shift columns from title to the left
+    # ------------------------------------
+    columns = dset.columns.tolist()
+    dset = dset.drop(cb.COL_IMPACT_TITLE, axis=1)
+    dset.columns = columns[:-1]
+    logging.info(f"{sname} - shift columns from title to the left to fix raw data issue ")
+
+    # replace various styling characters selected columns
+    # ---------------------------------------------------
+    columns = [cb.COL_IMPACT_SUMMARY,
+               cb.COL_IMPACT_UNDERPIN_RESEARCH,
+               cb.COL_IMPACT_REFERENCES_RESEARCH,
+               cb.COL_IMPACT_DETAILS,
+               cb.COL_IMPACT_CORROBORATE
+               ]
+    for column in columns:
+        dset = pp.clean_styling(dset, column)
+    logging.info(f"{sname} - replace styling characters in {columns}")
+
+    return dset
+
+
 def preprocess_sheet(sname):
     """ Preprocess a sheet from the raw data.
 
@@ -469,12 +432,14 @@ def preprocess_sheet(sname):
     dset.index.name = "Record"
 
     # runs specific pre-processing if needed
-    if sname == "ResearchGroups":
+    if sname == rw.SHEET_RGROUPS:
         dset = preprocess_rgroups(dset)
-    elif sname == "ResearchDoctoralDegreesAwarded":
+    elif sname == rw.SHEET_DEGREES:
         dset = preprocess_degrees(dset)
-    elif sname == "Outputs":
+    elif sname == rw.SHEET_OUTPUTS:
         dset = preprocess_outputs(dset)
+    elif sname == rw.SHEET_IMPACTS:
+        dset = preprocess_impacts(dset)
 
     # drop the code columns
     columns_to_drop = list(set(TO_DROP).intersection(dset.columns))
