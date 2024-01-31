@@ -9,47 +9,6 @@ import read_write as rw
 import codebook as cb
 import preprocess as pp
 
-TO_DROP = [
-    cb.COL_INST_CODE,
-    cb.COL_INST_CODE_BRACKETS,
-    cb.COL_RESULTS_SORT_ORDER,
-    cb.COL_PANEL_CODE,
-    cb.COL_UOA_NUMBER,
-    cb.COL_OUTPUT_TYPE_CODE,
-    cb.COL_IMPACT_ORCID,
-    cb.COL_IMPACT_GRANT_FUNDING,
-    cb.COL_IMPACT_REFERENCES_RESEARCH,
-    cb.COL_IMPACT_CORROBORATE,
-    cb.COL_IMPACT_IS_CONTINUED,
-    cb.COL_IMPACT_COUNTRIES,
-    cb.COL_IMPACT_FORMAL_PARTNERS,
-    cb.COL_IMPACT_GLOBAL_ID,
-    cb.COL_IMPACT_UNDERPIN_RESEARCH,
-]
-
-TO_CATEGORY = [
-    cb.COL_INST_NAME,
-    cb.COL_PANEL_NAME,
-    cb.COL_UOA_NAME,
-    cb.COL_MULT_SUB_LETTER,
-    cb.COL_MULT_SUB_NAME,
-    cb.COL_JOINT_SUB,
-    cb.COL_RESULTS_PROFILE,
-    cb.COL_OUTPUT_TYPE_NAME,
-    cb.COL_OUTPUT_RESEARCH_GROUP,
-    cb.COL_OPEN_ACCESS,
-    cb.COL_OUTPUT_CITATIONS,
-    cb.COL_OUTPUT_CROSS_REFERRAL,
-    cb.COL_OUTPUT_INTERDISCIPLINARY,
-    cb.COL_OUTPUT_NON_ENGLISH,
-    cb.COL_OUTPUT_FORENSIC_SCIENCE,
-    cb.COL_OUTPUT_CRIMINOLOGY,
-    cb.COL_OUTPUT_DOUBLE_WEIGHTING,
-    cb.COL_OUTPUT_RESERVE_OUTPUT,
-    cb.COL_OUTPUT_DELAYED,
-    cb.COL_IMPACT_IS_CONTINUED,
-]
-
 
 def preprocess_results(dset, sname):
     """Preprocess the data from the Results sheet
@@ -87,7 +46,9 @@ def preprocess_results(dset, sname):
         cb.COL_RESULTS_UNCLASSIFIED,
     ]
     for column in columns:
-        dset = pp.bin_percentages(dset, column, f"{column} (binned)")
+        dset = pp.bin_percentages(
+            dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"
+        )
     logging.info(f"{sname} - bin percentages in the {columns}")
 
     # drop the columns not relevant for current visualisations
@@ -122,7 +83,9 @@ def preprocess_results(dset, sname):
         cb.COL_RESULTS_1star,
         cb.COL_RESULTS_UNCLASSIFIED,
     ]
-    columns_values.extend([f"{column} (binned)" for column in columns_values[2:]])
+    columns_values.extend(
+        [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_values[2:]]
+    )
     suffix = "evaluation"
 
     # columns to drop from the wide format because they are duplicates
@@ -132,7 +95,9 @@ def preprocess_results(dset, sname):
         for column_value in columns_values[:2]
     ]
     # these are not binned as not < 100%
-    # columns_to_drop.extend([f"{column} (binned)" for column in columns_to_drop])
+    # columns_to_drop.extend(
+    #     [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_to_drop]
+    # )
 
     # columms to rename in the wide format after dropping the duplicates
     columns_to_rename = {}
@@ -159,8 +124,10 @@ def preprocess_results(dset, sname):
     )
     dset = dset[columns]
 
-    # make all (binned) columns categorical
-    columns_to_category = [column for column in dset.columns if "(binned)" in column]
+    # make all binned columns categorical
+    columns_to_category = [
+        column for column in dset.columns if cb.COLUMN_NAME_BINNED_SUFFIX in column
+    ]
     for column in columns_to_category:
         dset[column] = pd.Categorical(dset[column])
 
@@ -179,7 +146,8 @@ def preprocess_results(dset, sname):
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
-    column_name = "Research group submissions"
+    column_to_count = "Research group submissions"
+    column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
     dset_stats = (
         dset_extra[columns_index]
         .value_counts()
@@ -188,20 +156,22 @@ def preprocess_results(dset, sname):
     )
     dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
     dset[column_name] = dset[column_name].fillna(0)
-
     logging.info(f"{sname} - added column '{column_name}'")
+    
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
         logging.info(f"WARNING: {nrecords} != {entries_count}")
 
     # read and merge the information from outputs
+    # --------------------------------------------
     infname = os.path.join(
         rw.PROCESSED_SHEETS_PATH, f"{rw.SHEET_OUTPUTS}{rw.PPROCESS}{rw.DATA_EXTS[0]}"
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
-    column_name = "Output submissions"
+    column_to_count = "Output submissions"
+    column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
     dset_stats = (
         dset_extra[columns_index]
         .value_counts()
@@ -220,7 +190,7 @@ def preprocess_results(dset, sname):
     column_to_count = "Output type"
     for value in dset_extra[column_to_count].unique():
         selected_indices = dset_extra[column_to_count] == value
-        column_selected = f"{column_name} - {value}"
+        column_selected = f"{column_name} - {value}{cb.COLUMN_NAME_ADDED_SUFFIX}"
         dset_stats = (
             dset_extra.loc[selected_indices, columns_index]
             .value_counts()
@@ -241,7 +211,8 @@ def preprocess_results(dset, sname):
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
-    column_name = "Impact case study submissions"
+    column_to_count = "Impact case study submissions"
+    column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
     dset_stats = (
         dset_extra[columns_index]
         .value_counts()
@@ -324,8 +295,6 @@ def preprocess_income(dset, sname):
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
     logging.info(f"{sname} - make income source categorical")
-    print(dset[cb.COL_INCOME_SOURCE].dtype)
-    print(dset[cb.COL_INCOME_SOURCE].cat.categories)
 
     return dset
 
@@ -496,12 +465,12 @@ def preprocess_sheet(sname):
         dset, dset_extra = preprocess_results(dset, sname)
 
     # drop the code columns
-    columns_to_drop = list(set(TO_DROP).intersection(dset.columns))
+    columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset.columns))
     dset = dset.drop(columns_to_drop, axis=1)
     logging.info(f"{sname} - drop columns '{columns_to_drop}'")
 
     # make categorical
-    columns_to_category = list(set(TO_CATEGORY).intersection(dset.columns))
+    columns_to_category = list(set(cb.COLUMNS_TO_CATEGORY).intersection(dset.columns))
     if len(columns_to_category) > 0:
         logging.info(f"{sname} - make categorical {columns_to_category}")
         for column in columns_to_category:

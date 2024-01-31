@@ -1,10 +1,9 @@
-2024-01-31 09:38:05,180 [INFO] ResearchDoctoralDegreesAwarded - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-01-31 09:38:05,359 [INFO] ResearchDoctoralDegreesAwarded - parsed sheet: 1888 records
-2024-01-31 09:38:05,360 [INFO] ResearchDoctoralDegreesAwarded - rename 'Main panel' to 'Main panel code'
-2024-01-31 09:38:05,361 [INFO] ResearchDoctoralDegreesAwarded - replace '['/', ':']' with '_' in 'Institution name'
-2024-01-31 09:38:05,362 [INFO] ResearchDoctoralDegreesAwarded - add columns for panel names
-2024-01-31 09:38:05,363 [INFO] ResearchDoctoralDegreesAwarded - calculate total number of degrees awarded
-2024-01-31 09:38:05,363 [INFO] ResearchDoctoralDegreesAwarded - drop columns '['Unit of assessment number', 'Main panel code', 'Institution UKPRN code']'
-2024-01-31 09:38:05,363 [INFO] ResearchDoctoralDegreesAwarded - make categorical ['Multiple submission name', 'Main panel name', 'Institution name', 'Multiple submission letter', 'Joint submission', 'Unit of assessment name']
-2024-01-31 09:38:05,376 [INFO] ResearchDoctoralDegreesAwarded - write dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded_preprocessed.parquet'
-2024-01-31 09:38:05,399 [INFO] ResearchDoctoralDegreesAwarded - write dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded_preprocessed.csv.gz'
+2024-01-31 17:00:23,511 [INFO] ResearchDoctoralDegreesAwarded - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-01-31 17:00:23,673 [INFO] ResearchDoctoralDegreesAwarded - parsed sheet: 1888 records
+2024-01-31 17:00:23,673 [INFO] ResearchDoctoralDegreesAwarded - rename 'Main panel' to 'Main panel code'
+2024-01-31 17:00:23,674 [INFO] ResearchDoctoralDegreesAwarded - replace '['/', ':']' with '_' in 'Institution name'
+2024-01-31 17:00:23,675 [INFO] ResearchDoctoralDegreesAwarded - add columns for panel names
+2024-01-31 17:00:23,676 [INFO] ResearchDoctoralDegreesAwarded - calculate total number of degrees awarded
+2024-01-31 17:00:23,677 [INFO] ResearchDoctoralDegreesAwarded - drop columns '['Institution UKPRN code', 'Main panel code', 'Unit of assessment number']'
+2024-01-31 17:00:23,677 [INFO] ResearchDoctoralDegreesAwarded - make categorical ['Institution name', 'Multiple submission letter', 'Main panel name', 'Unit of assessment name', 'Joint submission', 'Multiple submission name']
+2024-01-31 17:00:23,690 [INFO] ResearchDoctoralDegreesAwarded - write dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded_preprocessed.parquet'

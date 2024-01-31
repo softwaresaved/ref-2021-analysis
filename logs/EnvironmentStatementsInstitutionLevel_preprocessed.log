@@ -1,5 +1,4 @@
-2024-01-31 09:38:01,186 [INFO] ENV INSTITUTION - read data from 'data/processed/environment_statements/extracted/institution' 
-2024-01-31 09:38:01,186 [INFO] ENV INSTITUTION - statements: 143, sections: 4
-2024-01-31 09:38:01,662 [INFO] ENV INSTITUTION - prepared institution statements: 143 records, 5 columns
-2024-01-31 09:38:01,722 [INFO] ENV INSTITUTION - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsInstitutionLevel_preprocessed.parquet'
-2024-01-31 09:38:01,974 [INFO] ENV INSTITUTION - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsInstitutionLevel_preprocessed.csv.gz'
+2024-01-31 17:00:19,487 [INFO] ENV INSTITUTION - read data from 'data/processed/environment_statements/extracted/institution' 
+2024-01-31 17:00:19,487 [INFO] ENV INSTITUTION - statements: 143, sections: 4
+2024-01-31 17:00:19,965 [INFO] ENV INSTITUTION - prepared institution statements: 143 records, 5 columns
+2024-01-31 17:00:20,018 [INFO] ENV INSTITUTION - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsInstitutionLevel_preprocessed.parquet'
