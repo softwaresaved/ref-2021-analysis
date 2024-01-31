@@ -123,6 +123,9 @@ def preprocess_results(dset, sname):
         ]
     )
     dset = dset[columns]
+    logging.info(
+        f"{sname} - pivot to make wide format for ratings per profile to enable analyses"
+    )
 
     # make all binned columns categorical
     columns_to_category = [
