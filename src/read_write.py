@@ -38,7 +38,7 @@ SHEETS = [
     "ResearchIncomeInKind",
     "ResearchGroups",
 ]
-DATA_EXTS = [".parquet", ".csv.gz"]
+DATA_EXTS = [".parquet"]
 PPROCESS = "_preprocessed"
 
 # logs and output files
