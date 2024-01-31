@@ -1,0 +1,5 @@
+2024-01-31 09:38:01,170 [INFO] ENV UNIT - read data from 'data/processed/environment_statements/extracted/unit' 
+2024-01-31 09:38:01,170 [INFO] ENV UNIT - statements: 1874, sections: 4
+2024-01-31 09:38:21,800 [INFO] ENV UNIT - prepared statements: 1874 records
+2024-01-31 09:38:22,200 [INFO] ENV UNIT - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsUnitLevel_preprocessed.parquet'
+2024-01-31 09:38:28,203 [INFO] ENV UNIT - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsUnitLevel_preprocessed.csv.gz'
