@@ -159,6 +159,11 @@ def preprocess_results(dset, sname):
     )
     dset = dset[columns]
 
+    # make all (binned) columns categorical
+    columns_to_category = [column for column in dset.columns if "(binned)" in column]
+    for column in columns_to_category:
+        dset[column] = pd.Categorical(dset[column])
+
     # flatten index
     dset.reset_index(inplace=True)
 

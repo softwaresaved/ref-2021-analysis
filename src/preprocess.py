@@ -153,6 +153,8 @@ def bin_percentages(dset, column, column_binned):
         include_lowest=True,
         labels=labels,
     )
+    dset[column_binned] = pd.Categorical(dset[column_binned])
+    
     return dset
 
 
