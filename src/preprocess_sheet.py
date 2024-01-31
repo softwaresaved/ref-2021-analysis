@@ -401,6 +401,10 @@ def preprocess_outputs(dset, sname):
     dset = pp.move_last_column(dset, cb.COL_UOA_NAME)
     logging.info(f"{sname} - add columns for output types names")
 
+    # make output year categorical
+    dset[cb.COL_OUTPUT_YEAR] = pd.Categorical(dset[cb.COL_OUTPUT_YEAR])
+    logging.info(f"{sname} - make output year categorical")
+
     return dset
 
 
