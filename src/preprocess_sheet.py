@@ -53,7 +53,7 @@ TO_CATEGORY = [
 
 def preprocess_results(dset, sname):
     """Preprocess the data from the Results sheet
-    
+
     Args:
         dset (pd.DataFrame): Dataset to preprocess
         sname (str): label for the dataset
@@ -274,8 +274,7 @@ def preprocess_results(dset, sname):
     dset_uenv = rw.read_dataframe(infname, sname)
 
     # replace na in cb.COL_MULT_SUB_LETTER with "" for merging
-    dset_uenv[cb.COL_MULT_SUB_LETTER] = \
-        dset_uenv[cb.COL_MULT_SUB_LETTER].fillna("")
+    dset_uenv[cb.COL_MULT_SUB_LETTER] = dset_uenv[cb.COL_MULT_SUB_LETTER].fillna("")
 
     columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
     dset_extra = pd.merge(dset, dset_uenv, how="left", on=columns_index)
@@ -334,12 +333,12 @@ def preprocess_degrees(dset, sname):
 
 def preprocess_outputs(dset, sname):
     """Preprocess the data from the Outputs sheet
-    
+
     Args:
         dset (pd.DataFrame): Dataset to preprocess
         sname (str): label for the dataset
 
-    Returns:    
+    Returns:
         pd.DataFrame:  Dataset with data pre-processed.
     """
 
@@ -362,7 +361,7 @@ def preprocess_outputs(dset, sname):
 
 def preprocess_impacts(dset, sname):
     """Preprocess the data from the ImpactCaseStudies sheet
-    
+
     Args:
         dset (pd.DataFrame): Dataset to preprocess
         sname (str): label for the dataset

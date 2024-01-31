@@ -141,7 +141,7 @@ def read_dataframe(fpath, log_prefix):
     Returns:
         dset (pandas.DataFrame): Dataset.
     """
-    
+
     ext = os.path.splitext(fpath)[1]
     if ext == ".csv.gz":
         dset = pd.read_csv(

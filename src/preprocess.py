@@ -15,12 +15,12 @@ TO_REPLACE = ["/", ":"]
 
 
 def clean_styling(dset, column):
-
-    TEXT_INSTRUCTIONS = ["(indicative maximum 100 words)",
-                         "(indicative maximum 500 words)",
-                         "(indicative maximum 750 words)",
-                         " (indicative maximum of six references)"
-                         ]
+    TEXT_INSTRUCTIONS = [
+        "(indicative maximum 100 words)",
+        "(indicative maximum 500 words)",
+        "(indicative maximum 750 words)",
+        " (indicative maximum of six references)",
+    ]
     TO_REPLACE = {
         "  ": " ",
         "‚Äò": "",  # misread left single quote
@@ -33,11 +33,11 @@ def clean_styling(dset, column):
         "\]": "]",
         "\-": "-",
         "<ins>": "",  # html tag for underline
-        "</ins>": "",   # html tag for underline
+        "</ins>": "",  # html tag for underline
         "<sup>": "",  # html tag for superscript
-        "</sup>": "",   # html tag for superscript
+        "</sup>": "",  # html tag for superscript
         "<sub>": "",  # html tag for subscript
-        "</sub>": "",   # html tag for subscript
+        "</sub>": "",  # html tag for subscript
         "\n": " ",
         "\t": " ",
     }
@@ -55,7 +55,7 @@ def clean_styling(dset, column):
 
 
 def clean_fnames(fnames, template="", extension="", do_sort=True):
-    """ Clean a list of filenames by removing a template and an extension.
+    """Clean a list of filenames by removing a template and an extension.
 
     Args:
         fnames (list): List of filenames to clean.
@@ -67,7 +67,9 @@ def clean_fnames(fnames, template="", extension="", do_sort=True):
         list: List of cleaned filenames. Filenames are sorted if do_sort is True.
     """
 
-    cleaned_fnames = [fname.replace(template, "").replace(extension, "") for fname in fnames]
+    cleaned_fnames = [
+        fname.replace(template, "").replace(extension, "") for fname in fnames
+    ]
     if do_sort:
         cleaned_fnames.sort()
 
@@ -75,7 +77,7 @@ def clean_fnames(fnames, template="", extension="", do_sort=True):
 
 
 def rename_columns(dset, sname):
-    """ Rename columns in a dataset.
+    """Rename columns in a dataset.
 
     Args:
         dset (pandas.DataFrame): dataset to process
@@ -94,7 +96,7 @@ def rename_columns(dset, sname):
 
 
 def preprocess_inst_name(dset, sname):
-    """ Preprocess the institution name column
+    """Preprocess the institution name column
         to replace characters that are not allowed in filenames.
 
     Args:
@@ -106,21 +108,23 @@ def preprocess_inst_name(dset, sname):
     """
 
     for char_to_replace in TO_REPLACE:
-        dset[cb.COL_INST_NAME] = dset[cb.COL_INST_NAME].str.replace(char_to_replace, "_")
+        dset[cb.COL_INST_NAME] = dset[cb.COL_INST_NAME].str.replace(
+            char_to_replace, "_"
+        )
     logging.info(f"{sname} - replace '{TO_REPLACE}' with '_' in '{cb.COL_INST_NAME}'")
 
     return dset
 
 
 def bin_percentages_labels():
-    """ Create bin percentage labels.
+    """Create bin percentage labels.
 
-        Returns:
-            labels (list): list of labels
+    Returns:
+        labels (list): list of labels
     """
 
     bins = PERCENTAGE_BINS
-    labels = [f"{bins[i]} to {bins[i+1]} %" for i in range(len(bins)-1)]
+    labels = [f"{bins[i]} to {bins[i+1]} %" for i in range(len(bins) - 1)]
     # labels = [f"({bins[i]}, {bins[i+1]}]" for i in range(len(bins)-1)]
     # labels[0] = f"[{bins[0]}, {bins[1]}]"
 
@@ -128,43 +132,44 @@ def bin_percentages_labels():
 
 
 def bin_percentages(dset, column, column_binned):
-    """ Bin percentages in a column of a dataset.
+    """Bin percentages in a column of a dataset.
 
-        Args:
-            dset (pandas.DataFrame): dataset
-            column (str): column name
-            column_binned (str): new column name for the binned column
+    Args:
+        dset (pandas.DataFrame): dataset
+        column (str): column name
+        column_binned (str): new column name for the binned column
 
-        Returns:
-            dset (pandas.DataFrame): dataset with new column
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
     """
 
     labels = bin_percentages_labels()
     # labels = [f"({bins[i]}, {bins[i+1]}]" for i in range(len(bins)-1)]
     # labels[0] = f"[{bins[0]}, {bins[1]}]"
-    dset[column_binned] = pd.cut(dset[column],
-                                 bins=PERCENTAGE_BINS,
-                                 right=True,
-                                 include_lowest=True,
-                                 labels=labels
-                                 )
+    dset[column_binned] = pd.cut(
+        dset[column],
+        bins=PERCENTAGE_BINS,
+        right=True,
+        include_lowest=True,
+        labels=labels,
+    )
     return dset
 
 
 def move_last_column(dset, column_before):
-    """ Move a the last column to the right of specified column.
+    """Move a the last column to the right of specified column.
 
-        Args:
-            dset (pandas.DataFrame): dataset
-            column_before (str): column name
+    Args:
+        dset (pandas.DataFrame): dataset
+        column_before (str): column name
 
-        Returns:
-            dset (pandas.DataFrame): dataset with new column
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
     """
     columns = dset.columns.tolist()
     index = columns.index(column_before)
     item = columns.pop()
-    columns.insert(index+1, item)
+    columns.insert(index + 1, item)
     dset = dset.reindex(columns=columns)
 
     return dset
