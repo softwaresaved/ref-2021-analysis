@@ -157,7 +157,7 @@ def preprocess_results(dset, sname):
     dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
     dset[column_name] = dset[column_name].fillna(0)
     logging.info(f"{sname} - added column '{column_name}'")
-    
+
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
@@ -190,7 +190,8 @@ def preprocess_results(dset, sname):
     column_to_count = "Output type"
     for value in dset_extra[column_to_count].unique():
         selected_indices = dset_extra[column_to_count] == value
-        column_selected = f"{column_name} - {value}{cb.COLUMN_NAME_ADDED_SUFFIX}"
+        # delete the ADDED suffix from the output type column name so it does not appear twice
+        column_selected = f"{column_name.replace(cb.COLUMN_NAME_ADDED_SUFFIX, '')} - {value}{cb.COLUMN_NAME_ADDED_SUFFIX}"
         dset_stats = (
             dset_extra.loc[selected_indices, columns_index]
             .value_counts()
