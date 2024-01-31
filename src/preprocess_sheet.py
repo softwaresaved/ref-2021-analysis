@@ -309,6 +309,46 @@ def preprocess_rgroups(dset, sname):
     return dset
 
 
+def preprocess_income(dset, sname):
+    """Preprocess the data from the ResearchIncome sheet
+
+    Args:
+        dset (pd.DataFrame): Dataset to preprocess
+        sname (str): label for the dataset
+
+    Returns:
+        pd.DataFrame:  Dataset with data pre-processed.
+
+    """
+
+    # make group code categorical
+    dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
+    logging.info(f"{sname} - make income source categorical")
+    print(dset[cb.COL_INCOME_SOURCE].dtype)
+    print(dset[cb.COL_INCOME_SOURCE].cat.categories)
+
+    return dset
+
+
+def preprocess_incomeinkind(dset, sname):
+    """Preprocess the data from the ResearchIncomeInKind sheet
+
+    Args:
+        dset (pd.DataFrame): Dataset to preprocess
+        sname (str): label for the dataset
+
+    Returns:
+        pd.DataFrame:  Dataset with data pre-processed.
+
+    """
+
+    # make group code categorical
+    dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
+    logging.info(f"{sname} - make income source categorical")
+
+    return dset
+
+
 def preprocess_degrees(dset, sname):
     """Preprocess the data from the ResearchDoctoralDegreesAwarded sheet
 
@@ -444,6 +484,10 @@ def preprocess_sheet(sname):
         dset = preprocess_outputs(dset, sname)
     elif sname == rw.SHEET_IMPACTS:
         dset = preprocess_impacts(dset, sname)
+    elif sname == rw.SHEET_INCOME:
+        dset = preprocess_income(dset, sname)
+    elif sname == rw.SHEET_INCOMEINKIND:
+        dset = preprocess_incomeinkind(dset, sname)
     elif sname == rw.SHEET_RESULTS:
         dset, dset_extra = preprocess_results(dset, sname)
 

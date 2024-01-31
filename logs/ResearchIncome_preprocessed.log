@@ -1,9 +1,9 @@
-2024-01-31 09:38:05,179 [INFO] ResearchIncome - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-01-31 09:38:06,610 [INFO] ResearchIncome - parsed sheet: 28637 records
-2024-01-31 09:38:06,611 [INFO] ResearchIncome - rename 'Main panel' to 'Main panel code'
-2024-01-31 09:38:06,619 [INFO] ResearchIncome - replace '['/', ':']' with '_' in 'Institution name'
-2024-01-31 09:38:06,623 [INFO] ResearchIncome - add columns for panel names
-2024-01-31 09:38:06,628 [INFO] ResearchIncome - drop columns '['Unit of assessment number', 'Institution UKPRN code', 'Main panel code']'
-2024-01-31 09:38:06,628 [INFO] ResearchIncome - make categorical ['Main panel name', 'Joint submission', 'Institution name', 'Unit of assessment name', 'Multiple submission name', 'Multiple submission letter']
-2024-01-31 09:38:06,650 [INFO] ResearchIncome - write dataset to 'data/processed/sheets/ResearchIncome_preprocessed.parquet'
-2024-01-31 09:38:06,798 [INFO] ResearchIncome - write dataset to 'data/processed/sheets/ResearchIncome_preprocessed.csv.gz'
+2024-01-31 14:13:47,927 [INFO] ResearchIncome - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-01-31 14:13:49,319 [INFO] ResearchIncome - parsed sheet: 28637 records
+2024-01-31 14:13:49,320 [INFO] ResearchIncome - rename 'Main panel' to 'Main panel code'
+2024-01-31 14:13:49,328 [INFO] ResearchIncome - replace '['/', ':']' with '_' in 'Institution name'
+2024-01-31 14:13:49,333 [INFO] ResearchIncome - add columns for panel names
+2024-01-31 14:13:49,338 [INFO] ResearchIncome - make income source categorical
+2024-01-31 14:13:49,340 [INFO] ResearchIncome - drop columns '['Unit of assessment number', 'Institution UKPRN code', 'Main panel code']'
+2024-01-31 14:13:49,340 [INFO] ResearchIncome - make categorical ['Main panel name', 'Multiple submission letter', 'Multiple submission name', 'Unit of assessment name', 'Institution name', 'Joint submission']
+2024-01-31 14:13:49,373 [INFO] ResearchIncome - write dataset to 'data/processed/sheets/ResearchIncome_preprocessed.parquet'
