@@ -1,43 +1,44 @@
-2024-02-01 13:14:40,860 [INFO] Results - read sheet from 'data/raw/REF-2021-Results-All-2022-05-06.xlsx'
-2024-02-01 13:14:41,336 [INFO] Results - parsed sheet: 7552 records
-2024-02-01 13:14:41,336 [INFO] Results - rename 'Main panel' to 'Main panel code'
-2024-02-01 13:14:41,339 [INFO] Results - replace '['/', ':']' with '_' in 'Institution name'
-2024-02-01 13:14:41,341 [INFO] Results - add columns for panel names
-2024-02-01 13:14:41,351 [INFO] Results - bin percentages in the ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
-2024-02-01 13:14:41,353 [INFO] Results - drop columns ['Institution code (UKPRN)', 'Institution sort order']
-2024-02-01 13:14:41,395 [INFO] Results - pivot to make wide format for ratings per profile to enable analyses
-2024-02-01 13:14:41,431 [INFO] Results - read dataset from 'data/processed/sheets/ResearchGroups_preprocessed.parquet'
-2024-02-01 13:14:41,437 [INFO] Results - added column 'Research group submissions (added)'
-2024-02-01 13:14:41,600 [INFO] Results - read dataset from 'data/processed/sheets/Outputs_preprocessed.parquet'
-2024-02-01 13:14:41,609 [INFO] Results - added column 'Output submissions (added)'
-2024-02-01 13:14:41,615 [INFO] Results - added column 'Output submissions - Chapter in book (added)'
-2024-02-01 13:14:41,623 [INFO] Results - added column 'Output submissions - Journal article (added)'
-2024-02-01 13:14:41,633 [INFO] Results - added column 'Output submissions - Authored book (added)'
-2024-02-01 13:14:41,638 [INFO] Results - added column 'Output submissions - Edited book (added)'
-2024-02-01 13:14:41,642 [INFO] Results - added column 'Output submissions - Exhibition (added)'
-2024-02-01 13:14:41,647 [INFO] Results - added column 'Output submissions - Performance (added)'
-2024-02-01 13:14:41,651 [INFO] Results - added column 'Output submissions - Digital or visual media (added)'
-2024-02-01 13:14:41,656 [INFO] Results - added column 'Output submissions - Conference contribution (added)'
-2024-02-01 13:14:41,661 [INFO] Results - added column 'Output submissions - Scholarly edition (added)'
-2024-02-01 13:14:41,665 [INFO] Results - added column 'Output submissions - Other (added)'
-2024-02-01 13:14:41,670 [INFO] Results - added column 'Output submissions - Working paper (added)'
-2024-02-01 13:14:41,675 [INFO] Results - added column 'Output submissions - Patent/ published patent application (added)'
-2024-02-01 13:14:41,679 [INFO] Results - added column 'Output submissions - Composition (added)'
-2024-02-01 13:14:41,684 [INFO] Results - added column 'Output submissions - Website content (added)'
-2024-02-01 13:14:41,688 [INFO] Results - added column 'Output submissions - Design (added)'
-2024-02-01 13:14:41,693 [INFO] Results - added column 'Output submissions - Artefact (added)'
-2024-02-01 13:14:41,697 [INFO] Results - added column 'Output submissions - Research report for external body (added)'
-2024-02-01 13:14:41,702 [INFO] Results - added column 'Output submissions - Research data sets and databases (added)'
-2024-02-01 13:14:41,706 [INFO] Results - added column 'Output submissions - Translation (added)'
-2024-02-01 13:14:41,711 [INFO] Results - added column 'Output submissions - Software (added)'
-2024-02-01 13:14:41,715 [INFO] Results - added column 'Output submissions - Devices and products (added)'
-2024-02-01 13:14:41,823 [INFO] Results - read dataset from 'data/processed/sheets/ImpactCaseStudies_preprocessed.parquet'
-2024-02-01 13:14:41,842 [INFO] Results - added column 'Impact case study submissions (added)'
-2024-02-01 13:14:41,844 [INFO] Results - read dataset from 'data/processed/sheets/ResearchDoctoralDegreesAwarded_preprocessed.parquet'
-2024-02-01 13:14:41,857 [INFO] Results - added columns '['Total number of doctoral degrees awarded  (added)']'
-2024-02-01 13:14:42,027 [INFO] Results - read dataset from 'data/processed/environment_statements/prepared/EnvironmentStatementsUnitLevel_preprocessed.parquet'
-2024-02-01 13:14:42,032 [INFO] Results - merged with unit environment statements: 1888 records
-2024-02-01 13:14:42,033 [INFO] Results - drop columns '[]'
-2024-02-01 13:14:42,033 [INFO] Results - make categorical ['Multiple submission letter', 'Joint submission', 'Institution name', 'Unit of assessment name', 'Multiple submission name', 'Main panel name']
-2024-02-01 13:14:42,048 [INFO] Results - write dataset to 'data/processed/sheets/Results_preprocessed.parquet'
-2024-02-01 13:14:42,478 [INFO] Results - write dataset to 'data/processed/sheets/Results_extra_preprocessed.parquet'
+2024-02-01 14:59:14,782 [INFO] Results - read sheet from 'data/raw/REF-2021-Results-All-2022-05-06.xlsx'
+2024-02-01 14:59:15,250 [INFO] Results - parsed sheet: 7552 records
+2024-02-01 14:59:15,251 [INFO] Results - rename 'Main panel' to 'Main panel code'
+2024-02-01 14:59:15,254 [INFO] Results - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-01 14:59:15,257 [INFO] Results - add columns for panel names
+2024-02-01 14:59:15,262 [INFO] Results - replace '-' with na in ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+2024-02-01 14:59:15,266 [INFO] Results - bin percentages for ['4 stars', '3 stars', '2 stars', '1 star', 'Unclassified']
+2024-02-01 14:59:15,268 [INFO] Results - drop columns ['Institution code (UKPRN)', 'Institution sort order']
+2024-02-01 14:59:15,278 [INFO] Results - pivot to make wide format for ratings per profile to enable analyses
+2024-02-01 14:59:15,343 [INFO] Results - read dataset from 'data/processed/sheets/ResearchGroups_preprocessed.parquet'
+2024-02-01 14:59:15,349 [INFO] Results - added column 'Research group submissions (added)'
+2024-02-01 14:59:15,515 [INFO] Results - read dataset from 'data/processed/sheets/Outputs_preprocessed.parquet'
+2024-02-01 14:59:15,527 [INFO] Results - added column 'Output submissions (added)'
+2024-02-01 14:59:15,534 [INFO] Results - added column 'Output submissions - Chapter in book (added)'
+2024-02-01 14:59:15,543 [INFO] Results - added column 'Output submissions - Journal article (added)'
+2024-02-01 14:59:15,549 [INFO] Results - added column 'Output submissions - Authored book (added)'
+2024-02-01 14:59:15,554 [INFO] Results - added column 'Output submissions - Edited book (added)'
+2024-02-01 14:59:15,559 [INFO] Results - added column 'Output submissions - Exhibition (added)'
+2024-02-01 14:59:15,563 [INFO] Results - added column 'Output submissions - Performance (added)'
+2024-02-01 14:59:15,568 [INFO] Results - added column 'Output submissions - Digital or visual media (added)'
+2024-02-01 14:59:15,573 [INFO] Results - added column 'Output submissions - Conference contribution (added)'
+2024-02-01 14:59:15,578 [INFO] Results - added column 'Output submissions - Scholarly edition (added)'
+2024-02-01 14:59:15,583 [INFO] Results - added column 'Output submissions - Other (added)'
+2024-02-01 14:59:15,588 [INFO] Results - added column 'Output submissions - Working paper (added)'
+2024-02-01 14:59:15,593 [INFO] Results - added column 'Output submissions - Patent/ published patent application (added)'
+2024-02-01 14:59:15,597 [INFO] Results - added column 'Output submissions - Composition (added)'
+2024-02-01 14:59:15,602 [INFO] Results - added column 'Output submissions - Website content (added)'
+2024-02-01 14:59:15,606 [INFO] Results - added column 'Output submissions - Design (added)'
+2024-02-01 14:59:15,611 [INFO] Results - added column 'Output submissions - Artefact (added)'
+2024-02-01 14:59:15,615 [INFO] Results - added column 'Output submissions - Research report for external body (added)'
+2024-02-01 14:59:15,620 [INFO] Results - added column 'Output submissions - Research data sets and databases (added)'
+2024-02-01 14:59:15,624 [INFO] Results - added column 'Output submissions - Translation (added)'
+2024-02-01 14:59:15,629 [INFO] Results - added column 'Output submissions - Software (added)'
+2024-02-01 14:59:15,633 [INFO] Results - added column 'Output submissions - Devices and products (added)'
+2024-02-01 14:59:15,743 [INFO] Results - read dataset from 'data/processed/sheets/ImpactCaseStudies_preprocessed.parquet'
+2024-02-01 14:59:15,763 [INFO] Results - added column 'Impact case study submissions (added)'
+2024-02-01 14:59:15,766 [INFO] Results - read dataset from 'data/processed/sheets/ResearchDoctoralDegreesAwarded_preprocessed.parquet'
+2024-02-01 14:59:15,779 [INFO] Results - added columns '['Total number of doctoral degrees awarded  (added)']'
+2024-02-01 14:59:15,947 [INFO] Results - read dataset from 'data/processed/environment_statements/prepared/EnvironmentStatementsUnitLevel_preprocessed.parquet'
+2024-02-01 14:59:15,954 [INFO] Results - merged with unit environment statements: 1888 records
+2024-02-01 14:59:15,954 [INFO] Results - make categorical ['Unit of assessment name', 'Institution name', 'Joint submission', 'Multiple submission letter', 'Multiple submission name', 'Main panel name']
+2024-02-01 14:59:15,955 [INFO] Results extra - make categorical ['Unit of assessment name', 'Institution name', 'Joint submission', 'Multiple submission letter', 'Multiple submission name', 'Main panel name']
+2024-02-01 14:59:15,978 [INFO] Results - write dataset to 'data/processed/sheets/Results_preprocessed.parquet'
+2024-02-01 14:59:16,390 [INFO] Results - write dataset to 'data/processed/sheets/Results_extra_preprocessed.parquet'

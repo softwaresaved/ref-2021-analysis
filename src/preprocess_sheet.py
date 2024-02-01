@@ -34,6 +34,7 @@ def preprocess_results(dset, sname):
     for column in columns:
         dset[column] = dset[column].replace(text_to_replace, float("NaN"))
         dset[column] = dset[column].astype(float)
+    logging.info(f"{sname} - replace '{text_to_replace}' with na in {columns}")
 
     # bin percentages
     # ---------------
@@ -49,7 +50,7 @@ def preprocess_results(dset, sname):
         dset = pp.bin_percentages(
             dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"
         )
-    logging.info(f"{sname} - bin percentages in the {columns}")
+    logging.info(f"{sname} - bin percentages for {columns}")
 
     # drop the columns not relevant for current visualisations
     # --------------------------------------------------------
@@ -477,8 +478,16 @@ def preprocess_sheet(sname):
 
     # drop the code columns
     columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset.columns))
-    dset = dset.drop(columns_to_drop, axis=1)
-    logging.info(f"{sname} - drop columns '{columns_to_drop}'")
+    if len(columns_to_drop) > 0:
+        dset = dset.drop(columns_to_drop, axis=1)
+        logging.info(f"{sname} - drop columns '{columns_to_drop}'")
+    if dset_extra is not None:
+        columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset_extra.columns))
+        if len(columns_to_drop) > 0:
+            dset_extra = dset_extra.drop(columns_to_drop, axis=1)
+            logging.info(
+                f"{sname} extra - drop columns '{columns_to_drop}'"
+            )
 
     # make categorical
     columns_to_category = list(set(cb.COLUMNS_TO_CATEGORY).intersection(dset.columns))
@@ -486,17 +495,26 @@ def preprocess_sheet(sname):
         logging.info(f"{sname} - make categorical {columns_to_category}")
         for column in columns_to_category:
             dset[column] = pd.Categorical(dset[column])
+    if dset_extra is not None:
+        columns_to_category = list(
+            set(cb.COLUMNS_TO_CATEGORY).intersection(dset_extra.columns)
+        )
+        if len(columns_to_category) > 0:
+            logging.info(
+                f"{sname} extra - make categorical {columns_to_category}"
+            )
+            for column in columns_to_category:
+                dset_extra[column] = pd.Categorical(dset_extra[column])
 
-    # set the index name
+    # set the index name and save the pre-processed data
     dset.index.name = "Record"
-
-    # save the pre-processed data
     rw.export_dataframe(
         dset, os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.PPROCESS}"), sname
     )
 
-    # save the extra pre-processed data
+    # set the index name and save the extra file pre-processed data
     if dset_extra is not None:
+        dset_extra.index.name = "Record"
         rw.export_dataframe(
             dset_extra,
             os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}_extra{rw.PPROCESS}"),
