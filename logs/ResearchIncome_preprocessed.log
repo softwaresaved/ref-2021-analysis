@@ -1,9 +1,10 @@
-2024-01-31 17:00:23,511 [INFO] ResearchIncome - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-01-31 17:00:24,929 [INFO] ResearchIncome - parsed sheet: 28637 records
-2024-01-31 17:00:24,930 [INFO] ResearchIncome - rename 'Main panel' to 'Main panel code'
-2024-01-31 17:00:24,938 [INFO] ResearchIncome - replace '['/', ':']' with '_' in 'Institution name'
-2024-01-31 17:00:24,942 [INFO] ResearchIncome - add columns for panel names
-2024-01-31 17:00:24,947 [INFO] ResearchIncome - make income source categorical
-2024-01-31 17:00:24,948 [INFO] ResearchIncome - drop columns '['Institution UKPRN code', 'Unit of assessment number', 'Main panel code']'
-2024-01-31 17:00:24,948 [INFO] ResearchIncome - make categorical ['Multiple submission name', 'Joint submission', 'Unit of assessment name', 'Multiple submission letter', 'Main panel name', 'Institution name']
-2024-01-31 17:00:24,972 [INFO] ResearchIncome - write dataset to 'data/processed/sheets/ResearchIncome_preprocessed.parquet'
+2024-02-01 16:25:15,792 [INFO] ResearchIncome - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-01 16:25:17,289 [INFO] ResearchIncome - parsed sheet: 28637 records
+2024-02-01 16:25:17,291 [INFO] ResearchIncome - rename 'Main panel' to 'Main panel code'
+2024-02-01 16:25:17,299 [INFO] ResearchIncome - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-01 16:25:17,303 [INFO] ResearchIncome - add columns for panel names
+2024-02-01 16:25:17,308 [INFO] ResearchIncome - make income source categorical
+2024-02-01 16:25:17,310 [INFO] ResearchIncome - drop columns '['Main panel code', 'Unit of assessment number', 'Institution UKPRN code']'
+2024-02-01 16:25:17,310 [INFO] ResearchIncome - make categorical ['Joint submission', 'Institution name', 'Multiple submission letter', 'Main panel name', 'Unit of assessment name', 'Multiple submission name']
+2024-02-01 16:25:17,333 [INFO] ResearchIncome - write dataset to 'data/processed/sheets/ResearchIncome_preprocessed.parquet'
+2024-02-01 16:25:17,480 [INFO] ResearchIncome - write dataset to 'data/processed/sheets/ResearchIncome_preprocessed.csv.gz'

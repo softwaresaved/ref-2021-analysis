@@ -1,9 +1,10 @@
-2024-01-31 17:00:23,513 [INFO] ResearchGroups - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-01-31 17:00:23,643 [INFO] ResearchGroups - parsed sheet: 2036 records
-2024-01-31 17:00:23,643 [INFO] ResearchGroups - rename 'Main panel' to 'Main panel code'
-2024-01-31 17:00:23,644 [INFO] ResearchGroups - replace '['/', ':']' with '_' in 'Institution name'
-2024-01-31 17:00:23,647 [INFO] ResearchGroups - add columns for panel names
-2024-01-31 17:00:23,648 [INFO] ResearchGroups - make group code categorical
-2024-01-31 17:00:23,648 [INFO] ResearchGroups - drop columns '['Main panel code', 'Unit of assessment number', 'Institution UKPRN code']'
-2024-01-31 17:00:23,648 [INFO] ResearchGroups - make categorical ['Multiple submission letter', 'Main panel name', 'Multiple submission name', 'Institution name', 'Unit of assessment name', 'Joint submission']
-2024-01-31 17:00:23,663 [INFO] ResearchGroups - write dataset to 'data/processed/sheets/ResearchGroups_preprocessed.parquet'
+2024-02-01 16:25:15,792 [INFO] ResearchGroups - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-01 16:25:16,001 [INFO] ResearchGroups - parsed sheet: 2036 records
+2024-02-01 16:25:16,002 [INFO] ResearchGroups - rename 'Main panel' to 'Main panel code'
+2024-02-01 16:25:16,003 [INFO] ResearchGroups - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-01 16:25:16,007 [INFO] ResearchGroups - add columns for panel names
+2024-02-01 16:25:16,009 [INFO] ResearchGroups - make group code categorical
+2024-02-01 16:25:16,009 [INFO] ResearchGroups - drop columns '['Main panel code', 'Unit of assessment number', 'Institution UKPRN code']'
+2024-02-01 16:25:16,009 [INFO] ResearchGroups - make categorical ['Unit of assessment name', 'Main panel name', 'Joint submission', 'Institution name', 'Multiple submission letter', 'Multiple submission name']
+2024-02-01 16:25:16,028 [INFO] ResearchGroups - write dataset to 'data/processed/sheets/ResearchGroups_preprocessed.parquet'
+2024-02-01 16:25:16,040 [INFO] ResearchGroups - write dataset to 'data/processed/sheets/ResearchGroups_preprocessed.csv.gz'
