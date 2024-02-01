@@ -1,11 +1,11 @@
-2024-02-01 16:25:15,803 [INFO] ImpactCaseStudies - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-02-01 16:25:16,580 [INFO] ImpactCaseStudies - parsed sheet: 6361 records
-2024-02-01 16:25:16,581 [INFO] ImpactCaseStudies - rename 'Main panel' to 'Main panel code'
-2024-02-01 16:25:16,583 [INFO] ImpactCaseStudies - replace '['/', ':']' with '_' in 'Institution name'
-2024-02-01 16:25:16,585 [INFO] ImpactCaseStudies - add columns for panel names
-2024-02-01 16:25:16,586 [INFO] ImpactCaseStudies - shift columns from title to the left to fix raw data issue 
-2024-02-01 16:25:19,828 [INFO] ImpactCaseStudies - replace styling characters in ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
-2024-02-01 16:25:19,848 [INFO] ImpactCaseStudies - drop columns '['Grant funding', 'Unit of assessment number', 'Is continued from 2014', 'Formal partners', 'Countries', 'Global research identifiers', 'Researcher ORCIDs', '5. Sources to corroborate the impact', 'Institution UKPRN code', 'Main panel code', '3. References to the research', '2. Underpinning research']'
-2024-02-01 16:25:19,848 [INFO] ImpactCaseStudies - make categorical ['Multiple submission letter', 'Main panel name', 'Joint submission', 'Institution name', 'Multiple submission name', 'Unit of assessment name']
-2024-02-01 16:25:20,059 [INFO] ImpactCaseStudies - write dataset to 'data/processed/sheets/ImpactCaseStudies_preprocessed.parquet'
-2024-02-01 16:25:23,383 [INFO] ImpactCaseStudies - write dataset to 'data/processed/sheets/ImpactCaseStudies_preprocessed.csv.gz'
+2024-02-01 17:50:01,543 [INFO] ImpactCaseStudies - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-01 17:50:02,257 [INFO] ImpactCaseStudies - parsed sheet: 6361 records
+2024-02-01 17:50:02,258 [INFO] ImpactCaseStudies - rename 'Main panel' to 'Main panel code'
+2024-02-01 17:50:02,260 [INFO] ImpactCaseStudies - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-01 17:50:02,262 [INFO] ImpactCaseStudies - add columns for panel names
+2024-02-01 17:50:02,263 [INFO] ImpactCaseStudies - shift columns from title to the left to fix raw data issue 
+2024-02-01 17:50:05,310 [INFO] ImpactCaseStudies - replace styling characters in ['1. Summary of the impact', '2. Underpinning research', '3. References to the research', '4. Details of the impact', '5. Sources to corroborate the impact']
+2024-02-01 17:50:05,340 [INFO] ImpactCaseStudies - drop columns '['Countries', 'Grant funding', '5. Sources to corroborate the impact', 'Main panel code', 'Unit of assessment number', 'Researcher ORCIDs', 'Is continued from 2014', 'Formal partners', 'Global research identifiers', '3. References to the research', '2. Underpinning research', 'Institution UKPRN code']'
+2024-02-01 17:50:05,340 [INFO] ImpactCaseStudies - make categorical ['Multiple submission name', 'Multiple submission letter', 'Joint submission', 'Institution name', 'Main panel name', 'Unit of assessment name']
+2024-02-01 17:50:05,554 [INFO] ImpactCaseStudies - write dataset to 'data/processed/sheets/ImpactCaseStudies_preprocessed.parquet'
+2024-02-01 17:50:08,776 [INFO] ImpactCaseStudies - write dataset to 'data/processed/sheets/ImpactCaseStudies_preprocessed.csv.gz'

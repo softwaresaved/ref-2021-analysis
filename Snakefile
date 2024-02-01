@@ -1,8 +1,8 @@
-# add src to PYTHONPATH
-# ---------------------
-import sys
-sys.path.append('src/')
-import read_write as rw
+# # add src to PYTHONPATH
+# # ---------------------
+# import sys
+# sys.path.append('src/')
+import REF2021_processing.read_write as rw
 
 rule all:
     input:
@@ -35,7 +35,7 @@ rule preprocess_rgroups:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_RGROUPS}"
     shell:
-        "python src/preprocess_sheet.py -s {rw.SHEET_RGROUPS}"    
+        "python -m REF2021_processing.preprocess_sheet -s {rw.SHEET_RGROUPS}"    
 
 rule preprocess_degrees:
     input:
@@ -43,7 +43,7 @@ rule preprocess_degrees:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_DEGREES}"
     shell:
-        "python src/preprocess_sheet.py -s {rw.SHEET_DEGREES}" 
+        "python -m REF2021_processing.preprocess_sheet -s {rw.SHEET_DEGREES}" 
 
 rule preprocess_income:
     input:
@@ -51,7 +51,7 @@ rule preprocess_income:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_INCOME}"
     shell:
-        "python src/preprocess_sheet.py -s {rw.SHEET_INCOME}" 
+        "python -m REF2021_processing.preprocess_sheet -s {rw.SHEET_INCOME}" 
 
 rule preprocess_incomeinkind:
     input:
@@ -59,7 +59,7 @@ rule preprocess_incomeinkind:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_INCOMEINKIND}"
     shell:
-        "python src/preprocess_sheet.py -s {rw.SHEET_INCOMEINKIND}"  
+        "python -m REF2021_processing.preprocess_sheet -s {rw.SHEET_INCOMEINKIND}"  
 
 rule preprocess_outputs:
     input:
@@ -67,7 +67,7 @@ rule preprocess_outputs:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_OUTPUTS}"
     shell:
-        "python src/preprocess_sheet.py -s {rw.SHEET_OUTPUTS}"
+        "python -m REF2021_processing.preprocess_sheet -s {rw.SHEET_OUTPUTS}"
 
 rule preprocess_impacts:
     input:
@@ -75,7 +75,7 @@ rule preprocess_impacts:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_IMPACTS}"
     shell:
-        "python src/preprocess_sheet.py -s {rw.SHEET_IMPACTS}"
+        "python -m REF2021_processing.preprocess_sheet -s {rw.SHEET_IMPACTS}"
 
 # prepare the environment statements
 # ----------------------------------
@@ -85,7 +85,7 @@ rule prepare_environments_institution:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_INSTITUTION}"
     shell:
-        "python src/prepare_envstatements.py -e {rw.ENV_INSTITUTION}"
+        "python -m REF2021_processing.prepare_envstatements -e {rw.ENV_INSTITUTION}"
 
 rule prepare_environments_unit:
     input:
@@ -93,7 +93,7 @@ rule prepare_environments_unit:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_ENV_UNIT}"
     shell:
-        "python src/prepare_envstatements.py -e {rw.ENV_UNIT}"
+        "python -m REF2021_processing.prepare_envstatements -e {rw.ENV_UNIT}"
 
 
 rule preprocess_results:
@@ -111,5 +111,5 @@ rule preprocess_results:
     output:
         f"{rw.LOG_PATH}{rw.LOG_PPROC_RESULTS}"
     shell:
-        "python src/preprocess_sheet.py -s {rw.SHEET_RESULTS}" 
+        "python -m REF2021_processing.preprocess_sheet -s {rw.SHEET_RESULTS}" 
         

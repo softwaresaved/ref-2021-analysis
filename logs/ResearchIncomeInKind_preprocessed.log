@@ -1,10 +1,10 @@
-2024-02-01 16:25:15,803 [INFO] ResearchIncomeInKind - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-02-01 16:25:16,195 [INFO] ResearchIncomeInKind - parsed sheet: 4093 records
-2024-02-01 16:25:16,195 [INFO] ResearchIncomeInKind - rename 'Main panel' to 'Main panel code'
-2024-02-01 16:25:16,197 [INFO] ResearchIncomeInKind - replace '['/', ':']' with '_' in 'Institution name'
-2024-02-01 16:25:16,198 [INFO] ResearchIncomeInKind - add columns for panel names
-2024-02-01 16:25:16,198 [INFO] ResearchIncomeInKind - make income source categorical
-2024-02-01 16:25:16,199 [INFO] ResearchIncomeInKind - drop columns '['Institution UKPRN code', 'Main panel code', 'Unit of assessment number']'
-2024-02-01 16:25:16,199 [INFO] ResearchIncomeInKind - make categorical ['Multiple submission letter', 'Institution name', 'Joint submission', 'Unit of assessment name', 'Main panel name', 'Multiple submission name']
-2024-02-01 16:25:16,211 [INFO] ResearchIncomeInKind - write dataset to 'data/processed/sheets/ResearchIncomeInKind_preprocessed.parquet'
-2024-02-01 16:25:16,231 [INFO] ResearchIncomeInKind - write dataset to 'data/processed/sheets/ResearchIncomeInKind_preprocessed.csv.gz'
+2024-02-01 17:50:01,543 [INFO] ResearchIncomeInKind - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-01 17:50:01,865 [INFO] ResearchIncomeInKind - parsed sheet: 4093 records
+2024-02-01 17:50:01,865 [INFO] ResearchIncomeInKind - rename 'Main panel' to 'Main panel code'
+2024-02-01 17:50:01,867 [INFO] ResearchIncomeInKind - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-01 17:50:01,868 [INFO] ResearchIncomeInKind - add columns for panel names
+2024-02-01 17:50:01,868 [INFO] ResearchIncomeInKind - make income source categorical
+2024-02-01 17:50:01,869 [INFO] ResearchIncomeInKind - drop columns '['Unit of assessment number', 'Institution UKPRN code', 'Main panel code']'
+2024-02-01 17:50:01,869 [INFO] ResearchIncomeInKind - make categorical ['Institution name', 'Joint submission', 'Multiple submission letter', 'Main panel name', 'Multiple submission name', 'Unit of assessment name']
+2024-02-01 17:50:01,880 [INFO] ResearchIncomeInKind - write dataset to 'data/processed/sheets/ResearchIncomeInKind_preprocessed.parquet'
+2024-02-01 17:50:01,898 [INFO] ResearchIncomeInKind - write dataset to 'data/processed/sheets/ResearchIncomeInKind_preprocessed.csv.gz'

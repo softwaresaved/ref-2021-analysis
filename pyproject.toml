@@ -1,0 +1,22 @@
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project]
+name = "REF2021_processing"
+version = "0.0.1"
+authors = [
+  { name="Mihaela Duta", email="mihaela.duta@dtc.ox.ac.uk" },
+]
+description = "A package for preprocessing the REF 2021 raw data"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD 3-Clause License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/softwaresaved/ref-2021-analysis"
+"Bug Tracker" = "https://github.com/softwaresaved/ref-2021-analysis/issues"
