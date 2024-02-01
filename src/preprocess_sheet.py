@@ -262,6 +262,13 @@ def preprocess_results(dset, sname):
         f"{sname} - merged with unit environment statements: {dset_extra.shape[0]} records"
     )
 
+    # add suffix to added columns
+    columns_to_rename = {}
+    for column in dset_extra.columns:
+        if column not in dset.columns:
+            columns_to_rename[column] = f"{column}{cb.COLUMN_NAME_ADDED_SUFFIX}"
+    dset_extra.rename(columns=columns_to_rename, inplace=True)
+
     return (dset, dset_extra)
 
 
@@ -492,7 +499,7 @@ def preprocess_sheet(sname):
     if dset_extra is not None:
         rw.export_dataframe(
             dset_extra,
-            os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.PPROCESS}_extra"),
+            os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}_extra{rw.PPROCESS}"),
             sname,
         )
 
