@@ -146,10 +146,12 @@ def preprocess_results(dset, sname):
     # read and merge information from research groups
     # -----------------------------------------------
     infname = os.path.join(
-        rw.PROCESSED_SHEETS_PATH, f"{rw.SHEET_RGROUPS}{rw.PPROCESS}{rw.DATA_EXTS[0]}"
+        rw.paths["output_sheets"],
+        f"{rw.sources['submissions']['sheets']['groups']}{rw.extensions['outputs'][0]}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
+    # add the column with the number of research group submissions
     column_to_count = "Research group submissions"
     column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
     dset_stats = (
@@ -162,6 +164,7 @@ def preprocess_results(dset, sname):
     dset[column_name] = dset[column_name].fillna(0)
     logging.info(f"{sname} - added column '{column_name}'")
 
+    # report mismatch in the number of records
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
@@ -170,10 +173,12 @@ def preprocess_results(dset, sname):
     # read and merge the information from outputs
     # --------------------------------------------
     infname = os.path.join(
-        rw.PROCESSED_SHEETS_PATH, f"{rw.SHEET_OUTPUTS}{rw.PPROCESS}{rw.DATA_EXTS[0]}"
+        rw.paths["output_sheets"],
+        f"{rw.sources['submissions']['sheets']['outputs']}{rw.extensions['outputs'][0]}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
+    # add the column with the number of output submissions
     column_to_count = "Output submissions"
     column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
     dset_stats = (
@@ -184,13 +189,15 @@ def preprocess_results(dset, sname):
     )
     dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
     dset[column_name] = dset[column_name].fillna(0)
-
     logging.info(f"{sname} - added column '{column_name}'")
+
+    # report mismatch in the number of records
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
         logging.info(f"WARNING: {nrecords} != {entries_count}")
 
+    # add columns with the number of outputs by type
     column_to_count = "Output type"
     for value in dset_extra[column_to_count].unique():
         selected_indices = dset_extra[column_to_count] == value
@@ -209,16 +216,20 @@ def preprocess_results(dset, sname):
         dset[column_selected] = dset[column_selected].fillna(0)
         logging.info(f"{sname} - added column '{column_selected}'")
         nrecords = dset_extra.loc[selected_indices, column_to_count].shape[0]
+        # report mismatch in the number of records
         entries_count = dset[column_selected].sum()
         if nrecords != entries_count:
             logging.info(f"WARNING: {nrecords} != {entries_count}")
 
     # read and merge the information from impacts
+    # -------------------------------------------
     infname = os.path.join(
-        rw.PROCESSED_SHEETS_PATH, f"{rw.SHEET_IMPACTS}{rw.PPROCESS}{rw.DATA_EXTS[0]}"
+        rw.paths["output_sheets"],
+        f"{rw.sources['submissions']['sheets']['impacts']}{rw.extensions['outputs'][0]}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
+    # add the column with the number of impact case study submissions
     column_to_count = "Impact case study submissions"
     column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
     dset_stats = (
@@ -229,31 +240,39 @@ def preprocess_results(dset, sname):
     )
     dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
     dset[column_name] = dset[column_name].fillna(0)
-
     logging.info(f"{sname} - added column '{column_name}'")
+
+    # report mismatch in the number of records
     if dset_extra.shape[0] != dset[column_name].sum():
         logging.info(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
 
     # read and merge the information from degrees
+    # -------------------------------------------
     infname = os.path.join(
-        rw.PROCESSED_SHEETS_PATH, f"{rw.SHEET_DEGREES}{rw.PPROCESS}{rw.DATA_EXTS[0]}"
+        rw.paths["output_sheets"],
+        f"{rw.sources['submissions']['sheets']['degrees']}{rw.extensions['outputs'][0]}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
+    # add the column with the number of degrees awarded
     columns_to_merge = [cb.COL_DEGREES_TOTAL]
     columns_all = columns_index.copy()
     columns_all.extend(columns_to_merge)
     dset = pd.merge(dset, dset_extra[columns_all], how="left", on=columns_index)
-
     logging.info(f"{sname} - added columns '{columns_to_merge}'")
+
+    # report mismatch in the number of records
     extra_sum = dset_extra[columns_to_merge[0]].sum()
     dset_sum = dset[columns_to_merge[0]].sum()
     if extra_sum != dset_sum:
         logging.info(f"WARNING: {extra_sum} != {dset_sum}")
 
     # read and merge the unit environment statements
+    # ---------------------------------------------
     infname = os.path.join(
-        rw.PROCESSED_ENV_PREPARED_PATH, f"{rw.ENV_UNIT}{rw.PPROCESS}{rw.DATA_EXTS[0]}"
+        rw.PROJECT_PATH,
+        f"{rw.paths['output_env']}"
+        f"{rw.sources['environment_statements']['unit']['name']}{rw.extensions['outputs'][0]}",
     )
     dset_uenv = rw.read_dataframe(infname, sname)
 
@@ -276,17 +295,18 @@ def preprocess_results(dset, sname):
     return (dset, dset_extra)
 
 
-def preprocess_rgroups(dset, sname):
+def preprocess_groups(dset):
     """Preprocess the data from the ResearchGroups sheet
 
     Args:
         dset (pd.DataFrame): Dataset to preprocess
-        sname (str): label for the dataset
 
     Returns:
         pd.DataFrame:  Dataset with data pre-processed.
 
     """
+
+    sname = rw.sources["submissions"]["sheets"]["groups"]
 
     # make group code categorical
     dset[cb.COL_RG_CODE] = pd.Categorical(dset[cb.COL_RG_CODE])
@@ -295,17 +315,18 @@ def preprocess_rgroups(dset, sname):
     return dset
 
 
-def preprocess_income(dset, sname):
+def preprocess_income(dset):
     """Preprocess the data from the ResearchIncome sheet
 
     Args:
         dset (pd.DataFrame): Dataset to preprocess
-        sname (str): label for the dataset
 
     Returns:
         pd.DataFrame:  Dataset with data pre-processed.
 
     """
+
+    sname = rw.sources["submissions"]["sheets"]["income"]
 
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
@@ -314,17 +335,18 @@ def preprocess_income(dset, sname):
     return dset
 
 
-def preprocess_incomeinkind(dset, sname):
+def preprocess_incomeinkind(dset):
     """Preprocess the data from the ResearchIncomeInKind sheet
 
     Args:
         dset (pd.DataFrame): Dataset to preprocess
-        sname (str): label for the dataset
 
     Returns:
         pd.DataFrame:  Dataset with data pre-processed.
 
     """
+
+    sname = rw.sources["submissions"]["sheets"]["incomeinkind"]
 
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
@@ -333,16 +355,17 @@ def preprocess_incomeinkind(dset, sname):
     return dset
 
 
-def preprocess_degrees(dset, sname):
+def preprocess_degrees(dset):
     """Preprocess the data from the ResearchDoctoralDegreesAwarded sheet
 
     Args:
         dset (pd.DataFrame): Dataset to preprocess
-        sname (str): label for the dataset
 
     Returns:
         pd.DataFrame:  Dataset with data pre-processed.
     """
+
+    sname = rw.sources["submissions"]["sheets"]["degrees"]
 
     # calculate the total number of degrees awarded
     column_to_sum = [
@@ -360,16 +383,17 @@ def preprocess_degrees(dset, sname):
     return dset
 
 
-def preprocess_outputs(dset, sname):
+def preprocess_outputs(dset):
     """Preprocess the data from the Outputs sheet
 
     Args:
         dset (pd.DataFrame): Dataset to preprocess
-        sname (str): label for the dataset
 
     Returns:
         pd.DataFrame:  Dataset with data pre-processed.
     """
+
+    sname = rw.sources["submissions"]["sheets"]["outputs"]
 
     # replace various styling characters selected columns
     columns = [cb.COL_OUTPUT_TITLE]
@@ -392,16 +416,17 @@ def preprocess_outputs(dset, sname):
     return dset
 
 
-def preprocess_impacts(dset, sname):
+def preprocess_impacts(dset):
     """Preprocess the data from the ImpactCaseStudies sheet
 
     Args:
         dset (pd.DataFrame): Dataset to preprocess
-        sname (str): label for the dataset
 
     Returns:
         pd.DataFrame:  Dataset with data pre-processed.
     """
+
+    sname = rw.sources["submissions"]["sheets"]["impacts"]
 
     # shift columns from title to the left
     # ------------------------------------
@@ -428,7 +453,7 @@ def preprocess_impacts(dset, sname):
     return dset
 
 
-def preprocess_sheet(sname):
+def preprocess_sheet(source):
     """Preprocess a sheet from the raw data.
 
     Args:
@@ -436,12 +461,20 @@ def preprocess_sheet(sname):
     """
 
     # set the input excel file name and index
-    if sname == "Results":
-        infname = rw.RAW_RESULTS_FNAME
-        header_index = rw.RAW_RESULTS_HEADER_INDEX
+    if source == "results":
+        sname = rw.sources["results"]["sheet"]
+        infname = os.path.join(
+            rw.sources["results"]["path"],
+            rw.sources["results"]["filename"]
+        )
+        header_index = rw.sources["results"]["header_index"]
     else:
-        infname = rw.RAW_SUBMISSIONS_FNAME
-        header_index = rw.RAW_SUBMISSIONS_HEADER_INDEX
+        sname = rw.sources["submissions"]["sheets"][source]
+        infname = os.path.join(
+            rw.sources["submissions"]["path"],
+            rw.sources["submissions"]["filename"]
+        )
+        header_index = rw.sources["submissions"]["header_index"]
 
     # extract sheet
     dset = rw.extract_sheet(infname, sname, header_index)
@@ -464,19 +497,19 @@ def preprocess_sheet(sname):
 
     # runs specific pre-processing if needed
     dset_extra = None
-    if sname == rw.SHEET_RGROUPS:
-        dset = preprocess_rgroups(dset, sname)
-    elif sname == rw.SHEET_DEGREES:
-        dset = preprocess_degrees(dset, sname)
-    elif sname == rw.SHEET_OUTPUTS:
-        dset = preprocess_outputs(dset, sname)
-    elif sname == rw.SHEET_IMPACTS:
-        dset = preprocess_impacts(dset, sname)
-    elif sname == rw.SHEET_INCOME:
-        dset = preprocess_income(dset, sname)
-    elif sname == rw.SHEET_INCOMEINKIND:
-        dset = preprocess_incomeinkind(dset, sname)
-    elif sname == rw.SHEET_RESULTS:
+    if source == "groups":
+        dset = preprocess_groups(dset)
+    elif source == "degrees":
+        dset = preprocess_degrees(dset)
+    elif source == "outputs":
+        dset = preprocess_outputs(dset)
+    elif source == "impacts":
+        dset = preprocess_impacts(dset)
+    elif source == "income":
+        dset = preprocess_income(dset)
+    elif source == "incomeinkind":
+        dset = preprocess_incomeinkind(dset)
+    elif source == "results":
         dset, dset_extra = preprocess_results(dset, sname)
 
     # drop the code columns
@@ -507,33 +540,25 @@ def preprocess_sheet(sname):
 
     # set the index name and save the pre-processed data
     dset.index.name = "Record"
-    rw.export_dataframe(
-        dset, os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}{rw.PPROCESS}"), sname
-    )
+    rw.export_dataframe(dset, os.path.join(rw.paths["output_sheets"], sname), sname)
 
     # set the index name and save the extra file pre-processed data
     if dset_extra is not None:
         dset_extra.index.name = "Record"
         rw.export_dataframe(
             dset_extra,
-            os.path.join(rw.PROCESSED_SHEETS_PATH, f"{sname}_extra{rw.PPROCESS}"),
+            os.path.join(rw.paths["output_sheets"], sname),
             sname,
         )
-
-    # move the interim logfile in the log folder
-    fname = f"{sname}{rw.PPROCESS}{rw.LOG_EXT}"
-    os.rename(
-        os.path.join(rw.LOG_INTERIM_PATH, fname), os.path.join(rw.LOG_PATH, fname)
-    )
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Extracts a sheet from an excel file and saves it as csv file."
+        description="Extracts a sheet from an excel file and saves it as csv and parquet files."
     )
 
     parser.add_argument(
-        "-s", "--sheetname", required=True, help="name of the sheet to preprocess"
+        "-s", "--source", required=True, help="source of data to process"
     )
 
     parser.add_argument(
@@ -545,13 +570,19 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    sname = args.sheetname
+    source = args.source
 
-    # setup logger
-    status = utils.setup_logger(f"{sname}{rw.PPROCESS}", verbose=args.verbose)
+    if source == "results":
+        sname = rw.sources["results"]["sheet"]
+    else:
+        sname = rw.sources["submissions"]["sheets"][source]
+
+    status = utils.setup_logger(sname, verbose=args.verbose)
 
     # run pre-processing
     if status:
-        preprocess_sheet(sname)
+        preprocess_sheet(source)
     else:
         print(f"{utils.FAILED_ICON} failed: setup logger")
+
+    utils.complete_logger(sname, verbose=args.verbose)

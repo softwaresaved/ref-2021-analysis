@@ -245,40 +245,45 @@ def section_indices(statement, sections):
     return (indices, lines)
 
 
-def prepare_institution_statements(
-    prefix="Institution environment statement - ", extension=".txt"
-):
-    """Prepares the institution statements.
+def prepare_institution_statements():
+    """Prepares the institution statements."""
 
-    Args:
-        prefix (str, optional): the prefix of the file names.
-                                Defaults to "Institution environment statement - ".
-        extension (str, optional): the extension of the file names. Defaults to ".txt".
-    """
+    # prepare variables
+    source_config = rw.sources["environment_statements"]["institution"]
+    sname = source_config["name"]
+    fpath = source_config["path"]
 
-    log_prefix = "ENV INSTITUTION"
-    inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "institution")
     # get the file names
-    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, inputpath))
+    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, fpath))
     statement_count = len(fnames)
-    fnames = [fname.replace(prefix, "").replace(extension, "") for fname in fnames]
-    logging.info(f"{log_prefix} - read data from '{inputpath}' ")
+    fnames = [
+        fname.replace(source_config["prefix"], "").replace(
+            source_config["extension"], ""
+        )
+        for fname in fnames
+    ]
+    logging.info(f"{sname} - read data from '{fpath}' ")
     logging.info(
-        f"{log_prefix} - statements: {statement_count}, "
+        f"{sname} - statements: {statement_count}, "
         f"sections: {len(SECTIONS_INSTITUTION.keys())}"
     )
 
+    # initialise the dataset and the counts
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_INSTITUTION]
     for fname in fnames:
         institution_name = fname
-        infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
-
+        infname = os.path.join(
+            fpath, f"{source_config['prefix']}{fname}{source_config['extension']}"
+        )
         with open(infname, "r+") as file:
             statement = file.read()
             (indices, lines) = section_indices(statement, SECTIONS_INSTITUTION)
 
+        # assign the institution name
         data = {cb.COL_INST_NAME: [institution_name]}
+
+        # extract the content of the sections
         for isection, section in enumerate(SECTIONS_INSTITUTION):
             if indices[isection] is not None:
                 counts[isection] += 1
@@ -292,65 +297,68 @@ def prepare_institution_statements(
             data[section] = section_content
             if section_content is None:
                 logging.info(
-                    f"{log_prefix} - WARNING: no content for "
+                    f"{sname} - WARNING: no content for "
                     f"'{section}' in '{institution_name}'"
                 )
 
+        # add the current extracted data to the dataset
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
 
     logging.info(
-        f"{log_prefix} - prepared institution statements: {dset.shape[0]} records, "
+        f"{sname} - prepared institution statements: {dset.shape[0]} records, "
         f"{dset.shape[1]} columns"
     )
 
+    # report mistamatches in the number of prepared statements
     if dset.shape[0] != statement_count:
         logging.info(
-            f"{log_prefix} - WARNING: prepared statements "
+            f"{sname} - WARNING: prepared statements "
             f"{dset.shape[0]}/{statement_count} statements"
         )
 
+    # set the index name and save the prepared data
     dset.index.name = "Record"
-
-    # save the pre-processed data
-    rw.export_dataframe(
-        dset,
-        os.path.join(rw.PROCESSED_ENV_PREPARED_PATH, f"{ename}{rw.PPROCESS}"),
-        log_prefix,
-    )
+    rw.export_dataframe(dset, os.path.join(rw.paths["output_env"], sname), sname)
 
 
-def prepare_unit_statements(prefix="Unit environment statement - ", extension=".txt"):
-    """Prepares the unit statements.
+def prepare_unit_statements():
+    """Prepares the unit statements."""
 
-    Args:
-        prefix (str, optional): the prefix of the file names.
-                                Defaults to "Unit environment statement - ".
-        extension (str, optional): the extension of the file names. Defaults to ".txt".
-    """
+    # prepare variables
+    source_config = rw.sources["environment_statements"]["unit"]
+    sname = source_config["name"]
+    fpath = source_config["path"]
 
-    log_prefix = "ENV UNIT"
-    inputpath = os.path.join(rw.PROCESSED_ENV_EXTRACTED_PATH, "unit")
     # get the file names
-    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, inputpath))
+    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, fpath))
     statement_count = len(fnames)
-    fnames = [fname.replace(prefix, "").replace(extension, "") for fname in fnames]
+    fnames = [
+        fname.replace(source_config["prefix"], "").replace(
+            source_config["extension"], ""
+        )
+        for fname in fnames
+    ]
 
-    logging.info(f"{log_prefix} - read data from '{inputpath}' ")
+    logging.info(f"{sname} - read data from '{fpath}' ")
     logging.info(
-        f"{log_prefix} - statements: {statement_count}, sections: {len(SECTIONS_UNIT.keys())}"
+        f"{sname} - statements: {statement_count}, sections: {len(SECTIONS_UNIT.keys())}"
     )
 
+    # initialise the dataset and the counts
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_UNIT]
     for fname in fnames:
         institution_name, unit_code_original = fname.split(" - ")
-        # strip any alphabetical characters from the unit code
+
+        # process tbe unit code and the multiple submission letter
         unit_code = "".join([i for i in unit_code_original if not i.isalpha()])
         multiple_submission_letter = ""
         if len(unit_code) != len(unit_code_original):
             multiple_submission_letter = unit_code_original[-1]
         unit_name = cb.UOA_NAMES[int(unit_code)]
-        infname = os.path.join(inputpath, f"{prefix}{fname}{extension}")
+        infname = os.path.join(
+            fpath, f"{source_config['prefix']}{fname}{source_config['extension']}"
+        )
 
         with open(infname, "r+") as file:
             statement = file.read()
@@ -361,6 +369,7 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             cb.COL_UOA_NAME: [unit_name],
             cb.COL_MULT_SUB_LETTER: [multiple_submission_letter],
         }
+        # extract the content of the sections
         for isection, section in enumerate(SECTIONS_UNIT):
             if indices[isection] is not None:
                 counts[isection] += 1
@@ -374,27 +383,25 @@ def prepare_unit_statements(prefix="Unit environment statement - ", extension=".
             data[section] = section_content
             if section_content is None:
                 logging.info(
-                    f"{log_prefix} - WARNING: no content for "
+                    f"{sname} - WARNING: no content for "
                     f"'{section}' in '{institution_name}' - '{unit_code}'"
                 )
 
+        # add the current extracted data to the dataset
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
 
-    logging.info(f"{log_prefix} - prepared statements: {dset.shape[0]} records")
+    logging.info(f"{sname} - prepared statements: {dset.shape[0]} records")
+
+    # report mistamatches in the number of prepared statements
     if dset.shape[0] != statement_count:
         logging.info(
-            f"{log_prefix} - WARNING: prepared statements "
+            f"{sname} - WARNING: prepared statements "
             f"{dset.shape[0]}/{statement_count} statements"
         )
 
+    # set the index name and save the prepared data
     dset.index.name = "Record"
-
-    # save the pre-processed data
-    rw.export_dataframe(
-        dset,
-        os.path.join(rw.PROCESSED_ENV_PREPARED_PATH, f"{ename}{rw.PPROCESS}"),
-        log_prefix,
-    )
+    rw.export_dataframe(dset, os.path.join(rw.paths["output_env"], sname), sname)
 
 
 if __name__ == "__main__":
@@ -403,7 +410,7 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
-        "-e", "--envname", required=True, help="type of statements to prepare"
+        "-s", "--source", required=True, help="source for the environment statements"
     )
 
     parser.add_argument(
@@ -415,19 +422,14 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    ename = args.envname
+    source = args.source
+    sname = rw.sources["environment_statements"][source]["name"]
 
-    # setup logger
-    status = utils.setup_logger(f"{ename}{rw.PPROCESS}", verbose=args.verbose)
+    status = utils.setup_logger(sname, verbose=args.verbose)
 
-    if ename == rw.ENV_INSTITUTION:
+    if source == "institution":
         prepare_institution_statements()
-    elif ename == rw.ENV_UNIT:
+    elif source == "unit":
         prepare_unit_statements()
 
-    # move the interim logfile in the log folder
-    fname = f"{ename}{rw.PPROCESS}{rw.LOG_EXT}"
-    print(fname)
-    os.rename(
-        os.path.join(rw.LOG_INTERIM_PATH, fname), os.path.join(rw.LOG_PATH, fname)
-    )
+    utils.complete_logger(sname, verbose=args.verbose)

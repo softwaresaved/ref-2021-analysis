@@ -1,90 +1,58 @@
 import os
-
-import pandas as pd
 import logging
+import pandas as pd
 
-# logs
-LOG_PATH = "logs/"
-LOG_INTERIM_PATH = f"{LOG_PATH}interim/"
-LOG_EXT = ".log"
-LOG_UNZIP = os.path.join(LOG_PATH, f"unzip_environment_statements{LOG_EXT}")
+import REF2021_processing.read_write as rw
 
-# data paths
 PROJECT_PATH = os.path.dirname(os.path.abspath(__name__))
-DATA_PATH = "data/"
-RAW_PATH = os.path.join(DATA_PATH, "raw/")
-RAW_ENV_PATH = os.path.join(RAW_PATH, "environment_statements/")
-RAW_ENV_INST_PATH = os.path.join(RAW_ENV_PATH, "institution/")
-RAW_ENV_UNIT_PATH = os.path.join(RAW_ENV_PATH, "unit/")
-PROCESSED_SHEETS_PATH = os.path.join(DATA_PATH, "processed/sheets/")
-PROCESSED_ENV_EXTRACTED_PATH = os.path.join(
-    DATA_PATH, "processed/environment_statements/extracted/"
-)
-PROCESSED_ENV_PREPARED_PATH = os.path.join(
-    DATA_PATH, "processed/environment_statements/prepared/"
-)
 
-# data files
-RAW_SUBMISSIONS_FNAME = f"{RAW_PATH}REF-2021-Submissions-All-2022-07-27.xlsx"
-RAW_SUBMISSIONS_HEADER_INDEX = 4
-RAW_RESULTS_FNAME = f"{RAW_PATH}REF-2021-Results-All-2022-05-06.xlsx"
-RAW_RESULTS_HEADER_INDEX = 6
-ENV_FNAME = f"{RAW_PATH}REF-2021-EnvironmentStatements-Extract-2023-08-22.zip"
-SHEETS = [
-    "Outputs",
-    "ImpactCaseStudies",
-    "ResearchDoctoralDegreesAwarded",
-    "ResearchIncome",
-    "ResearchIncomeInKind",
-    "ResearchGroups",
-]
-DATA_EXTS = [".parquet", ".csv.gz"]
-PPROCESS = "_preprocessed"
+paths = {
+    "output_sheets": "data/processed/sheets/",
+    "output_env": "data/processed/environment_statements/prepared/",
+    "logs": "logs/",
+    "logs_interim": "logs/interim/",
+}
 
-# logs and output files
-# ---------------------
-# ResearchGroups
-sheet = SHEETS[5]
-SHEET_RGROUPS = sheet
-LOG_PPROC_RGROUPS = f"{sheet}{PPROCESS}{LOG_EXT}"
+for key, value in paths.items():
+    paths[key] = os.path.join(PROJECT_PATH, value)
 
-# ResearchDoctoralDegreesAwarded
-sheet = SHEETS[2]
-SHEET_DEGREES = sheet
-LOG_PPROC_DEGREES = f"{sheet}{PPROCESS}{LOG_EXT}"
+sources = {
+    "submissions": {
+        "path": "data/raw/",
+        "filename": "REF-2021-Submissions-All-2022-07-27.xlsx",
+        "header_index": 4,
+        "sheets": {
+            "outputs": "Outputs",
+            "impacts": "ImpactCaseStudies",
+            "degrees": "ResearchDoctoralDegreesAwarded",
+            "income": "ResearchIncome",
+            "incomeinkind": "ResearchIncomeInKind",
+            "groups": "ResearchGroups",
+        },
+    },
+    "environment_statements": {
+        "unit": {
+            "path": "data/processed/environment_statements/extracted/unit/",
+            "prefix": "Unit environment statement - ",
+            "extension": ".txt",
+            "name": "EnvironmentStatementsUnitLevel",
+        },
+        "institution": {
+            "path": "data/processed/environment_statements/extracted/institution/",
+            "name": "EnvironmentStatementsInstitutionLevel",
+            "extension": ".txt",
+            "prefix": "Institution environment statement - ",
+        },
+    },
+    "results": {
+        "path": "data/raw/",
+        "filename": "REF-2021-Results-All-2022-05-06.xlsx",
+        "header_index": 6,
+        "sheet": "Results",
+    },
+}
 
-# ResearchIncome
-sheet = SHEETS[3]
-SHEET_INCOME = sheet
-LOG_PPROC_INCOME = f"{sheet}{PPROCESS}{LOG_EXT}"
-
-# ResearchIncomeInKind
-sheet = SHEETS[4]
-SHEET_INCOMEINKIND = sheet
-LOG_PPROC_INCOMEINKIND = f"{sheet}{PPROCESS}{LOG_EXT}"
-
-# Outputs
-sheet = SHEETS[0]
-SHEET_OUTPUTS = sheet
-LOG_PPROC_OUTPUTS = f"{sheet}{PPROCESS}{LOG_EXT}"
-
-# ImpactCaseStudies
-sheet = SHEETS[1]
-SHEET_IMPACTS = sheet
-LOG_PPROC_IMPACTS = f"{sheet}{PPROCESS}{LOG_EXT}"
-
-# Results
-sheet = "Results"
-SHEET_RESULTS = sheet
-LOG_PPROC_RESULTS = f"{sheet}{PPROCESS}{LOG_EXT}"
-
-# environment statements: institution
-ENV_INSTITUTION = "EnvironmentStatementsInstitutionLevel"
-LOG_PPROC_ENV_INSTITUTION = f"{ENV_INSTITUTION}{PPROCESS}{LOG_EXT}"
-
-# environment statements: unit
-ENV_UNIT = "EnvironmentStatementsUnitLevel"
-LOG_PPROC_ENV_UNIT = f"{ENV_UNIT}{PPROCESS}{LOG_EXT}"
+extensions = {"logs": ".log", "outputs": [".parquet", ".csv.gz"]}
 
 
 def extract_sheet(fpath, sname, header, index_col=None):
@@ -102,7 +70,7 @@ def extract_sheet(fpath, sname, header, index_col=None):
 
     # read the excel file
     dobj = pd.ExcelFile(os.path.join(PROJECT_PATH, fpath))
-    logging.info(f"{sname} - read sheet from '{fpath}'")
+    logging.info(f"{sname} - read sheet from '{relative_path(fpath)}'")
 
     # parse sheet
     dset = dobj.parse(sname, header=header, index_col=index_col)
@@ -120,15 +88,13 @@ def export_dataframe(dset, fname_root, log_prefix):
         log_prefix (str): Prefix for log messages.
     """
 
-    for ext in DATA_EXTS:
-        fname = f"{fname_root}{ext}"
+    for ext in rw.extensions["outputs"]:
+        fname = os.path.join(PROJECT_PATH, f"{fname_root}{ext}")
         if ext == ".csv.gz":
-            dset.to_csv(
-                os.path.join(PROJECT_PATH, fname), index=True, compression="gzip"
-            )
+            dset.to_csv(fname, index=True, compression="gzip")
         elif ext == ".parquet":
-            dset.to_parquet(os.path.join(PROJECT_PATH, fname), index=True)
-        logging.info(f"{log_prefix} - write dataset to '{fname}'")
+            dset.to_parquet(fname, index=True)
+        logging.info(f"{log_prefix} - write dataset to '{relative_path(fname)}'")
 
 
 def read_dataframe(fpath, log_prefix):
@@ -143,12 +109,24 @@ def read_dataframe(fpath, log_prefix):
     """
 
     ext = os.path.splitext(fpath)[1]
+    fname = os.path.join(PROJECT_PATH, fpath)
     if ext == ".csv.gz":
-        dset = pd.read_csv(
-            os.path.join(PROJECT_PATH, fpath), index=True, compression="gzip"
-        )
+        dset = pd.read_csv(fname, index=True, compression="gzip")
     elif ext == ".parquet":
-        dset = pd.read_parquet(os.path.join(PROJECT_PATH, fpath))
+        dset = pd.read_parquet(fname)
     logging.info(f"{log_prefix} - read dataset from '{fpath}'")
 
     return dset
+
+
+def relative_path(fpath):
+    """Return the relative path of a file.
+
+    Args:
+        fpath (str): File path.
+
+    Returns:
+        str: Relative path of the file.
+    """
+
+    return os.path.relpath(fpath, rw.PROJECT_PATH)
