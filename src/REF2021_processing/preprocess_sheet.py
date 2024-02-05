@@ -1,8 +1,8 @@
 """ Preprocess a sheet from the raw data. """
 import argparse
 import os
-import pandas as pd
 import logging
+import pandas as pd
 
 import REF2021_processing.utils as utils
 import REF2021_processing.read_write as rw
@@ -34,7 +34,7 @@ def preprocess_results(dset, sname):
     for column in columns:
         dset[column] = dset[column].replace(text_to_replace, float("NaN"))
         dset[column] = dset[column].astype(float)
-    logging.info(f"{sname} - replace '{text_to_replace}' with na in {columns}")
+    logging.info(f"%s - replace '%s' with na in {columns}", sname, text_to_replace)
 
     # bin percentages
     # ---------------
@@ -50,7 +50,7 @@ def preprocess_results(dset, sname):
         dset = pp.bin_percentages(
             dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"
         )
-    logging.info(f"{sname} - bin percentages for {columns}")
+    logging.info("%s - bin percentages for %s", sname, columns)
 
     # drop the columns not relevant for current visualisations
     # --------------------------------------------------------
@@ -59,7 +59,7 @@ def preprocess_results(dset, sname):
         dset_stats = dset[column].value_counts().to_frame(name="count")
         dset_stats.index.name = column
         dset = dset.drop(column, axis=1)
-    logging.info(f"{sname} - drop columns {columns_to_drop}")
+    logging.info("%s - drop columns %s", sname, columns_to_drop)
 
     # setup the pivoting action
     columns_index = [
@@ -125,7 +125,8 @@ def preprocess_results(dset, sname):
     )
     dset = dset[columns]
     logging.info(
-        f"{sname} - pivot to make wide format for ratings per profile to enable analyses"
+        "%s - pivot to make wide format for ratings per profile to enable analyses",
+        sname,
     )
 
     # make all binned columns categorical
@@ -162,13 +163,13 @@ def preprocess_results(dset, sname):
     )
     dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
     dset[column_name] = dset[column_name].fillna(0)
-    logging.info(f"{sname} - added column '{column_name}'")
+    logging.info("%s - added column '%s'", sname, column_name)
 
     # report mismatch in the number of records
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
-        logging.info(f"WARNING: {nrecords} != {entries_count}")
+        logging.info("WARNING: %d != %d", nrecords, entries_count)
 
     # read and merge the information from outputs
     # --------------------------------------------
@@ -189,13 +190,13 @@ def preprocess_results(dset, sname):
     )
     dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
     dset[column_name] = dset[column_name].fillna(0)
-    logging.info(f"{sname} - added column '{column_name}'")
+    logging.info("%s - added column '%s'", sname, column_name)
 
     # report mismatch in the number of records
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
-        logging.info(f"WARNING: {nrecords} != {entries_count}")
+        logging.info("WARNING: %d != %d", nrecords, entries_count)
 
     # add columns with the number of outputs by type
     column_to_count = "Output type"
@@ -214,12 +215,12 @@ def preprocess_results(dset, sname):
         )
         dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
         dset[column_selected] = dset[column_selected].fillna(0)
-        logging.info(f"{sname} - added column '{column_selected}'")
+        logging.info("%s - added column '%s'", sname, column_selected)
         nrecords = dset_extra.loc[selected_indices, column_to_count].shape[0]
         # report mismatch in the number of records
         entries_count = dset[column_selected].sum()
         if nrecords != entries_count:
-            logging.info(f"WARNING: {nrecords} != {entries_count}")
+            logging.info("WARNING: %d != %d", nrecords, entries_count)
 
     # read and merge the information from impacts
     # -------------------------------------------
@@ -240,11 +241,11 @@ def preprocess_results(dset, sname):
     )
     dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
     dset[column_name] = dset[column_name].fillna(0)
-    logging.info(f"{sname} - added column '{column_name}'")
+    logging.info("%s - added column '%s'", sname, column_name)
 
     # report mismatch in the number of records
     if dset_extra.shape[0] != dset[column_name].sum():
-        logging.info(f"WARNING: {dset_extra.shape[0]} != {dset[column_name].sum()}")
+        logging.info("WARNING: %d != %d", dset_extra.shape[0], dset[column_name].sum())
 
     # read and merge the information from degrees
     # -------------------------------------------
@@ -259,13 +260,13 @@ def preprocess_results(dset, sname):
     columns_all = columns_index.copy()
     columns_all.extend(columns_to_merge)
     dset = pd.merge(dset, dset_extra[columns_all], how="left", on=columns_index)
-    logging.info(f"{sname} - added columns '{columns_to_merge}'")
+    logging.info("%s - added columns '%s'", sname, columns_to_merge)
 
     # report mismatch in the number of records
     extra_sum = dset_extra[columns_to_merge[0]].sum()
     dset_sum = dset[columns_to_merge[0]].sum()
     if extra_sum != dset_sum:
-        logging.info(f"WARNING: {extra_sum} != {dset_sum}")
+        logging.info("WARNING: %d != %d", extra_sum, dset_sum)
 
     # read and merge the unit environment statements
     # ---------------------------------------------
@@ -282,7 +283,9 @@ def preprocess_results(dset, sname):
     columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
     dset_extra = pd.merge(dset, dset_uenv, how="left", on=columns_index)
     logging.info(
-        f"{sname} - merged with unit environment statements: {dset_extra.shape[0]} records"
+        "%s - merged with unit environment statements: %d records",
+        sname,
+        dset_extra.shape[0],
     )
 
     # add suffix to added columns
@@ -310,7 +313,7 @@ def preprocess_groups(dset):
 
     # make group code categorical
     dset[cb.COL_RG_CODE] = pd.Categorical(dset[cb.COL_RG_CODE])
-    logging.info(f"{sname} - make group code categorical")
+    logging.info("%s - make group code categorical", sname)
 
     return dset
 
@@ -330,7 +333,7 @@ def preprocess_income(dset):
 
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
-    logging.info(f"{sname} - make income source categorical")
+    logging.info("%s - make income source categorical", sname)
 
     return dset
 
@@ -350,7 +353,7 @@ def preprocess_income_in_kind(dset):
 
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
-    logging.info(f"{sname} - make income source categorical")
+    logging.info("%s - make income source categorical", sname)
 
     return dset
 
@@ -378,7 +381,7 @@ def preprocess_degrees(dset):
         cb.COL_DEGREES_2019,
     ]
     dset[cb.COL_DEGREES_TOTAL] = dset[column_to_sum].sum(axis=1)
-    logging.info(f"{sname} - calculate total number of degrees awarded")
+    logging.info("%s - calculate total number of degrees awarded", sname)
 
     return dset
 
@@ -399,7 +402,7 @@ def preprocess_outputs(dset):
     columns = [cb.COL_OUTPUT_TITLE]
     for column in columns:
         dset = pp.clean_styling(dset, column)
-    logging.info(f"{sname} - replace styling characters in {columns}")
+    logging.info("%s - replace styling characters in %s", sname, columns)
 
     # assign names where we only have codes
     # -------------------------------------
@@ -407,11 +410,11 @@ def preprocess_outputs(dset):
         cb.OUTPUT_TYPE_NAMES
     )
     dset = pp.move_last_column(dset, cb.COL_UOA_NAME)
-    logging.info(f"{sname} - add columns for output types names")
+    logging.info("%s - add columns for output types names", sname)
 
     # make output year categorical
     dset[cb.COL_OUTPUT_YEAR] = pd.Categorical(dset[cb.COL_OUTPUT_YEAR])
-    logging.info(f"{sname} - make output year categorical")
+    logging.info("%s - make output year categorical", sname)
 
     return dset
 
@@ -434,7 +437,7 @@ def preprocess_impacts(dset):
     dset = dset.drop(cb.COL_IMPACT_TITLE, axis=1)
     dset.columns = columns[:-1]
     logging.info(
-        f"{sname} - shift columns from title to the left to fix raw data issue "
+        "%s - shift columns from title to the left to fix raw data issue ", sname
     )
 
     # replace various styling characters selected columns
@@ -448,7 +451,7 @@ def preprocess_impacts(dset):
     ]
     for column in columns:
         dset = pp.clean_styling(dset, column)
-    logging.info(f"{sname} - replace styling characters in {columns}")
+    logging.info("%s - replace styling characters in %s", sname, columns)
 
     return dset
 
@@ -464,15 +467,13 @@ def preprocess_sheet(source):
     if source == "results":
         sname = rw.SOURCES["results"]["sheet"]
         infname = os.path.join(
-            rw.SOURCES["results"]["raw_path"],
-            rw.SOURCES["results"]["filename"]
+            rw.SOURCES["results"]["raw_path"], rw.SOURCES["results"]["filename"]
         )
         header_index = rw.SOURCES["results"]["header_index"]
     else:
         sname = rw.SOURCES["submissions"]["sheets"][source]
         infname = os.path.join(
-            rw.SOURCES["submissions"]["raw_path"],
-            rw.SOURCES["submissions"]["filename"]
+            rw.SOURCES["submissions"]["raw_path"], rw.SOURCES["submissions"]["filename"]
         )
         header_index = rw.SOURCES["submissions"]["header_index"]
 
@@ -489,7 +490,7 @@ def preprocess_sheet(source):
     dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     dset[cb.COL_PANEL_NAME] = pd.Categorical(dset[cb.COL_PANEL_NAME])
     dset = pp.move_last_column(dset, cb.COL_INST_NAME)
-    logging.info(f"{sname} - add columns for panel names")
+    logging.info("%s - add columns for panel names", sname)
 
     # replace na in COL_MULT_SUB_LETTER with empty string
     if cb.COL_MULT_SUB_LETTER in dset.columns:
@@ -516,17 +517,17 @@ def preprocess_sheet(source):
     columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset.columns))
     if len(columns_to_drop) > 0:
         dset = dset.drop(columns_to_drop, axis=1)
-        logging.info(f"{sname} - drop columns '{columns_to_drop}'")
+        logging.info("%s - drop columns '%s'", sname, columns_to_drop)
     if dset_extra is not None:
         columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset_extra.columns))
         if len(columns_to_drop) > 0:
             dset_extra = dset_extra.drop(columns_to_drop, axis=1)
-            logging.info(f"{sname} extra - drop columns '{columns_to_drop}'")
+            logging.info("%s extra - drop columns '%s'", sname, columns_to_drop)
 
     # make categorical
     columns_to_category = list(set(cb.COLUMNS_TO_CATEGORY).intersection(dset.columns))
     if len(columns_to_category) > 0:
-        logging.info(f"{sname} - make categorical {columns_to_category}")
+        logging.info("%s - make categorical %s", sname, columns_to_category)
         for column in columns_to_category:
             dset[column] = pd.Categorical(dset[column])
     if dset_extra is not None:
@@ -534,13 +535,15 @@ def preprocess_sheet(source):
             set(cb.COLUMNS_TO_CATEGORY).intersection(dset_extra.columns)
         )
         if len(columns_to_category) > 0:
-            logging.info(f"{sname} extra - make categorical {columns_to_category}")
+            logging.info("%s extra - make categorical %s", sname, columns_to_category)
             for column in columns_to_category:
                 dset_extra[column] = pd.Categorical(dset_extra[column])
 
     # set the index name and save the pre-processed data
     dset.index.name = "Record"
-    rw.export_dataframe(dset, os.path.join(rw.SOURCES["submissions"]["output_path"], sname), sname)
+    rw.export_dataframe(
+        dset, os.path.join(rw.SOURCES["submissions"]["output_path"], sname), sname
+    )
 
     # legacy code to save two types of results dataframes
     # # set the index name and save the extra file pre-processed data
@@ -571,19 +574,19 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    source = args.source
+    source_name = args.source
 
-    if source == "results":
-        sname = rw.SOURCES["results"]["sheet"]
+    if source_name == "results":
+        SHEET_NAME = rw.SOURCES["results"]["sheet"]
     else:
-        sname = rw.SOURCES["submissions"]["sheets"][source]
+        SHEET_NAME = rw.SOURCES["submissions"]["sheets"][source_name]
 
-    status = utils.setup_logger(sname, verbose=args.verbose)
+    STATUS = utils.setup_logger(SHEET_NAME, verbose=args.verbose)
 
     # run pre-processing
-    if status:
-        preprocess_sheet(source)
+    if STATUS:
+        preprocess_sheet(source_name)
     else:
         print(f"{utils.FAILED_ICON} failed: setup logger")
 
-    utils.complete_logger(sname, verbose=args.verbose)
+    utils.complete_logger(SHEET_NAME, verbose=args.verbose)

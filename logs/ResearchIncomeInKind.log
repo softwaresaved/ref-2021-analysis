@@ -1,9 +1,9 @@
-2024-02-05 17:09:37,278 [INFO] ResearchIncomeInKind - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-02-05 17:09:37,600 [INFO] ResearchIncomeInKind - parsed sheet: 4093 records
-2024-02-05 17:09:37,600 [INFO] ResearchIncomeInKind - rename 'Main panel' to 'Main panel code'
-2024-02-05 17:09:37,602 [INFO] ResearchIncomeInKind - replace '['/', ':']' with '_' in 'Institution name'
-2024-02-05 17:09:37,603 [INFO] ResearchIncomeInKind - add columns for panel names
-2024-02-05 17:09:37,603 [INFO] ResearchIncomeInKind - make income source categorical
-2024-02-05 17:09:37,604 [INFO] ResearchIncomeInKind - drop columns '['Main panel code', 'Institution UKPRN code', 'Unit of assessment number']'
-2024-02-05 17:09:37,604 [INFO] ResearchIncomeInKind - make categorical ['Main panel name', 'Joint submission', 'Unit of assessment name', 'Multiple submission letter', 'Institution name', 'Multiple submission name']
-2024-02-05 17:09:37,616 [INFO] ResearchIncomeInKind - write dataset to 'data/processed/sheets/ResearchIncomeInKind.parquet'
+2024-02-05 17:27:08,140 [INFO] ResearchIncomeInKind - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-05 17:27:08,462 [INFO] ResearchIncomeInKind - parsed sheet: 4093 records
+2024-02-05 17:27:08,463 [INFO] ResearchIncomeInKind - rename 'Main panel' to 'Main panel code'
+2024-02-05 17:27:08,464 [INFO] ResearchIncomeInKind - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-05 17:27:08,465 [INFO] ResearchIncomeInKind - add columns for panel names
+2024-02-05 17:27:08,466 [INFO] ResearchIncomeInKind - make income source categorical
+2024-02-05 17:27:08,467 [INFO] ResearchIncomeInKind - drop columns '['Main panel code', 'Institution UKPRN code', 'Unit of assessment number']'
+2024-02-05 17:27:08,467 [INFO] ResearchIncomeInKind - make categorical ['Unit of assessment name', 'Joint submission', 'Multiple submission letter', 'Institution name', 'Multiple submission name', 'Main panel name']
+2024-02-05 17:27:08,478 [INFO] ResearchIncomeInKind - write dataset to 'data/processed/sheets/ResearchIncomeInKind.parquet'
