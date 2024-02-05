@@ -25,10 +25,10 @@ def preprocess_results(dset, sname):
     # --------------------------------------
     text_to_replace = "-"
     columns = [
-        cb.COL_RESULTS_4star,
-        cb.COL_RESULTS_3star,
-        cb.COL_RESULTS_2star,
-        cb.COL_RESULTS_1star,
+        cb.COL_RESULTS_4STAR,
+        cb.COL_RESULTS_3STAR,
+        cb.COL_RESULTS_2STAR,
+        cb.COL_RESULTS_1STAR,
         cb.COL_RESULTS_UNCLASSIFIED,
     ]
     for column in columns:
@@ -40,10 +40,10 @@ def preprocess_results(dset, sname):
     # ---------------
     # COL_RESULTS_PERC_STAFF_SUBMITTED, COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT not binned, not < 100%
     columns = [
-        cb.COL_RESULTS_4star,
-        cb.COL_RESULTS_3star,
-        cb.COL_RESULTS_2star,
-        cb.COL_RESULTS_1star,
+        cb.COL_RESULTS_4STAR,
+        cb.COL_RESULTS_3STAR,
+        cb.COL_RESULTS_2STAR,
+        cb.COL_RESULTS_1STAR,
         cb.COL_RESULTS_UNCLASSIFIED,
     ]
     for column in columns:
@@ -78,10 +78,10 @@ def preprocess_results(dset, sname):
     columns_values = [
         cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
         cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
-        cb.COL_RESULTS_4star,
-        cb.COL_RESULTS_3star,
-        cb.COL_RESULTS_2star,
-        cb.COL_RESULTS_1star,
+        cb.COL_RESULTS_4STAR,
+        cb.COL_RESULTS_3STAR,
+        cb.COL_RESULTS_2STAR,
+        cb.COL_RESULTS_1STAR,
         cb.COL_RESULTS_UNCLASSIFIED,
     ]
     columns_values.extend(

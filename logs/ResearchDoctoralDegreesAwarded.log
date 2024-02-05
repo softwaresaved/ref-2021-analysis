@@ -1,9 +1,9 @@
-2024-02-05 15:27:39,247 [INFO] ResearchDoctoralDegreesAwarded - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-02-05 15:27:39,458 [INFO] ResearchDoctoralDegreesAwarded - parsed sheet: 1888 records
-2024-02-05 15:27:39,459 [INFO] ResearchDoctoralDegreesAwarded - rename 'Main panel' to 'Main panel code'
-2024-02-05 15:27:39,462 [INFO] ResearchDoctoralDegreesAwarded - replace '['/', ':']' with '_' in 'Institution name'
-2024-02-05 15:27:39,463 [INFO] ResearchDoctoralDegreesAwarded - add columns for panel names
-2024-02-05 15:27:39,465 [INFO] ResearchDoctoralDegreesAwarded - calculate total number of degrees awarded
-2024-02-05 15:27:39,465 [INFO] ResearchDoctoralDegreesAwarded - drop columns '['Unit of assessment number', 'Main panel code', 'Institution UKPRN code']'
-2024-02-05 15:27:39,465 [INFO] ResearchDoctoralDegreesAwarded - make categorical ['Unit of assessment name', 'Multiple submission name', 'Multiple submission letter', 'Joint submission', 'Main panel name', 'Institution name']
-2024-02-05 15:27:39,482 [INFO] ResearchDoctoralDegreesAwarded - write dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded.parquet'
+2024-02-05 17:09:37,278 [INFO] ResearchDoctoralDegreesAwarded - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-05 17:09:37,475 [INFO] ResearchDoctoralDegreesAwarded - parsed sheet: 1888 records
+2024-02-05 17:09:37,476 [INFO] ResearchDoctoralDegreesAwarded - rename 'Main panel' to 'Main panel code'
+2024-02-05 17:09:37,476 [INFO] ResearchDoctoralDegreesAwarded - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-05 17:09:37,477 [INFO] ResearchDoctoralDegreesAwarded - add columns for panel names
+2024-02-05 17:09:37,478 [INFO] ResearchDoctoralDegreesAwarded - calculate total number of degrees awarded
+2024-02-05 17:09:37,479 [INFO] ResearchDoctoralDegreesAwarded - drop columns '['Unit of assessment number', 'Institution UKPRN code', 'Main panel code']'
+2024-02-05 17:09:37,479 [INFO] ResearchDoctoralDegreesAwarded - make categorical ['Main panel name', 'Multiple submission name', 'Unit of assessment name', 'Joint submission', 'Multiple submission letter', 'Institution name']
+2024-02-05 17:09:37,491 [INFO] ResearchDoctoralDegreesAwarded - write dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded.parquet'

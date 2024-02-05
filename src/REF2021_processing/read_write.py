@@ -1,3 +1,4 @@
+""" Module to read and write data. """
 import os
 import logging
 import pandas as pd
@@ -69,11 +70,11 @@ def extract_sheet(fpath, sname, header, index_col=None):
 
     # read the excel file
     dobj = pd.ExcelFile(os.path.join(PROJECT_PATH, fpath))
-    logging.info(f"{sname} - read sheet from '{relative_path(fpath)}'")
+    logging.info("%s - read sheet from '%s'", sname, relative_path(fpath))
 
     # parse sheet
     dset = dobj.parse(sname, header=header, index_col=index_col)
-    logging.info(f"{sname} - parsed sheet: {dset.shape[0]} records")
+    logging.info("%s - parsed sheet: %d records", sname, dset.shape[0])
 
     return dset
 
@@ -92,7 +93,7 @@ def export_dataframe(dset, fname_root, log_prefix):
         dset.to_csv(fname, index=True, compression="gzip")
     elif OUTPUT_EXTENSION == ".parquet":
         dset.to_parquet(fname, index=True)
-    logging.info(f"{log_prefix} - write dataset to '{relative_path(fname)}'")
+    logging.info("%s - write dataset to '%s'", log_prefix, relative_path(fname))
 
 
 def read_dataframe(fpath, log_prefix):
@@ -112,7 +113,7 @@ def read_dataframe(fpath, log_prefix):
         dset = pd.read_csv(fname, index=True, compression="gzip")
     elif ext == ".parquet":
         dset = pd.read_parquet(fname)
-    logging.info(f"{log_prefix} - read dataset from '{fpath}'")
+    logging.info("%s - read dataset from '%s'", log_prefix, fpath)
 
     return dset
 
@@ -130,108 +131,169 @@ def relative_path(fpath):
     return os.path.relpath(fpath, rw.PROJECT_PATH)
 
 
-def rule_config(rule_name, config_name):
-    """Return the configuration for a rule.
+def rule_all():
+    """Return the configuration for the rule all.
+
+    Returns:
+        list: Input files for rule all.
+    """
+
+    logs_extension = LOGS["extension"]
+    logs_path = LOGS["path"]
+
+    config = [
+        # raw submissions
+        os.path.join(
+            SOURCES["submissions"]["raw_path"],
+            SOURCES["submissions"]["filename"],
+        ),
+        # raw results
+        os.path.join(SOURCES["results"]["raw_path"], SOURCES["results"]["filename"]),
+    ]
+    # extracted and processed sheets
+    for source, _ in SOURCES["submissions"]["sheets"].items():
+        config.append(
+            f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}"
+        )
+    # extracted and prepared environment statements
+    for source, _ in SOURCES["environment_statements"].items():
+        config.append(
+            f"{logs_path}{SOURCES['environment_statements'][source]['name']}"
+            f"{logs_extension}"
+        )
+    # extracted and prepared results
+    log_fname = f"{SOURCES['results']['sheet']}{logs_extension}"
+    config.append(os.path.join(logs_path, log_fname))
+
+    return relative_to_absolute_path(config)
+
+
+def rule_submission_sheet(rule_name, config_name):
+    """Return the configuration for a submission sheet rule.
 
     Args:
         rule_name (str): Name of the rule.
         config_name (str): Name of the configuration.
 
     Returns:
-        list or str: Configuration.
+        list or str: rule configuration.
     """
-
-    config = []
     logs_extension = LOGS["extension"]
     logs_path = LOGS["path"]
 
-    if rule_name == "all":
-        if config_name == "input":
-            config = [
-                # raw submissions
-                os.path.join(
-                    SOURCES["submissions"]["raw_path"],
-                    SOURCES["submissions"]["filename"],
-                ),
-                # raw results
-                os.path.join(
-                    SOURCES["results"]["raw_path"], SOURCES["results"]["filename"]
-                ),
-            ]
-            # extracted and processed sheets
-            for source in SOURCES["submissions"]["sheets"].keys():
-                config.append(
-                    f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}"
-                )
-            # extracted and prepared environment statements
-            for source in SOURCES["environment_statements"].keys():
-                config.append(
-                    f"{logs_path}{SOURCES['environment_statements'][source]['name']}"
-                    f"{logs_extension}"
-                )
-            # extracted and prepared results
-            log_fname = f"{SOURCES['results']['sheet']}{logs_extension}"
-            config.append(os.path.join(logs_path, log_fname))
-    elif rule_name in SOURCES["submissions"]["sheets"].keys():
-        if config_name == "input":
-            # raw submissions
-            config = [
+    if config_name == "input":
+        # raw submissions
+        config = relative_to_absolute_path(
+            [
                 os.path.join(
                     SOURCES["submissions"]["raw_path"],
                     SOURCES["submissions"]["filename"],
                 )
             ]
-        elif config_name == "output":
-            log_fname = f"{SOURCES['submissions']['sheets'][rule_name]}{logs_extension}"
-            config = os.path.join(logs_path, log_fname)
-        elif config_name == "shell":
-            config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
-    elif rule_name in SOURCES["environment_statements"].keys():
-        if config_name == "input":
-            # raw submissions
-            config = [
-                os.path.join(
-                    SOURCES["submissions"]["raw_path"],
-                    SOURCES["submissions"]["filename"],
-                )
-            ]
-        elif config_name == "output":
-            log_fname = f"{SOURCES['environment_statements'][rule_name]['name']}{logs_extension}"
-            config = os.path.join(logs_path, log_fname)
-        elif config_name == "shell":
-            config = (
-                f"python -m REF2021_processing.prepare_envstatements -s {rule_name}"
-            )
-    elif rule_name == "results":
-        if config_name == "input":
-            # raw results
-            config = [
-                os.path.join(
-                    SOURCES["results"]["raw_path"], SOURCES["results"]["filename"]
-                )
-            ]
-            # extracted and prepared sheets
-            for source in SOURCES["submissions"]["sheets"].keys():
-                config.append(
-                    f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}",
-                )
-            # extracted and prepared environment statements
-            for source in SOURCES["environment_statements"].keys():
-                config.append(
-                    f"{logs_path}{SOURCES['environment_statements'][source]['name']}"
-                    f"{logs_extension}"
-                )
-        elif config_name == "output":
-            log_fname = f"{SOURCES['results']['sheet']}{logs_extension}"
-            config = os.path.join(logs_path, log_fname)
-        elif config_name == "shell":
-            config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
+        )
 
-    # make the paths absolute
-    if config_name != "shell":
-        if isinstance(config, list):
-            config = [os.path.join(PROJECT_PATH, item) for item in config]
-        elif isinstance(config, str):
-            config = os.path.join(PROJECT_PATH, config)
+    if config_name == "output":
+        log_fname = f"{SOURCES['submissions']['sheets'][rule_name]}{logs_extension}"
+        config = relative_to_absolute_path(os.path.join(logs_path, log_fname))
+
+    if config_name == "shell":
+        config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
 
     return config
+
+
+def rule_envstatements(rule_name, config_name):
+    """Return the configuration for an environment statements rule.
+
+    Args:
+        rule_name (str): Name of the rule.
+        config_name (str): Name of the configuration.
+
+    Returns:
+        list or str: rule configuration.
+    """
+
+    logs_extension = LOGS["extension"]
+    logs_path = LOGS["path"]
+
+    if config_name == "input":
+        # raw submissions
+        config = relative_to_absolute_path(
+            [
+                os.path.join(
+                    SOURCES["submissions"]["raw_path"],
+                    SOURCES["submissions"]["filename"],
+                )
+            ]
+        )
+
+    if config_name == "output":
+        log_fname = (
+            f"{SOURCES['environment_statements'][rule_name]['name']}{logs_extension}"
+        )
+        config = relative_to_absolute_path(os.path.join(logs_path, log_fname))
+
+    if config_name == "shell":
+        config = f"python -m REF2021_processing.prepare_envstatements -s {rule_name}"
+
+    return config
+
+
+def rule_results(config_name):
+    """Return the configuration for the rule results.
+
+    Args:
+        config_name (str): Name of the configuration.
+
+    Returns:
+        list or str: rule configuration.
+    """
+
+    rule_name = "results"
+    logs_extension = LOGS["extension"]
+    logs_path = LOGS["path"]
+
+    if config_name == "input":
+        # raw results
+        config = [
+            os.path.join(SOURCES["results"]["raw_path"], SOURCES["results"]["filename"])
+        ]
+        # extracted and prepared sheets
+        for source, _ in SOURCES["submissions"]["sheets"].items():
+            config.append(
+                f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}",
+            )
+        # extracted and prepared environment statements
+        for source, _ in SOURCES["environment_statements"].items():
+            config.append(
+                f"{logs_path}{SOURCES['environment_statements'][source]['name']}"
+                f"{logs_extension}"
+            )
+        config = relative_to_absolute_path(config)
+
+    if config_name == "output":
+        log_fname = f"{SOURCES['results']['sheet']}{logs_extension}"
+        config = relative_to_absolute_path(os.path.join(logs_path, log_fname))
+
+    if config_name == "shell":
+        config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
+
+    return config
+
+
+def relative_to_absolute_path(fpath):
+    """Return the absolute path of a file.
+
+    Args:
+        fpath (str): File path.
+
+    Returns:
+        str: Absolute path of the file.
+    """
+
+    if isinstance(fpath, list):
+        fpath_absolute = [os.path.join(PROJECT_PATH, item) for item in fpath]
+    if isinstance(fpath, str):
+        fpath_absolute = os.path.join(PROJECT_PATH, fpath)
+
+    return fpath_absolute

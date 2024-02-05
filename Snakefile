@@ -3,80 +3,80 @@ import REF2021_processing.read_write as rw
 
 rule all:
     input:
-        rw.rule_config("all", "input")
+        rw.rule_all()
 
 rule outputs:
     input:
-        rw.rule_config("outputs", "input")
+        rw.rule_submission_sheet("outputs", "input")
     output:
-        rw.rule_config("outputs", "output")
+        rw.rule_submission_sheet("outputs", "output")
     shell:
-        rw.rule_config("outputs", "shell")
+        rw.rule_submission_sheet("outputs", "shell")
 
 rule impacts:
     input:
-        rw.rule_config("impacts", "input")
+        rw.rule_submission_sheet("impacts", "input")
     output:
-        rw.rule_config("impacts", "output")
+        rw.rule_submission_sheet("impacts", "output")
     shell:
-        rw.rule_config("impacts", "shell")
+        rw.rule_submission_sheet("impacts", "shell")
 
 
 rule degrees:
     input:
-        rw.rule_config("degrees", "input")
+        rw.rule_submission_sheet("degrees", "input")
     output:
-        rw.rule_config("degrees", "output")
+        rw.rule_submission_sheet("degrees", "output")
     shell:
-        rw.rule_config("degrees", "shell")
+        rw.rule_submission_sheet("degrees", "shell")
 
 rule income:
     input:
-        rw.rule_config("income", "input")
+        rw.rule_submission_sheet("income", "input")
     output:
-        rw.rule_config("income", "output")
+        rw.rule_submission_sheet("income", "output")
     shell:
-        rw.rule_config("income", "shell")
+        rw.rule_submission_sheet("income", "shell")
 
 rule income_in_kind:
     input:
-        rw.rule_config("income_in_kind", "input")
+        rw.rule_submission_sheet("income_in_kind", "input")
     output:
-        rw.rule_config("income_in_kind", "output")
+        rw.rule_submission_sheet("income_in_kind", "output")
     shell:
-        rw.rule_config("income_in_kind", "shell")
+        rw.rule_submission_sheet("income_in_kind", "shell")
 
 rule groups:
     input:
-        rw.rule_config("groups", "input")
+        rw.rule_submission_sheet("groups", "input")
     output:
-        rw.rule_config("groups", "output")
+        rw.rule_submission_sheet("groups", "output")
     shell:
-        rw.rule_config("groups", "shell")
+        rw.rule_submission_sheet("groups", "shell")
 
 rule institution:
     input:
-        rw.rule_config("institution", "input")
+        rw.rule_envstatements("institution", "input")
     output:
-        rw.rule_config("institution", "output")
+        rw.rule_envstatements("institution", "output")
     shell:
-        rw.rule_config("institution", "shell")
+        rw.rule_envstatements("institution", "shell")
 
 rule unit:
     input:
-        rw.rule_config("unit", "input")
+        rw.rule_envstatements("unit", "input")
     output:
-        rw.rule_config("unit", "output")
+        rw.rule_envstatements("unit", "output")
     shell:
-        rw.rule_config("unit", "shell")
+        rw.rule_envstatements("unit", "shell")
 
 rule results:
     input:
-        rw.rule_config("results", "input")
+        rw.rule_results("input")
     output:
-        rw.rule_config("results", "output")
+        rw.rule_results("output")
     shell:
-        rw.rule_config("results", "shell")
+        rw.rule_results("shell")
 
 # this rule is defined for completeness
 # but it is not run because the unzipping fails due to the encoding
