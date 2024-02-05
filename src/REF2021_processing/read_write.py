@@ -6,21 +6,18 @@ import REF2021_processing.read_write as rw
 
 PROJECT_PATH = os.path.dirname(os.path.abspath(__name__))
 
-paths = {
-    "output_sheets": "data/processed/sheets/",
-    "output_env": "data/processed/environment_statements/prepared/",
-    "logs": "logs/",
-    "logs_interim": "logs/interim/",
+LOGS = {
+    "path": "logs/",
+    "interim_path": "logs/interim/",
+    "extension": ".log",
 }
 
-for key, value in paths.items():
-    paths[key] = os.path.join(PROJECT_PATH, value)
-
-sources = {
+SOURCES = {
     "submissions": {
-        "path": "data/raw/",
+        "raw_path": "data/raw/",
         "filename": "REF-2021-Submissions-All-2022-07-27.xlsx",
         "header_index": 4,
+        "output_path": "data/processed/sheets/",
         "sheets": {
             "outputs": "Outputs",
             "impacts": "ImpactCaseStudies",
@@ -32,27 +29,29 @@ sources = {
     },
     "environment_statements": {
         "unit": {
-            "path": "data/processed/environment_statements/extracted/unit/",
+            "extracted_path": "data/processed/environment_statements/extracted/unit/",
             "prefix": "Unit environment statement - ",
-            "extension": ".txt",
+            "input_extension": ".txt",
             "name": "EnvironmentStatementsUnitLevel",
+            "output_path": "data/processed/environment_statements/prepared/",
         },
         "institution": {
-            "path": "data/processed/environment_statements/extracted/institution/",
+            "extracted_path": "data/processed/environment_statements/extracted/institution/",
             "name": "EnvironmentStatementsInstitutionLevel",
-            "extension": ".txt",
+            "input_extension": ".txt",
             "prefix": "Institution environment statement - ",
+            "output_path": "data/processed/environment_statements/prepared/",
         },
     },
     "results": {
-        "path": "data/raw/",
+        "raw_path": "data/raw/",
         "filename": "REF-2021-Results-All-2022-05-06.xlsx",
         "header_index": 6,
         "sheet": "Results",
     },
 }
 
-extensions = {"logs": ".log", "outputs": [".parquet"]}
+OUTPUT_EXTENSION = ".parquet"
 
 
 def extract_sheet(fpath, sname, header, index_col=None):
@@ -88,13 +87,12 @@ def export_dataframe(dset, fname_root, log_prefix):
         log_prefix (str): Prefix for log messages.
     """
 
-    for ext in rw.extensions["outputs"]:
-        fname = os.path.join(PROJECT_PATH, f"{fname_root}{ext}")
-        if ext == ".csv.gz":
-            dset.to_csv(fname, index=True, compression="gzip")
-        elif ext == ".parquet":
-            dset.to_parquet(fname, index=True)
-        logging.info(f"{log_prefix} - write dataset to '{relative_path(fname)}'")
+    fname = os.path.join(PROJECT_PATH, f"{fname_root}{OUTPUT_EXTENSION}")
+    if OUTPUT_EXTENSION == ".csv.gz":
+        dset.to_csv(fname, index=True, compression="gzip")
+    elif OUTPUT_EXTENSION == ".parquet":
+        dset.to_parquet(fname, index=True)
+    logging.info(f"{log_prefix} - write dataset to '{relative_path(fname)}'")
 
 
 def read_dataframe(fpath, log_prefix):
@@ -133,88 +131,107 @@ def relative_path(fpath):
 
 
 def rule_config(rule_name, config_name):
+    """Return the configuration for a rule.
+
+    Args:
+        rule_name (str): Name of the rule.
+        config_name (str): Name of the configuration.
+
+    Returns:
+        list or str: Configuration.
+    """
+
     config = []
+    logs_extension = LOGS["extension"]
+    logs_path = LOGS["path"]
 
     if rule_name == "all":
         if config_name == "input":
             config = [
+                # raw submissions
                 os.path.join(
-                    PROJECT_PATH,
-                    *[
-                        sources["submissions"]["path"],
-                        sources["submissions"]["filename"],
-                    ],
-                )
+                    SOURCES["submissions"]["raw_path"],
+                    SOURCES["submissions"]["filename"],
+                ),
+                # raw results
+                os.path.join(
+                    SOURCES["results"]["raw_path"], SOURCES["results"]["filename"]
+                ),
             ]
-            for source in sources["submissions"]["sheets"].keys():
+            # extracted and processed sheets
+            for source in SOURCES["submissions"]["sheets"].keys():
                 config.append(
-                    f"{paths['logs']}{sources['submissions']['sheets'][source]}{extensions['logs']}"
+                    f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}"
                 )
-            for source in sources["environment_statements"].keys():
+            # extracted and prepared environment statements
+            for source in SOURCES["environment_statements"].keys():
                 config.append(
-                    f"{paths['logs']}{sources['environment_statements'][source]['name']}{extensions['logs']}"
+                    f"{logs_path}{SOURCES['environment_statements'][source]['name']}"
+                    f"{logs_extension}"
                 )
-            log_fname = f"{sources['results']['sheet']}{extensions['logs']}"
-            config.append([os.path.join(PROJECT_PATH, *[paths["logs"], log_fname])])
-    elif rule_name in sources["submissions"]["sheets"].keys():
+            # extracted and prepared results
+            log_fname = f"{SOURCES['results']['sheet']}{logs_extension}"
+            config.append(os.path.join(logs_path, log_fname))
+    elif rule_name in SOURCES["submissions"]["sheets"].keys():
         if config_name == "input":
+            # raw submissions
             config = [
                 os.path.join(
-                    PROJECT_PATH,
-                    *[
-                        sources["submissions"]["path"],
-                        sources["submissions"]["filename"],
-                    ],
+                    SOURCES["submissions"]["raw_path"],
+                    SOURCES["submissions"]["filename"],
                 )
             ]
         elif config_name == "output":
-            log_fname = (
-                f"{sources['submissions']['sheets'][rule_name]}{extensions['logs']}"
-            )
-            config = [os.path.join(PROJECT_PATH, *[paths["logs"], log_fname])]
+            log_fname = f"{SOURCES['submissions']['sheets'][rule_name]}{logs_extension}"
+            config = os.path.join(logs_path, log_fname)
         elif config_name == "shell":
             config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
-    elif rule_name in sources["environment_statements"].keys():
+    elif rule_name in SOURCES["environment_statements"].keys():
         if config_name == "input":
+            # raw submissions
             config = [
                 os.path.join(
-                    PROJECT_PATH,
-                    *[
-                        sources["submissions"]["path"],
-                        sources["submissions"]["filename"],
-                    ],
+                    SOURCES["submissions"]["raw_path"],
+                    SOURCES["submissions"]["filename"],
                 )
             ]
         elif config_name == "output":
-            log_fname = f"{sources['environment_statements'][rule_name]['name']}{extensions['logs']}"
-            config = [os.path.join(PROJECT_PATH, *[paths["logs"], log_fname])]
+            log_fname = f"{SOURCES['environment_statements'][rule_name]['name']}{logs_extension}"
+            config = os.path.join(logs_path, log_fname)
         elif config_name == "shell":
             config = (
                 f"python -m REF2021_processing.prepare_envstatements -s {rule_name}"
             )
     elif rule_name == "results":
         if config_name == "input":
+            # raw results
             config = [
                 os.path.join(
-                    PROJECT_PATH,
-                    *[
-                        sources["results"]["path"],
-                        sources["results"]["filename"],
-                    ],
+                    SOURCES["results"]["raw_path"], SOURCES["results"]["filename"]
                 )
             ]
-            for source in sources["submissions"]["sheets"].keys():
+            # extracted and prepared sheets
+            for source in SOURCES["submissions"]["sheets"].keys():
                 config.append(
-                    f"{paths['logs']}{sources['submissions']['sheets'][source]}{extensions['logs']}"
+                    f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}",
                 )
-            for source in sources["environment_statements"].keys():
+            # extracted and prepared environment statements
+            for source in SOURCES["environment_statements"].keys():
                 config.append(
-                    f"{paths['logs']}{sources['environment_statements'][source]['name']}{extensions['logs']}"
+                    f"{logs_path}{SOURCES['environment_statements'][source]['name']}"
+                    f"{logs_extension}"
                 )
         elif config_name == "output":
-            log_fname = f"{sources['results']['sheet']}{extensions['logs']}"
-            config = [os.path.join(PROJECT_PATH, *[paths["logs"], log_fname])]
+            log_fname = f"{SOURCES['results']['sheet']}{logs_extension}"
+            config = os.path.join(logs_path, log_fname)
         elif config_name == "shell":
             config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
+
+    # make the paths absolute
+    if config_name != "shell":
+        if isinstance(config, list):
+            config = [os.path.join(PROJECT_PATH, item) for item in config]
+        elif isinstance(config, str):
+            config = os.path.join(PROJECT_PATH, config)
 
     return config

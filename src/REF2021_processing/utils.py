@@ -16,11 +16,11 @@ def setup_logger(source, verbose=True):
     """
 
     try:
-        fname = f"{source}{rw.extensions['logs']}"
-        fpath = f"{rw.paths['logs_interim']}{fname}"
+        fname = f"{source}{rw.LOGS['extension']}"
+        fpath = os.path.join(rw.PROJECT_PATH, f"{rw.LOGS['interim_path']}{fname}")
 
         # make folders that do not exist and delete previous log files
-        for folder in [rw.paths["logs"], rw.paths["logs_interim"]]:
+        for folder in [rw.LOGS["path"], rw.LOGS["interim_path"]]:
             if not os.path.exists(folder):
                 os.makedirs(folder)
             if os.path.exists(f"{folder}{fname}"):
@@ -49,9 +49,9 @@ def complete_logger(source, verbose=True):
     """
 
     try:
-        fname = f"{source}{rw.extensions['logs']}"
-        fpath_interim = f"{rw.paths['logs_interim']}{fname}"
-        fpath = f"{rw.paths['logs']}{fname}"
+        fname = f"{source}{rw.LOGS['extension']}"
+        fpath_interim = os.path.join(rw.PROJECT_PATH, f"{rw.LOGS['interim_path']}{fname}")
+        fpath = os.path.join(rw.PROJECT_PATH, f"{rw.LOGS['path']}{fname}")
 
         # move log file to the logs folder
         os.rename(fpath_interim, fpath)

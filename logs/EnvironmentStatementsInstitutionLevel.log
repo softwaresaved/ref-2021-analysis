@@ -1,4 +1,4 @@
-2024-02-05 12:03:25,048 [INFO] EnvironmentStatementsInstitutionLevel - read data from 'data/processed/environment_statements/extracted/institution/' 
-2024-02-05 12:03:25,048 [INFO] EnvironmentStatementsInstitutionLevel - statements: 143, sections: 4
-2024-02-05 12:03:25,529 [INFO] EnvironmentStatementsInstitutionLevel - prepared institution statements: 143 records, 5 columns
-2024-02-05 12:03:25,558 [INFO] EnvironmentStatementsInstitutionLevel - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsInstitutionLevel.parquet'
+2024-02-05 15:27:34,957 [INFO] EnvironmentStatementsInstitutionLevel - read data from 'data/processed/environment_statements/extracted/institution/' 
+2024-02-05 15:27:34,957 [INFO] EnvironmentStatementsInstitutionLevel - statements: 143, sections: 4
+2024-02-05 15:27:35,428 [INFO] EnvironmentStatementsInstitutionLevel - prepared institution statements: 143 records, 5 columns
+2024-02-05 15:27:35,458 [INFO] EnvironmentStatementsInstitutionLevel - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsInstitutionLevel.parquet'

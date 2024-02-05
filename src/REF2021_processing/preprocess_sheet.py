@@ -146,8 +146,8 @@ def preprocess_results(dset, sname):
     # read and merge information from research groups
     # -----------------------------------------------
     infname = os.path.join(
-        rw.paths["output_sheets"],
-        f"{rw.sources['submissions']['sheets']['groups']}{rw.extensions['outputs'][0]}",
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['groups']}{rw.OUTPUT_EXTENSION}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
@@ -173,8 +173,8 @@ def preprocess_results(dset, sname):
     # read and merge the information from outputs
     # --------------------------------------------
     infname = os.path.join(
-        rw.paths["output_sheets"],
-        f"{rw.sources['submissions']['sheets']['outputs']}{rw.extensions['outputs'][0]}",
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['outputs']}{rw.OUTPUT_EXTENSION}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
@@ -224,8 +224,8 @@ def preprocess_results(dset, sname):
     # read and merge the information from impacts
     # -------------------------------------------
     infname = os.path.join(
-        rw.paths["output_sheets"],
-        f"{rw.sources['submissions']['sheets']['impacts']}{rw.extensions['outputs'][0]}",
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['impacts']}{rw.OUTPUT_EXTENSION}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
@@ -249,8 +249,8 @@ def preprocess_results(dset, sname):
     # read and merge the information from degrees
     # -------------------------------------------
     infname = os.path.join(
-        rw.paths["output_sheets"],
-        f"{rw.sources['submissions']['sheets']['degrees']}{rw.extensions['outputs'][0]}",
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['degrees']}{rw.OUTPUT_EXTENSION}",
     )
     dset_extra = rw.read_dataframe(infname, sname)
 
@@ -271,8 +271,8 @@ def preprocess_results(dset, sname):
     # ---------------------------------------------
     infname = os.path.join(
         rw.PROJECT_PATH,
-        f"{rw.paths['output_env']}"
-        f"{rw.sources['environment_statements']['unit']['name']}{rw.extensions['outputs'][0]}",
+        f"{rw.SOURCES['environment_statements']['unit']['output_path']}"
+        f"{rw.SOURCES['environment_statements']['unit']['name']}{rw.OUTPUT_EXTENSION}",
     )
     dset_uenv = rw.read_dataframe(infname, sname)
 
@@ -306,7 +306,7 @@ def preprocess_groups(dset):
 
     """
 
-    sname = rw.sources["submissions"]["sheets"]["groups"]
+    sname = rw.SOURCES["submissions"]["sheets"]["groups"]
 
     # make group code categorical
     dset[cb.COL_RG_CODE] = pd.Categorical(dset[cb.COL_RG_CODE])
@@ -326,7 +326,7 @@ def preprocess_income(dset):
 
     """
 
-    sname = rw.sources["submissions"]["sheets"]["income"]
+    sname = rw.SOURCES["submissions"]["sheets"]["income"]
 
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
@@ -346,7 +346,7 @@ def preprocess_income_in_kind(dset):
 
     """
 
-    sname = rw.sources["submissions"]["sheets"]["income_in_kind"]
+    sname = rw.SOURCES["submissions"]["sheets"]["income_in_kind"]
 
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
@@ -365,7 +365,7 @@ def preprocess_degrees(dset):
         pd.DataFrame:  Dataset with data pre-processed.
     """
 
-    sname = rw.sources["submissions"]["sheets"]["degrees"]
+    sname = rw.SOURCES["submissions"]["sheets"]["degrees"]
 
     # calculate the total number of degrees awarded
     column_to_sum = [
@@ -393,7 +393,7 @@ def preprocess_outputs(dset):
         pd.DataFrame:  Dataset with data pre-processed.
     """
 
-    sname = rw.sources["submissions"]["sheets"]["outputs"]
+    sname = rw.SOURCES["submissions"]["sheets"]["outputs"]
 
     # replace various styling characters selected columns
     columns = [cb.COL_OUTPUT_TITLE]
@@ -426,7 +426,7 @@ def preprocess_impacts(dset):
         pd.DataFrame:  Dataset with data pre-processed.
     """
 
-    sname = rw.sources["submissions"]["sheets"]["impacts"]
+    sname = rw.SOURCES["submissions"]["sheets"]["impacts"]
 
     # shift columns from title to the left
     # ------------------------------------
@@ -462,19 +462,19 @@ def preprocess_sheet(source):
 
     # set the input excel file name and index
     if source == "results":
-        sname = rw.sources["results"]["sheet"]
+        sname = rw.SOURCES["results"]["sheet"]
         infname = os.path.join(
-            rw.sources["results"]["path"],
-            rw.sources["results"]["filename"]
+            rw.SOURCES["results"]["raw_path"],
+            rw.SOURCES["results"]["filename"]
         )
-        header_index = rw.sources["results"]["header_index"]
+        header_index = rw.SOURCES["results"]["header_index"]
     else:
-        sname = rw.sources["submissions"]["sheets"][source]
+        sname = rw.SOURCES["submissions"]["sheets"][source]
         infname = os.path.join(
-            rw.sources["submissions"]["path"],
-            rw.sources["submissions"]["filename"]
+            rw.SOURCES["submissions"]["raw_path"],
+            rw.SOURCES["submissions"]["filename"]
         )
-        header_index = rw.sources["submissions"]["header_index"]
+        header_index = rw.SOURCES["submissions"]["header_index"]
 
     # extract sheet
     dset = rw.extract_sheet(infname, sname, header_index)
@@ -540,7 +540,7 @@ def preprocess_sheet(source):
 
     # set the index name and save the pre-processed data
     dset.index.name = "Record"
-    rw.export_dataframe(dset, os.path.join(rw.paths["output_sheets"], sname), sname)
+    rw.export_dataframe(dset, os.path.join(rw.SOURCES["submissions"]["output_path"], sname), sname)
 
     # legacy code to save two types of results dataframes
     # # set the index name and save the extra file pre-processed data
@@ -548,7 +548,7 @@ def preprocess_sheet(source):
     #     dset_extra.index.name = "Record"
     #     rw.export_dataframe(
     #         dset_extra,
-    #         os.path.join(rw.paths["output_sheets"], sname),
+    #         os.path.join(rw.SOURCES["submissions"]["output_path"], sname),
     #         sname,
     #     )
 
@@ -574,9 +574,9 @@ if __name__ == "__main__":
     source = args.source
 
     if source == "results":
-        sname = rw.sources["results"]["sheet"]
+        sname = rw.SOURCES["results"]["sheet"]
     else:
-        sname = rw.sources["submissions"]["sheets"][source]
+        sname = rw.SOURCES["submissions"]["sheets"][source]
 
     status = utils.setup_logger(sname, verbose=args.verbose)
 

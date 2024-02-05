@@ -249,16 +249,16 @@ def prepare_institution_statements():
     """Prepares the institution statements."""
 
     # prepare variables
-    source_config = rw.sources["environment_statements"]["institution"]
+    source_config = rw.SOURCES["environment_statements"]["institution"]
     sname = source_config["name"]
-    fpath = source_config["path"]
+    fpath = source_config["extracted_path"]
 
     # get the file names
     fnames = os.listdir(os.path.join(rw.PROJECT_PATH, fpath))
     statement_count = len(fnames)
     fnames = [
         fname.replace(source_config["prefix"], "").replace(
-            source_config["extension"], ""
+            source_config["input_extension"], ""
         )
         for fname in fnames
     ]
@@ -272,10 +272,13 @@ def prepare_institution_statements():
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_INSTITUTION]
     for fname in fnames:
+        if fname == ".DS_Store":
+            continue
         institution_name = fname
         infname = os.path.join(
-            fpath, f"{source_config['prefix']}{fname}{source_config['extension']}"
+            fpath, f"{source_config['prefix']}{fname}{source_config['input_extension']}"
         )
+
         with open(infname, "r+") as file:
             statement = file.read()
             (indices, lines) = section_indices(statement, SECTIONS_INSTITUTION)
@@ -318,23 +321,29 @@ def prepare_institution_statements():
 
     # set the index name and save the prepared data
     dset.index.name = "Record"
-    rw.export_dataframe(dset, os.path.join(rw.paths["output_env"], sname), sname)
+    rw.export_dataframe(
+        dset,
+        os.path.join(
+            rw.SOURCES["environment_statements"]["institution"]["output_path"], sname
+        ),
+        sname,
+    )
 
 
 def prepare_unit_statements():
     """Prepares the unit statements."""
 
     # prepare variables
-    source_config = rw.sources["environment_statements"]["unit"]
+    source_config = rw.SOURCES["environment_statements"]["unit"]
     sname = source_config["name"]
-    fpath = source_config["path"]
+    fpath = source_config["extracted_path"]
 
     # get the file names
     fnames = os.listdir(os.path.join(rw.PROJECT_PATH, fpath))
     statement_count = len(fnames)
     fnames = [
         fname.replace(source_config["prefix"], "").replace(
-            source_config["extension"], ""
+            source_config["input_extension"], ""
         )
         for fname in fnames
     ]
@@ -348,6 +357,8 @@ def prepare_unit_statements():
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_UNIT]
     for fname in fnames:
+        if fname[0] == ".":
+            continue
         institution_name, unit_code_original = fname.split(" - ")
 
         # process tbe unit code and the multiple submission letter
@@ -357,7 +368,7 @@ def prepare_unit_statements():
             multiple_submission_letter = unit_code_original[-1]
         unit_name = cb.UOA_NAMES[int(unit_code)]
         infname = os.path.join(
-            fpath, f"{source_config['prefix']}{fname}{source_config['extension']}"
+            fpath, f"{source_config['prefix']}{fname}{source_config['input_extension']}"
         )
 
         with open(infname, "r+") as file:
@@ -401,7 +412,13 @@ def prepare_unit_statements():
 
     # set the index name and save the prepared data
     dset.index.name = "Record"
-    rw.export_dataframe(dset, os.path.join(rw.paths["output_env"], sname), sname)
+    rw.export_dataframe(
+        dset,
+        os.path.join(
+            rw.SOURCES["environment_statements"]["institution"]["output_path"], sname
+        ),
+        sname,
+    )
 
 
 if __name__ == "__main__":
@@ -423,7 +440,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     source = args.source
-    sname = rw.sources["environment_statements"][source]["name"]
+    sname = rw.SOURCES["environment_statements"][source]["name"]
 
     status = utils.setup_logger(sname, verbose=args.verbose)
 

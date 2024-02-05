@@ -78,8 +78,6 @@ rule results:
     shell:
         rw.rule_config("results", "shell")
 
-
-
 # this rule is defined for completeness
 # but it is not run because the unzipping fails due to the encoding
 # rule unzip_environment:

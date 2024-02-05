@@ -1,12 +1,12 @@
-2024-02-05 12:03:29,099 [INFO] Outputs - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-02-05 12:03:48,863 [INFO] Outputs - parsed sheet: 185353 records
-2024-02-05 12:03:48,893 [INFO] Outputs - rename 'Main panel' to 'Main panel code'
-2024-02-05 12:03:48,933 [INFO] Outputs - rename 'Output type' to 'Output type code'
-2024-02-05 12:03:48,988 [INFO] Outputs - replace '['/', ':']' with '_' in 'Institution name'
-2024-02-05 12:03:49,081 [INFO] Outputs - add columns for panel names
-2024-02-05 12:03:49,917 [INFO] Outputs - replace styling characters in ['Title']
-2024-02-05 12:03:49,959 [INFO] Outputs - add columns for output types names
-2024-02-05 12:03:49,974 [INFO] Outputs - make output year categorical
-2024-02-05 12:03:50,034 [INFO] Outputs - drop columns '['Main panel code', 'Institution UKPRN code', 'Unit of assessment number', 'Output type code']'
-2024-02-05 12:03:50,034 [INFO] Outputs - make categorical ['Is reserve output', 'Joint submission', 'Non-English', 'Forensic science', 'Delayed by COVID19', 'Multiple submission letter', 'Institution name', 'Multiple submission name', 'Output type', 'Interdisciplinary', 'Criminology', 'Main panel name', 'Propose double weighting', 'Open access status', 'Research group', 'Unit of assessment name', 'Citations applicable', 'Cross-referral requested']
-2024-02-05 12:03:50,351 [INFO] Outputs - write dataset to 'data/processed/sheets/Outputs.parquet'
+2024-02-05 15:27:39,247 [INFO] Outputs - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-05 15:27:59,190 [INFO] Outputs - parsed sheet: 185353 records
+2024-02-05 15:27:59,218 [INFO] Outputs - rename 'Main panel' to 'Main panel code'
+2024-02-05 15:27:59,257 [INFO] Outputs - rename 'Output type' to 'Output type code'
+2024-02-05 15:27:59,313 [INFO] Outputs - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-05 15:27:59,396 [INFO] Outputs - add columns for panel names
+2024-02-05 15:28:00,227 [INFO] Outputs - replace styling characters in ['Title']
+2024-02-05 15:28:00,271 [INFO] Outputs - add columns for output types names
+2024-02-05 15:28:00,286 [INFO] Outputs - make output year categorical
+2024-02-05 15:28:00,349 [INFO] Outputs - drop columns '['Unit of assessment number', 'Main panel code', 'Institution UKPRN code', 'Output type code']'
+2024-02-05 15:28:00,350 [INFO] Outputs - make categorical ['Open access status', 'Citations applicable', 'Unit of assessment name', 'Non-English', 'Forensic science', 'Research group', 'Cross-referral requested', 'Main panel name', 'Multiple submission letter', 'Multiple submission name', 'Interdisciplinary', 'Propose double weighting', 'Is reserve output', 'Institution name', 'Delayed by COVID19', 'Output type', 'Criminology', 'Joint submission']
+2024-02-05 15:28:00,659 [INFO] Outputs - write dataset to 'data/processed/sheets/Outputs.parquet'
