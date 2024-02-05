@@ -1,0 +1,9 @@
+2024-02-05 12:03:29,102 [INFO] ResearchIncome - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-05 12:03:30,539 [INFO] ResearchIncome - parsed sheet: 28637 records
+2024-02-05 12:03:30,541 [INFO] ResearchIncome - rename 'Main panel' to 'Main panel code'
+2024-02-05 12:03:30,548 [INFO] ResearchIncome - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-05 12:03:30,552 [INFO] ResearchIncome - add columns for panel names
+2024-02-05 12:03:30,556 [INFO] ResearchIncome - make income source categorical
+2024-02-05 12:03:30,558 [INFO] ResearchIncome - drop columns '['Unit of assessment number', 'Institution UKPRN code', 'Main panel code']'
+2024-02-05 12:03:30,558 [INFO] ResearchIncome - make categorical ['Unit of assessment name', 'Institution name', 'Main panel name', 'Joint submission', 'Multiple submission name', 'Multiple submission letter']
+2024-02-05 12:03:30,579 [INFO] ResearchIncome - write dataset to 'data/processed/sheets/ResearchIncome.parquet'

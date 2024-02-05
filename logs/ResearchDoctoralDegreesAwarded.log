@@ -1,0 +1,9 @@
+2024-02-05 12:03:29,095 [INFO] ResearchDoctoralDegreesAwarded - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-05 12:03:29,286 [INFO] ResearchDoctoralDegreesAwarded - parsed sheet: 1888 records
+2024-02-05 12:03:29,286 [INFO] ResearchDoctoralDegreesAwarded - rename 'Main panel' to 'Main panel code'
+2024-02-05 12:03:29,287 [INFO] ResearchDoctoralDegreesAwarded - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-05 12:03:29,288 [INFO] ResearchDoctoralDegreesAwarded - add columns for panel names
+2024-02-05 12:03:29,289 [INFO] ResearchDoctoralDegreesAwarded - calculate total number of degrees awarded
+2024-02-05 12:03:29,289 [INFO] ResearchDoctoralDegreesAwarded - drop columns '['Institution UKPRN code', 'Unit of assessment number', 'Main panel code']'
+2024-02-05 12:03:29,289 [INFO] ResearchDoctoralDegreesAwarded - make categorical ['Multiple submission letter', 'Joint submission', 'Unit of assessment name', 'Multiple submission name', 'Institution name', 'Main panel name']
+2024-02-05 12:03:29,300 [INFO] ResearchDoctoralDegreesAwarded - write dataset to 'data/processed/sheets/ResearchDoctoralDegreesAwarded.parquet'

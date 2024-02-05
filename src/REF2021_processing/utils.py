@@ -17,14 +17,16 @@ def setup_logger(source, verbose=True):
 
     try:
         fname = f"{source}{rw.extensions['logs']}"
-        # make folders that do not exist and delete previous log files
-        for fpath in [rw.paths["logs"], rw.paths["logs_interim"]]:
-            if not os.path.exists(fpath):
-                os.makedirs(fpath)
-            if os.path.exists(f"{fpath}{fname}"):
-                os.remove(f"{fpath}{fname}")
+        fpath = f"{rw.paths['logs_interim']}{fname}"
 
-        handlers = [logging.FileHandler(f"{rw.paths['logs_interim']}{fname}")]
+        # make folders that do not exist and delete previous log files
+        for folder in [rw.paths["logs"], rw.paths["logs_interim"]]:
+            if not os.path.exists(folder):
+                os.makedirs(folder)
+            if os.path.exists(f"{folder}{fname}"):
+                os.remove(f"{folder}{fname}")
+
+        handlers = [logging.FileHandler(fpath)]
 
         if verbose:
             handlers.append(logging.StreamHandler())
@@ -48,9 +50,11 @@ def complete_logger(source, verbose=True):
 
     try:
         fname = f"{source}{rw.extensions['logs']}"
+        fpath_interim = f"{rw.paths['logs_interim']}{fname}"
+        fpath = f"{rw.paths['logs']}{fname}"
+
         # move log file to the logs folder
-        os.rename(f"{rw.paths['logs_interim']}{fname}",
-                  f"{rw.paths['logs']}{fname}")
+        os.rename(fpath_interim, fpath)
 
         return True
     except Exception as e:
