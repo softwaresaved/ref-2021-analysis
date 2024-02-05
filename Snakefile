@@ -38,13 +38,13 @@ rule income:
     shell:
         rw.rule_config("income", "shell")
 
-rule incomeinkind:
+rule income_in_kind:
     input:
-        rw.rule_config("incomeinkind", "input")
+        rw.rule_config("income_in_kind", "input")
     output:
-        rw.rule_config("incomeinkind", "output")
+        rw.rule_config("income_in_kind", "output")
     shell:
-        rw.rule_config("incomeinkind", "shell")
+        rw.rule_config("income_in_kind", "shell")
 
 rule groups:
     input:

@@ -26,7 +26,7 @@ sources = {
             "impacts": "ImpactCaseStudies",
             "degrees": "ResearchDoctoralDegreesAwarded",
             "income": "ResearchIncome",
-            "incomeinkind": "ResearchIncomeInKind",
+            "income_in_kind": "ResearchIncomeInKind",
             "groups": "ResearchGroups",
         },
     },

@@ -335,7 +335,7 @@ def preprocess_income(dset):
     return dset
 
 
-def preprocess_incomeinkind(dset):
+def preprocess_income_in_kind(dset):
     """Preprocess the data from the ResearchIncomeInKind sheet
 
     Args:
@@ -346,7 +346,7 @@ def preprocess_incomeinkind(dset):
 
     """
 
-    sname = rw.sources["submissions"]["sheets"]["incomeinkind"]
+    sname = rw.sources["submissions"]["sheets"]["income_in_kind"]
 
     # make group code categorical
     dset[cb.COL_INCOME_SOURCE] = pd.Categorical(dset[cb.COL_INCOME_SOURCE])
@@ -507,8 +507,8 @@ def preprocess_sheet(source):
         dset = preprocess_impacts(dset)
     elif source == "income":
         dset = preprocess_income(dset)
-    elif source == "incomeinkind":
-        dset = preprocess_incomeinkind(dset)
+    elif source == "income_in_kind":
+        dset = preprocess_income_in_kind(dset)
     elif source == "results":
         dset = preprocess_results(dset, sname)
 
