@@ -292,7 +292,7 @@ def preprocess_results(dset, sname):
             columns_to_rename[column] = f"{column}{cb.COLUMN_NAME_ADDED_SUFFIX}"
     dset_extra.rename(columns=columns_to_rename, inplace=True)
 
-    return (dset, dset_extra)
+    return dset_extra
 
 
 def preprocess_groups(dset):
@@ -510,7 +510,7 @@ def preprocess_sheet(source):
     elif source == "incomeinkind":
         dset = preprocess_incomeinkind(dset)
     elif source == "results":
-        dset, dset_extra = preprocess_results(dset, sname)
+        dset = preprocess_results(dset, sname)
 
     # drop the code columns
     columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset.columns))
@@ -542,14 +542,15 @@ def preprocess_sheet(source):
     dset.index.name = "Record"
     rw.export_dataframe(dset, os.path.join(rw.paths["output_sheets"], sname), sname)
 
-    # set the index name and save the extra file pre-processed data
-    if dset_extra is not None:
-        dset_extra.index.name = "Record"
-        rw.export_dataframe(
-            dset_extra,
-            os.path.join(rw.paths["output_sheets"], sname),
-            sname,
-        )
+    # legacy code to save two types of results dataframes
+    # # set the index name and save the extra file pre-processed data
+    # if dset_extra is not None:
+    #     dset_extra.index.name = "Record"
+    #     rw.export_dataframe(
+    #         dset_extra,
+    #         os.path.join(rw.paths["output_sheets"], sname),
+    #         sname,
+    #     )
 
 
 if __name__ == "__main__":
