@@ -137,6 +137,14 @@ COLUMNS_TO_CATEGORY = [
     COL_IMPACT_IS_CONTINUED,
 ]
 
+COLUMNS_STARS = [
+    COL_RESULTS_4STAR,
+    COL_RESULTS_3STAR,
+    COL_RESULTS_2STAR,
+    COL_RESULTS_1STAR,
+    COL_RESULTS_UNCLASSIFIED,
+]
+
 # source: website
 PANEL_NAMES = {
     "A": "Medicine, health and life sciences",

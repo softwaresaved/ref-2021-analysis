@@ -1,8 +1,10 @@
 """ This module contains functions for preprocessing the data """
+import os
 import logging
 import pandas as pd
 
 import REF2021_processing.codebook as cb
+import REF2021_processing.read_write as rw
 
 PERCENTAGE_BINS = range(0, 101, 10)
 
@@ -185,5 +187,314 @@ def move_last_column(dset, column_before):
     item = columns.pop()
     columns.insert(index + 1, item)
     dset = dset.reindex(columns=columns)
+
+    return dset
+
+
+def pivot_results_by_profile(dset, sname):
+    """Pivot the results by profile to make a wide format for analyses.
+
+    Args:
+        dset (pandas.DataFrame): dataset
+        sname (str): label for the dataset
+
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
+    """
+
+    # setup the pivoting action
+    columns_index = [
+        cb.COL_INST_NAME,
+        cb.COL_PANEL_NAME,
+        cb.COL_UOA_NAME,
+        cb.COL_MULT_SUB_LETTER,
+        cb.COL_MULT_SUB_NAME,
+        cb.COL_JOINT_SUB,
+    ]
+    column_pivot = cb.COL_RESULTS_PROFILE
+    column_pivot_values = sorted(dset[column_pivot].unique())
+
+    # first two are assumed to the perc staff submitted that have the same value for all profiles
+    # for which duplicates are dropped and the column name is changed
+    columns_values = [
+        cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
+        cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
+    ]
+    columns_values.extend(cb.COLUMNS_STARS)
+    columns_values.extend(
+        [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_values[2:]]
+    )
+    suffix = "evaluation"
+
+    # columns to drop from the wide format because they are duplicates
+    columns_to_drop = [
+        f"{pivot_value} {suffix} - {column_value}"
+        for pivot_value in column_pivot_values[1:]
+        for column_value in columns_values[:2]
+    ]
+    # these are not binned as not < 100%
+    # columns_to_drop.extend(
+    #     [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_to_drop]
+    # )
+
+    # columms to rename in the wide format after dropping the duplicates
+    columns_to_rename = {}
+    for column_value in columns_values[:2]:
+        label = f"{column_pivot_values[0]} {suffix} - {column_value}"
+        columns_to_rename[label] = f"{column_value}"
+
+    # pivot and drop duplicate columns
+    dset = dset.pivot(index=columns_index, columns=column_pivot, values=columns_values)
+    columns = [f"{column[1]} {suffix} - {column[0]}" for column in dset.columns]
+    dset.columns = columns
+    dset = dset[sorted(columns)]
+    dset.drop(columns=columns_to_drop, inplace=True)
+
+    # rename columns and move the re-named columns to the front
+    dset.rename(columns=columns_to_rename, inplace=True)
+    columns = list(columns_to_rename.values())
+    columns.extend(
+        [
+            column
+            for column in dset.columns.tolist()
+            if column not in columns_to_rename.values()
+        ]
+    )
+    dset = dset[columns]
+    logging.info(
+        "%s - pivot to make wide format for ratings per profile to enable analyses",
+        sname,
+    )
+
+    # flatten index
+    dset.reset_index(inplace=True)
+
+    return dset
+
+
+def merge_resuts_with_groups(dset):
+    """Merge results with the number of research group submissions.
+
+    Args:
+        dset (pandas.DataFrame): dataset
+
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
+    """
+
+    sname = rw.SOURCES["results"]["sheet"]
+
+    columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
+
+    infname = os.path.join(
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['groups']}{rw.OUTPUT_EXTENSION}",
+    )
+    dset_extra = rw.read_dataframe(infname, sname)
+
+    # add the column with the number of research group submissions
+    column_to_count = "Research group submissions"
+    column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
+    dset_stats = (
+        dset_extra[columns_index]
+        .value_counts()
+        .to_frame(name=column_name)
+        .reset_index()
+    )
+    dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
+    dset[column_name] = dset[column_name].fillna(0)
+    logging.info("%s - added column '%s'", sname, column_name)
+
+    # report mismatch in the number of records
+    nrecords = dset_extra.shape[0]
+    entries_count = dset[column_name].sum()
+    if nrecords != entries_count:
+        logging.warning("%s - %d != %d", sname, nrecords, entries_count)
+
+    return dset
+
+
+def merge_resuts_with_outputs(dset):
+    """Merge results with the number of output submissions.
+
+    Args:
+        dset (pandas.DataFrame): dataset
+
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
+    """
+
+    sname = rw.SOURCES["results"]["sheet"]
+
+    columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
+
+    infname = os.path.join(
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['outputs']}{rw.OUTPUT_EXTENSION}",
+    )
+    dset_extra = rw.read_dataframe(infname, sname)
+
+    # add the column with the number of output submissions
+    column_to_count = "Output submissions"
+    column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
+    dset_stats = (
+        dset_extra[columns_index]
+        .value_counts()
+        .to_frame(name=column_name)
+        .reset_index()
+    )
+    dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
+    dset[column_name] = dset[column_name].fillna(0)
+    logging.info("%s - added column '%s'", sname, column_name)
+
+    # report mismatch in the number of records
+    nrecords = dset_extra.shape[0]
+    entries_count = dset[column_name].sum()
+    if nrecords != entries_count:
+        logging.warning("%s - %d != %d", sname, nrecords, entries_count)
+
+    # add columns with the number of outputs by type
+    column_to_count = "Output type"
+    for value in dset_extra[column_to_count].unique():
+        selected_indices = dset_extra[column_to_count] == value
+        # delete the ADDED suffix from the output type column name so it does not appear twice
+        column_selected = (
+            f"{column_name.replace(cb.COLUMN_NAME_ADDED_SUFFIX, '')} - "
+            f"{value}{cb.COLUMN_NAME_ADDED_SUFFIX}"
+        )
+        dset_stats = (
+            dset_extra.loc[selected_indices, columns_index]
+            .value_counts()
+            .to_frame(name=column_selected)
+            .reset_index()
+        )
+        dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
+        dset[column_selected] = dset[column_selected].fillna(0)
+        logging.info("%s - added column '%s'", sname, column_selected)
+        nrecords = dset_extra.loc[selected_indices, column_to_count].shape[0]
+        # report mismatch in the number of records
+        entries_count = dset[column_selected].sum()
+        if nrecords != entries_count:
+            logging.warning("%s - %d != %d", sname, nrecords, entries_count)
+
+    return dset
+
+
+def merge_resuts_with_impacts(dset):
+    """Merge results with the number of impact submissions.
+
+    Args:
+        dset (pandas.DataFrame): dataset
+
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
+    """
+
+    sname = rw.SOURCES["results"]["sheet"]
+
+    columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
+
+    infname = os.path.join(
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['impacts']}{rw.OUTPUT_EXTENSION}",
+    )
+    dset_extra = rw.read_dataframe(infname, sname)
+
+    # add the column with the number of impact case study submissions
+    column_to_count = "Impact case study submissions"
+    column_name = f"{column_to_count}{cb.COLUMN_NAME_ADDED_SUFFIX}"
+    dset_stats = (
+        dset_extra[columns_index]
+        .value_counts()
+        .to_frame(name=column_name)
+        .reset_index()
+    )
+    dset = pd.merge(dset, dset_stats, how="left", on=columns_index)
+    dset[column_name] = dset[column_name].fillna(0)
+    logging.info("%s - added column '%s'", sname, column_name)
+
+    # report mismatch in the number of records
+    if dset_extra.shape[0] != dset[column_name].sum():
+        logging.warning(
+            "%s - %d != %d", sname, dset_extra.shape[0], dset[column_name].sum()
+        )
+
+    return dset
+
+
+def merge_resuts_with_degrees(dset):
+    """Merge results with the number of degrees awarded.
+
+    Args:
+        dset (pandas.DataFrame): dataset
+
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
+    """
+
+    sname = rw.SOURCES["results"]["sheet"]
+
+    columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
+
+    infname = os.path.join(
+        rw.SOURCES["submissions"]["output_path"],
+        f"{rw.SOURCES['submissions']['sheets']['degrees']}{rw.OUTPUT_EXTENSION}",
+    )
+    dset_extra = rw.read_dataframe(infname, sname)
+
+    # add the column with the number of degrees awarded
+    columns_to_merge = [cb.COL_DEGREES_TOTAL]
+    columns_all = columns_index.copy()
+    columns_all.extend(columns_to_merge)
+    dset = pd.merge(dset, dset_extra[columns_all], how="left", on=columns_index)
+    logging.info("%s - added columns '%s'", sname, columns_to_merge)
+
+    # report mismatch in the number of records
+    extra_sum = dset_extra[columns_to_merge[0]].sum()
+    dset_sum = dset[columns_to_merge[0]].sum()
+    if extra_sum != dset_sum:
+        logging.warning("%s - %d != %d", sname, extra_sum, dset_sum)
+
+    return dset
+
+
+def merge_resuts_with_uenvstatements(dset):
+    """Merge results with the number of environment statements.
+
+    Args:
+        dset (pandas.DataFrame): dataset
+
+    Returns:
+        dset (pandas.DataFrame): dataset with new column
+    """
+
+    sname = rw.SOURCES["results"]["sheet"]
+
+    columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
+
+    infname = os.path.join(
+        rw.PROJECT_PATH,
+        f"{rw.SOURCES['environment_statements']['unit']['output_path']}"
+        f"{rw.SOURCES['environment_statements']['unit']['name']}{rw.OUTPUT_EXTENSION}",
+    )
+    dset_extra = rw.read_dataframe(infname, sname)
+
+    # replace na in cb.COL_MULT_SUB_LETTER with "" for merging
+    dset_extra[cb.COL_MULT_SUB_LETTER] = dset_extra[cb.COL_MULT_SUB_LETTER].fillna("")
+
+    columns_index = [cb.COL_INST_NAME, cb.COL_UOA_NAME, cb.COL_MULT_SUB_LETTER]
+    dset = pd.merge(dset, dset_extra, how="left", on=columns_index)
+    logging.info(
+        "%s - merged with unit environment statements: %d records",
+        sname,
+        dset.shape[0],
+    )
+
+    # add suffix to added columns
+    columns_to_rename = {}
+    for column in dset.columns:
+        if column not in dset.columns:
+            columns_to_rename[column] = f"{column}{cb.COLUMN_NAME_ADDED_SUFFIX}"
+    dset.rename(columns=columns_to_rename, inplace=True)
 
     return dset
