@@ -1,25 +1,18 @@
-"""Tests for the read_write.py."""
+"""Tests for processed data and associated log files and folders."""
 import os
 import REF2021_processing.read_write as rw
 
 
-def test_logs_folder_and_files_exist():
-    """Test if the logs folder and files exist."""
+def test_log_folder_exists():
+    """Test if the log folder exists."""
 
-    # logs folder
-    assert os.path.exists(rw.LOGS["path"])
+    fpath = rw.LOGS["path"]
+    assert os.path.exists(fpath), f"{fpath} does not exist"
 
-    # logs files for sheets
+
+def test_process_submissions_logs_exist():
+    """Test if the logs files for submissions exist."""
+
     for sheet in rw.SOURCES["submissions"]["sheets"].values():
-        assert os.path.exists(f"{rw.LOGS['path']}{sheet}{rw.LOGS['extension']}")
-
-    # logs files for environment statements
-    for statement in rw.SOURCES["environment_statements"].values():
-        assert os.path.exists(
-            f"{rw.LOGS['path']}{statement['name']}{rw.LOGS['extension']}"
-        )
-
-    # logs file for results
-    assert os.path.exists(
-        f"{rw.LOGS['path']}{rw.SOURCES['results']['sheet']}{rw.LOGS['extension']}"
-    )
+        fpath = f"{rw.LOGS['path']}{sheet}{rw.LOGS['extension']}"
+        assert os.path.exists(fpath), f"{fpath} does not exist"

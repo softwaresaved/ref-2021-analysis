@@ -1,4 +1,3 @@
-
 import REF2021_processing.read_write as rw
 
 rule all:

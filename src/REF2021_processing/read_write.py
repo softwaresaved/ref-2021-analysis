@@ -3,7 +3,6 @@ import os
 import logging
 import pandas as pd
 
-import REF2021_processing.read_write as rw
 
 PROJECT_PATH = os.path.dirname(os.path.abspath(__name__))
 
@@ -128,7 +127,7 @@ def relative_path(fpath):
         str: Relative path of the file.
     """
 
-    return os.path.relpath(fpath, rw.PROJECT_PATH)
+    return os.path.relpath(fpath, PROJECT_PATH)
 
 
 def rule_all():
@@ -178,6 +177,7 @@ def rule_submission_sheet(rule_name, config_name):
     Returns:
         list or str: rule configuration.
     """
+
     logs_extension = LOGS["extension"]
     logs_path = LOGS["path"]
 
@@ -197,7 +197,7 @@ def rule_submission_sheet(rule_name, config_name):
         config = relative_to_absolute_path(os.path.join(logs_path, log_fname))
 
     if config_name == "shell":
-        config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
+        config = f"python -m REF2021_processing.process_submissions_and_results -s {rule_name}"
 
     return config
 
@@ -234,7 +234,7 @@ def rule_envstatements(rule_name, config_name):
         config = relative_to_absolute_path(os.path.join(logs_path, log_fname))
 
     if config_name == "shell":
-        config = f"python -m REF2021_processing.prepare_envstatements -s {rule_name}"
+        config = f"python -m REF2021_processing.process_envstatements -s {rule_name}"
 
     return config
 
@@ -276,7 +276,7 @@ def rule_results(config_name):
         config = relative_to_absolute_path(os.path.join(logs_path, log_fname))
 
     if config_name == "shell":
-        config = f"python -m REF2021_processing.preprocess_sheet -s {rule_name}"
+        config = f"python -m REF2021_processing.process_submissions_and_results -s {rule_name}"
 
     return config
 

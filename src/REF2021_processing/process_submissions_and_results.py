@@ -7,7 +7,6 @@ import pandas as pd
 from REF2021_processing import utils
 import REF2021_processing.read_write as rw
 import REF2021_processing.codebook as cb
-import REF2021_processing.preprocess as pp
 
 
 def preprocess_results(dset):
@@ -38,7 +37,7 @@ def preprocess_results(dset):
     # ---------------
     # COL_RESULTS_PERC_STAFF_SUBMITTED, COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT not binned, not < 100%
     for column in cb.COLUMNS_STARS:
-        dset = pp.bin_percentages(
+        dset = utils.bin_percentages(
             dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"
         )
     logging.info("%s - bin percentages for %s", sname, cb.COLUMNS_STARS)
@@ -49,7 +48,7 @@ def preprocess_results(dset):
         dset, [cb.COL_INST_CODE_BRACKETS, cb.COL_RESULTS_SORT_ORDER], sname
     )
 
-    dset = pp.pivot_results_by_profile(dset, sname)
+    dset = utils.pivot_results_by_profile(dset, sname)
 
     # make all binned columns categorical
     dset = utils.make_columns_categorical(
@@ -60,23 +59,23 @@ def preprocess_results(dset):
 
     # read and merge information from research groups
     # -----------------------------------------------
-    dset = pp.merge_results_with_groups(dset)
+    dset = utils.merge_results_with_groups(dset)
 
     # read and merge the information from outputs
     # --------------------------------------------
-    dset = pp.merge_results_with_outputs(dset)
+    dset = utils.merge_results_with_outputs(dset)
 
     # read and merge the information from impacts
     # -------------------------------------------
-    dset = pp.merge_results_with_impacts(dset)
+    dset = utils.merge_results_with_impacts(dset)
 
     # read and merge the information from degrees
     # -------------------------------------------
-    dset = pp.merge_results_with_degrees(dset)
+    dset = utils.merge_results_with_degrees(dset)
 
     # read and merge the unit environment statements
     # ---------------------------------------------
-    dset = pp.merge_results_with_uenvstatements(dset)
+    dset = utils.merge_results_with_uenvstatements(dset)
 
     return dset
 
@@ -184,7 +183,7 @@ def preprocess_outputs(dset):
     # replace various styling characters selected columns
     columns = [cb.COL_OUTPUT_TITLE]
     for column in columns:
-        dset = pp.clean_styling(dset, column)
+        dset = utils.clean_styling(dset, column)
     logging.info("%s - replace styling characters in %s", sname, columns)
 
     # assign names where we only have codes
@@ -192,7 +191,7 @@ def preprocess_outputs(dset):
     dset[cb.COL_OUTPUT_TYPE_NAME] = dset[cb.COL_OUTPUT_TYPE_CODE].map(
         cb.OUTPUT_TYPE_NAMES
     )
-    dset = pp.move_last_column(dset, cb.COL_UOA_NAME)
+    dset = utils.move_last_column(dset, cb.COL_UOA_NAME)
     logging.info("%s - add columns for output types names", sname)
 
     # make output year categorical
@@ -233,7 +232,7 @@ def preprocess_impacts(dset):
         cb.COL_IMPACT_CORROBORATE,
     ]
     for column in columns:
-        dset = pp.clean_styling(dset, column)
+        dset = utils.clean_styling(dset, column)
     logging.info("%s - replace styling characters in %s", sname, columns)
 
     return dset
@@ -264,16 +263,16 @@ def preprocess_sheet(source):
     # extract sheet
     dset = rw.extract_sheet(infname, sname, header_index)
     # rename columns for clarity
-    dset = pp.rename_columns(dset, sname)
+    dset = utils.rename_columns(dset, sname)
 
     # preprocess institution name
-    dset = pp.preprocess_inst_name(dset, sname)
+    dset = utils.preprocess_inst_name(dset, sname)
 
     # assign names where we only have codes and make categorical
     dset[cb.COL_PANEL_NAME] = pd.Categorical(
         dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
     )
-    dset = pp.move_last_column(dset, cb.COL_INST_NAME)
+    dset = utils.move_last_column(dset, cb.COL_INST_NAME)
     logging.info("%s - add columns for panel names", sname)
 
     # replace na in COL_MULT_SUB_LETTER with empty string
