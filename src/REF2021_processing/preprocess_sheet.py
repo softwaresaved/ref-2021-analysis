@@ -27,8 +27,9 @@ def preprocess_results(dset):
     # --------------------------------------
     text_to_replace = "-"
     for column in cb.COLUMNS_STARS:
-        dset[column] = dset[column].replace(text_to_replace, float("NaN"))
-        dset[column] = dset[column].astype(float)
+        dset[column] = dset[column].apply(
+            lambda x: float("NaN") if x == text_to_replace else float(x)
+        )
     logging.info(
         f"%s - replace '%s' with na in {cb.COLUMNS_STARS}", sname, text_to_replace
     )
@@ -248,17 +249,20 @@ def preprocess_sheet(source):
     # set the input excel file name and index
     if source == "results":
         sname = rw.SOURCES["results"]["sheet"]
+        infname = os.path.join(
+            rw.SOURCES["results"]["raw_path"], rw.SOURCES["results"]["filename"]
+        )
+        header_index = rw.SOURCES["results"]["header_index"]
     else:
         sname = rw.SOURCES["submissions"]["sheets"][source]
 
-    infname = os.path.join(
-        rw.SOURCES[source]["raw_path"], rw.SOURCES[source]["filename"]
-    )
-    header_index = rw.SOURCES[source]["header_index"]
+        infname = os.path.join(
+            rw.SOURCES["submissions"]["raw_path"], rw.SOURCES["submissions"]["filename"]
+        )
+        header_index = rw.SOURCES["submissions"]["header_index"]
 
     # extract sheet
     dset = rw.extract_sheet(infname, sname, header_index)
-
     # rename columns for clarity
     dset = pp.rename_columns(dset, sname)
 
