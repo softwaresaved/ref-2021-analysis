@@ -1,3 +1,4 @@
+""" Setuptools configuration for the project. """
 #!/usr/bin/env python
 import setuptools
 

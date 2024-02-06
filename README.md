@@ -1,3 +1,5 @@
+[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+
 # Processing of REF 2021 submissions
 
 Team members can access [the running notes for meetings](https://docs.google.com/document/d/1HBTiIFS5aqfwd8OonJDXF0MirpWMyczKEfb1jbSvY4c/edit), which provide details of the project goals and decisions.
