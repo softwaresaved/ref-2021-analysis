@@ -1,4 +1,5 @@
 [![Pylint](https://github.com/softwaresaved/ref-2021-analysis/actions/workflows/pylint.yml/badge.svg)](https://github.com/softwaresaved/ref-2021-analysis/actions/workflows/pylint.yml)
+[![Python application](https://github.com/softwaresaved/ref-2021-analysis/actions/workflows/python-app.yml/badge.svg)](https://github.com/softwaresaved/ref-2021-analysis/actions/workflows/python-app.yml)
 
 # Processing of REF 2021 submissions
 
