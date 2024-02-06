@@ -238,11 +238,12 @@ def preprocess_impacts(dset):
     return dset
 
 
-def preprocess_sheet(source):
+def preprocess_sheet(source, output_path):
     """Preprocess a sheet from the raw data.
 
     Args:
         sname (str): Name of the sheet to preprocess.
+        output_path (str): Path to save the pre-processed data.
     """
 
     # set the input excel file name and index
@@ -304,7 +305,7 @@ def preprocess_sheet(source):
     # set the index name and save the pre-processed data
     dset.index.name = "Record"
     rw.export_dataframe(
-        dset, os.path.join(rw.SOURCES["submissions"]["output_path"], sname), sname
+        dset, os.path.join(output_path, sname), sname
     )
 
 
@@ -336,14 +337,16 @@ if __name__ == "__main__":
 
     if source_name == "results":
         SHEET_NAME = rw.SOURCES["results"]["sheet"]
+        OUTPUT_PATH = rw.SOURCES["results"]["output_path"]
     else:
         SHEET_NAME = rw.SOURCES["submissions"]["sheets"][source_name]
+        OUTPUT_PATH = rw.SOURCES["submissions"]["output_path"]
 
     STATUS = utils.setup_logger(SHEET_NAME, verbose=args.verbose)
 
     # run pre-processing
     if STATUS:
-        preprocess_sheet(source_name)
+        preprocess_sheet(source_name, OUTPUT_PATH)
     else:
         print(f"{utils.FAILED_ICON} failed: setup logger")
 

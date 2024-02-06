@@ -48,6 +48,7 @@ SOURCES = {
         "filename": "REF-2021-Results-All-2022-05-06.xlsx",
         "header_index": 6,
         "sheet": "Results",
+        "output_path": "data/processed/sheets/"
     },
 }
 
