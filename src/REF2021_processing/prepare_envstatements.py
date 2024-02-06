@@ -273,13 +273,10 @@ def prepare_institution_statements():
     # initialise the dataset and the counts
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_INSTITUTION]
-    for fname in fnames:
-        if fname == ".DS_Store":
-            continue
-        institution_name = fname
+    for institution_name in fnames:
         infname = os.path.join(
             source_config["extracted_path"],
-            f"{source_config['prefix']}{fname}{source_config['input_extension']}",
+            f"{source_config['prefix']}{institution_name}{source_config['input_extension']}",
         )
 
         with open(infname, "r+", encoding="utf-8") as file:
@@ -366,12 +363,9 @@ def prepare_unit_statements():
         len(SECTIONS_UNIT.keys()),
     )
 
-    # initialise the dataset and the counts
+    # initialise dataset
     dset = pd.DataFrame()
-    counts = [0 for section in SECTIONS_UNIT]
     for fname in fnames:
-        if fname[0] == ".":
-            continue
         institution_name, unit_code_original = fname.split(" - ")
 
         # process tbe unit code and the multiple submission letter
@@ -379,25 +373,26 @@ def prepare_unit_statements():
         multiple_submission_letter = ""
         if len(unit_code) != len(unit_code_original):
             multiple_submission_letter = unit_code_original[-1]
-        unit_name = cb.UOA_NAMES[int(unit_code)]
-        infname = os.path.join(
-            source_config["extracted_path"],
-            f"{source_config['prefix']}{fname}{source_config['input_extension']}",
-        )
 
-        with open(infname, "r+", encoding="utf-8") as file:
+        with open(
+            os.path.join(
+                source_config["extracted_path"],
+                f"{source_config['prefix']}{fname}{source_config['input_extension']}",
+            ),
+            "r+",
+            encoding="utf-8",
+        ) as file:
             statement = file.read()
             (indices, lines) = section_indices(statement, SECTIONS_UNIT)
 
         data = {
             cb.COL_INST_NAME: [institution_name],
-            cb.COL_UOA_NAME: [unit_name],
+            cb.COL_UOA_NAME: [cb.UOA_NAMES[int(unit_code)]],
             cb.COL_MULT_SUB_LETTER: [multiple_submission_letter],
         }
         # extract the content of the sections
         for isection, section in enumerate(SECTIONS_UNIT):
             if indices[isection] is not None:
-                counts[isection] += 1
                 if isection == len(SECTIONS_UNIT) - 1:
                     section_lines = lines[indices[isection] :]
                 else:

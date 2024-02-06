@@ -1,4 +1,4 @@
-2024-02-06 10:56:46,235 [INFO] EnvironmentStatementsUnitLevel - read data from 'data/processed/environment_statements/extracted/unit/' 
-2024-02-06 10:56:46,235 [INFO] EnvironmentStatementsUnitLevel - statements: 1874, sections: 4
-2024-02-06 10:57:06,955 [INFO] EnvironmentStatementsUnitLevel - prepared statements: 1874 records
-2024-02-06 10:57:07,370 [INFO] EnvironmentStatementsUnitLevel - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsUnitLevel.parquet'
+2024-02-06 12:52:54,199 [INFO] EnvironmentStatementsUnitLevel - read data from 'data/processed/environment_statements/extracted/unit/' 
+2024-02-06 12:52:54,199 [INFO] EnvironmentStatementsUnitLevel - statements: 1874, sections: 4
+2024-02-06 12:53:13,852 [INFO] EnvironmentStatementsUnitLevel - prepared statements: 1874 records
+2024-02-06 12:53:14,351 [INFO] EnvironmentStatementsUnitLevel - write dataset to 'data/processed/environment_statements/prepared/EnvironmentStatementsUnitLevel.parquet'
