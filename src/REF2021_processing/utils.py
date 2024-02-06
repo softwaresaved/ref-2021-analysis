@@ -10,6 +10,28 @@ FAILED_ICON = "\033[31m\u2717\033[0m"
 LOGGING_FORMAT = "%(asctime)s [%(levelname)s] %(message)s"
 
 
+def add_verbose_parser_argument(parser):
+    """Add verbose parser argument.
+
+    Args:
+        parser (argparse.ArgumentParser): Parser.
+
+    Returns:
+        argparse.ArgumentParser: Parser with added verbose argument.
+    """
+
+    parser.add_argument(
+        "-v",
+        "--verbose",
+        required=False,
+        default=False,
+        choices=[True, False],
+        help="write logging to console, default false",
+    )
+
+    return parser
+
+
 def setup_logger(source, verbose=True):
     """Setup logger.
 
@@ -124,3 +146,24 @@ def fix_mult_sub_letter(dset, sname):
         logging.info("%s - replace na with '' in %s", sname, cb.COL_MULT_SUB_LETTER)
 
     return dset
+
+
+def get_info_from_filename(fname):
+    """Get information from the filename.
+
+    Args:
+        fname (str): filename
+
+    Returns:
+        tuple: institution name, unit code, multiple submission letter
+    """
+
+    institution_name, unit_code_original = fname.split(" - ")
+
+    # process tbe unit code and the multiple submission letter
+    unit_code = "".join([i for i in unit_code_original if not i.isalpha()])
+    multiple_submission_letter = ""
+    if len(unit_code) != len(unit_code_original):
+        multiple_submission_letter = unit_code_original[-1]
+
+    return institution_name, unit_code, multiple_submission_letter

@@ -366,13 +366,11 @@ def prepare_unit_statements():
     # initialise dataset
     dset = pd.DataFrame()
     for fname in fnames:
-        institution_name, unit_code_original = fname.split(" - ")
-
-        # process tbe unit code and the multiple submission letter
-        unit_code = "".join([i for i in unit_code_original if not i.isalpha()])
-        multiple_submission_letter = ""
-        if len(unit_code) != len(unit_code_original):
-            multiple_submission_letter = unit_code_original[-1]
+        (
+            institution_name,
+            unit_code,
+            multiple_submission_letter,
+        ) = utils.get_info_from_filename(fname)
 
         with open(
             os.path.join(
@@ -382,8 +380,7 @@ def prepare_unit_statements():
             "r+",
             encoding="utf-8",
         ) as file:
-            statement = file.read()
-            (indices, lines) = section_indices(statement, SECTIONS_UNIT)
+            (indices, lines) = section_indices(file.read(), SECTIONS_UNIT)
 
         data = {
             cb.COL_INST_NAME: [institution_name],
@@ -440,20 +437,18 @@ def prepare_unit_statements():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Prepares the extracted environment statements and saves them as csv file."
+        description="Prepares the extracted environment statements and saves them as parquet file."
     )
 
     parser.add_argument(
-        "-s", "--source", required=True, help="source for the environment statements"
+        "-s",
+        "--source",
+        required=True,
+        choices=["institution", "unit"],
+        help="source for the environment statements",
     )
 
-    parser.add_argument(
-        "-v",
-        "--verbose",
-        required=False,
-        default=False,
-        help="write logging to console, default false",
-    )
+    parser = utils.add_verbose_parser_argument(parser)
 
     args = parser.parse_args()
     source = args.source

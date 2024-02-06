@@ -60,23 +60,23 @@ def preprocess_results(dset):
 
     # read and merge information from research groups
     # -----------------------------------------------
-    dset = pp.merge_resuts_with_groups(dset)
+    dset = pp.merge_results_with_groups(dset)
 
     # read and merge the information from outputs
     # --------------------------------------------
-    dset = pp.merge_resuts_with_outputs(dset)
+    dset = pp.merge_results_with_outputs(dset)
 
     # read and merge the information from impacts
     # -------------------------------------------
-    dset = pp.merge_resuts_with_impacts(dset)
+    dset = pp.merge_results_with_impacts(dset)
 
     # read and merge the information from degrees
     # -------------------------------------------
-    dset = pp.merge_resuts_with_degrees(dset)
+    dset = pp.merge_results_with_degrees(dset)
 
     # read and merge the unit environment statements
     # ---------------------------------------------
-    dset = pp.merge_resuts_with_uenvstatements(dset)
+    dset = pp.merge_results_with_uenvstatements(dset)
 
     return dset
 
@@ -311,20 +311,26 @@ def preprocess_sheet(source):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Extracts a sheet from an excel file and saves it as csv and parquet files."
+        description="Extracts a sheet from an excel file and saves it as parquet file."
     )
 
     parser.add_argument(
-        "-s", "--source", required=True, help="source of data to process"
+        "-s",
+        "--source",
+        required=True,
+        choices=[
+            "groups",
+            "degrees",
+            "outputs",
+            "impacts",
+            "income",
+            "income_in_kind",
+            "results",
+        ],
+        help="source of data to process",
     )
 
-    parser.add_argument(
-        "-v",
-        "--verbose",
-        required=False,
-        default=False,
-        help="write logging to console, default false",
-    )
+    parser = utils.add_verbose_parser_argument(parser)
 
     args = parser.parse_args()
     source_name = args.source

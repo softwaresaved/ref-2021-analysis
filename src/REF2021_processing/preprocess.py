@@ -272,7 +272,7 @@ def pivot_results_by_profile(dset, sname):
     return dset
 
 
-def merge_resuts_with_groups(dset):
+def merge_results_with_groups(dset):
     """Merge results with the number of research group submissions.
 
     Args:
@@ -314,7 +314,7 @@ def merge_resuts_with_groups(dset):
     return dset
 
 
-def merge_resuts_with_outputs(dset):
+def merge_results_with_outputs(dset):
     """Merge results with the number of output submissions.
 
     Args:
@@ -380,7 +380,7 @@ def merge_resuts_with_outputs(dset):
     return dset
 
 
-def merge_resuts_with_impacts(dset):
+def merge_results_with_impacts(dset):
     """Merge results with the number of impact submissions.
 
     Args:
@@ -422,7 +422,7 @@ def merge_resuts_with_impacts(dset):
     return dset
 
 
-def merge_resuts_with_degrees(dset):
+def merge_results_with_degrees(dset):
     """Merge results with the number of degrees awarded.
 
     Args:
@@ -458,7 +458,7 @@ def merge_resuts_with_degrees(dset):
     return dset
 
 
-def merge_resuts_with_uenvstatements(dset):
+def merge_results_with_uenvstatements(dset):
     """Merge results with the number of environment statements.
 
     Args:
