@@ -37,7 +37,9 @@ def preprocess_results(dset):
     for column in COLUMNS_STARS:
         dset[column] = dset[column].replace(text_to_replace, float("NaN"))
         dset[column] = dset[column].astype(float)
-    logging.info(f"%s - replace '%s' with na in {COLUMNS_STARS}", sname, text_to_replace)
+    logging.info(
+        f"%s - replace '%s' with na in {COLUMNS_STARS}", sname, text_to_replace
+    )
 
     # bin percentages
     # ---------------
@@ -50,12 +52,9 @@ def preprocess_results(dset):
 
     # drop the columns not relevant for current visualisations
     # --------------------------------------------------------
-    columns_to_drop = [cb.COL_INST_CODE_BRACKETS, cb.COL_RESULTS_SORT_ORDER]
-    for column in columns_to_drop:
-        dset_stats = dset[column].value_counts().to_frame(name="count")
-        dset_stats.index.name = column
-        dset = dset.drop(column, axis=1)
-    logging.info("%s - drop columns %s", sname, columns_to_drop)
+    dset = utils.drop_specified_columns(
+        dset, [cb.COL_INST_CODE_BRACKETS, cb.COL_RESULTS_SORT_ORDER], sname
+    )
 
     # setup the pivoting action
     columns_index = [
@@ -73,7 +72,7 @@ def preprocess_results(dset):
     # for which duplicates are dropped and the column name is changed
     columns_values = [
         cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
-        cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT
+        cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
     ]
     columns_values.extend(COLUMNS_STARS)
     columns_values.extend(
@@ -98,7 +97,7 @@ def preprocess_results(dset):
         label = f"{column_pivot_values[0]} {suffix} - {column_value}"
         columns_to_rename[label] = f"{column_value}"
 
-    # pivot and drop duplcate columns
+    # pivot and drop duplicate columns
     dset = dset.pivot(index=columns_index, columns=column_pivot, values=columns_values)
     columns = [f"{column[1]} {suffix} - {column[0]}" for column in dset.columns]
     dset.columns = columns
@@ -107,7 +106,7 @@ def preprocess_results(dset):
 
     # rename columns and move the re-named columns to the front
     dset.rename(columns=columns_to_rename, inplace=True)
-    columns = [column for column in columns_to_rename.values()]
+    columns = list(columns_to_rename.values())
     columns.extend(
         [
             column
@@ -237,7 +236,9 @@ def preprocess_results(dset):
 
     # report mismatch in the number of records
     if dset_extra.shape[0] != dset[column_name].sum():
-        logging.warning("%s - %d != %d", sname, dset_extra.shape[0], dset[column_name].sum())
+        logging.warning(
+            "%s - %d != %d", sname, dset_extra.shape[0], dset[column_name].sum()
+        )
 
     # read and merge the information from degrees
     # -------------------------------------------
@@ -458,16 +459,13 @@ def preprocess_sheet(source):
     # set the input excel file name and index
     if source == "results":
         sname = rw.SOURCES["results"]["sheet"]
-        infname = os.path.join(
-            rw.SOURCES["results"]["raw_path"], rw.SOURCES["results"]["filename"]
-        )
-        header_index = rw.SOURCES["results"]["header_index"]
     else:
         sname = rw.SOURCES["submissions"]["sheets"][source]
-        infname = os.path.join(
-            rw.SOURCES["submissions"]["raw_path"], rw.SOURCES["submissions"]["filename"]
-        )
-        header_index = rw.SOURCES["submissions"]["header_index"]
+
+    infname = os.path.join(
+        rw.SOURCES[source]["raw_path"], rw.SOURCES[source]["filename"]
+    )
+    header_index = rw.SOURCES[source]["header_index"]
 
     # extract sheet
     dset = rw.extract_sheet(infname, sname, header_index)
@@ -479,8 +477,9 @@ def preprocess_sheet(source):
     dset = pp.preprocess_inst_name(dset, sname)
 
     # assign names where we only have codes and make categorical
-    dset[cb.COL_PANEL_NAME] = dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
-    dset[cb.COL_PANEL_NAME] = pd.Categorical(dset[cb.COL_PANEL_NAME])
+    dset[cb.COL_PANEL_NAME] = pd.Categorical(
+        dset[cb.COL_PANEL_CODE].map(cb.PANEL_NAMES)
+    )
     dset = pp.move_last_column(dset, cb.COL_INST_NAME)
     logging.info("%s - add columns for panel names", sname)
 
@@ -489,47 +488,26 @@ def preprocess_sheet(source):
         dset[cb.COL_MULT_SUB_LETTER] = dset[cb.COL_MULT_SUB_LETTER].fillna("")
 
     # runs specific pre-processing if needed
-    dset_extra = None
     if source == "groups":
         dset = preprocess_groups(dset)
-    elif source == "degrees":
+    if source == "degrees":
         dset = preprocess_degrees(dset)
-    elif source == "outputs":
+    if source == "outputs":
         dset = preprocess_outputs(dset)
-    elif source == "impacts":
+    if source == "impacts":
         dset = preprocess_impacts(dset)
-    elif source == "income":
+    if source == "income":
         dset = preprocess_income(dset)
-    elif source == "income_in_kind":
+    if source == "income_in_kind":
         dset = preprocess_income_in_kind(dset)
-    elif source == "results":
+    if source == "results":
         dset = preprocess_results(dset)
 
     # drop the code columns
-    columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset.columns))
-    if len(columns_to_drop) > 0:
-        dset = dset.drop(columns_to_drop, axis=1)
-        logging.info("%s - drop columns '%s'", sname, columns_to_drop)
-    if dset_extra is not None:
-        columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset_extra.columns))
-        if len(columns_to_drop) > 0:
-            dset_extra = dset_extra.drop(columns_to_drop, axis=1)
-            logging.info("%s extra - drop columns '%s'", sname, columns_to_drop)
-
+    dset = utils.drop_specified_columns(dset, cb.COLUMNS_TO_DROP, sname)
+    
     # make categorical
-    columns_to_category = list(set(cb.COLUMNS_TO_CATEGORY).intersection(dset.columns))
-    if len(columns_to_category) > 0:
-        logging.info("%s - make categorical %s", sname, columns_to_category)
-        for column in columns_to_category:
-            dset[column] = pd.Categorical(dset[column])
-    if dset_extra is not None:
-        columns_to_category = list(
-            set(cb.COLUMNS_TO_CATEGORY).intersection(dset_extra.columns)
-        )
-        if len(columns_to_category) > 0:
-            logging.info("%s extra - make categorical %s", sname, columns_to_category)
-            for column in columns_to_category:
-                dset_extra[column] = pd.Categorical(dset_extra[column])
+    dset = utils.make_columns_categorical(dset, cb.COLUMNS_TO_CATEGORY, sname)
 
     # set the index name and save the pre-processed data
     dset.index.name = "Record"
@@ -537,15 +515,6 @@ def preprocess_sheet(source):
         dset, os.path.join(rw.SOURCES["submissions"]["output_path"], sname), sname
     )
 
-    # legacy code to save two types of results dataframes
-    # # set the index name and save the extra file pre-processed data
-    # if dset_extra is not None:
-    #     dset_extra.index.name = "Record"
-    #     rw.export_dataframe(
-    #         dset_extra,
-    #         os.path.join(rw.SOURCES["submissions"]["output_path"], sname),
-    #         sname,
-    #     )
 
 
 if __name__ == "__main__":

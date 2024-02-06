@@ -87,18 +87,19 @@ def drop_specified_columns(dset, columns_to_drop, sname):
     return dset
 
 
-def make_columns_categorical(dset, sname):
+def make_columns_categorical(dset, columns, sname):
     """Make specified columns categorical.
 
     Args:
         dset (pandas.DataFrame): Dataset.
+        columns (list): Columns to make categorical.
         sname (str): Source name.
 
     Returns:
         pandas.DataFrame: Dataset with specified columns made categorical.
     """
 
-    columns_to_category = list(set(cb.COLUMNS_TO_CATEGORY).intersection(dset.columns))
+    columns_to_category = list(set(columns).intersection(dset.columns))
     if len(columns_to_category) > 0:
         logging.info("%s - make categorical %s", sname, columns_to_category)
         for column in columns_to_category:
