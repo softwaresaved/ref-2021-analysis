@@ -40,11 +40,12 @@ pylint==3.0.3
 python-dateutil==2.8.2
 pytz==2024.1
 PyYAML==6.0.1
--e git+https://github.com/softwaresaved/ref-2021-analysis.git@d367c5f46246aca2039255f81450e8fff16cf687#egg=REF2021_processing
+-e .
 referencing==0.33.0
 requests==2.31.0
 reretry==0.11.8
 rpds-py==0.17.1
+setuptools==69.0.3
 six==1.16.0
 smart-open==6.4.0
 smmap==5.0.1
