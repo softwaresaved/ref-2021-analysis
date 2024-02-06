@@ -1,4 +1,4 @@
-[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+[![Pylint](https://github.com/softwaresaved/ref-2021-analysis/actions/workflows/pylint.yml/badge.svg)](https://github.com/softwaresaved/ref-2021-analysis/actions/workflows/pylint.yml)
 
 # Processing of REF 2021 submissions
 
