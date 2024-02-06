@@ -4,13 +4,21 @@ import os
 import logging
 import pandas as pd
 
-import REF2021_processing.utils as utils
+from REF2021_processing import utils
 import REF2021_processing.read_write as rw
 import REF2021_processing.codebook as cb
 import REF2021_processing.preprocess as pp
 
+COLUMNS_STARS = [
+    cb.COL_RESULTS_4STAR,
+    cb.COL_RESULTS_3STAR,
+    cb.COL_RESULTS_2STAR,
+    cb.COL_RESULTS_1STAR,
+    cb.COL_RESULTS_UNCLASSIFIED,
+]
 
-def preprocess_results(dset, sname):
+
+def preprocess_results(dset):
     """Preprocess the data from the Results sheet
 
     Args:
@@ -21,36 +29,24 @@ def preprocess_results(dset, sname):
         pd.DataFrame:  Dataset with data pre-processed.
     """
 
+    sname = rw.SOURCES["results"]["sheet"]
+
     # replace - in a list of columns with na
     # --------------------------------------
     text_to_replace = "-"
-    columns = [
-        cb.COL_RESULTS_4STAR,
-        cb.COL_RESULTS_3STAR,
-        cb.COL_RESULTS_2STAR,
-        cb.COL_RESULTS_1STAR,
-        cb.COL_RESULTS_UNCLASSIFIED,
-    ]
-    for column in columns:
+    for column in COLUMNS_STARS:
         dset[column] = dset[column].replace(text_to_replace, float("NaN"))
         dset[column] = dset[column].astype(float)
-    logging.info(f"%s - replace '%s' with na in {columns}", sname, text_to_replace)
+    logging.info(f"%s - replace '%s' with na in {COLUMNS_STARS}", sname, text_to_replace)
 
     # bin percentages
     # ---------------
     # COL_RESULTS_PERC_STAFF_SUBMITTED, COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT not binned, not < 100%
-    columns = [
-        cb.COL_RESULTS_4STAR,
-        cb.COL_RESULTS_3STAR,
-        cb.COL_RESULTS_2STAR,
-        cb.COL_RESULTS_1STAR,
-        cb.COL_RESULTS_UNCLASSIFIED,
-    ]
-    for column in columns:
+    for column in COLUMNS_STARS:
         dset = pp.bin_percentages(
             dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"
         )
-    logging.info("%s - bin percentages for %s", sname, columns)
+    logging.info("%s - bin percentages for %s", sname, COLUMNS_STARS)
 
     # drop the columns not relevant for current visualisations
     # --------------------------------------------------------
@@ -77,13 +73,9 @@ def preprocess_results(dset, sname):
     # for which duplicates are dropped and the column name is changed
     columns_values = [
         cb.COL_RESULTS_PERC_STAFF_SUBMITTED,
-        cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
-        cb.COL_RESULTS_4STAR,
-        cb.COL_RESULTS_3STAR,
-        cb.COL_RESULTS_2STAR,
-        cb.COL_RESULTS_1STAR,
-        cb.COL_RESULTS_UNCLASSIFIED,
+        cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT
     ]
+    columns_values.extend(COLUMNS_STARS)
     columns_values.extend(
         [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_values[2:]]
     )
@@ -169,7 +161,7 @@ def preprocess_results(dset, sname):
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
-        logging.info("WARNING: %d != %d", nrecords, entries_count)
+        logging.warning("%s - %d != %d", sname, nrecords, entries_count)
 
     # read and merge the information from outputs
     # --------------------------------------------
@@ -196,7 +188,7 @@ def preprocess_results(dset, sname):
     nrecords = dset_extra.shape[0]
     entries_count = dset[column_name].sum()
     if nrecords != entries_count:
-        logging.info("WARNING: %d != %d", nrecords, entries_count)
+        logging.warning("%s - %d != %d", sname, nrecords, entries_count)
 
     # add columns with the number of outputs by type
     column_to_count = "Output type"
@@ -220,7 +212,7 @@ def preprocess_results(dset, sname):
         # report mismatch in the number of records
         entries_count = dset[column_selected].sum()
         if nrecords != entries_count:
-            logging.info("WARNING: %d != %d", nrecords, entries_count)
+            logging.warning("%s - %d != %d", sname, nrecords, entries_count)
 
     # read and merge the information from impacts
     # -------------------------------------------
@@ -245,7 +237,7 @@ def preprocess_results(dset, sname):
 
     # report mismatch in the number of records
     if dset_extra.shape[0] != dset[column_name].sum():
-        logging.info("WARNING: %d != %d", dset_extra.shape[0], dset[column_name].sum())
+        logging.warning("%s - %d != %d", sname, dset_extra.shape[0], dset[column_name].sum())
 
     # read and merge the information from degrees
     # -------------------------------------------
@@ -266,7 +258,7 @@ def preprocess_results(dset, sname):
     extra_sum = dset_extra[columns_to_merge[0]].sum()
     dset_sum = dset[columns_to_merge[0]].sum()
     if extra_sum != dset_sum:
-        logging.info("WARNING: %d != %d", extra_sum, dset_sum)
+        logging.warning("%s - %d != %d", sname, extra_sum, dset_sum)
 
     # read and merge the unit environment statements
     # ---------------------------------------------
@@ -511,7 +503,7 @@ def preprocess_sheet(source):
     elif source == "income_in_kind":
         dset = preprocess_income_in_kind(dset)
     elif source == "results":
-        dset = preprocess_results(dset, sname)
+        dset = preprocess_results(dset)
 
     # drop the code columns
     columns_to_drop = list(set(cb.COLUMNS_TO_DROP).intersection(dset.columns))

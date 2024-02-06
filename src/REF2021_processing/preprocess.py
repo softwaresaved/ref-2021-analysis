@@ -1,6 +1,6 @@
 """ This module contains functions for preprocessing the data """
-import pandas as pd
 import logging
+import pandas as pd
 
 import REF2021_processing.codebook as cb
 
@@ -15,23 +15,33 @@ TO_REPLACE = ["/", ":"]
 
 
 def clean_styling(dset, column):
-    TEXT_INSTRUCTIONS = [
+    """Clean the styling in a column of a dataset.
+
+    Args:
+        dset (pandas.DataFrame): dataset to process
+        column (str): column name
+
+    Returns:
+        pandas.DataFrame: Dataset with cleaned column.
+    """
+
+    text_instructions = [
         "(indicative maximum 100 words)",
         "(indicative maximum 500 words)",
         "(indicative maximum 750 words)",
         " (indicative maximum of six references)",
     ]
-    TO_REPLACE = {
+    text_to_replace = {
         "  ": " ",
         "‚Äò": "",  # misread left single quote
         "‚Äô": "’",  # misread right single quote or apostrophe
         "#": "",
         "*": "",
-        "\(": "(",
-        "\)": ")",
-        "\[": "[",
-        "\]": "]",
-        "\-": "-",
+        r"\(": "(",
+        r"\)": ")",
+        r"\[": "[",
+        r"\]": "]",
+        r"\-": "-",
         "<ins>": "",  # html tag for underline
         "</ins>": "",  # html tag for underline
         "<sup>": "",  # html tag for superscript
@@ -42,13 +52,13 @@ def clean_styling(dset, column):
         "\t": " ",
     }
 
-    for key, value in TO_REPLACE.items():
+    for key, value in text_to_replace.items():
         dset[column] = dset[column].str.replace(key, value, regex=False)
 
     dset[column] = dset[column].str.replace(column, " ", regex=False)
     dset[column] = dset[column].str.replace(column[2:], " ", regex=False)
 
-    for text in TEXT_INSTRUCTIONS:
+    for text in text_instructions:
         dset[column] = dset[column].str.replace(text, "", regex=False)
 
     return dset
@@ -90,7 +100,7 @@ def rename_columns(dset, sname):
     for key, value in TO_RENAME.items():
         if key in dset.columns:
             dset = dset.rename(columns={key: value})
-            logging.info(f"{sname} - rename '{key}' to '{value}'")
+            logging.info("%s - rename '%s' to '%s'", sname, key, value)
 
     return dset
 
@@ -111,7 +121,9 @@ def preprocess_inst_name(dset, sname):
         dset[cb.COL_INST_NAME] = dset[cb.COL_INST_NAME].str.replace(
             char_to_replace, "_"
         )
-    logging.info(f"{sname} - replace '{TO_REPLACE}' with '_' in '{cb.COL_INST_NAME}'")
+    logging.info(
+        "%s - replace '%s' with '_' in '%s'", sname, TO_REPLACE, cb.COL_INST_NAME
+    )
 
     return dset
 

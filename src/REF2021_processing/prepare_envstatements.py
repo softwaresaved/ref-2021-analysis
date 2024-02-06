@@ -1,10 +1,10 @@
 """ Prepares the extracted environment statements. """
 import argparse
 import os
-import pandas as pd
 import logging
+import pandas as pd
 
-import REF2021_processing.utils as utils
+from REF2021_processing import utils
 import REF2021_processing.read_write as rw
 import REF2021_processing.codebook as cb
 
@@ -232,9 +232,7 @@ def section_indices(statement, sections):
     lines = get_and_clean_lines(statement)
 
     for isection, (section, headers) in enumerate(sections.items()):
-        headers_to_compare = [clean_header(header) for header in headers]
-
-        for header in headers_to_compare:
+        for header in [clean_header(header) for header in headers]:
             for iline, line in enumerate(lines):
                 if header == clean_header(line):
                     indices[isection] = iline
@@ -248,24 +246,28 @@ def section_indices(statement, sections):
 def prepare_institution_statements():
     """Prepares the institution statements."""
 
-    # prepare variables
     source_config = rw.SOURCES["environment_statements"]["institution"]
-    sname = source_config["name"]
-    fpath = source_config["extracted_path"]
 
     # get the file names
-    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, fpath))
-    statement_count = len(fnames)
+    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, source_config["extracted_path"]))
+
+    # remove the prefix and the extension
     fnames = [
         fname.replace(source_config["prefix"], "").replace(
             source_config["input_extension"], ""
         )
         for fname in fnames
     ]
-    logging.info(f"{sname} - read data from '{fpath}' ")
     logging.info(
-        f"{sname} - statements: {statement_count}, "
-        f"sections: {len(SECTIONS_INSTITUTION.keys())}"
+        "%s - read data from '%s' ",
+        source_config["name"],
+        source_config["extracted_path"],
+    )
+    logging.info(
+        "%s - statements: %d, sections: %d",
+        source_config["name"],
+        len(fnames),
+        len(SECTIONS_INSTITUTION.keys()),
     )
 
     # initialise the dataset and the counts
@@ -276,10 +278,11 @@ def prepare_institution_statements():
             continue
         institution_name = fname
         infname = os.path.join(
-            fpath, f"{source_config['prefix']}{fname}{source_config['input_extension']}"
+            source_config["extracted_path"],
+            f"{source_config['prefix']}{fname}{source_config['input_extension']}",
         )
 
-        with open(infname, "r+") as file:
+        with open(infname, "r+", encoding="utf-8") as file:
             statement = file.read()
             (indices, lines) = section_indices(statement, SECTIONS_INSTITUTION)
 
@@ -299,24 +302,30 @@ def prepare_institution_statements():
                 section_content = None
             data[section] = section_content
             if section_content is None:
-                logging.info(
-                    f"{sname} - WARNING: no content for "
-                    f"'{section}' in '{institution_name}'"
+                logging.warning(
+                    "%s - no content for '%s' in '%s'",
+                    source_config["name"],
+                    section,
+                    institution_name,
                 )
 
         # add the current extracted data to the dataset
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
 
     logging.info(
-        f"{sname} - prepared institution statements: {dset.shape[0]} records, "
-        f"{dset.shape[1]} columns"
+        "%s - prepared institution statements: %d records, %d columns",
+        source_config["name"],
+        dset.shape[0],
+        dset.shape[1],
     )
 
     # report mistamatches in the number of prepared statements
-    if dset.shape[0] != statement_count:
-        logging.info(
-            f"{sname} - WARNING: prepared statements "
-            f"{dset.shape[0]}/{statement_count} statements"
+    if dset.shape[0] != len(fnames):
+        logging.warning(
+            "%s - prepared statements %d/%d statements",
+            source_config["name"],
+            dset.shape[0],
+            len(fnames),
         )
 
     # set the index name and save the prepared data
@@ -324,23 +333,20 @@ def prepare_institution_statements():
     rw.export_dataframe(
         dset,
         os.path.join(
-            rw.SOURCES["environment_statements"]["institution"]["output_path"], sname
+            rw.SOURCES["environment_statements"]["institution"]["output_path"],
+            source_config["name"],
         ),
-        sname,
+        source_config["name"],
     )
 
 
 def prepare_unit_statements():
     """Prepares the unit statements."""
 
-    # prepare variables
     source_config = rw.SOURCES["environment_statements"]["unit"]
-    sname = source_config["name"]
-    fpath = source_config["extracted_path"]
 
     # get the file names
-    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, fpath))
-    statement_count = len(fnames)
+    fnames = os.listdir(os.path.join(rw.PROJECT_PATH, source_config["extracted_path"]))
     fnames = [
         fname.replace(source_config["prefix"], "").replace(
             source_config["input_extension"], ""
@@ -348,9 +354,16 @@ def prepare_unit_statements():
         for fname in fnames
     ]
 
-    logging.info(f"{sname} - read data from '{fpath}' ")
     logging.info(
-        f"{sname} - statements: {statement_count}, sections: {len(SECTIONS_UNIT.keys())}"
+        "%s - read data from '%s' ",
+        source_config["name"],
+        source_config["extracted_path"],
+    )
+    logging.info(
+        "%s - statements: %d, sections: %d",
+        source_config["name"],
+        len(fnames),
+        len(SECTIONS_UNIT.keys()),
     )
 
     # initialise the dataset and the counts
@@ -368,10 +381,11 @@ def prepare_unit_statements():
             multiple_submission_letter = unit_code_original[-1]
         unit_name = cb.UOA_NAMES[int(unit_code)]
         infname = os.path.join(
-            fpath, f"{source_config['prefix']}{fname}{source_config['input_extension']}"
+            source_config["extracted_path"],
+            f"{source_config['prefix']}{fname}{source_config['input_extension']}",
         )
 
-        with open(infname, "r+") as file:
+        with open(infname, "r+", encoding="utf-8") as file:
             statement = file.read()
             (indices, lines) = section_indices(statement, SECTIONS_UNIT)
 
@@ -393,21 +407,28 @@ def prepare_unit_statements():
                 section_content = None
             data[section] = section_content
             if section_content is None:
-                logging.info(
-                    f"{sname} - WARNING: no content for "
-                    f"'{section}' in '{institution_name}' - '{unit_code}'"
+                logging.warning(
+                    "%s - no content for '%s' in '%s' - '%s'",
+                    source_config["name"],
+                    section,
+                    institution_name,
+                    unit_code,
                 )
 
         # add the current extracted data to the dataset
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
 
-    logging.info(f"{sname} - prepared statements: {dset.shape[0]} records")
+    logging.info(
+        "%s - prepared statements: %d records", source_config["name"], dset.shape[0]
+    )
 
     # report mistamatches in the number of prepared statements
-    if dset.shape[0] != statement_count:
-        logging.info(
-            f"{sname} - WARNING: prepared statements "
-            f"{dset.shape[0]}/{statement_count} statements"
+    if dset.shape[0] != len(fnames):
+        logging.warning(
+            "%s - prepared statements %d/%d statements",
+            source_config["name"],
+            dset.shape[0],
+            len(fnames),
         )
 
     # set the index name and save the prepared data
@@ -415,9 +436,10 @@ def prepare_unit_statements():
     rw.export_dataframe(
         dset,
         os.path.join(
-            rw.SOURCES["environment_statements"]["institution"]["output_path"], sname
+            rw.SOURCES["environment_statements"]["institution"]["output_path"],
+            source_config["name"],
         ),
-        sname,
+        source_config["name"],
     )
 
 
@@ -440,13 +462,16 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     source = args.source
-    sname = rw.SOURCES["environment_statements"][source]["name"]
+    source_name = rw.SOURCES["environment_statements"][source]["name"]
 
-    status = utils.setup_logger(sname, verbose=args.verbose)
+    STATUS = utils.setup_logger(source_name, verbose=args.verbose)
 
-    if source == "institution":
-        prepare_institution_statements()
-    elif source == "unit":
-        prepare_unit_statements()
+    if STATUS:
+        if source == "institution":
+            prepare_institution_statements()
+        elif source == "unit":
+            prepare_unit_statements()
 
-    utils.complete_logger(sname, verbose=args.verbose)
+        utils.complete_logger(source_name, verbose=args.verbose)
+    else:
+        print(f"{utils.FAILED_ICON} no preparation done")
