@@ -12,9 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-      sparse-checkout: |
-        tests/
-        src/
+      with:
+        sparse-checkout: |
+          tests/
+          src/
     - name: Set up Python 3.12
       uses: actions/setup-python@v3
       with:

@@ -20,11 +20,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-      sparse-checkout: |
-          tests/
-          src/
-          data/processed/sheets/
-          data/processed/environment_statements/prepared/
+      with:
+        sparse-checkout: |
+            tests/
+            src/
+            data/processed/sheets/
+            data/processed/environment_statements/prepared/
     - name: Set up Python 3.12
       uses: actions/setup-python@v3
       - name: Set up Python 3.12
