@@ -26,6 +26,26 @@ SOURCES = {
             "income_in_kind": "ResearchIncomeInKind",
             "groups": "ResearchGroups",
         },
+        "tests": {
+            "outputs": {
+                "records": 185353,
+            },
+            "impacts": {
+                "records": 6361,
+            },
+            "degrees": {
+                "records": 1888,
+            },
+            "income": {
+                "records": 28637,
+            },
+            "income_in_kind": {
+                "records": 4093,
+            },
+            "groups": {
+                "records": 2036,
+            }
+        }
     },
     "environment_statements": {
         "unit": {
@@ -48,7 +68,10 @@ SOURCES = {
         "filename": "REF-2021-Results-All-2022-05-06.xlsx",
         "header_index": 6,
         "sheet": "Results",
-        "output_path": "data/processed/sheets/"
+        "output_path": "data/processed/sheets/",
+        "tests": {
+            "records": 1888,
+        }
     },
 }
 
