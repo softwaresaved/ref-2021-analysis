@@ -44,8 +44,8 @@ SOURCES = {
             },
             "groups": {
                 "records": 2036,
-            }
-        }
+            },
+        },
     },
     "environment_statements": {
         "unit": {
@@ -54,6 +54,9 @@ SOURCES = {
             "input_extension": ".txt",
             "name": "EnvironmentStatementsUnitLevel",
             "output_path": "data/processed/environment_statements/prepared/",
+            "tests": {
+                "records": 1874,
+            },
         },
         "institution": {
             "extracted_path": "data/processed/environment_statements/extracted/institution/",
@@ -61,6 +64,9 @@ SOURCES = {
             "input_extension": ".txt",
             "prefix": "Institution environment statement - ",
             "output_path": "data/processed/environment_statements/prepared/",
+            "tests": {
+                "records": 143,
+            },
         },
     },
     "results": {
@@ -71,7 +77,7 @@ SOURCES = {
         "output_path": "data/processed/sheets/",
         "tests": {
             "records": 1888,
-        }
+        },
     },
 }
 
