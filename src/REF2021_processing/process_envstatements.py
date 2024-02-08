@@ -289,18 +289,19 @@ def prepare_institution_statements():
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_INSTITUTION]
     for institution_index, institution_name in enumerate(fnames):
-        infname = os.path.join(
-            source_config["extracted_path"],
-            f"{source_config['prefix']}{institution_name}{source_config['input_extension']}",
-        )
-
         sname_for_logging = None
         if institution_index == 0:
             sname_for_logging = source_config["name"]
-        with open(infname, "r+", encoding="utf-8") as file:
-            statement = file.read()
+        with open(
+            os.path.join(
+                source_config["extracted_path"],
+                f"{source_config['prefix']}{institution_name}{source_config['input_extension']}",
+            ),
+            "r+",
+            encoding="utf-8",
+        ) as file:
             (indices, lines) = section_indices(
-                statement, SECTIONS_INSTITUTION, sname_for_logging
+                file.read(), SECTIONS_INSTITUTION, sname_for_logging
             )
 
         # assign the institution name
@@ -390,11 +391,7 @@ def prepare_unit_statements():
     # initialise dataset
     dset = pd.DataFrame()
     for fname_index, fname in enumerate(fnames):
-        (
-            institution_name,
-            unit_code,
-            multiple_submission_letter,
-        ) = utils.get_info_from_filename(fname)
+        file_info = utils.get_info_from_filename(fname)
 
         sname_for_logging = None
         if fname_index == 0:
@@ -412,9 +409,9 @@ def prepare_unit_statements():
             )
 
         data = {
-            cb.COL_INST_NAME: [institution_name],
-            cb.COL_UOA_NAME: [cb.UOA_NAMES[int(unit_code)]],
-            cb.COL_MULT_SUB_LETTER: [multiple_submission_letter],
+            cb.COL_INST_NAME: [file_info["institution_name"]],
+            cb.COL_UOA_NAME: [cb.UOA_NAMES[int(file_info["unit_code"])]],
+            cb.COL_MULT_SUB_LETTER: [file_info["multiple_submission_letter"]],
         }
         # extract the content of the sections
         for isection, section in enumerate(SECTIONS_UNIT):
@@ -432,8 +429,8 @@ def prepare_unit_statements():
                     "%s - no content for '%s' in '%s' - '%s'",
                     source_config["name"],
                     section,
-                    institution_name,
-                    unit_code,
+                    file_info["institution_name"],
+                    file_info["unit_code"],
                 )
 
         # add the current extracted data to the dataset

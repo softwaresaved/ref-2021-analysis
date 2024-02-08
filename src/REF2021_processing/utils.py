@@ -165,7 +165,7 @@ def get_info_from_filename(fname):
         fname (str): filename
 
     Returns:
-        tuple: institution name, unit code, multiple submission letter
+        dict: Dictionary with institution name, unit code, and multiple submission letter.
     """
 
     institution_name, unit_code_original = fname.split(" - ")
@@ -176,7 +176,11 @@ def get_info_from_filename(fname):
     if len(unit_code) != len(unit_code_original):
         multiple_submission_letter = unit_code_original[-1]
 
-    return institution_name, unit_code, multiple_submission_letter
+    return {
+        "institution_name": institution_name,
+        "unit_code": unit_code,
+        "multiple_submission_letter": multiple_submission_letter,
+    }
 
 
 def clean_styling(dset, column):
