@@ -25,7 +25,7 @@ jobs:
             tests/
             src/
             data/processed/sheets/
-            data/processed/environment_statements/prepared/
+            data/processed/environment_statements/
     - name: Set up Python 3.12
       uses: actions/setup-python@v3
       - name: Set up Python 3.12
