@@ -270,8 +270,8 @@ def rename_columns(dset, sname):
     return dset
 
 
-def preprocess_inst_name(dset, sname):
-    """Preprocess the institution name column
+def process_inst_name(dset, sname):
+    """Process the institution name column
         to replace characters that are not allowed in filenames.
 
     Args:

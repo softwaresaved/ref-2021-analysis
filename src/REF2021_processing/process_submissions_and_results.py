@@ -238,7 +238,7 @@ def preprocess_impacts(dset):
     return dset
 
 
-def preprocess_sheet(source, output_path):
+def process_sheet(source, output_path):
     """Preprocess a sheet from the raw data.
 
     Args:
@@ -267,7 +267,7 @@ def preprocess_sheet(source, output_path):
     dset = utils.rename_columns(dset, sname)
 
     # preprocess institution name
-    dset = utils.preprocess_inst_name(dset, sname)
+    dset = utils.process_inst_name(dset, sname)
 
     # assign names where we only have codes and make categorical
     dset[cb.COL_PANEL_NAME] = pd.Categorical(
@@ -346,7 +346,7 @@ if __name__ == "__main__":
 
     # run pre-processing
     if STATUS:
-        preprocess_sheet(source_name, OUTPUT_PATH)
+        process_sheet(source_name, OUTPUT_PATH)
     else:
         print(f"{utils.FAILED_ICON} failed: setup logger")
 

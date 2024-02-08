@@ -53,7 +53,7 @@ SOURCES = {
             "prefix": "Unit environment statement - ",
             "input_extension": ".txt",
             "name": "EnvironmentStatementsUnitLevel",
-            "output_path": "data/processed/environment_statements/prepared/",
+            "output_path": "data/processed/environment_statements/",
             "tests": {
                 "records": 1874,
             },
@@ -63,7 +63,7 @@ SOURCES = {
             "name": "EnvironmentStatementsInstitutionLevel",
             "input_extension": ".txt",
             "prefix": "Institution environment statement - ",
-            "output_path": "data/processed/environment_statements/prepared/",
+            "output_path": "data/processed/environment_statements/",
             "tests": {
                 "records": 143,
             },
@@ -184,13 +184,13 @@ def rule_all():
         config.append(
             f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}"
         )
-    # extracted and prepared environment statements
+    # extracted and processed environment statements
     for source, _ in SOURCES["environment_statements"].items():
         config.append(
             f"{logs_path}{SOURCES['environment_statements'][source]['name']}"
             f"{logs_extension}"
         )
-    # extracted and prepared results
+    # extracted and processed results
     log_fname = f"{SOURCES['results']['sheet']}{logs_extension}"
     config.append(os.path.join(logs_path, log_fname))
 
@@ -288,12 +288,12 @@ def rule_results(config_name):
         config = [
             os.path.join(SOURCES["results"]["raw_path"], SOURCES["results"]["filename"])
         ]
-        # extracted and prepared sheets
+        # extracted and processed sheets
         for source, _ in SOURCES["submissions"]["sheets"].items():
             config.append(
                 f"{logs_path}{SOURCES['submissions']['sheets'][source]}{logs_extension}",
             )
-        # extracted and prepared environment statements
+        # extracted and processed environment statements
         for source, _ in SOURCES["environment_statements"].items():
             config.append(
                 f"{logs_path}{SOURCES['environment_statements'][source]['name']}"

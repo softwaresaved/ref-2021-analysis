@@ -10,15 +10,12 @@ import REF2021_processing.codebook as cb
 
 # include all that was noticed in the actual statements
 TO_DELETE_HEADERS = [
-    item.replace(" ", "").lower()
-    for item in [
-        "Institutional level environment template (REF5a)",
-        "Institutional level environment template (REF5b)",
-        "Unit-level environment template (REF5a)",
-        "Unit-level environment template (REF5b)",
-        "REF5a - Institution Environment Statement",
-        "Institutional-Level Environment Statement (REF5a)",
-    ]
+    "Institutional level environment template (REF5a)",
+    "Institutional level environment template (REF5b)",
+    "Unit-level environment template (REF5a)",
+    "Unit-level environment template (REF5b)",
+    "REF5a - Institution Environment Statement",
+    "Institutional-Level Environment Statement (REF5a)",
 ]
 
 CHARS_TO_DELETE_FROM_HEADER = [" ", "\t", ".", ",", ":", ";", "-", "and", "&"]
@@ -166,7 +163,7 @@ SECTIONS_UNIT = {
 }
 
 
-def get_and_clean_lines(statement):
+def get_and_clean_lines(statement, sname=None):
     """Splits the statement into lines and cleans them.
 
     Args:
@@ -178,23 +175,41 @@ def get_and_clean_lines(statement):
 
     # split the statement into lines
     lines = statement.splitlines()
+    if sname is not None:
+        logging.info("%s - split statements into lines", sname)
 
     # delete empty lines
     lines = [line for line in lines if line.strip()]
+    if sname is not None:
+        logging.info("%s - deleted empty lines", sname)
 
     # replace tabs with spaces
     lines = [line.replace("\t", " ") for line in lines]
+    if sname is not None:
+        logging.info("%s - replaced tabs with spaces", sname)
 
     # replace multiple spaces with a single space
     lines = [" ".join(line.split()) for line in lines]
+    if sname is not None:
+        logging.info("%s - replaced multiple spaces with a single space", sname)
 
-    # delete lines with specified content
+    # delete lines with page numbers
     lines = [
         line
         for line in lines
         if line.replace(" ", "").replace("\t", "").lower() not in TO_DELETE_PAGES
     ]
-    lines = [line for line in lines if line.lower() not in TO_DELETE_HEADERS]
+    if sname is not None:
+        logging.info("%s - deleted lines with page numbers", sname)
+
+    lines = [
+        line
+        for line in lines
+        if line.lower()
+        not in [item.replace(" ", "").lower() for item in TO_DELETE_HEADERS]
+    ]
+    if sname is not None:
+        logging.info("%s - deleted lines equal to any of %s", sname, TO_DELETE_HEADERS)
 
     return lines
 
@@ -216,7 +231,7 @@ def clean_header(header):
     return header
 
 
-def section_indices(statement, sections):
+def section_indices(statement, sections, sname=None):
     """Finds the indices of the sections in the statement.
 
     Args:
@@ -229,7 +244,7 @@ def section_indices(statement, sections):
 
     indices = [None for section in sections]
 
-    lines = get_and_clean_lines(statement)
+    lines = get_and_clean_lines(statement, sname=sname)
 
     for isection, (section, headers) in enumerate(sections.items()):
         for header in [clean_header(header) for header in headers]:
@@ -273,15 +288,20 @@ def prepare_institution_statements():
     # initialise the dataset and the counts
     dset = pd.DataFrame()
     counts = [0 for section in SECTIONS_INSTITUTION]
-    for institution_name in fnames:
+    for institution_index, institution_name in enumerate(fnames):
         infname = os.path.join(
             source_config["extracted_path"],
             f"{source_config['prefix']}{institution_name}{source_config['input_extension']}",
         )
 
+        sname_for_logging = None
+        if institution_index == 0:
+            sname_for_logging = source_config["name"]
         with open(infname, "r+", encoding="utf-8") as file:
             statement = file.read()
-            (indices, lines) = section_indices(statement, SECTIONS_INSTITUTION)
+            (indices, lines) = section_indices(
+                statement, SECTIONS_INSTITUTION, sname_for_logging
+            )
 
         # assign the institution name
         data = {cb.COL_INST_NAME: [institution_name]}
@@ -309,23 +329,27 @@ def prepare_institution_statements():
         # add the current extracted data to the dataset
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
 
-    logging.info(
-        "%s - prepared institution statements: %d records, %d columns",
-        source_config["name"],
-        dset.shape[0],
-        dset.shape[1],
-    )
-
-    # report mistamatches in the number of prepared statements
+    # report mismatches in the number of processed statements
     if dset.shape[0] != len(fnames):
         logging.warning(
-            "%s - prepared statements %d/%d statements",
+            "%s - processed only %d of %d available statements",
             source_config["name"],
             dset.shape[0],
             len(fnames),
         )
+    else:
+        logging.info(
+            "%s - processed all %d available statements",
+            source_config["name"],
+            len(fnames),
+        )
 
-    # set the index name and save the prepared data
+    # make categorical
+    dset = utils.make_columns_categorical(
+        dset, cb.COLUMNS_TO_CATEGORY, source_config["name"]
+    )
+
+    # set the index name and save the processed data
     dset.index.name = "Record"
     rw.export_dataframe(
         dset,
@@ -365,13 +389,16 @@ def prepare_unit_statements():
 
     # initialise dataset
     dset = pd.DataFrame()
-    for fname in fnames:
+    for fname_index, fname in enumerate(fnames):
         (
             institution_name,
             unit_code,
             multiple_submission_letter,
         ) = utils.get_info_from_filename(fname)
 
+        sname_for_logging = None
+        if fname_index == 0:
+            sname_for_logging = source_config["name"]
         with open(
             os.path.join(
                 source_config["extracted_path"],
@@ -380,7 +407,9 @@ def prepare_unit_statements():
             "r+",
             encoding="utf-8",
         ) as file:
-            (indices, lines) = section_indices(file.read(), SECTIONS_UNIT)
+            (indices, lines) = section_indices(
+                file.read(), SECTIONS_UNIT, sname_for_logging
+            )
 
         data = {
             cb.COL_INST_NAME: [institution_name],
@@ -410,20 +439,27 @@ def prepare_unit_statements():
         # add the current extracted data to the dataset
         dset = pd.concat([dset, pd.DataFrame(data)], ignore_index=True)
 
-    logging.info(
-        "%s - prepared statements: %d records", source_config["name"], dset.shape[0]
-    )
-
-    # report mistamatches in the number of prepared statements
+    # report mismatches in the number of processed statements
     if dset.shape[0] != len(fnames):
         logging.warning(
-            "%s - prepared statements %d/%d statements",
+            "%s - processed only %d of %d available statements",
             source_config["name"],
             dset.shape[0],
             len(fnames),
         )
+    else:
+        logging.info(
+            "%s - processed all %d available statements",
+            source_config["name"],
+            len(fnames),
+        )
 
-    # set the index name and save the prepared data
+    # make categorical
+    dset = utils.make_columns_categorical(
+        dset, cb.COLUMNS_TO_CATEGORY, source_config["name"]
+    )
+
+    # set the index name and save the processed data
     dset.index.name = "Record"
     rw.export_dataframe(
         dset,
