@@ -19,8 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name Checkout code and data
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         sparse-checkout: |
             tests/
