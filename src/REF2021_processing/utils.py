@@ -665,3 +665,27 @@ def merge_results_with_uenvstatements(dset):
     dset.rename(columns=columns_to_rename, inplace=True)
 
     return dset
+
+
+def organize_raw_unit_environment_statements():
+    """Organize the raw unit environment statements files into folders by UOA."""
+
+    root_path = os.path.join(
+        rw.PROJECT_PATH, rw.SOURCES["environment_statements"]["unit"]["raw_path"]
+    )
+    for key, value in cb.UOA_NAMES.items():
+        fpath = os.path.join(
+            root_path, f"{key:02d}_{value.replace(',', '_').replace(' ', '_')}"
+        )
+        if not os.path.exists(fpath):
+            os.makedirs(fpath)
+        fnames = [
+            fname
+            for fname in os.listdir(root_path)
+            if (fname.endswith(f"- {key}.pdf"))
+            or (fname.endswith(f"- {key}A.pdf"))
+            or (fname.endswith(f"- {key}B.pdf"))
+        ]
+        for fname in fnames:
+            os.rename(os.path.join(root_path, fname), os.path.join(fpath, fname))
+        print(f"{COMPLETED_ICON} moved {len(fnames)} files to {fpath}")

@@ -49,6 +49,7 @@ SOURCES = {
     },
     "environment_statements": {
         "unit": {
+            "raw_path": "data/raw/environment_statements/unit/",
             "extracted_path": "data/processed/environment_statements/extracted/unit/",
             "prefix": "Unit environment statement - ",
             "input_extension": ".txt",
