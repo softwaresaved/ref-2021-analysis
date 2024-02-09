@@ -24,6 +24,7 @@ jobs:
         sparse-checkout: |
             tests/
             src/
+            logs/
             data/processed/sheets/
             data/processed/environment_statements/EnvironmentStatementsInstitutionLevel.parquet
             data/processed/environment_statements/EnvironmentStatementsUnitLevel.parquet
