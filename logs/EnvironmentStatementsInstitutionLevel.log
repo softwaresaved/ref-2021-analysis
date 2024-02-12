@@ -1,11 +1,8 @@
-2024-02-08 19:40:09,081 [INFO] EnvironmentStatementsInstitutionLevel - read data from 'data/processed/environment_statements/extracted/institution/' 
-2024-02-08 19:40:09,081 [INFO] EnvironmentStatementsInstitutionLevel - statements: 143, sections: 4
-2024-02-08 19:40:09,082 [INFO] EnvironmentStatementsInstitutionLevel - split statements into lines
-2024-02-08 19:40:09,082 [INFO] EnvironmentStatementsInstitutionLevel - deleted empty lines
-2024-02-08 19:40:09,082 [INFO] EnvironmentStatementsInstitutionLevel - replaced tabs with spaces
-2024-02-08 19:40:09,082 [INFO] EnvironmentStatementsInstitutionLevel - replaced multiple spaces with a single space
-2024-02-08 19:40:09,083 [INFO] EnvironmentStatementsInstitutionLevel - deleted lines with page numbers
-2024-02-08 19:40:09,084 [INFO] EnvironmentStatementsInstitutionLevel - deleted lines equal to any of ['Institutional level environment template (REF5a)', 'Institutional level environment template (REF5b)', 'Unit-level environment template (REF5a)', 'Unit-level environment template (REF5b)', 'REF5a - Institution Environment Statement', 'Institutional-Level Environment Statement (REF5a)']
-2024-02-08 19:40:09,558 [INFO] EnvironmentStatementsInstitutionLevel - processed all 143 available statements
-2024-02-08 19:40:09,559 [INFO] EnvironmentStatementsInstitutionLevel - make categorical ['Institution name']
-2024-02-08 19:40:09,609 [INFO] EnvironmentStatementsInstitutionLevel - write dataset to 'data/processed/environment_statements/EnvironmentStatementsInstitutionLevel.parquet'
+2024-02-12 10:22:32,935 [INFO] EnvironmentStatementsInstitutionLevel - read data from 'data/processed/environment_statements/extracted/institution/' 
+2024-02-12 10:22:32,935 [INFO] EnvironmentStatementsInstitutionLevel - statements: 143, sections: 4
+2024-02-12 10:22:32,937 [INFO] EnvironmentStatementsInstitutionLevel - split statements into lines
+2024-02-12 10:22:32,938 [INFO] EnvironmentStatementsInstitutionLevel - deleted lines with page numbers
+2024-02-12 10:22:32,939 [INFO] EnvironmentStatementsInstitutionLevel - deleted lines equal to any of ['Institutional level environment template (REF5a)', 'Institutional level environment template (REF5b)', 'Unit-level environment template (REF5a)', 'Unit-level environment template (REF5b)', 'REF5a - Institution Environment Statement', 'Institutional-Level Environment Statement (REF5a)']
+2024-02-12 10:22:33,409 [INFO] EnvironmentStatementsInstitutionLevel - processed all 143 available statements
+2024-02-12 10:22:33,409 [INFO] EnvironmentStatementsInstitutionLevel - make categorical ['Institution name']
+2024-02-12 10:22:33,461 [INFO] EnvironmentStatementsInstitutionLevel - write dataset to 'data/processed/environment_statements/EnvironmentStatementsInstitutionLevel.parquet'

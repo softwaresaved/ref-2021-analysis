@@ -163,11 +163,14 @@ SECTIONS_UNIT = {
 }
 
 
-def get_and_clean_lines(statement, sname=None):
+def get_and_clean_lines(statement, sname=None, delete_empty_lines=True):
     """Splits the statement into lines and cleans them.
 
     Args:
         statement (str): the statement to be cleaned
+        sname (str): name of the source
+        delete_empty_lines (bool): whether to clean empty lines, default True
+
 
     Returns:
         list: the cleaned lines
@@ -178,20 +181,21 @@ def get_and_clean_lines(statement, sname=None):
     if sname is not None:
         logging.info("%s - split statements into lines", sname)
 
-    # delete empty lines
-    lines = [line for line in lines if line.strip()]
-    if sname is not None:
-        logging.info("%s - deleted empty lines", sname)
+    if delete_empty_lines:
+        # delete empty lines
+        lines = [line for line in lines if line.strip()]
+        if sname is not None:
+            logging.info("%s - deleted empty lines", sname)
 
-    # replace tabs with spaces
-    lines = [line.replace("\t", " ") for line in lines]
-    if sname is not None:
-        logging.info("%s - replaced tabs with spaces", sname)
+        # replace tabs with spaces
+        lines = [line.replace("\t", " ") for line in lines]
+        if sname is not None:
+            logging.info("%s - replaced tabs with spaces", sname)
 
-    # replace multiple spaces with a single space
-    lines = [" ".join(line.split()) for line in lines]
-    if sname is not None:
-        logging.info("%s - replaced multiple spaces with a single space", sname)
+        # replace multiple spaces with a single space
+        lines = [" ".join(line.split()) for line in lines]
+        if sname is not None:
+            logging.info("%s - replaced multiple spaces with a single space", sname)
 
     # delete lines with page numbers
     lines = [
@@ -231,12 +235,14 @@ def clean_header(header):
     return header
 
 
-def section_indices(statement, sections, sname=None):
+def section_indices(statement, sections, sname=None, delete_empty_lines=True):
     """Finds the indices of the sections in the statement.
 
     Args:
         statement (str): the statement to be searched
         sections (dict): the sections to be searched for
+        sname (str): name of the source
+        delete_empty_lines (bool): whether to clean empty lines, default True
 
     Returns:
         tuple: the indices of the sections in the statement and the lines of the statement
@@ -244,7 +250,7 @@ def section_indices(statement, sections, sname=None):
 
     indices = [None for section in sections]
 
-    lines = get_and_clean_lines(statement, sname=sname)
+    lines = get_and_clean_lines(statement, sname=sname, delete_empty_lines=delete_empty_lines)
 
     for isection, (section, headers) in enumerate(sections.items()):
         for header in [clean_header(header) for header in headers]:
@@ -301,7 +307,7 @@ def prepare_institution_statements():
             encoding="utf-8",
         ) as file:
             (indices, lines) = section_indices(
-                file.read(), SECTIONS_INSTITUTION, sname_for_logging
+                file.read(), SECTIONS_INSTITUTION, sname_for_logging, delete_empty_lines=False
             )
 
         # assign the institution name
@@ -405,7 +411,7 @@ def prepare_unit_statements():
             encoding="utf-8",
         ) as file:
             (indices, lines) = section_indices(
-                file.read(), SECTIONS_UNIT, sname_for_logging
+                file.read(), SECTIONS_UNIT, sname_for_logging, delete_empty_lines=False
             )
 
         data = {
