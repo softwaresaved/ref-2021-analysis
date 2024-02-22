@@ -59,7 +59,9 @@ def preprocess_results(dset):
 
     # read and merge information from research groups
     # -----------------------------------------------
-    dset = utils.merge_results_with_groups(dset)
+    # the submission of research groups was not compulsory and not structured
+    # so the data it not informatibe, do not merge
+    # dset = utils.merge_results_with_groups(dset)
 
     # read and merge the information from outputs
     # --------------------------------------------
