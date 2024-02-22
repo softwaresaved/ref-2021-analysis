@@ -391,7 +391,7 @@ def pivot_results_by_profile(dset, sname):
     columns_values.extend(
         [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_values[2:]]
     )
-    suffix = "evaluation"
+    suffix = "profile"
 
     # columns to drop from the wide format because they are duplicates
     columns_to_drop = [
