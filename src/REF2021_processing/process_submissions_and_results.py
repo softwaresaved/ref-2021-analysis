@@ -33,14 +33,22 @@ def preprocess_results(dset):
         f"%s - replace '%s' with na in {cb.COLUMNS_STARS}", sname, text_to_replace
     )
 
-    # bin percentages
-    # ---------------
-    # COL_RESULTS_PERC_STAFF_SUBMITTED, COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT not binned, not < 100%
-    for column in cb.COLUMNS_STARS:
-        dset = utils.bin_percentages(
-            dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"
-        )
-    logging.info("%s - bin percentages for %s", sname, cb.COLUMNS_STARS)
+    # do not bin these percentages as it is not actually useful
+    # # bin percentages
+    # # ---------------
+    # # COL_RESULTS_PERC_STAFF_SUBMITTED, COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT not binned, not < 100%
+    # for column in cb.COLUMNS_STARS:
+    #     dset = utils.bin_percentages(
+    #         dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"
+    #     )
+    # logging.info("%s - bin percentages for %s", sname, cb.COLUMNS_STARS)
+
+    # # make all binned columns categorical
+    # dset = utils.make_columns_categorical(
+    #     dset,
+    #     [column for column in dset.columns if cb.COLUMN_NAME_BINNED_SUFFIX in column],
+    #     sname,
+    # )
 
     # drop the columns not relevant for current visualisations
     # --------------------------------------------------------
@@ -49,13 +57,6 @@ def preprocess_results(dset):
     )
 
     dset = utils.pivot_results_by_profile(dset, sname)
-
-    # make all binned columns categorical
-    dset = utils.make_columns_categorical(
-        dset,
-        [column for column in dset.columns if cb.COLUMN_NAME_BINNED_SUFFIX in column],
-        sname,
-    )
 
     # read and merge information from research groups
     # -----------------------------------------------

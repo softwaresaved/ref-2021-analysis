@@ -388,9 +388,10 @@ def pivot_results_by_profile(dset, sname):
         cb.COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT,
     ]
     columns_values.extend(cb.COLUMNS_STARS)
-    columns_values.extend(
-        [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_values[2:]]
-    )
+    # percentages are not binned
+    # columns_values.extend(
+    #     [f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}" for column in columns_values[2:]]
+    # )
     suffix = "profile"
 
     # columns to drop from the wide format because they are duplicates
