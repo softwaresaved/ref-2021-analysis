@@ -36,7 +36,6 @@ def preprocess_results(dset):
     # do not bin these percentages as it is not actually useful
     # # bin percentages
     # # ---------------
-    # # COL_RESULTS_PERC_STAFF_SUBMITTED, COL_RESULTS_TOTAL_FTE_SUBMITTED_JOINT not binned, not < 100%
     # for column in cb.COLUMNS_STARS:
     #     dset = utils.bin_percentages(
     #         dset, column, f"{column}{cb.COLUMN_NAME_BINNED_SUFFIX}"

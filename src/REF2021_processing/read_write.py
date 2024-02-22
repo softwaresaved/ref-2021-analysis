@@ -3,6 +3,7 @@ import os
 import logging
 import pandas as pd
 
+import REF2021_processing.codebook as cb
 
 PROJECT_PATH = os.path.dirname(os.path.abspath(__name__))
 
@@ -105,6 +106,11 @@ def extract_sheet(fpath, sname, header, index_col=None):
     # parse sheet
     dset = dobj.parse(sname, header=header, index_col=index_col)
     logging.info("%s - parsed sheet: %d records", sname, dset.shape[0])
+
+    dset[cb.COL_UOA_NAME] = (
+        dset[cb.COL_UOA_NUMBER].astype(str).str.zfill(2) + ": " + dset[cb.COL_UOA_NAME]
+    )
+    dset[cb.COL_UOA_NAME] = dset[cb.COL_UOA_NAME].astype('category')
 
     return dset
 

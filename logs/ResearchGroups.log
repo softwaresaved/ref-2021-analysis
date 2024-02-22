@@ -1,9 +1,9 @@
-2024-02-08 19:40:12,754 [INFO] ResearchGroups - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
-2024-02-08 19:40:12,808 [INFO] ResearchGroups - parsed sheet: 2036 records
-2024-02-08 19:40:12,809 [INFO] ResearchGroups - rename 'Main panel' to 'Main panel code'
-2024-02-08 19:40:12,810 [INFO] ResearchGroups - replace '['/', ':']' with '_' in 'Institution name'
-2024-02-08 19:40:12,811 [INFO] ResearchGroups - add columns for panel names
-2024-02-08 19:40:12,811 [INFO] ResearchGroups - make group code categorical
-2024-02-08 19:40:12,812 [INFO] ResearchGroups - drop columns '['Institution UKPRN code', 'Unit of assessment number', 'Main panel code']'
-2024-02-08 19:40:12,812 [INFO] ResearchGroups - make categorical ['Unit of assessment name', 'Main panel name', 'Multiple submission name', 'Joint submission', 'Multiple submission letter', 'Institution name']
-2024-02-08 19:40:12,824 [INFO] ResearchGroups - write dataset to 'data/processed/sheets/ResearchGroups.parquet'
+2024-02-22 17:25:00,260 [INFO] ResearchGroups - read sheet from 'data/raw/REF-2021-Submissions-All-2022-07-27.xlsx'
+2024-02-22 17:25:00,329 [INFO] ResearchGroups - parsed sheet: 2036 records
+2024-02-22 17:25:00,332 [INFO] ResearchGroups - rename 'Main panel' to 'Main panel code'
+2024-02-22 17:25:00,332 [INFO] ResearchGroups - replace '['/', ':']' with '_' in 'Institution name'
+2024-02-22 17:25:00,333 [INFO] ResearchGroups - add columns for panel names
+2024-02-22 17:25:00,333 [INFO] ResearchGroups - make group code categorical
+2024-02-22 17:25:00,334 [INFO] ResearchGroups - drop columns '['Main panel code', 'Institution UKPRN code', 'Unit of assessment number']'
+2024-02-22 17:25:00,334 [INFO] ResearchGroups - make categorical ['Institution name', 'Main panel name', 'Multiple submission letter', 'Multiple submission name', 'Unit of assessment name', 'Joint submission']
+2024-02-22 17:25:00,353 [INFO] ResearchGroups - write dataset to 'data/processed/sheets/ResearchGroups.parquet'
